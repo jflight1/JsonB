@@ -79,7 +79,7 @@ object VerseRangeParser extends JsonParser[VerseRange] {
     val verseTexts: Array[String] = numberText.split("-")
 
       def parse (verseText: String):VerseLocation = {
-        val colonIndex = numberText.indexOf(':')
+        val colonIndex = verseText.indexOf(':')
         val chapter = verseText.substring(0, colonIndex).toInt
         val verse = verseText.substring(colonIndex + 1).toInt
         VerseLocation(book, chapter, verse)

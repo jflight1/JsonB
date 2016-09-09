@@ -15,7 +15,7 @@ class DayReadingTest extends FunSuite {
 
 
 
-    val dayReadings: List[DayReading] = DayReadingParser.parseMonthFile("/todo.txt", 1)
+    val dayReadings: List[DayReading] = DayReadingParser.parseMonthFile("/months/01.txt", 1)
 
 //    val dayReadings: List[DayReading] = DayReadingParser.parseMonthFile("/months/01.txt", 1)
 

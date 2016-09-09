@@ -1,5 +1,7 @@
 package jsonb
 
+import java.io.InputStream
+
 import play.api.libs.json.{JsObject, Json}
 
 import scala.io.{BufferedSource, Source}
@@ -64,7 +66,10 @@ object DayReadingParser extends JsonParser[DayReading] {
 
 
   def parseMonthFile(fileName: String, month: Int): List[DayReading] = {
-    val lines: Iterator[String] = Source.fromFile(fileName).getLines()
+
+    val inputStream: InputStream = getClass.getResourceAsStream(fileName)
+    val bufferedSource: BufferedSource = io.Source.fromInputStream(inputStream)
+    val lines: Iterator[String] = bufferedSource.getLines()
     parseMonthFileLines(lines, month, 1)
   }
 
@@ -91,16 +96,22 @@ object DayReadingParser extends JsonParser[DayReading] {
     */
   private def parseMonthFileLine(line: String, month: Int, day: Int): DayReading = {
 
-    val rawVerseRanges = VerseRangeParser.parseMonthFileLine(line)
-    val verseRanges = combineVerseRanges(rawVerseRanges)
-    if (verseRanges.size != 4)
-      throw new Exception("Bad line: " + line)
+    try {
+      val rawVerseRanges = VerseRangeParser.parseMonthFileLine(line)
+      val verseRanges = combineVerseRanges(rawVerseRanges)
+      if (verseRanges.size != 4)
+        throw new Exception("Bad line: " + line)
 
-    DayReading(month, day,
-      verseRanges(0),
-      verseRanges(1),
-      verseRanges(2),
-      verseRanges(3))
+      DayReading(month, day,
+        verseRanges(0),
+        verseRanges(1),
+        verseRanges(2),
+        verseRanges(3))
+
+    }
+    catch {
+      case e: Exception => throw new Exception("Error parsing: " + line, e)
+    }
   }
 
 
