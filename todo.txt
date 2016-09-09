@@ -1,0 +1,55 @@
+
+
+To do
+-----
+
+- Make Book enum allow multiple names
+  - fromName should be as resilient as possible (case insensitive, trim, etc.)
+
+
+Notes
+-----
+
+
+daily reading format
+
+[
+  { // DayReading
+    month: 1,
+    day: 1,
+    old_testament: { // verseRange
+      start: { // verseLocation
+        book: "genesis",
+        chapter: 1
+        verse: 1
+      }
+      end: {
+        book: "genesis",
+        chapter: 1
+        verse: 28
+      }
+    }
+    new_testament: {
+      ...
+    }
+    psalms: {
+      ...
+    }
+    proverbs: {
+      ...
+    }
+  },
+  {
+    month: 1,
+    day: 2,
+    ...
+  },
+
+  ...
+
+]
+
+
+
+
+
