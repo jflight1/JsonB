@@ -43,18 +43,21 @@ object VerseRangeParser extends JsonParser[VerseRange] {
     *
     * Does not handle spanning >1 book: genesis+50:1-26;exodus+1:1-2:10
     */
-  def parseText(text: String): Option[VerseRange] = {
+  def parseText(text: String): VerseRange = {
 
     // do some sanity checking.
     // We expect exactly one '+'
-    if (countChar(text, '+') != 1) None
+    if (countChar(text, '+') != 1)
+      throw new Exception("Bad string: " + text)
 
     // We expect exactly one '-'
-    if (countChar(text, '-') != 1) None
+    if (countChar(text, '-') != 1)
+      throw new Exception("Bad string: " + text)
 
     // We expect 1 or 2 colons ':'
     val colonCount: Int = countChar(text, ':')
-    if (colonCount != 1 || colonCount != 2) None
+    if (colonCount != 1 && colonCount != 2)
+      throw new Exception("Bad string: " + text)
 
     // find the book
     val plusIndex = text.indexOf("+")
@@ -69,7 +72,7 @@ object VerseRangeParser extends JsonParser[VerseRange] {
       val verse1: Int = numberText.substring(colonIndex + 1, dashIndex).toInt
       val verse2: Int = numberText.substring(dashIndex + 1).toInt
 
-      Some(VerseRange(VerseLocation(book, chapter, verse1), VerseLocation(book, chapter, verse2)))
+      VerseRange(VerseLocation(book, chapter, verse1), VerseLocation(book, chapter, verse2))
     }
 
     else { // 16:1-18:15
@@ -82,11 +85,9 @@ object VerseRangeParser extends JsonParser[VerseRange] {
         VerseLocation(book, chapter, verse)
       }
 
-      Some(VerseRange(parse(verseTexts(0)), parse(verseTexts(1))))
+      VerseRange(parse(verseTexts(0)), parse(verseTexts(1)))
     }
   }
-
-
 
 
   /**
@@ -98,31 +99,17 @@ object VerseRangeParser extends JsonParser[VerseRange] {
     // VerseRange is just two VerseLocations, so we can turn the parts into a
     // List[VerseLocation]
     val parts: Array[String] = line.split(";")
-
-
+    linePartsToVerseRanges(parts)
   }
 
 
-  /**
-    * genesis+39:1-41:16;matthew+12:46-13:23;psalm+17:1-15;proverbs+3:33-35
-    */
-  private def linePartsToVerseLocations(parts: Array[String]): List[VerseLocation] = {
+  private def linePartsToVerseRanges(parts: Array[String]): List[VerseRange] = {
     if (parts.isEmpty)
       Nil
     else {
       val firstPart: String = parts.head
-      val verseRangeOption: Option[VerseRange] = VerseRangeParser.parseText(firstPart)
-      if (verseRangeOption.isDefined) {
-        val verseRange: VerseRange = verseRangeOption.get
-        verseRange.start :: verseRange.end :: linePartsToVerseLocations(parts.tail)
-      }
-
-      // if it's not a VerseRange, it must be a VerseLocation
-      else {
-        val verseLocationOption: Option[VerseLocation] = VerseLocationParser.parseText(firstPart)
-        val verseLocation: VerseLocation = verseLocationOption.get
-        verseLocation :: linePartsToVerseLocations(parts.tail)
-      }
+      val verseRange = VerseRangeParser.parseText(firstPart)
+      verseRange :: linePartsToVerseRanges(parts.tail)
     }
   }
 

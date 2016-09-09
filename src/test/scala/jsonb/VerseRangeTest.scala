@@ -48,7 +48,7 @@ class VerseRangeTest extends FunSuite {
 
 
   test("parseText one chapter") {
-    val verseRange: VerseRange = VerseRangeParser.parseText("matthew+11:7-30").get
+    val verseRange: VerseRange = VerseRangeParser.parseText("matthew+11:7-30")
 
     assert(verseRange.start.book == Books.Matthew)
     assert(verseRange.start.chapter == 11)
@@ -61,7 +61,7 @@ class VerseRangeTest extends FunSuite {
 
 
   test("parseText 2 chapters") {
-    val verseRange: VerseRange = VerseRangeParser.parseText("genesis+16:1-18:15").get
+    val verseRange: VerseRange = VerseRangeParser.parseText("genesis+16:1-18:15")
 
     assert(verseRange.start.book == Books.Genesis)
     assert(verseRange.start.chapter == 16)

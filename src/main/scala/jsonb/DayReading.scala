@@ -64,14 +64,11 @@ object DayReadingParser extends JsonParser[DayReading] {
   def parseMonthFile(fileName: String, month: Int): List[DayReading] = ???
 
 
-  def parseMonthFileLine(line: String, month: Int): DayReading = {
-    // each part is either a VerseRange or VerseLocation.
-    // VerseRange is just two VerseLocations, so we can turn the parts into a
-    // List[VerseLocation]
-    val parts: Array[String] = line.split(";")
-
-
-  }
+  /**
+    * Parse a line like this:
+    *   genesis+39:1-41:16;matthew+12:46-13:23;psalm+17:1-15;proverbs+3:33-35
+    */
+  def parseMonthFileLine(line: String, month: Int): DayReading = ???
 
 
 
