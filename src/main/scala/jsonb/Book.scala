@@ -17,18 +17,18 @@ case class Book(name: String, bookType: BookType) {
 
 object Books {
   private val Old: BookType = BookType.OldTestament
-  val Genesis = new Book("genesis", Old)
-  val Exodus = new Book("exodus", Old)
+  val Genesis = Book("genesis", Old)
+  val Exodus = Book("exodus", Old)
 
   private val New: BookType = BookType.NewTestament
-  val Matthew = new Book("matthew", New)
+  val Matthew = Book("matthew", New)
 
   val Psalms = new Book("psalms", BookType.Psalms) {
     override def nameMatches(s: String): Boolean = s.toLowerCase.contains("psalm") // accept psalm or psalms
   }
 
 
-  val Proverbs = new Book("proverbs", BookType.Proverbs)
+  val Proverbs = Book("proverbs", BookType.Proverbs)
 
   val allBooks = List(
     Genesis, Exodus,
