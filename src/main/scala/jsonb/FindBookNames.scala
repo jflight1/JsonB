@@ -12,7 +12,7 @@ import scala.io.BufferedSource
   */
 object FindBookNames {
 
-  private def findAll(): (Set[String], Set[String]) = {
+  private def findAll(): (List[String], List[String]) = {
     val iMonths = 1 to 12
 
     //  List of file names like: "/months/txt/08.txt"
@@ -21,45 +21,61 @@ object FindBookNames {
       "/months/txt/" + sMonthNum + ".txt"
     }).toList
 
-    findAll(monthFileNames, Set.empty[String], Set.empty[String])
+    findAll(monthFileNames, Nil, Nil)
   }
 
-  private def findAll(monthFileNames: List[String], oldTestamentSet: Set[String], newTestamentSet: Set[String])
-  : (Set[String], Set[String]) = {
+  private def findAll(monthFileNames: List[String], oldTestamentList: List[String], newTestamentList: List[String])
+  : (List[String], List[String]) = {
 
     monthFileNames match {
-      case Nil => (oldTestamentSet, newTestamentSet)
+      case Nil => (oldTestamentList, newTestamentList)
       case monthFileName :: theRest => {
-
-        (oldTestamentSet, newTestamentSet)
+        val tuple: (List[String], List[String]) = findAll(monthFileName, oldTestamentList, newTestamentList)
+        findAll(theRest, tuple._1, tuple._2)
       }
     }
-
   }
 
-  private def findAll(monthFileName: String, oldTestamentSet: Set[String], newTestamentSet: Set[String])
-  : (Set[String], Set[String]) = {
+  private def findAll(monthFileName: String, oldTestamentList: List[String], newTestamentList: List[String])
+  : (List[String], List[String]) = {
     val inputStream: InputStream = getClass.getResourceAsStream(monthFileName)
     val bufferedSource: BufferedSource = io.Source.fromInputStream(inputStream)
     val lines: Iterator[String] = bufferedSource.getLines()
-    findAll(lines, oldTestamentSet, newTestamentSet)
-
-    jlf finish
+    findAll(lines, oldTestamentList, newTestamentList)
   }
 
-  private def findAll(lines: Iterator[String], oldTestamentSet: Set[String], newTestamentSet: Set[String])
-  : (Set[String], Set[String]) = {
+
+  private def findAll(lines: Iterator[String], oldTestamentList: List[String], newTestamentList: List[String])
+  : (List[String], List[String]) = {
+
+    def addToListIfDifferent(list: List[String], s: String): List[String] =
+      if (list.isEmpty || list.head != s)
+        s :: list
+      else
+        list
 
     if (lines.hasNext) {
+      // read the line and if the books are new, add to list
       val oldAndNew: (String, String) = find(lines.next())
-      findAll(lines, oldTestamentSet + oldAndNew._1, newTestamentSet + oldAndNew._2)
+      val oldTestamentList2 = addToListIfDifferent(oldTestamentList, oldAndNew._1)
+      val newTestamentList2 = addToListIfDifferent(newTestamentList, oldAndNew._2)
+      findAll(lines, oldTestamentList2, newTestamentList2)
     }
     else {
-      (oldTestamentSet, newTestamentSet)
+      (oldTestamentList, newTestamentList)
     }
 
   }
 
+
+  /**
+    * Parse line like:
+    *   exodus+29:1-30:10;matthew+26:14-46;psalm+31:19-24;proverbs+8:14-26
+    * and return ("exodus", "matthew")
+    *
+    * We could get lines like this:
+    *   genesis+50:1-26;exodus+1:1-2:10;matthew+16:13-17:9;psalm+21:1-13;proverbs+5:1-6
+    */
   private def find(line: String): (String, String) = {
 
     ("", "")
