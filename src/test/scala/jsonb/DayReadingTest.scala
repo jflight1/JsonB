@@ -12,7 +12,7 @@ import play.api.libs.json.{JsArray, JsObject, Json}
 class DayReadingTest extends FunSuite {
 
   test("parseMonthFile") {
-    val dayReadings: List[DayReading] = DayReadingParser.parseMonthFile("/months/01.txt", 1)
+    val dayReadings: List[DayReading] = DayReadingParser.parseMonthFile("/months/txt/01.txt", 1)
 
     assertEquals(31, dayReadings.size)
 
