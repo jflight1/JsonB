@@ -1,6 +1,6 @@
 package jsonb
 
-import java.io.{StringWriter, InputStream}
+import java.io.{PrintWriter, StringReader, StringWriter, InputStream}
 
 import scala.io.BufferedSource
 
@@ -17,10 +17,15 @@ object GenerateMonthsJson {
       val dayReadings: List[DayReading] = DayReadingParser.parseMonthFile(inFileName, i)
       val json: String = JsonHelper.listToJson(dayReadings)
 
-//      val stringWriter: StringWriter = new StringWriter(json)
-      print(json)
+      val outFileName = "C:\\jflight\\software\\JsonB\\src\\main\\resources\\months\\json\\" + sMonthNum + ".json"
+
+      val printWriter: PrintWriter = new PrintWriter(outFileName)
+      printWriter.println(json)
+      printWriter.close()
+      println(i)
     })
 
+    print("done")
   }
 
 
