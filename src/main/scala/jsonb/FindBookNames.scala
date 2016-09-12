@@ -91,9 +91,14 @@ object FindBookNames {
 
     val allBooks: (List[String], List[String]) = findAll()
 
-    allBooks._1.foreach(book => println(book))
+    // Book("matthew", New)
+    allBooks._1
+      .map(b => "Book(\""+ b + "\", Old),")
+      .foreach(book => println(book))
     println
-    allBooks._2.foreach(book => println(book))
+    allBooks._2
+      .map(b => "Book(\""+ b + "\", New),")
+      .foreach(book => println(book))
 
 
 
