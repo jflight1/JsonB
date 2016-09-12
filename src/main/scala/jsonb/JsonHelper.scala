@@ -1,6 +1,6 @@
 package jsonb
 
-import play.api.libs.json.JsObject
+import play.api.libs.json.{JsArray, JsObject, Json}
 
 
 /**
@@ -18,5 +18,13 @@ object JsonHelper {
     (jsObject \ field).as[JsObject]
 
 
+  /**
+    * Generate json text for a List of ToJson objects
+    */
+  def listToJson[T <: ToJson](list: List[T]): String = {
+    val jsObjects: List[JsObject] = list.map(dayReading => dayReading.toJsObject)
+    val jsArray: JsArray = Json.arr(jsObjects)
+    Json.prettyPrint(jsArray)
+  }
 }
 

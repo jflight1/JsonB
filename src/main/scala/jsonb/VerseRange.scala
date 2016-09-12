@@ -50,8 +50,9 @@ object VerseRangeParser extends JsonParser[VerseRange] {
     if (countChar(text, '+') != 1)
       throw new Exception("Bad string: " + text)
 
-    // We expect exactly one '-'
-    if (countChar(text, '-') != 1)
+    // We expect 0 or 1 dashes '-'
+    val dashCount: Int = countChar(text, '-')
+    if (dashCount != 0 && dashCount != 1)
       throw new Exception("Bad string: " + text)
 
     // We expect 1 or 2 colons ':'
@@ -65,18 +66,25 @@ object VerseRangeParser extends JsonParser[VerseRange] {
     val book = Books.fromName(bookName)
 
     val numberText = text.substring(plusIndex + 1)
-    if (colonCount == 1) { // 11:7-30
-    val colonIndex = numberText.indexOf(':')
+
+    if (numberText.indexOf('-') == -1) { // no dash: 11:7
+      val colonIndex = numberText.indexOf(':')
+      val chapter: Int = numberText.substring(0, colonIndex).toInt
+      val verse: Int = numberText.substring(colonIndex + 1).toInt
+      VerseRange(VerseLocation(book, chapter, verse), VerseLocation(book, chapter, verse))
+    }
+
+    else if (colonCount == 1) { // 11:7-30
+      val colonIndex = numberText.indexOf(':')
       val dashIndex = numberText.indexOf('-')
       val chapter: Int = numberText.substring(0, colonIndex).toInt
       val verse1: Int = numberText.substring(colonIndex + 1, dashIndex).toInt
       val verse2: Int = numberText.substring(dashIndex + 1).toInt
-
       VerseRange(VerseLocation(book, chapter, verse1), VerseLocation(book, chapter, verse2))
     }
 
     else { // 16:1-18:15
-    val verseTexts: Array[String] = numberText.split("-")
+      val verseTexts: Array[String] = numberText.split("-")
 
       def parse (verseText: String):VerseLocation = {
         val colonIndex = verseText.indexOf(':')

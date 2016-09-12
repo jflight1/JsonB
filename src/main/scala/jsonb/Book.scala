@@ -68,7 +68,7 @@ object Books {
     Book("haggai", Old),
     Book("zechariah", Old),
     Book("malachi", Old),
-    
+
     Book("matthew", New),
     Book("mark", New),
     Book("luke", New),
