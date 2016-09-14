@@ -51,5 +51,34 @@ daily reading format
 
 
 
+9/12
 
+https://www.biblegateway.com/passage/?search=judges+13%3A1-14%3A20%3Bjohn+1%3A29-51%3Bpsalm+102%3A1-28%3Bproverbs+14%3A15-16&version=NIV&resource=reformation-study-bible
+
+https://www.biblegateway.com/passage/?search=judges+13%3A1-14%3A20%3Bjohn+1%3A29-51%3Bpsalm+102%3A1-28%3Bproverbs+14%3A15-16&version=NIV&resource_entry=reformation-study-bible/Judg.13-Judg.16
+
+
+
+9/14
+
+
+
+jsonb
+
+https://www.biblegateway.com/exbib is the biblegateway rest api
+
+rsb note in json:
+https://www.biblegateway.com/exbib/?pub=reformation-study-bible&chunk=187165
+https://www.biblegateway.com/exbib/contents/?osis=Ruth.2.7
+https://www.biblegateway.com/exbib/contents/?osis=Ruth.1.1-Ruth.4.22 -->
+	  {
+	    "title": "Ruth 4:18\u201322",
+	    "permalink": "Ruth.4.18-Ruth.4.22",
+	    "id": "187307"
+	  }
+
+https://www.biblegateway.com/exbib/?pub=reformation-study-bible&chunk=187307
+
+
+	
 
