@@ -7,9 +7,13 @@ import scala.io.BufferedSource
 /**
   * Reads the month txt files to find the names of all the books
   */
-object FindBookNames {
+object FindOneYearBibleBookNames {
 
-  private def findAll(): (List[String], List[String]) = {
+  /**
+    * Returns a tupple containing the list of old testament books and
+    * the list of new testament books
+    */
+  def findAll(): (List[String], List[String]) = {
     val iMonths = 1 to 12
 
     //  List of file names like: "/months/txt/08.txt"

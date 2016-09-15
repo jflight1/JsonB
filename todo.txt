@@ -3,8 +3,32 @@
 To do
 -----
 
-- Make Book enum allow multiple names
-  - fromName should be as resilient as possible (case insensitive, trim, etc.)
+
+- BookInfo should replace Book.  The name matching stuff would have to move.
+BookInfo was going to be serializable though...
+
+- get all reformation study bible data
+  - get json from a web url
+  - need naming info for books
+    {
+      oneYearBibleName: "1corinthians",
+      bibleGatewayName: "1 Corinthians",
+      exbibName: "1Cor",
+      nivJsonName: "1 Corinthians"
+    },
+    {
+      oneYearBibleName: "song",
+      bibleGatewayName: "Song of Songs",
+      exbibName: "Song",
+      nivJsonName: "Song of Solomon"
+    }
+    - only need bibleGatewayName, exbibName right now
+      - need mapping from bibleGatewayName --> exbibName
+  - get chunk ids for the notes for every book:
+    https://www.biblegateway.com/exbib/contents/?osis=Ruth.1.1-Ruth.100.100
+  - get the notes for all chunk ids
+    https://www.biblegateway.com/exbib/?pub=reformation-study-bible&chunk=187307
+
 
 
 Notes
@@ -78,6 +102,13 @@ https://www.biblegateway.com/exbib/contents/?osis=Ruth.1.1-Ruth.4.22 -->
 	  }
 
 https://www.biblegateway.com/exbib/?pub=reformation-study-bible&chunk=187307
+
+
+this works so we don't need to know how many chapters or verse each book has:
+  https://www.biblegateway.com/exbib/contents/?osis=Ruth.1.1-Ruth.100.100
+
+
+
 
 
 	
