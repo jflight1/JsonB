@@ -6,10 +6,10 @@ import org.scalatest.junit.JUnitRunner
 
 
 @RunWith(classOf[JUnitRunner])
-class VerseLocationTest extends FunSuite {
+class SingleVerseTest extends FunSuite {
 
   test("toJson") {
-    val jsonString: String = VerseLocation(Books.Genesis, 3, 4).toJson
+    val jsonString: String = SingleVerse(Books.Genesis, 3, 4).toJson
     val expected = "{\r\n  \"book\" : \"genesis\",\r\n  \"chapter\" : 3,\r\n  \"verse\" : 4\r\n}";
     assert(jsonString == expected)
   }
@@ -23,11 +23,11 @@ class VerseLocationTest extends FunSuite {
         "  \"verse\" : 2 " +
         "} "
 
-    val verseLocation: VerseLocation = VerseLocationParser.parse(jsonString)
+    val singleVerse: SingleVerse = SingleVerseParser.parse(jsonString)
 
-    assert(verseLocation.book == Books.Genesis)
-    assert(verseLocation.chapter == 1)
-    assert(verseLocation.verse == 2)
+    assert(singleVerse.book == Books.Genesis)
+    assert(singleVerse.chapter == 1)
+    assert(singleVerse.verse == 2)
   }
 
 }

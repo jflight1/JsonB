@@ -13,7 +13,7 @@ import scala.io.{BufferedSource, Source}
     month: 1,
     day: 1,
     old_testament: { // verseRange
-      start: { // verseLocation
+      start: { // SingleVerse
         book: "genesis",
         chapter: 1
         verse: 1

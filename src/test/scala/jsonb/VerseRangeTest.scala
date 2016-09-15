@@ -11,7 +11,7 @@ class VerseRangeTest extends FunSuite {
 
   test("toJson") {
 
-    val jsonString = VerseRange(VerseLocation(Books.Genesis, 1, 2), VerseLocation(Books.Exodus, 3, 4))
+    val jsonString = VerseRange(SingleVerse(Books.Genesis, 1, 2), SingleVerse(Books.Exodus, 3, 4))
       .toJson
 
     val expected = "{\r\n  \"start\" : {\r\n    \"book\" : \"genesis\",\r\n    \"chapter\" : 1,\r\n    \"verse\" : 2\r\n  },\r\n  \"end\" : {\r\n    \"book\" : \"exodus\",\r\n    \"chapter\" : 3,\r\n    \"verse\" : 4\r\n  }\r\n}"
@@ -38,7 +38,7 @@ class VerseRangeTest extends FunSuite {
     val verseRange: VerseRange = VerseRangeParser.parse(jsonString)
 
     val expected: VerseRange = VerseRange(
-      VerseLocation(Books.Genesis, 1, 2), VerseLocation(Books.Exodus, 3, 4))
+      SingleVerse(Books.Genesis, 1, 2), SingleVerse(Books.Exodus, 3, 4))
     assertVerseRangesEqual(expected, verseRange)
   }
 
@@ -48,7 +48,7 @@ class VerseRangeTest extends FunSuite {
     val verseRange: VerseRange = VerseRangeParser.parseText("matthew+11:7-30")
 
     val expected: VerseRange = VerseRange(
-      VerseLocation(Books.Matthew, 11, 7), VerseLocation(Books.Matthew, 11, 30))
+      SingleVerse(Books.Matthew, 11, 7), SingleVerse(Books.Matthew, 11, 30))
     assertVerseRangesEqual(expected, verseRange)
   }
 
@@ -57,7 +57,7 @@ class VerseRangeTest extends FunSuite {
     val verseRange: VerseRange = VerseRangeParser.parseText("genesis+16:1-18:15")
 
     val expected: VerseRange = VerseRange(
-      VerseLocation(Books.Genesis, 16, 1), VerseLocation(Books.Genesis, 18, 15))
+      SingleVerse(Books.Genesis, 16, 1), SingleVerse(Books.Genesis, 18, 15))
     assertVerseRangesEqual(expected, verseRange)
   }
 
@@ -65,7 +65,7 @@ class VerseRangeTest extends FunSuite {
   test("parseText one verse") {
     val verseRange: VerseRange = VerseRangeParser.parseText("proverbs+10:5")
     val expected: VerseRange = VerseRange(
-      VerseLocation(Books.Proverbs, 10, 5), VerseLocation(Books.Proverbs, 10, 5))
+      SingleVerse(Books.Proverbs, 10, 5), SingleVerse(Books.Proverbs, 10, 5))
     assertVerseRangesEqual(expected, verseRange)
 
   }
@@ -77,15 +77,15 @@ class VerseRangeTest extends FunSuite {
       .parseMonthFileLine("genesis+39:1-41:16;matthew+12:46-13:23;psalm+17:1-15")
 
     assertVerseRangesEqual(VerseRange(
-      VerseLocation(Books.Genesis, 39, 1), VerseLocation(Books.Genesis, 39, 41)),
+      SingleVerse(Books.Genesis, 39, 1), SingleVerse(Books.Genesis, 39, 41)),
       verseRanges(0))
 
     assertVerseRangesEqual(VerseRange(
-      VerseLocation(Books.Matthew, 12, 46), VerseLocation(Books.Matthew, 12, 13)),
+      SingleVerse(Books.Matthew, 12, 46), SingleVerse(Books.Matthew, 12, 13)),
       verseRanges(1))
 
     assertVerseRangesEqual(VerseRange(
-      VerseLocation(Books.Psalms, 17, 1), VerseLocation(Books.Psalms, 17, 15)),
+      SingleVerse(Books.Psalms, 17, 1), SingleVerse(Books.Psalms, 17, 15)),
       verseRanges(2))
 
 
@@ -98,9 +98,9 @@ class VerseRangeTest extends FunSuite {
     */
   /*
     def parseMonthFileLine(line: String): List[VerseRange] = {
-      // each part is either a VerseRange or VerseLocation.
-      // VerseRange is just two VerseLocations, so we can turn the parts into a
-      // List[VerseLocation]
+      // each part is either a VerseRange or SingleVerse.
+      // VerseRange is just two SingleVerses, so we can turn the parts into a
+      // List[SingleVerse]
       val parts: Array[String] = line.split(";")
       linePartsToVerseRanges(parts)
     }

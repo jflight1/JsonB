@@ -6,11 +6,11 @@ import play.api.libs.json.{JsObject, Json}
 /**
   * Created by jflight on 9/3/2016.
   */
-case class VerseRange(start: VerseLocation, end: VerseLocation) extends ToJson {
+case class VerseRange(start: SingleVerse, end: SingleVerse) extends ToJson {
 
   def this(jsObject: JsObject) = {
-    this(new VerseLocation((jsObject \ "start").as[JsObject]),
-      new VerseLocation((jsObject \ "end").as[JsObject]))
+    this(new SingleVerse((jsObject \ "start").as[JsObject]),
+      new SingleVerse((jsObject \ "end").as[JsObject]))
   }
 
 
@@ -71,7 +71,7 @@ object VerseRangeParser extends JsonParser[VerseRange] {
       val colonIndex = numberText.indexOf(':')
       val chapter: Int = numberText.substring(0, colonIndex).toInt
       val verse: Int = numberText.substring(colonIndex + 1).toInt
-      VerseRange(VerseLocation(book, chapter, verse), VerseLocation(book, chapter, verse))
+      VerseRange(SingleVerse(book, chapter, verse), SingleVerse(book, chapter, verse))
     }
 
     else if (colonCount == 1) { // 11:7-30
@@ -80,17 +80,17 @@ object VerseRangeParser extends JsonParser[VerseRange] {
       val chapter: Int = numberText.substring(0, colonIndex).toInt
       val verse1: Int = numberText.substring(colonIndex + 1, dashIndex).toInt
       val verse2: Int = numberText.substring(dashIndex + 1).toInt
-      VerseRange(VerseLocation(book, chapter, verse1), VerseLocation(book, chapter, verse2))
+      VerseRange(SingleVerse(book, chapter, verse1), SingleVerse(book, chapter, verse2))
     }
 
     else { // 16:1-18:15
       val verseTexts: Array[String] = numberText.split("-")
 
-      def parse (verseText: String):VerseLocation = {
+      def parse (verseText: String):SingleVerse = {
         val colonIndex = verseText.indexOf(':')
         val chapter = verseText.substring(0, colonIndex).toInt
         val verse = verseText.substring(colonIndex + 1).toInt
-        VerseLocation(book, chapter, verse)
+        SingleVerse(book, chapter, verse)
       }
 
       VerseRange(parse(verseTexts(0)), parse(verseTexts(1)))
@@ -103,9 +103,9 @@ object VerseRangeParser extends JsonParser[VerseRange] {
     *   genesis+39:1-41:16;matthew+12:46-13:23;psalm+17:1-15;proverbs+3:33-35
     */
   def parseMonthFileLine(line: String): List[VerseRange] = {
-    // each part is either a VerseRange or VerseLocation.
-    // VerseRange is just two VerseLocations, so we can turn the parts into a
-    // List[VerseLocation]
+    // each part is either a VerseRange or SingleVerse.
+    // VerseRange is just two SingleVerses, so we can turn the parts into a
+    // List[SingleVerse]
     val parts: Array[String] = line.split(";")
     linePartsToVerseRanges(parts)
   }

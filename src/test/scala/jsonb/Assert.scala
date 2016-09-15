@@ -13,7 +13,7 @@ import org.junit.Assert._
 object Assert {
 
 
-  def assertVerseLocationsEqual(expected: VerseLocation, actual: VerseLocation) = {
+  def assertSingleVersesEqual(expected: SingleVerse, actual: SingleVerse) = {
     assertEquals(expected.book, actual.book)
     assertEquals(expected.chapter, actual.chapter)
     assertEquals(expected.verse, actual.verse)
