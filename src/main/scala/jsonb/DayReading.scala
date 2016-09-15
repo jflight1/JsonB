@@ -8,7 +8,34 @@ import scala.io.{BufferedSource, Source}
 
 
 /**
-  * Created by jflight on 9/3/2016.
+
+  { // DayReading
+    month: 1,
+    day: 1,
+    old_testament: { // verseRange
+      start: { // verseLocation
+        book: "genesis",
+        chapter: 1
+        verse: 1
+      }
+      end: {
+        book: "genesis",
+        chapter: 1
+        verse: 28
+      }
+    }
+    new_testament: {
+      ...
+    }
+    psalms: {
+      ...
+    }
+    proverbs: {
+      ...
+    }
+  },
+
+
   */
 
 private object Keys {

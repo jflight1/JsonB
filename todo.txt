@@ -4,26 +4,32 @@ To do
 -----
 
 
+ReformationStudyBibleNote
+  - content
+    - verses to which the note applies
+      Make trait for VerseLocation and VerseRange
+        VerseLocation --> SingleVerse
+        trait VerseLocation
+      List[VerseLocation]
+    - html text
+    - chunk id
+    - title
+
+
+    - location: could be
+      1 verse
+      verse range
+      multiple individual verses.  Matt 2:3,5,8
+    - html text
+    - chunk id
+  - operations
+    - for a given verse range, maps each verse in that range to a set of notes
+
 - BookInfo should replace Book.  The name matching stuff would have to move.
 BookInfo was going to be serializable though...
 
 - get all reformation study bible data
   - get json from a web url
-  - need naming info for books
-    {
-      oneYearBibleName: "1corinthians",
-      bibleGatewayName: "1 Corinthians",
-      exbibName: "1Cor",
-      nivJsonName: "1 Corinthians"
-    },
-    {
-      oneYearBibleName: "song",
-      bibleGatewayName: "Song of Songs",
-      exbibName: "Song",
-      nivJsonName: "Song of Solomon"
-    }
-    - only need bibleGatewayName, exbibName right now
-      - need mapping from bibleGatewayName --> exbibName
   - get chunk ids for the notes for every book:
     https://www.biblegateway.com/exbib/contents/?osis=Ruth.1.1-Ruth.100.100
   - get the notes for all chunk ids
@@ -35,43 +41,6 @@ Notes
 -----
 
 
-daily reading format
-
-[
-  { // DayReading
-    month: 1,
-    day: 1,
-    old_testament: { // verseRange
-      start: { // verseLocation
-        book: "genesis",
-        chapter: 1
-        verse: 1
-      }
-      end: {
-        book: "genesis",
-        chapter: 1
-        verse: 28
-      }
-    }
-    new_testament: {
-      ...
-    }
-    psalms: {
-      ...
-    }
-    proverbs: {
-      ...
-    }
-  },
-  {
-    month: 1,
-    day: 2,
-    ...
-  },
-
-  ...
-
-]
 
 
 
@@ -108,7 +77,21 @@ this works so we don't need to know how many chapters or verse each book has:
   https://www.biblegateway.com/exbib/contents/?osis=Ruth.1.1-Ruth.100.100
 
 
+9/15
 
+  - May need more naming info in BookInfo
+    {
+      oneYearBibleName: "1corinthians",
+      bibleGatewayName: "1 Corinthians",
+      exbibName: "1Cor",
+      nivJsonName: "1 Corinthians"
+    },
+    {
+      oneYearBibleName: "song",
+      bibleGatewayName: "Song of Songs",
+      exbibName: "Song",
+      nivJsonName: "Song of Solomon"
+    }
 
 
 	
