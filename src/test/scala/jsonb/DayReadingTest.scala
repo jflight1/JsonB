@@ -44,11 +44,12 @@ class DayReadingTest extends FunSuite {
       dayReadings(30))
 
 
+/*
     val jsObjects: List[JsObject] = dayReadings.map(dayReading => dayReading.toJsObject)
-
     val jsArray: JsArray = Json.arr(jsObjects)
     val json: String = Json.prettyPrint(jsArray)
     print(json)
+*/
 
   }
 

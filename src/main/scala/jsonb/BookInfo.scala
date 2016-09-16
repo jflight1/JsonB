@@ -8,7 +8,6 @@ import scala.io.BufferedSource
 case class BookInfo(oneYearBibleName: String, exbibName: String, numChapters: Int)
 
 
-
 object BookInfoFactory {
   def generateAllBookInfos(): List[BookInfo] = {
 
