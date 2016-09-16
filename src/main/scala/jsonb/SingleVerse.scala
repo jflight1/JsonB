@@ -6,7 +6,8 @@ import play.api.libs.json._
 /**
   * Created by jflight on 9/3/2016.
   */
-case class SingleVerse(book: Book, chapter: Int, verse: Int) extends ToJson {
+case class SingleVerse(book: Book, chapter: Int, verse: Int)
+  extends VerseLocation {
 
   def this(jsObject: JsObject) = {
     this(Books.fromName((jsObject \ "book").as[String]),
@@ -35,8 +36,6 @@ object SingleVerseParser extends JsonParser[SingleVerse] {
     val jsObject: JsObject = Json.parse(json).as[JsObject]
     new SingleVerse(jsObject)
   }
-
-  def parseText(text: String): Option[SingleVerse] = ???
 
 
 

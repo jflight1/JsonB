@@ -6,7 +6,8 @@ import play.api.libs.json.{JsObject, Json}
 /**
   * Created by jflight on 9/3/2016.
   */
-case class VerseRange(start: SingleVerse, end: SingleVerse) extends ToJson {
+case class VerseRange(start: SingleVerse, end: SingleVerse)
+  extends VerseLocation {
 
   def this(jsObject: JsObject) = {
     this(new SingleVerse((jsObject \ "start").as[JsObject]),

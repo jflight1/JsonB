@@ -5,15 +5,30 @@ To do
 
 
 ReformationStudyBibleNote
-  - content
-    - verses to which the note applies
-      Make trait for VerseLocation and VerseRange
-        VerseLocation --> SingleVerse
-        trait VerseLocation
-      List[VerseLocation]
-    - html text
-    - chunk id
-    - title
+
+  - json
+    - a file for each book
+    - a file is an array of ReformationStudyBibleNotes
+    - to generate json files
+      for each book
+        get chunk ids for all notes in the book:
+          https://www.biblegateway.com/exbib/contents/?osis=Ruth.1.1-Ruth.100.100
+        parse out the chunk ids from the json
+        write chunkids to a file
+          resources/rsb/ids/ruth.txt
+
+      for each book
+        get chunk ids for all notes in the book:
+          https://www.biblegateway.com/exbib/contents/?osis=Ruth.1.1-Ruth.100.100
+        parse out the chunk ids from the json
+        for each chuck id
+          get the note
+            https://www.biblegateway.com/exbib/?pub=reformation-study-bible&chunk=187307
+          parse into a ReformationStudyBibleNote
+            { data { studybible [ { where "title": "Reformation Study Bible" { entries [ { "id": "187259"
+            handle all possible VerseLocation possibilities
+        write List[ReformationStudyBibleNote] as json to the file
+
 
 
     - location: could be
