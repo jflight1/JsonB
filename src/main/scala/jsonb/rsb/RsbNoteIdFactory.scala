@@ -10,55 +10,8 @@ import scala.io.Source
 
 
 
-/**
-  * Created by jflight on 9/15/2016.
-  */
-case class ReformationStudyBibleNote(verseLocations: Seq[VerseLocation],
-                                     id: Long,
-                                     title: String,
-                                     html: String)
-  extends ToJson {
+object RsbNoteIdFactory {
 
-  def this(jsObject: JsObject) = {
-    this(
-      Nil,
-      (jsObject \ "id").as[Long],
-      (jsObject \ "title").as[String],
-      (jsObject \ "html").as[String])
-
-//    (jsObject \ "verseLocations").as[JsArray].value.map(jsObject => )
-  }
-
-
-  override def toJsObject: JsObject = Json.obj(
-    "id" -> id,
-    "title" -> title,
-    "html" -> html)
-
-
-  override def toJson: String = Json.prettyPrint(toJsObject)
-
-
-}
-
-
-
-object ReformationStudyBibleNoteFactory extends JsonParser[ReformationStudyBibleNote] {
-
-
-
-  //////////////    json
-
-  override def parse(jsObject: JsObject): ReformationStudyBibleNote = new ReformationStudyBibleNote(jsObject)
-
-  override def parse(json: String): ReformationStudyBibleNote = {
-    val jsObject: JsObject = Json.parse(json).as[JsObject]
-    new ReformationStudyBibleNote(jsObject)
-  }
-
-
-
-  //////////////    methods below deal with the note ids
 
 
   /**
