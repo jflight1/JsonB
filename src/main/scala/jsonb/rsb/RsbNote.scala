@@ -5,8 +5,9 @@ import play.api.libs.json._
 
 
 /**
-  * This class represents the json for a Reformation Study Bible note.  Our json representation is different from
-  * what we get from the web.  We represent those with RsbNoteWeb.
+  * This class represents the json for a Reformation Study Bible note.  Our json
+  * representation is different from what we get from the web.  We represent those
+  * with RsbNoteWeb.
   */
 case class RsbNote(verseLocations: Seq[VerseLocation],
                    id: Long,

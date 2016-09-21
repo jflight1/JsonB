@@ -4,31 +4,22 @@ To do
 -----
 
 
-ReformationStudyBibleNote --> RsbNoteWeb json we get from web
-RsbNote our own json format
 
   - json
     - a file for each book
-    - a file is an array of ReformationStudyBibleNotes
+    - a file is an array of RsbNotes
     - to generate json files
-      for each book
-        get chunk ids for all notes in the book:
-          https://www.biblegateway.com/exbib/contents/?osis=Ruth.1.1-Ruth.100.100
-        parse out the chunk ids from the json
-        write chunkids to a file
-          resources/rsb/ids/ruth.txt
 
       for each book
-        get chunk ids for all notes in the book:
-          https://www.biblegateway.com/exbib/contents/?osis=Ruth.1.1-Ruth.100.100
-        parse out the chunk ids from the json
+        open chunk id file
         for each chuck id
           get the note
             https://www.biblegateway.com/exbib/?pub=reformation-study-bible&chunk=187307
-          parse into a ReformationStudyBibleNote
-            { data { studybible [ { where "title": "Reformation Study Bible" { entries [ { "id": "187259"
-            handle all possible VerseLocation possibilities
-        write List[ReformationStudyBibleNote] as json to the file
+            parse into a RsbNoteWeb
+              { data { studybible [ { where "title": "Reformation Study Bible" { entries [ { "id": "187259"
+              handle all possible VerseLocation possibilities
+            map RsbNoteWeb --> RsbNote
+        write List[RsbNote] as json to the file: ruth_notes.json
 
 
 
