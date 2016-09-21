@@ -9,31 +9,31 @@ import scala.io.{BufferedSource, Source}
 
 /**
 
-  { // DayReading
-    month: 1,
-    day: 1,
-    old_testament: { // verseRange
-      start: { // SingleVerse
-        book: "genesis",
-        chapter: 1
-        verse: 1
-      }
-      end: {
-        book: "genesis",
-        chapter: 1
-        verse: 28
-      }
-    }
-    new_testament: {
-      ...
-    }
-    psalms: {
-      ...
-    }
-    proverbs: {
-      ...
-    }
-  },
+  * { // DayReading
+  * month: 1,
+  * day: 1,
+  * old_testament: { // verseRange
+  * start: { // SingleVerse
+  * book: "genesis",
+  * chapter: 1
+  * verse: 1
+  * }
+  * end: {
+  * book: "genesis",
+  * chapter: 1
+  * verse: 28
+  * }
+  * }
+  * new_testament: {
+  * ...
+  * }
+  * psalms: {
+  * ...
+  * }
+  * proverbs: {
+  * ...
+  * }
+  * },
 
 
   */
@@ -54,42 +54,28 @@ case class DayReading(month: Int,
                       newTestament: VerseRange,
                       psalms: VerseRange,
                       proverbs: VerseRange
-                     ) extends ToJson {
+                     )
 
 
-
-  def this(jsObject: JsObject) = {
-    this(
-      JsonHelper.getInt(jsObject, Keys.MONTH),
-      JsonHelper.getInt(jsObject, Keys.DAY),
-      VerseRangeParser.parse(JsonHelper.getJsObject(jsObject, Keys.OLD_TESTAMENT)),
-      VerseRangeParser.parse(JsonHelper.getJsObject(jsObject, Keys.NEW_TESTAMENT)),
-      VerseRangeParser.parse(JsonHelper.getJsObject(jsObject, Keys.PSALMS)),
-      VerseRangeParser.parse(JsonHelper.getJsObject(jsObject, Keys.PROVERBS)))
-  }
-
-  override def toJsObject: JsObject = Json.obj(
-    Keys.MONTH -> month,
-    Keys.DAY -> day,
-    Keys.OLD_TESTAMENT -> oldTestament.toJsObject,
-    Keys.NEW_TESTAMENT -> newTestament.toJsObject,
-    Keys.PSALMS -> psalms.toJsObject,
-    Keys.PROVERBS -> proverbs.toJsObject)
-
-  override def toJson: String = Json.prettyPrint(toJsObject)
-
-}
+object DayReadingParser extends JsonParserBase[DayReading] {
 
 
+  override def toJsObject(dayReading: DayReading): JsObject = Json.obj(
+    Keys.MONTH -> dayReading.month,
+    Keys.DAY -> dayReading.day,
+    Keys.OLD_TESTAMENT -> VerseRangeParser.toJsObject(dayReading.oldTestament),
+    Keys.NEW_TESTAMENT -> VerseRangeParser.toJsObject(dayReading.newTestament),
+    Keys.PSALMS -> VerseRangeParser.toJsObject(dayReading.psalms),
+    Keys.PROVERBS -> VerseRangeParser.toJsObject(dayReading.proverbs))
 
-object DayReadingParser extends JsonParser[DayReading] {
 
-  override def parse(jsObject: JsObject): DayReading = new DayReading(jsObject)
-
-  override def parse(json: String): DayReading = {
-    val jsObject: JsObject = Json.parse(json).as[JsObject]
-    new DayReading(jsObject)
-  }
+  override def fromJson(jsObject: JsObject): DayReading = DayReading(
+    JsonHelper.getInt(jsObject, Keys.MONTH),
+    JsonHelper.getInt(jsObject, Keys.DAY),
+    VerseRangeParser.fromJson(JsonHelper.getJsObject(jsObject, Keys.OLD_TESTAMENT)),
+    VerseRangeParser.fromJson(JsonHelper.getJsObject(jsObject, Keys.NEW_TESTAMENT)),
+    VerseRangeParser.fromJson(JsonHelper.getJsObject(jsObject, Keys.PSALMS)),
+    VerseRangeParser.fromJson(JsonHelper.getJsObject(jsObject, Keys.PROVERBS)))
 
 
   def parseMonthFile(fileName: String, month: Int): List[DayReading] = {

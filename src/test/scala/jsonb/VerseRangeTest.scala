@@ -11,8 +11,8 @@ class VerseRangeTest extends FunSuite {
 
   test("toJson") {
 
-    val jsonString = VerseRange(SingleVerse(Books.Genesis, 1, 2), SingleVerse(Books.Exodus, 3, 4))
-      .toJson
+    val jsonString =VerseRangeParser.toJson(VerseRange(
+      SingleVerse(Books.Genesis, 1, 2), SingleVerse(Books.Exodus, 3, 4)))
 
     val expected = "{\r\n  \"start\" : {\r\n    \"book\" : \"genesis\",\r\n    \"chapter\" : 1,\r\n    \"verse\" : 2\r\n  },\r\n  \"end\" : {\r\n    \"book\" : \"exodus\",\r\n    \"chapter\" : 3,\r\n    \"verse\" : 4\r\n  }\r\n}"
     assert(jsonString == expected)
@@ -35,7 +35,7 @@ class VerseRangeTest extends FunSuite {
         "} "
 
 
-    val verseRange: VerseRange = VerseRangeParser.parse(jsonString)
+    val verseRange: VerseRange = VerseRangeParser.fromJson(jsonString)
 
     val expected: VerseRange = VerseRange(
       SingleVerse(Books.Genesis, 1, 2), SingleVerse(Books.Exodus, 3, 4))

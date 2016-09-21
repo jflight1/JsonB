@@ -18,42 +18,23 @@ case class RsbNoteWeb(verseLocations: Seq[VerseLocation],
                       id: Long,
                       title: String,
                       html: String)
-  extends ToJson {
-
-  def this(jsObject: JsObject) = {
-    this(
-      Nil,
-      (jsObject \ "id").as[Long],
-      (jsObject \ "title").as[String],
-      (jsObject \ "html").as[String])
-
-//    (jsObject \ "verseLocations").as[JsArray].value.map(jsObject => )
-  }
-
-
-  override def toJsObject: JsObject = Json.obj(
-    "id" -> id,
-    "title" -> title,
-    "html" -> html)
-
-
-  override def toJson: String = Json.prettyPrint(toJsObject)
-
-
-}
 
 
 
-object RsbNoteWebJsonParser extends JsonParser[RsbNoteWeb] {
+object RsbNoteWebJsonParser extends JsonParserBase[RsbNoteWeb] {
 
 
+  override def toJsObject(rsbNoteWeb: RsbNoteWeb): JsObject = Json.obj(
+    "id" -> rsbNoteWeb.id,
+    "title" -> rsbNoteWeb.title,
+    "html" -> rsbNoteWeb.html)
 
-  override def parse(jsObject: JsObject): RsbNoteWeb = new RsbNoteWeb(jsObject)
 
-  override def parse(json: String): RsbNoteWeb = {
-    val jsObject: JsObject = Json.parse(json).as[JsObject]
-    new RsbNoteWeb(jsObject)
-  }
+  override def fromJson(jsObject: JsObject): RsbNoteWeb = RsbNoteWeb(
+    Nil,
+    (jsObject \ "id").as[Long],
+    (jsObject \ "title").as[String],
+    (jsObject \ "html").as[String])
 
 
 

@@ -15,7 +15,7 @@ object GenerateMonthsJson {
       val sMonthNum = if (i < 10) "0" + i else "" + i
       val inFileName = "/months/txt/" + sMonthNum + ".txt"
       val dayReadings: List[DayReading] = DayReadingParser.parseMonthFile(inFileName, i)
-      val json: String = JsonHelper.listToJson(dayReadings)
+      val json: String = DayReadingParser.listToJson(dayReadings)
 
       val outFileName = "C:\\jflight\\software\\JsonB\\src\\main\\resources\\months\\json\\" + sMonthNum + ".json"
 

@@ -7,34 +7,22 @@ import play.api.libs.json.{JsObject, Json}
   * Created by jflight on 9/3/2016.
   */
 case class VerseRange(start: SingleVerse, end: SingleVerse)
-  extends VerseLocation {
-
-  def this(jsObject: JsObject) = {
-    this(new SingleVerse((jsObject \ "start").as[JsObject]),
-      new SingleVerse((jsObject \ "end").as[JsObject]))
-  }
-
-
-  override def toJsObject: JsObject = Json.obj(
-    "start" -> start.toJsObject,
-    "end" -> end.toJsObject)
-
-
-  override def toJson: String = Json.prettyPrint(toJsObject)
-
-}
+  extends VerseLocation
 
 
 
-object VerseRangeParser extends JsonParser[VerseRange] {
+object VerseRangeParser extends JsonParserBase[VerseRange] {
 
 
-  override def parse(jsObject: JsObject): VerseRange = new VerseRange(jsObject)
 
-  override def parse(json: String): VerseRange = {
-    val jsObject: JsObject = Json.parse(json).as[JsObject]
-    new VerseRange(jsObject)
-  }
+  override def toJsObject(verseRange: VerseRange): JsObject =Json.obj(
+    "start" -> SingleVerseParser.toJsObject(verseRange.start),
+    "end" -> SingleVerseParser.toJsObject(verseRange.end))
+
+  override def fromJson(jsObject: JsObject): VerseRange =
+    VerseRange(
+      SingleVerseParser.fromJson((jsObject \ "start").as[JsObject]),
+      SingleVerseParser.fromJson((jsObject \ "end").as[JsObject]))
 
 
   /**

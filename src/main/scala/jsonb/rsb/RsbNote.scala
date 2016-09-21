@@ -13,8 +13,9 @@ case class RsbNote(verseLocations: Seq[VerseLocation],
                    id: Long,
                    title: String,
                    html: String)
-  extends ToJson {
 
+
+/*
   def this(jsObject: JsObject) = {
     this(
       Nil,
@@ -33,11 +34,4 @@ case class RsbNote(verseLocations: Seq[VerseLocation],
 
 
   override def toJson: String = Json.prettyPrint(toJsObject)
-
-
-}
-
-
-
-
-
+*/

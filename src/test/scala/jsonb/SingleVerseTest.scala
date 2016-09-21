@@ -9,7 +9,7 @@ import org.scalatest.junit.JUnitRunner
 class SingleVerseTest extends FunSuite {
 
   test("toJson") {
-    val jsonString: String = SingleVerse(Books.Genesis, 3, 4).toJson
+    val jsonString: String = SingleVerseParser.toJson(SingleVerse(Books.Genesis, 3, 4))
     val expected = "{\r\n  \"book\" : \"genesis\",\r\n  \"chapter\" : 3,\r\n  \"verse\" : 4\r\n}";
     assert(jsonString == expected)
   }
@@ -23,7 +23,7 @@ class SingleVerseTest extends FunSuite {
         "  \"verse\" : 2 " +
         "} "
 
-    val singleVerse: SingleVerse = SingleVerseParser.parse(jsonString)
+    val singleVerse: SingleVerse = SingleVerseParser.fromJson(jsonString)
 
     assert(singleVerse.book == Books.Genesis)
     assert(singleVerse.chapter == 1)
