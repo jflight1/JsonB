@@ -9,7 +9,7 @@ import play.api.libs.json._
   * representation is different from what we get from the web.  We represent those
   * with RsbNoteWeb.
   */
-case class RsbNote(verseLocations: Seq[VerseLocation],
+case class RsbNote(verseRange: VerseRange,
                    id: Long,
                    title: String,
                    html: String)
