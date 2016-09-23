@@ -70,7 +70,7 @@ object RsbNoteIdFactory {
     * Generates the rsb/ids/book_ids.txt files
     */
   private def generateIdFiles(): Unit = {
-    BookInfoFactory.allBookInfos.foreach(bookInfo => {
+    BookInfos.allBookInfos.foreach(bookInfo => {
       println("Starting " + bookInfo.oneYearBibleName)
       println("Finished " + bookInfo.oneYearBibleName)
       sleep()

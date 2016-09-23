@@ -1,34 +1,34 @@
 package jsonb
 
-import jsonb.BookType.BookType
+import jsonb.BookType_OLD.BookType_OLD
 
 /**
   * Created by jflight on 9/3/2016.
   */
 
-object BookType extends Enumeration {
-  type BookType = Value
+object BookType_OLD extends Enumeration {
+  type BookType_OLD = Value
   val OldTestament, NewTestament, Psalms, Proverbs = Value
 }
 
-case class Book(name: String, bookType: BookType) {
+case class Book(name: String, bookType: BookType_OLD) {
   def nameMatches(s: String): Boolean = s.toLowerCase.equals(name)
 }
 
 object Books {
-  private val Old: BookType = BookType.OldTestament
+  private val Old: BookType_OLD = BookType_OLD.OldTestament
   val Genesis = Book("genesis", Old)
   val Exodus = Book("exodus", Old)
 
-  private val New: BookType = BookType.NewTestament
+  private val New: BookType_OLD = BookType_OLD.NewTestament
   val Matthew = Book("matthew", New)
 
-  val Psalms = new Book("psalms", BookType.Psalms) {
+  val Psalms = new Book("psalms", BookType_OLD.Psalms) {
     override def nameMatches(s: String): Boolean = s.toLowerCase.contains("psalm") // accept psalm or psalms
   }
 
 
-  val Proverbs = Book("proverbs", BookType.Proverbs)
+  val Proverbs = Book("proverbs", BookType_OLD.Proverbs)
 
   val allBooks = List(
     Book("genesis", Old),

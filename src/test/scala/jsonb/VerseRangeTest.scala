@@ -9,6 +9,15 @@ import org.scalatest.junit.JUnitRunner
 @RunWith(classOf[JUnitRunner])
 class VerseRangeTest extends FunSuite {
 
+  object Books {
+    val Genesis = BookInfos.find("genesis")
+    val Exodus = BookInfos.find("exodus")
+    val Matthew = BookInfos.find("matthew")
+    val Psalms = BookInfos.find("psalms")
+    val Proverbs = BookInfos.find("proverbs")
+  }
+
+
   test("toJson") {
 
     val jsonString =VerseRangeParser.toJson(VerseRange(

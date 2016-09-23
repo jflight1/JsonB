@@ -52,7 +52,7 @@ object VerseRangeParser extends JsonParserBase[VerseRange] {
     // find the book
     val plusIndex = text.indexOf("+")
     val bookName = text.substring(0, plusIndex)
-    val book = Books.fromName(bookName)
+    val book = BookInfos.find(bookName)
 
     val numberText = text.substring(plusIndex + 1)
 

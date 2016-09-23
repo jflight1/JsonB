@@ -11,6 +11,15 @@ import play.api.libs.json.{JsArray, JsObject, Json}
 @RunWith(classOf[JUnitRunner])
 class DayReadingTest extends FunSuite {
 
+  object Books {
+    val Genesis = BookInfos.find("genesis")
+    val Exodus = BookInfos.find("exodus")
+    val Matthew = BookInfos.find("matthew")
+    val Psalms = BookInfos.find("psalms")
+    val Proverbs = BookInfos.find("proverbs")
+  }
+
+
   test("parseMonthFile") {
     val dayReadings: List[DayReading] = DayReadingParser.parseMonthFile("/months/txt/01.txt", 1)
 
