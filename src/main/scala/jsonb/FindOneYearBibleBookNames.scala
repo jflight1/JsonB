@@ -10,7 +10,7 @@ import scala.io.BufferedSource
 object FindOneYearBibleBookNames {
 
   /**
-    * Returns a tupple containing the list of old testament books and
+    * Returns a tuple containing the list of old testament books and
     * the list of new testament books
     */
   def findAll(): (List[String], List[String]) = {

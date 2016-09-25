@@ -19,13 +19,13 @@ object RsbNoteIdFactory {
     *   https://www.biblegateway.com/exbib/contents/?osis=Ruth.1.1-Ruth.200.100
     * Finds the RSB note ids
     */
-  def writeNoteIdsToFile(bookInfo: BookInfo): Unit = {
+  def writeNoteIdsToFile(book: Book): Unit = {
 
     val url = "https://www.biblegateway.com/exbib/contents/?osis=" +
-      bookInfo.exbibName + ".1.1-" + bookInfo.exbibName + ".200.100"
+      book.exbibName + ".1.1-" + book.exbibName + ".200.100"
     val ids: Seq[Long] = getNoteIdsFromUrl(url)
 
-    var fileName = "src\\main\\resources\\rsb\\ids\\" + bookInfo.oneYearBibleName + "_ids.txt"
+    var fileName = "src\\main\\resources\\rsb\\ids\\" + book.oneYearBibleName + "_ids.txt"
     val printWriter: PrintWriter = new PrintWriter(fileName)
     ids.foreach(id => printWriter.println(id))
     printWriter.close()
@@ -70,9 +70,9 @@ object RsbNoteIdFactory {
     * Generates the rsb/ids/book_ids.txt files
     */
   private def generateIdFiles(): Unit = {
-    BookInfos.allBookInfos.foreach(bookInfo => {
-      println("Starting " + bookInfo.oneYearBibleName)
-      println("Finished " + bookInfo.oneYearBibleName)
+    Books.allBooks.foreach(book => {
+      println("Starting " + book.oneYearBibleName)
+      println("Finished " + book.oneYearBibleName)
       sleep()
     })
 

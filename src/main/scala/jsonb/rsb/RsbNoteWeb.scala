@@ -21,13 +21,13 @@ case class RsbNoteWeb(id: Long,
   /**
     * Parses the title to get a VerseRange
     */
-  def rsbNote(bookInfo: BookInfo): RsbNote = ???
+  def rsbNote(book: Book): RsbNote = ???
 
 
   // 2:11–15 No
 
 
-  private def verseRange(bookInfo: BookInfo): VerseRange = ???
+  private def verseRange(book: Book): VerseRange = ???
 }
 
 /*

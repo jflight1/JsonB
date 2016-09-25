@@ -32,8 +32,8 @@ To do
   - operations
     - for a given verse range, maps each verse in that range to a set of notes
 
-- BookInfo should replace Book.  The name matching stuff would have to move.
-BookInfo was going to be serializable though...
+- Book should replace Book.  The name matching stuff would have to move.
+Book was going to be serializable though...
 
 - get all reformation study bible data
   - get json from a web url
@@ -86,7 +86,7 @@ this works so we don't need to know how many chapters or verse each book has:
 
 9/15
 
-  - May need more naming info in BookInfo
+  - May need more naming info in Book
     {
       oneYearBibleName: "1corinthians",
       bibleGatewayName: "1 Corinthians",
