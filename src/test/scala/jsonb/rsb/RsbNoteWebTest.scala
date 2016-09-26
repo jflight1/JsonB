@@ -64,39 +64,6 @@ class RsbNoteWebTest extends FunSuite {
   }
 
 
-  private def verseRange(book: Book, title: String): VerseRange = {
-    val twoNumberRegex = ".* (\\d+):(\\d+)$".r
-    val threeNumberRegex = ".* (\\d+):(\\d+)-(\\d+)$".r
-    val fourNumberRegex = ".* (\\d+):(\\d+)-(\\d+):(\\d+)$".r
-
-    title match {
-      case twoNumberRegex(s1, s2) =>
-        val chapter = s1.asInstanceOf[Int]
-        val verse = s2.asInstanceOf[Int]
-        val singleVerse: SingleVerse = SingleVerse(book, chapter, verse)
-        VerseRange(singleVerse, singleVerse)
-
-      case threeNumberRegex(s1, s2, s3) =>
-        val chapter = s1.asInstanceOf[Int]
-        val verse1 = s2.asInstanceOf[Int]
-        val verse2 = s3.asInstanceOf[Int]
-        VerseRange(SingleVerse(book, chapter, verse1),
-          SingleVerse(book, chapter, verse1))
-
-      case fourNumberRegex(s1, s2, s3, s4) =>
-        val chapter1 = s1.asInstanceOf[Int]
-        val verse1 = s2.asInstanceOf[Int]
-        val chapter2 = s4.asInstanceOf[Int]
-        val verse2 = s4.asInstanceOf[Int]
-        VerseRange(SingleVerse(book, chapter1, verse1),
-          SingleVerse(book, chapter2, verse2))
-
-      case _ => throw new Exception("Unparsable title: " + title)
-    }
-
-  }
-
-
 }
 
 

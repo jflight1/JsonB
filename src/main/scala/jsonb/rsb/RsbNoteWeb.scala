@@ -43,7 +43,7 @@ case class RsbNoteWeb(id: Long,
       case fourNumberRegex(s1, s2, s3, s4) =>
         val chapter1 = s1.toInt
         val verse1 = s2.toInt
-        val chapter2 = s4.toInt
+        val chapter2 = s3.toInt
         val verse2 = s4.toInt
         VerseRange(SingleVerse(book, chapter1, verse1),
           SingleVerse(book, chapter2, verse2))
