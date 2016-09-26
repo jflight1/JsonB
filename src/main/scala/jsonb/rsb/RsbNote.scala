@@ -12,14 +12,4 @@ import play.api.libs.json._
 case class RsbNote(verseRange: VerseRange,
                    id: Long,
                    title: String,
-                   html: String) {
-
-  def this(rsbNoteWeb: RsbNoteWeb, book: Book) = {
-    this(rsbNoteWeb.verseRange(book),
-      rsbNoteWeb.id,
-      rsbNoteWeb.title,
-      rsbNoteWeb.html)
-  }
-
-}
-
+                   html: String)

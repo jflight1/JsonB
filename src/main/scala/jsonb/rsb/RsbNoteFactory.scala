@@ -14,13 +14,26 @@ import scala.io.Source
   */
 object RsbNoteFactory {
 
-//  def rsbNoteFromId(id: Long, book: Book): RsbNote = ???
 
+  /**
+    * Given a RsbNote ID, gets the RsbNoteWeb from the web
+    */
+  def rsbNoteFromId(id: Long, book: Book): RsbNote = {
+    val rsbNoteWeb: RsbNoteWeb = rsbNoteWebFromId(id)
+    RsbNote(rsbNoteWeb.verseRange(book),
+      rsbNoteWeb.id,
+      rsbNoteWeb.title,
+      rsbNoteWeb.html)
+  }
+
+
+  /**
+    * Given a RsbNote ID, gets the RsbNoteWeb from the web
+    */
   def rsbNoteWebFromId(id: Long): RsbNoteWeb = {
-
     val url: String = "https://www.biblegateway.com/exbib/?pub=reformation-study-bible&chunk=" + id
     val json: String = Source.fromURL(url).mkString
-
+    RsbNoteWebJsonParser.fromJson(json)
   }
 
 

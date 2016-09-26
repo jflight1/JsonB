@@ -1,4 +1,8 @@
-package jsonb.rsb;
+package jsonb.rsb
+
+import jsonb.{JsonParserBase, SingleVerse, VerseRange, Book}
+import play.api.libs.json.{Json, JsObject}
+
 
 /**
   * This class represents the json for a Reformation Study Bible note we get from the web,
@@ -8,39 +12,46 @@ case class RsbNoteWeb(id: Long,
                       title: String,
                       html: String) {
 
+  // note that this dash is different from the one you get if you type it!
+  val dash = "–"
+
   /**
-    * Parses the title to get a VerseRange
+    * Parses the title to get a VerseRange.  The book names in a title string are different from the names
+    * we have in our Book objects, so we can't use it to find the Book.  Luckily we already know the book when we
+    * call this method so we pass it in as an argument.  While a VerseRange could conceiveable span two books,
+    * In an RsbNote it never does.
     */
   def verseRange(book: Book): VerseRange = {
     val twoNumberRegex = ".* (\\d+):(\\d+)$".r
-    val threeNumberRegex = ".* (\\d+):(\\d+)-(\\d+)$".r
-    val fourNumberRegex = ".* (\\d+):(\\d+)-(\\d+):(\\d+)$".r
+    val threeNumberRegex = (".* (\\d+):(\\d+)" + dash + "(\\d+)$").r
+    val fourNumberRegex = (".* (\\d+):(\\d+)" + dash + "(\\d+):(\\d+)$").r
 
     title match {
       case twoNumberRegex(s1, s2) =>
-        val chapter = s1.asInstanceOf[Int]
-        val verse = s2.asInstanceOf[Int]
+        val chapter = s1.toInt
+        val verse = s2.toInt
         val singleVerse: SingleVerse = SingleVerse(book, chapter, verse)
         VerseRange(singleVerse, singleVerse)
 
       case threeNumberRegex(s1, s2, s3) =>
-        val chapter = s1.asInstanceOf[Int]
-        val verse1 = s2.asInstanceOf[Int]
-        val verse2 = s3.asInstanceOf[Int]
+        val chapter = s1.toInt
+        val verse1 = s2.toInt
+        val verse2 = s3.toInt
         VerseRange(SingleVerse(book, chapter, verse1),
           SingleVerse(book, chapter, verse1))
 
       case fourNumberRegex(s1, s2, s3, s4) =>
-        val chapter1 = s1.asInstanceOf[Int]
-        val verse1 = s2.asInstanceOf[Int]
-        val chapter2 = s4.asInstanceOf[Int]
-        val verse2 = s4.asInstanceOf[Int]
+        val chapter1 = s1.toInt
+        val verse1 = s2.toInt
+        val chapter2 = s4.toInt
+        val verse2 = s4.toInt
         VerseRange(SingleVerse(book, chapter1, verse1),
           SingleVerse(book, chapter2, verse2))
 
       case _ => throw new Exception("Unparsable title: " + title)
     }
 
+  }
 }
 
 
@@ -71,10 +82,13 @@ object RsbNoteWebJsonParser extends JsonParserBase[RsbNoteWeb] {
     "html" -> rsbNoteWeb.html)
 
 
-  override def fromJson(jsObject: JsObject): RsbNoteWeb = RsbNoteWeb(
-    (jsObject \ "id").as[Long],
-    (jsObject \ "title").as[String],
-    (jsObject \ "html").as[String])
+  override def fromJson(jsObject: JsObject): RsbNoteWeb = {
+    RsbNoteWeb(
+      (jsObject \ "id").as[String].toLong,
+      (jsObject \ "title").as[String],
+      (jsObject \ "text").as[String])
+  }
+
 
 
 
