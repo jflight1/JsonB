@@ -10,13 +10,13 @@ import org.scalatest.junit.JUnitRunner
 
 
 @RunWith(classOf[JUnitRunner])
-class RsbNoteIdFactoryTest extends FunSuite {
+class RsbNoteFactoryTest extends FunSuite {
 
   test("getNoteIdsFromJson") {
     val inputStream: InputStream = getClass.getResourceAsStream("/exbib_osis.json")
     val json: String = IOUtils.toString(inputStream, "UTF-8")
 
-    val ids: Seq[Long] = RsbNoteIdFactory.getNoteIdsFromJson(json)
+    val ids: Seq[Long] = RsbNoteFactory.getNoteIdsFromJson(json)
 
     assertEquals(50, ids.size)
     assertEquals(187258, ids(0))

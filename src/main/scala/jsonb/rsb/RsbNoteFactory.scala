@@ -9,9 +9,19 @@ import play.api.libs.json._
 import scala.io.Source
 
 
+/**
+  * Various methods related to creating RsbNotes
+  */
+object RsbNoteFactory {
 
-object RsbNoteIdFactory {
+//  def rsbNoteFromId(id: Long, book: Book): RsbNote = ???
 
+  def rsbNoteWebFromId(id: Long): RsbNoteWeb = {
+
+    val url: String = "https://www.biblegateway.com/exbib/?pub=reformation-study-bible&chunk=" + id
+    val json: String = Source.fromURL(url).mkString
+
+  }
 
 
   /**
