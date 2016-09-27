@@ -12,4 +12,4 @@ import play.api.libs.json._
 case class RsbNote(verseRange: VerseRange,
                    id: Long,
                    title: String,
-                   html: String)
+                   text: String)

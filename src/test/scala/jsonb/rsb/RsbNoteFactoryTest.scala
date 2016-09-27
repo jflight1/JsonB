@@ -26,27 +26,39 @@ class RsbNoteFactoryTest extends FunSuite {
   }
 
 
-  test("rsbNoteFromId") {
-
-    val rsbNote: RsbNote = RsbNoteFactory.rsbNoteFromId(188098, Books.find("1kings"))
+  test("rsbNoteFromId 188098") {
 
     val book = Books.find("1kings")
+    val rsbNote: RsbNote = RsbNoteFactory.rsbNoteFromId(188098, book)
 
     assertVerseRangesEqual(
       VerseRange(SingleVerse(book,1,1),SingleVerse(book,2,11)),
       rsbNote.verseRange
     )
+    assertEquals(188098, rsbNote.id)
+    assertEquals("1 Kings 1:1–2:11", rsbNote.title)
+    assertTrue(rsbNote.text.contains("Solomon succeeds David as king in spite"))
+  }
 
+
+  test("rsbNoteFromId 188100") {
+
+    val book = Books.find("1kings")
+    val rsbNote: RsbNote = RsbNoteFactory.rsbNoteFromId(188100, book)
 
     println(rsbNote)
 
-    //RsbNote(VerseRange(SingleVerse(Book(1kings,1Kgs,22,OldTestament),1,1),SingleVerse(Book(1kings,1Kgs,22,OldTestament),11,11)),188098,1 Kings 1:1–2:11,<div class="article"><p><b><a class="bibleref" href="/passage/?search=1Kgs 1:1-1Kgs 2:11">1:1–2:11</a></b> Solomon succeeds David as king in spite of political turmoil and intrigue by Adonijah, Abiathar, Joab, and Shimei.</p></div>)
-
-
-
-
+    assertVerseRangesEqual(
+      VerseRange(SingleVerse(book,1,3),SingleVerse(book,1,3)),
+      rsbNote.verseRange
+    )
+    assertEquals(188100, rsbNote.id)
+    assertEquals("1 Kings 1:3", rsbNote.title)
+    assertTrue(rsbNote.text.contains("Shunem was sixteen miles southwest"))
 
   }
+
+  // todo: test "1 Kings 1:3-5" style
 
 
 }

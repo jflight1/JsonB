@@ -10,7 +10,7 @@ import play.api.libs.json.{Json, JsObject}
   */
 case class RsbNoteWeb(id: Long,
                       title: String,
-                      html: String) {
+                      text: String) {
 
   // note that this dash is different from the one you get if you type it!
   val dash = "–"
@@ -79,7 +79,7 @@ object RsbNoteWebJsonParser extends JsonParserBase[RsbNoteWeb] {
   override def toJsObject(rsbNoteWeb: RsbNoteWeb): JsObject = Json.obj(
     "id" -> rsbNoteWeb.id,
     "title" -> rsbNoteWeb.title,
-    "html" -> rsbNoteWeb.html)
+    "text" -> rsbNoteWeb.text)
 
 
   override def fromJson(jsObject: JsObject): RsbNoteWeb = {

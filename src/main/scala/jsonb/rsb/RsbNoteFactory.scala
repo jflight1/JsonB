@@ -23,7 +23,7 @@ object RsbNoteFactory {
     RsbNote(rsbNoteWeb.verseRange(book),
       rsbNoteWeb.id,
       rsbNoteWeb.title,
-      rsbNoteWeb.html)
+      rsbNoteWeb.text)
   }
 
 
