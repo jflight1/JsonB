@@ -12,7 +12,7 @@ trait JsonParser[T] {
 
   def toJsObject(t: T): JsObject
 
-  def listToJson(list: List[T]): String
+  def seqToJson(list: Seq[T]): String
 
   def fromJson(json: String): T
 

@@ -2,13 +2,17 @@ package jsonb.rsb
 
 import java.io.InputStream
 
-import jsonb.{VerseRange, SingleVerse, Books}
+import jsonb.DayReadingParser._
+import jsonb.{Book, VerseRange, SingleVerse, Books}
 import org.apache.commons.io.IOUtils
 import org.junit.Assert._
 import org.junit.runner.RunWith
 import org.scalatest.FunSuite
 import org.scalatest.junit.JUnitRunner
 import jsonb.Assert._
+import play.api.libs.json.JsObject
+
+import scala.io.BufferedSource
 
 
 @RunWith(classOf[JUnitRunner])
@@ -26,7 +30,7 @@ class RsbNoteFactoryTest extends FunSuite {
   }
 
 
-  test("rsbNoteFromId 188098") {
+  test("rsbNoteFromId 188098 - 1 Kings 1:1–2:11") {
 
     val book = Books.find("1kings")
     val rsbNote: RsbNote = RsbNoteFactory.rsbNoteFromId(188098, book)
@@ -41,7 +45,7 @@ class RsbNoteFactoryTest extends FunSuite {
   }
 
 
-  test("rsbNoteFromId 188100") {
+  test("rsbNoteFromId 188100 - 1 Kings 1:3") {
 
     val book = Books.find("1kings")
     val rsbNote: RsbNote = RsbNoteFactory.rsbNoteFromId(188100, book)
@@ -58,7 +62,50 @@ class RsbNoteFactoryTest extends FunSuite {
 
   }
 
-  // todo: test "1 Kings 1:3-5" style
+
+  test("rsbNoteFromId 188112 - 1 Kings 1:24–27") {
+
+    val book = Books.find("1kings")
+    val rsbNote: RsbNote = RsbNoteFactory.rsbNoteFromId(188112, book)
+
+    println(rsbNote)
+
+    assertVerseRangesEqual(
+      VerseRange(SingleVerse(book,1,24),SingleVerse(book,1,27)),
+      rsbNote.verseRange
+    )
+    assertEquals(188112, rsbNote.id)
+    assertEquals("1 Kings 1:24–27", rsbNote.title)
+    assertTrue(rsbNote.text.contains("Nathan incisively attacks the issue"))
+
+  }
+
+
+  test("generate RsbNote json for a whole book") {
+
+    val book: Book = Books.find("jude")
+
+    val fileName = "/rsb/ids/" + book.oneYearBibleName + "_ids.txt"
+    val inputStream: InputStream = getClass.getResourceAsStream(fileName)
+    val bufferedSource: BufferedSource = io.Source.fromInputStream(inputStream)
+    val lines: Iterator[String] = bufferedSource.getLines()
+
+    val rsbNotes: Seq[RsbNote] = lines
+      .toSeq
+      .map(sId => sId.toLong)
+      .map(id => RsbNoteFactory.rsbNoteFromId(id, book)) // RsbNote
+//      .map(rsbNote => RsbNoteJsonParser.toJsObject(rsbNote)) // JsObject
+
+    val json = RsbNoteJsonParser.seqToJson(rsbNotes)
+
+    println(json)
+
+
+
+
+  }
+
+
 
 
 }

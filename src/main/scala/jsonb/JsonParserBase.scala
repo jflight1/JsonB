@@ -18,8 +18,8 @@ abstract class JsonParserBase[T] extends JsonParser[T] {
   }
 
 
-  override def listToJson(list: List[T]): String = {
-    val jsObjects: List[JsObject] = list.map(t => toJsObject(t))
+  override def seqToJson(seq: Seq[T]): String = {
+    val jsObjects: Seq[JsObject] = seq.map(t => toJsObject(t))
     val jsArray: JsArray = Json.arr(jsObjects)
     Json.prettyPrint(jsArray)
   }

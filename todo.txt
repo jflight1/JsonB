@@ -3,6 +3,7 @@
 To do
 -----
 
+- handle note "Ps 1"
 
 
   - json
@@ -16,8 +17,6 @@ To do
           get the note
             https://www.biblegateway.com/exbib/?pub=reformation-study-bible&chunk=187307
             parse into a RsbNoteWeb
-              { data { studybible [ { where "title": "Reformation Study Bible" { entries [ { "id": "187259"
-              handle all possible VerseLocation possibilities
             map RsbNoteWeb --> RsbNote
         write List[RsbNote] as json to the file: ruth_notes.json
 
