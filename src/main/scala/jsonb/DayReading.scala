@@ -134,17 +134,29 @@ object DayReadingParser extends JsonParserBase[DayReading] {
     * The first two VerseRanges need to get combined into one.
     */
   private def combineVerseRanges(verseRanges: List[VerseRange]): List[VerseRange] = {
+
+    // jlf fix
+
     verseRanges match {
       // size < 2, do nothing
       case Nil => Nil
       case verseRange :: Nil => verseRanges
 
-      case vr1 :: vr2 :: theRest =>
+      case vr1 :: vr2 :: theRest => {
+
+        def bookType(book: Book): Int = {
+          if (book == Books.find("psalms")) 1
+          else if (book == Books.find("proverbs")) 2
+          else if (book.isOldTestament) 3
+          else 4
+        }
+
         // If the book types (i.e. OldTestament) are the same, we combine them
-        if (vr1.start.book.bookType == vr2.start.book.bookType)
+        if (bookType(vr1.start.book) == bookType(vr2.start.book))
           VerseRange(vr1.start, vr2.end) :: combineVerseRanges(theRest)
         else
           vr1 :: vr2 :: combineVerseRanges(theRest)
+      }
     }
   }
 }

@@ -1,25 +1,15 @@
 package jsonb
 
 import java.io.InputStream
-
-import jsonb.BookType.BookType
-
 import scala.io.BufferedSource
 
 
-
-object BookType extends Enumeration {
-  type BookType = Value
-  val OldTestament, NewTestament, Psalms, Proverbs = Value
-}
-
-
-
-case class Book(oneYearBibleName: String, exbibName: String, numChapters: Int, bookType: BookType) {
+case class Book(oneYearBibleName: String, exbibName: String, numChapters: Int, isOldTestament: Boolean) {
 
   def nameMatches(name: String): Boolean = {
     oneYearBibleName.toLowerCase == cleanName(name) ||
-      exbibName.toLowerCase == cleanName(name)
+      exbibName.toLowerCase == cleanName(name) ||
+      (oneYearBibleName == "psalms" && cleanName(name).contains("psalm")) // special case because you say "psalm 23"
   }
 
   def cleanName(name: String) = name.trim.toLowerCase
@@ -29,79 +19,76 @@ case class Book(oneYearBibleName: String, exbibName: String, numChapters: Int, b
 
 object Books {
 
-  val OldTestament = BookType.OldTestament
-  val NewTestament = BookType.NewTestament
+  val isOldTestament = true
+  val isNewTestament = false
 
   val allBooks: Seq[Book] = Seq(
-    Book("genesis","Gen",50, OldTestament),
-    Book("exodus","Exod",40, OldTestament),
-    Book("leviticus","Lev",27, OldTestament),
-    Book("numbers","Num",36, OldTestament),
-    Book("deuteronomy","Deut",34, OldTestament),
-    Book("joshua","Josh",24, OldTestament),
-    Book("judges","Judg",21, OldTestament),
-    Book("ruth","Ruth",4, OldTestament),
-    Book("1samuel","1Sam",31, OldTestament),
-    Book("2samuel","2Sam",24, OldTestament),
-    Book("1kings","1Kgs",22, OldTestament),
-    Book("2kings","2Kgs",25, OldTestament),
-    Book("1chronicles","1Chr",29, OldTestament),
-    Book("2chronicles","2Chr",36, OldTestament),
-    Book("ezra","Ezra",10, OldTestament),
-    Book("nehemiah","Neh",13, OldTestament),
-    Book("esther","Esth",10, OldTestament),
-    Book("job","Job",42, OldTestament),
-    new Book("psalms","Ps",150, BookType.Psalms) {
-      override def nameMatches(name: String): Boolean =
-      super.nameMatches(name) || cleanName(name) == "psalm"
-    },
-    Book("proverbs","Prov",31, BookType.Proverbs),
-    Book("ecclesiastes","Eccl",12, OldTestament),
-    Book("song","Song",8, OldTestament),
-    Book("isaiah","Isa",66, OldTestament),
-    Book("jeremiah","Jer",52, OldTestament),
-    Book("lamentations","Lam",5, OldTestament),
-    Book("ezekiel","Ezek",48, OldTestament),
-    Book("daniel","Dan",12, OldTestament),
-    Book("hosea","Hos",14, OldTestament),
-    Book("joel","Joel",3, OldTestament),
-    Book("amos","Amos",9, OldTestament),
-    Book("obadiah","Obad",1, OldTestament),
-    Book("jonah","Jonah",4, OldTestament),
-    Book("micah","Mic",7, OldTestament),
-    Book("nahum","Nah",3, OldTestament),
-    Book("habakkuk","Hab",3, OldTestament),
-    Book("zephaniah","Zeph",3, OldTestament),
-    Book("haggai","Hag",2, OldTestament),
-    Book("zechariah","Zech",14, OldTestament),
-    Book("malachi","Mal",4, OldTestament),
-    Book("matthew","Matt",28, NewTestament),
-    Book("mark","Mark",16, NewTestament),
-    Book("luke","Luke",24, NewTestament),
-    Book("john","John",21, NewTestament),
-    Book("acts","Acts",28, NewTestament),
-    Book("romans","Rom",16, NewTestament),
-    Book("1corinthians","1Cor",16, NewTestament),
-    Book("2corinthians","2Cor",13, NewTestament),
-    Book("galatians","Gal",6, NewTestament),
-    Book("ephesians","Eph",6, NewTestament),
-    Book("philippians","Phil",4, NewTestament),
-    Book("colossians","Col",4, NewTestament),
-    Book("1thessalonians","1Thess",5, NewTestament),
-    Book("2thessalonians","2Thess",3, NewTestament),
-    Book("1timothy","1Tim",6, NewTestament),
-    Book("2timothy","2Tim",4, NewTestament),
-    Book("titus","Titus",3, NewTestament),
-    Book("philemon","Phlm",1, NewTestament),
-    Book("hebrews","Heb",13, NewTestament),
-    Book("james","Jas",5, NewTestament),
-    Book("1peter","1Pet",5, NewTestament),
-    Book("2peter","2Pet",3, NewTestament),
-    Book("1john","1John",5, NewTestament),
-    Book("2john","2John",1, NewTestament),
-    Book("3john","3John",1, NewTestament),
-    Book("jude","Jude",1, NewTestament),
-    Book("revelation","Rev",22, NewTestament))
+    Book("genesis","Gen",50, isOldTestament),
+    Book("exodus","Exod",40, isOldTestament),
+    Book("leviticus","Lev",27, isOldTestament),
+    Book("numbers","Num",36, isOldTestament),
+    Book("deuteronomy","Deut",34, isOldTestament),
+    Book("joshua","Josh",24, isOldTestament),
+    Book("judges","Judg",21, isOldTestament),
+    Book("ruth","Ruth",4, isOldTestament),
+    Book("1samuel","1Sam",31, isOldTestament),
+    Book("2samuel","2Sam",24, isOldTestament),
+    Book("1kings","1Kgs",22, isOldTestament),
+    Book("2kings","2Kgs",25, isOldTestament),
+    Book("1chronicles","1Chr",29, isOldTestament),
+    Book("2chronicles","2Chr",36, isOldTestament),
+    Book("ezra","Ezra",10, isOldTestament),
+    Book("nehemiah","Neh",13, isOldTestament),
+    Book("esther","Esth",10, isOldTestament),
+    Book("job","Job",42, isOldTestament),
+    new Book("psalms","Ps",150, isOldTestament),
+    Book("proverbs","Prov",31, isOldTestament),
+    Book("ecclesiastes","Eccl",12, isOldTestament),
+    Book("song","Song",8, isOldTestament),
+    Book("isaiah","Isa",66, isOldTestament),
+    Book("jeremiah","Jer",52, isOldTestament),
+    Book("lamentations","Lam",5, isOldTestament),
+    Book("ezekiel","Ezek",48, isOldTestament),
+    Book("daniel","Dan",12, isOldTestament),
+    Book("hosea","Hos",14, isOldTestament),
+    Book("joel","Joel",3, isOldTestament),
+    Book("amos","Amos",9, isOldTestament),
+    Book("obadiah","Obad",1, isOldTestament),
+    Book("jonah","Jonah",4, isOldTestament),
+    Book("micah","Mic",7, isOldTestament),
+    Book("nahum","Nah",3, isOldTestament),
+    Book("habakkuk","Hab",3, isOldTestament),
+    Book("zephaniah","Zeph",3, isOldTestament),
+    Book("haggai","Hag",2, isOldTestament),
+    Book("zechariah","Zech",14, isOldTestament),
+    Book("malachi","Mal",4, isOldTestament),
+    Book("matthew","Matt",28, isNewTestament),
+    Book("mark","Mark",16, isNewTestament),
+    Book("luke","Luke",24, isNewTestament),
+    Book("john","John",21, isNewTestament),
+    Book("acts","Acts",28, isNewTestament),
+    Book("romans","Rom",16, isNewTestament),
+    Book("1corinthians","1Cor",16, isNewTestament),
+    Book("2corinthians","2Cor",13, isNewTestament),
+    Book("galatians","Gal",6, isNewTestament),
+    Book("ephesians","Eph",6, isNewTestament),
+    Book("philippians","Phil",4, isNewTestament),
+    Book("colossians","Col",4, isNewTestament),
+    Book("1thessalonians","1Thess",5, isNewTestament),
+    Book("2thessalonians","2Thess",3, isNewTestament),
+    Book("1timothy","1Tim",6, isNewTestament),
+    Book("2timothy","2Tim",4, isNewTestament),
+    Book("titus","Titus",3, isNewTestament),
+    Book("philemon","Phlm",1, isNewTestament),
+    Book("hebrews","Heb",13, isNewTestament),
+    Book("james","Jas",5, isNewTestament),
+    Book("1peter","1Pet",5, isNewTestament),
+    Book("2peter","2Pet",3, isNewTestament),
+    Book("1john","1John",5, isNewTestament),
+    Book("2john","2John",1, isNewTestament),
+    Book("3john","3John",1, isNewTestament),
+    Book("jude","Jude",1, isNewTestament),
+    Book("revelation","Rev",22, isNewTestament))
 
   def find(name: String): Book = {
     val books: Seq[Book] = allBooks.filter(book => book.nameMatches(name))
@@ -161,7 +148,7 @@ object BookFactory {
 
       val oneYearBibleName: String = oneYearBibleBookNameInfo.name
 
-      val book: Book = Book(oneYearBibleName, exbibName, numChapters, BookType.OldTestament) // bug
+      val book: Book = Book(oneYearBibleName, exbibName, numChapters, isOldTestament = true) // bug
 
       book :: generateBooks(exbibLineIter, oneYearBibleBookNames,
         index + oneYearBibleBookNameInfo.indexIncrement)
