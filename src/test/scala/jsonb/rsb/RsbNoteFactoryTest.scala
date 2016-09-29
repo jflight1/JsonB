@@ -81,7 +81,8 @@ class RsbNoteFactoryTest extends FunSuite {
   }
 
 
-  test("generate RsbNote json for a whole book") {
+
+  def generateRsbNoteJsonForBook() = {
 
     val book: Book = Books.find("jude")
 
@@ -94,18 +95,28 @@ class RsbNoteFactoryTest extends FunSuite {
       .toSeq
       .map(sId => sId.toLong)
       .map(id => RsbNoteFactory.rsbNoteFromId(id, book)) // RsbNote
-//      .map(rsbNote => RsbNoteJsonParser.toJsObject(rsbNote)) // JsObject
 
     val json = RsbNoteJsonParser.seqToJson(rsbNotes)
 
     println(json)
 
-
-
-
   }
 
 
+  /**
+    * Prints the number of notes in each book
+    */
+  def printNumNotesByBook() = {
+    val bookCount = Books.allBooks.map(book => {
+      val fileName = "/rsb/ids/" + book.oneYearBibleName + "_ids.txt"
+      val inputStream: InputStream = getClass.getResourceAsStream(fileName)
+      val bufferedSource: BufferedSource = io.Source.fromInputStream(inputStream)
+      val lines: Iterator[String] = bufferedSource.getLines()
+      book.oneYearBibleName + " " + lines.toList.size
+    })
+
+    bookCount.foreach(s => println(s))
+  }
 
 
 }
