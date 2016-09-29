@@ -5,6 +5,7 @@ import org.junit.Assert._
 import org.junit.runner.RunWith
 import org.scalatest.FunSuite
 import org.scalatest.junit.JUnitRunner
+import play.api.libs.json.Json.JsValueWrapper
 import play.api.libs.json.{JsArray, JsObject, Json}
 
 
@@ -61,6 +62,31 @@ class DayReadingTest extends FunSuite {
 */
 
   }
+
+
+
+  test("jlf temp ") {
+
+/*
+    def foo(os: String*) =
+      println(os.toList)
+    val args = Seq("hi", "there")
+    foo(args:_*)
+*/
+
+
+    val jsObject: JsObject = SingleVerseParser.toJsObject(SingleVerse(TestBooks.Matthew, 20, 29))
+
+    val jsObjects: Seq[JsValueWrapper] = Seq(jsObject, jsObject, jsObject)
+
+
+    val jsArray: JsArray = Json.arr(jsObjects :_*)
+
+
+    val json: String = Json.prettyPrint(jsArray)
+    print(json)
+  }
+
 
 }
 
