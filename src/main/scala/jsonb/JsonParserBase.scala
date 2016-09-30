@@ -1,6 +1,7 @@
 package jsonb
 
-import play.api.libs.json.{JsArray, Json, JsObject}
+import play.api.libs.json.Json.JsValueWrapper
+import play.api.libs.json.{JsValue, JsArray, Json, JsObject}
 
 
 
@@ -19,8 +20,9 @@ abstract class JsonParserBase[T] extends JsonParser[T] {
 
 
   override def seqToJson(seq: Seq[T]): String = {
+
     val jsObjects: Seq[JsObject] = seq.map(t => toJsObject(t))
-    val jsArray: JsArray = Json.arr(jsObjects)
-    Json.prettyPrint(jsArray)
+    val jsValue: JsValue = Json.toJson(jsObjects)
+    Json.prettyPrint(jsValue)
   }
 }
