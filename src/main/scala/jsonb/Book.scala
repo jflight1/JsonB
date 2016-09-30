@@ -27,35 +27,21 @@ case class Book(oneYearBibleName: String, exbibName: String, numChapters: Int, i
 
 object BookParser extends JsonParserBase[Book] {
 
-  implicit val bookReads: Reads[Book] = (
-    (JsPath \ "oneYearBibleName").read[String] and
-      (JsPath \ "exbibName").read[String] and
-      (JsPath \ "numChapters").read[Int] and
-      (JsPath \ "isOldTestament").read[Boolean]
-    )(Book.apply _)
-
-
-  implicit val bookWrites: Writes[Book] = (
-    (JsPath \ "oneYearBibleName").write[String] and
-      (JsPath \ "exbibName").write[String] and
-      (JsPath \ "numChapters").write[Int] and
-      (JsPath \ "isOldTestament").write[Boolean]
-    )(unlift(Book.unapply))
-
-  override def toJsObject(book: Book): JsObject = bookWrites.writes(book).as[JsObject]
-
-
-/*
   override def toJsObject(book: Book): JsObject = Json.obj(
     "oneYearBibleName" -> book.oneYearBibleName,
     "exbibName" -> book.exbibName,
     "numChapters" -> book.numChapters,
     "isOldTestament" -> book.isOldTestament)
-*/
 
 
   override def fromJson(jsObject: JsObject): Book =
-    bookReads.reads(jsObject).get
+    Book(
+      (jsObject \ "oneYearBibleName").as[String],
+      (jsObject \ "exbibName").as[String],
+      (jsObject \ "numChapters").as[Int],
+      (jsObject \ "isOldTestament").as[Boolean])
+
+
 }
 
 
@@ -139,9 +125,6 @@ object BookFactory {
     val printWriter: PrintWriter = new PrintWriter(fileName)
     printWriter.println(json)
     printWriter.close()
-
-
-
   }
 
 

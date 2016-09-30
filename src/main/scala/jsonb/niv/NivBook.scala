@@ -2,12 +2,17 @@ package jsonb.niv
 
 import java.io.InputStream
 
-import jsonb.{Books, BookParser, JsonParserBase}
-import play.api.libs.json.{JsArray, Json, JsObject}
+import jsonb.{Books, JsonParserBase}
+import play.api.libs.json.{JsObject, Json}
 
 import scala.collection.Set
 
 
+
+/**
+  * Represents a book in NIV.json
+  * Right now all we have is the book name but the plan is to add more
+  */
 case class NivBook(name: String)
 
 
