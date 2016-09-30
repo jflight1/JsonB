@@ -5,8 +5,6 @@ import org.junit.Assert._
 import org.junit.runner.RunWith
 import org.scalatest.FunSuite
 import org.scalatest.junit.JUnitRunner
-import play.api.libs.json.Json.JsValueWrapper
-import play.api.libs.json.{JsValue, JsArray, JsObject, Json}
 
 
 @RunWith(classOf[JUnitRunner])

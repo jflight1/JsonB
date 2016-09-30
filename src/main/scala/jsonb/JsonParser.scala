@@ -18,4 +18,6 @@ trait JsonParser[T] {
 
   def fromJson(jsObject: JsObject): T
 
+  def readSeqFromFile(fileName: String): Seq[T]
+
 }
