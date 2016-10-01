@@ -25,21 +25,16 @@ object NivBookParser extends JsonParserBase[NivBook] {
   NivBook((jsObject \ "name").as[String])
 
 
-  def allBooksFromFile: Seq[NivBook] = {
-
+  lazy val allBooks: Seq[NivBook] = {
     val inputStream: InputStream = getClass.getResourceAsStream("/NIV.json")
-
     val rootJsObject: JsObject = Json.parse(inputStream).as[JsObject]
     val keys: Set[String] = rootJsObject.keys
     keys.map(key => NivBook(key)).toSeq
-
   }
 
 
   def main(args: Array[String]): Unit = {
-
-
-//    allBooksFromFile.sortBy(nivBook => nivBook.name).foreach(nivBook => println(nivBook.name))
+    allBooks.sortBy(nivBook => nivBook.name).foreach(nivBook => println(nivBook.name))
 
     Books.allBooks.sortBy(book => book.oneYearBibleName).foreach(book => println(book.oneYearBibleName))
 

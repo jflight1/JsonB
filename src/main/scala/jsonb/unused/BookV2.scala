@@ -1,12 +1,13 @@
-package jsonb
+package jsonb.unused
 
 import java.io.PrintWriter
 
-import play.api.libs.json.{Json, JsObject}
+import jsonb.{Book, Books, JsonParserBase}
+import play.api.libs.json.{JsObject, Json}
 
 
 /**
-  * Created by jflight on 9/30/2016.
+  * This was used to add nivName to book.  We don't use this class for anything anymore
   */
 case class BookV2(book: Book, nivName: String)
 
@@ -27,6 +28,7 @@ object BookV2Parser extends JsonParserBase[BookV2] {
     val book = Book(
       (jsObject \ "oneYearBibleName").as[String],
       (jsObject \ "exbibName").as[String],
+      (jsObject \ "nivName").as[String],
       (jsObject \ "numChapters").as[Int],
       (jsObject \ "isOldTestament").as[Boolean])
 
@@ -118,7 +120,7 @@ private object BookV2Utils {
 
   def writeBooksToFile() = {
     val json: String = BookV2Parser.seqToJson(BookV2Utils.allBooks)
-    var fileName = "src\\main\\resources\\books_v2.json"
+    val fileName = "src\\main\\resources\\books_v2.json"
     val printWriter: PrintWriter = new PrintWriter(fileName)
     printWriter.println(json)
     printWriter.close()
