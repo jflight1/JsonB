@@ -1,89 +1,15 @@
-package jsonb
+package jsonb.unused
 
-import java.io.{InputStream, PrintWriter}
+import java.io.InputStream
 
-import play.api.libs.json._
+import jsonb.{Book, FindOneYearBibleBookNames}
 
 import scala.io.BufferedSource
 
 
 
-/**
-  *
-  * @param oneYearBibleName Name in oneyearbibleonline.com.  http://oneyearbibleonline.com/...
-  *                         Also this is the name in the daily reading files: \resources\months\txt\*.txt
-  * @param exbibName Name used in the exbib api.  https://www.biblegateway.com/exbib/contents/?osis=...
-  * @param nivName Name in NIV.json
-  */
-case class Book(oneYearBibleName: String, exbibName: String, nivName: String, numChapters: Int, isOldTestament: Boolean) {
-
-  def nameMatches(name: String): Boolean = {
-    oneYearBibleName.toLowerCase == cleanName(name) ||
-      exbibName.toLowerCase == cleanName(name) ||
-      (oneYearBibleName == "psalms" && cleanName(name).contains("psalm")) // special case because you say "psalm 23"
-  }
-
-  def cleanName(name: String) = name.trim.toLowerCase
-
-}
-
-
-object BookParser extends JsonParserBase[Book] {
-
-  override def toJsObject(book: Book): JsObject = Json.obj(
-    "oneYearBibleName" -> book.oneYearBibleName,
-    "exbibName" -> book.exbibName,
-    "nivName" -> book.nivName,
-    "numChapters" -> book.numChapters,
-    "isOldTestament" -> book.isOldTestament)
-
-
-  override def fromJson(jsObject: JsObject): Book =
-    Book(
-      (jsObject \ "oneYearBibleName").as[String],
-      (jsObject \ "exbibName").as[String],
-      (jsObject \ "nivName").as[String],
-      (jsObject \ "numChapters").as[Int],
-      (jsObject \ "isOldTestament").as[Boolean])
-
-
-}
-
 
 object Books {
-
-  lazy val allBooks: Seq[Book] = BookParser.readSeqFromFile("/books.json")
-
-  def find(name: String): Book = {
-    val books: Seq[Book] = allBooks.filter(book => book.nameMatches(name))
-
-    if (books == Nil || books.size > 1) {
-      throw new Exception("Bad Book name: " + name)
-    }
-
-    books.head
-  }
-}
-
-
-object BookFactory {
-
-
-  def writeBooksToFile() = {
-    val json: String = BookParser.seqToJson(Books.allBooks)
-    val fileName = "src\\main\\resources\\books.json"
-    val printWriter: PrintWriter = new PrintWriter(fileName)
-    printWriter.println(json)
-    printWriter.close()
-  }
-
-
-  def main(args: Array[String]): Unit = {
-
-    writeBooksToFile()
-  }
-
-
 
 
   /////////////////////////  deprecated
