@@ -25,6 +25,8 @@ object BookV2Parser extends JsonParserBase[BookV2] {
   }
 
   override def fromJson(jsObject: JsObject): BookV2 = {
+    throw new UnsupportedOperationException
+/*
     val book = Book(
       (jsObject \ "oneYearBibleName").as[String],
       (jsObject \ "exbibName").as[String],
@@ -33,6 +35,7 @@ object BookV2Parser extends JsonParserBase[BookV2] {
       (jsObject \ "isOldTestament").as[Boolean])
 
     BookV2(book, (jsObject \ "nivName").as[String])
+*/
   }
 }
 
@@ -111,7 +114,7 @@ private object BookV2Utils {
 
   lazy val allBooks: Seq[BookV2] =
     // Map Books to BookV2s
-    Books.allBooks.map(book => {
+    jsonb.Books.allBooks.map(book => {
       val nivName: String = oneYearBibleNameToNivName.get(book.oneYearBibleName).get
       BookV2(book, nivName)
     })

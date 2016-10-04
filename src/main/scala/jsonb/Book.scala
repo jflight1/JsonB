@@ -14,8 +14,9 @@ import scala.io.BufferedSource
   *                         Also this is the name in the daily reading files: \resources\months\txt\*.txt
   * @param exbibName Name used in the exbib api.  https://www.biblegateway.com/exbib/contents/?osis=...
   * @param nivName Name in NIV.json
+  * @param chapterNumVerses The number of verses in each chapter
   */
-case class Book(oneYearBibleName: String, exbibName: String, nivName: String, numChapters: Int, isOldTestament: Boolean) {
+case class Book(oneYearBibleName: String, exbibName: String, nivName: String, isOldTestament: Boolean, chapterNumVerses: Seq[Int]) {
 
   def nameMatches(name: String): Boolean = {
     oneYearBibleName.toLowerCase == cleanName(name) ||
@@ -24,6 +25,8 @@ case class Book(oneYearBibleName: String, exbibName: String, nivName: String, nu
   }
 
   def cleanName(name: String) = name.trim.toLowerCase
+
+  def numChapters: Int = chapterNumVerses.size
 
 }
 
@@ -34,8 +37,8 @@ object BookParser extends JsonParserBase[Book] {
     "oneYearBibleName" -> book.oneYearBibleName,
     "exbibName" -> book.exbibName,
     "nivName" -> book.nivName,
-    "numChapters" -> book.numChapters,
-    "isOldTestament" -> book.isOldTestament)
+    "isOldTestament" -> book.isOldTestament,
+    "chapterNumVerses" -> Json.toJson(book.chapterNumVerses))
 
 
   override def fromJson(jsObject: JsObject): Book =
@@ -43,10 +46,8 @@ object BookParser extends JsonParserBase[Book] {
       (jsObject \ "oneYearBibleName").as[String],
       (jsObject \ "exbibName").as[String],
       (jsObject \ "nivName").as[String],
-      (jsObject \ "numChapters").as[Int],
-      (jsObject \ "isOldTestament").as[Boolean])
-
-
+      (jsObject \ "isOldTestament").as[Boolean],
+      (jsObject \ "chapterNumVerses").as[Seq[Int]])
 }
 
 
@@ -138,7 +139,7 @@ object BookFactory {
         val oneYearBibleName: String = oneYearBibleBookNameInfo.name
 
         // this no longer works as nivName and isOldTestament are wrong
-        val book: Book = Book(oneYearBibleName, exbibName, nivName = "", numChapters, isOldTestament = true) // bug
+        val book: Book = Book(oneYearBibleName, exbibName, nivName = "", isOldTestament = true, Seq(1)) // bug
 
         book :: generateBooks(exbibLineIter, oneYearBibleBookNames,
           index + oneYearBibleBookNameInfo.indexIncrement)
