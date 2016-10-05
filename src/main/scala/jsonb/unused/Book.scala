@@ -2,7 +2,7 @@ package jsonb.unused
 
 import java.io.InputStream
 
-import jsonb.{Book, FindOneYearBibleBookNames}
+import jsonb.Book
 
 import scala.io.BufferedSource
 

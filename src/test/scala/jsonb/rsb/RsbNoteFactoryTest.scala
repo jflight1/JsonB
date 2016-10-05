@@ -50,8 +50,6 @@ class RsbNoteFactoryTest extends FunSuite {
     val book = Books.find("1kings")
     val rsbNote: RsbNote = RsbNoteFactory.rsbNoteFromId(188100, book)
 
-    println(rsbNote)
-
     assertVerseRangesEqual(
       VerseRange(SingleVerse(book,1,3),SingleVerse(book,1,3)),
       rsbNote.verseRange
@@ -67,8 +65,6 @@ class RsbNoteFactoryTest extends FunSuite {
 
     val book = Books.find("1kings")
     val rsbNote: RsbNote = RsbNoteFactory.rsbNoteFromId(188112, book)
-
-    println(rsbNote)
 
     assertVerseRangesEqual(
       VerseRange(SingleVerse(book,1,24),SingleVerse(book,1,27)),
@@ -97,25 +93,6 @@ class RsbNoteFactoryTest extends FunSuite {
       .map(id => RsbNoteFactory.rsbNoteFromId(id, book)) // RsbNote
 
     val json = RsbNoteJsonParser.seqToJson(rsbNotes)
-
-    println(json)
-
-  }
-
-
-  /**
-    * Prints the number of notes in each book
-    */
-  def printNumNotesByBook() = {
-    val bookCount = Books.allBooks.map(book => {
-      val fileName = "/rsb/ids/" + book.oneYearBibleName + "_ids.txt"
-      val inputStream: InputStream = getClass.getResourceAsStream(fileName)
-      val bufferedSource: BufferedSource = io.Source.fromInputStream(inputStream)
-      val lines: Iterator[String] = bufferedSource.getLines()
-      book.oneYearBibleName + " " + lines.toList.size
-    })
-
-    bookCount.foreach(s => println(s))
   }
 
 

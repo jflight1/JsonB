@@ -2,10 +2,7 @@ package jsonb
 
 import java.io.InputStream
 
-import jsonb.BookFactory._
-import play.api.libs.iteratee.Enumerator
-import play.api.libs.json.Json.JsValueWrapper
-import play.api.libs.json.{JsValue, JsArray, Json, JsObject}
+import play.api.libs.json.{JsArray, JsObject, JsValue, Json}
 
 
 

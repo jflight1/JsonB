@@ -13,15 +13,23 @@ class BookTest extends FunSuite {
 
 
 
-  test("parseMonthFile") {
+  test("Books.allBooks") {
 
-    val books: Seq[Book] = BookParser.readSeqFromFile("/books.json")
+    val books: Seq[Book] = Books.allBooks
+    assertEquals(66, books.size)
 
+    val actualBook: Book = books(7)
 
-    books.foreach(book =>  println(book))
+    val expectedBook: Book = Book(
+      oneYearBibleName = "ruth",
+      exbibName = "Ruth",
+      nivName = "Ruth",
+      isOldTestament = true,
+      chapterNumVerses = Seq(22, 23, 18, 22)
+    )
 
-
-
+    assertBooksEqual(expectedBook, actualBook)
+    assertEquals(4, actualBook.numChapters)
   }
 
 

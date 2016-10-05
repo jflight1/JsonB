@@ -55,12 +55,10 @@ class RsbNoteWebTest extends FunSuite {
     val regex: Regex = ".* (\\d+):(\\d+)$".r
     "1 Sam 23:45x" match {
       case regex(d1, d2) =>
-        println(d1)
-        println(d2)
+        assertEquals(23, d1)
+        assertEquals(45, d2)
       case _ =>
     }
-
-
   }
 
 

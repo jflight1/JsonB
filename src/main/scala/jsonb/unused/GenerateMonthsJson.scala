@@ -1,8 +1,8 @@
-package jsonb
+package jsonb.unused
 
-import java.io.{PrintWriter, StringReader, StringWriter, InputStream}
+import java.io.PrintWriter
 
-import scala.io.BufferedSource
+import jsonb.{DayReading, DayReadingParser}
 
 /**
   * Reads the month txt files and generates the month json files

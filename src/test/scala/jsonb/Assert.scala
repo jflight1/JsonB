@@ -34,5 +34,18 @@ object Assert {
     assertVerseRangesEqual(expected.proverbs, actual.proverbs)
   }
 
+
+  def assertBooksEqual(expected: Book, actual: Book) = {
+    assertEquals(expected.oneYearBibleName, actual.oneYearBibleName)
+    assertEquals(expected.exbibName, actual.exbibName)
+    assertEquals(expected.nivName, actual.nivName)
+    assertEquals(expected.isOldTestament, actual.isOldTestament)
+
+    assertEquals(expected.chapterNumVerses.size, actual.chapterNumVerses.size)
+    for (i <- expected.chapterNumVerses.indices) {
+      assertEquals(expected.chapterNumVerses(i), actual.chapterNumVerses(i))
+    }
+  }
+
 }
 

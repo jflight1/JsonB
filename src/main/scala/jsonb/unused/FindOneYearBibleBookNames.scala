@@ -1,4 +1,4 @@
-package jsonb
+package jsonb.unused
 
 import java.io.InputStream
 
