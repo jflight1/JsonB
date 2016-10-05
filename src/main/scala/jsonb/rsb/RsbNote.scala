@@ -30,5 +30,17 @@ object RsbNoteJsonParser extends JsonParserBase[RsbNote] {
       (jsObject \ "title").as[String],
       (jsObject \ "text").as[String])
   }
+
+
+  def generateJsonFile(book: Book) = ???
+
+
+  /**
+    * Get the json for all the notes in a book
+    */
+  def json(book: Book): String = ???
+
+
+
 }
 

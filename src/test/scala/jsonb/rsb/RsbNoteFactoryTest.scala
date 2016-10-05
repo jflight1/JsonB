@@ -2,15 +2,13 @@ package jsonb.rsb
 
 import java.io.InputStream
 
-import jsonb.DayReadingParser._
-import jsonb.{Book, VerseRange, SingleVerse, Books}
+import jsonb.Assert._
+import jsonb.{Book, Books, SingleVerse, VerseRange}
 import org.apache.commons.io.IOUtils
 import org.junit.Assert._
 import org.junit.runner.RunWith
 import org.scalatest.FunSuite
 import org.scalatest.junit.JUnitRunner
-import jsonb.Assert._
-import play.api.libs.json.JsObject
 
 import scala.io.BufferedSource
 
@@ -76,8 +74,15 @@ class RsbNoteFactoryTest extends FunSuite {
 
   }
 
+  test("rsbNotes") {
+    val book: Book = Books.find("jude")
+    val rsbNotes: Seq[RsbNote] = RsbNoteFactory.rsbNotes(book)
+    val json: String = RsbNoteJsonParser.seqToJson(rsbNotes)
+    println(json)
+  }
 
 
+/*
   def generateRsbNoteJsonForBook() = {
 
     val book: Book = Books.find("jude")
@@ -94,6 +99,7 @@ class RsbNoteFactoryTest extends FunSuite {
 
     val json = RsbNoteJsonParser.seqToJson(rsbNotes)
   }
+*/
 
 
 }

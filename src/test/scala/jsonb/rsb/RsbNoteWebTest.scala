@@ -1,6 +1,7 @@
 package jsonb.rsb
 
-import jsonb.{Book, SingleVerse, VerseRange}
+import jsonb.Assert._
+import jsonb.{Book, Books, SingleVerse, VerseRange}
 import org.junit.Assert._
 import org.junit.runner.RunWith
 import org.scalatest.FunSuite
@@ -11,6 +12,30 @@ import scala.util.matching.Regex
 
 @RunWith(classOf[JUnitRunner])
 class RsbNoteWebTest extends FunSuite {
+
+
+  /*
+case class RsbNoteWeb(id: Long,
+                      title: String,
+                      text: String) {
+   */
+
+  test("verseRange") {
+    val book = Books.find("ruth")
+
+    def test(title: String, chapter1: Int, verse1: Int, chapter2: Int, verse2: Int): Unit = {
+      val actualVerseRange = RsbNoteWeb(0, title, null).verseRange(book)
+      val expectedVerseRange: VerseRange = VerseRange(SingleVerse(book, chapter1, verse1), SingleVerse(book, chapter2, verse2))
+      assertVerseRangesEqual(expectedVerseRange, actualVerseRange)
+    }
+
+    test("Ruth 1", 1, 1, 1, 22)
+    test("Ruth 1:2", 1, 2, 1, 2)
+    test("Ruth 1:2-3", 1, 2, 1, 3)
+    test("Ruth 1:2-3:4", 1, 2, 3, 4)
+
+  }
+
 
   /*
     1 Sam 22:22
@@ -45,9 +70,6 @@ class RsbNoteWebTest extends FunSuite {
       assertFalse(s.matches(form2Regex))
       assertTrue(s.matches(form3Regex))
     })
-
-
-
   }
 
   test("regex 2") {
@@ -60,6 +82,7 @@ class RsbNoteWebTest extends FunSuite {
       case _ =>
     }
   }
+
 
 
 }

@@ -3,13 +3,8 @@
 To do
 -----
 
-- add # of verses in each chapter to Book
-  - Parse NIV.json
-- add NIV name
 
-
-- handle note "Ps 1"
-
+- maybe remove verse range from RsbNote json since we already have the title,  what about book?
 
   - json
     - a file for each book

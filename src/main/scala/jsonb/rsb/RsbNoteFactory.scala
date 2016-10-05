@@ -1,18 +1,42 @@
 package jsonb.rsb
 
-import java.io.PrintWriter
+import java.io.{InputStream, PrintWriter}
 import java.util.Date
 
+import jsonb.DayReadingParser._
 import jsonb._
 import play.api.libs.json._
 
-import scala.io.Source
+import scala.io.{BufferedSource, Source}
 
 
 /**
   * Various methods related to creating RsbNotes
   */
 object RsbNoteFactory {
+
+
+  /**
+    * Get RsbNotes for a whole book
+    */
+  def rsbNotes(book: Book): Seq[RsbNote] = {
+
+    val inputStream: InputStream = getClass.getResourceAsStream("/rsb/ids/" + book.oneYearBibleName + "_ids.txt")
+    try {
+      val bufferedSource: BufferedSource = io.Source.fromInputStream(inputStream)
+      val lines: Iterator[String] = bufferedSource.getLines()
+
+      lines.toList
+        .map(line => {
+          val id = line.toLong
+          rsbNoteFromId(id, book)
+        })
+    }
+
+    finally {
+      inputStream.close()
+    }
+  }
 
 
   /**
@@ -30,7 +54,7 @@ object RsbNoteFactory {
   /**
     * Given a RsbNote ID, gets the RsbNoteWeb from the web
     */
-  def rsbNoteWebFromId(id: Long): RsbNoteWeb = {
+  private def rsbNoteWebFromId(id: Long): RsbNoteWeb = {
     val url: String = "https://www.biblegateway.com/exbib/?pub=reformation-study-bible&chunk=" + id
     val json: String = Source.fromURL(url).mkString
     RsbNoteWebJsonParser.fromJson(json)
@@ -42,7 +66,7 @@ object RsbNoteFactory {
     *   https://www.biblegateway.com/exbib/contents/?osis=Ruth.1.1-Ruth.200.100
     * Finds the RSB note ids
     */
-  def writeNoteIdsToFile(book: Book): Unit = {
+  private def writeNoteIdsToFile(book: Book): Unit = {
 
     val url = "https://www.biblegateway.com/exbib/contents/?osis=" +
       book.exbibName + ".1.1-" + book.exbibName + ".200.100"
@@ -60,7 +84,7 @@ object RsbNoteFactory {
     *   https://www.biblegateway.com/exbib/contents/?osis=Ruth.1.1-Ruth.200.100
     * Finds the RSB note ids
     */
-  def getNoteIdsFromUrl(url: String): Seq[Long] = {
+  private def getNoteIdsFromUrl(url: String): Seq[Long] = {
     val json: String = Source.fromURL(url).mkString
     getNoteIdsFromJson(json)
   }
