@@ -24,6 +24,7 @@ class BookTest extends FunSuite {
       oneYearBibleName = "ruth",
       exbibName = "Ruth",
       nivName = "Ruth",
+      rsbNoteName = "Ruth",
       isOldTestament = true,
       chapterNumVerses = Seq(22, 23, 18, 22)
     )

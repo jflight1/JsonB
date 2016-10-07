@@ -11,14 +11,8 @@ import scala.util.matching.Regex
 
 
 @RunWith(classOf[JUnitRunner])
-class RsbNoteWebTest extends FunSuite {
+class RsbNoteTitleParserTest extends FunSuite {
 
-
-  /*
-case class RsbNoteWeb(id: Long,
-                      title: String,
-                      text: String) {
-   */
 
   test("verseRange") {
     val book = Books.find("ruth")
@@ -29,11 +23,20 @@ case class RsbNoteWeb(id: Long,
       assertVerseRangesEqual(expectedVerseRange, actualVerseRange)
     }
 
-    test("Ruth 1", 1, 1, 1, 22)
-    test("Ruth 1:2", 1, 2, 1, 2)
-    test("Ruth 1:2-3", 1, 2, 1, 3)
     test("Ruth 1:2-3:4", 1, 2, 3, 4)
+    test("Ruth 2:3-4:5", 2, 3, 4, 5)
 
+    test("Ruth 1-2:3", 1, 1, 2, 3)
+    test("Ruth 2-3:4", 2, 1, 3, 4)
+
+    test("Ruth 1:2-3", 1, 2, 1, 3)
+    test("Ruth 2:3-4", 2, 3, 2, 4)
+
+    test("Ruth 1-2", 1, 1, 2, 23)
+    test("Ruth 2-3", 2, 1, 3, 18)
+
+    test("Ruth 1", 1, 1, 1, 22)
+    test("Ruth 2", 2, 1, 2, 23)
   }
 
 

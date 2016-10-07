@@ -9,7 +9,7 @@ import scala.io.BufferedSource
 
 
 
-object Books {
+object Books_old {
 
 
   /////////////////////////  deprecated
@@ -64,7 +64,7 @@ object Books {
         val oneYearBibleName: String = oneYearBibleBookNameInfo.name
 
         // this no longer works as nivName and isOldTestament are wrong
-        val book: Book = Book(oneYearBibleName, exbibName, nivName = "", isOldTestament = true, Seq(1)) // bug
+        val book: Book = Book(oneYearBibleName, exbibName, nivName = "", "", isOldTestament = true, Seq(1)) // bug
 
         book :: generateBooks(exbibLineIter, oneYearBibleBookNames,
           index + oneYearBibleBookNameInfo.indexIncrement)

@@ -12,53 +12,7 @@ case class RsbNoteWeb(id: Long,
                       title: String,
                       text: String) {
 
-  // They dash they use is different from the one you type so handle both
-  val dashRegex = "[–-]"
-
-  /**
-    * Parses the title to get a VerseRange.  The book names in a title string are different from the names
-    * we have in our Book objects, so we can't use it to find the Book.  Luckily we already know the book when we
-    * call this method so we pass it in as an argument.  While a VerseRange could conceiveable span two books,
-    * In an RsbNote it never does.
-    */
-  def verseRange(book: Book): VerseRange = {
-    val oneNumberRegex = ".* (\\d+)$".r
-    val twoNumberRegex = ".* (\\d+):(\\d+)$".r
-    val threeNumberRegex = (".* (\\d+):(\\d+)" + dashRegex + "(\\d+)$").r
-    val fourNumberRegex = (".* (\\d+):(\\d+)" + dashRegex + "(\\d+):(\\d+)$").r
-
-    title match {
-      case twoNumberRegex(s1, s2) =>
-        val chapter = s1.toInt
-        val verse = s2.toInt
-        val singleVerse: SingleVerse = SingleVerse(book, chapter, verse)
-        VerseRange(singleVerse, singleVerse)
-
-      case threeNumberRegex(s1, s2, s3) =>
-        val chapter = s1.toInt
-        val verse1 = s2.toInt
-        val verse2 = s3.toInt
-        VerseRange(SingleVerse(book, chapter, verse1),
-          SingleVerse(book, chapter, verse2))
-
-      case fourNumberRegex(s1, s2, s3, s4) =>
-        val chapter1 = s1.toInt
-        val verse1 = s2.toInt
-        val chapter2 = s3.toInt
-        val verse2 = s4.toInt
-        VerseRange(SingleVerse(book, chapter1, verse1),
-          SingleVerse(book, chapter2, verse2))
-
-      case oneNumberRegex(s1) =>
-        val chapter = s1.toInt
-        val verse1 = 1
-        val verse2 = book.chapterNumVerses(chapter - 1) // last verse of the chapter
-        VerseRange(SingleVerse(book, chapter, verse1), SingleVerse(book, chapter, verse2))
-
-      case _ => throw new Exception("Unparsable title: " + title)
-    }
-
-  }
+  def verseRange(book: Book): VerseRange = RsbNoteTitleParser.verseRange(title, book)
 }
 
 

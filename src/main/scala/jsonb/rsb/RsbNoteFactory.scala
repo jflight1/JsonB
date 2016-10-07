@@ -54,7 +54,7 @@ object RsbNoteFactory {
   /**
     * Given a RsbNote ID, gets the RsbNoteWeb from the web
     */
-  private def rsbNoteWebFromId(id: Long): RsbNoteWeb = {
+  def rsbNoteWebFromId(id: Long): RsbNoteWeb = {
     val url: String = "https://www.biblegateway.com/exbib/?pub=reformation-study-bible&chunk=" + id
     val json: String = Source.fromURL(url).mkString
     RsbNoteWebJsonParser.fromJson(json)

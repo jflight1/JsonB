@@ -16,7 +16,8 @@ import scala.io.BufferedSource
   * @param nivName Name in NIV.json
   * @param chapterNumVerses The number of verses in each chapter
   */
-case class Book(oneYearBibleName: String, exbibName: String, nivName: String, isOldTestament: Boolean, chapterNumVerses: Seq[Int]) {
+case class Book(oneYearBibleName: String, exbibName: String, nivName: String, rsbNoteName: String,
+                isOldTestament: Boolean, chapterNumVerses: Seq[Int]) {
 
   def nameMatches(name: String): Boolean = {
     oneYearBibleName.toLowerCase == cleanName(name) ||
@@ -37,6 +38,7 @@ object BookParser extends JsonParserBase[Book] {
     "oneYearBibleName" -> book.oneYearBibleName,
     "exbibName" -> book.exbibName,
     "nivName" -> book.nivName,
+    "rsbNoteName" -> book.rsbNoteName,
     "isOldTestament" -> book.isOldTestament,
     "chapterNumVerses" -> Json.toJson(book.chapterNumVerses))
 
@@ -46,6 +48,7 @@ object BookParser extends JsonParserBase[Book] {
       (jsObject \ "oneYearBibleName").as[String],
       (jsObject \ "exbibName").as[String],
       (jsObject \ "nivName").as[String],
+      (jsObject \ "rsbNoteName").as[String],
       (jsObject \ "isOldTestament").as[Boolean],
       (jsObject \ "chapterNumVerses").as[Seq[Int]])
 }
