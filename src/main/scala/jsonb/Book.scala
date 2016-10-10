@@ -20,12 +20,20 @@ case class Book(oneYearBibleName: String, exbibName: String, nivName: String, rs
                 isOldTestament: Boolean, chapterNumVerses: Seq[Int]) {
 
   def nameMatches(name: String): Boolean = {
-    oneYearBibleName.toLowerCase == cleanName(name) ||
-      exbibName.toLowerCase == cleanName(name) ||
-      (oneYearBibleName == "psalms" && cleanName(name).contains("psalm")) // special case because you say "psalm 23"
+
+    def nameMatches(name: String, okNames: Seq[String]): Boolean = {
+      okNames.map(okName => cleanName(okName)) match {
+        case Nil => false;
+        case `name` :: theRest => true
+        case okName :: theRest => nameMatches(name, theRest)
+      }
+    }
+
+    nameMatches(cleanName(name), Seq(oneYearBibleName, exbibName, nivName, rsbNoteName)) ||
+      (cleanName(name) == "psalm" && oneYearBibleName == "psalms")
   }
 
-  def cleanName(name: String) = name.trim.toLowerCase
+  private def cleanName(name: String) = name.trim.toLowerCase
 
   def numChapters: Int = chapterNumVerses.size
 

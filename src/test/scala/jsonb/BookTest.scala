@@ -17,21 +17,56 @@ class BookTest extends FunSuite {
 
     val books: Seq[Book] = Books.allBooks
     assertEquals(66, books.size)
+  }
 
-    val actualBook: Book = books(7)
 
+  test("Book fields") {
+    val books: Seq[Book] = Books.allBooks
+
+    // use 1samuel because all the names are different
+    val actualBook: Book = books(8)
     val expectedBook: Book = Book(
-      oneYearBibleName = "ruth",
-      exbibName = "Ruth",
-      nivName = "Ruth",
-      rsbNoteName = "Ruth",
+      oneYearBibleName = "1samuel",
+      exbibName = "1Sam",
+      nivName = "1 Samuel",
+      rsbNoteName = "1 Sam",
       isOldTestament = true,
-      chapterNumVerses = Seq(22, 23, 18, 22)
+      chapterNumVerses = Seq(28, 36, 21, 22, 12, 21, 17, 22, 27, 27, 15, 25, 23, 52, 35, 23, 58, 30, 24, 42, 15, 23, 29, 22, 44, 25, 12, 25, 11, 31, 13)
     )
 
     assertBooksEqual(expectedBook, actualBook)
-    assertEquals(4, actualBook.numChapters)
   }
+
+
+  test("numChapters") {
+    val book: Book = Books.find("ruth")
+    assertEquals(4, book.numChapters)
+  }
+
+
+  test("find") {
+    Books.allBooks.foreach(book => {
+      def check(name: String): Unit = {
+        // alter nane to check trim and case insensitivity
+        assertEquals(book, Books.find(" " + name.toUpperCase + " "))
+      }
+
+      check(book.oneYearBibleName)
+      check(book.exbibName)
+      check(book.nivName)
+      check(book.rsbNoteName)
+    })
+  }
+
+
+  /*
+  def nameMatches(name: String): Boolean = {
+    oneYearBibleName.toLowerCase == cleanName(name) ||
+      exbibName.toLowerCase == cleanName(name) ||
+      (oneYearBibleName == "psalms" && cleanName(name).contains("psalm")) // special case because you say "psalm 23"
+  }
+
+   */
 
 
 }
