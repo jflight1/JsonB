@@ -11,7 +11,7 @@ import play.api.libs.json.{JsArray, JsObject, JsValue, Json}
   */
 abstract class JsonParserBase[T] extends JsonParser[T] {
 
-  override def toJson(t: T): String = Json.prettyPrint(toJsObject(t))
+  override def toJson(t: T): String = Json.prettyPrint(toJsValue(t))
 
 
   override def fromJson(json: String): T = {
@@ -22,7 +22,7 @@ abstract class JsonParserBase[T] extends JsonParser[T] {
 
   override def seqToJson(seq: Seq[T]): String = {
 
-    val jsObjects: Seq[JsObject] = seq.map(t => toJsObject(t))
+    val jsObjects: Seq[JsValue] = seq.map(t => toJsValue(t))
     val jsValue: JsValue = Json.toJson(jsObjects)
     Json.prettyPrint(jsValue)
   }

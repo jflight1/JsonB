@@ -1,7 +1,7 @@
 package jsonb.rsb
 
 import jsonb.{JsonParserBase, SingleVerse, VerseRange, Book}
-import play.api.libs.json.{Json, JsObject}
+import play.api.libs.json.{JsValue, Json, JsObject}
 
 
 /**
@@ -37,17 +37,17 @@ case class RsbNoteWeb(id: Long,
 object RsbNoteWebJsonParser extends JsonParserBase[RsbNoteWeb] {
 
 
-  override def toJsObject(rsbNoteWeb: RsbNoteWeb): JsObject = Json.obj(
+  override def toJsValue(rsbNoteWeb: RsbNoteWeb): JsObject = Json.obj(
     "id" -> rsbNoteWeb.id,
     "title" -> rsbNoteWeb.title,
     "text" -> rsbNoteWeb.text)
 
 
-  override def fromJson(jsObject: JsObject): RsbNoteWeb = {
+  override def fromJson(jsValue: JsValue): RsbNoteWeb = {
     RsbNoteWeb(
-      (jsObject \ "id").as[String].toLong,
-      (jsObject \ "title").as[String],
-      (jsObject \ "text").as[String])
+      (jsValue \ "id").as[String].toLong,
+      (jsValue \ "title").as[String],
+      (jsValue \ "text").as[String])
   }
 
 

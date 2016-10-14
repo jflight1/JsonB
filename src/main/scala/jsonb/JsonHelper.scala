@@ -1,6 +1,6 @@
 package jsonb
 
-import play.api.libs.json.{JsArray, JsObject, Json}
+import play.api.libs.json.{JsObject, JsValue}
 
 
 /**
@@ -8,14 +8,17 @@ import play.api.libs.json.{JsArray, JsObject, Json}
   */
 object JsonHelper {
 
-  def getInt(jsObject: JsObject, field: String) =
-    (jsObject \ field).as[Int]
+  def getInt(jsValue: JsValue, field: String) =
+    (jsValue \ field).as[Int]
 
-  def getString(jsObject: JsObject, field: String) =
-    (jsObject \ field).as[String]
+  def getString(jsValue: JsValue, field: String) =
+    (jsValue \ field).as[String]
 
-  def getJsObject(jsObject: JsObject, field: String) =
-    (jsObject \ field).as[JsObject]
+  def getJsObject(jsValue: JsValue, field: String): JsObject =
+    (jsValue \ field).as[JsObject]
+
+  def getJsValue(jsValue: JsValue, field: String): JsValue =
+    (jsValue \ field).as[JsValue]
 
 
 }

@@ -46,7 +46,7 @@ case class Book(oneYearBibleName: String, exbibName: String, nivName: String, rs
 
 object BookParser extends JsonParserBase[Book] {
 
-  override def toJsObject(book: Book): JsObject = Json.obj(
+  override def toJsValue(book: Book): JsObject = Json.obj(
     "oneYearBibleName" -> book.oneYearBibleName,
     "exbibName" -> book.exbibName,
     "nivName" -> book.nivName,
@@ -55,14 +55,14 @@ object BookParser extends JsonParserBase[Book] {
     "chapterNumVerses" -> Json.toJson(book.chapterNumVerses))
 
 
-  override def fromJson(jsObject: JsObject): Book =
+  override def fromJson(jsValue: JsValue): Book =
     Book(
-      (jsObject \ "oneYearBibleName").as[String],
-      (jsObject \ "exbibName").as[String],
-      (jsObject \ "nivName").as[String],
-      (jsObject \ "rsbNoteName").as[String],
-      (jsObject \ "isOldTestament").as[Boolean],
-      (jsObject \ "chapterNumVerses").as[Seq[Int]])
+      (jsValue \ "oneYearBibleName").as[String],
+      (jsValue \ "exbibName").as[String],
+      (jsValue \ "nivName").as[String],
+      (jsValue \ "rsbNoteName").as[String],
+      (jsValue \ "isOldTestament").as[Boolean],
+      (jsValue \ "chapterNumVerses").as[Seq[Int]])
 }
 
 

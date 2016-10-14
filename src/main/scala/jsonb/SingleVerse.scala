@@ -14,16 +14,16 @@ case class SingleVerse(book: Book, chapter: Int, verse: Int)
 object SingleVerseParser extends JsonParserBase[SingleVerse] {
 
 
-  override def toJsObject(singleVerse: SingleVerse): JsObject = Json.obj(
+  override def toJsValue(singleVerse: SingleVerse): JsValue = Json.obj(
     "book" -> singleVerse.book.oneYearBibleName,
     "chapter" -> singleVerse.chapter,
     "verse" -> singleVerse.verse)
 
 
-  override def fromJson(jsObject: JsObject): SingleVerse =
-    SingleVerse(Books.find((jsObject \ "book").as[String]),
-      (jsObject \ "chapter").as[Int],
-      (jsObject \ "verse").as[Int])
+  override def fromJson(jsValue: JsValue): SingleVerse =
+    SingleVerse(Books.find((jsValue \ "book").as[String]),
+      (jsValue \ "chapter").as[Int],
+      (jsValue \ "verse").as[Int])
 
 }
 

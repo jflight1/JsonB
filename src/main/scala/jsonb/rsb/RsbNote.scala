@@ -17,18 +17,18 @@ case class RsbNote(verseRange: VerseRange,
 
 object RsbNoteJsonParser extends JsonParserBase[RsbNote] {
 
-  override def toJsObject(rsbNote: RsbNote): JsObject = Json.obj(
-    "verseRange" -> VerseRangeParser.toJsObject(rsbNote.verseRange),
+  override def toJsValue(rsbNote: RsbNote): JsObject = Json.obj(
+    "verseRange" -> VerseRangeParser.toJsValue(rsbNote.verseRange),
     "id" -> rsbNote.id,
     "title" -> rsbNote.title,
     "text" -> rsbNote.text)
 
-  override def fromJson(jsObject: JsObject): RsbNote = {
+  override def fromJson(jsValue: JsValue): RsbNote = {
     RsbNote(
-      VerseRangeParser.fromJson((jsObject \ "verseRange").as[JsObject]),
-      (jsObject \ "id").as[String].toLong,
-      (jsObject \ "title").as[String],
-      (jsObject \ "text").as[String])
+      VerseRangeParser.fromJson((jsValue \ "verseRange").as[JsObject]),
+      (jsValue \ "id").as[String].toLong,
+      (jsValue \ "title").as[String],
+      (jsValue \ "text").as[String])
   }
 
 

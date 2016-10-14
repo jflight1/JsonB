@@ -2,7 +2,7 @@ package jsonb
 
 import java.io.InputStream
 
-import play.api.libs.json.{JsObject, Json}
+import play.api.libs.json.{JsValue, JsObject, Json}
 
 import scala.io.{BufferedSource, Source}
 
@@ -60,22 +60,22 @@ case class DayReading(month: Int,
 object DayReadingParser extends JsonParserBase[DayReading] {
 
 
-  override def toJsObject(dayReading: DayReading): JsObject = Json.obj(
+  override def toJsValue(dayReading: DayReading): JsObject = Json.obj(
     Keys.MONTH -> dayReading.month,
     Keys.DAY -> dayReading.day,
-    Keys.OLD_TESTAMENT -> VerseRangeParser.toJsObject(dayReading.oldTestament),
-    Keys.NEW_TESTAMENT -> VerseRangeParser.toJsObject(dayReading.newTestament),
-    Keys.PSALMS -> VerseRangeParser.toJsObject(dayReading.psalms),
-    Keys.PROVERBS -> VerseRangeParser.toJsObject(dayReading.proverbs))
+    Keys.OLD_TESTAMENT -> VerseRangeParser.toJsValue(dayReading.oldTestament),
+    Keys.NEW_TESTAMENT -> VerseRangeParser.toJsValue(dayReading.newTestament),
+    Keys.PSALMS -> VerseRangeParser.toJsValue(dayReading.psalms),
+    Keys.PROVERBS -> VerseRangeParser.toJsValue(dayReading.proverbs))
 
 
-  override def fromJson(jsObject: JsObject): DayReading = DayReading(
-    JsonHelper.getInt(jsObject, Keys.MONTH),
-    JsonHelper.getInt(jsObject, Keys.DAY),
-    VerseRangeParser.fromJson(JsonHelper.getJsObject(jsObject, Keys.OLD_TESTAMENT)),
-    VerseRangeParser.fromJson(JsonHelper.getJsObject(jsObject, Keys.NEW_TESTAMENT)),
-    VerseRangeParser.fromJson(JsonHelper.getJsObject(jsObject, Keys.PSALMS)),
-    VerseRangeParser.fromJson(JsonHelper.getJsObject(jsObject, Keys.PROVERBS)))
+  override def fromJson(jsValue: JsValue): DayReading = DayReading(
+    JsonHelper.getInt(jsValue, Keys.MONTH),
+    JsonHelper.getInt(jsValue, Keys.DAY),
+    VerseRangeParser.fromJson(JsonHelper.getJsValue(jsValue, Keys.OLD_TESTAMENT)),
+    VerseRangeParser.fromJson(JsonHelper.getJsValue(jsValue, Keys.NEW_TESTAMENT)),
+    VerseRangeParser.fromJson(JsonHelper.getJsValue(jsValue, Keys.PSALMS)),
+    VerseRangeParser.fromJson(JsonHelper.getJsValue(jsValue, Keys.PROVERBS)))
 
 
   def parseMonthFile(fileName: String, month: Int): List[DayReading] = {

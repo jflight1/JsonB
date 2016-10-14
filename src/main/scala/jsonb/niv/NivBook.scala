@@ -3,7 +3,7 @@ package jsonb.niv
 import java.io.{PrintWriter, InputStream}
 
 import jsonb.{Book, Books, JsonParserBase}
-import play.api.libs.json.{JsArray, JsObject, Json}
+import play.api.libs.json.{JsValue, JsArray, JsObject, Json}
 
 import scala.collection.Set
 
@@ -21,7 +21,7 @@ case class BookWithChapterNumVerses(book: Book, chapterNumVerses: Seq[Int])
 
 object BookWithChapterNumVersesParser extends JsonParserBase[BookWithChapterNumVerses] {
 
-  override def toJsObject(bookWithChapterNumVerses: BookWithChapterNumVerses): JsObject = {
+  override def toJsValue(bookWithChapterNumVerses: BookWithChapterNumVerses): JsObject = {
     val book: Book = bookWithChapterNumVerses.book
 
     val arr: JsArray = Json.arr(bookWithChapterNumVerses.chapterNumVerses)
@@ -34,7 +34,7 @@ object BookWithChapterNumVersesParser extends JsonParserBase[BookWithChapterNumV
     )
   }
 
-  override def fromJson(jsObject: JsObject): BookWithChapterNumVerses = {
+  override def fromJson(jsValue: JsValue): BookWithChapterNumVerses = {
     throw new UnsupportedOperationException
   }
 }

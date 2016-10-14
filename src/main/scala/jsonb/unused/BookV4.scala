@@ -5,7 +5,7 @@ import java.io.{PrintWriter, InputStream}
 import jsonb.rsb.{RsbNote, RsbNoteFactory}
 import jsonb.rsb.RsbNoteFactory._
 import jsonb.{JsonParserBase, Books, Book}
-import play.api.libs.json.{Json, JsObject}
+import play.api.libs.json.{JsValue, Json, JsObject}
 
 import scala.io.BufferedSource
 
@@ -20,7 +20,7 @@ case class BookV4(book: Book, rsbNoteName: String)
 
 object BookV4Parser extends JsonParserBase[BookV4] {
 
-  override def toJsObject(bookv4: BookV4): JsObject = {
+  override def toJsValue(bookv4: BookV4): JsObject = {
     val book: Book = bookv4.book
     Json.obj(
       "oneYearBibleName" -> book.oneYearBibleName,
@@ -31,7 +31,7 @@ object BookV4Parser extends JsonParserBase[BookV4] {
       "chapterNumVerses" -> Json.toJson(book.chapterNumVerses))
   }
 
-  override def fromJson(jsObject: JsObject): BookV4 = {
+  override def fromJson(jsValue: JsValue): BookV4 = {
     throw new UnsupportedOperationException
   }
 }

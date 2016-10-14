@@ -1,6 +1,6 @@
 package jsonb
 
-import play.api.libs.json.{JsObject, Json}
+import play.api.libs.json.{JsValue, Json}
 
 
 /**
@@ -14,15 +14,15 @@ case class VerseRange(start: SingleVerse, end: SingleVerse)
 object VerseRangeParser extends JsonParserBase[VerseRange] {
 
 
+  override def toJsValue(verseRange: VerseRange): JsValue = Json.obj(
+    "start" -> SingleVerseParser.toJsValue(verseRange.start),
+    "end" -> SingleVerseParser.toJsValue(verseRange.end))
 
-  override def toJsObject(verseRange: VerseRange): JsObject =Json.obj(
-    "start" -> SingleVerseParser.toJsObject(verseRange.start),
-    "end" -> SingleVerseParser.toJsObject(verseRange.end))
 
-  override def fromJson(jsObject: JsObject): VerseRange =
+  override def fromJson(jsValue: JsValue): VerseRange =
     VerseRange(
-      SingleVerseParser.fromJson((jsObject \ "start").as[JsObject]),
-      SingleVerseParser.fromJson((jsObject \ "end").as[JsObject]))
+      SingleVerseParser.fromJson((jsValue \ "end").as[JsValue]),
+      SingleVerseParser.fromJson((jsValue \ "end").as[JsValue]))
 
 
   /**

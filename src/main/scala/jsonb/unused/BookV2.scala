@@ -3,7 +3,7 @@ package jsonb.unused
 import java.io.PrintWriter
 
 import jsonb.{Book, Books, JsonParserBase}
-import play.api.libs.json.{JsObject, Json}
+import play.api.libs.json.{JsValue, JsObject, Json}
 
 
 /**
@@ -14,7 +14,7 @@ case class BookV2(book: Book, nivName: String)
 
 object BookV2Parser extends JsonParserBase[BookV2] {
 
-  override def toJsObject(bookv2: BookV2): JsObject = {
+  override def toJsValue(bookv2: BookV2): JsObject = {
     val book: Book = bookv2.book
     Json.obj(
       "oneYearBibleName" -> book.oneYearBibleName,
@@ -24,17 +24,17 @@ object BookV2Parser extends JsonParserBase[BookV2] {
       "isOldTestament" -> book.isOldTestament)
   }
 
-  override def fromJson(jsObject: JsObject): BookV2 = {
+  override def fromJson(jsValue: JsValue): BookV2 = {
     throw new UnsupportedOperationException
 /*
     val book = Book(
-      (jsObject \ "oneYearBibleName").as[String],
-      (jsObject \ "exbibName").as[String],
-      (jsObject \ "nivName").as[String],
-      (jsObject \ "numChapters").as[Int],
-      (jsObject \ "isOldTestament").as[Boolean])
+      (jsValue \ "oneYearBibleName").as[String],
+      (jsValue \ "exbibName").as[String],
+      (jsValue \ "nivName").as[String],
+      (jsValue \ "numChapters").as[Int],
+      (jsValue \ "isOldTestament").as[Boolean])
 
-    BookV2(book, (jsObject \ "nivName").as[String])
+    BookV2(book, (jsValue \ "nivName").as[String])
 */
   }
 }
