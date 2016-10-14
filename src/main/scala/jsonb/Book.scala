@@ -19,6 +19,10 @@ import scala.io.BufferedSource
 case class Book(oneYearBibleName: String, exbibName: String, nivName: String, rsbNoteName: String,
                 isOldTestament: Boolean, chapterNumVerses: Seq[Int]) {
 
+
+  /**
+    * name can match any of the names
+    */
   def nameMatches(name: String): Boolean = {
 
     def nameMatches(name: String, okNames: Seq[String]): Boolean = {
@@ -30,7 +34,7 @@ case class Book(oneYearBibleName: String, exbibName: String, nivName: String, rs
     }
 
     nameMatches(cleanName(name), Seq(oneYearBibleName, exbibName, nivName, rsbNoteName)) ||
-      (cleanName(name) == "psalm" && oneYearBibleName == "psalms")
+      (cleanName(name) == "psalm" && oneYearBibleName == "psalms") // need special case
   }
 
   private def cleanName(name: String) = name.trim.toLowerCase

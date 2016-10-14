@@ -47,7 +47,7 @@ class BookTest extends FunSuite {
   test("find") {
     Books.allBooks.foreach(book => {
       def check(name: String): Unit = {
-        // alter nane to check trim and case insensitivity
+        // alter name to check trim and case insensitivity
         assertEquals(book, Books.find(" " + name.toUpperCase + " "))
       }
 
@@ -55,20 +55,12 @@ class BookTest extends FunSuite {
       check(book.exbibName)
       check(book.nivName)
       check(book.rsbNoteName)
+
+      if (book == Books.find("psalms")) {
+        check("psalm") // check special case
+      }
     })
   }
-
-
-  /*
-  def nameMatches(name: String): Boolean = {
-    oneYearBibleName.toLowerCase == cleanName(name) ||
-      exbibName.toLowerCase == cleanName(name) ||
-      (oneYearBibleName == "psalms" && cleanName(name).contains("psalm")) // special case because you say "psalm 23"
-  }
-
-   */
-
-
 }
 
 
