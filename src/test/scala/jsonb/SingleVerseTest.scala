@@ -1,5 +1,6 @@
 package jsonb
 
+import org.junit.Assert._
 import org.junit.runner.RunWith
 import org.scalatest.FunSuite
 import org.scalatest.junit.JUnitRunner
@@ -11,8 +12,7 @@ class SingleVerseTest extends FunSuite {
 
   test("toJson") {
     val jsonString: String = SingleVerseParser.toJson(SingleVerse(Books.find("genesis"), 3, 4))
-    val expected = "{\r\n  \"book\" : \"genesis\",\r\n  \"chapter\" : 3,\r\n  \"verse\" : 4\r\n}"
-    assert(jsonString == expected)
+    assertEquals("\"genesis,3,4\"", jsonString)
   }
 
 
