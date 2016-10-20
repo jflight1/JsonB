@@ -19,8 +19,8 @@ class DayReadingTest extends FunSuite {
   }
 
 
-  test("parseMonthFile") {
-    val dayReadings: List[DayReading] = DayReadingParser.parseMonthFile("/months/txt/01.txt", 1)
+  test("parseMonthTextFile") {
+    val dayReadings: List[DayReading] = DayReadingParser.parseMonthTextFile("/months/txt/01.txt", 1)
 
     assertEquals(31, dayReadings.size)
 

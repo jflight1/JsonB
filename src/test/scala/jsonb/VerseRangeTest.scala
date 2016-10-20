@@ -1,6 +1,6 @@
 package jsonb
 
-import org.junit.Assert._
+import jsonb.Assert._
 import org.junit.runner.RunWith
 import org.scalatest.FunSuite
 import org.scalatest.junit.JUnitRunner
@@ -81,16 +81,16 @@ class VerseRangeTest extends FunSuite {
 
 
 
-  test("parseMonthFileLine") {
+  test("parseMonthTextFileLine") {
     val verseRanges: List[VerseRange] = VerseRangeParser
-      .parseMonthFileLine("genesis+39:1-41:16;matthew+12:46-13:23;psalm+17:1-15")
+      .parseMonthTextFileLine("genesis+39:1-41:16;matthew+12:46-13:23;psalm+17:1-15")
 
     assertVerseRangesEqual(VerseRange(
-      SingleVerse(TestBooks.Genesis, 39, 1), SingleVerse(TestBooks.Genesis, 39, 41)),
+      SingleVerse(TestBooks.Genesis, 39, 1), SingleVerse(TestBooks.Genesis, 41, 16)),
       verseRanges(0))
 
     assertVerseRangesEqual(VerseRange(
-      SingleVerse(TestBooks.Matthew, 12, 46), SingleVerse(TestBooks.Matthew, 12, 13)),
+      SingleVerse(TestBooks.Matthew, 12, 46), SingleVerse(TestBooks.Matthew, 13, 23)),
       verseRanges(1))
 
     assertVerseRangesEqual(VerseRange(
@@ -100,23 +100,6 @@ class VerseRangeTest extends FunSuite {
 
   }
 
-
-  /**
-    * Parse a line like this:
-    *   genesis+39:1-41:16;matthew+12:46-13:23;psalm+17:1-15;proverbs+3:33-35
-    */
-  /*
-    def parseMonthFileLine(line: String): List[VerseRange] = {
-      // each part is either a VerseRange or SingleVerse.
-      // VerseRange is just two SingleVerses, so we can turn the parts into a
-      // List[SingleVerse]
-      val parts: Array[String] = line.split(";")
-      linePartsToVerseRanges(parts)
-    }
-  */
-
-  private def assertVerseRangesEqual(vr1: VerseRange, vr2: VerseRange): Unit = {
-  }
 
 
 }

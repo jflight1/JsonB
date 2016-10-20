@@ -17,29 +17,29 @@ object FindOneYearBibleBookNames {
     val iMonths = 1 to 12
 
     //  List of file names like: "/months/txt/08.txt"
-    val monthFileNames: List[String] = iMonths.map(i => {
+    val monthTextFileNames: List[String] = iMonths.map(i => {
       val sMonthNum = if (i < 10) "0" + i else "" + i
       "/months/txt/" + sMonthNum + ".txt"
     }).toList
 
-    findAll(monthFileNames, Nil, Nil)
+    findAll(monthTextFileNames, Nil, Nil)
   }
 
-  private def findAll(monthFileNames: List[String], oldTestamentList: List[String], newTestamentList: List[String])
+  private def findAll(monthTextFileNames: List[String], oldTestamentList: List[String], newTestamentList: List[String])
   : (List[String], List[String]) = {
 
-    monthFileNames match {
+    monthTextFileNames match {
       case Nil => (oldTestamentList, newTestamentList)
-      case monthFileName :: theRest => {
-        val tuple: (List[String], List[String]) = findAll(monthFileName, oldTestamentList, newTestamentList)
+      case monthTextFileName :: theRest => {
+        val tuple: (List[String], List[String]) = findAll(monthTextFileName, oldTestamentList, newTestamentList)
         findAll(theRest, tuple._1, tuple._2)
       }
     }
   }
 
-  private def findAll(monthFileName: String, oldTestamentList: List[String], newTestamentList: List[String])
+  private def findAll(monthTextFileName: String, oldTestamentList: List[String], newTestamentList: List[String])
   : (List[String], List[String]) = {
-    val inputStream: InputStream = getClass.getResourceAsStream(monthFileName)
+    val inputStream: InputStream = getClass.getResourceAsStream(monthTextFileName)
     val bufferedSource: BufferedSource = io.Source.fromInputStream(inputStream)
     val lines: Iterator[String] = bufferedSource.getLines()
     findAll(lines, oldTestamentList, newTestamentList)

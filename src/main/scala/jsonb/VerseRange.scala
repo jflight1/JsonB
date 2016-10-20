@@ -21,7 +21,7 @@ object VerseRangeParser extends JsonParserBase[VerseRange] {
 
   override def fromJson(jsValue: JsValue): VerseRange =
     VerseRange(
-      SingleVerseParser.fromJson((jsValue \ "end").as[JsValue]),
+      SingleVerseParser.fromJson((jsValue \ "start").as[JsValue]),
       SingleVerseParser.fromJson((jsValue \ "end").as[JsValue]))
 
 
@@ -91,7 +91,7 @@ object VerseRangeParser extends JsonParserBase[VerseRange] {
     * Parse a line like this:
     *   genesis+39:1-41:16;matthew+12:46-13:23;psalm+17:1-15;proverbs+3:33-35
     */
-  def parseMonthFileLine(line: String): List[VerseRange] = {
+  def parseMonthTextFileLine(line: String): List[VerseRange] = {
     // each part is either a VerseRange or SingleVerse.
     // VerseRange is just two SingleVerses, so we can turn the parts into a
     // List[SingleVerse]

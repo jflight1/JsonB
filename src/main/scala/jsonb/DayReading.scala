@@ -1,10 +1,11 @@
 package jsonb
 
-import java.io.InputStream
+import java.io.{PrintWriter, InputStream}
 
-import play.api.libs.json.{JsValue, JsObject, Json}
+import org.apache.commons.io.IOUtils
+import play.api.libs.json.{JsArray, JsObject, JsValue, Json}
 
-import scala.io.{BufferedSource, Source}
+import scala.io.BufferedSource
 
 
 /**
@@ -78,24 +79,24 @@ object DayReadingParser extends JsonParserBase[DayReading] {
     VerseRangeParser.fromJson(JsonHelper.getJsValue(jsValue, Keys.PROVERBS)))
 
 
-  def parseMonthFile(fileName: String, month: Int): List[DayReading] = {
+  def parseMonthTextFile(fileName: String, month: Int): List[DayReading] = {
 
     val inputStream: InputStream = getClass.getResourceAsStream(fileName)
     val bufferedSource: BufferedSource = io.Source.fromInputStream(inputStream)
     val lines: Iterator[String] = bufferedSource.getLines()
-    parseMonthFileLines(lines, month, 1)
+    parseMonthTextFileLines(lines, month, 1)
   }
 
 
-  private def parseMonthFileLines(lines: Iterator[String], month: Int, startDay: Int): List[DayReading] = {
+  private def parseMonthTextFileLines(lines: Iterator[String], month: Int, startDay: Int): List[DayReading] = {
     if (lines.hasNext) {
       val line: String = lines.next()
       if (line.trim.isEmpty) {
-        parseMonthFileLines(lines, month, startDay) // skip empty lines
+        parseMonthTextFileLines(lines, month, startDay) // skip empty lines
       }
       else {
-        val dayReading: DayReading = parseMonthFileLine(line, month, startDay)
-        dayReading :: parseMonthFileLines(lines, month, startDay + 1)
+        val dayReading: DayReading = parseMonthTextFileLine(line, month, startDay)
+        dayReading :: parseMonthTextFileLines(lines, month, startDay + 1)
       }
     }
 
@@ -107,10 +108,10 @@ object DayReadingParser extends JsonParserBase[DayReading] {
     * Parse a line like this:
     *   genesis+39:1-41:16;matthew+12:46-13:23;psalm+17:1-15;proverbs+3:33-35
     */
-  private def parseMonthFileLine(line: String, month: Int, day: Int): DayReading = {
+  private def parseMonthTextFileLine(line: String, month: Int, day: Int): DayReading = {
 
     try {
-      val rawVerseRanges = VerseRangeParser.parseMonthFileLine(line)
+      val rawVerseRanges = VerseRangeParser.parseMonthTextFileLine(line)
       val verseRanges = combineVerseRanges(rawVerseRanges)
       if (verseRanges.size != 4)
         throw new Exception("Bad line: " + line)
@@ -159,7 +160,42 @@ object DayReadingParser extends JsonParserBase[DayReading] {
       }
     }
   }
+
 }
 
 
 
+
+/**
+  * Generates the version 2 month json files
+  */
+object V2FileGenerator {
+
+  def generateAll(): Unit = {
+    (1 to 12).foreach(month => {
+      generateMonthJsonFile(month)
+    })
+  }
+
+
+  def generateMonthJsonFile(month: Int): Unit = {
+    val sMonthNum = if (month < 10) "0" + month else "" + month
+    val inFileName = "/months/json/" + sMonthNum + ".json"
+    val inputStream: InputStream = getClass.getResourceAsStream(inFileName)
+    val json: String = IOUtils.toString(inputStream, "UTF-8")
+    val jsArray: JsArray = Json.parse(json).as[JsArray].head.as[JsArray]
+    val dayReadings: Seq[DayReading] = jsArray.value.map(jsValue => DayReadingParser.fromJson(jsValue))
+    val v2Json: String = DayReadingParser.seqToJson(dayReadings)
+
+    val fileName = "src\\main\\resources\\months\\json2\\" + sMonthNum + ".json"
+    val printWriter: PrintWriter = new PrintWriter(fileName)
+    printWriter.println(v2Json)
+    printWriter.close()
+  }
+
+
+
+  def main(args: Array[String]): Unit = {
+    generateAll()
+  }
+}
