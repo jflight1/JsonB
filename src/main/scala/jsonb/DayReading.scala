@@ -2,6 +2,7 @@ package jsonb
 
 import java.io.{PrintWriter, InputStream}
 
+import jsonb.V2FileGenerator._
 import org.apache.commons.io.IOUtils
 import play.api.libs.json.{JsArray, JsObject, JsValue, Json}
 
@@ -160,6 +161,18 @@ object DayReadingParser extends JsonParserBase[DayReading] {
       }
     }
   }
+
+
+  def parseMonthJsonFile(month: Int): Seq[DayReading] = {
+    val sMonthNum = if (month < 10) "0" + month else "" + month
+    val inFileName = "/months/json/" + sMonthNum + ".json"
+    val inputStream: InputStream = getClass.getResourceAsStream(inFileName)
+    val json: String = IOUtils.toString(inputStream, "UTF-8")
+    val jsArray: JsArray = Json.parse(json).as[JsArray].head.as[JsArray]
+    jsArray.value.map(jsValue => DayReadingParser.fromJson(jsValue))
+  }
+
+
 
 }
 
