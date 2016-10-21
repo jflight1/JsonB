@@ -206,9 +206,36 @@ object V2FileGenerator {
     printWriter.close()
   }
 
+  def main(args: Array[String]): Unit = {
+    generateAll()
+  }
+}
+
+
+/**
+  * Generates the version 2 month json files
+  */
+object V3FileGenerator {
 
 
   def main(args: Array[String]): Unit = {
-    generateAll()
+    (1 to 12).foreach(month => {
+      generateMonthJsonFile(month)
+    })
+  }
+
+  def generateMonthJsonFile(month: Int): Unit = {
+    val sMonthNum = if (month < 10) "0" + month else "" + month
+    val inFileName = "/months/json/" + sMonthNum + ".json"
+    val inputStream: InputStream = getClass.getResourceAsStream(inFileName)
+    val json: String = IOUtils.toString(inputStream, "UTF-8")
+    val jsArray: JsArray = Json.parse(json).as[JsArray]
+    val dayReadings: Seq[DayReading] = jsArray.value.map(jsValue => DayReadingParser.fromJson(jsValue))
+    val v3Json: String = DayReadingParser.seqToJson(dayReadings)
+
+    val fileName = "src\\main\\resources\\months\\json_v3\\" + sMonthNum + ".json"
+    val printWriter: PrintWriter = new PrintWriter(fileName)
+    printWriter.println(v3Json)
+    printWriter.close()
   }
 }

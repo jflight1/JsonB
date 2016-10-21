@@ -79,6 +79,17 @@ object Books {
 
     books.head
   }
+
+
 }
 
 
+object SortBySize {
+
+  def main(args: Array[String]): Unit = {
+    Books.allBooks
+      .sortBy(b => -b.chapterNumVerses.sum)
+      .map(b => b.oneYearBibleName)
+      .foreach(b => println(b))
+  }
+}

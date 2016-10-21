@@ -3,11 +3,12 @@ package jsonb
 import play.api.libs.json._
 
 
-/**
-  * Created by jflight on 9/3/2016.
-  */
+
 case class SingleVerse(book: Book, chapter: Int, verse: Int)
-  extends VerseLocation
+  extends VerseLocation {
+
+  override def toString: String = book.oneYearBibleName + "," + chapter + "," + verse
+}
 
 
 
@@ -15,16 +16,25 @@ object SingleVerseParser extends JsonParserBase[SingleVerse] {
 
 
   override def toJsValue(singleVerse: SingleVerse): JsValue =
-    JsString(singleVerse.book.oneYearBibleName + "," + singleVerse.chapter + "," + singleVerse.verse)
+    JsString(singleVerse.toString)
 
 
+  /**
+    * Note: This differs from fromString below because a json string will actually
+    * include quotes as part of the string like: "genesis,1,2"
+    */
   override def fromJson(json: String): SingleVerse = {
     val jsString: JsString = Json.parse(json).as[JsString]
     fromJson(jsString)
   }
 
-  override def fromJson(jsValue: JsValue): SingleVerse = {
-    val parts: Array[String] = jsValue.as[JsString].value.split(",")
+
+  override def fromJson(jsValue: JsValue): SingleVerse =
+    fromString(jsValue.as[JsString].value)
+
+
+  def fromString(s: String): SingleVerse = {
+    val parts: Array[String] = s.split(",")
 
     SingleVerse(
       book = Books.find(parts(0)),

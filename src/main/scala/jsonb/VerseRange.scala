@@ -1,28 +1,56 @@
 package jsonb
 
-import play.api.libs.json.{JsValue, Json}
+import play.api.libs.json.{Json, JsString, JsValue}
+
+
+
+case class VerseRange(start: SingleVerse, end: SingleVerse)
+  extends VerseLocation {
+
+  override def toString: String =
+    if (start == end)
+      start.toString
+    else
+      start.toString + "-" + end.toString
+}
 
 
 /**
-  * Created by jflight on 9/3/2016.
+  * The json will be like
+  *   "genesis,1,2"
+  *   "genesis,1,2-exodus,3,4"
+  * depending on whether start and end differ.
   */
-case class VerseRange(start: SingleVerse, end: SingleVerse)
-  extends VerseLocation
-
-
-
 object VerseRangeParser extends JsonParserBase[VerseRange] {
 
 
-  override def toJsValue(verseRange: VerseRange): JsValue = Json.obj(
-    "start" -> SingleVerseParser.toJsValue(verseRange.start),
-    "end" -> SingleVerseParser.toJsValue(verseRange.end))
+  override def toJsValue(verseRange: VerseRange): JsValue =
+    JsString(verseRange.toString)
 
 
-  override def fromJson(jsValue: JsValue): VerseRange =
-    VerseRange(
-      SingleVerseParser.fromJson((jsValue \ "start").as[JsValue]),
-      SingleVerseParser.fromJson((jsValue \ "end").as[JsValue]))
+  override def fromJson(json: String): VerseRange = {
+    val jsString: JsString = Json.parse(json).as[JsString]
+    fromJson(jsString)
+  }
+
+
+  override def fromJson(jsValue: JsValue): VerseRange = {
+    val sVerseRange: String = jsValue.as[JsString].value
+
+    // there'll only be a "-" when start and end differ
+    if (sVerseRange.contains("-")) {
+      val parts: Array[String] = sVerseRange.split("-")
+      val start: SingleVerse = SingleVerseParser.fromString(parts(0))
+      val end: SingleVerse = SingleVerseParser.fromString(parts(1))
+      VerseRange(start, end)
+    }
+
+    else {
+      val singleVerse: SingleVerse = SingleVerseParser.fromString(sVerseRange)
+      VerseRange(singleVerse, singleVerse)
+    }
+  }
+
 
 
   /**

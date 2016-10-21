@@ -1,590 +1,218 @@
 [ {
   "month" : 7,
   "day" : 1,
-  "oldTestament" : {
-    "start" : "2kings,18,13",
-    "end" : "2kings,19,37"
-  },
-  "newTestament" : {
-    "start" : "acts,21,1",
-    "end" : "acts,21,17"
-  },
-  "psalms" : {
-    "start" : "psalms,149,1",
-    "end" : "psalms,149,9"
-  },
-  "proverbs" : {
-    "start" : "proverbs,18,8",
-    "end" : "proverbs,18,8"
-  }
+  "oldTestament" : "2kings,18,13-2kings,19,37",
+  "newTestament" : "acts,21,1-acts,21,17",
+  "psalms" : "psalms,149,1-psalms,149,9",
+  "proverbs" : "proverbs,18,8"
 }, {
   "month" : 7,
   "day" : 2,
-  "oldTestament" : {
-    "start" : "2kings,20,1",
-    "end" : "2kings,22,2"
-  },
-  "newTestament" : {
-    "start" : "acts,21,18",
-    "end" : "acts,21,36"
-  },
-  "psalms" : {
-    "start" : "psalms,150,1",
-    "end" : "psalms,150,6"
-  },
-  "proverbs" : {
-    "start" : "proverbs,18,9",
-    "end" : "proverbs,18,10"
-  }
+  "oldTestament" : "2kings,20,1-2kings,22,2",
+  "newTestament" : "acts,21,18-acts,21,36",
+  "psalms" : "psalms,150,1-psalms,150,6",
+  "proverbs" : "proverbs,18,9-proverbs,18,10"
 }, {
   "month" : 7,
   "day" : 3,
-  "oldTestament" : {
-    "start" : "2kings,22,3",
-    "end" : "2kings,23,30"
-  },
-  "newTestament" : {
-    "start" : "acts,21,37",
-    "end" : "acts,22,16"
-  },
-  "psalms" : {
-    "start" : "psalms,1,1",
-    "end" : "psalms,1,6"
-  },
-  "proverbs" : {
-    "start" : "proverbs,18,11",
-    "end" : "proverbs,18,12"
-  }
+  "oldTestament" : "2kings,22,3-2kings,23,30",
+  "newTestament" : "acts,21,37-acts,22,16",
+  "psalms" : "psalms,1,1-psalms,1,6",
+  "proverbs" : "proverbs,18,11-proverbs,18,12"
 }, {
   "month" : 7,
   "day" : 4,
-  "oldTestament" : {
-    "start" : "2kings,23,31",
-    "end" : "2kings,25,30"
-  },
-  "newTestament" : {
-    "start" : "acts,22,17",
-    "end" : "acts,23,10"
-  },
-  "psalms" : {
-    "start" : "psalms,2,1",
-    "end" : "psalms,2,12"
-  },
-  "proverbs" : {
-    "start" : "proverbs,18,13",
-    "end" : "proverbs,18,13"
-  }
+  "oldTestament" : "2kings,23,31-2kings,25,30",
+  "newTestament" : "acts,22,17-acts,23,10",
+  "psalms" : "psalms,2,1-psalms,2,12",
+  "proverbs" : "proverbs,18,13"
 }, {
   "month" : 7,
   "day" : 5,
-  "oldTestament" : {
-    "start" : "1chronicles,1,1",
-    "end" : "1chronicles,2,17"
-  },
-  "newTestament" : {
-    "start" : "acts,23,11",
-    "end" : "acts,23,35"
-  },
-  "psalms" : {
-    "start" : "psalms,3,1",
-    "end" : "psalms,3,8"
-  },
-  "proverbs" : {
-    "start" : "proverbs,18,14",
-    "end" : "proverbs,18,15"
-  }
+  "oldTestament" : "1chronicles,1,1-1chronicles,2,17",
+  "newTestament" : "acts,23,11-acts,23,35",
+  "psalms" : "psalms,3,1-psalms,3,8",
+  "proverbs" : "proverbs,18,14-proverbs,18,15"
 }, {
   "month" : 7,
   "day" : 6,
-  "oldTestament" : {
-    "start" : "1chronicles,2,18",
-    "end" : "1chronicles,4,4"
-  },
-  "newTestament" : {
-    "start" : "acts,24,1",
-    "end" : "acts,24,27"
-  },
-  "psalms" : {
-    "start" : "psalms,4,1",
-    "end" : "psalms,4,8"
-  },
-  "proverbs" : {
-    "start" : "proverbs,18,16",
-    "end" : "proverbs,18,18"
-  }
+  "oldTestament" : "1chronicles,2,18-1chronicles,4,4",
+  "newTestament" : "acts,24,1-acts,24,27",
+  "psalms" : "psalms,4,1-psalms,4,8",
+  "proverbs" : "proverbs,18,16-proverbs,18,18"
 }, {
   "month" : 7,
   "day" : 7,
-  "oldTestament" : {
-    "start" : "1chronicles,4,5",
-    "end" : "1chronicles,5,17"
-  },
-  "newTestament" : {
-    "start" : "acts,25,1",
-    "end" : "acts,25,27"
-  },
-  "psalms" : {
-    "start" : "psalms,5,1",
-    "end" : "psalms,5,12"
-  },
-  "proverbs" : {
-    "start" : "proverbs,18,19",
-    "end" : "proverbs,18,19"
-  }
+  "oldTestament" : "1chronicles,4,5-1chronicles,5,17",
+  "newTestament" : "acts,25,1-acts,25,27",
+  "psalms" : "psalms,5,1-psalms,5,12",
+  "proverbs" : "proverbs,18,19"
 }, {
   "month" : 7,
   "day" : 8,
-  "oldTestament" : {
-    "start" : "1chronicles,5,18",
-    "end" : "1chronicles,6,81"
-  },
-  "newTestament" : {
-    "start" : "acts,26,1",
-    "end" : "acts,26,32"
-  },
-  "psalms" : {
-    "start" : "psalms,6,1",
-    "end" : "psalms,6,10"
-  },
-  "proverbs" : {
-    "start" : "proverbs,18,20",
-    "end" : "proverbs,18,21"
-  }
+  "oldTestament" : "1chronicles,5,18-1chronicles,6,81",
+  "newTestament" : "acts,26,1-acts,26,32",
+  "psalms" : "psalms,6,1-psalms,6,10",
+  "proverbs" : "proverbs,18,20-proverbs,18,21"
 }, {
   "month" : 7,
   "day" : 9,
-  "oldTestament" : {
-    "start" : "1chronicles,7,1",
-    "end" : "1chronicles,8,40"
-  },
-  "newTestament" : {
-    "start" : "acts,27,1",
-    "end" : "acts,27,20"
-  },
-  "psalms" : {
-    "start" : "psalms,7,1",
-    "end" : "psalms,7,17"
-  },
-  "proverbs" : {
-    "start" : "proverbs,18,22",
-    "end" : "proverbs,18,22"
-  }
+  "oldTestament" : "1chronicles,7,1-1chronicles,8,40",
+  "newTestament" : "acts,27,1-acts,27,20",
+  "psalms" : "psalms,7,1-psalms,7,17",
+  "proverbs" : "proverbs,18,22"
 }, {
   "month" : 7,
   "day" : 10,
-  "oldTestament" : {
-    "start" : "1chronicles,9,1",
-    "end" : "1chronicles,10,14"
-  },
-  "newTestament" : {
-    "start" : "acts,27,21",
-    "end" : "acts,27,44"
-  },
-  "psalms" : {
-    "start" : "psalms,8,1",
-    "end" : "psalms,8,9"
-  },
-  "proverbs" : {
-    "start" : "proverbs,18,23",
-    "end" : "proverbs,18,24"
-  }
+  "oldTestament" : "1chronicles,9,1-1chronicles,10,14",
+  "newTestament" : "acts,27,21-acts,27,44",
+  "psalms" : "psalms,8,1-psalms,8,9",
+  "proverbs" : "proverbs,18,23-proverbs,18,24"
 }, {
   "month" : 7,
   "day" : 11,
-  "oldTestament" : {
-    "start" : "1chronicles,11,1",
-    "end" : "1chronicles,12,18"
-  },
-  "newTestament" : {
-    "start" : "acts,28,1",
-    "end" : "acts,28,31"
-  },
-  "psalms" : {
-    "start" : "psalms,9,1",
-    "end" : "psalms,9,12"
-  },
-  "proverbs" : {
-    "start" : "proverbs,19,1",
-    "end" : "proverbs,19,3"
-  }
+  "oldTestament" : "1chronicles,11,1-1chronicles,12,18",
+  "newTestament" : "acts,28,1-acts,28,31",
+  "psalms" : "psalms,9,1-psalms,9,12",
+  "proverbs" : "proverbs,19,1-proverbs,19,3"
 }, {
   "month" : 7,
   "day" : 12,
-  "oldTestament" : {
-    "start" : "1chronicles,12,19",
-    "end" : "1chronicles,14,17"
-  },
-  "newTestament" : {
-    "start" : "romans,1,1",
-    "end" : "romans,1,17"
-  },
-  "psalms" : {
-    "start" : "psalms,9,13",
-    "end" : "psalms,9,20"
-  },
-  "proverbs" : {
-    "start" : "proverbs,19,4",
-    "end" : "proverbs,19,5"
-  }
+  "oldTestament" : "1chronicles,12,19-1chronicles,14,17",
+  "newTestament" : "romans,1,1-romans,1,17",
+  "psalms" : "psalms,9,13-psalms,9,20",
+  "proverbs" : "proverbs,19,4-proverbs,19,5"
 }, {
   "month" : 7,
   "day" : 13,
-  "oldTestament" : {
-    "start" : "1chronicles,15,1",
-    "end" : "1chronicles,16,36"
-  },
-  "newTestament" : {
-    "start" : "romans,1,18",
-    "end" : "romans,1,32"
-  },
-  "psalms" : {
-    "start" : "psalms,10,1",
-    "end" : "psalms,10,15"
-  },
-  "proverbs" : {
-    "start" : "proverbs,19,6",
-    "end" : "proverbs,19,7"
-  }
+  "oldTestament" : "1chronicles,15,1-1chronicles,16,36",
+  "newTestament" : "romans,1,18-romans,1,32",
+  "psalms" : "psalms,10,1-psalms,10,15",
+  "proverbs" : "proverbs,19,6-proverbs,19,7"
 }, {
   "month" : 7,
   "day" : 14,
-  "oldTestament" : {
-    "start" : "1chronicles,16,37",
-    "end" : "1chronicles,18,17"
-  },
-  "newTestament" : {
-    "start" : "romans,2,1",
-    "end" : "romans,2,24"
-  },
-  "psalms" : {
-    "start" : "psalms,10,16",
-    "end" : "psalms,10,18"
-  },
-  "proverbs" : {
-    "start" : "proverbs,19,8",
-    "end" : "proverbs,19,9"
-  }
+  "oldTestament" : "1chronicles,16,37-1chronicles,18,17",
+  "newTestament" : "romans,2,1-romans,2,24",
+  "psalms" : "psalms,10,16-psalms,10,18",
+  "proverbs" : "proverbs,19,8-proverbs,19,9"
 }, {
   "month" : 7,
   "day" : 15,
-  "oldTestament" : {
-    "start" : "1chronicles,19,1",
-    "end" : "1chronicles,21,30"
-  },
-  "newTestament" : {
-    "start" : "romans,2,25",
-    "end" : "romans,3,8"
-  },
-  "psalms" : {
-    "start" : "psalms,11,1",
-    "end" : "psalms,11,7"
-  },
-  "proverbs" : {
-    "start" : "proverbs,19,10",
-    "end" : "proverbs,19,12"
-  }
+  "oldTestament" : "1chronicles,19,1-1chronicles,21,30",
+  "newTestament" : "romans,2,25-romans,3,8",
+  "psalms" : "psalms,11,1-psalms,11,7",
+  "proverbs" : "proverbs,19,10-proverbs,19,12"
 }, {
   "month" : 7,
   "day" : 16,
-  "oldTestament" : {
-    "start" : "1chronicles,22,1",
-    "end" : "1chronicles,23,32"
-  },
-  "newTestament" : {
-    "start" : "romans,3,9",
-    "end" : "romans,3,31"
-  },
-  "psalms" : {
-    "start" : "psalms,12,1",
-    "end" : "psalms,12,8"
-  },
-  "proverbs" : {
-    "start" : "proverbs,19,13",
-    "end" : "proverbs,19,14"
-  }
+  "oldTestament" : "1chronicles,22,1-1chronicles,23,32",
+  "newTestament" : "romans,3,9-romans,3,31",
+  "psalms" : "psalms,12,1-psalms,12,8",
+  "proverbs" : "proverbs,19,13-proverbs,19,14"
 }, {
   "month" : 7,
   "day" : 17,
-  "oldTestament" : {
-    "start" : "1chronicles,24,1",
-    "end" : "1chronicles,26,11"
-  },
-  "newTestament" : {
-    "start" : "romans,4,1",
-    "end" : "romans,4,12"
-  },
-  "psalms" : {
-    "start" : "psalms,13,1",
-    "end" : "psalms,13,6"
-  },
-  "proverbs" : {
-    "start" : "proverbs,19,15",
-    "end" : "proverbs,19,16"
-  }
+  "oldTestament" : "1chronicles,24,1-1chronicles,26,11",
+  "newTestament" : "romans,4,1-romans,4,12",
+  "psalms" : "psalms,13,1-psalms,13,6",
+  "proverbs" : "proverbs,19,15-proverbs,19,16"
 }, {
   "month" : 7,
   "day" : 18,
-  "oldTestament" : {
-    "start" : "1chronicles,26,12",
-    "end" : "1chronicles,27,34"
-  },
-  "newTestament" : {
-    "start" : "romans,4,13",
-    "end" : "romans,5,5"
-  },
-  "psalms" : {
-    "start" : "psalms,14,1",
-    "end" : "psalms,14,7"
-  },
-  "proverbs" : {
-    "start" : "proverbs,19,17",
-    "end" : "proverbs,19,17"
-  }
+  "oldTestament" : "1chronicles,26,12-1chronicles,27,34",
+  "newTestament" : "romans,4,13-romans,5,5",
+  "psalms" : "psalms,14,1-psalms,14,7",
+  "proverbs" : "proverbs,19,17"
 }, {
   "month" : 7,
   "day" : 19,
-  "oldTestament" : {
-    "start" : "1chronicles,28,1",
-    "end" : "1chronicles,29,30"
-  },
-  "newTestament" : {
-    "start" : "romans,5,6",
-    "end" : "romans,5,21"
-  },
-  "psalms" : {
-    "start" : "psalms,15,1",
-    "end" : "psalms,15,5"
-  },
-  "proverbs" : {
-    "start" : "proverbs,19,18",
-    "end" : "proverbs,19,19"
-  }
+  "oldTestament" : "1chronicles,28,1-1chronicles,29,30",
+  "newTestament" : "romans,5,6-romans,5,21",
+  "psalms" : "psalms,15,1-psalms,15,5",
+  "proverbs" : "proverbs,19,18-proverbs,19,19"
 }, {
   "month" : 7,
   "day" : 20,
-  "oldTestament" : {
-    "start" : "2chronicles,1,1",
-    "end" : "2chronicles,3,17"
-  },
-  "newTestament" : {
-    "start" : "romans,6,1",
-    "end" : "romans,6,23"
-  },
-  "psalms" : {
-    "start" : "psalms,16,1",
-    "end" : "psalms,16,11"
-  },
-  "proverbs" : {
-    "start" : "proverbs,19,20",
-    "end" : "proverbs,19,21"
-  }
+  "oldTestament" : "2chronicles,1,1-2chronicles,3,17",
+  "newTestament" : "romans,6,1-romans,6,23",
+  "psalms" : "psalms,16,1-psalms,16,11",
+  "proverbs" : "proverbs,19,20-proverbs,19,21"
 }, {
   "month" : 7,
   "day" : 21,
-  "oldTestament" : {
-    "start" : "2chronicles,4,1",
-    "end" : "2chronicles,6,11"
-  },
-  "newTestament" : {
-    "start" : "romans,7,1",
-    "end" : "romans,7,13"
-  },
-  "psalms" : {
-    "start" : "psalms,17,1",
-    "end" : "psalms,17,15"
-  },
-  "proverbs" : {
-    "start" : "proverbs,19,22",
-    "end" : "proverbs,19,23"
-  }
+  "oldTestament" : "2chronicles,4,1-2chronicles,6,11",
+  "newTestament" : "romans,7,1-romans,7,13",
+  "psalms" : "psalms,17,1-psalms,17,15",
+  "proverbs" : "proverbs,19,22-proverbs,19,23"
 }, {
   "month" : 7,
   "day" : 22,
-  "oldTestament" : {
-    "start" : "2chronicles,6,12",
-    "end" : "2chronicles,8,10"
-  },
-  "newTestament" : {
-    "start" : "romans,7,14",
-    "end" : "romans,8,8"
-  },
-  "psalms" : {
-    "start" : "psalms,18,1",
-    "end" : "psalms,18,15"
-  },
-  "proverbs" : {
-    "start" : "proverbs,19,24",
-    "end" : "proverbs,19,25"
-  }
+  "oldTestament" : "2chronicles,6,12-2chronicles,8,10",
+  "newTestament" : "romans,7,14-romans,8,8",
+  "psalms" : "psalms,18,1-psalms,18,15",
+  "proverbs" : "proverbs,19,24-proverbs,19,25"
 }, {
   "month" : 7,
   "day" : 23,
-  "oldTestament" : {
-    "start" : "2chronicles,8,11",
-    "end" : "2chronicles,10,19"
-  },
-  "newTestament" : {
-    "start" : "romans,8,9",
-    "end" : "romans,8,25"
-  },
-  "psalms" : {
-    "start" : "psalms,18,16",
-    "end" : "psalms,18,36"
-  },
-  "proverbs" : {
-    "start" : "proverbs,19,26",
-    "end" : "proverbs,19,26"
-  }
+  "oldTestament" : "2chronicles,8,11-2chronicles,10,19",
+  "newTestament" : "romans,8,9-romans,8,25",
+  "psalms" : "psalms,18,16-psalms,18,36",
+  "proverbs" : "proverbs,19,26"
 }, {
   "month" : 7,
   "day" : 24,
-  "oldTestament" : {
-    "start" : "2chronicles,11,1",
-    "end" : "2chronicles,13,22"
-  },
-  "newTestament" : {
-    "start" : "romans,8,26",
-    "end" : "romans,8,39"
-  },
-  "psalms" : {
-    "start" : "psalms,18,37",
-    "end" : "psalms,18,50"
-  },
-  "proverbs" : {
-    "start" : "proverbs,19,27",
-    "end" : "proverbs,19,29"
-  }
+  "oldTestament" : "2chronicles,11,1-2chronicles,13,22",
+  "newTestament" : "romans,8,26-romans,8,39",
+  "psalms" : "psalms,18,37-psalms,18,50",
+  "proverbs" : "proverbs,19,27-proverbs,19,29"
 }, {
   "month" : 7,
   "day" : 25,
-  "oldTestament" : {
-    "start" : "2chronicles,14,1",
-    "end" : "2chronicles,16,14"
-  },
-  "newTestament" : {
-    "start" : "romans,9,1",
-    "end" : "romans,9,24"
-  },
-  "psalms" : {
-    "start" : "psalms,19,1",
-    "end" : "psalms,19,14"
-  },
-  "proverbs" : {
-    "start" : "proverbs,20,1",
-    "end" : "proverbs,20,1"
-  }
+  "oldTestament" : "2chronicles,14,1-2chronicles,16,14",
+  "newTestament" : "romans,9,1-romans,9,24",
+  "psalms" : "psalms,19,1-psalms,19,14",
+  "proverbs" : "proverbs,20,1"
 }, {
   "month" : 7,
   "day" : 26,
-  "oldTestament" : {
-    "start" : "2chronicles,17,1",
-    "end" : "2chronicles,18,34"
-  },
-  "newTestament" : {
-    "start" : "romans,9,25",
-    "end" : "romans,10,13"
-  },
-  "psalms" : {
-    "start" : "psalms,20,1",
-    "end" : "psalms,20,9"
-  },
-  "proverbs" : {
-    "start" : "proverbs,20,2",
-    "end" : "proverbs,20,3"
-  }
+  "oldTestament" : "2chronicles,17,1-2chronicles,18,34",
+  "newTestament" : "romans,9,25-romans,10,13",
+  "psalms" : "psalms,20,1-psalms,20,9",
+  "proverbs" : "proverbs,20,2-proverbs,20,3"
 }, {
   "month" : 7,
   "day" : 27,
-  "oldTestament" : {
-    "start" : "2chronicles,19,1",
-    "end" : "2chronicles,20,37"
-  },
-  "newTestament" : {
-    "start" : "romans,10,14",
-    "end" : "romans,11,12"
-  },
-  "psalms" : {
-    "start" : "psalms,21,1",
-    "end" : "psalms,21,13"
-  },
-  "proverbs" : {
-    "start" : "proverbs,20,4",
-    "end" : "proverbs,20,6"
-  }
+  "oldTestament" : "2chronicles,19,1-2chronicles,20,37",
+  "newTestament" : "romans,10,14-romans,11,12",
+  "psalms" : "psalms,21,1-psalms,21,13",
+  "proverbs" : "proverbs,20,4-proverbs,20,6"
 }, {
   "month" : 7,
   "day" : 28,
-  "oldTestament" : {
-    "start" : "2chronicles,21,1",
-    "end" : "2chronicles,23,21"
-  },
-  "newTestament" : {
-    "start" : "romans,11,13",
-    "end" : "romans,11,36"
-  },
-  "psalms" : {
-    "start" : "psalms,22,1",
-    "end" : "psalms,22,18"
-  },
-  "proverbs" : {
-    "start" : "proverbs,20,7",
-    "end" : "proverbs,20,7"
-  }
+  "oldTestament" : "2chronicles,21,1-2chronicles,23,21",
+  "newTestament" : "romans,11,13-romans,11,36",
+  "psalms" : "psalms,22,1-psalms,22,18",
+  "proverbs" : "proverbs,20,7"
 }, {
   "month" : 7,
   "day" : 29,
-  "oldTestament" : {
-    "start" : "2chronicles,24,1",
-    "end" : "2chronicles,25,28"
-  },
-  "newTestament" : {
-    "start" : "romans,12,1",
-    "end" : "romans,12,21"
-  },
-  "psalms" : {
-    "start" : "psalms,22,19",
-    "end" : "psalms,22,31"
-  },
-  "proverbs" : {
-    "start" : "proverbs,20,8",
-    "end" : "proverbs,20,10"
-  }
+  "oldTestament" : "2chronicles,24,1-2chronicles,25,28",
+  "newTestament" : "romans,12,1-romans,12,21",
+  "psalms" : "psalms,22,19-psalms,22,31",
+  "proverbs" : "proverbs,20,8-proverbs,20,10"
 }, {
   "month" : 7,
   "day" : 30,
-  "oldTestament" : {
-    "start" : "2chronicles,26,1",
-    "end" : "2chronicles,28,27"
-  },
-  "newTestament" : {
-    "start" : "romans,13,1",
-    "end" : "romans,13,14"
-  },
-  "psalms" : {
-    "start" : "psalms,23,1",
-    "end" : "psalms,23,6"
-  },
-  "proverbs" : {
-    "start" : "proverbs,20,11",
-    "end" : "proverbs,20,11"
-  }
+  "oldTestament" : "2chronicles,26,1-2chronicles,28,27",
+  "newTestament" : "romans,13,1-romans,13,14",
+  "psalms" : "psalms,23,1-psalms,23,6",
+  "proverbs" : "proverbs,20,11"
 }, {
   "month" : 7,
   "day" : 31,
-  "oldTestament" : {
-    "start" : "2chronicles,29,1",
-    "end" : "2chronicles,29,36"
-  },
-  "newTestament" : {
-    "start" : "romans,14,1",
-    "end" : "romans,14,23"
-  },
-  "psalms" : {
-    "start" : "psalms,24,1",
-    "end" : "psalms,24,10"
-  },
-  "proverbs" : {
-    "start" : "proverbs,20,12",
-    "end" : "proverbs,20,12"
-  }
+  "oldTestament" : "2chronicles,29,1-2chronicles,29,36",
+  "newTestament" : "romans,14,1-romans,14,23",
+  "psalms" : "psalms,24,1-psalms,24,10",
+  "proverbs" : "proverbs,20,12"
 } ]
