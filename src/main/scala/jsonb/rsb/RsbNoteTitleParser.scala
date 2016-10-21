@@ -4,11 +4,9 @@ import jsonb.{SingleVerse, VerseRange, Book}
 
 import scala.util.matching.Regex
 
-/**
-  * Created by jflight on 10/7/2016.
-  */
-object RsbNoteTitleParser {
 
+
+object RsbNoteTitleParser {
 
   /**
     * Parses the title to get a VerseRange.  The book names in a title string are different from the names

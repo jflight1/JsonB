@@ -1,53 +1,11 @@
 package jsonb
 
-import java.io.{PrintWriter, InputStream}
+import java.io.{InputStream, PrintWriter}
 
-import jsonb.V2FileGenerator._
 import org.apache.commons.io.IOUtils
 import play.api.libs.json.{JsArray, JsObject, JsValue, Json}
 
 import scala.io.BufferedSource
-
-
-/**
-
-  * { // DayReading
-  * month: 1,
-  * day: 1,
-  * old_testament: { // verseRange
-  * start: { // SingleVerse
-  * book: "genesis",
-  * chapter: 1
-  * verse: 1
-  * }
-  * end: {
-  * book: "genesis",
-  * chapter: 1
-  * verse: 28
-  * }
-  * }
-  * new_testament: {
-  * ...
-  * }
-  * psalms: {
-  * ...
-  * }
-  * proverbs: {
-  * ...
-  * }
-  * },
-
-
-  */
-
-private object Keys {
-  val MONTH: String = "month"
-  val DAY: String = "day"
-  val OLD_TESTAMENT: String = "oldTestament"
-  val NEW_TESTAMENT: String = "newTestament"
-  val PSALMS: String = "psalms"
-  val PROVERBS: String = "proverbs"
-}
 
 
 case class DayReading(month: Int,
@@ -60,24 +18,30 @@ case class DayReading(month: Int,
 
 
 object DayReadingParser extends JsonParserBase[DayReading] {
+  val MONTH: String = "month"
+  val DAY: String = "day"
+  val OLD_TESTAMENT: String = "oldTestament"
+  val NEW_TESTAMENT: String = "newTestament"
+  val PSALMS: String = "psalms"
+  val PROVERBS: String = "proverbs"
 
 
   override def toJsValue(dayReading: DayReading): JsObject = Json.obj(
-    Keys.MONTH -> dayReading.month,
-    Keys.DAY -> dayReading.day,
-    Keys.OLD_TESTAMENT -> VerseRangeParser.toJsValue(dayReading.oldTestament),
-    Keys.NEW_TESTAMENT -> VerseRangeParser.toJsValue(dayReading.newTestament),
-    Keys.PSALMS -> VerseRangeParser.toJsValue(dayReading.psalms),
-    Keys.PROVERBS -> VerseRangeParser.toJsValue(dayReading.proverbs))
+    MONTH -> dayReading.month,
+    DAY -> dayReading.day,
+    OLD_TESTAMENT -> VerseRangeParser.toJsValue(dayReading.oldTestament),
+    NEW_TESTAMENT -> VerseRangeParser.toJsValue(dayReading.newTestament),
+    PSALMS -> VerseRangeParser.toJsValue(dayReading.psalms),
+    PROVERBS -> VerseRangeParser.toJsValue(dayReading.proverbs))
 
 
   override def fromJson(jsValue: JsValue): DayReading = DayReading(
-    JsonHelper.getInt(jsValue, Keys.MONTH),
-    JsonHelper.getInt(jsValue, Keys.DAY),
-    VerseRangeParser.fromJson(JsonHelper.getJsValue(jsValue, Keys.OLD_TESTAMENT)),
-    VerseRangeParser.fromJson(JsonHelper.getJsValue(jsValue, Keys.NEW_TESTAMENT)),
-    VerseRangeParser.fromJson(JsonHelper.getJsValue(jsValue, Keys.PSALMS)),
-    VerseRangeParser.fromJson(JsonHelper.getJsValue(jsValue, Keys.PROVERBS)))
+    JsonHelper.getInt(jsValue, MONTH),
+    JsonHelper.getInt(jsValue, DAY),
+    VerseRangeParser.fromJson(JsonHelper.getJsValue(jsValue, OLD_TESTAMENT)),
+    VerseRangeParser.fromJson(JsonHelper.getJsValue(jsValue, NEW_TESTAMENT)),
+    VerseRangeParser.fromJson(JsonHelper.getJsValue(jsValue, PSALMS)),
+    VerseRangeParser.fromJson(JsonHelper.getJsValue(jsValue, PROVERBS)))
 
 
   def parseMonthTextFile(fileName: String, month: Int): List[DayReading] = {
@@ -118,7 +82,7 @@ object DayReadingParser extends JsonParserBase[DayReading] {
         throw new Exception("Bad line: " + line)
 
       DayReading(month, day,
-        verseRanges(0),
+        verseRanges.head, //(0),
         verseRanges(1),
         verseRanges(2),
         verseRanges(3))
@@ -137,15 +101,12 @@ object DayReadingParser extends JsonParserBase[DayReading] {
     */
   private def combineVerseRanges(verseRanges: List[VerseRange]): List[VerseRange] = {
 
-    // jlf fix
-
     verseRanges match {
       // size < 2, do nothing
       case Nil => Nil
       case verseRange :: Nil => verseRanges
 
-      case vr1 :: vr2 :: theRest => {
-
+      case vr1 :: vr2 :: theRest =>
         def bookType(book: Book): Int = {
           if (book == Books.find("psalms")) 1
           else if (book == Books.find("proverbs")) 2
@@ -158,7 +119,6 @@ object DayReadingParser extends JsonParserBase[DayReading] {
           VerseRange(vr1.start, vr2.end) :: combineVerseRanges(theRest)
         else
           vr1 :: vr2 :: combineVerseRanges(theRest)
-      }
     }
   }
 

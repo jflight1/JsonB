@@ -1,7 +1,7 @@
 package jsonb.rsb
 
 import jsonb.Assert._
-import jsonb.{Book, Books, SingleVerse, VerseRange}
+import jsonb.{Books, SingleVerse, VerseRange}
 import org.junit.Assert._
 import org.junit.runner.RunWith
 import org.scalatest.FunSuite
@@ -18,7 +18,8 @@ class RsbNoteTitleParserTest extends FunSuite {
     val book = Books.find("ruth")
 
     def test(title: String, chapter1: Int, verse1: Int, chapter2: Int, verse2: Int): Unit = {
-      val actualVerseRange = RsbNoteWeb(0, title, null).verseRange(book)
+
+      val actualVerseRange = RsbNoteTitleParser.verseRange(title, book)
       val expectedVerseRange: VerseRange = VerseRange(SingleVerse(book, chapter1, verse1), SingleVerse(book, chapter2, verse2))
       assertVerseRangesEqual(expectedVerseRange, actualVerseRange)
     }

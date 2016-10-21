@@ -1,12 +1,69 @@
 package jsonb.rsb
 
-import jsonb.{JsonParserBase, SingleVerse, VerseRange, Book}
+import java.io.InputStream
+
+import jsonb._
 import play.api.libs.json.{JsValue, Json, JsObject}
+
+import scala.io.{BufferedSource, Source}
+
+
+/**
+  * Various methods related to getting RsbNotes from the web
+  */
+object RsbNoteWebUtils {
+
+
+  /**
+    * Get RsbNotes for a whole book
+    */
+  def rsbNotes(book: Book): Seq[RsbNote] = {
+
+    val inputStream: InputStream = getClass.getResourceAsStream("/rsb/ids/" + book.oneYearBibleName + "_ids.txt")
+    try {
+      val bufferedSource: BufferedSource = io.Source.fromInputStream(inputStream)
+      val lines: Iterator[String] = bufferedSource.getLines()
+
+      lines.toList
+        .map(line => {
+          val id = line.toLong
+          rsbNoteFromId(id, book)
+        })
+    }
+
+    finally {
+      inputStream.close()
+    }
+  }
+
+
+  /**
+    * Given a RsbNote ID, gets the RsbNoteWeb from the web
+    */
+  def rsbNoteFromId(id: Long, book: Book): RsbNote = {
+    val rsbNoteWeb: RsbNoteWeb = rsbNoteWebFromId(id)
+    RsbNote(rsbNoteWeb.verseRange(book),
+      rsbNoteWeb.id,
+      rsbNoteWeb.title,
+      rsbNoteWeb.text)
+  }
+
+
+  /**
+    * Given a RsbNote ID, gets the RsbNoteWeb from the web
+    */
+  def rsbNoteWebFromId(id: Long): RsbNoteWeb = {
+    val url: String = "https://www.biblegateway.com/exbib/?pub=reformation-study-bible&chunk=" + id
+    val json: String = Source.fromURL(url).mkString
+    RsbNoteWebJsonParser.fromJson(json)
+  }
+}
 
 
 /**
   * This class represents the json for a Reformation Study Bible note we get from the web,
   * i.e. an url like this: https://www.biblegateway.com/exbib/?pub=reformation-study-bible&chunk=187307
+  * This is different from our json for an RsbNote
   */
 case class RsbNoteWeb(id: Long,
                       title: String,
@@ -49,8 +106,5 @@ object RsbNoteWebJsonParser extends JsonParserBase[RsbNoteWeb] {
       (jsValue \ "title").as[String],
       (jsValue \ "text").as[String])
   }
-
-
-
 
 }

@@ -1,65 +1,19 @@
 package jsonb.rsb
 
-import java.io.{InputStream, PrintWriter}
+import java.io.PrintWriter
 import java.util.Date
 
-import jsonb.DayReadingParser._
-import jsonb._
-import play.api.libs.json._
+import jsonb.{Book, Books}
+import play.api.libs.json.{JsArray, JsObject, JsString, Json}
 
-import scala.io.{BufferedSource, Source}
+import scala.io.Source
+
 
 
 /**
-  * Various methods related to creating RsbNotes
+  * Stuff for working with rsb note ids
   */
-object RsbNoteFactory {
-
-
-  /**
-    * Get RsbNotes for a whole book
-    */
-  def rsbNotes(book: Book): Seq[RsbNote] = {
-
-    val inputStream: InputStream = getClass.getResourceAsStream("/rsb/ids/" + book.oneYearBibleName + "_ids.txt")
-    try {
-      val bufferedSource: BufferedSource = io.Source.fromInputStream(inputStream)
-      val lines: Iterator[String] = bufferedSource.getLines()
-
-      lines.toList
-        .map(line => {
-          val id = line.toLong
-          rsbNoteFromId(id, book)
-        })
-    }
-
-    finally {
-      inputStream.close()
-    }
-  }
-
-
-  /**
-    * Given a RsbNote ID, gets the RsbNoteWeb from the web
-    */
-  def rsbNoteFromId(id: Long, book: Book): RsbNote = {
-    val rsbNoteWeb: RsbNoteWeb = rsbNoteWebFromId(id)
-    RsbNote(rsbNoteWeb.verseRange(book),
-      rsbNoteWeb.id,
-      rsbNoteWeb.title,
-      rsbNoteWeb.text)
-  }
-
-
-  /**
-    * Given a RsbNote ID, gets the RsbNoteWeb from the web
-    */
-  def rsbNoteWebFromId(id: Long): RsbNoteWeb = {
-    val url: String = "https://www.biblegateway.com/exbib/?pub=reformation-study-bible&chunk=" + id
-    val json: String = Source.fromURL(url).mkString
-    RsbNoteWebJsonParser.fromJson(json)
-  }
-
+object RsbNoteIdUtils {
 
   /**
     * Given a url like this:
@@ -72,7 +26,7 @@ object RsbNoteFactory {
       book.exbibName + ".1.1-" + book.exbibName + ".200.100"
     val ids: Seq[Long] = getNoteIdsFromUrl(url)
 
-    var fileName = "src\\main\\resources\\rsb\\ids\\" + book.oneYearBibleName + "_ids.txt"
+    val fileName = "src\\main\\resources\\rsb\\ids\\" + book.oneYearBibleName + "_ids.txt"
     val printWriter: PrintWriter = new PrintWriter(fileName)
     ids.foreach(id => printWriter.println(id))
     printWriter.close()
@@ -131,14 +85,6 @@ object RsbNoteFactory {
         Thread.sleep(1000)
       }
     }
-  }
-
-
-
-  /////////////////////////////   main
-
-  def main(args: Array[String]): Unit = {
-
   }
 
 

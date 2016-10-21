@@ -3,11 +3,7 @@
 To do
 -----
 
-- JsObject->JsValue in json parser stuff
-- change SIngleVerse and VerseRange json to a string
-
-- maybe remove verse range from RsbNote json since we already have the title,  what about book?
-
+RSB notes
   - json
     - a file for each book
     - a file is an array of RsbNotes

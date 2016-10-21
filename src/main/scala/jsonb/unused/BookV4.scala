@@ -2,8 +2,8 @@ package jsonb.unused
 
 import java.io.{PrintWriter, InputStream}
 
-import jsonb.rsb.{RsbNote, RsbNoteFactory}
-import jsonb.rsb.RsbNoteFactory._
+import jsonb.rsb.{RsbNote, RsbNoteWebUtils}
+import jsonb.rsb.RsbNoteWebUtils._
 import jsonb.{JsonParserBase, Books, Book}
 import play.api.libs.json.{JsValue, Json, JsObject}
 
@@ -159,7 +159,7 @@ object RsbNoteBookNames {
 
   private def rsbNoteName(book: Book): String = {
     val id: Long = rsbNoteId(book)
-    val rsbNote: RsbNote = RsbNoteFactory.rsbNoteFromId(id, book)
+    val rsbNote: RsbNote = RsbNoteWebUtils.rsbNoteFromId(id, book)
 
     //val regex = ".* (\\d+):(\\d+)$".r
     val regex = "(.*) \\d+.*$".r
