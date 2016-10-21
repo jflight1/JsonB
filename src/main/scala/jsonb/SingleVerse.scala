@@ -18,10 +18,19 @@ object SingleVerseParser extends JsonParserBase[SingleVerse] {
     JsString(singleVerse.book.oneYearBibleName + "," + singleVerse.chapter + "," + singleVerse.verse)
 
 
-  override def fromJson(jsValue: JsValue): SingleVerse =
-    SingleVerse(Books.find((jsValue \ "book").as[String]),
-      (jsValue \ "chapter").as[Int],
-      (jsValue \ "verse").as[Int])
+  override def fromJson(json: String): SingleVerse = {
+    val jsString: JsString = Json.parse(json).as[JsString]
+    fromJson(jsString)
+  }
+
+  override def fromJson(jsValue: JsValue): SingleVerse = {
+    val parts: Array[String] = jsValue.as[JsString].value.split(",")
+
+    SingleVerse(
+      book = Books.find(parts(0)),
+      chapter = parts(1).toInt,
+      verse = parts(2).toInt)
+  }
 
 }
 

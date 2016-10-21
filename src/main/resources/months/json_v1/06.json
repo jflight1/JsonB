@@ -1,0 +1,1531 @@
+[ [ {
+  "month" : 6,
+  "day" : 1,
+  "oldTestament" : {
+    "start" : {
+      "book" : "2samuel",
+      "chapter" : 18,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "2samuel",
+      "chapter" : 19,
+      "verse" : 10
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "john",
+      "chapter" : 20,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "john",
+      "chapter" : 20,
+      "verse" : 31
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 119,
+      "verse" : 153
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 119,
+      "verse" : 176
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 16,
+      "verse" : 14
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 16,
+      "verse" : 15
+    }
+  }
+}, {
+  "month" : 6,
+  "day" : 2,
+  "oldTestament" : {
+    "start" : {
+      "book" : "2samuel",
+      "chapter" : 19,
+      "verse" : 11
+    },
+    "end" : {
+      "book" : "2samuel",
+      "chapter" : 20,
+      "verse" : 13
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "john",
+      "chapter" : 21,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "john",
+      "chapter" : 21,
+      "verse" : 25
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 120,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 120,
+      "verse" : 7
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 16,
+      "verse" : 16
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 16,
+      "verse" : 17
+    }
+  }
+}, {
+  "month" : 6,
+  "day" : 3,
+  "oldTestament" : {
+    "start" : {
+      "book" : "2samuel",
+      "chapter" : 20,
+      "verse" : 14
+    },
+    "end" : {
+      "book" : "2samuel",
+      "chapter" : 21,
+      "verse" : 22
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "acts",
+      "chapter" : 1,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "acts",
+      "chapter" : 1,
+      "verse" : 26
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 121,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 121,
+      "verse" : 8
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 16,
+      "verse" : 18
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 16,
+      "verse" : 18
+    }
+  }
+}, {
+  "month" : 6,
+  "day" : 4,
+  "oldTestament" : {
+    "start" : {
+      "book" : "2samuel",
+      "chapter" : 22,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "2samuel",
+      "chapter" : 23,
+      "verse" : 23
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "acts",
+      "chapter" : 2,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "acts",
+      "chapter" : 2,
+      "verse" : 47
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 122,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 122,
+      "verse" : 9
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 16,
+      "verse" : 19
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 16,
+      "verse" : 20
+    }
+  }
+}, {
+  "month" : 6,
+  "day" : 5,
+  "oldTestament" : {
+    "start" : {
+      "book" : "2samuel",
+      "chapter" : 23,
+      "verse" : 24
+    },
+    "end" : {
+      "book" : "2samuel",
+      "chapter" : 24,
+      "verse" : 25
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "acts",
+      "chapter" : 3,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "acts",
+      "chapter" : 3,
+      "verse" : 26
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 123,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 123,
+      "verse" : 4
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 16,
+      "verse" : 21
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 16,
+      "verse" : 23
+    }
+  }
+}, {
+  "month" : 6,
+  "day" : 6,
+  "oldTestament" : {
+    "start" : {
+      "book" : "1kings",
+      "chapter" : 1,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "1kings",
+      "chapter" : 1,
+      "verse" : 53
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "acts",
+      "chapter" : 4,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "acts",
+      "chapter" : 4,
+      "verse" : 37
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 124,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 124,
+      "verse" : 8
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 16,
+      "verse" : 24
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 16,
+      "verse" : 24
+    }
+  }
+}, {
+  "month" : 6,
+  "day" : 7,
+  "oldTestament" : {
+    "start" : {
+      "book" : "1kings",
+      "chapter" : 2,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "1kings",
+      "chapter" : 3,
+      "verse" : 2
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "acts",
+      "chapter" : 5,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "acts",
+      "chapter" : 5,
+      "verse" : 42
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 125,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 125,
+      "verse" : 5
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 16,
+      "verse" : 25
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 16,
+      "verse" : 25
+    }
+  }
+}, {
+  "month" : 6,
+  "day" : 8,
+  "oldTestament" : {
+    "start" : {
+      "book" : "1kings",
+      "chapter" : 3,
+      "verse" : 3
+    },
+    "end" : {
+      "book" : "1kings",
+      "chapter" : 4,
+      "verse" : 34
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "acts",
+      "chapter" : 6,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "acts",
+      "chapter" : 6,
+      "verse" : 15
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 126,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 126,
+      "verse" : 6
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 16,
+      "verse" : 26
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 16,
+      "verse" : 27
+    }
+  }
+}, {
+  "month" : 6,
+  "day" : 9,
+  "oldTestament" : {
+    "start" : {
+      "book" : "1kings",
+      "chapter" : 5,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "1kings",
+      "chapter" : 6,
+      "verse" : 38
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "acts",
+      "chapter" : 7,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "acts",
+      "chapter" : 7,
+      "verse" : 29
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 127,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 127,
+      "verse" : 5
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 16,
+      "verse" : 28
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 16,
+      "verse" : 30
+    }
+  }
+}, {
+  "month" : 6,
+  "day" : 10,
+  "oldTestament" : {
+    "start" : {
+      "book" : "1kings",
+      "chapter" : 7,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "1kings",
+      "chapter" : 7,
+      "verse" : 51
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "acts",
+      "chapter" : 7,
+      "verse" : 30
+    },
+    "end" : {
+      "book" : "acts",
+      "chapter" : 7,
+      "verse" : 50
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 128,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 128,
+      "verse" : 6
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 16,
+      "verse" : 31
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 16,
+      "verse" : 33
+    }
+  }
+}, {
+  "month" : 6,
+  "day" : 11,
+  "oldTestament" : {
+    "start" : {
+      "book" : "1kings",
+      "chapter" : 8,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "1kings",
+      "chapter" : 8,
+      "verse" : 66
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "acts",
+      "chapter" : 7,
+      "verse" : 51
+    },
+    "end" : {
+      "book" : "acts",
+      "chapter" : 8,
+      "verse" : 13
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 129,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 129,
+      "verse" : 8
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 17,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 17,
+      "verse" : 1
+    }
+  }
+}, {
+  "month" : 6,
+  "day" : 12,
+  "oldTestament" : {
+    "start" : {
+      "book" : "1kings",
+      "chapter" : 9,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "1kings",
+      "chapter" : 10,
+      "verse" : 29
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "acts",
+      "chapter" : 8,
+      "verse" : 14
+    },
+    "end" : {
+      "book" : "acts",
+      "chapter" : 8,
+      "verse" : 40
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 130,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 130,
+      "verse" : 8
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 17,
+      "verse" : 2
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 17,
+      "verse" : 3
+    }
+  }
+}, {
+  "month" : 6,
+  "day" : 13,
+  "oldTestament" : {
+    "start" : {
+      "book" : "1kings",
+      "chapter" : 11,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "1kings",
+      "chapter" : 12,
+      "verse" : 19
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "acts",
+      "chapter" : 9,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "acts",
+      "chapter" : 9,
+      "verse" : 25
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 131,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 131,
+      "verse" : 3
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 17,
+      "verse" : 4
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 17,
+      "verse" : 5
+    }
+  }
+}, {
+  "month" : 6,
+  "day" : 14,
+  "oldTestament" : {
+    "start" : {
+      "book" : "1kings",
+      "chapter" : 12,
+      "verse" : 20
+    },
+    "end" : {
+      "book" : "1kings",
+      "chapter" : 13,
+      "verse" : 34
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "acts",
+      "chapter" : 9,
+      "verse" : 26
+    },
+    "end" : {
+      "book" : "acts",
+      "chapter" : 9,
+      "verse" : 43
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 132,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 132,
+      "verse" : 18
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 17,
+      "verse" : 6
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 17,
+      "verse" : 6
+    }
+  }
+}, {
+  "month" : 6,
+  "day" : 15,
+  "oldTestament" : {
+    "start" : {
+      "book" : "1kings",
+      "chapter" : 14,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "1kings",
+      "chapter" : 15,
+      "verse" : 24
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "acts",
+      "chapter" : 10,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "acts",
+      "chapter" : 10,
+      "verse" : 23
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 133,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 133,
+      "verse" : 3
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 17,
+      "verse" : 7
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 17,
+      "verse" : 8
+    }
+  }
+}, {
+  "month" : 6,
+  "day" : 16,
+  "oldTestament" : {
+    "start" : {
+      "book" : "1kings",
+      "chapter" : 15,
+      "verse" : 25
+    },
+    "end" : {
+      "book" : "1kings",
+      "chapter" : 17,
+      "verse" : 24
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "acts",
+      "chapter" : 10,
+      "verse" : 24
+    },
+    "end" : {
+      "book" : "acts",
+      "chapter" : 10,
+      "verse" : 48
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 134,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 134,
+      "verse" : 3
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 17,
+      "verse" : 9
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 17,
+      "verse" : 11
+    }
+  }
+}, {
+  "month" : 6,
+  "day" : 17,
+  "oldTestament" : {
+    "start" : {
+      "book" : "1kings",
+      "chapter" : 18,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "1kings",
+      "chapter" : 18,
+      "verse" : 46
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "acts",
+      "chapter" : 11,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "acts",
+      "chapter" : 11,
+      "verse" : 30
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 135,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 135,
+      "verse" : 21
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 17,
+      "verse" : 12
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 17,
+      "verse" : 13
+    }
+  }
+}, {
+  "month" : 6,
+  "day" : 18,
+  "oldTestament" : {
+    "start" : {
+      "book" : "1kings",
+      "chapter" : 19,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "1kings",
+      "chapter" : 19,
+      "verse" : 21
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "acts",
+      "chapter" : 12,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "acts",
+      "chapter" : 12,
+      "verse" : 23
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 136,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 136,
+      "verse" : 26
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 17,
+      "verse" : 14
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 17,
+      "verse" : 15
+    }
+  }
+}, {
+  "month" : 6,
+  "day" : 19,
+  "oldTestament" : {
+    "start" : {
+      "book" : "1kings",
+      "chapter" : 20,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "1kings",
+      "chapter" : 21,
+      "verse" : 29
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "acts",
+      "chapter" : 12,
+      "verse" : 24
+    },
+    "end" : {
+      "book" : "acts",
+      "chapter" : 13,
+      "verse" : 15
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 137,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 137,
+      "verse" : 9
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 17,
+      "verse" : 16
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 17,
+      "verse" : 16
+    }
+  }
+}, {
+  "month" : 6,
+  "day" : 20,
+  "oldTestament" : {
+    "start" : {
+      "book" : "1kings",
+      "chapter" : 22,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "1kings",
+      "chapter" : 22,
+      "verse" : 53
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "acts",
+      "chapter" : 13,
+      "verse" : 16
+    },
+    "end" : {
+      "book" : "acts",
+      "chapter" : 13,
+      "verse" : 41
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 138,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 138,
+      "verse" : 8
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 17,
+      "verse" : 17
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 17,
+      "verse" : 18
+    }
+  }
+}, {
+  "month" : 6,
+  "day" : 21,
+  "oldTestament" : {
+    "start" : {
+      "book" : "2kings",
+      "chapter" : 1,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "2kings",
+      "chapter" : 2,
+      "verse" : 25
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "acts",
+      "chapter" : 13,
+      "verse" : 42
+    },
+    "end" : {
+      "book" : "acts",
+      "chapter" : 14,
+      "verse" : 7
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 139,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 139,
+      "verse" : 24
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 17,
+      "verse" : 19
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 17,
+      "verse" : 21
+    }
+  }
+}, {
+  "month" : 6,
+  "day" : 22,
+  "oldTestament" : {
+    "start" : {
+      "book" : "2kings",
+      "chapter" : 3,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "2kings",
+      "chapter" : 4,
+      "verse" : 17
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "acts",
+      "chapter" : 14,
+      "verse" : 8
+    },
+    "end" : {
+      "book" : "acts",
+      "chapter" : 14,
+      "verse" : 28
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 140,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 140,
+      "verse" : 13
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 17,
+      "verse" : 22
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 17,
+      "verse" : 22
+    }
+  }
+}, {
+  "month" : 6,
+  "day" : 23,
+  "oldTestament" : {
+    "start" : {
+      "book" : "2kings",
+      "chapter" : 4,
+      "verse" : 18
+    },
+    "end" : {
+      "book" : "2kings",
+      "chapter" : 5,
+      "verse" : 27
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "acts",
+      "chapter" : 15,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "acts",
+      "chapter" : 15,
+      "verse" : 35
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 141,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 141,
+      "verse" : 10
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 17,
+      "verse" : 23
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 17,
+      "verse" : 23
+    }
+  }
+}, {
+  "month" : 6,
+  "day" : 24,
+  "oldTestament" : {
+    "start" : {
+      "book" : "2kings",
+      "chapter" : 6,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "2kings",
+      "chapter" : 7,
+      "verse" : 20
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "acts",
+      "chapter" : 15,
+      "verse" : 36
+    },
+    "end" : {
+      "book" : "acts",
+      "chapter" : 16,
+      "verse" : 15
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 142,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 142,
+      "verse" : 7
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 17,
+      "verse" : 24
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 17,
+      "verse" : 25
+    }
+  }
+}, {
+  "month" : 6,
+  "day" : 25,
+  "oldTestament" : {
+    "start" : {
+      "book" : "2kings",
+      "chapter" : 8,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "2kings",
+      "chapter" : 9,
+      "verse" : 13
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "acts",
+      "chapter" : 16,
+      "verse" : 16
+    },
+    "end" : {
+      "book" : "acts",
+      "chapter" : 16,
+      "verse" : 40
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 143,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 143,
+      "verse" : 12
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 17,
+      "verse" : 26
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 17,
+      "verse" : 26
+    }
+  }
+}, {
+  "month" : 6,
+  "day" : 26,
+  "oldTestament" : {
+    "start" : {
+      "book" : "2kings",
+      "chapter" : 9,
+      "verse" : 14
+    },
+    "end" : {
+      "book" : "2kings",
+      "chapter" : 10,
+      "verse" : 31
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "acts",
+      "chapter" : 17,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "acts",
+      "chapter" : 17,
+      "verse" : 34
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 144,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 144,
+      "verse" : 15
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 17,
+      "verse" : 27
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 17,
+      "verse" : 28
+    }
+  }
+}, {
+  "month" : 6,
+  "day" : 27,
+  "oldTestament" : {
+    "start" : {
+      "book" : "2kings",
+      "chapter" : 10,
+      "verse" : 32
+    },
+    "end" : {
+      "book" : "2kings",
+      "chapter" : 12,
+      "verse" : 21
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "acts",
+      "chapter" : 18,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "acts",
+      "chapter" : 18,
+      "verse" : 22
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 145,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 145,
+      "verse" : 21
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 18,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 18,
+      "verse" : 1
+    }
+  }
+}, {
+  "month" : 6,
+  "day" : 28,
+  "oldTestament" : {
+    "start" : {
+      "book" : "2kings",
+      "chapter" : 13,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "2kings",
+      "chapter" : 14,
+      "verse" : 29
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "acts",
+      "chapter" : 18,
+      "verse" : 23
+    },
+    "end" : {
+      "book" : "acts",
+      "chapter" : 19,
+      "verse" : 12
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 146,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 146,
+      "verse" : 10
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 18,
+      "verse" : 2
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 18,
+      "verse" : 3
+    }
+  }
+}, {
+  "month" : 6,
+  "day" : 29,
+  "oldTestament" : {
+    "start" : {
+      "book" : "2kings",
+      "chapter" : 15,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "2kings",
+      "chapter" : 16,
+      "verse" : 20
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "acts",
+      "chapter" : 19,
+      "verse" : 13
+    },
+    "end" : {
+      "book" : "acts",
+      "chapter" : 19,
+      "verse" : 41
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 147,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 147,
+      "verse" : 20
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 18,
+      "verse" : 4
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 18,
+      "verse" : 5
+    }
+  }
+}, {
+  "month" : 6,
+  "day" : 30,
+  "oldTestament" : {
+    "start" : {
+      "book" : "2kings",
+      "chapter" : 17,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "2kings",
+      "chapter" : 18,
+      "verse" : 12
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "acts",
+      "chapter" : 20,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "acts",
+      "chapter" : 20,
+      "verse" : 38
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 148,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 148,
+      "verse" : 14
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 18,
+      "verse" : 6
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 18,
+      "verse" : 7
+    }
+  }
+} ] ]

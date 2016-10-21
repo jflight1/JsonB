@@ -1,1582 +1,590 @@
-[ [ {
+[ {
   "month" : 8,
   "day" : 1,
   "oldTestament" : {
-    "start" : {
-      "book" : "2chronicles",
-      "chapter" : 30,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "2chronicles",
-      "chapter" : 31,
-      "verse" : 21
-    }
+    "start" : "2chronicles,30,1",
+    "end" : "2chronicles,31,21"
   },
   "newTestament" : {
-    "start" : {
-      "book" : "romans",
-      "chapter" : 15,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "romans",
-      "chapter" : 15,
-      "verse" : 22
-    }
+    "start" : "romans,15,1",
+    "end" : "romans,15,22"
   },
   "psalms" : {
-    "start" : {
-      "book" : "psalms",
-      "chapter" : 25,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "psalms",
-      "chapter" : 25,
-      "verse" : 15
-    }
+    "start" : "psalms,25,1",
+    "end" : "psalms,25,15"
   },
   "proverbs" : {
-    "start" : {
-      "book" : "proverbs",
-      "chapter" : 20,
-      "verse" : 13
-    },
-    "end" : {
-      "book" : "proverbs",
-      "chapter" : 20,
-      "verse" : 15
-    }
+    "start" : "proverbs,20,13",
+    "end" : "proverbs,20,15"
   }
 }, {
   "month" : 8,
   "day" : 2,
   "oldTestament" : {
-    "start" : {
-      "book" : "2chronicles",
-      "chapter" : 32,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "2chronicles",
-      "chapter" : 33,
-      "verse" : 13
-    }
+    "start" : "2chronicles,32,1",
+    "end" : "2chronicles,33,13"
   },
   "newTestament" : {
-    "start" : {
-      "book" : "romans",
-      "chapter" : 15,
-      "verse" : 23
-    },
-    "end" : {
-      "book" : "romans",
-      "chapter" : 16,
-      "verse" : 9
-    }
+    "start" : "romans,15,23",
+    "end" : "romans,16,9"
   },
   "psalms" : {
-    "start" : {
-      "book" : "psalms",
-      "chapter" : 25,
-      "verse" : 16
-    },
-    "end" : {
-      "book" : "psalms",
-      "chapter" : 25,
-      "verse" : 22
-    }
+    "start" : "psalms,25,16",
+    "end" : "psalms,25,22"
   },
   "proverbs" : {
-    "start" : {
-      "book" : "proverbs",
-      "chapter" : 20,
-      "verse" : 16
-    },
-    "end" : {
-      "book" : "proverbs",
-      "chapter" : 20,
-      "verse" : 18
-    }
+    "start" : "proverbs,20,16",
+    "end" : "proverbs,20,18"
   }
 }, {
   "month" : 8,
   "day" : 3,
   "oldTestament" : {
-    "start" : {
-      "book" : "2chronicles",
-      "chapter" : 33,
-      "verse" : 14
-    },
-    "end" : {
-      "book" : "2chronicles",
-      "chapter" : 34,
-      "verse" : 33
-    }
+    "start" : "2chronicles,33,14",
+    "end" : "2chronicles,34,33"
   },
   "newTestament" : {
-    "start" : {
-      "book" : "romans",
-      "chapter" : 16,
-      "verse" : 10
-    },
-    "end" : {
-      "book" : "romans",
-      "chapter" : 16,
-      "verse" : 27
-    }
+    "start" : "romans,16,10",
+    "end" : "romans,16,27"
   },
   "psalms" : {
-    "start" : {
-      "book" : "psalms",
-      "chapter" : 26,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "psalms",
-      "chapter" : 26,
-      "verse" : 12
-    }
+    "start" : "psalms,26,1",
+    "end" : "psalms,26,12"
   },
   "proverbs" : {
-    "start" : {
-      "book" : "proverbs",
-      "chapter" : 20,
-      "verse" : 19
-    },
-    "end" : {
-      "book" : "proverbs",
-      "chapter" : 20,
-      "verse" : 19
-    }
+    "start" : "proverbs,20,19",
+    "end" : "proverbs,20,19"
   }
 }, {
   "month" : 8,
   "day" : 4,
   "oldTestament" : {
-    "start" : {
-      "book" : "2chronicles",
-      "chapter" : 35,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "2chronicles",
-      "chapter" : 36,
-      "verse" : 23
-    }
+    "start" : "2chronicles,35,1",
+    "end" : "2chronicles,36,23"
   },
   "newTestament" : {
-    "start" : {
-      "book" : "1corinthians",
-      "chapter" : 1,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "1corinthians",
-      "chapter" : 1,
-      "verse" : 17
-    }
+    "start" : "1corinthians,1,1",
+    "end" : "1corinthians,1,17"
   },
   "psalms" : {
-    "start" : {
-      "book" : "psalms",
-      "chapter" : 27,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "psalms",
-      "chapter" : 27,
-      "verse" : 6
-    }
+    "start" : "psalms,27,1",
+    "end" : "psalms,27,6"
   },
   "proverbs" : {
-    "start" : {
-      "book" : "proverbs",
-      "chapter" : 20,
-      "verse" : 20
-    },
-    "end" : {
-      "book" : "proverbs",
-      "chapter" : 20,
-      "verse" : 21
-    }
+    "start" : "proverbs,20,20",
+    "end" : "proverbs,20,21"
   }
 }, {
   "month" : 8,
   "day" : 5,
   "oldTestament" : {
-    "start" : {
-      "book" : "ezra",
-      "chapter" : 1,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "ezra",
-      "chapter" : 2,
-      "verse" : 70
-    }
+    "start" : "ezra,1,1",
+    "end" : "ezra,2,70"
   },
   "newTestament" : {
-    "start" : {
-      "book" : "1corinthians",
-      "chapter" : 1,
-      "verse" : 18
-    },
-    "end" : {
-      "book" : "1corinthians",
-      "chapter" : 2,
-      "verse" : 5
-    }
+    "start" : "1corinthians,1,18",
+    "end" : "1corinthians,2,5"
   },
   "psalms" : {
-    "start" : {
-      "book" : "psalms",
-      "chapter" : 27,
-      "verse" : 7
-    },
-    "end" : {
-      "book" : "psalms",
-      "chapter" : 27,
-      "verse" : 14
-    }
+    "start" : "psalms,27,7",
+    "end" : "psalms,27,14"
   },
   "proverbs" : {
-    "start" : {
-      "book" : "proverbs",
-      "chapter" : 20,
-      "verse" : 22
-    },
-    "end" : {
-      "book" : "proverbs",
-      "chapter" : 20,
-      "verse" : 23
-    }
+    "start" : "proverbs,20,22",
+    "end" : "proverbs,20,23"
   }
 }, {
   "month" : 8,
   "day" : 6,
   "oldTestament" : {
-    "start" : {
-      "book" : "ezra",
-      "chapter" : 3,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "ezra",
-      "chapter" : 4,
-      "verse" : 23
-    }
+    "start" : "ezra,3,1",
+    "end" : "ezra,4,23"
   },
   "newTestament" : {
-    "start" : {
-      "book" : "1corinthians",
-      "chapter" : 2,
-      "verse" : 6
-    },
-    "end" : {
-      "book" : "1corinthians",
-      "chapter" : 3,
-      "verse" : 4
-    }
+    "start" : "1corinthians,2,6",
+    "end" : "1corinthians,3,4"
   },
   "psalms" : {
-    "start" : {
-      "book" : "psalms",
-      "chapter" : 28,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "psalms",
-      "chapter" : 28,
-      "verse" : 9
-    }
+    "start" : "psalms,28,1",
+    "end" : "psalms,28,9"
   },
   "proverbs" : {
-    "start" : {
-      "book" : "proverbs",
-      "chapter" : 20,
-      "verse" : 24
-    },
-    "end" : {
-      "book" : "proverbs",
-      "chapter" : 20,
-      "verse" : 25
-    }
+    "start" : "proverbs,20,24",
+    "end" : "proverbs,20,25"
   }
 }, {
   "month" : 8,
   "day" : 7,
   "oldTestament" : {
-    "start" : {
-      "book" : "ezra",
-      "chapter" : 4,
-      "verse" : 24
-    },
-    "end" : {
-      "book" : "ezra",
-      "chapter" : 6,
-      "verse" : 22
-    }
+    "start" : "ezra,4,24",
+    "end" : "ezra,6,22"
   },
   "newTestament" : {
-    "start" : {
-      "book" : "1corinthians",
-      "chapter" : 3,
-      "verse" : 5
-    },
-    "end" : {
-      "book" : "1corinthians",
-      "chapter" : 3,
-      "verse" : 23
-    }
+    "start" : "1corinthians,3,5",
+    "end" : "1corinthians,3,23"
   },
   "psalms" : {
-    "start" : {
-      "book" : "psalms",
-      "chapter" : 29,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "psalms",
-      "chapter" : 29,
-      "verse" : 11
-    }
+    "start" : "psalms,29,1",
+    "end" : "psalms,29,11"
   },
   "proverbs" : {
-    "start" : {
-      "book" : "proverbs",
-      "chapter" : 20,
-      "verse" : 26
-    },
-    "end" : {
-      "book" : "proverbs",
-      "chapter" : 20,
-      "verse" : 27
-    }
+    "start" : "proverbs,20,26",
+    "end" : "proverbs,20,27"
   }
 }, {
   "month" : 8,
   "day" : 8,
   "oldTestament" : {
-    "start" : {
-      "book" : "ezra",
-      "chapter" : 7,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "ezra",
-      "chapter" : 8,
-      "verse" : 20
-    }
+    "start" : "ezra,7,1",
+    "end" : "ezra,8,20"
   },
   "newTestament" : {
-    "start" : {
-      "book" : "1corinthians",
-      "chapter" : 4,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "1corinthians",
-      "chapter" : 4,
-      "verse" : 21
-    }
+    "start" : "1corinthians,4,1",
+    "end" : "1corinthians,4,21"
   },
   "psalms" : {
-    "start" : {
-      "book" : "psalms",
-      "chapter" : 30,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "psalms",
-      "chapter" : 30,
-      "verse" : 12
-    }
+    "start" : "psalms,30,1",
+    "end" : "psalms,30,12"
   },
   "proverbs" : {
-    "start" : {
-      "book" : "proverbs",
-      "chapter" : 20,
-      "verse" : 28
-    },
-    "end" : {
-      "book" : "proverbs",
-      "chapter" : 20,
-      "verse" : 30
-    }
+    "start" : "proverbs,20,28",
+    "end" : "proverbs,20,30"
   }
 }, {
   "month" : 8,
   "day" : 9,
   "oldTestament" : {
-    "start" : {
-      "book" : "ezra",
-      "chapter" : 8,
-      "verse" : 21
-    },
-    "end" : {
-      "book" : "ezra",
-      "chapter" : 9,
-      "verse" : 15
-    }
+    "start" : "ezra,8,21",
+    "end" : "ezra,9,15"
   },
   "newTestament" : {
-    "start" : {
-      "book" : "1corinthians",
-      "chapter" : 5,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "1corinthians",
-      "chapter" : 5,
-      "verse" : 13
-    }
+    "start" : "1corinthians,5,1",
+    "end" : "1corinthians,5,13"
   },
   "psalms" : {
-    "start" : {
-      "book" : "psalms",
-      "chapter" : 31,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "psalms",
-      "chapter" : 31,
-      "verse" : 8
-    }
+    "start" : "psalms,31,1",
+    "end" : "psalms,31,8"
   },
   "proverbs" : {
-    "start" : {
-      "book" : "proverbs",
-      "chapter" : 21,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "proverbs",
-      "chapter" : 21,
-      "verse" : 2
-    }
+    "start" : "proverbs,21,1",
+    "end" : "proverbs,21,2"
   }
 }, {
   "month" : 8,
   "day" : 10,
   "oldTestament" : {
-    "start" : {
-      "book" : "ezra",
-      "chapter" : 10,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "ezra",
-      "chapter" : 10,
-      "verse" : 44
-    }
+    "start" : "ezra,10,1",
+    "end" : "ezra,10,44"
   },
   "newTestament" : {
-    "start" : {
-      "book" : "1corinthians",
-      "chapter" : 6,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "1corinthians",
-      "chapter" : 6,
-      "verse" : 20
-    }
+    "start" : "1corinthians,6,1",
+    "end" : "1corinthians,6,20"
   },
   "psalms" : {
-    "start" : {
-      "book" : "psalms",
-      "chapter" : 31,
-      "verse" : 9
-    },
-    "end" : {
-      "book" : "psalms",
-      "chapter" : 31,
-      "verse" : 18
-    }
+    "start" : "psalms,31,9",
+    "end" : "psalms,31,18"
   },
   "proverbs" : {
-    "start" : {
-      "book" : "proverbs",
-      "chapter" : 21,
-      "verse" : 3
-    },
-    "end" : {
-      "book" : "proverbs",
-      "chapter" : 21,
-      "verse" : 3
-    }
+    "start" : "proverbs,21,3",
+    "end" : "proverbs,21,3"
   }
 }, {
   "month" : 8,
   "day" : 11,
   "oldTestament" : {
-    "start" : {
-      "book" : "nehemiah",
-      "chapter" : 1,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "nehemiah",
-      "chapter" : 3,
-      "verse" : 14
-    }
+    "start" : "nehemiah,1,1",
+    "end" : "nehemiah,3,14"
   },
   "newTestament" : {
-    "start" : {
-      "book" : "1corinthians",
-      "chapter" : 7,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "1corinthians",
-      "chapter" : 7,
-      "verse" : 24
-    }
+    "start" : "1corinthians,7,1",
+    "end" : "1corinthians,7,24"
   },
   "psalms" : {
-    "start" : {
-      "book" : "psalms",
-      "chapter" : 31,
-      "verse" : 19
-    },
-    "end" : {
-      "book" : "psalms",
-      "chapter" : 31,
-      "verse" : 24
-    }
+    "start" : "psalms,31,19",
+    "end" : "psalms,31,24"
   },
   "proverbs" : {
-    "start" : {
-      "book" : "proverbs",
-      "chapter" : 21,
-      "verse" : 4
-    },
-    "end" : {
-      "book" : "proverbs",
-      "chapter" : 21,
-      "verse" : 4
-    }
+    "start" : "proverbs,21,4",
+    "end" : "proverbs,21,4"
   }
 }, {
   "month" : 8,
   "day" : 12,
   "oldTestament" : {
-    "start" : {
-      "book" : "nehemiah",
-      "chapter" : 3,
-      "verse" : 15
-    },
-    "end" : {
-      "book" : "nehemiah",
-      "chapter" : 5,
-      "verse" : 13
-    }
+    "start" : "nehemiah,3,15",
+    "end" : "nehemiah,5,13"
   },
   "newTestament" : {
-    "start" : {
-      "book" : "1corinthians",
-      "chapter" : 7,
-      "verse" : 25
-    },
-    "end" : {
-      "book" : "1corinthians",
-      "chapter" : 7,
-      "verse" : 40
-    }
+    "start" : "1corinthians,7,25",
+    "end" : "1corinthians,7,40"
   },
   "psalms" : {
-    "start" : {
-      "book" : "psalms",
-      "chapter" : 32,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "psalms",
-      "chapter" : 32,
-      "verse" : 11
-    }
+    "start" : "psalms,32,1",
+    "end" : "psalms,32,11"
   },
   "proverbs" : {
-    "start" : {
-      "book" : "proverbs",
-      "chapter" : 21,
-      "verse" : 5
-    },
-    "end" : {
-      "book" : "proverbs",
-      "chapter" : 21,
-      "verse" : 7
-    }
+    "start" : "proverbs,21,5",
+    "end" : "proverbs,21,7"
   }
 }, {
   "month" : 8,
   "day" : 13,
   "oldTestament" : {
-    "start" : {
-      "book" : "nehemiah",
-      "chapter" : 5,
-      "verse" : 14
-    },
-    "end" : {
-      "book" : "nehemiah",
-      "chapter" : 7,
-      "verse" : 73
-    }
+    "start" : "nehemiah,5,14",
+    "end" : "nehemiah,7,73"
   },
   "newTestament" : {
-    "start" : {
-      "book" : "1corinthians",
-      "chapter" : 8,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "1corinthians",
-      "chapter" : 8,
-      "verse" : 13
-    }
+    "start" : "1corinthians,8,1",
+    "end" : "1corinthians,8,13"
   },
   "psalms" : {
-    "start" : {
-      "book" : "psalms",
-      "chapter" : 33,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "psalms",
-      "chapter" : 33,
-      "verse" : 11
-    }
+    "start" : "psalms,33,1",
+    "end" : "psalms,33,11"
   },
   "proverbs" : {
-    "start" : {
-      "book" : "proverbs",
-      "chapter" : 21,
-      "verse" : 8
-    },
-    "end" : {
-      "book" : "proverbs",
-      "chapter" : 21,
-      "verse" : 10
-    }
+    "start" : "proverbs,21,8",
+    "end" : "proverbs,21,10"
   }
 }, {
   "month" : 8,
   "day" : 14,
   "oldTestament" : {
-    "start" : {
-      "book" : "nehemiah",
-      "chapter" : 7,
-      "verse" : 73
-    },
-    "end" : {
-      "book" : "nehemiah",
-      "chapter" : 9,
-      "verse" : 21
-    }
+    "start" : "nehemiah,7,73",
+    "end" : "nehemiah,9,21"
   },
   "newTestament" : {
-    "start" : {
-      "book" : "1corinthians",
-      "chapter" : 9,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "1corinthians",
-      "chapter" : 9,
-      "verse" : 18
-    }
+    "start" : "1corinthians,9,1",
+    "end" : "1corinthians,9,18"
   },
   "psalms" : {
-    "start" : {
-      "book" : "psalms",
-      "chapter" : 33,
-      "verse" : 12
-    },
-    "end" : {
-      "book" : "psalms",
-      "chapter" : 33,
-      "verse" : 22
-    }
+    "start" : "psalms,33,12",
+    "end" : "psalms,33,22"
   },
   "proverbs" : {
-    "start" : {
-      "book" : "proverbs",
-      "chapter" : 21,
-      "verse" : 11
-    },
-    "end" : {
-      "book" : "proverbs",
-      "chapter" : 21,
-      "verse" : 12
-    }
+    "start" : "proverbs,21,11",
+    "end" : "proverbs,21,12"
   }
 }, {
   "month" : 8,
   "day" : 15,
   "oldTestament" : {
-    "start" : {
-      "book" : "nehemiah",
-      "chapter" : 9,
-      "verse" : 22
-    },
-    "end" : {
-      "book" : "nehemiah",
-      "chapter" : 10,
-      "verse" : 39
-    }
+    "start" : "nehemiah,9,22",
+    "end" : "nehemiah,10,39"
   },
   "newTestament" : {
-    "start" : {
-      "book" : "1corinthians",
-      "chapter" : 9,
-      "verse" : 19
-    },
-    "end" : {
-      "book" : "1corinthians",
-      "chapter" : 10,
-      "verse" : 13
-    }
+    "start" : "1corinthians,9,19",
+    "end" : "1corinthians,10,13"
   },
   "psalms" : {
-    "start" : {
-      "book" : "psalms",
-      "chapter" : 34,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "psalms",
-      "chapter" : 34,
-      "verse" : 10
-    }
+    "start" : "psalms,34,1",
+    "end" : "psalms,34,10"
   },
   "proverbs" : {
-    "start" : {
-      "book" : "proverbs",
-      "chapter" : 21,
-      "verse" : 13
-    },
-    "end" : {
-      "book" : "proverbs",
-      "chapter" : 21,
-      "verse" : 13
-    }
+    "start" : "proverbs,21,13",
+    "end" : "proverbs,21,13"
   }
 }, {
   "month" : 8,
   "day" : 16,
   "oldTestament" : {
-    "start" : {
-      "book" : "nehemiah",
-      "chapter" : 11,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "nehemiah",
-      "chapter" : 12,
-      "verse" : 26
-    }
+    "start" : "nehemiah,11,1",
+    "end" : "nehemiah,12,26"
   },
   "newTestament" : {
-    "start" : {
-      "book" : "1corinthians",
-      "chapter" : 10,
-      "verse" : 14
-    },
-    "end" : {
-      "book" : "1corinthians",
-      "chapter" : 10,
-      "verse" : 33
-    }
+    "start" : "1corinthians,10,14",
+    "end" : "1corinthians,10,33"
   },
   "psalms" : {
-    "start" : {
-      "book" : "psalms",
-      "chapter" : 34,
-      "verse" : 11
-    },
-    "end" : {
-      "book" : "psalms",
-      "chapter" : 34,
-      "verse" : 22
-    }
+    "start" : "psalms,34,11",
+    "end" : "psalms,34,22"
   },
   "proverbs" : {
-    "start" : {
-      "book" : "proverbs",
-      "chapter" : 21,
-      "verse" : 14
-    },
-    "end" : {
-      "book" : "proverbs",
-      "chapter" : 21,
-      "verse" : 16
-    }
+    "start" : "proverbs,21,14",
+    "end" : "proverbs,21,16"
   }
 }, {
   "month" : 8,
   "day" : 17,
   "oldTestament" : {
-    "start" : {
-      "book" : "nehemiah",
-      "chapter" : 12,
-      "verse" : 27
-    },
-    "end" : {
-      "book" : "nehemiah",
-      "chapter" : 13,
-      "verse" : 31
-    }
+    "start" : "nehemiah,12,27",
+    "end" : "nehemiah,13,31"
   },
   "newTestament" : {
-    "start" : {
-      "book" : "1corinthians",
-      "chapter" : 11,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "1corinthians",
-      "chapter" : 11,
-      "verse" : 16
-    }
+    "start" : "1corinthians,11,1",
+    "end" : "1corinthians,11,16"
   },
   "psalms" : {
-    "start" : {
-      "book" : "psalms",
-      "chapter" : 35,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "psalms",
-      "chapter" : 35,
-      "verse" : 16
-    }
+    "start" : "psalms,35,1",
+    "end" : "psalms,35,16"
   },
   "proverbs" : {
-    "start" : {
-      "book" : "proverbs",
-      "chapter" : 21,
-      "verse" : 17
-    },
-    "end" : {
-      "book" : "proverbs",
-      "chapter" : 21,
-      "verse" : 18
-    }
+    "start" : "proverbs,21,17",
+    "end" : "proverbs,21,18"
   }
 }, {
   "month" : 8,
   "day" : 18,
   "oldTestament" : {
-    "start" : {
-      "book" : "esther",
-      "chapter" : 1,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "esther",
-      "chapter" : 3,
-      "verse" : 15
-    }
+    "start" : "esther,1,1",
+    "end" : "esther,3,15"
   },
   "newTestament" : {
-    "start" : {
-      "book" : "1corinthians",
-      "chapter" : 11,
-      "verse" : 17
-    },
-    "end" : {
-      "book" : "1corinthians",
-      "chapter" : 11,
-      "verse" : 34
-    }
+    "start" : "1corinthians,11,17",
+    "end" : "1corinthians,11,34"
   },
   "psalms" : {
-    "start" : {
-      "book" : "psalms",
-      "chapter" : 35,
-      "verse" : 17
-    },
-    "end" : {
-      "book" : "psalms",
-      "chapter" : 35,
-      "verse" : 28
-    }
+    "start" : "psalms,35,17",
+    "end" : "psalms,35,28"
   },
   "proverbs" : {
-    "start" : {
-      "book" : "proverbs",
-      "chapter" : 21,
-      "verse" : 19
-    },
-    "end" : {
-      "book" : "proverbs",
-      "chapter" : 21,
-      "verse" : 20
-    }
+    "start" : "proverbs,21,19",
+    "end" : "proverbs,21,20"
   }
 }, {
   "month" : 8,
   "day" : 19,
   "oldTestament" : {
-    "start" : {
-      "book" : "esther",
-      "chapter" : 4,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "esther",
-      "chapter" : 7,
-      "verse" : 10
-    }
+    "start" : "esther,4,1",
+    "end" : "esther,7,10"
   },
   "newTestament" : {
-    "start" : {
-      "book" : "1corinthians",
-      "chapter" : 12,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "1corinthians",
-      "chapter" : 12,
-      "verse" : 26
-    }
+    "start" : "1corinthians,12,1",
+    "end" : "1corinthians,12,26"
   },
   "psalms" : {
-    "start" : {
-      "book" : "psalms",
-      "chapter" : 36,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "psalms",
-      "chapter" : 36,
-      "verse" : 12
-    }
+    "start" : "psalms,36,1",
+    "end" : "psalms,36,12"
   },
   "proverbs" : {
-    "start" : {
-      "book" : "proverbs",
-      "chapter" : 21,
-      "verse" : 21
-    },
-    "end" : {
-      "book" : "proverbs",
-      "chapter" : 21,
-      "verse" : 22
-    }
+    "start" : "proverbs,21,21",
+    "end" : "proverbs,21,22"
   }
 }, {
   "month" : 8,
   "day" : 20,
   "oldTestament" : {
-    "start" : {
-      "book" : "esther",
-      "chapter" : 8,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "esther",
-      "chapter" : 10,
-      "verse" : 3
-    }
+    "start" : "esther,8,1",
+    "end" : "esther,10,3"
   },
   "newTestament" : {
-    "start" : {
-      "book" : "1corinthians",
-      "chapter" : 12,
-      "verse" : 27
-    },
-    "end" : {
-      "book" : "1corinthians",
-      "chapter" : 13,
-      "verse" : 13
-    }
+    "start" : "1corinthians,12,27",
+    "end" : "1corinthians,13,13"
   },
   "psalms" : {
-    "start" : {
-      "book" : "psalms",
-      "chapter" : 37,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "psalms",
-      "chapter" : 37,
-      "verse" : 11
-    }
+    "start" : "psalms,37,1",
+    "end" : "psalms,37,11"
   },
   "proverbs" : {
-    "start" : {
-      "book" : "proverbs",
-      "chapter" : 21,
-      "verse" : 23
-    },
-    "end" : {
-      "book" : "proverbs",
-      "chapter" : 21,
-      "verse" : 24
-    }
+    "start" : "proverbs,21,23",
+    "end" : "proverbs,21,24"
   }
 }, {
   "month" : 8,
   "day" : 21,
   "oldTestament" : {
-    "start" : {
-      "book" : "job",
-      "chapter" : 1,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "job",
-      "chapter" : 3,
-      "verse" : 26
-    }
+    "start" : "job,1,1",
+    "end" : "job,3,26"
   },
   "newTestament" : {
-    "start" : {
-      "book" : "1corinthians",
-      "chapter" : 14,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "1corinthians",
-      "chapter" : 14,
-      "verse" : 17
-    }
+    "start" : "1corinthians,14,1",
+    "end" : "1corinthians,14,17"
   },
   "psalms" : {
-    "start" : {
-      "book" : "psalms",
-      "chapter" : 37,
-      "verse" : 12
-    },
-    "end" : {
-      "book" : "psalms",
-      "chapter" : 37,
-      "verse" : 29
-    }
+    "start" : "psalms,37,12",
+    "end" : "psalms,37,29"
   },
   "proverbs" : {
-    "start" : {
-      "book" : "proverbs",
-      "chapter" : 21,
-      "verse" : 25
-    },
-    "end" : {
-      "book" : "proverbs",
-      "chapter" : 21,
-      "verse" : 26
-    }
+    "start" : "proverbs,21,25",
+    "end" : "proverbs,21,26"
   }
 }, {
   "month" : 8,
   "day" : 22,
   "oldTestament" : {
-    "start" : {
-      "book" : "job",
-      "chapter" : 4,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "job",
-      "chapter" : 7,
-      "verse" : 21
-    }
+    "start" : "job,4,1",
+    "end" : "job,7,21"
   },
   "newTestament" : {
-    "start" : {
-      "book" : "1corinthians",
-      "chapter" : 14,
-      "verse" : 18
-    },
-    "end" : {
-      "book" : "1corinthians",
-      "chapter" : 14,
-      "verse" : 40
-    }
+    "start" : "1corinthians,14,18",
+    "end" : "1corinthians,14,40"
   },
   "psalms" : {
-    "start" : {
-      "book" : "psalms",
-      "chapter" : 37,
-      "verse" : 30
-    },
-    "end" : {
-      "book" : "psalms",
-      "chapter" : 37,
-      "verse" : 40
-    }
+    "start" : "psalms,37,30",
+    "end" : "psalms,37,40"
   },
   "proverbs" : {
-    "start" : {
-      "book" : "proverbs",
-      "chapter" : 21,
-      "verse" : 27
-    },
-    "end" : {
-      "book" : "proverbs",
-      "chapter" : 21,
-      "verse" : 27
-    }
+    "start" : "proverbs,21,27",
+    "end" : "proverbs,21,27"
   }
 }, {
   "month" : 8,
   "day" : 23,
   "oldTestament" : {
-    "start" : {
-      "book" : "job",
-      "chapter" : 8,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "job",
-      "chapter" : 11,
-      "verse" : 20
-    }
+    "start" : "job,8,1",
+    "end" : "job,11,20"
   },
   "newTestament" : {
-    "start" : {
-      "book" : "1corinthians",
-      "chapter" : 15,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "1corinthians",
-      "chapter" : 15,
-      "verse" : 28
-    }
+    "start" : "1corinthians,15,1",
+    "end" : "1corinthians,15,28"
   },
   "psalms" : {
-    "start" : {
-      "book" : "psalms",
-      "chapter" : 38,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "psalms",
-      "chapter" : 38,
-      "verse" : 22
-    }
+    "start" : "psalms,38,1",
+    "end" : "psalms,38,22"
   },
   "proverbs" : {
-    "start" : {
-      "book" : "proverbs",
-      "chapter" : 21,
-      "verse" : 28
-    },
-    "end" : {
-      "book" : "proverbs",
-      "chapter" : 21,
-      "verse" : 29
-    }
+    "start" : "proverbs,21,28",
+    "end" : "proverbs,21,29"
   }
 }, {
   "month" : 8,
   "day" : 24,
   "oldTestament" : {
-    "start" : {
-      "book" : "job",
-      "chapter" : 12,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "job",
-      "chapter" : 15,
-      "verse" : 35
-    }
+    "start" : "job,12,1",
+    "end" : "job,15,35"
   },
   "newTestament" : {
-    "start" : {
-      "book" : "1corinthians",
-      "chapter" : 15,
-      "verse" : 29
-    },
-    "end" : {
-      "book" : "1corinthians",
-      "chapter" : 15,
-      "verse" : 58
-    }
+    "start" : "1corinthians,15,29",
+    "end" : "1corinthians,15,58"
   },
   "psalms" : {
-    "start" : {
-      "book" : "psalms",
-      "chapter" : 39,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "psalms",
-      "chapter" : 39,
-      "verse" : 13
-    }
+    "start" : "psalms,39,1",
+    "end" : "psalms,39,13"
   },
   "proverbs" : {
-    "start" : {
-      "book" : "proverbs",
-      "chapter" : 21,
-      "verse" : 30
-    },
-    "end" : {
-      "book" : "proverbs",
-      "chapter" : 21,
-      "verse" : 31
-    }
+    "start" : "proverbs,21,30",
+    "end" : "proverbs,21,31"
   }
 }, {
   "month" : 8,
   "day" : 25,
   "oldTestament" : {
-    "start" : {
-      "book" : "job",
-      "chapter" : 16,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "job",
-      "chapter" : 19,
-      "verse" : 29
-    }
+    "start" : "job,16,1",
+    "end" : "job,19,29"
   },
   "newTestament" : {
-    "start" : {
-      "book" : "1corinthians",
-      "chapter" : 16,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "1corinthians",
-      "chapter" : 16,
-      "verse" : 24
-    }
+    "start" : "1corinthians,16,1",
+    "end" : "1corinthians,16,24"
   },
   "psalms" : {
-    "start" : {
-      "book" : "psalms",
-      "chapter" : 40,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "psalms",
-      "chapter" : 40,
-      "verse" : 10
-    }
+    "start" : "psalms,40,1",
+    "end" : "psalms,40,10"
   },
   "proverbs" : {
-    "start" : {
-      "book" : "proverbs",
-      "chapter" : 22,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "proverbs",
-      "chapter" : 22,
-      "verse" : 1
-    }
+    "start" : "proverbs,22,1",
+    "end" : "proverbs,22,1"
   }
 }, {
   "month" : 8,
   "day" : 26,
   "oldTestament" : {
-    "start" : {
-      "book" : "job",
-      "chapter" : 20,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "job",
-      "chapter" : 22,
-      "verse" : 30
-    }
+    "start" : "job,20,1",
+    "end" : "job,22,30"
   },
   "newTestament" : {
-    "start" : {
-      "book" : "2corinthians",
-      "chapter" : 1,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "2corinthians",
-      "chapter" : 1,
-      "verse" : 11
-    }
+    "start" : "2corinthians,1,1",
+    "end" : "2corinthians,1,11"
   },
   "psalms" : {
-    "start" : {
-      "book" : "psalms",
-      "chapter" : 40,
-      "verse" : 11
-    },
-    "end" : {
-      "book" : "psalms",
-      "chapter" : 40,
-      "verse" : 17
-    }
+    "start" : "psalms,40,11",
+    "end" : "psalms,40,17"
   },
   "proverbs" : {
-    "start" : {
-      "book" : "proverbs",
-      "chapter" : 22,
-      "verse" : 2
-    },
-    "end" : {
-      "book" : "proverbs",
-      "chapter" : 22,
-      "verse" : 4
-    }
+    "start" : "proverbs,22,2",
+    "end" : "proverbs,22,4"
   }
 }, {
   "month" : 8,
   "day" : 27,
   "oldTestament" : {
-    "start" : {
-      "book" : "job",
-      "chapter" : 23,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "job",
-      "chapter" : 27,
-      "verse" : 23
-    }
+    "start" : "job,23,1",
+    "end" : "job,27,23"
   },
   "newTestament" : {
-    "start" : {
-      "book" : "2corinthians",
-      "chapter" : 1,
-      "verse" : 12
-    },
-    "end" : {
-      "book" : "2corinthians",
-      "chapter" : 2,
-      "verse" : 11
-    }
+    "start" : "2corinthians,1,12",
+    "end" : "2corinthians,2,11"
   },
   "psalms" : {
-    "start" : {
-      "book" : "psalms",
-      "chapter" : 41,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "psalms",
-      "chapter" : 41,
-      "verse" : 13
-    }
+    "start" : "psalms,41,1",
+    "end" : "psalms,41,13"
   },
   "proverbs" : {
-    "start" : {
-      "book" : "proverbs",
-      "chapter" : 22,
-      "verse" : 5
-    },
-    "end" : {
-      "book" : "proverbs",
-      "chapter" : 22,
-      "verse" : 6
-    }
+    "start" : "proverbs,22,5",
+    "end" : "proverbs,22,6"
   }
 }, {
   "month" : 8,
   "day" : 28,
   "oldTestament" : {
-    "start" : {
-      "book" : "job",
-      "chapter" : 28,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "job",
-      "chapter" : 30,
-      "verse" : 31
-    }
+    "start" : "job,28,1",
+    "end" : "job,30,31"
   },
   "newTestament" : {
-    "start" : {
-      "book" : "2corinthians",
-      "chapter" : 2,
-      "verse" : 12
-    },
-    "end" : {
-      "book" : "2corinthians",
-      "chapter" : 2,
-      "verse" : 17
-    }
+    "start" : "2corinthians,2,12",
+    "end" : "2corinthians,2,17"
   },
   "psalms" : {
-    "start" : {
-      "book" : "psalms",
-      "chapter" : 42,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "psalms",
-      "chapter" : 42,
-      "verse" : 11
-    }
+    "start" : "psalms,42,1",
+    "end" : "psalms,42,11"
   },
   "proverbs" : {
-    "start" : {
-      "book" : "proverbs",
-      "chapter" : 22,
-      "verse" : 7
-    },
-    "end" : {
-      "book" : "proverbs",
-      "chapter" : 22,
-      "verse" : 7
-    }
+    "start" : "proverbs,22,7",
+    "end" : "proverbs,22,7"
   }
 }, {
   "month" : 8,
   "day" : 29,
   "oldTestament" : {
-    "start" : {
-      "book" : "job",
-      "chapter" : 31,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "job",
-      "chapter" : 33,
-      "verse" : 33
-    }
+    "start" : "job,31,1",
+    "end" : "job,33,33"
   },
   "newTestament" : {
-    "start" : {
-      "book" : "2corinthians",
-      "chapter" : 3,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "2corinthians",
-      "chapter" : 3,
-      "verse" : 18
-    }
+    "start" : "2corinthians,3,1",
+    "end" : "2corinthians,3,18"
   },
   "psalms" : {
-    "start" : {
-      "book" : "psalms",
-      "chapter" : 43,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "psalms",
-      "chapter" : 43,
-      "verse" : 5
-    }
+    "start" : "psalms,43,1",
+    "end" : "psalms,43,5"
   },
   "proverbs" : {
-    "start" : {
-      "book" : "proverbs",
-      "chapter" : 22,
-      "verse" : 8
-    },
-    "end" : {
-      "book" : "proverbs",
-      "chapter" : 22,
-      "verse" : 9
-    }
+    "start" : "proverbs,22,8",
+    "end" : "proverbs,22,9"
   }
 }, {
   "month" : 8,
   "day" : 30,
   "oldTestament" : {
-    "start" : {
-      "book" : "job",
-      "chapter" : 34,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "job",
-      "chapter" : 36,
-      "verse" : 33
-    }
+    "start" : "job,34,1",
+    "end" : "job,36,33"
   },
   "newTestament" : {
-    "start" : {
-      "book" : "2corinthians",
-      "chapter" : 4,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "2corinthians",
-      "chapter" : 4,
-      "verse" : 12
-    }
+    "start" : "2corinthians,4,1",
+    "end" : "2corinthians,4,12"
   },
   "psalms" : {
-    "start" : {
-      "book" : "psalms",
-      "chapter" : 44,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "psalms",
-      "chapter" : 44,
-      "verse" : 8
-    }
+    "start" : "psalms,44,1",
+    "end" : "psalms,44,8"
   },
   "proverbs" : {
-    "start" : {
-      "book" : "proverbs",
-      "chapter" : 22,
-      "verse" : 10
-    },
-    "end" : {
-      "book" : "proverbs",
-      "chapter" : 22,
-      "verse" : 12
-    }
+    "start" : "proverbs,22,10",
+    "end" : "proverbs,22,12"
   }
 }, {
   "month" : 8,
   "day" : 31,
   "oldTestament" : {
-    "start" : {
-      "book" : "job",
-      "chapter" : 37,
-      "verse" : 1
-    },
-    "end" : {
-      "book" : "job",
-      "chapter" : 39,
-      "verse" : 30
-    }
+    "start" : "job,37,1",
+    "end" : "job,39,30"
   },
   "newTestament" : {
-    "start" : {
-      "book" : "2corinthians",
-      "chapter" : 4,
-      "verse" : 13
-    },
-    "end" : {
-      "book" : "2corinthians",
-      "chapter" : 5,
-      "verse" : 10
-    }
+    "start" : "2corinthians,4,13",
+    "end" : "2corinthians,5,10"
   },
   "psalms" : {
-    "start" : {
-      "book" : "psalms",
-      "chapter" : 44,
-      "verse" : 9
-    },
-    "end" : {
-      "book" : "psalms",
-      "chapter" : 44,
-      "verse" : 26
-    }
+    "start" : "psalms,44,9",
+    "end" : "psalms,44,26"
   },
   "proverbs" : {
-    "start" : {
-      "book" : "proverbs",
-      "chapter" : 22,
-      "verse" : 13
-    },
-    "end" : {
-      "book" : "proverbs",
-      "chapter" : 22,
-      "verse" : 13
-    }
+    "start" : "proverbs,22,13",
+    "end" : "proverbs,22,13"
   }
-} ] ]
+} ]

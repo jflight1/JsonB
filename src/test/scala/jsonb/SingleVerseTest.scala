@@ -17,12 +17,7 @@ class SingleVerseTest extends FunSuite {
 
 
   test("parse") {
-    val jsonString: String =
-      "{ " +
-        "  \"book\" : \"genesis\", " +
-        "  \"chapter\" : 1, " +
-        "  \"verse\" : 2 " +
-        "} "
+    val jsonString: String = "\"genesis,1,2\""
 
     val singleVerse: SingleVerse = SingleVerseParser.fromJson(jsonString)
 

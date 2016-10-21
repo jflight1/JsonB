@@ -31,16 +31,8 @@ class VerseRangeTest extends FunSuite {
   test("parse") {
     val jsonString: String =
       "{ " +
-        "  \"start\" : { " +
-        "    \"book\" : \"genesis\", " +
-        "    \"chapter\" : 1, " +
-        "    \"verse\" : 2 " +
-        "  }, " +
-        "  \"end\" : { " +
-        "    \"book\" : \"exodus\", " +
-        "    \"chapter\" : 3, " +
-        "    \"verse\" : 4 " +
-        "  } " +
+        "  \"start\" : \"genesis,1,2\", " +
+        "  \"end\" : \"exodus,3,4\" " +
         "} "
 
 

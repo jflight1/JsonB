@@ -168,7 +168,7 @@ object DayReadingParser extends JsonParserBase[DayReading] {
     val inFileName = "/months/json/" + sMonthNum + ".json"
     val inputStream: InputStream = getClass.getResourceAsStream(inFileName)
     val json: String = IOUtils.toString(inputStream, "UTF-8")
-    val jsArray: JsArray = Json.parse(json).as[JsArray].head.as[JsArray]
+    val jsArray: JsArray = Json.parse(json).as[JsArray]
     jsArray.value.map(jsValue => DayReadingParser.fromJson(jsValue))
   }
 
@@ -193,7 +193,7 @@ object V2FileGenerator {
 
   def generateMonthJsonFile(month: Int): Unit = {
     val sMonthNum = if (month < 10) "0" + month else "" + month
-    val inFileName = "/months/json/" + sMonthNum + ".json"
+    val inFileName = "/months/json_v1/" + sMonthNum + ".json"
     val inputStream: InputStream = getClass.getResourceAsStream(inFileName)
     val json: String = IOUtils.toString(inputStream, "UTF-8")
     val jsArray: JsArray = Json.parse(json).as[JsArray].head.as[JsArray]

@@ -1,0 +1,1582 @@
+[ [ {
+  "month" : 3,
+  "day" : 1,
+  "oldTestament" : {
+    "start" : {
+      "book" : "leviticus",
+      "chapter" : 24,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "leviticus",
+      "chapter" : 25,
+      "verse" : 46
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "mark",
+      "chapter" : 10,
+      "verse" : 13
+    },
+    "end" : {
+      "book" : "mark",
+      "chapter" : 10,
+      "verse" : 31
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 44,
+      "verse" : 9
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 44,
+      "verse" : 26
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 10,
+      "verse" : 20
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 10,
+      "verse" : 21
+    }
+  }
+}, {
+  "month" : 3,
+  "day" : 2,
+  "oldTestament" : {
+    "start" : {
+      "book" : "leviticus",
+      "chapter" : 25,
+      "verse" : 47
+    },
+    "end" : {
+      "book" : "leviticus",
+      "chapter" : 27,
+      "verse" : 13
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "mark",
+      "chapter" : 10,
+      "verse" : 32
+    },
+    "end" : {
+      "book" : "mark",
+      "chapter" : 10,
+      "verse" : 52
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 45,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 45,
+      "verse" : 17
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 10,
+      "verse" : 22
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 10,
+      "verse" : 22
+    }
+  }
+}, {
+  "month" : 3,
+  "day" : 3,
+  "oldTestament" : {
+    "start" : {
+      "book" : "leviticus",
+      "chapter" : 27,
+      "verse" : 14
+    },
+    "end" : {
+      "book" : "numbers",
+      "chapter" : 1,
+      "verse" : 54
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "mark",
+      "chapter" : 11,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "mark",
+      "chapter" : 11,
+      "verse" : 26
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 46,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 46,
+      "verse" : 11
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 10,
+      "verse" : 23
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 10,
+      "verse" : 23
+    }
+  }
+}, {
+  "month" : 3,
+  "day" : 4,
+  "oldTestament" : {
+    "start" : {
+      "book" : "numbers",
+      "chapter" : 2,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "numbers",
+      "chapter" : 3,
+      "verse" : 51
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "mark",
+      "chapter" : 11,
+      "verse" : 27
+    },
+    "end" : {
+      "book" : "mark",
+      "chapter" : 12,
+      "verse" : 17
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 47,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 47,
+      "verse" : 9
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 10,
+      "verse" : 24
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 10,
+      "verse" : 25
+    }
+  }
+}, {
+  "month" : 3,
+  "day" : 5,
+  "oldTestament" : {
+    "start" : {
+      "book" : "numbers",
+      "chapter" : 4,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "numbers",
+      "chapter" : 5,
+      "verse" : 31
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "mark",
+      "chapter" : 12,
+      "verse" : 18
+    },
+    "end" : {
+      "book" : "mark",
+      "chapter" : 12,
+      "verse" : 37
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 48,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 48,
+      "verse" : 14
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 10,
+      "verse" : 26
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 10,
+      "verse" : 26
+    }
+  }
+}, {
+  "month" : 3,
+  "day" : 6,
+  "oldTestament" : {
+    "start" : {
+      "book" : "numbers",
+      "chapter" : 6,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "numbers",
+      "chapter" : 7,
+      "verse" : 89
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "mark",
+      "chapter" : 12,
+      "verse" : 38
+    },
+    "end" : {
+      "book" : "mark",
+      "chapter" : 13,
+      "verse" : 13
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 49,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 49,
+      "verse" : 20
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 10,
+      "verse" : 27
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 10,
+      "verse" : 28
+    }
+  }
+}, {
+  "month" : 3,
+  "day" : 7,
+  "oldTestament" : {
+    "start" : {
+      "book" : "numbers",
+      "chapter" : 8,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "numbers",
+      "chapter" : 9,
+      "verse" : 23
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "mark",
+      "chapter" : 13,
+      "verse" : 14
+    },
+    "end" : {
+      "book" : "mark",
+      "chapter" : 13,
+      "verse" : 37
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 50,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 50,
+      "verse" : 23
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 10,
+      "verse" : 29
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 10,
+      "verse" : 30
+    }
+  }
+}, {
+  "month" : 3,
+  "day" : 8,
+  "oldTestament" : {
+    "start" : {
+      "book" : "numbers",
+      "chapter" : 10,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "numbers",
+      "chapter" : 11,
+      "verse" : 23
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "mark",
+      "chapter" : 14,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "mark",
+      "chapter" : 14,
+      "verse" : 21
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 51,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 51,
+      "verse" : 19
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 10,
+      "verse" : 31
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 10,
+      "verse" : 32
+    }
+  }
+}, {
+  "month" : 3,
+  "day" : 9,
+  "oldTestament" : {
+    "start" : {
+      "book" : "numbers",
+      "chapter" : 11,
+      "verse" : 24
+    },
+    "end" : {
+      "book" : "numbers",
+      "chapter" : 13,
+      "verse" : 33
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "mark",
+      "chapter" : 14,
+      "verse" : 22
+    },
+    "end" : {
+      "book" : "mark",
+      "chapter" : 14,
+      "verse" : 52
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 52,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 52,
+      "verse" : 9
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 11,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 11,
+      "verse" : 3
+    }
+  }
+}, {
+  "month" : 3,
+  "day" : 10,
+  "oldTestament" : {
+    "start" : {
+      "book" : "numbers",
+      "chapter" : 14,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "numbers",
+      "chapter" : 15,
+      "verse" : 16
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "mark",
+      "chapter" : 14,
+      "verse" : 53
+    },
+    "end" : {
+      "book" : "mark",
+      "chapter" : 14,
+      "verse" : 72
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 53,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 53,
+      "verse" : 6
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 11,
+      "verse" : 4
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 11,
+      "verse" : 4
+    }
+  }
+}, {
+  "month" : 3,
+  "day" : 11,
+  "oldTestament" : {
+    "start" : {
+      "book" : "numbers",
+      "chapter" : 15,
+      "verse" : 17
+    },
+    "end" : {
+      "book" : "numbers",
+      "chapter" : 16,
+      "verse" : 40
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "mark",
+      "chapter" : 15,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "mark",
+      "chapter" : 15,
+      "verse" : 47
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 54,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 54,
+      "verse" : 7
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 11,
+      "verse" : 5
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 11,
+      "verse" : 6
+    }
+  }
+}, {
+  "month" : 3,
+  "day" : 12,
+  "oldTestament" : {
+    "start" : {
+      "book" : "numbers",
+      "chapter" : 16,
+      "verse" : 41
+    },
+    "end" : {
+      "book" : "numbers",
+      "chapter" : 18,
+      "verse" : 32
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "mark",
+      "chapter" : 16,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "mark",
+      "chapter" : 16,
+      "verse" : 20
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 55,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 55,
+      "verse" : 23
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 11,
+      "verse" : 7
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 11,
+      "verse" : 7
+    }
+  }
+}, {
+  "month" : 3,
+  "day" : 13,
+  "oldTestament" : {
+    "start" : {
+      "book" : "numbers",
+      "chapter" : 19,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "numbers",
+      "chapter" : 20,
+      "verse" : 29
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "luke",
+      "chapter" : 1,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "luke",
+      "chapter" : 1,
+      "verse" : 25
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 56,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 56,
+      "verse" : 13
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 11,
+      "verse" : 8
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 11,
+      "verse" : 8
+    }
+  }
+}, {
+  "month" : 3,
+  "day" : 14,
+  "oldTestament" : {
+    "start" : {
+      "book" : "numbers",
+      "chapter" : 21,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "numbers",
+      "chapter" : 22,
+      "verse" : 20
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "luke",
+      "chapter" : 1,
+      "verse" : 26
+    },
+    "end" : {
+      "book" : "luke",
+      "chapter" : 1,
+      "verse" : 56
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 57,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 57,
+      "verse" : 11
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 11,
+      "verse" : 9
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 11,
+      "verse" : 11
+    }
+  }
+}, {
+  "month" : 3,
+  "day" : 15,
+  "oldTestament" : {
+    "start" : {
+      "book" : "numbers",
+      "chapter" : 22,
+      "verse" : 21
+    },
+    "end" : {
+      "book" : "numbers",
+      "chapter" : 23,
+      "verse" : 30
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "luke",
+      "chapter" : 1,
+      "verse" : 57
+    },
+    "end" : {
+      "book" : "luke",
+      "chapter" : 1,
+      "verse" : 80
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 58,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 58,
+      "verse" : 11
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 11,
+      "verse" : 12
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 11,
+      "verse" : 13
+    }
+  }
+}, {
+  "month" : 3,
+  "day" : 16,
+  "oldTestament" : {
+    "start" : {
+      "book" : "numbers",
+      "chapter" : 24,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "numbers",
+      "chapter" : 25,
+      "verse" : 18
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "luke",
+      "chapter" : 2,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "luke",
+      "chapter" : 2,
+      "verse" : 35
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 59,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 59,
+      "verse" : 17
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 11,
+      "verse" : 14
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 11,
+      "verse" : 14
+    }
+  }
+}, {
+  "month" : 3,
+  "day" : 17,
+  "oldTestament" : {
+    "start" : {
+      "book" : "numbers",
+      "chapter" : 26,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "numbers",
+      "chapter" : 26,
+      "verse" : 51
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "luke",
+      "chapter" : 2,
+      "verse" : 36
+    },
+    "end" : {
+      "book" : "luke",
+      "chapter" : 2,
+      "verse" : 52
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 60,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 60,
+      "verse" : 12
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 11,
+      "verse" : 15
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 11,
+      "verse" : 15
+    }
+  }
+}, {
+  "month" : 3,
+  "day" : 18,
+  "oldTestament" : {
+    "start" : {
+      "book" : "numbers",
+      "chapter" : 26,
+      "verse" : 52
+    },
+    "end" : {
+      "book" : "numbers",
+      "chapter" : 28,
+      "verse" : 15
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "luke",
+      "chapter" : 3,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "luke",
+      "chapter" : 3,
+      "verse" : 22
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 61,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 61,
+      "verse" : 8
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 11,
+      "verse" : 16
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 11,
+      "verse" : 17
+    }
+  }
+}, {
+  "month" : 3,
+  "day" : 19,
+  "oldTestament" : {
+    "start" : {
+      "book" : "numbers",
+      "chapter" : 28,
+      "verse" : 16
+    },
+    "end" : {
+      "book" : "numbers",
+      "chapter" : 29,
+      "verse" : 40
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "luke",
+      "chapter" : 3,
+      "verse" : 23
+    },
+    "end" : {
+      "book" : "luke",
+      "chapter" : 3,
+      "verse" : 38
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 62,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 62,
+      "verse" : 12
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 11,
+      "verse" : 18
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 11,
+      "verse" : 19
+    }
+  }
+}, {
+  "month" : 3,
+  "day" : 20,
+  "oldTestament" : {
+    "start" : {
+      "book" : "numbers",
+      "chapter" : 30,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "numbers",
+      "chapter" : 31,
+      "verse" : 54
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "luke",
+      "chapter" : 4,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "luke",
+      "chapter" : 4,
+      "verse" : 30
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 63,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 63,
+      "verse" : 11
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 11,
+      "verse" : 20
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 11,
+      "verse" : 21
+    }
+  }
+}, {
+  "month" : 3,
+  "day" : 21,
+  "oldTestament" : {
+    "start" : {
+      "book" : "numbers",
+      "chapter" : 32,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "numbers",
+      "chapter" : 33,
+      "verse" : 39
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "luke",
+      "chapter" : 4,
+      "verse" : 31
+    },
+    "end" : {
+      "book" : "luke",
+      "chapter" : 5,
+      "verse" : 11
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 64,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 64,
+      "verse" : 10
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 11,
+      "verse" : 22
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 11,
+      "verse" : 22
+    }
+  }
+}, {
+  "month" : 3,
+  "day" : 22,
+  "oldTestament" : {
+    "start" : {
+      "book" : "numbers",
+      "chapter" : 33,
+      "verse" : 40
+    },
+    "end" : {
+      "book" : "numbers",
+      "chapter" : 35,
+      "verse" : 34
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "luke",
+      "chapter" : 5,
+      "verse" : 12
+    },
+    "end" : {
+      "book" : "luke",
+      "chapter" : 5,
+      "verse" : 28
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 65,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 65,
+      "verse" : 13
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 11,
+      "verse" : 23
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 11,
+      "verse" : 23
+    }
+  }
+}, {
+  "month" : 3,
+  "day" : 23,
+  "oldTestament" : {
+    "start" : {
+      "book" : "numbers",
+      "chapter" : 36,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "deuteronomy",
+      "chapter" : 1,
+      "verse" : 46
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "luke",
+      "chapter" : 5,
+      "verse" : 29
+    },
+    "end" : {
+      "book" : "luke",
+      "chapter" : 6,
+      "verse" : 11
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 66,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 66,
+      "verse" : 20
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 11,
+      "verse" : 24
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 11,
+      "verse" : 26
+    }
+  }
+}, {
+  "month" : 3,
+  "day" : 24,
+  "oldTestament" : {
+    "start" : {
+      "book" : "deuteronomy",
+      "chapter" : 2,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "deuteronomy",
+      "chapter" : 3,
+      "verse" : 29
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "luke",
+      "chapter" : 6,
+      "verse" : 12
+    },
+    "end" : {
+      "book" : "luke",
+      "chapter" : 6,
+      "verse" : 38
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 67,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 67,
+      "verse" : 7
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 11,
+      "verse" : 27
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 11,
+      "verse" : 27
+    }
+  }
+}, {
+  "month" : 3,
+  "day" : 25,
+  "oldTestament" : {
+    "start" : {
+      "book" : "deuteronomy",
+      "chapter" : 4,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "deuteronomy",
+      "chapter" : 4,
+      "verse" : 49
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "luke",
+      "chapter" : 6,
+      "verse" : 39
+    },
+    "end" : {
+      "book" : "luke",
+      "chapter" : 7,
+      "verse" : 10
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 68,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 68,
+      "verse" : 18
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 11,
+      "verse" : 28
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 11,
+      "verse" : 28
+    }
+  }
+}, {
+  "month" : 3,
+  "day" : 26,
+  "oldTestament" : {
+    "start" : {
+      "book" : "deuteronomy",
+      "chapter" : 5,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "deuteronomy",
+      "chapter" : 6,
+      "verse" : 25
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "luke",
+      "chapter" : 7,
+      "verse" : 11
+    },
+    "end" : {
+      "book" : "luke",
+      "chapter" : 7,
+      "verse" : 35
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 68,
+      "verse" : 19
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 68,
+      "verse" : 35
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 11,
+      "verse" : 29
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 11,
+      "verse" : 31
+    }
+  }
+}, {
+  "month" : 3,
+  "day" : 27,
+  "oldTestament" : {
+    "start" : {
+      "book" : "deuteronomy",
+      "chapter" : 7,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "deuteronomy",
+      "chapter" : 8,
+      "verse" : 20
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "luke",
+      "chapter" : 7,
+      "verse" : 36
+    },
+    "end" : {
+      "book" : "luke",
+      "chapter" : 8,
+      "verse" : 3
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 69,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 69,
+      "verse" : 18
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 12,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 12,
+      "verse" : 1
+    }
+  }
+}, {
+  "month" : 3,
+  "day" : 28,
+  "oldTestament" : {
+    "start" : {
+      "book" : "deuteronomy",
+      "chapter" : 9,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "deuteronomy",
+      "chapter" : 10,
+      "verse" : 22
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "luke",
+      "chapter" : 8,
+      "verse" : 4
+    },
+    "end" : {
+      "book" : "luke",
+      "chapter" : 8,
+      "verse" : 21
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 69,
+      "verse" : 19
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 69,
+      "verse" : 36
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 12,
+      "verse" : 2
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 12,
+      "verse" : 3
+    }
+  }
+}, {
+  "month" : 3,
+  "day" : 29,
+  "oldTestament" : {
+    "start" : {
+      "book" : "deuteronomy",
+      "chapter" : 11,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "deuteronomy",
+      "chapter" : 12,
+      "verse" : 32
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "luke",
+      "chapter" : 8,
+      "verse" : 22
+    },
+    "end" : {
+      "book" : "luke",
+      "chapter" : 8,
+      "verse" : 39
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 70,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 70,
+      "verse" : 5
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 12,
+      "verse" : 4
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 12,
+      "verse" : 4
+    }
+  }
+}, {
+  "month" : 3,
+  "day" : 30,
+  "oldTestament" : {
+    "start" : {
+      "book" : "deuteronomy",
+      "chapter" : 13,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "deuteronomy",
+      "chapter" : 15,
+      "verse" : 23
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "luke",
+      "chapter" : 8,
+      "verse" : 40
+    },
+    "end" : {
+      "book" : "luke",
+      "chapter" : 9,
+      "verse" : 6
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 71,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 71,
+      "verse" : 24
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 12,
+      "verse" : 5
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 12,
+      "verse" : 7
+    }
+  }
+}, {
+  "month" : 3,
+  "day" : 31,
+  "oldTestament" : {
+    "start" : {
+      "book" : "deuteronomy",
+      "chapter" : 16,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "deuteronomy",
+      "chapter" : 17,
+      "verse" : 20
+    }
+  },
+  "newTestament" : {
+    "start" : {
+      "book" : "luke",
+      "chapter" : 9,
+      "verse" : 7
+    },
+    "end" : {
+      "book" : "luke",
+      "chapter" : 9,
+      "verse" : 27
+    }
+  },
+  "psalms" : {
+    "start" : {
+      "book" : "psalms",
+      "chapter" : 72,
+      "verse" : 1
+    },
+    "end" : {
+      "book" : "psalms",
+      "chapter" : 72,
+      "verse" : 20
+    }
+  },
+  "proverbs" : {
+    "start" : {
+      "book" : "proverbs",
+      "chapter" : 12,
+      "verse" : 8
+    },
+    "end" : {
+      "book" : "proverbs",
+      "chapter" : 12,
+      "verse" : 9
+    }
+  }
+} ] ]
