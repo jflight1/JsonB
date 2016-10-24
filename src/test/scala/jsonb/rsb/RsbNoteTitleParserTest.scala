@@ -1,7 +1,7 @@
 package jsonb.rsb
 
 import jsonb.Assert._
-import jsonb.{Books, SingleVerse, VerseRange}
+import jsonb.{Book, Books, SingleVerse, VerseRange}
 import org.junit.Assert._
 import org.junit.runner.RunWith
 import org.scalatest.FunSuite
@@ -15,13 +15,16 @@ class RsbNoteTitleParserTest extends FunSuite {
 
 
   test("verseRange") {
-    val book = Books.find("ruth")
+    val ruth = Books.find("ruth")
 
-    def test(title: String, chapter1: Int, verse1: Int, chapter2: Int, verse2: Int): Unit = {
-
+    def testWithBook(book: Book, title: String, chapter1: Int, verse1: Int, chapter2: Int, verse2: Int): Unit = {
       val actualVerseRange = RsbNoteTitleParser.verseRange(title, book)
       val expectedVerseRange: VerseRange = VerseRange(SingleVerse(book, chapter1, verse1), SingleVerse(book, chapter2, verse2))
       assertVerseRangesEqual(expectedVerseRange, actualVerseRange)
+    }
+
+    def test(title: String, chapter1: Int, verse1: Int, chapter2: Int, verse2: Int): Unit = {
+      testWithBook(ruth, title, chapter1, verse1, chapter2, verse2)
     }
 
     test("Ruth 1:2-3:4", 1, 2, 3, 4)
@@ -43,8 +46,10 @@ class RsbNoteTitleParserTest extends FunSuite {
 
     test("Ruth 1:2-4,6,7", 1, 2, 1, 7)
 
-    //1 Kings 1:24–27
     test("Ruth 1:13-15", 1, 13, 1, 15)
+
+    testWithBook(Books.find("matthew"), "Matt 26:54, 56", 26, 54, 26, 56)
+
 
   }
 

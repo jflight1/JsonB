@@ -27,7 +27,7 @@ object RsbNoteTitleParser {
     //   1:2-4,6,8
     def parseChapterAndVerses(s: String): (Int, Int, Int) = {
       val oneVerseNumber = "(\\d+):(\\d+)$".r // Gen 1:2
-      val moreThanOneVerseNumber = "(\\d+):(\\d+).*[,–-](\\d+)$".r // Gen 1:2....3
+      val moreThanOneVerseNumber = "(\\d+):(\\d+).*[\\s,–-](\\d+)$".r // Gen 1:2....3
 
       s match {
         case oneVerseNumber(s1, s2) => (s1.toInt, s2.toInt, s2.toInt)
