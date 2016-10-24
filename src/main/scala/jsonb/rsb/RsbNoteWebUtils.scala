@@ -1,6 +1,6 @@
 package jsonb.rsb
 
-import java.io.InputStream
+import java.io.{PrintWriter, InputStream}
 
 import jsonb._
 import play.api.libs.json.{JsValue, Json, JsObject}
@@ -17,7 +17,20 @@ object RsbNoteWebUtils {
   /**
     * Get RsbNotes for a whole book
     */
-  def rsbNotes(book: Book): Seq[RsbNote] = {
+  def writeFile(book: Book): Unit = {
+    val rsbNotes: Seq[RsbNote] = rsbNotesFromWeb(book)
+    val json: String = RsbNoteJsonParser.seqToJson(rsbNotes)
+    val fileName = "src\\main\\resources\\rsb\\notes_json\\" + book.oneYearBibleName + ".json"
+    val printWriter: PrintWriter = new PrintWriter(fileName)
+    printWriter.println(json)
+    printWriter.close()
+  }
+
+
+  /**
+    * Get RsbNotes for a whole book
+    */
+  def rsbNotesFromWeb(book: Book): Seq[RsbNote] = {
 
     val inputStream: InputStream = getClass.getResourceAsStream("/rsb/ids/" + book.oneYearBibleName + "_ids.txt")
     try {
@@ -56,6 +69,19 @@ object RsbNoteWebUtils {
     val url: String = "https://www.biblegateway.com/exbib/?pub=reformation-study-bible&chunk=" + id
     val json: String = Source.fromURL(url).mkString
     RsbNoteWebJsonParser.fromJson(json)
+  }
+
+
+  def main(args: Array[String]): Unit = {
+/*
+    val books = Books.allBooksSortedLargestToSmallest
+    writeFile(books(8))
+*/
+
+    writeFile(Books.find("matthew"))
+
+
+    // finished luke
   }
 }
 

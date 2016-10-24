@@ -80,16 +80,14 @@ object Books {
     books.head
   }
 
-
-}
-
-
-object SortBySize {
-
-  def main(args: Array[String]): Unit = {
+  def allBooksSortedLargestToSmallest: Seq[Book] = {
     Books.allBooks
       .sortBy(b => -b.chapterNumVerses.sum)
-      .map(b => b.oneYearBibleName)
-      .foreach(b => println(b))
   }
-}
+
+
+  def main(args: Array[String]): Unit = {
+    allBooksSortedLargestToSmallest.foreach(b => println(b.oneYearBibleName))
+  }}
+
+

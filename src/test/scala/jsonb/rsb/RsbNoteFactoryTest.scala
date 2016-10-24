@@ -76,7 +76,7 @@ class RsbNoteFactoryTest extends FunSuite {
 
   test("rsbNotes") {
     val book: Book = Books.find("jude")
-    val rsbNotes: Seq[RsbNote] = RsbNoteWebUtils.rsbNotes(book)
+    val rsbNotes: Seq[RsbNote] = RsbNoteWebUtils.rsbNotesFromWeb(book)
     val json: String = RsbNoteJsonParser.seqToJson(rsbNotes)
   }
 

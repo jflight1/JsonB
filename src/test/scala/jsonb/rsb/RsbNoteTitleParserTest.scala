@@ -38,6 +38,8 @@ class RsbNoteTitleParserTest extends FunSuite {
 
     test("Ruth 1", 1, 1, 1, 22)
     test("Ruth 2", 2, 1, 2, 23)
+
+    test("Ruth 3:title", 3, 1, 3, 1)
   }
 
 
