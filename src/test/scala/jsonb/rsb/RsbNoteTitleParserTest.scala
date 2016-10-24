@@ -40,6 +40,12 @@ class RsbNoteTitleParserTest extends FunSuite {
     test("Ruth 2", 2, 1, 2, 23)
 
     test("Ruth 3:title", 3, 1, 3, 1)
+
+    test("Ruth 1:2-4,6,7", 1, 2, 1, 7)
+
+    //1 Kings 1:24–27
+    test("Ruth 1:13-15", 1, 13, 1, 15)
+
   }
 
 

@@ -16,6 +16,61 @@ object RsbNoteTitleParser {
     */
   def verseRange(titleRaw: String, book: Book): VerseRange = {
 
+    def lastVerseOfChapter(chapter: Int): Int = book.chapterNumVerses(chapter - 1)
+
+    // given a string with a chapter and zero or more verse numbers, returns a tuple
+    // with the chapter, starting verse and ending verse.  Handle:
+    //   1
+    //   1:2
+    //   1:2-3
+    //   1:4,6
+    //   1:2-4,6,8
+    def parseChapterAndVerses(s: String): (Int, Int, Int) = {
+      val oneVerseNumber = "(\\d+):(\\d+)$".r // Gen 1:2
+      val moreThanOneVerseNumber = "(\\d+):(\\d+).*[,–-](\\d+)$".r // Gen 1:2....3
+
+      s match {
+        case oneVerseNumber(s1, s2) => (s1.toInt, s2.toInt, s2.toInt)
+        case moreThanOneVerseNumber(s1, s2, s3) => (s1.toInt, s2.toInt, s3.toInt)
+        case _ =>
+          val chapter: Int = s.toInt
+          (chapter, 1, lastVerseOfChapter(chapter))
+      }
+    }
+
+    def parseTwoNumberGroups(numbers1: String, numbers2: String): VerseRange = {
+      val tuple1: (Int, Int, Int) = parseChapterAndVerses(numbers1)
+      val tuple2: (Int, Int, Int) = parseChapterAndVerses(numbers2)
+      VerseRange(SingleVerse(book, tuple1._1, tuple1._2), SingleVerse(book, tuple2._1, tuple2._3))
+    }
+
+    def parseOneNumbersGroup(numbers: String): VerseRange = {
+      val tuple: (Int, Int, Int) = parseChapterAndVerses(numbers)
+      VerseRange(SingleVerse(book, tuple._1, tuple._2), SingleVerse(book, tuple._1, tuple._3))
+    }
+
+    try {
+
+      val title = titleRaw.replaceAll("title", "1")
+      val noColonBeforeDash = "(.*) (\\d+)[–-](\\d.*)".r  // gen 1-2:3
+      val twoChapters = "(.*) (\\d+:.*)[–-](\\d+:.*)".r // gen 1:2-3:4
+      val oneChapter = "(.*) (\\d.*)".r
+      title match {
+        case noColonBeforeDash(bookName, numbers1, numbers2) => parseTwoNumberGroups(numbers1, numbers2)
+        case twoChapters(bookName, numbers1, numbers2) => parseTwoNumberGroups(numbers1, numbers2)
+        case oneChapter(bookName, numbers) => parseOneNumbersGroup(numbers)
+        case _ => throw new Exception("Unparsable title: " + title)
+      }
+    }
+
+    catch {
+      case e: Exception => throw new Exception("Error parsing: " + titleRaw + ", " + book.oneYearBibleName, e)
+    }
+  }
+
+
+  def verseRange_JLF_OLD(titleRaw: String, book: Book): VerseRange = {
+
     try {
 
       val title = titleRaw.replaceAll("title", "1")
@@ -89,7 +144,7 @@ object RsbNoteTitleParser {
     catch {
       case e: Exception => throw new Exception("Error parsing: " + titleRaw + ", " + book.oneYearBibleName, e)
     }
-
-
   }
+
+
 }

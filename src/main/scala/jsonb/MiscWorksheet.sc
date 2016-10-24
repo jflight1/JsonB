@@ -1,2 +1,14 @@
 
-val STATE_CONTAINS = "SELECT COUNT(*) " + "    FROM   cbs_mart.state_boundary mpg" + "    WHERE  SDO_CONTAINS(mpg.boundary, " + "              sdo_geometry(2001, 8307, " + "                mdsys.sdo_point_type(?, ?, NULL),NULL, NULL)) = 'TRUE'" + "    AND state = ?"
+val seq: Option[List[String]] = ".* (\\d+):(\\d+)(.*[–-\\,])(\\d+)".r.unapplySeq("aaa 1:23-45")
+
+seq.nonEmpty
+
+
+//".* (\\d+):(\\d+)(.*[–-,])(\\d+)".r.unapplySeq("aaa 1:23-45")
+
+
+
+
+
+
+
