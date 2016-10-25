@@ -50,6 +50,7 @@ class RsbNoteTitleParserTest extends FunSuite {
 
     testWithBook(Books.find("matthew"), "Matt 26:54, 56", 26, 54, 26, 56)
 
+    testWithBook(Books.find("2chronicles"), "2 Chr 6:5–10, 20, 32–34, 38", 6, 5, 6, 38)
 
   }
 

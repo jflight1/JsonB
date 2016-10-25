@@ -87,7 +87,7 @@ object Books {
 
 
   def main(args: Array[String]): Unit = {
-    allBooksSortedLargestToSmallest.foreach(b => println(b.oneYearBibleName))
+    allBooksSortedLargestToSmallest.foreach(b => println(b.oneYearBibleName + "\t" + b.chapterNumVerses.sum))
   }}
 
 

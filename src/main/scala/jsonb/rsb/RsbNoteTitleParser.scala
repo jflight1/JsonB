@@ -52,9 +52,9 @@ object RsbNoteTitleParser {
     try {
 
       val title = titleRaw.replaceAll("title", "1")
-      val noColonBeforeDash = "(.*) (\\d+)[–-](\\d.*)".r  // gen 1-2:3
-      val twoChapters = "(.*) (\\d+:.*)[–-](\\d+:.*)".r // gen 1:2-3:4
-      val oneChapter = "(.*) (\\d.*)".r
+      val noColonBeforeDash = "(.*[a-z]) (\\d+)[–-](\\d.*)".r  // gen 1-2:3
+      val twoChapters = "(.*[a-z]) (\\d+:.*)[–-](\\d+:.*)".r // gen 1:2-3:4
+      val oneChapter = "(.*[a-z]) (\\d.*)".r
       title match {
         case noColonBeforeDash(bookName, numbers1, numbers2) => parseTwoNumberGroups(numbers1, numbers2)
         case twoChapters(bookName, numbers1, numbers2) => parseTwoNumberGroups(numbers1, numbers2)
