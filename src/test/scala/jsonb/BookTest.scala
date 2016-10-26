@@ -26,6 +26,7 @@ class BookTest extends FunSuite {
     // use 1samuel because all the names are different
     val actualBook: Book = books(8)
     val expectedBook: Book = Book(
+      9,
       oneYearBibleName = "1samuel",
       exbibName = "1Sam",
       nivName = "1 Samuel",

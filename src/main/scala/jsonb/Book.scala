@@ -9,18 +9,18 @@ import scala.io.BufferedSource
 
 
 /**
-  *
+  * @param index Canonical index number; starts at 1.
   * @param oneYearBibleName Name in oneyearbibleonline.com.  http://oneyearbibleonline.com/...
   *                         Also this is the name in the daily reading files: \resources\months\txt\*.txt
   * @param exbibName Name used in the exbib api.  https://www.biblegateway.com/exbib/contents/?osis=...
   * @param nivName Name in NIV.json
   * @param chapterNumVerses The number of verses in each chapter
   */
-case class Book(oneYearBibleName: String, exbibName: String, nivName: String, rsbNoteName: String,
+case class Book(index: Int, oneYearBibleName: String, exbibName: String, nivName: String, rsbNoteName: String,
                 isOldTestament: Boolean, chapterNumVerses: Seq[Int]) {
 
 
-    /**
+  /**
     * name can match any of the names
     */
   def nameMatches(name: String): Boolean = {
@@ -47,6 +47,7 @@ case class Book(oneYearBibleName: String, exbibName: String, nivName: String, rs
 object BookParser extends JsonParserBase[Book] {
 
   override def toJsValue(book: Book): JsObject = Json.obj(
+    "index" -> book.index,
     "oneYearBibleName" -> book.oneYearBibleName,
     "exbibName" -> book.exbibName,
     "nivName" -> book.nivName,
@@ -57,6 +58,7 @@ object BookParser extends JsonParserBase[Book] {
 
   override def fromJson(jsValue: JsValue): Book =
     Book(
+      (jsValue \ "index").as[Int],
       (jsValue \ "oneYearBibleName").as[String],
       (jsValue \ "exbibName").as[String],
       (jsValue \ "nivName").as[String],
@@ -66,56 +68,7 @@ object BookParser extends JsonParserBase[Book] {
 }
 
 
-case class BookV5(index: Int, oneYearBibleName: String, exbibName: String, nivName: String, rsbNoteName: String,
-                isOldTestament: Boolean, chapterNumVerses: Seq[Int]) {
-
-  def this(index: Int, book: Book) {
-    this(index, book.oneYearBibleName, book.exbibName, book.nivName, book.rsbNoteName,
-      book.isOldTestament, book.chapterNumVerses)
-  }
-}
-
-
-object BookV5Parser extends JsonParserBase[BookV5] {
-
-  override def toJsValue(book: BookV5): JsObject = Json.obj(
-    "index" -> book.index,
-    "oneYearBibleName" -> book.oneYearBibleName,
-    "exbibName" -> book.exbibName,
-    "nivName" -> book.nivName,
-    "rsbNoteName" -> book.rsbNoteName,
-    "isOldTestament" -> book.isOldTestament,
-    "chapterNumVerses" -> Json.toJson(book.chapterNumVerses))
-
-
-  override def fromJson(jsValue: JsValue): BookV5 = throw new UnsupportedOperationException
-
-
-  /**
-    * Generate v5 file
-    */
-  def main(args: Array[String]): Unit = {
-
-    def booksToBooksV5(index: Int, books: Seq[Book]): Seq[BookV5] = {
-      books.toList match {
-        case Nil => Nil
-        case book :: theRest => new BookV5(index, book) :: booksToBooksV5(index + 1, theRest).toList
-      }
-    }
-
-    val booksV5: Seq[BookV5] = booksToBooksV5(1, Books.allBooks)
-
-    val json: String = BookV5Parser.seqToJson(booksV5)
-    val fileName = "src\\main\\resources\\books_v5.json"
-    val printWriter: PrintWriter = new PrintWriter(fileName)
-    printWriter.println(json)
-    printWriter.close()
-  }
-}
-
-
-
-  object Books {
+object Books {
 
   lazy val allBooks: Seq[Book] = BookParser.readSeqFromFile("/books.json")
 
@@ -137,6 +90,7 @@ object BookV5Parser extends JsonParserBase[BookV5] {
 
   def main(args: Array[String]): Unit = {
     allBooksSortedLargestToSmallest.foreach(b => println(b.oneYearBibleName + "\t" + b.chapterNumVerses.sum))
-  }}
+  }
+}
 
 
