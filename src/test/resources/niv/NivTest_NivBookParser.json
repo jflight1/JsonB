@@ -1,0 +1,13 @@
+{
+  "name" : "judges",
+  "chapters" : [ {
+    "chapterNumber" : 1,
+    "verses" : [ "1:aaa1" ]
+  }, {
+    "chapterNumber" : 2,
+    "verses" : [ "1:aaa2", "2:bbb2" ]
+  }, {
+    "chapterNumber" : 3,
+    "verses" : [ "1:aaa3", "2:bbb3", "3:ccc3" ]
+  } ]
+}

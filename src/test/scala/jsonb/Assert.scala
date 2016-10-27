@@ -1,7 +1,7 @@
 package jsonb
 
 
-
+import jsonb.niv.{NivBook, NivChapter, NivVerse}
 import org.junit.Assert._
 
 
@@ -46,6 +46,29 @@ object Assert {
       assertEquals(expected.chapterNumVerses(i), actual.chapterNumVerses(i))
     }
   }
+
+
+  def assertNivVersesEqual(expected: NivVerse, actual: NivVerse) = {
+    assertEquals(expected.text, actual.text)
+  }
+
+
+  def assertNivChaptersEqual(expected: NivChapter, actual: NivChapter) = {
+    assertEquals(expected.verses.size, actual.verses.size)
+    expected.verses.indices.foreach(i => {
+      assertNivVersesEqual(expected.verses(i), actual.verses(i))
+    })
+  }
+
+
+  def assertNivBooksEqual(expected: NivBook, actual: NivBook) = {
+    assertBooksEqual(expected.book, actual.book)
+    assertEquals(expected.chapters.size, actual.chapters.size)
+    expected.chapters.indices.foreach(i => {
+      assertNivChaptersEqual(expected.chapters(i), actual.chapters(i))
+    })
+  }
+
 
 }
 

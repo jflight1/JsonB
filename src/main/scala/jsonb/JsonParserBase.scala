@@ -21,10 +21,15 @@ abstract class JsonParserBase[T] extends JsonParser[T] {
 
 
   override def seqToJson(seq: Seq[T]): String = {
-
-    val jsObjects: Seq[JsValue] = seq.map(t => toJsValue(t))
-    val jsValue: JsValue = Json.toJson(jsObjects)
+    val jsValues: Seq[JsValue] = seq.map(t => toJsValue(t))
+    val jsValue: JsValue = Json.toJson(jsValues)
     Json.prettyPrint(jsValue)
+  }
+
+
+  def seqToJsArray(seq: Seq[T]): JsArray = {
+    val jsValues: Seq[JsValue] = seq.map(t => toJsValue(t))
+    Json.toJson(jsValues).as[JsArray]
   }
 
 

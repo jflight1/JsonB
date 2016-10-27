@@ -3,7 +3,7 @@ package jsonb.rsb
 import java.io.InputStream
 
 import jsonb.Assert._
-import jsonb.{Book, Books, SingleVerse, VerseRange}
+import jsonb._
 import org.apache.commons.io.IOUtils
 import org.junit.Assert._
 import org.junit.runner.RunWith
@@ -17,8 +17,7 @@ import scala.io.BufferedSource
 class RsbNoteFactoryTest extends FunSuite {
 
   test("getNoteIdsFromJson") {
-    val inputStream: InputStream = getClass.getResourceAsStream("/exbib_osis.json")
-    val json: String = IOUtils.toString(inputStream, "UTF-8")
+    val json: String = Utils.resourceFileToString("/exbib_osis.json")
 
     val ids: Seq[Long] = RsbNoteIdUtils.getNoteIdsFromJson(json)
 
