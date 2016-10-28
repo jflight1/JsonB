@@ -31,7 +31,17 @@ class NivTest extends FunSuite {
 
     assertNivChaptersEqual(nivChapter, NivChapterParser(-1).fromJson(nivChapterJson))
 
-    assertEquals(nivChapterJson, NivChapterParser(11).toJson(nivChapter))
+  }
+
+
+  test("HghNivChapterParser") {
+    val nivChapterJson: String = Utils.resourceFileToString("/niv/NivTest_HghNivChapterParser.json")
+    val nivChapter = NivChapter(Seq(
+      NivVerse("aaa"),
+      NivVerse("bbb"),
+      NivVerse("ccc")))
+
+    assertNivChaptersEqual(nivChapter, HghNivChapterParser.fromJson(nivChapterJson))
   }
 
 
@@ -53,6 +63,26 @@ class NivTest extends FunSuite {
     assertNivBooksEqual(nivBook, NivBookParser.fromJson(nivBookJson))
 
     assertEquals(nivBookJson, NivBookParser.toJson(nivBook))
+  }
+
+
+  test("HghNivBookParser") {
+    val nivBookJson: String = Utils.resourceFileToString("/niv/NivTest_HghNivBookParser.json")
+
+    val nivBook = NivBook(Books.find("judges"), Seq(
+      NivChapter(Seq(
+        NivVerse("aaa1"))),
+      NivChapter(Seq(
+        NivVerse("aaa2"),
+        NivVerse("bbb2"))),
+      NivChapter(Seq(
+        NivVerse("aaa3"),
+        NivVerse("bbb3"),
+        NivVerse("ccc3")))
+    ))
+
+    assertNivBooksEqual(nivBook, HghNivBookParser(Books.find("judges")).fromJson(nivBookJson))
+
   }
 
 

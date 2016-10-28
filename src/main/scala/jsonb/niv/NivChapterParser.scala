@@ -33,10 +33,6 @@ case class NivChapterParser(chapterNumber: Int) extends JsonParserBase[NivChapte
   }
 
 
-  /**
-    * Note: This differs from fromString below because a json string will actually
-    * include quotes as part of the string like: "10:The elders... "
-    */
   override def fromJson(jsValue: JsValue): NivChapter = {
 
     val versesJson: Seq[String] = (jsValue \ "verses").as[Seq[String]]
