@@ -1,6 +1,8 @@
 package jsonb.niv
 
-import jsonb.{Utils, Books}
+import java.io.PrintWriter
+
+import jsonb.{Book, Utils, Books}
 import play.api.libs.json.{Json, JsObject}
 
 
@@ -21,15 +23,31 @@ object HghNivBooks {
   }
 
 
+  /**
+    * Generates json files for all books
+    */
+  def writeNivBookFiles(): Unit = {
+    allBooks
+      .foreach(nivBook => {
+        val book: Book = nivBook.book
+        println(book.codeName);
+        val fileName = {
+          val leadingZero = if (book.index < 10) "0" else ""
+          "src\\main\\resources\\niv\\" + leadingZero + book.index + "_" + book.codeName + ".json"
+        }
+
+        val json: String = NivBookParser.toJson(nivBook)
+        val printWriter: PrintWriter = new PrintWriter(fileName)
+        printWriter.println(json)
+        printWriter.close()
+      })
+
+  }
+
+
   def main(args: Array[String]): Unit = {
-    val nivBook: NivBook = allBooks.filter(nivBook => nivBook.book.codeName == "romans").head
+    writeNivBookFiles()
 
-    val json: String = NivBookParser.toJson(nivBook)
-//    println(json)
-
-    val nivBook2: NivBook = NivBookParser.fromJson(json)
-
-    println("---------> " + (nivBook == nivBook2))
   }
 
 }
