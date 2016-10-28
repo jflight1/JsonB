@@ -29,7 +29,7 @@ class BookTest extends FunSuite {
       9,
       oneYearBibleName = "1samuel",
       exbibName = "1Sam",
-      nivName = "1 Samuel",
+      hghNivName = "1 Samuel",
       rsbNoteName = "1 Sam",
       isOldTestament = true,
       chapterNumVerses = Seq(28, 36, 21, 22, 12, 21, 17, 22, 27, 27, 15, 25, 23, 52, 35, 23, 58, 30, 24, 42, 15, 23, 29, 22, 44, 25, 12, 25, 11, 31, 13)
@@ -54,7 +54,7 @@ class BookTest extends FunSuite {
 
       check(book.oneYearBibleName)
       check(book.exbibName)
-      check(book.nivName)
+      check(book.hghNivName)
       check(book.rsbNoteName)
 
       if (book == Books.find("psalms")) {

@@ -7,7 +7,7 @@ import play.api.libs.json._
 case class SingleVerse(book: Book, chapter: Int, verse: Int)
   extends VerseLocation {
 
-  override def toString: String = book.oneYearBibleName + "," + chapter + "," + verse
+  override def toString: String = book.codeName + "," + chapter + "," + verse
 }
 
 

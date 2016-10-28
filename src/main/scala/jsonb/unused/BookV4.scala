@@ -25,7 +25,7 @@ object BookV4Parser extends JsonParserBase[BookV4] {
     Json.obj(
       "oneYearBibleName" -> book.oneYearBibleName,
       "exbibName" -> book.exbibName,
-      "nivName" -> book.nivName,
+      "hghNivName" -> book.hghNivName,
       "rsbNoteName" -> bookv4.rsbNoteName,
       "isOldTestament" -> book.isOldTestament,
       "chapterNumVerses" -> Json.toJson(book.chapterNumVerses))
@@ -113,8 +113,8 @@ private object GenerateV4BooksJsonFile {
   lazy val allBooks: Seq[BookV4] =
   // Map Books to BookV4s
     jsonb.Books.allBooks.map(book => {
-      val nivName: String = oneYearBibleNameToRsbNoteName.get(book.oneYearBibleName).get
-      BookV4(book, nivName)
+      val hghNivName: String = oneYearBibleNameToRsbNoteName.get(book.oneYearBibleName).get
+      BookV4(book, hghNivName)
     })
 
 

@@ -20,7 +20,7 @@ object RsbNoteWebUtils {
   def writeFile(book: Book): Unit = {
     val rsbNotes: Seq[RsbNote] = rsbNotesFromWeb(book)
     val json: String = RsbNoteJsonParser.seqToJson(rsbNotes)
-    val fileName = "src\\main\\resources\\rsb\\notes_json\\" + book.oneYearBibleName + ".json"
+    val fileName = "src\\main\\resources\\rsb\\notes_json\\" + book.codeName + ".json"
     val printWriter: PrintWriter = new PrintWriter(fileName)
     printWriter.println(json)
     printWriter.close()
@@ -32,7 +32,7 @@ object RsbNoteWebUtils {
     */
   def rsbNotesFromWeb(book: Book): Seq[RsbNote] = {
 
-    val inputStream: InputStream = getClass.getResourceAsStream("/rsb/ids/" + book.oneYearBibleName + "_ids.txt")
+    val inputStream: InputStream = getClass.getResourceAsStream("/rsb/ids/" + book.codeName + "_ids.txt")
     try {
       val bufferedSource: BufferedSource = io.Source.fromInputStream(inputStream)
       val lines: Iterator[String] = bufferedSource.getLines()
@@ -81,7 +81,7 @@ object RsbNoteWebUtils {
     for (i <- start until start + howMany) {
       val book = books(i)
       writeFile(book)
-      println("Finished " + book.oneYearBibleName)
+      println("Finished " + book.codeName)
     }
 
   }

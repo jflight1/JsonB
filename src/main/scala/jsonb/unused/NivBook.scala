@@ -28,7 +28,7 @@ object BookWithChapterNumVersesParser extends JsonParserBase[BookWithChapterNumV
     Json.obj(
       "oneYearBibleName" -> book.oneYearBibleName,
       "exbibName" -> book.exbibName,
-      "nivName" -> book.nivName,
+      "hghNivName" -> book.hghNivName,
       "isOldTestament" -> book.isOldTestament,
       "chapterNumVerses" -> Json.toJson(bookWithChapterNumVerses.chapterNumVerses)
     )
@@ -95,7 +95,7 @@ object NivBookUtils {
 
     val booksWithChapterNumVerses: Seq[BookWithChapterNumVerses] = Books.allBooks
       .map(book => {
-        val chapterNumVerses: Seq[Int] = map.get(book.nivName).get
+        val chapterNumVerses: Seq[Int] = map.get(book.hghNivName).get
         BookWithChapterNumVerses(book, chapterNumVerses)
       })
 

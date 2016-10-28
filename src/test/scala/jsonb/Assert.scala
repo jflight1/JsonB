@@ -38,7 +38,7 @@ object Assert {
   def assertBooksEqual(expected: Book, actual: Book) = {
     assertEquals(expected.oneYearBibleName, actual.oneYearBibleName)
     assertEquals(expected.exbibName, actual.exbibName)
-    assertEquals(expected.nivName, actual.nivName)
+    assertEquals(expected.hghNivName, actual.hghNivName)
     assertEquals(expected.isOldTestament, actual.isOldTestament)
 
     assertEquals(expected.chapterNumVerses.size, actual.chapterNumVerses.size)

@@ -34,7 +34,7 @@ object NivBookParser extends JsonParserBase[NivBook] {
     val chaptersJson: IndexedSeq[JsObject] = nivBook.chapters.indices.map(i => NivChapterParser(i + 1).toJsValue(nivBook.chapters(i)))
 
     Json.obj(
-      "name" -> nivBook.book.oneYearBibleName,
+      "name" -> nivBook.book.codeName,
       "chapters" -> chaptersJson)
   }
 

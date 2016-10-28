@@ -26,7 +26,7 @@ object RsbNoteIdUtils {
       book.exbibName + ".1.1-" + book.exbibName + ".200.100"
     val ids: Seq[Long] = getNoteIdsFromUrl(url)
 
-    val fileName = "src\\main\\resources\\rsb\\ids\\" + book.oneYearBibleName + "_ids.txt"
+    val fileName = "src\\main\\resources\\rsb\\ids\\" + book.codeName + "_ids.txt"
     val printWriter: PrintWriter = new PrintWriter(fileName)
     ids.foreach(id => printWriter.println(id))
     printWriter.close()
@@ -72,8 +72,8 @@ object RsbNoteIdUtils {
     */
   private def generateIdFiles(): Unit = {
     Books.allBooks.foreach(book => {
-      println("Starting " + book.oneYearBibleName)
-      println("Finished " + book.oneYearBibleName)
+      println("Starting " + book.codeName)
+      println("Finished " + book.codeName)
       sleep()
     })
 

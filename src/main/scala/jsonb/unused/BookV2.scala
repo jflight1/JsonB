@@ -7,9 +7,9 @@ import play.api.libs.json.{JsValue, JsObject, Json}
 
 
 /**
-  * This was used to add nivName to book.  We don't use this class for anything anymore
+  * This was used to add hghNivName to book.  We don't use this class for anything anymore
   */
-case class BookV2(book: Book, nivName: String)
+case class BookV2(book: Book, hghNivName: String)
 
 
 object BookV2Parser extends JsonParserBase[BookV2] {
@@ -19,7 +19,7 @@ object BookV2Parser extends JsonParserBase[BookV2] {
     Json.obj(
       "oneYearBibleName" -> book.oneYearBibleName,
       "exbibName" -> book.exbibName,
-      "nivName" -> bookv2.nivName,
+      "hghNivName" -> bookv2.hghNivName,
       "numChapters" -> book.numChapters,
       "isOldTestament" -> book.isOldTestament)
   }
@@ -30,11 +30,11 @@ object BookV2Parser extends JsonParserBase[BookV2] {
     val book = Book(
       (jsValue \ "oneYearBibleName").as[String],
       (jsValue \ "exbibName").as[String],
-      (jsValue \ "nivName").as[String],
+      (jsValue \ "hghNivName").as[String],
       (jsValue \ "numChapters").as[Int],
       (jsValue \ "isOldTestament").as[Boolean])
 
-    BookV2(book, (jsValue \ "nivName").as[String])
+    BookV2(book, (jsValue \ "hghNivName").as[String])
 */
   }
 }
@@ -115,8 +115,8 @@ private object BookV2Utils {
   lazy val allBooks: Seq[BookV2] =
     // Map Books to BookV2s
     jsonb.Books.allBooks.map(book => {
-      val nivName: String = oneYearBibleNameToNivName.get(book.oneYearBibleName).get
-      BookV2(book, nivName)
+      val hghNivName: String = oneYearBibleNameToNivName.get(book.oneYearBibleName).get
+      BookV2(book, hghNivName)
     })
 
 

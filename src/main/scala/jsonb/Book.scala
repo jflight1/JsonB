@@ -13,12 +13,16 @@ import scala.io.BufferedSource
   * @param oneYearBibleName Name in oneyearbibleonline.com.  http://oneyearbibleonline.com/...
   *                         Also this is the name in the daily reading files: \resources\months\txt\*.txt
   * @param exbibName Name used in the exbib api.  https://www.biblegateway.com/exbib/contents/?osis=...
-  * @param nivName Name in NIV.json
+  * @param hghNivName Name in hgh_niv.json
   * @param chapterNumVerses The number of verses in each chapter
   */
-case class Book(index: Int, oneYearBibleName: String, exbibName: String, nivName: String, rsbNoteName: String,
+case class Book(index: Int, oneYearBibleName: String, exbibName: String, hghNivName: String, rsbNoteName: String,
                 isOldTestament: Boolean, chapterNumVerses: Seq[Int]) {
 
+  /**
+    * This is the name we used to identify the book in json, file names, code, etc.
+    */
+  val codeName = oneYearBibleName
 
   /**
     * name can match any of the names
@@ -33,7 +37,7 @@ case class Book(index: Int, oneYearBibleName: String, exbibName: String, nivName
       }
     }
 
-    nameMatches(cleanName(name), Seq(oneYearBibleName, exbibName, nivName, rsbNoteName)) ||
+    nameMatches(cleanName(name), Seq(oneYearBibleName, exbibName, hghNivName, rsbNoteName)) ||
       (cleanName(name) == "psalm" && oneYearBibleName == "psalms") // need special case
   }
 
@@ -50,7 +54,7 @@ object BookParser extends JsonParserBase[Book] {
     "index" -> book.index,
     "oneYearBibleName" -> book.oneYearBibleName,
     "exbibName" -> book.exbibName,
-    "nivName" -> book.nivName,
+    "hghNivName" -> book.hghNivName,
     "rsbNoteName" -> book.rsbNoteName,
     "isOldTestament" -> book.isOldTestament,
     "chapterNumVerses" -> Json.toJson(book.chapterNumVerses))
@@ -61,7 +65,7 @@ object BookParser extends JsonParserBase[Book] {
       (jsValue \ "index").as[Int],
       (jsValue \ "oneYearBibleName").as[String],
       (jsValue \ "exbibName").as[String],
-      (jsValue \ "nivName").as[String],
+      (jsValue \ "hghNivName").as[String],
       (jsValue \ "rsbNoteName").as[String],
       (jsValue \ "isOldTestament").as[Boolean],
       (jsValue \ "chapterNumVerses").as[Seq[Int]])

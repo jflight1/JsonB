@@ -64,7 +64,7 @@ object RsbNoteTitleParser {
     }
 
     catch {
-      case e: Exception => throw new Exception("Error parsing: " + titleRaw + ", " + book.oneYearBibleName, e)
+      case e: Exception => throw new Exception("Error parsing: " + titleRaw + ", " + book.codeName, e)
     }
   }
 
@@ -142,7 +142,7 @@ object RsbNoteTitleParser {
     }
 
     catch {
-      case e: Exception => throw new Exception("Error parsing: " + titleRaw + ", " + book.oneYearBibleName, e)
+      case e: Exception => throw new Exception("Error parsing: " + titleRaw + ", " + book.codeName, e)
     }
   }
 
