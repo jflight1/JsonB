@@ -12,6 +12,23 @@ case class VerseRange(start: SingleVerse, end: SingleVerse)
       start.toString
     else
       start.toString + "-" + end.toString
+
+
+  /**
+    * The single verses for this VerseRange
+    */
+  lazy val singleVerses: Seq[SingleVerse] = {
+    if (start == end) Seq(start)
+
+    else {
+      start :: VerseRange(start.next, end).singleVerses.toList
+    }
+  }
+
+
+  def inRange(singleVerse: SingleVerse): Boolean =
+    singleVerse >= this.start && singleVerse <= this.end
+
 }
 
 

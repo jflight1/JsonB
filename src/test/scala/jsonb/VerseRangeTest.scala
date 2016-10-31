@@ -88,6 +88,22 @@ class VerseRangeTest extends FunSuite {
   }
 
 
+  test("singleVerses") {
+    val genesis: Book = Books.find("genesis")
+    val exodus: Book = Books.find("exodus")
+
+    assertEquals(
+      Seq(
+        SingleVerse(genesis, 50, 25),
+        SingleVerse(genesis, 50, 26),
+        SingleVerse(exodus, 1, 1),
+        SingleVerse(exodus, 1, 2)
+      ),
+
+      VerseRange(SingleVerse(genesis, 50, 25), SingleVerse(exodus, 1, 2))
+        .singleVerses)
+  }
+
 
 }
 

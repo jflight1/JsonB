@@ -1,6 +1,6 @@
 package jsonb.niv
 
-import jsonb.{Book, Books, JsonParserBase}
+import jsonb.{Utils, Book, Books, JsonParserBase}
 import play.api.libs.json.{JsArray, JsObject, JsValue, Json}
 
 import scala.collection.immutable.IndexedSeq
@@ -49,6 +49,18 @@ object NivBookParser extends JsonParserBase[NivBook] {
       .map(jsValue => NivChapterParser(-1).fromJson(jsValue))
 
     NivBook(book, chapters)
+  }
+
+
+  def fileName(book: Book): String = {
+    val leadingZero = if (book.index < 10) "0" else ""
+    leadingZero + book.index + "_" + book.codeName + ".json"
+  }
+
+
+  def fromFile(book: Book): NivBook = {
+    val json = Utils.resourceFileToString("/niv/" + fileName(book))
+    fromJson(json)
   }
 }
 

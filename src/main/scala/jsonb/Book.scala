@@ -2,6 +2,7 @@ package jsonb
 
 import java.io.{InputStream, PrintWriter}
 
+import jsonb.niv.{NivBookParser, NivBook}
 import play.api.libs.json._
 
 import scala.io.BufferedSource
@@ -45,6 +46,20 @@ case class Book(index: Int, oneYearBibleName: String, exbibName: String, hghNivN
 
   def numChapters: Int = chapterNumVerses.size
 
+  /**
+    * The next book after this one in canonical order
+    *
+    * @throws Exception if you call it with revelation
+    */
+  lazy val next: Book = Books.nextBookMap(this)
+
+
+  lazy val nivBook: NivBook = NivBookParser.fromFile(this)
+
+  def <(that: Book) = this.index < that.index
+  def <=(that: Book) = this.index <= that.index
+  def >(that: Book) = this.index > that.index
+  def >=(that: Book) = this.index >= that.index
 }
 
 
@@ -74,6 +89,77 @@ object BookParser extends JsonParserBase[Book] {
 
 object Books {
 
+  val genesis = Books.find("genesis")
+  val exodus = Books.find("exodus")
+  val leviticus = Books.find("leviticus")
+  val numbers = Books.find("numbers")
+  val deuteronomy = Books.find("deuteronomy")
+  val joshua = Books.find("joshua")
+  val judges = Books.find("judges")
+  val ruth = Books.find("ruth")
+  val _1samuel = Books.find("1samuel")
+  val _2samuel = Books.find("2samuel")
+  val _1kings = Books.find("1kings")
+  val _2kings = Books.find("2kings")
+  val _1chronicles = Books.find("1chronicles")
+  val _2chronicles = Books.find("2chronicles")
+  val ezra = Books.find("ezra")
+  val nehemiah = Books.find("nehemiah")
+  val esther = Books.find("esther")
+  val job = Books.find("job")
+  val psalms = Books.find("psalms")
+  val proverbs = Books.find("proverbs")
+  val ecclesiastes = Books.find("ecclesiastes")
+  val song = Books.find("song")
+  val isaiah = Books.find("isaiah")
+  val jeremiah = Books.find("jeremiah")
+  val lamentations = Books.find("lamentations")
+  val ezekiel = Books.find("ezekiel")
+  val daniel = Books.find("daniel")
+  val hosea = Books.find("hosea")
+  val joel = Books.find("joel")
+  val amos = Books.find("amos")
+  val obadiah = Books.find("obadiah")
+  val jonah = Books.find("jonah")
+  val micah = Books.find("micah")
+  val nahum = Books.find("nahum")
+  val habakkuk = Books.find("habakkuk")
+  val zephaniah = Books.find("zephaniah")
+  val haggai = Books.find("haggai")
+  val zechariah = Books.find("zechariah")
+  val malachi = Books.find("malachi")
+  val matthew = Books.find("matthew")
+  val mark = Books.find("mark")
+  val luke = Books.find("luke")
+  val john = Books.find("john")
+  val acts = Books.find("acts")
+  val romans = Books.find("romans")
+  val _1corinthians = Books.find("1corinthians")
+  val _2corinthians = Books.find("2corinthians")
+  val galatians = Books.find("galatians")
+  val ephesians = Books.find("ephesians")
+  val philippians = Books.find("philippians")
+  val colossians = Books.find("colossians")
+  val _1thessalonians = Books.find("1thessalonians")
+  val _2thessalonians = Books.find("2thessalonians")
+  val _1timothy = Books.find("1timothy")
+  val _2timothy = Books.find("2timothy")
+  val titus = Books.find("titus")
+  val philemon = Books.find("philemon")
+  val hebrews = Books.find("hebrews")
+  val james = Books.find("james")
+  val _1peter = Books.find("1peter")
+  val _2peter = Books.find("2peter")
+  val _1john = Books.find("1john")
+  val _2john = Books.find("2john")
+  val _3john = Books.find("3john")
+  val jude = Books.find("jude")
+  val revelation = Books.find("revelation")
+
+
+  /**
+    * All books in canonical order
+    */
   lazy val allBooks: Seq[Book] = BookParser.readSeqFromFile("/books.json")
 
   def find(name: String): Book = {
@@ -91,10 +177,21 @@ object Books {
       .sortBy(b => -b.chapterNumVerses.sum)
   }
 
+  /**
+    * Map one book to te next
+    */
+  lazy val nextBookMap = (0 until Books.allBooks.size - 1)
+    .map(i => allBooks(i) -> allBooks(i + 1))
+    .toMap
+
+
 
   def main(args: Array[String]): Unit = {
-    allBooksSortedLargestToSmallest.foreach(b => println(b.oneYearBibleName + "\t" + b.chapterNumVerses.sum))
+    allBooks.foreach(book => {
+      println("val " + book.codeName + " = Books.find(\"" + book.codeName + "\")")
+    })
   }
+
 }
 
 

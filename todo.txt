@@ -3,43 +3,12 @@
 To do
 -----
 
-RSB notes
-  - json
-    - a file for each book
-    - a file is an array of RsbNotes
-    - to generate json files
+verses with notes
 
-      for each book
-        open chunk id file
-        for each chuck id
-          get the note
-            https://www.biblegateway.com/exbib/?pub=reformation-study-bible&chunk=187307
-            parse into a RsbNoteWeb
-            map RsbNoteWeb --> RsbNote
-        write List[RsbNote] as json to the file: ruth_notes.json
-
-
-
-    - location: could be
-      1 verse
-      verse range
-      multiple individual verses.  Matt 2:3,5,8
-    - html text
-    - chunk id
-  - operations
-    - for a given verse range, maps each verse in that range to a set of notes
-
-- Book should replace Book.  The name matching stuff would have to move.
-Book was going to be serializable though...
-
-- get all reformation study bible data
-  - get json from a web url
-  - get chunk ids for the notes for every book:
-    https://www.biblegateway.com/exbib/contents/?osis=Ruth.1.1-Ruth.100.100
-  - get the notes for all chunk ids
-    https://www.biblegateway.com/exbib/?pub=reformation-study-bible&chunk=185570
-
-
+VerseRange
+--> all SingleVerses in the range
+  --> NivVerse for each SingleVerses
+  --> RsbNotes for each verse.  don't include a note with a verse if it's already present for anothre verse
 
 Notes
 -----

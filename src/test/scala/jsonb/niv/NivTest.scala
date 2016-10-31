@@ -13,6 +13,8 @@ import play.api.libs.json.JsString
 class NivTest extends FunSuite {
 
 
+  //////////////////////////////   NivVerse
+
   test("NivVerseParser") {
     assertEquals("25:aaa", NivVerseParser(25).toString(NivVerse("aaa")))
     assertEquals(JsString("25:aaa"), NivVerseParser(25).toJsValue(NivVerse("aaa")))
@@ -20,6 +22,9 @@ class NivTest extends FunSuite {
     assertEquals(NivVerse("aaa"), NivVerseParser(-1).fromJson("\"25:aaa\""))
     assertEquals(NivVerse("aaa"), NivVerseParser(-1).fromJson(JsString("25:aaa")))
   }
+
+
+  //////////////////////////////   NivChapter
 
 
   test("NivChapterParser") {
@@ -43,6 +48,9 @@ class NivTest extends FunSuite {
 
     assertNivChaptersEqual(nivChapter, HghNivChapterParser.fromJson(nivChapterJson))
   }
+
+
+  //////////////////////////////   NivBook
 
 
   test("NivBookParser") {
@@ -86,6 +94,12 @@ class NivTest extends FunSuite {
   }
 
 
+
+  test("fromFile") {
+    assertTrue(
+      NivBookParser.fromFile(Books.find("genesis")).chapter(2).verse(4).text
+        .startsWith("This is the account of the heavens"))
+  }
 
 }
 

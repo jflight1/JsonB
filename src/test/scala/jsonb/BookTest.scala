@@ -62,6 +62,24 @@ class BookTest extends FunSuite {
       }
     })
   }
+
+  test("inequality") {
+    val genesis: Book = Books.find("genesis")
+    val exodus: Book = Books.find("exodus")
+    assertTrue(genesis < exodus)
+    assertTrue(genesis <= exodus)
+    assertTrue(genesis <= genesis)
+    assertFalse(exodus < genesis)
+    assertFalse(exodus <= genesis)
+
+    assertTrue(exodus > genesis)
+    assertTrue(exodus >= genesis)
+    assertTrue(exodus >= exodus)
+    assertFalse(genesis >  exodus)
+    assertFalse(genesis >=  exodus)
+
+  }
+
 }
 
 

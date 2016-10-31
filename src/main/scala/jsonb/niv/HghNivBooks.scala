@@ -26,14 +26,14 @@ object HghNivBooks {
   /**
     * Generates json files for all books
     */
-  def writeNivBookFiles(): Unit = {
+  private def writeNivBookFiles(): Unit = {
     allBooks
       .foreach(nivBook => {
         val book: Book = nivBook.book
         println(book.codeName);
         val fileName = {
           val leadingZero = if (book.index < 10) "0" else ""
-          "src\\main\\resources\\niv\\" + leadingZero + book.index + "_" + book.codeName + ".json"
+          "src\\main\\resources\\niv\\" + NivBookParser.fileName(book)
         }
 
         val json: String = NivBookParser.toJson(nivBook)
