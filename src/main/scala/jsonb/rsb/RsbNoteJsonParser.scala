@@ -16,8 +16,8 @@ object RsbNoteJsonParser extends JsonParserBase[RsbNote] {
 
   override def fromJson(jsValue: JsValue): RsbNote = {
     RsbNote(
-      VerseRangeParser.fromJson((jsValue \ "verseRange").as[JsObject]),
-      (jsValue \ "id").as[String].toLong,
+      VerseRangeParser.fromJson((jsValue \ "verseRange").as[JsValue]),
+      (jsValue \ "id").as[Long],
       (jsValue \ "title").as[String],
       (jsValue \ "text").as[String])
   }

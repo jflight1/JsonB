@@ -2,6 +2,7 @@ package jsonb
 
 import jsonb.Books._
 import jsonb.Assert._
+import jsonb.rsb.RsbNote
 import org.junit.runner.RunWith
 import org.scalatest.FunSuite
 import org.scalatest.junit.JUnitRunner
@@ -82,6 +83,47 @@ class VerseRangeTest extends FunSuite {
   }
 
 
+  private val titus_1_12: VerseRange = VerseRange(SingleVerse(titus, 1, 12), SingleVerse(titus, 1, 12))
+  private val titus_1_11_12: VerseRange = VerseRange(SingleVerse(titus, 1, 11), SingleVerse(titus, 1, 12))
+  private val titus_1_11_13: VerseRange = VerseRange(SingleVerse(titus, 1, 11), SingleVerse(titus, 1, 13))
+  private val titus_1_10_12: VerseRange = VerseRange(SingleVerse(titus, 1, 10), SingleVerse(titus, 1, 12))
+  private val titus_1_12_14: VerseRange = VerseRange(SingleVerse(titus, 1, 12), SingleVerse(titus, 1, 14))
+  private val titus_1_14_16: VerseRange = VerseRange(SingleVerse(titus, 1, 14), SingleVerse(titus, 1, 16))
+
+  test("intersects") {
+    assertTrue(titus_1_12.intersects(titus_1_12))
+
+    assertTrue(titus_1_12.intersects(titus_1_11_13))
+    assertTrue(titus_1_11_13.intersects(titus_1_12))
+
+    assertTrue(titus_1_11_13.intersects(titus_1_10_12))
+    assertTrue(titus_1_10_12.intersects(titus_1_11_13))
+
+    assertTrue(titus_1_10_12.intersects(titus_1_12_14))
+    assertTrue(titus_1_12_14.intersects(titus_1_10_12))
+
+    assertFalse(titus_1_10_12.intersects(titus_1_14_16))
+    assertFalse(titus_1_14_16.intersects(titus_1_10_12))
+  }
+
+
+  test("intersection") {
+    assertEquals(titus_1_12, titus_1_12.intersection(titus_1_12).get)
+
+    assertEquals(titus_1_12, titus_1_12.intersection(titus_1_11_13).get)
+    assertEquals(titus_1_12, titus_1_11_13.intersection(titus_1_12).get)
+
+    assertEquals(titus_1_11_12, titus_1_11_13.intersection(titus_1_10_12).get)
+    assertEquals(titus_1_11_12, titus_1_10_12.intersection(titus_1_11_13).get)
+
+    assertEquals(titus_1_12, titus_1_10_12.intersection(titus_1_12_14).get)
+    assertEquals(titus_1_12, titus_1_12_14.intersection(titus_1_10_12).get)
+
+    assertEquals(None, titus_1_10_12.intersection(titus_1_14_16))
+    assertEquals(None, titus_1_14_16.intersection(titus_1_10_12))
+  }
+
+
   test("singleVerses") {
     val genesis: Book = Books.find("genesis")
     val exodus: Book = Books.find("exodus")
@@ -106,6 +148,7 @@ class VerseRangeTest extends FunSuite {
     assertEquals(Seq(_3john, jude, revelation), VerseRange(SingleVerse(_3john, 1, 1), SingleVerse(revelation, 2, 2)).books)
   }
 
+
   test("rsbNotes") {
     val noteVerseRangeStrings: Seq[String] = VerseRange(SingleVerse(titus, 1, 11), SingleVerse(titus, 1, 13))
       .rsbNotes
@@ -120,8 +163,30 @@ class VerseRangeTest extends FunSuite {
   }
 
 
+  test("versesWithNotes") {
 
+    // convert to strings for easier testing
+    def sVersesWithNotes(verseRange: VerseRange): Seq[(String, Seq[String])] = {
+      val versesWithNotes: Seq[(SingleVerse, Seq[RsbNote])] = verseRange.versesWithNotes
+      versesWithNotes.map(tuple => {
+        val sRsbNotes: Seq[String] = tuple._2.map(rsbNote => rsbNote.verseRange.toString)
+        (tuple._1.toString, sRsbNotes)
+      })
 
+    }
+
+    assertEquals(Seq(
+      ("titus,1,11", Seq("titus,1,10-titus,1,16", "titus,1,11")),
+      ("titus,1,12", Seq("titus,1,12")),
+      ("titus,1,13", Seq("titus,1,13"))),
+      sVersesWithNotes(VerseRange(SingleVerse(titus, 1, 11), SingleVerse(titus, 1, 13))))
+
+    assertEquals(Seq(
+      ("titus,2,5", Seq("titus,2,1-titus,2,15", "titus,2,2-titus,2,6", "titus,2,5")),
+      ("titus,2,6", Nil),
+      ("titus,2,7", Seq("titus,2,7"))),
+      sVersesWithNotes(VerseRange(SingleVerse(titus, 2, 5), SingleVerse(titus, 2, 7))))
+  }
 }
 
 

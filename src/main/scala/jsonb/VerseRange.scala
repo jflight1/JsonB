@@ -44,7 +44,10 @@ case class VerseRange(start: SingleVerse, end: SingleVerse)
     else None
   }
 
-  def intersects(verseRange: VerseRange): Boolean = inRange(verseRange.start) || inRange(verseRange.end)
+
+  def intersects(verseRange: VerseRange): Boolean =
+    inRange(verseRange.start) || inRange(verseRange.end) ||
+      verseRange.inRange(start) || verseRange.inRange(end)
 
 
   lazy val rsbNotes: Seq[RsbNote] = {
@@ -52,7 +55,9 @@ case class VerseRange(start: SingleVerse, end: SingleVerse)
       // all notes for all books in this VerseRange
       .flatMap(book => book.rsbNotes)
       // only keep the notes that actually intersect with this VerseRange
-      .filter(rsbNote => rsbNote.verseRange.intersects(this))
+      .filter(rsbNote => {
+      rsbNote.verseRange.intersects(this)
+    })
   }
 
 
@@ -68,6 +73,26 @@ case class VerseRange(start: SingleVerse, end: SingleVerse)
 
     booksRec(end.book, Nil)
   }
+
+  /**
+    * for each verse, all the RsbNotes for which the verse is first
+    */
+  lazy val versesWithNotes: Seq[(SingleVerse, Seq[RsbNote])] = {
+
+    // the notes with the first verse it applies to
+    val notesAndFirstVerse: Seq[(RsbNote, SingleVerse)] = this.rsbNotes
+      .map(rsbNote => (rsbNote, this.intersection(rsbNote.verseRange).get.start))
+
+    this.singleVerses
+      .map(singleVerse => {
+        val rsbNotesForVerse: Seq[RsbNote] = notesAndFirstVerse
+          .filter(noteAndFirstVerse => noteAndFirstVerse._2 == singleVerse)
+          .map(noteAndFirstVerse => noteAndFirstVerse._1)
+
+        (singleVerse, rsbNotesForVerse)
+      })
+  }
+
 
 }
 

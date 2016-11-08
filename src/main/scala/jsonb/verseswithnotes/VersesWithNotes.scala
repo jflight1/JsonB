@@ -8,7 +8,7 @@ import jsonb.rsb.RsbNote
 /**
   * A verse and associated notes
   */
-case class VerseWithNotes(singleVerse: SingleVerse, nivVerse: NivVerse, rsbNotes: Seq[RsbNote])
+//case class VerseWithNotes(singleVerse: SingleVerse, nivVerse: NivVerse, rsbNotes: Seq[RsbNote])
 
 
 object VersesWithNotes {
@@ -16,6 +16,7 @@ object VersesWithNotes {
   /**
     * for each verse, all the RsbNotes for which the verse is first
     */
+/*
   def versesWithNotesInRange(verseRange: VerseRange): Seq[(SingleVerse, Seq[RsbNote])] = {
 
     // the notes with the first verse it applies to
@@ -31,6 +32,7 @@ object VersesWithNotes {
         (singleVerse, rsbNotesForVerse)
       })
   }
+*/
 
 
 }
