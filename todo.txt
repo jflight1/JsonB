@@ -6,9 +6,28 @@ To do
 verses with notes
 
 VerseRange
+--> all rsbNotes in range
+--> first verse to which the note applies.  not necessarily rsbNote.verseRange.start
+
+notes and first verse for note:
+Seq[(RsbNote, SingleVerse)]
+
+for each verse, all the RsbNotes for which the verse is first
+--> Seq[(SingleVerse, Seq[RsbNote])]
+
+we want this in the end
+--> Seq[(Seq[SingleVerse], Seq[RsbNote])]
+
+
+
+
 --> all SingleVerses in the range
   --> NivVerse for each SingleVerses
   --> RsbNotes for each verse.  don't include a note with a verse if it's already present for anothre verse
+
+
+
+
 
 Notes
 -----

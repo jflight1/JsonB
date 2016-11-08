@@ -3,6 +3,7 @@ package jsonb
 import java.io.{InputStream, PrintWriter}
 
 import jsonb.niv.{NivBookParser, NivBook}
+import jsonb.rsb.{RsbNoteJsonParser, RsbNote}
 import play.api.libs.json._
 
 import scala.io.BufferedSource
@@ -53,13 +54,20 @@ case class Book(index: Int, oneYearBibleName: String, exbibName: String, hghNivN
     */
   lazy val next: Book = Books.nextBookMap(this)
 
+  lazy val prev: Book = Books.prevBookMap(this)
+
 
   lazy val nivBook: NivBook = NivBookParser.fromFile(this)
+
+  lazy val rsbNotes: Seq[RsbNote] = RsbNoteJsonParser.fromFile(this)
+
 
   def <(that: Book) = this.index < that.index
   def <=(that: Book) = this.index <= that.index
   def >(that: Book) = this.index > that.index
   def >=(that: Book) = this.index >= that.index
+
+  override def toString: String = codeName
 }
 
 
@@ -178,10 +186,18 @@ object Books {
   }
 
   /**
-    * Map one book to te next
+    * Map one book to the next
     */
   lazy val nextBookMap = (0 until Books.allBooks.size - 1)
     .map(i => allBooks(i) -> allBooks(i + 1))
+    .toMap
+
+
+  /**
+    * Map one book to the previous
+    */
+  lazy val prevBookMap = (Books.allBooks.size - 1 until 0 by -1)
+    .map(i => allBooks(i) -> allBooks(i - 1))
     .toMap
 
 

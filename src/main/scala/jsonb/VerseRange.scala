@@ -1,5 +1,6 @@
 package jsonb
 
+import jsonb.rsb.RsbNote
 import play.api.libs.json.{Json, JsString, JsValue}
 
 
@@ -28,6 +29,45 @@ case class VerseRange(start: SingleVerse, end: SingleVerse)
 
   def inRange(singleVerse: SingleVerse): Boolean =
     singleVerse >= this.start && singleVerse <= this.end
+
+
+  /**
+    * Intersection between this VerseRange and another
+    */
+  def intersection(verseRange: VerseRange): Option[VerseRange] = {
+    if (intersects(verseRange)) {
+      val start2 = if (start > verseRange.start) start else verseRange.start
+      val end2 = if (end < verseRange.end) end else verseRange.end
+      Some(VerseRange(start2, end2))
+    }
+
+    else None
+  }
+
+  def intersects(verseRange: VerseRange): Boolean = inRange(verseRange.start) || inRange(verseRange.end)
+
+
+  lazy val rsbNotes: Seq[RsbNote] = {
+    this.books
+      // all notes for all books in this VerseRange
+      .flatMap(book => book.rsbNotes)
+      // only keep the notes that actually intersect with this VerseRange
+      .filter(rsbNote => rsbNote.verseRange.intersects(this))
+  }
+
+
+  /**
+    * The books in this VerseRange, in order
+    */
+  lazy val books: Seq[Book] = {
+    def booksRec(currentBook: Book, soFar: Seq[Book]): Seq[Book] = {
+      val nextSoFar: List[Book] = currentBook :: soFar.toList
+      if (currentBook == start.book) nextSoFar
+      else booksRec(currentBook.prev, nextSoFar)
+    }
+
+    booksRec(end.book, Nil)
+  }
 
 }
 

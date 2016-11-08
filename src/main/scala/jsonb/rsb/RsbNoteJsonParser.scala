@@ -31,4 +31,12 @@ object RsbNoteJsonParser extends JsonParserBase[RsbNote] {
     */
   def json(book: Book): String = ???
 
+
+  /**
+    * All the RsbNotes for a book
+    */
+  def fromFile(book: Book): Seq[RsbNote] = {
+    readSeqFromFile("/rsb/notes_json/" + book.codeName + ".json")
+  }
+
 }

@@ -1,5 +1,6 @@
 package jsonb
 
+import jsonb.Books._
 import jsonb.Assert._
 import org.junit.runner.RunWith
 import org.scalatest.FunSuite
@@ -10,21 +11,14 @@ import org.junit.Assert._
 @RunWith(classOf[JUnitRunner])
 class VerseRangeTest extends FunSuite {
 
-  val Genesis = Books.find("genesis")
-  val Exodus = Books.find("exodus")
-  val Matthew = Books.find("matthew")
-  val Psalms = Books.find("psalms")
-  val Proverbs = Books.find("proverbs")
-
-
   test("toJson") {
     assertEquals("\"genesis,1,2-exodus,3,4\"",
       VerseRangeParser.toJson(VerseRange(
-        SingleVerse(Genesis, 1, 2), SingleVerse(Exodus, 3, 4))))
+        SingleVerse(genesis, 1, 2), SingleVerse(exodus, 3, 4))))
 
     assertEquals("\"genesis,1,2\"",
       VerseRangeParser.toJson(VerseRange(
-        SingleVerse(Genesis, 1, 2), SingleVerse(Genesis, 1, 2))))
+        SingleVerse(genesis, 1, 2), SingleVerse(genesis, 1, 2))))
   }
 
 
@@ -35,7 +29,7 @@ class VerseRangeTest extends FunSuite {
     val verseRange: VerseRange = VerseRangeParser.fromJson(jsonString)
 
     val expected: VerseRange = VerseRange(
-      SingleVerse(Genesis, 1, 2), SingleVerse(Exodus, 3, 4))
+      SingleVerse(genesis, 1, 2), SingleVerse(exodus, 3, 4))
     assertVerseRangesEqual(expected, verseRange)
   }
 
@@ -44,7 +38,7 @@ class VerseRangeTest extends FunSuite {
     val verseRange: VerseRange = VerseRangeParser.parseText("matthew+11:7-30")
 
     val expected: VerseRange = VerseRange(
-      SingleVerse(Matthew, 11, 7), SingleVerse(Matthew, 11, 30))
+      SingleVerse(matthew, 11, 7), SingleVerse(matthew, 11, 30))
     assertVerseRangesEqual(expected, verseRange)
   }
 
@@ -53,7 +47,7 @@ class VerseRangeTest extends FunSuite {
     val verseRange: VerseRange = VerseRangeParser.parseText("genesis+16:1-18:15")
 
     val expected: VerseRange = VerseRange(
-      SingleVerse(Genesis, 16, 1), SingleVerse(Genesis, 18, 15))
+      SingleVerse(genesis, 16, 1), SingleVerse(genesis, 18, 15))
     assertVerseRangesEqual(expected, verseRange)
   }
 
@@ -61,7 +55,7 @@ class VerseRangeTest extends FunSuite {
   test("parseText one verse") {
     val verseRange: VerseRange = VerseRangeParser.parseText("proverbs+10:5")
     val expected: VerseRange = VerseRange(
-      SingleVerse(Proverbs, 10, 5), SingleVerse(Proverbs, 10, 5))
+      SingleVerse(proverbs, 10, 5), SingleVerse(proverbs, 10, 5))
     assertVerseRangesEqual(expected, verseRange)
 
   }
@@ -73,15 +67,15 @@ class VerseRangeTest extends FunSuite {
       .parseMonthTextFileLine("genesis+39:1-41:16;matthew+12:46-13:23;psalm+17:1-15")
 
     assertVerseRangesEqual(VerseRange(
-      SingleVerse(Genesis, 39, 1), SingleVerse(Genesis, 41, 16)),
+      SingleVerse(genesis, 39, 1), SingleVerse(genesis, 41, 16)),
       verseRanges(0))
 
     assertVerseRangesEqual(VerseRange(
-      SingleVerse(Matthew, 12, 46), SingleVerse(Matthew, 13, 23)),
+      SingleVerse(matthew, 12, 46), SingleVerse(matthew, 13, 23)),
       verseRanges(1))
 
     assertVerseRangesEqual(VerseRange(
-      SingleVerse(Psalms, 17, 1), SingleVerse(Psalms, 17, 15)),
+      SingleVerse(psalms, 17, 1), SingleVerse(psalms, 17, 15)),
       verseRanges(2))
 
 
@@ -103,6 +97,29 @@ class VerseRangeTest extends FunSuite {
       VerseRange(SingleVerse(genesis, 50, 25), SingleVerse(exodus, 1, 2))
         .singleVerses)
   }
+
+
+  test("books") {
+    assertEquals(Seq(genesis), VerseRange(SingleVerse(genesis, 1, 1), SingleVerse(genesis, 2, 2)).books)
+    assertEquals(Seq(genesis, exodus), VerseRange(SingleVerse(genesis, 1, 1), SingleVerse(exodus, 2, 2)).books)
+    assertEquals(Seq(genesis, exodus, leviticus, numbers, deuteronomy), VerseRange(SingleVerse(genesis, 1, 1), SingleVerse(deuteronomy, 2, 2)).books)
+    assertEquals(Seq(_3john, jude, revelation), VerseRange(SingleVerse(_3john, 1, 1), SingleVerse(revelation, 2, 2)).books)
+  }
+
+  test("rsbNotes") {
+    val noteVerseRangeStrings: Seq[String] = VerseRange(SingleVerse(titus, 1, 11), SingleVerse(titus, 1, 13))
+      .rsbNotes
+      .map(rsbNote => rsbNote.verseRange.toString)
+
+    assertEquals(Seq(
+      "titus,1,10-titus,1,16",
+      "titus,1,11",
+      "titus,1,12",
+      "titus,1,13"),
+      noteVerseRangeStrings)
+  }
+
+
 
 
 }
