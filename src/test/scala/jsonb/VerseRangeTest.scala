@@ -163,17 +163,16 @@ class VerseRangeTest extends FunSuite {
   }
 
 
+  // convert versesWithNotes results to strings for easier testing
+  private def sVersesWithNotes(verseRange: VerseRange): Seq[(String, Seq[String])] = {
+    val versesWithNotes: Seq[(SingleVerse, Seq[RsbNote])] = verseRange.versesWithNotes
+    versesWithNotes.map(tuple => {
+      val sRsbNotes: Seq[String] = tuple._2.map(rsbNote => rsbNote.verseRange.toString)
+      (tuple._1.toString, sRsbNotes)
+    })
+  }
+
   test("versesWithNotes") {
-
-    // convert to strings for easier testing
-    def sVersesWithNotes(verseRange: VerseRange): Seq[(String, Seq[String])] = {
-      val versesWithNotes: Seq[(SingleVerse, Seq[RsbNote])] = verseRange.versesWithNotes
-      versesWithNotes.map(tuple => {
-        val sRsbNotes: Seq[String] = tuple._2.map(rsbNote => rsbNote.verseRange.toString)
-        (tuple._1.toString, sRsbNotes)
-      })
-
-    }
 
     assertEquals(Seq(
       ("titus,1,11", Seq("titus,1,10-titus,1,16", "titus,1,11")),
@@ -186,6 +185,42 @@ class VerseRangeTest extends FunSuite {
       ("titus,2,6", Nil),
       ("titus,2,7", Seq("titus,2,7"))),
       sVersesWithNotes(VerseRange(SingleVerse(titus, 2, 5), SingleVerse(titus, 2, 7))))
+
+    assertEquals(Seq(
+      ("titus,3,15", Seq("titus,3,12-titus,3,15", "titus,3,15")),
+      ("philemon,1,1", Seq("philemon,1,1")),
+      ("philemon,1,2", Nil)),
+      sVersesWithNotes(VerseRange(SingleVerse(titus, 3, 15), SingleVerse(philemon, 1, 2))))
+
+    assertEquals(Seq(
+      ("titus,3,15", Seq("titus,3,12-titus,3,15", "titus,3,15")),
+      ("philemon,1,1", Seq("philemon,1,1")),
+      ("philemon,1,2", Nil),
+      ("philemon,1,3", Nil),
+      ("philemon,1,4", Nil),
+      ("philemon,1,5", Nil),
+      ("philemon,1,6", Seq("philemon,1,6")),
+      ("philemon,1,7", Seq("philemon,1,7")),
+      ("philemon,1,8", Nil),
+      ("philemon,1,9", Seq("philemon,1,9")),
+      ("philemon,1,10", Seq("philemon,1,10")),
+      ("philemon,1,11", Seq("philemon,1,11")),
+      ("philemon,1,12", Nil),
+      ("philemon,1,13", Nil),
+      ("philemon,1,14", Seq("philemon,1,14")),
+      ("philemon,1,15", Nil),
+      ("philemon,1,16", Seq("philemon,1,16")),
+      ("philemon,1,17", Seq("philemon,1,17")),
+      ("philemon,1,18", Nil),
+      ("philemon,1,19", Seq("philemon,1,19")),
+      ("philemon,1,20", Nil),
+      ("philemon,1,21", Nil),
+      ("philemon,1,22", Seq("philemon,1,22")),
+      ("philemon,1,23", Nil),
+      ("philemon,1,24", Nil),
+      ("philemon,1,25", Nil),
+      ("hebrews,1,1", Seq("hebrews,1,1-hebrews,1,4", "hebrews,1,1"))),
+      sVersesWithNotes(VerseRange(SingleVerse(titus, 3, 15), SingleVerse(hebrews, 1 ,1))))
   }
 }
 
