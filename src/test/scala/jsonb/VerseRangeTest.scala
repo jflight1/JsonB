@@ -222,6 +222,91 @@ class VerseRangeTest extends FunSuite {
       ("hebrews,1,1", Seq("hebrews,1,1-hebrews,1,4", "hebrews,1,1"))),
       sVersesWithNotes(VerseRange(SingleVerse(titus, 3, 15), SingleVerse(hebrews, 1 ,1))))
   }
+
+
+  test("compactVersesWithNotes") {
+    // make some SingleVerses and RsbNotes.  What they are doesn't matter
+    val singleVerses: Seq[SingleVerse] = (0 until 20).map(i => SingleVerse(genesis, 1, i))
+
+    val rsbNotes: Seq[Seq[RsbNote]] = (0 until 10).map(i =>
+      (0 until 10).map(j => RsbNote(VerseRange(SingleVerse(genesis, 1, 1),SingleVerse(genesis, 1, 1)), i*10 + j, "", "")))
+
+    assertEquals(
+      // expected
+      Seq(
+        (Seq(singleVerses(0), singleVerses(1)), Nil),
+        (Seq(singleVerses(2), singleVerses(3), singleVerses(4)), rsbNotes(0)),
+        (Seq(singleVerses(5)), rsbNotes(1)),
+        (Seq(singleVerses(6), singleVerses(7)), rsbNotes(2))
+      ),
+
+      // actual.  no notes on first or last
+      CompactVersesWithNotes.get(Seq(
+        (singleVerses(0), Nil),
+        (singleVerses(1), Nil),
+        (singleVerses(2), rsbNotes(0)),
+        (singleVerses(3), Nil),
+        (singleVerses(4), Nil),
+        (singleVerses(5), rsbNotes(1)),
+        (singleVerses(6), rsbNotes(2)),
+        (singleVerses(7), Nil)
+      )))
+
+
+    assertEquals(
+      // expected
+      Seq(
+        (Seq(singleVerses(2), singleVerses(3)), rsbNotes(0)),
+        (Seq(singleVerses(4)), rsbNotes(1)),
+        (Seq(singleVerses(5)), rsbNotes(2))
+      ),
+
+      // actual.  notes on first or last
+      CompactVersesWithNotes.get(Seq(
+        (singleVerses(2), rsbNotes(0)),
+        (singleVerses(3), Nil),
+        (singleVerses(4), rsbNotes(1)),
+        (singleVerses(5), rsbNotes(2))
+      )))
+
+
+    assertEquals(
+      // expected
+      Seq((Seq(singleVerses(2)), rsbNotes(0))),
+      // actual
+      CompactVersesWithNotes.get(Seq((singleVerses(2), rsbNotes(0)))))
+
+    assertEquals(
+      // expected
+      Seq((Seq(singleVerses(2)), Nil)),
+      // actual
+      CompactVersesWithNotes.get(Seq((singleVerses(2), Nil))))
+
+
+    // Test a real VerseRange
+    val verseRange = VerseRange(SingleVerse(hebrews, 10, 26), SingleVerse(hebrews, 10, 33))
+    val compactVersesWithNotes: Seq[(Seq[SingleVerse], Seq[RsbNote])] = verseRange.compactVersesWithNotes
+
+    // convert the results to strings for easier testing
+    val compactVersesWithNotesAsStrings: Seq[(Seq[String], Seq[String])] =
+      compactVersesWithNotes
+        .map(tuple => (tuple._1.map(singleVerse => singleVerse.toString), tuple._2.map(rsbNote => rsbNote.verseRange.toString)))
+
+    assertEquals(
+      // expected
+      Seq(
+        (Seq("hebrews,10,26", "hebrews,10,27"), Seq("hebrews,10,26")),
+        (Seq("hebrews,10,28"), Seq("hebrews,10,28")),
+        (Seq("hebrews,10,29"), Seq("hebrews,10,29")),
+        (Seq("hebrews,10,30"), Seq("hebrews,10,30")),
+        (Seq("hebrews,10,31"), Seq("hebrews,10,31")),
+        (Seq("hebrews,10,32"), Seq("hebrews,10,32-hebrews,10,39", "hebrews,10,32")),
+        (Seq("hebrews,10,33"), Seq("hebrews,10,33"))),
+
+      // actual
+      compactVersesWithNotesAsStrings)
+
+
+  }
+
 }
-
-

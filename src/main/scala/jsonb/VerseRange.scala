@@ -75,7 +75,7 @@ case class VerseRange(start: SingleVerse, end: SingleVerse)
   }
 
   /**
-    * for each verse, all the RsbNotes for which the verse is first
+    * For each verse, the RsbNotes for which that verse is the first the note applies to.
     */
   lazy val versesWithNotes: Seq[(SingleVerse, Seq[RsbNote])] = {
 
@@ -94,8 +94,51 @@ case class VerseRange(start: SingleVerse, end: SingleVerse)
   }
 
 
+  /**
+    * Like versesWithNotes but verses that don't have any notes are grouped with the previous verse that did
+    * so we get a Seq of verses with a Seq of RsbNotes
+    */
+  lazy val compactVersesWithNotes: Seq[(Seq[SingleVerse], Seq[RsbNote])] =
+    CompactVersesWithNotes.get(versesWithNotes)
+
 }
 
+
+/**
+  * We separate this from compactVersesWithNotes above just for testing
+  */
+object CompactVersesWithNotes {
+  def get(versesWithNotes: Seq[(SingleVerse, Seq[RsbNote])])
+  : Seq[(Seq[SingleVerse], Seq[RsbNote])] = {
+
+    // add an index to the tuples
+    val versesWithNotesAndIndex: Seq[(SingleVerse, Seq[RsbNote], Int)] =
+      versesWithNotes.indices
+        .map(i => (versesWithNotes(i)._1, versesWithNotes(i)._2, i))
+
+
+    def versesForIndex(i: Int): Seq[SingleVerse] = {
+
+      if (i == versesWithNotesAndIndex.size - 1) Seq(versesWithNotesAndIndex(i)._1)
+
+      else {
+        versesWithNotesAndIndex
+          // discard tuples before index
+          .span(tuple => tuple._3 < i)._2
+          // keep tuples after the index until we get to a non-empty one
+          .span(tuple => tuple._3 == i || tuple._2.isEmpty)._1
+          // just keep the verse
+          .map(tuple => tuple._1)
+      }
+    }
+
+    versesWithNotesAndIndex
+      // keep the first and one with non-empty notes
+      .filter(tuple => tuple._3 == 0 || tuple._2.nonEmpty)
+      .map(tuple => (versesForIndex(tuple._3), tuple._2))
+
+  }
+}
 
 /**
   * The json will be like
