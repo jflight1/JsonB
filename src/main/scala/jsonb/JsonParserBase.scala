@@ -5,22 +5,22 @@ import java.io.{PrintWriter, InputStream}
 import play.api.libs.json.{JsArray, JsObject, JsValue, Json}
 
 
+abstract class JsonParserBase[T] {
 
-/**
-  * Created by jflight on 9/21/2016.
-  */
-abstract class JsonParserBase[T] extends JsonParser[T] {
+  def toJsValue(t: T): JsValue
 
-  override def toJson(t: T): String = Json.prettyPrint(toJsValue(t))
+  def fromJson(jsValue: JsValue): T
+
+  def toJson(t: T): String = Json.prettyPrint(toJsValue(t))
 
 
-  override def fromJson(json: String): T = {
+  def fromJson(json: String): T = {
     val jsObject: JsObject = Json.parse(json).as[JsObject]
     fromJson(jsObject)
   }
 
 
-  override def seqToJson(seq: Seq[T]): String = {
+  def seqToJson(seq: Seq[T]): String = {
     val jsValues: Seq[JsValue] = seq.map(t => toJsValue(t))
     val jsValue: JsValue = Json.toJson(jsValues)
     Json.prettyPrint(jsValue)
@@ -36,7 +36,7 @@ abstract class JsonParserBase[T] extends JsonParser[T] {
   /**
     * @param fileName Assumed to be in resources
     */
-  override def readSeqFromFile(fileName: String): Seq[T] = {
+  def readSeqFromFile(fileName: String): Seq[T] = {
     val inputStream: InputStream = getClass.getResourceAsStream(fileName)
     val jsArray: JsArray = Json.parse(inputStream).as[JsArray]
     jsArray.value.map(jsValue => fromJson(jsValue.as[JsObject]))
