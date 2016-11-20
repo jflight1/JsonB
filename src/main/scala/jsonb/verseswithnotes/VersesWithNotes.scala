@@ -1,38 +1,19 @@
 package jsonb.verseswithnotes
 
-import jsonb.{VerseRange, SingleVerse}
+import jsonb.{JsonParserBase, VerseRange, SingleVerse}
 import jsonb.niv.NivVerse
 import jsonb.rsb.RsbNote
+import play.api.libs.json.JsValue
 
 
 /**
-  * A verse and associated notes
+  * Verses and associated notes
   */
-//case class VerseWithNotes(singleVerse: SingleVerse, nivVerse: NivVerse, rsbNotes: Seq[RsbNote])
+case class VersesWithNotes(singleVerses: Seq[SingleVerse], rsbNotes: Seq[RsbNote])
 
 
-object VersesWithNotes {
+object VersesWithNotesParser extends JsonParserBase[VersesWithNotes] {
+  override def toJsValue(t: VersesWithNotes): JsValue = ???
 
-  /**
-    * for each verse, all the RsbNotes for which the verse is first
-    */
-/*
-  def versesWithNotesInRange(verseRange: VerseRange): Seq[(SingleVerse, Seq[RsbNote])] = {
-
-    // the notes with the first verse it applies to
-    val notesAndFirstVerse: Seq[(RsbNote, SingleVerse)] = verseRange.rsbNotes
-      .map(rsbNote => (rsbNote, verseRange.intersection(rsbNote.verseRange).get.start))
-
-    verseRange.singleVerses
-      .map(singleVerse => {
-        val rsbNotesForVerse: Seq[RsbNote] = notesAndFirstVerse
-          .filter(noteAndFirstVerse => noteAndFirstVerse._2 == singleVerse)
-          .map(noteAndFirstVerse => noteAndFirstVerse._1)
-
-        (singleVerse, rsbNotesForVerse)
-      })
-  }
-*/
-
-
+  override def fromJson(jsValue: JsValue): VersesWithNotes = ???
 }

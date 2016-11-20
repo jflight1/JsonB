@@ -1,6 +1,7 @@
 package jsonb
 
 import jsonb.rsb.RsbNote
+import jsonb.verseswithnotes.VersesWithNotes
 import play.api.libs.json.{Json, JsString, JsValue}
 
 
@@ -77,7 +78,7 @@ case class VerseRange(start: SingleVerse, end: SingleVerse)
   /**
     * For each verse, the RsbNotes for which that verse is the first the note applies to.
     */
-  lazy val versesWithNotes: Seq[(SingleVerse, Seq[RsbNote])] = {
+  lazy val singleVersesWithNotes: Seq[(SingleVerse, Seq[RsbNote])] = {
 
     // the notes with the first verse it applies to
     val notesAndFirstVerse: Seq[(RsbNote, SingleVerse)] = this.rsbNotes
@@ -98,8 +99,8 @@ case class VerseRange(start: SingleVerse, end: SingleVerse)
     * Like versesWithNotes but verses that don't have any notes are grouped with the previous verse that did
     * so we get a Seq of verses with a Seq of RsbNotes
     */
-  lazy val compactVersesWithNotes: Seq[(Seq[SingleVerse], Seq[RsbNote])] =
-    CompactVersesWithNotes.get(versesWithNotes)
+  lazy val versesWithNotes: Seq[VersesWithNotes] =
+    VerseRangeVersesWithNotes.get(singleVersesWithNotes)
 
 }
 
@@ -107,9 +108,9 @@ case class VerseRange(start: SingleVerse, end: SingleVerse)
 /**
   * We separate this from compactVersesWithNotes above just for testing
   */
-object CompactVersesWithNotes {
+object VerseRangeVersesWithNotes {
   def get(versesWithNotes: Seq[(SingleVerse, Seq[RsbNote])])
-  : Seq[(Seq[SingleVerse], Seq[RsbNote])] = {
+  : Seq[VersesWithNotes] = {
 
     // add an index to the tuples
     val versesWithNotesAndIndex: Seq[(SingleVerse, Seq[RsbNote], Int)] =
@@ -135,7 +136,7 @@ object CompactVersesWithNotes {
     versesWithNotesAndIndex
       // keep the first and one with non-empty notes
       .filter(tuple => tuple._3 == 0 || tuple._2.nonEmpty)
-      .map(tuple => (versesForIndex(tuple._3), tuple._2))
+      .map(tuple => VersesWithNotes(versesForIndex(tuple._3), tuple._2))
 
   }
 }

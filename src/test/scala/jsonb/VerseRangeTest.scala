@@ -3,6 +3,7 @@ package jsonb
 import jsonb.Books._
 import jsonb.Assert._
 import jsonb.rsb.RsbNote
+import jsonb.verseswithnotes.VersesWithNotes
 import org.junit.runner.RunWith
 import org.scalatest.FunSuite
 import org.scalatest.junit.JUnitRunner
@@ -165,7 +166,7 @@ class VerseRangeTest extends FunSuite {
 
   // convert versesWithNotes results to strings for easier testing
   private def sVersesWithNotes(verseRange: VerseRange): Seq[(String, Seq[String])] = {
-    val versesWithNotes: Seq[(SingleVerse, Seq[RsbNote])] = verseRange.versesWithNotes
+    val versesWithNotes: Seq[(SingleVerse, Seq[RsbNote])] = verseRange.singleVersesWithNotes
     versesWithNotes.map(tuple => {
       val sRsbNotes: Seq[String] = tuple._2.map(rsbNote => rsbNote.verseRange.toString)
       (tuple._1.toString, sRsbNotes)
@@ -234,14 +235,14 @@ class VerseRangeTest extends FunSuite {
     assertEquals(
       // expected
       Seq(
-        (Seq(singleVerses(0), singleVerses(1)), Nil),
-        (Seq(singleVerses(2), singleVerses(3), singleVerses(4)), rsbNotes(0)),
-        (Seq(singleVerses(5)), rsbNotes(1)),
-        (Seq(singleVerses(6), singleVerses(7)), rsbNotes(2))
+        VersesWithNotes(Seq(singleVerses(0), singleVerses(1)), Nil),
+        VersesWithNotes(Seq(singleVerses(2), singleVerses(3), singleVerses(4)), rsbNotes(0)),
+        VersesWithNotes(Seq(singleVerses(5)), rsbNotes(1)),
+        VersesWithNotes(Seq(singleVerses(6), singleVerses(7)), rsbNotes(2))
       ),
 
       // actual.  no notes on first or last
-      CompactVersesWithNotes.get(Seq(
+      VerseRangeVersesWithNotes.get(Seq(
         (singleVerses(0), Nil),
         (singleVerses(1), Nil),
         (singleVerses(2), rsbNotes(0)),
@@ -256,13 +257,13 @@ class VerseRangeTest extends FunSuite {
     assertEquals(
       // expected
       Seq(
-        (Seq(singleVerses(2), singleVerses(3)), rsbNotes(0)),
-        (Seq(singleVerses(4)), rsbNotes(1)),
-        (Seq(singleVerses(5)), rsbNotes(2))
+        VersesWithNotes(Seq(singleVerses(2), singleVerses(3)), rsbNotes(0)),
+        VersesWithNotes(Seq(singleVerses(4)), rsbNotes(1)),
+        VersesWithNotes(Seq(singleVerses(5)), rsbNotes(2))
       ),
 
       // actual.  notes on first or last
-      CompactVersesWithNotes.get(Seq(
+      VerseRangeVersesWithNotes.get(Seq(
         (singleVerses(2), rsbNotes(0)),
         (singleVerses(3), Nil),
         (singleVerses(4), rsbNotes(1)),
@@ -272,25 +273,27 @@ class VerseRangeTest extends FunSuite {
 
     assertEquals(
       // expected
-      Seq((Seq(singleVerses(2)), rsbNotes(0))),
+      Seq(VersesWithNotes(Seq(singleVerses(2)), rsbNotes(0))),
       // actual
-      CompactVersesWithNotes.get(Seq((singleVerses(2), rsbNotes(0)))))
+      VerseRangeVersesWithNotes.get(Seq((singleVerses(2), rsbNotes(0)))))
 
     assertEquals(
       // expected
-      Seq((Seq(singleVerses(2)), Nil)),
+      Seq(VersesWithNotes(Seq(singleVerses(2)), Nil)),
       // actual
-      CompactVersesWithNotes.get(Seq((singleVerses(2), Nil))))
+      VerseRangeVersesWithNotes.get(Seq((singleVerses(2), Nil))))
 
 
     // Test a real VerseRange
     val verseRange = VerseRange(SingleVerse(hebrews, 10, 26), SingleVerse(hebrews, 10, 33))
-    val compactVersesWithNotes: Seq[(Seq[SingleVerse], Seq[RsbNote])] = verseRange.compactVersesWithNotes
+    val compactVersesWithNotes: Seq[VersesWithNotes] = verseRange.versesWithNotes
 
     // convert the results to strings for easier testing
     val compactVersesWithNotesAsStrings: Seq[(Seq[String], Seq[String])] =
       compactVersesWithNotes
-        .map(tuple => (tuple._1.map(singleVerse => singleVerse.toString), tuple._2.map(rsbNote => rsbNote.verseRange.toString)))
+        .map(versesWithNotes =>
+          (versesWithNotes.singleVerses.map(singleVerse => singleVerse.toString),
+          versesWithNotes.rsbNotes.map(rsbNote => rsbNote.verseRange.toString)))
 
     assertEquals(
       // expected

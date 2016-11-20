@@ -3,30 +3,17 @@
 To do
 -----
 
-verses with notes
+generate VersesAndNotes json file for every day of the year
+  date, BibleSection{old,new,etc.} -> VersesAndNotes or
+  monthInt, dayInt, BibleSection --> VersesAndNotes
 
-VerseRange
---> all rsbNotes in range
---> first verse to which the note applies.  not necessarily rsbNote.verseRange.start
+  VersesAndNotes -> json
+  save files all days, BibleSection
+    months/day/BibleSection.json or
+    months/day_BibleSection.json or
 
-notes and first verse for note:
-Seq[(RsbNote, SingleVerse)]
-
-for each verse, all the RsbNotes for which the verse is first
---> Seq[(SingleVerse, Seq[RsbNote])]
-
-we want this in the end
---> Seq[(Seq[SingleVerse], Seq[RsbNote])]
-
-
-
-
---> all SingleVerses in the range
-  --> NivVerse for each SingleVerses
-  --> RsbNotes for each verse.  don't include a note with a verse if it's already present for anothre verse
-
-
-
+    01/26_old.json
+    01/26_new.json
 
 
 Notes
@@ -68,23 +55,4 @@ https://www.biblegateway.com/exbib/?pub=reformation-study-bible&chunk=187307
 this works so we don't need to know how many chapters or verse each book has:
   https://www.biblegateway.com/exbib/contents/?osis=Ruth.1.1-Ruth.100.100
 
-
-9/15
-
-  - May need more naming info in Book
-    {
-      oneYearBibleName: "1corinthians",
-      bibleGatewayName: "1 Corinthians",
-      exbibName: "1Cor",
-      nivJsonName: "1 Corinthians"
-    },
-    {
-      oneYearBibleName: "song",
-      bibleGatewayName: "Song of Songs",
-      exbibName: "Song",
-      nivJsonName: "Song of Solomon"
-    }
-
-
-	
 
