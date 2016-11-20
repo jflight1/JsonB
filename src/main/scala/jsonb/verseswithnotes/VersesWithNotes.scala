@@ -15,27 +15,27 @@ case class VersesWithNotes(singleVerses: Seq[SingleVerse], rsbNotes: Seq[RsbNote
 object VersesWithNotesParser extends JsonParserBase[VersesWithNotes] {
   override def toJsValue(t: VersesWithNotes): JsValue = ???
 
-  override def fromJson(jsValue: JsValue): VersesWithNotes = ???
+  override def fromJson(jsValue: JsValue): VersesWithNotes = throw new UnsupportedOperationException
 }
 
 
 object GenerateVersesWithNotesFiles {
 
+  /**
+    * Write files like: resources/verses_with_notes/11/20_old.json
+    */
   def run(): Unit = {
     (1 to 12)
       .foreach(iMonth => {
-
-      val dayReadings: Seq[DayReading] = DayReadingParser.parseMonthJsonFile(iMonth)
-
+        val fileNameStart = "verses_with_notes\\" + Utils.paddedString(iMonth)
+        val dayReadings: Seq[DayReading] = DayReadingParser.parseMonthJsonFile(iMonth)
 
         dayReadings.foreach(dayReading => {
 
           def writeDayFile(verseRange: VerseRange, fileNameSuffix: String): Unit = {
-
-            val fileName: String = Utils.paddedString(dayReading.day) + "_" + fileNameSuffix + ".json"
             val versesWithNotes: Seq[VersesWithNotes] = verseRange.versesWithNotes
-
-//            VersesWithNotesParser.
+            val fileName: String = fileNameStart + Utils.paddedString(dayReading.day) + "_" + fileNameSuffix + ".json"
+            VersesWithNotesParser.writeSeqToFile(versesWithNotes, fileName)
           }
 
           writeDayFile(dayReading.oldTestament, "old")
@@ -43,9 +43,7 @@ object GenerateVersesWithNotesFiles {
           writeDayFile(dayReading.psalms, "psalms")
           writeDayFile(dayReading.proverbs, "proverbs")
         })
-
-
-    })
+      })
 
   }
 

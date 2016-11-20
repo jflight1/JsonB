@@ -7,17 +7,32 @@ import play.api.libs.json.{JsArray, JsObject, JsValue, Json}
 
 abstract class JsonParserBase[T] {
 
-  def toJsValue(t: T): JsValue
+  ////////////////////////     From JSON    ////////////////////////
 
   def fromJson(jsValue: JsValue): T
-
-  def toJson(t: T): String = Json.prettyPrint(toJsValue(t))
 
 
   def fromJson(json: String): T = {
     val jsObject: JsObject = Json.parse(json).as[JsObject]
     fromJson(jsObject)
   }
+
+
+  /**
+    * @param fileName Assumed to be in resources
+    */
+  def readSeqFromFile(fileName: String): Seq[T] = {
+    val inputStream: InputStream = getClass.getResourceAsStream(fileName)
+    val jsArray: JsArray = Json.parse(inputStream).as[JsArray]
+    jsArray.value.map(jsValue => fromJson(jsValue.as[JsObject]))
+  }
+
+
+  ////////////////////////     To JSON    ////////////////////////
+
+  def toJsValue(t: T): JsValue
+
+  def toJson(t: T): String = Json.prettyPrint(toJsValue(t))
 
 
   def seqToJson(seq: Seq[T]): String = {
@@ -30,16 +45,6 @@ abstract class JsonParserBase[T] {
   def seqToJsArray(seq: Seq[T]): JsArray = {
     val jsValues: Seq[JsValue] = seq.map(t => toJsValue(t))
     Json.toJson(jsValues).as[JsArray]
-  }
-
-
-  /**
-    * @param fileName Assumed to be in resources
-    */
-  def readSeqFromFile(fileName: String): Seq[T] = {
-    val inputStream: InputStream = getClass.getResourceAsStream(fileName)
-    val jsArray: JsArray = Json.parse(inputStream).as[JsArray]
-    jsArray.value.map(jsValue => fromJson(jsValue.as[JsObject]))
   }
 
 
