@@ -1,6 +1,6 @@
 package jsonb
 
-import java.io.InputStream
+import java.io.{PrintWriter, InputStream}
 
 import play.api.libs.json.{JsArray, JsObject, JsValue, Json}
 
@@ -40,7 +40,16 @@ abstract class JsonParserBase[T] extends JsonParser[T] {
     val inputStream: InputStream = getClass.getResourceAsStream(fileName)
     val jsArray: JsArray = Json.parse(inputStream).as[JsArray]
     jsArray.value.map(jsValue => fromJson(jsValue.as[JsObject]))
+  }
 
 
+  /**
+    * @param fileName Relative to resources
+    */
+  def writeSeqToFile(seq: Seq[T], fileName: String): Unit = {
+    val json: String = seqToJson(seq)
+    val printWriter: PrintWriter = new PrintWriter("src\\main\\resources\\" + fileName)
+    printWriter.println(json)
+    printWriter.close()
   }
 }

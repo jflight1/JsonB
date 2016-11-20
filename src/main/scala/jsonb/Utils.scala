@@ -23,4 +23,9 @@ object Utils {
     }
   }
 
+
+  def paddedString(i: Int): String =
+    if (i < 10) "0" + i
+    else i.toString
+
 }
