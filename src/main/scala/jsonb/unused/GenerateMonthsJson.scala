@@ -13,11 +13,11 @@ object GenerateMonthsJson {
     (1 to 12).foreach(i => {
       println(i)
       val sMonthNum = if (i < 10) "0" + i else "" + i
-      val inFileName = "/months/txt/" + sMonthNum + ".txt"
+      val inFileName = "/day_reading/txt/" + sMonthNum + ".txt"
       val dayReadings: List[DayReading] = DayReadingParser.parseMonthTextFile(inFileName, i)
       val json: String = DayReadingParser.seqToJson(dayReadings)
 
-      val outFileName = "C:\\jflight\\software\\JsonB\\src\\main\\resources\\months\\json\\" + sMonthNum + ".json"
+      val outFileName = "C:\\jflight\\software\\JsonB\\src\\main\\resources\\day_reading\\json\\" + sMonthNum + ".json"
 
       val printWriter: PrintWriter = new PrintWriter(outFileName)
       printWriter.println(json)

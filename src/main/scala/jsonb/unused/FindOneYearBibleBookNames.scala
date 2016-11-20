@@ -19,7 +19,7 @@ object FindOneYearBibleBookNames {
     //  List of file names like: "/months/txt/08.txt"
     val monthTextFileNames: List[String] = iMonths.map(i => {
       val sMonthNum = if (i < 10) "0" + i else "" + i
-      "/months/txt/" + sMonthNum + ".txt"
+      "/day_reading/txt/" + sMonthNum + ".txt"
     }).toList
 
     findAll(monthTextFileNames, Nil, Nil)

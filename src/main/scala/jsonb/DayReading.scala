@@ -125,7 +125,7 @@ object DayReadingParser extends JsonParserBase[DayReading] {
 
   def parseMonthJsonFile(month: Int): Seq[DayReading] = {
     val sMonthNum = if (month < 10) "0" + month else "" + month
-    val inFileName = "/months/json/" + sMonthNum + ".json"
+    val inFileName = "/day_reading/json/" + sMonthNum + ".json"
     val inputStream: InputStream = getClass.getResourceAsStream(inFileName)
     val json: String = IOUtils.toString(inputStream, "UTF-8")
     val jsArray: JsArray = Json.parse(json).as[JsArray]
@@ -153,14 +153,14 @@ object V2FileGenerator {
 
   def generateMonthJsonFile(month: Int): Unit = {
     val sMonthNum = if (month < 10) "0" + month else "" + month
-    val inFileName = "/months/json_v1/" + sMonthNum + ".json"
+    val inFileName = "/day_reading/json_v1/" + sMonthNum + ".json"
     val inputStream: InputStream = getClass.getResourceAsStream(inFileName)
     val json: String = IOUtils.toString(inputStream, "UTF-8")
     val jsArray: JsArray = Json.parse(json).as[JsArray].head.as[JsArray]
     val dayReadings: Seq[DayReading] = jsArray.value.map(jsValue => DayReadingParser.fromJson(jsValue))
     val v2Json: String = DayReadingParser.seqToJson(dayReadings)
 
-    val fileName = "src\\main\\resources\\months\\json2\\" + sMonthNum + ".json"
+    val fileName = "src\\main\\resources\\day_reading\\json2\\" + sMonthNum + ".json"
     val printWriter: PrintWriter = new PrintWriter(fileName)
     printWriter.println(v2Json)
     printWriter.close()
@@ -186,14 +186,14 @@ object V3FileGenerator {
 
   def generateMonthJsonFile(month: Int): Unit = {
     val sMonthNum = if (month < 10) "0" + month else "" + month
-    val inFileName = "/months/json/" + sMonthNum + ".json"
+    val inFileName = "/day_reading/json/" + sMonthNum + ".json"
     val inputStream: InputStream = getClass.getResourceAsStream(inFileName)
     val json: String = IOUtils.toString(inputStream, "UTF-8")
     val jsArray: JsArray = Json.parse(json).as[JsArray]
     val dayReadings: Seq[DayReading] = jsArray.value.map(jsValue => DayReadingParser.fromJson(jsValue))
     val v3Json: String = DayReadingParser.seqToJson(dayReadings)
 
-    val fileName = "src\\main\\resources\\months\\json_v3\\" + sMonthNum + ".json"
+    val fileName = "src\\main\\resources\\day_reading\\json_v3\\" + sMonthNum + ".json"
     val printWriter: PrintWriter = new PrintWriter(fileName)
     printWriter.println(v3Json)
     printWriter.close()

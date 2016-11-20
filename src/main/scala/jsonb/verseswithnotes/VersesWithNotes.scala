@@ -13,7 +13,9 @@ case class VersesWithNotes(singleVerses: Seq[SingleVerse], rsbNotes: Seq[RsbNote
 
 
 object VersesWithNotesParser extends JsonParserBase[VersesWithNotes] {
-  override def toJsValue(t: VersesWithNotes): JsValue = ???
+
+  override def toJsValue(t: VersesWithNotes): JsValue = ??? // jlf finish
+
 
   override def fromJson(jsValue: JsValue): VersesWithNotes = throw new UnsupportedOperationException
 }

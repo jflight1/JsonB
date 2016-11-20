@@ -13,7 +13,7 @@ import scala.io.BufferedSource
 /**
   * @param index Canonical index number; starts at 1.
   * @param oneYearBibleName Name in oneyearbibleonline.com.  http://oneyearbibleonline.com/...
-  *                         Also this is the name in the daily reading files: \resources\months\txt\*.txt
+  *                         Also this is the name in the daily reading files: \resources\day_reading\txt\*.txt
   * @param exbibName Name used in the exbib api.  https://www.biblegateway.com/exbib/contents/?osis=...
   * @param hghNivName Name in hgh_niv.json
   * @param chapterNumVerses The number of verses in each chapter

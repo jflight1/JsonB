@@ -12,7 +12,7 @@ class DayReadingTest extends FunSuite {
 
 
   test("parseMonthTextFile") {
-    val dayReadings: List[DayReading] = DayReadingParser.parseMonthTextFile("/months/txt/01.txt", 1)
+    val dayReadings: List[DayReading] = DayReadingParser.parseMonthTextFile("/day_reading/txt/01.txt", 1)
     validateJanuaryDayReading(dayReadings)
   }
 
