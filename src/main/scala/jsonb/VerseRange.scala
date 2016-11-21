@@ -20,7 +20,8 @@ case class VerseRange(start: SingleVerse, end: SingleVerse)
     * The single verses for this VerseRange
     */
   lazy val singleVerses: Seq[SingleVerse] = {
-    if (start == end) Seq(start)
+    if (start == end)
+      Seq(start)
 
     else {
       start :: VerseRange(start.next, end).singleVerses.toList
