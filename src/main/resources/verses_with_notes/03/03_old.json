@@ -1,5 +1,47 @@
 [ {
-  "singleVerses" : [ "leviticus,27,14", "leviticus,27,15", "leviticus,27,16", "leviticus,27,17", "leviticus,27,18", "leviticus,27,19", "leviticus,27,20", "leviticus,27,21", "leviticus,27,22", "leviticus,27,23", "leviticus,27,24", "leviticus,27,25", "leviticus,27,26", "leviticus,27,27" ],
+  "verses" : [ {
+    "verse" : "leviticus,27,14",
+    "text" : "\"'If a man dedicates his house as something holy to the LORD, the priest will judge its quality as good or bad. Whatever value the priest then sets, so it will remain."
+  }, {
+    "verse" : "leviticus,27,15",
+    "text" : "If the man who dedicates his house redeems it, he must add a fifth to its value, and the house will again become his."
+  }, {
+    "verse" : "leviticus,27,16",
+    "text" : "\"'If a man dedicates to the LORD part of his family land, its value is to be set according to the amount of seed required for it-fifty shekels of silver to a homer of barley seed."
+  }, {
+    "verse" : "leviticus,27,17",
+    "text" : "If he dedicates his field during the Year of Jubilee, the value that has been set remains."
+  }, {
+    "verse" : "leviticus,27,18",
+    "text" : "But if he dedicates his field after the Jubilee, the priest will determine the value according to the number of years that remain until the next Year of Jubilee, and its set value will be reduced."
+  }, {
+    "verse" : "leviticus,27,19",
+    "text" : "If the man who dedicates the field wishes to redeem it, he must add a fifth to its value, and the field will again become his."
+  }, {
+    "verse" : "leviticus,27,20",
+    "text" : "If, however, he does not redeem the field, or if he has sold it to someone else, it can never be redeemed."
+  }, {
+    "verse" : "leviticus,27,21",
+    "text" : "When the field is released in the Jubilee, it will become holy, like a field devoted to the LORD; it will become the property of the priests."
+  }, {
+    "verse" : "leviticus,27,22",
+    "text" : "\"'If a man dedicates to the LORD a field he has bought, which is not part of his family land,"
+  }, {
+    "verse" : "leviticus,27,23",
+    "text" : "the priest will determine its value up to the Year of Jubilee, and the man must pay its value on that day as something holy to the LORD."
+  }, {
+    "verse" : "leviticus,27,24",
+    "text" : "In the Year of Jubilee the field will revert to the person from whom he bought it, the one whose land it was."
+  }, {
+    "verse" : "leviticus,27,25",
+    "text" : "Every value is to be set according to the sanctuary shekel, twenty gerahs to the shekel."
+  }, {
+    "verse" : "leviticus,27,26",
+    "text" : "\"'No one, however, may dedicate the firstborn of an animal, since the firstborn already belongs to the LORD; whether an ox or a sheep, it is the LORD's."
+  }, {
+    "verse" : "leviticus,27,27",
+    "text" : "If it is one of the unclean animals, he may buy it back at its set value, adding a fifth of the value to it. If he does not redeem it, it is to be sold at its set value."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,17,1-leviticus,27,34",
     "id" : 186098,
@@ -12,7 +54,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 27\">27:1–34</a></b> The final chapter of divine instruction to Israel deals with gifts promised to God, probably by Israelites in dire distress when they made a vow. Later, they might wish to take back the property vowed. The provisions of this chapter showed when and how this could be done.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,27,28", "leviticus,27,29" ],
+  "verses" : [ {
+    "verse" : "leviticus,27,28",
+    "text" : "\"'But nothing that a man owns and devotes to the LORD -whether man or animal or family land-may be sold or redeemed; everything so devoted is most holy to the LORD."
+  }, {
+    "verse" : "leviticus,27,29",
+    "text" : "\"'No person devoted to destruction may be ransomed; he must be put to death."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,27,28",
     "id" : 186168,
@@ -20,7 +68,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 27:28\">27:28</a></b> <b>devoted.</b> Property and persons devoted to God (i.e., placed under the ban) were irrevocably to be placed in the service of God (<a class=\"bibleref\" href=\"/passage/?search=Lev 27:28\">v. 28</a>), or utterly destroyed (<a class=\"bibleref\" href=\"/passage/?search=Lev 27:29\">v. 29</a>). This solemn vow was probably pronounced by national leaders, often in time of war (<a class=\"bibleref\" href=\"/passage/?search=Num 21:2\">Num. 21:2</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 15\">1 Sam. 15</a>) or against those practicing idolatry (<a class=\"bibleref\" href=\"/passage/?search=Deut 13:16\">Deut. 13:16</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 20:17\">20:17</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,27,30", "leviticus,27,31", "leviticus,27,32", "leviticus,27,33", "leviticus,27,34" ],
+  "verses" : [ {
+    "verse" : "leviticus,27,30",
+    "text" : "\"'A tithe of everything from the land, whether grain from the soil or fruit from the trees, belongs to the LORD; it is holy to the LORD."
+  }, {
+    "verse" : "leviticus,27,31",
+    "text" : "If a man redeems any of his tithe, he must add a fifth of the value to it."
+  }, {
+    "verse" : "leviticus,27,32",
+    "text" : "The entire tithe of the herd and flock-every tenth animal that passes under the shepherd's rod-will be holy to the LORD."
+  }, {
+    "verse" : "leviticus,27,33",
+    "text" : "He must not pick out the good from the bad or make any substitution. If he does make a substitution, both the animal and its substitute become holy and cannot be redeemed.'\""
+  }, {
+    "verse" : "leviticus,27,34",
+    "text" : "These are the commands the LORD gave Moses on Mount Sinai for the Israelites."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,27,30",
     "id" : 186169,
@@ -28,7 +91,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 27:30\">27:30</a></b> <b>tithe.</b> A tenth of all agricultural produce was given to God (i.e., to the priestly tribe of Levi, <a class=\"bibleref\" href=\"/passage/?search=Num 18:21-Num 18:29\">Num. 18:21–29</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 12:6-Deut 12:18\">Deut. 12:6–18</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 14:22-Deut 14:29\">14:22–29</a> and notes).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "numbers,1,1", "numbers,1,2", "numbers,1,3", "numbers,1,4" ],
+  "verses" : [ {
+    "verse" : "numbers,1,1",
+    "text" : "The LORD spoke to Moses in the Tent of Meeting in the Desert of Sinai on the first day of the second month of the second year after the Israelites came out of Egypt. He said:"
+  }, {
+    "verse" : "numbers,1,2",
+    "text" : "\"Take a census of the whole Israelite community by their clans and families, listing every man by name, one by one."
+  }, {
+    "verse" : "numbers,1,3",
+    "text" : "You and Aaron are to number by their divisions all the men in Israel twenty years old or more who are able to serve in the army."
+  }, {
+    "verse" : "numbers,1,4",
+    "text" : "One man from each tribe, each the head of his family, is to help you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,1,1-numbers,10,10",
     "id" : 186171,
@@ -46,7 +121,52 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Num 1:1\">1:1</a></b> <b>The <span class=\"small-caps\">Lord</span> spoke to Moses.</b> Such statements occur dozens of times in Numbers. Moses was the preeminent prophet. God spoke to the prophets in visions and dreams, but with Moses he spoke face to face (<a class=\"bibleref\" href=\"/passage/?search=Num 12:8\">12:8</a>), giving him greater authority. Of all who have lived on earth, only Christ has greater authority than Moses.</p><p><b>the tent of meeting.</b> The tent shrine where God spoke to Moses (<a class=\"bibleref\" href=\"/passage/?search=Exod 29:42\">Ex. 29:42</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 40:34\">40:34</a>, <a class=\"bibleref\" href=\"/passage/?search=Exod 40:35\">35</a>). This term occurs frequently in the Pentateuch and occasionally in later books.</p><p><b>in the second year.</b> Numbers begins thirteen months after the Exodus and relates events that occurred during the next 39 years.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "numbers,1,5", "numbers,1,6", "numbers,1,7", "numbers,1,8", "numbers,1,9", "numbers,1,10", "numbers,1,11", "numbers,1,12", "numbers,1,13", "numbers,1,14", "numbers,1,15", "numbers,1,16", "numbers,1,17", "numbers,1,18", "numbers,1,19" ],
+  "verses" : [ {
+    "verse" : "numbers,1,5",
+    "text" : "These are the names of the men who are to assist you: from Reuben, Elizur son of Shedeur;"
+  }, {
+    "verse" : "numbers,1,6",
+    "text" : "from Simeon, Shelumiel son of Zurishaddai;"
+  }, {
+    "verse" : "numbers,1,7",
+    "text" : "from Judah, Nahshon son of Amminadab;"
+  }, {
+    "verse" : "numbers,1,8",
+    "text" : "from Issachar, Nethanel son of Zuar;"
+  }, {
+    "verse" : "numbers,1,9",
+    "text" : "from Zebulun, Eliab son of Helon;"
+  }, {
+    "verse" : "numbers,1,10",
+    "text" : "from the sons of Joseph: from Ephraim, Elishama son of Ammihud; from Manasseh, Gamaliel son of Pedahzur;"
+  }, {
+    "verse" : "numbers,1,11",
+    "text" : "from Benjamin, Abidan son of Gideoni;"
+  }, {
+    "verse" : "numbers,1,12",
+    "text" : "from Dan, Ahiezer son of Ammishaddai;"
+  }, {
+    "verse" : "numbers,1,13",
+    "text" : "from Asher, Pagiel son of Ocran;"
+  }, {
+    "verse" : "numbers,1,14",
+    "text" : "from Gad, Eliasaph son of Deuel;"
+  }, {
+    "verse" : "numbers,1,15",
+    "text" : "from Naphtali, Ahira son of Enan.\""
+  }, {
+    "verse" : "numbers,1,16",
+    "text" : "These were the men appointed from the community, the leaders of their ancestral tribes. They were the heads of the clans of Israel."
+  }, {
+    "verse" : "numbers,1,17",
+    "text" : "Moses and Aaron took these men whose names had been given,"
+  }, {
+    "verse" : "numbers,1,18",
+    "text" : "and they called the whole community together on the first day of the second month. The people indicated their ancestry by their clans and families, and the men twenty years old or more were listed by name, one by one,"
+  }, {
+    "verse" : "numbers,1,19",
+    "text" : "as the LORD commanded Moses. And so he counted them in the Desert of Sinai:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,1,5-numbers,1,16",
     "id" : 186174,
@@ -54,7 +174,82 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Num 1:5-Num 1:16\">1:5–16</a></b> The heads of all the tribes, except the Levites (who had been set apart for the service of the tabernacle), are listed here and also in <a class=\"bibleref\" href=\"/passage/?search=Num 2\">chs. 2</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 7\">7</a>; and <a class=\"bibleref\" href=\"/passage/?search=Num 10\">10</a>. The two tribes of Ephraim and Manasseh are listed under Joseph (v. 10), preserving the number of twelve tribes without counting the Levites.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "numbers,1,20", "numbers,1,21", "numbers,1,22", "numbers,1,23", "numbers,1,24", "numbers,1,25", "numbers,1,26", "numbers,1,27", "numbers,1,28", "numbers,1,29", "numbers,1,30", "numbers,1,31", "numbers,1,32", "numbers,1,33", "numbers,1,34", "numbers,1,35", "numbers,1,36", "numbers,1,37", "numbers,1,38", "numbers,1,39", "numbers,1,40", "numbers,1,41", "numbers,1,42", "numbers,1,43", "numbers,1,44" ],
+  "verses" : [ {
+    "verse" : "numbers,1,20",
+    "text" : "From the descendants of Reuben the firstborn son of Israel: All the men twenty years old or more who were able to serve in the army were listed by name, one by one, according to the records of their clans and families."
+  }, {
+    "verse" : "numbers,1,21",
+    "text" : "The number from the tribe of Reuben was 46,500."
+  }, {
+    "verse" : "numbers,1,22",
+    "text" : "From the descendants of Simeon: All the men twenty years old or more who were able to serve in the army were counted and listed by name, one by one, according to the records of their clans and families."
+  }, {
+    "verse" : "numbers,1,23",
+    "text" : "The number from the tribe of Simeon was 59,300."
+  }, {
+    "verse" : "numbers,1,24",
+    "text" : "From the descendants of Gad: All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families."
+  }, {
+    "verse" : "numbers,1,25",
+    "text" : "The number from the tribe of Gad was 45,650."
+  }, {
+    "verse" : "numbers,1,26",
+    "text" : "From the descendants of Judah: All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families."
+  }, {
+    "verse" : "numbers,1,27",
+    "text" : "The number from the tribe of Judah was 74,600."
+  }, {
+    "verse" : "numbers,1,28",
+    "text" : "From the descendants of Issachar: All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families."
+  }, {
+    "verse" : "numbers,1,29",
+    "text" : "The number from the tribe of Issachar was 54,400."
+  }, {
+    "verse" : "numbers,1,30",
+    "text" : "From the descendants of Zebulun: All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families."
+  }, {
+    "verse" : "numbers,1,31",
+    "text" : "The number from the tribe of Zebulun was 57,400."
+  }, {
+    "verse" : "numbers,1,32",
+    "text" : "From the sons of Joseph: From the descendants of Ephraim: All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families."
+  }, {
+    "verse" : "numbers,1,33",
+    "text" : "The number from the tribe of Ephraim was 40,500."
+  }, {
+    "verse" : "numbers,1,34",
+    "text" : "From the descendants of Manasseh: All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families."
+  }, {
+    "verse" : "numbers,1,35",
+    "text" : "The number from the tribe of Manasseh was 32,200."
+  }, {
+    "verse" : "numbers,1,36",
+    "text" : "From the descendants of Benjamin: All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families."
+  }, {
+    "verse" : "numbers,1,37",
+    "text" : "The number from the tribe of Benjamin was 35,400."
+  }, {
+    "verse" : "numbers,1,38",
+    "text" : "From the descendants of Dan: All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families."
+  }, {
+    "verse" : "numbers,1,39",
+    "text" : "The number from the tribe of Dan was 62,700."
+  }, {
+    "verse" : "numbers,1,40",
+    "text" : "From the descendants of Asher: All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families."
+  }, {
+    "verse" : "numbers,1,41",
+    "text" : "The number from the tribe of Asher was 41,500."
+  }, {
+    "verse" : "numbers,1,42",
+    "text" : "From the descendants of Naphtali: All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families."
+  }, {
+    "verse" : "numbers,1,43",
+    "text" : "The number from the tribe of Naphtali was 53,400."
+  }, {
+    "verse" : "numbers,1,44",
+    "text" : "These were the men counted by Moses and Aaron and the twelve leaders of Israel, each one representing his family."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,1,20-numbers,1,43",
     "id" : 186175,
@@ -62,7 +257,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Num 1:20-Num 1:43\">1:20–43</a></b> These verses list the number of fighting men in each tribe. Except for the differences in the numbers, these verses follow a strict formula. The tribes are listed in the same order as in <a class=\"bibleref\" href=\"/passage/?search=Num 1:1-Num 1:15\">vv. 1–15</a>, except that the tribe of Gad is now mentioned third instead of eleventh (<a class=\"bibleref\" href=\"/passage/?search=Num 1:24\">vv. 24</a>, <a class=\"bibleref\" href=\"/passage/?search=Num 1:25\">25</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "numbers,1,45", "numbers,1,46" ],
+  "verses" : [ {
+    "verse" : "numbers,1,45",
+    "text" : "All the Israelites twenty years old or more who were able to serve in Israel's army were counted according to their families."
+  }, {
+    "verse" : "numbers,1,46",
+    "text" : "The total number was 603,550."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,1,45-numbers,1,46",
     "id" : 186176,
@@ -70,7 +271,31 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Num 1:45\">1:45</a>, <a class=\"bibleref\" href=\"/passage/?search=Num 1:46\">46</a></b> These two verses give a total for the census.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "numbers,1,47", "numbers,1,48", "numbers,1,49", "numbers,1,50", "numbers,1,51", "numbers,1,52", "numbers,1,53", "numbers,1,54" ],
+  "verses" : [ {
+    "verse" : "numbers,1,47",
+    "text" : "The families of the tribe of Levi, however, were not counted along with the others."
+  }, {
+    "verse" : "numbers,1,48",
+    "text" : "The LORD had said to Moses:"
+  }, {
+    "verse" : "numbers,1,49",
+    "text" : "\"You must not count the tribe of Levi or include them in the census of the other Israelites."
+  }, {
+    "verse" : "numbers,1,50",
+    "text" : "Instead, appoint the Levites to be in charge of the tabernacle of the Testimony-over all its furnishings and everything belonging to it. They are to carry the tabernacle and all its furnishings; they are to take care of it and encamp around it."
+  }, {
+    "verse" : "numbers,1,51",
+    "text" : "Whenever the tabernacle is to move, the Levites are to take it down, and whenever the tabernacle is to be set up, the Levites shall do it. Anyone else who goes near it shall be put to death."
+  }, {
+    "verse" : "numbers,1,52",
+    "text" : "The Israelites are to set up their tents by divisions, each man in his own camp under his own standard."
+  }, {
+    "verse" : "numbers,1,53",
+    "text" : "The Levites, however, are to set up their tents around the tabernacle of the Testimony so that wrath will not fall on the Israelite community. The Levites are to be responsible for the care of the tabernacle of the Testimony.\""
+  }, {
+    "verse" : "numbers,1,54",
+    "text" : "The Israelites did all this just as the LORD commanded Moses."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,1,47-numbers,1,54",
     "id" : 186177,

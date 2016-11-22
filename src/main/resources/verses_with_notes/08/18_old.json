@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "esther,1,1" ],
+  "verses" : [ {
+    "verse" : "esther,1,1",
+    "text" : "This is what happened during the time of Xerxes, the Xerxes who ruled over 127 provinces stretching from India to Cush:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "esther,1,1",
     "id" : 189890,
@@ -7,7 +10,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Esth 1:1\">1:1</a></b> <b>Ahasuerus.</b> Also known as Xerxes (486–465 <span class=\"small-caps\">b.c.</span>), Ahasuerus was the Persian king mentioned in <a class=\"bibleref\" href=\"/passage/?search=Ezra 4:6\">Ezra 4:6</a>. He was renowned for consolidating his father Darius’s empire, for his successful building projects, and for his wars against the Greeks from 480–470 <span class=\"small-caps\">b.c.</span></p><p><b>Ethiopia.</b> In Hebrew, “Cush,” the region south of Egypt, now part of northern Sudan.</p><p><b>127 provinces.</b> The reference here to the large number of divisions within the twenty larger administrative districts, or satrapies, in the Persian Empire is intended to impress.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "esther,1,2" ],
+  "verses" : [ {
+    "verse" : "esther,1,2",
+    "text" : "At that time King Xerxes reigned from his royal throne in the citadel of Susa,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "esther,1,2",
     "id" : 189891,
@@ -15,7 +21,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Esth 1:2\">1:2</a></b> <b>Susa, the capital.</b> This acropolis, a fortified palace 120 feet above the surrounding city of Susa, was one of the three Persian capitals and the royal winter residence. It has been excavated several times since 1851.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "esther,1,3" ],
+  "verses" : [ {
+    "verse" : "esther,1,3",
+    "text" : "and in the third year of his reign he gave a banquet for all his nobles and officials. The military leaders of Persia and Media, the princes, and the nobles of the provinces were present."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "esther,1,3",
     "id" : 189892,
@@ -23,7 +32,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Esth 1:3\">1:3</a></b> <b>in the third year.</b> 483 <span class=\"small-caps\">b.c.</span></p></div>"
   } ]
 }, {
-  "singleVerses" : [ "esther,1,4", "esther,1,5", "esther,1,6", "esther,1,7", "esther,1,8" ],
+  "verses" : [ {
+    "verse" : "esther,1,4",
+    "text" : "For a full 180 days he displayed the vast wealth of his kingdom and the splendor and glory of his majesty."
+  }, {
+    "verse" : "esther,1,5",
+    "text" : "When these days were over, the king gave a banquet, lasting seven days, in the enclosed garden of the king's palace, for all the people from the least to the greatest, who were in the citadel of Susa."
+  }, {
+    "verse" : "esther,1,6",
+    "text" : "The garden had hangings of white and blue linen, fastened with cords of white linen and purple material to silver rings on marble pillars. There were couches of gold and silver on a mosaic pavement of porphyry, marble, mother-of-pearl and other costly stones."
+  }, {
+    "verse" : "esther,1,7",
+    "text" : "Wine was served in goblets of gold, each one different from the other, and the royal wine was abundant, in keeping with the king's liberality."
+  }, {
+    "verse" : "esther,1,8",
+    "text" : "By the king's command each guest was allowed to drink in his own way, for the king instructed all the wine stewards to serve each man what he wished."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "esther,1,4-esther,1,7",
     "id" : 189893,
@@ -31,7 +55,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Esth 1:4-Esth 1:7\">1:4–7</a></b> For 180 days the king ostentatiously displayed the royal wealth. The extravagant seven-day outdoor feast was the climax of the celebrations. The elaborate details about the drinking vessels and the abundance of the wine stress the king’s lavish generosity.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "esther,1,9", "esther,1,10", "esther,1,11" ],
+  "verses" : [ {
+    "verse" : "esther,1,9",
+    "text" : "Queen Vashti also gave a banquet for the women in the royal palace of King Xerxes."
+  }, {
+    "verse" : "esther,1,10",
+    "text" : "On the seventh day, when King Xerxes was in high spirits from wine, he commanded the seven eunuchs who served him-Mehuman, Biztha, Harbona, Bigtha, Abagtha, Zethar and Carcas-"
+  }, {
+    "verse" : "esther,1,11",
+    "text" : "to bring before him Queen Vashti, wearing her royal crown, in order to display her beauty to the people and nobles, for she was lovely to look at."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "esther,1,9",
     "id" : 189894,
@@ -39,7 +72,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Esth 1:9\">1:9</a></b> <b>Vashti.</b> This name, not found elsewhere, may be related to the Persian word meaning “the beloved” or “the best.” Extrabiblical sources name Ahasuerus’s queen as Amestris. He may have had other queens.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "esther,1,12" ],
+  "verses" : [ {
+    "verse" : "esther,1,12",
+    "text" : "But when the attendants delivered the king's command, Queen Vashti refused to come. Then the king became furious and burned with anger."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "esther,1,12",
     "id" : 189895,
@@ -47,7 +83,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Esth 1:12\">1:12</a></b> Reasons for Vashti’s disobedience are not given in the Hebrew text, though early Jewish interpreters explained that she was commanded to appear naked, wearing only her crown, or that she had some disfigurement. The queen’s refusal to obey introduces the theme of obedience and disobedience.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "esther,1,13", "esther,1,14", "esther,1,15", "esther,1,16", "esther,1,17", "esther,1,18" ],
+  "verses" : [ {
+    "verse" : "esther,1,13",
+    "text" : "Since it was customary for the king to consult experts in matters of law and justice, he spoke with the wise men who understood the times"
+  }, {
+    "verse" : "esther,1,14",
+    "text" : "and were closest to the king-Carshena, Shethar, Admatha, Tarshish, Meres, Marsena and Memucan, the seven nobles of Persia and Media who had special access to the king and were highest in the kingdom."
+  }, {
+    "verse" : "esther,1,15",
+    "text" : "\"According to law, what must be done to Queen Vashti?\" he asked. \"She has not obeyed the command of King Xerxes that the eunuchs have taken to her.\""
+  }, {
+    "verse" : "esther,1,16",
+    "text" : "Then Memucan replied in the presence of the king and the nobles, \"Queen Vashti has done wrong, not only against the king but also against all the nobles and the peoples of all the provinces of King Xerxes."
+  }, {
+    "verse" : "esther,1,17",
+    "text" : "For the queen's conduct will become known to all the women, and so they will despise their husbands and say, 'King Xerxes commanded Queen Vashti to be brought before him, but she would not come.'"
+  }, {
+    "verse" : "esther,1,18",
+    "text" : "This very day the Persian and Median women of the nobility who have heard about the queen's conduct will respond to all the king's nobles in the same way. There will be no end of disrespect and discord."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "esther,1,13-esther,1,14",
     "id" : 189896,
@@ -55,7 +109,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Esth 1:13\">1:13</a>, <a class=\"bibleref\" href=\"/passage/?search=Esth 1:14\">14</a> the times.</b> This expression usually refers to astrology, though in this context it probably means “the proper course to follow” (cf. <a class=\"bibleref\" href=\"/passage/?search=1Chr 12:32\">1 Chr. 12:32</a>). The satirical flavor of the narrative is evident as the king, who has just displayed all the power and glory of his magnificent kingdom, has to consult experts on matters of law and justice, and to go to the nobles (cf. <a class=\"bibleref\" href=\"/passage/?search=Ezra 7:14\">Ezra 7:14</a>) for advice on how to deal with his wife’s behavior.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "esther,1,19", "esther,1,20" ],
+  "verses" : [ {
+    "verse" : "esther,1,19",
+    "text" : "\"Therefore, if it pleases the king, let him issue a royal decree and let it be written in the laws of Persia and Media, which cannot be repealed, that Vashti is never again to enter the presence of King Xerxes. Also let the king give her royal position to someone else who is better than she."
+  }, {
+    "verse" : "esther,1,20",
+    "text" : "Then when the king's edict is proclaimed throughout all his vast realm, all the women will respect their husbands, from the least to the greatest.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "esther,1,19",
     "id" : 189897,
@@ -63,7 +123,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Esth 1:19\">1:19</a></b> <b>laws of the Persians . . . may not be repealed.</b> The permanency of royal law is an important feature in the development of the story (<a class=\"bibleref\" href=\"/passage/?search=Esth 4:11\">4:11</a>; <a class=\"bibleref\" href=\"/passage/?search=Esth 8:8\">8:8</a>). The plan to banish Vashti and to give her position to someone better, more beautiful or more obedient, had to be carried out.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "esther,1,21", "esther,1,22" ],
+  "verses" : [ {
+    "verse" : "esther,1,21",
+    "text" : "The king and his nobles were pleased with this advice, so the king did as Memucan proposed."
+  }, {
+    "verse" : "esther,1,22",
+    "text" : "He sent dispatches to all parts of the kingdom, to each province in its own script and to each people in its own language, proclaiming in each people's tongue that every man should be ruler over his own household."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "esther,1,21-esther,1,22",
     "id" : 189898,
@@ -71,7 +137,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Esth 1:21\">1:21</a>, <a class=\"bibleref\" href=\"/passage/?search=Esth 1:22\">22</a> letters to all the royal provinces.</b> The Persian postal system, renowned for its efficiency, was used to publish the irrevocable royal edicts (<a class=\"bibleref\" href=\"/passage/?search=Esth 3:12-Esth 3:14\">3:12–14</a>; <a class=\"bibleref\" href=\"/passage/?search=Esth 8:9\">8:9</a>, <a class=\"bibleref\" href=\"/passage/?search=Esth 8:10\">10</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Esth 9:20\">9:20</a>, <a class=\"bibleref\" href=\"/passage/?search=Esth 9:30\">30</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "esther,2,1", "esther,2,2", "esther,2,3", "esther,2,4" ],
+  "verses" : [ {
+    "verse" : "esther,2,1",
+    "text" : "Later when the anger of King Xerxes had subsided, he remembered Vashti and what she had done and what he had decreed about her."
+  }, {
+    "verse" : "esther,2,2",
+    "text" : "Then the king's personal attendants proposed, \"Let a search be made for beautiful young virgins for the king."
+  }, {
+    "verse" : "esther,2,3",
+    "text" : "Let the king appoint commissioners in every province of his realm to bring all these beautiful girls into the harem at the citadel of Susa. Let them be placed under the care of Hegai, the king's eunuch, who is in charge of the women; and let beauty treatments be given to them."
+  }, {
+    "verse" : "esther,2,4",
+    "text" : "Then let the girl who pleases the king be queen instead of Vashti.\" This advice appealed to the king, and he followed it."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "esther,2,1",
     "id" : 189899,
@@ -79,7 +157,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Esth 2:1\">2:1</a></b> <b>abated.</b> The use of the same rare verb in <a class=\"bibleref\" href=\"/passage/?search=Esth 7:10\">7:10</a> suggests a parallel between the dismissal of Vashti and the hanging of Haman.</p><p><b>he remembered Vashti.</b> The king may have regretted his actions, but it was too late; the legislation had made his actions permanent.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "esther,2,5", "esther,2,6" ],
+  "verses" : [ {
+    "verse" : "esther,2,5",
+    "text" : "Now there was in the citadel of Susa a Jew of the tribe of Benjamin, named Mordecai son of Jair, the son of Shimei, the son of Kish,"
+  }, {
+    "verse" : "esther,2,6",
+    "text" : "who had been carried into exile from Jerusalem by Nebuchadnezzar king of Babylon, among those taken captive with Jehoiachin king of Judah."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "esther,2,5",
     "id" : 189900,
@@ -87,7 +171,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Esth 2:5\">2:5</a></b> <b>Mordecai.</b> A name derived from Marduk, the Babylonian city-god. Mordecai, like Esther (Hadassah), may also have had a Jewish name. The discovery in ancient texts (including one dated about 485 <span class=\"small-caps\">b.c.</span>) of the Babylonian personal name, Mardukaya, and the discovery of an archive of texts in Nippur containing the names of Jews from the time of Artaxerxes I and Darius, point to the authenticity of Mordecai’s name and to the historicity of the events behind the story. Mordecai was a Jew living in the citadel, which may imply that he was a Persian official.</p><p><b>Jair . . . Shimei . . . Kish.</b> The names in his genealogy may refer to his remote rather than immediate genealogy (Shimei, <a class=\"bibleref\" href=\"/passage/?search=2Sam 16:5-2Sam 16:14\">2 Sam. 16:5–14</a>; Kish, <a class=\"bibleref\" href=\"/passage/?search=1Sam 9:1-1Sam 9:2\">1 Sam. 9:1–2</a>; <a class=\"bibleref\" href=\"/passage/?search=1Chr 8:33\">1 Chr. 8:33</a>). Kish may well have been an earlier ancestor, rather than the one carried into exile. That Mordecai’s family was “carried away . . . with Jeconiah” (King Jehoiachin) may mean that his family was among the Judean nobility (v. 6; <a class=\"bibleref\" href=\"/passage/?search=2Kgs 24:6-2Kgs 24:17\">2 Kin. 24:6–17</a>; <a class=\"bibleref\" href=\"/passage/?search=2Kgs 25:27-2Kgs 25:30\">25:27–30</a>). Mordecai’s connection with Saul, who was also a Benjaminite, takes on great significance when we encounter Haman, Mordecai’s enemy, who was a distant relative of Agag, the Amalekite, Saul’s enemy (3:1 note; Introduction: Characteristics and Themes).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "esther,2,7", "esther,2,8" ],
+  "verses" : [ {
+    "verse" : "esther,2,7",
+    "text" : "Mordecai had a cousin named Hadassah, whom he had brought up because she had neither father nor mother. This girl, who was also known as Esther, was lovely in form and features, and Mordecai had taken her as his own daughter when her father and mother died."
+  }, {
+    "verse" : "esther,2,8",
+    "text" : "When the king's order and edict had been proclaimed, many girls were brought to the citadel of Susa and put under the care of Hegai. Esther also was taken to the king's palace and entrusted to Hegai, who had charge of the harem."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "esther,2,7",
     "id" : 189901,
@@ -95,7 +185,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Esth 2:7\">2:7</a></b> <b>Hadassah.</b> Esther’s Hebrew name meaning ‘‘myrtle.”</p><p><b>Esther.</b> Perhaps derived from the Persian word for “star,” or a form of Ishtar, a Babylonian goddess.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "esther,2,9", "esther,2,10", "esther,2,11" ],
+  "verses" : [ {
+    "verse" : "esther,2,9",
+    "text" : "The girl pleased him and won his favor. Immediately he provided her with her beauty treatments and special food. He assigned to her seven maids selected from the king's palace and moved her and her maids into the best place in the harem."
+  }, {
+    "verse" : "esther,2,10",
+    "text" : "Esther had not revealed her nationality and family background, because Mordecai had forbidden her to do so."
+  }, {
+    "verse" : "esther,2,11",
+    "text" : "Every day he walked back and forth near the courtyard of the harem to find out how Esther was and what was happening to her."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "esther,2,9",
     "id" : 189902,
@@ -103,7 +202,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Esth 2:9\">2:9</a></b> <b>favor.</b> A secular use of the Hebrew word for covenant loyalty (<i>hesed,</i> <a class=\"bibleref\" href=\"/passage/?search=Exod 15:13\">Ex. 15:13</a> note). Pleasing the king and gaining his favor, so necessary for survival in Ahasuerus’s empire, can be seen as signs of God’s providential care and leading of Esther (cf. v. 17; 5:2; contrast the more explicit references to God’s providence in <a class=\"bibleref\" href=\"/passage/?search=Dan 1:9\">Dan. 1:9</a>).</p><p><b>her portion of food.</b> Esther’s reception of special portions of food contrasts with her intentional fast in 4:16. Unlike Daniel, Esther did not follow Jewish dietary laws (v. 10).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "esther,2,12", "esther,2,13", "esther,2,14", "esther,2,15", "esther,2,16", "esther,2,17" ],
+  "verses" : [ {
+    "verse" : "esther,2,12",
+    "text" : "Before a girl's turn came to go in to King Xerxes, she had to complete twelve months of beauty treatments prescribed for the women, six months with oil of myrrh and six with perfumes and cosmetics."
+  }, {
+    "verse" : "esther,2,13",
+    "text" : "And this is how she would go to the king: Anything she wanted was given her to take with her from the harem to the king's palace."
+  }, {
+    "verse" : "esther,2,14",
+    "text" : "In the evening she would go there and in the morning return to another part of the harem to the care of Shaashgaz, the king's eunuch who was in charge of the concubines. She would not return to the king unless he was pleased with her and summoned her by name."
+  }, {
+    "verse" : "esther,2,15",
+    "text" : "When the turn came for Esther (the girl Mordecai had adopted, the daughter of his uncle Abihail) to go to the king, she asked for nothing other than what Hegai, the king's eunuch who was in charge of the harem, suggested. And Esther won the favor of everyone who saw her."
+  }, {
+    "verse" : "esther,2,16",
+    "text" : "She was taken to King Xerxes in the royal residence in the tenth month, the month of Tebeth, in the seventh year of his reign."
+  }, {
+    "verse" : "esther,2,17",
+    "text" : "Now the king was attracted to Esther more than to any of the other women, and she won his favor and approval more than any of the other virgins. So he set a royal crown on her head and made her queen instead of Vashti."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "esther,2,12",
     "id" : 189903,
@@ -111,7 +228,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Esth 2:12\">2:12</a></b> The elaborate preparations are in keeping with the other excesses of the court (<a class=\"bibleref\" href=\"/passage/?search=Esth 1:4-Esth 1:8\">1:4–8</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "esther,2,18" ],
+  "verses" : [ {
+    "verse" : "esther,2,18",
+    "text" : "And the king gave a great banquet, Esther's banquet, for all his nobles and officials. He proclaimed a holiday throughout the provinces and distributed gifts with royal liberality."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "esther,2,18",
     "id" : 189904,
@@ -119,7 +239,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Esth 2:18\">2:18</a></b> Esther’s accession to the throne, which is celebrated with a banquet, contrasts with Vashti’s banquet in <a class=\"bibleref\" href=\"/passage/?search=Esth 1:9\">1:9</a>.</p><p><b>a remission.</b> Lit. “a giving of rest,” a celebration that may have included remission of taxes, giving gifts (probably food), and other favors. These celebrations foreshadow the great banquet and rest for the Jews in <a class=\"bibleref\" href=\"/passage/?search=Esth 9:16-Esth 9:18\">9:16–18</a>, <a class=\"bibleref\" href=\"/passage/?search=Esth 9:22\">22</a>. See Introduction: Characteristics and Themes.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "esther,2,19", "esther,2,20", "esther,2,21", "esther,2,22" ],
+  "verses" : [ {
+    "verse" : "esther,2,19",
+    "text" : "When the virgins were assembled a second time, Mordecai was sitting at the king's gate."
+  }, {
+    "verse" : "esther,2,20",
+    "text" : "But Esther had kept secret her family background and nationality just as Mordecai had told her to do, for she continued to follow Mordecai's instructions as she had done when he was bringing her up."
+  }, {
+    "verse" : "esther,2,21",
+    "text" : "During the time Mordecai was sitting at the king's gate, Bigthana and Teresh, two of the king's officers who guarded the doorway, became angry and conspired to assassinate King Xerxes."
+  }, {
+    "verse" : "esther,2,22",
+    "text" : "But Mordecai found out about the plot and told Queen Esther, who in turn reported it to the king, giving credit to Mordecai."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "esther,2,19",
     "id" : 189905,
@@ -127,7 +259,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Esth 2:19\">2:19</a></b> <b>at the king’s gate.</b> This expression (cf. <a class=\"bibleref\" href=\"/passage/?search=Esth 2:21\">v. 21</a>; <a class=\"bibleref\" href=\"/passage/?search=Esth 3:2\">3:2</a>; <a class=\"bibleref\" href=\"/passage/?search=Esth 5:9\">5:9</a>, <a class=\"bibleref\" href=\"/passage/?search=Esth 5:13\">13</a>; <a class=\"bibleref\" href=\"/passage/?search=Esth 6:10\">6:10</a>, <a class=\"bibleref\" href=\"/passage/?search=Esth 6:12\">12</a>) may imply that Mordecai had been made a palace official, a position that not only enabled him to discover the conspiracy to assassinate the king (v. 21), but also may have incited Haman’s jealousy (<a class=\"bibleref\" href=\"/passage/?search=Esth 5:13\">5:13</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "esther,2,23" ],
+  "verses" : [ {
+    "verse" : "esther,2,23",
+    "text" : "And when the report was investigated and found to be true, the two officials were hanged on a gallows. All this was recorded in the book of the annals in the presence of the king."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "esther,2,23",
     "id" : 189906,
@@ -135,7 +270,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Esth 2:23\">2:23</a></b> <b>on the gallows.</b> Lit. “on a tree.” This refers to impalement on wooden stakes, a Persian and Assyrian form of execution. To the Jews, this would be a sign that the two officials were under God’s curse (<a class=\"bibleref\" href=\"/passage/?search=Deut 21:22\">Deut. 21:22</a>, <a class=\"bibleref\" href=\"/passage/?search=Deut 21:23\">23</a> and note), confirming the appropriateness of Mordecai’s loyalty to the pagan king.</p><p><b>recorded in the book of the chronicles.</b> Mordecai was not rewarded at this time (6:1–11); instead, the account of Haman’s promotion is given (3:1).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "esther,3,1" ],
+  "verses" : [ {
+    "verse" : "esther,3,1",
+    "text" : "After these events, King Xerxes honored Haman son of Hammedatha, the Agagite, elevating him and giving him a seat of honor higher than that of all the other nobles."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "esther,3,1",
     "id" : 189907,
@@ -143,7 +281,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Esth 3:1\">3:1</a></b> <b>Haman the Agagite.</b> Although the names “Haman” and “Hammedatha” may be Persian, the identification of Haman as “the Agagite” suggests an important association with Agag, the king of the Amalekites, the archenemies of Israel, who were opposed by Saul (<a class=\"bibleref\" href=\"/passage/?search=Exod 17:8-Exod 17:16\">Ex. 17:8–16</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 25:17-Deut 25:19\">Deut. 25:17–19</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 14:47-1Sam 15:35\">1 Sam. 14:47–15:35</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "esther,3,2", "esther,3,3", "esther,3,4", "esther,3,5", "esther,3,6" ],
+  "verses" : [ {
+    "verse" : "esther,3,2",
+    "text" : "All the royal officials at the king's gate knelt down and paid honor to Haman, for the king had commanded this concerning him. But Mordecai would not kneel down or pay him honor."
+  }, {
+    "verse" : "esther,3,3",
+    "text" : "Then the royal officials at the king's gate asked Mordecai, \"Why do you disobey the king's command?\""
+  }, {
+    "verse" : "esther,3,4",
+    "text" : "Day after day they spoke to him but he refused to comply. Therefore they told Haman about it to see whether Mordecai's behavior would be tolerated, for he had told them he was a Jew."
+  }, {
+    "verse" : "esther,3,5",
+    "text" : "When Haman saw that Mordecai would not kneel down or pay him honor, he was enraged."
+  }, {
+    "verse" : "esther,3,6",
+    "text" : "Yet having learned who Mordecai's people were, he scorned the idea of killing only Mordecai. Instead Haman looked for a way to destroy all Mordecai's people, the Jews, throughout the whole kingdom of Xerxes."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "esther,3,2",
     "id" : 189908,
@@ -151,7 +304,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Esth 3:2\">3:2</a></b> <b>Mordecai did not bow down or pay homage.</b> Mordecai’s refusal to honor Haman cannot be explained on the basis of Old Testament law, since Jews did not regard bowing before kings and other honored persons as a violation of the first and second commandments (<a class=\"bibleref\" href=\"/passage/?search=Exod 20:3-Exod 20:6\">Ex. 20:3–6</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 25:23\">1 Sam. 25:23</a>; <a class=\"bibleref\" href=\"/passage/?search=2Sam 18:28\">2 Sam. 18:28</a>; <a class=\"bibleref\" href=\"/passage/?search=2Kgs 4:37\">2 Kin. 4:37</a>). Haman and Mordecai are best understood as representatives of two hostile nations—Israel and its enemy Amalek, a nation under divine curse (v. 1 note). Mordecai’s refusal to bow down to his hereditary enemy because he (Mordecai) “was a Jew” is understandable (v. 4). Similarly, Haman’s seemingly excessive passion to destroy the entire Jewish nation for Mordecai’s insolence is explained (v. 6).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "esther,3,7", "esther,3,8" ],
+  "verses" : [ {
+    "verse" : "esther,3,7",
+    "text" : "In the twelfth year of King Xerxes, in the first month, the month of Nisan, they cast the pur (that is, the lot) in the presence of Haman to select a day and month. And the lot fell on the twelfth month, the month of Adar."
+  }, {
+    "verse" : "esther,3,8",
+    "text" : "Then Haman said to King Xerxes, \"There is a certain people dispersed and scattered among the peoples in all the provinces of your kingdom whose customs are different from those of all other people and who do not obey the king's laws; it is not in the king's best interest to tolerate them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "esther,3,7",
     "id" : 189909,
@@ -159,7 +318,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Esth 3:7\">3:7</a></b> <b>Pur (that is, they cast lots).</b> Haman used the ancient practice of casting lots (<a class=\"bibleref\" href=\"/passage/?search=1Sam 14:41-1Sam 14:42\">1 Sam. 14:41–42</a>; <a class=\"bibleref\" href=\"/passage/?search=Prov 16:33\">Prov. 16:33</a>) to determine the most propitious time to set in motion his plan to destroy the Jews. The plural form of <i>Pur, Purim,</i> is the name of the celebration that commemorates the death of Haman, the enemy of all the Jews (9:23–32).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "esther,3,9" ],
+  "verses" : [ {
+    "verse" : "esther,3,9",
+    "text" : "If it pleases the king, let a decree be issued to destroy them, and I will put ten thousand talents of silver into the royal treasury for the men who carry out this business.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "esther,3,9",
     "id" : 189910,
@@ -167,7 +329,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Esth 3:9\">3:9</a></b> <b>10,000 talents of silver.</b> This enormous bribe is calculated to have been about two-thirds the annual revenue of the Persian Empire under King Darius.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "esther,3,10", "esther,3,11" ],
+  "verses" : [ {
+    "verse" : "esther,3,10",
+    "text" : "So the king took his signet ring from his finger and gave it to Haman son of Hammedatha, the Agagite, the enemy of the Jews."
+  }, {
+    "verse" : "esther,3,11",
+    "text" : "\"Keep the money,\" the king said to Haman, \"and do with the people as you please.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "esther,3,10",
     "id" : 189911,
@@ -175,7 +343,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Esth 3:10\">3:10</a></b> <b>signet ring.</b> Yet another of the king’s impulsive responses authorized Haman to issue royal edicts (cf. <a class=\"bibleref\" href=\"/passage/?search=Gen 41:42\">Gen. 41:42</a>). The repetition of Haman’s full name together with the added phrase, “the enemy of the Jews,” underlines the terrible predicament of the Jews at this point.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "esther,3,12" ],
+  "verses" : [ {
+    "verse" : "esther,3,12",
+    "text" : "Then on the thirteenth day of the first month the royal secretaries were summoned. They wrote out in the script of each province and in the language of each people all Haman's orders to the king's satraps, the governors of the various provinces and the nobles of the various peoples. These were written in the name of King Xerxes himself and sealed with his own ring."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "esther,3,12-esther,3,14",
     "id" : 189912,
@@ -183,7 +354,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Esth 3:12-Esth 3:14\">3:12–14</a></b> Haman’s plans were set in motion. The elaborate descriptive language (e.g., the multiple verbs in the edict “to destroy, to kill, and to annihilate”) highlights the painfulness of the senseless edict and emphasizes the extreme danger to God’s covenant people. See Introduction: Characteristics and Themes.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "esther,3,13", "esther,3,14", "esther,3,15" ],
+  "verses" : [ {
+    "verse" : "esther,3,13",
+    "text" : "Dispatches were sent by couriers to all the king's provinces with the order to destroy, kill and annihilate all the Jews-young and old, women and little children-on a single day, the thirteenth day of the twelfth month, the month of Adar, and to plunder their goods."
+  }, {
+    "verse" : "esther,3,14",
+    "text" : "A copy of the text of the edict was to be issued as law in every province and made known to the people of every nationality so they would be ready for that day."
+  }, {
+    "verse" : "esther,3,15",
+    "text" : "Spurred on by the king's command, the couriers went out, and the edict was issued in the citadel of Susa. The king and Haman sat down to drink, but the city of Susa was bewildered."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "esther,3,13",
     "id" : 189913,

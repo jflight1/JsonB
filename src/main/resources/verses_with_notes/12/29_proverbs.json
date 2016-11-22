@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "proverbs,31,8", "proverbs,31,9" ],
+  "verses" : [ {
+    "verse" : "proverbs,31,8",
+    "text" : "\"Speak up for those who cannot speak for themselves, for the rights of all who are destitute."
+  }, {
+    "verse" : "proverbs,31,9",
+    "text" : "Speak up and judge fairly; defend the rights of the poor and needy.\" Epilogue: The Wife of Noble Character"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,31,8-proverbs,31,9",
     "id" : 192362,

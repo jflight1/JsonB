@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,31,1" ],
+  "verses" : [ {
+    "verse" : "proverbs,31,1",
+    "text" : "The sayings of King Lemuel-an oracle his mother taught him:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,31,1",
     "id" : 192357,
@@ -7,7 +10,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 31:1\">31:1</a></b> <b>The words of King Lemuel.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Prov 30:1\">30:1</a>. Lemuel was not an Israelite king. The nature of this section (<a class=\"bibleref\" href=\"/passage/?search=Prov 30:1-Prov 30:9\">vv. 1–9</a>) suggests an Egyptian or perhaps a Babylonian origin. Its intention is apparently vocational, the equipping of the ruler for his task. The form is similar to the instructions of <a class=\"bibleref\" href=\"/passage/?search=Prov 1-Prov 9\">chs. 1–9</a> (Introduction: Characteristics and Themes). In this case, the teaching is given by the mother (<a class=\"bibleref\" href=\"/passage/?search=Prov 1:8\">1:8</a>; <a class=\"bibleref\" href=\"/passage/?search=Prov 4:1\">4:1</a>, <a class=\"bibleref\" href=\"/passage/?search=Prov 4:3\">3</a>). While the father may have been the principal teacher of the children, godly women also took that role (cf. <a class=\"bibleref\" href=\"/passage/?search=Prov 14:1\">14:1</a> note), and there were in Israel noteworthy wise women (<a class=\"bibleref\" href=\"/passage/?search=2Sam 14:2\">2 Sam. 14:2</a>; <a class=\"bibleref\" href=\"/passage/?search=2Sam 20:16\">20:16</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,31,2" ],
+  "verses" : [ {
+    "verse" : "proverbs,31,2",
+    "text" : "\"O my son, O son of my womb, O son of my vows,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,31,2",
     "id" : 192358,
@@ -15,7 +21,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 31:2\">31:2</a></b> <b>son of my vows.</b> The expression may refer to a vow made in anticipation of the birth (cf. <a class=\"bibleref\" href=\"/passage/?search=1Sam 1:11\">1 Sam. 1:11</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,31,3" ],
+  "verses" : [ {
+    "verse" : "proverbs,31,3",
+    "text" : "do not spend your strength on women, your vigor on those who ruin kings."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,31,3",
     "id" : 192359,
@@ -23,7 +32,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 31:3\">31:3</a></b> <b>those who destroy kings.</b> The parallel indicates that fornication is perhaps in view.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,31,4", "proverbs,31,5" ],
+  "verses" : [ {
+    "verse" : "proverbs,31,4",
+    "text" : "\"It is not for kings, O Lemuel- not for kings to drink wine, not for rulers to crave beer,"
+  }, {
+    "verse" : "proverbs,31,5",
+    "text" : "lest they drink and forget what the law decrees, and deprive all the oppressed of their rights."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,31,4",
     "id" : 192360,
@@ -31,7 +46,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 31:4\">31:4</a></b> <b>not for kings to drink wine.</b> The king’s responsibilities give him no leisure to be confused by wine.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,31,6", "proverbs,31,7" ],
+  "verses" : [ {
+    "verse" : "proverbs,31,6",
+    "text" : "Give beer to those who are perishing, wine to those who are in anguish;"
+  }, {
+    "verse" : "proverbs,31,7",
+    "text" : "let them drink and forget their poverty and remember their misery no more."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,31,6",
     "id" : 192361,

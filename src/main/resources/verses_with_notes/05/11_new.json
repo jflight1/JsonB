@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "john,6,43" ],
+  "verses" : [ {
+    "verse" : "john,6,43",
+    "text" : "\"Stop grumbling among yourselves,\" Jesus answered."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,6,1-john,6,71",
     "id" : 196974,
@@ -7,7 +10,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 6\">6:1–71</a></b> This chapter is a major turning point in <a class=\"bibleref\" href=\"/passage/?search=John 2-John 12\">chs. 2–12</a>. It reveals the identity of Jesus as One sent from the Father (vv. 38, <a class=\"bibleref\" href=\"/passage/?search=John 12:44\">44</a>, <a class=\"bibleref\" href=\"/passage/?search=John 12:46\">46</a>, <a class=\"bibleref\" href=\"/passage/?search=John 12:50\">50</a>, 51, 57); it graphically distinguishes belief and unbelief through the illustration of eating Jesus’ flesh and blood (vv. 53–58); and it chronicles the growing rejection, motivated by unbelief, that confronted Jesus (<a class=\"bibleref\" href=\"/passage/?search=John 12:41\">vv. 41</a>, <a class=\"bibleref\" href=\"/passage/?search=John 12:42\">42</a>, 60–66). The signs in this chapter call to mind corresponding saving events in the history of Israel. They indicate that Jesus fulfills the typology of the Passover, the Exodus, and the provision of food in the wilderness.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,6,44" ],
+  "verses" : [ {
+    "verse" : "john,6,44",
+    "text" : "\"No one can come to me unless the Father who sent me draws him, and I will raise him up at the last day."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,6,44",
     "id" : 196998,
@@ -15,7 +21,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 6:44\">6:44</a></b> <b>unless the Father who sent me draws him.</b> Jesus teaches that no one can respond positively to His warning and invitation apart from the Father’s work of drawing the individual to Jesus. The heart is naturally hard and will not accept God’s invitation, unless a special work of God’s grace takes place (<a class=\"bibleref\" href=\"/passage/?search=John 6:65\">v. 65</a>). See “Effectual Calling and Conversion” at <a class=\"bibleref\" href=\"/passage/?search=2Thess 2:14\">2 Thess. 2:14</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,6,45", "john,6,46", "john,6,47", "john,6,48", "john,6,49", "john,6,50" ],
+  "verses" : [ {
+    "verse" : "john,6,45",
+    "text" : "It is written in the Prophets: 'They will all be taught by God.' Everyone who listens to the Father and learns from him comes to me."
+  }, {
+    "verse" : "john,6,46",
+    "text" : "No one has seen the Father except the one who is from God; only he has seen the Father."
+  }, {
+    "verse" : "john,6,47",
+    "text" : "I tell you the truth, he who believes has everlasting life."
+  }, {
+    "verse" : "john,6,48",
+    "text" : "I am the bread of life."
+  }, {
+    "verse" : "john,6,49",
+    "text" : "Your forefathers ate the manna in the desert, yet they died."
+  }, {
+    "verse" : "john,6,50",
+    "text" : "But here is the bread that comes down from heaven, which a man may eat and not die."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,6,45",
     "id" : 196999,
@@ -23,7 +47,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 6:45\">6:45</a></b> <b>they will all be taught by God.</b> In its original context <a class=\"bibleref\" href=\"/passage/?search=Isa 54:13\">Is. 54:13</a> is a promise of final redemption. Jesus indicates in the next sentence that those who participate in this redemption are those who come to Him, thereby identifying Himself as the One in whom that final redemption comes.</p><p><b>Everyone who has heard . . . comes to me.</b> Whoever wishes may come, and they come because they have “learned from the Father,” who draws them (v. 44).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,6,51", "john,6,52" ],
+  "verses" : [ {
+    "verse" : "john,6,51",
+    "text" : "I am the living bread that came down from heaven. If anyone eats of this bread, he will live forever. This bread is my flesh, which I will give for the life of the world.\""
+  }, {
+    "verse" : "john,6,52",
+    "text" : "Then the Jews began to argue sharply among themselves, \"How can this man give us his flesh to eat?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,6,51-john,6,58",
     "id" : 197000,
@@ -36,7 +66,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 6:51\">6:51</a></b> <b>the living bread.</b> See note on <a class=\"bibleref\" href=\"/passage/?search=John 6:32\">v. 32</a>.</p><p><b>the world.</b> See note <a class=\"bibleref\" href=\"/passage/?search=John 4:42\">4:42</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,6,53", "john,6,54", "john,6,55", "john,6,56", "john,6,57", "john,6,58", "john,6,59" ],
+  "verses" : [ {
+    "verse" : "john,6,53",
+    "text" : "Jesus said to them, \"I tell you the truth, unless you eat the flesh of the Son of Man and drink his blood, you have no life in you."
+  }, {
+    "verse" : "john,6,54",
+    "text" : "Whoever eats my flesh and drinks my blood has eternal life, and I will raise him up at the last day."
+  }, {
+    "verse" : "john,6,55",
+    "text" : "For my flesh is real food and my blood is real drink."
+  }, {
+    "verse" : "john,6,56",
+    "text" : "Whoever eats my flesh and drinks my blood remains in me, and I in him."
+  }, {
+    "verse" : "john,6,57",
+    "text" : "Just as the living Father sent me and I live because of the Father, so the one who feeds on me will live because of me."
+  }, {
+    "verse" : "john,6,58",
+    "text" : "This is the bread that came down from heaven. Your forefathers ate manna and died, but he who feeds on this bread will live forever.\""
+  }, {
+    "verse" : "john,6,59",
+    "text" : "He said this while teaching in the synagogue in Capernaum."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,6,53",
     "id" : 197002,
@@ -44,7 +95,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 6:53\">6:53</a></b> <b>unless you eat . . . and drink.</b> Apart from personal union with the Savior there is no salvation. See “The Lord’s Supper” at <a class=\"bibleref\" href=\"/passage/?search=1Cor 11:23\">1 Cor. 11:23</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,6,60" ],
+  "verses" : [ {
+    "verse" : "john,6,60",
+    "text" : "On hearing it, many of his disciples said, \"This is a hard teaching. Who can accept it?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,6,60",
     "id" : 197003,
@@ -52,7 +106,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 6:60\">6:60</a></b> <b>many of his disciples.</b> These disciples took offense at Jesus’ words, refused to listen to Jesus’ explanation, and were unwilling to accept the message of salvation by grace.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,6,61" ],
+  "verses" : [ {
+    "verse" : "john,6,61",
+    "text" : "Aware that his disciples were grumbling about this, Jesus said to them, \"Does this offend you?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,6,61-john,6,70",
     "id" : 197004,
@@ -60,7 +117,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 6:61\">6:61</a>, <a class=\"bibleref\" href=\"/passage/?search=John 6:64\">64</a>, <a class=\"bibleref\" href=\"/passage/?search=John 6:70\">70</a>.</b> Three examples of supernatural knowledge (cf. <a class=\"bibleref\" href=\"/passage/?search=John 2:24\">2:24</a>, <a class=\"bibleref\" href=\"/passage/?search=John 2:25\">25</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,6,62" ],
+  "verses" : [ {
+    "verse" : "john,6,62",
+    "text" : "What if you see the Son of Man ascend to where he was before!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,6,62",
     "id" : 197005,
@@ -68,7 +128,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 6:62\">6:62</a></b> <b>see the Son of Man ascending.</b> Like “lifted up” (<a class=\"bibleref\" href=\"/passage/?search=John 3:14\">3:14</a> note), “ascend” here probably refers to the events beginning with Christ’s being “lifted up” on the cross and climaxing in His exaltation at the right hand of the Father. If many of His disciples grumbled at the hard sayings of vv. 53–58, what would their response be to the scandal of the crucifixion? See “The Ascension of Jesus” at <a class=\"bibleref\" href=\"/passage/?search=Luke 24:51\">Luke 24:51</a>.</p><p><b>where he was before.</b> A reference to the eternal preexistence of the living Word (1:1–3).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,6,63", "john,6,64" ],
+  "verses" : [ {
+    "verse" : "john,6,63",
+    "text" : "The Spirit gives life; the flesh counts for nothing. The words I have spoken to you are spirit and they are life."
+  }, {
+    "verse" : "john,6,64",
+    "text" : "Yet there are some of you who do not believe.\" For Jesus had known from the beginning which of them did not believe and who would betray him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,6,63",
     "id" : 197006,
@@ -76,7 +142,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 6:63\">6:63</a></b> <b>the Spirit who gives life; the flesh is of no avail.</b> This makes it plain that a merely physical understanding of Jesus’ words was utterly mistaken. Note the close cooperation of the Father (<a class=\"bibleref\" href=\"/passage/?search=John 6:37-John 6:40\">vv. 37–40</a>, <a class=\"bibleref\" href=\"/passage/?search=John 6:44-John 6:46\">44–46</a>, <a class=\"bibleref\" href=\"/passage/?search=John 6:57\">57</a>, <a class=\"bibleref\" href=\"/passage/?search=John 6:65\">65</a>), the Son, and the Holy Spirit (<a class=\"bibleref\" href=\"/passage/?search=John 6:63\">v. 63</a>) shown in this passage.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,6,65" ],
+  "verses" : [ {
+    "verse" : "john,6,65",
+    "text" : "He went on to say, \"This is why I told you that no one can come to me unless the Father has enabled him.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,6,65",
     "id" : 197007,
@@ -84,7 +153,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 6:65\">6:65</a></b> <b>no one can come to me unless.</b> It is impossible for anyone to come to Christ without the enabling call of God. The sinner’s moral inability to choose Christ must be overcome by the gracious and sovereign power of the Spirit (<a class=\"bibleref\" href=\"/passage/?search=John 3:5-John 3:21\">3:5–21</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,6,66" ],
+  "verses" : [ {
+    "verse" : "john,6,66",
+    "text" : "From this time many of his disciples turned back and no longer followed him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,6,66-john,6,71",
     "id" : 197008,
@@ -92,7 +164,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 6:66-John 6:71\">6:66–71</a></b> A crucial turning point in this Gospel. Many disciples, together with the crowds, reject Christ in unbelief, while His remaining disciples (as exemplified by Peter’s confession) deepen their faith in Him.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,6,67", "john,6,68", "john,6,69", "john,6,70", "john,6,71" ],
+  "verses" : [ {
+    "verse" : "john,6,67",
+    "text" : "\"You do not want to leave too, do you?\" Jesus asked the Twelve."
+  }, {
+    "verse" : "john,6,68",
+    "text" : "Simon Peter answered him, \"Lord, to whom shall we go? You have the words of eternal life."
+  }, {
+    "verse" : "john,6,69",
+    "text" : "We believe and know that you are the Holy One of God.\""
+  }, {
+    "verse" : "john,6,70",
+    "text" : "Then Jesus replied, \"Have I not chosen you, the Twelve? Yet one of you is a devil!\""
+  }, {
+    "verse" : "john,6,71",
+    "text" : "(He meant Judas, the son of Simon Iscariot, who, though one of the Twelve, was later to betray him.)"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,6,67",
     "id" : 197009,

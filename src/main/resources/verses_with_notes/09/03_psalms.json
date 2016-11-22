@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,47,1" ],
+  "verses" : [ {
+    "verse" : "psalms,47,1",
+    "text" : "Clap your hands, all you nations; shout to God with cries of joy."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,47,1-psalms,47,9",
     "id" : 190599,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 47:1\">47:1</a></b> <b>all peoples.</b> Since God is King of all the earth, and not just Israel, all the nations are called to join in the praise.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,47,2" ],
+  "verses" : [ {
+    "verse" : "psalms,47,2",
+    "text" : "How awesome is the LORD Most High, the great King over all the earth!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,47,2",
     "id" : 190601,
@@ -20,7 +26,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 47:2\">47:2</a></b> <b>king over all the earth.</b> See “God Reigns: Divine Sovereignty” at <a class=\"bibleref\" href=\"/passage/?search=Dan 4:34\">Dan. 4:34</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,47,3" ],
+  "verses" : [ {
+    "verse" : "psalms,47,3",
+    "text" : "He subdued nations under us, peoples under our feet."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,47,3",
     "id" : 190602,
@@ -28,7 +37,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 47:3\">47:3</a></b> <b>He subdued peoples.</b> God won innumerable victories for His people throughout their history, beginning with the great victory at the Red Sea (<a class=\"bibleref\" href=\"/passage/?search=Exod 15\">Ex. 15</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,47,4" ],
+  "verses" : [ {
+    "verse" : "psalms,47,4",
+    "text" : "He chose our inheritance for us, the pride of Jacob, whom he loved. Selah"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,47,4",
     "id" : 190603,
@@ -36,7 +48,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 47:4\">47:4</a></b> <b>our heritage.</b> This refers to the conquest and allotment of the Promised Land. <a class=\"bibleref\" href=\"/passage/?search=Deut 7:1-Deut 7:11\">Deut. 7:1–11</a> explains that it is only through God’s grace that Israel possessed the land.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,47,5", "psalms,47,6", "psalms,47,7", "psalms,47,8" ],
+  "verses" : [ {
+    "verse" : "psalms,47,5",
+    "text" : "God has ascended amid shouts of joy, the LORD amid the sounding of trumpets."
+  }, {
+    "verse" : "psalms,47,6",
+    "text" : "Sing praises to God, sing praises; sing praises to our King, sing praises."
+  }, {
+    "verse" : "psalms,47,7",
+    "text" : "For God is the King of all the earth; sing to him a psalm of praise."
+  }, {
+    "verse" : "psalms,47,8",
+    "text" : "God reigns over the nations; God is seated on his holy throne."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,47,5",
     "id" : 190604,
@@ -44,7 +68,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 47:5\">47:5</a></b> <b>has gone up.</b> This is an enthronement. God has been King from all eternity (<a class=\"bibleref\" href=\"/passage/?search=Ps 93:2\">Ps. 93:2</a>), but after the victory His kingship is celebrated anew.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,47,9" ],
+  "verses" : [ {
+    "verse" : "psalms,47,9",
+    "text" : "The nobles of the nations assemble as the people of the God of Abraham, for the kings of the earth belong to God; he is greatly exalted."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,47,9",
     "id" : 190605,

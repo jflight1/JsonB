@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,11,1" ],
+  "verses" : [ {
+    "verse" : "proverbs,11,1",
+    "text" : "The LORD abhors dishonest scales, but accurate weights are his delight."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -17,7 +20,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 11:1\">11:1</a></b> <b>false balance.</b> Honesty and fair dealing are basic to covenant ethics. Reference to the Lord indicates that covenant relationships are in view.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,11,2" ],
+  "verses" : [ {
+    "verse" : "proverbs,11,2",
+    "text" : "When pride comes, then comes disgrace, but with humility comes wisdom."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,11,2",
     "id" : 191873,
@@ -25,7 +31,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 11:2\">11:2</a></b> <b>pride . . . disgrace.</b> Wisdom recognizes the importance of self-control. Arrogance and pride are easily recognized by others who will then withhold honor.</p><p><b>with the humble is wisdom.</b> Because humility involves the realistic appraisal of one’s place in relationship to others, it promotes a wise sense of the true order of things.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,11,3" ],
+  "verses" : [ {
+    "verse" : "proverbs,11,3",
+    "text" : "The integrity of the upright guides them, but the unfaithful are destroyed by their duplicity."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,11,3",
     "id" : 191874,

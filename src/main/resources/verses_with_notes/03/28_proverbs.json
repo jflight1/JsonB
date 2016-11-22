@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "proverbs,12,2", "proverbs,12,3" ],
+  "verses" : [ {
+    "verse" : "proverbs,12,2",
+    "text" : "A good man obtains favor from the LORD, but the LORD condemns a crafty man."
+  }, {
+    "verse" : "proverbs,12,3",
+    "text" : "A man cannot be established through wickedness, but the righteous cannot be uprooted."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

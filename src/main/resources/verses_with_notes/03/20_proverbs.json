@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,11,20" ],
+  "verses" : [ {
+    "verse" : "proverbs,11,20",
+    "text" : "The LORD detests men of perverse heart but he delights in those whose ways are blameless."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 11\">11:1–31</a></b> As in <a class=\"bibleref\" href=\"/passage/?search=Prov 10\">ch. 10</a>, many sayings in this chapter contrast the ways of righteousness and wickedness. Other sentences not explicitly naming these two opposites nevertheless compare specific examples of them.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,11,21" ],
+  "verses" : [ {
+    "verse" : "proverbs,11,21",
+    "text" : "Be sure of this: The wicked will not go unpunished, but those who are righteous will go free."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,11,21",
     "id" : 191889,

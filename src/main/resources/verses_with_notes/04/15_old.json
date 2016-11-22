@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "joshua,11,1" ],
+  "verses" : [ {
+    "verse" : "joshua,11,1",
+    "text" : "When Jabin king of Hazor heard of this, he sent word to Jobab king of Madon, to the kings of Shimron and Acshaph,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,5,13-joshua,12,24",
     "id" : 186741,
@@ -22,7 +25,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 11:1\">11:1</a></b> <b>Jabin, king of Hazor.</b> Hazor was an important city in northern Palestine (<a class=\"bibleref\" href=\"/passage/?search=Josh 11:10\">v. 10</a>). Jabin was possibly an inherited title (<a class=\"bibleref\" href=\"/passage/?search=Judg 4:2\">Judg. 4:2</a>).</p><p><b>heard.</b> See note 9:3.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,11,2", "joshua,11,3" ],
+  "verses" : [ {
+    "verse" : "joshua,11,2",
+    "text" : "and to the northern kings who were in the mountains, in the Arabah south of Kinnereth, in the western foothills and in Naphoth Dor on the west;"
+  }, {
+    "verse" : "joshua,11,3",
+    "text" : "to the Canaanites in the east and west; to the Amorites, Hittites, Perizzites and Jebusites in the hill country; and to the Hivites below Hermon in the region of Mizpah."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,11,2",
     "id" : 186839,
@@ -30,7 +39,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 11:2\">11:2</a></b> <b>Chinneroth.</b> Probably near the Sea of Galilee (<a class=\"bibleref\" href=\"/passage/?search=Josh 12:3\">12:3</a>).</p><p><b>the lowland.</b> The Jordan Valley.</p><p><b>Naphoth-dor.</b> On the Mediterranean coast.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,11,4", "joshua,11,5" ],
+  "verses" : [ {
+    "verse" : "joshua,11,4",
+    "text" : "They came out with all their troops and a large number of horses and chariots-a huge army, as numerous as the sand on the seashore."
+  }, {
+    "verse" : "joshua,11,5",
+    "text" : "All these kings joined forces and made camp together at the Waters of Merom, to fight against Israel."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,11,4",
     "id" : 186840,
@@ -38,7 +53,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 11:4\">11:4 a</a></b> <b>great horde.</b> The enormous threat posed by the Canaanites is vividly presented as the background to the promise in <a class=\"bibleref\" href=\"/passage/?search=Josh 11:6\">v. 6</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,11,6", "joshua,11,7", "joshua,11,8", "joshua,11,9", "joshua,11,10" ],
+  "verses" : [ {
+    "verse" : "joshua,11,6",
+    "text" : "The LORD said to Joshua, \"Do not be afraid of them, because by this time tomorrow I will hand all of them over to Israel, slain. You are to hamstring their horses and burn their chariots.\""
+  }, {
+    "verse" : "joshua,11,7",
+    "text" : "So Joshua and his whole army came against them suddenly at the Waters of Merom and attacked them,"
+  }, {
+    "verse" : "joshua,11,8",
+    "text" : "and the LORD gave them into the hand of Israel. They defeated them and pursued them all the way to Greater Sidon, to Misrephoth Maim, and to the Valley of Mizpah on the east, until no survivors were left."
+  }, {
+    "verse" : "joshua,11,9",
+    "text" : "Joshua did to them as the LORD had directed: He hamstrung their horses and burned their chariots."
+  }, {
+    "verse" : "joshua,11,10",
+    "text" : "At that time Joshua turned back and captured Hazor and put its king to the sword. (Hazor had been the head of all these kingdoms.)"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,11,6",
     "id" : 186841,
@@ -46,7 +76,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 11:6\">11:6</a></b> <b>Do not be afraid.</b> The promise of God (<a class=\"bibleref\" href=\"/passage/?search=Josh 1:2\">1:2</a>, <a class=\"bibleref\" href=\"/passage/?search=Josh 1:3\">3</a>, <a class=\"bibleref\" href=\"/passage/?search=Josh 1:9\">9</a>), against the background of <a class=\"bibleref\" href=\"/passage/?search=Josh 1:4\">vv. 4</a>, <a class=\"bibleref\" href=\"/passage/?search=Josh 1:5\">5</a>, again creates a possibility not inherent in the situation. See notes <a class=\"bibleref\" href=\"/passage/?search=Josh 6:2\">6:2</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 8:1\">8:1</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 10:8\">10:8</a>.</p><p><b>I will give.</b> The Hebrew wording is emphatic and identical to “I am giving” in <a class=\"bibleref\" href=\"/passage/?search=Josh 1:2\">1:2</a>.</p><p><b>hamstring their horses and burn their chariots.</b> This is a promise that God will prevail over the most advanced weapons of the time (<a class=\"bibleref\" href=\"/passage/?search=Ps 20:7\">Ps. 20:7</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,11,11" ],
+  "verses" : [ {
+    "verse" : "joshua,11,11",
+    "text" : "Everyone in it they put to the sword. They totally destroyed them, not sparing anything that breathed, and he burned up Hazor itself."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,11,11",
     "id" : 186842,
@@ -54,7 +87,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 11:11\">11:11</a></b> <b>devoting them to destruction.</b> The same term occurs in <a class=\"bibleref\" href=\"/passage/?search=Josh 11:12\">vv. 12</a>, <a class=\"bibleref\" href=\"/passage/?search=Josh 11:20\">20</a>, <a class=\"bibleref\" href=\"/passage/?search=Josh 11:21\">21</a>. See note <a class=\"bibleref\" href=\"/passage/?search=Josh 6:17\">6:17</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,11,12", "joshua,11,13", "joshua,11,14", "joshua,11,15" ],
+  "verses" : [ {
+    "verse" : "joshua,11,12",
+    "text" : "Joshua took all these royal cities and their kings and put them to the sword. He totally destroyed them, as Moses the servant of the LORD had commanded."
+  }, {
+    "verse" : "joshua,11,13",
+    "text" : "Yet Israel did not burn any of the cities built on their mounds-except Hazor, which Joshua burned."
+  }, {
+    "verse" : "joshua,11,14",
+    "text" : "The Israelites carried off for themselves all the plunder and livestock of these cities, but all the people they put to the sword until they completely destroyed them, not sparing anyone that breathed."
+  }, {
+    "verse" : "joshua,11,15",
+    "text" : "As the LORD commanded his servant Moses, so Moses commanded Joshua, and Joshua did it; he left nothing undone of all that the LORD commanded Moses."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,11,12",
     "id" : 186843,
@@ -62,7 +107,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 11:12\">11:12</a></b> <b>as Moses the servant of the <span class=\"small-caps\">Lord</span> had commanded.</b> The success of the conquest is emphatically portrayed in terms of obedience to the commands of God given through Moses (<a class=\"bibleref\" href=\"/passage/?search=Josh 1\">1:1–18</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 1:1\">1:1</a>, <a class=\"bibleref\" href=\"/passage/?search=Josh 1:3\">3</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 5:15\">5:15</a> and notes). The writer makes the closest possible connection between the promises of God (<a class=\"bibleref\" href=\"/passage/?search=Josh 5:6\">v. 6</a> note) and His commands. Faith and obedience cannot be separated. See note <a class=\"bibleref\" href=\"/passage/?search=Josh 1:7\">1:7</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,11,16", "joshua,11,17" ],
+  "verses" : [ {
+    "verse" : "joshua,11,16",
+    "text" : "So Joshua took this entire land: the hill country, all the Negev, the whole region of Goshen, the western foothills, the Arabah and the mountains of Israel with their foothills,"
+  }, {
+    "verse" : "joshua,11,17",
+    "text" : "from Mount Halak, which rises toward Seir, to Baal Gad in the Valley of Lebanon below Mount Hermon. He captured all their kings and struck them down, putting them to death."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,11,16",
     "id" : 186844,
@@ -70,7 +121,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 11:16\">11:16</a></b> <b>all that land.</b> In principle the whole land now belonged to the Israelites, although there was “yet very much land to possess” (<a class=\"bibleref\" href=\"/passage/?search=Josh 13:1\">13:1</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,11,18" ],
+  "verses" : [ {
+    "verse" : "joshua,11,18",
+    "text" : "Joshua waged war against all these kings for a long time."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,11,18",
     "id" : 186845,
@@ -78,7 +132,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 11:18\">11:18 a</a></b> <b>long time.</b> This is an indication that the preceding chapters present a greatly condensed account.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,11,19" ],
+  "verses" : [ {
+    "verse" : "joshua,11,19",
+    "text" : "Except for the Hivites living in Gibeon, not one city made a treaty of peace with the Israelites, who took them all in battle."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,11,19",
     "id" : 186846,
@@ -86,7 +143,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 11:19\">11:19</a></b> <b>made peace.</b> See <a class=\"bibleref\" href=\"/passage/?search=Josh 9:6\">9:6</a>, <a class=\"bibleref\" href=\"/passage/?search=Josh 9:15\">15</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,11,20" ],
+  "verses" : [ {
+    "verse" : "joshua,11,20",
+    "text" : "For it was the LORD himself who hardened their hearts to wage war against Israel, so that he might destroy them totally, exterminating them without mercy, as the LORD had commanded Moses."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,11,20",
     "id" : 186847,
@@ -94,7 +154,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 11:20\">11:20</a></b> <b>it was the <span class=\"small-caps\">Lord</span>’s doing to harden.</b> The relationship between divine sovereignty and human responsibility is seen in the divine hardening of hearts to achieve His purposes. God’s sovereign act does not overthrow either His justice or human responsibility (<a class=\"bibleref\" href=\"/passage/?search=Exod 10:1\">Ex. 10:1</a>, <a class=\"bibleref\" href=\"/passage/?search=Exod 10:2\">2</a>; <a class=\"bibleref\" href=\"/passage/?search=Rom 9:14-Rom 9:29\">Rom. 9:14–29</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,11,21", "joshua,11,22" ],
+  "verses" : [ {
+    "verse" : "joshua,11,21",
+    "text" : "At that time Joshua went and destroyed the Anakites from the hill country: from Hebron, Debir and Anab, from all the hill country of Judah, and from all the hill country of Israel. Joshua totally destroyed them and their towns."
+  }, {
+    "verse" : "joshua,11,22",
+    "text" : "No Anakites were left in Israelite territory; only in Gaza, Gath and Ashdod did any survive."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,11,21-joshua,11,22",
     "id" : 186848,
@@ -102,7 +168,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 11:21\">11:21</a>, <a class=\"bibleref\" href=\"/passage/?search=Josh 11:22\">22</a> Anakim.</b> These people were the fearful inhabitants of Canaan who had frightened the Israelites into disobedience a generation earlier (<a class=\"bibleref\" href=\"/passage/?search=Num 13:26-Num 13:33\">Num. 13:26–33</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 1:28\">Deut. 1:28</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 2:10-Deut 2:12\">2:10–12</a> and notes; <a class=\"bibleref\" href=\"/passage/?search=Josh 14:12\">Josh. 14:12</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 15:14\">15:14</a>). Their destruction concludes the account of the obedient conquest under Joshua.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,11,23" ],
+  "verses" : [ {
+    "verse" : "joshua,11,23",
+    "text" : "So Joshua took the entire land, just as the LORD had directed Moses, and he gave it as an inheritance to Israel according to their tribal divisions. Then the land had rest from war."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,11,23",
     "id" : 186849,
@@ -110,7 +179,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 11:23\">11:23</a></b> <b>an inheritance . . . according to their tribal allotments.</b> This is an anticipatory summary of <a class=\"bibleref\" href=\"/passage/?search=Josh 13-Josh 21\">chs. 13–21</a>. See note <a class=\"bibleref\" href=\"/passage/?search=Josh 1:6\">1:6</a>.</p><p><b>the land had rest from war.</b> These words sum up the conquest and the fulfillment of God’s promise given in <a class=\"bibleref\" href=\"/passage/?search=Josh 1:2-Josh 1:5\">1:2–5</a>. See notes <a class=\"bibleref\" href=\"/passage/?search=Josh 1:13\">1:13</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 21:45\">21:45</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,12,1" ],
+  "verses" : [ {
+    "verse" : "joshua,12,1",
+    "text" : "These are the kings of the land whom the Israelites had defeated and whose territory they took over east of the Jordan, from the Arnon Gorge to Mount Hermon, including all the eastern side of the Arabah:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,12,1-joshua,12,24",
     "id" : 186850,
@@ -123,7 +195,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 12:1\">12:1</a></b> <b>land.</b> Notice that the territory east of the Jordan is clearly included in the land given by God to Israel (<a class=\"bibleref\" href=\"/passage/?search=Josh 12:7\">v. 7</a>). See notes <a class=\"bibleref\" href=\"/passage/?search=Josh 1:12-Josh 1:15\">1:12–15</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 13:8-Josh 13:33\">13:8–33</a>.</p><p><b>Valley of the Arnon.</b> This runs into the Dead Sea from the east and marks the southern boundary here.</p><p><b>Mount Hermon.</b> Northeast of the Sea of Galilee.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,12,2", "joshua,12,3", "joshua,12,4", "joshua,12,5" ],
+  "verses" : [ {
+    "verse" : "joshua,12,2",
+    "text" : "Sihon king of the Amorites, who reigned in Heshbon. He ruled from Aroer on the rim of the Arnon Gorge-from the middle of the gorge-to the Jabbok River, which is the border of the Ammonites. This included half of Gilead."
+  }, {
+    "verse" : "joshua,12,3",
+    "text" : "He also ruled over the eastern Arabah from the Sea of Kinnereth to the Sea of the Arabah (the Salt Sea ), to Beth Jeshimoth, and then southward below the slopes of Pisgah."
+  }, {
+    "verse" : "joshua,12,4",
+    "text" : "And the territory of Og king of Bashan, one of the last of the Rephaites, who reigned in Ashtaroth and Edrei."
+  }, {
+    "verse" : "joshua,12,5",
+    "text" : "He ruled over Mount Hermon, Salecah, all of Bashan to the border of the people of Geshur and Maacah, and half of Gilead to the border of Sihon king of Heshbon."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,12,2-joshua,12,5",
     "id" : 186852,
@@ -131,7 +215,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 12:2-Josh 12:5\">12:2–5</a></b> See <a class=\"bibleref\" href=\"/passage/?search=Num 21:21-Num 21:35\">Num. 21:21–35</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 2:24-Deut 3:11\">Deut. 2:24–3:11</a>. The defeat of Sihon and Og marked the beginning of the conquest and is remembered as a testimony to God’s power and faithfulness (e.g., <a class=\"bibleref\" href=\"/passage/?search=Deut 29:7\">Deut. 29:7</a>, <a class=\"bibleref\" href=\"/passage/?search=Deut 29:8\">8</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 31:4\">31:4</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 2:10\">Josh. 2:10</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 9:10\">9:10</a>; <a class=\"bibleref\" href=\"/passage/?search=Neh 9:22\">Neh. 9:22</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 135:11\">Ps. 135:11</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 136:19\">136:19</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 136:20\">20</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,12,6" ],
+  "verses" : [ {
+    "verse" : "joshua,12,6",
+    "text" : "Moses, the servant of the LORD, and the Israelites conquered them. And Moses the servant of the LORD gave their land to the Reubenites, the Gadites and the half-tribe of Manasseh to be their possession."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,12,6",
     "id" : 186853,
@@ -139,7 +226,61 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 12:6\">12:6</a></b> <b>Moses, the servant of the <span class=\"small-caps\">Lord.</span></b> See note <a class=\"bibleref\" href=\"/passage/?search=Josh 1:1\">1:1</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,12,7", "joshua,12,8", "joshua,12,9", "joshua,12,10", "joshua,12,11", "joshua,12,12", "joshua,12,13", "joshua,12,14", "joshua,12,15", "joshua,12,16", "joshua,12,17", "joshua,12,18", "joshua,12,19", "joshua,12,20", "joshua,12,21", "joshua,12,22", "joshua,12,23", "joshua,12,24" ],
+  "verses" : [ {
+    "verse" : "joshua,12,7",
+    "text" : "These are the kings of the land that Joshua and the Israelites conquered on the west side of the Jordan, from Baal Gad in the Valley of Lebanon to Mount Halak, which rises toward Seir (their lands Joshua gave as an inheritance to the tribes of Israel according to their tribal divisions-"
+  }, {
+    "verse" : "joshua,12,8",
+    "text" : "the hill country, the western foothills, the Arabah, the mountain slopes, the desert and the Negev-the lands of the Hittites, Amorites, Canaanites, Perizzites, Hivites and Jebusites):"
+  }, {
+    "verse" : "joshua,12,9",
+    "text" : "the king of Jericho one the king of Ai (near Bethel) one"
+  }, {
+    "verse" : "joshua,12,10",
+    "text" : "the king of Jerusalem one the king of Hebron one"
+  }, {
+    "verse" : "joshua,12,11",
+    "text" : "the king of Jarmuth one the king of Lachish one"
+  }, {
+    "verse" : "joshua,12,12",
+    "text" : "the king of Eglon one the king of Gezer one"
+  }, {
+    "verse" : "joshua,12,13",
+    "text" : "the king of Debir one the king of Geder one"
+  }, {
+    "verse" : "joshua,12,14",
+    "text" : "the king of Hormah one the king of Arad one"
+  }, {
+    "verse" : "joshua,12,15",
+    "text" : "the king of Libnah one the king of Adullam one"
+  }, {
+    "verse" : "joshua,12,16",
+    "text" : "the king of Makkedah one the king of Bethel one"
+  }, {
+    "verse" : "joshua,12,17",
+    "text" : "the king of Tappuah one the king of Hepher one"
+  }, {
+    "verse" : "joshua,12,18",
+    "text" : "the king of Aphek one the king of Lasharon one"
+  }, {
+    "verse" : "joshua,12,19",
+    "text" : "the king of Madon one the king of Hazor one"
+  }, {
+    "verse" : "joshua,12,20",
+    "text" : "the king of Shimron Meron one the king of Acshaph one"
+  }, {
+    "verse" : "joshua,12,21",
+    "text" : "the king of Taanach one the king of Megiddo one"
+  }, {
+    "verse" : "joshua,12,22",
+    "text" : "the king of Kedesh one the king of Jokneam in Carmel one"
+  }, {
+    "verse" : "joshua,12,23",
+    "text" : "the king of Dor (in Naphoth Dor ) one the king of Goyim in Gilgal one"
+  }, {
+    "verse" : "joshua,12,24",
+    "text" : "the king of Tirzah one thirty-one kings in all."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,12,7-joshua,12,24",
     "id" : 186854,

@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "luke,5,12", "luke,5,13" ],
+  "verses" : [ {
+    "verse" : "luke,5,12",
+    "text" : "While Jesus was in one of the towns, a man came along who was covered with leprosy. When he saw Jesus, he fell with his face to the ground and begged him, \"Lord, if you are willing, you can make me clean.\""
+  }, {
+    "verse" : "luke,5,13",
+    "text" : "Jesus reached out his hand and touched the man. \"I am willing,\" he said. \"Be clean!\" And immediately the leprosy left him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,5,12",
     "id" : 196426,
@@ -7,7 +13,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 5:12\">5:12</a></b> Several skin diseases were called leprosy. They made a person ceremonially unclean, and could be disfiguring or fatal. Quarantine was the only defense against spread of the disease.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,5,14", "luke,5,15", "luke,5,16" ],
+  "verses" : [ {
+    "verse" : "luke,5,14",
+    "text" : "Then Jesus ordered him, \"Don't tell anyone, but go, show yourself to the priest and offer the sacrifices that Moses commanded for your cleansing, as a testimony to them.\""
+  }, {
+    "verse" : "luke,5,15",
+    "text" : "Yet the news about him spread all the more, so that crowds of people came to hear him and to be healed of their sicknesses."
+  }, {
+    "verse" : "luke,5,16",
+    "text" : "But Jesus often withdrew to lonely places and prayed."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,5,14",
     "id" : 196427,
@@ -15,7 +30,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 5:14\">5:14</a></b> The priest was a kind of health inspector who could certify that the leper was cured. The priest would also offer the appropriate sacrifices to end the ritual defilement (<a class=\"bibleref\" href=\"/passage/?search=Lev 14\">Lev. 14</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,5,17", "luke,5,18" ],
+  "verses" : [ {
+    "verse" : "luke,5,17",
+    "text" : "One day as he was teaching, Pharisees and teachers of the law, who had come from every village of Galilee and from Judea and Jerusalem, were sitting there. And the power of the Lord was present for him to heal the sick."
+  }, {
+    "verse" : "luke,5,18",
+    "text" : "Some men came carrying a paralytic on a mat and tried to take him into the house to lay him before Jesus."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,5,17",
     "id" : 196428,
@@ -23,7 +44,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 5:17\">5:17</a></b> <b>Pharisees.</b> Josephus indicates that there were more than six thousand Pharisees. They saw themselves as God’s “separated ones” and sought to serve Him well. Many were godly, but their emphasis on outward acts and ritual taboos made others hard and formal. Such men opposed Jesus vigorously.</p><p><b>teachers of the law.</b> Scribes whose work centered on interpreting the law of God. Many were Pharisees.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,5,19" ],
+  "verses" : [ {
+    "verse" : "luke,5,19",
+    "text" : "When they could not find a way to do this because of the crowd, they went up on the roof and lowered him on his mat through the tiles into the middle of the crowd, right in front of Jesus."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,5,19",
     "id" : 196429,
@@ -31,7 +55,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 5:19\">5:19</a></b> <b>up on the roof.</b> Houses often had flat roofs and outside stairs.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,5,20" ],
+  "verses" : [ {
+    "verse" : "luke,5,20",
+    "text" : "When Jesus saw their faith, he said, \"Friend, your sins are forgiven.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,5,20",
     "id" : 196430,
@@ -39,7 +66,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 5:20\">5:20</a></b> <b>their faith.</b> This includes the friends as well as the paralyzed man. Jesus begins with forgiveness, not healing.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,5,21", "luke,5,22", "luke,5,23" ],
+  "verses" : [ {
+    "verse" : "luke,5,21",
+    "text" : "The Pharisees and the teachers of the law began thinking to themselves, \"Who is this fellow who speaks blasphemy? Who can forgive sins but God alone?\""
+  }, {
+    "verse" : "luke,5,22",
+    "text" : "Jesus knew what they were thinking and asked, \"Why are you thinking these things in your hearts?"
+  }, {
+    "verse" : "luke,5,23",
+    "text" : "Which is easier: to say, 'Your sins are forgiven,' or to say, 'Get up and walk'?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,5,21",
     "id" : 196431,
@@ -47,7 +83,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 5:21\">5:21</a></b> <b>Who is this.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Mark 2:5\">Mark 2:5</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,5,24", "luke,5,25", "luke,5,26" ],
+  "verses" : [ {
+    "verse" : "luke,5,24",
+    "text" : "But that you may know that the Son of Man has authority on earth to forgive sins....\" He said to the paralyzed man, \"I tell you, get up, take your mat and go home.\""
+  }, {
+    "verse" : "luke,5,25",
+    "text" : "Immediately he stood up in front of them, took what he had been lying on and went home praising God."
+  }, {
+    "verse" : "luke,5,26",
+    "text" : "Everyone was amazed and gave praise to God. They were filled with awe and said, \"We have seen remarkable things today.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,5,24",
     "id" : 196432,
@@ -55,7 +100,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 5:24\">5:24</a></b> <b>that you may know.</b> Jesus links the power to forgive with the power to heal (<a class=\"bibleref\" href=\"/passage/?search=Mark 2:9\">Mark 2:9</a> note).</p><p><b>the Son of Man.</b> Jesus’ favorite self-designation, used many times in the Gospels and in them only by Jesus Himself. It refers to His heavenly origin and vocation (<a class=\"bibleref\" href=\"/passage/?search=Dan 7:13\">Dan. 7:13</a>, <a class=\"bibleref\" href=\"/passage/?search=Dan 7:14\">14</a>). See note <a class=\"bibleref\" href=\"/passage/?search=Matt 8:20\">Matt. 8:20</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,5,27" ],
+  "verses" : [ {
+    "verse" : "luke,5,27",
+    "text" : "After this, Jesus went out and saw a tax collector by the name of Levi sitting at his tax booth. \"Follow me,\" Jesus said to him,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,5,27",
     "id" : 196433,
@@ -63,7 +111,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 5:27\">5:27</a></b> <b>tax collector.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Luke 3:12\">3:12</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,5,28" ],
+  "verses" : [ {
+    "verse" : "luke,5,28",
+    "text" : "and Levi got up, left everything and followed him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,5,28",
     "id" : 196434,

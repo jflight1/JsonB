@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "luke,3,1" ],
+  "verses" : [ {
+    "verse" : "luke,3,1",
+    "text" : "In the fifteenth year of the reign of Tiberius Caesar--when Pontius Pilate was governor of Judea, Herod tetrarch of Galilee, his brother Philip tetrarch of Iturea and Traconitis, and Lysanias tetrarch of Abilene--"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,3,1",
     "id" : 196391,
@@ -7,7 +10,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 3:1\">3:1</a></b> Luke’s lengthy chronological reference comes at the beginning of John’s ministry, probably about <span class=\"small-caps\">a.d.</span> 27–29.</p><p><b>Pontius Pilate.</b> In his will, Herod the Great left Judea to his son Archelaus, and other territories to his sons Philip and Antipas. But Archelaus ruled so badly that the Romans removed him in <span class=\"small-caps\">a.d.</span> 6 and appointed their own governor. Pontius Pilate was the fifth governor of Judea, serving there from <span class=\"small-caps\">a.d.</span> 26–36.</p><p><b>tetrarch.</b> A tetrarch was a kind of petty prince. “Herod” here is Herod Antipas. Philip’s region was northeast of the Sea of Galilee. Nothing more is known of Lysanias, but Abilene was north of the other regions.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,3,2" ],
+  "verses" : [ {
+    "verse" : "luke,3,2",
+    "text" : "during the high priesthood of Annas and Caiaphas, the word of God came to John son of Zechariah in the desert."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,3,2",
     "id" : 196392,
@@ -15,7 +21,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 3:2\">3:2</a></b> The Jews had only one high priest at a time. Annas had been deposed by the Romans who appointed instead Caiaphas, his son-in-law. The Romans saw to it that Caiaphas exercised the official functions, but many Jews still considered Annas the true high priest.</p><p><b>the word of God came.</b> John’s message was not his own but the dynamic word of God Himself.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,3,3" ],
+  "verses" : [ {
+    "verse" : "luke,3,3",
+    "text" : "He went into all the country around the Jordan, preaching a baptism of repentance for the forgiveness of sins."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,3,3",
     "id" : 196393,
@@ -23,7 +32,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 3:3\">3:3</a></b> <b>baptism of repentance.</b> The Jews baptized Gentiles if they wished to become part of the people of God. The sting in John’s practice was his call on Jews to undergo a rite they saw as fit only for Gentiles. John looked for a change of heart in Jews. See notes <a class=\"bibleref\" href=\"/passage/?search=Matt 3:6\">Matt. 3:6</a>; <a class=\"bibleref\" href=\"/passage/?search=Mark 1:4\">Mark 1:4</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,3,4", "luke,3,5", "luke,3,6" ],
+  "verses" : [ {
+    "verse" : "luke,3,4",
+    "text" : "As is written in the book of the words of Isaiah the prophet: \"A voice of one calling in the desert, 'Prepare the way for the Lord, make straight paths for him."
+  }, {
+    "verse" : "luke,3,5",
+    "text" : "Every valley shall be filled in, every mountain and hill made low. The crooked roads shall become straight, the rough ways smooth."
+  }, {
+    "verse" : "luke,3,6",
+    "text" : "And all mankind will see God's salvation.'\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,3,4-luke,3,6",
     "id" : 196394,
@@ -31,7 +49,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 3:4-Luke 3:6\">3:4–6</a></b> All four Gospels apply <a class=\"bibleref\" href=\"/passage/?search=Isa 40:3\">Is. 40:3</a> to John and agree that John saw himself as only a herald. But only Luke adds <a class=\"bibleref\" href=\"/passage/?search=Isa 40:4\">Is. 40:4</a>, <a class=\"bibleref\" href=\"/passage/?search=Isa 40:5\">5</a>, emphasizing the thought of God’s salvation.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,3,7", "luke,3,8" ],
+  "verses" : [ {
+    "verse" : "luke,3,7",
+    "text" : "John said to the crowds coming out to be baptized by him, \"You brood of vipers! Who warned you to flee from the coming wrath?"
+  }, {
+    "verse" : "luke,3,8",
+    "text" : "Produce fruit in keeping with repentance. And do not begin to say to yourselves, 'We have Abraham as our father.' For I tell you that out of these stones God can raise up children for Abraham."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,3,7-luke,3,8",
     "id" : 196395,
@@ -39,7 +63,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 3:7\">3:7</a>, <a class=\"bibleref\" href=\"/passage/?search=Luke 3:8\">8</a></b> A strong warning is directed at those who claimed Abraham as father. Being a Jew would not deliver one from the coming wrath.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,3,9", "luke,3,10" ],
+  "verses" : [ {
+    "verse" : "luke,3,9",
+    "text" : "The ax is already at the root of the trees, and every tree that does not produce good fruit will be cut down and thrown into the fire.\""
+  }, {
+    "verse" : "luke,3,10",
+    "text" : "\"What should we do then?\" the crowd asked."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,3,9",
     "id" : 196396,
@@ -47,7 +77,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 3:9\">3:9</a></b> <b>axe is laid to the root.</b> This phrase points to certain and speedy judgment.</p><p><b>fire.</b> A symbol of judgment.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,3,11" ],
+  "verses" : [ {
+    "verse" : "luke,3,11",
+    "text" : "John answered, \"The man with two tunics should share with him who has none, and the one who has food should do the same.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,3,11",
     "id" : 196397,
@@ -55,7 +88,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 3:11\">3:11</a></b> The tunic was an undergarment; normally only one was worn. John suggests that the man who owns two should give the spare to someone without one, and so also with food.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,3,12", "luke,3,13" ],
+  "verses" : [ {
+    "verse" : "luke,3,12",
+    "text" : "Tax collectors also came to be baptized. \"Teacher,\" they asked, \"what should we do?\""
+  }, {
+    "verse" : "luke,3,13",
+    "text" : "\"Don't collect any more than you are required to,\" he told"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,3,12",
     "id" : 196398,
@@ -63,7 +102,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 3:12\">3:12</a></b> <b>Tax collectors.</b> Roman taxes were collected by agents who bid for the rights to collect taxes in a city. They would pay the Romans what they bid and collect more for their own salaries. There was a strong temptation for them to enrich themselves by collecting much more than what was reasonable. Jewish tax collectors were despised as collaborators with the occupying Roman forces. They were excluded from the religious life of the synagogue and the temple.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,3,14" ],
+  "verses" : [ {
+    "verse" : "luke,3,14",
+    "text" : "them. Then some soldiers asked him, \"And what should we do?\" He replied, \"Don't extort money and don't accuse people falsely--be content with your pay.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,3,14",
     "id" : 196399,
@@ -71,7 +113,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 3:14\">3:14</a></b> Like tax collectors, soldiers were tempted to use their position to enrich themselves. John enjoins honesty on all. All four Gospels have an account of the ministry of John the Baptist as he called people to repent in preparation for the coming of Jesus. Luke alone tells us what John said to questioners who were unclear about what it would mean for them.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,3,15" ],
+  "verses" : [ {
+    "verse" : "luke,3,15",
+    "text" : "The people were waiting expectantly and were all wondering in their hearts if John might possibly be the Christ."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,3,15",
     "id" : 196400,
@@ -79,7 +124,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 3:15\">3:15</a></b> Messianic speculations were in the air, but John said clearly he was no messiah. A greater One was coming.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,3,16", "luke,3,17", "luke,3,18" ],
+  "verses" : [ {
+    "verse" : "luke,3,16",
+    "text" : "John answered them all, \"I baptize you with water. But one more powerful than I will come, the thongs of whose sandals I am not worthy to untie. He will baptize you with the Holy Spirit and with fire."
+  }, {
+    "verse" : "luke,3,17",
+    "text" : "His winnowing fork is in his hand to clear his threshing floor and to gather the wheat into his barn, but he will burn up the chaff with unquenchable fire.\""
+  }, {
+    "verse" : "luke,3,18",
+    "text" : "And with many other words John exhorted the people and preached the good news to them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,3,16",
     "id" : 196401,
@@ -87,7 +141,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 3:16\">3:16</a></b> <b>not worthy to untie.</b> In the rabbinic schools a student did not pay his teacher. He was required to perform services, but not the loosing of the sandal, which was considered too menial. John took a lowly place.</p><p><b>fire.</b> The baptism with fire points to judgment (<a class=\"bibleref\" href=\"/passage/?search=Luke 3:9\">v. 9</a> note). The winnowing fork (<a class=\"bibleref\" href=\"/passage/?search=Luke 3:17\">v. 17</a>) is another symbol for judgment. Workers used the fork to throw harvested grain into the wind, letting the grains fall directly to the ground and the chaff blow away. When the threshing floor was cleared, the chaff would be burned.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,3,19", "luke,3,20" ],
+  "verses" : [ {
+    "verse" : "luke,3,19",
+    "text" : "But when John rebuked Herod the tetrarch because of Herodias, his brother's wife, and all the other evil things he had done,"
+  }, {
+    "verse" : "luke,3,20",
+    "text" : "Herod added this to them all: He locked John up in prison."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,3,19-luke,3,20",
     "id" : 196402,
@@ -95,7 +155,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 3:19\">3:19</a>, <a class=\"bibleref\" href=\"/passage/?search=Luke 3:20\">20</a></b> Herod Antipas divorced his wife and married his niece Herodias who was married to his own brother (<a class=\"bibleref\" href=\"/passage/?search=Mark 6:17\">Mark 6:17</a> note). John denounced this scandalous deed, and Herod imprisoned him in the fortress of Machaerus, east of the Dead Sea.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,3,21" ],
+  "verses" : [ {
+    "verse" : "luke,3,21",
+    "text" : "When all the people were being baptized, Jesus was baptized too. And as he was praying, heaven was opened"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,3,21",
     "id" : 196403,
@@ -103,7 +166,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 3:21\">3:21</a></b> Jesus identified Himself with sinners by undergoing their baptism. See “The Baptism of Jesus” at <a class=\"bibleref\" href=\"/passage/?search=Mark 1:9\">Mark 1:9</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,3,22" ],
+  "verses" : [ {
+    "verse" : "luke,3,22",
+    "text" : "and the Holy Spirit descended on him in bodily form like a dove. And a voice came from heaven: \"You are my Son, whom I love; with you I am well pleased.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,3,22",
     "id" : 196404,

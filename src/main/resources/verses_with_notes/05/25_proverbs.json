@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,15,33" ],
+  "verses" : [ {
+    "verse" : "proverbs,15,33",
+    "text" : "The fear of the LORD teaches a man wisdom, and humility comes before honor."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

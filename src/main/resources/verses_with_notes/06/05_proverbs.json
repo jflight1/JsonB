@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,16,21" ],
+  "verses" : [ {
+    "verse" : "proverbs,16,21",
+    "text" : "The wise in heart are called discerning, and pleasant words promote instruction."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 16:21\">16:21</a></b> <b>sweetness of speech.</b> “Honeyed words”; words that reflect an aptitude for communication.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,16,22" ],
+  "verses" : [ {
+    "verse" : "proverbs,16,22",
+    "text" : "Understanding is a fountain of life to those who have it, but folly brings punishment to fools."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,16,22",
     "id" : 192018,
@@ -20,7 +26,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 16:22\">16:22</a></b> <b>fountain of life.</b> See <a class=\"bibleref\" href=\"/passage/?search=Prov 10:11\">10:11</a> and note.</p><p><b>instruction of fools is folly.</b> That is, it is senseless to correct fools because they will not listen. The Hebrew could also mean that their own foolishness becomes an adequate punishment for fools.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,16,23" ],
+  "verses" : [ {
+    "verse" : "proverbs,16,23",
+    "text" : "A wise man's heart guides his mouth, and his lips promote instruction."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,16,23",
     "id" : 192019,

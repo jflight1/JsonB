@@ -1,8 +1,17 @@
 [ {
-  "singleVerses" : [ "john,4,43" ],
+  "verses" : [ {
+    "verse" : "john,4,43",
+    "text" : "After the two days he left for Galilee."
+  } ],
   "rsbNotes" : [ ]
 }, {
-  "singleVerses" : [ "john,4,44", "john,4,45" ],
+  "verses" : [ {
+    "verse" : "john,4,44",
+    "text" : "(Now Jesus himself had pointed out that a prophet has no honor in his own country.)"
+  }, {
+    "verse" : "john,4,45",
+    "text" : "When he arrived in Galilee, the Galileans welcomed him. They had seen all that he had done in Jerusalem at the Passover Feast, for they also had been there."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,4,44",
     "id" : 196948,
@@ -10,7 +19,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 4:44\">4:44</a></b> <b>no honor in his own hometown.</b> “His own hometown” is probably Galilee rather than Judea (cf. <a class=\"bibleref\" href=\"/passage/?search=John 4:3\">v. 3</a>). Galilee is considered to be the place of Jesus’ origin in this Gospel (<a class=\"bibleref\" href=\"/passage/?search=John 1:46\">1:46</a>; <a class=\"bibleref\" href=\"/passage/?search=John 2:1\">2:1</a>; <a class=\"bibleref\" href=\"/passage/?search=John 7:42\">7:42</a>, <a class=\"bibleref\" href=\"/passage/?search=John 7:52\">52</a>). Though the Galileans “welcomed him” (<a class=\"bibleref\" href=\"/passage/?search=John 7:45\">v. 45</a>), the text indicates that Jesus was displeased with their need to “see signs and wonders” in order to believe (<a class=\"bibleref\" href=\"/passage/?search=John 7:48\">v. 48</a>; see Introduction: Interpretive Difficulties).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,4,46", "john,4,47", "john,4,48", "john,4,49" ],
+  "verses" : [ {
+    "verse" : "john,4,46",
+    "text" : "Once more he visited Cana in Galilee, where he had turned the water into wine. And there was a certain royal official whose son lay sick at Capernaum."
+  }, {
+    "verse" : "john,4,47",
+    "text" : "When this man heard that Jesus had arrived in Galilee from Judea, he went to him and begged him to come and heal his son, who was close to death."
+  }, {
+    "verse" : "john,4,48",
+    "text" : "\"Unless you people see miraculous signs and wonders,\" Jesus told him, \"you will never believe.\""
+  }, {
+    "verse" : "john,4,49",
+    "text" : "The royal official said, \"Sir, come down before my child dies.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,4,46",
     "id" : 196949,
@@ -18,7 +39,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 4:46\">4:46</a></b> <b>official.</b> An officer in the service of Herod Antipas, tetrarch of Galilee (cf. <a class=\"bibleref\" href=\"/passage/?search=Matt 14:1-Matt 14:12\">Matt. 14:1–12</a>; <a class=\"bibleref\" href=\"/passage/?search=Luke 23:7\">Luke 23:7</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,4,50", "john,4,51" ],
+  "verses" : [ {
+    "verse" : "john,4,50",
+    "text" : "Jesus replied, \"You may go. Your son will live.\" The man took Jesus at his word and departed."
+  }, {
+    "verse" : "john,4,51",
+    "text" : "While he was still on the way, his servants met him with the news that his boy was living."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,4,50",
     "id" : 196950,
@@ -26,7 +53,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 4:50\">4:50</a></b> <b>your son will live.</b> This was a word with power to heal, not merely a prophecy that he would recover.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,4,52", "john,4,53" ],
+  "verses" : [ {
+    "verse" : "john,4,52",
+    "text" : "When he inquired as to the time when his son got better, they said to him, \"The fever left him yesterday at the seventh hour.\""
+  }, {
+    "verse" : "john,4,53",
+    "text" : "Then the father realized that this was the exact time at which Jesus had said to him, \"Your son will live.\" So he and all his household believed."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,4,52",
     "id" : 196951,
@@ -34,7 +67,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 4:52\">4:52</a></b> <b>the seventh hour.</b> 1:00 <span class=\"small-caps\">p.m.</span></p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,4,54" ],
+  "verses" : [ {
+    "verse" : "john,4,54",
+    "text" : "This was the second miraculous sign that Jesus performed, having come from Judea to Galilee."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,4,54",
     "id" : 196952,

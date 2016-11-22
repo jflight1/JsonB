@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "1kings,12,20", "1kings,12,21" ],
+  "verses" : [ {
+    "verse" : "1kings,12,20",
+    "text" : "When all the Israelites heard that Jeroboam had returned, they sent and called him to the assembly and made him king over all Israel. Only the tribe of Judah remained loyal to the house of David."
+  }, {
+    "verse" : "1kings,12,21",
+    "text" : "When Rehoboam arrived in Jerusalem, he mustered the whole house of Judah and the tribe of Benjamin-a hundred and eighty thousand fighting men-to make war against the house of Israel and to regain the kingdom for Rehoboam son of Solomon."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,12,1-1kings,12,24",
     "id" : 188311,
@@ -12,7 +18,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 12:20\">12:20</a></b> <b>to the assembly.</b> Jeroboam does not seem to have played an active role in the assembly at Shechem. Once he is made king, however, he takes charge over Israelite affairs (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 12:25-1Kgs 12:33\">vv. 25–33</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,12,22" ],
+  "verses" : [ {
+    "verse" : "1kings,12,22",
+    "text" : "But this word of God came to Shemaiah the man of God:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,12,22",
     "id" : 188325,
@@ -20,7 +29,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 12:22\">12:22</a></b> <b>the man of God.</b> This common expression designates a prophet (<a class=\"bibleref\" href=\"/passage/?search=1Sam 2:27\">1 Sam. 2:27</a>; <a class=\"bibleref\" href=\"/passage/?search=1Kgs 13:1\">1 Kin. 13:1</a>; <a class=\"bibleref\" href=\"/passage/?search=2Kgs 4:7\">2 Kin. 4:7</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,12,23" ],
+  "verses" : [ {
+    "verse" : "1kings,12,23",
+    "text" : "\"Say to Rehoboam son of Solomon king of Judah, to the whole house of Judah and Benjamin, and to the rest of the people,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,12,23",
     "id" : 188326,
@@ -28,7 +40,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 12:23\">12:23</a></b> <b>the rest of the people.</b> Probably a reference to members of the northern tribes who had settled in Judah (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 12:17\">v. 17</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,12,24" ],
+  "verses" : [ {
+    "verse" : "1kings,12,24",
+    "text" : "'This is what the LORD says: Do not go up to fight against your brothers, the Israelites. Go home, every one of you, for this is my doing.'\" So they obeyed the word of the LORD and went home again, as the LORD had ordered."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,12,24",
     "id" : 188327,
@@ -36,7 +51,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 12:24\">12:24</a></b> <b>return to his home, for this thing is from me.</b> The prophet Shemaiah reaffirms what the prophet Ahijah had earlier declared (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 11:29-1Kgs 11:39\">11:29–39</a>): the division of the kingdom conforms to the will of God. The existence of two realms is ordained by God, and each now has the opportunity to prove their loyalty to His covenant.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,12,25", "1kings,12,26" ],
+  "verses" : [ {
+    "verse" : "1kings,12,25",
+    "text" : "Then Jeroboam fortified Shechem in the hill country of Ephraim and lived there. From there he went out and built up Peniel."
+  }, {
+    "verse" : "1kings,12,26",
+    "text" : "Jeroboam thought to himself, \"The kingdom will now likely revert to the house of David."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,12,25-1kings,12,33",
     "id" : 188328,
@@ -49,7 +70,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 12:25\">12:25</a></b> <b>Penuel.</b> Jeroboam consolidates his rule by fortifying Shechem and Penuel, two critical cities along the River Jabbok.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,12,27" ],
+  "verses" : [ {
+    "verse" : "1kings,12,27",
+    "text" : "If these people go up to offer sacrifices at the temple of the LORD in Jerusalem, they will again give their allegiance to their lord, Rehoboam king of Judah. They will kill me and return to King Rehoboam.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,12,27",
     "id" : 188330,
@@ -57,7 +81,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 12:27\">12:27</a></b> <b>If this people go up to offer sacrifices.</b> Jeroboam fears that religious unity between north and south will lead to a return to political unity as well.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,12,28" ],
+  "verses" : [ {
+    "verse" : "1kings,12,28",
+    "text" : "After seeking advice, the king made two golden calves. He said to the people, \"It is too much for you to go up to Jerusalem. Here are your gods, O Israel, who brought you up out of Egypt.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,12,28",
     "id" : 188331,
@@ -65,7 +92,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 12:28\">12:28</a></b> <b>two calves of gold.</b> Canaanites characteristically depicted their gods standing on bulls, calves, or other animals. Jeroboam probably prepared his golden calves as a kind of throne platform for God, and not as images of the Lord. Nevertheless, his innovation was an invitation for Canaanite religious practices to enter the northern kingdom (cf. <a class=\"bibleref\" href=\"/passage/?search=Exod 32:4\">Ex. 32:4</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,12,29" ],
+  "verses" : [ {
+    "verse" : "1kings,12,29",
+    "text" : "One he set up in Bethel, and the other in Dan."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,12,29",
     "id" : 188332,
@@ -73,7 +103,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 12:29\">12:29</a></b> <b>Bethel, and . . . Dan.</b> These sites are the centers farthest south and north in Jeroboam’s kingdom. Bethel (lit. “house of God”) was a historic Israelite worship center (<a class=\"bibleref\" href=\"/passage/?search=Gen 12:8\">Gen. 12:8</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 28:11-Gen 28:19\">28:11–19</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 35:6\">35:6</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 35:7\">7</a>; <a class=\"bibleref\" href=\"/passage/?search=Judg 20:26-Judg 20:28\">Judg. 20:26–28</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 7:16\">1 Sam. 7:16</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,12,30" ],
+  "verses" : [ {
+    "verse" : "1kings,12,30",
+    "text" : "And this thing became a sin; the people went even as far as Dan to worship the one there."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,12,30",
     "id" : 188333,
@@ -81,7 +114,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 12:30\">12:30</a></b> <b>this thing became a sin.</b> The establishment of national religious centers in competition with the one in Jerusalem is repeatedly referred to in the books of Kings as the sin of Jeroboam (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 13:34\">13:34</a>; <a class=\"bibleref\" href=\"/passage/?search=1Kgs 14:16\">14:16</a>; <a class=\"bibleref\" href=\"/passage/?search=1Kgs 15:26\">15:26</a>, <a class=\"bibleref\" href=\"/passage/?search=1Kgs 15:30\">30</a>; <a class=\"bibleref\" href=\"/passage/?search=1Kgs 16:2\">16:2</a>; <a class=\"bibleref\" href=\"/passage/?search=2Kgs 3:3\">2 Kin. 3:3</a>; <a class=\"bibleref\" href=\"/passage/?search=2Kgs 10:29\">10:29</a>; <a class=\"bibleref\" href=\"/passage/?search=2Kgs 13:2\">13:2</a>; <a class=\"bibleref\" href=\"/passage/?search=2Kgs 17:22\">17:22</a>). Unfortunately, every northern king followed the path first blazed by Jeroboam. None of them tried to institute a thorough reform. Without determined opposition, the sin of Jeroboam brought about the deterioration and demise of Israel (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 17:22\">2 Kin. 17:22</a>, <a class=\"bibleref\" href=\"/passage/?search=2Kgs 17:23\">23</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,12,31" ],
+  "verses" : [ {
+    "verse" : "1kings,12,31",
+    "text" : "Jeroboam built shrines on high places and appointed priests from all sorts of people, even though they were not Levites."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,12,31",
     "id" : 188334,
@@ -89,7 +125,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 12:31\">12:31</a></b> <b>temples on high places.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Kgs 3:2\">3:2</a>. By promoting worship at the high places, Jeroboam introduced further innovations into his cult.</p><p><b>priests from among all the people.</b> Jeroboam created his own priesthood, without regard to their priestly qualifications or Levitical genealogy (<a class=\"bibleref\" href=\"/passage/?search=Deut 18:1-Deut 18:8\">Deut. 18:1–8</a>; <a class=\"bibleref\" href=\"/passage/?search=Judg 17:10-Judg 17:13\">Judg. 17:10–13</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,12,32" ],
+  "verses" : [ {
+    "verse" : "1kings,12,32",
+    "text" : "He instituted a festival on the fifteenth day of the eighth month, like the festival held in Judah, and offered sacrifices on the altar. This he did in Bethel, sacrificing to the calves he had made. And at Bethel he also installed priests at the high places he had made."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,12,32",
     "id" : 188335,
@@ -97,7 +136,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 12:32\">12:32</a></b> <b>appointed a feast.</b> Perhaps he imitated the Feast of Booths (<a class=\"bibleref\" href=\"/passage/?search=Lev 23:34\">Lev. 23:34</a>; <a class=\"bibleref\" href=\"/passage/?search=1Kgs 8:2\">1 Kin. 8:2</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,12,33" ],
+  "verses" : [ {
+    "verse" : "1kings,12,33",
+    "text" : "On the fifteenth day of the eighth month, a month of his own choosing, he offered sacrifices on the altar he had built at Bethel. So he instituted the festival for the Israelites and went up to the altar to make offerings."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,12,33",
     "id" : 188336,
@@ -105,7 +147,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 12:33\">12:33</a></b> <b>the month that he had devised.</b> That is, one not sanctioned by God. By instituting his own religious centers, festival, and priesthood, Jeroboam deliberately wished to disassociate himself and his people from the Jerusalem temple and the worship practiced there. This clearly goes against the intent of Jeroboam’s commission from God as described in <a class=\"bibleref\" href=\"/passage/?search=1Kgs 11:36-1Kgs 11:39\">11:36–39</a> and <a class=\"bibleref\" href=\"/passage/?search=1Kgs 12:15\">12:15</a>, which mandated a political but not a religious separation between Israel and Judah. Loyalty to the covenant (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 11:38\">11:38</a>) requires loyalty to the temple established for God’s honor and to its priests, festivals, and sacrifices.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,13,1" ],
+  "verses" : [ {
+    "verse" : "1kings,13,1",
+    "text" : "By the word of the LORD a man of God came from Judah to Bethel, as Jeroboam was standing by the altar to make an offering."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,13,1",
     "id" : 188337,
@@ -113,7 +158,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 13:1\">13:1</a></b> <b>man of God.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Kgs 12:22\">12:22</a>.</p><p><b>Judah.</b> God sent a southern prophet to denounce Jeroboam’s northern cult.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,13,2" ],
+  "verses" : [ {
+    "verse" : "1kings,13,2",
+    "text" : "He cried out against the altar by the word of the LORD: \"O altar, altar! This is what the LORD says: 'A son named Josiah will be born to the house of David. On you he will sacrifice the priests of the high places who now make offerings here, and human bones will be burned on you.'\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,13,2",
     "id" : 188338,
@@ -121,7 +169,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 13:2\">13:2</a></b> <b>Josiah.</b> He ruled Judah 640–609 <span class=\"small-caps\">b.c.</span>, three hundred years after Jeroboam.</p><p><b>sacrifice . . . the priests of the high places.</b> This prophecy is realized during Josiah’s reign (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 23:15-2Kgs 23:20\">2 Kin. 23:15–20</a>). By burning human bones on the altar, Josiah desecrated it and made it unfit for continued use as a sacred precinct.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,13,3", "1kings,13,4" ],
+  "verses" : [ {
+    "verse" : "1kings,13,3",
+    "text" : "That same day the man of God gave a sign: \"This is the sign the LORD has declared: The altar will be split apart and the ashes on it will be poured out.\""
+  }, {
+    "verse" : "1kings,13,4",
+    "text" : "When King Jeroboam heard what the man of God cried out against the altar at Bethel, he stretched out his hand from the altar and said, \"Seize him!\" But the hand he stretched out toward the man shriveled up, so that he could not pull it back."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,13,3",
     "id" : 188339,
@@ -129,7 +183,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 13:3\">13:3</a></b> <b>sign.</b> The prophets sometimes gave a sign, an immediate proof, to corroborate a prophecy (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 19:29\">2 Kin. 19:29</a>; <a class=\"bibleref\" href=\"/passage/?search=2Kgs 20:8-2Kgs 20:11\">20:8–11</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 44:29\">Jer. 44:29</a>, <a class=\"bibleref\" href=\"/passage/?search=Jer 44:30\">30</a>).</p><p><b>the ashes that are on it shall be poured out.</b> The altar was thereby profaned (<a class=\"bibleref\" href=\"/passage/?search=Lev 6:10-Lev 6:13\">Lev. 6:10–13</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,13,5" ],
+  "verses" : [ {
+    "verse" : "1kings,13,5",
+    "text" : "Also, the altar was split apart and its ashes poured out according to the sign given by the man of God by the word of the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,13,5",
     "id" : 188340,
@@ -137,7 +194,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 13:5\">13:5</a></b> <b>The altar also was torn down.</b> This sign (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 13:3\">v. 3</a>) confirms the prophecy about Josiah and shows God’s condemnation of Jeroboam’s religious system.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,13,6", "1kings,13,7" ],
+  "verses" : [ {
+    "verse" : "1kings,13,6",
+    "text" : "Then the king said to the man of God, \"Intercede with the LORD your God and pray for me that my hand may be restored.\" So the man of God interceded with the LORD, and the king's hand was restored and became as it was before."
+  }, {
+    "verse" : "1kings,13,7",
+    "text" : "The king said to the man of God, \"Come home with me and have something to eat, and I will give you a gift.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,13,6",
     "id" : 188341,
@@ -145,7 +208,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 13:6\">13:6</a></b> <b>that my hand may be restored.</b> God, in generously healing Jeroboam’s hand, reaffirms the authority of His prophet.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,13,8" ],
+  "verses" : [ {
+    "verse" : "1kings,13,8",
+    "text" : "But the man of God answered the king, \"Even if you were to give me half your possessions, I would not go with you, nor would I eat bread or drink water here."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,13,8",
     "id" : 188342,
@@ -153,7 +219,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 13:8\">13:8</a></b> <b>eat bread or drink water.</b> For the prophet to accept this hospitality would imply his approval of Jeroboam’s policies.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,13,9", "1kings,13,10" ],
+  "verses" : [ {
+    "verse" : "1kings,13,9",
+    "text" : "For I was commanded by the word of the LORD: 'You must not eat bread or drink water or return by the way you came.'\""
+  }, {
+    "verse" : "1kings,13,10",
+    "text" : "So he took another road and did not return by the way he had come to Bethel."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,13,9",
     "id" : 188343,
@@ -161,7 +233,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 13:9\">13:9</a></b> <b>You shall neither eat . . . nor drink . . . nor return.</b> The prophet has explicit instructions from God about his personal conduct (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 13:17\">v. 17</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,13,11", "1kings,13,12", "1kings,13,13", "1kings,13,14", "1kings,13,15", "1kings,13,16", "1kings,13,17" ],
+  "verses" : [ {
+    "verse" : "1kings,13,11",
+    "text" : "Now there was a certain old prophet living in Bethel, whose sons came and told him all that the man of God had done there that day. They also told their father what he had said to the king."
+  }, {
+    "verse" : "1kings,13,12",
+    "text" : "Their father asked them, \"Which way did he go?\" And his sons showed him which road the man of God from Judah had taken."
+  }, {
+    "verse" : "1kings,13,13",
+    "text" : "So he said to his sons, \"Saddle the donkey for me.\" And when they had saddled the donkey for him, he mounted it"
+  }, {
+    "verse" : "1kings,13,14",
+    "text" : "and rode after the man of God. He found him sitting under an oak tree and asked, \"Are you the man of God who came from Judah?I am,\" he replied."
+  }, {
+    "verse" : "1kings,13,15",
+    "text" : "So the prophet said to him, \"Come home with me and eat.\""
+  }, {
+    "verse" : "1kings,13,16",
+    "text" : "The man of God said, \"I cannot turn back and go with you, nor can I eat bread or drink water with you in this place."
+  }, {
+    "verse" : "1kings,13,17",
+    "text" : "I have been told by the word of the LORD: 'You must not eat bread or drink water there or return by the way you came.'\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,13,11",
     "id" : 188344,
@@ -169,7 +262,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 13:11\">13:11</a></b> <b>lived in Bethel.</b> The old prophet is from the north, unlike the man of God from Judah.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,13,18", "1kings,13,19" ],
+  "verses" : [ {
+    "verse" : "1kings,13,18",
+    "text" : "The old prophet answered, \"I too am a prophet, as you are. And an angel said to me by the word of the LORD: 'Bring him back with you to your house so that he may eat bread and drink water.'\" (But he was lying to him.)"
+  }, {
+    "verse" : "1kings,13,19",
+    "text" : "So the man of God returned with him and ate and drank in his house."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,13,18",
     "id" : 188345,
@@ -177,7 +276,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 13:18\">13:18</a></b> <b>he lied to him.</b> The man of God from Judah could not have known this, except that the new revelation violated his own orders from God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,13,20", "1kings,13,21" ],
+  "verses" : [ {
+    "verse" : "1kings,13,20",
+    "text" : "While they were sitting at the table, the word of the LORD came to the old prophet who had brought him back."
+  }, {
+    "verse" : "1kings,13,21",
+    "text" : "He cried out to the man of God who had come from Judah, \"This is what the LORD says: 'You have defied the word of the LORD and have not kept the command the LORD your God gave you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,13,20",
     "id" : 188346,
@@ -185,7 +290,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 13:20\">13:20</a></b> <b>the word of the <span class=\"small-caps\">Lord</span>.</b> Ironically, God uses the old “lying” prophet of Bethel to deliver a true prophecy (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 13:18\">v. 18</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,13,22", "1kings,13,23" ],
+  "verses" : [ {
+    "verse" : "1kings,13,22",
+    "text" : "You came back and ate bread and drank water in the place where he told you not to eat or drink. Therefore your body will not be buried in the tomb of your fathers.'\""
+  }, {
+    "verse" : "1kings,13,23",
+    "text" : "When the man of God had finished eating and drinking, the prophet who had brought him back saddled his donkey for him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,13,22",
     "id" : 188347,
@@ -193,7 +304,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 13:22\">13:22</a></b> <b>your body shall not come to the tomb of your fathers.</b> It was considered important to be buried along with one’s ancestors in the family burial plot (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 1:21\">1:21</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 47:30\">Gen. 47:30</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 24:32\">Josh. 24:32</a>; <a class=\"bibleref\" href=\"/passage/?search=2Sam 2:32\">2 Sam. 2:32</a>; <a class=\"bibleref\" href=\"/passage/?search=2Sam 17:23\">17:23</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,13,24", "1kings,13,25", "1kings,13,26", "1kings,13,27", "1kings,13,28", "1kings,13,29" ],
+  "verses" : [ {
+    "verse" : "1kings,13,24",
+    "text" : "As he went on his way, a lion met him on the road and killed him, and his body was thrown down on the road, with both the donkey and the lion standing beside it."
+  }, {
+    "verse" : "1kings,13,25",
+    "text" : "Some people who passed by saw the body thrown down there, with the lion standing beside the body, and they went and reported it in the city where the old prophet lived."
+  }, {
+    "verse" : "1kings,13,26",
+    "text" : "When the prophet who had brought him back from his journey heard of it, he said, \"It is the man of God who defied the word of the LORD. The LORD has given him over to the lion, which has mauled him and killed him, as the word of the LORD had warned him.\""
+  }, {
+    "verse" : "1kings,13,27",
+    "text" : "The prophet said to his sons, \"Saddle the donkey for me,\" and they did so."
+  }, {
+    "verse" : "1kings,13,28",
+    "text" : "Then he went out and found the body thrown down on the road, with the donkey and the lion standing beside it. The lion had neither eaten the body nor mauled the donkey."
+  }, {
+    "verse" : "1kings,13,29",
+    "text" : "So the prophet picked up the body of the man of God, laid it on the donkey, and brought it back to his own city to mourn for him and bury him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,13,24",
     "id" : 188348,
@@ -201,7 +330,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 13:24\">13:24</a></b> <b>the donkey . . . lion.</b> The strange behavior of the animals is understood to be miraculous, and when news of it reaches the old prophet he immediately understands its significance.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,13,30" ],
+  "verses" : [ {
+    "verse" : "1kings,13,30",
+    "text" : "Then he laid the body in his own tomb, and they mourned over him and said, \"Oh, my brother!\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,13,30",
     "id" : 188349,
@@ -209,7 +341,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 13:30\">13:30</a></b> <b>Alas, my brother.</b> This lament is appropriate for an equal and not for a superior (cf. <a class=\"bibleref\" href=\"/passage/?search=Jer 22:18\">Jer. 22:18</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,13,31", "1kings,13,32", "1kings,13,33" ],
+  "verses" : [ {
+    "verse" : "1kings,13,31",
+    "text" : "After burying him, he said to his sons, \"When I die, bury me in the grave where the man of God is buried; lay my bones beside his bones."
+  }, {
+    "verse" : "1kings,13,32",
+    "text" : "For the message he declared by the word of the LORD against the altar in Bethel and against all the shrines on the high places in the towns of Samaria will certainly come true.\""
+  }, {
+    "verse" : "1kings,13,33",
+    "text" : "Even after this, Jeroboam did not change his evil ways, but once more appointed priests for the high places from all sorts of people. Anyone who wanted to become a priest he consecrated for the high places."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,13,31",
     "id" : 188350,
@@ -217,7 +358,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 13:31\">13:31</a></b> <b>lay my bones beside his bones.</b> The old prophet identifies himself with the prophecy of the man from Judah by having himself buried in the same tomb. When Josiah later desecrates the Bethel altar, he does not disturb the bones out of respect for the prophet from Judah (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 23:17\">2 Kin. 23:17</a>, <a class=\"bibleref\" href=\"/passage/?search=2Kgs 23:18\">18</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,13,34" ],
+  "verses" : [ {
+    "verse" : "1kings,13,34",
+    "text" : "This was the sin of the house of Jeroboam that led to its downfall and to its destruction from the face of the earth."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,13,34",
     "id" : 188351,

@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,2,1" ],
+  "verses" : [ {
+    "verse" : "psalms,2,1",
+    "text" : "Why do the nations conspire and the peoples plot in vain?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,2,1-psalms,2,12",
     "id" : 190203,
@@ -7,7 +10,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 2\">Ps. 2</a></b> The theme of kingship pervades this psalm. While most of the kingship psalms focus on either divine or human kingship, <a class=\"bibleref\" href=\"/passage/?search=Ps 2\">Ps. 2</a> masterfully integrates both, contrasting the divine King and His human counterpart with the hostile “kings of the earth.” The psalm has no title, but the New Testament ascribes it to David (<a class=\"bibleref\" href=\"/passage/?search=Acts 4:25\">Acts 4:25</a>). The New Testament frequently quotes and alludes to this psalm (<a class=\"bibleref\" href=\"/passage/?search=Matt 3:17\">Matt. 3:17</a>; <a class=\"bibleref\" href=\"/passage/?search=Matt 17:5\">17:5</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 4:25-Acts 4:27\">Acts 4:25–27</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 13:33\">13:33</a>; <a class=\"bibleref\" href=\"/passage/?search=Rom 1:4\">Rom. 1:4</a>; <a class=\"bibleref\" href=\"/passage/?search=Heb 1:5\">Heb. 1:5</a>; <a class=\"bibleref\" href=\"/passage/?search=Heb 5:5\">5:5</a>). Jesus Christ is the Son of David and the Son of God; the promises given to David come to fulfillment in Him.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,2,2" ],
+  "verses" : [ {
+    "verse" : "psalms,2,2",
+    "text" : "The kings of the earth take their stand and the rulers gather together against the LORD and against his Anointed One."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,2,2",
     "id" : 190204,
@@ -15,7 +21,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 2:2\">2:2</a></b> <b>kings.</b> The nations are being organized by their political leaders.</p><p><b>his anointed.</b> While the living Davidic king is undoubtedly in view for the psalmist, the ultimate reference of the song is to Christ, the King of Kings.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,2,3" ],
+  "verses" : [ {
+    "verse" : "psalms,2,3",
+    "text" : "\"Let us break their chains,\" they say, \"and throw off their fetters.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,2,3",
     "id" : 190205,
@@ -23,7 +32,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 2:3\">2:3</a></b> <b>burst their bonds.</b> A metaphor for rebellion.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,2,4", "psalms,2,5" ],
+  "verses" : [ {
+    "verse" : "psalms,2,4",
+    "text" : "The One enthroned in heaven laughs; the Lord scoffs at them."
+  }, {
+    "verse" : "psalms,2,5",
+    "text" : "Then he rebukes them in his anger and terrifies them in his wrath, saying,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,2,4-psalms,2,6",
     "id" : 190206,
@@ -31,7 +46,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 2:4-Ps 2:6\">2:4–6</a></b> The Lord answers His enemies with the installation of the King.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,2,6" ],
+  "verses" : [ {
+    "verse" : "psalms,2,6",
+    "text" : "\"I have installed my King on Zion, my holy hill.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,2,6",
     "id" : 190207,
@@ -39,7 +57,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 2:6\">2:6</a></b> <b>my King.</b> The Lord counters the plotting of the kings by pointing to the establishment of His messianic King, prefigured in the temporal monarchy of Jerusalem.</p><p><b>Zion.</b> Zion is a hill north of the Davidic city of Jerusalem. It is not important because of its size, but because it is the location of the temple. Jerusalem as a whole is sometimes called Zion. Earthly Zion was a token of the heavenly Zion. Much of the symbolism of the temple pointed to heavenly realities.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,2,7", "psalms,2,8" ],
+  "verses" : [ {
+    "verse" : "psalms,2,7",
+    "text" : "I will proclaim the decree of the LORD: He said to me, \"You are my Son; today I have become your Father."
+  }, {
+    "verse" : "psalms,2,8",
+    "text" : "Ask of me, and I will make the nations your inheritance, the ends of the earth your possession."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,2,7",
     "id" : 190208,
@@ -47,7 +71,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 2:7\">2:7</a></b> <b>You are my Son.</b> The divine speech addressed to the divine Son (cf. <a class=\"bibleref\" href=\"/passage/?search=Heb 1:5\">Heb. 1:5</a>), with David as witness, reflects the promise of <a class=\"bibleref\" href=\"/passage/?search=2Sam 7:14\">2 Sam. 7:14</a>—the Davidic covenant, which had in view not merely David’s earthly descendants, but the divine Son of whom David was also an ancestor.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,2,9", "psalms,2,10", "psalms,2,11" ],
+  "verses" : [ {
+    "verse" : "psalms,2,9",
+    "text" : "You will rule them with an iron scepter; you will dash them to pieces like pottery.\""
+  }, {
+    "verse" : "psalms,2,10",
+    "text" : "Therefore, you kings, be wise; be warned, you rulers of the earth."
+  }, {
+    "verse" : "psalms,2,11",
+    "text" : "Serve the LORD with fear and rejoice with trembling."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,2,9",
     "id" : 190209,
@@ -55,7 +88,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 2:9\">2:9</a></b> See “God Reigns: Divine Sovereignty” at <a class=\"bibleref\" href=\"/passage/?search=Dan 4:34\">Dan. 4:34</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,2,12" ],
+  "verses" : [ {
+    "verse" : "psalms,2,12",
+    "text" : "Kiss the Son, lest he be angry and you be destroyed in your way, for his wrath can flare up in a moment. Blessed are all who take refuge in him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,2,12",
     "id" : 190210,

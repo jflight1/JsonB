@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,17,1" ],
+  "verses" : [ {
+    "verse" : "psalms,17,1",
+    "text" : "Hear, O LORD, my righteous plea; listen to my cry. Give ear to my prayer- it does not rise from deceitful lips."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,17,1-psalms,17,15",
     "id" : 190311,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 17:1\">17:1</a></b> <b>my prayer.</b> The psalmist is not denying that he is a sinner. He is denying specific charges made against him.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,17,2" ],
+  "verses" : [ {
+    "verse" : "psalms,17,2",
+    "text" : "May my vindication come from you; may your eyes see what is right."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,17,2",
     "id" : 190313,
@@ -20,7 +26,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 17:2\">17:2</a></b> <b>vindication.</b> Lit. “judgment.” The psalmist appeals his case to God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,17,3" ],
+  "verses" : [ {
+    "verse" : "psalms,17,3",
+    "text" : "Though you probe my heart and examine me at night, though you test me, you will find nothing; I have resolved that my mouth will not sin."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,17,3",
     "id" : 190314,
@@ -28,7 +37,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 17:3\">17:3</a></b> <b>tried my heart.</b> Here, the “heart” is the hidden center of a person’s being, but God can read the heart.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,17,4" ],
+  "verses" : [ {
+    "verse" : "psalms,17,4",
+    "text" : "As for the deeds of men- by the word of your lips I have kept myself from the ways of the violent."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,17,4",
     "id" : 190315,
@@ -36,7 +48,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 17:4\">17:4</a></b> <b>word of your lips.</b> God’s will, disclosed in the law of God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,17,5", "psalms,17,6" ],
+  "verses" : [ {
+    "verse" : "psalms,17,5",
+    "text" : "My steps have held to your paths; my feet have not slipped."
+  }, {
+    "verse" : "psalms,17,6",
+    "text" : "I call on you, O God, for you will answer me; give ear to me and hear my prayer."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,17,5",
     "id" : 190316,
@@ -44,7 +62,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 17:5\">17:5</a></b> <b>your paths.</b> These ways, as spelled out in God’s Word, are to be contrasted with the “ways of the violent” (<a class=\"bibleref\" href=\"/passage/?search=Ps 17:4\">v. 4</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,17,7" ],
+  "verses" : [ {
+    "verse" : "psalms,17,7",
+    "text" : "Show the wonder of your great love, you who save by your right hand those who take refuge in you from their foes."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,17,7",
     "id" : 190317,
@@ -52,7 +73,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 17:7\">17:7</a></b> <b>steadfast love.</b> The Hebrew word denotes God’s love toward those with whom He is in covenant relationship.</p><p><b>Savior.</b> The psalmist could look back over the history of Israel and see how many times God saved His people in distress. The Exodus from Egypt is the prime example of God’s saving love.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,17,8", "psalms,17,9" ],
+  "verses" : [ {
+    "verse" : "psalms,17,8",
+    "text" : "Keep me as the apple of your eye; hide me in the shadow of your wings"
+  }, {
+    "verse" : "psalms,17,9",
+    "text" : "from the wicked who assail me, from my mortal enemies who surround me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,17,8",
     "id" : 190318,
@@ -60,7 +87,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 17:8\">17:8</a></b> <b>apple.</b> The pupil, one of the most sensitive parts of the body (<a class=\"bibleref\" href=\"/passage/?search=Deut 32:10\">Deut. 32:10</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,17,10" ],
+  "verses" : [ {
+    "verse" : "psalms,17,10",
+    "text" : "They close up their callous hearts, and their mouths speak with arrogance."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,17,10",
     "id" : 190319,
@@ -68,7 +98,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 17:10\">17:10</a></b> <b>their hearts.</b> An alternative translation is “their fat,” a caricature of their physical appearance.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,17,11" ],
+  "verses" : [ {
+    "verse" : "psalms,17,11",
+    "text" : "They have tracked me down, they now surround me, with eyes alert, to throw me to the ground."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,17,11",
     "id" : 190320,
@@ -76,7 +109,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 17:11\">17:11</a></b> <b>surrounded our steps.</b> The enemy has taken the initiative to destroy the psalmist.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,17,12" ],
+  "verses" : [ {
+    "verse" : "psalms,17,12",
+    "text" : "They are like a lion hungry for prey, like a great lion crouching in cover."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,17,12",
     "id" : 190321,
@@ -84,7 +120,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 17:12\">17:12</a></b> <b>lion.</b> Commonly known for its ruthlessness and cruelty. Cf. <a class=\"bibleref\" href=\"/passage/?search=Ps 7:2\">Ps. 7:2</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 10:9\">10:9</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 22:13\">22:13</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,17,13" ],
+  "verses" : [ {
+    "verse" : "psalms,17,13",
+    "text" : "Rise up, O LORD, confront them, bring them down; rescue me from the wicked by your sword."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,17,13",
     "id" : 190322,
@@ -92,7 +131,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 17:13\">17:13</a></b> <b>Arise.</b> <a class=\"bibleref\" href=\"/passage/?search=Ps 3:7\">Ps. 3:7</a> note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,17,14" ],
+  "verses" : [ {
+    "verse" : "psalms,17,14",
+    "text" : "O LORD, by your hand save me from such men, from men of this world whose reward is in this life. You still the hunger of those you cherish; their sons have plenty, and they store up wealth for their children."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,17,14",
     "id" : 190323,
@@ -100,7 +142,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 17:14\">17:14</a></b> <b>You fill their womb.</b> This verse expresses the general truth that the righteous will not want.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,17,15" ],
+  "verses" : [ {
+    "verse" : "psalms,17,15",
+    "text" : "And I-in righteousness I will see your face; when I awake, I will be satisfied with seeing your likeness."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,17,15",
     "id" : 190324,

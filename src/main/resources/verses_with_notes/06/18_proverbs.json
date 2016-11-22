@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "proverbs,17,14", "proverbs,17,15" ],
+  "verses" : [ {
+    "verse" : "proverbs,17,14",
+    "text" : "Starting a quarrel is like breaching a dam; so drop the matter before a dispute breaks out."
+  }, {
+    "verse" : "proverbs,17,15",
+    "text" : "Acquitting the guilty and condemning the innocent- the LORD detests them both."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

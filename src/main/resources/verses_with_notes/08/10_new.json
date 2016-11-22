@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "1corinthians,6,1" ],
+  "verses" : [ {
+    "verse" : "1corinthians,6,1",
+    "text" : "If any of you has a dispute with another, dare he take it before the ungodly for judgment instead of before the saints?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1corinthians,6,1",
     "id" : 198027,
@@ -7,7 +10,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Cor 6:1\">6:1</a></b> <b>dare go to law before the unrighteous.</b> With this verse, Paul appears to change the topic from the evils of immorality to the problem of lawsuits among Christians. It is important, however, to notice the connection. In the first place, the topic of immorality has not been abandoned, but will recur in <a class=\"bibleref\" href=\"/passage/?search=1Cor 6:9\">v. 9</a>. Secondly, the failings of the Corinthians with regard to lawsuits are an expression of the problem already discussed in <a class=\"bibleref\" href=\"/passage/?search=1Cor 5\">ch. 5</a>, namely, a weak doctrine of the church. Just as Christians are not responsible to regulate the lives of non-Christians, so non-Christians have no power to discipline in the church. If the Corinthians understood the relation between the Israelite community and the Christian fellowship (<a class=\"bibleref\" href=\"/passage/?search=1Cor 5:12\">5:12</a>, <a class=\"bibleref\" href=\"/passage/?search=1Cor 5:13\">13</a> note), they would realize it was absurd for believers to go outside the church to solve their disputes. Who could imagine a pagan Gentile settling disputes among Israelites in the wilderness? This text does not comment on the legitimate role of civil authorities to judge matters that God has put under them. See “Christians and Civil Government” at <a class=\"bibleref\" href=\"/passage/?search=Rom 13:1\">Rom. 13:1</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1corinthians,6,2", "1corinthians,6,3", "1corinthians,6,4", "1corinthians,6,5", "1corinthians,6,6" ],
+  "verses" : [ {
+    "verse" : "1corinthians,6,2",
+    "text" : "Do you not know that the saints will judge the world? And if you are to judge the world, are you not competent to judge trivial cases?"
+  }, {
+    "verse" : "1corinthians,6,3",
+    "text" : "Do you not know that we will judge angels? How much more the things of this life!"
+  }, {
+    "verse" : "1corinthians,6,4",
+    "text" : "Therefore, if you have disputes about such matters, appoint as judges even men of little account in the church!"
+  }, {
+    "verse" : "1corinthians,6,5",
+    "text" : "I say this to shame you. Is it possible that there is nobody among you wise enough to judge a dispute between believers?"
+  }, {
+    "verse" : "1corinthians,6,6",
+    "text" : "But instead, one brother goes to law against another--and this in front of unbelievers!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1corinthians,6,2-1corinthians,6,5",
     "id" : 198028,
@@ -15,7 +33,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Cor 6:2-1Cor 6:5\">6:2–5</a></b> The absurdity of the situation in Corinth becomes clearer when one recognizes that, in the consummation of history (but not before; <a class=\"bibleref\" href=\"/passage/?search=1Cor 5:12\">5:12</a>, <a class=\"bibleref\" href=\"/passage/?search=1Cor 5:13\">13</a>), Christians will participate with Christ in judging not only unbelievers but angels. Even the least qualified among the Corinthians is in a better position than an unbeliever to arbitrate disputes in the church.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1corinthians,6,7", "1corinthians,6,8" ],
+  "verses" : [ {
+    "verse" : "1corinthians,6,7",
+    "text" : "The very fact that you have lawsuits among you means you have been completely defeated already. Why not rather be wronged? Why not rather be cheated?"
+  }, {
+    "verse" : "1corinthians,6,8",
+    "text" : "Instead, you yourselves cheat and do wrong, and you do this to your brothers."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1corinthians,6,7",
     "id" : 198029,
@@ -23,7 +47,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Cor 6:7\">6:7</a></b> <b>Why not rather suffer wrong.</b> This remarkable question makes obvious how critical is the principle of community for the apostle. The point is certainly not that Christians should be encouraged to take abuse from others. After all, cheating and injustice should not even exist within the Christian community. That such injustices do exist, and are indeed performed by Christians against one another, demonstrates how far the Corinthians have fallen. Nevertheless, if the Corinthians understood the serious implications of all the improprieties in their church, and if they appreciated the qualities that should characterize believers (cf. <a class=\"bibleref\" href=\"/passage/?search=1Cor 13:4-1Cor 13:7\">13:4–7</a>), they would much sooner bear injustice than bring disgrace upon the Christian community by publicly exposing their misdeeds in the civil courts.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1corinthians,6,9", "1corinthians,6,10" ],
+  "verses" : [ {
+    "verse" : "1corinthians,6,9",
+    "text" : "Do you not know that the wicked will not inherit the kingdom of God? Do not be deceived: Neither the sexually immoral nor idolaters nor adulterers nor male prostitutes nor homosexual offenders"
+  }, {
+    "verse" : "1corinthians,6,10",
+    "text" : "nor thieves nor the greedy nor drunkards nor slanderers nor swindlers will inherit the kingdom of God."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1corinthians,6,9",
     "id" : 198030,
@@ -31,7 +61,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Cor 6:9\">6:9</a></b> <b>the unrighteous will not inherit the kingdom of God.</b> See “Antinomianism” at <a class=\"bibleref\" href=\"/passage/?search=1John 3:7\">1 John 3:7</a>. That the things of this world are incompatible with the kingdom of God is a recurring principle in Scripture (15:50; <a class=\"bibleref\" href=\"/passage/?search=Gal 5:21\">Gal. 5:21</a>). The question arises whether anyone at all can be saved, since all are wicked. Paul’s answer is twofold: on the one hand, God delights in justifying the wicked (<a class=\"bibleref\" href=\"/passage/?search=Rom 4:5\">Rom. 4:5</a>); on the other hand, those whom God justifies (declares righteous because of Christ’s death) He also sanctifies (leads into a holy way of life; <a class=\"bibleref\" href=\"/passage/?search=Rom 6:1-Rom 6:4\">Rom. 6:1–4</a>). Paul is confident that the Corinthians are true believers, justified and sanctified (v. 11 note), and that their present misbehavior is an anomaly that can be corrected. But it must be corrected. Persistence in wickedness would be an indication that their faith is false and that they have no place in the kingdom.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1corinthians,6,11" ],
+  "verses" : [ {
+    "verse" : "1corinthians,6,11",
+    "text" : "And that is what some of you were. But you were washed, you were sanctified, you were justified in the name of the Lord Jesus Christ and by the Spirit of our God."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1corinthians,6,11",
     "id" : 198031,
@@ -39,7 +72,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Cor 6:11\">6:11</a></b> <b>But you were washed.</b> See notes <a class=\"bibleref\" href=\"/passage/?search=1Cor 1:2\">1:2</a>; <a class=\"bibleref\" href=\"/passage/?search=1Cor 5:7\">5:7</a>; theological note “Sanctification: The Spirit and the Flesh.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1corinthians,6,12", "1corinthians,6,13" ],
+  "verses" : [ {
+    "verse" : "1corinthians,6,12",
+    "text" : "\"Everything is permissible for me\"--but not everything is beneficial. \"Everything is permissible for me\"--but I will not be mastered by anything."
+  }, {
+    "verse" : "1corinthians,6,13",
+    "text" : "\"Food for the stomach and the stomach for food\"--but God will destroy them both. The body is not meant for sexual immorality, but for the Lord, and the Lord for the body."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1corinthians,6,12-1corinthians,6,13",
     "id" : 198032,
@@ -47,7 +86,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Cor 6:12\">6:12</a>, <a class=\"bibleref\" href=\"/passage/?search=1Cor 6:13\">13</a></b> Paul may be quoting sayings, probably common in Corinth, that were used to excuse immoral behavior. The apostle’s response suggests that, even if there is an element of truth in these slogans, the Corinthians have perverted it. Indeed, his qualifications have the effect of denying the very point of the sayings, and he ends by emphasizing the noble purpose for which God has given us a body.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1corinthians,6,14" ],
+  "verses" : [ {
+    "verse" : "1corinthians,6,14",
+    "text" : "By his power God raised the Lord from the dead, and he will raise us also."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1corinthians,6,14",
     "id" : 198033,
@@ -55,7 +97,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Cor 6:14\">6:14</a></b> <b>will also raise us up.</b> This reference to the Resurrection is unexpected here, and probably reflects the connection between inadequate doctrine and deficient life. Being exposed to Greek thought, many of the Corinthians appear to have had contempt for the body, even to the extent of denying the future bodily resurrection (<a class=\"bibleref\" href=\"/passage/?search=1Cor 15\">ch. 15</a>; <a class=\"bibleref\" href=\"/passage/?search=1Cor 15:35\">15:35</a> note). With such a weak doctrine, some of them may have regarded sexual relationships as inherently sinful because they take place through the body (<a class=\"bibleref\" href=\"/passage/?search=1Cor 7:1-1Cor 7:5\">7:1–5</a>). A different group, influenced by the same false doctrine, apparently took the opposite view: since what one does with the body does not matter, even promiscuous sexual behavior is not wrong.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1corinthians,6,15", "1corinthians,6,16", "1corinthians,6,17" ],
+  "verses" : [ {
+    "verse" : "1corinthians,6,15",
+    "text" : "Do you not know that your bodies are members of Christ himself? Shall I then take the members of Christ and unite them with a prostitute? Never!"
+  }, {
+    "verse" : "1corinthians,6,16",
+    "text" : "Do you not know that he who unites himself with a prostitute is one with her in body? For it is said, \"The two will become one flesh.\""
+  }, {
+    "verse" : "1corinthians,6,17",
+    "text" : "But he who unites himself with the Lord is one with him in spirit."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1corinthians,6,15",
     "id" : 198034,
@@ -63,7 +114,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Cor 6:15\">6:15</a></b> <b>your bodies are members of Christ.</b> The doctrine of the believer’s union with Christ is one of the most fundamental teachings of the apostle. What is significant about this verse is that it represents that union as involving the whole person, not only the body (<a class=\"bibleref\" href=\"/passage/?search=Rom 12:1\">Rom. 12:1</a>). The Corinthians are wrong in thinking that sexual union with a prostitute, just because it is physical, does not affect their relationship with Christ.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1corinthians,6,18" ],
+  "verses" : [ {
+    "verse" : "1corinthians,6,18",
+    "text" : "Flee from sexual immorality. All other sins a man commits are outside his body, but he who sins sexually sins against his own body."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1corinthians,6,18",
     "id" : 198035,
@@ -71,7 +125,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Cor 6:18\">6:18</a></b> <b>outside the body.</b> The meaning of this passage is disputed. There seem to be many sins that are against the body. Nevertheless, in Paul’s teaching the physical union involved in sexual immorality has special consequences because it interferes with our Christian identity as people who have been united with Christ through the Holy Spirit. It is perhaps significant that Paul’s prohibition in this verse (“Flee from sexual immorality”) is expressed in the same way as the command against idolatry (<a class=\"bibleref\" href=\"/passage/?search=1Cor 10:14\">10:14</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1corinthians,6,19", "1corinthians,6,20" ],
+  "verses" : [ {
+    "verse" : "1corinthians,6,19",
+    "text" : "Do you not know that your body is a temple of the Holy Spirit, who is in you, whom you have received from God? You are not your own;"
+  }, {
+    "verse" : "1corinthians,6,20",
+    "text" : "you were bought at a price. Therefore honor God with your body."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1corinthians,6,19",
     "id" : 198036,

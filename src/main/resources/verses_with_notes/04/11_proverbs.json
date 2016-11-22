@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,12,27" ],
+  "verses" : [ {
+    "verse" : "proverbs,12,27",
+    "text" : "The lazy man does not roast his game, but the diligent man prizes his possessions."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 12:27\">12:27</a></b> <b>roast.</b> It is difficult to tell whether the translation should be that the man is too lazy to roast his prey, or too lazy to catch it in the first place. The second line praises diligence without continuing the metaphor of the hunt.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,12,28" ],
+  "verses" : [ {
+    "verse" : "proverbs,12,28",
+    "text" : "In the way of righteousness there is life; along that path is immortality."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,12,28",
     "id" : 191921,

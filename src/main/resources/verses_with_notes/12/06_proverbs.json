@@ -1,5 +1,14 @@
 [ {
-  "singleVerses" : [ "proverbs,29,9", "proverbs,29,10", "proverbs,29,11" ],
+  "verses" : [ {
+    "verse" : "proverbs,29,9",
+    "text" : "If a wise man goes to court with a fool, the fool rages and scoffs, and there is no peace."
+  }, {
+    "verse" : "proverbs,29,10",
+    "text" : "Bloodthirsty men hate a man of integrity and seek to kill the upright."
+  }, {
+    "verse" : "proverbs,29,11",
+    "text" : "A fool gives full vent to his anger, but a wise man keeps himself under control."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,29,9",
     "id" : 192322,

@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,97,1" ],
+  "verses" : [ {
+    "verse" : "psalms,97,1",
+    "text" : "The LORD reigns, let the earth be glad; let the distant shores rejoice."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,97,1",
     "id" : 191092,
@@ -7,7 +10,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 97:1\">97:1</a></b> <b>The <span class=\"small-caps\">Lord</span> reigns.</b> For God as King, see note <a class=\"bibleref\" href=\"/passage/?search=Ps 93:1\">Ps. 93:1</a>.</p><p><b>the earth.</b> The psalm calls on all the earth to praise God. This call to the nations has taken on a whole new meaning after the death and resurrection of Jesus Christ.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,97,2", "psalms,97,3", "psalms,97,4" ],
+  "verses" : [ {
+    "verse" : "psalms,97,2",
+    "text" : "Clouds and thick darkness surround him; righteousness and justice are the foundation of his throne."
+  }, {
+    "verse" : "psalms,97,3",
+    "text" : "Fire goes before him and consumes his foes on every side."
+  }, {
+    "verse" : "psalms,97,4",
+    "text" : "His lightning lights up the world; the earth sees and trembles."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,97,2-psalms,97,3",
     "id" : 191093,
@@ -15,7 +27,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 97:2\">97:2</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 97:3\">3</a> Clouds . . . darkness . . . fire.</b> See <a class=\"bibleref\" href=\"/passage/?search=Ps 18\">Ps. 18</a> and <a class=\"bibleref\" href=\"/passage/?search=Ps 29\">29</a>. The visible revelation of God (i.e., in theophany) was sometimes in the context of a storm-like event. Such a manifestation helped God’s people to appreciate His awesome power.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,97,5", "psalms,97,6" ],
+  "verses" : [ {
+    "verse" : "psalms,97,5",
+    "text" : "The mountains melt like wax before the LORD, before the Lord of all the earth."
+  }, {
+    "verse" : "psalms,97,6",
+    "text" : "The heavens proclaim his righteousness, and all the peoples see his glory."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,97,5",
     "id" : 191094,
@@ -23,7 +41,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 97:5\">97:5</a></b> <b>mountains.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Ps 46:2\">Ps. 46:2</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 46:3\">3</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,97,7" ],
+  "verses" : [ {
+    "verse" : "psalms,97,7",
+    "text" : "All who worship images are put to shame, those who boast in idols- worship him, all you gods!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,97,7",
     "id" : 191095,
@@ -31,7 +52,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 97:7\">97:7</a></b> <b>who make their boast . . . idols.</b> See <a class=\"bibleref\" href=\"/passage/?search=Ps 96:4-Ps 96:6\">Ps. 96:4–6</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,97,8", "psalms,97,9", "psalms,97,10", "psalms,97,11", "psalms,97,12" ],
+  "verses" : [ {
+    "verse" : "psalms,97,8",
+    "text" : "Zion hears and rejoices and the villages of Judah are glad because of your judgments, O LORD."
+  }, {
+    "verse" : "psalms,97,9",
+    "text" : "For you, O LORD, are the Most High over all the earth; you are exalted far above all gods."
+  }, {
+    "verse" : "psalms,97,10",
+    "text" : "Let those who love the LORD hate evil, for he guards the lives of his faithful ones and delivers them from the hand of the wicked."
+  }, {
+    "verse" : "psalms,97,11",
+    "text" : "Light is shed upon the righteous and joy on the upright in heart."
+  }, {
+    "verse" : "psalms,97,12",
+    "text" : "Rejoice in the LORD, you who are righteous, and praise his holy name."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,97,8",
     "id" : 191096,
@@ -39,7 +75,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 97:8\">97:8</a></b> <b>because of your judgments.</b> The people of God know that the judgments of God will remove the wicked and so bring about their own liberation.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,98,1", "psalms,98,2" ],
+  "verses" : [ {
+    "verse" : "psalms,98,1",
+    "text" : "Sing to the LORD a new song, for he has done marvelous things; his right hand and his holy arm have worked salvation for him."
+  }, {
+    "verse" : "psalms,98,2",
+    "text" : "The LORD has made his salvation known and revealed his righteousness to the nations."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,98,1-psalms,98,9",
     "id" : 191097,
@@ -52,7 +94,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 98:1\">98:1 a</a></b> <b>new song.</b> See “Music in the Church” at <a class=\"bibleref\" href=\"/passage/?search=Col 3:16\">Col. 3:16</a>.</p><p><b>marvelous things.</b> This phrase translated “wonderful deeds” in <a class=\"bibleref\" href=\"/passage/?search=Ps 9:1\">Ps. 9:1</a> (see note there).</p><p><b>worked salvation.</b> In its Old Testament context the reference is to a military victory. It is appropriate today to apply the verse to a spiritual victory, since it is a great victory by God over “the cosmic powers” (<a class=\"bibleref\" href=\"/passage/?search=Eph 6:12\">Eph. 6:12</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,98,3" ],
+  "verses" : [ {
+    "verse" : "psalms,98,3",
+    "text" : "He has remembered his love and his faithfulness to the house of Israel; all the ends of the earth have seen the salvation of our God."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,98,3",
     "id" : 191099,
@@ -60,7 +105,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 98:3\">98:3</a></b> <b>has remembered.</b> More than mere memory, God’s remembrance includes His favorable action.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,98,4", "psalms,98,5", "psalms,98,6" ],
+  "verses" : [ {
+    "verse" : "psalms,98,4",
+    "text" : "Shout for joy to the LORD, all the earth, burst into jubilant song with music;"
+  }, {
+    "verse" : "psalms,98,5",
+    "text" : "make music to the LORD with the harp, with the harp and the sound of singing,"
+  }, {
+    "verse" : "psalms,98,6",
+    "text" : "with trumpets and the blast of the ram's horn- shout for joy before the LORD, the King."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,98,4",
     "id" : 191100,
@@ -68,7 +122,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 98:4\">98:4</a></b> <b>Make a joyful noise.</b> This section demonstrates the enthusiastic worship of a people who have deep love for God. Their worship is active and noisy.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,98,7" ],
+  "verses" : [ {
+    "verse" : "psalms,98,7",
+    "text" : "Let the sea resound, and everything in it, the world, and all who live in it."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,98,7",
     "id" : 191101,
@@ -76,7 +133,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 98:7\">98:7</a></b> <b>the sea.</b> Nature is here personified as praising the Lord. He is Creator of all, animate and inanimate (<a class=\"bibleref\" href=\"/passage/?search=Ps 95:5\">Ps. 95:5</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,98,8" ],
+  "verses" : [ {
+    "verse" : "psalms,98,8",
+    "text" : "Let the rivers clap their hands, Let the mountains sing together for joy;"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,98,8",
     "id" : 191102,
@@ -84,7 +144,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 98:8\">98:8</a></b> <b>the rivers . . . the hills.</b> See note on <a class=\"bibleref\" href=\"/passage/?search=Ps 98:7\">v. 7</a> and on <a class=\"bibleref\" href=\"/passage/?search=Ps 46:2\">Ps. 46:2</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 46:3\">3</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,98,9" ],
+  "verses" : [ {
+    "verse" : "psalms,98,9",
+    "text" : "let them sing before the LORD, for he comes to judge the earth. He will judge the world in righteousness and the peoples with equity."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,98,9",
     "id" : 191103,

@@ -3,7 +3,7 @@ package jsonb.verseswithnotes
 import jsonb._
 import jsonb.niv.NivVerse
 import jsonb.rsb.{RsbNoteJsonParser, RsbNote}
-import play.api.libs.json.{Json, JsValue}
+import play.api.libs.json.{JsArray, JsObject, Json, JsValue}
 
 
 /**
@@ -12,14 +12,21 @@ import play.api.libs.json.{Json, JsValue}
 case class VersesWithNotes(singleVerses: Seq[SingleVerse], rsbNotes: Seq[RsbNote])
 
 
+/**
+  * VersesWithNotes Json Parser
+  */
 object VersesWithNotesParser extends JsonParserBase[VersesWithNotes] {
 
   override def toJsValue(versesWithNotes: VersesWithNotes): JsValue = {
-    val singleVersesJsArray = SingleVerseParser.seqToJsArray(versesWithNotes.singleVerses)
+    val verseJsObjects: Seq[JsObject] = versesWithNotes.singleVerses
+      .map(singleVerse => Json.obj(
+        "verse" -> singleVerse.toString,
+        "text" -> singleVerse.nivVerse.text))
+
     val rsbNotesJsArray = RsbNoteJsonParser.seqToJsArray(versesWithNotes.rsbNotes)
 
     Json.obj(
-      "singleVerses" -> singleVersesJsArray,
+      "verses" -> Json.toJson(verseJsObjects).as[JsArray],
       "rsbNotes" -> rsbNotesJsArray)
   }
 
@@ -34,8 +41,7 @@ object GenerateVersesWithNotesFiles {
     * Write files like: resources/verses_with_notes/11/20_old.json
     */
   def main(args: Array[String]): Unit = {
-//    (1 to 12)
-    (3 to 12)
+    (1 to 12)
       .foreach(iMonth => {
         val fileNameStart = "verses_with_notes\\" + Utils.paddedString(iMonth) + "\\"
         val dayReadings: Seq[DayReading] = DayReadingParser.parseMonthJsonFile(iMonth)

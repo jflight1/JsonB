@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,24,7" ],
+  "verses" : [ {
+    "verse" : "proverbs,24,7",
+    "text" : "Wisdom is too high for a fool; in the assembly at the gate he has nothing to say."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,22,17-proverbs,24,22",
     "id" : 192162,

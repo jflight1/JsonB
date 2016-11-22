@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "2kings,23,31", "2kings,23,32" ],
+  "verses" : [ {
+    "verse" : "2kings,23,31",
+    "text" : "Jehoahaz was twenty-three years old when he became king, and he reigned in Jerusalem three months. His mother's name was Hamutal daughter of Jeremiah; she was from Libnah."
+  }, {
+    "verse" : "2kings,23,32",
+    "text" : "He did evil in the eyes of the LORD, just as his fathers had done."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,23,31-2kings,23,35",
     "id" : 188890,
@@ -12,7 +18,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 23:31\">23:31</a></b> <b>three months.</b> During 609 <span class=\"small-caps\">b.c.</span></p><p><b>Jeremiah.</b> Not the prophet Jeremiah, who was from Anathoth (<a class=\"bibleref\" href=\"/passage/?search=Jer 1:1\">Jer. 1:1</a>).</p><p><b>Libnah.</b> See note 8:22.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,23,33" ],
+  "verses" : [ {
+    "verse" : "2kings,23,33",
+    "text" : "Pharaoh Neco put him in chains at Riblah in the land of Hamath so that he might not reign in Jerusalem, and he imposed on Judah a levy of a hundred talents of silver and a talent of gold."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,23,33",
     "id" : 188892,
@@ -20,7 +29,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 23:33\">23:33</a></b> <b>Riblah in the land of Hamath.</b> Located on the Orontes River in the north Lebanon Valley, Riblah was used first by Neco and later by Nebuchadnezzar as a military headquarters (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 25:6\">25:6</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,23,34" ],
+  "verses" : [ {
+    "verse" : "2kings,23,34",
+    "text" : "Pharaoh Neco made Eliakim son of Josiah king in place of his father Josiah and changed Eliakim's name to Jehoiakim. But he took Jehoahaz and carried him off to Egypt, and there he died."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,23,34",
     "id" : 188893,
@@ -28,7 +40,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 23:34\">23:34</a></b> <b>Eliakim . . . Jehoiakim.</b> When obliging their vassals to take a loyalty oath, Assyrian kings sometimes changed their vassals’ names. Neco’s ability to make Eliakim change his name may be such an attempt to make a show of power.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,23,35" ],
+  "verses" : [ {
+    "verse" : "2kings,23,35",
+    "text" : "Jehoiakim paid Pharaoh Neco the silver and gold he demanded. In order to do so, he taxed the land and exacted the silver and gold from the people of the land according to their assessments."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,23,35",
     "id" : 188894,
@@ -36,7 +51,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 23:35\">23:35</a></b> <b>exacted the silver and the gold of the people of the land.</b> Jehoiakim taxes the very people who had brought Jehoahaz to the throne (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 23:30\">v. 30</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,23,36", "2kings,23,37" ],
+  "verses" : [ {
+    "verse" : "2kings,23,36",
+    "text" : "Jehoiakim was twenty-five years old when he became king, and he reigned in Jerusalem eleven years. His mother's name was Zebidah daughter of Pedaiah; she was from Rumah."
+  }, {
+    "verse" : "2kings,23,37",
+    "text" : "And he did evil in the eyes of the LORD, just as his fathers had done."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,23,36-2kings,24,7",
     "id" : 188895,
@@ -49,7 +70,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 23:36\">23:36</a></b> <b>eleven years.</b> That is, 609–598 <span class=\"small-caps\">b.c.</span></p><p><b>Rumah.</b> The town was located about fourteen miles west of the Sea of Chinneroth (Galilee).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,24,1" ],
+  "verses" : [ {
+    "verse" : "2kings,24,1",
+    "text" : "During Jehoiakim's reign, Nebuchadnezzar king of Babylon invaded the land, and Jehoiakim became his vassal for three years. But then he changed his mind and rebelled against Nebuchadnezzar."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,24,1",
     "id" : 188897,
@@ -57,7 +81,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 24:1\">24:1</a></b> <b>Nebuchadnezzar.</b> Nebuchadnezzar II was king of Babylon from 605–562 <span class=\"small-caps\">b.c.</span> Babylon defeated Neco of Egypt in a major battle at Carchemish (<a class=\"bibleref\" href=\"/passage/?search=Jer 46:2\">Jer. 46:2</a>), and Judah was now ruled by Babylon instead of Egypt.</p><p><b>came up.</b> According to Babylonian records, Nebuchadnezzar II subdued the “Hatti land,” including the “city of Judah” (that is, Jerusalem).</p><p><b>three years.</b> That is, 604–602 <span class=\"small-caps\">b.c.</span></p><p><b>he turned and rebelled.</b> Going against Jeremiah’s counsel (<a class=\"bibleref\" href=\"/passage/?search=Jer 27:9-Jer 27:11\">Jer. 27:9–11</a>), Jehoiakim’s decision to rebel may have been influenced by Egypt’s successful defense against Nebuchadnezzar in 601 <span class=\"small-caps\">b.c.</span></p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,24,2", "2kings,24,3" ],
+  "verses" : [ {
+    "verse" : "2kings,24,2",
+    "text" : "The LORD sent Babylonian, Aramean, Moabite and Ammonite raiders against him. He sent them to destroy Judah, in accordance with the word of the LORD proclaimed by his servants the prophets."
+  }, {
+    "verse" : "2kings,24,3",
+    "text" : "Surely these things happened to Judah according to the LORD's command, in order to remove them from his presence because of the sins of Manasseh and all he had done,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,24,2",
     "id" : 188898,
@@ -65,7 +95,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 24:2\">24:2</a></b> <b>the <span class=\"small-caps\">Lord</span> sent . . . bands.</b> God’s reaction against Judah’s rebellion was swift. The Syrians, Moabites, and Ammonites were vassals of Babylon, and were probably compelled to participate in the invasion of Judah.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,24,4" ],
+  "verses" : [ {
+    "verse" : "2kings,24,4",
+    "text" : "including the shedding of innocent blood. For he had filled Jerusalem with innocent blood, and the LORD was not willing to forgive."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,24,4",
     "id" : 188899,
@@ -73,7 +106,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 24:4\">24:4</a></b> <b>innocent blood that he had shed.</b> See note <a class=\"bibleref\" href=\"/passage/?search=2Kgs 21:16\">21:16</a>. The violation of the covenant was so reprehensible that the Lord “would not pardon” it.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,24,5" ],
+  "verses" : [ {
+    "verse" : "2kings,24,5",
+    "text" : "As for the other events of Jehoiakim's reign, and all he did, are they not written in the book of the annals of the kings of Judah?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,24,5",
     "id" : 188900,
@@ -81,7 +117,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 24:5\">24:5</a></b> <b>Book of the Chronicles of the Kings of Judah.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Kgs 11:41\">1 Kin. 11:41</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,24,6" ],
+  "verses" : [ {
+    "verse" : "2kings,24,6",
+    "text" : "Jehoiakim rested with his fathers. And Jehoiachin his son succeeded him as king."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,24,6",
     "id" : 188901,
@@ -89,7 +128,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 24:6\">24:6</a></b> <b>Jehoiachin.</b> He is also called “Jeconiah” (<a class=\"bibleref\" href=\"/passage/?search=1Chr 3:16\">1 Chr. 3:16</a>) and “Coniah” (<a class=\"bibleref\" href=\"/passage/?search=Jer 22:24\">Jer. 22:24</a>).</p><p><b>reigned in his place.</b> Jehoiakim died (598 <span class=\"small-caps\">b.c.</span>) before Jerusalem surrendered to the Babylonians (vv. 8–12).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,24,7" ],
+  "verses" : [ {
+    "verse" : "2kings,24,7",
+    "text" : "The king of Egypt did not march out from his own country again, because the king of Babylon had taken all his territory, from the Wadi of Egypt to the Euphrates River."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,24,7",
     "id" : 188902,
@@ -97,7 +139,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 24:7\">24:7</a></b> <b>Brook of Egypt.</b> See <a class=\"bibleref\" href=\"/passage/?search=1Kgs 8:65\">1 Kin. 8:65</a> note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,24,8", "2kings,24,9", "2kings,24,10", "2kings,24,11", "2kings,24,12" ],
+  "verses" : [ {
+    "verse" : "2kings,24,8",
+    "text" : "Jehoiachin was eighteen years old when he became king, and he reigned in Jerusalem three months. His mother's name was Nehushta daughter of Elnathan; she was from Jerusalem."
+  }, {
+    "verse" : "2kings,24,9",
+    "text" : "He did evil in the eyes of the LORD, just as his father had done."
+  }, {
+    "verse" : "2kings,24,10",
+    "text" : "At that time the officers of Nebuchadnezzar king of Babylon advanced on Jerusalem and laid siege to it,"
+  }, {
+    "verse" : "2kings,24,11",
+    "text" : "and Nebuchadnezzar himself came up to the city while his officers were besieging it."
+  }, {
+    "verse" : "2kings,24,12",
+    "text" : "Jehoiachin king of Judah, his mother, his attendants, his nobles and his officials all surrendered to him. In the eighth year of the reign of the king of Babylon, he took Jehoiachin prisoner."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,24,8",
     "id" : 188903,
@@ -105,7 +162,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 24:8\">24:8</a></b> <b>three months.</b> According to Babylonian records Jerusalem fell March 16, 597 <span class=\"small-caps\">b.c.</span> The reign of Jehoiachin must have begun in December, 598.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,24,13" ],
+  "verses" : [ {
+    "verse" : "2kings,24,13",
+    "text" : "As the LORD had declared, Nebuchadnezzar removed all the treasures from the temple of the LORD and from the royal palace, and took away all the gold articles that Solomon king of Israel had made for the temple of the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,24,13",
     "id" : 188904,
@@ -113,7 +173,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 24:13\">24:13</a></b> <b>all the vessels of gold.</b> See <a class=\"bibleref\" href=\"/passage/?search=1Kgs 7:51\">1 Kin. 7:51</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,24,14", "2kings,24,15" ],
+  "verses" : [ {
+    "verse" : "2kings,24,14",
+    "text" : "He carried into exile all Jerusalem: all the officers and fighting men, and all the craftsmen and artisans-a total of ten thousand. Only the poorest people of the land were left."
+  }, {
+    "verse" : "2kings,24,15",
+    "text" : "Nebuchadnezzar took Jehoiachin captive to Babylon. He also took from Jerusalem to Babylon the king's mother, his wives, his officials and the leading men of the land."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,24,14",
     "id" : 188905,
@@ -121,7 +187,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 24:14\">24:14</a></b> <b>10,000 captives.</b> <a class=\"bibleref\" href=\"/passage/?search=Jer 52:28\">Jer. 52:28</a> gives a figure of “3,023” deportees, but that may not include women and children.</p><p><b>except the poorest.</b> The Babylonians deported the upper classes and leaders from captured lands. In this way they crippled the economies of those societies.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,24,16" ],
+  "verses" : [ {
+    "verse" : "2kings,24,16",
+    "text" : "The king of Babylon also deported to Babylon the entire force of seven thousand fighting men, strong and fit for war, and a thousand craftsmen and artisans."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,24,16",
     "id" : 188906,
@@ -129,7 +198,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 24:16\">24:16</a></b> <b>all the men of valor . . . and the craftsmen and the metal workers.</b> These may be part of the round figure of “10,000 captives” in <a class=\"bibleref\" href=\"/passage/?search=2Kgs 24:14\">v. 14</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,24,17" ],
+  "verses" : [ {
+    "verse" : "2kings,24,17",
+    "text" : "He made Mattaniah, Jehoiachin's uncle, king in his place and changed his name to Zedekiah."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,24,17",
     "id" : 188907,
@@ -137,7 +209,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 24:17\">24:17</a></b> <b>Mattaniah.</b> A brother of Jehoiakim (Jehoiachin’s father) and son of Josiah (<a class=\"bibleref\" href=\"/passage/?search=1Chr 3:15\">1 Chr. 3:15</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 1:3\">Jer. 1:3</a>).</p><p><b>Zedekiah.</b> Mattaniah’s name was probably changed to show that he was a vassal under Nebuchadnezzar (23:34 note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,24,18" ],
+  "verses" : [ {
+    "verse" : "2kings,24,18",
+    "text" : "Zedekiah was twenty-one years old when he became king, and he reigned in Jerusalem eleven years. His mother's name was Hamutal daughter of Jeremiah; she was from Libnah."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,24,18-2kings,25,21",
     "id" : 188908,
@@ -150,7 +225,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 24:18\">24:18</a></b> <b>eleven years.</b> That is, 597–586 <span class=\"small-caps\">b.c.</span></p><p><b>Jeremiah.</b> Not the prophet Jeremiah. See <a class=\"bibleref\" href=\"/passage/?search=2Kgs 23:31\">23:31</a> and note.</p><p><b>Libnah.</b> See note <a class=\"bibleref\" href=\"/passage/?search=2Kgs 8:22\">8:22</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,24,19" ],
+  "verses" : [ {
+    "verse" : "2kings,24,19",
+    "text" : "He did evil in the eyes of the LORD, just as Jehoiakim had done."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,24,19",
     "id" : 188910,
@@ -158,7 +236,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 24:19\">24:19</a></b> <b>according to all that Jehoiakim had done.</b> The biblical writer does not tell all of the evil Zedekiah committed during his reign. God’s judgment had already been decreed, and Judah was sliding into oblivion (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 20:17\">20:17</a>, <a class=\"bibleref\" href=\"/passage/?search=2Kgs 20:18\">18</a>; <a class=\"bibleref\" href=\"/passage/?search=2Kgs 21:12-2Kgs 21:15\">21:12–15</a>; <a class=\"bibleref\" href=\"/passage/?search=2Kgs 22:16\">22:16</a>, <a class=\"bibleref\" href=\"/passage/?search=2Kgs 22:17\">17</a>). Further information on Zedekiah’s reign can be found in <a class=\"bibleref\" href=\"/passage/?search=Jer 21\">Jer. 21</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 24\">24</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 27\">27</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 29\">29</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 32\">32</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 37-Jer 39\">37–39</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 17:11-Ezek 17:21\">Ezek. 17:11–21</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,24,20" ],
+  "verses" : [ {
+    "verse" : "2kings,24,20",
+    "text" : "It was because of the LORD's anger that all this happened to Jerusalem and Judah, and in the end he thrust them from his presence. Now Zedekiah rebelled against the king of Babylon."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,24,20",
     "id" : 188911,
@@ -166,7 +247,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 24:20\">24:20</a></b> <b>Zedekiah rebelled against the king of Babylon.</b> Despite being a vassal appointed by Nebuchadnezzar, Zedekiah plotted with Egypt and other nations against the Babylonians (<a class=\"bibleref\" href=\"/passage/?search=Jer 27:3-Jer 27:8\">Jer. 27:3–8</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 17:11-Ezek 17:21\">Ezek. 17:11–21</a>). Zedekiah’s ill-fated decision to rebel against Babylon may have been encouraged by Pharaoh Hophra (Apries), who came to power in 589 <span class=\"small-caps\">b.c.</span></p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,25,1" ],
+  "verses" : [ {
+    "verse" : "2kings,25,1",
+    "text" : "So in the ninth year of Zedekiah's reign, on the tenth day of the tenth month, Nebuchadnezzar king of Babylon marched against Jerusalem with his whole army. He encamped outside the city and built siege works all around it."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,25,1",
     "id" : 188912,
@@ -174,7 +258,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 25:1\">25:1</a></b> <b>in the ninth year.</b> That is, January, 588 <span class=\"small-caps\">b.c.</span></p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,25,2" ],
+  "verses" : [ {
+    "verse" : "2kings,25,2",
+    "text" : "The city was kept under siege until the eleventh year of King Zedekiah."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,25,2",
     "id" : 188913,
@@ -182,7 +269,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 25:2\">25:2</a></b> <b>till the eleventh year.</b> That is, July, 586 <span class=\"small-caps\">b.c.</span> (<a class=\"bibleref\" href=\"/passage/?search=Jer 39:2\">Jer. 39:2</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 52:5-Jer 52:7\">52:5–7</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,25,3" ],
+  "verses" : [ {
+    "verse" : "2kings,25,3",
+    "text" : "By the ninth day of the fourth month the famine in the city had become so severe that there was no food for the people to eat."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,25,3",
     "id" : 188914,
@@ -190,7 +280,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 25:3\">25:3</a></b> <b>famine.</b> During the siege, Jerusalem experienced terrible privation (<a class=\"bibleref\" href=\"/passage/?search=Jer 38:2-Jer 38:3\">Jer. 38:2–3</a>; <a class=\"bibleref\" href=\"/passage/?search=Lam 4:10\">Lam. 4:10</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,25,4", "2kings,25,5" ],
+  "verses" : [ {
+    "verse" : "2kings,25,4",
+    "text" : "Then the city wall was broken through, and the whole army fled at night through the gate between the two walls near the king's garden, though the Babylonians were surrounding the city. They fled toward the Arabah,"
+  }, {
+    "verse" : "2kings,25,5",
+    "text" : "but the Babylonian army pursued the king and overtook him in the plains of Jericho. All his soldiers were separated from him and scattered,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,25,4",
     "id" : 188915,
@@ -198,7 +294,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 25:4\">25:4</a></b> <b>gate between the two walls.</b> This gate was in the southeastern wall of the City of David and may have been the “Fountain Gate” (<a class=\"bibleref\" href=\"/passage/?search=Neh 3:15\">Neh. 3:15</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,25,6" ],
+  "verses" : [ {
+    "verse" : "2kings,25,6",
+    "text" : "and he was captured. He was taken to the king of Babylon at Riblah, where sentence was pronounced on him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,25,6",
     "id" : 188916,
@@ -206,7 +305,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 25:6\">25:6</a></b> <b>the king of Babylon at Riblah.</b> See note <a class=\"bibleref\" href=\"/passage/?search=2Kgs 23:33\">23:33</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,25,7" ],
+  "verses" : [ {
+    "verse" : "2kings,25,7",
+    "text" : "They killed the sons of Zedekiah before his eyes. Then they put out his eyes, bound him with bronze shackles and took him to Babylon."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,25,7",
     "id" : 188917,
@@ -214,7 +316,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 25:7\">25:7</a></b> <b>put out the eyes of Zedekiah.</b> Blinding was a common punishment for rebellious captives in the ancient Near East (<a class=\"bibleref\" href=\"/passage/?search=Ezek 12:13\">Ezek. 12:13</a>).</p><p><b>took him to Babylon.</b> Zedekiah ignored the counsel of Jeremiah (<a class=\"bibleref\" href=\"/passage/?search=Jer 38:14-Jer 38:28\">Jer. 38:14–28</a>). Jeremiah had urged the king to surrender to Babylon because the Lord’s judgment was inevitable. Through a peaceful surrender, Jerusalem could be spared destruction. Zedekiah’s stubborn resistance brought only horrible results for both his family and the people. Zedekiah himself died in Babylon (<a class=\"bibleref\" href=\"/passage/?search=Jer 52:11\">Jer. 52:11</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,25,8" ],
+  "verses" : [ {
+    "verse" : "2kings,25,8",
+    "text" : "On the seventh day of the fifth month, in the nineteenth year of Nebuchadnezzar king of Babylon, Nebuzaradan commander of the imperial guard, an official of the king of Babylon, came to Jerusalem."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,25,8",
     "id" : 188918,
@@ -222,7 +327,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 25:8\">25:8</a></b> <b>In the fifth month.</b> That is, August, 586 <span class=\"small-caps\">b.c.</span></p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,25,9", "2kings,25,10" ],
+  "verses" : [ {
+    "verse" : "2kings,25,9",
+    "text" : "He set fire to the temple of the LORD, the royal palace and all the houses of Jerusalem. Every important building he burned down."
+  }, {
+    "verse" : "2kings,25,10",
+    "text" : "The whole Babylonian army, under the commander of the imperial guard, broke down the walls around Jerusalem."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,25,9",
     "id" : 188919,
@@ -230,7 +341,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 25:9\">25:9</a></b> <b>every great house.</b> The terrible carnage and destruction was deliberate. Nebuchadnezzar did not rebuild Judah with Jerusalem as a Babylonian provincial capital. And unlike the Assyrians in their dealings with Israel (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 17:24-2Kgs 17:31\">17:24–31</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezra 4:2\">Ezra 4:2</a>), he did not import new settlers from other areas to replace the dead and exiled.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,25,11", "2kings,25,12", "2kings,25,13", "2kings,25,14" ],
+  "verses" : [ {
+    "verse" : "2kings,25,11",
+    "text" : "Nebuzaradan the commander of the guard carried into exile the people who remained in the city, along with the rest of the populace and those who had gone over to the king of Babylon."
+  }, {
+    "verse" : "2kings,25,12",
+    "text" : "But the commander left behind some of the poorest people of the land to work the vineyards and fields."
+  }, {
+    "verse" : "2kings,25,13",
+    "text" : "The Babylonians broke up the bronze pillars, the movable stands and the bronze Sea that were at the temple of the LORD and they carried the bronze to Babylon."
+  }, {
+    "verse" : "2kings,25,14",
+    "text" : "They also took away the pots, shovels, wick trimmers, dishes and all the bronze articles used in the temple service."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,25,11",
     "id" : 188920,
@@ -238,7 +361,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 25:11\">25:11</a></b> <b>who had deserted.</b> Apparently some of the people had given their allegiance to the Babylonians, even before the final siege. The Babylonians took them to Babylon.</p><p><b>carried into exile.</b> The Babylonians implemented a second deportation (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 24:12-2Kgs 24:16\">24:12–16</a>), leaving only the poor to till the land (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 24:12\">v. 12</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,25,15", "2kings,25,16", "2kings,25,17" ],
+  "verses" : [ {
+    "verse" : "2kings,25,15",
+    "text" : "The commander of the imperial guard took away the censers and sprinkling bowls-all that were made of pure gold or silver."
+  }, {
+    "verse" : "2kings,25,16",
+    "text" : "The bronze from the two pillars, the Sea and the movable stands, which Solomon had made for the temple of the LORD, was more than could be weighed."
+  }, {
+    "verse" : "2kings,25,17",
+    "text" : "Each pillar was twenty-seven feet high. The bronze capital on top of one pillar was four and a half feet high and was decorated with a network and pomegranates of bronze all around. The other pillar, with its network, was similar."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,25,15",
     "id" : 188921,
@@ -246,7 +378,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 25:15\">25:15</a></b> <b>fire pans also and the bowls.</b> See <a class=\"bibleref\" href=\"/passage/?search=2Kgs 24:13\">24:13</a>; <a class=\"bibleref\" href=\"/passage/?search=1Kgs 7:50\">1 Kin. 7:50</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 15:13\">Jer. 15:13</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 20:5\">20:5</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 27:16-Jer 27:22\">27:16–22</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,25,18", "2kings,25,19", "2kings,25,20" ],
+  "verses" : [ {
+    "verse" : "2kings,25,18",
+    "text" : "The commander of the guard took as prisoners Seraiah the chief priest, Zephaniah the priest next in rank and the three doorkeepers."
+  }, {
+    "verse" : "2kings,25,19",
+    "text" : "Of those still in the city, he took the officer in charge of the fighting men and five royal advisers. He also took the secretary who was chief officer in charge of conscripting the people of the land and sixty of his men who were found in the city."
+  }, {
+    "verse" : "2kings,25,20",
+    "text" : "Nebuzaradan the commander took them all and brought them to the king of Babylon at Riblah."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,25,18",
     "id" : 188922,
@@ -254,7 +395,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 25:18\">25:18</a></b> <b>Seraiah the chief priest.</b> The grandson of Hilkiah (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 22:4\">22:4</a>, <a class=\"bibleref\" href=\"/passage/?search=2Kgs 22:8\">8</a>; <a class=\"bibleref\" href=\"/passage/?search=1Chr 6:13\">1 Chr. 6:13</a>, <a class=\"bibleref\" href=\"/passage/?search=1Chr 6:14\">14</a>) and ancestor of Ezra (<a class=\"bibleref\" href=\"/passage/?search=Ezra 7:1\">Ezra 7:1</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,25,21" ],
+  "verses" : [ {
+    "verse" : "2kings,25,21",
+    "text" : "There at Riblah, in the land of Hamath, the king had them executed. So Judah went into captivity, away from her land."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,25,21",
     "id" : 188923,
@@ -262,7 +406,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 25:21\">25:21</a></b> <b>put them to death.</b> The Babylonian forces eliminated all the remaining leaders, not all of whom were soldiers.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,25,22" ],
+  "verses" : [ {
+    "verse" : "2kings,25,22",
+    "text" : "Nebuchadnezzar king of Babylon appointed Gedaliah son of Ahikam, the son of Shaphan, to be over the people he had left behind in Judah."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,25,22",
     "id" : 188924,
@@ -270,7 +417,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 25:22\">25:22</a></b> <b>Gedaliah.</b> Having abolished the monarchy, Nebuchadnezzar appointed Gedaliah as governor. Gedaliah’s father Ahikam supported Jeremiah (<a class=\"bibleref\" href=\"/passage/?search=Jer 26:24\">Jer. 26:24</a>). Nebuchadnezzar chose a well-known citizen of Judah as governor to bring stability to the land (<a class=\"bibleref\" href=\"/passage/?search=Jer 40:9-Jer 40:12\">Jer. 40:9–12</a>).</p><p><b>Ahikam.</b> Gedaliah’s father had been a close adviser of Josiah (22:12).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,25,23" ],
+  "verses" : [ {
+    "verse" : "2kings,25,23",
+    "text" : "When all the army officers and their men heard that the king of Babylon had appointed Gedaliah as governor, they came to Gedaliah at Mizpah-Ishmael son of Nethaniah, Johanan son of Kareah, Seraiah son of Tanhumeth the Netophathite, Jaazaniah the son of the Maacathite, and their men."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,25,23",
     "id" : 188925,
@@ -278,7 +428,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 25:23\">25:23</a></b> <b>Mizpah.</b> Gedaliah lived in Mizpah, 8 miles north of Jerusalem (<a class=\"bibleref\" href=\"/passage/?search=Jer 40:6\">Jer. 40:6</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,25,24" ],
+  "verses" : [ {
+    "verse" : "2kings,25,24",
+    "text" : "Gedaliah took an oath to reassure them and their men. \"Do not be afraid of the Babylonian officials,\" he said. \"Settle down in the land and serve the king of Babylon, and it will go well with you.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,25,24",
     "id" : 188926,
@@ -286,7 +439,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 25:24\">25:24</a></b> <b>swore.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Kgs 1:17\">1 Kin. 1:17</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,25,25" ],
+  "verses" : [ {
+    "verse" : "2kings,25,25",
+    "text" : "In the seventh month, however, Ishmael son of Nethaniah, the son of Elishama, who was of royal blood, came with ten men and assassinated Gedaliah and also the men of Judah and the Babylonians who were with him at Mizpah."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,25,25",
     "id" : 188927,
@@ -294,7 +450,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 25:25\">25:25</a></b> <b>seventh month.</b> That is, October, 586 <span class=\"small-caps\">b.c.</span></p><p><b>Ishmael . . . of the royal family.</b> Ishmael’s grandfather, Elishama, was royal secretary under Jehoiakim (<a class=\"bibleref\" href=\"/passage/?search=Jer 36:12\">Jer. 36:12</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 41:1\">41:1</a>). Ishmael was part of a faction in Judah which viewed Gedaliah as a collaborator and wanted to resist the Babylonians (see the detailed account in <a class=\"bibleref\" href=\"/passage/?search=Jer 40:13-Jer 41:18\">Jer. 40:13–41:18</a>). Ishmael probably had set his sights on reestablishing the throne of Judah with himself as king.</p><p><b>struck down Gedaliah.</b> This action created even worse conditions in Judah (<a class=\"bibleref\" href=\"/passage/?search=Jer 44:1-Jer 44:14\">Jer. 44:1–14</a>). The exiles considered Gedaliah’s death a great loss. They instituted fast days to mourn his death as well as the destruction of Judah and Jerusalem (<a class=\"bibleref\" href=\"/passage/?search=Zech 7:5\">Zech. 7:5</a>; <a class=\"bibleref\" href=\"/passage/?search=Zech 8:19\">8:19</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,25,26" ],
+  "verses" : [ {
+    "verse" : "2kings,25,26",
+    "text" : "At this, all the people from the least to the greatest, together with the army officers, fled to Egypt for fear of the Babylonians."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,25,26",
     "id" : 188928,
@@ -302,7 +461,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 25:26\">25:26</a></b> <b>went to Egypt.</b> Fearing reprisals from the Babylonians, these coup leaders sought refuge in Egypt where an anti-Babylonian pharaoh ruled (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 24:20\">24:20</a> note). The law of the king in <a class=\"bibleref\" href=\"/passage/?search=Deut 17:14-Deut 17:20\">Deut. 17:14–20</a> forbids any king in Israel to lead the people back to Egypt (<a class=\"bibleref\" href=\"/passage/?search=Deut 17:16\">Deut. 17:16</a>). Ironically, these coup leaders in their quest for power enact one of the curses of the covenant—returning to Egypt, the land of bondage and slavery (<a class=\"bibleref\" href=\"/passage/?search=Deut 28:68\">Deut. 28:68</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,25,27" ],
+  "verses" : [ {
+    "verse" : "2kings,25,27",
+    "text" : "In the thirty-seventh year of the exile of Jehoiachin king of Judah, in the year Evil-Merodach became king of Babylon, he released Jehoiachin from prison on the twenty-seventh day of the twelfth month."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,25,27-2kings,25,30",
     "id" : 188929,
@@ -315,7 +477,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 25:27\">25:27</a></b> <b>in the thirty-seventh year.</b> That is, March, 561 <span class=\"small-caps\">b.c.</span></p><p><b>Evil-merodach . . . began to reign.</b> Evil-merodach was the son and successor of Nebuchadnezzar (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 24:1\">24:1</a> note).</p><p><b>freed Jehoiachin . . . from prison.</b> Administrative texts from Babylonia mention payment of rations in oil and barley to Jehoiachin, king of Judah, and five of his sons. Evil-merodach may have initiated this act of mercy on the occasion of his enthronement.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,25,28" ],
+  "verses" : [ {
+    "verse" : "2kings,25,28",
+    "text" : "He spoke kindly to him and gave him a seat of honor higher than those of the other kings who were with him in Babylon."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,25,28",
     "id" : 188931,
@@ -323,7 +488,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 25:28\">25:28 a</a></b> <b>seat above the seats.</b> <a class=\"bibleref\" href=\"/passage/?search=Deut 4:25-Deut 4:31\">Deut. 4:25–31</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 30:1-Deut 30:10\">30:1–10</a> and King Solomon’s temple prayer (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 8:46-1Kgs 8:53\">1 Kin. 8:46–53</a>) all address conditions of exile. These texts urge repentance (<a class=\"bibleref\" href=\"/passage/?search=Deut 4:30\">Deut. 4:30</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 30:2\">30:2</a>; <a class=\"bibleref\" href=\"/passage/?search=1Kgs 8:47\">1 Kin. 8:47</a>). Solomon’s prayer that the exiles might find compassion at the hands of their captors is realized in the kind treatment of Jehoiachin. <a class=\"bibleref\" href=\"/passage/?search=Deut 30:3-Deut 30:5\">Deut. 30:3–5</a> promises restoration to the people of God, and in 538 <span class=\"small-caps\">b.c.</span> the Jews were allowed to return home (<a class=\"bibleref\" href=\"/passage/?search=Ezra 1:1-Ezra 1:4\">Ezra 1:1–4</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 44:24-Isa 44:28\">Is. 44:24–28</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 45:1-Isa 45:6\">45:1–6</a>). Christians understand the promise of <a class=\"bibleref\" href=\"/passage/?search=Deut 30:6\">Deut. 30:6</a>, that God will circumcise the hearts of His people so that they will obey Him, to be fulfilled by the coming of the Holy Spirit (<a class=\"bibleref\" href=\"/passage/?search=Acts 2:14-Acts 2:21\">Acts 2:14–21</a>; <a class=\"bibleref\" href=\"/passage/?search=2Cor 3:1-2Cor 3:6\">2 Cor. 3:1–6</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,25,29", "2kings,25,30" ],
+  "verses" : [ {
+    "verse" : "2kings,25,29",
+    "text" : "So Jehoiachin put aside his prison clothes and for the rest of his life ate regularly at the king's table."
+  }, {
+    "verse" : "2kings,25,30",
+    "text" : "Day by day the king gave Jehoiachin a regular allowance as long as he lived."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,25,29",
     "id" : 188932,

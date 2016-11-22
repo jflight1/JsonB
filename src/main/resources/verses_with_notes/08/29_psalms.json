@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "psalms,43,1", "psalms,43,2" ],
+  "verses" : [ {
+    "verse" : "psalms,43,1",
+    "text" : "Vindicate me, O God, and plead my cause against an ungodly nation; rescue me from deceitful and wicked men."
+  }, {
+    "verse" : "psalms,43,2",
+    "text" : "You are God my stronghold. Why have you rejected me? Why must I go about mourning, oppressed by the enemy?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,43,1-psalms,43,5",
     "id" : 190565,
@@ -12,7 +18,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 43:1\">43:1</a></b> <b>Vindicate me . . . defend my cause.</b> These words are technical legal terms that give the psalm a judicial setting.</p><p><b>ungodly.</b> Literally, those who are without covenant lovingkindness. These are nations or people who do not enjoy a covenant relationship with God, who do not honor His laws, and therefore do not share in His covenant promises.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,43,3", "psalms,43,4" ],
+  "verses" : [ {
+    "verse" : "psalms,43,3",
+    "text" : "Send forth your light and your truth, let them guide me; let them bring me to your holy mountain, to the place where you dwell."
+  }, {
+    "verse" : "psalms,43,4",
+    "text" : "Then will I go to the altar of God, to God, my joy and my delight. I will praise you with the harp, O God, my God."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,43,3",
     "id" : 190567,
@@ -20,7 +32,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 43:3\">43:3</a></b> <b>your holy hill.</b> This is Mount Zion in Jerusalem, where the temple was located. God’s firm mountain is to be contrasted with the turbulent waters of chaos (<a class=\"bibleref\" href=\"/passage/?search=Ps 46:2\">46:2</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 46:3\">3</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,43,5" ],
+  "verses" : [ {
+    "verse" : "psalms,43,5",
+    "text" : "Why are you downcast, O my soul? Why so disturbed within me? Put your hope in God, for I will yet praise him, my Savior and my God."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,43,5",
     "id" : 190568,

@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "proverbs,19,6", "proverbs,19,7" ],
+  "verses" : [ {
+    "verse" : "proverbs,19,6",
+    "text" : "Many curry favor with a ruler, and everyone is the friend of a man who gives gifts."
+  }, {
+    "verse" : "proverbs,19,7",
+    "text" : "A poor man is shunned by all his relatives- how much more do his friends avoid him! Though he pursues them with pleading, they are nowhere to be found."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

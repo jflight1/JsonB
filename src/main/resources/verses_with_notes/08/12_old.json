@@ -1,5 +1,38 @@
 [ {
-  "singleVerses" : [ "nehemiah,3,15", "nehemiah,3,16", "nehemiah,3,17", "nehemiah,3,18", "nehemiah,3,19", "nehemiah,3,20", "nehemiah,3,21", "nehemiah,3,22", "nehemiah,3,23", "nehemiah,3,24", "nehemiah,3,25" ],
+  "verses" : [ {
+    "verse" : "nehemiah,3,15",
+    "text" : "The Fountain Gate was repaired by Shallun son of Col-Hozeh, ruler of the district of Mizpah. He rebuilt it, roofing it over and putting its doors and bolts and bars in place. He also repaired the wall of the Pool of Siloam, by the King's Garden, as far as the steps going down from the City of David."
+  }, {
+    "verse" : "nehemiah,3,16",
+    "text" : "Beyond him, Nehemiah son of Azbuk, ruler of a half-district of Beth Zur, made repairs up to a point opposite the tombs of David, as far as the artificial pool and the House of the Heroes."
+  }, {
+    "verse" : "nehemiah,3,17",
+    "text" : "Next to him, the repairs were made by the Levites under Rehum son of Bani. Beside him, Hashabiah, ruler of half the district of Keilah, carried out repairs for his district."
+  }, {
+    "verse" : "nehemiah,3,18",
+    "text" : "Next to him, the repairs were made by their countrymen under Binnui son of Henadad, ruler of the other half-district of Keilah."
+  }, {
+    "verse" : "nehemiah,3,19",
+    "text" : "Next to him, Ezer son of Jeshua, ruler of Mizpah, repaired another section, from a point facing the ascent to the armory as far as the angle."
+  }, {
+    "verse" : "nehemiah,3,20",
+    "text" : "Next to him, Baruch son of Zabbai zealously repaired another section, from the angle to the entrance of the house of Eliashib the high priest."
+  }, {
+    "verse" : "nehemiah,3,21",
+    "text" : "Next to him, Meremoth son of Uriah, the son of Hakkoz, repaired another section, from the entrance of Eliashib's house to the end of it."
+  }, {
+    "verse" : "nehemiah,3,22",
+    "text" : "The repairs next to him were made by the priests from the surrounding region."
+  }, {
+    "verse" : "nehemiah,3,23",
+    "text" : "Beyond them, Benjamin and Hasshub made repairs in front of their house; and next to them, Azariah son of Maaseiah, the son of Ananiah, made repairs beside his house."
+  }, {
+    "verse" : "nehemiah,3,24",
+    "text" : "Next to him, Binnui son of Henadad repaired another section, from Azariah's house to the angle and the corner,"
+  }, {
+    "verse" : "nehemiah,3,25",
+    "text" : "and Palal son of Uzai worked opposite the angle and the tower projecting from the upper palace near the court of the guard. Next to him, Pedaiah son of Parosh"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "nehemiah,3,1-nehemiah,3,32",
     "id" : 189739,
@@ -12,7 +45,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Neh 3:15\">3:15</a></b> <b>Fountain Gate.</b> On the southeast corner of the city facing the Kidron Valley.</p><p><b>City of David.</b> Though in disrepair, it was still the city David established to be the political and religious capital of the theocracy. There is continuity between the past and present generations (<a class=\"bibleref\" href=\"/passage/?search=Ezra 2\">Ezra 2:1–70</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "nehemiah,3,26", "nehemiah,3,27" ],
+  "verses" : [ {
+    "verse" : "nehemiah,3,26",
+    "text" : "and the temple servants living on the hill of Ophel made repairs up to a point opposite the Water Gate toward the east and the projecting tower."
+  }, {
+    "verse" : "nehemiah,3,27",
+    "text" : "Next to them, the men of Tekoa repaired another section, from the great projecting tower to the wall of Ophel."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "nehemiah,3,26",
     "id" : 189750,
@@ -20,7 +59,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Neh 3:26\">3:26</a></b> <b>Ophel.</b> Ophel has usually been located south of the temple mount, but more probably it included also the southern part of the city below the Water Gate.</p><p><b>Water Gate.</b> About halfway up the east side of the city, this gate faced the Kidron Valley and the main water source, the Gihon Spring.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "nehemiah,3,28" ],
+  "verses" : [ {
+    "verse" : "nehemiah,3,28",
+    "text" : "Above the Horse Gate, the priests made repairs, each in front of his own house."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "nehemiah,3,28",
     "id" : 189751,
@@ -28,7 +70,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Neh 3:28\">3:28</a></b> <b>Horse Gate.</b> On the northeast side of the city.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "nehemiah,3,29", "nehemiah,3,30" ],
+  "verses" : [ {
+    "verse" : "nehemiah,3,29",
+    "text" : "Next to them, Zadok son of Immer made repairs opposite his house. Next to him, Shemaiah son of Shecaniah, the guard at the East Gate, made repairs."
+  }, {
+    "verse" : "nehemiah,3,30",
+    "text" : "Next to him, Hananiah son of Shelemiah, and Hanun, the sixth son of Zalaph, repaired another section. Next to them, Meshullam son of Berekiah made repairs opposite his living quarters."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "nehemiah,3,29",
     "id" : 189752,
@@ -36,7 +84,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Neh 3:29\">3:29</a></b> <b>East Gate.</b> Just north of the Horse Gate.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "nehemiah,3,31" ],
+  "verses" : [ {
+    "verse" : "nehemiah,3,31",
+    "text" : "Next to him, Malkijah, one of the goldsmiths, made repairs as far as the house of the temple servants and the merchants, opposite the Inspection Gate, and as far as the room above the corner;"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "nehemiah,3,31",
     "id" : 189753,
@@ -44,7 +95,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Neh 3:31\">3:31</a></b> <b>Muster Gate.</b> Between the East Gate and the Sheep Gate.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "nehemiah,3,32" ],
+  "verses" : [ {
+    "verse" : "nehemiah,3,32",
+    "text" : "and between the room above the corner and the Sheep Gate the goldsmiths and merchants made repairs."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "nehemiah,3,32",
     "id" : 189754,
@@ -52,7 +106,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Neh 3:32\">3:32</a></b> <b>Sheep Gate.</b> The counterclockwise description has come full circle (<a class=\"bibleref\" href=\"/passage/?search=Neh 3:1\">v. 1</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "nehemiah,4,1", "nehemiah,4,2", "nehemiah,4,3" ],
+  "verses" : [ {
+    "verse" : "nehemiah,4,1",
+    "text" : "When Sanballat heard that we were rebuilding the wall, he became angry and was greatly incensed. He ridiculed the Jews,"
+  }, {
+    "verse" : "nehemiah,4,2",
+    "text" : "and in the presence of his associates and the army of Samaria, he said, \"What are those feeble Jews doing? Will they restore their wall? Will they offer sacrifices? Will they finish in a day? Can they bring the stones back to life from those heaps of rubble-burned as they are?\""
+  }, {
+    "verse" : "nehemiah,4,3",
+    "text" : "Tobiah the Ammonite, who was at his side, said, \"What they are building-if even a fox climbed up on it, he would break down their wall of stones!\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "nehemiah,4,1-nehemiah,4,3",
     "id" : 189755,
@@ -60,7 +123,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Neh 4:1-Neh 4:3\">4:1–3</a></b> <b>when Sanballat heard.</b> The conflict between Israel and their Gentile rulers is escalating (<a class=\"bibleref\" href=\"/passage/?search=Neh 2:10\">2:10</a> note). The intent of the mockery is to stop the work.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "nehemiah,4,4", "nehemiah,4,5", "nehemiah,4,6" ],
+  "verses" : [ {
+    "verse" : "nehemiah,4,4",
+    "text" : "Hear us, O our God, for we are despised. Turn their insults back on their own heads. Give them over as plunder in a land of captivity."
+  }, {
+    "verse" : "nehemiah,4,5",
+    "text" : "Do not cover up their guilt or blot out their sins from your sight, for they have thrown insults in the face of the builders."
+  }, {
+    "verse" : "nehemiah,4,6",
+    "text" : "So we rebuilt the wall till all of it reached half its height, for the people worked with all their heart."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "nehemiah,4,4-nehemiah,4,5",
     "id" : 189756,
@@ -68,7 +140,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Neh 4:4\">4:4</a>, <a class=\"bibleref\" href=\"/passage/?search=Neh 4:5\">5</a></b> This is the first of three such imprecatory prayers (<a class=\"bibleref\" href=\"/passage/?search=Neh 6:14\">6:14</a>; <a class=\"bibleref\" href=\"/passage/?search=Neh 13:29\">13:29</a>). An imprecatory prayer is one that calls for the enemy to be cursed (e.g., <a class=\"bibleref\" href=\"/passage/?search=Ps 79:12\">Ps. 79:12</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 94:1-Ps 94:3\">94:1–3</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 137:7-Ps 137:9\">137:7–9</a>). See Introduction to Psalms: The Curses of the Psalms.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "nehemiah,4,7", "nehemiah,4,8", "nehemiah,4,9" ],
+  "verses" : [ {
+    "verse" : "nehemiah,4,7",
+    "text" : "But when Sanballat, Tobiah, the Arabs, the Ammonites and the men of Ashdod heard that the repairs to Jerusalem's walls had gone ahead and that the gaps were being closed, they were very angry."
+  }, {
+    "verse" : "nehemiah,4,8",
+    "text" : "They all plotted together to come and fight against Jerusalem and stir up trouble against it."
+  }, {
+    "verse" : "nehemiah,4,9",
+    "text" : "But we prayed to our God and posted a guard day and night to meet this threat."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "nehemiah,4,7",
     "id" : 189757,
@@ -76,7 +157,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Neh 4:7\">4:7</a></b> <b>when Sanballat . . . heard.</b> One more group, the Ashdodites, is added to the list of enemies. Nehemiah is now completely encircled by the enemy, as Ashdod lies on the Philistine plain to his west (<a class=\"bibleref\" href=\"/passage/?search=Neh 2:19\">2:19</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "nehemiah,4,10", "nehemiah,4,11" ],
+  "verses" : [ {
+    "verse" : "nehemiah,4,10",
+    "text" : "Meanwhile, the people in Judah said, \"The strength of the laborers is giving out, and there is so much rubble that we cannot rebuild the wall.\""
+  }, {
+    "verse" : "nehemiah,4,11",
+    "text" : "Also our enemies said, \"Before they know it or see us, we will be right there among them and will kill them and put an end to the work.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "nehemiah,4,10",
     "id" : 189758,
@@ -84,7 +171,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Neh 4:10\">4:10</a></b> <b>In Judah it was said.</b> A collective term is used, emphasizing that discouragement was widespread.</p><p><b>The strength . . . the wall.</b> Perhaps this poetic couplet was chanted by the people. Part of the reason that they were discouraged was simply that the work was hard.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "nehemiah,4,12" ],
+  "verses" : [ {
+    "verse" : "nehemiah,4,12",
+    "text" : "Then the Jews who lived near them came and told us ten times over, \"Wherever you turn, they will attack us.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "nehemiah,4,12",
     "id" : 189759,
@@ -92,7 +182,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Neh 4:12\">4:12</a></b> <b>said to us ten times.</b> Ten is a symbolic number for completeness. The fear of violence was growing in the minds of the people.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "nehemiah,4,13" ],
+  "verses" : [ {
+    "verse" : "nehemiah,4,13",
+    "text" : "Therefore I stationed some of the people behind the lowest points of the wall at the exposed places, posting them by families, with their swords, spears and bows."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "nehemiah,4,13",
     "id" : 189760,
@@ -100,7 +193,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Neh 4:13\">4:13</a></b> <b>I stationed the people.</b> Nehemiah’s first action was to station additional guards at the most vulnerable points. The tension continues to rise as the people of Judah take up arms for the first time.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "nehemiah,4,14" ],
+  "verses" : [ {
+    "verse" : "nehemiah,4,14",
+    "text" : "After I looked things over, I stood up and said to the nobles, the officials and the rest of the people, \"Don't be afraid of them. Remember the Lord, who is great and awesome, and fight for your brothers, your sons and your daughters, your wives and your homes.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "nehemiah,4,14",
     "id" : 189761,
@@ -108,7 +204,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Neh 4:14\">4:14</a></b> <b>great and awesome.</b> See “The Greatness of God” at <a class=\"bibleref\" href=\"/passage/?search=1Chr 29:11\">1 Chr. 29:11</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "nehemiah,4,15" ],
+  "verses" : [ {
+    "verse" : "nehemiah,4,15",
+    "text" : "When our enemies heard that we were aware of their plot and that God had frustrated it, we all returned to the wall, each to his own work."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "nehemiah,4,15",
     "id" : 189762,
@@ -116,7 +215,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Neh 4:15\">4:15</a></b> <b>God had frustrated their plan.</b> In <a class=\"bibleref\" href=\"/passage/?search=Ezra 4:5\">Ezra 4:5</a>, <a class=\"bibleref\" href=\"/passage/?search=Ezra 4:24\">24</a> the enemy frustrated the plan to build the temple; now God responds in kind by frustrating the plan to stop building.</p><p><b>we all returned to the wall.</b> Nehemiah responded successfully to the tide of discouragement by adding guards and exhorting the people.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "nehemiah,4,16" ],
+  "verses" : [ {
+    "verse" : "nehemiah,4,16",
+    "text" : "From that day on, half of my men did the work, while the other half were equipped with spears, shields, bows and armor. The officers posted themselves behind all the people of Judah"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "nehemiah,4,16",
     "id" : 189763,
@@ -124,7 +226,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Neh 4:16\">4:16</a></b> <b>spears . . . coats of mail.</b> The arms first mentioned in <a class=\"bibleref\" href=\"/passage/?search=Neh 4:13\">v. 13</a> are supplemented here with shield and armor (a breastplate of metal).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "nehemiah,4,17" ],
+  "verses" : [ {
+    "verse" : "nehemiah,4,17",
+    "text" : "who were building the wall. Those who carried materials did their work with one hand and held a weapon in the other,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "nehemiah,4,17",
     "id" : 189764,
@@ -132,7 +237,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Neh 4:17\">4:17</a></b> <b>Those who carried . . . held his weapon.</b> The porters had a hand free to hold a weapon, which may have been no more than a stone for throwing.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "nehemiah,4,18", "nehemiah,4,19", "nehemiah,4,20" ],
+  "verses" : [ {
+    "verse" : "nehemiah,4,18",
+    "text" : "and each of the builders wore his sword at his side as he worked. But the man who sounded the trumpet stayed with me."
+  }, {
+    "verse" : "nehemiah,4,19",
+    "text" : "Then I said to the nobles, the officials and the rest of the people, \"The work is extensive and spread out, and we are widely separated from each other along the wall."
+  }, {
+    "verse" : "nehemiah,4,20",
+    "text" : "Wherever you hear the sound of the trumpet, join us there. Our God will fight for us!\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "nehemiah,4,18",
     "id" : 189765,
@@ -140,7 +254,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Neh 4:18\">4:18</a></b> <b>each of the builders had his sword.</b> The builders needed two hands to work, so they wore swords at their sides.</p><p><b>the trumpet.</b> The trumpet, or <i>shofar,</i> had numerous functions in the Old Testament. Here, as in <a class=\"bibleref\" href=\"/passage/?search=Judg 3:27\">Judg. 3:27</a>, it would rally the troops.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "nehemiah,4,21", "nehemiah,4,22", "nehemiah,4,23" ],
+  "verses" : [ {
+    "verse" : "nehemiah,4,21",
+    "text" : "So we continued the work with half the men holding spears, from the first light of dawn till the stars came out."
+  }, {
+    "verse" : "nehemiah,4,22",
+    "text" : "At that time I also said to the people, \"Have every man and his helper stay inside Jerusalem at night, so they can serve us as guards by night and workmen by day.\""
+  }, {
+    "verse" : "nehemiah,4,23",
+    "text" : "Neither I nor my brothers nor my men nor the guards with me took off our clothes; each had his weapon, even when he went for water."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "nehemiah,4,21",
     "id" : 189766,
@@ -148,7 +271,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Neh 4:21\">4:21</a></b> <b>until the stars came out.</b> This shows how strong their dedication was, since work usually ended at sundown.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "nehemiah,5,1", "nehemiah,5,2" ],
+  "verses" : [ {
+    "verse" : "nehemiah,5,1",
+    "text" : "Now the men and their wives raised a great outcry against their Jewish brothers."
+  }, {
+    "verse" : "nehemiah,5,2",
+    "text" : "Some were saying, \"We and our sons and daughters are numerous; in order for us to eat and stay alive, we must get grain.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "nehemiah,5,1-nehemiah,5,13",
     "id" : 189767,
@@ -161,7 +290,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Neh 5:1\">5:1</a></b> <b>their wives.</b> Since women play a minor role in Ezra and Nehemiah, mentioning them here emphasizes how severe the crisis was (<a class=\"bibleref\" href=\"/passage/?search=Neh 3:12\">3:12</a> note; <a class=\"bibleref\" href=\"/passage/?search=Neh 12:43\">12:43</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "nehemiah,5,3", "nehemiah,5,4" ],
+  "verses" : [ {
+    "verse" : "nehemiah,5,3",
+    "text" : "Others were saying, \"We are mortgaging our fields, our vineyards and our homes to get grain during the famine.\""
+  }, {
+    "verse" : "nehemiah,5,4",
+    "text" : "Still others were saying, \"We have had to borrow money to pay the king's tax on our fields and vineyards."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "nehemiah,5,3",
     "id" : 189769,
@@ -169,7 +304,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Neh 5:3\">5:3</a></b> <b>famine.</b> Famines were often signs of God’s judgment (<a class=\"bibleref\" href=\"/passage/?search=Deut 11:16\">Deut. 11:16</a>, <a class=\"bibleref\" href=\"/passage/?search=Deut 11:17\">17</a>; <a class=\"bibleref\" href=\"/passage/?search=1Chr 21:12\">1 Chr. 21:12</a>; <a class=\"bibleref\" href=\"/passage/?search=Hag 1:7-Hag 1:11\">Hag. 1:7–11</a>). Perhaps this famine was God’s judgment upon the leaders’ failure to do what was right.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "nehemiah,5,5", "nehemiah,5,6" ],
+  "verses" : [ {
+    "verse" : "nehemiah,5,5",
+    "text" : "Although we are of the same flesh and blood as our countrymen and though our sons are as good as theirs, yet we have to subject our sons and daughters to slavery. Some of our daughters have already been enslaved, but we are powerless, because our fields and our vineyards belong to others.\""
+  }, {
+    "verse" : "nehemiah,5,6",
+    "text" : "When I heard their outcry and these charges, I was very angry."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "nehemiah,5,5",
     "id" : 189770,
@@ -177,7 +318,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Neh 5:5\">5:5</a></b> <b>enslaved.</b> According to <a class=\"bibleref\" href=\"/passage/?search=Lev 25:39-Lev 25:43\">Lev. 25:39–43</a>, a man who became poor could sell himself, along with his family, to a fellow Israelite in order to get back on his feet financially; he was to be treated as a hired worker, not as a slave. The error in Nehemiah’s day seems to be twofold: (a) only the children were being sold, resulting in the breakup of family units; (b) the children were being treated as slaves, not as hired workers.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "nehemiah,5,7", "nehemiah,5,8", "nehemiah,5,9" ],
+  "verses" : [ {
+    "verse" : "nehemiah,5,7",
+    "text" : "I pondered them in my mind and then accused the nobles and officials. I told them, \"You are exacting usury from your own countrymen!\" So I called together a large meeting to deal with them"
+  }, {
+    "verse" : "nehemiah,5,8",
+    "text" : "and said: \"As far as possible, we have bought back our Jewish brothers who were sold to the Gentiles. Now you are selling your brothers, only for them to be sold back to us!\" They kept quiet, because they could find nothing to say."
+  }, {
+    "verse" : "nehemiah,5,9",
+    "text" : "So I continued, \"What you are doing is not right. Shouldn't you walk in the fear of our God to avoid the reproach of our Gentile enemies?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "nehemiah,5,7",
     "id" : 189771,
@@ -185,7 +335,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Neh 5:7\">5:7</a></b> <b>brought charges against.</b> A bold step on Nehemiah’s part.</p><p><b>exacting interest.</b> The law prohibited not only usury, but interest of any kind (<a class=\"bibleref\" href=\"/passage/?search=Exod 22:25-Exod 22:27\">Ex. 22:25–27</a>; <a class=\"bibleref\" href=\"/passage/?search=Lev 25:35-Lev 25:37\">Lev. 25:35–37</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 23:20\">Deut. 23:20</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "nehemiah,5,10" ],
+  "verses" : [ {
+    "verse" : "nehemiah,5,10",
+    "text" : "I and my brothers and my men are also lending the people money and grain. But let the exacting of usury stop!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "nehemiah,5,10",
     "id" : 189772,
@@ -193,7 +346,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Neh 5:10\">5:10</a></b> <b>I and my brothers.</b> Nehemiah too seems to have made interest-bearing loans. He includes himself in the call to repent.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "nehemiah,5,11" ],
+  "verses" : [ {
+    "verse" : "nehemiah,5,11",
+    "text" : "Give back to them immediately their fields, vineyards, olive groves and houses, and also the usury you are charging them-the hundredth part of the money, grain, new wine and oil.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "nehemiah,5,11",
     "id" : 189773,
@@ -201,7 +357,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Neh 5:11\">5:11</a></b> <b>grain, wine, and oil.</b> This familiar triad is in the order of the agricultural harvests: first grain, then grapes, and finally olives ripened.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "nehemiah,5,12" ],
+  "verses" : [ {
+    "verse" : "nehemiah,5,12",
+    "text" : "\"We will give it back,\" they said. \"And we will not demand anything more from them. We will do as you say.\" Then I summoned the priests and made the nobles and officials take an oath to do what they had promised."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "nehemiah,5,12",
     "id" : 189774,
@@ -209,7 +368,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Neh 5:12\">5:12</a></b> <b>made them swear.</b> This act was a renewal of their commitment to keep the law of Moses concerning lending and debt-slavery. See theological note “Honest Speech, Oaths, and Vows.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "nehemiah,5,13" ],
+  "verses" : [ {
+    "verse" : "nehemiah,5,13",
+    "text" : "I also shook out the folds of my robe and said, \"In this way may God shake out of his house and possessions every man who does not keep this promise. So may such a man be shaken out and emptied!\" At this the whole assembly said, \"Amen,\" and praised the LORD. And the people did as they had promised."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "nehemiah,5,13",
     "id" : 189775,

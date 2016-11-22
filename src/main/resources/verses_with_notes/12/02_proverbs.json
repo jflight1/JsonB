@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,28,27" ],
+  "verses" : [ {
+    "verse" : "proverbs,28,27",
+    "text" : "He who gives to the poor will lack nothing, but he who closes his eyes to them receives many curses."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,28,1-proverbs,28,28",
     "id" : 192290,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 28:27\">28:27</a></b> See <a class=\"bibleref\" href=\"/passage/?search=Prov 11:24-Prov 11:26\">11:24–26</a>; <a class=\"bibleref\" href=\"/passage/?search=Prov 14:21\">14:21</a>; <a class=\"bibleref\" href=\"/passage/?search=Prov 22:9\">22:9</a> and notes.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,28,28" ],
+  "verses" : [ {
+    "verse" : "proverbs,28,28",
+    "text" : "When the wicked rise to power, people go into hiding; but when the wicked perish, the righteous thrive."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,28,28",
     "id" : 192315,

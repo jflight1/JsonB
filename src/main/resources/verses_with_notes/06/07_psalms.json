@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,125,1" ],
+  "verses" : [ {
+    "verse" : "psalms,125,1",
+    "text" : "Those who trust in the LORD are like Mount Zion, which cannot be shaken but endures forever."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,125,1-psalms,125,5",
     "id" : 191438,
@@ -7,7 +10,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 125\">Ps. 125</a></b> The sixth of the “Songs of Ascents” begins like a confident Zion hymn (cf. <a class=\"bibleref\" href=\"/passage/?search=Ps 46\">Ps. 46</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 48\">48</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 76\">76</a>). From the temple on Mount Zion the Lord provides protection for His people.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,125,2" ],
+  "verses" : [ {
+    "verse" : "psalms,125,2",
+    "text" : "As the mountains surround Jerusalem, so the LORD surrounds his people both now and forevermore."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,125,2",
     "id" : 191439,
@@ -15,7 +21,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 125:2\">125:2</a></b> <b>As the mountains surround Jerusalem.</b> The surrounding mountains were important in the defense of the city and picture God’s protective presence (<a class=\"bibleref\" href=\"/passage/?search=Ps 12:1\">12:1</a>; <a class=\"bibleref\" href=\"/passage/?search=2Kgs 6:17\">2 Kin. 6:17</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,125,3" ],
+  "verses" : [ {
+    "verse" : "psalms,125,3",
+    "text" : "The scepter of the wicked will not remain over the land allotted to the righteous, for then the righteous might use their hands to do evil."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,125,3",
     "id" : 191440,
@@ -23,7 +32,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 125:3\">125:3</a></b> <b>the scepter of wickedness.</b> The scepter is a symbol of political and military rule, in this case pointing to the oppression of the people of God by a wicked, possibly foreign force.</p><p><b>stretch out their hands.</b> By way of imitation, or under the pressures of a corrupt government and society.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,125,4", "psalms,125,5" ],
+  "verses" : [ {
+    "verse" : "psalms,125,4",
+    "text" : "Do good, O LORD, to those who are good, to those who are upright in heart."
+  }, {
+    "verse" : "psalms,125,5",
+    "text" : "But those who turn to crooked ways the LORD will banish with the evildoers. Peace be upon Israel."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,125,4-psalms,125,5",
     "id" : 191441,

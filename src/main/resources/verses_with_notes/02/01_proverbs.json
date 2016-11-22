@@ -1,5 +1,17 @@
 [ {
-  "singleVerses" : [ "proverbs,6,16", "proverbs,6,17", "proverbs,6,18", "proverbs,6,19" ],
+  "verses" : [ {
+    "verse" : "proverbs,6,16",
+    "text" : "There are six things the LORD hates, seven that are detestable to him:"
+  }, {
+    "verse" : "proverbs,6,17",
+    "text" : "haughty eyes, a lying tongue, hands that shed innocent blood,"
+  }, {
+    "verse" : "proverbs,6,18",
+    "text" : "a heart that devises wicked schemes, feet that are quick to rush into evil,"
+  }, {
+    "verse" : "proverbs,6,19",
+    "text" : "a false witness who pours out lies and a man who stirs up dissension among brothers."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,6,16-proverbs,6,19",
     "id" : 191761,

@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,12,10" ],
+  "verses" : [ {
+    "verse" : "proverbs,12,10",
+    "text" : "A righteous man cares for the needs of his animal, but the kindest acts of the wicked are cruel."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

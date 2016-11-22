@@ -1,5 +1,14 @@
 [ {
-  "singleVerses" : [ "1samuel,24,1", "1samuel,24,2", "1samuel,24,3" ],
+  "verses" : [ {
+    "verse" : "1samuel,24,1",
+    "text" : "After Saul returned from pursuing the Philistines, he was told, \"David is in the Desert of En Gedi.\""
+  }, {
+    "verse" : "1samuel,24,2",
+    "text" : "So Saul took three thousand chosen men from all Israel and set out to look for David and his men near the Crags of the Wild Goats."
+  }, {
+    "verse" : "1samuel,24,3",
+    "text" : "He came to the sheep pens along the way; a cave was there, and Saul went in to relieve himself. David and his men were far back in the cave."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,16,1-1samuel,31,13",
     "id" : 187527,
@@ -12,7 +21,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 24:1\">24:1</a></b> <b>wilderness of Engedi.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Sam 23:29\">23:29</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,24,4" ],
+  "verses" : [ {
+    "verse" : "1samuel,24,4",
+    "text" : "The men said, \"This is the day the LORD spoke of when he said to you, 'I will give your enemy into your hands for you to deal with as you wish.'\" Then David crept up unnoticed and cut off a corner of Saul's robe."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,24,4",
     "id" : 187644,
@@ -20,7 +32,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 24:4\">24:4</a></b> <b>Here is the day of which the <span class=\"small-caps\">Lord</span> said to you.</b> While it is providential that Saul should enter the very cave where David and his men are hidden, there has been no hint that God wanted David to lift a hand against Saul (cf. <a class=\"bibleref\" href=\"/passage/?search=1Sam 24:6\">v. 6</a>). The suggestion by David’s men that he do so would be a mistaken conclusion of their own.</p><p><b>cut off a corner of Saul’s robe.</b> David restricts himself to a symbolic act (<a class=\"bibleref\" href=\"/passage/?search=1Sam 24:5\">v. 5</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,24,5" ],
+  "verses" : [ {
+    "verse" : "1samuel,24,5",
+    "text" : "Afterward, David was conscience-stricken for having cut off a corner of his robe."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,24,5",
     "id" : 187645,
@@ -28,7 +43,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 24:5\">24:5</a></b> <b>David’s heart struck him.</b> Although David later displays the corner of Saul’s robe as evidence of his goodwill towards Saul (<a class=\"bibleref\" href=\"/passage/?search=1Sam 24:11\">v. 11</a>), his pangs of conscience (cf. <a class=\"bibleref\" href=\"/passage/?search=2Sam 24:10\">2 Sam. 24:10</a>) suggest that a desire to secure such proof may not have been his only reason for going so close to Saul. In view of the royal significance of robes (15:28; 18:4; 19:24 and notes), David may have felt guilty of an inappropriate grasping after the kingship and of an act of aggression against the Lord’s anointed (v. 6). See theological note “Conscience and the Law.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,24,6", "1samuel,24,7", "1samuel,24,8", "1samuel,24,9", "1samuel,24,10", "1samuel,24,11", "1samuel,24,12" ],
+  "verses" : [ {
+    "verse" : "1samuel,24,6",
+    "text" : "He said to his men, \"The LORD forbid that I should do such a thing to my master, the LORD's anointed, or lift my hand against him; for he is the anointed of the LORD.\""
+  }, {
+    "verse" : "1samuel,24,7",
+    "text" : "With these words David rebuked his men and did not allow them to attack Saul. And Saul left the cave and went his way."
+  }, {
+    "verse" : "1samuel,24,8",
+    "text" : "Then David went out of the cave and called out to Saul, \"My lord the king!\" When Saul looked behind him, David bowed down and prostrated himself with his face to the ground."
+  }, {
+    "verse" : "1samuel,24,9",
+    "text" : "He said to Saul, \"Why do you listen when men say, 'David is bent on harming you'?"
+  }, {
+    "verse" : "1samuel,24,10",
+    "text" : "This day you have seen with your own eyes how the LORD delivered you into my hands in the cave. Some urged me to kill you, but I spared you; I said, 'I will not lift my hand against my master, because he is the LORD's anointed.'"
+  }, {
+    "verse" : "1samuel,24,11",
+    "text" : "See, my father, look at this piece of your robe in my hand! I cut off the corner of your robe but did not kill you. Now understand and recognize that I am not guilty of wrongdoing or rebellion. I have not wronged you, but you are hunting me down to take my life."
+  }, {
+    "verse" : "1samuel,24,12",
+    "text" : "May the LORD judge between you and me. And may the LORD avenge the wrongs you have done to me, but my hand will not touch you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,24,6",
     "id" : 187646,
@@ -36,7 +72,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 24:6\">24:6</a></b> <b><span class=\"small-caps\">Lord</span>’s anointed.</b> David recognizes and safeguards the sanctity of the Lord’s anointed (<a class=\"bibleref\" href=\"/passage/?search=1Sam 26:9\">26:9</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=1Sam 2:10\">2:10</a> note), leaving judgment and vengeance to the Lord (<a class=\"bibleref\" href=\"/passage/?search=1Sam 2:12\">v. 12</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,24,13" ],
+  "verses" : [ {
+    "verse" : "1samuel,24,13",
+    "text" : "As the old saying goes, 'From evildoers come evil deeds,' so my hand will not touch you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,24,13",
     "id" : 187647,
@@ -44,7 +83,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 24:13\">24:13</a></b> <b>proverb.</b> David’s point seems to be like Jesus’ teaching, “You will recognize them by their fruits” (<a class=\"bibleref\" href=\"/passage/?search=Matt 7:16\">Matt. 7:16</a>, <a class=\"bibleref\" href=\"/passage/?search=Matt 7:20\">20</a>). David is known by his restraint, but Saul is known from his efforts to harm David.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,24,14", "1samuel,24,15", "1samuel,24,16" ],
+  "verses" : [ {
+    "verse" : "1samuel,24,14",
+    "text" : "\"Against whom has the king of Israel come out? Whom are you pursuing? A dead dog? A flea?"
+  }, {
+    "verse" : "1samuel,24,15",
+    "text" : "May the LORD be our judge and decide between us. May he consider my cause and uphold it; may he vindicate me by delivering me from your hand.\""
+  }, {
+    "verse" : "1samuel,24,16",
+    "text" : "When David finished saying this, Saul asked, \"Is that your voice, David my son?\" And he wept aloud."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,24,14",
     "id" : 187648,
@@ -52,7 +100,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 24:14\">24:14</a></b> <b>A dead dog.</b> David abases himself before Saul, as Mephibosheth will later do before David (<a class=\"bibleref\" href=\"/passage/?search=2Sam 9:8\">2 Sam. 9:8</a>). The expression “dead dog” occurs only one other time in the Old Testament, <a class=\"bibleref\" href=\"/passage/?search=2Sam 16:9\">2 Sam. 16:9</a>. “Dog” is usually an insult (17:43; <a class=\"bibleref\" href=\"/passage/?search=2Sam 3:8\">2 Sam. 3:8</a>; <a class=\"bibleref\" href=\"/passage/?search=2Kgs 8:13\">2 Kin. 8:13</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,24,17", "1samuel,24,18", "1samuel,24,19" ],
+  "verses" : [ {
+    "verse" : "1samuel,24,17",
+    "text" : "\"You are more righteous than I,\" he said. \"You have treated me well, but I have treated you badly."
+  }, {
+    "verse" : "1samuel,24,18",
+    "text" : "You have just now told me of the good you did to me; the LORD delivered me into your hands, but you did not kill me."
+  }, {
+    "verse" : "1samuel,24,19",
+    "text" : "When a man finds his enemy, does he let him get away unharmed? May the LORD reward you well for the way you treated me today."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,24,17",
     "id" : 187649,
@@ -60,7 +117,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 24:17\">24:17</a></b> <b>You are more righteous than I.</b> Having just escaped with his life, Saul experiences a rare moment of remorse. His testimony to David’s righteousness recognizes David’s right to rule; even Saul acknowledges that David did not rise to power by illicit means.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,24,20", "1samuel,24,21", "1samuel,24,22" ],
+  "verses" : [ {
+    "verse" : "1samuel,24,20",
+    "text" : "I know that you will surely be king and that the kingdom of Israel will be established in your hands."
+  }, {
+    "verse" : "1samuel,24,21",
+    "text" : "Now swear to me by the LORD that you will not cut off my descendants or wipe out my name from my father's family.\""
+  }, {
+    "verse" : "1samuel,24,22",
+    "text" : "So David gave his oath to Saul. Then Saul returned home, but David and his men went up to the stronghold."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,24,20",
     "id" : 187650,
@@ -68,7 +134,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 24:20\">24:20</a></b> <b>you shall surely be king.</b> Contrast Samuel’s rebuke of Saul in <a class=\"bibleref\" href=\"/passage/?search=1Sam 13:14\">13:14</a>, “But now your kingdom shall not continue.” Yet in contrast to Jonathan’s action in <a class=\"bibleref\" href=\"/passage/?search=1Sam 18:4\">18:4</a> (note), Saul gives no sign of being ready to give the throne to David (see <a class=\"bibleref\" href=\"/passage/?search=1Sam 26:25\">26:25</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,25,1" ],
+  "verses" : [ {
+    "verse" : "1samuel,25,1",
+    "text" : "Now Samuel died, and all Israel assembled and mourned for him; and they buried him at his home in Ramah. Then David moved down into the Desert of Maon."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,25,1",
     "id" : 187651,
@@ -76,7 +145,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 25:1\">25:1</a></b> <b>all Israel . . . mourned for him.</b> The extent of mourning is a sign of Samuel’s prominence as a leader. Compare the mourning that accompanied the deaths of Jacob (<a class=\"bibleref\" href=\"/passage/?search=Gen 50:10\">Gen. 50:10</a>), Aaron (<a class=\"bibleref\" href=\"/passage/?search=Num 20:29\">Num. 20:29</a>), and Moses (<a class=\"bibleref\" href=\"/passage/?search=Deut 34:8\">Deut. 34:8</a>).</p><p><b>Ramah.</b> Samuel’s hometown (1:1 note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,25,2" ],
+  "verses" : [ {
+    "verse" : "1samuel,25,2",
+    "text" : "A certain man in Maon, who had property there at Carmel, was very wealthy. He had a thousand goats and three thousand sheep, which he was shearing in Carmel."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,25,2",
     "id" : 187652,
@@ -84,7 +156,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 25:2\">25:2</a></b> <b>Carmel.</b> The same Carmel where Saul erected a monument in his own honor (<a class=\"bibleref\" href=\"/passage/?search=1Sam 15:12\">15:12</a> notes). The setting of this incident near Carmel is the first of many reminders of Saul in this chapter.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,25,3", "1samuel,25,4", "1samuel,25,5", "1samuel,25,6", "1samuel,25,7" ],
+  "verses" : [ {
+    "verse" : "1samuel,25,3",
+    "text" : "His name was Nabal and his wife's name was Abigail. She was an intelligent and beautiful woman, but her husband, a Calebite, was surly and mean in his dealings."
+  }, {
+    "verse" : "1samuel,25,4",
+    "text" : "While David was in the desert, he heard that Nabal was shearing sheep."
+  }, {
+    "verse" : "1samuel,25,5",
+    "text" : "So he sent ten young men and said to them, \"Go up to Nabal at Carmel and greet him in my name."
+  }, {
+    "verse" : "1samuel,25,6",
+    "text" : "Say to him: 'Long life to you! Good health to you and your household! And good health to all that is yours!"
+  }, {
+    "verse" : "1samuel,25,7",
+    "text" : "\"'Now I hear that it is sheep-shearing time. When your shepherds were with us, we did not mistreat them, and the whole time they were at Carmel nothing of theirs was missing."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,25,3",
     "id" : 187653,
@@ -92,7 +179,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 25:3\">25:3</a></b> <b>Nabal.</b> In <a class=\"bibleref\" href=\"/passage/?search=1Sam 25:25\">v. 25</a> Abigail explains the name as meaning “folly.” If it seems unlikely that parents would name a child “fool,” it may simply be that this is a disparaging play on a name which sounded like “fool.”</p><p><b>Calebite.</b> On Caleb’s tribal holdings, see <a class=\"bibleref\" href=\"/passage/?search=Josh 14:13\">Josh. 14:13</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 15:13\">15:13</a>. The similarity of the name “Caleb” to the Hebrew word for “dog” (cf. 24:14 note) may account for the inclusion of this particular detail in the introduction of Nabal.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,25,8", "1samuel,25,9", "1samuel,25,10", "1samuel,25,11", "1samuel,25,12", "1samuel,25,13" ],
+  "verses" : [ {
+    "verse" : "1samuel,25,8",
+    "text" : "Ask your own servants and they will tell you. Therefore be favorable toward my young men, since we come at a festive time. Please give your servants and your son David whatever you can find for them.'\""
+  }, {
+    "verse" : "1samuel,25,9",
+    "text" : "When David's men arrived, they gave Nabal this message in David's name. Then they waited."
+  }, {
+    "verse" : "1samuel,25,10",
+    "text" : "Nabal answered David's servants, \"Who is this David? Who is this son of Jesse? Many servants are breaking away from their masters these days."
+  }, {
+    "verse" : "1samuel,25,11",
+    "text" : "Why should I take my bread and water, and the meat I have slaughtered for my shearers, and give it to men coming from who knows where?\""
+  }, {
+    "verse" : "1samuel,25,12",
+    "text" : "David's men turned around and went back. When they arrived, they reported every word."
+  }, {
+    "verse" : "1samuel,25,13",
+    "text" : "David said to his men, \"Put on your swords!\" So they put on their swords, and David put on his. About four hundred men went up with David, while two hundred stayed with the supplies."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,25,8",
     "id" : 187654,
@@ -100,7 +205,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 25:8\">25:8</a></b> <b>your son David.</b> Compare the attitude of respect and deference adopted by David in addressing Saul as “my father” in <a class=\"bibleref\" href=\"/passage/?search=1Sam 24:11\">24:11</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,25,14", "1samuel,25,15" ],
+  "verses" : [ {
+    "verse" : "1samuel,25,14",
+    "text" : "One of the servants told Nabal's wife Abigail: \"David sent messengers from the desert to give our master his greetings, but he hurled insults at them."
+  }, {
+    "verse" : "1samuel,25,15",
+    "text" : "Yet these men were very good to us. They did not mistreat us, and the whole time we were out in the fields near them nothing was missing."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,25,14",
     "id" : 187655,
@@ -108,7 +219,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 25:14\">25:14</a></b> <b>he railed at them.</b> Nabal’s attack on David’s messengers is vicious. The Hebrew verb translated “railed” means “to shriek” or “to fly at” something and is closely related to the Hebrew noun for “birds of prey.” The same verb is used of Saul in <a class=\"bibleref\" href=\"/passage/?search=1Sam 15:19\">15:19</a> to describe his unrestrained “pouncing” upon the Amalekite spoils (cf. <a class=\"bibleref\" href=\"/passage/?search=1Sam 14:32\">14:32</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,25,16" ],
+  "verses" : [ {
+    "verse" : "1samuel,25,16",
+    "text" : "Night and day they were a wall around us all the time we were herding our sheep near them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,25,16",
     "id" : 187656,
@@ -116,7 +230,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 25:16\">25:16</a></b> <b>They were a wall to us.</b> Not only did David’s men refrain from inflicting harm (<a class=\"bibleref\" href=\"/passage/?search=1Sam 25:7\">v. 7</a>), their presence also gave protection to the shepherds of Nabal (<a class=\"bibleref\" href=\"/passage/?search=1Sam 25:21\">v. 21</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,25,17", "1samuel,25,18" ],
+  "verses" : [ {
+    "verse" : "1samuel,25,17",
+    "text" : "Now think it over and see what you can do, because disaster is hanging over our master and his whole household. He is such a wicked man that no one can talk to him.\""
+  }, {
+    "verse" : "1samuel,25,18",
+    "text" : "Abigail lost no time. She took two hundred loaves of bread, two skins of wine, five dressed sheep, five seahs of roasted grain, a hundred cakes of raisins and two hundred cakes of pressed figs, and loaded them on donkeys."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,25,17",
     "id" : 187657,
@@ -124,7 +244,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 25:17\">25:17</a></b> <b>he is such a worthless man that one cannot speak to him.</b> Nabal’s plight springs from his own wickedness. His lack of knowledge is a refusal to know.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,25,19", "1samuel,25,20", "1samuel,25,21" ],
+  "verses" : [ {
+    "verse" : "1samuel,25,19",
+    "text" : "Then she told her servants, \"Go on ahead; I'll follow you.\" But she did not tell her husband Nabal."
+  }, {
+    "verse" : "1samuel,25,20",
+    "text" : "As she came riding her donkey into a mountain ravine, there were David and his men descending toward her, and she met them."
+  }, {
+    "verse" : "1samuel,25,21",
+    "text" : "David had just said, \"It's been useless-all my watching over this fellow's property in the desert so that nothing of his was missing. He has paid me back evil for good."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,25,19",
     "id" : 187658,
@@ -132,7 +261,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 25:19\">25:19</a></b> <b>But she did not tell her husband Nabal.</b> In refusing to confide in her husband, Abigail shows her lack of confidence in him. In view of Abigail’s insight into the Lord’s choice of David (<a class=\"bibleref\" href=\"/passage/?search=1Sam 25:28\">v. 28</a> and note), her decision to go against her husband’s wishes seems to fall under the category of obeying God rather than men (<a class=\"bibleref\" href=\"/passage/?search=Acts 5:29\">Acts 5:29</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,25,22", "1samuel,25,23", "1samuel,25,24" ],
+  "verses" : [ {
+    "verse" : "1samuel,25,22",
+    "text" : "May God deal with David, be it ever so severely, if by morning I leave alive one male of all who belong to him!\""
+  }, {
+    "verse" : "1samuel,25,23",
+    "text" : "When Abigail saw David, she quickly got off her donkey and bowed down before David with her face to the ground."
+  }, {
+    "verse" : "1samuel,25,24",
+    "text" : "She fell at his feet and said: \"My lord, let the blame be on me alone. Please let your servant speak to you; hear what your servant has to say."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,25,22",
     "id" : 187659,
@@ -140,7 +278,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 25:22\">25:22</a></b> <b>if by morning I leave . . . one male.</b> Unrestrained by any special status of the man Nabal (contrast <a class=\"bibleref\" href=\"/passage/?search=1Sam 24:9-1Sam 24:12\">24:9–12</a>), David is intent upon exacting personal revenge.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,25,25", "1samuel,25,26", "1samuel,25,27" ],
+  "verses" : [ {
+    "verse" : "1samuel,25,25",
+    "text" : "May my lord pay no attention to that wicked man Nabal. He is just like his name-his name is Fool, and folly goes with him. But as for me, your servant, I did not see the men my master sent."
+  }, {
+    "verse" : "1samuel,25,26",
+    "text" : "\"Now since the LORD has kept you, my master, from bloodshed and from avenging yourself with your own hands, as surely as the LORD lives and as you live, may your enemies and all who intend to harm my master be like Nabal."
+  }, {
+    "verse" : "1samuel,25,27",
+    "text" : "And let this gift, which your servant has brought to my master, be given to the men who follow you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,25,25",
     "id" : 187660,
@@ -148,7 +295,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 25:25\">25:25</a></b> <b>as his name is, so is he.</b> See note on <a class=\"bibleref\" href=\"/passage/?search=1Sam 25:3\">v. 3</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,25,28" ],
+  "verses" : [ {
+    "verse" : "1samuel,25,28",
+    "text" : "Please forgive your servant's offense, for the LORD will certainly make a lasting dynasty for my master, because he fights the LORD's battles. Let no wrongdoing be found in you as long as you live."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,25,28",
     "id" : 187661,
@@ -156,7 +306,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 25:28\">25:28 a</a></b> <b>sure house.</b> Abigail’s perception of David is as right as her husband’s is wrong (<a class=\"bibleref\" href=\"/passage/?search=1Sam 25:10\">vv. 10</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 25:11\">11</a>; <a class=\"bibleref\" href=\"/passage/?search=2Sam 7:11-2Sam 7:16\">2 Sam. 7:11–16</a>).</p><p><b>fighting the battles of the <span class=\"small-caps\">Lord</span>.</b> Abigail’s words hint at the difference between David’s proper military role and the personal vendetta he is now pursuing. Righteous engagement in conflict means standing boldly for God and leaving personal injuries to be dealt with by the Lord (24:12).</p><p><b>evil shall not be found in you.</b> To have taken his own revenge on an enemy would have made David little better than Saul, and David later praises the Lord for sending Abigail to deter him from such a transgression (v. 32).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,25,29", "1samuel,25,30", "1samuel,25,31", "1samuel,25,32", "1samuel,25,33", "1samuel,25,34", "1samuel,25,35" ],
+  "verses" : [ {
+    "verse" : "1samuel,25,29",
+    "text" : "Even though someone is pursuing you to take your life, the life of my master will be bound securely in the bundle of the living by the LORD your God. But the lives of your enemies he will hurl away as from the pocket of a sling."
+  }, {
+    "verse" : "1samuel,25,30",
+    "text" : "When the LORD has done for my master every good thing he promised concerning him and has appointed him leader over Israel,"
+  }, {
+    "verse" : "1samuel,25,31",
+    "text" : "my master will not have on his conscience the staggering burden of needless bloodshed or of having avenged himself. And when the LORD has brought my master success, remember your servant.\""
+  }, {
+    "verse" : "1samuel,25,32",
+    "text" : "David said to Abigail, \"Praise be to the LORD, the God of Israel, who has sent you today to meet me."
+  }, {
+    "verse" : "1samuel,25,33",
+    "text" : "May you be blessed for your good judgment and for keeping me from bloodshed this day and from avenging myself with my own hands."
+  }, {
+    "verse" : "1samuel,25,34",
+    "text" : "Otherwise, as surely as the LORD, the God of Israel, lives, who has kept me from harming you, if you had not come quickly to meet me, not one male belonging to Nabal would have been left alive by daybreak.\""
+  }, {
+    "verse" : "1samuel,25,35",
+    "text" : "Then David accepted from her hand what she had brought him and said, \"Go home in peace. I have heard your words and granted your request.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,25,29",
     "id" : 187662,
@@ -164,7 +335,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 25:29\">25:29</a></b> <b>bound . . . bundle . . . sling . . . sling.</b> Note the poetic repetition in Abigail’s speech.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,25,36", "1samuel,25,37", "1samuel,25,38" ],
+  "verses" : [ {
+    "verse" : "1samuel,25,36",
+    "text" : "When Abigail went to Nabal, he was in the house holding a banquet like that of a king. He was in high spirits and very drunk. So she told him nothing until daybreak."
+  }, {
+    "verse" : "1samuel,25,37",
+    "text" : "Then in the morning, when Nabal was sober, his wife told him all these things, and his heart failed him and he became like a stone."
+  }, {
+    "verse" : "1samuel,25,38",
+    "text" : "About ten days later, the LORD struck Nabal and he died."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,25,36",
     "id" : 187663,
@@ -172,7 +352,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 25:36\">25:36</a></b> <b>like the feast of a king.</b> This phrase invites the thought that Nabal is somehow like another king, Saul.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,25,39" ],
+  "verses" : [ {
+    "verse" : "1samuel,25,39",
+    "text" : "When David heard that Nabal was dead, he said, \"Praise be to the LORD, who has upheld my cause against Nabal for treating me with contempt. He has kept his servant from doing wrong and has brought Nabal's wrongdoing down on his own head.\" Then David sent word to Abigail, asking her to become his wife."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,25,39",
     "id" : 187664,
@@ -180,7 +363,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 25:39\">25:39</a></b> <b>Blessed be the <span class=\"small-caps\">Lord</span>.</b> It would have been wrong for David to take matters into his own hands, but not because Nabal was innocent. Having heard of Nabal’s death, David thanks the Lord for keeping him from personal wrongdoing while at the same time upholding his cause.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,25,40", "1samuel,25,41", "1samuel,25,42", "1samuel,25,43", "1samuel,25,44" ],
+  "verses" : [ {
+    "verse" : "1samuel,25,40",
+    "text" : "His servants went to Carmel and said to Abigail, \"David has sent us to you to take you to become his wife.\""
+  }, {
+    "verse" : "1samuel,25,41",
+    "text" : "She bowed down with her face to the ground and said, \"Here is your maidservant, ready to serve you and wash the feet of my master's servants.\""
+  }, {
+    "verse" : "1samuel,25,42",
+    "text" : "Abigail quickly got on a donkey and, attended by her five maids, went with David's messengers and became his wife."
+  }, {
+    "verse" : "1samuel,25,43",
+    "text" : "David had also married Ahinoam of Jezreel, and they both were his wives."
+  }, {
+    "verse" : "1samuel,25,44",
+    "text" : "But Saul had given his daughter Michal, David's wife, to Paltiel son of Laish, who was from Gallim."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,25,40-1samuel,25,44",
     "id" : 187665,

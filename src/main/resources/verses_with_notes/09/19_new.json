@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "galatians,5,1" ],
+  "verses" : [ {
+    "verse" : "galatians,5,1",
+    "text" : "It is for freedom that Christ has set us free. Stand firm, then, and do not let yourselves be burdened again by a yoke of slavery."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "galatians,5,1",
     "id" : 198450,
@@ -7,7 +10,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gal 5:1\">5:1</a></b> <b>yoke.</b> Jewish literature of the time compares the law to a yoke to which the obedient submit. Paul does not want his Gentile readers to let the law take the place of Christ in their lives (<a class=\"bibleref\" href=\"/passage/?search=Matt 11:29\">Matt. 11:29</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 15:10\">Acts 15:10</a>). See theological note “Christian Liberty.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "galatians,5,2", "galatians,5,3" ],
+  "verses" : [ {
+    "verse" : "galatians,5,2",
+    "text" : "Mark my words! I, Paul, tell you that if you let yourselves be circumcised, Christ will be of no value to you at all."
+  }, {
+    "verse" : "galatians,5,3",
+    "text" : "Again I declare to every man who lets himself be circumcised that he is obligated to obey the whole law."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "galatians,5,2",
     "id" : 198451,
@@ -15,7 +24,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gal 5:2\">5:2</a></b> Regarding Christ and circumcision as necessary for salvation is the same as denying the sufficiency of Christ’s death for salvation. For those set free in Christ, to be circumcised for salvation is to undertake to do what they can never do (<a class=\"bibleref\" href=\"/passage/?search=Gal 2:21\">2:21</a>), and to reject what Christ has done for them. It is to return again to the dominion of sin and the law’s curse.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "galatians,5,4" ],
+  "verses" : [ {
+    "verse" : "galatians,5,4",
+    "text" : "You who are trying to be justified by law have been alienated from Christ; you have fallen away from grace."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "galatians,5,4",
     "id" : 198452,
@@ -23,7 +35,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gal 5:4\">5:4</a></b> <b>fallen away from grace.</b> That is, they would be renouncing God’s grace by no longer relying on it. Those who are chosen in Christ will be kept from such a renunciation of the gospel, and Paul continues to have confidence that his warning will be heeded (<a class=\"bibleref\" href=\"/passage/?search=Gal 5:10\">v. 10</a>). There may be those, however, who appear to us to be true members of Christ who will abandon the gospel (<a class=\"bibleref\" href=\"/passage/?search=Rom 11:22\">Rom. 11:22</a>; <a class=\"bibleref\" href=\"/passage/?search=1John 2:19\">1 John 2:19</a>). Scripture admonishes us, therefore, to be “diligent to make your calling and election sure” (<a class=\"bibleref\" href=\"/passage/?search=2Pet 1:10\">2 Pet. 1:10</a>) by living in a way that demonstrates the reality of the Spirit’s presence within us (5:16–6:10; <a class=\"bibleref\" href=\"/passage/?search=Heb 10:26\">Heb. 10:26</a>, <a class=\"bibleref\" href=\"/passage/?search=Heb 10:27\">27</a>; <a class=\"bibleref\" href=\"/passage/?search=2Pet 1:5-2Pet 1:11\">2 Pet. 1:5–11</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "galatians,5,5" ],
+  "verses" : [ {
+    "verse" : "galatians,5,5",
+    "text" : "But by faith we eagerly await through the Spirit the righteousness for which we hope."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "galatians,5,5",
     "id" : 198453,
@@ -31,7 +46,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gal 5:5\">5:5</a></b> <b>by faith . . . the hope of righteousness.</b> The sure hope of righteousness by faith is in contrast to the vain hope of righteousness by legal works. The Holy Spirit gives eager anticipation of justification on the last Day because we have already been justified in Christ (<a class=\"bibleref\" href=\"/passage/?search=Rom 5:1-Rom 5:5\">Rom. 5:1–5</a>, <a class=\"bibleref\" href=\"/passage/?search=Rom 5:9\">9</a>, <a class=\"bibleref\" href=\"/passage/?search=Rom 5:10\">10</a>). That same Spirit, imparting to us the saving benefits of our risen Savior, is our foretaste of the fulfilled heritage in glory (<a class=\"bibleref\" href=\"/passage/?search=2Cor 5:5\">2 Cor. 5:5</a>; <a class=\"bibleref\" href=\"/passage/?search=Eph 1:13\">Eph. 1:13</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "galatians,5,6", "galatians,5,7", "galatians,5,8", "galatians,5,9", "galatians,5,10" ],
+  "verses" : [ {
+    "verse" : "galatians,5,6",
+    "text" : "For in Christ Jesus neither circumcision nor uncircumcision has any value. The only thing that counts is faith expressing itself through love."
+  }, {
+    "verse" : "galatians,5,7",
+    "text" : "You were running a good race. Who cut in on you and kept you from obeying the truth?"
+  }, {
+    "verse" : "galatians,5,8",
+    "text" : "That kind of persuasion does not come from the one who calls you."
+  }, {
+    "verse" : "galatians,5,9",
+    "text" : "\"A little yeast works through the whole batch of dough.\""
+  }, {
+    "verse" : "galatians,5,10",
+    "text" : "I am confident in the Lord that you will take no other view. The one who is throwing you into confusion will pay the penalty, whoever he may be."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "galatians,5,6",
     "id" : 198454,
@@ -39,7 +69,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gal 5:6\">5:6</a></b> Paul is not arguing against circumcision itself (<a class=\"bibleref\" href=\"/passage/?search=Gal 6:15\">6:15</a>; <a class=\"bibleref\" href=\"/passage/?search=1Cor 7:19\">1 Cor. 7:19</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Acts 16:3\">Acts 16:3</a>) but against the attempt to make the rite a requirement for salvation. The one who believes in Jesus Christ, and demonstrates the reality of his belief through a sanctified life, is saved. See “Faith and Works” at <a class=\"bibleref\" href=\"/passage/?search=Jas 2:24\">James 2:24</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "galatians,5,11" ],
+  "verses" : [ {
+    "verse" : "galatians,5,11",
+    "text" : "Brothers, if I am still preaching circumcision, why am I still being persecuted? In that case the offense of the cross has been abolished."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "galatians,5,11",
     "id" : 198455,
@@ -47,7 +80,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gal 5:11\">5:11</a></b> <b>still preach circumcision.</b> Paul may be referring to his life before his conversion, or he may be refuting a false charge from his opponents that he preaches the necessity of circumcision for salvation when the Jerusalem apostles are present but leaves out that requirement when in the company of Gentiles (<a class=\"bibleref\" href=\"/passage/?search=Gal 1:10\">1:10</a>).</p><p><b>offense of the cross.</b> See <a class=\"bibleref\" href=\"/passage/?search=1Cor 1:18-1Cor 2:5\">1 Cor. 1:18–2:5</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "galatians,5,12" ],
+  "verses" : [ {
+    "verse" : "galatians,5,12",
+    "text" : "As for those agitators, I wish they would go the whole way and emasculate themselves!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "galatians,5,12",
     "id" : 198456,

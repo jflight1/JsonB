@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,30,33" ],
+  "verses" : [ {
+    "verse" : "proverbs,30,33",
+    "text" : "For as churning the milk produces butter, and as twisting the nose produces blood, so stirring up anger produces strife.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,30,33",
     "id" : 192356,

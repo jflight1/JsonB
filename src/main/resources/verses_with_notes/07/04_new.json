@@ -1,8 +1,32 @@
 [ {
-  "singleVerses" : [ "acts,22,17", "acts,22,18", "acts,22,19", "acts,22,20", "acts,22,21", "acts,22,22", "acts,22,23" ],
+  "verses" : [ {
+    "verse" : "acts,22,17",
+    "text" : "\"When I returned to Jerusalem and was praying at the temple, I fell into a trance"
+  }, {
+    "verse" : "acts,22,18",
+    "text" : "and saw the Lord speaking. 'Quick!' he said to me. 'Leave Jerusalem immediately, because they will not accept your testimony about me.'"
+  }, {
+    "verse" : "acts,22,19",
+    "text" : "\"'Lord,' I replied, 'these men know that I went from one synagogue to another to imprison and beat those who believe in you."
+  }, {
+    "verse" : "acts,22,20",
+    "text" : "And when the blood of your martyr Stephen was shed, I stood there giving my approval and guarding the clothes of those who were killing him.'"
+  }, {
+    "verse" : "acts,22,21",
+    "text" : "\"Then the Lord said to me, 'Go; I will send you far away to the Gentiles.'\""
+  }, {
+    "verse" : "acts,22,22",
+    "text" : "The crowd listened to Paul until he said this. Then they raised their voices and shouted, \"Rid the earth of him! He's not fit to live!\""
+  }, {
+    "verse" : "acts,22,23",
+    "text" : "As they were shouting and throwing off their cloaks and flinging dust into the air,"
+  } ],
   "rsbNotes" : [ ]
 }, {
-  "singleVerses" : [ "acts,22,24" ],
+  "verses" : [ {
+    "verse" : "acts,22,24",
+    "text" : "the commander ordered Paul to be taken into the barracks. He directed that he be flogged and questioned in order to find out why the people were shouting at him like this."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,22,24",
     "id" : 197640,
@@ -10,7 +34,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 22:24\">22:24</a></b> <b>flogging.</b> The Roman scourge was a whip of leather thongs loaded with bits of metal or bone; it could maim for life or kill. Jesus was scourged with such a whip (<a class=\"bibleref\" href=\"/passage/?search=John 19:1\">John 19:1</a>). Paul had been beaten (<a class=\"bibleref\" href=\"/passage/?search=2Cor 11:24\">2 Cor. 11:24</a>, <a class=\"bibleref\" href=\"/passage/?search=2Cor 11:25\">25</a>) but had never endured this particular punishment.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,22,25" ],
+  "verses" : [ {
+    "verse" : "acts,22,25",
+    "text" : "As they stretched him out to flog him, Paul said to the centurion standing there, \"Is it legal for you to flog a Roman citizen who hasn't even been found guilty?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,22,25",
     "id" : 197641,
@@ -18,7 +45,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 22:25\">22:25</a></b> <b>stretched him.</b> The soldiers either stretched Paul’s arms around a pole to expose his back or tied his hands and hoisted him from the ground to administer the whipping.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,22,26", "acts,22,27", "acts,22,28", "acts,22,29", "acts,22,30", "acts,23,1" ],
+  "verses" : [ {
+    "verse" : "acts,22,26",
+    "text" : "When the centurion heard this, he went to the commander and reported it. \"What are you going to do?\" he asked. \"This man is a Roman citizen.\""
+  }, {
+    "verse" : "acts,22,27",
+    "text" : "The commander went to Paul and asked, \"Tell me, are you a Roman citizen?Yes, I am,\" he answered."
+  }, {
+    "verse" : "acts,22,28",
+    "text" : "Then the commander said, \"I had to pay a big price for my citizenship.But I was born a citizen,\" Paul replied."
+  }, {
+    "verse" : "acts,22,29",
+    "text" : "Those who were about to question him withdrew immediately. The commander himself was alarmed when he realized that he had put Paul, a Roman citizen, in chains."
+  }, {
+    "verse" : "acts,22,30",
+    "text" : "The next day, since the commander wanted to find out exactly why Paul was being accused by the Jews, he released him and ordered the chief priests and all the Sanhedrin to assemble. Then he brought Paul and had him stand before them."
+  }, {
+    "verse" : "acts,23,1",
+    "text" : "Paul looked straight at the Sanhedrin and said, \"My brothers, I have fulfilled my duty to God in all good conscience to this day.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,22,26",
     "id" : 197642,
@@ -26,7 +71,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 22:26\">22:26</a></b> <b>Roman citizen.</b> Paul appealed again to his Roman citizenship, knowing that he was going to be punished without trial (<a class=\"bibleref\" href=\"/passage/?search=Acts 16:37\">16:37</a>). Roman citizenship was highly prized, usually given only to those of high position or those who had performed some valuable service to the state. It was then passed on to one’s family.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,23,2" ],
+  "verses" : [ {
+    "verse" : "acts,23,2",
+    "text" : "At this the high priest Ananias ordered those standing near Paul to strike him on the mouth."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,23,2",
     "id" : 197643,
@@ -34,7 +82,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 23:2\">23:2</a></b> <b>high priest Ananias.</b> Son of Nebedaeus, a brutal and violent man who ruled as high priest from <span class=\"small-caps\">a.d.</span> 48–59. This is not the earlier Annas of <a class=\"bibleref\" href=\"/passage/?search=John 18:13\">John 18:13</a>. Ananias was assassinated early in the war with Rome (<span class=\"small-caps\">a.d.</span> 66–70).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,23,3", "acts,23,4", "acts,23,5" ],
+  "verses" : [ {
+    "verse" : "acts,23,3",
+    "text" : "Then Paul said to him, \"God will strike you, you whitewashed wall! You sit there to judge me according to the law, yet you yourself violate the law by commanding that I be struck!\""
+  }, {
+    "verse" : "acts,23,4",
+    "text" : "Those who were standing near Paul said, \"You dare to insult God's high priest?\""
+  }, {
+    "verse" : "acts,23,5",
+    "text" : "Paul replied, \"Brothers, I did not realize that he was the high priest; for it is written: 'Do not speak evil about the ruler of your people.'\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,23,3",
     "id" : 197644,
@@ -42,7 +99,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 23:3\">23:3</a></b> <b>you whitewashed wall.</b> Tombs were often whitewashed to make them more visible (<a class=\"bibleref\" href=\"/passage/?search=Matt 23:27\">Matt. 23:27</a>, <a class=\"bibleref\" href=\"/passage/?search=Matt 23:28\">28</a>). Paul paid a fitting tribute to a corrupt official.</p><p><b>contrary to the law.</b> According to Jewish law, Paul had to be tried and found guilty before being punished.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,23,6", "acts,23,7", "acts,23,8" ],
+  "verses" : [ {
+    "verse" : "acts,23,6",
+    "text" : "Then Paul, knowing that some of them were Sadducees and the others Pharisees, called out in the Sanhedrin, \"My brothers, I am a Pharisee, the son of a Pharisee. I stand on trial because of my hope in the resurrection of the dead.\""
+  }, {
+    "verse" : "acts,23,7",
+    "text" : "When he said this, a dispute broke out between the Pharisees and the Sadducees, and the assembly was divided."
+  }, {
+    "verse" : "acts,23,8",
+    "text" : "(The Sadducees say that there is no resurrection, and that there are neither angels nor spirits, but the Pharisees acknowledge them all.)"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,23,6",
     "id" : 197645,
@@ -50,7 +116,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 23:6\">23:6</a></b> <b>Sadducees . . . Pharisees.</b> These two groups emerged during the period between the Old and New Testaments. They had different political and religious views. Paul seized the opportunity to emphasize their religious differences by identifying himself as a Pharisee and a believer in the resurrection of the dead, against the Sadducees who denied the resurrection and the existence of angels and spirits (<a class=\"bibleref\" href=\"/passage/?search=Matt 22:23-Matt 22:32\">Matt. 22:23–32</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,23,9", "acts,23,10" ],
+  "verses" : [ {
+    "verse" : "acts,23,9",
+    "text" : "There was a great uproar, and some of the teachers of the law who were Pharisees stood up and argued vigorously. \"We find nothing wrong with this man,\" they said. \"What if a spirit or an angel has spoken to him?\""
+  }, {
+    "verse" : "acts,23,10",
+    "text" : "The dispute became so violent that the commander was afraid Paul would be torn to pieces by them. He ordered the troops to go down and take him away from them by force and bring him into the barracks."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,23,9",
     "id" : 197646,

@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "proverbs,25,20", "proverbs,25,21" ],
+  "verses" : [ {
+    "verse" : "proverbs,25,20",
+    "text" : "Like one who takes away a garment on a cold day, or like vinegar poured on soda, is one who sings songs to a heavy heart."
+  }, {
+    "verse" : "proverbs,25,21",
+    "text" : "If your enemy is hungry, give him food to eat; if he is thirsty, give him water to drink."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,25,20",
     "id" : 192242,
@@ -7,7 +13,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 25:20\">25:20</a></b> <b>vinegar on soda.</b> The application of vinegar to “soda” (a cleansing agent such as baking soda) renders the latter useless. Another possible translation is, “like vinegar on a wound.” Just as taking away someone’s coat or pouring vinegar on wounds causes pain, so also does frivolity in the presence of sorrow (<a class=\"bibleref\" href=\"/passage/?search=Ps 137:3\">Ps. 137:3</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 137:4\">4</a>; <a class=\"bibleref\" href=\"/passage/?search=Rom 12:15\">Rom. 12:15</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,25,22" ],
+  "verses" : [ {
+    "verse" : "proverbs,25,22",
+    "text" : "In doing this, you will heap burning coals on his head, and the LORD will reward you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,25,22",
     "id" : 192243,

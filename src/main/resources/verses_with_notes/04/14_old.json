@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "joshua,9,3" ],
+  "verses" : [ {
+    "verse" : "joshua,9,3",
+    "text" : "However, when the people of Gibeon heard what Joshua had done to Jericho and Ai,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,5,13-joshua,12,24",
     "id" : 186741,
@@ -12,7 +15,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 9:3\">9:3</a></b> <b>Gibeon.</b> The action of the people of Gibeon (eight miles north of Jerusalem) is in contrast to the general pattern throughout Canaan (<a class=\"bibleref\" href=\"/passage/?search=Josh 9:1\">vv. 1</a>, <a class=\"bibleref\" href=\"/passage/?search=Josh 9:2\">2</a>).</p><p><b>heard.</b> The effect of the news of God’s powerful faithfulness to His promises is an important theme in the account of the conquest (<a class=\"bibleref\" href=\"/passage/?search=Josh 2:10\">2:10</a>, <a class=\"bibleref\" href=\"/passage/?search=Josh 2:11\">11</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 5:1\">5:1</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 9:1\">9:1</a>, <a class=\"bibleref\" href=\"/passage/?search=Josh 9:9\">9</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 10:1\">10:1</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 11:1\">11:1</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Josh 7:9\">7:9</a>). For the Canaanites this news was terrifying, for it meant that the God of heaven and earth (<a class=\"bibleref\" href=\"/passage/?search=Josh 2:11\">2:11</a>) would destroy them (<a class=\"bibleref\" href=\"/passage/?search=Josh 5:13-Josh 12:24\">5:13–12:24</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,9,4", "joshua,9,5" ],
+  "verses" : [ {
+    "verse" : "joshua,9,4",
+    "text" : "they resorted to a ruse: They went as a delegation whose donkeys were loaded with worn-out sacks and old wineskins, cracked and mended."
+  }, {
+    "verse" : "joshua,9,5",
+    "text" : "The men put worn and patched sandals on their feet and wore old clothes. All the bread of their food supply was dry and moldy."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,9,4",
     "id" : 186802,
@@ -20,7 +29,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 9:4\">9:4</a></b> <b>acted with cunning.</b> This deception will bring a curse on the Gibeonites (<a class=\"bibleref\" href=\"/passage/?search=Josh 9:23\">v. 23</a>) and is a contrast to Rahab’s action towards the representatives of Israel in <a class=\"bibleref\" href=\"/passage/?search=Josh 2\">ch. 2</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,9,6" ],
+  "verses" : [ {
+    "verse" : "joshua,9,6",
+    "text" : "Then they went to Joshua in the camp at Gilgal and said to him and the men of Israel, \"We have come from a distant country; make a treaty with us.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,9,6",
     "id" : 186803,
@@ -28,7 +40,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 9:6\">9:6</a></b> <b>We have come from a distant country.</b> The Gibeonites pretend that they live outside Israel’s potential zone of interest. The Israelites were prepared to make a treaty with them because of the provisions of <a class=\"bibleref\" href=\"/passage/?search=Deut 20:10-Deut 20:18\">Deut. 20:10–18</a>.</p><p><b>covenant.</b> A covenant is a treaty relationship. This covenant would commit Israel to spare the Gibeonites.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,9,7", "joshua,9,8" ],
+  "verses" : [ {
+    "verse" : "joshua,9,7",
+    "text" : "The men of Israel said to the Hivites, \"But perhaps you live near us. How then can we make a treaty with you?\""
+  }, {
+    "verse" : "joshua,9,8",
+    "text" : "\"We are your servants,\" they said to Joshua. But Joshua asked, \"Who are you and where do you come from?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,9,7",
     "id" : 186804,
@@ -36,7 +54,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 9:7\">9:7</a></b> <b>Hivites.</b> This ethnic group, to which the Gibeonites belonged, was one of those God had promised to drive out of Canaan (<a class=\"bibleref\" href=\"/passage/?search=Josh 3:10\">3:10</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,9,9" ],
+  "verses" : [ {
+    "verse" : "joshua,9,9",
+    "text" : "They answered: \"Your servants have come from a very distant country because of the fame of the LORD your God. For we have heard reports of him: all that he did in Egypt,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,9,9",
     "id" : 186805,
@@ -44,7 +65,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 9:9\">9:9</a></b> <b>name.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Josh 7:9\">7:9</a>.</p><p><b>heard.</b> See note on <a class=\"bibleref\" href=\"/passage/?search=Josh 7:3\">v. 3</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,9,10", "joshua,9,11", "joshua,9,12", "joshua,9,13" ],
+  "verses" : [ {
+    "verse" : "joshua,9,10",
+    "text" : "and all that he did to the two kings of the Amorites east of the Jordan-Sihon king of Heshbon, and Og king of Bashan, who reigned in Ashtaroth."
+  }, {
+    "verse" : "joshua,9,11",
+    "text" : "And our elders and all those living in our country said to us, 'Take provisions for your journey; go and meet them and say to them, \"We are your servants; make a treaty with us.\"'"
+  }, {
+    "verse" : "joshua,9,12",
+    "text" : "This bread of ours was warm when we packed it at home on the day we left to come to you. But now see how dry and moldy it is."
+  }, {
+    "verse" : "joshua,9,13",
+    "text" : "And these wineskins that we filled were new, but see how cracked they are. And our clothes and sandals are worn out by the very long journey.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,9,10",
     "id" : 186806,
@@ -52,7 +85,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 9:10\">9:10</a></b> <b>all that he did.</b> The news the Gibeonites had heard is the same as that confessed by Rahab (<a class=\"bibleref\" href=\"/passage/?search=Josh 2:10\">2:10</a> note). Their reaction was quite different from hers.</p><p><b>Amorites.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Josh 2:10\">2:10</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,9,14" ],
+  "verses" : [ {
+    "verse" : "joshua,9,14",
+    "text" : "The men of Israel sampled their provisions but did not inquire of the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,9,14",
     "id" : 186807,
@@ -60,7 +96,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 9:14\">9:14</a></b> <b>did not ask counsel from the <span class=\"small-caps\">Lord.</span></b> How they should have sought counsel is not specified, but as in <a class=\"bibleref\" href=\"/passage/?search=Josh 5:6\">5:6</a>, Israel’s failure is a failure to obey God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,9,15" ],
+  "verses" : [ {
+    "verse" : "joshua,9,15",
+    "text" : "Then Joshua made a treaty of peace with them to let them live, and the leaders of the assembly ratified it by oath."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,9,15",
     "id" : 186808,
@@ -68,7 +107,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 9:15\">9:15</a></b> <b>made peace.</b> The sense is explained by the following phrase “to let them live.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,9,16", "joshua,9,17" ],
+  "verses" : [ {
+    "verse" : "joshua,9,16",
+    "text" : "Three days after they made the treaty with the Gibeonites, the Israelites heard that they were neighbors, living near them."
+  }, {
+    "verse" : "joshua,9,17",
+    "text" : "So the Israelites set out and on the third day came to their cities: Gibeon, Kephirah, Beeroth and Kiriath Jearim."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,9,16-joshua,9,17",
     "id" : 186809,
@@ -76,7 +121,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 9:16\">9:16</a>, <a class=\"bibleref\" href=\"/passage/?search=Josh 9:17\">17</a> three days . . . the third day.</b> If <a class=\"bibleref\" href=\"/passage/?search=Josh 9:16\">v. 16</a> anticipates the result of <a class=\"bibleref\" href=\"/passage/?search=Josh 9:17\">v. 17</a>, then the three days in each verse may be the same. From Gilgal to Gibeon is about nineteen miles.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,9,18", "joshua,9,19" ],
+  "verses" : [ {
+    "verse" : "joshua,9,18",
+    "text" : "But the Israelites did not attack them, because the leaders of the assembly had sworn an oath to them by the LORD, the God of Israel. The whole assembly grumbled against the leaders,"
+  }, {
+    "verse" : "joshua,9,19",
+    "text" : "but all the leaders answered, \"We have given them our oath by the LORD, the God of Israel, and we cannot touch them now."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,9,18",
     "id" : 186810,
@@ -84,7 +135,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 9:18\">9:18</a></b> <b>murmured.</b> Grumbling (against Moses, Aaron, and ultimately the Lord) was a common activity of Israel in the desert (<a class=\"bibleref\" href=\"/passage/?search=Exod 15:24\">Ex. 15:24</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 16:2\">16:2</a>, <a class=\"bibleref\" href=\"/passage/?search=Exod 16:7-Exod 16:9\">7–9</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 17:3\">17:3</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 14:2\">Num. 14:2</a>, <a class=\"bibleref\" href=\"/passage/?search=Num 14:27\">27</a>, <a class=\"bibleref\" href=\"/passage/?search=Num 14:36\">36</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,9,20" ],
+  "verses" : [ {
+    "verse" : "joshua,9,20",
+    "text" : "This is what we will do to them: We will let them live, so that wrath will not fall on us for breaking the oath we swore to them.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,9,20",
     "id" : 186811,
@@ -92,7 +146,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 9:20\">9:20</a></b> <b>wrath.</b> See <a class=\"bibleref\" href=\"/passage/?search=Josh 7:11\">7:11</a> and note. Contrast this oath, kept scrupulously although based on a Gibeonite lie, and the covenant of <a class=\"bibleref\" href=\"/passage/?search=Josh 7:11\">ch. 7:11</a>, based on the Lord’s command, but broken.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,9,21", "joshua,9,22" ],
+  "verses" : [ {
+    "verse" : "joshua,9,21",
+    "text" : "They continued, \"Let them live, but let them be woodcutters and water carriers for the entire community.\" So the leaders' promise to them was kept."
+  }, {
+    "verse" : "joshua,9,22",
+    "text" : "Then Joshua summoned the Gibeonites and said, \"Why did you deceive us by saying, 'We live a long way from you,' while actually you live near us?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,9,21",
     "id" : 186812,
@@ -100,7 +160,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 9:21\">9:21</a></b> <b>cutters of wood and drawers of water.</b> That is, household slaves.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,9,23" ],
+  "verses" : [ {
+    "verse" : "joshua,9,23",
+    "text" : "You are now under a curse: You will never cease to serve as woodcutters and water carriers for the house of my God.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,9,23",
     "id" : 186813,
@@ -108,7 +171,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 9:23\">9:23</a></b> <b>house.</b> The tabernacle is called a house in <a class=\"bibleref\" href=\"/passage/?search=1Sam 1:7\">1 Sam. 1:7</a>. At the time of Solomon the tabernacle was at Gibeon (<a class=\"bibleref\" href=\"/passage/?search=2Chr 1:3\">2 Chr. 1:3</a>, <a class=\"bibleref\" href=\"/passage/?search=2Chr 1:5\">5</a>).</p><p><b>my God.</b> The danger posed by Canaanites remaining in the land was that they would turn Israel from following the Lord to serve other gods (<a class=\"bibleref\" href=\"/passage/?search=Deut 7:4\">Deut. 7:4</a>). The implication of this curse is that the Gibeonites would serve in the house of Israel’s God without being counted as members of His people. The rituals and sacrifices of the tabernacle required supplies of wood and water.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,9,24", "joshua,9,25", "joshua,9,26" ],
+  "verses" : [ {
+    "verse" : "joshua,9,24",
+    "text" : "They answered Joshua, \"Your servants were clearly told how the LORD your God had commanded his servant Moses to give you the whole land and to wipe out all its inhabitants from before you. So we feared for our lives because of you, and that is why we did this."
+  }, {
+    "verse" : "joshua,9,25",
+    "text" : "We are now in your hands. Do to us whatever seems good and right to you.\""
+  }, {
+    "verse" : "joshua,9,26",
+    "text" : "So Joshua saved them from the Israelites, and they did not kill them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,9,24",
     "id" : 186814,
@@ -116,7 +188,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 9:24\">9:24</a></b> <b>feared greatly.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Josh 2:9\">2:9</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,9,27" ],
+  "verses" : [ {
+    "verse" : "joshua,9,27",
+    "text" : "That day he made the Gibeonites woodcutters and water carriers for the community and for the altar of the LORD at the place the LORD would choose. And that is what they are to this day."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,9,27",
     "id" : 186815,
@@ -124,7 +199,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 9:27\">9:27</a></b> <b>the place that he should choose.</b> See <a class=\"bibleref\" href=\"/passage/?search=Deut 12\">Deut. 12</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Exod 20:24\">Ex. 20:24</a>.</p><p><b>to this day.</b> See note 4:9.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,10,1" ],
+  "verses" : [ {
+    "verse" : "joshua,10,1",
+    "text" : "Now Adoni-Zedek king of Jerusalem heard that Joshua had taken Ai and totally destroyed it, doing to Ai and its king as he had done to Jericho and its king, and that the people of Gibeon had made a treaty of peace with Israel and were living near them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,10,1-joshua,10,43",
     "id" : 186816,
@@ -137,7 +215,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 10:1\">10:1</a></b> <b>Adoni-zedek.</b> His name means “my Lord is righteous.” Compare the name of Melchizedek, who was king in Salem (or Jerusalem); see <a class=\"bibleref\" href=\"/passage/?search=Gen 14:18\">Gen. 14:18</a> note.</p><p><b>Jerusalem.</b> This is the first time this form of the city’s name occurs in the Bible; in <a class=\"bibleref\" href=\"/passage/?search=Gen 14:18\">Gen. 14:18</a> it is referred to as “Salem.”</p><p><b>destruction.</b> See notes 6:17, 18.</p><p><b>peace.</b> See 9:15.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,10,2" ],
+  "verses" : [ {
+    "verse" : "joshua,10,2",
+    "text" : "He and his people were very much alarmed at this, because Gibeon was an important city, like one of the royal cities; it was larger than Ai, and all its men were good fighters."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,10,2",
     "id" : 186818,
@@ -145,7 +226,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 10:2\">10:2</a></b> <b>feared.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Josh 2:9\">2:9</a>.</p><p><b>a great city, like one of the royal cities.</b> Gibeon did not have a king (<a class=\"bibleref\" href=\"/passage/?search=Josh 9:11\">9:11</a>) but was as important as the Canaanite city-states with kings.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,10,3", "joshua,10,4" ],
+  "verses" : [ {
+    "verse" : "joshua,10,3",
+    "text" : "So Adoni-Zedek king of Jerusalem appealed to Hoham king of Hebron, Piram king of Jarmuth, Japhia king of Lachish and Debir king of Eglon."
+  }, {
+    "verse" : "joshua,10,4",
+    "text" : "\"Come up and help me attack Gibeon,\" he said, \"because it has made peace with Joshua and the Israelites.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,10,3",
     "id" : 186819,
@@ -153,7 +240,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 10:3\">10:3</a></b> <b>Hoham . . . Debir.</b> These were the kings of five southern Canaanite cities.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,10,5" ],
+  "verses" : [ {
+    "verse" : "joshua,10,5",
+    "text" : "Then the five kings of the Amorites-the kings of Jerusalem, Hebron, Jarmuth, Lachish and Eglon-joined forces. They moved up with all their troops and took up positions against Gibeon and attacked it."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,10,5",
     "id" : 186820,
@@ -161,7 +251,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 10:5\">10:5</a></b> <b>Amorites.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Josh 2:10\">2:10</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,10,6", "joshua,10,7" ],
+  "verses" : [ {
+    "verse" : "joshua,10,6",
+    "text" : "The Gibeonites then sent word to Joshua in the camp at Gilgal: \"Do not abandon your servants. Come up to us quickly and save us! Help us, because all the Amorite kings from the hill country have joined forces against us.\""
+  }, {
+    "verse" : "joshua,10,7",
+    "text" : "So Joshua marched up from Gilgal with his entire army, including all the best fighting men."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,10,6",
     "id" : 186821,
@@ -169,7 +265,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 10:6\">10:6</a></b> <b>save us and help us.</b> The treaty relationship between Gibeon and Israel (<a class=\"bibleref\" href=\"/passage/?search=Josh 9:15\">9:15</a>) allowed Gibeon to appeal for help from Israel, the stronger of the treaty partners. This aspect of a human covenant illustrates an aspect of the covenant between God and Israel.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,10,8" ],
+  "verses" : [ {
+    "verse" : "joshua,10,8",
+    "text" : "The LORD said to Joshua, \"Do not be afraid of them; I have given them into your hand. Not one of them will be able to withstand you.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,10,8",
     "id" : 186822,
@@ -177,7 +276,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 10:8\">10:8</a></b> <b>Do not fear . . . I have given them.</b> The particular actions in this chapter take place under the promises of God introduced in <a class=\"bibleref\" href=\"/passage/?search=Josh 1\">ch. 1</a>. See <a class=\"bibleref\" href=\"/passage/?search=Josh 1:2\">1:2</a>, <a class=\"bibleref\" href=\"/passage/?search=Josh 1:3\">3</a>, <a class=\"bibleref\" href=\"/passage/?search=Josh 1:5-Josh 1:9\">5–9</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 8:1\">8:1</a> and notes.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,10,9" ],
+  "verses" : [ {
+    "verse" : "joshua,10,9",
+    "text" : "After an all-night march from Gilgal, Joshua took them by surprise."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,10,9",
     "id" : 186823,
@@ -185,7 +287,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 10:9\">10:9</a></b> <b>all night.</b> Gilgal was at the bottom of the Jordan Valley and Gibeon was on top of a mountain twenty miles to the west.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,10,10" ],
+  "verses" : [ {
+    "verse" : "joshua,10,10",
+    "text" : "The LORD threw them into confusion before Israel, who defeated them in a great victory at Gibeon. Israel pursued them along the road going up to Beth Horon and cut them down all the way to Azekah and Makkedah."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,10,10",
     "id" : 186824,
@@ -193,7 +298,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 10:10\">10:10</a></b> <b>threw them into a panic.</b> The same expression is often used in descriptions of battles where the Lord is the Divine Warrior (<a class=\"bibleref\" href=\"/passage/?search=Josh 2:9\">2:9</a> note; <a class=\"bibleref\" href=\"/passage/?search=Exod 14:24\">Ex. 14:24</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 23:27\">23:27</a>; <a class=\"bibleref\" href=\"/passage/?search=Judg 4:15\">Judg. 4:15</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 7:10\">1 Sam. 7:10</a>; <a class=\"bibleref\" href=\"/passage/?search=2Sam 22:15\">2 Sam. 22:15</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Jer 51:34\">Jer. 51:34</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,10,11" ],
+  "verses" : [ {
+    "verse" : "joshua,10,11",
+    "text" : "As they fled before Israel on the road down from Beth Horon to Azekah, the LORD hurled large hailstones down on them from the sky, and more of them died from the hailstones than were killed by the swords of the Israelites."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,10,11",
     "id" : 186825,
@@ -201,7 +309,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 10:11\">10:11</a></b> <b>more who died because of the hailstones.</b> This emphasizes that the victory was a gift to Israel. Experiences like this illuminate the use of storm phenomena in poetic descriptions of God’s judgment (<a class=\"bibleref\" href=\"/passage/?search=Ps 18:7-Ps 18:16\">Ps. 18:7–16</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 30:30\">Is. 30:30</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,10,12" ],
+  "verses" : [ {
+    "verse" : "joshua,10,12",
+    "text" : "On the day the LORD gave the Amorites over to Israel, Joshua said to the LORD in the presence of Israel: \"O sun, stand still over Gibeon, O moon, over the Valley of Aijalon.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,10,12",
     "id" : 186826,
@@ -209,7 +320,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 10:12\">10:12</a></b> <b>in the day.</b> This account may be a flashback; the chronological order of events is hard to discern.</p><p><b>“Sun . . . moon.”</b> These rhetorical words addressed to the sun and moon are in reality a prayer to the Lord.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,10,13" ],
+  "verses" : [ {
+    "verse" : "joshua,10,13",
+    "text" : "So the sun stood still, and the moon stopped, till the nation avenged itself on its enemies, as it is written in the Book of Jashar. The sun stopped in the middle of the sky and delayed going down about a full day."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,10,13",
     "id" : 186827,
@@ -217,7 +331,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 10:13\">10:13</a></b> <b>the sun stood still.</b> The words describe what happened in everyday language that does not explain the nature of the miracle.</p><p><b>the Book of Jashar.</b> A literary work now lost, possibly a celebration of the lives of Israelite heroes (<a class=\"bibleref\" href=\"/passage/?search=2Sam 1:18\">2 Sam. 1:18</a>). The quotation from the Book of Jashar may extend as far as the end of v. 15. The biblical writers often use written sources (<a class=\"bibleref\" href=\"/passage/?search=Luke 1:1-Luke 1:4\">Luke 1:1–4</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,10,14", "joshua,10,15" ],
+  "verses" : [ {
+    "verse" : "joshua,10,14",
+    "text" : "There has never been a day like it before or since, a day when the LORD listened to a man. Surely the LORD was fighting for Israel!"
+  }, {
+    "verse" : "joshua,10,15",
+    "text" : "Then Joshua returned with all Israel to the camp at Gilgal."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,10,14",
     "id" : 186828,
@@ -225,7 +345,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 10:14\">10:14</a></b> <b>the <span class=\"small-caps\">Lord</span> fought for Israel.</b> See <a class=\"bibleref\" href=\"/passage/?search=Deut 20\">Deut. 20</a>, especially v. 4; cf. <a class=\"bibleref\" href=\"/passage/?search=Exod 14:14\">Ex. 14:14</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,10,16", "joshua,10,17", "joshua,10,18" ],
+  "verses" : [ {
+    "verse" : "joshua,10,16",
+    "text" : "Now the five kings had fled and hidden in the cave at Makkedah."
+  }, {
+    "verse" : "joshua,10,17",
+    "text" : "When Joshua was told that the five kings had been found hiding in the cave at Makkedah,"
+  }, {
+    "verse" : "joshua,10,18",
+    "text" : "he said, \"Roll large rocks up to the mouth of the cave, and post some men there to guard it."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,10,16-joshua,10,27",
     "id" : 186829,
@@ -233,7 +362,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 10:16-Josh 10:27\">10:16–27</a></b> The narrative returns to the events of <a class=\"bibleref\" href=\"/passage/?search=Josh 10:10\">v. 10</a> to finish the story of the five kings introduced in <a class=\"bibleref\" href=\"/passage/?search=Josh 10:5\">v. 5</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,10,19", "joshua,10,20" ],
+  "verses" : [ {
+    "verse" : "joshua,10,19",
+    "text" : "But don't stop! Pursue your enemies, attack them from the rear and don't let them reach their cities, for the LORD your God has given them into your hand.\""
+  }, {
+    "verse" : "joshua,10,20",
+    "text" : "So Joshua and the Israelites destroyed them completely-almost to a man-but the few who were left reached their fortified cities."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,10,19",
     "id" : 186830,
@@ -241,7 +376,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 10:19\">10:19</a></b> <b>the <span class=\"small-caps\">Lord</span> . . . has given.</b> The action of God, in terms of His promise, still dominates the account. See <a class=\"bibleref\" href=\"/passage/?search=Josh 10:8\">vv. 8</a>, <a class=\"bibleref\" href=\"/passage/?search=Josh 10:10\">10</a>, <a class=\"bibleref\" href=\"/passage/?search=Josh 10:14\">14</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,10,21", "joshua,10,22", "joshua,10,23" ],
+  "verses" : [ {
+    "verse" : "joshua,10,21",
+    "text" : "The whole army then returned safely to Joshua in the camp at Makkedah, and no one uttered a word against the Israelites."
+  }, {
+    "verse" : "joshua,10,22",
+    "text" : "Joshua said, \"Open the mouth of the cave and bring those five kings out to me.\""
+  }, {
+    "verse" : "joshua,10,23",
+    "text" : "So they brought the five kings out of the cave-the kings of Jerusalem, Hebron, Jarmuth, Lachish and Eglon."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,10,21",
     "id" : 186831,
@@ -249,7 +393,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 10:21\">10:21</a></b> <b>Not a man moved his tongue.</b> Not even a word, let alone a weapon, could be raised against God’s army.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,10,24", "joshua,10,25" ],
+  "verses" : [ {
+    "verse" : "joshua,10,24",
+    "text" : "When they had brought these kings to Joshua, he summoned all the men of Israel and said to the army commanders who had come with him, \"Come here and put your feet on the necks of these kings.\" So they came forward and placed their feet on their necks."
+  }, {
+    "verse" : "joshua,10,25",
+    "text" : "Joshua said to them, \"Do not be afraid; do not be discouraged. Be strong and courageous. This is what the LORD will do to all the enemies you are going to fight.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,10,24",
     "id" : 186832,
@@ -257,7 +407,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 10:24\">10:24</a></b> <b>your feet on the necks.</b> This is a vivid, symbolic ritual of victory. Defeated enemies are often said to be “under the feet” of the victor (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 5:3\">1 Kin. 5:3</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 110:1\">Ps. 110:1</a>; <a class=\"bibleref\" href=\"/passage/?search=1Cor 15:25\">1 Cor. 15:25</a>), and Egyptian royal footstools depict the Pharaoh’s feet on his enemies’ necks.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,10,26" ],
+  "verses" : [ {
+    "verse" : "joshua,10,26",
+    "text" : "Then Joshua struck and killed the kings and hung them on five trees, and they were left hanging on the trees until evening."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,10,26",
     "id" : 186833,
@@ -265,7 +418,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 10:26\">10:26</a></b> <b>hanged them on five trees.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Josh 8:29\">8:29</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,10,27" ],
+  "verses" : [ {
+    "verse" : "joshua,10,27",
+    "text" : "At sunset Joshua gave the order and they took them down from the trees and threw them into the cave where they had been hiding. At the mouth of the cave they placed large rocks, which are there to this day."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,10,27",
     "id" : 186834,
@@ -273,7 +429,55 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 10:27\">10:27</a></b> <b>to this very day.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Josh 4:9\">4:9</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,10,28", "joshua,10,29", "joshua,10,30", "joshua,10,31", "joshua,10,32", "joshua,10,33", "joshua,10,34", "joshua,10,35", "joshua,10,36", "joshua,10,37", "joshua,10,38", "joshua,10,39", "joshua,10,40", "joshua,10,41", "joshua,10,42", "joshua,10,43" ],
+  "verses" : [ {
+    "verse" : "joshua,10,28",
+    "text" : "That day Joshua took Makkedah. He put the city and its king to the sword and totally destroyed everyone in it. He left no survivors. And he did to the king of Makkedah as he had done to the king of Jericho."
+  }, {
+    "verse" : "joshua,10,29",
+    "text" : "Then Joshua and all Israel with him moved on from Makkedah to Libnah and attacked it."
+  }, {
+    "verse" : "joshua,10,30",
+    "text" : "The LORD also gave that city and its king into Israel's hand. The city and everyone in it Joshua put to the sword. He left no survivors there. And he did to its king as he had done to the king of Jericho."
+  }, {
+    "verse" : "joshua,10,31",
+    "text" : "Then Joshua and all Israel with him moved on from Libnah to Lachish; he took up positions against it and attacked it."
+  }, {
+    "verse" : "joshua,10,32",
+    "text" : "The LORD handed Lachish over to Israel, and Joshua took it on the second day. The city and everyone in it he put to the sword, just as he had done to Libnah."
+  }, {
+    "verse" : "joshua,10,33",
+    "text" : "Meanwhile, Horam king of Gezer had come up to help Lachish, but Joshua defeated him and his army-until no survivors were left."
+  }, {
+    "verse" : "joshua,10,34",
+    "text" : "Then Joshua and all Israel with him moved on from Lachish to Eglon; they took up positions against it and attacked it."
+  }, {
+    "verse" : "joshua,10,35",
+    "text" : "They captured it that same day and put it to the sword and totally destroyed everyone in it, just as they had done to Lachish."
+  }, {
+    "verse" : "joshua,10,36",
+    "text" : "Then Joshua and all Israel with him went up from Eglon to Hebron and attacked it."
+  }, {
+    "verse" : "joshua,10,37",
+    "text" : "They took the city and put it to the sword, together with its king, its villages and everyone in it. They left no survivors. Just as at Eglon, they totally destroyed it and everyone in it."
+  }, {
+    "verse" : "joshua,10,38",
+    "text" : "Then Joshua and all Israel with him turned around and attacked Debir."
+  }, {
+    "verse" : "joshua,10,39",
+    "text" : "They took the city, its king and its villages, and put them to the sword. Everyone in it they totally destroyed. They left no survivors. They did to Debir and its king as they had done to Libnah and its king and to Hebron."
+  }, {
+    "verse" : "joshua,10,40",
+    "text" : "So Joshua subdued the whole region, including the hill country, the Negev, the western foothills and the mountain slopes, together with all their kings. He left no survivors. He totally destroyed all who breathed, just as the LORD, the God of Israel, had commanded."
+  }, {
+    "verse" : "joshua,10,41",
+    "text" : "Joshua subdued them from Kadesh Barnea to Gaza and from the whole region of Goshen to Gibeon."
+  }, {
+    "verse" : "joshua,10,42",
+    "text" : "All these kings and their lands Joshua conquered in one campaign, because the LORD, the God of Israel, fought for Israel."
+  }, {
+    "verse" : "joshua,10,43",
+    "text" : "Then Joshua returned with all Israel to the camp at Gilgal."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,10,28-joshua,10,39",
     "id" : 186835,

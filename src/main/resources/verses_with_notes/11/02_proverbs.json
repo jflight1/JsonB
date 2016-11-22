@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,26,27" ],
+  "verses" : [ {
+    "verse" : "proverbs,26,27",
+    "text" : "If a man digs a pit, he will fall into it; if a man rolls a stone, it will roll back on him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,26,27",
     "id" : 192269,

@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,17,2" ],
+  "verses" : [ {
+    "verse" : "proverbs,17,2",
+    "text" : "A wise servant will rule over a disgraceful son, and will share the inheritance as one of the brothers."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 17:2\">17:2</a></b> Inherited privilege can easily be forfeited to those who by diligence show themselves worthy to enjoy it (<a class=\"bibleref\" href=\"/passage/?search=Prov 11:29\">11:29</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,17,3" ],
+  "verses" : [ {
+    "verse" : "proverbs,17,3",
+    "text" : "The crucible for silver and the furnace for gold, but the LORD tests the heart."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,17,3",
     "id" : 192029,

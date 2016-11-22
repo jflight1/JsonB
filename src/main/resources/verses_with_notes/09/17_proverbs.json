@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,23,17" ],
+  "verses" : [ {
+    "verse" : "proverbs,23,17",
+    "text" : "Do not let your heart envy sinners, but always be zealous for the fear of the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,22,17-proverbs,24,22",
     "id" : 192162,
@@ -17,7 +20,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 23:17\">23:17</a></b> <b>the fear of the <span class=\"small-caps\">Lord</span>.</b> See <a class=\"bibleref\" href=\"/passage/?search=Prov 1:7\">1:7</a> and note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,23,18" ],
+  "verses" : [ {
+    "verse" : "proverbs,23,18",
+    "text" : "There is surely a future hope for you, and your hope will not be cut off."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,23,18",
     "id" : 192188,

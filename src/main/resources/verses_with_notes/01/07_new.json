@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "matthew,6,1" ],
+  "verses" : [ {
+    "verse" : "matthew,6,1",
+    "text" : "\"Be careful not to do your 'acts of righteousness' before men, to be seen by them. If you do, you will have no reward from your Father in heaven."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,5,1-matthew,7,29",
     "id" : 195644,
@@ -12,7 +15,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 6:1\">6:1</a></b> <b>your righteousness.</b> Jesus affirms the positive value of such acts, but only when done in submission to God and love for Him, rather than in seeking <i>human</i> personal glory.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,6,2", "matthew,6,3", "matthew,6,4" ],
+  "verses" : [ {
+    "verse" : "matthew,6,2",
+    "text" : "\"So when you give to the needy, do not announce it with trumpets, as the hypocrites do in the synagogues and on the streets, to be honored by men. I tell you the truth, they have received their reward in full."
+  }, {
+    "verse" : "matthew,6,3",
+    "text" : "But when you give to the needy, do not let your left hand know what your right hand is doing,"
+  }, {
+    "verse" : "matthew,6,4",
+    "text" : "so that your giving may be in secret. Then your Father, who sees what is done in secret, will reward you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,6,2",
     "id" : 195671,
@@ -20,7 +32,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 6:2\">6:2</a></b> <b>hypocrites.</b> In the New Testament, the hypocrite is one who claims to have a relationship with God and to love righteousness, but is self-seeking and even self-deceived. The hypocrites denounced in <a class=\"bibleref\" href=\"/passage/?search=Matt 23\">ch. 23</a> were unaware of their hypocrisy.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,6,5", "matthew,6,6" ],
+  "verses" : [ {
+    "verse" : "matthew,6,5",
+    "text" : "\"And when you pray, do not be like the hypocrites, for they love to pray standing in the synagogues and on the street corners to be seen by men. I tell you the truth, they have received their reward in full."
+  }, {
+    "verse" : "matthew,6,6",
+    "text" : "But when you pray, go into your room, close the door and pray to your Father, who is unseen. Then your Father, who sees what is done in secret, will reward you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,6,5",
     "id" : 195672,
@@ -28,7 +46,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 6:5\">6:5</a></b> <b>pray.</b> See “Prayer” at <a class=\"bibleref\" href=\"/passage/?search=Luke 11:2\">Luke 11:2</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,6,7", "matthew,6,8" ],
+  "verses" : [ {
+    "verse" : "matthew,6,7",
+    "text" : "And when you pray, do not keep on babbling like pagans, for they think they will be heard because of their many words."
+  }, {
+    "verse" : "matthew,6,8",
+    "text" : "Do not be like them, for your Father knows what you need before you ask him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,6,7",
     "id" : 195673,
@@ -36,7 +60,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 6:7\">6:7</a></b> <b>do not heap up empty phrases.</b> This prohibition does not contradict the principle that one should keep asking God for what is believed to be His will (<a class=\"bibleref\" href=\"/passage/?search=Luke 18\">Luke 18</a>), but corrects the idea that God is impressed with quantity of words.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,6,9", "matthew,6,10" ],
+  "verses" : [ {
+    "verse" : "matthew,6,9",
+    "text" : "\"This, then, is how you should pray: \"'Our Father in heaven, hallowed be your name,"
+  }, {
+    "verse" : "matthew,6,10",
+    "text" : "your kingdom come, your will be done on earth as it is in heaven."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,6,9",
     "id" : 195674,
@@ -44,7 +74,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 6:9\">6:9</a></b> This prayer is a model of brevity, asking first for God to be glorified and then for the needs of human life.</p><p><b>Our Father.</b> See “Adoption” at <a class=\"bibleref\" href=\"/passage/?search=Gal 4:5\">Gal. 4:5</a>.</p><p><b>hallowed be your name.</b> Not just that God’s creatures may keep it holy, but that God may Himself hallow it by being the holy Judge and Savior.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,6,11" ],
+  "verses" : [ {
+    "verse" : "matthew,6,11",
+    "text" : "Give us today our daily bread."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,6,11",
     "id" : 195675,
@@ -52,7 +85,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 6:11\">6:11</a></b> <b>daily bread.</b> The Greek word translated “daily” is known only from this prayer. It has been understood to mean “daily,” “necessary,” “future,” or “tomorrow’s” bread. There are three basic interpretations for it. The sacramental view is that it refers to the bread received in the Lord’s Supper. Another view is that it symbolizes life in the coming kingdom, making the petition equivalent to “Your kingdom come” in <a class=\"bibleref\" href=\"/passage/?search=Matt 6:10\">v. 10</a>. A third view takes it as a request for God’s provision for our physical needs. This last view is perhaps the best, and this theme is developed in <a class=\"bibleref\" href=\"/passage/?search=Matt 6:19-Matt 6:34\">vv. 19–34</a> (<a class=\"bibleref\" href=\"/passage/?search=Prov 30:8\">Prov. 30:8</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,6,12" ],
+  "verses" : [ {
+    "verse" : "matthew,6,12",
+    "text" : "Forgive us our debts, as we also have forgiven our debtors."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,6,12",
     "id" : 195676,
@@ -60,7 +96,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 6:12\">6:12</a></b> <b>debts.</b> Spiritual debts are in view. Christians forgive others in response to God’s forgiveness (<a class=\"bibleref\" href=\"/passage/?search=Matt 18:32\">18:32</a>, <a class=\"bibleref\" href=\"/passage/?search=Matt 18:33\">33</a>); but if they do not forgive others, they cannot claim God’s forgiveness for themselves (<a class=\"bibleref\" href=\"/passage/?search=Matt 18:14\">vv. 14</a>, <a class=\"bibleref\" href=\"/passage/?search=Matt 18:15\">15</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,6,13", "matthew,6,14", "matthew,6,15", "matthew,6,16" ],
+  "verses" : [ {
+    "verse" : "matthew,6,13",
+    "text" : "And lead us not into temptation, but deliver us from the evil one. '"
+  }, {
+    "verse" : "matthew,6,14",
+    "text" : "For if you forgive men when they sin against you, your heavenly Father will also forgive you."
+  }, {
+    "verse" : "matthew,6,15",
+    "text" : "But if you do not forgive men their sins, your Father will not forgive your sins."
+  }, {
+    "verse" : "matthew,6,16",
+    "text" : "\"When you fast, do not look somber as the hypocrites do, for they disfigure their faces to show men they are fasting. I tell you the truth, they have received their reward in full."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,6,13",
     "id" : 195677,
@@ -68,7 +116,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 6:13\">6:13</a></b> <b>lead us not into temptation.</b> The forgiven pray this petition because they trust God and they distrust themselves. The Father may test us (<a class=\"bibleref\" href=\"/passage/?search=Matt 4:1\">4:1</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 8:2\">Deut. 8:2</a>), but He will not allow us to be tempted beyond our capacity (<a class=\"bibleref\" href=\"/passage/?search=1Cor 10:13\">1 Cor. 10:13</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,6,17", "matthew,6,18" ],
+  "verses" : [ {
+    "verse" : "matthew,6,17",
+    "text" : "But when you fast, put oil on your head and wash your face,"
+  }, {
+    "verse" : "matthew,6,18",
+    "text" : "so that it will not be obvious to men that you are fasting, but only to your Father, who is unseen; and your Father, who sees what is done in secret, will reward you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,6,17",
     "id" : 195678,
@@ -76,7 +130,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 6:17\">6:17</a></b> <b>anoint your head.</b> This symbolized rejoicing (<a class=\"bibleref\" href=\"/passage/?search=Ps 23:5\">Ps. 23:5</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 45:7\">45:7</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 104:15\">104:15</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 61:3\">Is. 61:3</a>), but it was also part of daily routine except when fasting (<a class=\"bibleref\" href=\"/passage/?search=Dan 10:3\">Dan. 10:3</a>). Not to anoint oneself could be an attempt to appear more pious than others.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,6,19", "matthew,6,20", "matthew,6,21", "matthew,6,22" ],
+  "verses" : [ {
+    "verse" : "matthew,6,19",
+    "text" : "\"Do not store up for yourselves treasures on earth, where moth and rust destroy, and where thieves break in and steal."
+  }, {
+    "verse" : "matthew,6,20",
+    "text" : "But store up for yourselves treasures in heaven, where moth and rust do not destroy, and where thieves do not break in and steal."
+  }, {
+    "verse" : "matthew,6,21",
+    "text" : "For where your treasure is, there your heart will be also."
+  }, {
+    "verse" : "matthew,6,22",
+    "text" : "\"The eye is the lamp of the body. If your eyes are good, your whole body will be full of light."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,6,19",
     "id" : 195679,
@@ -84,7 +150,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 6:19\">6:19</a></b> “Rust” refers not only to ordinary corrosion but also to mildew, wood rot, and the like. Every material thing is subject to decay or loss.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,6,23", "matthew,6,24" ],
+  "verses" : [ {
+    "verse" : "matthew,6,23",
+    "text" : "But if your eyes are bad, your whole body will be full of darkness. If then the light within you is darkness, how great is that darkness!"
+  }, {
+    "verse" : "matthew,6,24",
+    "text" : "\"No one can serve two masters. Either he will hate the one and love the other, or he will be devoted to the one and despise the other. You cannot serve both God and Money."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,6,23",
     "id" : 195680,

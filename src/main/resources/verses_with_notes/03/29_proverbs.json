@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,12,4" ],
+  "verses" : [ {
+    "verse" : "proverbs,12,4",
+    "text" : "A wife of noble character is her husband's crown, but a disgraceful wife is like decay in his bones."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

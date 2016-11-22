@@ -1,8 +1,50 @@
 [ {
-  "singleVerses" : [ "acts,7,30", "acts,7,31", "acts,7,32", "acts,7,33", "acts,7,34", "acts,7,35", "acts,7,36", "acts,7,37" ],
+  "verses" : [ {
+    "verse" : "acts,7,30",
+    "text" : "\"After forty years had passed, an angel appeared to Moses in the flames of a burning bush in the desert near Mount Sinai."
+  }, {
+    "verse" : "acts,7,31",
+    "text" : "When he saw this, he was amazed at the sight. As he went over to look more closely, he heard the Lord's voice:"
+  }, {
+    "verse" : "acts,7,32",
+    "text" : "'I am the God of your fathers, the God of Abraham, Isaac and Jacob.' Moses trembled with fear and did not dare to look."
+  }, {
+    "verse" : "acts,7,33",
+    "text" : "\"Then the Lord said to him, 'Take off your sandals; the place where you are standing is holy ground."
+  }, {
+    "verse" : "acts,7,34",
+    "text" : "I have indeed seen the oppression of my people in Egypt. I have heard their groaning and have come down to set them free. Now come, I will send you back to Egypt.'"
+  }, {
+    "verse" : "acts,7,35",
+    "text" : "\"This is the same Moses whom they had rejected with the words, 'Who made you ruler and judge?' He was sent to be their ruler and deliverer by God himself, through the angel who appeared to him in the bush."
+  }, {
+    "verse" : "acts,7,36",
+    "text" : "He led them out of Egypt and did wonders and miraculous signs in Egypt, at the Red Sea and for forty years in the desert."
+  }, {
+    "verse" : "acts,7,37",
+    "text" : "\"This is that Moses who told the Israelites, 'God will send you a prophet like me from your own people.'"
+  } ],
   "rsbNotes" : [ ]
 }, {
-  "singleVerses" : [ "acts,7,38", "acts,7,39", "acts,7,40", "acts,7,41", "acts,7,42", "acts,7,43" ],
+  "verses" : [ {
+    "verse" : "acts,7,38",
+    "text" : "He was in the assembly in the desert, with the angel who spoke to him on Mount Sinai, and with our fathers; and he received living words to pass on to us."
+  }, {
+    "verse" : "acts,7,39",
+    "text" : "\"But our fathers refused to obey him. Instead, they rejected him and in their hearts turned back to Egypt."
+  }, {
+    "verse" : "acts,7,40",
+    "text" : "They told Aaron, 'Make us gods who will go before us. As for this fellow Moses who led us out of Egypt--we don't know what has happened to him!'"
+  }, {
+    "verse" : "acts,7,41",
+    "text" : "That was the time they made an idol in the form of a calf. They brought sacrifices to it and held a celebration in honor of what their hands had made."
+  }, {
+    "verse" : "acts,7,42",
+    "text" : "But God turned away and gave them over to the worship of the heavenly bodies. This agrees with what is written in the book of the prophets: \"'Did you bring me sacrifices and offerings forty years in the desert, O house of Israel?"
+  }, {
+    "verse" : "acts,7,43",
+    "text" : "You have lifted up the shrine of Molech and the star of your god Rephan, the idols you made to worship. Therefore I will send you into exile' beyond Babylon."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,7,38",
     "id" : 197445,
@@ -10,7 +52,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 7:38\">7:38</a></b> <b>the congregation in the wilderness.</b> “Congregation” translates the Greek word <i>ekklesia</i> (“church,” see <a class=\"bibleref\" href=\"/passage/?search=Acts 5:11\">5:11</a> note).</p><p><b>the angel who spoke to him at Mount Sinai.</b> Although Moses received the law from God on Mount Sinai (<a class=\"bibleref\" href=\"/passage/?search=Exod 20:1\">Ex. 20:1</a>, <a class=\"bibleref\" href=\"/passage/?search=Exod 20:21\">21</a>), angels had some part in its institution (v. 53; <a class=\"bibleref\" href=\"/passage/?search=Deut 33:2\">Deut. 33:2</a>; <a class=\"bibleref\" href=\"/passage/?search=Gal 3:19\">Gal. 3:19</a>; <a class=\"bibleref\" href=\"/passage/?search=Heb 2:2\">Heb. 2:2</a>). On the Angel of the Lord, see notes <a class=\"bibleref\" href=\"/passage/?search=Gen 16:7\">Gen. 16:7</a> and <a class=\"bibleref\" href=\"/passage/?search=Judg 2:1\">Judg. 2:1</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,7,44", "acts,7,45", "acts,7,46", "acts,7,47", "acts,7,48", "acts,7,49", "acts,7,50" ],
+  "verses" : [ {
+    "verse" : "acts,7,44",
+    "text" : "\"Our forefathers had the tabernacle of the Testimony with them in the desert. It had been made as God directed Moses, according to the pattern he had seen."
+  }, {
+    "verse" : "acts,7,45",
+    "text" : "Having received the tabernacle, our fathers under Joshua brought it with them when they took the land from the nations God drove out before them. It remained in the land until the time of David,"
+  }, {
+    "verse" : "acts,7,46",
+    "text" : "who enjoyed God's favor and asked that he might provide a dwelling place for the God of Jacob."
+  }, {
+    "verse" : "acts,7,47",
+    "text" : "But it was Solomon who built the house for him."
+  }, {
+    "verse" : "acts,7,48",
+    "text" : "\"However, the Most High does not live in houses made by men. As the prophet says:"
+  }, {
+    "verse" : "acts,7,49",
+    "text" : "\"'Heaven is my throne, and the earth is my footstool. What kind of house will you build for me? says the Lord. Or where will my resting place be?"
+  }, {
+    "verse" : "acts,7,50",
+    "text" : "Has not my hand made all these things?'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,7,44",
     "id" : 197446,

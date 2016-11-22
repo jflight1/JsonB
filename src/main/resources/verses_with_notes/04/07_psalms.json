@@ -1,8 +1,23 @@
 [ {
-  "singleVerses" : [ "psalms,78,32" ],
+  "verses" : [ {
+    "verse" : "psalms,78,32",
+    "text" : "In spite of all this, they kept on sinning; in spite of his wonders, they did not believe."
+  } ],
   "rsbNotes" : [ ]
 }, {
-  "singleVerses" : [ "psalms,78,33", "psalms,78,34", "psalms,78,35", "psalms,78,36" ],
+  "verses" : [ {
+    "verse" : "psalms,78,33",
+    "text" : "So he ended their days in futility and their years in terror."
+  }, {
+    "verse" : "psalms,78,34",
+    "text" : "Whenever God slew them, they would seek him; they eagerly turned to him again."
+  }, {
+    "verse" : "psalms,78,35",
+    "text" : "They remembered that God was their Rock, that God Most High was their Redeemer."
+  }, {
+    "verse" : "psalms,78,36",
+    "text" : "But then they would flatter him with their mouths, lying to him with their tongues;"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,78,33",
     "id" : 190915,
@@ -10,7 +25,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 78:33\">78:33</a></b> <b>like a breath.</b> This word is the same as found in the opening words of Ecclesiastes: “vanity” (<a class=\"bibleref\" href=\"/passage/?search=Eccl 1:2\">Eccl. 1:2</a>). It describes the world apart from God and under the curse of the Fall. Apart from God we have nothing: only the fear of death and the void.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,78,37", "psalms,78,38", "psalms,78,39" ],
+  "verses" : [ {
+    "verse" : "psalms,78,37",
+    "text" : "their hearts were not loyal to him, they were not faithful to his covenant."
+  }, {
+    "verse" : "psalms,78,38",
+    "text" : "Yet he was merciful; he forgave their iniquities and did not destroy them. Time after time he restrained his anger and did not stir up his full wrath."
+  }, {
+    "verse" : "psalms,78,39",
+    "text" : "He remembered that they were but flesh, a passing breeze that does not return."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,78,37",
     "id" : 190916,
@@ -18,7 +42,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 78:37\">78:37</a></b> <b>faithful to his covenant.</b> See <a class=\"bibleref\" href=\"/passage/?search=Ps 78:10\">v. 10</a>. God initiated a relationship with Israel through His grace, and then revealed His will to them through His law, including the curses and blessings of the covenant. The people disobeyed the law and brought on themselves God’s judgment.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,78,40", "psalms,78,41", "psalms,78,42", "psalms,78,43" ],
+  "verses" : [ {
+    "verse" : "psalms,78,40",
+    "text" : "How often they rebelled against him in the desert and grieved him in the wasteland!"
+  }, {
+    "verse" : "psalms,78,41",
+    "text" : "Again and again they put God to the test; they vexed the Holy One of Israel."
+  }, {
+    "verse" : "psalms,78,42",
+    "text" : "They did not remember his power- the day he redeemed them from the oppressor,"
+  }, {
+    "verse" : "psalms,78,43",
+    "text" : "the day he displayed his miraculous signs in Egypt, his wonders in the region of Zoan."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,78,40",
     "id" : 190917,
@@ -26,7 +62,31 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 78:40\">78:40</a></b> <b>often they rebelled.</b> Examples include <a class=\"bibleref\" href=\"/passage/?search=Num 11\">Num. 11</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 14\">14</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 16\">16</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,78,44", "psalms,78,45", "psalms,78,46", "psalms,78,47", "psalms,78,48", "psalms,78,49", "psalms,78,50", "psalms,78,51" ],
+  "verses" : [ {
+    "verse" : "psalms,78,44",
+    "text" : "He turned their rivers to blood; they could not drink from their streams."
+  }, {
+    "verse" : "psalms,78,45",
+    "text" : "He sent swarms of flies that devoured them, and frogs that devastated them."
+  }, {
+    "verse" : "psalms,78,46",
+    "text" : "He gave their crops to the grasshopper, their produce to the locust."
+  }, {
+    "verse" : "psalms,78,47",
+    "text" : "He destroyed their vines with hail and their sycamore-figs with sleet."
+  }, {
+    "verse" : "psalms,78,48",
+    "text" : "He gave over their cattle to the hail, their livestock to bolts of lightning."
+  }, {
+    "verse" : "psalms,78,49",
+    "text" : "He unleashed against them his hot anger, his wrath, indignation and hostility- a band of destroying angels."
+  }, {
+    "verse" : "psalms,78,50",
+    "text" : "He prepared a path for his anger; he did not spare them from death but gave them over to the plague."
+  }, {
+    "verse" : "psalms,78,51",
+    "text" : "He struck down all the firstborn of Egypt, the firstfruits of manhood in the tents of Ham."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,78,44-psalms,78,51",
     "id" : 190918,
@@ -34,7 +94,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 78:44-Ps 78:51\">78:44–51</a></b> He lists six of the plagues of Egypt.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,78,52", "psalms,78,53" ],
+  "verses" : [ {
+    "verse" : "psalms,78,52",
+    "text" : "But he brought his people out like a flock; he led them like sheep through the desert."
+  }, {
+    "verse" : "psalms,78,53",
+    "text" : "He guided them safely, so they were unafraid; but the sea engulfed their enemies."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,78,52",
     "id" : 190919,
@@ -42,7 +108,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 78:52\">78:52</a></b> <b>like a flock.</b> See <a class=\"bibleref\" href=\"/passage/?search=Ps 77:20\">Ps. 77:20</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,78,54" ],
+  "verses" : [ {
+    "verse" : "psalms,78,54",
+    "text" : "Thus he brought them to the border of his holy land, to the hill country his right hand had taken."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,78,54-psalms,78,64",
     "id" : 190920,
@@ -50,7 +119,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 78:54-Ps 78:64\">78:54–64</a></b> God blessed them with the Promised Land, but they quickly forgot Him.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,78,55" ],
+  "verses" : [ {
+    "verse" : "psalms,78,55",
+    "text" : "He drove out nations before them and allotted their lands to them as an inheritance; he settled the tribes of Israel in their homes."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,78,55",
     "id" : 190921,

@@ -1,5 +1,20 @@
 [ {
-  "singleVerses" : [ "deuteronomy,13,1", "deuteronomy,13,2", "deuteronomy,13,3", "deuteronomy,13,4", "deuteronomy,13,5" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,13,1",
+    "text" : "If a prophet, or one who foretells by dreams, appears among you and announces to you a miraculous sign or wonder,"
+  }, {
+    "verse" : "deuteronomy,13,2",
+    "text" : "and if the sign or wonder of which he has spoken takes place, and he says, \"Let us follow other gods\" (gods you have not known) \"and let us worship them,\""
+  }, {
+    "verse" : "deuteronomy,13,3",
+    "text" : "you must not listen to the words of that prophet or dreamer. The LORD your God is testing you to find out whether you love him with all your heart and with all your soul."
+  }, {
+    "verse" : "deuteronomy,13,4",
+    "text" : "It is the LORD your God you must follow, and him you must revere. Keep his commands and obey him; serve him and hold fast to him."
+  }, {
+    "verse" : "deuteronomy,13,5",
+    "text" : "That prophet or dreamer must be put to death, because he preached rebellion against the LORD your God, who brought you out of Egypt and redeemed you from the land of slavery; he has tried to turn you from the way the LORD your God commanded you to follow. You must purge the evil from among you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,12,1-deuteronomy,26,19",
     "id" : 186462,
@@ -17,7 +32,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 13:1-Deut 13:5\">13:1–5</a></b> The caution against a false prophet is given to emphasize that even though a prophet seems to carry impressive credentials, the theological test is still crucial. No true prophet could possibly advance a false religion, since Israel’s God is the true and only God. All other gods are the creations of men. Those who follow them and worship them must be destroyed from Israel.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,13,6", "deuteronomy,13,7", "deuteronomy,13,8", "deuteronomy,13,9" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,13,6",
+    "text" : "If your very own brother, or your son or daughter, or the wife you love, or your closest friend secretly entices you, saying, \"Let us go and worship other gods\" (gods that neither you nor your fathers have known,"
+  }, {
+    "verse" : "deuteronomy,13,7",
+    "text" : "gods of the peoples around you, whether near or far, from one end of the land to the other),"
+  }, {
+    "verse" : "deuteronomy,13,8",
+    "text" : "do not yield to him or listen to him. Show him no pity. Do not spare him or shield him."
+  }, {
+    "verse" : "deuteronomy,13,9",
+    "text" : "You must certainly put him to death. Your hand must be the first in putting him to death, and then the hands of all the people."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,13,6-deuteronomy,13,11",
     "id" : 186473,
@@ -30,7 +57,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 13:6\">13:6</a></b> <b>your brother . . . friend.</b> The closest ties on earth do not dissolve the obligation to remain faithful to the true and only God (cf. <a class=\"bibleref\" href=\"/passage/?search=Deut 21:18-Deut 21:21\">21:18–21</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,13,10", "deuteronomy,13,11" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,13,10",
+    "text" : "Stone him to death, because he tried to turn you away from the LORD your God, who brought you out of Egypt, out of the land of slavery."
+  }, {
+    "verse" : "deuteronomy,13,11",
+    "text" : "Then all Israel will hear and be afraid, and no one among you will do such an evil thing again."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,13,10",
     "id" : 186475,
@@ -38,7 +71,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 13:10\">13:10</a></b> See theological note “The Three Purposes of the Law.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,13,12", "deuteronomy,13,13", "deuteronomy,13,14", "deuteronomy,13,15", "deuteronomy,13,16", "deuteronomy,13,17", "deuteronomy,13,18" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,13,12",
+    "text" : "If you hear it said about one of the towns the LORD your God is giving you to live in"
+  }, {
+    "verse" : "deuteronomy,13,13",
+    "text" : "that wicked men have arisen among you and have led the people of their town astray, saying, \"Let us go and worship other gods\" (gods you have not known),"
+  }, {
+    "verse" : "deuteronomy,13,14",
+    "text" : "then you must inquire, probe and investigate it thoroughly. And if it is true and it has been proved that this detestable thing has been done among you,"
+  }, {
+    "verse" : "deuteronomy,13,15",
+    "text" : "you must certainly put to the sword all who live in that town. Destroy it completely, both its people and its livestock."
+  }, {
+    "verse" : "deuteronomy,13,16",
+    "text" : "Gather all the plunder of the town into the middle of the public square and completely burn the town and all its plunder as a whole burnt offering to the LORD your God. It is to remain a ruin forever, never to be rebuilt."
+  }, {
+    "verse" : "deuteronomy,13,17",
+    "text" : "None of those condemned things shall be found in your hands, so that the LORD will turn from his fierce anger; he will show you mercy, have compassion on you, and increase your numbers, as he promised on oath to your forefathers,"
+  }, {
+    "verse" : "deuteronomy,13,18",
+    "text" : "because you obey the LORD your God, keeping all his commands that I am giving you today and doing what is right in his eyes."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,13,12-deuteronomy,13,18",
     "id" : 186476,
@@ -46,7 +100,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 13:12-Deut 13:18\">13:12–18</a></b> In the third instance of apostasy the case of a whole town is considered. First, investigation is undertaken (<a class=\"bibleref\" href=\"/passage/?search=Deut 13:12-Deut 13:14\">vv. 12–14</a>). If the thing is true, the town must be destroyed (<a class=\"bibleref\" href=\"/passage/?search=Deut 13:14-Deut 13:15\">vv. 14–15</a>). Note that the plunder of the town is not to be taken for private gain (<a class=\"bibleref\" href=\"/passage/?search=Deut 13:16-Deut 13:18\">vv. 16–18</a>). The thought of gain might cloud the judgment of those who investigated. The Hebrew for “heap” is <i>tel,</i> the word now used by archaeologists for the mounds comprising the ruins of successive generations of the buried cities they excavate.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,14,1", "deuteronomy,14,2" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,14,1",
+    "text" : "You are the children of the LORD your God. Do not cut yourselves or shave the front of your heads for the dead,"
+  }, {
+    "verse" : "deuteronomy,14,2",
+    "text" : "for you are a people holy to the LORD your God. Out of all the peoples on the face of the earth, the LORD has chosen you to be his treasured possession."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,14,1",
     "id" : 186477,
@@ -54,7 +114,31 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 14:1\">14:1</a></b> <b>You shall not cut yourselves . . . for the dead.</b> See <a class=\"bibleref\" href=\"/passage/?search=Lev 19:27\">Lev. 19:27</a>, <a class=\"bibleref\" href=\"/passage/?search=Lev 19:28\">28</a>, where the same rules are given. Details of this custom are unclear, but it doubtless involved practices associated with ancestor worship and pagan ritual mourning. Because Israel was chosen by God as His special possession (v. 2; 26:18), Israel was to be different and was to reject all pagan religion and associated rituals.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,14,3", "deuteronomy,14,4", "deuteronomy,14,5", "deuteronomy,14,6", "deuteronomy,14,7", "deuteronomy,14,8", "deuteronomy,14,9", "deuteronomy,14,10" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,14,3",
+    "text" : "Do not eat any detestable thing."
+  }, {
+    "verse" : "deuteronomy,14,4",
+    "text" : "These are the animals you may eat: the ox, the sheep, the goat,"
+  }, {
+    "verse" : "deuteronomy,14,5",
+    "text" : "the deer, the gazelle, the roe deer, the wild goat, the ibex, the antelope and the mountain sheep."
+  }, {
+    "verse" : "deuteronomy,14,6",
+    "text" : "You may eat any animal that has a split hoof divided in two and that chews the cud."
+  }, {
+    "verse" : "deuteronomy,14,7",
+    "text" : "However, of those that chew the cud or that have a split hoof completely divided you may not eat the camel, the rabbit or the coney. Although they chew the cud, they do not have a split hoof; they are ceremonially unclean for you."
+  }, {
+    "verse" : "deuteronomy,14,8",
+    "text" : "The pig is also unclean; although it has a split hoof, it does not chew the cud. You are not to eat their meat or touch their carcasses."
+  }, {
+    "verse" : "deuteronomy,14,9",
+    "text" : "Of all the creatures living in the water, you may eat any that has fins and scales."
+  }, {
+    "verse" : "deuteronomy,14,10",
+    "text" : "But anything that does not have fins and scales you may not eat; for you it is unclean."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,14,3-deuteronomy,14,21",
     "id" : 186478,
@@ -62,7 +146,31 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 14:3-Deut 14:21\">14:3–21</a></b> This section and <a class=\"bibleref\" href=\"/passage/?search=Num 5:1-Num 5:4\">Num. 5:1–4</a> are the main references to the clean-and-unclean legislation outside of <a class=\"bibleref\" href=\"/passage/?search=Lev 11-Lev 15\">Lev. 11–15</a>. The only ground given for the prohibitions is that Israel is to be holy to the Lord. Several reasons, ranging from religious to medical, have been suggested for these laws. In many cases the prohibitions require what would be good public health procedure, but the distinction of clean and unclean was not entirely a matter of health. Rather, it teaches an important moral and spiritual truth: separation from the specified foods and diseases portrayed the holiness of God and of His people. See notes <a class=\"bibleref\" href=\"/passage/?search=Lev 11-Lev 15\">Lev. 11–15</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,14,11", "deuteronomy,14,12", "deuteronomy,14,13", "deuteronomy,14,14", "deuteronomy,14,15", "deuteronomy,14,16", "deuteronomy,14,17", "deuteronomy,14,18" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,14,11",
+    "text" : "You may eat any clean bird."
+  }, {
+    "verse" : "deuteronomy,14,12",
+    "text" : "But these you may not eat: the eagle, the vulture, the black vulture,"
+  }, {
+    "verse" : "deuteronomy,14,13",
+    "text" : "the red kite, the black kite, any kind of falcon,"
+  }, {
+    "verse" : "deuteronomy,14,14",
+    "text" : "any kind of raven,"
+  }, {
+    "verse" : "deuteronomy,14,15",
+    "text" : "the horned owl, the screech owl, the gull, any kind of hawk,"
+  }, {
+    "verse" : "deuteronomy,14,16",
+    "text" : "the little owl, the great owl, the white owl,"
+  }, {
+    "verse" : "deuteronomy,14,17",
+    "text" : "the desert owl, the osprey, the cormorant,"
+  }, {
+    "verse" : "deuteronomy,14,18",
+    "text" : "the stork, any kind of heron, the hoopoe and the bat."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,14,11",
     "id" : 186479,
@@ -70,7 +178,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 14:11\">14:11</a></b> <b>all clean birds.</b> No easy formula is given to identify clean birds. In general the scavenger birds are unclean, probably because of their frequent contact with carrion. Such birds might pose a health risk as well. Some of the birds listed in <a class=\"bibleref\" href=\"/passage/?search=Deut 14:12-Deut 14:18\">vv. 12–18</a> can no longer be precisely identified.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,14,19", "deuteronomy,14,20" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,14,19",
+    "text" : "All flying insects that swarm are unclean to you; do not eat them."
+  }, {
+    "verse" : "deuteronomy,14,20",
+    "text" : "But any winged creature that is clean you may eat."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,14,19",
     "id" : 186480,
@@ -78,7 +192,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 14:19\">14:19</a></b> <b>winged insects.</b> But there were exceptions: <a class=\"bibleref\" href=\"/passage/?search=Lev 11:22\">Lev. 11:22</a> explicitly mentions the locust, destroying locust, cricket, and grasshopper as clean.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,14,21" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,14,21",
+    "text" : "Do not eat anything you find already dead. You may give it to an alien living in any of your towns, and he may eat it, or you may sell it to a foreigner. But you are a people holy to the LORD your God. Do not cook a young goat in its mother's milk."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,14,21",
     "id" : 186481,
@@ -86,7 +203,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 14:21\">14:21 a</a></b> <b>young goat in its mother’s milk.</b> This prohibition is not fully explained. Appearing also in <a class=\"bibleref\" href=\"/passage/?search=Exod 23:19\">Ex. 23:19</a> and <a class=\"bibleref\" href=\"/passage/?search=Exod 34:26\">34:26</a>, it is the basis of the practice among orthodox Jews of not eating milk and meat products together. The prohibition may be similar to 22:6, which forbids taking the mother bird with its young. There, the idea is to preserve the mother and nest so as to have more birds for the future. Some have also suggested that cooking a goat in milk may have been a Canaanite practice with pagan religious implications, but the evidence is not clear.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,14,22" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,14,22",
+    "text" : "Be sure to set aside a tenth of all that your fields produce each year."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,14,22",
     "id" : 186482,
@@ -94,7 +214,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 14:22\">14:22</a></b> <b>tithe.</b> A tenth. The law of the tithe was expressed as early as the time of the patriarchs (<a class=\"bibleref\" href=\"/passage/?search=Gen 14:20\">Gen. 14:20</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 28:22\">28:22</a>). <a class=\"bibleref\" href=\"/passage/?search=Lev 27:32\">Leviticus 27:32</a> specifies that the tithe of animals must not be selected, but must be “all that pass under the herdsman’s staff.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,14,23" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,14,23",
+    "text" : "Eat the tithe of your grain, new wine and oil, and the firstborn of your herds and flocks in the presence of the LORD your God at the place he will choose as a dwelling for his Name, so that you may learn to revere the LORD your God always."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,14,23",
     "id" : 186483,
@@ -102,7 +225,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 14:23\">14:23</a></b> <b>before the <span class=\"small-caps\">Lord</span>.</b> The tithe was to be taken to the sanctuary (<a class=\"bibleref\" href=\"/passage/?search=Deut 12:17\">12:17</a>), where the worshipers were to eat a portion in happy fellowship with the priests, Levites, and the poor. Far from being a burdensome requirement, the giving of the tithe was to be an occasion of joyous celebration and worship (<a class=\"bibleref\" href=\"/passage/?search=Deut 12:7\">12:7</a> note; cf. <a class=\"bibleref\" href=\"/passage/?search=2Cor 9:7\">2 Cor. 9:7</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,14,24", "deuteronomy,14,25", "deuteronomy,14,26", "deuteronomy,14,27" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,14,24",
+    "text" : "But if that place is too distant and you have been blessed by the LORD your God and cannot carry your tithe (because the place where the LORD will choose to put his Name is so far away),"
+  }, {
+    "verse" : "deuteronomy,14,25",
+    "text" : "then exchange your tithe for silver, and take the silver with you and go to the place the LORD your God will choose."
+  }, {
+    "verse" : "deuteronomy,14,26",
+    "text" : "Use the silver to buy whatever you like: cattle, sheep, wine or other fermented drink, or anything you wish. Then you and your household shall eat there in the presence of the LORD your God and rejoice."
+  }, {
+    "verse" : "deuteronomy,14,27",
+    "text" : "And do not neglect the Levites living in your towns, for they have no allotment or inheritance of their own."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,14,24",
     "id" : 186484,
@@ -110,7 +245,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 14:24\">14:24</a></b> <b>if the way is too long.</b> Travel was not easy, and the transportation of agricultural products was harder still. A practical solution was allowed—they could convert the goods to money and carry the money (<a class=\"bibleref\" href=\"/passage/?search=Deut 14:25\">v. 25</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,14,28", "deuteronomy,14,29" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,14,28",
+    "text" : "At the end of every three years, bring all the tithes of that year's produce and store it in your towns,"
+  }, {
+    "verse" : "deuteronomy,14,29",
+    "text" : "so that the Levites (who have no allotment or inheritance of their own) and the aliens, the fatherless and the widows who live in your towns may come and eat and be satisfied, and so that the LORD your God may bless you in all the work of your hands."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,14,28",
     "id" : 186485,
@@ -118,7 +259,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 14:28\">14:28</a></b> <b>At the end of every three years.</b> The third-year tithe is mentioned again only in <a class=\"bibleref\" href=\"/passage/?search=Deut 26:12\">26:12</a>, and the precise details are unclear. Because it was a special gift for the Levites and the poor, and because the Levitical cities were scattered throughout Israel (<a class=\"bibleref\" href=\"/passage/?search=Josh 21\">Josh. 21</a>), it would have been impractical to take all the tithes at one time to the central place of worship. Thus, these tithe offerings were to be stored in the towns of Israel and used to provide for the needy.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,15,1", "deuteronomy,15,2", "deuteronomy,15,3" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,15,1",
+    "text" : "At the end of every seven years you must cancel debts."
+  }, {
+    "verse" : "deuteronomy,15,2",
+    "text" : "This is how it is to be done: Every creditor shall cancel the loan he has made to his fellow Israelite. He shall not require payment from his fellow Israelite or brother, because the LORD's time for canceling debts has been proclaimed."
+  }, {
+    "verse" : "deuteronomy,15,3",
+    "text" : "You may require payment from a foreigner, but you must cancel any debt your brother owes you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,15,1",
     "id" : 186486,
@@ -126,7 +276,31 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 15:1\">15:1</a></b> <b>every seven years . . . grant a release.</b> The sabbatical year was established and described in <a class=\"bibleref\" href=\"/passage/?search=Exod 23:10\">Ex. 23:10</a>, <a class=\"bibleref\" href=\"/passage/?search=Exod 23:11\">11</a> and <a class=\"bibleref\" href=\"/passage/?search=Lev 25:1-Lev 25:7\">Lev. 25:1–7</a>, which require that the land should lie fallow during the seventh year. This passage (15:1–11) adds the provision that debts should be forgiven in that year. Since a loan might be arranged shortly before the sabbatical year, it could amount to a gift. For this reason vv. 7–11 warn against refusing to lend to the poor under these circumstances.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,15,4", "deuteronomy,15,5", "deuteronomy,15,6", "deuteronomy,15,7", "deuteronomy,15,8", "deuteronomy,15,9", "deuteronomy,15,10", "deuteronomy,15,11" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,15,4",
+    "text" : "However, there should be no poor among you, for in the land the LORD your God is giving you to possess as your inheritance, he will richly bless you,"
+  }, {
+    "verse" : "deuteronomy,15,5",
+    "text" : "if only you fully obey the LORD your God and are careful to follow all these commands I am giving you today."
+  }, {
+    "verse" : "deuteronomy,15,6",
+    "text" : "For the LORD your God will bless you as he has promised, and you will lend to many nations but will borrow from none. You will rule over many nations but none will rule over you."
+  }, {
+    "verse" : "deuteronomy,15,7",
+    "text" : "If there is a poor man among your brothers in any of the towns of the land that the LORD your God is giving you, do not be hardhearted or tightfisted toward your poor brother."
+  }, {
+    "verse" : "deuteronomy,15,8",
+    "text" : "Rather be openhanded and freely lend him whatever he needs."
+  }, {
+    "verse" : "deuteronomy,15,9",
+    "text" : "Be careful not to harbor this wicked thought: \"The seventh year, the year for canceling debts, is near,\" so that you do not show ill will toward your needy brother and give him nothing. He may then appeal to the LORD against you, and you will be found guilty of sin."
+  }, {
+    "verse" : "deuteronomy,15,10",
+    "text" : "Give generously to him and do so without a grudging heart; then because of this the LORD your God will bless you in all your work and in everything you put your hand to."
+  }, {
+    "verse" : "deuteronomy,15,11",
+    "text" : "There will always be poor people in the land. Therefore I command you to be openhanded toward your brothers and toward the poor and needy in your land."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,15,4",
     "id" : 186487,
@@ -134,7 +308,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 15:4\">15:4</a></b> <b>there will be no poor.</b> The forgiveness of personal loans to the poor is apparently in view here. God desired to bless His people materially in the Land of Promise so that borrowing would be unnecessary (<a class=\"bibleref\" href=\"/passage/?search=Deut 15:5\">vv. 5</a>, <a class=\"bibleref\" href=\"/passage/?search=Deut 15:6\">6</a>). Although full obedience would have resulted in the eradication of poverty from Israel, Moses realistically recognized that some poverty would remain (<a class=\"bibleref\" href=\"/passage/?search=Deut 15:11\">v. 11</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Matt 26:11\">Matt. 26:11</a>). The sabbatical year and the Jubilee provisions (<a class=\"bibleref\" href=\"/passage/?search=Lev 25:8-Lev 25:34\">Lev. 25:8–34</a>) were God’s gracious provision to minimize the oppression of the poor.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,15,12", "deuteronomy,15,13", "deuteronomy,15,14", "deuteronomy,15,15", "deuteronomy,15,16", "deuteronomy,15,17", "deuteronomy,15,18" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,15,12",
+    "text" : "If a fellow Hebrew, a man or a woman, sells himself to you and serves you six years, in the seventh year you must let him go free."
+  }, {
+    "verse" : "deuteronomy,15,13",
+    "text" : "And when you release him, do not send him away empty-handed."
+  }, {
+    "verse" : "deuteronomy,15,14",
+    "text" : "Supply him liberally from your flock, your threshing floor and your winepress. Give to him as the LORD your God has blessed you."
+  }, {
+    "verse" : "deuteronomy,15,15",
+    "text" : "Remember that you were slaves in Egypt and the LORD your God redeemed you. That is why I give you this command today."
+  }, {
+    "verse" : "deuteronomy,15,16",
+    "text" : "But if your servant says to you, \"I do not want to leave you,\" because he loves you and your family and is well off with you,"
+  }, {
+    "verse" : "deuteronomy,15,17",
+    "text" : "then take an awl and push it through his ear lobe into the door, and he will become your servant for life. Do the same for your maidservant."
+  }, {
+    "verse" : "deuteronomy,15,18",
+    "text" : "Do not consider it a hardship to set your servant free, because his service to you these six years has been worth twice as much as that of a hired hand. And the LORD your God will bless you in everything you do."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,15,12",
     "id" : 186488,
@@ -142,7 +337,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 15:12\">15:12</a></b> <b>If your brother . . . is sold.</b> Because this law of servitude is similar to the sabbatical year regulation, it might be thought that the sabbatical year freed all slaves. But that is not stated. Rather, the period of servitude was six years for every Hebrew slave and in the seventh year he went free.</p><p>Recalling the nation’s experience of servitude in Egypt (<a class=\"bibleref\" href=\"/passage/?search=Deut 15:15\">v. 15</a>), Israel was to be merciful to slaves. The slave in ancient Israel had rights (<a class=\"bibleref\" href=\"/passage/?search=Exod 21:1-Exod 21:11\">Ex. 21:1–11</a>, <a class=\"bibleref\" href=\"/passage/?search=Exod 21:20\">20</a>), and the redemption provisions here are generous—the freed slave must be given something with which to start fresh (v. 13, 14; cf. <a class=\"bibleref\" href=\"/passage/?search=Exod 12:35\">Ex. 12:35</a>, <a class=\"bibleref\" href=\"/passage/?search=Exod 12:36\">36</a>). The law of servitude described does not contradict the provision for freedom in the Year of Jubilee (<a class=\"bibleref\" href=\"/passage/?search=Lev 25:39-Lev 25:43\">Lev. 25:39–43</a>). That provision probably refers to the special case of an impoverished servant whose ancestral property was gone and who therefore had nowhere to go if freed. When the Year of Jubilee came, his home was restored and he went to it.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,15,19", "deuteronomy,15,20" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,15,19",
+    "text" : "Set apart for the LORD your God every firstborn male of your herds and flocks. Do not put the firstborn of your oxen to work, and do not shear the firstborn of your sheep."
+  }, {
+    "verse" : "deuteronomy,15,20",
+    "text" : "Each year you and your family are to eat them in the presence of the LORD your God at the place he will choose."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,15,19",
     "id" : 186489,
@@ -150,7 +351,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 15:19\">15:19</a></b> <b>All the firstborn . . . dedicate.</b> See <a class=\"bibleref\" href=\"/passage/?search=Deut 12:17\">12:17</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 15:19\">15:19</a> text note.</p><p><b>nor shear.</b> The firstborn ox was not to be worked nor the firstborn sheep shorn, because they were to be given to the Lord while still young.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,15,21", "deuteronomy,15,22", "deuteronomy,15,23" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,15,21",
+    "text" : "If an animal has a defect, is lame or blind, or has any serious flaw, you must not sacrifice it to the LORD your God."
+  }, {
+    "verse" : "deuteronomy,15,22",
+    "text" : "You are to eat it in your own towns. Both the ceremonially unclean and the clean may eat it, as if it were gazelle or deer."
+  }, {
+    "verse" : "deuteronomy,15,23",
+    "text" : "But you must not eat the blood; pour it out on the ground like water."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,15,21",
     "id" : 186490,

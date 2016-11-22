@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "2corinthians,4,13", "2corinthians,4,14" ],
+  "verses" : [ {
+    "verse" : "2corinthians,4,13",
+    "text" : "It is written: \"I believed; therefore I have spoken.\" With that same spirit of faith we also believe and therefore speak,"
+  }, {
+    "verse" : "2corinthians,4,14",
+    "text" : "because we know that the one who raised the Lord Jesus from the dead will also raise us with Jesus and present us with you in his presence."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2corinthians,3,4-2corinthians,6,13",
     "id" : 198231,
@@ -12,7 +18,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Cor 4:13\">4:13</a></b> Faith expresses itself in words that affirm confidence in what God has promised. Here Paul quotes the Septuagint (the Greek Old Testament translation) of <a class=\"bibleref\" href=\"/passage/?search=Ps 116:10\">Ps. 116:10</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2corinthians,4,15" ],
+  "verses" : [ {
+    "verse" : "2corinthians,4,15",
+    "text" : "All this is for your benefit, so that the grace that is reaching more and more people may cause thanksgiving to overflow to the glory of God."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2corinthians,4,15",
     "id" : 198257,
@@ -20,7 +29,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Cor 4:15\">4:15</a></b> <b>to the glory of God.</b> God’s ultimate goal in answering prayer and bringing us the blessings of salvation is for thanksgiving and glory to be offered to Him (<a class=\"bibleref\" href=\"/passage/?search=Isa 43:7\">Is. 43:7</a>; <a class=\"bibleref\" href=\"/passage/?search=Eph 1:12\">Eph. 1:12</a>; <a class=\"bibleref\" href=\"/passage/?search=Rev 4:11\">Rev. 4:11</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2corinthians,4,16" ],
+  "verses" : [ {
+    "verse" : "2corinthians,4,16",
+    "text" : "Therefore we do not lose heart. Though outwardly we are wasting away, yet inwardly we are being renewed day by day."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2corinthians,4,16",
     "id" : 198258,
@@ -28,7 +40,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Cor 4:16\">4:16</a></b> <b>we do not lose heart.</b> This phrase repeats <a class=\"bibleref\" href=\"/passage/?search=2Cor 4:1\">v. 1</a>. God brings glory to Himself even through the weaknesses and discouragements of Paul’s ministry.</p><p><b>our outer nature is wasting away.</b> The contrast between outward and inward is not simply between the body and the soul, but between the old fallen nature and the renewed humanity.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2corinthians,4,17" ],
+  "verses" : [ {
+    "verse" : "2corinthians,4,17",
+    "text" : "For our light and momentary troubles are achieving for us an eternal glory that far outweighs them all."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2corinthians,4,17",
     "id" : 198259,
@@ -36,7 +51,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Cor 4:17\">4:17</a></b> <b>momentary affliction.</b> An understatement. See the descriptions of these troubles in <a class=\"bibleref\" href=\"/passage/?search=2Cor 4:8-2Cor 4:12\">4:8–12</a>; <a class=\"bibleref\" href=\"/passage/?search=2Cor 6:4-2Cor 6:10\">6:4–10</a>; <a class=\"bibleref\" href=\"/passage/?search=2Cor 11:23-2Cor 11:33\">11:23–33</a>. These troubles are preparing a great reward for believers. Our faith and obedience in suffering pleases God, and He will not forget (<a class=\"bibleref\" href=\"/passage/?search=Rom 8:17\">Rom. 8:17</a>, <a class=\"bibleref\" href=\"/passage/?search=Rom 8:18\">18</a>; <a class=\"bibleref\" href=\"/passage/?search=1Pet 1:6\">1 Pet. 1:6</a>, <a class=\"bibleref\" href=\"/passage/?search=1Pet 1:7\">7</a>).</p><p><b>eternal weight of glory.</b> Troubles in this life are light and insignificant compared to the important and significant glory that we will enjoy for eternity.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2corinthians,4,18" ],
+  "verses" : [ {
+    "verse" : "2corinthians,4,18",
+    "text" : "So we fix our eyes not on what is seen, but on what is unseen. For what is seen is temporary, but what is unseen is eternal."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2corinthians,4,18",
     "id" : 198260,
@@ -44,7 +62,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Cor 4:18\">4:18</a></b> <b>things . . . unseen are eternal.</b> A frequent theme in this book. The unseen world is what is most real and most important; the visible world is passing away.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2corinthians,5,1" ],
+  "verses" : [ {
+    "verse" : "2corinthians,5,1",
+    "text" : "Now we know that if the earthly tent we live in is destroyed, we have a building from God, an eternal house in heaven, not built by human hands."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2corinthians,5,1",
     "id" : 198261,
@@ -52,7 +73,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Cor 5:1\">5:1</a></b> <b>tent.</b> Our physical bodies. If Paul’s sufferings must lead even to physical death, something far greater awaits him.</p><p><b>a house . . . in the heavens.</b> This probably refers to our resurrection bodies, though some have argued that it signifies the heavenly place that God has prepared for us.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2corinthians,5,2" ],
+  "verses" : [ {
+    "verse" : "2corinthians,5,2",
+    "text" : "Meanwhile we groan, longing to be clothed with our heavenly dwelling,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2corinthians,5,2",
     "id" : 198262,
@@ -60,7 +84,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Cor 5:2\">5:2</a></b> <b>we groan.</b> Sighing with frustration at the limitations of this present life, with its sin, weakness, and corruption (<a class=\"bibleref\" href=\"/passage/?search=Rom 8:22\">Rom. 8:22</a>, <a class=\"bibleref\" href=\"/passage/?search=Rom 8:23\">23</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2corinthians,5,3" ],
+  "verses" : [ {
+    "verse" : "2corinthians,5,3",
+    "text" : "because when we are clothed, we will not be found naked."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2corinthians,5,3",
     "id" : 198263,
@@ -68,7 +95,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Cor 5:3\">5:3</a></b> <b>naked.</b> Without a body.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2corinthians,5,4" ],
+  "verses" : [ {
+    "verse" : "2corinthians,5,4",
+    "text" : "For while we are in this tent, we groan and are burdened, because we do not wish to be unclothed but to be clothed with our heavenly dwelling, so that what is mortal may be swallowed up by life."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2corinthians,5,4",
     "id" : 198264,
@@ -76,7 +106,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Cor 5:4\">5:4</a></b> Paul longs for the resurrection body, free of the weaknesses and imperfections of this life.</p><p><b>what is mortal.</b> Our present physical bodies.</p><p><b>swallowed up by life.</b> The new, heavenly life to come will overtake our present existence. See “Resurrection and Glorification” at <a class=\"bibleref\" href=\"/passage/?search=1Cor 15:21\">1 Cor. 15:21</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2corinthians,5,5", "2corinthians,5,6" ],
+  "verses" : [ {
+    "verse" : "2corinthians,5,5",
+    "text" : "Now it is God who has made us for this very purpose and has given us the Spirit as a deposit, guaranteeing what is to come."
+  }, {
+    "verse" : "2corinthians,5,6",
+    "text" : "Therefore we are always confident and know that as long as we are at home in the body we are away from the Lord."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2corinthians,5,5",
     "id" : 198265,
@@ -84,7 +120,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Cor 5:5\">5:5</a></b> <b>guarantee.</b> See note <a class=\"bibleref\" href=\"/passage/?search=2Cor 1:22\">1:22</a>. The Holy Spirit’s work in us now in daily renewal and spiritual strengthening (<a class=\"bibleref\" href=\"/passage/?search=2Cor 3:18\">3:18</a>; <a class=\"bibleref\" href=\"/passage/?search=2Cor 4:16\">4:16</a>) is a foretaste and guarantee of future completion of that work in resurrection bodies and complete sanctification.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2corinthians,5,7" ],
+  "verses" : [ {
+    "verse" : "2corinthians,5,7",
+    "text" : "We live by faith, not by sight."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2corinthians,5,7",
     "id" : 198266,
@@ -92,7 +131,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Cor 5:7\">5:7</a></b> Again Paul specifies a contrast between the unseen spiritual realm of God’s presence and activity and the present visible world.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2corinthians,5,8" ],
+  "verses" : [ {
+    "verse" : "2corinthians,5,8",
+    "text" : "We are confident, I say, and would prefer to be away from the body and at home with the Lord."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2corinthians,5,8",
     "id" : 198267,
@@ -100,7 +142,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Cor 5:8\">5:8</a></b> The doctrine of the intermediate state between our death and Christ’s return teaches that when Christians die they, that is, their spirits, go immediately into Christ’s presence and are “at home with the Lord,” while their bodies remain here and are buried in the grave (<a class=\"bibleref\" href=\"/passage/?search=Luke 23:43\">Luke 23:43</a>; <a class=\"bibleref\" href=\"/passage/?search=Phil 1:23\">Phil. 1:23</a>). When Christ returns, the bodies of believers will be raised from the dead and reunited with their spirits (<a class=\"bibleref\" href=\"/passage/?search=1Cor 15:22\">1 Cor. 15:22</a>, <a class=\"bibleref\" href=\"/passage/?search=1Cor 15:23\">23</a>; <a class=\"bibleref\" href=\"/passage/?search=1Thess 4:14\">1 Thess. 4:14</a>, <a class=\"bibleref\" href=\"/passage/?search=1Thess 4:16\">16</a>). See “Death and the Intermediate State” at <a class=\"bibleref\" href=\"/passage/?search=Phil 1:23\">Phil. 1:23</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2corinthians,5,9" ],
+  "verses" : [ {
+    "verse" : "2corinthians,5,9",
+    "text" : "So we make it our goal to please him, whether we are at home in the body or away from it."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2corinthians,5,9",
     "id" : 198268,
@@ -108,7 +153,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Cor 5:9\">5:9</a></b> <b>to please him.</b> See “Pleasing God” at <a class=\"bibleref\" href=\"/passage/?search=1Thess 2:4\">1 Thess. 2:4</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2corinthians,5,10" ],
+  "verses" : [ {
+    "verse" : "2corinthians,5,10",
+    "text" : "For we must all appear before the judgment seat of Christ, that each one may receive what is due him for the things done while in the body, whether good or bad."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2corinthians,5,10",
     "id" : 198269,

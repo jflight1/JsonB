@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "luke,10,13", "luke,10,14" ],
+  "verses" : [ {
+    "verse" : "luke,10,13",
+    "text" : "\"Woe to you, Korazin! Woe to you, Bethsaida! For if the miracles that were performed in you had been performed in Tyre and Sidon, they would have repented long ago, sitting in sackcloth and ashes."
+  }, {
+    "verse" : "luke,10,14",
+    "text" : "But it will be more bearable for Tyre and Sidon at the judgment than for you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,10,13",
     "id" : 196542,
@@ -7,7 +13,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 10:13\">10:13</a></b> <b>Chorazin . . . Bethsaida.</b> Having heard and rejected Jesus, these towns were more guilty than Tyre and Sidon, which were infamous for their evil.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,10,15" ],
+  "verses" : [ {
+    "verse" : "luke,10,15",
+    "text" : "And you, Capernaum, will you be lifted up to the skies? No, you will go down to the depths."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,10,15",
     "id" : 196543,
@@ -15,7 +24,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 10:15\">10:15</a></b> <b>Capernaum.</b> Capernaum was a town where Jesus did much of His work.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,10,16", "luke,10,17" ],
+  "verses" : [ {
+    "verse" : "luke,10,16",
+    "text" : "\"He who listens to you listens to me; he who rejects you rejects me; but he who rejects me rejects him who sent me.\""
+  }, {
+    "verse" : "luke,10,17",
+    "text" : "The seventy-two returned with joy and said, \"Lord, even the demons submit to us in your name.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,10,16",
     "id" : 196544,
@@ -23,7 +38,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 10:16\">10:16</a></b> To reject God’s messengers is to reject God also.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,10,18" ],
+  "verses" : [ {
+    "verse" : "luke,10,18",
+    "text" : "He replied, \"I saw Satan fall like lightning from heaven."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,10,18",
     "id" : 196545,
@@ -31,7 +49,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 10:18\">10:18</a></b> In its context the saying seems to mean that the ministry of the preachers had inflicted a defeat upon Satan.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,10,19", "luke,10,20" ],
+  "verses" : [ {
+    "verse" : "luke,10,19",
+    "text" : "I have given you authority to trample on snakes and scorpions and to overcome all the power of the enemy; nothing will harm you."
+  }, {
+    "verse" : "luke,10,20",
+    "text" : "However, do not rejoice that the spirits submit to you, but rejoice that your names are written in heaven.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,10,19",
     "id" : 196546,
@@ -39,7 +63,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 10:19\">10:19</a></b> <b>authority.</b> When they are sent by God, they are safe from snakes and scorpions (cf. <a class=\"bibleref\" href=\"/passage/?search=Acts 28:3-Acts 28:5\">Acts 28:3–5</a>). God’s messengers are protected as they do what God calls them to do.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,10,21" ],
+  "verses" : [ {
+    "verse" : "luke,10,21",
+    "text" : "At that time Jesus, full of joy through the Holy Spirit, said, \"I praise you, Father, Lord of heaven and earth, because you have hidden these things from the wise and learned, and revealed them to little children. Yes, Father, for this was your good pleasure."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,10,21",
     "id" : 196547,
@@ -47,7 +74,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 10:21\">10:21</a></b> <b>revealed them to little children.</b> See “Illumination and Conviction” at <a class=\"bibleref\" href=\"/passage/?search=1Cor 2:10\">1 Cor. 2:10</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,10,22" ],
+  "verses" : [ {
+    "verse" : "luke,10,22",
+    "text" : "\"All things have been committed to me by my Father. No one knows who the Son is except the Father, and no one knows who the Father is except the Son and those to whom the Son chooses to reveal him.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,10,22",
     "id" : 196548,
@@ -55,7 +85,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 10:22\">10:22</a></b> The relationship of Jesus and the Father is unique. Knowledge of it does not come to the world by natural means.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,10,23", "luke,10,24" ],
+  "verses" : [ {
+    "verse" : "luke,10,23",
+    "text" : "Then he turned to his disciples and said privately, \"Blessed are the eyes that see what you see."
+  }, {
+    "verse" : "luke,10,24",
+    "text" : "For I tell you that many prophets and kings wanted to see what you see but did not see it, and to hear what you hear but did not hear it.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,10,23-luke,10,24",
     "id" : 196549,
@@ -63,7 +99,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 10:23\">10:23</a>, <a class=\"bibleref\" href=\"/passage/?search=Luke 10:24\">24</a></b> The greatest of prophets and kings in earlier days had not seen the Messiah, as these disciples had (cf. <a class=\"bibleref\" href=\"/passage/?search=Luke 7:24-Luke 7:28\">7:24–28</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,10,25", "luke,10,26" ],
+  "verses" : [ {
+    "verse" : "luke,10,25",
+    "text" : "On one occasion an expert in the law stood up to test Jesus. \"Teacher,\" he asked, \"what must I do to inherit eternal life?\""
+  }, {
+    "verse" : "luke,10,26",
+    "text" : "\"What is written in the Law?\" he replied. \"How do you read it?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,10,25",
     "id" : 196550,
@@ -71,7 +113,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 10:25\">10:25</a></b> <b>lawyer.</b> An expert in the law of God, and so a religious man. Yet he was not genuinely looking for information but for something that would enable him to accuse Jesus.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,10,27" ],
+  "verses" : [ {
+    "verse" : "luke,10,27",
+    "text" : "He answered: \"'Love the Lord your God with all your heart and with all your soul and with all your strength and with all your mind'; and, 'Love your neighbor as yourself.'\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,10,27",
     "id" : 196551,
@@ -79,7 +124,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 10:27\">10:27</a></b> The lawyer showed insight; Jesus summed up the law in much the same way (<a class=\"bibleref\" href=\"/passage/?search=Matt 22:37-Matt 22:40\">Matt. 22:37–40</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,10,28" ],
+  "verses" : [ {
+    "verse" : "luke,10,28",
+    "text" : "\"You have answered correctly,\" Jesus replied. \"Do this and you will live.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,10,28",
     "id" : 196552,
@@ -87,7 +135,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 10:28\">10:28</a></b> <b>do this.</b> God’s will is the way of life.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,10,29", "luke,10,30", "luke,10,31", "luke,10,32" ],
+  "verses" : [ {
+    "verse" : "luke,10,29",
+    "text" : "But he wanted to justify himself, so he asked Jesus, \"And who is my neighbor?\""
+  }, {
+    "verse" : "luke,10,30",
+    "text" : "In reply Jesus said: \"A man was going down from Jerusalem to Jericho, when he fell into the hands of robbers. They stripped him of his clothes, beat him and went away, leaving him half dead."
+  }, {
+    "verse" : "luke,10,31",
+    "text" : "A priest happened to be going down the same road, and when he saw the man, he passed by on the other side."
+  }, {
+    "verse" : "luke,10,32",
+    "text" : "So too, a Levite, when he came to the place and saw him, passed by on the other side."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,10,29-luke,10,37",
     "id" : 196553,
@@ -95,7 +155,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 10:29-Luke 10:37\">10:29–37</a></b> The parable answers the question “Who is my neighbor,” not the question concerning what one must do to be saved. The Jews had various ideas about the “neighbor,” but they confined it to Israel.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,10,33", "luke,10,34" ],
+  "verses" : [ {
+    "verse" : "luke,10,33",
+    "text" : "But a Samaritan, as he traveled, came where the man was; and when he saw him, he took pity on him."
+  }, {
+    "verse" : "luke,10,34",
+    "text" : "He went to him and bandaged his wounds, pouring on oil and wine. Then he put the man on his own donkey, took him to an inn and took care of him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,10,33-luke,10,34",
     "id" : 196554,
@@ -103,7 +169,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 10:33\">10:33</a>, <a class=\"bibleref\" href=\"/passage/?search=Luke 10:34\">34</a></b> Listeners would expect a priest and a Levite to be followed by a lay Israelite in an anti-clerical story. The Samaritan is totally unexpected, as is his kindness. Oil and wine were common remedies of that time and expressed the Samaritan’s compassion.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,10,35", "luke,10,36", "luke,10,37" ],
+  "verses" : [ {
+    "verse" : "luke,10,35",
+    "text" : "The next day he took out two silver coins and gave them to the innkeeper. 'Look after him,' he said, 'and when I return, I will reimburse you for any extra expense you may have.'"
+  }, {
+    "verse" : "luke,10,36",
+    "text" : "\"Which of these three do you think was a neighbor to the man who fell into the hands of robbers?\""
+  }, {
+    "verse" : "luke,10,37",
+    "text" : "The expert in the law replied, \"The one who had mercy on him.\" Jesus told him, \"Go and do likewise.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,10,35",
     "id" : 196555,

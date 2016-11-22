@@ -1,8 +1,23 @@
 [ {
-  "singleVerses" : [ "1kings,7,1" ],
+  "verses" : [ {
+    "verse" : "1kings,7,1",
+    "text" : "It took Solomon thirteen years, however, to complete the construction of his palace."
+  } ],
   "rsbNotes" : [ ]
 }, {
-  "singleVerses" : [ "1kings,7,2", "1kings,7,3", "1kings,7,4", "1kings,7,5" ],
+  "verses" : [ {
+    "verse" : "1kings,7,2",
+    "text" : "He built the Palace of the Forest of Lebanon a hundred cubits long, fifty wide and thirty high, with four rows of cedar columns supporting trimmed cedar beams."
+  }, {
+    "verse" : "1kings,7,3",
+    "text" : "It was roofed with cedar above the beams that rested on the columns-forty-five beams, fifteen to a row."
+  }, {
+    "verse" : "1kings,7,4",
+    "text" : "Its windows were placed high in sets of three, facing each other."
+  }, {
+    "verse" : "1kings,7,5",
+    "text" : "All the doorways had rectangular frames; they were in the front part in sets of three, facing each other."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,7,2",
     "id" : 188203,
@@ -10,7 +25,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 7:2\">7:2</a></b> <b>the House of the Forest of Lebanon.</b> Probably so named because of the extensive use of Lebanon cedar inside. This complex was probably located immediately south of the temple.</p><p><b>length . . . a hundred cubits and its breadth fifty . . . and its height thirty.</b> Although the same height as the temple, Solomon’s palace was considerably longer and more than twice as wide (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 6:2\">6:2</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,7,6" ],
+  "verses" : [ {
+    "verse" : "1kings,7,6",
+    "text" : "He made a colonnade fifty cubits long and thirty wide. In front of it was a portico, and in front of that were pillars and an overhanging roof."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,7,6",
     "id" : 188204,
@@ -18,7 +36,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 7:6\">7:6</a></b> <b>the Hall of Pillars.</b> Half the length of the palace and about two-thirds of the width (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 7:2\">7:2</a>), this colonnade was probably an impressive entrance hall.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,7,7", "1kings,7,8", "1kings,7,9", "1kings,7,10", "1kings,7,11", "1kings,7,12" ],
+  "verses" : [ {
+    "verse" : "1kings,7,7",
+    "text" : "He built the throne hall, the Hall of Justice, where he was to judge, and he covered it with cedar from floor to ceiling."
+  }, {
+    "verse" : "1kings,7,8",
+    "text" : "And the palace in which he was to live, set farther back, was similar in design. Solomon also made a palace like this hall for Pharaoh's daughter, whom he had married."
+  }, {
+    "verse" : "1kings,7,9",
+    "text" : "All these structures, from the outside to the great courtyard and from foundation to eaves, were made of blocks of high-grade stone cut to size and trimmed with a saw on their inner and outer faces."
+  }, {
+    "verse" : "1kings,7,10",
+    "text" : "The foundations were laid with large stones of good quality, some measuring ten cubits and some eight."
+  }, {
+    "verse" : "1kings,7,11",
+    "text" : "Above were high-grade stones, cut to size, and cedar beams."
+  }, {
+    "verse" : "1kings,7,12",
+    "text" : "The great courtyard was surrounded by a wall of three courses of dressed stone and one course of trimmed cedar beams, as was the inner courtyard of the temple of the LORD with its portico."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,7,7",
     "id" : 188205,
@@ -26,7 +62,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 7:7\">7:7</a></b> <b>the Hall of Judgment.</b> The place where Solomon formally carried out his duties as administrator of God’s holy kingdom (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 3:16\">3:16</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,7,13", "1kings,7,14" ],
+  "verses" : [ {
+    "verse" : "1kings,7,13",
+    "text" : "King Solomon sent to Tyre and brought Huram,"
+  }, {
+    "verse" : "1kings,7,14",
+    "text" : "whose mother was a widow from the tribe of Naphtali and whose father was a man of Tyre and a craftsman in bronze. Huram was highly skilled and experienced in all kinds of bronze work. He came to King Solomon and did all the work assigned to him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,7,13-1kings,7,51",
     "id" : 188206,
@@ -39,7 +81,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 7:13\">7:13</a></b> <b>Hiram.</b> He should not be confused with Hiram, the king of Tyre, with whom Solomon ratified a treaty for the supply of materials and craftsmen (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 5:1-1Kgs 5:12\">5:1–12</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,7,15" ],
+  "verses" : [ {
+    "verse" : "1kings,7,15",
+    "text" : "He cast two bronze pillars, each eighteen cubits high and twelve cubits around, by line."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,7,15",
     "id" : 188208,
@@ -47,7 +92,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 7:15\">7:15</a></b> <b>two pillars of bronze.</b> One pillar was on each side of the temple’s entrance (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 7:21\">v. 21</a>). It is unclear whether they were freestanding or whether they supported a roof which may have also covered the porch of the temple.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,7,16", "1kings,7,17", "1kings,7,18", "1kings,7,19", "1kings,7,20", "1kings,7,21", "1kings,7,22" ],
+  "verses" : [ {
+    "verse" : "1kings,7,16",
+    "text" : "He also made two capitals of cast bronze to set on the tops of the pillars; each capital was five cubits high."
+  }, {
+    "verse" : "1kings,7,17",
+    "text" : "A network of interwoven chains festooned the capitals on top of the pillars, seven for each capital."
+  }, {
+    "verse" : "1kings,7,18",
+    "text" : "He made pomegranates in two rows encircling each network to decorate the capitals on top of the pillars. He did the same for each capital."
+  }, {
+    "verse" : "1kings,7,19",
+    "text" : "The capitals on top of the pillars in the portico were in the shape of lilies, four cubits high."
+  }, {
+    "verse" : "1kings,7,20",
+    "text" : "On the capitals of both pillars, above the bowl-shaped part next to the network, were the two hundred pomegranates in rows all around."
+  }, {
+    "verse" : "1kings,7,21",
+    "text" : "He erected the pillars at the portico of the temple. The pillar to the south he named Jakin and the one to the north Boaz."
+  }, {
+    "verse" : "1kings,7,22",
+    "text" : "The capitals on top were in the shape of lilies. And so the work on the pillars was completed."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,7,16",
     "id" : 188209,
@@ -55,7 +121,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 7:16\">7:16</a></b> <b>two capitals.</b> It was common in the ancient Near East to lavish capitals with ornate decoration.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,7,23", "1kings,7,24" ],
+  "verses" : [ {
+    "verse" : "1kings,7,23",
+    "text" : "He made the Sea of cast metal, circular in shape, measuring ten cubits from rim to rim and five cubits high. It took a line of thirty cubits to measure around it."
+  }, {
+    "verse" : "1kings,7,24",
+    "text" : "Below the rim, gourds encircled it-ten to a cubit. The gourds were cast in two rows in one piece with the Sea."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,7,23",
     "id" : 188210,
@@ -63,7 +135,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 7:23\">7:23</a></b> <b>the sea of cast metal.</b> A huge circular basin holding up to eight thousand gallons of water (<a class=\"bibleref\" href=\"/passage/?search=2Chr 4:5\">2 Chr. 4:5</a> note). According to Chronicles, the priests used the Sea for cleansing (<a class=\"bibleref\" href=\"/passage/?search=2Chr 4:6\">2 Chr. 4:6</a>). Its symbolic significance is disputed. Some scholars highlight the positive attributes of water as life-giving, while others argue that the bronze Sea commemorates God’s power over the forces of chaos, typified by the sea (cf. <a class=\"bibleref\" href=\"/passage/?search=Rev 21:1\">Rev. 21:1</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,7,25", "1kings,7,26" ],
+  "verses" : [ {
+    "verse" : "1kings,7,25",
+    "text" : "The Sea stood on twelve bulls, three facing north, three facing west, three facing south and three facing east. The Sea rested on top of them, and their hindquarters were toward the center."
+  }, {
+    "verse" : "1kings,7,26",
+    "text" : "It was a handbreadth in thickness, and its rim was like the rim of a cup, like a lily blossom. It held two thousand baths."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,7,25",
     "id" : 188211,
@@ -71,7 +149,46 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 7:25\">7:25</a></b> <b>twelve oxen.</b> The Sea rested on four triads of oxen pointed in the four cardinal directions. In the ancient Near East, oxen symbolized physical and reproductive potency. Their arrangement is indicative of God’s universal lordship.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,7,27", "1kings,7,28", "1kings,7,29", "1kings,7,30", "1kings,7,31", "1kings,7,32", "1kings,7,33", "1kings,7,34", "1kings,7,35", "1kings,7,36", "1kings,7,37", "1kings,7,38", "1kings,7,39" ],
+  "verses" : [ {
+    "verse" : "1kings,7,27",
+    "text" : "He also made ten movable stands of bronze; each was four cubits long, four wide and three high."
+  }, {
+    "verse" : "1kings,7,28",
+    "text" : "This is how the stands were made: They had side panels attached to uprights."
+  }, {
+    "verse" : "1kings,7,29",
+    "text" : "On the panels between the uprights were lions, bulls and cherubim-and on the uprights as well. Above and below the lions and bulls were wreaths of hammered work."
+  }, {
+    "verse" : "1kings,7,30",
+    "text" : "Each stand had four bronze wheels with bronze axles, and each had a basin resting on four supports, cast with wreaths on each side."
+  }, {
+    "verse" : "1kings,7,31",
+    "text" : "On the inside of the stand there was an opening that had a circular frame one cubit deep. This opening was round, and with its basework it measured a cubit and a half. Around its opening there was engraving. The panels of the stands were square, not round."
+  }, {
+    "verse" : "1kings,7,32",
+    "text" : "The four wheels were under the panels, and the axles of the wheels were attached to the stand. The diameter of each wheel was a cubit and a half."
+  }, {
+    "verse" : "1kings,7,33",
+    "text" : "The wheels were made like chariot wheels; the axles, rims, spokes and hubs were all of cast metal."
+  }, {
+    "verse" : "1kings,7,34",
+    "text" : "Each stand had four handles, one on each corner, projecting from the stand."
+  }, {
+    "verse" : "1kings,7,35",
+    "text" : "At the top of the stand there was a circular band half a cubit deep. The supports and panels were attached to the top of the stand."
+  }, {
+    "verse" : "1kings,7,36",
+    "text" : "He engraved cherubim, lions and palm trees on the surfaces of the supports and on the panels, in every available space, with wreaths all around."
+  }, {
+    "verse" : "1kings,7,37",
+    "text" : "This is the way he made the ten stands. They were all cast in the same molds and were identical in size and shape."
+  }, {
+    "verse" : "1kings,7,38",
+    "text" : "He then made ten bronze basins, each holding forty baths and measuring four cubits across, one basin to go on each of the ten stands."
+  }, {
+    "verse" : "1kings,7,39",
+    "text" : "He placed five of the stands on the south side of the temple and five on the north. He placed the Sea on the south side, at the southeast corner of the temple."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,7,27",
     "id" : 188212,
@@ -79,7 +196,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 7:27\">7:27</a></b> <b>ten stands of bronze.</b> These portable and highly decorated wagons held water basins (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 7:38\">v. 38</a>). The priests used the water to wash sections of animals that had been slaughtered for burnt offerings (<a class=\"bibleref\" href=\"/passage/?search=Lev 1:9\">Lev. 1:9</a>, <a class=\"bibleref\" href=\"/passage/?search=Lev 1:13\">13</a>; <a class=\"bibleref\" href=\"/passage/?search=2Chr 4:6\">2 Chr. 4:6</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,7,40", "1kings,7,41", "1kings,7,42", "1kings,7,43", "1kings,7,44", "1kings,7,45" ],
+  "verses" : [ {
+    "verse" : "1kings,7,40",
+    "text" : "He also made the basins and shovels and sprinkling bowls. So Huram finished all the work he had undertaken for King Solomon in the temple of the LORD:"
+  }, {
+    "verse" : "1kings,7,41",
+    "text" : "the two pillars; the two bowl-shaped capitals on top of the pillars; the two sets of network decorating the two bowl-shaped capitals on top of the pillars;"
+  }, {
+    "verse" : "1kings,7,42",
+    "text" : "the four hundred pomegranates for the two sets of network (two rows of pomegranates for each network, decorating the bowl-shaped capitals on top of the pillars);"
+  }, {
+    "verse" : "1kings,7,43",
+    "text" : "the ten stands with their ten basins;"
+  }, {
+    "verse" : "1kings,7,44",
+    "text" : "the Sea and the twelve bulls under it;"
+  }, {
+    "verse" : "1kings,7,45",
+    "text" : "the pots, shovels and sprinkling bowls. All these objects that Huram made for King Solomon for the temple of the LORD were of burnished bronze."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,7,40",
     "id" : 188213,
@@ -87,7 +222,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 7:40\">7:40</a></b> <b>shovels, and the basins.</b> Priests used the shovels to remove ashes from the altar, and the bowls for rituals involving blood or water (<a class=\"bibleref\" href=\"/passage/?search=Exod 27:3\">Ex. 27:3</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 52:18\">Jer. 52:18</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,7,46", "1kings,7,47" ],
+  "verses" : [ {
+    "verse" : "1kings,7,46",
+    "text" : "The king had them cast in clay molds in the plain of the Jordan between Succoth and Zarethan."
+  }, {
+    "verse" : "1kings,7,47",
+    "text" : "Solomon left all these things unweighed, because there were so many; the weight of the bronze was not determined."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,7,46",
     "id" : 188214,
@@ -95,7 +236,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 7:46\">7:46</a></b> <b>Succoth.</b> This center of metallurgy was located east of the Jordan, north of the Wadi Jabbok (<a class=\"bibleref\" href=\"/passage/?search=Gen 33:17\">Gen. 33:17</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 13:27\">Josh. 13:27</a>; <a class=\"bibleref\" href=\"/passage/?search=Judg 8:4\">Judg. 8:4</a>, <a class=\"bibleref\" href=\"/passage/?search=Judg 8:5\">5</a>). Zarethan was nearby.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,7,48" ],
+  "verses" : [ {
+    "verse" : "1kings,7,48",
+    "text" : "Solomon also made all the furnishings that were in the LORD's temple: the golden altar; the golden table on which was the bread of the Presence;"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,7,48",
     "id" : 188215,
@@ -103,7 +247,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 7:48\">7:48</a></b> <b>the golden altar . . . table.</b> The same altar described in <a class=\"bibleref\" href=\"/passage/?search=1Kgs 6:22\">6:22</a>. The “bread of the Presence” or holy bread (<a class=\"bibleref\" href=\"/passage/?search=1Sam 21:4\">1 Sam. 21:4</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 21:6\">6</a>) arranged on the golden table was understood as an offering before God (<a class=\"bibleref\" href=\"/passage/?search=Exod 25:23-Exod 25:30\">Ex. 25:23–30</a>; <a class=\"bibleref\" href=\"/passage/?search=Lev 24:5-Lev 24:9\">Lev. 24:5–9</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 4:7\">Num. 4:7</a>; <a class=\"bibleref\" href=\"/passage/?search=2Chr 13:11\">2 Chr. 13:11</a>; <a class=\"bibleref\" href=\"/passage/?search=Matt 12:4\">Matt. 12:4</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,7,49", "1kings,7,50" ],
+  "verses" : [ {
+    "verse" : "1kings,7,49",
+    "text" : "the lampstands of pure gold (five on the right and five on the left, in front of the inner sanctuary); the gold floral work and lamps and tongs;"
+  }, {
+    "verse" : "1kings,7,50",
+    "text" : "the pure gold basins, wick trimmers, sprinkling bowls, dishes and censers; and the gold sockets for the doors of the innermost room, the Most Holy Place, and also for the doors of the main hall of the temple."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,7,49",
     "id" : 188216,
@@ -111,7 +261,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 7:49\">7:49</a></b> <b>lampstands.</b> There were ten lampstands in the temple, as compared to only one in the tabernacle (<a class=\"bibleref\" href=\"/passage/?search=Exod 25:31-Exod 25:40\">Ex. 25:31–40</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 26:35\">26:35</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,7,51" ],
+  "verses" : [ {
+    "verse" : "1kings,7,51",
+    "text" : "When all the work King Solomon had done for the temple of the LORD was finished, he brought in the things his father David had dedicated-the silver and gold and the furnishings-and he placed them in the treasuries of the LORD's temple."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,7,51",
     "id" : 188217,

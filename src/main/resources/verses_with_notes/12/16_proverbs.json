@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,30,5" ],
+  "verses" : [ {
+    "verse" : "proverbs,30,5",
+    "text" : "\"Every word of God is flawless; he is a shield to those who take refuge in him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,30,5-proverbs,30,6",
     "id" : 192339,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 30:5\">30:5</a></b> <b>proves true.</b> That is, tried and found to be utterly reliable.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,30,6" ],
+  "verses" : [ {
+    "verse" : "proverbs,30,6",
+    "text" : "Do not add to his words, or he will rebuke you and prove you a liar."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,30,6",
     "id" : 192341,

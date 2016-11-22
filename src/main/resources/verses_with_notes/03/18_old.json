@@ -1,5 +1,47 @@
 [ {
-  "singleVerses" : [ "numbers,26,52", "numbers,26,53", "numbers,26,54", "numbers,26,55", "numbers,26,56", "numbers,26,57", "numbers,26,58", "numbers,26,59", "numbers,26,60", "numbers,26,61", "numbers,26,62", "numbers,26,63", "numbers,26,64", "numbers,26,65" ],
+  "verses" : [ {
+    "verse" : "numbers,26,52",
+    "text" : "The LORD said to Moses,"
+  }, {
+    "verse" : "numbers,26,53",
+    "text" : "\"The land is to be allotted to them as an inheritance based on the number of names."
+  }, {
+    "verse" : "numbers,26,54",
+    "text" : "To a larger group give a larger inheritance, and to a smaller group a smaller one; each is to receive its inheritance according to the number of those listed."
+  }, {
+    "verse" : "numbers,26,55",
+    "text" : "Be sure that the land is distributed by lot. What each group inherits will be according to the names for its ancestral tribe."
+  }, {
+    "verse" : "numbers,26,56",
+    "text" : "Each inheritance is to be distributed by lot among the larger and smaller groups.\""
+  }, {
+    "verse" : "numbers,26,57",
+    "text" : "These were the Levites who were counted by their clans: through Gershon, the Gershonite clan; through Kohath, the Kohathite clan; through Merari, the Merarite clan."
+  }, {
+    "verse" : "numbers,26,58",
+    "text" : "These also were Levite clans: the Libnite clan, the Hebronite clan, the Mahlite clan, the Mushite clan, the Korahite clan. (Kohath was the forefather of Amram;"
+  }, {
+    "verse" : "numbers,26,59",
+    "text" : "the name of Amram's wife was Jochebed, a descendant of Levi, who was born to the Levites in Egypt. To Amram she bore Aaron, Moses and their sister Miriam."
+  }, {
+    "verse" : "numbers,26,60",
+    "text" : "Aaron was the father of Nadab and Abihu, Eleazar and Ithamar."
+  }, {
+    "verse" : "numbers,26,61",
+    "text" : "But Nadab and Abihu died when they made an offering before the LORD with unauthorized fire.)"
+  }, {
+    "verse" : "numbers,26,62",
+    "text" : "All the male Levites a month old or more numbered 23,000. They were not counted along with the other Israelites because they received no inheritance among them."
+  }, {
+    "verse" : "numbers,26,63",
+    "text" : "These are the ones counted by Moses and Eleazar the priest when they counted the Israelites on the plains of Moab by the Jordan across from Jericho."
+  }, {
+    "verse" : "numbers,26,64",
+    "text" : "Not one of them was among those counted by Moses and Aaron the priest when they counted the Israelites in the Desert of Sinai."
+  }, {
+    "verse" : "numbers,26,65",
+    "text" : "For the LORD had told those Israelites they would surely die in the desert, and not one of them was left except Caleb son of Jephunneh and Joshua son of Nun."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,26,1-numbers,36,13",
     "id" : 186294,
@@ -12,7 +54,40 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Num 26:52-Num 26:56\">26:52–56</a></b> The Promised Land was to be divided in proportion to the size of each group, with locations decided by lot.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "numbers,27,1", "numbers,27,2", "numbers,27,3", "numbers,27,4", "numbers,27,5", "numbers,27,6", "numbers,27,7", "numbers,27,8", "numbers,27,9", "numbers,27,10", "numbers,27,11" ],
+  "verses" : [ {
+    "verse" : "numbers,27,1",
+    "text" : "The daughters of Zelophehad son of Hepher, the son of Gilead, the son of Makir, the son of Manasseh, belonged to the clans of Manasseh son of Joseph. The names of the daughters were Mahlah, Noah, Hoglah, Milcah and Tirzah. They approached"
+  }, {
+    "verse" : "numbers,27,2",
+    "text" : "the entrance to the Tent of Meeting and stood before Moses, Eleazar the priest, the leaders and the whole assembly, and said,"
+  }, {
+    "verse" : "numbers,27,3",
+    "text" : "\"Our father died in the desert. He was not among Korah's followers, who banded together against the LORD, but he died for his own sin and left no sons."
+  }, {
+    "verse" : "numbers,27,4",
+    "text" : "Why should our father's name disappear from his clan because he had no son? Give us property among our father's relatives.\""
+  }, {
+    "verse" : "numbers,27,5",
+    "text" : "So Moses brought their case before the LORD"
+  }, {
+    "verse" : "numbers,27,6",
+    "text" : "and the LORD said to him,"
+  }, {
+    "verse" : "numbers,27,7",
+    "text" : "\"What Zelophehad's daughters are saying is right. You must certainly give them property as an inheritance among their father's relatives and turn their father's inheritance over to them."
+  }, {
+    "verse" : "numbers,27,8",
+    "text" : "\"Say to the Israelites, 'If a man dies and leaves no son, turn his inheritance over to his daughter."
+  }, {
+    "verse" : "numbers,27,9",
+    "text" : "If he has no daughter, give his inheritance to his brothers."
+  }, {
+    "verse" : "numbers,27,10",
+    "text" : "If he has no brothers, give his inheritance to his father's brothers."
+  }, {
+    "verse" : "numbers,27,11",
+    "text" : "If his father had no brothers, give his inheritance to the nearest relative in his clan, that he may possess it. This is to be a legal requirement for the Israelites, as the LORD commanded Moses.'\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,27,1-numbers,27,11",
     "id" : 186301,
@@ -20,7 +95,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Num 27:1-Num 27:11\">27:1–11</a></b> Rules for inheritance of land, which notably permit women to inherit, are explained after the account of Zelophehad’s daughters. Zelophehad had died without leaving a male heir, and his daughters petitioned Moses and the leaders to allow the daughters to inherit their father’s portion in the land, and not to let his name be cut off. The names of all five daughters are recorded in <a class=\"bibleref\" href=\"/passage/?search=Num 27:1\">v. 1</a>.</p><p>In <a class=\"bibleref\" href=\"/passage/?search=Num 36\">ch. 36</a> a related question was raised by the tribal leaders: if the daughters of Zelophehad married men of a different tribe, would their father’s inheritance be transferred to that tribe? In response to both questions, the Lord answered that the family and tribal legacies should be protected (<a class=\"bibleref\" href=\"/passage/?search=Num 27:7\">27:7</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 36:6\">36:6</a>). These protections, as well as the prohibition against permanent transfer of land from one family to another, were rooted in God’s ultimate ownership of the Promised Land (<a class=\"bibleref\" href=\"/passage/?search=Lev 25:23\">Lev. 25:23</a>), and that He had entrusted it to all His people as a good gift and permanent possession to be enjoyed (<a class=\"bibleref\" href=\"/passage/?search=Lev 25:34\">Lev. 25:34</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 6:10-Deut 6:12\">Deut. 6:10–12</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 8:10-Deut 8:13\">8:10–13</a>). The land was not simply private property to be transferred on the basis of human convention and agreement. Rather, it symbolized life with God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "numbers,27,12", "numbers,27,13", "numbers,27,14", "numbers,27,15", "numbers,27,16", "numbers,27,17" ],
+  "verses" : [ {
+    "verse" : "numbers,27,12",
+    "text" : "Then the LORD said to Moses, \"Go up this mountain in the Abarim range and see the land I have given the Israelites."
+  }, {
+    "verse" : "numbers,27,13",
+    "text" : "After you have seen it, you too will be gathered to your people, as your brother Aaron was,"
+  }, {
+    "verse" : "numbers,27,14",
+    "text" : "for when the community rebelled at the waters in the Desert of Zin, both of you disobeyed my command to honor me as holy before their eyes.\" (These were the waters of Meribah Kadesh, in the Desert of Zin.)"
+  }, {
+    "verse" : "numbers,27,15",
+    "text" : "Moses said to the LORD,"
+  }, {
+    "verse" : "numbers,27,16",
+    "text" : "\"May the LORD, the God of the spirits of all mankind, appoint a man over this community"
+  }, {
+    "verse" : "numbers,27,17",
+    "text" : "to go out and come in before them, one who will lead them out and bring them in, so the LORD's people will not be like sheep without a shepherd.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,27,12-numbers,27,14",
     "id" : 186302,
@@ -28,7 +121,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Num 27:12-Num 27:14\">27:12–14</a></b> Moses was not permitted to enter the Promised Land, but only to see it from a distance. This was punishment for his failure at Meribah (<a class=\"bibleref\" href=\"/passage/?search=Num 20:9-Num 20:13\">20:9–13</a> and notes).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "numbers,27,18", "numbers,27,19" ],
+  "verses" : [ {
+    "verse" : "numbers,27,18",
+    "text" : "So the LORD said to Moses, \"Take Joshua son of Nun, a man in whom is the spirit, and lay your hand on him."
+  }, {
+    "verse" : "numbers,27,19",
+    "text" : "Have him stand before Eleazar the priest and the entire assembly and commission him in their presence."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,27,18",
     "id" : 186303,
@@ -36,7 +135,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Num 27:18\">27:18</a></b> <b>lay your hand on him.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Deut 34:9\">Deut. 34:9</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "numbers,27,20", "numbers,27,21", "numbers,27,22", "numbers,27,23" ],
+  "verses" : [ {
+    "verse" : "numbers,27,20",
+    "text" : "Give him some of your authority so the whole Israelite community will obey him."
+  }, {
+    "verse" : "numbers,27,21",
+    "text" : "He is to stand before Eleazar the priest, who will obtain decisions for him by inquiring of the Urim before the LORD. At his command he and the entire community of the Israelites will go out, and at his command they will come in.\""
+  }, {
+    "verse" : "numbers,27,22",
+    "text" : "Moses did as the LORD commanded him. He took Joshua and had him stand before Eleazar the priest and the whole assembly."
+  }, {
+    "verse" : "numbers,27,23",
+    "text" : "Then he laid his hands on him and commissioned him, as the LORD instructed through Moses."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,27,20",
     "id" : 186304,
@@ -44,7 +155,52 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Num 27:20\">27:20</a></b> <b>invest him with some of your authority.</b> Moses’ office and ministry were unique (<a class=\"bibleref\" href=\"/passage/?search=Num 20:22-Num 20:29\">20:22–29</a> note), but a portion of his honor and authority would be imparted to Joshua.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "numbers,28,1", "numbers,28,2", "numbers,28,3", "numbers,28,4", "numbers,28,5", "numbers,28,6", "numbers,28,7", "numbers,28,8", "numbers,28,9", "numbers,28,10", "numbers,28,11", "numbers,28,12", "numbers,28,13", "numbers,28,14", "numbers,28,15" ],
+  "verses" : [ {
+    "verse" : "numbers,28,1",
+    "text" : "The LORD said to Moses,"
+  }, {
+    "verse" : "numbers,28,2",
+    "text" : "\"Give this command to the Israelites and say to them: 'See that you present to me at the appointed time the food for my offerings made by fire, as an aroma pleasing to me.'"
+  }, {
+    "verse" : "numbers,28,3",
+    "text" : "Say to them: 'This is the offering made by fire that you are to present to the LORD: two lambs a year old without defect, as a regular burnt offering each day."
+  }, {
+    "verse" : "numbers,28,4",
+    "text" : "Prepare one lamb in the morning and the other at twilight,"
+  }, {
+    "verse" : "numbers,28,5",
+    "text" : "together with a grain offering of a tenth of an ephah of fine flour mixed with a quarter of a hin of oil from pressed olives."
+  }, {
+    "verse" : "numbers,28,6",
+    "text" : "This is the regular burnt offering instituted at Mount Sinai as a pleasing aroma, an offering made to the LORD by fire."
+  }, {
+    "verse" : "numbers,28,7",
+    "text" : "The accompanying drink offering is to be a quarter of a hin of fermented drink with each lamb. Pour out the drink offering to the LORD at the sanctuary."
+  }, {
+    "verse" : "numbers,28,8",
+    "text" : "Prepare the second lamb at twilight, along with the same kind of grain offering and drink offering that you prepare in the morning. This is an offering made by fire, an aroma pleasing to the LORD."
+  }, {
+    "verse" : "numbers,28,9",
+    "text" : "\"'On the Sabbath day, make an offering of two lambs a year old without defect, together with its drink offering and a grain offering of two-tenths of an ephah of fine flour mixed with oil."
+  }, {
+    "verse" : "numbers,28,10",
+    "text" : "This is the burnt offering for every Sabbath, in addition to the regular burnt offering and its drink offering."
+  }, {
+    "verse" : "numbers,28,11",
+    "text" : "\"'On the first of every month, present to the LORD a burnt offering of two young bulls, one ram and seven male lambs a year old, all without defect."
+  }, {
+    "verse" : "numbers,28,12",
+    "text" : "With each bull there is to be a grain offering of three-tenths of an ephah of fine flour mixed with oil; with the ram, a grain offering of two-tenths of an ephah of fine flour mixed with oil;"
+  }, {
+    "verse" : "numbers,28,13",
+    "text" : "and with each lamb, a grain offering of a tenth of an ephah of fine flour mixed with oil. This is for a burnt offering, a pleasing aroma, an offering made to the LORD by fire."
+  }, {
+    "verse" : "numbers,28,14",
+    "text" : "With each bull there is to be a drink offering of half a hin of wine; with the ram, a third of a hin; and with each lamb, a quarter of a hin. This is the monthly burnt offering to be made at each new moon during the year."
+  }, {
+    "verse" : "numbers,28,15",
+    "text" : "Besides the regular burnt offering with its drink offering, one male goat is to be presented to the LORD as a sin offering."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,28,1-numbers,29,40",
     "id" : 186305,

@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,140,1" ],
+  "verses" : [ {
+    "verse" : "psalms,140,1",
+    "text" : "Rescue me, O LORD, from evil men; protect me from men of violence,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,140,1-psalms,140,13",
     "id" : 191545,
@@ -7,7 +10,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 140\">Ps. 140</a></b> This psalm is a complaint, which characteristically turns to the Lord at the end with confidence (vv. 12, <a class=\"bibleref\" href=\"/passage/?search=Ps 140:13\">13</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,140,2" ],
+  "verses" : [ {
+    "verse" : "psalms,140,2",
+    "text" : "who devise evil plans in their hearts and stir up war every day."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,140,2",
     "id" : 191546,
@@ -15,7 +21,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 140:2\">140:2</a></b> <b>stir up wars.</b> Taken literally, this language suggests that the original setting of the psalm was war. Probably the language is figurative, like the reference to hunting in <a class=\"bibleref\" href=\"/passage/?search=Ps 140:5\">v. 5</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,140,3", "psalms,140,4", "psalms,140,5", "psalms,140,6" ],
+  "verses" : [ {
+    "verse" : "psalms,140,3",
+    "text" : "They make their tongues as sharp as a serpent's; the poison of vipers is on their lips. Selah"
+  }, {
+    "verse" : "psalms,140,4",
+    "text" : "Keep me, O LORD, from the hands of the wicked; protect me from men of violence who plan to trip my feet."
+  }, {
+    "verse" : "psalms,140,5",
+    "text" : "Proud men have hidden a snare for me; they have spread out the cords of their net and have set traps for me along my path. Selah"
+  }, {
+    "verse" : "psalms,140,6",
+    "text" : "O LORD, I say to you, \"You are my God.\" Hear, O LORD, my cry for mercy."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,140,3",
     "id" : 191547,
@@ -23,7 +41,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 140:3\">140:3</a></b> <b>venom of asps.</b> The enemy, through gossip and slander, has carefully planned the writer’s destruction.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,140,7", "psalms,140,8" ],
+  "verses" : [ {
+    "verse" : "psalms,140,7",
+    "text" : "O Sovereign LORD, my strong deliverer, who shields my head in the day of battle-"
+  }, {
+    "verse" : "psalms,140,8",
+    "text" : "do not grant the wicked their desires, O LORD; do not let their plans succeed, or they will become proud. Selah"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,140,7",
     "id" : 191548,
@@ -31,7 +55,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 140:7\">140:7</a></b> <b>in the day of battle.</b> See <a class=\"bibleref\" href=\"/passage/?search=Ps 140:2\">v. 2</a> note. The psalmist reminds God that He has been his protector.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,140,9" ],
+  "verses" : [ {
+    "verse" : "psalms,140,9",
+    "text" : "Let the heads of those who surround me be covered with the trouble their lips have caused."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,140,9",
     "id" : 191549,
@@ -39,7 +66,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 140:9\">140:9</a></b> <b>mischief of their lips.</b> He asks God to turn back on his persecutors the evil they meant for him (<a class=\"bibleref\" href=\"/passage/?search=Ps 7:14-Ps 7:16\">7:14–16</a> notes).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,140,10", "psalms,140,11" ],
+  "verses" : [ {
+    "verse" : "psalms,140,10",
+    "text" : "Let burning coals fall upon them; may they be thrown into the fire, into miry pits, never to rise."
+  }, {
+    "verse" : "psalms,140,11",
+    "text" : "Let slanderers not be established in the land; may disaster hunt down men of violence."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,140,10",
     "id" : 191550,
@@ -47,7 +80,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 140:10\">140:10</a></b> <b>Let them be cast into fire.</b> See Introduction: Characteristics and Themes.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,140,12", "psalms,140,13" ],
+  "verses" : [ {
+    "verse" : "psalms,140,12",
+    "text" : "I know that the LORD secures justice for the poor and upholds the cause of the needy."
+  }, {
+    "verse" : "psalms,140,13",
+    "text" : "Surely the righteous will praise your name and the upright will live before you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,140,12",
     "id" : 191551,

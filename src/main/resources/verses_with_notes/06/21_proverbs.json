@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "proverbs,17,19", "proverbs,17,20" ],
+  "verses" : [ {
+    "verse" : "proverbs,17,19",
+    "text" : "He who loves a quarrel loves sin; he who builds a high gate invites destruction."
+  }, {
+    "verse" : "proverbs,17,20",
+    "text" : "A man of perverse heart does not prosper; he whose tongue is deceitful falls into trouble."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +18,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 17:19\">17:19</a></b> The parallel lines of this proverb relate pride and wrongdoing with fighting and destruction, giving the reader material for reflection.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,17,21" ],
+  "verses" : [ {
+    "verse" : "proverbs,17,21",
+    "text" : "To have a fool for a son brings grief; there is no joy for the father of a fool."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,17,21",
     "id" : 192040,

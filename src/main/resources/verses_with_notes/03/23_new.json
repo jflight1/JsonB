@@ -1,8 +1,20 @@
 [ {
-  "singleVerses" : [ "luke,5,29" ],
+  "verses" : [ {
+    "verse" : "luke,5,29",
+    "text" : "Then Levi held a great banquet for Jesus at his house, and a large crowd of tax collectors and others were eating with them."
+  } ],
   "rsbNotes" : [ ]
 }, {
-  "singleVerses" : [ "luke,5,30", "luke,5,31", "luke,5,32" ],
+  "verses" : [ {
+    "verse" : "luke,5,30",
+    "text" : "But the Pharisees and the teachers of the law who belonged to their sect complained to his disciples, \"Why do you eat and drink with tax collectors and 'sinners'?\""
+  }, {
+    "verse" : "luke,5,31",
+    "text" : "Jesus answered them, \"It is not the healthy who need a doctor, but the sick."
+  }, {
+    "verse" : "luke,5,32",
+    "text" : "I have not come to call the righteous, but sinners to repentance.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,5,30",
     "id" : 196435,
@@ -10,7 +22,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 5:30\">5:30</a></b> The Pharisees would have been outside. They regarded table fellowship with sinners as especially defiling.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,5,33", "luke,5,34", "luke,5,35" ],
+  "verses" : [ {
+    "verse" : "luke,5,33",
+    "text" : "They said to him, \"John's disciples often fast and pray, and so do the disciples of the Pharisees, but yours go on eating and drinking.\""
+  }, {
+    "verse" : "luke,5,34",
+    "text" : "Jesus answered, \"Can you make the guests of the bridegroom fast while he is with them?"
+  }, {
+    "verse" : "luke,5,35",
+    "text" : "But the time will come when the bridegroom will be taken from them; in those days they will fast.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,5,33",
     "id" : 196436,
@@ -18,7 +39,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 5:33\">5:33</a></b> The only fast prescribed in the law was on the Day of Atonement (<a class=\"bibleref\" href=\"/passage/?search=Lev 23:27\">Lev. 23:27</a>), but religious people fasted on other days (e.g., <a class=\"bibleref\" href=\"/passage/?search=Zech 7:3\">Zech. 7:3</a>, <a class=\"bibleref\" href=\"/passage/?search=Zech 7:5\">5</a>). Jesus did not command fasts, though He Himself fasted (4:2) and permitted it among His followers (<a class=\"bibleref\" href=\"/passage/?search=Matt 6:16-Matt 6:18\">Matt. 6:16–18</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,5,36", "luke,5,37", "luke,5,38", "luke,5,39" ],
+  "verses" : [ {
+    "verse" : "luke,5,36",
+    "text" : "He told them this parable: \"No one tears a patch from a new garment and sews it on an old one. If he does, he will have torn the new garment, and the patch from the new will not match the old."
+  }, {
+    "verse" : "luke,5,37",
+    "text" : "And no one pours new wine into old wineskins. If he does, the new wine will burst the skins, the wine will run out and the wineskins will be ruined."
+  }, {
+    "verse" : "luke,5,38",
+    "text" : "No, new wine must be poured into new wineskins."
+  }, {
+    "verse" : "luke,5,39",
+    "text" : "And no one after drinking old wine wants the new, for he says, 'The old is better.'\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,5,36-luke,5,38",
     "id" : 196437,
@@ -26,7 +59,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 5:36-Luke 5:38\">5:36–38</a></b> Making a patch from a new garment for an old one spoils both—the new by having the patch torn from it, the old because the patch does not match. New wine in old wineskins ferments and bursts the skins; both wine and skins are lost.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,6,1", "luke,6,2", "luke,6,3" ],
+  "verses" : [ {
+    "verse" : "luke,6,1",
+    "text" : "One Sabbath Jesus was going through the grainfields, and his disciples began to pick some heads of grain, rub them in their hands and eat the kernels."
+  }, {
+    "verse" : "luke,6,2",
+    "text" : "Some of the Pharisees asked, \"Why are you doing what is unlawful on the Sabbath?\""
+  }, {
+    "verse" : "luke,6,3",
+    "text" : "Jesus answered them, \"Have you never read what David did when he and his companions were hungry?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,6,1",
     "id" : 196438,
@@ -34,7 +76,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 6:1\">6:1</a></b> <b>Sabbath.</b> A principal source of controversy between Jesus and the Pharisees was the right use of the Sabbath. They hedged it with repressive regulations so as to avoid the possibility of breaking the Sabbath. Jesus did not so much argue that the regulations should be relaxed as that they had misunderstood the Sabbath—it was a day on which good deeds should be done.</p><p><b>plucked and ate some heads of grain.</b> This was permitted in the law (<a class=\"bibleref\" href=\"/passage/?search=Deut 23:25\">Deut. 23:25</a>); that it was done on the Sabbath was seen by the Pharisees as unlawful.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,6,4" ],
+  "verses" : [ {
+    "verse" : "luke,6,4",
+    "text" : "He entered the house of God, and taking the consecrated bread, he ate what is lawful only for priests to eat. And he also gave some to his companions.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,6,4",
     "id" : 196439,
@@ -42,7 +87,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 6:4\">6:4</a></b> <b>the bread of the Presence.</b> Prepared in a special way for use in temple service, this bread was to be eaten only by priests (<a class=\"bibleref\" href=\"/passage/?search=Lev 24:5-Lev 24:9\">Lev. 24:5–9</a>). In a time of need David used it for his companions (<a class=\"bibleref\" href=\"/passage/?search=1Sam 21:3-1Sam 21:6\">1 Sam. 21:3–6</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,6,5", "luke,6,6", "luke,6,7", "luke,6,8" ],
+  "verses" : [ {
+    "verse" : "luke,6,5",
+    "text" : "Then Jesus said to them, \"The Son of Man is Lord of the Sabbath.\""
+  }, {
+    "verse" : "luke,6,6",
+    "text" : "On another Sabbath he went into the synagogue and was teaching, and a man was there whose right hand was shriveled."
+  }, {
+    "verse" : "luke,6,7",
+    "text" : "The Pharisees and the teachers of the law were looking for a reason to accuse Jesus, so they watched him closely to see if he would heal on the Sabbath."
+  }, {
+    "verse" : "luke,6,8",
+    "text" : "But Jesus knew what they were thinking and said to the man with the shriveled hand, \"Get up and stand in front of everyone.\" So he got up and stood there."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,6,5",
     "id" : 196440,
@@ -50,7 +107,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 6:5\">6:5</a></b> <b>lord of the Sabbath.</b> The Sabbath was instituted by God (<a class=\"bibleref\" href=\"/passage/?search=Gen 2:3\">Gen. 2:3</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 20:8-Exod 20:11\">Ex. 20:8–11</a>), but Jesus is Lord over it. Jesus claims divine authority to interpret the law.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,6,9", "luke,6,10", "luke,6,11" ],
+  "verses" : [ {
+    "verse" : "luke,6,9",
+    "text" : "Then Jesus said to them, \"I ask you, which is lawful on the Sabbath: to do good or to do evil, to save life or to destroy it?\""
+  }, {
+    "verse" : "luke,6,10",
+    "text" : "He looked around at them all, and then said to the man, \"Stretch out your hand.\" He did so, and his hand was completely restored."
+  }, {
+    "verse" : "luke,6,11",
+    "text" : "But they were furious and began to discuss with one another what they might do to Jesus."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,6,9",
     "id" : 196441,

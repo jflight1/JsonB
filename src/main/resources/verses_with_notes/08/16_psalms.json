@@ -1,5 +1,32 @@
 [ {
-  "singleVerses" : [ "psalms,34,11", "psalms,34,12", "psalms,34,13", "psalms,34,14", "psalms,34,15", "psalms,34,16", "psalms,34,17", "psalms,34,18", "psalms,34,19" ],
+  "verses" : [ {
+    "verse" : "psalms,34,11",
+    "text" : "Come, my children, listen to me; I will teach you the fear of the LORD."
+  }, {
+    "verse" : "psalms,34,12",
+    "text" : "Whoever of you loves life and desires to see many good days,"
+  }, {
+    "verse" : "psalms,34,13",
+    "text" : "keep your tongue from evil and your lips from speaking lies."
+  }, {
+    "verse" : "psalms,34,14",
+    "text" : "Turn from evil and do good; seek peace and pursue it."
+  }, {
+    "verse" : "psalms,34,15",
+    "text" : "The eyes of the LORD are on the righteous and his ears are attentive to their cry;"
+  }, {
+    "verse" : "psalms,34,16",
+    "text" : "the face of the LORD is against those who do evil, to cut off the memory of them from the earth."
+  }, {
+    "verse" : "psalms,34,17",
+    "text" : "The righteous cry out, and the LORD hears them; he delivers them from all their troubles."
+  }, {
+    "verse" : "psalms,34,18",
+    "text" : "The LORD is close to the brokenhearted and saves those who are crushed in spirit."
+  }, {
+    "verse" : "psalms,34,19",
+    "text" : "A righteous man may have many troubles, but the LORD delivers him from them all;"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,34,1-psalms,34,22",
     "id" : 190477,
@@ -12,7 +39,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 34:11\">34:11</a></b> <b>children.</b> A common and poetic form of address to all ages.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,34,20", "psalms,34,21", "psalms,34,22" ],
+  "verses" : [ {
+    "verse" : "psalms,34,20",
+    "text" : "he protects all his bones, not one of them will be broken."
+  }, {
+    "verse" : "psalms,34,21",
+    "text" : "Evil will slay the wicked; the foes of the righteous will be condemned."
+  }, {
+    "verse" : "psalms,34,22",
+    "text" : "The LORD redeems his servants; no one will be condemned who takes refuge in him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,34,20",
     "id" : 190488,

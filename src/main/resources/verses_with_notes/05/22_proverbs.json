@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,15,27" ],
+  "verses" : [ {
+    "verse" : "proverbs,15,27",
+    "text" : "A greedy man brings trouble to his family, but he who hates bribes will live."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 15:27\">15:27</a></b> <b>greedy . . . bribes.</b> These parallel lines suggest one whose riches are ill-gotten. Our folly usually has repercussions on those closest to us (<a class=\"bibleref\" href=\"/passage/?search=Prov 1:19\">1:19</a>).</p><p><b>will live.</b> See <a class=\"bibleref\" href=\"/passage/?search=Prov 2:20-Prov 2:22\">2:20–22</a> and notes.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,15,28" ],
+  "verses" : [ {
+    "verse" : "proverbs,15,28",
+    "text" : "The heart of the righteous weighs its answers, but the mouth of the wicked gushes evil."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,15,28",
     "id" : 191996,

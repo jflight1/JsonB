@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "psalms,10,1", "psalms,10,2" ],
+  "verses" : [ {
+    "verse" : "psalms,10,1",
+    "text" : "Why, O LORD, do you stand far off? Why do you hide yourself in times of trouble?"
+  }, {
+    "verse" : "psalms,10,2",
+    "text" : "In his arrogance the wicked man hunts down the weak, who are caught in the schemes he devises."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,10,1-psalms,10,18",
     "id" : 190266,
@@ -12,7 +18,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 10:1\">10:1</a></b> <b>Why . . . do you stand afar off.</b> The psalmist is more troubled by the apparent absence of God than by the presence of enemies.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,10,3", "psalms,10,4" ],
+  "verses" : [ {
+    "verse" : "psalms,10,3",
+    "text" : "He boasts of the cravings of his heart; he blesses the greedy and reviles the LORD."
+  }, {
+    "verse" : "psalms,10,4",
+    "text" : "In his pride the wicked does not seek him; in all his thoughts there is no room for God."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,10,3",
     "id" : 190268,
@@ -20,7 +32,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 10:3\">10:3</a></b> <b>boasts . . . renounces.</b> The wicked person’s ethical judgments are upside-down. He should bless the Lord and reject the greedy.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,10,5" ],
+  "verses" : [ {
+    "verse" : "psalms,10,5",
+    "text" : "His ways are always prosperous; he is haughty and your laws are far from him; he sneers at all his enemies."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,10,5",
     "id" : 190269,
@@ -28,7 +43,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 10:5\">10:5</a></b> <b>prosper at all times.</b> From the perspective of the oppressed, it appears that the oppressor has no troubles (<a class=\"bibleref\" href=\"/passage/?search=Ps 73:12\">Ps. 73:12</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,10,6" ],
+  "verses" : [ {
+    "verse" : "psalms,10,6",
+    "text" : "He says to himself, \"Nothing will shake me; I'll always be happy and never have trouble.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,10,6",
     "id" : 190270,
@@ -36,7 +54,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 10:6\">10:6</a></b> <b>I shall not be moved.</b> This attitude of self-trust brought trouble to the psalmist himself (<a class=\"bibleref\" href=\"/passage/?search=Ps 30:6\">Ps. 30:6</a>). Confidence must be in God, not in one’s own ability.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,10,7" ],
+  "verses" : [ {
+    "verse" : "psalms,10,7",
+    "text" : "His mouth is full of curses and lies and threats; trouble and evil are under his tongue."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,10,7",
     "id" : 190271,
@@ -44,7 +65,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 10:7\">10:7</a></b> <b>mouth . . . tongue.</b> Sins of speech are the focus of attention. <a class=\"bibleref\" href=\"/passage/?search=Rom 3:14\">Rom. 3:14</a> alludes to this verse.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,10,8" ],
+  "verses" : [ {
+    "verse" : "psalms,10,8",
+    "text" : "He lies in wait near the villages; from ambush he murders the innocent, watching in secret for his victims."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,10,8",
     "id" : 190272,
@@ -52,7 +76,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 10:8\">10:8</a></b> <b>sits in ambush.</b> The metaphor of the wicked in ambush is well known from Proverbs (<a class=\"bibleref\" href=\"/passage/?search=Prov 1:11\">Prov. 1:11</a>).</p><p><b>stealthily.</b> The wicked prefer to work in darkness, not in the light (<a class=\"bibleref\" href=\"/passage/?search=John 3:19\">John 3:19</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,10,9", "psalms,10,10", "psalms,10,11" ],
+  "verses" : [ {
+    "verse" : "psalms,10,9",
+    "text" : "He lies in wait like a lion in cover; he lies in wait to catch the helpless; he catches the helpless and drags them off in his net."
+  }, {
+    "verse" : "psalms,10,10",
+    "text" : "His victims are crushed, they collapse; they fall under his strength."
+  }, {
+    "verse" : "psalms,10,11",
+    "text" : "He says to himself, \"God has forgotten; he covers his face and never sees.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,10,9",
     "id" : 190273,
@@ -60,7 +93,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 10:9\">10:9</a></b> <b>into his net.</b> The wicked is a hunter of the helpless.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,10,12", "psalms,10,13" ],
+  "verses" : [ {
+    "verse" : "psalms,10,12",
+    "text" : "Arise, LORD! Lift up your hand, O God. Do not forget the helpless."
+  }, {
+    "verse" : "psalms,10,13",
+    "text" : "Why does the wicked man revile God? Why does he say to himself, \"He won't call me to account\"?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,10,12",
     "id" : 190274,
@@ -68,7 +107,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 10:12\">10:12</a></b> <b>Arise, O <span class=\"small-caps\">Lord</span>.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Ps 3:7\">3:7</a>.</p><p><b>lift up your hand.</b> The metaphor refers to God’s active intervention on behalf of the psalmist.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,10,14", "psalms,10,15" ],
+  "verses" : [ {
+    "verse" : "psalms,10,14",
+    "text" : "But you, O God, do see trouble and grief; you consider it to take it in hand. The victim commits himself to you; you are the helper of the fatherless."
+  }, {
+    "verse" : "psalms,10,15",
+    "text" : "Break the arm of the wicked and evil man; call him to account for his wickedness that would not be found out."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,10,14",
     "id" : 190275,

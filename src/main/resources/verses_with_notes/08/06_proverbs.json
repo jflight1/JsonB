@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,20,24" ],
+  "verses" : [ {
+    "verse" : "proverbs,20,24",
+    "text" : "A man's steps are directed by the LORD. How then can anyone understand his own way?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 20:24\">20:24</a></b> See <a class=\"bibleref\" href=\"/passage/?search=Prov 16:1\">16:1</a>, <a class=\"bibleref\" href=\"/passage/?search=Prov 16:9\">9</a> and notes; <a class=\"bibleref\" href=\"/passage/?search=Prov 19:21\">19:21</a>. Such passages point to the limitations of knowledge obtained from observation. God’s sovereign purposes alone are certain.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,20,25" ],
+  "verses" : [ {
+    "verse" : "proverbs,20,25",
+    "text" : "It is a trap for a man to dedicate something rashly and only later to consider his vows."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,20,25",
     "id" : 192113,

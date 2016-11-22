@@ -1,5 +1,20 @@
 [ {
-  "singleVerses" : [ "acts,15,1", "acts,15,2", "acts,15,3", "acts,15,4", "acts,15,5" ],
+  "verses" : [ {
+    "verse" : "acts,15,1",
+    "text" : "Some men came down from Judea to Antioch and were teaching the brothers: \"Unless you are circumcised, according to the custom taught by Moses, you cannot be saved.\""
+  }, {
+    "verse" : "acts,15,2",
+    "text" : "This brought Paul and Barnabas into sharp dispute and debate with them. So Paul and Barnabas were appointed, along with some other believers, to go up to Jerusalem to see the apostles and elders about this question."
+  }, {
+    "verse" : "acts,15,3",
+    "text" : "The church sent them on their way, and as they traveled through Phoenicia and Samaria, they told how the Gentiles had been converted. This news made all the brothers very glad."
+  }, {
+    "verse" : "acts,15,4",
+    "text" : "When they came to Jerusalem, they were welcomed by the church and the apostles and elders, to whom they reported everything God had done through them."
+  }, {
+    "verse" : "acts,15,5",
+    "text" : "Then some of the believers who belonged to the party of the Pharisees stood up and said, \"The Gentiles must be circumcised and required to obey the law of Moses.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,15,1",
     "id" : 197537,
@@ -7,7 +22,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 15:1\">15:1</a></b> The reports of Paul’s and Barnabas’s direct contact with the Gentiles on the first missionary journey may have reached Judea and Jerusalem through John Mark after he returned home (<a class=\"bibleref\" href=\"/passage/?search=Acts 13:13\">13:13</a>). Also, others from Antioch may have brought the news during Paul’s and Barnabas’s extended stay there. This caused the Jewish Christians to fear that their Jewish heritage was threatened; they thought that the converted Gentiles must be brought into Judaism through circumcision. Paul recognized that forcing Gentiles to be circumcised might make them think that salvation must be earned (cf. <a class=\"bibleref\" href=\"/passage/?search=Gal 2:15\">Gal. 2:15</a>, <a class=\"bibleref\" href=\"/passage/?search=Gal 2:16\">16</a>). He knew that the Judaizers had to be opposed lest they hinder the extension of the gospel to the Gentiles (<a class=\"bibleref\" href=\"/passage/?search=1Thess 2:14-1Thess 2:16\">1 Thess. 2:14–16</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,15,6", "acts,15,7", "acts,15,8", "acts,15,9", "acts,15,10", "acts,15,11", "acts,15,12" ],
+  "verses" : [ {
+    "verse" : "acts,15,6",
+    "text" : "The apostles and elders met to consider this question."
+  }, {
+    "verse" : "acts,15,7",
+    "text" : "After much discussion, Peter got up and addressed them: \"Brothers, you know that some time ago God made a choice among you that the Gentiles might hear from my lips the message of the gospel and believe."
+  }, {
+    "verse" : "acts,15,8",
+    "text" : "God, who knows the heart, showed that he accepted them by giving the Holy Spirit to them, just as he did to us."
+  }, {
+    "verse" : "acts,15,9",
+    "text" : "He made no distinction between us and them, for he purified their hearts by faith."
+  }, {
+    "verse" : "acts,15,10",
+    "text" : "Now then, why do you try to test God by putting on the necks of the disciples a yoke that neither we nor our fathers have been able to bear?"
+  }, {
+    "verse" : "acts,15,11",
+    "text" : "No! We believe it is through the grace of our Lord Jesus that we are saved, just as they are.\""
+  }, {
+    "verse" : "acts,15,12",
+    "text" : "The whole assembly became silent as they listened to Barnabas and Paul telling about the miraculous signs and wonders God had done among the Gentiles through them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,15,6",
     "id" : 197538,
@@ -15,7 +51,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 15:6\">15:6</a></b> <b>apostles and the elders were gathered together.</b> The church leaders took the lead in the discussion, but <a class=\"bibleref\" href=\"/passage/?search=Acts 15:12\">v. 12</a> indicates that the whole assembly was present.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,15,13", "acts,15,14", "acts,15,15", "acts,15,16", "acts,15,17", "acts,15,18" ],
+  "verses" : [ {
+    "verse" : "acts,15,13",
+    "text" : "When they finished, James spoke up: \"Brothers, listen to me."
+  }, {
+    "verse" : "acts,15,14",
+    "text" : "Simon has described to us how God at first showed his concern by taking from the Gentiles a people for himself."
+  }, {
+    "verse" : "acts,15,15",
+    "text" : "The words of the prophets are in agreement with this, as it is written:"
+  }, {
+    "verse" : "acts,15,16",
+    "text" : "\"'After this I will return and rebuild David's fallen tent. Its ruins I will rebuild, and I will restore it,"
+  }, {
+    "verse" : "acts,15,17",
+    "text" : "that the remnant of men may seek the Lord, and all the Gentiles who bear my name, says the Lord, who does these things'"
+  }, {
+    "verse" : "acts,15,18",
+    "text" : "that have been known for ages."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,15,13",
     "id" : 197539,
@@ -23,7 +77,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 15:13\">15:13</a></b> <b>James replied.</b> James was the half brother of Jesus (<a class=\"bibleref\" href=\"/passage/?search=Matt 13:55\">Matt. 13:55</a>; Introduction to James: Author). He seems by now to have become a prominent leader of the Jerusalem church (<a class=\"bibleref\" href=\"/passage/?search=Gal 2:9\">Gal. 2:9</a>). James added a third testimony that Gentile believers should not be burdened with keeping the details of the Jewish ceremonial law; his speech concentrated on Old Testament Scriptures and their application to Gentile conversion.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,15,19", "acts,15,20", "acts,15,21", "acts,15,22" ],
+  "verses" : [ {
+    "verse" : "acts,15,19",
+    "text" : "\"It is my judgment, therefore, that we should not make it difficult for the Gentiles who are turning to God."
+  }, {
+    "verse" : "acts,15,20",
+    "text" : "Instead we should write to them, telling them to abstain from food polluted by idols, from sexual immorality, from the meat of strangled animals and from blood."
+  }, {
+    "verse" : "acts,15,21",
+    "text" : "For Moses has been preached in every city from the earliest times and is read in the synagogues on every Sabbath.\""
+  }, {
+    "verse" : "acts,15,22",
+    "text" : "Then the apostles and elders, with the whole church, decided to choose some of their own men and send them to Antioch with Paul and Barnabas. They chose Judas (called Barsabbas) and Silas, two men who were leaders among the brothers."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,15,19",
     "id" : 197540,
@@ -31,7 +97,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 15:19\">15:19</a></b> <b>my judgment.</b> James finds support in the Scriptures and in the testimonies of Simon Peter, Barnabas, and Paul that God wants the Gentiles to be free from the ceremonial law and the demands of the Judaizers. He proposes that both Jews and Gentiles practice moderation. The Jewish Christians are to recognize that Gentiles are not to be bound by Jewish ceremonial law. The Gentile believers must consider the scruples of Jewish Christians and not offend them by eating food sacrificed to idols, or eating the meat of strangled animals, or blood (<a class=\"bibleref\" href=\"/passage/?search=Lev 17:10-Lev 17:14\">Lev. 17:10–14</a>; <a class=\"bibleref\" href=\"/passage/?search=Lev 19:26\">19:26</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,15,23", "acts,15,24", "acts,15,25", "acts,15,26", "acts,15,27" ],
+  "verses" : [ {
+    "verse" : "acts,15,23",
+    "text" : "With them they sent the following letter: The apostles and elders, your brothers, To the Gentile believers in Antioch, Syria and Cilicia: Greetings."
+  }, {
+    "verse" : "acts,15,24",
+    "text" : "We have heard that some went out from us without our authorization and disturbed you, troubling your minds by what they said."
+  }, {
+    "verse" : "acts,15,25",
+    "text" : "So we all agreed to choose some men and send them to you with our dear friends Barnabas and Paul--"
+  }, {
+    "verse" : "acts,15,26",
+    "text" : "men who have risked their lives for the name of our Lord Jesus Christ."
+  }, {
+    "verse" : "acts,15,27",
+    "text" : "Therefore we are sending Judas and Silas to confirm by word of mouth what we are writing."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,15,23",
     "id" : 197541,
@@ -39,7 +120,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 15:23\">15:23</a></b> <b>The brothers.</b> The Jewish Christians used this expression to set the Gentile Christians at ease.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,15,28", "acts,15,29", "acts,15,30", "acts,15,31" ],
+  "verses" : [ {
+    "verse" : "acts,15,28",
+    "text" : "It seemed good to the Holy Spirit and to us not to burden you with anything beyond the following requirements:"
+  }, {
+    "verse" : "acts,15,29",
+    "text" : "You are to abstain from food sacrificed to idols, from blood, from the meat of strangled animals and from sexual immorality. You will do well to avoid these things. Farewell."
+  }, {
+    "verse" : "acts,15,30",
+    "text" : "The men were sent off and went down to Antioch, where they gathered the church together and delivered the letter."
+  }, {
+    "verse" : "acts,15,31",
+    "text" : "The people read it and were glad for its encouraging message."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,15,28",
     "id" : 197542,
@@ -47,7 +140,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 15:28\">15:28</a></b> <b>to the Holy Spirit and to us.</b> They were filled with the Spirit (<a class=\"bibleref\" href=\"/passage/?search=Acts 2:1-Acts 2:41\">2:1–41</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 4:8\">4:8</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 6:5\">6:5</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 9:17\">9:17</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 13:4\">13:4</a>) and recognized the Spirit’s role in their debate and decision.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,15,32", "acts,15,33", "acts,15,34", "acts,15,35" ],
+  "verses" : [ {
+    "verse" : "acts,15,32",
+    "text" : "Judas and Silas, who themselves were prophets, said much to encourage and strengthen the brothers."
+  }, {
+    "verse" : "acts,15,33",
+    "text" : "After spending some time there, they were sent off by the brothers with the blessing of peace to return to those who had sent them."
+  }, {
+    "verse" : "acts,15,34",
+    "text" : "See Footnote"
+  }, {
+    "verse" : "acts,15,35",
+    "text" : "But Paul and Barnabas remained in Antioch, where they and many others taught and preached the word of the Lord."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,15,32",
     "id" : 197543,

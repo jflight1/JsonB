@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,28,1" ],
+  "verses" : [ {
+    "verse" : "proverbs,28,1",
+    "text" : "The wicked man flees though no one pursues, but the righteous are as bold as a lion."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,28,1-proverbs,28,28",
     "id" : 192290,

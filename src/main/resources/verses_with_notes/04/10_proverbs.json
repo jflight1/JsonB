@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,12,26" ],
+  "verses" : [ {
+    "verse" : "proverbs,12,26",
+    "text" : "A righteous man is cautious in friendship, but the way of the wicked leads them astray."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

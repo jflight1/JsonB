@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,22,28" ],
+  "verses" : [ {
+    "verse" : "proverbs,22,28",
+    "text" : "Do not move an ancient boundary stone set up by your forefathers."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,22,17-proverbs,24,22",
     "id" : 192162,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 22:28\">22:28</a></b> See <a class=\"bibleref\" href=\"/passage/?search=Prov 15:25\">15:25</a> and notes. In <a class=\"bibleref\" href=\"/passage/?search=Prov 23:10\">23:10</a>, <a class=\"bibleref\" href=\"/passage/?search=Prov 23:11\">11</a> the command is given against the background of God’s determination to defend the oppressed.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,22,29" ],
+  "verses" : [ {
+    "verse" : "proverbs,22,29",
+    "text" : "Do you see a man skilled in his work? He will serve before kings; he will not serve before obscure men."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,22,29",
     "id" : 192173,

@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,18,13" ],
+  "verses" : [ {
+    "verse" : "proverbs,18,13",
+    "text" : "He who answers before listening- that is his folly and his shame."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

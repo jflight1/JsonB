@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "romans,1,1" ],
+  "verses" : [ {
+    "verse" : "romans,1,1",
+    "text" : "Paul, a servant of Christ Jesus, called to be an apostle and set apart for the gospel of God--"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,1,1",
     "id" : 197689,
@@ -7,7 +10,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 1:1\">1:1</a></b> <b>Paul.</b> Ancient letters began with the general formula, “A to B sends greetings.” Using his Roman name, Paul fills out this formula with Christian significance both in his self-description (<a class=\"bibleref\" href=\"/passage/?search=Rom 1:1-Rom 1:6\">vv. 1–6</a>) and in the style of his greeting (<a class=\"bibleref\" href=\"/passage/?search=Rom 1:7\">vv. 7</a>, <a class=\"bibleref\" href=\"/passage/?search=Rom 1:8\">8</a>).</p><p><b>servant.</b> Someone totally at the disposal of a master (text note).</p><p><b>apostle.</b> An official messenger of the gospel. See <a class=\"bibleref\" href=\"/passage/?search=2Cor 1:1\">2 Cor. 1:1</a> note.</p><p><b>gospel of God.</b> God is both the source and the theme of the message; it is the message “of” God. Here and elsewhere, Paul’s trinitarianism surfaces (1:3, 4; 5:1–5; 8:3, 4, 9–11, 16, 17; 14:17, 18; 15:16, 30).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,1,2" ],
+  "verses" : [ {
+    "verse" : "romans,1,2",
+    "text" : "the gospel he promised beforehand through his prophets in the Holy Scriptures"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,1,2",
     "id" : 197690,
@@ -15,7 +21,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 1:2\">1:2</a></b> <b>which he promised beforehand.</b> The gospel was announced in promise form in the biblically recorded preaching of the prophets, from which the apostolic presentation of the gospel is drawn (<a class=\"bibleref\" href=\"/passage/?search=Rom 16:25-Rom 16:27\">16:25–27</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,1,3", "romans,1,4" ],
+  "verses" : [ {
+    "verse" : "romans,1,3",
+    "text" : "regarding his Son, who as to his human nature was a descendant of David,"
+  }, {
+    "verse" : "romans,1,4",
+    "text" : "and who through the Spirit of holiness was declared with power to be the Son of God by his resurrection from the dead: Jesus Christ our Lord."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,1,3-romans,1,4",
     "id" : 197691,
@@ -23,7 +35,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 1:3\">1:3</a>, <a class=\"bibleref\" href=\"/passage/?search=Rom 1:4\">4</a></b> A description of the two stages of the Savior’s ministry, rather than of His two natures. Although Son of God, He was “descended from David” in order to share our weakness, but was transformed by the “Spirit of holiness” at the Resurrection, and was brought into a new epoch of His personal human existence (<a class=\"bibleref\" href=\"/passage/?search=1Cor 15:45\">1 Cor. 15:45</a>; <a class=\"bibleref\" href=\"/passage/?search=2Cor 13:4\">2 Cor. 13:4</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,1,5", "romans,1,6" ],
+  "verses" : [ {
+    "verse" : "romans,1,5",
+    "text" : "Through him and for his name's sake, we received grace and apostleship to call people from among all the Gentiles to the obedience that comes from faith."
+  }, {
+    "verse" : "romans,1,6",
+    "text" : "And you also are among those who are called to belong to Jesus Christ."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,1,5-romans,1,6",
     "id" : 197692,
@@ -36,7 +54,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 1:5\">1:5</a></b> <b>obedience of faith.</b> Indicating both the obedience that flows from faith and the fact that faith implies obedient submission to the call of God (<a class=\"bibleref\" href=\"/passage/?search=Rom 16:26\">16:26</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,1,7" ],
+  "verses" : [ {
+    "verse" : "romans,1,7",
+    "text" : "To all in Rome who are loved by God and called to be saints: Grace and peace to you from God our Father and from the Lord Jesus Christ."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,1,7",
     "id" : 197694,
@@ -44,7 +65,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 1:7\">1:7</a></b> <b>Rome.</b> Capital of the empire. We have no certain knowledge of the founding of the Roman church, although visitors from Rome were among those who heard the gospel preached on the day of Pentecost (<a class=\"bibleref\" href=\"/passage/?search=Acts 2:10\">Acts 2:10</a>).</p><p><b>loved by God and called to be saints.</b> The terms used in the greeting will prove to be keynotes of the letter itself, as God’s calling, love, grace, and peace are explained at length.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,1,8" ],
+  "verses" : [ {
+    "verse" : "romans,1,8",
+    "text" : "First, I thank my God through Jesus Christ for all of you, because your faith is being reported all over the world."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,1,8",
     "id" : 197695,
@@ -52,7 +76,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 1:8\">1:8</a></b> <b>I thank my God.</b> Gratitude for God’s work of grace in others was a constant feature of Paul’s life (<a class=\"bibleref\" href=\"/passage/?search=1Cor 11:4\">1 Cor. 11:4</a>; <a class=\"bibleref\" href=\"/passage/?search=Phil 1:3\">Phil. 1:3</a>; <a class=\"bibleref\" href=\"/passage/?search=Col 1:3\">Col. 1:3</a>; <a class=\"bibleref\" href=\"/passage/?search=1Thess 1:2\">1 Thess. 1:2</a>; <a class=\"bibleref\" href=\"/passage/?search=2Thess 1:3\">2 Thess. 1:3</a>; <a class=\"bibleref\" href=\"/passage/?search=2Tim 3:1\">2 Tim. 3:1</a>; <a class=\"bibleref\" href=\"/passage/?search=Phlm 1:4\">Philem. 4</a>).</p><p><b>in all the world.</b> News had spread to the entire empire of the presence of Christians in its capital city.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,1,9", "romans,1,10" ],
+  "verses" : [ {
+    "verse" : "romans,1,9",
+    "text" : "God, whom I serve with my whole heart in preaching the gospel of his Son, is my witness how constantly I remember you"
+  }, {
+    "verse" : "romans,1,10",
+    "text" : "in my prayers at all times; and I pray that now at last by God's will the way may be opened for me to come to you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,1,9",
     "id" : 197696,
@@ -60,7 +90,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 1:9\">1:9</a></b> <b>I mention you.</b> Paul’s constant prayerfulness is an expression of his wholehearted service and desire for spiritual usefulness. He prays in full submission to God’s will (<a class=\"bibleref\" href=\"/passage/?search=Rom 1:9-Rom 1:12\">vv. 9–12</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Eph 1:15\">Eph. 1:15</a>; <a class=\"bibleref\" href=\"/passage/?search=Phil 1:9\">Phil. 1:9</a>; <a class=\"bibleref\" href=\"/passage/?search=Col 1:9\">Col. 1:9</a>; <a class=\"bibleref\" href=\"/passage/?search=1Thess 1:3\">1 Thess. 1:3</a>; <a class=\"bibleref\" href=\"/passage/?search=2Thess 1:11\">2 Thess. 1:11</a>; <a class=\"bibleref\" href=\"/passage/?search=2Tim 1:3\">2 Tim. 1:3</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,1,11" ],
+  "verses" : [ {
+    "verse" : "romans,1,11",
+    "text" : "I long to see you so that I may impart to you some spiritual gift to make you strong--"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,1,11",
     "id" : 197697,
@@ -68,7 +101,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 1:11\">1:11</a></b> <b>spiritual gift.</b> Here the term is not used in the functional sense of <a class=\"bibleref\" href=\"/passage/?search=1Cor 12:1\">1 Cor. 12:1</a>; Paul has in view rather the benefit that flows from exercising functional gifts in ministry to others.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,1,12" ],
+  "verses" : [ {
+    "verse" : "romans,1,12",
+    "text" : "that is, that you and I may be mutually encouraged by each other's faith."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,1,12",
     "id" : 197698,
@@ -76,7 +112,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 1:12\">1:12</a></b> <b>mutually encouraged.</b> Ministry is for the mutual strengthening of the whole body of Christ (<a class=\"bibleref\" href=\"/passage/?search=Eph 4:15\">Eph. 4:15</a>, <a class=\"bibleref\" href=\"/passage/?search=Eph 4:16\">16</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,1,13" ],
+  "verses" : [ {
+    "verse" : "romans,1,13",
+    "text" : "I do not want you to be unaware, brothers, that I planned many times to come to you (but have been prevented from doing so until now) in order that I might have a harvest among you, just as I have had among the other Gentiles."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,1,13",
     "id" : 197699,
@@ -84,7 +123,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 1:13\">1:13</a></b> <b>often intended.</b> No record of these many occasions exists, but see <a class=\"bibleref\" href=\"/passage/?search=Acts 19:21\">Acts 19:21</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 23:11\">23:11</a> for Paul’s sense of being driven by God towards Rome.</p><p><b>prevented.</b> Probably by other, regular responsibilities. See <a class=\"bibleref\" href=\"/passage/?search=Acts 16:6\">Acts 16:6</a>, <a class=\"bibleref\" href=\"/passage/?search=Acts 16:7\">7</a> for interruptions in Paul’s plans caused either by the inward counsel of the Holy Spirit or by prophetic utterance.</p><p><b>among the rest of the Gentiles.</b> This suggests that Paul thought of the Roman church as predominantly Gentile.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,1,14", "romans,1,15" ],
+  "verses" : [ {
+    "verse" : "romans,1,14",
+    "text" : "I am obligated both to Greeks and non-Greeks, both to the wise and the foolish."
+  }, {
+    "verse" : "romans,1,15",
+    "text" : "That is why I am so eager to preach the gospel also to you who are at Rome."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,1,14",
     "id" : 197700,
@@ -92,7 +137,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 1:14\">1:14</a></b> <b>under obligation.</b> Paul’s planning (<a class=\"bibleref\" href=\"/passage/?search=Rom 1:13\">v. 13</a>) and his expectation (<a class=\"bibleref\" href=\"/passage/?search=Rom 1:14\">v. 14</a>) are rooted in a sense of obligation. He has been given the gospel for the Gentiles (<a class=\"bibleref\" href=\"/passage/?search=Rom 11:13\">11:13</a>, <a class=\"bibleref\" href=\"/passage/?search=Rom 11:14\">14</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Eph 3:1-Eph 3:8\">Eph. 3:1–8</a>).</p><p><b>Greeks.</b> The cultured Hellenistic world (the “wise”).</p><p><b>barbarians.</b> The uncultured, “foolish” of the ancient world (see text note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,1,16" ],
+  "verses" : [ {
+    "verse" : "romans,1,16",
+    "text" : "I am not ashamed of the gospel, because it is the power of God for the salvation of everyone who believes: first for the Jew, then for the Gentile."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,1,16",
     "id" : 197701,
@@ -100,7 +148,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 1:16\">1:16</a></b> <b>I am not ashamed of the gospel.</b> Although the gospel is folly to the cultured, Paul sees his message as divine wisdom (<a class=\"bibleref\" href=\"/passage/?search=1Cor 1:22-1Cor 1:25\">1 Cor. 1:22–25</a>, <a class=\"bibleref\" href=\"/passage/?search=1Cor 1:30\">30</a>), and is not embarrassed by God’s way of salvation. See “Salvation” at <a class=\"bibleref\" href=\"/passage/?search=2Cor 6:5\">2 Cor. 6:5</a>.</p><p><b>power.</b> The regenerating, life-changing impact of the gospel word through the Holy Spirit is essential because of humanity’s bondage to sin and Satan, and weakness and spiritual inability on account of sin (5:6; 8:5–9).</p><p><b>believes.</b> Salvation is unmerited, but it is not universally enjoyed; faith is required for it.</p><p><b>to the Jew first.</b> While this was true in terms of the history of redemption (2:9, 10; <a class=\"bibleref\" href=\"/passage/?search=John 4:22\">John 4:22</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Mark 7:24-Mark 7:30\">Mark 7:24–30</a>), it was also the pattern of Paul’s missionary outreach. Hence, in visiting the cities of the Roman world he began by expounding Scripture in the synagogues where possible, and he preached Christ as the fulfillment of the Old Testament promises (<a class=\"bibleref\" href=\"/passage/?search=Acts 9:20\">Acts 9:20</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 13:5\">13:5</a>, <a class=\"bibleref\" href=\"/passage/?search=Acts 13:14\">14</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 14:1\">14:1</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 17:1\">17:1</a>, <a class=\"bibleref\" href=\"/passage/?search=Acts 17:17\">17</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 18:4\">18:4</a>, <a class=\"bibleref\" href=\"/passage/?search=Acts 18:19\">19</a>, <a class=\"bibleref\" href=\"/passage/?search=Acts 18:26\">26</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 19:8\">19:8</a>). Throughout Romans, Paul is careful not to deny the validity of the God-given privileges of His own people (3:11, 12; 9:4, 5).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,1,17" ],
+  "verses" : [ {
+    "verse" : "romans,1,17",
+    "text" : "For in the gospel a righteousness from God is revealed, a righteousness that is by faith from first to last, just as it is written: \"The righteous will live by faith.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,1,17",
     "id" : 197702,

@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,12,15" ],
+  "verses" : [ {
+    "verse" : "proverbs,12,15",
+    "text" : "The way of a fool seems right to him, but a wise man listens to advice."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 12:15\">12:15</a></b> The fool thinks he knows better than others. The wise person is humble enough to learn from the experience of others and has the ability to discern what is good counsel (<a class=\"bibleref\" href=\"/passage/?search=Prov 12:1\">v. 1</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,12,16" ],
+  "verses" : [ {
+    "verse" : "proverbs,12,16",
+    "text" : "A fool shows his annoyance at once, but a prudent man overlooks an insult."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,12,16",
     "id" : 191912,
@@ -20,7 +26,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 12:16\">12:16</a></b> Self-control is characteristic of the wise. The fool reacts too strongly and too soon, destroying relationships. The wise person leaves the way open for reconciliation.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,12,17" ],
+  "verses" : [ {
+    "verse" : "proverbs,12,17",
+    "text" : "A truthful witness gives honest testimony, but a false witness tells lies."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,12,17",
     "id" : 191913,

@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,21,28" ],
+  "verses" : [ {
+    "verse" : "proverbs,21,28",
+    "text" : "A false witness will perish, and whoever listens to him will be destroyed forever."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 21:28\">21:28</a></b> See <a class=\"bibleref\" href=\"/passage/?search=Prov 14:25\">14:25</a>; <a class=\"bibleref\" href=\"/passage/?search=Prov 19:5\">19:5</a>, <a class=\"bibleref\" href=\"/passage/?search=Prov 19:9\">9</a> and notes.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,21,29" ],
+  "verses" : [ {
+    "verse" : "proverbs,21,29",
+    "text" : "A wicked man puts up a bold front, but an upright man gives thought to his ways."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,21,29",
     "id" : 192143,

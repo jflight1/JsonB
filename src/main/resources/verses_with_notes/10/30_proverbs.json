@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,26,21" ],
+  "verses" : [ {
+    "verse" : "proverbs,26,21",
+    "text" : "As charcoal to embers and as wood to fire, so is a quarrelsome man for kindling strife."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,26,21",
     "id" : 192265,
@@ -7,7 +10,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 26:21\">26:21</a></b> <b>quarrelsome man.</b> Such people are not happy unless they are actively undermining personal relationships.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,26,22" ],
+  "verses" : [ {
+    "verse" : "proverbs,26,22",
+    "text" : "The words of a gossip are like choice morsels; they go down to a man's inmost parts."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,26,22",
     "id" : 192266,

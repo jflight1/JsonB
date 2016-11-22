@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,77,1" ],
+  "verses" : [ {
+    "verse" : "psalms,77,1",
+    "text" : "I cried out to God for help; I cried out to God to hear me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,77,1-psalms,77,20",
     "id" : 190893,
@@ -7,7 +10,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 77\">Ps. 77</a></b> An individual prays on behalf of the community (vv. 7–9). A deep lament is followed by eloquent memory of the Exodus.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,77,2", "psalms,77,3", "psalms,77,4" ],
+  "verses" : [ {
+    "verse" : "psalms,77,2",
+    "text" : "When I was in distress, I sought the Lord; at night I stretched out untiring hands and my soul refused to be comforted."
+  }, {
+    "verse" : "psalms,77,3",
+    "text" : "I remembered you, O God, and I groaned; I mused, and my spirit grew faint. Selah"
+  }, {
+    "verse" : "psalms,77,4",
+    "text" : "You kept my eyes from closing; I was too troubled to speak."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,77,2",
     "id" : 190894,
@@ -15,7 +27,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 77:2\">77:2</a></b> <b>my hand is stretched out.</b> A common gesture of prayer was reaching out toward heaven.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,77,5", "psalms,77,6" ],
+  "verses" : [ {
+    "verse" : "psalms,77,5",
+    "text" : "I thought about the former days, the years of long ago;"
+  }, {
+    "verse" : "psalms,77,6",
+    "text" : "I remembered my songs in the night. My heart mused and my spirit inquired:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,77,5",
     "id" : 190895,
@@ -23,7 +41,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 77:5\">77:5</a></b> <b>the days of old.</b> The days when God was near and acted to save Israel from its distress.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,77,7", "psalms,77,8" ],
+  "verses" : [ {
+    "verse" : "psalms,77,7",
+    "text" : "\"Will the Lord reject forever? Will he never show his favor again?"
+  }, {
+    "verse" : "psalms,77,8",
+    "text" : "Has his unfailing love vanished forever? Has his promise failed for all time?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,77,7",
     "id" : 190896,
@@ -31,7 +55,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 77:7\">77:7</a></b> <b>spurn.</b> The Lord’s promise to be with His people required their obedience. Though God was longsuffering, at times His patience would run out (<a class=\"bibleref\" href=\"/passage/?search=1Sam 4\">1 Sam. 4</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 9-Ezek 11\">Ezek. 9–11</a>; Lamentations).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,77,9" ],
+  "verses" : [ {
+    "verse" : "psalms,77,9",
+    "text" : "Has God forgotten to be merciful? Has he in anger withheld his compassion?\" Selah"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,77,9",
     "id" : 190897,
@@ -39,7 +66,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 77:9\">77:9</a></b> <b>Has God forgotten to be gracious.</b> It is impossible that God should cease to be merciful, but the distress of life elicits these questions in the psalmist.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,77,10", "psalms,77,11", "psalms,77,12" ],
+  "verses" : [ {
+    "verse" : "psalms,77,10",
+    "text" : "Then I thought, \"To this I will appeal: the years of the right hand of the Most High.\""
+  }, {
+    "verse" : "psalms,77,11",
+    "text" : "I will remember the deeds of the LORD; yes, I will remember your miracles of long ago."
+  }, {
+    "verse" : "psalms,77,12",
+    "text" : "I will meditate on all your works and consider all your mighty deeds."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,77,10",
     "id" : 190898,
@@ -47,7 +83,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 77:10\">77:10</a></b> <b>I will appeal to this.</b> This verse provides a crucial transition in the psalm. By remembering God’s great acts in the past, the poet builds confidence in the present and for the future.</p><p><b>years of the right hand.</b> When God’s power was seen to act for them (<a class=\"bibleref\" href=\"/passage/?search=Exod 15:6\">Ex. 15:6</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,77,13", "psalms,77,14" ],
+  "verses" : [ {
+    "verse" : "psalms,77,13",
+    "text" : "Your ways, O God, are holy. What god is so great as our God?"
+  }, {
+    "verse" : "psalms,77,14",
+    "text" : "You are the God who performs miracles; you display your power among the peoples."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,77,13",
     "id" : 190899,
@@ -55,7 +97,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 77:13\">77:13</a></b> <b>great.</b> As the writer remembers God’s great acts in the past, he is reminded of God’s attributes: His holiness and His unique power.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,77,15" ],
+  "verses" : [ {
+    "verse" : "psalms,77,15",
+    "text" : "With your mighty arm you redeemed your people, the descendants of Jacob and Joseph. Selah"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,77,15",
     "id" : 190900,
@@ -63,7 +108,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 77:15\">77:15</a></b> <b>redeemed your people.</b> The context shows that the psalmist has in mind the deliverance of Israel from Egypt.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,77,16", "psalms,77,17", "psalms,77,18" ],
+  "verses" : [ {
+    "verse" : "psalms,77,16",
+    "text" : "The waters saw you, O God, the waters saw you and writhed; the very depths were convulsed."
+  }, {
+    "verse" : "psalms,77,17",
+    "text" : "The clouds poured down water, the skies resounded with thunder; your arrows flashed back and forth."
+  }, {
+    "verse" : "psalms,77,18",
+    "text" : "Your thunder was heard in the whirlwind, your lightning lit up the world; the earth trembled and quaked."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,77,16",
     "id" : 190901,
@@ -71,7 +125,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 77:16\">77:16</a></b> <b>waters.</b> In this poetic remembrance of the Exodus, the waters of the Red Sea are personified. In this way the crossing of the Red Sea is pictured as a battle against the waters of chaos (<a class=\"bibleref\" href=\"/passage/?search=Ps 18:4\">18:4</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 29:3\">29:3</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 29:10\">10</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 46:2\">46:2</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 46:3\">3</a> and notes).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,77,19" ],
+  "verses" : [ {
+    "verse" : "psalms,77,19",
+    "text" : "Your path led through the sea, your way through the mighty waters, though your footprints were not seen."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,77,19",
     "id" : 190902,
@@ -79,7 +136,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 77:19\">77:19</a></b> <b>your footprints were unseen.</b> God’s action was from above, not controlled by the constraints of earthly conditions.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,77,20" ],
+  "verses" : [ {
+    "verse" : "psalms,77,20",
+    "text" : "You led your people like a flock by the hand of Moses and Aaron."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,77,20",
     "id" : 190903,

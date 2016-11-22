@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,25,9" ],
+  "verses" : [ {
+    "verse" : "proverbs,25,9",
+    "text" : "If you argue your case with a neighbor, do not betray another man's confidence,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,25,9",
     "id" : 192233,
@@ -7,7 +10,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 25:9\">25:9</a></b> <b>do not reveal another’s secret.</b> Do not involve others in a dispute.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,25,10" ],
+  "verses" : [ {
+    "verse" : "proverbs,25,10",
+    "text" : "or he who hears it may shame you and you will never lose your bad reputation."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,25,10",
     "id" : 192234,

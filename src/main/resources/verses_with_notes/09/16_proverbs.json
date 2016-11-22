@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "proverbs,23,15", "proverbs,23,16" ],
+  "verses" : [ {
+    "verse" : "proverbs,23,15",
+    "text" : "My son, if your heart is wise, then my heart will be glad;"
+  }, {
+    "verse" : "proverbs,23,16",
+    "text" : "my inmost being will rejoice when your lips speak what is right."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,22,17-proverbs,24,22",
     "id" : 192162,

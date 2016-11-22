@@ -1,5 +1,14 @@
 [ {
-  "singleVerses" : [ "john,8,21", "john,8,22", "john,8,23" ],
+  "verses" : [ {
+    "verse" : "john,8,21",
+    "text" : "Once more Jesus said to them, \"I am going away, and you will look for me, and you will die in your sin. Where I go, you cannot come.\""
+  }, {
+    "verse" : "john,8,22",
+    "text" : "This made the Jews ask, \"Will he kill himself? Is that why he says, 'Where I go, you cannot come'?\""
+  }, {
+    "verse" : "john,8,23",
+    "text" : "But he continued, \"You are from below; I am from above. You are of this world; I am not of this world."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,8,21",
     "id" : 197046,
@@ -7,7 +16,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 8:21\">8:21</a></b> <b>I am going away.</b> Jesus speaks of His death, resurrection, and ascension.</p><p><b>die in your sin.</b> Jesus clearly states the two destinies of humanity. Not all will be saved; some cannot go where Jesus is going. The only way of salvation is to believe (<a class=\"bibleref\" href=\"/passage/?search=John 8:24\">v. 24</a>; <a class=\"bibleref\" href=\"/passage/?search=John 3:16\">3:16</a>, <a class=\"bibleref\" href=\"/passage/?search=John 3:18\">18</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,8,24", "john,8,25", "john,8,26", "john,8,27" ],
+  "verses" : [ {
+    "verse" : "john,8,24",
+    "text" : "I told you that you would die in your sins; if you do not believe that I am the one I claim to be, you will indeed die in your sins.\""
+  }, {
+    "verse" : "john,8,25",
+    "text" : "\"Who are you?\" they asked."
+  }, {
+    "verse" : "john,8,26",
+    "text" : "\"Just what I have been claiming all along,\" Jesus replied. \"I have much to say in judgment of you. But he who sent me is reliable, and what I have heard from him I tell the world.\""
+  }, {
+    "verse" : "john,8,27",
+    "text" : "They did not understand that he was telling them about his Father."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,8,24-john,8,28",
     "id" : 197047,
@@ -15,7 +36,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 8:24\">8:24</a>, <a class=\"bibleref\" href=\"/passage/?search=John 8:28\">28</a> I am he.</b> Here Jesus applies Old Testament language for Yahweh to Himself (<a class=\"bibleref\" href=\"/passage/?search=Exod 3:14\">Ex. 3:14</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 43:10\">Is. 43:10</a>), an identification that becomes unambiguous in v. 58.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,8,28", "john,8,29" ],
+  "verses" : [ {
+    "verse" : "john,8,28",
+    "text" : "So Jesus said, \"When you have lifted up the Son of Man, then you will know that I am the one I claim to be and that I do nothing on my own but speak just what the Father has taught me."
+  }, {
+    "verse" : "john,8,29",
+    "text" : "The one who sent me is with me; he has not left me alone, for I always do what pleases him.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,8,28",
     "id" : 197048,
@@ -23,7 +50,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 8:28\">8:28</a></b> <b>lifted up.</b> See note at <a class=\"bibleref\" href=\"/passage/?search=John 3:14\">3:14</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,8,30" ],
+  "verses" : [ {
+    "verse" : "john,8,30",
+    "text" : "Even as he spoke, many put their faith in him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,8,30",
     "id" : 197049,

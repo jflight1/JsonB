@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,18,19" ],
+  "verses" : [ {
+    "verse" : "proverbs,18,19",
+    "text" : "An offended brother is more unyielding than a fortified city, and disputes are like the barred gates of a citadel."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

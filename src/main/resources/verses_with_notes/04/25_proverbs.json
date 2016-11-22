@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,14,3" ],
+  "verses" : [ {
+    "verse" : "proverbs,14,3",
+    "text" : "A fool's talk brings a rod to his back, but the lips of the wise protect them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 14:3\">14:3</a></b> See <a class=\"bibleref\" href=\"/passage/?search=Prov 10:13\">10:13</a> and note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,14,4" ],
+  "verses" : [ {
+    "verse" : "proverbs,14,4",
+    "text" : "Where there are no oxen, the manger is empty, but from the strength of an ox comes an abundant harvest."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,14,4",
     "id" : 191947,

@@ -1,5 +1,14 @@
 [ {
-  "singleVerses" : [ "psalms,126,1", "psalms,126,2", "psalms,126,3" ],
+  "verses" : [ {
+    "verse" : "psalms,126,1",
+    "text" : "When the LORD brought back the captives to Zion, we were like men who dreamed."
+  }, {
+    "verse" : "psalms,126,2",
+    "text" : "Our mouths were filled with laughter, our tongues with songs of joy. Then it was said among the nations, \"The LORD has done great things for them.\""
+  }, {
+    "verse" : "psalms,126,3",
+    "text" : "The LORD has done great things for us, and we are filled with joy."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,126,1",
     "id" : 191442,
@@ -7,7 +16,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 126:1\">126:1</a></b> <b>When the <span class=\"small-caps\">Lord</span> restored the fortunes of Zion.</b> The allusion is to the return from Babylonian exile in the sixth century <span class=\"small-caps\">b.c.</span>, when the captive people of Israel were permitted to return to their country (see books of Ezra, Nehemiah). Cyrus’s decision to allow the return was not the mere result of political policy, but of God’s intervention.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,126,4" ],
+  "verses" : [ {
+    "verse" : "psalms,126,4",
+    "text" : "Restore our fortunes, O LORD, like streams in the Negev."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,126,4",
     "id" : 191443,
@@ -15,7 +27,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 126:4\">126:4</a></b> <b>Restore our fortunes.</b> Restoration from captivity meant more than a physical return to the land. God’s covenantal presence was still needed.</p><p><b>like streams in the Negeb.</b> The south of Israel is dry, and in a rainstorm the wadi (seasonal streambeds) become dangerous floods.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,126,5", "psalms,126,6" ],
+  "verses" : [ {
+    "verse" : "psalms,126,5",
+    "text" : "Those who sow in tears will reap with songs of joy."
+  }, {
+    "verse" : "psalms,126,6",
+    "text" : "He who goes out weeping, carrying seed to sow, will return with songs of joy, carrying sheaves with him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,126,5",
     "id" : 191444,

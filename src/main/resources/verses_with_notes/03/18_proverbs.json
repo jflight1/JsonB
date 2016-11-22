@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,11,16" ],
+  "verses" : [ {
+    "verse" : "proverbs,11,16",
+    "text" : "A kindhearted woman gains respect, but ruthless men gain only wealth."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -17,7 +20,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 11:16\">11:16</a></b> These opposed parallel thoughts (antithetic parallelism) perhaps teach the desirability of respect over mere wealth (<a class=\"bibleref\" href=\"/passage/?search=Prov 22:1\">22:1</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Eccl 7:1\">Eccl. 7:1</a>). Alternatively, the sense may be that the gracious woman retains honor as surely as the ruthless acquire riches.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,11,17" ],
+  "verses" : [ {
+    "verse" : "proverbs,11,17",
+    "text" : "A kind man benefits himself, but a cruel man brings trouble on himself."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,11,17",
     "id" : 191886,

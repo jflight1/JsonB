@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "genesis,31,17" ],
+  "verses" : [ {
+    "verse" : "genesis,31,17",
+    "text" : "Then Jacob put his children and his wives on camels,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,25,19-genesis,35,29",
     "id" : 185165,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 31\">31:1–55</a></b> In fulfillment of His promise in <a class=\"bibleref\" href=\"/passage/?search=Gen 28:15\">28:15</a>, the Lord led a chastened Jacob back to the Promised Land with great wealth at Laban’s expense, and over Laban’s opposition (v. 42). God remained faithful to His promises despite Jacob’s scheming and the pagan idolatry in his household (<a class=\"bibleref\" href=\"/passage/?search=Gen 28:19\">v. 19</a> and note; <a class=\"bibleref\" href=\"/passage/?search=Gen 28:20\">28:20</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,31,18" ],
+  "verses" : [ {
+    "verse" : "genesis,31,18",
+    "text" : "and he drove all his livestock ahead of him, along with all the goods he had accumulated in Paddan Aram, to go to his father Isaac in the land of Canaan."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,31,18",
     "id" : 185280,
@@ -20,7 +26,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 31:18\">31:18</a></b> <b>Paddan-aram.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Gen 25:20\">25:20</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,31,19", "genesis,31,20", "genesis,31,21", "genesis,31,22" ],
+  "verses" : [ {
+    "verse" : "genesis,31,19",
+    "text" : "When Laban had gone to shear his sheep, Rachel stole her father's household gods."
+  }, {
+    "verse" : "genesis,31,20",
+    "text" : "Moreover, Jacob deceived Laban the Aramean by not telling him he was running away."
+  }, {
+    "verse" : "genesis,31,21",
+    "text" : "So he fled with all he had, and crossing the River, he headed for the hill country of Gilead."
+  }, {
+    "verse" : "genesis,31,22",
+    "text" : "On the third day Laban was told that Jacob had fled."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,31,19",
     "id" : 185281,
@@ -28,7 +46,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 31:19\">31:19</a></b> <b>household gods.</b> Small household gods, or <i>teraphim</i> were thought to provide protection and were used in divination (<a class=\"bibleref\" href=\"/passage/?search=Gen 30:27\">30:27</a> note; <a class=\"bibleref\" href=\"/passage/?search=Ezek 21:21\">Ezek. 21:21</a>; <a class=\"bibleref\" href=\"/passage/?search=Zech 10:2\">Zech. 10:2</a>). Unlike Sarah and Rebekah, Rachel had not given up her pagan idols or ethics (vv. 34, 35; 35:2).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,31,23" ],
+  "verses" : [ {
+    "verse" : "genesis,31,23",
+    "text" : "Taking his relatives with him, he pursued Jacob for seven days and caught up with him in the hill country of Gilead."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,31,23",
     "id" : 185282,
@@ -36,7 +57,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 31:23\">31:23</a></b> <b>his kinsmen.</b> Laban had military superiority (<a class=\"bibleref\" href=\"/passage/?search=Gen 31:29\">v. 29</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,31,24", "genesis,31,25", "genesis,31,26" ],
+  "verses" : [ {
+    "verse" : "genesis,31,24",
+    "text" : "Then God came to Laban the Aramean in a dream at night and said to him, \"Be careful not to say anything to Jacob, either good or bad.\""
+  }, {
+    "verse" : "genesis,31,25",
+    "text" : "Jacob had pitched his tent in the hill country of Gilead when Laban overtook him, and Laban and his relatives camped there too."
+  }, {
+    "verse" : "genesis,31,26",
+    "text" : "Then Laban said to Jacob, \"What have you done? You've deceived me, and you've carried off my daughters like captives in war."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,31,24",
     "id" : 185283,
@@ -44,7 +74,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 31:24\">31:24</a></b> <b>God came.</b> God sovereignly protected Jacob as He had Abraham (<a class=\"bibleref\" href=\"/passage/?search=Gen 12:17\">12:17</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 20:3\">20:3</a>) and Isaac (<a class=\"bibleref\" href=\"/passage/?search=Gen 26:8\">26:8</a> and note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,31,27", "genesis,31,28" ],
+  "verses" : [ {
+    "verse" : "genesis,31,27",
+    "text" : "Why did you run off secretly and deceive me? Why didn't you tell me, so I could send you away with joy and singing to the music of tambourines and harps?"
+  }, {
+    "verse" : "genesis,31,28",
+    "text" : "You didn't even let me kiss my grandchildren and my daughters good-by. You have done a foolish thing."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,31,27",
     "id" : 185284,
@@ -52,7 +88,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 31:27\">31:27</a></b> <b>mirth . . . lyre.</b> Again Laban appealed to custom (cf. <a class=\"bibleref\" href=\"/passage/?search=Gen 29:26\">29:26</a>), this time complaining that the conventional departure ritual had not been followed (cf. <a class=\"bibleref\" href=\"/passage/?search=Gen 24:60\">24:60</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,31,29", "genesis,31,30", "genesis,31,31", "genesis,31,32", "genesis,31,33" ],
+  "verses" : [ {
+    "verse" : "genesis,31,29",
+    "text" : "I have the power to harm you; but last night the God of your father said to me, 'Be careful not to say anything to Jacob, either good or bad.'"
+  }, {
+    "verse" : "genesis,31,30",
+    "text" : "Now you have gone off because you longed to return to your father's house. But why did you steal my gods?\""
+  }, {
+    "verse" : "genesis,31,31",
+    "text" : "Jacob answered Laban, \"I was afraid, because I thought you would take your daughters away from me by force."
+  }, {
+    "verse" : "genesis,31,32",
+    "text" : "But if you find anyone who has your gods, he shall not live. In the presence of our relatives, see for yourself whether there is anything of yours here with me; and if so, take it.\" Now Jacob did not know that Rachel had stolen the gods."
+  }, {
+    "verse" : "genesis,31,33",
+    "text" : "So Laban went into Jacob's tent and into Leah's tent and into the tent of the two maidservants, but he found nothing. After he came out of Leah's tent, he entered Rachel's tent."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,31,29",
     "id" : 185285,
@@ -60,7 +111,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 31:29\">31:29</a></b> <b>It is in my power to . . . harm.</b> See <a class=\"bibleref\" href=\"/passage/?search=Gen 31:23\">v. 23</a> and note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,31,34" ],
+  "verses" : [ {
+    "verse" : "genesis,31,34",
+    "text" : "Now Rachel had taken the household gods and put them inside her camel's saddle and was sitting on them. Laban searched through everything in the tent but found nothing."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,31,34",
     "id" : 185286,
@@ -68,7 +122,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 31:34\">31:34</a></b> <b>Rachel . . . sat on them.</b> The narrative ridicules the false gods—here the powerless idols were sat on by a menstruating woman (<a class=\"bibleref\" href=\"/passage/?search=Gen 31:35\">v. 35</a> note; <a class=\"bibleref\" href=\"/passage/?search=Lev 15:19-Lev 15:24\">Lev. 15:19–24</a>).</p><p><b>felt all about.</b> Trusting in their senses, neither Isaac nor Laban discovered the truth (27:18–27 note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,31,35", "genesis,31,36", "genesis,31,37", "genesis,31,38" ],
+  "verses" : [ {
+    "verse" : "genesis,31,35",
+    "text" : "Rachel said to her father, \"Don't be angry, my lord, that I cannot stand up in your presence; I'm having my period.\" So he searched but could not find the household gods."
+  }, {
+    "verse" : "genesis,31,36",
+    "text" : "Jacob was angry and took Laban to task. \"What is my crime?\" he asked Laban. \"What sin have I committed that you hunt me down?"
+  }, {
+    "verse" : "genesis,31,37",
+    "text" : "Now that you have searched through all my goods, what have you found that belongs to your household? Put it here in front of your relatives and mine, and let them judge between the two of us."
+  }, {
+    "verse" : "genesis,31,38",
+    "text" : "\"I have been with you for twenty years now. Your sheep and goats have not miscarried, nor have I eaten rams from your flocks."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,31,35",
     "id" : 185287,
@@ -76,7 +142,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 31:35\">31:35</a></b> <b>the way of women.</b> The time of her menstrual period. The Mosaic law later specified that women were ceremonially unclean at this time (<a class=\"bibleref\" href=\"/passage/?search=Lev 15:19-Lev 15:24\">Lev. 15:19–24</a>). As in ch. 27, the younger child deceived the father.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,31,39", "genesis,31,40", "genesis,31,41" ],
+  "verses" : [ {
+    "verse" : "genesis,31,39",
+    "text" : "I did not bring you animals torn by wild beasts; I bore the loss myself. And you demanded payment from me for whatever was stolen by day or night."
+  }, {
+    "verse" : "genesis,31,40",
+    "text" : "This was my situation: The heat consumed me in the daytime and the cold at night, and sleep fled from my eyes."
+  }, {
+    "verse" : "genesis,31,41",
+    "text" : "It was like this for the twenty years I was in your household. I worked for you fourteen years for your two daughters and six years for your flocks, and you changed my wages ten times."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,31,39",
     "id" : 185288,
@@ -84,7 +159,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 31:39\">31:39</a></b> <b>I bore the loss.</b> According to ancient laws specifying the responsibilities of shepherds, such as those in the Code of Hammurabi (c. 1750 <span class=\"small-caps\">b.c.</span>), Jacob should not have been liable for the loss.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,31,42" ],
+  "verses" : [ {
+    "verse" : "genesis,31,42",
+    "text" : "If the God of my father, the God of Abraham and the Fear of Isaac, had not been with me, you would surely have sent me away empty-handed. But God has seen my hardship and the toil of my hands, and last night he rebuked you.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,31,42",
     "id" : 185289,
@@ -92,7 +170,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 31:42\">31:42</a></b> <b>If the God . . . on my side.</b> See <a class=\"bibleref\" href=\"/passage/?search=Gen 28:15\">28:15</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 28:20\">20</a> and notes.</p><p><b>the Fear of Isaac.</b> Or, “the Awesome One of Isaac.” See v. 53 and note.</p><p><b>sent me away empty-handed.</b> An allusion to one of Laban’s more conspicuous faults—his failure to pay workers their just wages (<a class=\"bibleref\" href=\"/passage/?search=Gen 29:25\">29:25</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 31:7\">31:7</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 31:41\">41</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,31,43" ],
+  "verses" : [ {
+    "verse" : "genesis,31,43",
+    "text" : "Laban answered Jacob, \"The women are my daughters, the children are my children, and the flocks are my flocks. All you see is mine. Yet what can I do today about these daughters of mine, or about the children they have borne?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,31,43",
     "id" : 185290,
@@ -100,7 +181,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 31:43\">31:43</a></b> <b>all that you see is mine.</b> Laban’s claim shows that Jacob’s fears had been justified (<a class=\"bibleref\" href=\"/passage/?search=Gen 31:31\">v. 31</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,31,44", "genesis,31,45", "genesis,31,46", "genesis,31,47", "genesis,31,48", "genesis,31,49" ],
+  "verses" : [ {
+    "verse" : "genesis,31,44",
+    "text" : "Come now, let's make a covenant, you and I, and let it serve as a witness between us.\""
+  }, {
+    "verse" : "genesis,31,45",
+    "text" : "So Jacob took a stone and set it up as a pillar."
+  }, {
+    "verse" : "genesis,31,46",
+    "text" : "He said to his relatives, \"Gather some stones.\" So they took stones and piled them in a heap, and they ate there by the heap."
+  }, {
+    "verse" : "genesis,31,47",
+    "text" : "Laban called it Jegar Sahadutha, and Jacob called it Galeed."
+  }, {
+    "verse" : "genesis,31,48",
+    "text" : "Laban said, \"This heap is a witness between you and me today.\" That is why it was called Galeed."
+  }, {
+    "verse" : "genesis,31,49",
+    "text" : "It was also called Mizpah, because he said, \"May the LORD keep watch between you and me when we are away from each other."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,31,44",
     "id" : 185291,
@@ -108,7 +207,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 31:44\">31:44</a></b> <b>make a covenant.</b> This covenant, or “treaty,” was like the nonaggression treaties Abraham and Isaac made with the Philistines (<a class=\"bibleref\" href=\"/passage/?search=Gen 21:27\">21:27</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 26:28\">26:28</a>), but unlike the covenant God made with Abraham (<a class=\"bibleref\" href=\"/passage/?search=Gen 15:8\">15:8</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,31,50", "genesis,31,51" ],
+  "verses" : [ {
+    "verse" : "genesis,31,50",
+    "text" : "If you mistreat my daughters or if you take any wives besides my daughters, even though no one is with us, remember that God is a witness between you and me.\""
+  }, {
+    "verse" : "genesis,31,51",
+    "text" : "Laban also said to Jacob, \"Here is this heap, and here is this pillar I have set up between you and me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,31,50",
     "id" : 185292,
@@ -116,7 +221,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 31:50\">31:50</a></b> <b>wives besides my daughters.</b> Terah’s family valued the family structure, in contrast to the Canaanites (<a class=\"bibleref\" href=\"/passage/?search=Gen 24:3\">24:3</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 24:4\">4</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 26:34\">26:34</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 26:35\">35</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 27:46\">27:46</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 28:9\">28:9</a> and notes). This prohibition was found commonly in marriage contracts from the ancient Near East.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,31,52" ],
+  "verses" : [ {
+    "verse" : "genesis,31,52",
+    "text" : "This heap is a witness, and this pillar is a witness, that I will not go past this heap to your side to harm you and that you will not go past this heap and pillar to my side to harm me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,31,52",
     "id" : 185293,
@@ -124,7 +232,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 31:52\">31:52 a</a></b> <b>witness.</b> It was assumed that the terms of the treaty would be passed on faithfully through generations.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,31,53", "genesis,31,54" ],
+  "verses" : [ {
+    "verse" : "genesis,31,53",
+    "text" : "May the God of Abraham and the God of Nahor, the God of their father, judge between us.\" So Jacob took an oath in the name of the Fear of his father Isaac."
+  }, {
+    "verse" : "genesis,31,54",
+    "text" : "He offered a sacrifice there in the hill country and invited his relatives to a meal. After they had eaten, they spent the night there."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,31,53",
     "id" : 185294,
@@ -132,7 +246,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 31:53\">31:53</a></b> <b>The God of Abraham . . . Nahor . . . father.</b> The pagan Laban apparently regarded the God of Abraham as one of the gods of his family. Terah, the father of Abraham and Nahor, had probably been a moon-worshiper in Ur (<a class=\"bibleref\" href=\"/passage/?search=Gen 11:27\">11:27</a> note; <a class=\"bibleref\" href=\"/passage/?search=Josh 24:14\">Josh. 24:14</a>).</p><p><b>Fear of his father Isaac.</b> Not equating the God of Abraham with the God of Nahor, Jacob swore by the “Fear of his father Isaac” (v. 42 note), another name for the God of Abraham.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,31,55" ],
+  "verses" : [ {
+    "verse" : "genesis,31,55",
+    "text" : "Early the next morning Laban kissed his grandchildren and his daughters and blessed them. Then he left and returned home."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,31,55",
     "id" : 185295,
@@ -140,7 +257,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 31:55\">31:55</a></b> <b>blessed.</b> See <a class=\"bibleref\" href=\"/passage/?search=Gen 24:60\">24:60</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 27:7\">27:7</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 28:1\">28:1</a> and notes.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,32,1" ],
+  "verses" : [ {
+    "verse" : "genesis,32,1",
+    "text" : "Jacob also went on his way, and the angels of God met him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,32,1",
     "id" : 185296,
@@ -148,7 +268,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 32:1\">32:1</a></b> <b>angels of God.</b> Jacob again encountered the angels of God whom he met at Bethel (<a class=\"bibleref\" href=\"/passage/?search=Gen 28:12\">28:12</a>). These angelic encounters upon leaving and returning to the Promised Land frame Jacob’s experiences with Laban (<a class=\"bibleref\" href=\"/passage/?search=Gen 28:10-Gen 28:22\">28:10–22</a> note) and attest to God’s promise to be with and protect Jacob wherever he went (<a class=\"bibleref\" href=\"/passage/?search=Gen 28:15\">28:15</a>).</p><p>Faithful to His promise, God had been with Jacob—not only protecting him, but also remaking his character. The formerly prayerless and ambitiously deceptive Jacob was now a humble man of prayer (<a class=\"bibleref\" href=\"/passage/?search=Gen 28:9-Gen 28:12\">vv. 9–12</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,32,2" ],
+  "verses" : [ {
+    "verse" : "genesis,32,2",
+    "text" : "When Jacob saw them, he said, \"This is the camp of God!\" So he named that place Mahanaim."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,32,2",
     "id" : 185297,
@@ -156,7 +279,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 32:2\">32:2</a></b> <b>Mahanaim.</b> See text note. Jacob may have had in mind both his camp and God’s camp, a heavenly shield and escort. As Bethel was the house of God and the gate of heaven (<a class=\"bibleref\" href=\"/passage/?search=Gen 28:17\">28:17</a>), Mahanaim was God’s camp on earth. Mahanaim later served as a capital for Saul’s son Ishbosheth (<a class=\"bibleref\" href=\"/passage/?search=2Sam 2:8\">2 Sam. 2:8</a>) and as a refuge for David during Absalom’s rebellion (<a class=\"bibleref\" href=\"/passage/?search=2Sam 17:24\">2 Sam. 17:24</a>). Mahanaim was situated east of the Jordan River near the River Jabbok, but its precise location is uncertain.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,32,3" ],
+  "verses" : [ {
+    "verse" : "genesis,32,3",
+    "text" : "Jacob sent messengers ahead of him to his brother Esau in the land of Seir, the country of Edom."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,32,3",
     "id" : 185298,
@@ -164,7 +290,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 32:3\">32:3</a></b> <b>Seir.</b> See <a class=\"bibleref\" href=\"/passage/?search=Gen 25:25\">25:25</a> and note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,32,4", "genesis,32,5" ],
+  "verses" : [ {
+    "verse" : "genesis,32,4",
+    "text" : "He instructed them: \"This is what you are to say to my master Esau: 'Your servant Jacob says, I have been staying with Laban and have remained there till now."
+  }, {
+    "verse" : "genesis,32,5",
+    "text" : "I have cattle and donkeys, sheep and goats, menservants and maidservants. Now I am sending this message to my lord, that I may find favor in your eyes.'\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,32,4-genesis,32,5",
     "id" : 185299,
@@ -172,7 +304,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 32:4\">32:4</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 32:5\">5</a></b> Jacob’s humble manner of address toward his brother and former rival suggests that his character change was real (<a class=\"bibleref\" href=\"/passage/?search=Gen 32:1\">v. 1</a> note). Like Abraham with Lot (<a class=\"bibleref\" href=\"/passage/?search=Gen 13:8\">13:8</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 13:9\">9</a>), Jacob did not insist on his covenantal privileges but left the matter in God’s hands.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,32,6", "genesis,32,7", "genesis,32,8" ],
+  "verses" : [ {
+    "verse" : "genesis,32,6",
+    "text" : "When the messengers returned to Jacob, they said, \"We went to your brother Esau, and now he is coming to meet you, and four hundred men are with him.\""
+  }, {
+    "verse" : "genesis,32,7",
+    "text" : "In great fear and distress Jacob divided the people who were with him into two groups, and the flocks and herds and camels as well."
+  }, {
+    "verse" : "genesis,32,8",
+    "text" : "He thought, \"If Esau comes and attacks one group, the group that is left may escape.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,32,6",
     "id" : 185300,
@@ -180,7 +321,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 32:6\">32:6</a></b> <b>four hundred men.</b> Jacob had reason to fear (<a class=\"bibleref\" href=\"/passage/?search=Gen 14:14\">14:14</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 27:40\">27:40</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 27:41\">41</a>), yet he had survived Laban’s stronger forces with God’s help (<a class=\"bibleref\" href=\"/passage/?search=Gen 31:29\">31:29</a> and note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,32,9" ],
+  "verses" : [ {
+    "verse" : "genesis,32,9",
+    "text" : "Then Jacob prayed, \"O God of my father Abraham, God of my father Isaac, O LORD, who said to me, 'Go back to your country and your relatives, and I will make you prosper,'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,32,9",
     "id" : 185301,
@@ -188,7 +332,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 32:9\">32:9</a></b> <b>Jacob said.</b> Jacob’s first recorded prayer (<a class=\"bibleref\" href=\"/passage/?search=Gen 32:9-Gen 32:12\">vv. 9–12</a>) stands between the two presents to Esau (<a class=\"bibleref\" href=\"/passage/?search=Gen 32:3-Gen 32:8\">vv. 3–8</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 32:13-Gen 32:21\">13–21</a>). This structure suggests that he trusted God to prosper his two gifts.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,32,10", "genesis,32,11" ],
+  "verses" : [ {
+    "verse" : "genesis,32,10",
+    "text" : "I am unworthy of all the kindness and faithfulness you have shown your servant. I had only my staff when I crossed this Jordan, but now I have become two groups."
+  }, {
+    "verse" : "genesis,32,11",
+    "text" : "Save me, I pray, from the hand of my brother Esau, for I am afraid he will come and attack me, and also the mothers with their children."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,32,10",
     "id" : 185302,
@@ -196,7 +346,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 32:10\">32:10</a></b> <b>I am not worthy.</b> A spiritual transformation had taken place in Jacob: he submitted to Esau and recognized his unworthiness before God.</p><p><b>steadfast love . . . faithfulness.</b> Words often used to describe God’s loyalty to His covenant promises (<a class=\"bibleref\" href=\"/passage/?search=Gen 24:27\">24:27</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 15:13\">Ex. 15:13</a> note; <a class=\"bibleref\" href=\"/passage/?search=Ps 40:11\">Ps. 40:11</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 61:7\">61:7</a>). Jacob now identified himself fully with God’s covenant to Abraham and Isaac, and his faith rested firmly on God’s covenant promises.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,32,12" ],
+  "verses" : [ {
+    "verse" : "genesis,32,12",
+    "text" : "But you have said, 'I will surely make you prosper and will make your descendants like the sand of the sea, which cannot be counted.'\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,32,12",
     "id" : 185303,

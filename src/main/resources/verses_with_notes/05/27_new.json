@@ -1,5 +1,17 @@
 [ {
-  "singleVerses" : [ "john,16,1", "john,16,2", "john,16,3", "john,16,4" ],
+  "verses" : [ {
+    "verse" : "john,16,1",
+    "text" : "\"All this I have told you so that you will not go astray."
+  }, {
+    "verse" : "john,16,2",
+    "text" : "They will put you out of the synagogue; in fact, a time is coming when anyone who kills you will think he is offering a service to God."
+  }, {
+    "verse" : "john,16,3",
+    "text" : "They will do such things because they have not known the Father or me."
+  }, {
+    "verse" : "john,16,4",
+    "text" : "I have told you this, so that when the time comes you will remember that I warned you. I did not tell you this at first because I was with you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,13,1-john,17,26",
     "id" : 197170,
@@ -7,7 +19,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 13-John 17\">13:1–17:26</a></b> These five chapters recount the ministry of Jesus to the disciples in the upper room, a ministry accompanied by a meal. The other Gospels indicate that the Lord’s Supper was instituted on this occasion, but John does not say so, perhaps because he viewed the institution as sufficiently covered in the three Synoptic Gospels, Matthew, Mark, and Luke.</p><p>The relationship between the Synoptic accounts and John’s Gospel has been extensively discussed by many commentators. The Synoptic Gospels all state that the meal alluded to in <a class=\"bibleref\" href=\"/passage/?search=John 13:2\">13:2</a> was the Passover meal (<a class=\"bibleref\" href=\"/passage/?search=Matt 26:17-Matt 26:30\">Matt. 26:17–30</a>; <a class=\"bibleref\" href=\"/passage/?search=Mark 14:12-Mark 14:26\">Mark 14:12–26</a>; <a class=\"bibleref\" href=\"/passage/?search=Luke 22:7-Luke 22:23\">Luke 22:7–23</a>). John, on the other hand, implies that the meal took place on the eve of the Passover, and that Jesus died at the precise time when the Passover lambs were being slaughtered (13:1, 29; 18:28; 19:14, 31, 42). Among scholars who accept the truthfulness of John and the Synoptic Gospels, several possible solutions have been proposed. See notes 19:14; <a class=\"bibleref\" href=\"/passage/?search=Matt 26:17\">Matt. 26:17</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,16,5", "john,16,6" ],
+  "verses" : [ {
+    "verse" : "john,16,5",
+    "text" : "\"Now I am going to him who sent me, yet none of you asks me, 'Where are you going?'"
+  }, {
+    "verse" : "john,16,6",
+    "text" : "Because I have said these things, you are filled with grief."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,16,5",
     "id" : 197238,
@@ -15,7 +33,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 16:5\">16:5</a></b> <b>none of you asks me.</b> Although Peter had formally asked this and Thomas had practically done so (<a class=\"bibleref\" href=\"/passage/?search=John 13:36\">13:36</a>; <a class=\"bibleref\" href=\"/passage/?search=John 14:5\">14:5</a>), their questions had been prompted by the prospect of Jesus’ departure rather than the desire to know the nature and meaning of Jesus’ destination (<a class=\"bibleref\" href=\"/passage/?search=John 14:6\">v. 6</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,16,7" ],
+  "verses" : [ {
+    "verse" : "john,16,7",
+    "text" : "But I tell you the truth: It is for your good that I am going away. Unless I go away, the Counselor will not come to you; but if I go, I will send him to you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,16,7",
     "id" : 197239,
@@ -23,7 +44,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 16:7\">16:7</a></b> <b>if I do not go away.</b> Although news of Jesus’ departure disturbed the disciples, it was necessary if they were to enjoy the permanent presence of the Spirit.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,16,8" ],
+  "verses" : [ {
+    "verse" : "john,16,8",
+    "text" : "When he comes, he will convict the world of guilt in regard to sin and righteousness and judgment:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,16,8",
     "id" : 197240,
@@ -31,7 +55,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 16:8\">16:8</a></b> <b>he will convict the world concerning sin.</b> This is probably not a reference to the conviction that leads to repentance and salvation, but to the exposure of humanity’s inexcusable guilt. See “Illumination and Conviction” at <a class=\"bibleref\" href=\"/passage/?search=1Cor 2:10\">1 Cor. 2:10</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,16,9", "john,16,10" ],
+  "verses" : [ {
+    "verse" : "john,16,9",
+    "text" : "in regard to sin, because men do not believe in me;"
+  }, {
+    "verse" : "john,16,10",
+    "text" : "in regard to righteousness, because I am going to the Father, where you can see me no longer;"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,16,9",
     "id" : 197241,
@@ -39,7 +69,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 16:9\">16:9</a></b> <b>concerning sin.</b> Unbelief is an especially serious sin.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,16,11", "john,16,12" ],
+  "verses" : [ {
+    "verse" : "john,16,11",
+    "text" : "and in regard to judgment, because the prince of this world now stands condemned."
+  }, {
+    "verse" : "john,16,12",
+    "text" : "\"I have much more to say to you, more than you can now bear."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,16,11",
     "id" : 197242,
@@ -47,7 +83,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 16:11\">16:11</a></b> <b>concerning judgment.</b> Satan and those over whom he rules will ultimately be condemned by divine justice, whose verdict has already been rendered.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,16,13" ],
+  "verses" : [ {
+    "verse" : "john,16,13",
+    "text" : "But when he, the Spirit of truth, comes, he will guide you into all truth. He will not speak on his own; he will speak only what he hears, and he will tell you what is yet to come."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,16,13",
     "id" : 197243,
@@ -55,7 +94,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 16:13\">16:13</a></b> <b>he will guide you into all the truth.</b> This refers to the truth about God, not temporal knowledge of every kind. The Spirit guided the New Testament writers who prepared the new written revelation that would take its place beside the Old Testament Scriptures. The Spirit will remind the writers of the past (<a class=\"bibleref\" href=\"/passage/?search=John 14:26\">14:26</a>; the Gospels), interpret the gospel for the present (<a class=\"bibleref\" href=\"/passage/?search=John 14:26\">14:26</a>; <a class=\"bibleref\" href=\"/passage/?search=John 15:26\">15:26</a>; Acts and the Epistles), and reveal things to come (<a class=\"bibleref\" href=\"/passage/?search=Rev 1:19\">Rev. 1:19</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,16,14", "john,16,15" ],
+  "verses" : [ {
+    "verse" : "john,16,14",
+    "text" : "He will bring glory to me by taking from what is mine and making it known to you."
+  }, {
+    "verse" : "john,16,15",
+    "text" : "All that belongs to the Father is mine. That is why I said the Spirit will take from what is mine and make it known to you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,16,14",
     "id" : 197244,
@@ -63,7 +108,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 16:14\">16:14</a></b> <b>He will glorify me.</b> Since the plan of redemption centers on Christ, this is the topic on which the Spirit will concentrate His teaching (<a class=\"bibleref\" href=\"/passage/?search=John 15:26\">15:26</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,16,16" ],
+  "verses" : [ {
+    "verse" : "john,16,16",
+    "text" : "\"In a little while you will see me no more, and then after a little while you will see me.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,16,16",
     "id" : 197245,
@@ -71,7 +119,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 16:16\">16:16</a></b> <b>A little while . . . a little while.</b> The first refers undoubtedly to the Crucifixion that will take Jesus away from them, the second may refer to the Resurrection, the coming of the Spirit, or to the Second Coming of Christ. The Resurrection fits best for the immediate time of the prophecy; the Second Coming fits best for the full scope of the joy in view.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,16,17", "john,16,18", "john,16,19", "john,16,20", "john,16,21" ],
+  "verses" : [ {
+    "verse" : "john,16,17",
+    "text" : "Some of his disciples said to one another, \"What does he mean by saying, 'In a little while you will see me no more, and then after a little while you will see me,' and 'Because I am going to the Father'?\""
+  }, {
+    "verse" : "john,16,18",
+    "text" : "They kept asking, \"What does he mean by 'a little while'? We don't understand what he is saying.\""
+  }, {
+    "verse" : "john,16,19",
+    "text" : "Jesus saw that they wanted to ask him about this, so he said to them, \"Are you asking one another what I meant when I said, 'In a little while you will see me no more, and then after a little while you will see me'?"
+  }, {
+    "verse" : "john,16,20",
+    "text" : "I tell you the truth, you will weep and mourn while the world rejoices. You will grieve, but your grief will turn to joy."
+  }, {
+    "verse" : "john,16,21",
+    "text" : "A woman giving birth to a child has pain because her time has come; but when her baby is born she forgets the anguish because of her joy that a child is born into the world."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,16,17",
     "id" : 197246,
@@ -79,7 +142,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 16:17\">16:17</a></b> <b>I am going to the Father.</b> The disciples connected what Jesus said in <a class=\"bibleref\" href=\"/passage/?search=John 16:10\">v. 10</a> with the statement of <a class=\"bibleref\" href=\"/passage/?search=John 16:16\">v. 16</a>, and that made it more difficult to understand Christ’s meaning, since one statement refers to the Ascension and the other to the Crucifixion.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,16,22" ],
+  "verses" : [ {
+    "verse" : "john,16,22",
+    "text" : "So with you: Now is your time of grief, but I will see you again and you will rejoice, and no one will take away your joy."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,16,22",
     "id" : 197247,
@@ -87,7 +153,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 16:22\">16:22</a></b> <b>I will see you again.</b> See note on <a class=\"bibleref\" href=\"/passage/?search=John 16:16\">v. 16</a>.</p><p><b>no one will take your joy.</b> The blessings of God’s redemption cannot be canceled by any power, human or satanic. The gracious purpose of God ensures the ongoing joy of salvation in the world (<a class=\"bibleref\" href=\"/passage/?search=John 10:28\">10:28</a>; <a class=\"bibleref\" href=\"/passage/?search=Phil 1:6\">Phil. 1:6</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,16,23" ],
+  "verses" : [ {
+    "verse" : "john,16,23",
+    "text" : "In that day you will no longer ask me anything. I tell you the truth, my Father will give you whatever you ask in my name."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,16,23",
     "id" : 197248,
@@ -95,7 +164,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 16:23\">16:23</a></b> <b>ask . . . ask.</b> There are two different Greek verbs here, the first ordinarily relating to inquiry, and the second to petition. If we observe this distinction, we will note that after the Ascension the disciples will receive revealed truth through the Holy Spirit. Prayers will be directed mainly to the Father in Christ’s name (in a spirit of complete agreement with the will and purposes of Christ). See “Prayer” at <a class=\"bibleref\" href=\"/passage/?search=Luke 11:2\">Luke 11:2</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,16,24", "john,16,25" ],
+  "verses" : [ {
+    "verse" : "john,16,24",
+    "text" : "Until now you have not asked for anything in my name. Ask and you will receive, and your joy will be complete."
+  }, {
+    "verse" : "john,16,25",
+    "text" : "\"Though I have been speaking figuratively, a time is coming when I will no longer use this kind of language but will tell you plainly about my Father."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,16,24",
     "id" : 197249,
@@ -103,7 +178,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 16:24\">16:24</a></b> <b>Until now.</b> Their prayers were too timid in the light of the salvation they were soon to know.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,16,26" ],
+  "verses" : [ {
+    "verse" : "john,16,26",
+    "text" : "In that day you will ask in my name. I am not saying that I will ask the Father on your behalf."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,16,26",
     "id" : 197250,
@@ -111,7 +189,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 16:26\">16:26</a></b> <b>I do not say . . . that I will ask the Father on your behalf.</b> Jesus is not saying that He will cease to pray for them (<a class=\"bibleref\" href=\"/passage/?search=Rom 8:34\">Rom. 8:34</a>; <a class=\"bibleref\" href=\"/passage/?search=Heb 7:25\">Heb. 7:25</a>; <a class=\"bibleref\" href=\"/passage/?search=1John 2:1\">1 John 2:1</a>); it means that the disciples will have reached a certain maturity in prayer, so that He will not need to pray in their stead.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,16,27", "john,16,28", "john,16,29" ],
+  "verses" : [ {
+    "verse" : "john,16,27",
+    "text" : "No, the Father himself loves you because you have loved me and have believed that I came from God."
+  }, {
+    "verse" : "john,16,28",
+    "text" : "I came from the Father and entered the world; now I am leaving the world and going back to the Father.\""
+  }, {
+    "verse" : "john,16,29",
+    "text" : "Then Jesus' disciples said, \"Now you are speaking clearly and without figures of speech."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,16,27",
     "id" : 197251,
@@ -119,7 +206,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 16:27\">16:27</a></b> <b>the Father himself loves you.</b> The three Persons of the Trinity are united in their love for believers (<a class=\"bibleref\" href=\"/passage/?search=John 3:16\">3:16</a>). Believers respond with faith and love toward all three Persons of the Godhead.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,16,30", "john,16,31" ],
+  "verses" : [ {
+    "verse" : "john,16,30",
+    "text" : "Now we can see that you know all things and that you do not even need to have anyone ask you questions. This makes us believe that you came from God.\""
+  }, {
+    "verse" : "john,16,31",
+    "text" : "\"You believe at last!\" Jesus answered."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,16,30",
     "id" : 197252,
@@ -127,7 +220,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 16:30\">16:30</a></b> <b>you know all things.</b> Only God is omniscient; the disciples acknowledge the origin and the deity of Christ.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,16,32", "john,16,33" ],
+  "verses" : [ {
+    "verse" : "john,16,32",
+    "text" : "\"But a time is coming, and has come, when you will be scattered, each to his own home. You will leave me all alone. Yet I am not alone, for my Father is with me."
+  }, {
+    "verse" : "john,16,33",
+    "text" : "\"I have told you these things, so that in me you may have peace. In this world you will have trouble. But take heart! I have overcome the world.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,16,32",
     "id" : 197253,

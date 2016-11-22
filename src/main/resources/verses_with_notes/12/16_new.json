@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "revelation,7,1", "revelation,7,2" ],
+  "verses" : [ {
+    "verse" : "revelation,7,1",
+    "text" : "After this I saw four angels standing at the four corners of the earth, holding back the four winds of the earth to prevent any wind from blowing on the land or on the sea or on any tree."
+  }, {
+    "verse" : "revelation,7,2",
+    "text" : "Then I saw another angel coming up from the east, having the seal of the living God. He called out in a loud voice to the four angels who had been given power to harm the land and the sea:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "revelation,6,1-revelation,8,1",
     "id" : 199666,
@@ -12,7 +18,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rev 7\">7:1–17</a></b> The announcement of the seventh seal is dramatically delayed while the saints receive assurance that God knows them and protects them in the midst of the calamities depicted in <a class=\"bibleref\" href=\"/passage/?search=Rev 6\">ch. 6</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "revelation,7,3" ],
+  "verses" : [ {
+    "verse" : "revelation,7,3",
+    "text" : "\"Do not harm the land or the sea or the trees until we put a seal on the foreheads of the servants of our God.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "revelation,7,3",
     "id" : 199673,
@@ -20,7 +29,37 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rev 7:3\">7:3</a></b> <b>sealed.</b> The faithful are sealed as a sign of protection and ownership (<a class=\"bibleref\" href=\"/passage/?search=Rev 9:4\">9:4</a>; <a class=\"bibleref\" href=\"/passage/?search=Rev 14:1\">14:1</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 9:4\">Ezek. 9:4</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "revelation,7,4", "revelation,7,5", "revelation,7,6", "revelation,7,7", "revelation,7,8", "revelation,7,9", "revelation,7,10", "revelation,7,11", "revelation,7,12", "revelation,7,13" ],
+  "verses" : [ {
+    "verse" : "revelation,7,4",
+    "text" : "Then I heard the number of those who were sealed: 144,000 from all the tribes of Israel."
+  }, {
+    "verse" : "revelation,7,5",
+    "text" : "From the tribe of Judah 12,000 were sealed, from the tribe of Reuben 12,000, from the tribe of Gad 12,000,"
+  }, {
+    "verse" : "revelation,7,6",
+    "text" : "from the tribe of Asher 12,000, from the tribe of Naphtali 12,000, from the tribe of Manasseh 12,000,"
+  }, {
+    "verse" : "revelation,7,7",
+    "text" : "from the tribe of Simeon 12,000, from the tribe of Levi 12,000, from the tribe of Issachar 12,000,"
+  }, {
+    "verse" : "revelation,7,8",
+    "text" : "from the tribe of Zebulun 12,000, from the tribe of Joseph 12,000, from the tribe of Benjamin 12,000."
+  }, {
+    "verse" : "revelation,7,9",
+    "text" : "After this I looked and there before me was a great multitude that no one could count, from every nation, tribe, people and language, standing before the throne and in front of the Lamb. They were wearing white robes and were holding palm branches in their hands."
+  }, {
+    "verse" : "revelation,7,10",
+    "text" : "And they cried out in a loud voice: \"Salvation belongs to our God, who sits on the throne, and to the Lamb.\""
+  }, {
+    "verse" : "revelation,7,11",
+    "text" : "All the angels were standing around the throne and around the elders and the four living creatures. They fell down on their faces before the throne and worshiped God,"
+  }, {
+    "verse" : "revelation,7,12",
+    "text" : "saying: \"Amen! Praise and glory and wisdom and thanks and honor and power and strength be to our God for ever and ever. Amen!\""
+  }, {
+    "verse" : "revelation,7,13",
+    "text" : "Then one of the elders asked me, \"These in white robes--who are they, and where did they come from?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "revelation,7,4-revelation,7,8",
     "id" : 199674,
@@ -28,7 +67,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rev 7:4-Rev 7:8\">7:4–8</a></b> The balanced numbering suggests that “twelve” is a symbolic number for the fullness of the people of God. The early association of the tribe of Dan with idolatry (<a class=\"bibleref\" href=\"/passage/?search=Judg 18\">Judg. 18</a>) may explain its omission from this list (21:8; 22:15). Some think that the 144,000 here includes only Jewish believers. But the “servants of our God” in v. 3 must include Gentile saints as well. The equal status of Gentiles and Jews in the seven churches (<a class=\"bibleref\" href=\"/passage/?search=Eph 2:11-Eph 2:22\">Eph. 2:11–22</a>) and the promises associated only with the 144,000 (9:4; 14:1–5) confirm this. According to vv. 1–8, the saints are known by God individually, and none slips by His care (<a class=\"bibleref\" href=\"/passage/?search=Matt 10:30\">Matt. 10:30</a>); according to vv. 9–17, no human can count their number.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "revelation,7,14", "revelation,7,15", "revelation,7,16", "revelation,7,17" ],
+  "verses" : [ {
+    "verse" : "revelation,7,14",
+    "text" : "I answered, \"Sir, you know.\""
+  }, {
+    "verse" : "revelation,7,15",
+    "text" : "And he said, \"These are they who have come out of the great tribulation; they have washed their robes and made them white in the blood of the Lamb. Therefore, \"they are before the throne of God and serve him day and night in his temple; and he who sits on the throne will spread his tent over them."
+  }, {
+    "verse" : "revelation,7,16",
+    "text" : "Never again will they hunger; never again will they thirst. The sun will not beat upon them, nor any scorching heat."
+  }, {
+    "verse" : "revelation,7,17",
+    "text" : "For the Lamb at the center of the throne will be their shepherd; he will lead them to springs of living water. And God will wipe away every tear from their eyes.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "revelation,7,14",
     "id" : 199675,

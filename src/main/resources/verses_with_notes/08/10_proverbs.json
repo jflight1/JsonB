@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,21,3" ],
+  "verses" : [ {
+    "verse" : "proverbs,21,3",
+    "text" : "To do what is right and just is more acceptable to the LORD than sacrifice."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

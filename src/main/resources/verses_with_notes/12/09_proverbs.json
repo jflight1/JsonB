@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,29,18" ],
+  "verses" : [ {
+    "verse" : "proverbs,29,18",
+    "text" : "Where there is no revelation, the people cast off restraint; but blessed is he who keeps the law."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,29,18",
     "id" : 192329,

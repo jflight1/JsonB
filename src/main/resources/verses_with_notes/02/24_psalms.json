@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,40,11" ],
+  "verses" : [ {
+    "verse" : "psalms,40,11",
+    "text" : "Do not withhold your mercy from me, O LORD; may your love and your truth always protect me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,40,1-psalms,40,17",
     "id" : 190541,
@@ -7,7 +10,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 40\">Ps. 40</a></b> This psalm has two sections joined together with vv. 9–10 as an appropriate transition. God has answered an earlier prayer of the psalmist, but he still has problems to bring before God. He looks to God in a time of new crisis.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,40,12" ],
+  "verses" : [ {
+    "verse" : "psalms,40,12",
+    "text" : "For troubles without number surround me; my sins have overtaken me, and I cannot see. They are more than the hairs of my head, and my heart fails within me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,40,12",
     "id" : 190549,
@@ -15,7 +21,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 40:12\">40:12</a></b> <b>evils . . . iniquities.</b> The psalmist identifies the source of his troubles as both external (enemies seeking to thwart him) and internal (his own sin).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,40,13", "psalms,40,14", "psalms,40,15", "psalms,40,16", "psalms,40,17" ],
+  "verses" : [ {
+    "verse" : "psalms,40,13",
+    "text" : "Be pleased, O LORD, to save me; O LORD, come quickly to help me."
+  }, {
+    "verse" : "psalms,40,14",
+    "text" : "May all who seek to take my life be put to shame and confusion; may all who desire my ruin be turned back in disgrace."
+  }, {
+    "verse" : "psalms,40,15",
+    "text" : "May those who say to me, \"Aha! Aha!\" be appalled at their own shame."
+  }, {
+    "verse" : "psalms,40,16",
+    "text" : "But may all who seek you rejoice and be glad in you; may those who love your salvation always say, \"The LORD be exalted!\""
+  }, {
+    "verse" : "psalms,40,17",
+    "text" : "Yet I am poor and needy; may the Lord think of me. You are my help and my deliverer; O my God, do not delay."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,40,13-psalms,40,17",
     "id" : 190550,

@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "revelation,8,1" ],
+  "verses" : [ {
+    "verse" : "revelation,8,1",
+    "text" : "When he opened the seventh seal, there was silence in heaven for about half an hour."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "revelation,6,1-revelation,8,1",
     "id" : 199666,
@@ -12,7 +15,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rev 8:1\">8:1</a></b> <b>silence in heaven.</b> The next event after <a class=\"bibleref\" href=\"/passage/?search=Rev 6:12-Rev 6:17\">6:12–17</a> would most naturally be the appearing of Christ Himself as the final Warrior and Judge (<a class=\"bibleref\" href=\"/passage/?search=Mark 13:24-Mark 13:26\">Mark 13:24–26</a>). The silence may indicate that heaven stands in awe at His presence (<a class=\"bibleref\" href=\"/passage/?search=Hab 2:20\">Hab. 2:20</a>; <a class=\"bibleref\" href=\"/passage/?search=Zeph 1:7\">Zeph. 1:7</a>). At this early point, the seer is not given a fuller picture disclosing the events of final judgment and re-creation. This reserve maintains the reader’s interest for later cycles of judgment.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "revelation,8,2", "revelation,8,3", "revelation,8,4", "revelation,8,5", "revelation,8,6" ],
+  "verses" : [ {
+    "verse" : "revelation,8,2",
+    "text" : "And I saw the seven angels who stand before God, and to them were given seven trumpets."
+  }, {
+    "verse" : "revelation,8,3",
+    "text" : "Another angel, who had a golden censer, came and stood at the altar. He was given much incense to offer, with the prayers of all the saints, on the golden altar before the throne."
+  }, {
+    "verse" : "revelation,8,4",
+    "text" : "The smoke of the incense, together with the prayers of the saints, went up before God from the angel's hand."
+  }, {
+    "verse" : "revelation,8,5",
+    "text" : "Then the angel took the censer, filled it with fire from the altar, and hurled it on the earth; and there came peals of thunder, rumblings, flashes of lightning and an earthquake."
+  }, {
+    "verse" : "revelation,8,6",
+    "text" : "Then the seven angels who had the seven trumpets prepared to sound them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "revelation,8,2-revelation,11,19",
     "id" : 199677,
@@ -25,7 +43,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rev 8:2-Rev 8:6\">8:2–6</a></b> The trumpet judgments issue from God’s angels, who stand before His throne (<a class=\"bibleref\" href=\"/passage/?search=Rev 8:2\">v. 2</a>). The vision of <a class=\"bibleref\" href=\"/passage/?search=Rev 4\">chs. 4</a>; <a class=\"bibleref\" href=\"/passage/?search=Rev 5\">5</a> remains an anchor point for this new cycle of visions. Like the seal judgments of <a class=\"bibleref\" href=\"/passage/?search=Rev 6:1-Rev 8:1\">6:1–8:1</a>, these judgments are executed according to God’s plan and in accord with His orders. The prayers of the saints play a notable part in originating the judgments (<a class=\"bibleref\" href=\"/passage/?search=Rev 8:3\">vv. 3</a>, <a class=\"bibleref\" href=\"/passage/?search=Rev 8:4\">4</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "revelation,8,7" ],
+  "verses" : [ {
+    "verse" : "revelation,8,7",
+    "text" : "The first angel sounded his trumpet, and there came hail and fire mixed with blood, and it was hurled down upon the earth. A third of the earth was burned up, a third of the trees were burned up, and all the green grass was burned up."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "revelation,8,7-revelation,8,12",
     "id" : 199679,
@@ -38,7 +59,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rev 8:7\">8:7</a></b> <b>hail and fire.</b> Parallel to <a class=\"bibleref\" href=\"/passage/?search=Exod 9:23\">Ex. 9:23</a>, <a class=\"bibleref\" href=\"/passage/?search=Exod 9:24\">24</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "revelation,8,8", "revelation,8,9", "revelation,8,10", "revelation,8,11" ],
+  "verses" : [ {
+    "verse" : "revelation,8,8",
+    "text" : "The second angel sounded his trumpet, and something like a huge mountain, all ablaze, was thrown into the sea. A third of the sea turned into blood,"
+  }, {
+    "verse" : "revelation,8,9",
+    "text" : "a third of the living creatures in the sea died, and a third of the ships were destroyed."
+  }, {
+    "verse" : "revelation,8,10",
+    "text" : "The third angel sounded his trumpet, and a great star, blazing like a torch, fell from the sky on a third of the rivers and on the springs of water--"
+  }, {
+    "verse" : "revelation,8,11",
+    "text" : "the name of the star is Wormwood. A third of the waters turned bitter, and many people died from the waters that had become bitter."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "revelation,8,8",
     "id" : 199681,
@@ -46,7 +79,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rev 8:8\">8:8</a></b> <b>blood.</b> Parallel to <a class=\"bibleref\" href=\"/passage/?search=Exod 7:14-Exod 7:24\">Ex. 7:14–24</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "revelation,8,12" ],
+  "verses" : [ {
+    "verse" : "revelation,8,12",
+    "text" : "The fourth angel sounded his trumpet, and a third of the sun was struck, a third of the moon, and a third of the stars, so that a third of them turned dark. A third of the day was without light, and also a third of the night."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "revelation,8,12",
     "id" : 199682,
@@ -54,7 +90,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rev 8:12\">8:12</a></b> <b>darkened.</b> Parallel to <a class=\"bibleref\" href=\"/passage/?search=Exod 10:21-Exod 10:23\">Ex. 10:21–23</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "revelation,8,13" ],
+  "verses" : [ {
+    "verse" : "revelation,8,13",
+    "text" : "As I watched, I heard an eagle that was flying in midair call out in a loud voice: \"Woe! Woe! Woe to the inhabitants of the earth, because of the trumpet blasts about to be sounded by the other three angels!\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "revelation,8,13",
     "id" : 199683,

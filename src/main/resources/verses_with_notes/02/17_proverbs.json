@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,10,1" ],
+  "verses" : [ {
+    "verse" : "proverbs,10,1",
+    "text" : "The proverbs of Solomon: A wise son brings joy to his father, but a foolish son grief to his mother."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -17,7 +20,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 10:1\">10:1</a></b> <b>The proverbs of Solomon.</b> See Introduction: Author.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,10,2" ],
+  "verses" : [ {
+    "verse" : "proverbs,10,2",
+    "text" : "Ill-gotten treasures are of no value, but righteousness delivers from death."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,2",
     "id" : 191845,

@@ -1,5 +1,20 @@
 [ {
-  "singleVerses" : [ "jeremiah,12,1", "jeremiah,12,2", "jeremiah,12,3", "jeremiah,12,4", "jeremiah,12,5" ],
+  "verses" : [ {
+    "verse" : "jeremiah,12,1",
+    "text" : "You are always righteous, O LORD, when I bring a case before you. Yet I would speak with you about your justice: Why does the way of the wicked prosper? Why do all the faithless live at ease?"
+  }, {
+    "verse" : "jeremiah,12,2",
+    "text" : "You have planted them, and they have taken root; they grow and bear fruit. You are always on their lips but far from their hearts."
+  }, {
+    "verse" : "jeremiah,12,3",
+    "text" : "Yet you know me, O LORD; you see me and test my thoughts about you. Drag them off like sheep to be butchered! Set them apart for the day of slaughter!"
+  }, {
+    "verse" : "jeremiah,12,4",
+    "text" : "How long will the land lie parched and the grass in every field be withered? Because those who live in it are wicked, the animals and birds have perished. Moreover, the people are saying, \"He will not see what happens to us.\""
+  }, {
+    "verse" : "jeremiah,12,5",
+    "text" : "\"If you have raced with men on foot and they have worn you out, how can you compete with horses? If you stumble in safe country, how will you manage in the thickets by the Jordan?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,11,1-jeremiah,13,27",
     "id" : 193661,
@@ -7,7 +22,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 11-Jer 13\">11:1–13:27</a></b> Judah’s idolatry is a violation of the covenant and will result in captivity as part of the curses of the covenant.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,12,6" ],
+  "verses" : [ {
+    "verse" : "jeremiah,12,6",
+    "text" : "Your brothers, your own family- even they have betrayed you; they have raised a loud cry against you. Do not trust them, though they speak well of you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,12,6",
     "id" : 193672,
@@ -15,7 +33,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 12:6\">12:6</a></b> <b>your brothers and the house of your father.</b> See <a class=\"bibleref\" href=\"/passage/?search=Jer 11:21-Jer 11:23\">11:21–23</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,12,7" ],
+  "verses" : [ {
+    "verse" : "jeremiah,12,7",
+    "text" : "\"I will forsake my house, abandon my inheritance; I will give the one I love into the hands of her enemies."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,12,7",
     "id" : 193673,
@@ -23,7 +44,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 12:7\">12:7</a></b> <b>heritage.</b> God’s “heritage” includes both the land given to Israel (<a class=\"bibleref\" href=\"/passage/?search=Deut 4:21\">Deut. 4:21</a>), and the people themselves. See vv. 8, 9; 2:7.</p><p><b>beloved.</b> See 11:15 and note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,12,8", "jeremiah,12,9" ],
+  "verses" : [ {
+    "verse" : "jeremiah,12,8",
+    "text" : "My inheritance has become to me like a lion in the forest. She roars at me; therefore I hate her."
+  }, {
+    "verse" : "jeremiah,12,9",
+    "text" : "Has not my inheritance become to me like a speckled bird of prey that other birds of prey surround and attack? Go and gather all the wild beasts; bring them to devour."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,12,8",
     "id" : 193674,
@@ -31,7 +58,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 12:8\">12:8</a></b> <b>like a lion.</b> This first of a series of similes (cf. <a class=\"bibleref\" href=\"/passage/?search=Jer 12:9\">vv. 9</a>, <a class=\"bibleref\" href=\"/passage/?search=Jer 12:10\">10</a>) shows how Judah’s nature has been changed.</p><p><b>I hate her.</b> As often in the Bible, “hate” is the only alternative to love (<a class=\"bibleref\" href=\"/passage/?search=Mal 1:2\">Mal. 1:2</a>, <a class=\"bibleref\" href=\"/passage/?search=Mal 1:3\">3</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,12,10", "jeremiah,12,11" ],
+  "verses" : [ {
+    "verse" : "jeremiah,12,10",
+    "text" : "Many shepherds will ruin my vineyard and trample down my field; they will turn my pleasant field into a desolate wasteland."
+  }, {
+    "verse" : "jeremiah,12,11",
+    "text" : "It will be made a wasteland, parched and desolate before me; the whole land will be laid waste because there is no one who cares."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,12,10",
     "id" : 193675,
@@ -39,7 +72,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 12:10\">12:10</a></b> <b>shepherds.</b> That is, foreign rulers.</p><p><b>pleasant portion.</b> See <a class=\"bibleref\" href=\"/passage/?search=Isa 5:7\">Is. 5:7</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,12,12", "jeremiah,12,13" ],
+  "verses" : [ {
+    "verse" : "jeremiah,12,12",
+    "text" : "Over all the barren heights in the desert destroyers will swarm, for the sword of the LORD will devour from one end of the land to the other; no one will be safe."
+  }, {
+    "verse" : "jeremiah,12,13",
+    "text" : "They will sow wheat but reap thorns; they will wear themselves out but gain nothing. So bear the shame of your harvest because of the LORD's fierce anger.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,12,12",
     "id" : 193676,
@@ -47,7 +86,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 12:12\">12:12</a></b> <b>no flesh has peace.</b> The verse exposes the lie of false proclamations of peace (<a class=\"bibleref\" href=\"/passage/?search=Jer 6:14\">6:14</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,12,14" ],
+  "verses" : [ {
+    "verse" : "jeremiah,12,14",
+    "text" : "This is what the LORD says: \"As for all my wicked neighbors who seize the inheritance I gave my people Israel, I will uproot them from their lands and I will uproot the house of Judah from among them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,12,14",
     "id" : 193677,
@@ -55,7 +97,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 12:14\">12:14</a></b> <b>evil neighbors.</b> Though Judah’s enemies are used by the Lord to punish her, they themselves will be judged.</p><p><b>pluck up.</b> When God judges Judah’s enemies by removing them from their own lands, He also will deliver and restore Judah, the theme to be developed in <a class=\"bibleref\" href=\"/passage/?search=Jer 30-Jer 33\">Jer. 30–33</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,12,15" ],
+  "verses" : [ {
+    "verse" : "jeremiah,12,15",
+    "text" : "But after I uproot them, I will again have compassion and will bring each of them back to his own inheritance and his own country."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,12,15",
     "id" : 193678,
@@ -63,7 +108,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 12:15\">12:15</a></b> <b>after I have plucked them up . . . his land.</b> This prophecy is an astonishing turn in the thought, anticipating a restoration and salvation of all peoples. Jeremiah looks forward to the inclusion of the Gentiles in God’s salvation (<a class=\"bibleref\" href=\"/passage/?search=Jer 46:26\">46:26</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 48:47\">48:47</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 49:6\">49:6</a>) as do other prophets (e.g., <a class=\"bibleref\" href=\"/passage/?search=Isa 42:6\">Is. 42:6</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,12,16", "jeremiah,12,17" ],
+  "verses" : [ {
+    "verse" : "jeremiah,12,16",
+    "text" : "And if they learn well the ways of my people and swear by my name, saying, 'As surely as the LORD lives'-even as they once taught my people to swear by Baal-then they will be established among my people."
+  }, {
+    "verse" : "jeremiah,12,17",
+    "text" : "But if any nation does not listen, I will completely uproot and destroy it,\" declares the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,12,16",
     "id" : 193679,
@@ -71,7 +122,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 12:16\">12:16</a></b> <b>they shall be built up . . . my people.</b> See <a class=\"bibleref\" href=\"/passage/?search=Isa 19:25\">Is. 19:25</a> for an equally surprising use of “my people”—for Egypt.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,13,1", "jeremiah,13,2", "jeremiah,13,3" ],
+  "verses" : [ {
+    "verse" : "jeremiah,13,1",
+    "text" : "This is what the LORD said to me: \"Go and buy a linen belt and put it around your waist, but do not let it touch water.\""
+  }, {
+    "verse" : "jeremiah,13,2",
+    "text" : "So I bought a belt, as the LORD directed, and put it around my waist."
+  }, {
+    "verse" : "jeremiah,13,3",
+    "text" : "Then the word of the LORD came to me a second time:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,13,1",
     "id" : 193680,
@@ -79,7 +139,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 13:1\">13:1</a></b> <b>linen loincloth.</b> The “loincloth” symbolizes the close relationship between God and His people.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,13,4", "jeremiah,13,5", "jeremiah,13,6" ],
+  "verses" : [ {
+    "verse" : "jeremiah,13,4",
+    "text" : "\"Take the belt you bought and are wearing around your waist, and go now to Perath and hide it there in a crevice in the rocks.\""
+  }, {
+    "verse" : "jeremiah,13,5",
+    "text" : "So I went and hid it at Perath, as the LORD told me."
+  }, {
+    "verse" : "jeremiah,13,6",
+    "text" : "Many days later the LORD said to me, \"Go now to Perath and get the belt I told you to hide there.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,13,4",
     "id" : 193681,
@@ -87,7 +156,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 13:4\">13:4</a></b> <b>Euphrates.</b> A nearer location may actually be intended (possibly Parah, <a class=\"bibleref\" href=\"/passage/?search=Josh 18:23\">Josh. 18:23</a>, close to Anathoth), whose similarity of name nevertheless suggested the Euphrates and therefore the Babylonian exile.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,13,7", "jeremiah,13,8", "jeremiah,13,9", "jeremiah,13,10" ],
+  "verses" : [ {
+    "verse" : "jeremiah,13,7",
+    "text" : "So I went to Perath and dug up the belt and took it from the place where I had hidden it, but now it was ruined and completely useless."
+  }, {
+    "verse" : "jeremiah,13,8",
+    "text" : "Then the word of the LORD came to me:"
+  }, {
+    "verse" : "jeremiah,13,9",
+    "text" : "\"This is what the LORD says: 'In the same way I will ruin the pride of Judah and the great pride of Jerusalem."
+  }, {
+    "verse" : "jeremiah,13,10",
+    "text" : "These wicked people, who refuse to listen to my words, who follow the stubbornness of their hearts and go after other gods to serve and worship them, will be like this belt-completely useless!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,13,7",
     "id" : 193682,
@@ -95,7 +176,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 13:7\">13:7</a></b> <b>spoiled . . . good for nothing.</b> Its ruin depicts the corruption of the people, no longer fit for a relationship with the Lord.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,13,11" ],
+  "verses" : [ {
+    "verse" : "jeremiah,13,11",
+    "text" : "For as a belt is bound around a man's waist, so I bound the whole house of Israel and the whole house of Judah to me,' declares the LORD, 'to be my people for my renown and praise and honor. But they have not listened.'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,13,11",
     "id" : 193683,
@@ -103,7 +187,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 13:11\">13:11</a></b> <b>made the whole house . . . cling to me.</b> The Lord spells out the meaning of the symbolic act as an illustration of His covenant with all Israel.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,13,12", "jeremiah,13,13", "jeremiah,13,14", "jeremiah,13,15", "jeremiah,13,16", "jeremiah,13,17" ],
+  "verses" : [ {
+    "verse" : "jeremiah,13,12",
+    "text" : "\"Say to them: 'This is what the LORD, the God of Israel, says: Every wineskin should be filled with wine.' And if they say to you, 'Don't we know that every wineskin should be filled with wine?'"
+  }, {
+    "verse" : "jeremiah,13,13",
+    "text" : "then tell them, 'This is what the LORD says: I am going to fill with drunkenness all who live in this land, including the kings who sit on David's throne, the priests, the prophets and all those living in Jerusalem."
+  }, {
+    "verse" : "jeremiah,13,14",
+    "text" : "I will smash them one against the other, fathers and sons alike, declares the LORD. I will allow no pity or mercy or compassion to keep me from destroying them.'\""
+  }, {
+    "verse" : "jeremiah,13,15",
+    "text" : "Hear and pay attention, do not be arrogant, for the LORD has spoken."
+  }, {
+    "verse" : "jeremiah,13,16",
+    "text" : "Give glory to the LORD your God before he brings the darkness, before your feet stumble on the darkening hills. You hope for light, but he will turn it to thick darkness and change it to deep gloom."
+  }, {
+    "verse" : "jeremiah,13,17",
+    "text" : "But if you do not listen, I will weep in secret because of your pride; my eyes will weep bitterly, overflowing with tears, because the LORD's flock will be taken captive."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,13,12",
     "id" : 193684,
@@ -111,7 +213,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 13:12\">13:12</a></b> <b>filled with wine.</b> Wine is here used as a symbol of God’s wrath (<a class=\"bibleref\" href=\"/passage/?search=Jer 25:15-Jer 25:29\">25:15–29</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,13,18" ],
+  "verses" : [ {
+    "verse" : "jeremiah,13,18",
+    "text" : "Say to the king and to the queen mother, \"Come down from your thrones, for your glorious crowns will fall from your heads.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,13,18",
     "id" : 193685,
@@ -119,7 +224,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 13:18\">13:18</a></b> <b>to the king and the queen mother.</b> Probably Jehoiachin and his mother Nehushta (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 24:8\">2 Kin. 24:8</a>). This prophecy is thus close to the time of Nebuchadnezzar’s attack on Jerusalem in 597 <span class=\"small-caps\">b.c.</span> (Introduction: Author; Date and Occasion).</p><p><b>has come down.</b> See 22:24–26. This judgment spells the end of the historical Davidic dynasty, and seems in conflict with the promise to David (<a class=\"bibleref\" href=\"/passage/?search=2Sam 7\">2 Sam. 7</a>). However, see 33:14–26 for the future fulfillment of the Davidic covenant.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,13,19" ],
+  "verses" : [ {
+    "verse" : "jeremiah,13,19",
+    "text" : "The cities in the Negev will be shut up, and there will be no one to open them. All Judah will be carried into exile, carried completely away."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,13,19",
     "id" : 193686,
@@ -127,7 +235,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 13:19\">13:19</a></b> <b>The cities of the Negeb.</b> These cities along the southern border were important defense against allies of Babylon (like Moab; <a class=\"bibleref\" href=\"/passage/?search=2Kgs 24:2\">2 Kin. 24:2</a>), but were unable to prevent the sack of Judah. They symbolize Judah’s pride (v. 17), shown to be hollow.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,13,20", "jeremiah,13,21" ],
+  "verses" : [ {
+    "verse" : "jeremiah,13,20",
+    "text" : "Lift up your eyes and see those who are coming from the north. Where is the flock that was entrusted to you, the sheep of which you boasted?"
+  }, {
+    "verse" : "jeremiah,13,21",
+    "text" : "What will you say when the LORD sets over you those you cultivated as your special allies? Will not pain grip you like that of a woman in labor?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,13,20",
     "id" : 193687,
@@ -135,7 +249,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 13:20\">13:20</a></b> <b>the north.</b> See <a class=\"bibleref\" href=\"/passage/?search=Jer 4:6\">4:6</a>. Judah is vulnerable from both north and south (<a class=\"bibleref\" href=\"/passage/?search=Jer 4:19\">v. 19</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,13,22" ],
+  "verses" : [ {
+    "verse" : "jeremiah,13,22",
+    "text" : "And if you ask yourself, \"Why has this happened to me?\"- it is because of your many sins that your skirts have been torn off and your body mistreated."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,13,22",
     "id" : 193688,
@@ -143,7 +260,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 13:22\">13:22</a></b> <b>your skirts.</b> A picture of public shame, as of a prostitute.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,13,23", "jeremiah,13,24" ],
+  "verses" : [ {
+    "verse" : "jeremiah,13,23",
+    "text" : "Can the Ethiopian change his skin or the leopard its spots? Neither can you do good who are accustomed to doing evil."
+  }, {
+    "verse" : "jeremiah,13,24",
+    "text" : "\"I will scatter you like chaff driven by the desert wind."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,13,23",
     "id" : 193689,
@@ -151,7 +274,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 13:23\">13:23</a></b> <b>Can the Ethiopian . . . his spots.</b> A rhetorical question. It is typical of Jeremiah to assert Judah’s inability to repent and obey the Lord—hence his new covenant theology (<a class=\"bibleref\" href=\"/passage/?search=Jer 31:31-Jer 31:34\">31:31–34</a> and notes). See “The Freedom and Bondage of the Will” at <a class=\"bibleref\" href=\"/passage/?search=Jer 17:9\">17:9</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,13,25", "jeremiah,13,26", "jeremiah,13,27" ],
+  "verses" : [ {
+    "verse" : "jeremiah,13,25",
+    "text" : "This is your lot, the portion I have decreed for you,\" declares the LORD, \"because you have forgotten me and trusted in false gods."
+  }, {
+    "verse" : "jeremiah,13,26",
+    "text" : "I will pull up your skirts over your face that your shame may be seen-"
+  }, {
+    "verse" : "jeremiah,13,27",
+    "text" : "your adulteries and lustful neighings, your shameless prostitution! I have seen your detestable acts on the hills and in the fields. Woe to you, O Jerusalem! How long will you be unclean?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,13,25",
     "id" : 193690,
@@ -159,7 +291,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 13:25\">13:25</a></b> <b>lot.</b> The word “lot” recalls the lot cast for the division of the land (<a class=\"bibleref\" href=\"/passage/?search=Josh 14:2\">Josh. 14:2</a>). Now it signifies expulsion from the same land.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,14,1", "jeremiah,14,2" ],
+  "verses" : [ {
+    "verse" : "jeremiah,14,1",
+    "text" : "This is the word of the LORD to Jeremiah concerning the drought:"
+  }, {
+    "verse" : "jeremiah,14,2",
+    "text" : "\"Judah mourns, her cities languish; they wail for the land, and a cry goes up from Jerusalem."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,14,1-jeremiah,15,21",
     "id" : 193691,
@@ -167,7 +305,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 14-Jer 15\">14:1–15:21</a></b> The people are so hardened in their sin that God will not answer even Jeremiah’s prayer for deliverance from the punishment of drought. In answer to Jeremiah’s question whether God has rejected Judah completely (<a class=\"bibleref\" href=\"/passage/?search=Jer 14:19\">14:19</a>), God replies that the coming judgment is inevitable because of Judah’s sin, but He assures Jeremiah of personal deliverance from his enemies.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,14,3" ],
+  "verses" : [ {
+    "verse" : "jeremiah,14,3",
+    "text" : "The nobles send their servants for water; they go to the cisterns but find no water. They return with their jars unfilled; dismayed and despairing, they cover their heads."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,14,3",
     "id" : 193692,
@@ -175,7 +316,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 14:3\">14:3</a></b> <b>cover their heads.</b> A sign of mourning.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,14,4", "jeremiah,14,5", "jeremiah,14,6", "jeremiah,14,7" ],
+  "verses" : [ {
+    "verse" : "jeremiah,14,4",
+    "text" : "The ground is cracked because there is no rain in the land; the farmers are dismayed and cover their heads."
+  }, {
+    "verse" : "jeremiah,14,5",
+    "text" : "Even the doe in the field deserts her newborn fawn because there is no grass."
+  }, {
+    "verse" : "jeremiah,14,6",
+    "text" : "Wild donkeys stand on the barren heights and pant like jackals; their eyesight fails for lack of pasture.\""
+  }, {
+    "verse" : "jeremiah,14,7",
+    "text" : "Although our sins testify against us, O LORD, do something for the sake of your name. For our backsliding is great; we have sinned against you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,14,4",
     "id" : 193693,
@@ -183,7 +336,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 14:4\">14:4</a></b> <b>no rain.</b> The Lord either gives or withholds the rain (<a class=\"bibleref\" href=\"/passage/?search=Deut 11:10-Deut 11:15\">Deut. 11:10–15</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 28:12\">28:12</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,14,8" ],
+  "verses" : [ {
+    "verse" : "jeremiah,14,8",
+    "text" : "O Hope of Israel, its Savior in times of distress, why are you like a stranger in the land, like a traveler who stays only a night?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,14,8",
     "id" : 193694,
@@ -191,7 +347,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 14:8\">14:8</a></b> <b>hope.</b> The Hebrew word also means “pool,” a striking word in time of drought.</p><p><b>savior.</b> Or deliverer, as in battle.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,14,9" ],
+  "verses" : [ {
+    "verse" : "jeremiah,14,9",
+    "text" : "Why are you like a man taken by surprise, like a warrior powerless to save? You are among us, O LORD, and we bear your name; do not forsake us!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,14,9",
     "id" : 193695,
@@ -199,7 +358,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 14:9\">14:9</a></b> <b>called by your name.</b> This calling explains the meaning of “for your name’s sake” in <a class=\"bibleref\" href=\"/passage/?search=Jer 14:7\">v. 7</a>. The Lord’s honor is at stake in the fortunes of His people.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,14,10" ],
+  "verses" : [ {
+    "verse" : "jeremiah,14,10",
+    "text" : "This is what the LORD says about this people: \"They greatly love to wander; they do not restrain their feet. So the LORD does not accept them; he will now remember their wickedness and punish them for their sins.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,14,10",
     "id" : 193696,

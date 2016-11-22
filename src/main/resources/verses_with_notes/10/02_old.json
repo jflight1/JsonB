@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "isaiah,66,1", "isaiah,66,2" ],
+  "verses" : [ {
+    "verse" : "isaiah,66,1",
+    "text" : "This is what the LORD says: \"Heaven is my throne, and the earth is my footstool. Where is the house you will build for me? Where will my resting place be?"
+  }, {
+    "verse" : "isaiah,66,2",
+    "text" : "Has not my hand made all these things, and so they came into being?\" declares the LORD. \"This is the one I esteem: he who is humble and contrite in spirit, and trembles at my word."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,56,1-isaiah,66,24",
     "id" : 193392,
@@ -12,7 +18,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 66:1\">66:1</a></b> See theological note “The Spiritual Nature of God” on next page.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,66,3", "isaiah,66,4" ],
+  "verses" : [ {
+    "verse" : "isaiah,66,3",
+    "text" : "But whoever sacrifices a bull is like one who kills a man, and whoever offers a lamb, like one who breaks a dog's neck; whoever makes a grain offering is like one who presents pig's blood, and whoever burns memorial incense, like one who worships an idol. They have chosen their own ways, and their souls delight in their abominations;"
+  }, {
+    "verse" : "isaiah,66,4",
+    "text" : "so I also will choose harsh treatment for them and will bring upon them what they dread. For when I called, no one answered, when I spoke, no one listened. They did evil in my sight and chose what displeases me.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,66,3-isaiah,66,4",
     "id" : 193500,
@@ -25,7 +37,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 66:3\">66:3</a></b> <b>kills a man.</b> This may be an allusion to child sacrifice (cf. <a class=\"bibleref\" href=\"/passage/?search=Jer 7:31\">Jer. 7:31</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 23:39\">Ezek. 23:39</a>).</p><p><b>breaks a dog’s neck.</b> Only certain animals were prescribed for sacrifice. The dog was not even permitted for food (56:10 note; <a class=\"bibleref\" href=\"/passage/?search=Lev 11:26\">Lev. 11:26</a>).</p><p><b>pig’s blood.</b> See 65:4.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,66,5", "isaiah,66,6" ],
+  "verses" : [ {
+    "verse" : "isaiah,66,5",
+    "text" : "Hear the word of the LORD, you who tremble at his word: \"Your brothers who hate you, and exclude you because of my name, have said, 'Let the LORD be glorified, that we may see your joy!' Yet they will be put to shame."
+  }, {
+    "verse" : "isaiah,66,6",
+    "text" : "Hear that uproar from the city, hear that noise from the temple! It is the sound of the LORD repaying his enemies all they deserve."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,66,5",
     "id" : 193502,
@@ -33,7 +51,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 66:5\">66:5</a></b> <b>who hate you.</b> The opposition reflected in <a class=\"bibleref\" href=\"/passage/?search=Isa 65\">ch. 65</a> between God’s servants and nominal Israel has intensified.</p><p><b>Let . . . joy.</b> Such an expression of praise by rebellious people is hypocritical righteousness.</p><p><b>shall be put to shame.</b> Humiliation is the fate of the persecutors. See v. 10 for the fate of the persecuted.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,66,7", "isaiah,66,8" ],
+  "verses" : [ {
+    "verse" : "isaiah,66,7",
+    "text" : "\"Before she goes into labor, she gives birth; before the pains come upon her, she delivers a son."
+  }, {
+    "verse" : "isaiah,66,8",
+    "text" : "Who has ever heard of such a thing? Who has ever seen such things? Can a country be born in a day or a nation be brought forth in a moment? Yet no sooner is Zion in labor than she gives birth to her children."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,66,7",
     "id" : 193503,
@@ -41,7 +65,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 66:7\">66:7</a></b> <b>Before . . . birth.</b> The birth of the new community will be sudden, and no human effort will contribute to it. Christ laid the foundation of the church in His lifetime, especially in the week of His death and resurrection (<a class=\"bibleref\" href=\"/passage/?search=John 2:19\">John 2:19</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,66,9", "isaiah,66,10" ],
+  "verses" : [ {
+    "verse" : "isaiah,66,9",
+    "text" : "Do I bring to the moment of birth and not give delivery?\" says the LORD. \"Do I close up the womb when I bring to delivery?\" says your God."
+  }, {
+    "verse" : "isaiah,66,10",
+    "text" : "\"Rejoice with Jerusalem and be glad for her, all you who love her; rejoice greatly with her, all you who mourn over her."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,66,9",
     "id" : 193504,
@@ -49,7 +79,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 66:9\">66:9</a></b> The purposes of God will not be frustrated, or begun only to be left unfinished.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,66,11" ],
+  "verses" : [ {
+    "verse" : "isaiah,66,11",
+    "text" : "For you will nurse and be satisfied at her comforting breasts; you will drink deeply and delight in her overflowing abundance.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,66,11",
     "id" : 193505,
@@ -57,7 +90,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 66:11\">66:11</a></b> <b>nurse . . . satisfied.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Isa 60:16\">60:16</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,66,12" ],
+  "verses" : [ {
+    "verse" : "isaiah,66,12",
+    "text" : "For this is what the LORD says: \"I will extend peace to her like a river, and the wealth of nations like a flooding stream; you will nurse and be carried on her arm and dandled on her knees."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,66,12",
     "id" : 193506,
@@ -65,7 +101,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 66:12\">66:12</a></b> <b>her.</b> Mother Jerusalem (<a class=\"bibleref\" href=\"/passage/?search=Isa 66:8\">vv. 8</a>, <a class=\"bibleref\" href=\"/passage/?search=Isa 66:10\">10</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,66,13", "isaiah,66,14" ],
+  "verses" : [ {
+    "verse" : "isaiah,66,13",
+    "text" : "As a mother comforts her child, so will I comfort you; and you will be comforted over Jerusalem.\""
+  }, {
+    "verse" : "isaiah,66,14",
+    "text" : "When you see this, your heart will rejoice and you will flourish like grass; the hand of the LORD will be made known to his servants, but his fury will be shown to his foes."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,66,13",
     "id" : 193507,
@@ -73,7 +115,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 66:13\">66:13</a></b> <b>mother.</b> The Lord likens His tender love to that of a mother.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,66,15" ],
+  "verses" : [ {
+    "verse" : "isaiah,66,15",
+    "text" : "See, the LORD is coming with fire, and his chariots are like a whirlwind; he will bring down his anger with fury, and his rebuke with flames of fire."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,66,15",
     "id" : 193508,
@@ -81,7 +126,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 66:15\">66:15</a></b> <b>fire . . . whirlwind.</b> These depict lightning and storm clouds respectively (<a class=\"bibleref\" href=\"/passage/?search=Deut 33:26\">Deut. 33:26</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 18:10\">Ps. 18:10</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 4:13\">Jer. 4:13</a>), common accompaniments of God’s appearance (10:17, 18; 29:6; <a class=\"bibleref\" href=\"/passage/?search=Ezek 32:6-Ezek 32:8\">Ezek. 32:6–8</a> note). Isaiah prayed for God to come in this way to bring judgment (64:1–3).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,66,16" ],
+  "verses" : [ {
+    "verse" : "isaiah,66,16",
+    "text" : "For with fire and with his sword the LORD will execute judgment upon all men, and many will be those slain by the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,66,16",
     "id" : 193509,
@@ -89,7 +137,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 66:16\">66:16</a></b> <b>sword.</b> The Lord appears as a warrior (<a class=\"bibleref\" href=\"/passage/?search=Isa 27:1\">27:1</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 34:5\">34:5</a>; <a class=\"bibleref\" href=\"/passage/?search=Rev 19:11-Rev 19:18\">Rev. 19:11–18</a>). See notes 9:6; 13:4; 40:10; 42:13.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,66,17" ],
+  "verses" : [ {
+    "verse" : "isaiah,66,17",
+    "text" : "\"Those who consecrate and purify themselves to go into the gardens, following the one in the midst of those who eat the flesh of pigs and rats and other abominable things-they will meet their end together,\" declares the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,66,17",
     "id" : 193510,
@@ -97,7 +148,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 66:17\">66:17</a></b> <b>gardens . . . pig’s flesh . . . abomination.</b> See <a class=\"bibleref\" href=\"/passage/?search=Isa 66:3\">v. 3</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 65:2-Isa 65:5\">65:2–5</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,66,18" ],
+  "verses" : [ {
+    "verse" : "isaiah,66,18",
+    "text" : "\"And I, because of their actions and their imaginations, am about to come and gather all nations and tongues, and they will come and see my glory."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,66,18",
     "id" : 193511,
@@ -105,7 +159,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 66:18\">66:18</a></b> <b>their works and their thoughts.</b> Probably the works and thoughts of those to be gathered.</p><p><b>all nations and tongues.</b> There will be universal acknowledgement of the Lord’s kingdom (<a class=\"bibleref\" href=\"/passage/?search=Zech 8:23\">Zech. 8:23</a>; <a class=\"bibleref\" href=\"/passage/?search=Rev 7:9\">Rev. 7:9</a>, <a class=\"bibleref\" href=\"/passage/?search=Rev 7:10\">10</a>).</p><p><b>glory.</b> This is God’s glory in His temple (<a class=\"bibleref\" href=\"/passage/?search=Ezek 11:22\">Ezek. 11:22</a>, <a class=\"bibleref\" href=\"/passage/?search=Ezek 11:23\">23</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 44:4\">44:4</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,66,19" ],
+  "verses" : [ {
+    "verse" : "isaiah,66,19",
+    "text" : "\"I will set a sign among them, and I will send some of those who survive to the nations-to Tarshish, to the Libyans and Lydians (famous as archers), to Tubal and Greece, and to the distant islands that have not heard of my fame or seen my glory. They will proclaim my glory among the nations."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,66,19",
     "id" : 193512,
@@ -113,7 +170,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 66:19\">66:19</a></b> <b>sign.</b> This “sign” is probably remarkable acts of judgment on the false worshipers as the remnant is delivered from among them.</p><p><b>survivors.</b> The true worshipers who survive persecution (<a class=\"bibleref\" href=\"/passage/?search=Isa 66:5\">v. 5</a>; <a class=\"bibleref\" href=\"/passage/?search=Matt 24:9-Matt 24:14\">Matt. 24:9–14</a>) bring God’s glory to the nations (v. 18).</p><p><b>Tarshish.</b> See note 23:5.</p><p><b>Pul, and Lud.</b> In North Africa.</p><p><b>Tubal.</b> South of the Black Sea in modern Turkey (<a class=\"bibleref\" href=\"/passage/?search=Ezek 38:2\">Ezek. 38:2</a>, <a class=\"bibleref\" href=\"/passage/?search=Ezek 38:3\">3</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 39:1\">39:1</a>).</p><p><b>Javan.</b> The people of Asia Minor or Greece (<a class=\"bibleref\" href=\"/passage/?search=Ezek 27:13\">Ezek. 27:13</a>, <a class=\"bibleref\" href=\"/passage/?search=Ezek 27:19\">19</a>; <a class=\"bibleref\" href=\"/passage/?search=Joel 3:6\">Joel 3:6</a>).</p><p><b>declare . . . nations.</b> The Gentiles will submit themselves to the Lord and rejoice in His mighty acts (24:16 note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,66,20", "isaiah,66,21" ],
+  "verses" : [ {
+    "verse" : "isaiah,66,20",
+    "text" : "And they will bring all your brothers, from all the nations, to my holy mountain in Jerusalem as an offering to the LORD -on horses, in chariots and wagons, and on mules and camels,\" says the LORD. \"They will bring them, as the Israelites bring their grain offerings, to the temple of the LORD in ceremonially clean vessels."
+  }, {
+    "verse" : "isaiah,66,21",
+    "text" : "And I will select some of them also to be priests and Levites,\" says the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,66,20",
     "id" : 193513,
@@ -121,7 +184,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 66:20\">66:20</a></b> <b>all your brothers.</b> The Gentiles will bring dispersed Israel back to the temple (<a class=\"bibleref\" href=\"/passage/?search=Isa 43:5\">43:5</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 60:4\">60:4</a>, <a class=\"bibleref\" href=\"/passage/?search=Isa 60:9\">9</a>; <a class=\"bibleref\" href=\"/passage/?search=Rom 11:11-Rom 11:14\">Rom. 11:11–14</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,66,22" ],
+  "verses" : [ {
+    "verse" : "isaiah,66,22",
+    "text" : "\"As the new heavens and the new earth that I make will endure before me,\" declares the LORD, \"so will your name and descendants endure."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,66,22",
     "id" : 193514,
@@ -129,7 +195,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 66:22\">66:22</a></b> <b>new heavens . . . new earth.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Isa 65:17\">65:17</a> (cf. <a class=\"bibleref\" href=\"/passage/?search=2Pet 3:13\">2 Pet. 3:13</a>; <a class=\"bibleref\" href=\"/passage/?search=Rev 21:1\">Rev. 21:1</a>).</p><p><b>your offspring and your name.</b> The people of God will never again suffer reproach, but will enjoy everlasting glory (43:1 note; 65:18, 19; cf. <a class=\"bibleref\" href=\"/passage/?search=Jer 31:35\">Jer. 31:35</a>, <a class=\"bibleref\" href=\"/passage/?search=Jer 31:36\">36</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,66,23" ],
+  "verses" : [ {
+    "verse" : "isaiah,66,23",
+    "text" : "From one New Moon to another and from one Sabbath to another, all mankind will come and bow down before me,\" says the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,66,23",
     "id" : 193515,
@@ -137,7 +206,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 66:23\">66:23</a></b> <b>new moon . . . Sabbath.</b> There will be universal worship of God at His appointed time (cf. <a class=\"bibleref\" href=\"/passage/?search=Zech 14:16\">Zech. 14:16</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,66,24" ],
+  "verses" : [ {
+    "verse" : "isaiah,66,24",
+    "text" : "\"And they will go out and look upon the dead bodies of those who rebelled against me; their worm will not die, nor will their fire be quenched, and they will be loathsome to all mankind.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,66,24",
     "id" : 193516,

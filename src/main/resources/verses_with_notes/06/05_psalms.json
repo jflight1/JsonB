@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,123,1" ],
+  "verses" : [ {
+    "verse" : "psalms,123,1",
+    "text" : "I lift up my eyes to you, to you whose throne is in heaven."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,123,1-psalms,123,4",
     "id" : 191428,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 123:1\">123:1</a></b> <b>I lift up my eyes.</b> See <a class=\"bibleref\" href=\"/passage/?search=Ps 121:1\">Ps. 121:1</a>.</p><p><b>who are enthroned in the heavens.</b> The ark and the cherubim in the Most Holy Place were in a representative sense God’s earthly throne, but the psalmist, like Solomon, knew that “heaven and the highest heaven cannot contain you” (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 8:27\">1 Kin. 8:27</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,123,2" ],
+  "verses" : [ {
+    "verse" : "psalms,123,2",
+    "text" : "As the eyes of slaves look to the hand of their master, as the eyes of a maid look to the hand of her mistress, so our eyes look to the LORD our God, till he shows us his mercy."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,123,2",
     "id" : 191430,
@@ -20,7 +26,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 123:2\">123:2</a></b> <b>so our eyes look to the <span class=\"small-caps\">Lord</span> our God.</b> A servant watches the employer’s hand for a variety of reasons: to receive orders, to hear instruction, to receive salary or provisions. The verse teaches that God’s people are utterly dependent upon Him for every aspect of their well-being.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,123,3", "psalms,123,4" ],
+  "verses" : [ {
+    "verse" : "psalms,123,3",
+    "text" : "Have mercy on us, O LORD, have mercy on us, for we have endured much contempt."
+  }, {
+    "verse" : "psalms,123,4",
+    "text" : "We have endured much ridicule from the proud, much contempt from the arrogant."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,123,3",
     "id" : 191431,

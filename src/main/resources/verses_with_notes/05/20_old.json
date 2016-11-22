@@ -1,5 +1,20 @@
 [ {
-  "singleVerses" : [ "1samuel,26,1", "1samuel,26,2", "1samuel,26,3", "1samuel,26,4", "1samuel,26,5" ],
+  "verses" : [ {
+    "verse" : "1samuel,26,1",
+    "text" : "The Ziphites went to Saul at Gibeah and said, \"Is not David hiding on the hill of Hakilah, which faces Jeshimon?\""
+  }, {
+    "verse" : "1samuel,26,2",
+    "text" : "So Saul went down to the Desert of Ziph, with his three thousand chosen men of Israel, to search there for David."
+  }, {
+    "verse" : "1samuel,26,3",
+    "text" : "Saul made his camp beside the road on the hill of Hakilah facing Jeshimon, but David stayed in the desert. When he saw that Saul had followed him there,"
+  }, {
+    "verse" : "1samuel,26,4",
+    "text" : "he sent out scouts and learned that Saul had definitely arrived."
+  }, {
+    "verse" : "1samuel,26,5",
+    "text" : "Then David set out and went to the place where Saul had camped. He saw where Saul and Abner son of Ner, the commander of the army, had lain down. Saul was lying inside the camp, with the army encamped around him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,16,1-1samuel,31,13",
     "id" : 187527,
@@ -12,7 +27,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 26:1\">26:1</a></b> <b>Ziphites came to Saul.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Sam 23:19\">23:19</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,26,6", "1samuel,26,7" ],
+  "verses" : [ {
+    "verse" : "1samuel,26,6",
+    "text" : "David then asked Ahimelech the Hittite and Abishai son of Zeruiah, Joab's brother, \"Who will go down into the camp with me to Saul?I'll go with you,\" said Abishai."
+  }, {
+    "verse" : "1samuel,26,7",
+    "text" : "So David and Abishai went to the army by night, and there was Saul, lying asleep inside the camp with his spear stuck in the ground near his head. Abner and the soldiers were lying around him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,26,6",
     "id" : 187667,
@@ -20,7 +41,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 26:6\">26:6</a></b> <b>Abishai the son of Zeruiah.</b> See note <a class=\"bibleref\" href=\"/passage/?search=2Sam 2:18\">2 Sam. 2:18</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,26,8" ],
+  "verses" : [ {
+    "verse" : "1samuel,26,8",
+    "text" : "Abishai said to David, \"Today God has delivered your enemy into your hands. Now let me pin him to the ground with one thrust of my spear; I won't strike him twice.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,26,8",
     "id" : 187668,
@@ -28,7 +52,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 26:8\">26:8</a></b> <b>God has given your enemy.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Sam 24:4\">24:4</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,26,9" ],
+  "verses" : [ {
+    "verse" : "1samuel,26,9",
+    "text" : "But David said to Abishai, \"Don't destroy him! Who can lay a hand on the LORD's anointed and be guiltless?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,26,9",
     "id" : 187669,
@@ -36,7 +63,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 26:9\">26:9</a></b> <b>against the <span class=\"small-caps\">Lord</span>’s anointed.</b> See <a class=\"bibleref\" href=\"/passage/?search=1Sam 24:6\">24:6</a> and note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,26,10", "1samuel,26,11" ],
+  "verses" : [ {
+    "verse" : "1samuel,26,10",
+    "text" : "As surely as the LORD lives,\" he said, \"the LORD himself will strike him; either his time will come and he will die, or he will go into battle and perish."
+  }, {
+    "verse" : "1samuel,26,11",
+    "text" : "But the LORD forbid that I should lay a hand on the LORD's anointed. Now get the spear and water jug that are near his head, and let's go.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,26,10",
     "id" : 187670,
@@ -44,7 +77,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 26:10\">26:10</a></b> <b>the <span class=\"small-caps\">Lord</span> will strike him.</b> David’s words express an assurance gained or at least reinforced by the Lord’s recent dealings with Nabal (<a class=\"bibleref\" href=\"/passage/?search=1Sam 25:38\">25:38</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 25:39\">39</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,26,12", "1samuel,26,13", "1samuel,26,14", "1samuel,26,15", "1samuel,26,16", "1samuel,26,17", "1samuel,26,18" ],
+  "verses" : [ {
+    "verse" : "1samuel,26,12",
+    "text" : "So David took the spear and water jug near Saul's head, and they left. No one saw or knew about it, nor did anyone wake up. They were all sleeping, because the LORD had put them into a deep sleep."
+  }, {
+    "verse" : "1samuel,26,13",
+    "text" : "Then David crossed over to the other side and stood on top of the hill some distance away; there was a wide space between them."
+  }, {
+    "verse" : "1samuel,26,14",
+    "text" : "He called out to the army and to Abner son of Ner, \"Aren't you going to answer me, Abner?\" Abner replied, \"Who are you who calls to the king?\""
+  }, {
+    "verse" : "1samuel,26,15",
+    "text" : "David said, \"You're a man, aren't you? And who is like you in Israel? Why didn't you guard your lord the king? Someone came to destroy your lord the king."
+  }, {
+    "verse" : "1samuel,26,16",
+    "text" : "What you have done is not good. As surely as the LORD lives, you and your men deserve to die, because you did not guard your master, the LORD's anointed. Look around you. Where are the king's spear and water jug that were near his head?\""
+  }, {
+    "verse" : "1samuel,26,17",
+    "text" : "Saul recognized David's voice and said, \"Is that your voice, David my son?\" David replied, \"Yes it is, my lord the king.\""
+  }, {
+    "verse" : "1samuel,26,18",
+    "text" : "And he added, \"Why is my lord pursuing his servant? What have I done, and what wrong am I guilty of?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,26,12",
     "id" : 187671,
@@ -52,7 +106,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 26:12\">26:12 a</a></b> <b>deep sleep from the <span class=\"small-caps\">Lord</span>.</b> David’s survival and ultimate success are divinely overseen and directed (see also <a class=\"bibleref\" href=\"/passage/?search=1Sam 30:2\">30:2</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 30:19\">19</a> and notes).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,26,19" ],
+  "verses" : [ {
+    "verse" : "1samuel,26,19",
+    "text" : "Now let my lord the king listen to his servant's words. If the LORD has incited you against me, then may he accept an offering. If, however, men have done it, may they be cursed before the LORD! They have now driven me from my share in the LORD's inheritance and have said, 'Go, serve other gods.'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,26,19",
     "id" : 187672,
@@ -60,7 +117,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 26:19\">26:19</a></b> <b>the heritage of the <span class=\"small-caps\">Lord</span>.</b> See note <a class=\"bibleref\" href=\"/passage/?search=2Sam 20:19\">2 Sam. 20:19</a>.</p><p><b>Go, serve other gods.</b> David means that he was expelled to live among aliens, away from the people of God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,26,20" ],
+  "verses" : [ {
+    "verse" : "1samuel,26,20",
+    "text" : "Now do not let my blood fall to the ground far from the presence of the LORD. The king of Israel has come out to look for a flea-as one hunts a partridge in the mountains.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,26,20",
     "id" : 187673,
@@ -68,7 +128,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 26:20\">26:20 a</a></b> <b>partridge.</b> The partridge, whose name in Hebrew means “caller,” is a cleverly chosen name for David, who stands on the crest of a mountain and “calls” (<a class=\"bibleref\" href=\"/passage/?search=1Sam 26:13\">vv. 13</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 26:14\">14</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,26,21", "1samuel,26,22", "1samuel,26,23", "1samuel,26,24" ],
+  "verses" : [ {
+    "verse" : "1samuel,26,21",
+    "text" : "Then Saul said, \"I have sinned. Come back, David my son. Because you considered my life precious today, I will not try to harm you again. Surely I have acted like a fool and have erred greatly.\""
+  }, {
+    "verse" : "1samuel,26,22",
+    "text" : "\"Here is the king's spear,\" David answered. \"Let one of your young men come over and get it."
+  }, {
+    "verse" : "1samuel,26,23",
+    "text" : "The LORD rewards every man for his righteousness and faithfulness. The LORD delivered you into my hands today, but I would not lay a hand on the LORD's anointed."
+  }, {
+    "verse" : "1samuel,26,24",
+    "text" : "As surely as I valued your life today, so may the LORD value my life and deliver me from all trouble.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,26,21",
     "id" : 187674,
@@ -76,7 +148,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 26:21\">26:21</a></b> <b>I have sinned. Return.</b> David’s response to Saul’s confession and invitation (<a class=\"bibleref\" href=\"/passage/?search=1Sam 26:22\">v. 22</a>) indicates he doubts Saul’s sincerity; compare Samuel’s response to a similar invitation by Saul in <a class=\"bibleref\" href=\"/passage/?search=1Sam 15:24-1Sam 15:26\">15:24–26</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,26,25" ],
+  "verses" : [ {
+    "verse" : "1samuel,26,25",
+    "text" : "Then Saul said to David, \"May you be blessed, my son David; you will do great things and surely triumph.\" So David went on his way, and Saul returned home."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,26,25",
     "id" : 187675,
@@ -84,7 +159,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 26:25\">26:25</a></b> <b>Blessed be you, my son David.</b> Saul’s behavior is erratic, and David trusts neither his confessions nor his blessings (<a class=\"bibleref\" href=\"/passage/?search=1Sam 27:1\">27:1</a>; see note <a class=\"bibleref\" href=\"/passage/?search=1Sam 24:20\">24:20</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,27,1" ],
+  "verses" : [ {
+    "verse" : "1samuel,27,1",
+    "text" : "But David thought to himself, \"One of these days I will be destroyed by the hand of Saul. The best thing I can do is to escape to the land of the Philistines. Then Saul will give up searching for me anywhere in Israel, and I will slip out of his hand.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,27,1",
     "id" : 187676,
@@ -92,7 +170,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 27:1\">27:1</a></b> <b>one day by the hand of Saul.</b> Despite recently learned lessons of faith (<a class=\"bibleref\" href=\"/passage/?search=1Sam 26:10\">26:10</a>), David tires of being a fugitive in constant danger and gives in to the human fear that Saul will eventually succeed in destroying him. David’s anxiety may be heightened since he and his men have their families with them (<a class=\"bibleref\" href=\"/passage/?search=1Sam 26:3\">v. 3</a>). For the second time (<a class=\"bibleref\" href=\"/passage/?search=1Sam 21:10\">21:10</a>), David seeks refuge among Israel’s archenemies, the Philistines.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,27,2" ],
+  "verses" : [ {
+    "verse" : "1samuel,27,2",
+    "text" : "So David and the six hundred men with him left and went over to Achish son of Maoch king of Gath."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,27,2",
     "id" : 187677,
@@ -100,7 +181,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 27:2\">27:2</a></b> <b>Achish.</b> Now that the rift between David and Saul is conspicuous and indisputable, Achish readily accepts David’s presence, doubtless hoping to benefit from David’s allegiance in his own struggles against Saul (<a class=\"bibleref\" href=\"/passage/?search=1Sam 29:6\">29:6</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,27,3", "1samuel,27,4" ],
+  "verses" : [ {
+    "verse" : "1samuel,27,3",
+    "text" : "David and his men settled in Gath with Achish. Each man had his family with him, and David had his two wives: Ahinoam of Jezreel and Abigail of Carmel, the widow of Nabal."
+  }, {
+    "verse" : "1samuel,27,4",
+    "text" : "When Saul was told that David had fled to Gath, he no longer searched for him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,27,3",
     "id" : 187678,
@@ -108,7 +195,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 27:3\">27:3</a></b> <b>his two wives.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Sam 25:40-1Sam 25:44\">25:40–44</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,27,5" ],
+  "verses" : [ {
+    "verse" : "1samuel,27,5",
+    "text" : "Then David said to Achish, \"If I have found favor in your eyes, let a place be assigned to me in one of the country towns, that I may live there. Why should your servant live in the royal city with you?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,27,5",
     "id" : 187679,
@@ -116,7 +206,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 27:5\">27:5</a></b> <b>in the royal city with you.</b> While David’s request to be assigned to “one of the country towns” is ostensibly based on a desire not to burden the royal city, it promises him a greater freedom of action by removing him from the eyes of Achish (<a class=\"bibleref\" href=\"/passage/?search=1Sam 27:8-1Sam 27:11\">vv. 8–11</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,27,6", "1samuel,27,7" ],
+  "verses" : [ {
+    "verse" : "1samuel,27,6",
+    "text" : "So on that day Achish gave him Ziklag, and it has belonged to the kings of Judah ever since."
+  }, {
+    "verse" : "1samuel,27,7",
+    "text" : "David lived in Philistine territory a year and four months."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,27,6",
     "id" : 187680,
@@ -124,7 +220,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 27:6\">27:6</a></b> <b>Ziklag.</b> Listed among the cities of Judah (<a class=\"bibleref\" href=\"/passage/?search=Josh 15:31\">Josh. 15:31</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 19:5\">19:5</a>), ancient Ziklag may have been at Tel esh-Shariah, fifteen miles northwest of Beersheba. Once an Israelite possession, Ziklag was under Philistine control at this time.</p><p><b>kings of Judah.</b> This expression is from the viewpoint of a time after the division of Israel into the northern and southern kingdoms (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 12\">1 Kin. 12</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,27,8" ],
+  "verses" : [ {
+    "verse" : "1samuel,27,8",
+    "text" : "Now David and his men went up and raided the Geshurites, the Girzites and the Amalekites. (From ancient times these peoples had lived in the land extending to Shur and Egypt.)"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,27,8",
     "id" : 187681,
@@ -132,7 +231,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 27:8\">27:8</a></b> <b>Geshurites.</b> Neighbors of the Philistines (<a class=\"bibleref\" href=\"/passage/?search=Josh 13:2\">Josh. 13:2</a>), these people are not the same as the Geshurites from east of the Jordan (<a class=\"bibleref\" href=\"/passage/?search=Josh 13:11\">Josh. 13:11</a>; <a class=\"bibleref\" href=\"/passage/?search=2Sam 15:8\">2 Sam. 15:8</a>; <a class=\"bibleref\" href=\"/passage/?search=1Chr 2:23\">1 Chr. 2:23</a>). David’s wife, Absalom’s mother (<a class=\"bibleref\" href=\"/passage/?search=2Sam 3:3\">2 Sam. 3:3</a>), was from the Geshurites east of the Jordan.</p><p><b>Girzites.</b> Not identifiable; Gezer is quite distant.</p><p><b>Amalekites.</b> See note 15:2.</p><p><b>Shur.</b> See note 15:7.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,27,9" ],
+  "verses" : [ {
+    "verse" : "1samuel,27,9",
+    "text" : "Whenever David attacked an area, he did not leave a man or woman alive, but took sheep and cattle, donkeys and camels, and clothes. Then he returned to Achish."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,27,9",
     "id" : 187682,
@@ -140,7 +242,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 27:9\">27:9</a></b> <b>leave neither man nor woman alive.</b> David’s practice would conceal his double-dealings from Achish (<a class=\"bibleref\" href=\"/passage/?search=1Sam 27:11\">v. 11</a>). Whether it was right is doubtful at best in the absence of any indication that the Lord had ordered his actions.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,27,10", "1samuel,27,11" ],
+  "verses" : [ {
+    "verse" : "1samuel,27,10",
+    "text" : "When Achish asked, \"Where did you go raiding today?\" David would say, \"Against the Negev of Judah\" or \"Against the Negev of Jerahmeel\" or \"Against the Negev of the Kenites.\""
+  }, {
+    "verse" : "1samuel,27,11",
+    "text" : "He did not leave a man or woman alive to be brought to Gath, for he thought, \"They might inform on us and say, 'This is what David did.'\" And such was his practice as long as he lived in Philistine territory."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,27,10",
     "id" : 187683,
@@ -148,7 +256,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 27:10\">27:10</a></b> <b>David would say.</b> This is not the first time David thinks it necessary to deceive (<a class=\"bibleref\" href=\"/passage/?search=1Sam 20:6\">20:6</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 21:2\">21:2</a> and notes; cf. <a class=\"bibleref\" href=\"/passage/?search=1Sam 16:2\">16:2</a> note).</p><p><b>the Negeb of Judah.</b> See <a class=\"bibleref\" href=\"/passage/?search=2Sam 24:7\">2 Sam. 24:7</a>; <a class=\"bibleref\" href=\"/passage/?search=2Chr 28:18\">2 Chr. 28:18</a>. The large southern region of Israel, the Negeb, extended from Beersheba south to the Gulf of Aqaba.</p><p><b>Jerahmeelites.</b> <a class=\"bibleref\" href=\"/passage/?search=1Chr 2:9-1Chr 2:15\">1 Chr. 2:9–15</a> mentions Jerahmeel as a descendant of Judah through Hezron and as a brother of Ram, an ancestor of David.</p><p><b>Kenites.</b> Kenites and Jerahmeelites are mentioned together in 30:29.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,27,12" ],
+  "verses" : [ {
+    "verse" : "1samuel,27,12",
+    "text" : "Achish trusted David and said to himself, \"He has become so odious to his people, the Israelites, that he will be my servant forever.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,27,12",
     "id" : 187684,
@@ -156,7 +267,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 27:12\">27:12</a></b> <b>Achish trusted David.</b> Achish was deceived by David’s pretense of raiding villages in Judah and its environs.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,28,1" ],
+  "verses" : [ {
+    "verse" : "1samuel,28,1",
+    "text" : "In those days the Philistines gathered their forces to fight against Israel. Achish said to David, \"You must understand that you and your men will accompany me in the army.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,28,1",
     "id" : 187685,
@@ -164,7 +278,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 28:1\">28:1</a></b> <b>Understand.</b> Achish points out that his benevolence to David has certain strings attached. The same Hebrew phrase is used in Solomon’s warning to Shimei in <a class=\"bibleref\" href=\"/passage/?search=1Kgs 2:37\">1 Kin. 2:37</a>, <a class=\"bibleref\" href=\"/passage/?search=1Kgs 2:42\">42</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,28,2" ],
+  "verses" : [ {
+    "verse" : "1samuel,28,2",
+    "text" : "David said, \"Then you will see for yourself what your servant can do.\" Achish replied, \"Very well, I will make you my bodyguard for life.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,28,2",
     "id" : 187686,
@@ -172,7 +289,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 28:2\">28:2</a></b> <b>what your servant can do.</b> The irony of David’s ambiguous answer (will David fight for or against him?) has a counterpoint in the perhaps unconscious irony of Achish’s reply.</p><p><b>my bodyguard for life.</b> Presumably Achish’s offer is contingent on David’s performance in battle. The Hebrew term used by Achish for “bodyguard” means literally “keeper of my head,” an unfortunate choice of words in view of David’s treatment of Goliath (<a class=\"bibleref\" href=\"/passage/?search=1Sam 17:49-1Sam 17:54\">17:49–54</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,28,3" ],
+  "verses" : [ {
+    "verse" : "1samuel,28,3",
+    "text" : "Now Samuel was dead, and all Israel had mourned for him and buried him in his own town of Ramah. Saul had expelled the mediums and spiritists from the land."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,28,3",
     "id" : 187687,
@@ -180,7 +300,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 28:3\">28:3</a></b> <b>Samuel had died.</b> The death of Samuel signals the passing of an era.</p><p><b>the mediums and the necromancers.</b> Although Saul’s expulsion of mediums and necromancers is fully in keeping with Mosaic law (<a class=\"bibleref\" href=\"/passage/?search=Lev 19:31\">Lev. 19:31</a>; <a class=\"bibleref\" href=\"/passage/?search=Lev 20:6\">20:6</a>, <a class=\"bibleref\" href=\"/passage/?search=Lev 20:27\">27</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 18:11\">Deut. 18:11</a>), it is only a partial proof of zeal for the religion of Israel. Saul’s consultation of a medium is a clear indication of unfaithfulness and disobedience (<a class=\"bibleref\" href=\"/passage/?search=1Chr 10:13\">1 Chr. 10:13</a>), while <a class=\"bibleref\" href=\"/passage/?search=Lev 20:6\">Lev. 20:6</a> says that such a person is to be “cut . . . off from among his people.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,28,4" ],
+  "verses" : [ {
+    "verse" : "1samuel,28,4",
+    "text" : "The Philistines assembled and came and set up camp at Shunem, while Saul gathered all the Israelites and set up camp at Gilboa."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,28,4",
     "id" : 187688,
@@ -188,7 +311,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 28:4\">28:4</a></b> <b>Shunem.</b> Located just southwest of the hill of Moreh and sixteen miles southwest of the Sea of Chinnereth (Galilee). Shunem was the site of the Philistine camp on the eve of the battle in which Saul died (<a class=\"bibleref\" href=\"/passage/?search=1Sam 31\">ch. 31</a>).</p><p><b>Gilboa.</b> This is probably the mountain range that begins five miles south of Shunem and extends south along the eastern edge of the plain of Jezreel. It could also be a village located in the heart of the Gilboa range eleven miles south of Shunem. See <a class=\"bibleref\" href=\"/passage/?search=1Sam 29:1\">29:1</a> and note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,28,5" ],
+  "verses" : [ {
+    "verse" : "1samuel,28,5",
+    "text" : "When Saul saw the Philistine army, he was afraid; terror filled his heart."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,28,5",
     "id" : 187689,
@@ -196,7 +322,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 28:5\">28:5</a></b> <b>his heart trembled greatly.</b> See <a class=\"bibleref\" href=\"/passage/?search=1Sam 17:11\">17:11</a> and note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,28,6" ],
+  "verses" : [ {
+    "verse" : "1samuel,28,6",
+    "text" : "He inquired of the LORD, but the LORD did not answer him by dreams or Urim or prophets."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,28,6",
     "id" : 187690,
@@ -204,7 +333,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 28:6\">28:6</a></b> <b>the <span class=\"small-caps\">Lord</span> did not answer him.</b> Saul’s inquiry is prompted by anxiety (<a class=\"bibleref\" href=\"/passage/?search=1Sam 28:5\">v. 5</a>), not piety, and the Lord’s refusal to answer is reminiscent of the threat of <a class=\"bibleref\" href=\"/passage/?search=1Sam 8:18\">8:18</a>.</p><p><b>by dreams, or by Urim, or by prophets.</b> Saul rejected the Lord and as a consequence was rejected by the Lord (<a class=\"bibleref\" href=\"/passage/?search=1Sam 15:23\">15:23</a> and note). This cut him off from the usual means of divine inquiry. Whereas David had the prophet Gad in his retinue (<a class=\"bibleref\" href=\"/passage/?search=1Sam 22:5\">22:5</a>), it is unlikely that a true prophet accompanied Saul. Moreover, the authentic ephod containing the Urim and Thummim (<a class=\"bibleref\" href=\"/passage/?search=1Sam 2:28\">2:28</a> note) had come into David’s possession through Abiathar (<a class=\"bibleref\" href=\"/passage/?search=1Sam 23:6\">23:6</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,28,7", "1samuel,28,8", "1samuel,28,9", "1samuel,28,10", "1samuel,28,11" ],
+  "verses" : [ {
+    "verse" : "1samuel,28,7",
+    "text" : "Saul then said to his attendants, \"Find me a woman who is a medium, so I may go and inquire of her.There is one in Endor,\" they said."
+  }, {
+    "verse" : "1samuel,28,8",
+    "text" : "So Saul disguised himself, putting on other clothes, and at night he and two men went to the woman. \"Consult a spirit for me,\" he said, \"and bring up for me the one I name.\""
+  }, {
+    "verse" : "1samuel,28,9",
+    "text" : "But the woman said to him, \"Surely you know what Saul has done. He has cut off the mediums and spiritists from the land. Why have you set a trap for my life to bring about my death?\""
+  }, {
+    "verse" : "1samuel,28,10",
+    "text" : "Saul swore to her by the LORD, \"As surely as the LORD lives, you will not be punished for this.\""
+  }, {
+    "verse" : "1samuel,28,11",
+    "text" : "Then the woman asked, \"Whom shall I bring up for you?Bring up Samuel,\" he said."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,28,7",
     "id" : 187691,
@@ -212,7 +356,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 28:7\">28:7</a></b> <b>Seek out for me a woman who is a medium.</b> His purge of the land notwithstanding (<a class=\"bibleref\" href=\"/passage/?search=1Sam 28:3\">v. 3</a> note), Saul seems to have no doubt that a medium can be found, and his attendants can name one immediately.</p><p><b>En-dor.</b> <a class=\"bibleref\" href=\"/passage/?search=Josh 17:11\">Josh. 17:11</a>, <a class=\"bibleref\" href=\"/passage/?search=Josh 17:12\">12</a> attests to a persistent Canaanite influence at En-dor, which was about five miles north of Shunem (v. 4 note). Saul’s recourse to En-dor took him behind Philistine lines.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,28,12", "1samuel,28,13" ],
+  "verses" : [ {
+    "verse" : "1samuel,28,12",
+    "text" : "When the woman saw Samuel, she cried out at the top of her voice and said to Saul, \"Why have you deceived me? You are Saul!\""
+  }, {
+    "verse" : "1samuel,28,13",
+    "text" : "The king said to her, \"Don't be afraid. What do you see?\" The woman said, \"I see a spirit coming up out of the ground.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,28,12",
     "id" : 187692,
@@ -220,7 +370,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 28:12\">28:12</a></b> <b>the woman saw Samuel.</b> Probably this was Samuel, and not merely an apparition. The consternation of the medium shows that the figure was something outside her usual experience of magic arts. The narrator calls it simply “Samuel,” and what the figure says is consistent with Samuel’s pronouncements when alive (especially <a class=\"bibleref\" href=\"/passage/?search=1Sam 15\">ch. 15</a>). For some reason the Lord allowed Samuel to visit Saul. It is clear from the medium’s reaction that she could not compel him to appear.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,28,14", "1samuel,28,15", "1samuel,28,16", "1samuel,28,17", "1samuel,28,18" ],
+  "verses" : [ {
+    "verse" : "1samuel,28,14",
+    "text" : "\"What does he look like?\" he asked. \"An old man wearing a robe is coming up,\" she said. Then Saul knew it was Samuel, and he bowed down and prostrated himself with his face to the ground."
+  }, {
+    "verse" : "1samuel,28,15",
+    "text" : "Samuel said to Saul, \"Why have you disturbed me by bringing me up?I am in great distress,\" Saul said. \"The Philistines are fighting against me, and God has turned away from me. He no longer answers me, either by prophets or by dreams. So I have called on you to tell me what to do.\""
+  }, {
+    "verse" : "1samuel,28,16",
+    "text" : "Samuel said, \"Why do you consult me, now that the LORD has turned away from you and become your enemy?"
+  }, {
+    "verse" : "1samuel,28,17",
+    "text" : "The LORD has done what he predicted through me. The LORD has torn the kingdom out of your hands and given it to one of your neighbors-to David."
+  }, {
+    "verse" : "1samuel,28,18",
+    "text" : "Because you did not obey the LORD or carry out his fierce wrath against the Amalekites, the LORD has done this to you today."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,28,14",
     "id" : 187693,
@@ -228,7 +393,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 28:14\">28:14</a></b> <b>Saul knew that it was Samuel.</b> Apparently Saul recognized Samuel when the woman described his mantle. Robes have symbolized the fate of Saul’s kingship in a variety of ways, and mention of Samuel’s mantle recollects the devastating pronouncement of <a class=\"bibleref\" href=\"/passage/?search=1Sam 15:28\">15:28</a> (see also 18:4; 24:4–6).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,28,19", "1samuel,28,20", "1samuel,28,21", "1samuel,28,22" ],
+  "verses" : [ {
+    "verse" : "1samuel,28,19",
+    "text" : "The LORD will hand over both Israel and you to the Philistines, and tomorrow you and your sons will be with me. The LORD will also hand over the army of Israel to the Philistines.\""
+  }, {
+    "verse" : "1samuel,28,20",
+    "text" : "Immediately Saul fell full length on the ground, filled with fear because of Samuel's words. His strength was gone, for he had eaten nothing all that day and night."
+  }, {
+    "verse" : "1samuel,28,21",
+    "text" : "When the woman came to Saul and saw that he was greatly shaken, she said, \"Look, your maidservant has obeyed you. I took my life in my hands and did what you told me to do."
+  }, {
+    "verse" : "1samuel,28,22",
+    "text" : "Now please listen to your servant and let me give you some food so you may eat and have the strength to go on your way.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,28,19",
     "id" : 187694,
@@ -236,7 +413,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 28:19\">28:19</a></b> <b>you and your sons shall be with me.</b> That is, among the dead (<a class=\"bibleref\" href=\"/passage/?search=1Sam 31:2-1Sam 31:4\">31:2–4</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,28,23" ],
+  "verses" : [ {
+    "verse" : "1samuel,28,23",
+    "text" : "He refused and said, \"I will not eat.\" But his men joined the woman in urging him, and he listened to them. He got up from the ground and sat on the couch."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,28,23",
     "id" : 187695,
@@ -244,7 +424,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 28:23\">28:23</a></b> <b>I will not eat.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Sam 1:7\">1:7</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,28,24", "1samuel,28,25" ],
+  "verses" : [ {
+    "verse" : "1samuel,28,24",
+    "text" : "The woman had a fattened calf at the house, which she butchered at once. She took some flour, kneaded it and baked bread without yeast."
+  }, {
+    "verse" : "1samuel,28,25",
+    "text" : "Then she set it before Saul and his men, and they ate. That same night they got up and left."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,28,24",
     "id" : 187696,

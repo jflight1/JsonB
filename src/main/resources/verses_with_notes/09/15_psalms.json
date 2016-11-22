@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "psalms,59,1", "psalms,59,2" ],
+  "verses" : [ {
+    "verse" : "psalms,59,1",
+    "text" : "Deliver me from my enemies, O God; protect me from those who rise up against me."
+  }, {
+    "verse" : "psalms,59,2",
+    "text" : "Deliver me from evildoers and save me from bloodthirsty men."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,59,1-psalms,59,17",
     "id" : 190713,
@@ -7,7 +13,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 59\">Ps. 59</a></b> The psalm comes from the period before David became king. Saul set a watch over David’s house, hoping to kill him; but David’s wife Michal, the daughter of Saul, helped David escape (<a class=\"bibleref\" href=\"/passage/?search=1Sam 19:11-1Sam 19:17\">1 Sam. 19:11–17</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,59,3", "psalms,59,4" ],
+  "verses" : [ {
+    "verse" : "psalms,59,3",
+    "text" : "See how they lie in wait for me! Fierce men conspire against me for no offense or sin of mine, O LORD."
+  }, {
+    "verse" : "psalms,59,4",
+    "text" : "I have done no wrong, yet they are ready to attack me. Arise to help me; look on my plight!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,59,3",
     "id" : 190714,
@@ -15,7 +27,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 59:3\">59:3</a></b> <b>For no transgression or sin of mine.</b> The psalmist is not saying that he is without sin; he is asserting that the enemy has no cause against him. This was true of the original situation, where David had committed no aggression against Saul’s kingship. See <a class=\"bibleref\" href=\"/passage/?search=Ps 26\">Ps. 26</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,59,5" ],
+  "verses" : [ {
+    "verse" : "psalms,59,5",
+    "text" : "O LORD God Almighty, the God of Israel, rouse yourself to punish all the nations; show no mercy to wicked traitors. Selah"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,59,5",
     "id" : 190715,
@@ -23,7 +38,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 59:5\">59:5</a></b> <b>God of hosts.</b> This divine title indicates that God has heavenly armies at His command.</p><p><b>nations . . . plot evil.</b> The enemies come from the nations outside of Israel, but also from within.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,59,6" ],
+  "verses" : [ {
+    "verse" : "psalms,59,6",
+    "text" : "They return at evening, snarling like dogs, and prowl about the city."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,59,6",
     "id" : 190716,
@@ -31,7 +49,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 59:6\">59:6</a></b> <b>like dogs.</b> The enemies are like a pack of dogs who roam the streets of the city and make them unsafe. Dogs were not valued in the ancient Near East.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,59,7", "psalms,59,8", "psalms,59,9" ],
+  "verses" : [ {
+    "verse" : "psalms,59,7",
+    "text" : "See what they spew from their mouths- they spew out swords from their lips, and they say, \"Who can hear us?\""
+  }, {
+    "verse" : "psalms,59,8",
+    "text" : "But you, O LORD, laugh at them; you scoff at all those nations."
+  }, {
+    "verse" : "psalms,59,9",
+    "text" : "O my Strength, I watch for you; you, O God, are my fortress,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,59,7",
     "id" : 190717,
@@ -39,7 +66,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 59:7\">59:7</a></b> <b>Who . . . will hear us.</b> See <a class=\"bibleref\" href=\"/passage/?search=Ps 64:5\">64:5</a> and note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,59,10" ],
+  "verses" : [ {
+    "verse" : "psalms,59,10",
+    "text" : "my loving God. God will go before me and will let me gloat over those who slander me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,59,10",
     "id" : 190718,
@@ -47,7 +77,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 59:10\">59:10</a></b> <b>God . . . will meet me.</b> God will lead the way in the fight against the enemy. In the time of Joshua, the ark, symbolic of God’s presence, led Israel into the Promised Land.</p><p><b>look in triumph.</b> For now, the enemy gloats over the psalmist, but the psalmist expects a reversal.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,59,11" ],
+  "verses" : [ {
+    "verse" : "psalms,59,11",
+    "text" : "But do not kill them, O Lord our shield, or my people will forget. In your might make them wander about, and bring them down."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,59,11",
     "id" : 190719,
@@ -55,7 +88,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 59:11\">59:11</a></b> <b>Kill them not.</b> The psalmist desires to prolong the suffering of the enemy. This will make them an example to the rest of Israel that evil doesn’t pay.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,59,12" ],
+  "verses" : [ {
+    "verse" : "psalms,59,12",
+    "text" : "For the sins of their mouths, for the words of their lips, let them be caught in their pride. For the curses and lies they utter,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,59,12",
     "id" : 190720,
@@ -63,7 +99,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 59:12\">59:12</a></b> <b>sin of their mouths.</b> Words are powerful, and can bring either great blessing or tremendous harm.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,59,13", "psalms,59,14", "psalms,59,15", "psalms,59,16", "psalms,59,17" ],
+  "verses" : [ {
+    "verse" : "psalms,59,13",
+    "text" : "consume them in wrath, consume them till they are no more. Then it will be known to the ends of the earth that God rules over Jacob. Selah"
+  }, {
+    "verse" : "psalms,59,14",
+    "text" : "They return at evening, snarling like dogs, and prowl about the city."
+  }, {
+    "verse" : "psalms,59,15",
+    "text" : "They wander about for food and howl if not satisfied."
+  }, {
+    "verse" : "psalms,59,16",
+    "text" : "But I will sing of your strength, in the morning I will sing of your love; for you are my fortress, my refuge in times of trouble."
+  }, {
+    "verse" : "psalms,59,17",
+    "text" : "O my Strength, I sing praise to you; you, O God, are my fortress, my loving God."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,59,13",
     "id" : 190721,

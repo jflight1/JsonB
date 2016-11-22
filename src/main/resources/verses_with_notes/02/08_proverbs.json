@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,8,12" ],
+  "verses" : [ {
+    "verse" : "proverbs,8,12",
+    "text" : "\"I, wisdom, dwell together with prudence; I possess knowledge and discretion."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,8,1-proverbs,8,36",
     "id" : 191793,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 8:12\">8:12</a></b> See <a class=\"bibleref\" href=\"/passage/?search=Prov 1:4\">1:4</a> and note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,8,13" ],
+  "verses" : [ {
+    "verse" : "proverbs,8,13",
+    "text" : "To fear the LORD is to hate evil; I hate pride and arrogance, evil behavior and perverse speech."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,8,13",
     "id" : 191803,

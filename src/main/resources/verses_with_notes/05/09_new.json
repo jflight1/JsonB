@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "john,6,1" ],
+  "verses" : [ {
+    "verse" : "john,6,1",
+    "text" : "Some time after this, Jesus crossed to the far shore of the Sea of Galilee (that is, the Sea of Tiberias),"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,6,1-john,6,71",
     "id" : 196974,
@@ -17,7 +20,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 6:1\">6:1</a></b> <b>Sea of Tiberias.</b> Another name for the Sea of Galilee, in honor of the town of Tiberias, built by Herod between <span class=\"small-caps\">a.d.</span> 20–30.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,6,2" ],
+  "verses" : [ {
+    "verse" : "john,6,2",
+    "text" : "and a great crowd of people followed him because they saw the miraculous signs he had performed on the sick."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,6,2",
     "id" : 196977,
@@ -25,7 +31,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 6:2\">6:2</a></b> <b>signs.</b> John has reported only one healing in Galilee, of the official’s son (<a class=\"bibleref\" href=\"/passage/?search=John 4:46-John 4:54\">4:46–54</a>). Jesus must have done other such miracles as well (cf. <a class=\"bibleref\" href=\"/passage/?search=John 21:25\">21:25</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,6,3", "john,6,4" ],
+  "verses" : [ {
+    "verse" : "john,6,3",
+    "text" : "Then Jesus went up on a mountainside and sat down with his disciples."
+  }, {
+    "verse" : "john,6,4",
+    "text" : "The Jewish Passover Feast was near."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,6,3",
     "id" : 196978,
@@ -33,7 +45,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 6:3\">6:3</a></b> <b>Jesus went up on the mountain.</b> This detail may be intended to suggest a comparison of Jesus and Moses, who went up on Mount Sinai (<a class=\"bibleref\" href=\"/passage/?search=John 6:14\">v. 14</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,6,5", "john,6,6" ],
+  "verses" : [ {
+    "verse" : "john,6,5",
+    "text" : "When Jesus looked up and saw a great crowd coming toward him, he said to Philip, \"Where shall we buy bread for these people to eat?\""
+  }, {
+    "verse" : "john,6,6",
+    "text" : "He asked this only to test him, for he already had in mind what he was going to do."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,6,5-john,6,15",
     "id" : 196979,
@@ -46,7 +64,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 6:5\">6:5</a></b> <b>that these people may eat.</b> Reminiscent of <a class=\"bibleref\" href=\"/passage/?search=Num 11:13\">Num. 11:13</a>, where Moses asks God a similar question.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,6,7", "john,6,8", "john,6,9" ],
+  "verses" : [ {
+    "verse" : "john,6,7",
+    "text" : "Philip answered him, \"Eight months' wages would not buy enough bread for each one to have a bite!\""
+  }, {
+    "verse" : "john,6,8",
+    "text" : "Another of his disciples, Andrew, Simon Peter's brother, spoke up,"
+  }, {
+    "verse" : "john,6,9",
+    "text" : "\"Here is a boy with five small barley loaves and two small fish, but how far will they go among so many?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,6,7",
     "id" : 196981,
@@ -54,7 +81,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 6:7\">6:7</a></b> <b>Two hundred denarii.</b> A denarius was about one day’s wage (<a class=\"bibleref\" href=\"/passage/?search=Matt 20:2\">Matt. 20:2</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,6,10", "john,6,11", "john,6,12", "john,6,13" ],
+  "verses" : [ {
+    "verse" : "john,6,10",
+    "text" : "Jesus said, \"Have the people sit down.\" There was plenty of grass in that place, and the men sat down, about five thousand of them."
+  }, {
+    "verse" : "john,6,11",
+    "text" : "Jesus then took the loaves, gave thanks, and distributed to those who were seated as much as they wanted. He did the same with the fish."
+  }, {
+    "verse" : "john,6,12",
+    "text" : "When they had all had enough to eat, he said to his disciples, \"Gather the pieces that are left over. Let nothing be wasted.\""
+  }, {
+    "verse" : "john,6,13",
+    "text" : "So they gathered them and filled twelve baskets with the pieces of the five barley loaves left over by those who had eaten."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,6,10",
     "id" : 196982,
@@ -62,7 +101,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 6:10\">6:10</a></b> <b>five thousand.</b> The figure does not include women and children (<a class=\"bibleref\" href=\"/passage/?search=Matt 14:21\">Matt. 14:21</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=2Kgs 4:42-2Kgs 4:44\">2 Kin. 4:42–44</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,6,14" ],
+  "verses" : [ {
+    "verse" : "john,6,14",
+    "text" : "After the people saw the miraculous sign that Jesus did, they began to say, \"Surely this is the Prophet who is to come into the world.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,6,14",
     "id" : 196983,
@@ -70,7 +112,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 6:14\">6:14</a></b> <b>the Prophet.</b> That is, the Prophet like Moses (<a class=\"bibleref\" href=\"/passage/?search=Deut 18:15\">Deut. 18:15</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,6,15" ],
+  "verses" : [ {
+    "verse" : "john,6,15",
+    "text" : "Jesus, knowing that they intended to come and make him king by force, withdrew again to a mountain by himself."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,6,15",
     "id" : 196984,
@@ -78,7 +123,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 6:15\">6:15</a></b> <b>to make him king.</b> The kingship of the Messiah was to be spiritual, not political. While accepting the title “King of Israel” (<a class=\"bibleref\" href=\"/passage/?search=John 1:49\">1:49</a>), Jesus refused the offer of Satan (<a class=\"bibleref\" href=\"/passage/?search=Matt 4:8\">Matt. 4:8</a>, <a class=\"bibleref\" href=\"/passage/?search=Matt 4:9\">9</a>; <a class=\"bibleref\" href=\"/passage/?search=Luke 4:5\">Luke 4:5</a>, <a class=\"bibleref\" href=\"/passage/?search=Luke 4:6\">6</a>) and the misguided efforts of the people.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,6,16", "john,6,17", "john,6,18", "john,6,19", "john,6,20" ],
+  "verses" : [ {
+    "verse" : "john,6,16",
+    "text" : "When evening came, his disciples went down to the lake,"
+  }, {
+    "verse" : "john,6,17",
+    "text" : "where they got into a boat and set off across the lake for Capernaum. By now it was dark, and Jesus had not yet joined them."
+  }, {
+    "verse" : "john,6,18",
+    "text" : "A strong wind was blowing and the waters grew rough."
+  }, {
+    "verse" : "john,6,19",
+    "text" : "When they had rowed three or three and a half miles, they saw Jesus approaching the boat, walking on the water; and they were terrified."
+  }, {
+    "verse" : "john,6,20",
+    "text" : "But he said to them, \"It is I; don't be afraid.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,6,16-john,6,21",
     "id" : 196985,
@@ -86,7 +146,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 6:16-John 6:21\">6:16–21</a></b> This miracle is recorded in <a class=\"bibleref\" href=\"/passage/?search=Matt 14:22-Matt 14:33\">Matt. 14:22–33</a> and in <a class=\"bibleref\" href=\"/passage/?search=Mark 6:47-Mark 6:51\">Mark 6:47–51</a>. It should not be confused with the calming of the storm found in <a class=\"bibleref\" href=\"/passage/?search=Matt 8:23-Matt 8:27\">Matt. 8:23–27</a>; <a class=\"bibleref\" href=\"/passage/?search=Mark 4:36-Mark 4:41\">Mark 4:36–41</a>; and <a class=\"bibleref\" href=\"/passage/?search=Luke 8:22-Luke 8:25\">Luke 8:22–25</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,6,21" ],
+  "verses" : [ {
+    "verse" : "john,6,21",
+    "text" : "Then they were willing to take him into the boat, and immediately the boat reached the shore where they were heading."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,6,21",
     "id" : 196986,

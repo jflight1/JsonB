@@ -1,5 +1,17 @@
 [ {
-  "singleVerses" : [ "psalms,106,13", "psalms,106,14", "psalms,106,15", "psalms,106,16" ],
+  "verses" : [ {
+    "verse" : "psalms,106,13",
+    "text" : "But they soon forgot what he had done and did not wait for his counsel."
+  }, {
+    "verse" : "psalms,106,14",
+    "text" : "In the desert they gave in to their craving; in the wasteland they put God to the test."
+  }, {
+    "verse" : "psalms,106,15",
+    "text" : "So he gave them what they asked for, but sent a wasting disease upon them."
+  }, {
+    "verse" : "psalms,106,16",
+    "text" : "In the camp they grew envious of Moses and of Aaron, who was consecrated to the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,106,1-psalms,106,48",
     "id" : 191194,
@@ -12,7 +24,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 106:13\">106:13</a></b> <b>they soon forgot.</b> The people’s faith and thanks were short-lived. As remembrance (<a class=\"bibleref\" href=\"/passage/?search=Ps 105:5\">Ps. 105:5</a> note) includes obedience, so forgetting leads to disobedience.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,106,17", "psalms,106,18", "psalms,106,19" ],
+  "verses" : [ {
+    "verse" : "psalms,106,17",
+    "text" : "The earth opened up and swallowed Dathan; it buried the company of Abiram."
+  }, {
+    "verse" : "psalms,106,18",
+    "text" : "Fire blazed among their followers; a flame consumed the wicked."
+  }, {
+    "verse" : "psalms,106,19",
+    "text" : "At Horeb they made a calf and worshiped an idol cast from metal."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,106,17",
     "id" : 191201,
@@ -20,7 +41,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 106:17\">106:17</a></b> <b>Dathan . . . Abiram.</b> See <a class=\"bibleref\" href=\"/passage/?search=Num 16\">Num. 16</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,106,20", "psalms,106,21" ],
+  "verses" : [ {
+    "verse" : "psalms,106,20",
+    "text" : "They exchanged their Glory for an image of a bull, which eats grass."
+  }, {
+    "verse" : "psalms,106,21",
+    "text" : "They forgot the God who saved them, who had done great things in Egypt,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,106,20",
     "id" : 191202,
@@ -28,7 +55,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 106:20\">106:20</a></b> <b>exchanged the glory.</b> They put a metal idol in the place of God and worshiped it. As Paul points out (<a class=\"bibleref\" href=\"/passage/?search=Rom 1:21-Rom 1:23\">Rom. 1:21–23</a>), idolatry consists in worshiping any part or aspect of creation as God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,106,22" ],
+  "verses" : [ {
+    "verse" : "psalms,106,22",
+    "text" : "miracles in the land of Ham and awesome deeds by the Red Sea."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,106,22",
     "id" : 191203,
@@ -36,7 +66,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 106:22\">106:22</a></b> <b>wondrous works in the land of Ham.</b> Ham is another name for Egypt, and the works are preeminently the ten plagues.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,106,23" ],
+  "verses" : [ {
+    "verse" : "psalms,106,23",
+    "text" : "So he said he would destroy them- had not Moses, his chosen one, stood in the breach before him to keep his wrath from destroying them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,106,23",
     "id" : 191204,
@@ -44,7 +77,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 106:23\">106:23</a></b> <b>Moses . . . stood in the breach before him.</b> See <a class=\"bibleref\" href=\"/passage/?search=Exod 32:11-Exod 32:14\">Ex. 32:11–14</a>. Moses interceded on behalf of the people and saved them from the wrath of God. In this, he foreshadowed the work of Jesus Christ, who not only prayed for His people but died to save them.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,106,24", "psalms,106,25" ],
+  "verses" : [ {
+    "verse" : "psalms,106,24",
+    "text" : "Then they despised the pleasant land; they did not believe his promise."
+  }, {
+    "verse" : "psalms,106,25",
+    "text" : "They grumbled in their tents and did not obey the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,106,24",
     "id" : 191205,
@@ -52,7 +91,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 106:24\">106:24</a></b> <b>they despised the pleasant land.</b> They despised the Promised Land by not having faith that God could give it to them (<a class=\"bibleref\" href=\"/passage/?search=Num 13\">Num. 13</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 14\">14</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,106,26", "psalms,106,27" ],
+  "verses" : [ {
+    "verse" : "psalms,106,26",
+    "text" : "So he swore to them with uplifted hand that he would make them fall in the desert,"
+  }, {
+    "verse" : "psalms,106,27",
+    "text" : "make their descendants fall among the nations and scatter them throughout the lands."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,106,26",
     "id" : 191206,
@@ -60,7 +105,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 106:26\">106:26</a></b> <b>raised his hand.</b> This gesture accompanies a formal oath, showing God’s determination to judge the sons of Israel.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,106,28", "psalms,106,29", "psalms,106,30" ],
+  "verses" : [ {
+    "verse" : "psalms,106,28",
+    "text" : "They yoked themselves to the Baal of Peor and ate sacrifices offered to lifeless gods;"
+  }, {
+    "verse" : "psalms,106,29",
+    "text" : "they provoked the LORD to anger by their wicked deeds, and a plague broke out among them."
+  }, {
+    "verse" : "psalms,106,30",
+    "text" : "But Phinehas stood up and intervened, and the plague was checked."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,106,28",
     "id" : 191207,
@@ -68,7 +122,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 106:28\">106:28</a></b> <b>yoked themselves.</b> The language is derogatory; worshiping a foreign idol is like becoming a beast of burden.</p><p><b>Baal of Peor.</b> Baal was a god of the eastern Mediterranean region at the time Israel was entering the Promised Land. Baal took slightly different characteristics in each local worship site and so is often identified by the region.</p><p><b>sacrifices offered to the dead.</b> This could refer to funeral rituals of some sort. Canaanite funeral rituals involved heavy drinking, feasting, and obscene lust. The whole incident, initiated by Balaam, is reported in <a class=\"bibleref\" href=\"/passage/?search=Num 25\">Num. 25</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,106,31" ],
+  "verses" : [ {
+    "verse" : "psalms,106,31",
+    "text" : "This was credited to him as righteousness for endless generations to come."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,106,31",
     "id" : 191208,

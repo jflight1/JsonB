@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "proverbs,24,17", "proverbs,24,18" ],
+  "verses" : [ {
+    "verse" : "proverbs,24,17",
+    "text" : "Do not gloat when your enemy falls; when he stumbles, do not let your heart rejoice,"
+  }, {
+    "verse" : "proverbs,24,18",
+    "text" : "or the LORD will see and disapprove and turn his wrath away from him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,22,17-proverbs,24,22",
     "id" : 192162,
@@ -12,7 +18,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 24:17\">24:17</a></b> <b>Do not rejoice.</b> On its own, this verse would make perfect sense as implying that compassion should not be entirely withdrawn from any other human being. While the motive cited in <a class=\"bibleref\" href=\"/passage/?search=Prov 24:18\">v. 18</a> may initially appear vindictive, it seems to teach that when we are devoid of kindness to our enemy, we deserve God’s wrath more than the enemy does.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,24,19" ],
+  "verses" : [ {
+    "verse" : "proverbs,24,19",
+    "text" : "Do not fret because of evil men or be envious of the wicked,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,24,19",
     "id" : 192218,
@@ -20,7 +29,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 24:19\">24:19</a></b> <b>Fret.</b> Lit. “become hot,” i.e., become agitated or vexed.</p><p><b>be not envious.</b> See <a class=\"bibleref\" href=\"/passage/?search=Prov 24:1\">v. 1</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,24,20" ],
+  "verses" : [ {
+    "verse" : "proverbs,24,20",
+    "text" : "for the evil man has no future hope, and the lamp of the wicked will be snuffed out."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,24,20",
     "id" : 192219,

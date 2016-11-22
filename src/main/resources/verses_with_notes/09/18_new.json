@@ -1,8 +1,17 @@
 [ {
-  "singleVerses" : [ "galatians,3,23" ],
+  "verses" : [ {
+    "verse" : "galatians,3,23",
+    "text" : "Before this faith came, we were held prisoners by the law, locked up until faith should be revealed."
+  } ],
   "rsbNotes" : [ ]
 }, {
-  "singleVerses" : [ "galatians,3,24", "galatians,3,25" ],
+  "verses" : [ {
+    "verse" : "galatians,3,24",
+    "text" : "So the law was put in charge to lead us to Christ that we might be justified by faith."
+  }, {
+    "verse" : "galatians,3,25",
+    "text" : "Now that faith has come, we are no longer under the supervision of the law."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "galatians,3,24",
     "id" : 198431,
@@ -10,7 +19,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gal 3:24\">3:24</a></b> <b>guardian.</b> A “guardian” was a slave responsible for a child’s training, especially for pointing out and punishing misbehavior. Like a guardian, the law pointed out sin and punished it. Another important function of guardians was to separate and protect the child from the influence of outsiders. The law functioned in a similar way to separate Israel from the Gentiles. That function of the ceremonial law has also ended. See “The Law of God” at <a class=\"bibleref\" href=\"/passage/?search=Exod 20:1\">Ex. 20:1</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "galatians,3,26", "galatians,3,27" ],
+  "verses" : [ {
+    "verse" : "galatians,3,26",
+    "text" : "You are all sons of God through faith in Christ Jesus,"
+  }, {
+    "verse" : "galatians,3,27",
+    "text" : "for all of you who were baptized into Christ have clothed yourselves with Christ."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "galatians,3,26",
     "id" : 198432,
@@ -18,7 +33,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gal 3:26\">3:26</a></b> <b>you are all sons of God.</b> We are adopted “sons” because we are united to the true Son, Jesus Christ. Baptism seals that union with Christ. It is a vital union; Christ lives in us (<a class=\"bibleref\" href=\"/passage/?search=Gal 2:20\">2:20</a>). It is also a representative union; Christ died and lives for us (<a class=\"bibleref\" href=\"/passage/?search=Rom 6:5-Rom 6:11\">Rom. 6:5–11</a>). To be clothed with Christ implies both, in that His righteousness is our covering, and we are a new creation in Christ (<a class=\"bibleref\" href=\"/passage/?search=Rom 13:14\">Rom. 13:14</a>; <a class=\"bibleref\" href=\"/passage/?search=Eph 4:24\">Eph. 4:24</a>; <a class=\"bibleref\" href=\"/passage/?search=Col 3:10\">Col. 3:10</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "galatians,3,28", "galatians,3,29" ],
+  "verses" : [ {
+    "verse" : "galatians,3,28",
+    "text" : "There is neither Jew nor Greek, slave nor free, male nor female, for you are all one in Christ Jesus."
+  }, {
+    "verse" : "galatians,3,29",
+    "text" : "If you belong to Christ, then you are Abraham's seed, and heirs according to the promise."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "galatians,3,28",
     "id" : 198433,
@@ -26,7 +47,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gal 3:28\">3:28</a></b> <b>you are all one in Christ Jesus.</b> The wall of separation between Jew and Gentile is removed for those united to Christ: all in Christ are Abraham’s seed (<a class=\"bibleref\" href=\"/passage/?search=Eph 2:14-Eph 2:16\">Eph. 2:14–16</a>; <a class=\"bibleref\" href=\"/passage/?search=Col 3:11\">Col. 3:11</a>). Indeed, no human distinctions avail as advantages in the matter of salvation. Paul does not obliterate these distinctions, such as those between the sexes, but indicates they give no preferential status in terms of our union with Christ. Until Christ returns, the created order remains and order in the church takes account of it (<a class=\"bibleref\" href=\"/passage/?search=1Cor 11:3\">1 Cor. 11:3</a>; <a class=\"bibleref\" href=\"/passage/?search=1Cor 14:34\">14:34</a>; <a class=\"bibleref\" href=\"/passage/?search=1Tim 2:11-1Tim 2:14\">1 Tim. 2:11–14</a>). See “The Church” at <a class=\"bibleref\" href=\"/passage/?search=Eph 2:19\">Eph. 2:19</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "galatians,4,1", "galatians,4,2" ],
+  "verses" : [ {
+    "verse" : "galatians,4,1",
+    "text" : "What I am saying is that as long as the heir is a child, he is no different from a slave, although he owns the whole estate."
+  }, {
+    "verse" : "galatians,4,2",
+    "text" : "He is subject to guardians and trustees until the time set by his father."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "galatians,4,1-galatians,4,7",
     "id" : 198434,
@@ -34,7 +61,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gal 4:1-Gal 4:7\">4:1–7</a></b> Paul has compared the law to a prison warden (<a class=\"bibleref\" href=\"/passage/?search=Gal 3:23\">3:23</a>) and a guardian (<a class=\"bibleref\" href=\"/passage/?search=Gal 3:24\">3:24</a> note). Now he compares its preparatory role to that of guardians or trustees of a minor. The full right reserved for one who has grown up is adoption as a son and receiving the inheritance.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "galatians,4,3" ],
+  "verses" : [ {
+    "verse" : "galatians,4,3",
+    "text" : "So also, when we were children, we were in slavery under the basic principles of the world."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "galatians,4,3",
     "id" : 198435,
@@ -42,7 +72,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gal 4:3\">4:3</a></b> <b>enslaved to the elementary principles.</b> The Greek phrase refers to the basic elements that make up the world; in ancient thought, these were earth, wind, water, and fire. Sometimes these elements were revered as deities governing the universe. Here Paul may be thinking especially of the sacred calendar of the law, its seasons determined by the heavenly bodies (cf. <a class=\"bibleref\" href=\"/passage/?search=Col 2:8\">Col. 2:8</a>, <a class=\"bibleref\" href=\"/passage/?search=Col 2:20-Col 2:22\">20–22</a>). Legalism subjected life to the control of the structures of the world.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "galatians,4,4" ],
+  "verses" : [ {
+    "verse" : "galatians,4,4",
+    "text" : "But when the time had fully come, God sent his Son, born of a woman, born under law,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "galatians,4,4",
     "id" : 198436,
@@ -50,7 +83,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gal 4:4\">4:4</a></b> <b>the fullness of time.</b> The time set by the Father (<a class=\"bibleref\" href=\"/passage/?search=Gal 4:2\">v. 2</a>), “the end of the ages” (<a class=\"bibleref\" href=\"/passage/?search=1Cor 10:11\">1 Cor. 10:11</a>), when the promises of God are realized.</p><p><b>God sent forth his Son.</b> His eternal Son, sent to be born of a woman.</p><p><b>under the law.</b> Although Christ was without sin (<a class=\"bibleref\" href=\"/passage/?search=2Cor 5:21\">2 Cor. 5:21</a>), He was born under the law, not only as One obligated to fulfill it, but also as One identified with sinners who are under the curse of the law. His death freed us from that curse (3:10–14).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "galatians,4,5" ],
+  "verses" : [ {
+    "verse" : "galatians,4,5",
+    "text" : "to redeem those under law, that we might receive the full rights of sons."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "galatians,4,5",
     "id" : 198437,
@@ -58,7 +94,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gal 4:5\">4:5</a></b> <b>to redeem.</b> The concept of redemption comes from the institution of slavery. In both the Jewish and Greco-Roman worlds, a slave could buy his freedom (or someone else could buy it for him) by paying a redemption price to his owners. The price of our redemption was paid by the Father in the blood of His Son (<a class=\"bibleref\" href=\"/passage/?search=1Pet 1:17\">1 Pet. 1:17</a>, <a class=\"bibleref\" href=\"/passage/?search=1Pet 1:18\">18</a>), and by the Son in giving His life a ransom for many (<a class=\"bibleref\" href=\"/passage/?search=Matt 20:28\">Matt. 20:28</a>).</p><p><b>those . . . under the law.</b> Not only Jews, circumcised under the law of Moses, but also Gentiles, for both are under the curse of the law (3:13, 14).</p><p><b>adoption as sons.</b> Paul has been speaking of God’s people under the law as children (<a class=\"bibleref\" href=\"/passage/?search=Exod 4:23\">Ex. 4:23</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 1:2\">Is. 1:2</a>). He now describes the only way in which the children become full members of the household, no longer minors. God seals our adoption by giving us the Spirit of His Son (<a class=\"bibleref\" href=\"/passage/?search=Rom 8:9-Rom 8:17\">Rom. 8:9–17</a>). See theological note “Adoption.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "galatians,4,6", "galatians,4,7", "galatians,4,8" ],
+  "verses" : [ {
+    "verse" : "galatians,4,6",
+    "text" : "Because you are sons, God sent the Spirit of his Son into our hearts, the Spirit who calls out, \"Abba, Father.\""
+  }, {
+    "verse" : "galatians,4,7",
+    "text" : "So you are no longer a slave, but a son; and since you are a son, God has made you also an heir."
+  }, {
+    "verse" : "galatians,4,8",
+    "text" : "Formerly, when you did not know God, you were slaves to those who by nature are not gods."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "galatians,4,6",
     "id" : 198438,
@@ -66,7 +111,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gal 4:6\">4:6</a></b> <b>Abba.</b> The Aramaic word for “Father,” used by Jesus (<a class=\"bibleref\" href=\"/passage/?search=Mark 14:36\">Mark 14:36</a>). It was natural for Jesus, God’s Son in a unique sense, to use this term. Now the Spirit puts the same word on the lips of men and women who are adopted in Christ.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "galatians,4,9" ],
+  "verses" : [ {
+    "verse" : "galatians,4,9",
+    "text" : "But now that you know God--or rather are known by God--how is it that you are turning back to those weak and miserable principles? Do you wish to be enslaved by them all over again?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "galatians,4,9",
     "id" : 198439,
@@ -74,7 +122,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gal 4:9\">4:9</a></b> <b>known by God.</b> Their knowledge of God was not the result of their own inquiry, but the sovereign work of the One who opened their understanding. See “True Knowledge of God” at <a class=\"bibleref\" href=\"/passage/?search=Jer 9:24\">Jer. 9:24</a>.</p><p><b>turn back again.</b> Amazingly, Paul likens the bondage of ceremonial legalism to the bondage of pagan superstition. To accept circumcision as necessary for salvation is to turn back from the liberty of grace to the bondage of the world with its times and seasons (v. 10; <a class=\"bibleref\" href=\"/passage/?search=Col 2:8\">Col. 2:8</a>, <a class=\"bibleref\" href=\"/passage/?search=Col 2:20-Col 2:22\">20–22</a>), whether these times be Jewish or Gentile.</p><p><b>weak . . . principles.</b> Before their conversion, the Galatians were subject to the “principles” of a pagan world: its false gods, its astrology, its seasonal rituals (v. 3 note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "galatians,4,10", "galatians,4,11" ],
+  "verses" : [ {
+    "verse" : "galatians,4,10",
+    "text" : "You are observing special days and months and seasons and years!"
+  }, {
+    "verse" : "galatians,4,11",
+    "text" : "I fear for you, that somehow I have wasted my efforts on you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "galatians,4,10",
     "id" : 198440,
@@ -82,7 +136,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gal 4:10\">4:10</a></b> Paul may be referring to the observance of Jewish festivals. The Jewish agitators among the Galatians probably required not only circumcision for salvation but also adoption of the whole law, including the food laws and religious festivals.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "galatians,4,12", "galatians,4,13", "galatians,4,14", "galatians,4,15", "galatians,4,16" ],
+  "verses" : [ {
+    "verse" : "galatians,4,12",
+    "text" : "I plead with you, brothers, become like me, for I became like you. You have done me no wrong."
+  }, {
+    "verse" : "galatians,4,13",
+    "text" : "As you know, it was because of an illness that I first preached the gospel to you."
+  }, {
+    "verse" : "galatians,4,14",
+    "text" : "Even though my illness was a trial to you, you did not treat me with contempt or scorn. Instead, you welcomed me as if I were an angel of God, as if I were Christ Jesus himself."
+  }, {
+    "verse" : "galatians,4,15",
+    "text" : "What has happened to all your joy? I can testify that, if you could have done so, you would have torn out your eyes and given them to me."
+  }, {
+    "verse" : "galatians,4,16",
+    "text" : "Have I now become your enemy by telling you the truth?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "galatians,4,12",
     "id" : 198441,
@@ -90,7 +159,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gal 4:12\">4:12</a></b> <b>become as I am, for I also have become as you are.</b> In order to bring the gospel to the Gentile Galatians, Paul had to leave behind the legal restrictions of the Mosaic ceremonial law that forbade Jewish interaction with Gentiles (<a class=\"bibleref\" href=\"/passage/?search=1Cor 9:19-1Cor 9:23\">1 Cor. 9:19–23</a>). Paul became like the Galatians in freedom from the law, and he now encourages them to be like him in freedom from legalistic bondage.</p><p><b>You did me no wrong.</b> Paul’s positive characterization of his previous relationship with the Galatian Christians (developed further in vv. 13–16) contains an implicit plea for good relations to continue. Paul’s depth of concern for the Galatians is evident throughout this section.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "galatians,4,17", "galatians,4,18" ],
+  "verses" : [ {
+    "verse" : "galatians,4,17",
+    "text" : "Those people are zealous to win you over, but for no good. What they want is to alienate you from us, so that you may be zealous for them."
+  }, {
+    "verse" : "galatians,4,18",
+    "text" : "It is fine to be zealous, provided the purpose is good, and to be so always and not just when I am with you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "galatians,4,17",
     "id" : 198442,
@@ -98,7 +173,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gal 4:17\">4:17</a></b> <b>make much of you.</b> See <a class=\"bibleref\" href=\"/passage/?search=Gal 6:12\">6:12</a>. The source of their zeal may have been a desire to avoid persecution, perhaps by Jewish nationalists who were not Christians and who saw the inclusiveness of the Christian movement as a threat to their cause.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "galatians,4,19", "galatians,4,20", "galatians,4,21" ],
+  "verses" : [ {
+    "verse" : "galatians,4,19",
+    "text" : "My dear children, for whom I am again in the pains of childbirth until Christ is formed in you,"
+  }, {
+    "verse" : "galatians,4,20",
+    "text" : "how I wish I could be with you now and change my tone, because I am perplexed about you!"
+  }, {
+    "verse" : "galatians,4,21",
+    "text" : "Tell me, you who want to be under the law, are you not aware of what the law says?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "galatians,4,19-galatians,4,20",
     "id" : 198443,
@@ -106,7 +190,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gal 4:19\">4:19</a>, <a class=\"bibleref\" href=\"/passage/?search=Gal 4:20\">20</a></b> A touching witness to the depth of Paul’s feeling for those whom he brought to faith in Christ. Paul’s anger in this epistle (<a class=\"bibleref\" href=\"/passage/?search=Gal 1:6\">1:6</a>, <a class=\"bibleref\" href=\"/passage/?search=Gal 1:9\">9</a>; <a class=\"bibleref\" href=\"/passage/?search=Gal 3:1\">3:1</a>; <a class=\"bibleref\" href=\"/passage/?search=Gal 5:12\">5:12</a>) reflects not only the seriousness with which he regards the task of preserving the truth of the gospel, but also the love which he had for his “children” in Christ.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "galatians,4,22" ],
+  "verses" : [ {
+    "verse" : "galatians,4,22",
+    "text" : "For it is written that Abraham had two sons, one by the slave woman and the other by the free woman."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "galatians,4,22",
     "id" : 198444,
@@ -114,7 +201,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gal 4:22\">4:22</a></b> <b>two sons.</b> The older son Ishmael was born to Hagar (<a class=\"bibleref\" href=\"/passage/?search=Gen 16\">Gen. 16</a>); the younger son Isaac to Sarah (<a class=\"bibleref\" href=\"/passage/?search=Gen 21:1-Gen 21:6\">Gen. 21:1–6</a>). Hagar was Sarah’s slave.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "galatians,4,23" ],
+  "verses" : [ {
+    "verse" : "galatians,4,23",
+    "text" : "His son by the slave woman was born in the ordinary way; but his son by the free woman was born as the result of a promise."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "galatians,4,23",
     "id" : 198445,
@@ -122,7 +212,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gal 4:23\">4:23</a></b> Ishmael, the son of Abraham and Hagar, was born after Abraham and Sarah despaired of having the son God had promised. Isaac was born to Sarah by a miracle long after her child-bearing years had ended. God showed that none of His promises are empty (<a class=\"bibleref\" href=\"/passage/?search=Gen 18:14\">Gen. 18:14</a>; <a class=\"bibleref\" href=\"/passage/?search=Luke 1:37\">Luke 1:37</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "galatians,4,24" ],
+  "verses" : [ {
+    "verse" : "galatians,4,24",
+    "text" : "These things may be taken figuratively, for the women represent two covenants. One covenant is from Mount Sinai and bears children who are to be slaves: This is Hagar."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "galatians,4,24",
     "id" : 198446,
@@ -130,7 +223,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gal 4:24\">4:24</a></b> <b>allegorically.</b> Their historical occurrence has a deeper significance.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "galatians,4,25" ],
+  "verses" : [ {
+    "verse" : "galatians,4,25",
+    "text" : "Now Hagar stands for Mount Sinai in Arabia and corresponds to the present city of Jerusalem, because she is in slavery with her children."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "galatians,4,25",
     "id" : 198447,
@@ -138,7 +234,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gal 4:25\">4:25</a></b> <b>Mount Sinai.</b> The place where God established His covenant with Israel (<a class=\"bibleref\" href=\"/passage/?search=Exod 19-Exod 34\">Ex. 19–34</a>).</p><p><b>corresponds to the present Jerusalem.</b> In both Paul’s day and our own, most Jews remain, like all unbelievers, in slavery to sin and under the curse that the covenant of Sinai pronounces upon all who disobey its conditions.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "galatians,4,26", "galatians,4,27", "galatians,4,28", "galatians,4,29" ],
+  "verses" : [ {
+    "verse" : "galatians,4,26",
+    "text" : "But the Jerusalem that is above is free, and she is our mother."
+  }, {
+    "verse" : "galatians,4,27",
+    "text" : "For it is written: \"Be glad, O barren woman, who bears no children; break forth and cry aloud, you who have no labor pains; because more are the children of the desolate woman than of her who has a husband.\""
+  }, {
+    "verse" : "galatians,4,28",
+    "text" : "Now you, brothers, like Isaac, are children of promise."
+  }, {
+    "verse" : "galatians,4,29",
+    "text" : "At that time the son born in the ordinary way persecuted the son born by the power of the Spirit. It is the same now."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "galatians,4,26",
     "id" : 198448,
@@ -146,7 +254,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gal 4:26\">4:26</a></b> <b>Jerusalem above.</b> Jerusalem was the city where God had set His name, the place of His dwelling in the midst of His people (<a class=\"bibleref\" href=\"/passage/?search=Ps 78:68\">Ps. 78:68</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 78:69\">69</a>). The reality of God’s dwelling with us was accomplished in Christ, the true temple (<a class=\"bibleref\" href=\"/passage/?search=John 2:19\">John 2:19</a>). The true Jerusalem is in heaven where He is (<a class=\"bibleref\" href=\"/passage/?search=Heb 12:22\">Heb. 12:22</a>; <a class=\"bibleref\" href=\"/passage/?search=Rev 21:2\">Rev. 21:2</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "galatians,4,30", "galatians,4,31" ],
+  "verses" : [ {
+    "verse" : "galatians,4,30",
+    "text" : "But what does the Scripture say? \"Get rid of the slave woman and her son, for the slave woman's son will never share in the inheritance with the free woman's son.\""
+  }, {
+    "verse" : "galatians,4,31",
+    "text" : "Therefore, brothers, we are not children of the slave woman, but of the free woman."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "galatians,4,30",
     "id" : 198449,

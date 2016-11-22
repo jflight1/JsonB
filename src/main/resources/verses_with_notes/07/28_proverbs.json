@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,20,7" ],
+  "verses" : [ {
+    "verse" : "proverbs,20,7",
+    "text" : "The righteous man leads a blameless life; blessed are his children after him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

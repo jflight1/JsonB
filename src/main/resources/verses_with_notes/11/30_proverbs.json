@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,28,23" ],
+  "verses" : [ {
+    "verse" : "proverbs,28,23",
+    "text" : "He who rebukes a man will in the end gain more favor than he who has a flattering tongue."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,28,1-proverbs,28,28",
     "id" : 192290,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 28:23\">28:23</a></b> A needed rebuke ultimately has a positive effect on personal relationships (<a class=\"bibleref\" href=\"/passage/?search=Prov 27:5\">27:5</a>), while flattery only undermines them.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,28,24" ],
+  "verses" : [ {
+    "verse" : "proverbs,28,24",
+    "text" : "He who robs his father or mother and says, \"It's not wrong\"- he is partner to him who destroys."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,28,24",
     "id" : 192311,

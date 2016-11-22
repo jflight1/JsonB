@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,17,1" ],
+  "verses" : [ {
+    "verse" : "proverbs,17,1",
+    "text" : "Better a dry crust with peace and quiet than a house full of feasting, with strife."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

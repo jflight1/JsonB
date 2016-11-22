@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "matthew,20,1" ],
+  "verses" : [ {
+    "verse" : "matthew,20,1",
+    "text" : "\"For the kingdom of heaven is like a landowner who went out early in the morning to hire men to work in his vineyard."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,20,1-matthew,20,15",
     "id" : 195847,
@@ -7,7 +10,49 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 20:1-Matt 20:15\">20:1–15</a></b> This parable is only a hard saying for those who fail to recognize their absolute dependence on grace for any good thing from God’s hand. There is no room for a Christian to be jealous of the good gifts God has given to another.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,20,2", "matthew,20,3", "matthew,20,4", "matthew,20,5", "matthew,20,6", "matthew,20,7", "matthew,20,8", "matthew,20,9", "matthew,20,10", "matthew,20,11", "matthew,20,12", "matthew,20,13", "matthew,20,14", "matthew,20,15" ],
+  "verses" : [ {
+    "verse" : "matthew,20,2",
+    "text" : "He agreed to pay them a denarius for the day and sent them into his vineyard."
+  }, {
+    "verse" : "matthew,20,3",
+    "text" : "\"About the third hour he went out and saw others standing in the marketplace doing nothing."
+  }, {
+    "verse" : "matthew,20,4",
+    "text" : "He told them, 'You also go and work in my vineyard, and I will pay you whatever is right.'"
+  }, {
+    "verse" : "matthew,20,5",
+    "text" : "So they went."
+  }, {
+    "verse" : "matthew,20,6",
+    "text" : "\"He went out again about the sixth hour and the ninth hour and did the same thing. About the eleventh hour he went out and found still others standing around. He asked them, 'Why have you been standing here all day long doing nothing?'"
+  }, {
+    "verse" : "matthew,20,7",
+    "text" : "\"'Because no one has hired us,' they answered. \"He said to them, 'You also go and work in my vineyard.'"
+  }, {
+    "verse" : "matthew,20,8",
+    "text" : "\"When evening came, the owner of the vineyard said to his foreman, 'Call the workers and pay them their wages, beginning with the last ones hired and going on to the first.'"
+  }, {
+    "verse" : "matthew,20,9",
+    "text" : "\"The workers who were hired about the eleventh hour came and each received a denarius."
+  }, {
+    "verse" : "matthew,20,10",
+    "text" : "So when those came who were hired first, they expected to receive more. But each one of them also received a denarius."
+  }, {
+    "verse" : "matthew,20,11",
+    "text" : "When they received it, they began to grumble against the landowner."
+  }, {
+    "verse" : "matthew,20,12",
+    "text" : "'These men who were hired last worked only one hour,' they said, 'and you have made them equal to us who have borne the burden of the work and the heat of the day.'"
+  }, {
+    "verse" : "matthew,20,13",
+    "text" : "\"But he answered one of them, 'Friend, I am not being unfair to you. Didn't you agree to work for a denarius?"
+  }, {
+    "verse" : "matthew,20,14",
+    "text" : "Take your pay and go. I want to give the man who was hired last the same as I gave you."
+  }, {
+    "verse" : "matthew,20,15",
+    "text" : "Don't I have the right to do what I want with my own money? Or are you envious because I am generous?'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,20,2",
     "id" : 195848,
@@ -15,7 +60,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 20:2\">20:2 a</a></b> <b>denarius.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Matt 18:28\">18:28</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,20,16" ],
+  "verses" : [ {
+    "verse" : "matthew,20,16",
+    "text" : "\"So the last will be first, and the first will be last.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,20,16",
     "id" : 195849,
@@ -23,7 +71,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 20:16\">20:16</a></b> See note <a class=\"bibleref\" href=\"/passage/?search=Matt 19:30\">19:30</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,20,17", "matthew,20,18", "matthew,20,19", "matthew,20,20", "matthew,20,21", "matthew,20,22" ],
+  "verses" : [ {
+    "verse" : "matthew,20,17",
+    "text" : "Now as Jesus was going up to Jerusalem, he took the twelve disciples aside and said to them,"
+  }, {
+    "verse" : "matthew,20,18",
+    "text" : "\"We are going up to Jerusalem, and the Son of Man will be betrayed to the chief priests and the teachers of the law. They will condemn him to death"
+  }, {
+    "verse" : "matthew,20,19",
+    "text" : "and will turn him over to the Gentiles to be mocked and flogged and crucified. On the third day he will be raised to life!\""
+  }, {
+    "verse" : "matthew,20,20",
+    "text" : "Then the mother of Zebedee's sons came to Jesus with her sons and, kneeling down, asked a favor of him."
+  }, {
+    "verse" : "matthew,20,21",
+    "text" : "\"What is it you want?\" he asked. She said, \"Grant that one of these two sons of mine may sit at your right and the other at your left in your kingdom.\""
+  }, {
+    "verse" : "matthew,20,22",
+    "text" : "\"You don't know what you are asking,\" Jesus said to them. \"Can you drink the cup I am going to drink?We can,\" they answered."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,20,17-matthew,20,19",
     "id" : 195850,
@@ -31,7 +97,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 20:17-Matt 20:19\">20:17–19</a></b> This is Jesus’ third prediction of His passion and resurrection (<a class=\"bibleref\" href=\"/passage/?search=Matt 16:21\">16:21</a> note; <a class=\"bibleref\" href=\"/passage/?search=Matt 17:22\">17:22</a>, <a class=\"bibleref\" href=\"/passage/?search=Matt 17:23\">23</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,20,23", "matthew,20,24", "matthew,20,25", "matthew,20,26", "matthew,20,27" ],
+  "verses" : [ {
+    "verse" : "matthew,20,23",
+    "text" : "Jesus said to them, \"You will indeed drink from my cup, but to sit at my right or left is not for me to grant. These places belong to those for whom they have been prepared by my Father.\""
+  }, {
+    "verse" : "matthew,20,24",
+    "text" : "When the ten heard about this, they were indignant with the two brothers."
+  }, {
+    "verse" : "matthew,20,25",
+    "text" : "Jesus called them together and said, \"You know that the rulers of the Gentiles lord it over them, and their high officials exercise authority over them."
+  }, {
+    "verse" : "matthew,20,26",
+    "text" : "Not so with you. Instead, whoever wants to become great among you must be your servant,"
+  }, {
+    "verse" : "matthew,20,27",
+    "text" : "and whoever wants to be first must be your slave--"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,20,23",
     "id" : 195851,
@@ -39,7 +120,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 20:23\">20:23</a></b> <b>cup.</b> In the Old Testament the “cup” normally signifies the outpouring of God’s wrath (<a class=\"bibleref\" href=\"/passage/?search=Ps 75:8\">Ps. 75:8</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 51:17\">Is. 51:17</a>, <a class=\"bibleref\" href=\"/passage/?search=Isa 51:22\">22</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 25:15\">Jer. 25:15</a>, <a class=\"bibleref\" href=\"/passage/?search=Jer 25:16\">16</a>). That the disciples would drink this cup means they would experience suffering, but note that Jesus calls it “my cup.” Because Jesus drank the cup of God’s wrath for His own, believers do not drink the wrath they deserve. In and through Christ’s suffering they have already undergone judgment. They are now justified in Christ and heirs of His glory (<a class=\"bibleref\" href=\"/passage/?search=Rom 8:17\">Rom. 8:17</a>). Yet their privilege is to be identified with Christ in His sufferings (<a class=\"bibleref\" href=\"/passage/?search=1Pet 2:21\">1 Pet. 2:21</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,20,28" ],
+  "verses" : [ {
+    "verse" : "matthew,20,28",
+    "text" : "just as the Son of Man did not come to be served, but to serve, and to give his life as a ransom for many.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,20,28",
     "id" : 195852,

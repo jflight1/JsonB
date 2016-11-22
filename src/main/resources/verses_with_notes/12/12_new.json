@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "revelation,3,7", "revelation,3,8" ],
+  "verses" : [ {
+    "verse" : "revelation,3,7",
+    "text" : "\"To the angel of the church in Philadelphia write: These are the words of him who is holy and true, who holds the key of David. What he opens no one can shut, and what he shuts no one can open."
+  }, {
+    "verse" : "revelation,3,8",
+    "text" : "I know your deeds. See, I have placed before you an open door that no one can shut. I know that you have little strength, yet you have kept my word and have not denied my name."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "revelation,2,1-revelation,3,22",
     "id" : 199637,
@@ -7,7 +13,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rev 2-Rev 3\">2:1–3:22</a></b> See theological note “The Local Church” on next page. Christ shows care for the churches by addressing each according to its needs, with encouragement, rebuke, exhortation, and promise. He shows detailed knowledge of them (“I know”). In all the letters there are allusions to circumstances or traditions of the particular city, probably including some that are no longer recognized. At the same time, all the churches are included in a universal calling to faithfulness and endurance until the promises reach their fulfillment in the heavenly Jerusalem. Their struggles contrast with the peace and satisfaction pictured in <a class=\"bibleref\" href=\"/passage/?search=Rev 21:1-Rev 22:5\">21:1–22:5</a>. The exhortations are reinforced by an opening allusion to some element of the majestic vision of <a class=\"bibleref\" href=\"/passage/?search=Rev 1:12-Rev 1:20\">1:12–20</a>, and therefore have universal bearing (<a class=\"bibleref\" href=\"/passage/?search=Rev 1:4\">1:4</a> note).</p><p>Each message has the same basic form:</p><p>1. Addressee: “to the angel of the church . . . write.”</p><p>2. Identification of Christ, alluding back to His majesty displayed in <a class=\"bibleref\" href=\"/passage/?search=Rev 1:12-Rev 1:20\">1:12–20</a>: “The words of him.”</p><p>3. Claim of knowledge: “I know.”</p><p>4. Evaluation: rebukes or commendations.</p><p>5. Promise or threat: usually “I will.”</p><p>6. Promise to “the one who conquers.”</p><p>7. Exhortation to listen: “He who has an ear.”</p><p>Note that (6) and (7) can occur in reverse order, and (5) can be included with (4).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "revelation,3,9", "revelation,3,10", "revelation,3,11" ],
+  "verses" : [ {
+    "verse" : "revelation,3,9",
+    "text" : "I will make those who are of the synagogue of Satan, who claim to be Jews though they are not, but are liars--I will make them come and fall down at your feet and acknowledge that I have loved you."
+  }, {
+    "verse" : "revelation,3,10",
+    "text" : "Since you have kept my command to endure patiently, I will also keep you from the hour of trial that is going to come upon the whole world to test those who live on the earth."
+  }, {
+    "verse" : "revelation,3,11",
+    "text" : "I am coming soon. Hold on to what you have, so that no one will take your crown."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "revelation,3,9",
     "id" : 199650,
@@ -15,7 +30,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rev 3:9\">3:9</a></b> <b>synagogue of Satan.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Rev 2:9\">2:9</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "revelation,3,12", "revelation,3,13", "revelation,3,14" ],
+  "verses" : [ {
+    "verse" : "revelation,3,12",
+    "text" : "Him who overcomes I will make a pillar in the temple of my God. Never again will he leave it. I will write on him the name of my God and the name of the city of my God, the new Jerusalem, which is coming down out of heaven from my God; and I will also write on him my new name."
+  }, {
+    "verse" : "revelation,3,13",
+    "text" : "He who has an ear, let him hear what the Spirit says to the churches."
+  }, {
+    "verse" : "revelation,3,14",
+    "text" : "\"To the angel of the church in Laodicea write: These are the words of the Amen, the faithful and true witness, the ruler of God's creation."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "revelation,3,12",
     "id" : 199651,
@@ -23,7 +47,31 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rev 3:12\">3:12 a</a></b> <b>pillar in the temple.</b> Philadelphia had suffered from earthquakes, making the promise of security and stability particularly pointed.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "revelation,3,15", "revelation,3,16", "revelation,3,17", "revelation,3,18", "revelation,3,19", "revelation,3,20", "revelation,3,21", "revelation,3,22" ],
+  "verses" : [ {
+    "verse" : "revelation,3,15",
+    "text" : "I know your deeds, that you are neither cold nor hot. I wish you were either one or the other!"
+  }, {
+    "verse" : "revelation,3,16",
+    "text" : "So, because you are lukewarm--neither hot nor cold--I am about to spit you out of my mouth."
+  }, {
+    "verse" : "revelation,3,17",
+    "text" : "You say, 'I am rich; I have acquired wealth and do not need a thing.' But you do not realize that you are wretched, pitiful, poor, blind and naked."
+  }, {
+    "verse" : "revelation,3,18",
+    "text" : "I counsel you to buy from me gold refined in the fire, so you can become rich; and white clothes to wear, so you can cover your shameful nakedness; and salve to put on your eyes, so you can see."
+  }, {
+    "verse" : "revelation,3,19",
+    "text" : "Those whom I love I rebuke and discipline. So be earnest, and repent."
+  }, {
+    "verse" : "revelation,3,20",
+    "text" : "Here I am! I stand at the door and knock. If anyone hears my voice and opens the door, I will come in and eat with him, and he with me."
+  }, {
+    "verse" : "revelation,3,21",
+    "text" : "To him who overcomes, I will give the right to sit with me on my throne, just as I overcame and sat down with my Father on his throne."
+  }, {
+    "verse" : "revelation,3,22",
+    "text" : "He who has an ear, let him hear what the Spirit says to the churches.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "revelation,3,15",
     "id" : 199652,

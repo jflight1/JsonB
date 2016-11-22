@@ -1,8 +1,14 @@
 [ {
-  "singleVerses" : [ "psalms,27,7" ],
+  "verses" : [ {
+    "verse" : "psalms,27,7",
+    "text" : "Hear my voice when I call, O LORD; be merciful to me and answer me."
+  } ],
   "rsbNotes" : [ ]
 }, {
-  "singleVerses" : [ "psalms,27,8" ],
+  "verses" : [ {
+    "verse" : "psalms,27,8",
+    "text" : "My heart says of you, \"Seek his face!\" Your face, LORD, I will seek."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,27,8",
     "id" : 190421,
@@ -10,7 +16,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 27:8\">27:8</a></b> <b>face.</b> To seek God’s face is to seek intimate fellowship with Him.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,27,9", "psalms,27,10", "psalms,27,11", "psalms,27,12" ],
+  "verses" : [ {
+    "verse" : "psalms,27,9",
+    "text" : "Do not hide your face from me, do not turn your servant away in anger; you have been my helper. Do not reject me or forsake me, O God my Savior."
+  }, {
+    "verse" : "psalms,27,10",
+    "text" : "Though my father and mother forsake me, the LORD will receive me."
+  }, {
+    "verse" : "psalms,27,11",
+    "text" : "Teach me your way, O LORD; lead me in a straight path because of my oppressors."
+  }, {
+    "verse" : "psalms,27,12",
+    "text" : "Do not turn me over to the desire of my foes, for false witnesses rise up against me, breathing out violence."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,27,9",
     "id" : 190422,
@@ -18,7 +36,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 27:9\">27:9</a></b> <b>Hide not your face.</b> The psalmist recognizes that, however great his desire, he can only see God’s face if God reveals it.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,27,13" ],
+  "verses" : [ {
+    "verse" : "psalms,27,13",
+    "text" : "I am still confident of this: I will see the goodness of the LORD in the land of the living."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,27,13",
     "id" : 190423,
@@ -26,7 +47,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 27:13\">27:13</a></b> <b>goodness of the <span class=\"small-caps\">Lord.</span></b> He is confident of God’s vindication while he is still alive.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,27,14" ],
+  "verses" : [ {
+    "verse" : "psalms,27,14",
+    "text" : "Wait for the LORD; be strong and take heart and wait for the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,27,14",
     "id" : 190424,

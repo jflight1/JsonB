@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "proverbs,11,5", "proverbs,11,6" ],
+  "verses" : [ {
+    "verse" : "proverbs,11,5",
+    "text" : "The righteousness of the blameless makes a straight way for them, but the wicked are brought down by their own wickedness."
+  }, {
+    "verse" : "proverbs,11,6",
+    "text" : "The righteousness of the upright delivers them, but the unfaithful are trapped by evil desires."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

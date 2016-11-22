@@ -1,8 +1,14 @@
 [ {
-  "singleVerses" : [ "acts,27,1" ],
+  "verses" : [ {
+    "verse" : "acts,27,1",
+    "text" : "When it was decided that we would sail for Italy, Paul and some other prisoners were handed over to a centurion named Julius, who belonged to the Imperial Regiment."
+  } ],
   "rsbNotes" : [ ]
 }, {
-  "singleVerses" : [ "acts,27,2" ],
+  "verses" : [ {
+    "verse" : "acts,27,2",
+    "text" : "We boarded a ship from Adramyttium about to sail for ports along the coast of the province of Asia, and we put out to sea. Aristarchus, a Macedonian from Thessalonica, was with us."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,27,2",
     "id" : 197670,
@@ -10,7 +16,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 27:2\">27:2</a></b> <b>Adramyttium.</b> On the coast between Troas and Pergamum.</p><p><b>we put to sea.</b> This chapter is filled with nautical terms and directions, evidence that the author was an eyewitness.</p><p><b>we . . . Aristarchus.</b> Paul had two companions with him: Luke as his physician (<a class=\"bibleref\" href=\"/passage/?search=Col 4:14\">Col. 4:14</a>) and Aristarchus (<a class=\"bibleref\" href=\"/passage/?search=Col 4:10\">Col. 4:10</a>; <a class=\"bibleref\" href=\"/passage/?search=Phlm 1:24\">Philem. 24</a>) from Thessalonica, probably his attendant.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,27,3" ],
+  "verses" : [ {
+    "verse" : "acts,27,3",
+    "text" : "The next day we landed at Sidon; and Julius, in kindness to Paul, allowed him to go to his friends so they might provide for his needs."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,27,3",
     "id" : 197671,
@@ -18,7 +27,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 27:3\">27:3</a></b> <b>put in at Sidon.</b> An eastern Mediterranean port, today in Lebanon.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,27,4" ],
+  "verses" : [ {
+    "verse" : "acts,27,4",
+    "text" : "From there we put out to sea again and passed to the lee of Cyprus because the winds were against us."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,27,4",
     "id" : 197672,
@@ -26,7 +38,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 27:4\">27:4</a></b> <b>under the lee of Cyprus.</b> That is, close under the eastern point of the island in order to be protected from the westerly winds of the summer and fall.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,27,5", "acts,27,6", "acts,27,7", "acts,27,8", "acts,27,9", "acts,27,10" ],
+  "verses" : [ {
+    "verse" : "acts,27,5",
+    "text" : "When we had sailed across the open sea off the coast of Cilicia and Pamphylia, we landed at Myra in Lycia."
+  }, {
+    "verse" : "acts,27,6",
+    "text" : "There the centurion found an Alexandrian ship sailing for Italy and put us on board."
+  }, {
+    "verse" : "acts,27,7",
+    "text" : "We made slow headway for many days and had difficulty arriving off Cnidus. When the wind did not allow us to hold our course, we sailed to the lee of Crete, opposite Salmone."
+  }, {
+    "verse" : "acts,27,8",
+    "text" : "We moved along the coast with difficulty and came to a place called Fair Havens, near the town of Lasea."
+  }, {
+    "verse" : "acts,27,9",
+    "text" : "Much time had been lost, and sailing had already become dangerous because by now it was after the Fast. So Paul warned them,"
+  }, {
+    "verse" : "acts,27,10",
+    "text" : "\"Men, I can see that our voyage is going to be disastrous and bring great loss to ship and cargo, and to our own lives also.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,27,5",
     "id" : 197673,
@@ -34,7 +64,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 27:5\">27:5</a></b> <b>coast of Cilicia and Pamphylia.</b> The ship went up the Syrian coast, past Antioch of Syria and then west to Myra. Myra was an important port of call for grain ships sailing between Alexandria and Rome.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,27,11", "acts,27,12", "acts,27,13", "acts,27,14", "acts,27,15", "acts,27,16" ],
+  "verses" : [ {
+    "verse" : "acts,27,11",
+    "text" : "But the centurion, instead of listening to what Paul said, followed the advice of the pilot and of the owner of the ship."
+  }, {
+    "verse" : "acts,27,12",
+    "text" : "Since the harbor was unsuitable to winter in, the majority decided that we should sail on, hoping to reach Phoenix and winter there. This was a harbor in Crete, facing both southwest and northwest."
+  }, {
+    "verse" : "acts,27,13",
+    "text" : "When a gentle south wind began to blow, they thought they had obtained what they wanted; so they weighed anchor and sailed along the shore of Crete."
+  }, {
+    "verse" : "acts,27,14",
+    "text" : "Before very long, a wind of hurricane force, called the \"northeaster,\" swept down from the island."
+  }, {
+    "verse" : "acts,27,15",
+    "text" : "The ship was caught by the storm and could not head into the wind; so we gave way to it and were driven along."
+  }, {
+    "verse" : "acts,27,16",
+    "text" : "As we passed to the lee of a small island called Cauda, we were hardly able to make the lifeboat secure."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,27,11-acts,27,12",
     "id" : 197674,
@@ -42,7 +90,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 27:11\">27:11</a>, <a class=\"bibleref\" href=\"/passage/?search=Acts 27:12\">12</a></b> The captain and the owner wanted to reach the larger and safer harbor of Phoenix about forty miles to the west, but in going west past Cape Matala the ship would be exposed to winds from the northwest.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,27,17", "acts,27,18", "acts,27,19", "acts,27,20" ],
+  "verses" : [ {
+    "verse" : "acts,27,17",
+    "text" : "When the men had hoisted it aboard, they passed ropes under the ship itself to hold it together. Fearing that they would run aground on the sandbars of Syrtis, they lowered the sea anchor and let the ship be driven along."
+  }, {
+    "verse" : "acts,27,18",
+    "text" : "We took such a violent battering from the storm that the next day they began to throw the cargo overboard."
+  }, {
+    "verse" : "acts,27,19",
+    "text" : "On the third day, they threw the ship's tackle overboard with their own hands."
+  }, {
+    "verse" : "acts,27,20",
+    "text" : "When neither sun nor stars appeared for many days and the storm continued raging, we finally gave up all hope of being saved."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,27,17",
     "id" : 197675,

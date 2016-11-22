@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,69,1" ],
+  "verses" : [ {
+    "verse" : "psalms,69,1",
+    "text" : "Save me, O God, for the waters have come up to my neck."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,69,1-psalms,69,36",
     "id" : 190809,
@@ -12,7 +15,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 69:1\">69:1</a></b> <b>the waters.</b> The psalmist pictures his distress as one slowly sinking down in a river. The raging waters are a frequent biblical illustration of social or personal chaos. See notes <a class=\"bibleref\" href=\"/passage/?search=Ps 18:4\">Ps. 18:4</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 46:2\">46:2</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 46:3\">3</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,69,2", "psalms,69,3", "psalms,69,4" ],
+  "verses" : [ {
+    "verse" : "psalms,69,2",
+    "text" : "I sink in the miry depths, where there is no foothold. I have come into the deep waters; the floods engulf me."
+  }, {
+    "verse" : "psalms,69,3",
+    "text" : "I am worn out calling for help; my throat is parched. My eyes fail, looking for my God."
+  }, {
+    "verse" : "psalms,69,4",
+    "text" : "Those who hate me without reason outnumber the hairs of my head; many are my enemies without cause, those who seek to destroy me. I am forced to restore what I did not steal."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,69,2",
     "id" : 190811,
@@ -20,7 +32,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 69:2\">69:2</a></b> <b>the flood sweeps over me.</b> The poetic language in this section can be compared to a water ordeal, in which a person suspected of a crime might be cast into a river. The river would be expected to overwhelm and carry away the guilty one, but to release the innocent.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,69,5" ],
+  "verses" : [ {
+    "verse" : "psalms,69,5",
+    "text" : "You know my folly, O God; my guilt is not hidden from you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,69,5",
     "id" : 190812,
@@ -28,7 +43,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 69:5\">69:5</a></b> <b>the wrongs I have done.</b> Although the psalmist is innocent of the charges alluded to in <a class=\"bibleref\" href=\"/passage/?search=Ps 69:4\">v. 4</a>, he does not claim to be without sin.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,69,6", "psalms,69,7", "psalms,69,8" ],
+  "verses" : [ {
+    "verse" : "psalms,69,6",
+    "text" : "May those who hope in you not be disgraced because of me, O Lord, the LORD Almighty; may those who seek you not be put to shame because of me, O God of Israel."
+  }, {
+    "verse" : "psalms,69,7",
+    "text" : "For I endure scorn for your sake, and shame covers my face."
+  }, {
+    "verse" : "psalms,69,8",
+    "text" : "I am a stranger to my brothers, an alien to my own mother's sons;"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,69,6",
     "id" : 190813,
@@ -36,7 +60,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 69:6\">69:6</a></b> <b>those who seek you.</b> The psalmist is concerned not for himself only, but for others in Israel who might be injured in some way through his sins. The possibility that his sins would affect others is enhanced by his power and prominence in society.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,69,9", "psalms,69,10" ],
+  "verses" : [ {
+    "verse" : "psalms,69,9",
+    "text" : "for zeal for your house consumes me, and the insults of those who insult you fall on me."
+  }, {
+    "verse" : "psalms,69,10",
+    "text" : "When I weep and fast, I must endure scorn;"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,69,9",
     "id" : 190814,
@@ -44,7 +74,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 69:9\">69:9</a></b> <b>for your house.</b> This verse is applied to Jesus as He cleared the temple of money changers (<a class=\"bibleref\" href=\"/passage/?search=John 2:17\">John 2:17</a>), and through doing good attracted the hatred of the wicked. Enmity directed toward God may cause suffering for those who are like God (<a class=\"bibleref\" href=\"/passage/?search=Rom 15:3\">Rom. 15:3</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,69,11", "psalms,69,12", "psalms,69,13", "psalms,69,14" ],
+  "verses" : [ {
+    "verse" : "psalms,69,11",
+    "text" : "when I put on sackcloth, people make sport of me."
+  }, {
+    "verse" : "psalms,69,12",
+    "text" : "Those who sit at the gate mock me, and I am the song of the drunkards."
+  }, {
+    "verse" : "psalms,69,13",
+    "text" : "But I pray to you, O LORD, in the time of your favor; in your great love, O God, answer me with your sure salvation."
+  }, {
+    "verse" : "psalms,69,14",
+    "text" : "Rescue me from the mire, do not let me sink; deliver me from those who hate me, from the deep waters."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,69,11",
     "id" : 190815,
@@ -52,7 +94,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 69:11\">69:11</a></b> <b>made sackcloth my clothing.</b> When the psalmist performs religious acts like fasting, he must bear the brunt of ridicule from rich and poor alike (<a class=\"bibleref\" href=\"/passage/?search=Ps 69:12\">v. 12</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,69,15", "psalms,69,16", "psalms,69,17", "psalms,69,18" ],
+  "verses" : [ {
+    "verse" : "psalms,69,15",
+    "text" : "Do not let the floodwaters engulf me or the depths swallow me up or the pit close its mouth over me."
+  }, {
+    "verse" : "psalms,69,16",
+    "text" : "Answer me, O LORD, out of the goodness of your love; in your great mercy turn to me."
+  }, {
+    "verse" : "psalms,69,17",
+    "text" : "Do not hide your face from your servant; answer me quickly, for I am in trouble."
+  }, {
+    "verse" : "psalms,69,18",
+    "text" : "Come near and rescue me; redeem me because of my foes."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,69,15",
     "id" : 190816,

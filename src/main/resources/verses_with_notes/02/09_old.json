@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "exodus,29,1" ],
+  "verses" : [ {
+    "verse" : "exodus,29,1",
+    "text" : "\"This is what you are to do to consecrate them, so they may serve me as priests: Take a young bull and two rams without defect."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,25,1-exodus,31,8",
     "id" : 185863,
@@ -17,7 +20,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 29:1\">29:1</a></b> <b>consecrate.</b> Or, “make them holy,” set them apart from their fellow Israelites for God’s service.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,29,2", "exodus,29,3" ],
+  "verses" : [ {
+    "verse" : "exodus,29,2",
+    "text" : "And from fine wheat flour, without yeast, make bread, and cakes mixed with oil, and wafers spread with oil."
+  }, {
+    "verse" : "exodus,29,3",
+    "text" : "Put them in a basket and present them in it-along with the bull and the two rams."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,29,2",
     "id" : 185914,
@@ -25,7 +34,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 29:2\">29:2</a></b> <b>bread . . . cakes . . . wafers.</b> Three kinds of grain offering were to be presented (cf. <a class=\"bibleref\" href=\"/passage/?search=Lev 2:4-Lev 2:10\">Lev. 2:4–10</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,29,4" ],
+  "verses" : [ {
+    "verse" : "exodus,29,4",
+    "text" : "Then bring Aaron and his sons to the entrance to the Tent of Meeting and wash them with water."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,29,4",
     "id" : 185915,
@@ -33,7 +45,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 29:4\">29:4</a></b> <b>wash them with water.</b> Aaron and his sons could not enter the tabernacle until they had been ceremonially cleansed by washing, and sacrifice had been made for them (cf. <a class=\"bibleref\" href=\"/passage/?search=Heb 7:26-Heb 7:28\">Heb. 7:26–28</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,29,5", "exodus,29,6", "exodus,29,7", "exodus,29,8" ],
+  "verses" : [ {
+    "verse" : "exodus,29,5",
+    "text" : "Take the garments and dress Aaron with the tunic, the robe of the ephod, the ephod itself and the breastpiece. Fasten the ephod on him by its skillfully woven waistband."
+  }, {
+    "verse" : "exodus,29,6",
+    "text" : "Put the turban on his head and attach the sacred diadem to the turban."
+  }, {
+    "verse" : "exodus,29,7",
+    "text" : "Take the anointing oil and anoint him by pouring it on his head."
+  }, {
+    "verse" : "exodus,29,8",
+    "text" : "Bring his sons and dress them in tunics"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,29,5",
     "id" : 185916,
@@ -41,7 +65,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 29:5\">29:5</a></b> <b>take the garments.</b> Aaron and his sons were to be clothed with sacred garments symbolic of their office. Only Aaron is anointed (and thereby authorized to act as chief priest).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,29,9" ],
+  "verses" : [ {
+    "verse" : "exodus,29,9",
+    "text" : "and put headbands on them. Then tie sashes on Aaron and his sons. The priesthood is theirs by a lasting ordinance. In this way you shall ordain Aaron and his sons."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,29,9",
     "id" : 185917,
@@ -49,7 +76,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 29:9\">29:9</a></b> <b>ordain.</b> Lit. “fill the hand,” a Hebrew idiom for induction into office.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,29,10", "exodus,29,11", "exodus,29,12", "exodus,29,13", "exodus,29,14" ],
+  "verses" : [ {
+    "verse" : "exodus,29,10",
+    "text" : "\"Bring the bull to the front of the Tent of Meeting, and Aaron and his sons shall lay their hands on its head."
+  }, {
+    "verse" : "exodus,29,11",
+    "text" : "Slaughter it in the LORD's presence at the entrance to the Tent of Meeting."
+  }, {
+    "verse" : "exodus,29,12",
+    "text" : "Take some of the bull's blood and put it on the horns of the altar with your finger, and pour out the rest of it at the base of the altar."
+  }, {
+    "verse" : "exodus,29,13",
+    "text" : "Then take all the fat around the inner parts, the covering of the liver, and both kidneys with the fat on them, and burn them on the altar."
+  }, {
+    "verse" : "exodus,29,14",
+    "text" : "But burn the bull's flesh and its hide and its offal outside the camp. It is a sin offering."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,29,10",
     "id" : 185918,
@@ -57,7 +99,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 29:10\">29:10</a></b> <b>bring the bull.</b> Priests laid their hands on the bull calf to symbolize personal identification and substitution in this sin offering. Blood was smeared on the horns of the altar of burnt offering as for laymen, since Aaron and his sons were still unconsecrated (<a class=\"bibleref\" href=\"/passage/?search=Lev 4:25\">Lev. 4:25</a>, <a class=\"bibleref\" href=\"/passage/?search=Lev 4:30\">30</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Lev 4:7\">Lev. 4:7</a>). The remainder of the blood was poured at the bottom of the altar as for a sin offering. Certain parts were to be burned on the altar (v. 13), but the remainder was to be burned outside the camp as unclean (v. 14).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,29,15", "exodus,29,16", "exodus,29,17", "exodus,29,18" ],
+  "verses" : [ {
+    "verse" : "exodus,29,15",
+    "text" : "\"Take one of the rams, and Aaron and his sons shall lay their hands on its head."
+  }, {
+    "verse" : "exodus,29,16",
+    "text" : "Slaughter it and take the blood and sprinkle it against the altar on all sides."
+  }, {
+    "verse" : "exodus,29,17",
+    "text" : "Cut the ram into pieces and wash the inner parts and the legs, putting them with the head and the other pieces."
+  }, {
+    "verse" : "exodus,29,18",
+    "text" : "Then burn the entire ram on the altar. It is a burnt offering to the LORD, a pleasing aroma, an offering made to the LORD by fire."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,29,15",
     "id" : 185919,
@@ -65,7 +119,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 29:15\">29:15</a></b> <b>one of the rams.</b> This ram was offered as a dedicatory burnt offering (<a class=\"bibleref\" href=\"/passage/?search=Lev 1:3-Lev 1:17\">Lev. 1:3–17</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,29,19" ],
+  "verses" : [ {
+    "verse" : "exodus,29,19",
+    "text" : "\"Take the other ram, and Aaron and his sons shall lay their hands on its head."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,29,19",
     "id" : 185920,
@@ -73,7 +130,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 29:19\">29:19</a></b> <b>take the other ram.</b> The other ram was offered as a peace offering (<a class=\"bibleref\" href=\"/passage/?search=Lev 3:1\">Lev. 3:1</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,29,20", "exodus,29,21" ],
+  "verses" : [ {
+    "verse" : "exodus,29,20",
+    "text" : "Slaughter it, take some of its blood and put it on the lobes of the right ears of Aaron and his sons, on the thumbs of their right hands, and on the big toes of their right feet. Then sprinkle blood against the altar on all sides."
+  }, {
+    "verse" : "exodus,29,21",
+    "text" : "And take some of the blood on the altar and some of the anointing oil and sprinkle it on Aaron and his garments and on his sons and their garments. Then he and his sons and their garments will be consecrated."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,29,20",
     "id" : 185921,
@@ -81,7 +144,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 29:20\">29:20</a></b> <b>put it on the tip.</b> The ear, hands, and feet of the priests (extremities as parts for the whole) were cleansed from impurities to consecrate for service.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,29,22", "exodus,29,23" ],
+  "verses" : [ {
+    "verse" : "exodus,29,22",
+    "text" : "\"Take from this ram the fat, the fat tail, the fat around the inner parts, the covering of the liver, both kidneys with the fat on them, and the right thigh. (This is the ram for the ordination.)"
+  }, {
+    "verse" : "exodus,29,23",
+    "text" : "From the basket of bread made without yeast, which is before the LORD, take a loaf, and a cake made with oil, and a wafer."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,29,22",
     "id" : 185922,
@@ -89,7 +158,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 29:22\">29:22</a></b> <b>the right thigh.</b> Normally part of the priest’s portion (<a class=\"bibleref\" href=\"/passage/?search=Lev 7:32\">Lev. 7:32</a>), this was also burned in this sacrifice for the priests.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,29,24", "exodus,29,25" ],
+  "verses" : [ {
+    "verse" : "exodus,29,24",
+    "text" : "Put all these in the hands of Aaron and his sons and wave them before the LORD as a wave offering."
+  }, {
+    "verse" : "exodus,29,25",
+    "text" : "Then take them from their hands and burn them on the altar along with the burnt offering for a pleasing aroma to the LORD, an offering made to the LORD by fire."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,29,24",
     "id" : 185923,
@@ -97,7 +172,43 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 29:24\">29:24</a></b> <b>wave them.</b> The ceremonial waving symbolized their dedication as gifts to God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,29,26", "exodus,29,27", "exodus,29,28", "exodus,29,29", "exodus,29,30", "exodus,29,31", "exodus,29,32", "exodus,29,33", "exodus,29,34", "exodus,29,35", "exodus,29,36", "exodus,29,37" ],
+  "verses" : [ {
+    "verse" : "exodus,29,26",
+    "text" : "After you take the breast of the ram for Aaron's ordination, wave it before the LORD as a wave offering, and it will be your share."
+  }, {
+    "verse" : "exodus,29,27",
+    "text" : "\"Consecrate those parts of the ordination ram that belong to Aaron and his sons: the breast that was waved and the thigh that was presented."
+  }, {
+    "verse" : "exodus,29,28",
+    "text" : "This is always to be the regular share from the Israelites for Aaron and his sons. It is the contribution the Israelites are to make to the LORD from their fellowship offerings."
+  }, {
+    "verse" : "exodus,29,29",
+    "text" : "\"Aaron's sacred garments will belong to his descendants so that they can be anointed and ordained in them."
+  }, {
+    "verse" : "exodus,29,30",
+    "text" : "The son who succeeds him as priest and comes to the Tent of Meeting to minister in the Holy Place is to wear them seven days."
+  }, {
+    "verse" : "exodus,29,31",
+    "text" : "\"Take the ram for the ordination and cook the meat in a sacred place."
+  }, {
+    "verse" : "exodus,29,32",
+    "text" : "At the entrance to the Tent of Meeting, Aaron and his sons are to eat the meat of the ram and the bread that is in the basket."
+  }, {
+    "verse" : "exodus,29,33",
+    "text" : "They are to eat these offerings by which atonement was made for their ordination and consecration. But no one else may eat them, because they are sacred."
+  }, {
+    "verse" : "exodus,29,34",
+    "text" : "And if any of the meat of the ordination ram or any bread is left over till morning, burn it up. It must not be eaten, because it is sacred."
+  }, {
+    "verse" : "exodus,29,35",
+    "text" : "\"Do for Aaron and his sons everything I have commanded you, taking seven days to ordain them."
+  }, {
+    "verse" : "exodus,29,36",
+    "text" : "Sacrifice a bull each day as a sin offering to make atonement. Purify the altar by making atonement for it, and anoint it to consecrate it."
+  }, {
+    "verse" : "exodus,29,37",
+    "text" : "For seven days make atonement for the altar and consecrate it. Then the altar will be most holy, and whatever touches it will be holy."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,29,26",
     "id" : 185924,
@@ -105,7 +216,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 29:26\">29:26</a></b> <b>your portion.</b> Moses, since he was acting as priest, received the breast and the thigh of the ram as his portion; thereafter the priests were to receive these (<a class=\"bibleref\" href=\"/passage/?search=Lev 7:31-Lev 7:32\">Lev. 7:31–32</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,29,38", "exodus,29,39", "exodus,29,40", "exodus,29,41" ],
+  "verses" : [ {
+    "verse" : "exodus,29,38",
+    "text" : "\"This is what you are to offer on the altar regularly each day: two lambs a year old."
+  }, {
+    "verse" : "exodus,29,39",
+    "text" : "Offer one in the morning and the other at twilight."
+  }, {
+    "verse" : "exodus,29,40",
+    "text" : "With the first lamb offer a tenth of an ephah of fine flour mixed with a quarter of a hin of oil from pressed olives, and a quarter of a hin of wine as a drink offering."
+  }, {
+    "verse" : "exodus,29,41",
+    "text" : "Sacrifice the other lamb at twilight with the same grain offering and its drink offering as in the morning-a pleasing aroma, an offering made to the LORD by fire."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,29,38",
     "id" : 185925,
@@ -113,7 +236,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 29:38\">29:38</a></b> <b>day by day regularly.</b> The requirements for the daily priestly offerings are reviewed (<a class=\"bibleref\" href=\"/passage/?search=Exod 29:38-Exod 29:46\">vv. 38–46</a>). The author of Hebrews contrasts these daily sacrifices for sin (whose repetition pointed to their insufficiency) with the once-for-all sacrifice of Christ (<a class=\"bibleref\" href=\"/passage/?search=Heb 10:11-Heb 10:14\">Heb. 10:11–14</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,29,42", "exodus,29,43", "exodus,29,44", "exodus,29,45", "exodus,29,46" ],
+  "verses" : [ {
+    "verse" : "exodus,29,42",
+    "text" : "\"For the generations to come this burnt offering is to be made regularly at the entrance to the Tent of Meeting before the LORD. There I will meet you and speak to you;"
+  }, {
+    "verse" : "exodus,29,43",
+    "text" : "there also I will meet with the Israelites, and the place will be consecrated by my glory."
+  }, {
+    "verse" : "exodus,29,44",
+    "text" : "\"So I will consecrate the Tent of Meeting and the altar and will consecrate Aaron and his sons to serve me as priests."
+  }, {
+    "verse" : "exodus,29,45",
+    "text" : "Then I will dwell among the Israelites and be their God."
+  }, {
+    "verse" : "exodus,29,46",
+    "text" : "They will know that I am the LORD their God, who brought them out of Egypt so that I might dwell among them. I am the LORD their God."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,29,42-exodus,29,46",
     "id" : 185926,
@@ -121,7 +259,37 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 29:42-Exod 29:46\">29:42–46</a></b> This passage states the goal of the Exodus (and of the book). God “brought them out of the land of Egypt” that He might “dwell among them” (<a class=\"bibleref\" href=\"/passage/?search=Exod 29:46\">v. 46</a>). The covenant relationship between God and His people is fundamentally one of communion between God and man (<a class=\"bibleref\" href=\"/passage/?search=Gen 17:7\">Gen. 17:7</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 6:7\">Ex. 6:7</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,30,1", "exodus,30,2", "exodus,30,3", "exodus,30,4", "exodus,30,5", "exodus,30,6", "exodus,30,7", "exodus,30,8", "exodus,30,9", "exodus,30,10" ],
+  "verses" : [ {
+    "verse" : "exodus,30,1",
+    "text" : "\"Make an altar of acacia wood for burning incense."
+  }, {
+    "verse" : "exodus,30,2",
+    "text" : "It is to be square, a cubit long and a cubit wide, and two cubits high -its horns of one piece with it."
+  }, {
+    "verse" : "exodus,30,3",
+    "text" : "Overlay the top and all the sides and the horns with pure gold, and make a gold molding around it."
+  }, {
+    "verse" : "exodus,30,4",
+    "text" : "Make two gold rings for the altar below the molding-two on opposite sides-to hold the poles used to carry it."
+  }, {
+    "verse" : "exodus,30,5",
+    "text" : "Make the poles of acacia wood and overlay them with gold."
+  }, {
+    "verse" : "exodus,30,6",
+    "text" : "Put the altar in front of the curtain that is before the ark of the Testimony-before the atonement cover that is over the Testimony-where I will meet with you."
+  }, {
+    "verse" : "exodus,30,7",
+    "text" : "\"Aaron must burn fragrant incense on the altar every morning when he tends the lamps."
+  }, {
+    "verse" : "exodus,30,8",
+    "text" : "He must burn incense again when he lights the lamps at twilight so incense will burn regularly before the LORD for the generations to come."
+  }, {
+    "verse" : "exodus,30,9",
+    "text" : "Do not offer on this altar any other incense or any burnt offering or grain offering, and do not pour a drink offering on it."
+  }, {
+    "verse" : "exodus,30,10",
+    "text" : "Once a year Aaron shall make atonement on its horns. This annual atonement must be made with the blood of the atoning sin offering for the generations to come. It is most holy to the LORD.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,30,1",
     "id" : 185927,

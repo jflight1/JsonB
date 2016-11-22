@@ -1,5 +1,17 @@
 [ {
-  "singleVerses" : [ "proverbs,6,6", "proverbs,6,7", "proverbs,6,8", "proverbs,6,9" ],
+  "verses" : [ {
+    "verse" : "proverbs,6,6",
+    "text" : "Go to the ant, you sluggard; consider its ways and be wise!"
+  }, {
+    "verse" : "proverbs,6,7",
+    "text" : "It has no commander, no overseer or ruler,"
+  }, {
+    "verse" : "proverbs,6,8",
+    "text" : "yet it stores its provisions in summer and gathers its food at harvest."
+  }, {
+    "verse" : "proverbs,6,9",
+    "text" : "How long will you lie there, you sluggard? When will you get up from your sleep?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,6,6-proverbs,6,11",
     "id" : 191753,
@@ -12,7 +24,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 6:6\">6:6</a></b> <b>ant.</b> See <a class=\"bibleref\" href=\"/passage/?search=Prov 30:25\">30:25</a>. The ant’s industry gives the appearance of prudent activity.</p><p><b>sluggard.</b> The word suggests a lazy person whose inactivity expresses an attitude of folly (<a class=\"bibleref\" href=\"/passage/?search=Prov 10:26\">10:26</a>; <a class=\"bibleref\" href=\"/passage/?search=Prov 13:4\">13:4</a>; <a class=\"bibleref\" href=\"/passage/?search=Prov 15:19\">15:19</a>; <a class=\"bibleref\" href=\"/passage/?search=Prov 19:24\">19:24</a>; <a class=\"bibleref\" href=\"/passage/?search=Prov 20:4\">20:4</a>; <a class=\"bibleref\" href=\"/passage/?search=Prov 26:16\">26:16</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,6,10" ],
+  "verses" : [ {
+    "verse" : "proverbs,6,10",
+    "text" : "A little sleep, a little slumber, a little folding of the hands to rest-"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,6,10-proverbs,6,11",
     "id" : 191755,
@@ -20,7 +35,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 6:10\">6:10</a>, <a class=\"bibleref\" href=\"/passage/?search=Prov 6:11\">11</a></b> This proverbial saying has been linked with the previous saying (<a class=\"bibleref\" href=\"/passage/?search=Prov 6:6-Prov 6:9\">vv. 6–9</a>) to provide an application of it. The same saying is later linked with a different object lesson (<a class=\"bibleref\" href=\"/passage/?search=Prov 24:33\">24:33</a>, <a class=\"bibleref\" href=\"/passage/?search=Prov 24:34\">34</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,6,11" ],
+  "verses" : [ {
+    "verse" : "proverbs,6,11",
+    "text" : "and poverty will come on you like a bandit and scarcity like an armed man."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,6,11",
     "id" : 191756,

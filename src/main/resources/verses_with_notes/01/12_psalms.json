@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,10,16" ],
+  "verses" : [ {
+    "verse" : "psalms,10,16",
+    "text" : "The LORD is King for ever and ever; the nations will perish from his land."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,10,1-psalms,10,18",
     "id" : 190266,
@@ -12,7 +15,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 10:16\">10:16</a></b> <b>king.</b> God is covenant <span class=\"small-caps\">Lord</span>; see Introduction: Characteristics and Themes.</p><p><b>nations.</b> Those who worship other gods and persecute God’s people.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,10,17", "psalms,10,18" ],
+  "verses" : [ {
+    "verse" : "psalms,10,17",
+    "text" : "You hear, O LORD, the desire of the afflicted; you encourage them, and you listen to their cry,"
+  }, {
+    "verse" : "psalms,10,18",
+    "text" : "defending the fatherless and the oppressed, in order that man, who is of the earth, may terrify no more."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,10,17-psalms,10,18",
     "id" : 190277,

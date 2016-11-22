@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,11,7" ],
+  "verses" : [ {
+    "verse" : "proverbs,11,7",
+    "text" : "When a wicked man dies, his hope perishes; all he expected from his power comes to nothing."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

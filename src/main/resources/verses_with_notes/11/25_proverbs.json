@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,28,14" ],
+  "verses" : [ {
+    "verse" : "proverbs,28,14",
+    "text" : "Blessed is the man who always fears the LORD, but he who hardens his heart falls into trouble."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,28,1-proverbs,28,28",
     "id" : 192290,

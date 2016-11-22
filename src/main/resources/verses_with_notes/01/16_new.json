@@ -1,8 +1,20 @@
 [ {
-  "singleVerses" : [ "matthew,11,7", "matthew,11,8" ],
+  "verses" : [ {
+    "verse" : "matthew,11,7",
+    "text" : "As John's disciples were leaving, Jesus began to speak to the crowd about John: \"What did you go out into the desert to see? A reed swayed by the wind?"
+  }, {
+    "verse" : "matthew,11,8",
+    "text" : "If not, what did you go out to see? A man dressed in fine clothes? No, those who wear fine clothes are in kings' palaces."
+  } ],
   "rsbNotes" : [ ]
 }, {
-  "singleVerses" : [ "matthew,11,9", "matthew,11,10" ],
+  "verses" : [ {
+    "verse" : "matthew,11,9",
+    "text" : "Then what did you go out to see? A prophet? Yes, I tell you, and more than a prophet."
+  }, {
+    "verse" : "matthew,11,10",
+    "text" : "This is the one about whom it is written: \"'I will send my messenger ahead of you, who will prepare your way before you.'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,11,9",
     "id" : 195739,
@@ -10,7 +22,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 11:9\">11:9</a></b> <b>more than a prophet.</b> John the Baptist was the immediate forerunner of the One to whom all the prophets pointed, and hence he pointed to Christ more clearly than all of them. As such, he himself was the object of prophecy, the one predicted in <a class=\"bibleref\" href=\"/passage/?search=Mal 3:1\">Mal. 3:1</a>, the fulfillment of the Elijah prophecy of <a class=\"bibleref\" href=\"/passage/?search=Mal 4:5\">Mal. 4:5</a>, <a class=\"bibleref\" href=\"/passage/?search=Mal 4:6\">6</a> (v. 14), the herald of the Servant of the Lord (3:3; <a class=\"bibleref\" href=\"/passage/?search=Isa 40:3\">Is. 40:3</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,11,11" ],
+  "verses" : [ {
+    "verse" : "matthew,11,11",
+    "text" : "I tell you the truth: Among those born of women there has not risen anyone greater than John the Baptist; yet he who is least in the kingdom of heaven is greater than he."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,11,11",
     "id" : 195740,
@@ -18,7 +33,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 11:11\">11:11</a></b> <b>greater than he.</b> The least in the kingdom are greater than John because, standing after the Cross and Resurrection and having received the fullness of the Spirit, they participate in what the prophets saw from a distance (<a class=\"bibleref\" href=\"/passage/?search=1Pet 1:10-1Pet 1:12\">1 Pet. 1:10–12</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,11,12", "matthew,11,13" ],
+  "verses" : [ {
+    "verse" : "matthew,11,12",
+    "text" : "From the days of John the Baptist until now, the kingdom of heaven has been forcefully advancing, and forceful men lay hold of it."
+  }, {
+    "verse" : "matthew,11,13",
+    "text" : "For all the Prophets and the Law prophesied until John."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,11,12",
     "id" : 195741,
@@ -26,7 +47,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 11:12\">11:12</a></b> <b>suffered violence.</b> The kingdom is pressing ahead with force, although violent men, such as Herod who had imprisoned John the Baptist, are trying to overcome it by force. It is not the strong and forceful who obtain the kingdom but the weak and helpless (<a class=\"bibleref\" href=\"/passage/?search=Matt 11:28-Matt 11:30\">vv. 28–30</a>), who know their own weakness and are ready to depend on God (cf. <a class=\"bibleref\" href=\"/passage/?search=Luke 16:16\">Luke 16:16</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,11,14", "matthew,11,15", "matthew,11,16", "matthew,11,17", "matthew,11,18" ],
+  "verses" : [ {
+    "verse" : "matthew,11,14",
+    "text" : "And if you are willing to accept it, he is the Elijah who was to come."
+  }, {
+    "verse" : "matthew,11,15",
+    "text" : "He who has ears, let him hear."
+  }, {
+    "verse" : "matthew,11,16",
+    "text" : "\"To what can I compare this generation? They are like children sitting in the marketplaces and calling out to others:"
+  }, {
+    "verse" : "matthew,11,17",
+    "text" : "\"'We played the flute for you, and you did not dance; we sang a dirge and you did not mourn.'"
+  }, {
+    "verse" : "matthew,11,18",
+    "text" : "For John came neither eating nor drinking, and they say, 'He has a demon.'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,11,14",
     "id" : 195742,
@@ -34,7 +70,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 11:14\">11:14</a></b> <b>he is Elijah.</b> Jesus identifies John the Baptist as the Elijah prophesied by Malachi to come as the forerunner of the Messiah (<a class=\"bibleref\" href=\"/passage/?search=Mal 4:5\">Mal. 4:5</a>). This identification required the eyes of faith (“if you are willing to accept it”). There may have been some misunderstanding that Elijah would be reincarnated, but John denied that he was Elijah (<a class=\"bibleref\" href=\"/passage/?search=John 1:21\">John 1:21</a>). Gabriel’s announcement was that John would come “in the spirit and power” of Elijah (<a class=\"bibleref\" href=\"/passage/?search=Luke 1:17\">Luke 1:17</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,11,19", "matthew,11,20", "matthew,11,21", "matthew,11,22", "matthew,11,23", "matthew,11,24" ],
+  "verses" : [ {
+    "verse" : "matthew,11,19",
+    "text" : "The Son of Man came eating and drinking, and they say, 'Here is a glutton and a drunkard, a friend of tax collectors and \"sinners.\"' But wisdom is proved right by her actions.\""
+  }, {
+    "verse" : "matthew,11,20",
+    "text" : "Then Jesus began to denounce the cities in which most of his miracles had been performed, because they did not repent."
+  }, {
+    "verse" : "matthew,11,21",
+    "text" : "\"Woe to you, Korazin! Woe to you, Bethsaida! If the miracles that were performed in you had been performed in Tyre and Sidon, they would have repented long ago in sackcloth and ashes."
+  }, {
+    "verse" : "matthew,11,22",
+    "text" : "But I tell you, it will be more bearable for Tyre and Sidon on the day of judgment than for you."
+  }, {
+    "verse" : "matthew,11,23",
+    "text" : "And you, Capernaum, will you be lifted up to the skies? No, you will go down to the depths. If the miracles that were performed in you had been performed in Sodom, it would have remained to this day."
+  }, {
+    "verse" : "matthew,11,24",
+    "text" : "But I tell you that it will be more bearable for Sodom on the day of judgment than for you.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,11,19",
     "id" : 195743,
@@ -42,7 +96,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 11:19\">11:19</a></b> <b>Son of Man.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Matt 8:20\">8:20</a>.</p><p><b>wisdom is justified by her deeds.</b> Jesus uses a proverb to make a point about Himself. The “children” in view are His own messianic deeds (<a class=\"bibleref\" href=\"/passage/?search=Matt 8:2-Matt 8:5\">vv. 2–5</a>). The things done by Christ as “wisdom” (<a class=\"bibleref\" href=\"/passage/?search=1Cor 1:30\">1 Cor. 1:30</a>) “justify” Him, or demonstrate that He is right (<a class=\"bibleref\" href=\"/passage/?search=Jas 3:17\">James 3:17</a>, <a class=\"bibleref\" href=\"/passage/?search=Jas 3:18\">18</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,11,25", "matthew,11,26" ],
+  "verses" : [ {
+    "verse" : "matthew,11,25",
+    "text" : "At that time Jesus said, \"I praise you, Father, Lord of heaven and earth, because you have hidden these things from the wise and learned, and revealed them to little children."
+  }, {
+    "verse" : "matthew,11,26",
+    "text" : "Yes, Father, for this was your good pleasure."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,11,25",
     "id" : 195744,
@@ -50,7 +110,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 11:25\">11:25</a></b> <b>you have hidden . . . and revealed.</b> God is sovereign in choosing those to whom He will reveal His truth. No one can know God by worldly wisdom and learning (<a class=\"bibleref\" href=\"/passage/?search=1Cor 1:26-1Cor 1:31\">1 Cor. 1:26–31</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,11,27" ],
+  "verses" : [ {
+    "verse" : "matthew,11,27",
+    "text" : "\"All things have been committed to me by my Father. No one knows the Son except the Father, and no one knows the Father except the Son and those to whom the Son chooses to reveal him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,11,27",
     "id" : 195745,
@@ -58,7 +121,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 11:27\">11:27</a></b> <b>handed over to me.</b> Jesus here makes extraordinary claims. He claims that God’s sovereign disposition of all things has been committed to Him. As in <a class=\"bibleref\" href=\"/passage/?search=Dan 7\">Dan. 7</a>, the Son of Man has received all power and dominion. He claims that He alone knows the Father and the Father alone knows Him. Jesus’ knowledge is equal to the Father’s, and His sonship is unique. He claims that His sovereignty extends even to deciding who will know the Father. This idea parallels v. 25, but here it is Jesus who reveals the Father.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,11,28" ],
+  "verses" : [ {
+    "verse" : "matthew,11,28",
+    "text" : "\"Come to me, all you who are weary and burdened, and I will give you rest."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,11,28",
     "id" : 195746,
@@ -66,7 +132,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 11:28\">11:28</a></b> <b>Come to Me.</b> Jesus has the authority to invite people to Himself. He does not extend His invitation to the strong but to the weary and burdened. Jesus uses the language of the wisdom tradition, calling the burdened to Himself as the incarnate wisdom of God (<a class=\"bibleref\" href=\"/passage/?search=Matt 11:19\">v. 19</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,11,29", "matthew,11,30" ],
+  "verses" : [ {
+    "verse" : "matthew,11,29",
+    "text" : "Take my yoke upon you and learn from me, for I am gentle and humble in heart, and you will find rest for your souls."
+  }, {
+    "verse" : "matthew,11,30",
+    "text" : "For my yoke is easy and my burden is light.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,11,29-matthew,11,30",
     "id" : 195747,

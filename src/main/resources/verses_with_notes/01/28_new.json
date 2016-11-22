@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "matthew,18,21", "matthew,18,22" ],
+  "verses" : [ {
+    "verse" : "matthew,18,21",
+    "text" : "Then Peter came to Jesus and asked, \"Lord, how many times shall I forgive my brother when he sins against me? Up to seven times?\""
+  }, {
+    "verse" : "matthew,18,22",
+    "text" : "Jesus answered, \"I tell you, not seven times, but seventy-seven times."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,18,1-matthew,18,35",
     "id" : 195822,
@@ -7,7 +13,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 18\">18:1–35</a></b> This chapter is the fourth of the five great discourses in Matthew (Introduction: Characteristics and Themes).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,18,23" ],
+  "verses" : [ {
+    "verse" : "matthew,18,23",
+    "text" : "\"Therefore, the kingdom of heaven is like a king who wanted to settle accounts with his servants."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,18,23-matthew,18,35",
     "id" : 195833,
@@ -15,7 +24,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 18:23-Matt 18:35\">18:23–35</a></b> See <a class=\"bibleref\" href=\"/passage/?search=Matt 5:7\">5:7</a> and <a class=\"bibleref\" href=\"/passage/?search=Matt 7:2\">7:2</a>. Those who know God’s mercy must operate on the principle of mercy. If they do not show mercy but insist on justice, they will not receive mercy, but justice. An unforgiving heart is an unforgiven heart and is subject to torment “until he should pay all” (v. 34; <a class=\"bibleref\" href=\"/passage/?search=Matt 6:12\">6:12</a> note). A truly forgiving heart is one result of spiritual rebirth (<a class=\"bibleref\" href=\"/passage/?search=John 3:3\">John 3:3</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,18,24", "matthew,18,25", "matthew,18,26", "matthew,18,27" ],
+  "verses" : [ {
+    "verse" : "matthew,18,24",
+    "text" : "As he began the settlement, a man who owed him ten thousand talents was brought to him."
+  }, {
+    "verse" : "matthew,18,25",
+    "text" : "Since he was not able to pay, the master ordered that he and his wife and his children and all that he had be sold to repay the debt."
+  }, {
+    "verse" : "matthew,18,26",
+    "text" : "\"The servant fell on his knees before him. 'Be patient with me,' he begged, 'and I will pay back everything.'"
+  }, {
+    "verse" : "matthew,18,27",
+    "text" : "The servant's master took pity on him, canceled the debt and let him go."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,18,24",
     "id" : 195834,
@@ -23,7 +44,37 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 18:24\">18:24</a></b> <b>talents.</b> A talent was the highest monetary unit of currency, equivalent to six thousand denarii or drachmas (<a class=\"bibleref\" href=\"/passage/?search=Matt 18:28\">v. 28</a> note). Such a sum of money was practically uncountable and illustrates the enormous debt of sin that all have incurred before God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,18,28", "matthew,18,29", "matthew,18,30", "matthew,18,31", "matthew,18,32", "matthew,18,33", "matthew,18,34", "matthew,18,35", "matthew,19,1", "matthew,19,2" ],
+  "verses" : [ {
+    "verse" : "matthew,18,28",
+    "text" : "\"But when that servant went out, he found one of his fellow servants who owed him a hundred denarii. He grabbed him and began to choke him. 'Pay back what you owe me!' he demanded."
+  }, {
+    "verse" : "matthew,18,29",
+    "text" : "\"His fellow servant fell to his knees and begged him, 'Be patient with me, and I will pay you back.'"
+  }, {
+    "verse" : "matthew,18,30",
+    "text" : "\"But he refused. Instead, he went off and had the man thrown into prison until he could pay the debt."
+  }, {
+    "verse" : "matthew,18,31",
+    "text" : "When the other servants saw what had happened, they were greatly distressed and went and told their master everything that had happened."
+  }, {
+    "verse" : "matthew,18,32",
+    "text" : "\"Then the master called the servant in. 'You wicked servant,' he said, 'I canceled all that debt of yours because you begged me to."
+  }, {
+    "verse" : "matthew,18,33",
+    "text" : "Shouldn't you have had mercy on your fellow servant just as I had on you?'"
+  }, {
+    "verse" : "matthew,18,34",
+    "text" : "In anger his master turned him over to the jailers to be tortured, until he should pay back all he owed."
+  }, {
+    "verse" : "matthew,18,35",
+    "text" : "\"This is how my heavenly Father will treat each of you unless you forgive your brother from your heart.\""
+  }, {
+    "verse" : "matthew,19,1",
+    "text" : "When Jesus had finished saying these things, he left Galilee and went into the region of Judea to the other side of the Jordan."
+  }, {
+    "verse" : "matthew,19,2",
+    "text" : "Large crowds followed him, and he healed them there."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,18,28",
     "id" : 195835,
@@ -31,7 +82,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 18:28\">18:28 a</a></b> <b>hundred denarii.</b> The Roman denarius was a daily wage for workers (<a class=\"bibleref\" href=\"/passage/?search=Matt 20:2\">20:2</a>) and was equivalent to the Greek drachma (<a class=\"bibleref\" href=\"/passage/?search=Acts 19:19\">Acts 19:19</a>). The sum owed by the second servant to the first is nothing compared to the debt of the first servant to the king; it was less than one part in a hundred thousand.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,19,3", "matthew,19,4", "matthew,19,5", "matthew,19,6" ],
+  "verses" : [ {
+    "verse" : "matthew,19,3",
+    "text" : "Some Pharisees came to him to test him. They asked, \"Is it lawful for a man to divorce his wife for any and every reason?\""
+  }, {
+    "verse" : "matthew,19,4",
+    "text" : "\"Haven't you read,\" he replied, \"that at the beginning the Creator 'made them male and female,'"
+  }, {
+    "verse" : "matthew,19,5",
+    "text" : "and said, 'For this reason a man will leave his father and mother and be united to his wife, and the two will become one flesh'?"
+  }, {
+    "verse" : "matthew,19,6",
+    "text" : "So they are no longer two, but one. Therefore what God has joined together, let man not separate.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,19,3",
     "id" : 195836,
@@ -39,7 +102,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 19:3\">19:3</a></b> <b>Is it lawful.</b> The Pharisees’ question may reflect the opinion of Hillel, a rabbi who allowed divorce for the slightest reasons on the basis of <a class=\"bibleref\" href=\"/passage/?search=Deut 24:1-Deut 24:4\">Deut. 24:1–4</a>. He was opposed by another teacher, Shammai, who regarded only gross indecency as proper grounds. Jesus’ answer transcends this debate about Deuteronomy and returns to the order of creation by God. Jesus views divorce as a fundamental denial of God’s created order and the nature of marriage.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,19,7", "matthew,19,8" ],
+  "verses" : [ {
+    "verse" : "matthew,19,7",
+    "text" : "\"Why then,\" they asked, \"did Moses command that a man give his wife a certificate of divorce and send her away?\""
+  }, {
+    "verse" : "matthew,19,8",
+    "text" : "Jesus replied, \"Moses permitted you to divorce your wives because your hearts were hard. But it was not this way from the beginning."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,19,7-matthew,19,8",
     "id" : 195837,
@@ -47,7 +116,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 19:7\">19:7</a>, <a class=\"bibleref\" href=\"/passage/?search=Matt 19:8\">8</a></b> Hearing Jesus’ view of marriage, the Pharisees thought they could set Him against Moses. But Jesus shows that Moses in <a class=\"bibleref\" href=\"/passage/?search=Deut 24:1-Deut 24:4\">Deut. 24:1–4</a> was not giving a justification for divorce, but making provisions in the event of divorce. <a class=\"bibleref\" href=\"/passage/?search=Deut 24:1-Deut 24:4\">Deut. 24:1–4</a> consists of a long introductory conditional statement (“if then”), ending with the prohibition for a man to remarry a woman he had earlier divorced. A hardness of heart with respect to marriage and divorce is specifically restrained by this case law.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,19,9" ],
+  "verses" : [ {
+    "verse" : "matthew,19,9",
+    "text" : "I tell you that anyone who divorces his wife, except for marital unfaithfulness, and marries another woman commits adultery.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,19,9",
     "id" : 195838,
@@ -55,7 +127,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 19:9\">19:9</a></b> <b>except for sexual immorality.</b> The Greek word for “sexual immorality” is fairly broad, including a number of sexual sins besides adultery. In this clause (present also in <a class=\"bibleref\" href=\"/passage/?search=Matt 5:32\">5:32</a> but omitted in <a class=\"bibleref\" href=\"/passage/?search=Mark 10:11\">Mark 10:11</a>), Jesus recognizes that marital infidelity potentially destroys the marital tie between spouses and is, therefore, ground for legal divorce. However, divorce is not mandatory and reconciliation (see 18:23–35 note) is preferable. See “Marriage and Divorce” at <a class=\"bibleref\" href=\"/passage/?search=Mal 2:16\">Mal. 2:16</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,19,10", "matthew,19,11", "matthew,19,12" ],
+  "verses" : [ {
+    "verse" : "matthew,19,10",
+    "text" : "The disciples said to him, \"If this is the situation between a husband and wife, it is better not to marry.\""
+  }, {
+    "verse" : "matthew,19,11",
+    "text" : "Jesus replied, \"Not everyone can accept this word, but only those to whom it has been given."
+  }, {
+    "verse" : "matthew,19,12",
+    "text" : "For some are eunuchs because they were born that way; others were made that way by men; and others have renounced marriage because of the kingdom of heaven. The one who can accept this should accept it.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,19,10",
     "id" : 195839,

@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,42,1" ],
+  "verses" : [ {
+    "verse" : "psalms,42,1",
+    "text" : "As the deer pants for streams of water, so my soul pants for you, O God."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,42,1-psalms,42,11",
     "id" : 190557,
@@ -12,7 +15,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 42:1\">42:1</a></b> <b>As a deer pants for flowing streams.</b> A powerful description of deep desire for God’s presence.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,42,2", "psalms,42,3" ],
+  "verses" : [ {
+    "verse" : "psalms,42,2",
+    "text" : "My soul thirsts for God, for the living God. When can I go and meet with God?"
+  }, {
+    "verse" : "psalms,42,3",
+    "text" : "My tears have been my food day and night, while men say to me all day long, \"Where is your God?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,42,2",
     "id" : 190559,
@@ -20,7 +29,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 42:2\">42:2</a></b> <b>appear before God.</b> Due to Jesus’ redemptive work on the cross, the Christian has ready access to the Lord in prayer. The psalmist suffers because he is separated from the temple, the place God specifically set apart for worship during the period between David and Jesus. The psalmist desires to return to the temple and the assurance of God’s life-giving presence.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,42,4" ],
+  "verses" : [ {
+    "verse" : "psalms,42,4",
+    "text" : "These things I remember as I pour out my soul: how I used to go with the multitude, leading the procession to the house of God, with shouts of joy and thanksgiving among the festive throng."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,42,4",
     "id" : 190560,
@@ -28,7 +40,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 42:4\">42:4</a></b> <b>These things I remember.</b> During this time of depression and separation from God, the psalmist recalls the past when his relationship with God was good and he rejoiced in participating in the worship processions in Jerusalem. The Songs of Ascents (<a class=\"bibleref\" href=\"/passage/?search=Ps 120-Ps 134\">Ps. 120–134</a>) were sung at these celebrations.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,42,5" ],
+  "verses" : [ {
+    "verse" : "psalms,42,5",
+    "text" : "Why are you downcast, O my soul? Why so disturbed within me? Put your hope in God, for I will yet praise him, my Savior and"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,42,5",
     "id" : 190561,
@@ -36,7 +51,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 42:5\">42:5</a></b> <b>Why are you cast down, O my soul.</b> This verse occurs twice more as a refrain (<a class=\"bibleref\" href=\"/passage/?search=Ps 42:11\">v. 11</a> and <a class=\"bibleref\" href=\"/passage/?search=Ps 43:5\">43:5</a>). In dialogue with himself, the psalmist takes fresh hold on God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,42,6" ],
+  "verses" : [ {
+    "verse" : "psalms,42,6",
+    "text" : "my God. My soul is downcast within me; therefore I will remember you from the land of the Jordan, the heights of Hermon-from Mount Mizar."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,42,6",
     "id" : 190562,
@@ -44,7 +62,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 42:6\">42:6</a></b> <b>I remember you.</b> <a class=\"bibleref\" href=\"/passage/?search=Ps 77\">Ps. 77</a> is another lament where the remembrance of God’s grace provides a bulwark against depression in the present.</p><p><b>land of Jordan . . . Hermon, . . . Mizar.</b> Hermon is the mountain range at the far north of Israel’s boundaries, near the source of the Jordan River. Mizar is of unknown location.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,42,7" ],
+  "verses" : [ {
+    "verse" : "psalms,42,7",
+    "text" : "Deep calls to deep in the roar of your waterfalls; all your waves and breakers have swept over me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,42,7",
     "id" : 190563,
@@ -52,7 +73,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 42:7\">42:7</a></b> <b>have gone over me.</b> The overwhelming waters of chaos are a well-known image of despair and trouble in the Bible. Cf. <a class=\"bibleref\" href=\"/passage/?search=Ps 18:4\">Ps. 18:4</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 32:6\">32:6</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 46:2\">46:2</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 46:3\">3</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 69:1\">69:1</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 69:2\">2</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 114:3\">114:3</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,42,8", "psalms,42,9", "psalms,42,10", "psalms,42,11" ],
+  "verses" : [ {
+    "verse" : "psalms,42,8",
+    "text" : "By day the LORD directs his love, at night his song is with me- a prayer to the God of my life."
+  }, {
+    "verse" : "psalms,42,9",
+    "text" : "I say to God my Rock, \"Why have you forgotten me? Why must I go about mourning, oppressed by the enemy?\""
+  }, {
+    "verse" : "psalms,42,10",
+    "text" : "My bones suffer mortal agony as my foes taunt me, saying to me all day long, \"Where is your God?\""
+  }, {
+    "verse" : "psalms,42,11",
+    "text" : "Why are you downcast, O my soul? Why so disturbed within me? Put your hope in God, for I will yet praise him, my Savior and my God."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,42,8",
     "id" : 190564,

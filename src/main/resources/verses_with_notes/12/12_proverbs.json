@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,29,23" ],
+  "verses" : [ {
+    "verse" : "proverbs,29,23",
+    "text" : "A man's pride brings him low, but a man of lowly spirit gains honor."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,29,23",
     "id" : 192333,

@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "leviticus,19,1" ],
+  "verses" : [ {
+    "verse" : "leviticus,19,1",
+    "text" : "The LORD said to Moses,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,17,1-leviticus,27,34",
     "id" : 186098,
@@ -12,7 +15,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 19\">19:1–37</a></b> The theme of holiness is elaborated as God instructs the people on principles of good neighborliness. The chapter illustrates what holiness meant in daily life. See Introduction: Characteristics and Themes (cf. <a class=\"bibleref\" href=\"/passage/?search=Matt 5:48\">Matt. 5:48</a>; <a class=\"bibleref\" href=\"/passage/?search=1Cor 11:1\">1 Cor. 11:1</a>; <a class=\"bibleref\" href=\"/passage/?search=1Pet 1:16\">1 Pet. 1:16</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,19,2", "leviticus,19,3", "leviticus,19,4" ],
+  "verses" : [ {
+    "verse" : "leviticus,19,2",
+    "text" : "\"Speak to the entire assembly of Israel and say to them: 'Be holy because I, the LORD your God, am holy."
+  }, {
+    "verse" : "leviticus,19,3",
+    "text" : "\"'Each of you must respect his mother and father, and you must observe my Sabbaths. I am the LORD your God."
+  }, {
+    "verse" : "leviticus,19,4",
+    "text" : "\"'Do not turn to idols or make gods of cast metal for yourselves. I am the LORD your God."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,19,2",
     "id" : 186114,
@@ -20,7 +32,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 19:2\">19:2</a></b> See “God Is Light: Divine Holiness and Justice” at <a class=\"bibleref\" href=\"/passage/?search=Lev 11:44\">11:44</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,19,5", "leviticus,19,6", "leviticus,19,7", "leviticus,19,8" ],
+  "verses" : [ {
+    "verse" : "leviticus,19,5",
+    "text" : "\"'When you sacrifice a fellowship offering to the LORD, sacrifice it in such a way that it will be accepted on your behalf."
+  }, {
+    "verse" : "leviticus,19,6",
+    "text" : "It shall be eaten on the day you sacrifice it or on the next day; anything left over until the third day must be burned up."
+  }, {
+    "verse" : "leviticus,19,7",
+    "text" : "If any of it is eaten on the third day, it is impure and will not be accepted."
+  }, {
+    "verse" : "leviticus,19,8",
+    "text" : "Whoever eats it will be held responsible because he has desecrated what is holy to the LORD; that person must be cut off from his people."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,19,5",
     "id" : 186115,
@@ -28,7 +52,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 19:5\">19:5</a></b> <b>peace offerings.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Lev 3:1\">3:1</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Lev 7:16-Lev 7:18\">7:16–18</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,19,9", "leviticus,19,10", "leviticus,19,11", "leviticus,19,12" ],
+  "verses" : [ {
+    "verse" : "leviticus,19,9",
+    "text" : "\"'When you reap the harvest of your land, do not reap to the very edges of your field or gather the gleanings of your harvest."
+  }, {
+    "verse" : "leviticus,19,10",
+    "text" : "Do not go over your vineyard a second time or pick up the grapes that have fallen. Leave them for the poor and the alien. I am the LORD your God."
+  }, {
+    "verse" : "leviticus,19,11",
+    "text" : "\"'Do not steal. \"'Do not lie. \"'Do not deceive one another."
+  }, {
+    "verse" : "leviticus,19,12",
+    "text" : "\"'Do not swear falsely by my name and so profane the name of your God. I am the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,19,9-leviticus,19,10",
     "id" : 186116,
@@ -36,7 +72,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 19:9\">19:9</a>, <a class=\"bibleref\" href=\"/passage/?search=Lev 19:10\">10</a></b> See <a class=\"bibleref\" href=\"/passage/?search=Ruth 2:2-Ruth 2:23\">Ruth 2:2–23</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,19,13", "leviticus,19,14", "leviticus,19,15", "leviticus,19,16" ],
+  "verses" : [ {
+    "verse" : "leviticus,19,13",
+    "text" : "\"'Do not defraud your neighbor or rob him. \"'Do not hold back the wages of a hired man overnight."
+  }, {
+    "verse" : "leviticus,19,14",
+    "text" : "\"'Do not curse the deaf or put a stumbling block in front of the blind, but fear your God. I am the LORD."
+  }, {
+    "verse" : "leviticus,19,15",
+    "text" : "\"'Do not pervert justice; do not show partiality to the poor or favoritism to the great, but judge your neighbor fairly."
+  }, {
+    "verse" : "leviticus,19,16",
+    "text" : "\"'Do not go about spreading slander among your people. \"'Do not do anything that endangers your neighbor's life. I am the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,19,13",
     "id" : 186117,
@@ -44,7 +92,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 19:13\">19:13</a></b> <b>wages of a hired servant.</b> See <a class=\"bibleref\" href=\"/passage/?search=Deut 24:14\">Deut. 24:14</a>, <a class=\"bibleref\" href=\"/passage/?search=Deut 24:15\">15</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,19,17" ],
+  "verses" : [ {
+    "verse" : "leviticus,19,17",
+    "text" : "\"'Do not hate your brother in your heart. Rebuke your neighbor frankly so you will not share in his guilt."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,19,17",
     "id" : 186118,
@@ -52,7 +103,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 19:17\">19:17</a></b> <b>reason frankly . . . because of him.</b> A candid yet tactful reproof of the wrongdoer is better than storing up destructive hatred against that neighbor and so causing oneself to sin as well (<a class=\"bibleref\" href=\"/passage/?search=Prov 27:5\">Prov. 27:5</a>; <a class=\"bibleref\" href=\"/passage/?search=Matt 18:15\">Matt. 18:15</a>; <a class=\"bibleref\" href=\"/passage/?search=Gal 6:1\">Gal. 6:1</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,19,18" ],
+  "verses" : [ {
+    "verse" : "leviticus,19,18",
+    "text" : "\"'Do not seek revenge or bear a grudge against one of your people, but love your neighbor as yourself. I am the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,19,18",
     "id" : 186119,
@@ -60,7 +114,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 19:18\">19:18</a></b> <b>love your neighbor.</b> A “neighbor” was anyone with whom there was contact, whether Israelite (<a class=\"bibleref\" href=\"/passage/?search=Lev 19:17\">v. 17</a>) or alien (<a class=\"bibleref\" href=\"/passage/?search=Lev 19:34\">v. 34</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Matt 22:39\">Matt. 22:39</a>, <a class=\"bibleref\" href=\"/passage/?search=Matt 22:40\">40</a>; <a class=\"bibleref\" href=\"/passage/?search=Rom 13:9\">Rom. 13:9</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,19,19", "leviticus,19,20" ],
+  "verses" : [ {
+    "verse" : "leviticus,19,19",
+    "text" : "\"'Keep my decrees. \"'Do not mate different kinds of animals. \"'Do not plant your field with two kinds of seed. \"'Do not wear clothing woven of two kinds of material."
+  }, {
+    "verse" : "leviticus,19,20",
+    "text" : "\"'If a man sleeps with a woman who is a slave girl promised to another man but who has not been ransomed or given her freedom, there must be due punishment. Yet they are not to be put to death, because she had not been freed."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,19,19",
     "id" : 186120,
@@ -68,7 +128,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 19:19\">19:19</a></b> Respecting boundaries and distinctions was an aspect of holiness.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,19,21", "leviticus,19,22", "leviticus,19,23" ],
+  "verses" : [ {
+    "verse" : "leviticus,19,21",
+    "text" : "The man, however, must bring a ram to the entrance to the Tent of Meeting for a guilt offering to the LORD."
+  }, {
+    "verse" : "leviticus,19,22",
+    "text" : "With the ram of the guilt offering the priest is to make atonement for him before the LORD for the sin he has committed, and his sin will be forgiven."
+  }, {
+    "verse" : "leviticus,19,23",
+    "text" : "\"'When you enter the land and plant any kind of fruit tree, regard its fruit as forbidden. For three years you are to consider it forbidden; it must not be eaten."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,19,21",
     "id" : 186121,
@@ -76,7 +145,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 19:21\">19:21</a></b> <b>guilt offering.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Lev 5:14-Lev 6:7\">5:14–6:7</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,19,24", "leviticus,19,25", "leviticus,19,26", "leviticus,19,27" ],
+  "verses" : [ {
+    "verse" : "leviticus,19,24",
+    "text" : "In the fourth year all its fruit will be holy, an offering of praise to the LORD."
+  }, {
+    "verse" : "leviticus,19,25",
+    "text" : "But in the fifth year you may eat its fruit. In this way your harvest will be increased. I am the LORD your God."
+  }, {
+    "verse" : "leviticus,19,26",
+    "text" : "\"'Do not eat any meat with the blood still in it. \"'Do not practice divination or sorcery."
+  }, {
+    "verse" : "leviticus,19,27",
+    "text" : "\"'Do not cut the hair at the sides of your head or clip off the edges of your beard."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,19,24",
     "id" : 186122,
@@ -84,7 +165,37 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 19:24\">19:24</a></b> Firstfruits, like firstborn livestock and children, were to be given to God (<a class=\"bibleref\" href=\"/passage/?search=Exod 22:29\">Ex. 22:29</a>, <a class=\"bibleref\" href=\"/passage/?search=Exod 22:30\">30</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 23:19\">23:19</a>), for Israel was God’s firstborn and so was consecrated to Him (<a class=\"bibleref\" href=\"/passage/?search=Exod 4:22\">Ex. 4:22</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,19,28", "leviticus,19,29", "leviticus,19,30", "leviticus,19,31", "leviticus,19,32", "leviticus,19,33", "leviticus,19,34", "leviticus,19,35", "leviticus,19,36", "leviticus,19,37" ],
+  "verses" : [ {
+    "verse" : "leviticus,19,28",
+    "text" : "\"'Do not cut your bodies for the dead or put tattoo marks on yourselves. I am the LORD."
+  }, {
+    "verse" : "leviticus,19,29",
+    "text" : "\"'Do not degrade your daughter by making her a prostitute, or the land will turn to prostitution and be filled with wickedness."
+  }, {
+    "verse" : "leviticus,19,30",
+    "text" : "\"'Observe my Sabbaths and have reverence for my sanctuary. I am the LORD."
+  }, {
+    "verse" : "leviticus,19,31",
+    "text" : "\"'Do not turn to mediums or seek out spiritists, for you will be defiled by them. I am the LORD your God."
+  }, {
+    "verse" : "leviticus,19,32",
+    "text" : "\"'Rise in the presence of the aged, show respect for the elderly and revere your God. I am the LORD."
+  }, {
+    "verse" : "leviticus,19,33",
+    "text" : "\"'When an alien lives with you in your land, do not mistreat him."
+  }, {
+    "verse" : "leviticus,19,34",
+    "text" : "The alien living with you must be treated as one of your native-born. Love him as yourself, for you were aliens in Egypt. I am the LORD your God."
+  }, {
+    "verse" : "leviticus,19,35",
+    "text" : "\"'Do not use dishonest standards when measuring length, weight or quantity."
+  }, {
+    "verse" : "leviticus,19,36",
+    "text" : "Use honest scales and honest weights, an honest ephah and an honest hin. I am the LORD your God, who brought you out of Egypt."
+  }, {
+    "verse" : "leviticus,19,37",
+    "text" : "\"'Keep all my decrees and all my laws and follow them. I am the LORD.'\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,19,28",
     "id" : 186123,
@@ -92,7 +203,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 19:28\">19:28</a></b> Mutilation of the body created by God was incompatible with holiness, for the holy God is perfect life (<a class=\"bibleref\" href=\"/passage/?search=Deut 14:1\">Deut. 14:1</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,20,1", "leviticus,20,2", "leviticus,20,3", "leviticus,20,4", "leviticus,20,5" ],
+  "verses" : [ {
+    "verse" : "leviticus,20,1",
+    "text" : "The LORD said to Moses,"
+  }, {
+    "verse" : "leviticus,20,2",
+    "text" : "\"Say to the Israelites: 'Any Israelite or any alien living in Israel who gives any of his children to Molech must be put to death. The people of the community are to stone him."
+  }, {
+    "verse" : "leviticus,20,3",
+    "text" : "I will set my face against that man and I will cut him off from his people; for by giving his children to Molech, he has defiled my sanctuary and profaned my holy name."
+  }, {
+    "verse" : "leviticus,20,4",
+    "text" : "If the people of the community close their eyes when that man gives one of his children to Molech and they fail to put him to death,"
+  }, {
+    "verse" : "leviticus,20,5",
+    "text" : "I will set my face against that man and his family and will cut off from their people both him and all who follow him in prostituting themselves to Molech."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,20,1-leviticus,20,27",
     "id" : 186124,
@@ -100,7 +226,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 20\">20:1–27</a></b> The instruction here repeats many of the same points of <a class=\"bibleref\" href=\"/passage/?search=Lev 18\">chs. 18</a>; <a class=\"bibleref\" href=\"/passage/?search=Lev 19\">19</a> (for parallel verses, consult the cross-references), but with the addition of prescribed penalties. The death penalty is indicated for many offenses, pointing to the horror with which God viewed them (cf. <a class=\"bibleref\" href=\"/passage/?search=Rom 1:18-Rom 1:32\">Rom. 1:18–32</a>). In other cases divine penalties, such as cutting off (7:20 note), are mentioned; these cover situations where detection might be difficult (v. 18) or family solidarity might make the head of the family reluctant to punish (v. 17).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,20,6", "leviticus,20,7", "leviticus,20,8" ],
+  "verses" : [ {
+    "verse" : "leviticus,20,6",
+    "text" : "\"'I will set my face against the person who turns to mediums and spiritists to prostitute himself by following them, and I will cut him off from his people."
+  }, {
+    "verse" : "leviticus,20,7",
+    "text" : "\"'Consecrate yourselves and be holy, because I am the LORD your God."
+  }, {
+    "verse" : "leviticus,20,8",
+    "text" : "Keep my decrees and follow them. I am the LORD, who makes you holy."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,20,6",
     "id" : 186125,
@@ -108,7 +243,46 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 20:6\">20:6</a></b> See <a class=\"bibleref\" href=\"/passage/?search=Deut 18:10\">Deut. 18:10</a>, <a class=\"bibleref\" href=\"/passage/?search=Deut 18:11\">11</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 28:9\">1 Sam. 28:9</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,20,9", "leviticus,20,10", "leviticus,20,11", "leviticus,20,12", "leviticus,20,13", "leviticus,20,14", "leviticus,20,15", "leviticus,20,16", "leviticus,20,17", "leviticus,20,18", "leviticus,20,19", "leviticus,20,20", "leviticus,20,21" ],
+  "verses" : [ {
+    "verse" : "leviticus,20,9",
+    "text" : "\"'If anyone curses his father or mother, he must be put to death. He has cursed his father or his mother, and his blood will be on his own head."
+  }, {
+    "verse" : "leviticus,20,10",
+    "text" : "\"'If a man commits adultery with another man's wife-with the wife of his neighbor-both the adulterer and the adulteress must be put to death."
+  }, {
+    "verse" : "leviticus,20,11",
+    "text" : "\"'If a man sleeps with his father's wife, he has dishonored his father. Both the man and the woman must be put to death; their blood will be on their own heads."
+  }, {
+    "verse" : "leviticus,20,12",
+    "text" : "\"'If a man sleeps with his daughter-in-law, both of them must be put to death. What they have done is a perversion; their blood will be on their own heads."
+  }, {
+    "verse" : "leviticus,20,13",
+    "text" : "\"'If a man lies with a man as one lies with a woman, both of them have done what is detestable. They must be put to death; their blood will be on their own heads."
+  }, {
+    "verse" : "leviticus,20,14",
+    "text" : "\"'If a man marries both a woman and her mother, it is wicked. Both he and they must be burned in the fire, so that no wickedness will be among you."
+  }, {
+    "verse" : "leviticus,20,15",
+    "text" : "\"'If a man has sexual relations with an animal, he must be put to death, and you must kill the animal."
+  }, {
+    "verse" : "leviticus,20,16",
+    "text" : "\"'If a woman approaches an animal to have sexual relations with it, kill both the woman and the animal. They must be put to death; their blood will be on their own heads."
+  }, {
+    "verse" : "leviticus,20,17",
+    "text" : "\"'If a man marries his sister, the daughter of either his father or his mother, and they have sexual relations, it is a disgrace. They must be cut off before the eyes of their people. He has dishonored his sister and will be held responsible."
+  }, {
+    "verse" : "leviticus,20,18",
+    "text" : "\"'If a man lies with a woman during her monthly period and has sexual relations with her, he has exposed the source of her flow, and she has also uncovered it. Both of them must be cut off from their people."
+  }, {
+    "verse" : "leviticus,20,19",
+    "text" : "\"'Do not have sexual relations with the sister of either your mother or your father, for that would dishonor a close relative; both of you would be held responsible."
+  }, {
+    "verse" : "leviticus,20,20",
+    "text" : "\"'If a man sleeps with his aunt, he has dishonored his uncle. They will be held responsible; they will die childless."
+  }, {
+    "verse" : "leviticus,20,21",
+    "text" : "\"'If a man marries his brother's wife, it is an act of impurity; he has dishonored his brother. They will be childless."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,20,9",
     "id" : 186126,

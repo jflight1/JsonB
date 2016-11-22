@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,10,22" ],
+  "verses" : [ {
+    "verse" : "proverbs,10,22",
+    "text" : "The blessing of the LORD brings wealth, and he adds no trouble to it."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

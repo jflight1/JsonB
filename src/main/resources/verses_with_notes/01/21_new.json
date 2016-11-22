@@ -1,5 +1,20 @@
 [ {
-  "singleVerses" : [ "matthew,13,47", "matthew,13,48", "matthew,13,49", "matthew,13,50", "matthew,13,51" ],
+  "verses" : [ {
+    "verse" : "matthew,13,47",
+    "text" : "\"Once again, the kingdom of heaven is like a net that was let down into the lake and caught all kinds of fish."
+  }, {
+    "verse" : "matthew,13,48",
+    "text" : "When it was full, the fishermen pulled it up on the shore. Then they sat down and collected the good fish in baskets, but threw the bad away."
+  }, {
+    "verse" : "matthew,13,49",
+    "text" : "This is how it will be at the end of the age. The angels will come and separate the wicked from the righteous"
+  }, {
+    "verse" : "matthew,13,50",
+    "text" : "and throw them into the fiery furnace, where there will be weeping and gnashing of teeth."
+  }, {
+    "verse" : "matthew,13,51",
+    "text" : "\"Have you understood all these things?\" Jesus asked. \"Yes,\" they replied."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,13,1-matthew,13,53",
     "id" : 195763,
@@ -7,7 +22,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 13:1-Matt 13:53\">13:1–53</a></b> This collection of parables on the nature of the kingdom of heaven is the third great discourse in Matthew (Introduction: Characteristics and Themes).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,13,52", "matthew,13,53", "matthew,13,54" ],
+  "verses" : [ {
+    "verse" : "matthew,13,52",
+    "text" : "He said to them, \"Therefore every teacher of the law who has been instructed about the kingdom of heaven is like the owner of a house who brings out of his storeroom new treasures as well as old.\""
+  }, {
+    "verse" : "matthew,13,53",
+    "text" : "When Jesus had finished these parables, he moved on from there."
+  }, {
+    "verse" : "matthew,13,54",
+    "text" : "Coming to his hometown, he began teaching the people in their synagogue, and they were amazed. \"Where did this man get this wisdom and these miraculous powers?\" they asked."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,13,52",
     "id" : 195783,
@@ -15,7 +39,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 13:52\">13:52</a></b> <b>every scribe.</b> These teachers were frequently castigated by Jesus (<a class=\"bibleref\" href=\"/passage/?search=Matt 23:13-Matt 23:32\">23:13–32</a>), not because of their positions as teachers, but because of their hypocrisy.</p><p><b>trained for the kingdom.</b> The Greek phrase may also be rendered “has become a disciple of the kingdom.” Since this saying immediately follows Jesus’ asking the disciples if they understand, the implication is that the disciples will become teachers, and will, like a hospitable host, share with others the “treasures” they have received—an understanding of both the old redemptive history that points to Christ and the new redemptive acts that mark the presence of the kingdom.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,13,55", "matthew,13,56", "matthew,13,57" ],
+  "verses" : [ {
+    "verse" : "matthew,13,55",
+    "text" : "\"Isn't this the carpenter's son? Isn't his mother's name Mary, and aren't his brothers James, Joseph, Simon and Judas?"
+  }, {
+    "verse" : "matthew,13,56",
+    "text" : "Aren't all his sisters with us? Where then did this man get all these things?\""
+  }, {
+    "verse" : "matthew,13,57",
+    "text" : "And they took offense at him. But Jesus said to them, \"Only in his hometown and in his own house is a prophet without honor.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,13,55",
     "id" : 195784,
@@ -23,7 +56,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 13:55\">13:55</a></b> <b>carpenter’s son.</b> The Greek word translated “carpenter” is also a general term for any craftsman or worker. Joseph could have worked with wood or stone.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,13,58", "matthew,14,1", "matthew,14,2" ],
+  "verses" : [ {
+    "verse" : "matthew,13,58",
+    "text" : "And he did not do many miracles there because of their lack of faith."
+  }, {
+    "verse" : "matthew,14,1",
+    "text" : "At that time Herod the tetrarch heard the reports about Jesus,"
+  }, {
+    "verse" : "matthew,14,2",
+    "text" : "and he said to his attendants, \"This is John the Baptist; he has risen from the dead! That is why miraculous powers are at work in him.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,13,58",
     "id" : 195785,
@@ -31,7 +73,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 13:58\">13:58</a></b> Jesus’ refusal to do many miracles in Nazareth was not because He needed the faith of people to empower Him, but because miracles are of little value to those without faith (cf. <a class=\"bibleref\" href=\"/passage/?search=1Cor 13:2\">1 Cor. 13:2</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,14,3", "matthew,14,4", "matthew,14,5" ],
+  "verses" : [ {
+    "verse" : "matthew,14,3",
+    "text" : "Now Herod had arrested John and bound him and put him in prison because of Herodias, his brother Philip's wife,"
+  }, {
+    "verse" : "matthew,14,4",
+    "text" : "for John had been saying to him: \"It is not lawful for you to have her.\""
+  }, {
+    "verse" : "matthew,14,5",
+    "text" : "Herod wanted to kill John, but he was afraid of the people, because they considered him a prophet."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,14,3",
     "id" : 195786,
@@ -39,7 +90,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 14:3\">14:3</a></b> <b>Herod . . . his brother Philip’s wife.</b> See notes <a class=\"bibleref\" href=\"/passage/?search=Mark 6:14\">Mark 6:14</a>, <a class=\"bibleref\" href=\"/passage/?search=Mark 6:17\">17</a>. The genealogy of the Herods is confusing, with multiple marriages, marriages of close relatives, and reuse of similar names.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,14,6", "matthew,14,7", "matthew,14,8", "matthew,14,9", "matthew,14,10", "matthew,14,11", "matthew,14,12" ],
+  "verses" : [ {
+    "verse" : "matthew,14,6",
+    "text" : "On Herod's birthday the daughter of Herodias danced for them and pleased Herod so much"
+  }, {
+    "verse" : "matthew,14,7",
+    "text" : "that he promised with an oath to give her whatever she asked."
+  }, {
+    "verse" : "matthew,14,8",
+    "text" : "Prompted by her mother, she said, \"Give me here on a platter the head of John the Baptist.\""
+  }, {
+    "verse" : "matthew,14,9",
+    "text" : "The king was distressed, but because of his oaths and his dinner guests, he ordered that her request be granted"
+  }, {
+    "verse" : "matthew,14,10",
+    "text" : "and had John beheaded in the prison."
+  }, {
+    "verse" : "matthew,14,11",
+    "text" : "His head was brought in on a platter and given to the girl, who carried it to her mother."
+  }, {
+    "verse" : "matthew,14,12",
+    "text" : "John's disciples came and took his body and buried it. Then they went and told Jesus."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,14,6",
     "id" : 195787,

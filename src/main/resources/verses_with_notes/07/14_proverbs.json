@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,19,8" ],
+  "verses" : [ {
+    "verse" : "proverbs,19,8",
+    "text" : "He who gets wisdom loves his own soul; he who cherishes understanding prospers."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 19:8\">19:8</a></b> <b>loves his own soul.</b> Or, “loves life.” Wisdom promotes relationships that are essential for the good life.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,19,9" ],
+  "verses" : [ {
+    "verse" : "proverbs,19,9",
+    "text" : "A false witness will not go unpunished, and he who pours out lies will perish."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,19,9",
     "id" : 192073,

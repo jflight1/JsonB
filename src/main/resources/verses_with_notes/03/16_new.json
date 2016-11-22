@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "luke,2,1", "luke,2,2" ],
+  "verses" : [ {
+    "verse" : "luke,2,1",
+    "text" : "In those days Caesar Augustus issued a decree that a census should be taken of the entire Roman world."
+  }, {
+    "verse" : "luke,2,2",
+    "text" : "(This was the first census that took place while Quirinius was governor of Syria.)"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,2,1-luke,2,3",
     "id" : 196365,
@@ -7,7 +13,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 2:1-Luke 2:3\">2:1–3</a></b> Luke dates the birth of Jesus by the common method of referring to the political rulers (<a class=\"bibleref\" href=\"/passage/?search=Luke 3:1\">3:1</a>). There is no other record of a worldwide census under Augustus, but he did reorganize the administration of the empire and conducted censuses for taxation purposes. Quirinius was governor of Syria when a census was carried out in <span class=\"small-caps\">a.d.</span> 6 and may have been there earlier (10–7 <span class=\"small-caps\">b.c.</span>). It seems to have been the custom to conduct a census at intervals of fourteen years. Luke may be referring to a census preceding the well-known and unpopular census taken by Quirinius in <span class=\"small-caps\">a.d.</span> 6.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,2,3", "luke,2,4" ],
+  "verses" : [ {
+    "verse" : "luke,2,3",
+    "text" : "And everyone went to his own town to register."
+  }, {
+    "verse" : "luke,2,4",
+    "text" : "So Joseph also went up from the town of Nazareth in Galilee to Judea, to Bethlehem the town of David, because he belonged to the house and line of David."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,2,3",
     "id" : 196366,
@@ -15,7 +27,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 2:3\">2:3</a></b> <b>to be registered.</b> People went to their ancestral homes for registration. This would have made it easier to list families.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,2,5", "luke,2,6" ],
+  "verses" : [ {
+    "verse" : "luke,2,5",
+    "text" : "He went there to register with Mary, who was pledged to be married to him and was expecting a child."
+  }, {
+    "verse" : "luke,2,6",
+    "text" : "While they were there, the time came for the baby to be born,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,2,5",
     "id" : 196367,
@@ -23,7 +41,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 2:5\">2:5</a></b> <b>his betrothed.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Luke 1:27\">1:27</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,2,7" ],
+  "verses" : [ {
+    "verse" : "luke,2,7",
+    "text" : "and she gave birth to her firstborn, a son. She wrapped him in cloths and placed him in a manger, because there was no room for them in the inn."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,2,7",
     "id" : 196368,
@@ -31,7 +52,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 2:7\">2:7</a></b> The birth of the baby is described simply. “Swaddling cloths” were strips of cloth used to wrap a baby. That the Child was put in a manger may mean that the birth was in a stable. There is a tradition that Jesus was born in a cave, which could have been used as a stable. Mangers were often outdoors, so it is possible that Jesus was born in the open air. Another possibility is that the place was the home of a poor family, where the animals would be under the same roof.</p><p><b>there was no place for them in the inn.</b> This may mean that the innkeeper did not want to have them there.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,2,8" ],
+  "verses" : [ {
+    "verse" : "luke,2,8",
+    "text" : "And there were shepherds living out in the fields nearby, keeping watch over their flocks at night."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,2,8",
     "id" : 196369,
@@ -39,7 +63,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 2:8\">2:8</a></b> <b>shepherds out in the field.</b> Animals to be used for the temple sacrifices were kept in the open, even in winter. The presence of shepherds outdoors does not prove that Jesus was born in a warm time of year. Shepherds were a despised class because their work prevented them from keeping the ceremonial law, and as they moved about the country it was common for them to be regarded as thieves. They were considered unreliable and were not allowed to give evidence in the courts.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,2,9" ],
+  "verses" : [ {
+    "verse" : "luke,2,9",
+    "text" : "An angel of the Lord appeared to them, and the glory of the Lord shone around them, and they were terrified."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,2,9",
     "id" : 196370,
@@ -47,7 +74,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 2:9\">2:9</a></b> <b>angel.</b> An angel is a messenger. In the New Testament, an “angel” is usually a supernatural messenger from God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,2,10" ],
+  "verses" : [ {
+    "verse" : "luke,2,10",
+    "text" : "But the angel said to them, \"Do not be afraid. I bring you good news of great joy that will be for all the people."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,2,10",
     "id" : 196371,
@@ -55,7 +85,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 2:10\">2:10</a></b> The angel began by reassuring the frightened men (cf. <a class=\"bibleref\" href=\"/passage/?search=Luke 1:13\">1:13</a>, <a class=\"bibleref\" href=\"/passage/?search=Luke 1:30\">30</a>), and went on to use strong terms for the great joy and the good news he was telling them.</p><p><b>all the people.</b> The Greek phrase normally refers to the whole people of Israel.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,2,11" ],
+  "verses" : [ {
+    "verse" : "luke,2,11",
+    "text" : "Today in the town of David a Savior has been born to you; he is Christ the Lord."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,2,11",
     "id" : 196372,
@@ -63,7 +96,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 2:11\">2:11</a></b> Jesus is called “Savior” only twice in the four Gospels (cf. <a class=\"bibleref\" href=\"/passage/?search=John 4:42\">John 4:42</a>). “Christ” means “Messiah,” while “Lord” is regularly used in the Septuagint (the Greek translation of the Old Testament) for God’s own name, conventionally translated with small capitals (“<span class=\"small-caps\">Lord</span>”). The most outstanding terms are used for the new Baby.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,2,12" ],
+  "verses" : [ {
+    "verse" : "luke,2,12",
+    "text" : "This will be a sign to you: You will find a baby wrapped in cloths and lying in a manger.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,2,12",
     "id" : 196373,
@@ -71,7 +107,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 2:12\">2:12</a></b> The sign would enable them to find the Baby and it would prove to them the truth of what the angel said.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,2,13", "luke,2,14", "luke,2,15", "luke,2,16", "luke,2,17", "luke,2,18", "luke,2,19" ],
+  "verses" : [ {
+    "verse" : "luke,2,13",
+    "text" : "Suddenly a great company of the heavenly host appeared with the angel, praising God and saying,"
+  }, {
+    "verse" : "luke,2,14",
+    "text" : "\"Glory to God in the highest, and on earth peace to men on whom his favor rests.\""
+  }, {
+    "verse" : "luke,2,15",
+    "text" : "When the angels had left them and gone into heaven, the shepherds said to one another, \"Let's go to Bethlehem and see this thing that has happened, which the Lord has told us about.\""
+  }, {
+    "verse" : "luke,2,16",
+    "text" : "So they hurried off and found Mary and Joseph, and the baby, who was lying in the manger."
+  }, {
+    "verse" : "luke,2,17",
+    "text" : "When they had seen him, they spread the word concerning what had been told them about this child,"
+  }, {
+    "verse" : "luke,2,18",
+    "text" : "and all who heard it were amazed at what the shepherds said to them."
+  }, {
+    "verse" : "luke,2,19",
+    "text" : "But Mary treasured up all these things and pondered them in her heart."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,2,13",
     "id" : 196374,
@@ -79,7 +136,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 2:13\">2:13</a></b> <b>the heavenly host.</b> “Host” is a military term, and it is remarkable that an army should announce peace (<a class=\"bibleref\" href=\"/passage/?search=Luke 2:14\">v. 14</a>). The “peace” is peace with God, a peace that Christ would bring.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,2,20" ],
+  "verses" : [ {
+    "verse" : "luke,2,20",
+    "text" : "The shepherds returned, glorifying and praising God for all the things they had heard and seen, which were just as they had been told."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,2,20",
     "id" : 196375,
@@ -87,7 +147,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 2:20\">2:20</a></b> Luke often mentions praise to God (<a class=\"bibleref\" href=\"/passage/?search=Luke 5:25\">5:25</a>, <a class=\"bibleref\" href=\"/passage/?search=Luke 5:26\">26</a>; <a class=\"bibleref\" href=\"/passage/?search=Luke 7:16\">7:16</a>; <a class=\"bibleref\" href=\"/passage/?search=Luke 13:13\">13:13</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,2,21", "luke,2,22", "luke,2,23", "luke,2,24" ],
+  "verses" : [ {
+    "verse" : "luke,2,21",
+    "text" : "On the eighth day, when it was time to circumcise him, he was named Jesus, the name the angel had given him before he had been conceived."
+  }, {
+    "verse" : "luke,2,22",
+    "text" : "When the time of their purification according to the Law of Moses had been completed, Joseph and Mary took him to Jerusalem to present him to the Lord"
+  }, {
+    "verse" : "luke,2,23",
+    "text" : "(as it is written in the Law of the Lord, \"Every firstborn male is to be consecrated to the Lord\" ),"
+  }, {
+    "verse" : "luke,2,24",
+    "text" : "and to offer a sacrifice in keeping with what is said in the Law of the Lord: \"a pair of doves or two young pigeons.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,2,21-luke,2,24",
     "id" : 196376,
@@ -95,7 +167,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 2:21-Luke 2:24\">2:21–24</a></b> Jesus was circumcised on the eighth day as the law prescribed (<a class=\"bibleref\" href=\"/passage/?search=Gen 17:12\">Gen. 17:12</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Gal 4:4\">Gal. 4:4</a>, <a class=\"bibleref\" href=\"/passage/?search=Gal 4:5\">5</a>). The need for purification arose from the mother’s being ceremonially unclean for seven days after the birth of a son. For another thirty-three days she was to keep away from holy things (these times were doubled for a daughter, <a class=\"bibleref\" href=\"/passage/?search=Lev 12:1-Lev 12:5\">Lev. 12:1–5</a>). The mother was then to offer a lamb plus a dove or pigeon. If she was poor her offering was two doves or pigeons (<a class=\"bibleref\" href=\"/passage/?search=Lev 12:6-Lev 12:8\">Lev. 12:6–8</a>). Mary gave the offering of the poor. The first male child of every mother was presented to the Lord (<a class=\"bibleref\" href=\"/passage/?search=Exod 13:2\">Ex. 13:2</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,2,25", "luke,2,26", "luke,2,27" ],
+  "verses" : [ {
+    "verse" : "luke,2,25",
+    "text" : "Now there was a man in Jerusalem called Simeon, who was righteous and devout. He was waiting for the consolation of Israel, and the Holy Spirit was upon him."
+  }, {
+    "verse" : "luke,2,26",
+    "text" : "It had been revealed to him by the Holy Spirit that he would not die before he had seen the Lord's Christ."
+  }, {
+    "verse" : "luke,2,27",
+    "text" : "Moved by the Spirit, he went into the temple courts. When the parents brought in the child Jesus to do for him what the custom of the Law required,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,2,25",
     "id" : 196377,
@@ -103,7 +184,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 2:25\">2:25</a></b> <b>the consolation of Israel.</b> This title for the Messiah refers to the comfort that He would bring.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,2,28", "luke,2,29" ],
+  "verses" : [ {
+    "verse" : "luke,2,28",
+    "text" : "Simeon took him in his arms and praised God, saying:"
+  }, {
+    "verse" : "luke,2,29",
+    "text" : "\"Sovereign Lord, as you have promised, you now dismiss your servant in peace."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,2,28-luke,2,32",
     "id" : 196378,
@@ -111,7 +198,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 2:28-Luke 2:32\">2:28–32</a></b> <b>blessed God.</b> Simeon’s blessing is often called the “Nunc Dimittis” from its opening words in Latin.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,2,30" ],
+  "verses" : [ {
+    "verse" : "luke,2,30",
+    "text" : "For my eyes have seen your salvation,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,2,30",
     "id" : 196379,
@@ -119,7 +209,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 2:30\">2:30</a></b> <b>your salvation.</b> This phrase signifies the Child who would bring God’s salvation to humanity.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,2,31", "luke,2,32", "luke,2,33" ],
+  "verses" : [ {
+    "verse" : "luke,2,31",
+    "text" : "which you have prepared in the sight of all people,"
+  }, {
+    "verse" : "luke,2,32",
+    "text" : "a light for revelation to the Gentiles and for glory to your people Israel.\""
+  }, {
+    "verse" : "luke,2,33",
+    "text" : "The child's father and mother marveled at what was said about him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,2,31",
     "id" : 196380,
@@ -127,7 +226,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 2:31\">2:31</a></b> <b>all peoples.</b> This phrase is plural and refers to the Gentiles as well as Israel (<a class=\"bibleref\" href=\"/passage/?search=Luke 2:10\">v. 10</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,2,34" ],
+  "verses" : [ {
+    "verse" : "luke,2,34",
+    "text" : "Then Simeon blessed them and said to Mary, his mother: \"This child is destined to cause the falling and rising of many in Israel, and to be a sign that will be spoken against,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,2,34",
     "id" : 196381,
@@ -135,7 +237,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 2:34\">2:34</a></b> <b>fall and rising.</b> If the “fall and rising” applies to one group, then it means they must be humbled in repentance before they can rise into salvation. If it describes two groups, then it indicates that those who reject Jesus will fall eternally, but those who accept Him will rise to be with God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,2,35" ],
+  "verses" : [ {
+    "verse" : "luke,2,35",
+    "text" : "so that the thoughts of many hearts will be revealed. And a sword will pierce your own soul too.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,2,35",
     "id" : 196382,

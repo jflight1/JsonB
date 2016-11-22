@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,12,21" ],
+  "verses" : [ {
+    "verse" : "proverbs,12,21",
+    "text" : "No harm befalls the righteous, but the wicked have their fill of trouble."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 12:21\">12:21</a></b> <b>No ill.</b> This basic condition of the righteous refers both to natural calamity and the judgment of God. See note <a class=\"bibleref\" href=\"/passage/?search=Prov 11:8\">11:8</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,12,22" ],
+  "verses" : [ {
+    "verse" : "proverbs,12,22",
+    "text" : "The LORD detests lying lips, but he delights in men who are truthful."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,12,22",
     "id" : 191917,
@@ -20,7 +26,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 12:22\">12:22</a></b> The Lord’s self-revealed character and attitudes provide a strong motive for truth.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,12,23" ],
+  "verses" : [ {
+    "verse" : "proverbs,12,23",
+    "text" : "A prudent man keeps his knowledge to himself, but the heart of fools blurts out folly."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,12,23",
     "id" : 191918,

@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,27,11" ],
+  "verses" : [ {
+    "verse" : "proverbs,27,11",
+    "text" : "Be wise, my son, and bring joy to my heart; then I can answer anyone who treats me with contempt."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,27,11",
     "id" : 192279,

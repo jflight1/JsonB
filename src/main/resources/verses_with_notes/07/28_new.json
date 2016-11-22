@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "romans,11,13", "romans,11,14" ],
+  "verses" : [ {
+    "verse" : "romans,11,13",
+    "text" : "I am talking to you Gentiles. Inasmuch as I am the apostle to the Gentiles, I make much of my ministry"
+  }, {
+    "verse" : "romans,11,14",
+    "text" : "in the hope that I may somehow arouse my own people to envy and save some of them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,11,11-romans,11,24",
     "id" : 197871,
@@ -12,7 +18,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 11:13\">11:13</a></b> <b>I am speaking to you Gentiles.</b> Why he singles out the Gentiles in the Roman church is made clear in <a class=\"bibleref\" href=\"/passage/?search=Rom 11:17-Rom 11:24\">vv. 17–24</a>.</p><p><b>apostle to the Gentiles.</b> Paul here provides a unique insight into his thinking about his own ministry to the Gentiles: it too has his own Jewish people in view, in terms of <a class=\"bibleref\" href=\"/passage/?search=Rom 9:19\">9:19</a> and <a class=\"bibleref\" href=\"/passage/?search=Rom 11:11\">11:11</a> (<a class=\"bibleref\" href=\"/passage/?search=Acts 9:15\">Acts 9:15</a>; <a class=\"bibleref\" href=\"/passage/?search=Eph 3:1\">Eph. 3:1</a>; <a class=\"bibleref\" href=\"/passage/?search=Gal 2:8\">Gal. 2:8</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,11,15" ],
+  "verses" : [ {
+    "verse" : "romans,11,15",
+    "text" : "For if their rejection is the reconciliation of the world, what will their acceptance be but life from the dead?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,11,15",
     "id" : 197875,
@@ -20,7 +29,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 11:15\">11:15</a></b> <b>life from the dead.</b> This phrase may simply denote unprecedented blessing. Although the wording is slightly different from Paul’s normal usage (“resurrection from the dead,” <a class=\"bibleref\" href=\"/passage/?search=Rom 1:4\">1:4</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=1Cor 15:12\">1 Cor. 15:12</a>, <a class=\"bibleref\" href=\"/passage/?search=1Cor 15:13\">13</a>, <a class=\"bibleref\" href=\"/passage/?search=1Cor 15:21\">21</a>, <a class=\"bibleref\" href=\"/passage/?search=1Cor 15:42\">42</a>), some take the phrase to refer to the general resurrection of the last day, understanding the conversion of the Jews to be an event of the end times, an immediate herald of the final resurrection.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,11,16" ],
+  "verses" : [ {
+    "verse" : "romans,11,16",
+    "text" : "If the part of the dough offered as firstfruits is holy, then the whole batch is holy; if the root is holy, so are the branches."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,11,16",
     "id" : 197876,
@@ -28,7 +40,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 11:16\">11:16</a></b> <b>so is the whole lump.</b> Paul applies spiritually the principle that the firstfruits serve as the pledge of the final harvest (cf. <a class=\"bibleref\" href=\"/passage/?search=Num 15:17-Num 15:21\">Num. 15:17–21</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,11,17" ],
+  "verses" : [ {
+    "verse" : "romans,11,17",
+    "text" : "If some of the branches have been broken off, and you, though a wild olive shoot, have been grafted in among the others and now share in the nourishing sap from the olive root,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,11,17",
     "id" : 197877,
@@ -36,7 +51,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 11:17\">11:17 a</a></b> <b>wild olive shoot . . . grafted in.</b> See <a class=\"bibleref\" href=\"/passage/?search=Jer 11:16\">Jer. 11:16</a>; <a class=\"bibleref\" href=\"/passage/?search=Hos 14:6\">Hos. 14:6</a> for Israel as an olive tree. Wild olive shoots do seem to have been grafted into cultivated trees to bring fresh vitality to them. Paul’s words, however, probably intentionally stretch beyond strict horticulture. Gentiles have been grafted into the people of God “contrary to nature” (v. 24).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,11,18", "romans,11,19" ],
+  "verses" : [ {
+    "verse" : "romans,11,18",
+    "text" : "do not boast over those branches. If you do, consider this: You do not support the root, but the root supports you."
+  }, {
+    "verse" : "romans,11,19",
+    "text" : "You will say then, \"Branches were broken off so that I could be grafted in.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,11,18",
     "id" : 197878,
@@ -44,7 +65,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 11:18\">11:18</a></b> <b>do not be arrogant.</b> Because their salvation is entirely by grace, they have no cause for boasting or despising Jewish believers. Such Gentile arrogance in relation to Jews would simply mirror the same spiritual pride that has led to the Jews’ hardening (<a class=\"bibleref\" href=\"/passage/?search=Rom 2:17\">2:17</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,11,20", "romans,11,21" ],
+  "verses" : [ {
+    "verse" : "romans,11,20",
+    "text" : "Granted. But they were broken off because of unbelief, and you stand by faith. Do not be arrogant, but be afraid."
+  }, {
+    "verse" : "romans,11,21",
+    "text" : "For if God did not spare the natural branches, he will not spare you either."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,11,20",
     "id" : 197879,
@@ -52,7 +79,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 11:20\">11:20</a></b> While the rejoinder to Paul in <a class=\"bibleref\" href=\"/passage/?search=Rom 11:19\">v. 19</a> is formally true, the breaking off of the Jewish branches was an act of righteous judgment on unbelief, and the ingrafting of the Gentiles is a matter of grace and therefore of faith. Their ingrafting (<a class=\"bibleref\" href=\"/passage/?search=Rom 11:19\">v. 19</a>) is not therefore based on any superior quality in the Gentiles.</p><p><b>awe.</b> Tender-spirited awe, not arrogance, is the appropriate response to God’s grace.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,11,22" ],
+  "verses" : [ {
+    "verse" : "romans,11,22",
+    "text" : "Consider therefore the kindness and sternness of God: sternness to those who fell, but kindness to you, provided that you continue in his kindness. Otherwise, you also will be cut off."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,11,22",
     "id" : 197880,
@@ -60,7 +90,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 11:22\">11:22</a></b> <b>Note then the kindness and the severity of God.</b> See “The Purpose of God: Predestination and Foreknowledge” at <a class=\"bibleref\" href=\"/passage/?search=Mal 1:2\">Mal. 1:2</a>. Gentile believers are urged to take seriously the revelation of God’s character in these events of providence. God’s kindness bears fruit only when His people continue in it (2:4).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,11,23", "romans,11,24" ],
+  "verses" : [ {
+    "verse" : "romans,11,23",
+    "text" : "And if they do not persist in unbelief, they will be grafted in, for God is able to graft them in again."
+  }, {
+    "verse" : "romans,11,24",
+    "text" : "After all, if you were cut out of an olive tree that is wild by nature, and contrary to nature were grafted into a cultivated olive tree, how much more readily will these, the natural branches, be grafted into their own olive tree!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,11,23-romans,11,24",
     "id" : 197881,
@@ -68,7 +104,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 11:23\">11:23</a>, <a class=\"bibleref\" href=\"/passage/?search=Rom 11:24\">24</a></b> The cutting off of Israel is because of unbelief, and not because the Gentiles were inherently better qualified for life in the olive tree. Moreover, Gentile believers should never forget that the gospel came to the Jew first (<a class=\"bibleref\" href=\"/passage/?search=Rom 1:16\">1:16</a>, <a class=\"bibleref\" href=\"/passage/?search=Rom 1:17\">17</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,11,25" ],
+  "verses" : [ {
+    "verse" : "romans,11,25",
+    "text" : "I do not want you to be ignorant of this mystery, brothers, so that you may not be conceited: Israel has experienced a hardening in part until the full number of the Gentiles has come in."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,11,25-romans,11,32",
     "id" : 197882,
@@ -81,7 +120,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 11:25\">11:25</a></b> <b>mystery.</b> In Paul, and Jewish thought generally, a divine secret that has now been revealed. Some interpreters conclude that what immediately follows constitutes the mystery (probably the widespread conversion of the Jews). Others hold that the mystery is the pattern of God’s working in the Jew-Gentile interrelationship referred to in <a class=\"bibleref\" href=\"/passage/?search=Rom 11:11\">v. 11</a>.</p><p><b>fullness.</b> The term may be taken to have a specifically numerical connotation.</p><p><b>has come in.</b> An expression used infrequently by Paul, but commonplace in the Gospels to describe entrance into life or the kingdom of God (e.g., <a class=\"bibleref\" href=\"/passage/?search=Mark 9:47\">Mark 9:47</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,11,26", "romans,11,27", "romans,11,28" ],
+  "verses" : [ {
+    "verse" : "romans,11,26",
+    "text" : "And so all Israel will be saved, as it is written: \"The deliverer will come from Zion; he will turn godlessness away from Jacob."
+  }, {
+    "verse" : "romans,11,27",
+    "text" : "And this is my covenant with them when I take away their sins.\""
+  }, {
+    "verse" : "romans,11,28",
+    "text" : "As far as the gospel is concerned, they are enemies on your account; but as far as election is concerned, they are loved on account of the patriarchs,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,11,26",
     "id" : 197884,
@@ -89,7 +137,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 11:26\">11:26</a></b> <b>all Israel.</b> A critical expression at this point in Paul’s argument, and one whose meaning is much debated. It could mean “all (spiritual) Israel,” that is, all elect persons both Jew and Gentile. Alternately, it may mean “all” Israel in the sense of “all Jews destined to be saved throughout history.” Or, as suggested above, it may point to a time of mass conversion among Jewish people. See <a class=\"bibleref\" href=\"/passage/?search=Rom 11:25-Rom 11:32\">11:25–32</a> note, points (a), (b), and (c). The exegesis of “all Israel” will depend on the interpretation and weighing of other factors in the passage.</p><p><b>The Deliverer will come from Zion.</b> The quotation is from <a class=\"bibleref\" href=\"/passage/?search=Ps 14:7\">Ps. 14:7</a>, <a class=\"bibleref\" href=\"/passage/?search=Isa 27:9\">Is. 27:9</a>, and <a class=\"bibleref\" href=\"/passage/?search=Isa 59:20\">Is. 59:20</a>, <a class=\"bibleref\" href=\"/passage/?search=Isa 59:21\">21</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,11,29" ],
+  "verses" : [ {
+    "verse" : "romans,11,29",
+    "text" : "for God's gifts and his call are irrevocable."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,11,29",
     "id" : 197885,
@@ -97,7 +148,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 11:29\">11:29</a></b> <b>the gifts . . . are irrevocable.</b> See “Gifts and Ministries” at <a class=\"bibleref\" href=\"/passage/?search=Eph 4:7\">Eph. 4:7</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,11,30", "romans,11,31", "romans,11,32" ],
+  "verses" : [ {
+    "verse" : "romans,11,30",
+    "text" : "Just as you who were at one time disobedient to God have now received mercy as a result of their disobedience,"
+  }, {
+    "verse" : "romans,11,31",
+    "text" : "so they too have now become disobedient in order that they too may now receive mercy as a result of God's mercy to you."
+  }, {
+    "verse" : "romans,11,32",
+    "text" : "For God has bound all men over to disobedience so that he may have mercy on them all."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,11,30",
     "id" : 197886,
@@ -105,7 +165,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 11:30\">11:30</a></b> Paul’s argument concludes in a manner parallel to <a class=\"bibleref\" href=\"/passage/?search=Rom 3:19-Rom 3:21\">3:19–21</a>, stressing that Jew and Gentile are united in two things: the disobedience of sin, and the offer to them of the mercy of God. The wisdom and sovereignty of God’s grace are demonstrated in the way in which His purposes are fulfilled: the disobedience of the Jew leads to God’s mercy reaching the Gentiles; the mercy of God to the Gentiles leads to the reception of mercy by the Jews. There is no difference—all (Jew and Gentile alike) have sinned (<a class=\"bibleref\" href=\"/passage/?search=Rom 3:23\">3:23</a>), and God has mercy on both (<a class=\"bibleref\" href=\"/passage/?search=Rom 1:16\">1:16</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,11,33", "romans,11,34", "romans,11,35", "romans,11,36" ],
+  "verses" : [ {
+    "verse" : "romans,11,33",
+    "text" : "Oh, the depth of the riches of the wisdom and knowledge of God! How unsearchable his judgments, and his paths beyond tracing out!"
+  }, {
+    "verse" : "romans,11,34",
+    "text" : "\"Who has known the mind of the Lord? Or who has been his counselor?\""
+  }, {
+    "verse" : "romans,11,35",
+    "text" : "\"Who has ever given to God, that God should repay him?\""
+  }, {
+    "verse" : "romans,11,36",
+    "text" : "For from him and through him and to him are all things. To him be the glory forever! Amen."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,11,33-romans,11,36",
     "id" : 197887,

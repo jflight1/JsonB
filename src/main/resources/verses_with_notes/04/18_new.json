@@ -1,8 +1,17 @@
 [ {
-  "singleVerses" : [ "luke,19,1" ],
+  "verses" : [ {
+    "verse" : "luke,19,1",
+    "text" : "Jesus entered Jericho and was passing through."
+  } ],
   "rsbNotes" : [ ]
 }, {
-  "singleVerses" : [ "luke,19,2", "luke,19,3" ],
+  "verses" : [ {
+    "verse" : "luke,19,2",
+    "text" : "A man was there by the name of Zacchaeus; he was a chief tax collector and was wealthy."
+  }, {
+    "verse" : "luke,19,3",
+    "text" : "He wanted to see who Jesus was, but being a short man he could not, because of the crowd."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,19,2",
     "id" : 196714,
@@ -10,7 +19,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 19:2\">19:2</a></b> <b>chief tax collector.</b> The term is found nowhere else, but clearly it means the head of the local taxing agents. Jericho was near a major trade route and famous balsam groves. There was much to tax, and Zacchaeus was accordingly quite rich.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,19,4", "luke,19,5", "luke,19,6", "luke,19,7" ],
+  "verses" : [ {
+    "verse" : "luke,19,4",
+    "text" : "So he ran ahead and climbed a sycamore-fig tree to see him, since Jesus was coming that way."
+  }, {
+    "verse" : "luke,19,5",
+    "text" : "When Jesus reached the spot, he looked up and said to him, \"Zacchaeus, come down immediately. I must stay at your house today.\""
+  }, {
+    "verse" : "luke,19,6",
+    "text" : "So he came down at once and welcomed him gladly."
+  }, {
+    "verse" : "luke,19,7",
+    "text" : "All the people saw this and began to mutter, \"He has gone to be the guest of a 'sinner.'\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,19,4",
     "id" : 196715,
@@ -18,7 +39,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 19:4\">19:4</a></b> <b>sycamore tree.</b> A tree frequently planted by the roadside; it was easy to climb.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,19,8" ],
+  "verses" : [ {
+    "verse" : "luke,19,8",
+    "text" : "But Zacchaeus stood up and said to the Lord, \"Look, Lord! Here and now I give half of my possessions to the poor, and if I have cheated anybody out of anything, I will pay back four times the amount.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,19,8",
     "id" : 196716,
@@ -26,7 +50,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 19:8\">19:8</a></b> <b>I restore.</b> The verb is in the present tense for vividness and emphasis.</p><p><b>fourfold.</b> The law required the amount plus a fifth (<a class=\"bibleref\" href=\"/passage/?search=Lev 6:5\">Lev. 6:5</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 5:7\">Num. 5:7</a>); Zacchaeus was going far beyond what the law demanded.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,19,9" ],
+  "verses" : [ {
+    "verse" : "luke,19,9",
+    "text" : "Jesus said to him, \"Today salvation has come to this house, because this man, too, is a son of Abraham."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,19,9",
     "id" : 196717,
@@ -34,7 +61,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 19:9\">19:9</a></b> <b>salvation.</b> Jesus has just said that it is hard for a rich person to be saved (<a class=\"bibleref\" href=\"/passage/?search=Luke 18:24\">18:24</a>, <a class=\"bibleref\" href=\"/passage/?search=Luke 18:25\">25</a>); the salvation of Zacchaeus shows it is not impossible (<a class=\"bibleref\" href=\"/passage/?search=Luke 18:27\">18:27</a>). See “Salvation” at <a class=\"bibleref\" href=\"/passage/?search=Acts 4:12\">Acts 4:12</a>.</p><p><b>a son of Abraham.</b> This phrase may point to Zacchaeus as one of the lost sheep of Israel, to whom Jesus felt a special mission (cf. 13:16; <a class=\"bibleref\" href=\"/passage/?search=Matt 10:6\">Matt. 10:6</a>; <a class=\"bibleref\" href=\"/passage/?search=Matt 15:24\">15:24</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,19,10" ],
+  "verses" : [ {
+    "verse" : "luke,19,10",
+    "text" : "For the Son of Man came to seek and to save what was lost.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,19,10",
     "id" : 196718,
@@ -42,7 +72,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 19:10\">19:10</a></b> <b>the Son of Man.</b> Jesus’ favorite way of referring to Himself (<a class=\"bibleref\" href=\"/passage/?search=Luke 5:24\">5:24</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,19,11" ],
+  "verses" : [ {
+    "verse" : "luke,19,11",
+    "text" : "While they were listening to this, he went on to tell them a parable, because he was near Jerusalem and the people thought that the kingdom of God was going to appear at once."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,19,11",
     "id" : 196719,
@@ -50,7 +83,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 19:11\">19:11</a></b> Jesus’ journey to Jerusalem was nearing its end, and some thought He would set up a magnificent earthly kingdom there.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,19,12" ],
+  "verses" : [ {
+    "verse" : "luke,19,12",
+    "text" : "He said: \"A man of noble birth went to a distant country to have himself appointed king and then to return."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,19,12",
     "id" : 196720,
@@ -58,7 +94,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 19:12\">19:12</a></b> The parable of the talents (<a class=\"bibleref\" href=\"/passage/?search=Matt 25:14-Matt 25:29\">Matt. 25:14–29</a>) resembles this one, but there the amounts are larger and vary in size, testing the servants for their fitness for larger tasks. Here the amounts are small and the same for all (v. 13). The parable teaches that everyone has one basic task—to serve God faithfully.</p><p><b>a far country.</b> Herod’s sons were examples of noblemen who went to Rome hoping to be made king.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,19,13" ],
+  "verses" : [ {
+    "verse" : "luke,19,13",
+    "text" : "So he called ten of his servants and gave them ten minas. 'Put this money to work,' he said, 'until I come back.'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,19,13",
     "id" : 196721,
@@ -66,7 +105,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 19:13\">19:13</a></b> <b>ten minas.</b> Each servant received one mina, the equivalent of one hundred drachmas (<a class=\"bibleref\" href=\"/passage/?search=Luke 15:8\">15:8</a> note), or several months’ wages.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,19,14", "luke,19,15" ],
+  "verses" : [ {
+    "verse" : "luke,19,14",
+    "text" : "\"But his subjects hated him and sent a delegation after him to say, 'We don't want this man to be our king.'"
+  }, {
+    "verse" : "luke,19,15",
+    "text" : "\"He was made king, however, and returned home. Then he sent for the servants to whom he had given the money, in order to find out what they had gained with it."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,19,14",
     "id" : 196722,
@@ -74,7 +119,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 19:14\">19:14</a></b> When Herod’s son Archelaus went to Rome seeking his kingdom, his Jewish subjects sent a delegation to ask that he not be made king over them.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,19,16", "luke,19,17", "luke,19,18", "luke,19,19" ],
+  "verses" : [ {
+    "verse" : "luke,19,16",
+    "text" : "\"The first one came and said, 'Sir, your mina has earned ten more.'"
+  }, {
+    "verse" : "luke,19,17",
+    "text" : "\"'Well done, my good servant!' his master replied. 'Because you have been trustworthy in a very small matter, take charge of ten cities.'"
+  }, {
+    "verse" : "luke,19,18",
+    "text" : "\"The second came and said, 'Sir, your mina has earned five more.'"
+  }, {
+    "verse" : "luke,19,19",
+    "text" : "\"His master answered, 'You take charge of five cities.'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,19,16-luke,19,19",
     "id" : 196723,
@@ -82,7 +139,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 19:16-Luke 19:19\">19:16–19</a></b> Two servants did well and were rewarded with further opportunities of service in proportion to their success. Notice their modesty (“your mina has made”) and the much greater responsibility allotted to them.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,19,20", "luke,19,21" ],
+  "verses" : [ {
+    "verse" : "luke,19,20",
+    "text" : "\"Then another servant came and said, 'Sir, here is your mina; I have kept it laid away in a piece of cloth."
+  }, {
+    "verse" : "luke,19,21",
+    "text" : "I was afraid of you, because you are a hard man. You take out what you did not put in and reap what you did not sow.'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,19,20-luke,19,21",
     "id" : 196724,
@@ -90,7 +153,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 19:20\">19:20</a>, <a class=\"bibleref\" href=\"/passage/?search=Luke 19:21\">21</a></b> Fear kept the third man from doing anything, though he knew his master expected much. Nothing is said about the other seven. The parable is concerned with two classes: those who worked and those who did not.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,19,22", "luke,19,23", "luke,19,24", "luke,19,25", "luke,19,26", "luke,19,27" ],
+  "verses" : [ {
+    "verse" : "luke,19,22",
+    "text" : "\"His master replied, 'I will judge you by your own words, you wicked servant! You knew, did you, that I am a hard man, taking out what I did not put in, and reaping what I did not sow?"
+  }, {
+    "verse" : "luke,19,23",
+    "text" : "Why then didn't you put my money on deposit, so that when I came back, I could have collected it with interest?'"
+  }, {
+    "verse" : "luke,19,24",
+    "text" : "\"Then he said to those standing by, 'Take his mina away from him and give it to the one who has ten minas.'"
+  }, {
+    "verse" : "luke,19,25",
+    "text" : "\"'Sir,' they said, 'he already has ten!'"
+  }, {
+    "verse" : "luke,19,26",
+    "text" : "\"He replied, 'I tell you that to everyone who has, more will be given, but as for the one who has nothing, even what he has will be taken away."
+  }, {
+    "verse" : "luke,19,27",
+    "text" : "But those enemies of mine who did not want me to be king over them--bring them here and kill them in front of me.'\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,19,22-luke,19,26",
     "id" : 196725,

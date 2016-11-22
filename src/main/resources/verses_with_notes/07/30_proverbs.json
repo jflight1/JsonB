@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,20,11" ],
+  "verses" : [ {
+    "verse" : "proverbs,20,11",
+    "text" : "Even a child is known by his actions, by whether his conduct is pure and right."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

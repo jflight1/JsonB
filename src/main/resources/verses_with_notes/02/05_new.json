@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "matthew,24,1" ],
+  "verses" : [ {
+    "verse" : "matthew,24,1",
+    "text" : "Jesus left the temple and was walking away when his disciples came up to him to call his attention to its buildings."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,24,1-matthew,25,46",
     "id" : 195888,
@@ -7,7 +10,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 24-Matt 25\">24:1–25:46</a></b> These two chapters are the last of Jesus’ five great discourses in Matthew. Sometimes called the “Olivet discourse” because of its setting, most of the discourse is also recorded in <a class=\"bibleref\" href=\"/passage/?search=Mark 13\">Mark 13</a>. The language is symbolic, and it deals with a number of events, not just a single incident.</p><p>There are three basic interpretive approaches to this discourse: first, all or most of ch. 24 (at least through v. 35) is concerned exclusively with the destruction of Jerusalem, and the “coming” of the Son of Man (24:30) is the exaltation of Jesus in heaven. Second, all of the sermon is about the Second Coming of Christ in judgment. Third, the sermon combines the destruction of Jerusalem and the judgment of the world in such a way that it is difficult to separate the references to the events surrounding the fall of Jerusalem and the Second Coming.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,24,2", "matthew,24,3" ],
+  "verses" : [ {
+    "verse" : "matthew,24,2",
+    "text" : "\"Do you see all these things?\" he asked. \"I tell you the truth, not one stone here will be left on another; every one will be thrown down.\""
+  }, {
+    "verse" : "matthew,24,3",
+    "text" : "As Jesus was sitting on the Mount of Olives, the disciples came to him privately. \"Tell us,\" they said, \"when will this happen, and what will be the sign of your coming and of the end of the age?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,24,2",
     "id" : 195889,
@@ -15,7 +24,37 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 24:2\">24:2</a></b> <b>one stone.</b> This was fulfilled during the Roman conquest of Jerusalem in <span class=\"small-caps\">a.d.</span> 70 (<a class=\"bibleref\" href=\"/passage/?search=Mark 13:2\">Mark 13:2</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,24,4", "matthew,24,5", "matthew,24,6", "matthew,24,7", "matthew,24,8", "matthew,24,9", "matthew,24,10", "matthew,24,11", "matthew,24,12", "matthew,24,13" ],
+  "verses" : [ {
+    "verse" : "matthew,24,4",
+    "text" : "Jesus answered: \"Watch out that no one deceives you."
+  }, {
+    "verse" : "matthew,24,5",
+    "text" : "For many will come in my name, claiming, 'I am the Christ, 'and will deceive many."
+  }, {
+    "verse" : "matthew,24,6",
+    "text" : "You will hear of wars and rumors of wars, but see to it that you are not alarmed. Such things must happen, but the end is still to come."
+  }, {
+    "verse" : "matthew,24,7",
+    "text" : "Nation will rise against nation, and kingdom against kingdom. There will be famines and earthquakes in various places."
+  }, {
+    "verse" : "matthew,24,8",
+    "text" : "All these are the beginning of birth pains."
+  }, {
+    "verse" : "matthew,24,9",
+    "text" : "\"Then you will be handed over to be persecuted and put to death, and you will be hated by all nations because of me."
+  }, {
+    "verse" : "matthew,24,10",
+    "text" : "At that time many will turn away from the faith and will betray and hate each other,"
+  }, {
+    "verse" : "matthew,24,11",
+    "text" : "and many false prophets will appear and deceive many people."
+  }, {
+    "verse" : "matthew,24,12",
+    "text" : "Because of the increase of wickedness, the love of most will grow cold,"
+  }, {
+    "verse" : "matthew,24,13",
+    "text" : "but he who stands firm to the end will be saved."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,24,4-matthew,24,14",
     "id" : 195890,
@@ -23,7 +62,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 24:4-Matt 24:14\">24:4–14</a></b> Wars, earthquakes, persecutions, and false prophets are all signs of Jesus’ coming, but they indicate only the certainty of judgment, not its time (<a class=\"bibleref\" href=\"/passage/?search=Matt 24:6\">vv. 6</a>, <a class=\"bibleref\" href=\"/passage/?search=Matt 24:8\">8</a>). Such signs characterize the entire period between His resurrection and His coming in judgment. Knowing when Jesus would return would lead His disciples to laziness and laxity in their watchfulness. The “when” (<a class=\"bibleref\" href=\"/passage/?search=Matt 24:3\">v. 3</a>) that Jesus gives is task oriented: it is after the gospel has been preached to the nations (<a class=\"bibleref\" href=\"/passage/?search=Matt 24:14\">v. 14</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,24,14" ],
+  "verses" : [ {
+    "verse" : "matthew,24,14",
+    "text" : "And this gospel of the kingdom will be preached in the whole world as a testimony to all nations, and then the end will come."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,24,14",
     "id" : 195891,
@@ -31,7 +73,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 24:14\">24:14</a></b> <b>the whole world.</b> See “The Mission of the Church in the World” at <a class=\"bibleref\" href=\"/passage/?search=John 20:21\">John 20:21</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,24,15" ],
+  "verses" : [ {
+    "verse" : "matthew,24,15",
+    "text" : "\"So when you see standing in the holy place 'the abomination that causes desolation,' spoken of through the prophet Daniel--let the reader understand--"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,24,15-matthew,24,21",
     "id" : 195892,
@@ -44,7 +89,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 24:15\">24:15</a></b> <b>abomination of desolation.</b> The phrase is from Daniel; in <a class=\"bibleref\" href=\"/passage/?search=Dan 9:27\">Dan. 9:27</a>; <a class=\"bibleref\" href=\"/passage/?search=Dan 11:31\">11:31</a> it refers to the desecration of the temple by Antiochus Epiphanes. In 168 <span class=\"small-caps\">b.c.</span> Antiochus erected a pagan altar in the temple. According to Josephus, he also sacrificed swine there. Shortly before <span class=\"small-caps\">a.d.</span> 70 the Zealots were in the temple precincts during the war with Rome, and their presence could have been considered a desecration. In <span class=\"small-caps\">a.d.</span> 70 the Romans entered the temple with military standards, ceremonial insignia that were elements of their religion. They took away the sacred vessels, including the lampstand, and burned the temple. Sculptures of their troops carrying the vessels are visible on the Arch of Titus in Rome.</p><p><b>let the reader understand.</b> Possibly not a comment by the evangelist but by Jesus. In either case, the sense is not “whoever reads this Gospel,” but “whoever reads Daniel.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,24,16", "matthew,24,17", "matthew,24,18", "matthew,24,19", "matthew,24,20", "matthew,24,21" ],
+  "verses" : [ {
+    "verse" : "matthew,24,16",
+    "text" : "then let those who are in Judea flee to the mountains."
+  }, {
+    "verse" : "matthew,24,17",
+    "text" : "Let no one on the roof of his house go down to take anything out of the house."
+  }, {
+    "verse" : "matthew,24,18",
+    "text" : "Let no one in the field go back to get his cloak."
+  }, {
+    "verse" : "matthew,24,19",
+    "text" : "How dreadful it will be in those days for pregnant women and nursing mothers!"
+  }, {
+    "verse" : "matthew,24,20",
+    "text" : "Pray that your flight will not take place in winter or on the Sabbath."
+  }, {
+    "verse" : "matthew,24,21",
+    "text" : "For then there will be great distress, unequaled from the beginning of the world until now--and never to be equaled again."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,24,16",
     "id" : 195894,
@@ -52,7 +115,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 24:16\">24:16</a></b> <b>flee to the mountains.</b> According to the early church historian Eusebius, the Christians did flee Jerusalem during the Jewish war in obedience to a prophecy.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,24,22", "matthew,24,23" ],
+  "verses" : [ {
+    "verse" : "matthew,24,22",
+    "text" : "If those days had not been cut short, no one would survive, but for the sake of the elect those days will be shortened."
+  }, {
+    "verse" : "matthew,24,23",
+    "text" : "At that time if anyone says to you, 'Look, here is the Christ!' or, 'There he is!' do not believe it."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,24,22",
     "id" : 195895,
@@ -60,7 +129,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 24:22\">24:22</a></b> <b>those days.</b> Although this verse is usually taken with <a class=\"bibleref\" href=\"/passage/?search=Matt 24:15-Matt 24:21\">vv. 15–21</a>, it is also possible to understand it as reverting to the general “beginning of the birth pains” of <a class=\"bibleref\" href=\"/passage/?search=Matt 24:4-Matt 24:14\">vv. 4–14</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,24,24", "matthew,24,25", "matthew,24,26" ],
+  "verses" : [ {
+    "verse" : "matthew,24,24",
+    "text" : "For false Christs and false prophets will appear and perform great signs and miracles to deceive even the elect--if that were possible."
+  }, {
+    "verse" : "matthew,24,25",
+    "text" : "See, I have told you ahead of time."
+  }, {
+    "verse" : "matthew,24,26",
+    "text" : "\"So if anyone tells you, 'There he is, out in the desert,' do not go out; or, 'Here he is, in the inner rooms,' do not believe it."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,24,24",
     "id" : 195896,
@@ -68,7 +146,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 24:24\">24:24</a></b> <b>if possible.</b> Although the false prophets try to deceive the elect, there is no real possibility that they will succeed. God will keep the elect secure in His love (<a class=\"bibleref\" href=\"/passage/?search=Rom 8:31-Rom 8:39\">Rom. 8:31–39</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=John 10:28\">John 10:28</a>, <a class=\"bibleref\" href=\"/passage/?search=John 10:29\">29</a>). See “Perseverance of the Saints”at <a class=\"bibleref\" href=\"/passage/?search=Rom 8:30\">Rom. 8:30</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,24,27" ],
+  "verses" : [ {
+    "verse" : "matthew,24,27",
+    "text" : "For as lightning that comes from the east is visible even in the west, so will be the coming of the Son of Man."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,24,27",
     "id" : 195897,
@@ -76,7 +157,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 24:27\">24:27</a></b> <b>as the lightning.</b> The coming of Christ will be evident, unambiguous, and clear to all.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,24,28" ],
+  "verses" : [ {
+    "verse" : "matthew,24,28",
+    "text" : "Wherever there is a carcass, there the vultures will gather."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,24,28",
     "id" : 195898,

@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "matthew,8,1" ],
+  "verses" : [ {
+    "verse" : "matthew,8,1",
+    "text" : "When he came down from the mountainside, large crowds followed him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,8,1-matthew,9,38",
     "id" : 195692,
@@ -7,7 +10,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 8-Matt 9\">8:1–9:38</a></b> The order of the miracles and events in these chapters differs from that found in Mark and Luke. Probably Matthew arranged them according to topic rather than chronology.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,8,2", "matthew,8,3" ],
+  "verses" : [ {
+    "verse" : "matthew,8,2",
+    "text" : "A man with leprosy came and knelt before him and said, \"Lord, if you are willing, you can make me clean.\""
+  }, {
+    "verse" : "matthew,8,3",
+    "text" : "Jesus reached out his hand and touched the man. \"I am willing,\" he said. \"Be clean!\" Immediately he was cured of his leprosy."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,8,2",
     "id" : 195693,
@@ -15,7 +24,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 8:2\">8:2</a></b> <b>leper.</b> A variety of skin diseases are referred to by the Greek word used here, probably not Hansen’s disease (modern “leprosy”). Touching a leper made one ceremonially unclean (cf. <a class=\"bibleref\" href=\"/passage/?search=Lev 15:7\">Lev. 15:7</a>), but in this case the leper is healed and becomes clean rather than Jesus becoming ritually defiled.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,8,4" ],
+  "verses" : [ {
+    "verse" : "matthew,8,4",
+    "text" : "Then Jesus said to him, \"See that you don't tell anyone. But go, show yourself to the priest and offer the gift Moses commanded, as a testimony to them.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,8,4",
     "id" : 195694,
@@ -23,7 +35,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 8:4\">8:4</a></b> <b>say nothing to anyone.</b> The command to the leper to be silent was to prevent miracle seekers from hindering Jesus’ main mission (<a class=\"bibleref\" href=\"/passage/?search=Mark 1:45\">Mark 1:45</a>). By showing himself to the priest, the leper would fulfill the requirements of the Law and be able to rejoin Jewish society (<a class=\"bibleref\" href=\"/passage/?search=Lev 14:1-Lev 14:32\">Lev. 14:1–32</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,8,5", "matthew,8,6", "matthew,8,7", "matthew,8,8", "matthew,8,9" ],
+  "verses" : [ {
+    "verse" : "matthew,8,5",
+    "text" : "When Jesus had entered Capernaum, a centurion came to him, asking for help."
+  }, {
+    "verse" : "matthew,8,6",
+    "text" : "\"Lord,\" he said, \"my servant lies at home paralyzed and in terrible suffering.\""
+  }, {
+    "verse" : "matthew,8,7",
+    "text" : "Jesus said to him, \"I will go and heal him.\""
+  }, {
+    "verse" : "matthew,8,8",
+    "text" : "The centurion replied, \"Lord, I do not deserve to have you come under my roof. But just say the word, and my servant will be healed."
+  }, {
+    "verse" : "matthew,8,9",
+    "text" : "For I myself am a man under authority, with soldiers under me. I tell this one, 'Go,' and he goes; and that one, 'Come,' and he comes. I say to my servant, 'Do this,' and he does it.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,8,5",
     "id" : 195695,
@@ -31,7 +58,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 8:5\">8:5</a></b> <b>centurion.</b> A Roman military officer in charge of approximately one hundred men. This centurion had an appreciation for Jesus’ authority that surpassed anything in Israel, an awareness of his own unworthiness, and faith that Jesus could overcome the difficulty of his unworthiness. Matthew, who often prefers a condensed style, does not mention the intermediaries that appear in the parallel account in <a class=\"bibleref\" href=\"/passage/?search=Luke 7:1-Luke 7:10\">Luke 7:1–10</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,8,10" ],
+  "verses" : [ {
+    "verse" : "matthew,8,10",
+    "text" : "When Jesus heard this, he was astonished and said to those following him, \"I tell you the truth, I have not found anyone in Israel with such great faith."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,8,10-matthew,8,12",
     "id" : 195696,
@@ -39,7 +69,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 8:10-Matt 8:12\">8:10–12</a></b> The faith of the Gentile centurion provides the occasion for the prediction that Israel will be hardened and the gospel will be extended to the Gentiles.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,8,11" ],
+  "verses" : [ {
+    "verse" : "matthew,8,11",
+    "text" : "I say to you that many will come from the east and the west, and will take their places at the feast with Abraham, Isaac and Jacob in the kingdom of heaven."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,8,11",
     "id" : 195697,
@@ -47,7 +80,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 8:11\">8:11</a></b> <b>recline at the table with Abraham, Isaac, and Jacob.</b> A reference to the messianic banquet theme of <a class=\"bibleref\" href=\"/passage/?search=Isa 25:6-Isa 25:9\">Is. 25:6–9</a>. Gentiles now appear in place of the natural sons. This theme recurs in the parable of the wicked tenants (21:33–44, especially v. 43) and the banquet parable (22:1–14). Jesus’ prediction is an early example of the principle developed by Paul in <a class=\"bibleref\" href=\"/passage/?search=Rom 9:30-Rom 9:32\">Rom. 9:30–32</a>: Israel tries to pursue righteousness by works and does not obtain it, but Gentiles who know they deserve only condemnation seek God’s mercy and obtain it.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,8,12", "matthew,8,13", "matthew,8,14", "matthew,8,15", "matthew,8,16" ],
+  "verses" : [ {
+    "verse" : "matthew,8,12",
+    "text" : "But the subjects of the kingdom will be thrown outside, into the darkness, where there will be weeping and gnashing of teeth.\""
+  }, {
+    "verse" : "matthew,8,13",
+    "text" : "Then Jesus said to the centurion, \"Go! It will be done just as you believed it would.\" And his servant was healed at that very hour."
+  }, {
+    "verse" : "matthew,8,14",
+    "text" : "When Jesus came into Peter's house, he saw Peter's mother-in-law lying in bed with a fever."
+  }, {
+    "verse" : "matthew,8,15",
+    "text" : "He touched her hand and the fever left her, and she got up and began to wait on him."
+  }, {
+    "verse" : "matthew,8,16",
+    "text" : "When evening came, many who were demon-possessed were brought to him, and he drove out the spirits with a word and healed all the sick."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,8,12",
     "id" : 195698,
@@ -55,7 +103,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 8:12\">8:12</a></b> <b>darkness . . . weeping.</b> These figures of speech represent the grief and despair of those who are excluded from the kingdom.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,8,17" ],
+  "verses" : [ {
+    "verse" : "matthew,8,17",
+    "text" : "This was to fulfill what was spoken through the prophet Isaiah: \"He took up our infirmities and carried our diseases.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,8,17",
     "id" : 195699,

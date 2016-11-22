@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "matthew,23,13", "matthew,23,14" ],
+  "verses" : [ {
+    "verse" : "matthew,23,13",
+    "text" : "\"Woe to you, teachers of the law and Pharisees, you hypocrites! You shut the kingdom of heaven in men's faces. You yourselves do not enter, nor will you let those enter who are trying to."
+  }, {
+    "verse" : "matthew,23,14",
+    "text" : "See Footnote"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,23,1-matthew,23,39",
     "id" : 195875,
@@ -17,7 +23,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 23:13\">23:13</a></b> <b>hypocrites.</b> See note at <a class=\"bibleref\" href=\"/passage/?search=Matt 6:2\">6:2</a>.</p><p><b>shut the kingdom.</b> The teachers of the law and Pharisees did this by turning people away from Christ and His righteousness. The disciples are to do the opposite, freely proclaiming the gospel.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,23,15" ],
+  "verses" : [ {
+    "verse" : "matthew,23,15",
+    "text" : "\"Woe to you, teachers of the law and Pharisees, you hypocrites! You travel over land and sea to win a single convert, and when he becomes one, you make him twice as much a son of hell as you are."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,23,15",
     "id" : 195882,
@@ -25,7 +34,31 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 23:15\">23:15</a></b> <b>hell.</b> See note at <a class=\"bibleref\" href=\"/passage/?search=Matt 5:22\">5:22</a>. Those who were legalists made converts like themselves, prejudiced against receiving the righteousness that is by faith.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,23,16", "matthew,23,17", "matthew,23,18", "matthew,23,19", "matthew,23,20", "matthew,23,21", "matthew,23,22", "matthew,23,23" ],
+  "verses" : [ {
+    "verse" : "matthew,23,16",
+    "text" : "\"Woe to you, blind guides! You say, 'If anyone swears by the temple, it means nothing; but if anyone swears by the gold of the temple, he is bound by his oath.'"
+  }, {
+    "verse" : "matthew,23,17",
+    "text" : "You blind fools! Which is greater: the gold, or the temple that makes the gold sacred?"
+  }, {
+    "verse" : "matthew,23,18",
+    "text" : "You also say, 'If anyone swears by the altar, it means nothing; but if anyone swears by the gift on it, he is bound by his oath.'"
+  }, {
+    "verse" : "matthew,23,19",
+    "text" : "You blind men! Which is greater: the gift, or the altar that makes the gift sacred?"
+  }, {
+    "verse" : "matthew,23,20",
+    "text" : "Therefore, he who swears by the altar swears by it and by everything on it."
+  }, {
+    "verse" : "matthew,23,21",
+    "text" : "And he who swears by the temple swears by it and by the one who dwells in it."
+  }, {
+    "verse" : "matthew,23,22",
+    "text" : "And he who swears by heaven swears by God's throne and by the one who sits on it."
+  }, {
+    "verse" : "matthew,23,23",
+    "text" : "\"Woe to you, teachers of the law and Pharisees, you hypocrites! You give a tenth of your spices--mint, dill and cummin. But you have neglected the more important matters of the law--justice, mercy and faithfulness. You should have practiced the latter, without neglecting the former."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,23,16",
     "id" : 195883,
@@ -33,7 +66,40 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 23:16\">23:16</a></b> <b>If anyone swears.</b> See <a class=\"bibleref\" href=\"/passage/?search=Matt 5:33-Matt 5:37\">5:33–37</a>. This way of taking oaths is like children making promises with their fingers crossed behind their backs. God desires truth in all our words (<a class=\"bibleref\" href=\"/passage/?search=Matt 5:37\">5:37</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,23,24", "matthew,23,25", "matthew,23,26", "matthew,23,27", "matthew,23,28", "matthew,23,29", "matthew,23,30", "matthew,23,31", "matthew,23,32", "matthew,23,33", "matthew,23,34" ],
+  "verses" : [ {
+    "verse" : "matthew,23,24",
+    "text" : "You blind guides! You strain out a gnat but swallow a camel."
+  }, {
+    "verse" : "matthew,23,25",
+    "text" : "\"Woe to you, teachers of the law and Pharisees, you hypocrites! You clean the outside of the cup and dish, but inside they are full of greed and self-indulgence."
+  }, {
+    "verse" : "matthew,23,26",
+    "text" : "Blind Pharisee! First clean the inside of the cup and dish, and then the outside also will be clean."
+  }, {
+    "verse" : "matthew,23,27",
+    "text" : "\"Woe to you, teachers of the law and Pharisees, you hypocrites! You are like whitewashed tombs, which look beautiful on the outside but on the inside are full of dead men's bones and everything unclean."
+  }, {
+    "verse" : "matthew,23,28",
+    "text" : "In the same way, on the outside you appear to people as righteous but on the inside you are full of hypocrisy and wickedness."
+  }, {
+    "verse" : "matthew,23,29",
+    "text" : "\"Woe to you, teachers of the law and Pharisees, you hypocrites! You build tombs for the prophets and decorate the graves of the righteous."
+  }, {
+    "verse" : "matthew,23,30",
+    "text" : "And you say, 'If we had lived in the days of our forefathers, we would not have taken part with them in shedding the blood of the prophets.'"
+  }, {
+    "verse" : "matthew,23,31",
+    "text" : "So you testify against yourselves that you are the descendants of those who murdered the prophets."
+  }, {
+    "verse" : "matthew,23,32",
+    "text" : "Fill up, then, the measure of the sin of your forefathers!"
+  }, {
+    "verse" : "matthew,23,33",
+    "text" : "\"You snakes! You brood of vipers! How will you escape being condemned to hell?"
+  }, {
+    "verse" : "matthew,23,34",
+    "text" : "Therefore I am sending you prophets and wise men and teachers. Some of them you will kill and crucify; others you will flog in your synagogues and pursue from town to town."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,23,24",
     "id" : 195884,
@@ -41,7 +107,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 23:24\">23:24</a></b> <b>gnat . . . camel.</b> The gnat was the smallest unclean animal and the camel was the largest. In Aramaic the two words sound similar.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,23,35" ],
+  "verses" : [ {
+    "verse" : "matthew,23,35",
+    "text" : "And so upon you will come all the righteous blood that has been shed on earth, from the blood of righteous Abel to the blood of Zechariah son of Berekiah, whom you murdered between the temple and the altar."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,23,35",
     "id" : 195885,
@@ -49,7 +118,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 23:35\">23:35</a></b> <b>Abel . . . Zechariah.</b> Abel was the first person to be killed for righteousness’ sake (<a class=\"bibleref\" href=\"/passage/?search=Gen 4:8\">Gen. 4:8</a>). The identity of Zechariah is problematic, and all suggested solutions have difficulties. Zechariah the prophet was the “son of Barachiah,” but there is no evidence that he was martyred. There was a Zechariah, son of Baruch, who was killed by Zealots as mentioned by Josephus (<i>Jewish Wars</i> 4:334–44). He was killed in the temple area, but probably not between the sanctuary and the altar. Zechariah, son of Jehoiada, is the last martyr mentioned in the Old Testament in the Hebrew canonical order (<a class=\"bibleref\" href=\"/passage/?search=2Chr 24:20-2Chr 24:22\">2 Chr. 24:20–22</a>). He was killed in the temple courtyard by command of Joash. If not for the words “son of Barachiah,” the Zechariah of <a class=\"bibleref\" href=\"/passage/?search=2Chr 24\">2 Chr. 24</a> would be most likely, since Abel and Zechariah are the first and last martyrs in the Hebrew canon. It is remotely possible that “son of Barachiah” was an insertion by an early copyist (<a class=\"bibleref\" href=\"/passage/?search=Luke 11:51\">Luke 11:51</a> does not have it).</p><p><b>whom you murdered.</b> By persecuting Christ, the Pharisees became identified with their murderous ancestors.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,23,36", "matthew,23,37", "matthew,23,38" ],
+  "verses" : [ {
+    "verse" : "matthew,23,36",
+    "text" : "I tell you the truth, all this will come upon this generation."
+  }, {
+    "verse" : "matthew,23,37",
+    "text" : "\"O Jerusalem, Jerusalem, you who kill the prophets and stone those sent to you, how often I have longed to gather your children together, as a hen gathers her chicks under her wings, but you were not willing."
+  }, {
+    "verse" : "matthew,23,38",
+    "text" : "Look, your house is left to you desolate."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,23,36",
     "id" : 195886,
@@ -57,7 +135,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 23:36\">23:36</a></b> The punishment that “this generation” experienced was the destruction of Jerusalem and the temple in <span class=\"small-caps\">a.d.</span> 70. See note <a class=\"bibleref\" href=\"/passage/?search=Matt 24:34\">24:34</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,23,39" ],
+  "verses" : [ {
+    "verse" : "matthew,23,39",
+    "text" : "For I tell you, you will not see me again until you say, 'Blessed is he who comes in the name of the Lord.'\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,23,39",
     "id" : 195887,

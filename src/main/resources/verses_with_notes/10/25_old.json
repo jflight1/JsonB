@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "jeremiah,48,1" ],
+  "verses" : [ {
+    "verse" : "jeremiah,48,1",
+    "text" : "Concerning Moab: This is what the LORD Almighty, the God of Israel, says: \"Woe to Nebo, for it will be ruined. Kiriathaim will be disgraced and captured; the stronghold will be disgraced and shattered."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,46,1-jeremiah,51,64",
     "id" : 193966,
@@ -17,7 +20,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 48:1\">48:1</a></b> <b>Nebo . . . Kiriathaim.</b> Originally these towns were allocated to the tribe of Reuben (<a class=\"bibleref\" href=\"/passage/?search=Num 32:3\">Num. 32:3</a>, <a class=\"bibleref\" href=\"/passage/?search=Num 32:37\">37</a>, <a class=\"bibleref\" href=\"/passage/?search=Num 32:38\">38</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 13:15\">Josh. 13:15</a>, <a class=\"bibleref\" href=\"/passage/?search=Josh 13:19\">19</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,48,2", "jeremiah,48,3", "jeremiah,48,4", "jeremiah,48,5", "jeremiah,48,6" ],
+  "verses" : [ {
+    "verse" : "jeremiah,48,2",
+    "text" : "Moab will be praised no more; in Heshbon men will plot her downfall: 'Come, let us put an end to that nation.' You too, O Madmen, will be silenced; the sword will pursue you."
+  }, {
+    "verse" : "jeremiah,48,3",
+    "text" : "Listen to the cries from Horonaim, cries of great havoc and destruction."
+  }, {
+    "verse" : "jeremiah,48,4",
+    "text" : "Moab will be broken; her little ones will cry out."
+  }, {
+    "verse" : "jeremiah,48,5",
+    "text" : "They go up the way to Luhith, weeping bitterly as they go; on the road down to Horonaim anguished cries over the destruction are heard."
+  }, {
+    "verse" : "jeremiah,48,6",
+    "text" : "Flee! Run for your lives; become like a bush in the desert."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,48,2",
     "id" : 193980,
@@ -25,7 +43,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 48:2\">48:2</a></b> <b>Heshbon.</b> This village was also assigned to Reuben (<a class=\"bibleref\" href=\"/passage/?search=Num 32:37\">Num. 32:37</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 13:17\">Josh. 13:17</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,48,7" ],
+  "verses" : [ {
+    "verse" : "jeremiah,48,7",
+    "text" : "Since you trust in your deeds and riches, you too will be taken captive, and Chemosh will go into exile, together with his priests and officials."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,48,7",
     "id" : 193981,
@@ -33,7 +54,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 48:7\">48:7</a></b> <b>Chemosh.</b> A god of Moab worshiped by Solomon (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 11:7\">1 Kin. 11:7</a>, <a class=\"bibleref\" href=\"/passage/?search=1Kgs 11:33\">33</a>; <a class=\"bibleref\" href=\"/passage/?search=2Kgs 23:13\">2 Kin. 23:13</a>). Images of defeated gods were often carried off into exile.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,48,8", "jeremiah,48,9", "jeremiah,48,10" ],
+  "verses" : [ {
+    "verse" : "jeremiah,48,8",
+    "text" : "The destroyer will come against every town, and not a town will escape. The valley will be ruined and the plateau destroyed, because the LORD has spoken."
+  }, {
+    "verse" : "jeremiah,48,9",
+    "text" : "Put salt on Moab, for she will be laid waste; her towns will become desolate, with no one to live in them."
+  }, {
+    "verse" : "jeremiah,48,10",
+    "text" : "\"A curse on him who is lax in doing the LORD's work! A curse on him who keeps his sword from bloodshed!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,48,8",
     "id" : 193982,
@@ -41,7 +71,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 48:8\">48:8</a></b> <b>The destroyer.</b> Probably Nebuchadnezzar.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,48,11", "jeremiah,48,12" ],
+  "verses" : [ {
+    "verse" : "jeremiah,48,11",
+    "text" : "\"Moab has been at rest from youth, like wine left on its dregs, not poured from one jar to another- she has not gone into exile. So she tastes as she did, and her aroma is unchanged."
+  }, {
+    "verse" : "jeremiah,48,12",
+    "text" : "But days are coming,\" declares the LORD, \"when I will send men who pour from jars, and they will pour her out; they will empty her jars and smash her jugs."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,48,11-jeremiah,48,12",
     "id" : 193983,
@@ -49,7 +85,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 48:11\">48:11</a>, <a class=\"bibleref\" href=\"/passage/?search=Jer 48:12\">12</a></b> The wine left to age represents Moab’s complacency. Their ease and security will vanish as quickly as a bottle empties when overturned.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,48,13", "jeremiah,48,14", "jeremiah,48,15", "jeremiah,48,16", "jeremiah,48,17", "jeremiah,48,18" ],
+  "verses" : [ {
+    "verse" : "jeremiah,48,13",
+    "text" : "Then Moab will be ashamed of Chemosh, as the house of Israel was ashamed when they trusted in Bethel."
+  }, {
+    "verse" : "jeremiah,48,14",
+    "text" : "\"How can you say, 'We are warriors, men valiant in battle'?"
+  }, {
+    "verse" : "jeremiah,48,15",
+    "text" : "Moab will be destroyed and her towns invaded; her finest young men will go down in the slaughter,\" declares the King, whose name is the LORD Almighty."
+  }, {
+    "verse" : "jeremiah,48,16",
+    "text" : "\"The fall of Moab is at hand; her calamity will come quickly."
+  }, {
+    "verse" : "jeremiah,48,17",
+    "text" : "Mourn for her, all who live around her, all who know her fame; say, 'How broken is the mighty scepter, how broken the glorious staff!'"
+  }, {
+    "verse" : "jeremiah,48,18",
+    "text" : "\"Come down from your glory and sit on the parched ground, O inhabitants of the Daughter of Dibon, for he who destroys Moab will come up against you and ruin your fortified cities."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,48,13",
     "id" : 193984,
@@ -57,7 +111,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 48:13\">48:13</a></b> <b>Bethel.</b> Possibly a reference to the name El Bethel used for the Lord in Jeroboam’s apostate worship at Bethel (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 12:28-1Kgs 12:30\">1 Kin. 12:28–30</a>). That cult had not prevented the Assyrians from plundering the land in 722 <span class=\"small-caps\">b.c.</span> (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 18:9-2Kgs 18:12\">2 Kin. 18:9–12</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,48,19" ],
+  "verses" : [ {
+    "verse" : "jeremiah,48,19",
+    "text" : "Stand by the road and watch, you who live in Aroer. Ask the man fleeing and the woman escaping, ask them, 'What has happened?'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,48,19",
     "id" : 193985,
@@ -65,7 +122,31 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 48:19\">48:19</a></b> <b>Aroer.</b> Southeast of Dibon, this border fortress on the Arnon River (<a class=\"bibleref\" href=\"/passage/?search=Jer 48:20\">v. 20</a>) is here pictured anxiously watching the flight of the refugees.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,48,20", "jeremiah,48,21", "jeremiah,48,22", "jeremiah,48,23", "jeremiah,48,24", "jeremiah,48,25", "jeremiah,48,26", "jeremiah,48,27" ],
+  "verses" : [ {
+    "verse" : "jeremiah,48,20",
+    "text" : "Moab is disgraced, for she is shattered. Wail and cry out! Announce by the Arnon that Moab is destroyed."
+  }, {
+    "verse" : "jeremiah,48,21",
+    "text" : "Judgment has come to the plateau- to Holon, Jahzah and Mephaath,"
+  }, {
+    "verse" : "jeremiah,48,22",
+    "text" : "to Dibon, Nebo and Beth Diblathaim,"
+  }, {
+    "verse" : "jeremiah,48,23",
+    "text" : "to Kiriathaim, Beth Gamul and Beth Meon,"
+  }, {
+    "verse" : "jeremiah,48,24",
+    "text" : "to Kerioth and Bozrah- to all the towns of Moab, far and near."
+  }, {
+    "verse" : "jeremiah,48,25",
+    "text" : "Moab's horn is cut off; her arm is broken,\" declares the LORD."
+  }, {
+    "verse" : "jeremiah,48,26",
+    "text" : "\"Make her drunk, for she has defied the LORD. Let Moab wallow in her vomit; let her be an object of ridicule."
+  }, {
+    "verse" : "jeremiah,48,27",
+    "text" : "Was not Israel the object of your ridicule? Was she caught among thieves, that you shake your head in scorn whenever you speak of her?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,48,20",
     "id" : 193986,
@@ -73,7 +154,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 48:20\">48:20</a></b> <b>Arnon.</b> That is, in the region along the Arnon. It was the most important river in Moab.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,48,28", "jeremiah,48,29", "jeremiah,48,30", "jeremiah,48,31" ],
+  "verses" : [ {
+    "verse" : "jeremiah,48,28",
+    "text" : "Abandon your towns and dwell among the rocks, you who live in Moab. Be like a dove that makes its nest at the mouth of a cave."
+  }, {
+    "verse" : "jeremiah,48,29",
+    "text" : "\"We have heard of Moab's pride- her overweening pride and conceit, her pride and arrogance and the haughtiness of her heart."
+  }, {
+    "verse" : "jeremiah,48,30",
+    "text" : "I know her insolence but it is futile,\" declares the LORD, \"and her boasts accomplish nothing."
+  }, {
+    "verse" : "jeremiah,48,31",
+    "text" : "Therefore I wail over Moab, for all Moab I cry out, I moan for the men of Kir Hareseth."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,48,28",
     "id" : 193987,
@@ -81,7 +174,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 48:28\">48:28</a></b> <b>dwell in the rock.</b> See <a class=\"bibleref\" href=\"/passage/?search=Isa 2:10\">Is. 2:10</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,48,32", "jeremiah,48,33", "jeremiah,48,34", "jeremiah,48,35", "jeremiah,48,36", "jeremiah,48,37" ],
+  "verses" : [ {
+    "verse" : "jeremiah,48,32",
+    "text" : "I weep for you, as Jazer weeps, O vines of Sibmah. Your branches spread as far as the sea; they reached as far as the sea of Jazer. The destroyer has fallen on your ripened fruit and grapes."
+  }, {
+    "verse" : "jeremiah,48,33",
+    "text" : "Joy and gladness are gone from the orchards and fields of Moab. I have stopped the flow of wine from the presses; no one treads them with shouts of joy. Although there are shouts, they are not shouts of joy."
+  }, {
+    "verse" : "jeremiah,48,34",
+    "text" : "\"The sound of their cry rises from Heshbon to Elealeh and Jahaz, from Zoar as far as Horonaim and Eglath Shelishiyah, for even the waters of Nimrim are dried up."
+  }, {
+    "verse" : "jeremiah,48,35",
+    "text" : "In Moab I will put an end to those who make offerings on the high places and burn incense to their gods,\" declares the LORD."
+  }, {
+    "verse" : "jeremiah,48,36",
+    "text" : "\"So my heart laments for Moab like a flute; it laments like a flute for the men of Kir Hareseth. The wealth they acquired is gone."
+  }, {
+    "verse" : "jeremiah,48,37",
+    "text" : "Every head is shaved and every beard cut off; every hand is slashed and every waist is covered with sackcloth."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,48,32",
     "id" : 193988,
@@ -89,7 +200,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 48:32\">48:32</a></b> <b>Sibmah . . . Sea of Jazer.</b> See <a class=\"bibleref\" href=\"/passage/?search=Isa 16:8\">Is. 16:8</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,48,38", "jeremiah,48,39" ],
+  "verses" : [ {
+    "verse" : "jeremiah,48,38",
+    "text" : "On all the roofs in Moab and in the public squares there is nothing but mourning, for I have broken Moab like a jar that no one wants,\" declares the LORD."
+  }, {
+    "verse" : "jeremiah,48,39",
+    "text" : "\"How shattered she is! How they wail! How Moab turns her back in shame! Moab has become an object of ridicule, an object of horror to all those around her.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,48,38",
     "id" : 193989,
@@ -97,7 +214,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 48:38\">48:38</a></b> <b>housetops of Moab.</b> It was customary to offer incense upon rooftops as an act of worship (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 23:12\">2 Kin. 23:12</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,48,40", "jeremiah,48,41", "jeremiah,48,42", "jeremiah,48,43", "jeremiah,48,44" ],
+  "verses" : [ {
+    "verse" : "jeremiah,48,40",
+    "text" : "This is what the LORD says: \"Look! An eagle is swooping down, spreading its wings over Moab."
+  }, {
+    "verse" : "jeremiah,48,41",
+    "text" : "Kerioth will be captured and the strongholds taken. In that day the hearts of Moab's warriors will be like the heart of a woman in labor."
+  }, {
+    "verse" : "jeremiah,48,42",
+    "text" : "Moab will be destroyed as a nation because she defied the LORD."
+  }, {
+    "verse" : "jeremiah,48,43",
+    "text" : "Terror and pit and snare await you, O people of Moab,\" declares the LORD."
+  }, {
+    "verse" : "jeremiah,48,44",
+    "text" : "\"Whoever flees from the terror will fall into a pit, whoever climbs out of the pit will be caught in a snare; for I will bring upon Moab the year of her punishment,\" declares the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,48,40",
     "id" : 193990,
@@ -105,7 +237,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 48:40\">48:40</a></b> <b>eagle.</b> This would be Nebuchadnezzar (<a class=\"bibleref\" href=\"/passage/?search=Ezek 17:3\">Ezek. 17:3</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,48,45", "jeremiah,48,46", "jeremiah,48,47" ],
+  "verses" : [ {
+    "verse" : "jeremiah,48,45",
+    "text" : "\"In the shadow of Heshbon the fugitives stand helpless, for a fire has gone out from Heshbon, a blaze from the midst of Sihon; it burns the foreheads of Moab, the skulls of the noisy boasters."
+  }, {
+    "verse" : "jeremiah,48,46",
+    "text" : "Woe to you, O Moab! The people of Chemosh are destroyed; your sons are taken into exile and your daughters into captivity."
+  }, {
+    "verse" : "jeremiah,48,47",
+    "text" : "\"Yet I will restore the fortunes of Moab in days to come,\" declares the LORD. Here ends the judgment on Moab."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,48,45-jeremiah,48,46",
     "id" : 193991,
@@ -113,7 +254,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 48:45\">48:45</a>, <a class=\"bibleref\" href=\"/passage/?search=Jer 48:46\">46</a></b> Derived from <a class=\"bibleref\" href=\"/passage/?search=Num 21:28\">Num. 21:28</a>, <a class=\"bibleref\" href=\"/passage/?search=Num 21:29\">29</a>, but Jeremiah redirects Balaam’s prophecy against the Amorites by applying it to Moab.</p><p><b>Sihon.</b> He was an Amorite ruler in Moses’ time, with his capital at Heshbon (<a class=\"bibleref\" href=\"/passage/?search=Num 21:21-Num 21:30\">Num. 21:21–30</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,49,1" ],
+  "verses" : [ {
+    "verse" : "jeremiah,49,1",
+    "text" : "Concerning the Ammonites: This is what the LORD says: \"Has Israel no sons? Has she no heirs? Why then has Molech taken possession of Gad? Why do his people live in its towns?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,49,1-jeremiah,49,6",
     "id" : 193992,
@@ -126,7 +270,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 49:1\">49:1</a></b> <b>Milcom.</b> The chief god of the Ammonites (<a class=\"bibleref\" href=\"/passage/?search=Jer 32:35\">32:35</a> note; <a class=\"bibleref\" href=\"/passage/?search=1Kgs 11:5\">1 Kin. 11:5</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,49,2" ],
+  "verses" : [ {
+    "verse" : "jeremiah,49,2",
+    "text" : "But the days are coming,\" declares the LORD, \"when I will sound the battle cry against Rabbah of the Ammonites; it will become a mound of ruins, and its surrounding villages will be set on fire. Then Israel will drive out those who drove her out,\" says the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,49,2",
     "id" : 193994,
@@ -134,7 +281,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 49:2\">49:2</a></b> <b>Rabbah.</b> This city is identified with modern Amman in Jordan.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,49,3", "jeremiah,49,4", "jeremiah,49,5", "jeremiah,49,6" ],
+  "verses" : [ {
+    "verse" : "jeremiah,49,3",
+    "text" : "\"Wail, O Heshbon, for Ai is destroyed! Cry out, O inhabitants of Rabbah! Put on sackcloth and mourn; rush here and there inside the walls, for Molech will go into exile, together with his priests and officials."
+  }, {
+    "verse" : "jeremiah,49,4",
+    "text" : "Why do you boast of your valleys, boast of your valleys so fruitful? O unfaithful daughter, you trust in your riches and say, 'Who will attack me?'"
+  }, {
+    "verse" : "jeremiah,49,5",
+    "text" : "I will bring terror on you from all those around you,\" declares the Lord, the LORD Almighty. \"Every one of you will be driven away, and no one will gather the fugitives."
+  }, {
+    "verse" : "jeremiah,49,6",
+    "text" : "\"Yet afterward, I will restore the fortunes of the Ammonites,\" declares the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,49,3",
     "id" : 193995,
@@ -142,7 +301,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 49:3\">49:3</a></b> <b>Heshbon.</b> As a border town, it may have belonged to Ammon at some time also (<a class=\"bibleref\" href=\"/passage/?search=Judg 11:26\">Judg. 11:26</a>).</p><p><b>Ai.</b> Not the city of Ai familiar from the events of <a class=\"bibleref\" href=\"/passage/?search=Josh 8\">Josh. 8</a>. Its location is not known.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,49,7" ],
+  "verses" : [ {
+    "verse" : "jeremiah,49,7",
+    "text" : "Concerning Edom: This is what the LORD Almighty says: \"Is there no longer wisdom in Teman? Has counsel perished from the prudent? Has their wisdom decayed?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,49,7-jeremiah,49,22",
     "id" : 193996,
@@ -155,7 +317,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 49:7\">49:7</a></b> <b>Teman.</b> A region of Edom representing the whole.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,49,8", "jeremiah,49,9", "jeremiah,49,10", "jeremiah,49,11", "jeremiah,49,12" ],
+  "verses" : [ {
+    "verse" : "jeremiah,49,8",
+    "text" : "Turn and flee, hide in deep caves, you who live in Dedan, for I will bring disaster on Esau at the time I punish him."
+  }, {
+    "verse" : "jeremiah,49,9",
+    "text" : "If grape pickers came to you, would they not leave a few grapes? If thieves came during the night, would they not steal only as much as they wanted?"
+  }, {
+    "verse" : "jeremiah,49,10",
+    "text" : "But I will strip Esau bare; I will uncover his hiding places, so that he cannot conceal himself. His children, relatives and neighbors will perish, and he will be no more."
+  }, {
+    "verse" : "jeremiah,49,11",
+    "text" : "Leave your orphans; I will protect their lives. Your widows too can trust in me.\""
+  }, {
+    "verse" : "jeremiah,49,12",
+    "text" : "This is what the LORD says: \"If those who do not deserve to drink the cup must drink it, why should you go unpunished? You will not go unpunished, but must drink it."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,49,8",
     "id" : 193998,
@@ -163,7 +340,34 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 49:8\">49:8</a></b> <b>Esau.</b> The brother of Jacob, whose name was another designation for Edom (<a class=\"bibleref\" href=\"/passage/?search=Gen 25:29\">Gen. 25:29</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 25:30\">30</a>). See also <a class=\"bibleref\" href=\"/passage/?search=Obad 1:10\">Obad. 10</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,49,13", "jeremiah,49,14", "jeremiah,49,15", "jeremiah,49,16", "jeremiah,49,17", "jeremiah,49,18", "jeremiah,49,19", "jeremiah,49,20", "jeremiah,49,21" ],
+  "verses" : [ {
+    "verse" : "jeremiah,49,13",
+    "text" : "I swear by myself,\" declares the LORD, \"that Bozrah will become a ruin and an object of horror, of reproach and of cursing; and all its towns will be in ruins forever.\""
+  }, {
+    "verse" : "jeremiah,49,14",
+    "text" : "I have heard a message from the LORD: An envoy was sent to the nations to say, \"Assemble yourselves to attack it! Rise up for battle!\""
+  }, {
+    "verse" : "jeremiah,49,15",
+    "text" : "\"Now I will make you small among the nations, despised among men."
+  }, {
+    "verse" : "jeremiah,49,16",
+    "text" : "The terror you inspire and the pride of your heart have deceived you, you who live in the clefts of the rocks, who occupy the heights of the hill. Though you build your nest as high as the eagle's, from there I will bring you down,\" declares the LORD."
+  }, {
+    "verse" : "jeremiah,49,17",
+    "text" : "\"Edom will become an object of horror; all who pass by will be appalled and will scoff because of all its wounds."
+  }, {
+    "verse" : "jeremiah,49,18",
+    "text" : "As Sodom and Gomorrah were overthrown, along with their neighboring towns,\" says the LORD, \"so no one will live there; no man will dwell in it."
+  }, {
+    "verse" : "jeremiah,49,19",
+    "text" : "\"Like a lion coming up from Jordan's thickets to a rich pastureland, I will chase Edom from its land in an instant. Who is the chosen one I will appoint for this? Who is like me and who can challenge me? And what shepherd can stand against me?\""
+  }, {
+    "verse" : "jeremiah,49,20",
+    "text" : "Therefore, hear what the LORD has planned against Edom, what he has purposed against those who live in Teman: The young of the flock will be dragged away; he will completely destroy their pasture because of them."
+  }, {
+    "verse" : "jeremiah,49,21",
+    "text" : "At the sound of their fall the earth will tremble; their cry will resound to the Red Sea."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,49,13",
     "id" : 193999,
@@ -171,7 +375,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 49:13\">49:13</a></b> <b>Bozrah.</b> The capital of Edom.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,49,22" ],
+  "verses" : [ {
+    "verse" : "jeremiah,49,22",
+    "text" : "Look! An eagle will soar and swoop down, spreading its wings over Bozrah. In that day the hearts of Edom's warriors will be like the heart of a woman in labor."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,49,22",
     "id" : 194000,

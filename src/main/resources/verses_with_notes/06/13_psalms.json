@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,131,1" ],
+  "verses" : [ {
+    "verse" : "psalms,131,1",
+    "text" : "My heart is not proud, O LORD, my eyes are not haughty; I do not concern myself with great matters or things too wonderful for me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,131,1-psalms,131,3",
     "id" : 191467,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 131:1\">131:1</a></b> <b>heart . . . eyes . . . things too great.</b> The first verse has a threefold denial of pride: in the heart, in the eyes, and in actions.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,131,2" ],
+  "verses" : [ {
+    "verse" : "psalms,131,2",
+    "text" : "But I have stilled and quieted my soul; like a weaned child with its mother, like a weaned child is my soul within me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,131,2",
     "id" : 191469,
@@ -20,7 +26,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 131:2\">131:2</a></b> <b>like a weaned child.</b> The psalmist draws a beautiful picture of the perfect contentment and confidence he enjoys in God. He is not like an unweaned child, easily disturbed by hunger.</p><p><b>with its mother.</b> God is the Creator of both men and women. The care and protection that is the strength of the mother is a reflection of an aspect of God’s own character (<a class=\"bibleref\" href=\"/passage/?search=Prov 8\">Prov. 8</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 66:12\">Is. 66:12</a>, <a class=\"bibleref\" href=\"/passage/?search=Isa 66:13\">13</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,131,3" ],
+  "verses" : [ {
+    "verse" : "psalms,131,3",
+    "text" : "O Israel, put your hope in the LORD both now and forevermore."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,131,3",
     "id" : 191470,

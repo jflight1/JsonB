@@ -1,5 +1,53 @@
 [ {
-  "singleVerses" : [ "luke,3,23", "luke,3,24", "luke,3,25", "luke,3,26", "luke,3,27", "luke,3,28", "luke,3,29", "luke,3,30", "luke,3,31", "luke,3,32", "luke,3,33", "luke,3,34", "luke,3,35", "luke,3,36", "luke,3,37", "luke,3,38" ],
+  "verses" : [ {
+    "verse" : "luke,3,23",
+    "text" : "Now Jesus himself was about thirty years old when he began his ministry. He was the son, so it was thought, of Joseph,"
+  }, {
+    "verse" : "luke,3,24",
+    "text" : "the son of Heli, the son of Matthat, the son of Levi, the son of Melki, the son of Jannai, the son of Joseph,"
+  }, {
+    "verse" : "luke,3,25",
+    "text" : "the son of Mattathias, the son of Amos, the son of Nahum, the son of Esli,"
+  }, {
+    "verse" : "luke,3,26",
+    "text" : "the son of Naggai, the son of Maath, the son of Mattathias, the son of Semein, the son of Josech, the son of Joda,"
+  }, {
+    "verse" : "luke,3,27",
+    "text" : "the son of Joanan, the son of Rhesa, the son of Zerubbabel, the son of Shealtiel,"
+  }, {
+    "verse" : "luke,3,28",
+    "text" : "the son of Neri, the son of Melki, the son of Addi, the son of Cosam, the son of Elmadam, the son of Er,"
+  }, {
+    "verse" : "luke,3,29",
+    "text" : "the son of Joshua, the son of Eliezer, the son of Jorim, the son of Matthat,"
+  }, {
+    "verse" : "luke,3,30",
+    "text" : "the son of Levi, the son of Simeon, the son of Judah, the son of Joseph, the son of Jonam, the son of Eliakim,"
+  }, {
+    "verse" : "luke,3,31",
+    "text" : "the son of Melea, the son of Menna, the son of Mattatha, the son of Nathan,"
+  }, {
+    "verse" : "luke,3,32",
+    "text" : "the son of David, the son of Jesse, the son of Obed, the son of Boaz, the son of Salmon, the son of Nahshon,"
+  }, {
+    "verse" : "luke,3,33",
+    "text" : "the son of Amminadab, the son of Ram, the son of Hezron, the son of Perez,"
+  }, {
+    "verse" : "luke,3,34",
+    "text" : "the son of Judah, the son of Jacob, the son of Isaac, the son of Abraham, the son of Terah, the son of Nahor,"
+  }, {
+    "verse" : "luke,3,35",
+    "text" : "the son of Serug, the son of Reu, the son of Peleg, the son of Eber,"
+  }, {
+    "verse" : "luke,3,36",
+    "text" : "the son of Shelah, the son of Cainan, the son of Arphaxad, the son of Shem, the son of Noah, the son of Lamech,"
+  }, {
+    "verse" : "luke,3,37",
+    "text" : "the son of Methuselah, the son of Enoch, the son of Jared, the son of Mahalalel,"
+  }, {
+    "verse" : "luke,3,38",
+    "text" : "the son of Kenan, the son of Enosh, the son of Seth, the son of Adam, the son of God."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,3,23-luke,3,38",
     "id" : 196405,

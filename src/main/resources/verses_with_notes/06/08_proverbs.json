@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,16,26" ],
+  "verses" : [ {
+    "verse" : "proverbs,16,26",
+    "text" : "The laborer's appetite works for him; his hunger drives him on."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 16:26\">16:26</a></b> <b>mouth.</b> The most basic incentive against idleness is the threat of hunger (<a class=\"bibleref\" href=\"/passage/?search=2Thess 3:10-2Thess 3:12\">2 Thess. 3:10–12</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,16,27" ],
+  "verses" : [ {
+    "verse" : "proverbs,16,27",
+    "text" : "A scoundrel plots evil, and his speech is like a scorching fire."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,16,27",
     "id" : 192022,

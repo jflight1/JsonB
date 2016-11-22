@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "job,40,1", "job,40,2" ],
+  "verses" : [ {
+    "verse" : "job,40,1",
+    "text" : "The LORD said to Job:"
+  }, {
+    "verse" : "job,40,2",
+    "text" : "\"Will the one who contends with the Almighty correct him? Let him who accuses God answer him!\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,38,1-job,41,34",
     "id" : 190163,
@@ -17,7 +23,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 40:1\">40:1</a>, <a class=\"bibleref\" href=\"/passage/?search=Job 40:2\">2</a></b> This conclusion of the first speech should be compared with its opening in <a class=\"bibleref\" href=\"/passage/?search=Job 38:2\">38:2</a>. Both are directed toward Job’s bold but erroneous utterances during his moments of doubt.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,40,3", "job,40,4", "job,40,5" ],
+  "verses" : [ {
+    "verse" : "job,40,3",
+    "text" : "Then Job answered the LORD:"
+  }, {
+    "verse" : "job,40,4",
+    "text" : "\"I am unworthy-how can I reply to you? I put my hand over my mouth."
+  }, {
+    "verse" : "job,40,5",
+    "text" : "I spoke once, but I have no answer- twice, but I will say no more.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,40,3-job,40,5",
     "id" : 190182,
@@ -25,7 +40,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 40:3-Job 40:5\">40:3–5</a></b> Job abandons his obsession with being vindicated. It is his turn to speak, but he has nothing to say. He is brought low before the Almighty.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,40,6", "job,40,7" ],
+  "verses" : [ {
+    "verse" : "job,40,6",
+    "text" : "Then the LORD spoke to Job out of the storm:"
+  }, {
+    "verse" : "job,40,7",
+    "text" : "\"Brace yourself like a man; I will question you, and you shall answer me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,40,6-job,41,34",
     "id" : 190183,
@@ -33,7 +54,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 40:6-Job 41:34\">40:6–41:34</a></b> The Lord opens His second discourse (<a class=\"bibleref\" href=\"/passage/?search=Job 40:6\">40:6</a>, <a class=\"bibleref\" href=\"/passage/?search=Job 40:7\">7</a>) as He did in <a class=\"bibleref\" href=\"/passage/?search=Job 38:1-Job 38:3\">38:1–3</a>, but here challenges Job with a new line of reasoning about Job’s questioning whether God is just in judging the wicked. In His first speech God revealed Himself as Lord of nature, but here as the Lord of the moral realm.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,40,8", "job,40,9", "job,40,10", "job,40,11", "job,40,12", "job,40,13", "job,40,14" ],
+  "verses" : [ {
+    "verse" : "job,40,8",
+    "text" : "\"Would you discredit my justice? Would you condemn me to justify yourself?"
+  }, {
+    "verse" : "job,40,9",
+    "text" : "Do you have an arm like God's, and can your voice thunder like his?"
+  }, {
+    "verse" : "job,40,10",
+    "text" : "Then adorn yourself with glory and splendor, and clothe yourself in honor and majesty."
+  }, {
+    "verse" : "job,40,11",
+    "text" : "Unleash the fury of your wrath, look at every proud man and bring him low,"
+  }, {
+    "verse" : "job,40,12",
+    "text" : "look at every proud man and humble him, crush the wicked where they stand."
+  }, {
+    "verse" : "job,40,13",
+    "text" : "Bury them all in the dust together; shroud their faces in the grave."
+  }, {
+    "verse" : "job,40,14",
+    "text" : "Then I myself will admit to you that your own right hand can save you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,40,8-job,40,14",
     "id" : 190184,
@@ -41,7 +83,37 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 40:8-Job 40:14\">40:8–14</a></b> This section emphasizes God’s power over pride and wickedness (<a class=\"bibleref\" href=\"/passage/?search=Job 40:11\">vv. 11</a>, <a class=\"bibleref\" href=\"/passage/?search=Job 40:12\">12</a>). The monsters in the verses following, Behemoth and Leviathan, probably represent such forces of evil that God can control but before which Job is helpless.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,40,15", "job,40,16", "job,40,17", "job,40,18", "job,40,19", "job,40,20", "job,40,21", "job,40,22", "job,40,23", "job,40,24" ],
+  "verses" : [ {
+    "verse" : "job,40,15",
+    "text" : "\"Look at the behemoth, which I made along with you and which feeds on grass like an ox."
+  }, {
+    "verse" : "job,40,16",
+    "text" : "What strength he has in his loins, what power in the muscles of his belly!"
+  }, {
+    "verse" : "job,40,17",
+    "text" : "His tail sways like a cedar; the sinews of his thighs are close-knit."
+  }, {
+    "verse" : "job,40,18",
+    "text" : "His bones are tubes of bronze, his limbs like rods of iron."
+  }, {
+    "verse" : "job,40,19",
+    "text" : "He ranks first among the works of God, yet his Maker can approach him with his sword."
+  }, {
+    "verse" : "job,40,20",
+    "text" : "The hills bring him their produce, and all the wild animals play nearby."
+  }, {
+    "verse" : "job,40,21",
+    "text" : "Under the lotus plants he lies, hidden among the reeds in the marsh."
+  }, {
+    "verse" : "job,40,22",
+    "text" : "The lotuses conceal him in their shadow; the poplars by the stream surround him."
+  }, {
+    "verse" : "job,40,23",
+    "text" : "When the river rages, he is not alarmed; he is secure, though the Jordan should surge against his mouth."
+  }, {
+    "verse" : "job,40,24",
+    "text" : "Can anyone capture him by the eyes, or trap him and pierce his nose?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,40,15",
     "id" : 190185,
@@ -49,7 +121,106 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 40:15\">40:15</a></b> <b>Behemoth.</b> The Hebrew root is used for “cattle,” but the form here implies the meaning “the beast beyond comparison.” Parts of the description, especially <a class=\"bibleref\" href=\"/passage/?search=Job 40:19\">v. 19</a>, go beyond any natural creature like the hippopotamus or the crocodile. Canaanite literature describes the goddess Anat overcoming a terrible bull and a seven-headed “Leviathan.” The Lord’s speech indicates that whatever may be the forces suggested by such creatures, they are no more than playthings in comparison with His unfathomable power.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,41,1", "job,41,2", "job,41,3", "job,41,4", "job,41,5", "job,41,6", "job,41,7", "job,41,8", "job,41,9", "job,41,10", "job,41,11", "job,41,12", "job,41,13", "job,41,14", "job,41,15", "job,41,16", "job,41,17", "job,41,18", "job,41,19", "job,41,20", "job,41,21", "job,41,22", "job,41,23", "job,41,24", "job,41,25", "job,41,26", "job,41,27", "job,41,28", "job,41,29", "job,41,30", "job,41,31", "job,41,32", "job,41,33" ],
+  "verses" : [ {
+    "verse" : "job,41,1",
+    "text" : "\"Can you pull in the leviathan with a fishhook or tie down his tongue with a rope?"
+  }, {
+    "verse" : "job,41,2",
+    "text" : "Can you put a cord through his nose or pierce his jaw with a hook?"
+  }, {
+    "verse" : "job,41,3",
+    "text" : "Will he keep begging you for mercy? Will he speak to you with gentle words?"
+  }, {
+    "verse" : "job,41,4",
+    "text" : "Will he make an agreement with you for you to take him as your slave for life?"
+  }, {
+    "verse" : "job,41,5",
+    "text" : "Can you make a pet of him like a bird or put him on a leash for your girls?"
+  }, {
+    "verse" : "job,41,6",
+    "text" : "Will traders barter for him? Will they divide him up among the merchants?"
+  }, {
+    "verse" : "job,41,7",
+    "text" : "Can you fill his hide with harpoons or his head with fishing spears?"
+  }, {
+    "verse" : "job,41,8",
+    "text" : "If you lay a hand on him, you will remember the struggle and never do it again!"
+  }, {
+    "verse" : "job,41,9",
+    "text" : "Any hope of subduing him is false; the mere sight of him is overpowering."
+  }, {
+    "verse" : "job,41,10",
+    "text" : "No one is fierce enough to rouse him. Who then is able to stand against me?"
+  }, {
+    "verse" : "job,41,11",
+    "text" : "Who has a claim against me that I must pay? Everything under heaven belongs to me."
+  }, {
+    "verse" : "job,41,12",
+    "text" : "\"I will not fail to speak of his limbs, his strength and his graceful form."
+  }, {
+    "verse" : "job,41,13",
+    "text" : "Who can strip off his outer coat? Who would approach him with a bridle?"
+  }, {
+    "verse" : "job,41,14",
+    "text" : "Who dares open the doors of his mouth, ringed about with his fearsome teeth?"
+  }, {
+    "verse" : "job,41,15",
+    "text" : "His back has rows of shields tightly sealed together;"
+  }, {
+    "verse" : "job,41,16",
+    "text" : "each is so close to the next that no air can pass between."
+  }, {
+    "verse" : "job,41,17",
+    "text" : "They are joined fast to one another; they cling together and cannot be parted."
+  }, {
+    "verse" : "job,41,18",
+    "text" : "His snorting throws out flashes of light; his eyes are like the rays of dawn."
+  }, {
+    "verse" : "job,41,19",
+    "text" : "Firebrands stream from his mouth; sparks of fire shoot out."
+  }, {
+    "verse" : "job,41,20",
+    "text" : "Smoke pours from his nostrils as from a boiling pot over a fire of reeds."
+  }, {
+    "verse" : "job,41,21",
+    "text" : "His breath sets coals ablaze, and flames dart from his mouth."
+  }, {
+    "verse" : "job,41,22",
+    "text" : "Strength resides in his neck; dismay goes before him."
+  }, {
+    "verse" : "job,41,23",
+    "text" : "The folds of his flesh are tightly joined; they are firm and immovable."
+  }, {
+    "verse" : "job,41,24",
+    "text" : "His chest is hard as rock, hard as a lower millstone."
+  }, {
+    "verse" : "job,41,25",
+    "text" : "When he rises up, the mighty are terrified; they retreat before his thrashing."
+  }, {
+    "verse" : "job,41,26",
+    "text" : "The sword that reaches him has no effect, nor does the spear or the dart or the javelin."
+  }, {
+    "verse" : "job,41,27",
+    "text" : "Iron he treats like straw and bronze like rotten wood."
+  }, {
+    "verse" : "job,41,28",
+    "text" : "Arrows do not make him flee; slingstones are like chaff to him."
+  }, {
+    "verse" : "job,41,29",
+    "text" : "A club seems to him but a piece of straw; he laughs at the rattling of the lance."
+  }, {
+    "verse" : "job,41,30",
+    "text" : "His undersides are jagged potsherds, leaving a trail in the mud like a threshing sledge."
+  }, {
+    "verse" : "job,41,31",
+    "text" : "He makes the depths churn like a boiling caldron and stirs up the sea like a pot of ointment."
+  }, {
+    "verse" : "job,41,32",
+    "text" : "Behind him he leaves a glistening wake; one would think the deep had white hair."
+  }, {
+    "verse" : "job,41,33",
+    "text" : "Nothing on earth is his equal- a creature without fear."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,41,1",
     "id" : 190186,
@@ -57,7 +228,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 41:1\">41:1</a></b> <b>Leviathan.</b> Possibly “Leviathan” and “Behemoth” form a poetic repetition, both referring to one creature. The poetic description in these lines is anchored in nature, but the creature or creatures described represent something more. Like Leviathan in <a class=\"bibleref\" href=\"/passage/?search=Isa 27:1\">Is. 27:1</a> and <a class=\"bibleref\" href=\"/passage/?search=Ps 74:14\">Ps. 74:14</a>, they symbolize threatening powers in the heavenly and earthly realms (<a class=\"bibleref\" href=\"/passage/?search=Rev 12:7\">Rev. 12:7</a>, <a class=\"bibleref\" href=\"/passage/?search=Rev 13:1\">13:1</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,41,34" ],
+  "verses" : [ {
+    "verse" : "job,41,34",
+    "text" : "He looks down on all that are haughty; he is king over all that are proud.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,41,34",
     "id" : 190187,
@@ -65,7 +239,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 41:34\">41:34</a></b> This fits exactly the lines introducing Behemoth and Leviathan in <a class=\"bibleref\" href=\"/passage/?search=Job 40:11\">40:11</a>, <a class=\"bibleref\" href=\"/passage/?search=Job 40:12\">12</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,42,1" ],
+  "verses" : [ {
+    "verse" : "job,42,1",
+    "text" : "Then Job replied to the LORD:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,42,1-job,42,6",
     "id" : 190188,
@@ -73,7 +250,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 42:1-Job 42:6\">42:1–6</a></b> Appropriately, Job is now more than humbled: he must repent for his rash words doubting God’s justice during his deepest suffering. Because of his experience, his repentance is unforced and sincere.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,42,2", "job,42,3", "job,42,4" ],
+  "verses" : [ {
+    "verse" : "job,42,2",
+    "text" : "\"I know that you can do all things; no plan of yours can be thwarted."
+  }, {
+    "verse" : "job,42,3",
+    "text" : "You asked, 'Who is this that obscures my counsel without knowledge?' Surely I spoke of things I did not understand, things too wonderful for me to know."
+  }, {
+    "verse" : "job,42,4",
+    "text" : "\"You said, 'Listen now, and I will speak; I will question you, and you shall answer me.'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,42,2",
     "id" : 190189,
@@ -81,7 +267,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 42:2\">42:2</a></b> See “Omnipresence and Omnipotence” at <a class=\"bibleref\" href=\"/passage/?search=Jer 23:24\">Jer. 23:24</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,42,5", "job,42,6" ],
+  "verses" : [ {
+    "verse" : "job,42,5",
+    "text" : "My ears had heard of you but now my eyes have seen you."
+  }, {
+    "verse" : "job,42,6",
+    "text" : "Therefore I despise myself and repent in dust and ashes.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,42,5",
     "id" : 190190,
@@ -89,7 +281,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 42:5\">42:5</a></b> <b>but now my eye sees you.</b> Job could not see physically through the whirlwind out of which God spoke (<a class=\"bibleref\" href=\"/passage/?search=Job 38:1\">38:1</a>; <a class=\"bibleref\" href=\"/passage/?search=Job 40:6\">40:6</a>); he expresses a deeper meaning. He knew God with words, but he now experiences His living presence in his inner being. He meets Him as Savior and friend and, above all, God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,42,7" ],
+  "verses" : [ {
+    "verse" : "job,42,7",
+    "text" : "After the LORD had said these things to Job, he said to Eliphaz the Temanite, \"I am angry with you and your two friends, because you have not spoken of me what is right, as my servant Job has."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,42,7-job,42,17",
     "id" : 190191,
@@ -107,7 +302,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 42:7\">42:7</a></b> <b>what is right.</b> Since God has rebuked (and forgiven) Job for things he had said, why does He say here that Job said what was right while the counselors did not? Their words were often formally blameless. The counselors failed since without knowing why Job was suffering, they arrogantly assumed they did, and falsely accused Job of kinds of sins of which he was not guilty. That God accepted Job’s prayer on their behalf indicates His gracious forgiveness of them also.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,42,8", "job,42,9", "job,42,10", "job,42,11" ],
+  "verses" : [ {
+    "verse" : "job,42,8",
+    "text" : "So now take seven bulls and seven rams and go to my servant Job and sacrifice a burnt offering for yourselves. My servant Job will pray for you, and I will accept his prayer and not deal with you according to your folly. You have not spoken of me what is right, as my servant Job has.\""
+  }, {
+    "verse" : "job,42,9",
+    "text" : "So Eliphaz the Temanite, Bildad the Shuhite and Zophar the Naamathite did what the LORD told them; and the LORD accepted Job's prayer."
+  }, {
+    "verse" : "job,42,10",
+    "text" : "After Job had prayed for his friends, the LORD made him prosperous again and gave him twice as much as he had before."
+  }, {
+    "verse" : "job,42,11",
+    "text" : "All his brothers and sisters and everyone who had known him before came and ate with him in his house. They comforted and consoled him over all the trouble the LORD had brought upon him, and each one gave him a piece of silver and a gold ring."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,42,8",
     "id" : 190194,
@@ -115,7 +322,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 42:8\">42:8</a></b> <b>shall pray for you.</b> We often assume that praying for one’s detractors is a New Testament teaching, but it is here in Job. In this way Job foreshadows Christ, who when nailed to the cross prayed, “Father, forgive them, for they know not what they do” (<a class=\"bibleref\" href=\"/passage/?search=Luke 23:34\">Luke 23:34</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,42,12", "job,42,13", "job,42,14", "job,42,15", "job,42,16", "job,42,17" ],
+  "verses" : [ {
+    "verse" : "job,42,12",
+    "text" : "The LORD blessed the latter part of Job's life more than the first. He had fourteen thousand sheep, six thousand camels, a thousand yoke of oxen and a thousand donkeys."
+  }, {
+    "verse" : "job,42,13",
+    "text" : "And he also had seven sons and three daughters."
+  }, {
+    "verse" : "job,42,14",
+    "text" : "The first daughter he named Jemimah, the second Keziah and the third Keren-Happuch."
+  }, {
+    "verse" : "job,42,15",
+    "text" : "Nowhere in all the land were there found women as beautiful as Job's daughters, and their father granted them an inheritance along with their brothers."
+  }, {
+    "verse" : "job,42,16",
+    "text" : "After this, Job lived a hundred and forty years; he saw his children and their children to the fourth generation."
+  }, {
+    "verse" : "job,42,17",
+    "text" : "And so he died, old and full of years."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,42,12",
     "id" : 190195,

@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,11,23" ],
+  "verses" : [ {
+    "verse" : "proverbs,11,23",
+    "text" : "The desire of the righteous ends only in good, but the hope of the wicked only in wrath."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

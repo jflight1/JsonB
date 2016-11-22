@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,19,10" ],
+  "verses" : [ {
+    "verse" : "proverbs,19,10",
+    "text" : "It is not fitting for a fool to live in luxury- how much worse for a slave to rule over princes!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 19:10\">19:10</a></b> <b>fool . . . luxury.</b> A fool cannot handle the responsibility of riches. Possibly the verse refers to a fool in a position of administrative power rather than of wealth.</p><p><b>a slave to rule over princes.</b> The situation is unfitting, not so much because the oppressed become the new oppressors, but because it is incongruous for those not socially and intellectually prepared to govern society. But compare <a class=\"bibleref\" href=\"/passage/?search=2Sam 7:8\">2 Sam. 7:8</a> for the exception.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,19,11", "proverbs,19,12" ],
+  "verses" : [ {
+    "verse" : "proverbs,19,11",
+    "text" : "A man's wisdom gives him patience; it is to his glory to overlook an offense."
+  }, {
+    "verse" : "proverbs,19,12",
+    "text" : "A king's rage is like the roar of a lion, but his favor is like dew on the grass."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,19,11",
     "id" : 192075,

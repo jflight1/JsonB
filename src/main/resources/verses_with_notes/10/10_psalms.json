@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,80,1" ],
+  "verses" : [ {
+    "verse" : "psalms,80,1",
+    "text" : "Hear us, O Shepherd of Israel, you who lead Joseph like a flock; you who sit enthroned between the cherubim, shine forth"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,80,1",
     "id" : 190938,
@@ -7,7 +10,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 80:1\">80:1</a></b> <b>O Shepherd.</b> God is Israel’s Shepherd (<a class=\"bibleref\" href=\"/passage/?search=Ps 23\">Ps. 23</a>) because He guides them and provides for them (<a class=\"bibleref\" href=\"/passage/?search=Ps 77:20\">77:20</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 78:52\">78:52</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 78:71\">71</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 78:72\">72</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 79:13\">79:13</a>). In the ancient Near East, “shepherd” is not an unusual title for kings.</p><p><b>upon the cherubim.</b> Above the ark of the covenant, in the Most Holy Place of the temple, the wings of the cherubim stretched out over God’s throne (<a class=\"bibleref\" href=\"/passage/?search=Exod 25:22\">Ex. 25:22</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 7:89\">Num. 7:89</a>).</p><p><b>shine forth.</b> Note the allusion to the priestly benediction in <a class=\"bibleref\" href=\"/passage/?search=Num 6:24-Num 6:26\">Num. 6:24–26</a>. The psalmist is calling upon God to reveal His gracious presence to them.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,80,2", "psalms,80,3", "psalms,80,4" ],
+  "verses" : [ {
+    "verse" : "psalms,80,2",
+    "text" : "before Ephraim, Benjamin and Manasseh. Awaken your might; come and save us."
+  }, {
+    "verse" : "psalms,80,3",
+    "text" : "Restore us, O God; make your face shine upon us, that we may be saved."
+  }, {
+    "verse" : "psalms,80,4",
+    "text" : "O LORD God Almighty, how long will your anger smolder against the prayers of your people?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,80,2",
     "id" : 190939,
@@ -15,7 +27,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 80:2\">80:2</a></b> <b>Ephraim and Benjamin and Manasseh.</b> The mention of these chief tribes of the northern kingdom may indicate that the psalm was composed in the last days of that kingdom.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,80,5", "psalms,80,6", "psalms,80,7" ],
+  "verses" : [ {
+    "verse" : "psalms,80,5",
+    "text" : "You have fed them with the bread of tears; you have made them drink tears by the bowlful."
+  }, {
+    "verse" : "psalms,80,6",
+    "text" : "You have made us a source of contention to our neighbors, and our enemies mock us."
+  }, {
+    "verse" : "psalms,80,7",
+    "text" : "Restore us, O God Almighty; make your face shine upon us, that we may be saved."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,80,5",
     "id" : 190940,
@@ -23,7 +44,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 80:5\">80:5</a></b> <b>bread of tears.</b> Their mourning is so continuous that it is like their daily food and drink.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,80,8", "psalms,80,9" ],
+  "verses" : [ {
+    "verse" : "psalms,80,8",
+    "text" : "You brought a vine out of Egypt; you drove out the nations and planted it."
+  }, {
+    "verse" : "psalms,80,9",
+    "text" : "You cleared the ground for it, and it took root and filled the land."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,80,8",
     "id" : 190941,
@@ -31,7 +58,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 80:8\">80:8</a></b> <b>vine.</b> Israel is the vine God transplanted from slavery in Egypt to the fruitful soil of Palestine (<a class=\"bibleref\" href=\"/passage/?search=Isa 5:1-Isa 5:7\">Is. 5:1–7</a>; <a class=\"bibleref\" href=\"/passage/?search=John 15:1\">John 15:1</a>, <a class=\"bibleref\" href=\"/passage/?search=John 15:2\">2</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,80,10" ],
+  "verses" : [ {
+    "verse" : "psalms,80,10",
+    "text" : "The mountains were covered with its shade, the mighty cedars with its branches."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,80,10",
     "id" : 190942,
@@ -39,7 +69,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 80:10\">80:10</a></b> <b>covered with its shade.</b> The lowly vine became so great through the blessing of God that the mountains and the giant cedars were covered with its shadow (<a class=\"bibleref\" href=\"/passage/?search=Luke 13:19\">Luke 13:19</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,80,11" ],
+  "verses" : [ {
+    "verse" : "psalms,80,11",
+    "text" : "It sent out its boughs to the Sea, its shoots as far as the River."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,80,11",
     "id" : 190943,
@@ -47,7 +80,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 80:11\">80:11</a></b> <b>sea . . . River.</b> See text note. The language is reminiscent of the promises made to Abraham.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,80,12", "psalms,80,13", "psalms,80,14", "psalms,80,15", "psalms,80,16" ],
+  "verses" : [ {
+    "verse" : "psalms,80,12",
+    "text" : "Why have you broken down its walls so that all who pass by pick its grapes?"
+  }, {
+    "verse" : "psalms,80,13",
+    "text" : "Boars from the forest ravage it and the creatures of the field feed on it."
+  }, {
+    "verse" : "psalms,80,14",
+    "text" : "Return to us, O God Almighty! Look down from heaven and see! Watch over this vine,"
+  }, {
+    "verse" : "psalms,80,15",
+    "text" : "the root your right hand has planted, the son you have raised up for yourself."
+  }, {
+    "verse" : "psalms,80,16",
+    "text" : "Your vine is cut down, it is burned with fire; at your rebuke your people perish."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,80,12",
     "id" : 190944,
@@ -55,7 +103,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 80:12\">80:12</a></b> <b>Why then have you.</b> The psalmist knows that no matter what human army actually defeated Israel, God had allowed it. God seemed to be turning His back on the people He had created.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,80,17", "psalms,80,18", "psalms,80,19" ],
+  "verses" : [ {
+    "verse" : "psalms,80,17",
+    "text" : "Let your hand rest on the man at your right hand, the son of man you have raised up for yourself."
+  }, {
+    "verse" : "psalms,80,18",
+    "text" : "Then we will not turn away from you; revive us, and we will call on your name."
+  }, {
+    "verse" : "psalms,80,19",
+    "text" : "Restore us, O LORD God Almighty; make your face shine upon us, that we may be saved."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,80,17",
     "id" : 190945,

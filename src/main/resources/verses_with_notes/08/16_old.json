@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "nehemiah,11,1" ],
+  "verses" : [ {
+    "verse" : "nehemiah,11,1",
+    "text" : "Now the leaders of the people settled in Jerusalem, and the rest of the people cast lots to bring one out of every ten to live in Jerusalem, the holy city, while the remaining nine were to stay in their own towns."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "nehemiah,7,73-nehemiah,13,31",
     "id" : 189801,
@@ -12,7 +15,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Neh 11:1\">11:1</a></b> <b>cast lots.</b> This phrase ties this list to the pledges in <a class=\"bibleref\" href=\"/passage/?search=Neh 10:30-Neh 10:39\">10:30–39</a> (cf. 10:34) and shows the quick implementation of those pledges.</p><p><b>one out of ten.</b> Populating the city by means of a tithe (a tenth) of the people is the first step in not neglecting the house of God, as pledged in <a class=\"bibleref\" href=\"/passage/?search=Neh 10:39\">10:39</a>.</p><p><b>the holy city.</b> A rare phrase, used elsewhere only in <a class=\"bibleref\" href=\"/passage/?search=Neh 10:18\">v. 18</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 48:2\">Is. 48:2</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 52:1\">52:1</a>. Holiness has been expanding—from holy vessels (<a class=\"bibleref\" href=\"/passage/?search=Ezra 1:7\">Ezra 1:7</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Ezra 8:28\">8:28</a>) to priests (<a class=\"bibleref\" href=\"/passage/?search=Ezra 8:28\">Ezra 8:28</a>), people (<a class=\"bibleref\" href=\"/passage/?search=Ezra 9:2\">Ezra 9:2</a>), the holy place (<a class=\"bibleref\" href=\"/passage/?search=Ezra 9:8\">Ezra 9:8</a>), the gates (3:1), the Sabbaths (9:14)—the entire city is now holy. The city with all that is in it has become holy, “God’s house,” which the Lord purposed to build (<a class=\"bibleref\" href=\"/passage/?search=Heb 3:1-Heb 3:6\">Heb. 3:1–6</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "nehemiah,11,2", "nehemiah,11,3" ],
+  "verses" : [ {
+    "verse" : "nehemiah,11,2",
+    "text" : "The people commended all the men who volunteered to live in Jerusalem."
+  }, {
+    "verse" : "nehemiah,11,3",
+    "text" : "These are the provincial leaders who settled in Jerusalem (now some Israelites, priests, Levites, temple servants and descendants of Solomon's servants lived in the towns of Judah, each on his own property in the various towns,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "nehemiah,11,2",
     "id" : 189847,
@@ -20,7 +29,64 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Neh 11:2\">11:2</a></b> <b>who willingly offered.</b> This probably does not refer to a second group in addition to the tenth chosen by lot, but to a willing spirit in those who were chosen.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "nehemiah,11,4", "nehemiah,11,5", "nehemiah,11,6", "nehemiah,11,7", "nehemiah,11,8", "nehemiah,11,9", "nehemiah,11,10", "nehemiah,11,11", "nehemiah,11,12", "nehemiah,11,13", "nehemiah,11,14", "nehemiah,11,15", "nehemiah,11,16", "nehemiah,11,17", "nehemiah,11,18", "nehemiah,11,19", "nehemiah,11,20", "nehemiah,11,21", "nehemiah,11,22" ],
+  "verses" : [ {
+    "verse" : "nehemiah,11,4",
+    "text" : "while other people from both Judah and Benjamin lived in Jerusalem): From the descendants of Judah: Athaiah son of Uzziah, the son of Zechariah, the son of Amariah, the son of Shephatiah, the son of Mahalalel, a descendant of Perez;"
+  }, {
+    "verse" : "nehemiah,11,5",
+    "text" : "and Maaseiah son of Baruch, the son of Col-Hozeh, the son of Hazaiah, the son of Adaiah, the son of Joiarib, the son of Zechariah, a descendant of Shelah."
+  }, {
+    "verse" : "nehemiah,11,6",
+    "text" : "The descendants of Perez who lived in Jerusalem totaled 468 able men."
+  }, {
+    "verse" : "nehemiah,11,7",
+    "text" : "From the descendants of Benjamin: Sallu son of Meshullam, the son of Joed, the son of Pedaiah, the son of Kolaiah, the son of Maaseiah, the son of Ithiel, the son of Jeshaiah,"
+  }, {
+    "verse" : "nehemiah,11,8",
+    "text" : "and his followers, Gabbai and Sallai-928 men."
+  }, {
+    "verse" : "nehemiah,11,9",
+    "text" : "Joel son of Zicri was their chief officer, and Judah son of Hassenuah was over the Second District of the city."
+  }, {
+    "verse" : "nehemiah,11,10",
+    "text" : "From the priests: Jedaiah; the son of Joiarib; Jakin;"
+  }, {
+    "verse" : "nehemiah,11,11",
+    "text" : "Seraiah son of Hilkiah, the son of Meshullam, the son of Zadok, the son of Meraioth, the son of Ahitub, supervisor in the house of God,"
+  }, {
+    "verse" : "nehemiah,11,12",
+    "text" : "and their associates, who carried on work for the temple-822 men; Adaiah son of Jeroham, the son of Pelaliah, the son of Amzi, the son of Zechariah, the son of Pashhur, the son of Malkijah,"
+  }, {
+    "verse" : "nehemiah,11,13",
+    "text" : "and his associates, who were heads of families-242 men; Amashsai son of Azarel, the son of Ahzai, the son of Meshillemoth, the son of Immer,"
+  }, {
+    "verse" : "nehemiah,11,14",
+    "text" : "and his associates, who were able men-128. Their chief officer was Zabdiel son of Haggedolim."
+  }, {
+    "verse" : "nehemiah,11,15",
+    "text" : "From the Levites: Shemaiah son of Hasshub, the son of Azrikam, the son of Hashabiah, the son of Bunni;"
+  }, {
+    "verse" : "nehemiah,11,16",
+    "text" : "Shabbethai and Jozabad, two of the heads of the Levites, who had charge of the outside work of the house of God;"
+  }, {
+    "verse" : "nehemiah,11,17",
+    "text" : "Mattaniah son of Mica, the son of Zabdi, the son of Asaph, the director who led in thanksgiving and prayer; Bakbukiah, second among his associates; and Abda son of Shammua, the son of Galal, the son of Jeduthun."
+  }, {
+    "verse" : "nehemiah,11,18",
+    "text" : "The Levites in the holy city totaled 284."
+  }, {
+    "verse" : "nehemiah,11,19",
+    "text" : "The gatekeepers: Akkub, Talmon and their associates, who kept watch at the gates-172 men."
+  }, {
+    "verse" : "nehemiah,11,20",
+    "text" : "The rest of the Israelites, with the priests and Levites, were in all the towns of Judah, each on his ancestral property."
+  }, {
+    "verse" : "nehemiah,11,21",
+    "text" : "The temple servants lived on the hill of Ophel, and Ziha and Gishpa were in charge of them."
+  }, {
+    "verse" : "nehemiah,11,22",
+    "text" : "The chief officer of the Levites in Jerusalem was Uzzi son of Bani, the son of Hashabiah, the son of Mattaniah, the son of Mica. Uzzi was one of Asaph's descendants, who were the singers responsible for the service of the house of God."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "nehemiah,11,4",
     "id" : 189848,
@@ -28,7 +94,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Neh 11:4\">11:4</a></b> <b>Judah . . . Benjamin.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Ezra 1:5\">Ezra 1:5</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "nehemiah,11,23", "nehemiah,11,24" ],
+  "verses" : [ {
+    "verse" : "nehemiah,11,23",
+    "text" : "The singers were under the king's orders, which regulated their daily activity."
+  }, {
+    "verse" : "nehemiah,11,24",
+    "text" : "Pethahiah son of Meshezabel, one of the descendants of Zerah son of Judah, was the king's agent in all affairs relating to the people."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "nehemiah,11,23",
     "id" : 189849,
@@ -36,7 +108,43 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Neh 11:23\">11:23 a</a></b> <b>command from the king.</b> The reference may be to David (<a class=\"bibleref\" href=\"/passage/?search=Neh 12:24\">12:24</a>; <a class=\"bibleref\" href=\"/passage/?search=1Chr 25\">1 Chr. 25</a>) or to King Artaxerxes (<a class=\"bibleref\" href=\"/passage/?search=Ezra 7:21-Ezra 7:24\">Ezra 7:21–24</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "nehemiah,11,25", "nehemiah,11,26", "nehemiah,11,27", "nehemiah,11,28", "nehemiah,11,29", "nehemiah,11,30", "nehemiah,11,31", "nehemiah,11,32", "nehemiah,11,33", "nehemiah,11,34", "nehemiah,11,35", "nehemiah,11,36" ],
+  "verses" : [ {
+    "verse" : "nehemiah,11,25",
+    "text" : "As for the villages with their fields, some of the people of Judah lived in Kiriath Arba and its surrounding settlements, in Dibon and its settlements, in Jekabzeel and its villages,"
+  }, {
+    "verse" : "nehemiah,11,26",
+    "text" : "in Jeshua, in Moladah, in Beth Pelet,"
+  }, {
+    "verse" : "nehemiah,11,27",
+    "text" : "in Hazar Shual, in Beersheba and its settlements,"
+  }, {
+    "verse" : "nehemiah,11,28",
+    "text" : "in Ziklag, in Meconah and its settlements,"
+  }, {
+    "verse" : "nehemiah,11,29",
+    "text" : "in En Rimmon, in Zorah, in Jarmuth,"
+  }, {
+    "verse" : "nehemiah,11,30",
+    "text" : "Zanoah, Adullam and their villages, in Lachish and its fields, and in Azekah and its settlements. So they were living all the way from Beersheba to the Valley of Hinnom."
+  }, {
+    "verse" : "nehemiah,11,31",
+    "text" : "The descendants of the Benjamites from Geba lived in Micmash, Aija, Bethel and its settlements,"
+  }, {
+    "verse" : "nehemiah,11,32",
+    "text" : "in Anathoth, Nob and Ananiah,"
+  }, {
+    "verse" : "nehemiah,11,33",
+    "text" : "in Hazor, Ramah and Gittaim,"
+  }, {
+    "verse" : "nehemiah,11,34",
+    "text" : "in Hadid, Zeboim and Neballat,"
+  }, {
+    "verse" : "nehemiah,11,35",
+    "text" : "in Lod and Ono, and in the Valley of the Craftsmen."
+  }, {
+    "verse" : "nehemiah,11,36",
+    "text" : "Some of the divisions of the Levites of Judah settled in Benjamin."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "nehemiah,11,25-nehemiah,11,36",
     "id" : 189850,
@@ -44,7 +152,31 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Neh 11:25-Neh 11:36\">11:25–36</a></b> This list is of those who resettled the surrounding area. It links with <a class=\"bibleref\" href=\"/passage/?search=Ezra 2:21-Ezra 2:35\">Ezra 2:21–35</a>, binding Ezra and Nehemiah into a whole.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "nehemiah,12,1", "nehemiah,12,2", "nehemiah,12,3", "nehemiah,12,4", "nehemiah,12,5", "nehemiah,12,6", "nehemiah,12,7", "nehemiah,12,8" ],
+  "verses" : [ {
+    "verse" : "nehemiah,12,1",
+    "text" : "These were the priests and Levites who returned with Zerubbabel son of Shealtiel and with Jeshua: Seraiah, Jeremiah, Ezra,"
+  }, {
+    "verse" : "nehemiah,12,2",
+    "text" : "Amariah, Malluch, Hattush,"
+  }, {
+    "verse" : "nehemiah,12,3",
+    "text" : "Shecaniah, Rehum, Meremoth,"
+  }, {
+    "verse" : "nehemiah,12,4",
+    "text" : "Iddo, Ginnethon, Abijah,"
+  }, {
+    "verse" : "nehemiah,12,5",
+    "text" : "Mijamin, Moadiah, Bilgah,"
+  }, {
+    "verse" : "nehemiah,12,6",
+    "text" : "Shemaiah, Joiarib, Jedaiah,"
+  }, {
+    "verse" : "nehemiah,12,7",
+    "text" : "Sallu, Amok, Hilkiah and Jedaiah. These were the leaders of the priests and their associates in the days of Jeshua."
+  }, {
+    "verse" : "nehemiah,12,8",
+    "text" : "The Levites were Jeshua, Binnui, Kadmiel, Sherebiah, Judah, and also Mattaniah, who, together with his associates, was in charge of the songs of thanksgiving."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "nehemiah,12,1-nehemiah,12,10",
     "id" : 189851,
@@ -57,7 +189,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Neh 12:1\">12:1</a></b> <b>Zerubbabel . . . Jeshua.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Ezra 2:2\">Ezra 2:2</a>.</p><p><b>Ezra.</b> This is not the same Ezra as the leading figure of Ezra and Nehemiah. That Ezra returned eighty years after Zerubbabel (<a class=\"bibleref\" href=\"/passage/?search=Ezra 7:6\">Ezra 7:6</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "nehemiah,12,9" ],
+  "verses" : [ {
+    "verse" : "nehemiah,12,9",
+    "text" : "Bakbukiah and Unni, their associates, stood opposite them in the services."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "nehemiah,12,9",
     "id" : 189853,
@@ -65,7 +200,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Neh 12:9\">12:9</a></b> <b>opposite them.</b> For antiphonal singing, see <a class=\"bibleref\" href=\"/passage/?search=Neh 12:24\">v. 24</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "nehemiah,12,10", "nehemiah,12,11" ],
+  "verses" : [ {
+    "verse" : "nehemiah,12,10",
+    "text" : "Jeshua was the father of Joiakim, Joiakim the father of Eliashib, Eliashib the father of Joiada,"
+  }, {
+    "verse" : "nehemiah,12,11",
+    "text" : "Joiada the father of Jonathan, and Jonathan the father of Jaddua."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "nehemiah,12,10",
     "id" : 189854,
@@ -73,7 +214,37 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Neh 12:10\">12:10</a></b> <b>Eliashib.</b> See <a class=\"bibleref\" href=\"/passage/?search=Neh 3:1\">3:1</a> and note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "nehemiah,12,12", "nehemiah,12,13", "nehemiah,12,14", "nehemiah,12,15", "nehemiah,12,16", "nehemiah,12,17", "nehemiah,12,18", "nehemiah,12,19", "nehemiah,12,20", "nehemiah,12,21" ],
+  "verses" : [ {
+    "verse" : "nehemiah,12,12",
+    "text" : "In the days of Joiakim, these were the heads of the priestly families: of Seraiah's family, Meraiah; of Jeremiah's, Hananiah;"
+  }, {
+    "verse" : "nehemiah,12,13",
+    "text" : "of Ezra's, Meshullam; of Amariah's, Jehohanan;"
+  }, {
+    "verse" : "nehemiah,12,14",
+    "text" : "of Malluch's, Jonathan; of Shecaniah's, Joseph;"
+  }, {
+    "verse" : "nehemiah,12,15",
+    "text" : "of Harim's, Adna; of Meremoth's, Helkai;"
+  }, {
+    "verse" : "nehemiah,12,16",
+    "text" : "of Iddo's, Zechariah; of Ginnethon's, Meshullam;"
+  }, {
+    "verse" : "nehemiah,12,17",
+    "text" : "of Abijah's, Zicri; of Miniamin's and of Moadiah's, Piltai;"
+  }, {
+    "verse" : "nehemiah,12,18",
+    "text" : "of Bilgah's, Shammua; of Shemaiah's, Jehonathan;"
+  }, {
+    "verse" : "nehemiah,12,19",
+    "text" : "of Joiarib's, Mattenai; of Jedaiah's, Uzzi;"
+  }, {
+    "verse" : "nehemiah,12,20",
+    "text" : "of Sallu's, Kallai; of Amok's, Eber;"
+  }, {
+    "verse" : "nehemiah,12,21",
+    "text" : "of Hilkiah's, Hashabiah; of Jedaiah's, Nethanel."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "nehemiah,12,12-nehemiah,12,21",
     "id" : 189855,
@@ -81,7 +252,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Neh 12:12-Neh 12:21\">12:12–21</a></b> This list is repeated with certain variations from <a class=\"bibleref\" href=\"/passage/?search=Neh 12:1-Neh 12:7\">vv. 1–7</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "nehemiah,12,22", "nehemiah,12,23", "nehemiah,12,24", "nehemiah,12,25", "nehemiah,12,26" ],
+  "verses" : [ {
+    "verse" : "nehemiah,12,22",
+    "text" : "The family heads of the Levites in the days of Eliashib, Joiada, Johanan and Jaddua, as well as those of the priests, were recorded in the reign of Darius the Persian."
+  }, {
+    "verse" : "nehemiah,12,23",
+    "text" : "The family heads among the descendants of Levi up to the time of Johanan son of Eliashib were recorded in the book of the annals."
+  }, {
+    "verse" : "nehemiah,12,24",
+    "text" : "And the leaders of the Levites were Hashabiah, Sherebiah, Jeshua son of Kadmiel, and their associates, who stood opposite them to give praise and thanksgiving, one section responding to the other, as prescribed by David the man of God."
+  }, {
+    "verse" : "nehemiah,12,25",
+    "text" : "Mattaniah, Bakbukiah, Obadiah, Meshullam, Talmon and Akkub were gatekeepers who guarded the storerooms at the gates."
+  }, {
+    "verse" : "nehemiah,12,26",
+    "text" : "They served in the days of Joiakim son of Jeshua, the son of Jozadak, and in the days of Nehemiah the governor and of Ezra the priest and scribe."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "nehemiah,12,22-nehemiah,12,26",
     "id" : 189856,

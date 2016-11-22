@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "deuteronomy,9,1" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,9,1",
+    "text" : "Hear, O Israel. You are now about to cross the Jordan to go in and dispossess nations greater and stronger than you, with large cities that have walls up to the sky."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,4,44-deuteronomy,11,32",
     "id" : 186391,
@@ -12,7 +15,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 9:1\">9:1</a></b> <b>Hear, O Israel.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Deut 5:1\">5:1</a>. In this long section of exhortation (<a class=\"bibleref\" href=\"/passage/?search=Deut 9-Deut 11\">9:1–11:32</a>), Moses turns toward the future. In the forthcoming conquest of Canaan, God will go before them (v. 3).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,9,2", "deuteronomy,9,3" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,9,2",
+    "text" : "The people are strong and tall-Anakites! You know about them and have heard it said: \"Who can stand up against the Anakites?\""
+  }, {
+    "verse" : "deuteronomy,9,3",
+    "text" : "But be assured today that the LORD your God is the one who goes across ahead of you like a devouring fire. He will destroy them; he will subdue them before you. And you will drive them out and annihilate them quickly, as the LORD has promised you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,9,2",
     "id" : 186434,
@@ -20,7 +29,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 9:2\">9:2</a></b> <b>the Anakim.</b> See <a class=\"bibleref\" href=\"/passage/?search=Deut 1:28\">1:28</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 2:21\">2:21</a>. The Anakim had frightened the faithless spies forty years earlier (<a class=\"bibleref\" href=\"/passage/?search=Num 13:22\">Num. 13:22</a>, <a class=\"bibleref\" href=\"/passage/?search=Num 13:28\">28</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,9,4", "deuteronomy,9,5", "deuteronomy,9,6", "deuteronomy,9,7", "deuteronomy,9,8" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,9,4",
+    "text" : "After the LORD your God has driven them out before you, do not say to yourself, \"The LORD has brought me here to take possession of this land because of my righteousness.\" No, it is on account of the wickedness of these nations that the LORD is going to drive them out before you."
+  }, {
+    "verse" : "deuteronomy,9,5",
+    "text" : "It is not because of your righteousness or your integrity that you are going in to take possession of their land; but on account of the wickedness of these nations, the LORD your God will drive them out before you, to accomplish what he swore to your fathers, to Abraham, Isaac and Jacob."
+  }, {
+    "verse" : "deuteronomy,9,6",
+    "text" : "Understand, then, that it is not because of your righteousness that the LORD your God is giving you this good land to possess, for you are a stiff-necked people."
+  }, {
+    "verse" : "deuteronomy,9,7",
+    "text" : "Remember this and never forget how you provoked the LORD your God to anger in the desert. From the day you left Egypt until you arrived here, you have been rebellious against the LORD."
+  }, {
+    "verse" : "deuteronomy,9,8",
+    "text" : "At Horeb you aroused the LORD's wrath so that he was angry enough to destroy you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,9,4",
     "id" : 186435,
@@ -28,7 +52,43 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 9:4\">9:4</a></b> <b>because of my righteousness.</b> Note the threefold emphasis in this section (<a class=\"bibleref\" href=\"/passage/?search=Deut 9:4-Deut 9:6\">vv. 4–6</a>) that the victory was not because of Israel’s goodness, but was entirely the work of God’s grace. Repetition was characteristic of Hebrew literature, and aided learning and memorization. <a class=\"bibleref\" href=\"/passage/?search=Gen 21:1\">Genesis 21:1</a> is a prime example of this characteristic, misunderstood by critics who insist that ancient Near Eastern literature should resemble the crisp economy that ideally characterizes modern Western journalism. This prejudice has led to the unwarranted conclusion that the Pentateuch must be the product of “cutting and pasting” documents from different authors.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,9,9", "deuteronomy,9,10", "deuteronomy,9,11", "deuteronomy,9,12", "deuteronomy,9,13", "deuteronomy,9,14", "deuteronomy,9,15", "deuteronomy,9,16", "deuteronomy,9,17", "deuteronomy,9,18", "deuteronomy,9,19", "deuteronomy,9,20" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,9,9",
+    "text" : "When I went up on the mountain to receive the tablets of stone, the tablets of the covenant that the LORD had made with you, I stayed on the mountain forty days and forty nights; I ate no bread and drank no water."
+  }, {
+    "verse" : "deuteronomy,9,10",
+    "text" : "The LORD gave me two stone tablets inscribed by the finger of God. On them were all the commandments the LORD proclaimed to you on the mountain out of the fire, on the day of the assembly."
+  }, {
+    "verse" : "deuteronomy,9,11",
+    "text" : "At the end of the forty days and forty nights, the LORD gave me the two stone tablets, the tablets of the covenant."
+  }, {
+    "verse" : "deuteronomy,9,12",
+    "text" : "Then the LORD told me, \"Go down from here at once, because your people whom you brought out of Egypt have become corrupt. They have turned away quickly from what I commanded them and have made a cast idol for themselves.\""
+  }, {
+    "verse" : "deuteronomy,9,13",
+    "text" : "And the LORD said to me, \"I have seen this people, and they are a stiff-necked people indeed!"
+  }, {
+    "verse" : "deuteronomy,9,14",
+    "text" : "Let me alone, so that I may destroy them and blot out their name from under heaven. And I will make you into a nation stronger and more numerous than they.\""
+  }, {
+    "verse" : "deuteronomy,9,15",
+    "text" : "So I turned and went down from the mountain while it was ablaze with fire. And the two tablets of the covenant were in my hands."
+  }, {
+    "verse" : "deuteronomy,9,16",
+    "text" : "When I looked, I saw that you had sinned against the LORD your God; you had made for yourselves an idol cast in the shape of a calf. You had turned aside quickly from the way that the LORD had commanded you."
+  }, {
+    "verse" : "deuteronomy,9,17",
+    "text" : "So I took the two tablets and threw them out of my hands, breaking them to pieces before your eyes."
+  }, {
+    "verse" : "deuteronomy,9,18",
+    "text" : "Then once again I fell prostrate before the LORD for forty days and forty nights; I ate no bread and drank no water, because of all the sin you had committed, doing what was evil in the LORD's sight and so provoking him to anger."
+  }, {
+    "verse" : "deuteronomy,9,19",
+    "text" : "I feared the anger and wrath of the LORD, for he was angry enough with you to destroy you. But again the LORD listened to me."
+  }, {
+    "verse" : "deuteronomy,9,20",
+    "text" : "And the LORD was angry enough with Aaron to destroy him, but at that time I prayed for Aaron too."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,9,9",
     "id" : 186436,
@@ -36,7 +96,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 9:9\">9:9</a></b> <b>I went up the mountain.</b> Moses retells the story given in Exodus (<a class=\"bibleref\" href=\"/passage/?search=Exod 24:12\">Ex. 24:12</a>, <a class=\"bibleref\" href=\"/passage/?search=Exod 24:18\">18</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 32:7-Exod 32:10\">32:7–10</a>, <a class=\"bibleref\" href=\"/passage/?search=Exod 32:15-Exod 32:20\">15–20</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,9,21" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,9,21",
+    "text" : "Also I took that sinful thing of yours, the calf you had made, and burned it in the fire. Then I crushed it and ground it to powder as fine as dust and threw the dust into a stream that flowed down the mountain."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,9,21",
     "id" : 186437,
@@ -44,7 +107,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 9:21\">9:21</a></b> <b>the brook that ran down from the mountain.</b> Today no stream flows down from Jebel Musa, the peak often identified as Mount Sinai (<a class=\"bibleref\" href=\"/passage/?search=Exod 16:1\">Ex. 16:1</a> note). The ground has some moisture, and low bushes grow, but the mention of a stream implies that in Moses’ time there was more rainfall than now (8:7–9 note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,9,22" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,9,22",
+    "text" : "You also made the LORD angry at Taberah, at Massah and at Kibroth Hattaavah."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,9,22",
     "id" : 186438,
@@ -52,7 +118,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 9:22\">9:22</a></b> <b>Taberah.</b> See <a class=\"bibleref\" href=\"/passage/?search=Num 11:3\">Num. 11:3</a>. On Massah, see 6:16 and <a class=\"bibleref\" href=\"/passage/?search=Exod 17:7\">Ex. 17:7</a>. On Kibroth-hattaavah, see <a class=\"bibleref\" href=\"/passage/?search=Num 11:34\">Num. 11:34</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,9,23", "deuteronomy,9,24", "deuteronomy,9,25", "deuteronomy,9,26", "deuteronomy,9,27", "deuteronomy,9,28", "deuteronomy,9,29" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,9,23",
+    "text" : "And when the LORD sent you out from Kadesh Barnea, he said, \"Go up and take possession of the land I have given you.\" But you rebelled against the command of the LORD your God. You did not trust him or obey him."
+  }, {
+    "verse" : "deuteronomy,9,24",
+    "text" : "You have been rebellious against the LORD ever since I have known you."
+  }, {
+    "verse" : "deuteronomy,9,25",
+    "text" : "I lay prostrate before the LORD those forty days and forty nights because the LORD had said he would destroy you."
+  }, {
+    "verse" : "deuteronomy,9,26",
+    "text" : "I prayed to the LORD and said, \"O Sovereign LORD, do not destroy your people, your own inheritance that you redeemed by your great power and brought out of Egypt with a mighty hand."
+  }, {
+    "verse" : "deuteronomy,9,27",
+    "text" : "Remember your servants Abraham, Isaac and Jacob. Overlook the stubbornness of this people, their wickedness and their sin."
+  }, {
+    "verse" : "deuteronomy,9,28",
+    "text" : "Otherwise, the country from which you brought us will say, 'Because the LORD was not able to take them into the land he had promised them, and because he hated them, he brought them out to put them to death in the desert.'"
+  }, {
+    "verse" : "deuteronomy,9,29",
+    "text" : "But they are your people, your inheritance that you brought out by your great power and your outstretched arm.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,9,23",
     "id" : 186439,
@@ -60,7 +147,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 9:23\">9:23</a></b> <b>you rebelled.</b> The sheer persistence in rebellion by the Israelites (<a class=\"bibleref\" href=\"/passage/?search=Deut 9:24\">v. 24</a>) points to the importance of Moses’ intercession (<a class=\"bibleref\" href=\"/passage/?search=Deut 9:25-Deut 9:28\">vv. 25–28</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 32:11-Exod 32:13\">Ex. 32:11–13</a>) and to the gracious power of God, who remains faithful to His covenant despite the failings of the people (v. 29).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,10,1", "deuteronomy,10,2", "deuteronomy,10,3" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,10,1",
+    "text" : "At that time the LORD said to me, \"Chisel out two stone tablets like the first ones and come up to me on the mountain. Also make a wooden chest."
+  }, {
+    "verse" : "deuteronomy,10,2",
+    "text" : "I will write on the tablets the words that were on the first tablets, which you broke. Then you are to put them in the chest.\""
+  }, {
+    "verse" : "deuteronomy,10,3",
+    "text" : "So I made the ark out of acacia wood and chiseled out two stone tablets like the first ones, and I went up on the mountain with the two tablets in my hands."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,10,1-deuteronomy,10,5",
     "id" : 186440,
@@ -73,7 +169,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 10:1\">10:1</a></b> <b>two tablets of stone.</b> It has generally been assumed that the law was written once, the material taking up two tablets or a double tablet. More recently, some have suggested that there were two tablets, each a separate copy of the law. This would reflect the ancient practice of providing each treaty partner with a copy of the agreement. Because the ark was both the place of God’s presence with His people, and the focal point of Israel’s worship, it was appropriate for both copies of the covenantal terms to be housed in the ark. See note <a class=\"bibleref\" href=\"/passage/?search=Exod 31:18\">Ex. 31:18</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,10,4", "deuteronomy,10,5" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,10,4",
+    "text" : "The LORD wrote on these tablets what he had written before, the Ten Commandments he had proclaimed to you on the mountain, out of the fire, on the day of the assembly. And the LORD gave them to me."
+  }, {
+    "verse" : "deuteronomy,10,5",
+    "text" : "Then I came back down the mountain and put the tablets in the ark I had made, as the LORD commanded me, and they are there now."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,10,4",
     "id" : 186442,
@@ -81,7 +183,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 10:4\">10:4</a></b> <b>the Ten Commandments.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Deut 4:13\">4:13</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,10,6", "deuteronomy,10,7" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,10,6",
+    "text" : "(The Israelites traveled from the wells of the Jaakanites to Moserah. There Aaron died and was buried, and Eleazar his son succeeded him as priest."
+  }, {
+    "verse" : "deuteronomy,10,7",
+    "text" : "From there they traveled to Gudgodah and on to Jotbathah, a land with streams of water."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,10,6-deuteronomy,10,9",
     "id" : 186443,
@@ -94,7 +202,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 10:6\">10:6</a></b> <b>Moserah . . . Aaron died.</b> This mention of Aaron’s death underscores the effectiveness of Moses’ intercession (<a class=\"bibleref\" href=\"/passage/?search=Deut 9:20\">9:20</a>). Aaron was not killed at Sinai, but lived until the fortieth year after the Exodus (<a class=\"bibleref\" href=\"/passage/?search=Num 33:38\">Num. 33:38</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,10,8", "deuteronomy,10,9", "deuteronomy,10,10" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,10,8",
+    "text" : "At that time the LORD set apart the tribe of Levi to carry the ark of the covenant of the LORD, to stand before the LORD to minister and to pronounce blessings in his name, as they still do today."
+  }, {
+    "verse" : "deuteronomy,10,9",
+    "text" : "That is why the Levites have no share or inheritance among their brothers; the LORD is their inheritance, as the LORD your God told them.)"
+  }, {
+    "verse" : "deuteronomy,10,10",
+    "text" : "Now I had stayed on the mountain forty days and nights, as I did the first time, and the LORD listened to me at this time also. It was not his will to destroy you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,10,8",
     "id" : 186445,
@@ -102,7 +219,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 10:8\">10:8</a></b> <b>At that time.</b> This does not refer to the time of Aaron’s death (<a class=\"bibleref\" href=\"/passage/?search=Deut 10:6\">v. 6</a>) or to the events of <a class=\"bibleref\" href=\"/passage/?search=Deut 10:7\">v. 7</a>, but to the time of the revelation at Sinai (<a class=\"bibleref\" href=\"/passage/?search=Exod 28\">Ex. 28</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 29\">29</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,10,11" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,10,11",
+    "text" : "\"Go,\" the LORD said to me, \"and lead the people on their way, so that they may enter and possess the land that I swore to their fathers to give them.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,10,11",
     "id" : 186446,
@@ -110,7 +230,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 10:11\">10:11</a></b> <b>to their fathers.</b> To the patriarchs (<a class=\"bibleref\" href=\"/passage/?search=Deut 9:5\">9:5</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 33:1\">Ex. 33:1</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,10,12", "deuteronomy,10,13", "deuteronomy,10,14" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,10,12",
+    "text" : "And now, O Israel, what does the LORD your God ask of you but to fear the LORD your God, to walk in all his ways, to love him, to serve the LORD your God with all your heart and with all your soul,"
+  }, {
+    "verse" : "deuteronomy,10,13",
+    "text" : "and to observe the LORD's commands and decrees that I am giving you today for your own good?"
+  }, {
+    "verse" : "deuteronomy,10,14",
+    "text" : "To the LORD your God belong the heavens, even the highest heavens, the earth and everything in it."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,10,12",
     "id" : 186447,
@@ -118,7 +247,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 10:12\">10:12</a></b> <b>what does the <span class=\"small-caps\">Lord</span> your God require of you.</b> This rhetorical question resembles the much-quoted <a class=\"bibleref\" href=\"/passage/?search=Mic 6:8\">Mic. 6:8</a>, which calls us to justice, mercy, and humility in our walk with God (cf. <a class=\"bibleref\" href=\"/passage/?search=Matt 23:23\">Matt. 23:23</a>). To walk with God requires that we love Him with all our being and keep His commandments—love and obedience go together (<a class=\"bibleref\" href=\"/passage/?search=John 14:23\">John 14:23</a>). To love God with our whole being is the greatest commandment (<a class=\"bibleref\" href=\"/passage/?search=Deut 6:5\">Deut. 6:5</a>; <a class=\"bibleref\" href=\"/passage/?search=Mark 12:29-Mark 12:34\">Mark 12:29–34</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,10,15" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,10,15",
+    "text" : "Yet the LORD set his affection on your forefathers and loved them, and he chose you, their descendants, above all the nations, as it is today."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,10,15",
     "id" : 186448,
@@ -126,7 +258,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 10:15\">10:15</a></b> <b>you above all.</b> The contrast is a noble one, between God’s sovereignty over and common grace to all creation (<a class=\"bibleref\" href=\"/passage/?search=Deut 10:14\">v. 14</a>), and His special electing love for the patriarchs and the nation (<a class=\"bibleref\" href=\"/passage/?search=Deut 10:15\">v. 15</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,10,16", "deuteronomy,10,17" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,10,16",
+    "text" : "Circumcise your hearts, therefore, and do not be stiff-necked any longer."
+  }, {
+    "verse" : "deuteronomy,10,17",
+    "text" : "For the LORD your God is God of gods and Lord of lords, the great God, mighty and awesome, who shows no partiality and accepts no bribes."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,10,16",
     "id" : 186449,
@@ -134,7 +272,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 10:16\">10:16</a></b> <b>Circumcise . . . your heart.</b> This verse (along with <a class=\"bibleref\" href=\"/passage/?search=Deut 30:6\">Deut. 30:6</a> and <a class=\"bibleref\" href=\"/passage/?search=Jer 4:4\">Jer. 4:4</a>) is an effective answer to those who imagine that the Old Testament teaches merely a religion of outward form. Circumcision was a <i>symbol,</i> a <i>sacrament,</i> an <i>outward sign</i> of an <i>inward grace</i>. Apart from this, as Paul indicates, circumcision was of no saving significance. True circumcision is “of the heart, by the Spirit, not by the letter” (<a class=\"bibleref\" href=\"/passage/?search=Rom 2:29\">Rom. 2:29</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,10,18", "deuteronomy,10,19", "deuteronomy,10,20", "deuteronomy,10,21" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,10,18",
+    "text" : "He defends the cause of the fatherless and the widow, and loves the alien, giving him food and clothing."
+  }, {
+    "verse" : "deuteronomy,10,19",
+    "text" : "And you are to love those who are aliens, for you yourselves were aliens in Egypt."
+  }, {
+    "verse" : "deuteronomy,10,20",
+    "text" : "Fear the LORD your God and serve him. Hold fast to him and take your oaths in his name."
+  }, {
+    "verse" : "deuteronomy,10,21",
+    "text" : "He is your praise; he is your God, who performed for you those great and awesome wonders you saw with your own eyes."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,10,18",
     "id" : 186450,
@@ -142,7 +292,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 10:18\">10:18</a></b> <b>He executes justice.</b> The Lord of surpassing greatness and sovereignty (“God of gods and Lord of lords,” <a class=\"bibleref\" href=\"/passage/?search=Deut 10:17\">v. 17</a>) is also revealed to be the supremely compassionate God, with deep concern for the least in human society: the fatherless, the widow, and the alien. In this He is our example (<a class=\"bibleref\" href=\"/passage/?search=Deut 10:19\">v. 19</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,10,22" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,10,22",
+    "text" : "Your forefathers who went down into Egypt were seventy in all, and now the LORD your God has made you as numerous as the stars in the sky."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,10,22",
     "id" : 186451,

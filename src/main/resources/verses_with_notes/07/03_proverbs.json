@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "proverbs,18,11", "proverbs,18,12" ],
+  "verses" : [ {
+    "verse" : "proverbs,18,11",
+    "text" : "The wealth of the rich is their fortified city; they imagine it an unscalable wall."
+  }, {
+    "verse" : "proverbs,18,12",
+    "text" : "Before his downfall a man's heart is proud, but humility comes before honor."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

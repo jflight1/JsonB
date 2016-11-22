@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "psalms,103,1", "psalms,103,2" ],
+  "verses" : [ {
+    "verse" : "psalms,103,1",
+    "text" : "Praise the LORD, O my soul; all my inmost being, praise his holy name."
+  }, {
+    "verse" : "psalms,103,2",
+    "text" : "Praise the LORD, O my soul, and forget not all his benefits-"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,103,1",
     "id" : 191139,
@@ -7,7 +13,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 103:1\">103:1</a></b> <b>O my soul.</b> The psalmist carries on a public dialogue with himself. He encourages himself to praise, and so encourages others who see his example.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,103,3" ],
+  "verses" : [ {
+    "verse" : "psalms,103,3",
+    "text" : "who forgives all your sins and heals all your diseases,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,103,3",
     "id" : 191140,
@@ -15,7 +24,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 103:3\">103:3</a></b> <b>forgives all your iniquity.</b> The primary benefit of grace is the forgiveness of sins (<a class=\"bibleref\" href=\"/passage/?search=Acts 13:38\">Acts 13:38</a>). God is compassionate toward His repentant people.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,103,4" ],
+  "verses" : [ {
+    "verse" : "psalms,103,4",
+    "text" : "who redeems your life from the pit and crowns you with love and compassion,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,103,4",
     "id" : 191141,
@@ -23,7 +35,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 103:4\">103:4</a></b> <b>from the pit.</b> That is, from death.</p><p><b>steadfast love.</b> See <a class=\"bibleref\" href=\"/passage/?search=Ps 92:2\">92:2</a> note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,103,5" ],
+  "verses" : [ {
+    "verse" : "psalms,103,5",
+    "text" : "who satisfies your desires with good things so that your youth is renewed like the eagle's."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,103,5",
     "id" : 191142,
@@ -31,7 +46,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 103:5\">103:5</a></b> <b>with good.</b> God provides everything that is constructive and wholesome for His people.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,103,6" ],
+  "verses" : [ {
+    "verse" : "psalms,103,6",
+    "text" : "The LORD works righteousness and justice for all the oppressed."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,103,6",
     "id" : 191143,
@@ -39,7 +57,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 103:6\">103:6</a></b> <b>for all who are oppressed.</b> See <a class=\"bibleref\" href=\"/passage/?search=Ps 102:2\">102:2</a> note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,103,7", "psalms,103,8", "psalms,103,9", "psalms,103,10", "psalms,103,11" ],
+  "verses" : [ {
+    "verse" : "psalms,103,7",
+    "text" : "He made known his ways to Moses, his deeds to the people of Israel:"
+  }, {
+    "verse" : "psalms,103,8",
+    "text" : "The LORD is compassionate and gracious, slow to anger, abounding in love."
+  }, {
+    "verse" : "psalms,103,9",
+    "text" : "He will not always accuse, nor will he harbor his anger forever;"
+  }, {
+    "verse" : "psalms,103,10",
+    "text" : "he does not treat us as our sins deserve or repay us according to our iniquities."
+  }, {
+    "verse" : "psalms,103,11",
+    "text" : "For as high as the heavens are above the earth, so great is his love for those who fear him;"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,103,7",
     "id" : 191144,
@@ -47,7 +80,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 103:7\">103:7</a></b> <b>to Moses.</b> By referring to Moses, the psalmist calls to mind all of God’s blessings associated with the Exodus, the wilderness wanderings, and even the conquest of the Promised Land.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,103,12" ],
+  "verses" : [ {
+    "verse" : "psalms,103,12",
+    "text" : "as far as the east is from the west, so far has he removed our transgressions from us."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,103,12",
     "id" : 191145,
@@ -55,7 +91,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 103:12\">103:12</a></b> <b>as far as the east is from the west.</b> When God forgives sins, He completely removes them. The height and breadth of His mercy are vast.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,103,13" ],
+  "verses" : [ {
+    "verse" : "psalms,103,13",
+    "text" : "As a father has compassion on his children, so the LORD has compassion on those who fear him;"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,103,13",
     "id" : 191146,
@@ -63,7 +102,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 103:13\">103:13</a></b> <b>As a father.</b> The comparison of God to a compassionate and loving father is developed in <a class=\"bibleref\" href=\"/passage/?search=Rom 8:12-Rom 8:17\">Rom. 8:12–17</a>. See <a class=\"bibleref\" href=\"/passage/?search=Exod 4:22\">Ex. 4:22</a>, <a class=\"bibleref\" href=\"/passage/?search=Exod 4:23\">23</a>; <a class=\"bibleref\" href=\"/passage/?search=Hos 11:1\">Hos. 11:1</a>, <a class=\"bibleref\" href=\"/passage/?search=Hos 11:8\">8</a>, <a class=\"bibleref\" href=\"/passage/?search=Hos 11:9\">9</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,103,14", "psalms,103,15", "psalms,103,16" ],
+  "verses" : [ {
+    "verse" : "psalms,103,14",
+    "text" : "for he knows how we are formed, he remembers that we are dust."
+  }, {
+    "verse" : "psalms,103,15",
+    "text" : "As for man, his days are like grass, he flourishes like a flower of the field;"
+  }, {
+    "verse" : "psalms,103,16",
+    "text" : "the wind blows over it and it is gone, and its place remembers it no more."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,103,14",
     "id" : 191147,
@@ -71,7 +119,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 103:14\">103:14</a></b> <b>For he knows.</b> God knows us better than we know ourselves.</p><p><b>we are dust.</b> According to <a class=\"bibleref\" href=\"/passage/?search=Gen 2:7\">Gen. 2:7</a>, God formed Adam from the dust of the ground. The consequence of sin is that humans die as surely as the animals (<a class=\"bibleref\" href=\"/passage/?search=Eccl 3:19\">Eccl. 3:19</a>). Yet God has mercy on us. See “Body and Soul, Male and Female” at <a class=\"bibleref\" href=\"/passage/?search=Gen 2:7\">Gen. 2:7</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,103,17" ],
+  "verses" : [ {
+    "verse" : "psalms,103,17",
+    "text" : "But from everlasting to everlasting the LORD's love is with those who fear him, and his righteousness with their children's children-"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,103,17",
     "id" : 191148,
@@ -79,7 +130,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 103:17\">103:17</a></b> <b>steadfast love . . . on those who fear him.</b> There is a reciprocal relationship between divine initiative and human response. God first loves us, then we love Him in return as shown in the faithful obedience of our lives (<a class=\"bibleref\" href=\"/passage/?search=Rom 5:8\">Rom. 5:8</a>; <a class=\"bibleref\" href=\"/passage/?search=1John 4:10\">1 John 4:10</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,103,18" ],
+  "verses" : [ {
+    "verse" : "psalms,103,18",
+    "text" : "with those who keep his covenant and remember to obey his precepts."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,103,18",
     "id" : 191149,
@@ -87,7 +141,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 103:18\">103:18</a></b> <b>those who keep his covenant.</b> The obedience of those who keep God’s covenant shows the reality of His mercy. They walk in devoted fellowship with the Lord who loved them in His covenant of grace.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,103,19", "psalms,103,20" ],
+  "verses" : [ {
+    "verse" : "psalms,103,19",
+    "text" : "The LORD has established his throne in heaven, and his kingdom rules over all."
+  }, {
+    "verse" : "psalms,103,20",
+    "text" : "Praise the LORD, you his angels, you mighty ones who do his bidding, who obey his word."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,103,19",
     "id" : 191150,
@@ -95,7 +155,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 103:19\">103:19</a></b> <b>rules over all.</b> See “Providence” at <a class=\"bibleref\" href=\"/passage/?search=Prov 16:33\">Prov. 16:33</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,103,21", "psalms,103,22" ],
+  "verses" : [ {
+    "verse" : "psalms,103,21",
+    "text" : "Praise the LORD, all his heavenly hosts, you his servants who do his will."
+  }, {
+    "verse" : "psalms,103,22",
+    "text" : "Praise the LORD, all his works everywhere in his dominion. Praise the LORD, O my soul."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,103,21",
     "id" : 191151,

@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,10,13" ],
+  "verses" : [ {
+    "verse" : "proverbs,10,13",
+    "text" : "Wisdom is found on the lips of the discerning, but a rod is for the back of him who lacks judgment."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -17,7 +20,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 10:13\">10:13</a></b> Those who are perceptive reveal their character in the wisdom of their words. Those who lack sense simply involve themselves in strife. The parallel suggests that foolish talk is the cause of their problems.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,10,14" ],
+  "verses" : [ {
+    "verse" : "proverbs,10,14",
+    "text" : "Wise men store up knowledge, but the mouth of a fool invites ruin."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,14",
     "id" : 191857,

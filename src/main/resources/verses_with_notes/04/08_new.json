@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "luke,12,35", "luke,12,36" ],
+  "verses" : [ {
+    "verse" : "luke,12,35",
+    "text" : "\"Be dressed ready for service and keep your lamps burning,"
+  }, {
+    "verse" : "luke,12,36",
+    "text" : "like men waiting for their master to return from a wedding banquet, so that when he comes and knocks they can immediately open the door for him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,12,35",
     "id" : 196601,
@@ -7,7 +13,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 12:35\">12:35</a></b> <b>dressed for action.</b> That is, to be ready for service. Long robes hindered free movement and were kept above the knees with a belt when necessary.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,12,37" ],
+  "verses" : [ {
+    "verse" : "luke,12,37",
+    "text" : "It will be good for those servants whose master finds them watching when he comes. I tell you the truth, he will dress himself to serve, will have them recline at the table and will come and wait on them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,12,37",
     "id" : 196602,
@@ -15,7 +24,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 12:37\">12:37</a></b> <b>dress himself.</b> This is a reversal of roles, the master taking the place of the servant (cf. <a class=\"bibleref\" href=\"/passage/?search=Luke 22:27\">22:27</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,12,38", "luke,12,39", "luke,12,40", "luke,12,41" ],
+  "verses" : [ {
+    "verse" : "luke,12,38",
+    "text" : "It will be good for those servants whose master finds them ready, even if he comes in the second or third watch of the night."
+  }, {
+    "verse" : "luke,12,39",
+    "text" : "But understand this: If the owner of the house had known at what hour the thief was coming, he would not have let his house be broken into."
+  }, {
+    "verse" : "luke,12,40",
+    "text" : "You also must be ready, because the Son of Man will come at an hour when you do not expect him.\""
+  }, {
+    "verse" : "luke,12,41",
+    "text" : "Peter asked, \"Lord, are you telling this parable to us, or to everyone?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,12,38",
     "id" : 196603,
@@ -23,7 +44,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 12:38\">12:38</a></b> <b>second watch, or . . . third.</b> The Jews divided the night into three watches (<a class=\"bibleref\" href=\"/passage/?search=Judg 7:19\">Judg. 7:19</a>), and the Romans into four. Jesus uses the Jewish division here. These servants watch for their master throughout the night.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,12,42", "luke,12,43" ],
+  "verses" : [ {
+    "verse" : "luke,12,42",
+    "text" : "The Lord answered, \"Who then is the faithful and wise manager, whom the master puts in charge of his servants to give them their food allowance at the proper time?"
+  }, {
+    "verse" : "luke,12,43",
+    "text" : "It will be good for that servant whom the master finds doing so when he returns."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,12,42",
     "id" : 196604,
@@ -31,7 +58,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 12:42\">12:42</a></b> <b>faithful and wise manager.</b> The manager was a slave put in charge of the whole estate by the owner. The owner was free from the burden of administration and the manager had considerable authority.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,12,44" ],
+  "verses" : [ {
+    "verse" : "luke,12,44",
+    "text" : "I tell you the truth, he will put him in charge of all his possessions."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,12,44",
     "id" : 196605,
@@ -39,7 +69,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 12:44\">12:44</a></b> <b>all his possessions.</b> The reward of faithful service is the opportunity to perform higher service.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,12,45", "luke,12,46" ],
+  "verses" : [ {
+    "verse" : "luke,12,45",
+    "text" : "But suppose the servant says to himself, 'My master is taking a long time in coming,' and he then begins to beat the menservants and maidservants and to eat and drink and get drunk."
+  }, {
+    "verse" : "luke,12,46",
+    "text" : "The master of that servant will come on a day when he does not expect him and at an hour he is not aware of. He will cut him to pieces and assign him a place with the unbelievers."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,12,45-luke,12,46",
     "id" : 196606,
@@ -47,7 +83,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 12:45\">12:45</a>, <a class=\"bibleref\" href=\"/passage/?search=Luke 12:46\">46</a></b> The punishment for failure to make proper use of opportunities for service is severe.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,12,47", "luke,12,48" ],
+  "verses" : [ {
+    "verse" : "luke,12,47",
+    "text" : "\"That servant who knows his master's will and does not get ready or does not do what his master wants will be beaten with many blows."
+  }, {
+    "verse" : "luke,12,48",
+    "text" : "But the one who does not know and does things deserving punishment will be beaten with few blows. From everyone who has been given much, much will be demanded; and from the one who has been entrusted with much, much more will be asked."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,12,47-luke,12,48",
     "id" : 196607,
@@ -55,7 +97,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 12:47\">12:47</a>, <a class=\"bibleref\" href=\"/passage/?search=Luke 12:48\">48</a></b> People are punished for failing to do right as well as for doing wrong. Ignorance can be blameworthy when there is the opportunity to know what is required. God makes His people’s duty plain (<a class=\"bibleref\" href=\"/passage/?search=Rom 1:20\">Rom. 1:20</a>; <a class=\"bibleref\" href=\"/passage/?search=Rom 2:14\">2:14</a>, <a class=\"bibleref\" href=\"/passage/?search=Rom 2:15\">15</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,12,49" ],
+  "verses" : [ {
+    "verse" : "luke,12,49",
+    "text" : "\"I have come to bring fire on the earth, and how I wish it were already kindled!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,12,49",
     "id" : 196608,
@@ -63,7 +108,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 12:49\">12:49</a></b> <b>fire.</b> The fire of judgment.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,12,50", "luke,12,51", "luke,12,52", "luke,12,53" ],
+  "verses" : [ {
+    "verse" : "luke,12,50",
+    "text" : "But I have a baptism to undergo, and how distressed I am until it is completed!"
+  }, {
+    "verse" : "luke,12,51",
+    "text" : "Do you think I came to bring peace on earth? No, I tell you, but division."
+  }, {
+    "verse" : "luke,12,52",
+    "text" : "From now on there will be five in one family divided against each other, three against two and two against three."
+  }, {
+    "verse" : "luke,12,53",
+    "text" : "They will be divided, father against son and son against father, mother against daughter and daughter against mother, mother-in-law against daughter-in-law and daughter-in-law against mother-in-law.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,12,50",
     "id" : 196609,
@@ -71,7 +128,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 12:50\">12:50</a></b> <b>baptism.</b> Jesus’ death is also a “baptism,” another image that points to death (to “baptize” a city was to subject it to near total destruction). Liturgically, baptism came to symbolize death to an old way of life and rising to a new way. Jesus accepted His own death as the divine plan for bringing salvation to sinners.</p><p><b>accomplished.</b> On the cross, Jesus spoke of the completion of His work (<a class=\"bibleref\" href=\"/passage/?search=John 19:30\">John 19:30</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,12,54", "luke,12,55", "luke,12,56" ],
+  "verses" : [ {
+    "verse" : "luke,12,54",
+    "text" : "He said to the crowd: \"When you see a cloud rising in the west, immediately you say, 'It's going to rain,' and it does."
+  }, {
+    "verse" : "luke,12,55",
+    "text" : "And when the south wind blows, you say, 'It's going to be hot,' and it is."
+  }, {
+    "verse" : "luke,12,56",
+    "text" : "Hypocrites! You know how to interpret the appearance of the earth and the sky. How is it that you don't know how to interpret this present time?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,12,54-luke,12,56",
     "id" : 196610,
@@ -79,7 +145,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 12:54-Luke 12:56\">12:54–56</a></b> The people could discern that a west wind (from the Mediterranean) meant rain and a south wind (from the desert) meant heat. But they did not discern what God was doing in their midst.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,12,57", "luke,12,58", "luke,12,59" ],
+  "verses" : [ {
+    "verse" : "luke,12,57",
+    "text" : "\"Why don't you judge for yourselves what is right?"
+  }, {
+    "verse" : "luke,12,58",
+    "text" : "As you are going with your adversary to the magistrate, try hard to be reconciled to him on the way, or he may drag you off to the judge, and the judge turn you over to the officer, and the officer throw you into prison."
+  }, {
+    "verse" : "luke,12,59",
+    "text" : "I tell you, you will not get out until you have paid the last penny. \""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,12,57-luke,12,59",
     "id" : 196611,

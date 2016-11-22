@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "job,16,1", "job,16,2" ],
+  "verses" : [ {
+    "verse" : "job,16,1",
+    "text" : "Then Job replied:"
+  }, {
+    "verse" : "job,16,2",
+    "text" : "\"I have heard many things like these; miserable comforters are you all!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,3,1-job,27,23",
     "id" : 189970,
@@ -12,7 +18,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 16-Job 17\">16:1–17:16</a></b> Job dismisses Eliphaz’s harangue as a sickening repetition of a defective perspective on suffering.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,16,3", "job,16,4", "job,16,5", "job,16,6", "job,16,7" ],
+  "verses" : [ {
+    "verse" : "job,16,3",
+    "text" : "Will your long-winded speeches never end? What ails you that you keep on arguing?"
+  }, {
+    "verse" : "job,16,4",
+    "text" : "I also could speak like you, if you were in my place; I could make fine speeches against you and shake my head at you."
+  }, {
+    "verse" : "job,16,5",
+    "text" : "But my mouth would encourage you; comfort from my lips would bring you relief."
+  }, {
+    "verse" : "job,16,6",
+    "text" : "\"Yet if I speak, my pain is not relieved; and if I refrain, it does not go away."
+  }, {
+    "verse" : "job,16,7",
+    "text" : "Surely, O God, you have worn me out; you have devastated my entire household."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,16,3",
     "id" : 190066,
@@ -20,7 +41,37 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 16:3\">16:3</a></b> <b>that you answer.</b> Job has grown weary, not of the length of their speeches, but of their failure to say anything helpful.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,16,8", "job,16,9", "job,16,10", "job,16,11", "job,16,12", "job,16,13", "job,16,14", "job,16,15", "job,16,16", "job,16,17" ],
+  "verses" : [ {
+    "verse" : "job,16,8",
+    "text" : "You have bound me-and it has become a witness; my gauntness rises up and testifies against me."
+  }, {
+    "verse" : "job,16,9",
+    "text" : "God assails me and tears me in his anger and gnashes his teeth at me; my opponent fastens on me his piercing eyes."
+  }, {
+    "verse" : "job,16,10",
+    "text" : "Men open their mouths to jeer at me; they strike my cheek in scorn and unite together against me."
+  }, {
+    "verse" : "job,16,11",
+    "text" : "God has turned me over to evil men and thrown me into the clutches of the wicked."
+  }, {
+    "verse" : "job,16,12",
+    "text" : "All was well with me, but he shattered me; he seized me by the neck and crushed me. He has made me his target;"
+  }, {
+    "verse" : "job,16,13",
+    "text" : "his archers surround me. Without pity, he pierces my kidneys and spills my gall on the ground."
+  }, {
+    "verse" : "job,16,14",
+    "text" : "Again and again he bursts upon me; he rushes at me like a warrior."
+  }, {
+    "verse" : "job,16,15",
+    "text" : "\"I have sewed sackcloth over my skin and buried my brow in the dust."
+  }, {
+    "verse" : "job,16,16",
+    "text" : "My face is red with weeping, deep shadows ring my eyes;"
+  }, {
+    "verse" : "job,16,17",
+    "text" : "yet my hands have been free of violence and my prayer is pure."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,16,8-job,16,14",
     "id" : 190067,
@@ -28,7 +79,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 16:8-Job 16:14\">16:8–14</a></b> Again Job imagines God as his adversary. In <a class=\"bibleref\" href=\"/passage/?search=Job 16:9\">v. 9</a> the figure is that of a lion. In <a class=\"bibleref\" href=\"/passage/?search=Job 16:12-Job 16:14\">vv. 12–14 a</a> graphic warrior figure is employed.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,16,18" ],
+  "verses" : [ {
+    "verse" : "job,16,18",
+    "text" : "\"O earth, do not cover my blood; may my cry never be laid to rest!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,16,18",
     "id" : 190068,
@@ -36,7 +90,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 16:18\">16:18</a></b> The earth is personified as a witness to Job’s suffering.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,16,19", "job,16,20", "job,16,21" ],
+  "verses" : [ {
+    "verse" : "job,16,19",
+    "text" : "Even now my witness is in heaven; my advocate is on high."
+  }, {
+    "verse" : "job,16,20",
+    "text" : "My intercessor is my friend as my eyes pour out tears to God;"
+  }, {
+    "verse" : "job,16,21",
+    "text" : "on behalf of a man he pleads with God as a man pleads for his friend."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,16,19",
     "id" : 190069,
@@ -44,7 +107,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 16:19\">16:19</a></b> Job believes he has a witness in heaven, a notion that was summarily dismissed by Eliphaz in <a class=\"bibleref\" href=\"/passage/?search=Job 5:1\">5:1</a>. But now the thought has tremendous meaning for Job.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,16,22", "job,17,1", "job,17,2" ],
+  "verses" : [ {
+    "verse" : "job,16,22",
+    "text" : "\"Only a few years will pass before I go on the journey of no return."
+  }, {
+    "verse" : "job,17,1",
+    "text" : "My spirit is broken, my days are cut short, the grave awaits me."
+  }, {
+    "verse" : "job,17,2",
+    "text" : "Surely mockers surround me; my eyes must dwell on their hostility."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,16,22",
     "id" : 190070,
@@ -52,7 +124,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 16:22\">16:22</a></b> This verse goes better with <a class=\"bibleref\" href=\"/passage/?search=Job 17\">ch. 17</a> (cf. <a class=\"bibleref\" href=\"/passage/?search=Job 13:8\">13:8</a> note). This is a reminder that the chapter divisions are not original. Job longs for death as a release from his constant pain (<a class=\"bibleref\" href=\"/passage/?search=Job 14:13\">14:13</a>), although he expects to live “a few years” longer.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,17,3" ],
+  "verses" : [ {
+    "verse" : "job,17,3",
+    "text" : "\"Give me, O God, the pledge you demand. Who else will put up security for me?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,17,3",
     "id" : 190071,
@@ -60,7 +135,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 17:3\">17:3</a></b> Job wants God to vindicate him, i.e., to prove to the counselors that he is in the right.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,17,4", "job,17,5" ],
+  "verses" : [ {
+    "verse" : "job,17,4",
+    "text" : "You have closed their minds to understanding; therefore you will not let them triumph."
+  }, {
+    "verse" : "job,17,5",
+    "text" : "If a man denounces his friends for reward, the eyes of his children will fail."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,17,4",
     "id" : 190072,
@@ -68,7 +149,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 17:4\">17:4</a></b> <b>their hearts.</b> That is, the minds of the counselors.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,17,6" ],
+  "verses" : [ {
+    "verse" : "job,17,6",
+    "text" : "\"God has made me a byword to everyone, a man in whose face people spit."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,17,6",
     "id" : 190073,
@@ -76,7 +160,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 17:6\">17:6</a></b> Since God has not vindicated him, he continues to hold God responsible for his frightful condition. Cf. <a class=\"bibleref\" href=\"/passage/?search=Job 30:10\">30:10</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,17,7", "job,17,8", "job,17,9", "job,17,10", "job,17,11" ],
+  "verses" : [ {
+    "verse" : "job,17,7",
+    "text" : "My eyes have grown dim with grief; my whole frame is but a shadow."
+  }, {
+    "verse" : "job,17,8",
+    "text" : "Upright men are appalled at this; the innocent are aroused against the ungodly."
+  }, {
+    "verse" : "job,17,9",
+    "text" : "Nevertheless, the righteous will hold to their ways, and those with clean hands will grow stronger."
+  }, {
+    "verse" : "job,17,10",
+    "text" : "\"But come on, all of you, try again! I will not find a wise man among you."
+  }, {
+    "verse" : "job,17,11",
+    "text" : "My days have passed, my plans are shattered, and so are the desires of my heart."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,17,7",
     "id" : 190074,
@@ -84,7 +183,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 17:7\">17:7</a></b> The symptoms of his disease included boils, other skin problems, and nightmares (<a class=\"bibleref\" href=\"/passage/?search=Job 2:7\">2:7</a>; <a class=\"bibleref\" href=\"/passage/?search=Job 7:5\">7:5</a>, <a class=\"bibleref\" href=\"/passage/?search=Job 7:14\">14</a>). Here and in <a class=\"bibleref\" href=\"/passage/?search=Job 19:20\">19:20</a> there is loss of weight; and in <a class=\"bibleref\" href=\"/passage/?search=Job 19:17\">19:17</a>, bad breath; in <a class=\"bibleref\" href=\"/passage/?search=Job 30:30\">30:30</a>, fever; and in <a class=\"bibleref\" href=\"/passage/?search=Job 30:17\">30:17</a>, pain day and night.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,17,12", "job,17,13", "job,17,14", "job,17,15", "job,17,16" ],
+  "verses" : [ {
+    "verse" : "job,17,12",
+    "text" : "These men turn night into day; in the face of darkness they say, 'Light is near.'"
+  }, {
+    "verse" : "job,17,13",
+    "text" : "If the only home I hope for is the grave, if I spread out my bed in darkness,"
+  }, {
+    "verse" : "job,17,14",
+    "text" : "if I say to corruption, 'You are my father,' and to the worm, 'My mother' or 'My sister,'"
+  }, {
+    "verse" : "job,17,15",
+    "text" : "where then is my hope? Who can see any hope for me?"
+  }, {
+    "verse" : "job,17,16",
+    "text" : "Will it go down to the gates of death? Will we descend together into the dust?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,17,12",
     "id" : 190075,
@@ -92,7 +206,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 17:12\">17:12</a></b> Job appears to remember Zophar’s words in <a class=\"bibleref\" href=\"/passage/?search=Job 11:17\">11:17</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,18,1" ],
+  "verses" : [ {
+    "verse" : "job,18,1",
+    "text" : "Then Bildad the Shuhite replied:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,18,1-job,18,21",
     "id" : 190076,
@@ -100,7 +217,43 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 18\">18:1–21</a></b> Bildad accuses Job, impatiently repeating his earlier exposition on the destiny of the wicked (cf. <a class=\"bibleref\" href=\"/passage/?search=Job 8:8-Job 8:19\">8:8–19</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,18,2", "job,18,3", "job,18,4", "job,18,5", "job,18,6", "job,18,7", "job,18,8", "job,18,9", "job,18,10", "job,18,11", "job,18,12", "job,18,13" ],
+  "verses" : [ {
+    "verse" : "job,18,2",
+    "text" : "\"When will you end these speeches? Be sensible, and then we can talk."
+  }, {
+    "verse" : "job,18,3",
+    "text" : "Why are we regarded as cattle and considered stupid in your sight?"
+  }, {
+    "verse" : "job,18,4",
+    "text" : "You who tear yourself to pieces in your anger, is the earth to be abandoned for your sake? Or must the rocks be moved from their place?"
+  }, {
+    "verse" : "job,18,5",
+    "text" : "\"The lamp of the wicked is snuffed out; the flame of his fire stops burning."
+  }, {
+    "verse" : "job,18,6",
+    "text" : "The light in his tent becomes dark; the lamp beside him goes out."
+  }, {
+    "verse" : "job,18,7",
+    "text" : "The vigor of his step is weakened; his own schemes throw him down."
+  }, {
+    "verse" : "job,18,8",
+    "text" : "His feet thrust him into a net and he wanders into its mesh."
+  }, {
+    "verse" : "job,18,9",
+    "text" : "A trap seizes him by the heel; a snare holds him fast."
+  }, {
+    "verse" : "job,18,10",
+    "text" : "A noose is hidden for him on the ground; a trap lies in his path."
+  }, {
+    "verse" : "job,18,11",
+    "text" : "Terrors startle him on every side and dog his every step."
+  }, {
+    "verse" : "job,18,12",
+    "text" : "Calamity is hungry for him; disaster is ready for him when he falls."
+  }, {
+    "verse" : "job,18,13",
+    "text" : "It eats away parts of his skin; death's firstborn devours his limbs."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,18,2-job,18,4",
     "id" : 190077,
@@ -108,7 +261,31 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 18:2-Job 18:4\">18:2–4</a></b> Bildad opens his speech with a heartless rebuke of one who is suffering greatly. He has not changed his argument.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,18,14", "job,18,15", "job,18,16", "job,18,17", "job,18,18", "job,18,19", "job,18,20", "job,18,21" ],
+  "verses" : [ {
+    "verse" : "job,18,14",
+    "text" : "He is torn from the security of his tent and marched off to the king of terrors."
+  }, {
+    "verse" : "job,18,15",
+    "text" : "Fire resides in his tent; burning sulfur is scattered over his dwelling."
+  }, {
+    "verse" : "job,18,16",
+    "text" : "His roots dry up below and his branches wither above."
+  }, {
+    "verse" : "job,18,17",
+    "text" : "The memory of him perishes from the earth; he has no name in the land."
+  }, {
+    "verse" : "job,18,18",
+    "text" : "He is driven from light into darkness and is banished from the world."
+  }, {
+    "verse" : "job,18,19",
+    "text" : "He has no offspring or descendants among his people, no survivor where once he lived."
+  }, {
+    "verse" : "job,18,20",
+    "text" : "Men of the west are appalled at his fate; men of the east are seized with horror."
+  }, {
+    "verse" : "job,18,21",
+    "text" : "Surely such is the dwelling of an evil man; such is the place of one who knows not God.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,18,14",
     "id" : 190078,
@@ -116,7 +293,64 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 18:14\">18:14</a></b> <b>the king of terrors.</b> The Canaanites understood death as a god whose one lip touched the earth and the other the heavens, so that he swallowed up everything. According to Bildad, “the firstborn of death” following in the footsteps of his father, eats away the skin and devours the limbs of the wicked. According to <a class=\"bibleref\" href=\"/passage/?search=Isa 25:8\">Is. 25:8</a>, the Lord will “swallow up death forever” (<a class=\"bibleref\" href=\"/passage/?search=1Cor 15:54\">1 Cor. 15:54</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,19,1", "job,19,2", "job,19,3", "job,19,4", "job,19,5", "job,19,6", "job,19,7", "job,19,8", "job,19,9", "job,19,10", "job,19,11", "job,19,12", "job,19,13", "job,19,14", "job,19,15", "job,19,16", "job,19,17", "job,19,18", "job,19,19" ],
+  "verses" : [ {
+    "verse" : "job,19,1",
+    "text" : "Then Job replied:"
+  }, {
+    "verse" : "job,19,2",
+    "text" : "\"How long will you torment me and crush me with words?"
+  }, {
+    "verse" : "job,19,3",
+    "text" : "Ten times now you have reproached me; shamelessly you attack me."
+  }, {
+    "verse" : "job,19,4",
+    "text" : "If it is true that I have gone astray, my error remains my concern alone."
+  }, {
+    "verse" : "job,19,5",
+    "text" : "If indeed you would exalt yourselves above me and use my humiliation against me,"
+  }, {
+    "verse" : "job,19,6",
+    "text" : "then know that God has wronged me and drawn his net around me."
+  }, {
+    "verse" : "job,19,7",
+    "text" : "\"Though I cry, 'I've been wronged!' I get no response; though I call for help, there is no justice."
+  }, {
+    "verse" : "job,19,8",
+    "text" : "He has blocked my way so I cannot pass; he has shrouded my paths in darkness."
+  }, {
+    "verse" : "job,19,9",
+    "text" : "He has stripped me of my honor and removed the crown from my head."
+  }, {
+    "verse" : "job,19,10",
+    "text" : "He tears me down on every side till I am gone; he uproots my hope like a tree."
+  }, {
+    "verse" : "job,19,11",
+    "text" : "His anger burns against me; he counts me among his enemies."
+  }, {
+    "verse" : "job,19,12",
+    "text" : "His troops advance in force; they build a siege ramp against me and encamp around my tent."
+  }, {
+    "verse" : "job,19,13",
+    "text" : "\"He has alienated my brothers from me; my acquaintances are completely estranged from me."
+  }, {
+    "verse" : "job,19,14",
+    "text" : "My kinsmen have gone away; my friends have forgotten me."
+  }, {
+    "verse" : "job,19,15",
+    "text" : "My guests and my maidservants count me a stranger; they look upon me as an alien."
+  }, {
+    "verse" : "job,19,16",
+    "text" : "I summon my servant, but he does not answer, though I beg him with my own mouth."
+  }, {
+    "verse" : "job,19,17",
+    "text" : "My breath is offensive to my wife; I am loathsome to my own brothers."
+  }, {
+    "verse" : "job,19,18",
+    "text" : "Even the little boys scorn me; when I appear, they ridicule me."
+  }, {
+    "verse" : "job,19,19",
+    "text" : "All my intimate friends detest me; those I love have turned against me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,19,1-job,19,29",
     "id" : 190079,
@@ -124,7 +358,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 19\">19:1–29</a></b> In <a class=\"bibleref\" href=\"/passage/?search=Job 19\">ch. 19</a> Job accuses God of wronging him and not listening to his plea for justice (vv. 6, <a class=\"bibleref\" href=\"/passage/?search=Job 19:7\">7</a>), of stripping him of honor and attacking him (<a class=\"bibleref\" href=\"/passage/?search=Job 19:9-Job 19:12\">vv. 9–12</a>), and of alienating his kinsmen and friends (<a class=\"bibleref\" href=\"/passage/?search=Job 19:13-Job 19:20\">vv. 13–20</a>). Job was wrong on all points. He was wrestling with God over the apparent meaninglessness of his suffering that was actually the work of the Adversary, but ordained by the Lord to accomplish a higher purpose. The counselors, on the other hand, had reduced God and His acts to an impersonal formula. They were incapable of empathy with the agony of Job’s predicament or of showing him any mercy.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,19,20" ],
+  "verses" : [ {
+    "verse" : "job,19,20",
+    "text" : "I am nothing but skin and bones; I have escaped with only the skin of my teeth."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,19,20",
     "id" : 190080,
@@ -132,7 +369,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 19:20\">19:20</a></b> <b>the skin of my teeth.</b> This idiom has entered the English language through the Bible, but it is hard to see how the figure suggests a narrow escape. Some suggest that the phrase means “with only my skin or gums remaining.” His teeth would be lost.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,19,21", "job,19,22" ],
+  "verses" : [ {
+    "verse" : "job,19,21",
+    "text" : "\"Have pity on me, my friends, have pity, for the hand of God has struck me."
+  }, {
+    "verse" : "job,19,22",
+    "text" : "Why do you pursue me as God does? Will you never get enough of my flesh?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,19,21",
     "id" : 190081,
@@ -140,7 +383,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 19:21\">19:21</a></b> Job needed heartfelt friendship (<a class=\"bibleref\" href=\"/passage/?search=Job 6:14\">6:14</a>), but nothing of the sort was possible from his counselors who only added to his misery.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,19,23", "job,19,24" ],
+  "verses" : [ {
+    "verse" : "job,19,23",
+    "text" : "\"Oh, that my words were recorded, that they were written on a scroll,"
+  }, {
+    "verse" : "job,19,24",
+    "text" : "that they were inscribed with an iron tool on lead, or engraved in rock forever!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,19,23-job,19,24",
     "id" : 190082,
@@ -148,7 +397,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 19:23\">19:23</a>, <a class=\"bibleref\" href=\"/passage/?search=Job 19:24\">24</a></b> Job has an important message that he wants permanently inscribed for posterity. Through the inspiration of the Spirit his words are preserved for all time in the Bible (cf. <a class=\"bibleref\" href=\"/passage/?search=Mark 14:9\">Mark 14:9</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,19,25" ],
+  "verses" : [ {
+    "verse" : "job,19,25",
+    "text" : "I know that my Redeemer lives, and that in the end he will stand upon the earth."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,19,25",
     "id" : 190083,
@@ -156,7 +408,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 19:25\">19:25</a></b> <b>I know that my Redeemer lives.</b> The Hebrew word translated “Redeemer” can also be rendered “Avenger,” “Guarantor,” “Vindicator,” or “Kinsman-Redeemer” (<a class=\"bibleref\" href=\"/passage/?search=Ruth 2:20\">Ruth 2:20</a> note). Job’s words are clear, but from his perspective, who does he expect to help him? The prologue reveals that God was not Job’s enemy. Indeed, God will become his vindicator (42:7). Job seems to be thinking of the Redeemer as a third party (16:19–21).</p><p><b>at the last he will stand upon the earth.</b> In Job’s mind this Vindicator will be both heavenly (16:19) and earthly (able to stand on the earth).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,19,26", "job,19,27", "job,19,28", "job,19,29" ],
+  "verses" : [ {
+    "verse" : "job,19,26",
+    "text" : "And after my skin has been destroyed, yet in my flesh I will see God;"
+  }, {
+    "verse" : "job,19,27",
+    "text" : "I myself will see him with my own eyes-I, and not another. How my heart yearns within me!"
+  }, {
+    "verse" : "job,19,28",
+    "text" : "\"If you say, 'How we will hound him, since the root of the trouble lies in him, '"
+  }, {
+    "verse" : "job,19,29",
+    "text" : "you should fear the sword yourselves; for wrath will bring punishment by the sword, and then you will know that there is judgment. \""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,19,26",
     "id" : 190084,

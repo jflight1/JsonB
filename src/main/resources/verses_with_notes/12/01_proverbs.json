@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,28,25" ],
+  "verses" : [ {
+    "verse" : "proverbs,28,25",
+    "text" : "A greedy man stirs up dissension, but he who trusts in the LORD will prosper."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,28,1-proverbs,28,28",
     "id" : 192290,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 28:25\">28:25</a></b> <b>trusts in the <span class=\"small-caps\">Lord.</span></b> Reliance and faith are included in the fear of the Lord (<a class=\"bibleref\" href=\"/passage/?search=Prov 1:7\">1:7</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,28,26" ],
+  "verses" : [ {
+    "verse" : "proverbs,28,26",
+    "text" : "He who trusts in himself is a fool, but he who walks in wisdom is kept safe."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,28,26",
     "id" : 192313,

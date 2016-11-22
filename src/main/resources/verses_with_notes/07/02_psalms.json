@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,150,1" ],
+  "verses" : [ {
+    "verse" : "psalms,150,1",
+    "text" : "Praise the LORD. Praise God in his sanctuary; praise him in his mighty heavens."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,150,1",
     "id" : 191631,
@@ -7,7 +10,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 150:1\">150:1</a></b> <b>Praise the <span class=\"small-caps\">Lord.</span></b> See <a class=\"bibleref\" href=\"/passage/?search=Ps 146:1\">Ps. 146:1</a>. Note the parallel closing at <a class=\"bibleref\" href=\"/passage/?search=Ps 146:6\">v. 6</a>.</p><p><b>in his sanctuary . . . in his mighty heavens.</b> These are the locations where worship was focused.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,150,2" ],
+  "verses" : [ {
+    "verse" : "psalms,150,2",
+    "text" : "Praise him for his acts of power; praise him for his surpassing greatness."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,150,2",
     "id" : 191632,
@@ -15,7 +21,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 150:2\">150:2</a></b> <b>his mighty deeds . . . his excellent greatness.</b> This verse gives reasons why God should be worshiped.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,150,3", "psalms,150,4", "psalms,150,5" ],
+  "verses" : [ {
+    "verse" : "psalms,150,3",
+    "text" : "Praise him with the sounding of the trumpet, praise him with the harp and lyre,"
+  }, {
+    "verse" : "psalms,150,4",
+    "text" : "praise him with tambourine and dancing, praise him with the strings and flute,"
+  }, {
+    "verse" : "psalms,150,5",
+    "text" : "praise him with the clash of cymbals, praise him with resounding cymbals."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,150,3-psalms,150,5",
     "id" : 191633,
@@ -23,7 +38,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 150:3-Ps 150:5\">150:3–5</a></b> <b>trumpet . . . lute and harp . . . tambourine and dance . . . strings and pipe . . . cymbals.</b> A wonderful array of instruments for the praises of God. See “Music in the Church” at <a class=\"bibleref\" href=\"/passage/?search=Col 3:16\">Col. 3:16</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,150,6" ],
+  "verses" : [ {
+    "verse" : "psalms,150,6",
+    "text" : "Let everything that has breath praise the LORD. Praise the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,150,6",
     "id" : 191634,

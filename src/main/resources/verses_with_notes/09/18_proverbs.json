@@ -1,5 +1,14 @@
 [ {
-  "singleVerses" : [ "proverbs,23,19", "proverbs,23,20", "proverbs,23,21" ],
+  "verses" : [ {
+    "verse" : "proverbs,23,19",
+    "text" : "Listen, my son, and be wise, and keep your heart on the right path."
+  }, {
+    "verse" : "proverbs,23,20",
+    "text" : "Do not join those who drink too much wine or gorge themselves on meat,"
+  }, {
+    "verse" : "proverbs,23,21",
+    "text" : "for drunkards and gluttons become poor, and drowsiness clothes them in rags."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,22,17-proverbs,24,22",
     "id" : 192162,

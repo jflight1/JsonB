@@ -1,8 +1,17 @@
 [ {
-  "singleVerses" : [ "proverbs,26,24" ],
+  "verses" : [ {
+    "verse" : "proverbs,26,24",
+    "text" : "A malicious man disguises himself with his lips, but in his heart he harbors deceit."
+  } ],
   "rsbNotes" : [ ]
 }, {
-  "singleVerses" : [ "proverbs,26,25", "proverbs,26,26" ],
+  "verses" : [ {
+    "verse" : "proverbs,26,25",
+    "text" : "Though his speech is charming, do not believe him, for seven abominations fill his heart."
+  }, {
+    "verse" : "proverbs,26,26",
+    "text" : "His malice may be concealed by deception, but his wickedness will be exposed in the assembly."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,26,25-proverbs,26,26",
     "id" : 192268,

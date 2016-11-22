@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "revelation,22,1" ],
+  "verses" : [ {
+    "verse" : "revelation,22,1",
+    "text" : "Then the angel showed me the river of the water of life, as clear as crystal, flowing from the throne of God and of the Lamb"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "revelation,21,9-revelation,22,5",
     "id" : 199788,
@@ -17,7 +20,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rev 22:1\">22:1</a></b> <b>river of the water of life.</b> Abundant supply of life-giving water comes from God. Revelation weaves together allusions to <a class=\"bibleref\" href=\"/passage/?search=Gen 2:10-Gen 2:14\">Gen. 2:10–14</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 46:4\">Ps. 46:4</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 47:1-Ezek 47:12\">Ezek. 47:1–12</a>; <a class=\"bibleref\" href=\"/passage/?search=Joel 3:18\">Joel 3:18</a>; <a class=\"bibleref\" href=\"/passage/?search=John 4:10-John 4:14\">John 4:10–14</a>; <a class=\"bibleref\" href=\"/passage/?search=John 7:37-John 7:39\">7:37–39</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "revelation,22,2", "revelation,22,3", "revelation,22,4", "revelation,22,5" ],
+  "verses" : [ {
+    "verse" : "revelation,22,2",
+    "text" : "down the middle of the great street of the city. On each side of the river stood the tree of life, bearing twelve crops of fruit, yielding its fruit every month. And the leaves of the tree are for the healing of the nations."
+  }, {
+    "verse" : "revelation,22,3",
+    "text" : "No longer will there be any curse. The throne of God and of the Lamb will be in the city, and his servants will serve him."
+  }, {
+    "verse" : "revelation,22,4",
+    "text" : "They will see his face, and his name will be on their foreheads."
+  }, {
+    "verse" : "revelation,22,5",
+    "text" : "There will be no more night. They will not need the light of a lamp or the light of the sun, for the Lord God will give them light. And they will reign for ever and ever."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "revelation,22,2",
     "id" : 199801,
@@ -25,7 +40,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rev 22:2\">22:2</a></b> <b>tree of life.</b> Access to God’s life-giving blessings, barred after the Fall, is here renewed (<a class=\"bibleref\" href=\"/passage/?search=Rev 22:14\">vv. 14</a>, <a class=\"bibleref\" href=\"/passage/?search=Rev 22:19\">19</a>; <a class=\"bibleref\" href=\"/passage/?search=Rev 2:7\">2:7</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 2:9\">Gen. 2:9</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 3:22-Gen 3:24\">3:22–24</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 47:12\">Ezek. 47:12</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "revelation,22,6" ],
+  "verses" : [ {
+    "verse" : "revelation,22,6",
+    "text" : "The angel said to me, \"These words are trustworthy and true. The Lord, the God of the spirits of the prophets, sent his angel to show his servants the things that must soon take place.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "revelation,22,6-revelation,22,21",
     "id" : 199802,
@@ -38,7 +56,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rev 22:6\">22:6</a></b> <b>trustworthy and true.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Rev 1:2\">1:2</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "revelation,22,7" ],
+  "verses" : [ {
+    "verse" : "revelation,22,7",
+    "text" : "\"Behold, I am coming soon! Blessed is he who keeps the words of the prophecy in this book.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "revelation,22,7",
     "id" : 199804,
@@ -46,7 +67,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rev 22:7\">22:7</a></b> <b>soon.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Rev 1:1\">1:1</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "revelation,22,8", "revelation,22,9" ],
+  "verses" : [ {
+    "verse" : "revelation,22,8",
+    "text" : "I, John, am the one who heard and saw these things. And when I had heard and seen them, I fell down to worship at the feet of the angel who had been showing them to me."
+  }, {
+    "verse" : "revelation,22,9",
+    "text" : "But he said to me, \"Do not do it! I am a fellow servant with you and with your brothers the prophets and of all who keep the words of this book. Worship God!\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "revelation,22,8",
     "id" : 199805,
@@ -54,7 +81,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rev 22:8\">22:8</a></b> <b>worship.</b> See <a class=\"bibleref\" href=\"/passage/?search=Rev 19:10\">19:10</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "revelation,22,10" ],
+  "verses" : [ {
+    "verse" : "revelation,22,10",
+    "text" : "Then he told me, \"Do not seal up the words of the prophecy of this book, because the time is near."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "revelation,22,10",
     "id" : 199806,
@@ -62,7 +92,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rev 22:10\">22:10</a></b> <b>Do not seal.</b> Daniel’s scroll was sealed because the time of fulfillment was distant (<a class=\"bibleref\" href=\"/passage/?search=Dan 12:4\">Dan. 12:4</a>).</p><p><b>the time is near.</b> See note 1:1.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "revelation,22,11" ],
+  "verses" : [ {
+    "verse" : "revelation,22,11",
+    "text" : "Let him who does wrong continue to do wrong; let him who is vile continue to be vile; let him who does right continue to do right; and let him who is holy continue to be holy.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "revelation,22,11",
     "id" : 199807,
@@ -70,7 +103,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rev 22:11\">22:11</a></b> See <a class=\"bibleref\" href=\"/passage/?search=Ezek 3:27\">Ezek. 3:27</a>; <a class=\"bibleref\" href=\"/passage/?search=Dan 12:10\">Dan. 12:10</a>; <a class=\"bibleref\" href=\"/passage/?search=2Cor 2:15\">2 Cor. 2:15</a>, <a class=\"bibleref\" href=\"/passage/?search=2Cor 2:16\">16</a>. If people do not repent when they hear the word of God, it increases their hardness. If hearing Revelation does not change the course of people’s lives, it sets them more firmly in their present course, whichever side of the battle that may be.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "revelation,22,12" ],
+  "verses" : [ {
+    "verse" : "revelation,22,12",
+    "text" : "\"Behold, I am coming soon! My reward is with me, and I will give to everyone according to what he has done."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "revelation,22,12",
     "id" : 199808,
@@ -78,7 +114,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rev 22:12\">22:12</a></b> <b>for what he has done.</b> See <a class=\"bibleref\" href=\"/passage/?search=Rev 20:12\">20:12</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "revelation,22,13" ],
+  "verses" : [ {
+    "verse" : "revelation,22,13",
+    "text" : "I am the Alpha and the Omega, the First and the Last, the Beginning and the End."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "revelation,22,13",
     "id" : 199809,
@@ -86,7 +125,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rev 22:13\">22:13</a></b> <b>the Alpha and the Omega.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Rev 1:8\">1:8</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "revelation,22,14" ],
+  "verses" : [ {
+    "verse" : "revelation,22,14",
+    "text" : "\"Blessed are those who wash their robes, that they may have the right to the tree of life and may go through the gates into the city."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "revelation,22,14",
     "id" : 199810,
@@ -94,7 +136,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rev 22:14\">22:14</a></b> <b>Blessed.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Rev 1:3\">1:3</a>.</p><p><b>tree of life.</b> See note on <a class=\"bibleref\" href=\"/passage/?search=Rev 1:2\">v. 2</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "revelation,22,15", "revelation,22,16" ],
+  "verses" : [ {
+    "verse" : "revelation,22,15",
+    "text" : "Outside are the dogs, those who practice magic arts, the sexually immoral, the murderers, the idolaters and everyone who loves and practices falsehood."
+  }, {
+    "verse" : "revelation,22,16",
+    "text" : "\"I, Jesus, have sent my angel to give you this testimony for the churches. I am the Root and the Offspring of David, and the bright Morning Star.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "revelation,22,15",
     "id" : 199811,
@@ -102,7 +150,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rev 22:15\">22:15</a></b> <b>Outside.</b> See <a class=\"bibleref\" href=\"/passage/?search=Rev 20:15\">20:15</a>; <a class=\"bibleref\" href=\"/passage/?search=Rev 21:8\">21:8</a>, <a class=\"bibleref\" href=\"/passage/?search=Rev 21:27\">27</a>. All evil doers are banished from the holy city, not only to punish them for their evil, but to protect the city from their contamination. The firmness of God’s commitment to exclude evil from the final kingdom is a blessing and an encouragement to the saints.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "revelation,22,17" ],
+  "verses" : [ {
+    "verse" : "revelation,22,17",
+    "text" : "The Spirit and the bride say, \"Come!\" And let him who hears say, \"Come!\" Whoever is thirsty, let him come; and whoever wishes, let him take the free gift of the water of life."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "revelation,22,17",
     "id" : 199812,
@@ -110,7 +161,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rev 22:17\">22:17</a></b> <b>water of life.</b> See note on <a class=\"bibleref\" href=\"/passage/?search=Rev 22:1\">v. 1</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "revelation,22,18", "revelation,22,19" ],
+  "verses" : [ {
+    "verse" : "revelation,22,18",
+    "text" : "I warn everyone who hears the words of the prophecy of this book: If anyone adds anything to them, God will add to him the plagues described in this book."
+  }, {
+    "verse" : "revelation,22,19",
+    "text" : "And if anyone takes words away from this book of prophecy, God will take away from him his share in the tree of life and in the holy city, which are described in this book."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "revelation,22,18-revelation,22,19",
     "id" : 199813,
@@ -118,7 +175,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rev 22:18\">22:18</a>, <a class=\"bibleref\" href=\"/passage/?search=Rev 22:19\">19</a></b> This warning against adding or subtracting puts the Book of Revelation on the same level as Old Testament words of God (<a class=\"bibleref\" href=\"/passage/?search=Deut 4:2\">Deut. 4:2</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 12:32\">12:32</a>). The Word of God is to be protected from corruption, and distinguished from mere human words.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "revelation,22,20", "revelation,22,21" ],
+  "verses" : [ {
+    "verse" : "revelation,22,20",
+    "text" : "He who testifies to these things says, \"Yes, I am coming soon.\" Amen. Come, Lord Jesus."
+  }, {
+    "verse" : "revelation,22,21",
+    "text" : "The grace of the Lord Jesus be with God's people. Amen."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "revelation,22,20",
     "id" : 199814,

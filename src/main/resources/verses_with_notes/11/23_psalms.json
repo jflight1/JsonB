@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,119,33" ],
+  "verses" : [ {
+    "verse" : "psalms,119,33",
+    "text" : "Teach me, O LORD, to follow your decrees; then I will keep them to the end."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,119,1-psalms,119,176",
     "id" : 191337,
@@ -12,7 +15,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 119:33-Ps 119:40\">119:33–40</a></b> The psalmist beseeches the Lord for instruction in His law.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,119,34", "psalms,119,35" ],
+  "verses" : [ {
+    "verse" : "psalms,119,34",
+    "text" : "Give me understanding, and I will keep your law and obey it with all my heart."
+  }, {
+    "verse" : "psalms,119,35",
+    "text" : "Direct me in the path of your commands, for there I find delight."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,119,34",
     "id" : 191355,
@@ -20,7 +29,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 119:34\">119:34</a></b> <b>with my whole heart.</b> He resolves with his whole mind, strength, and will. The psalmist expresses his deep devotion to the Lord. He loves the Lord and wants to be obedient. Jesus told His disciples, “If you love me, you will keep my commandments” (<a class=\"bibleref\" href=\"/passage/?search=John 14:15\">John 14:15</a>). See theological note “Understanding the Word of God.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,119,36" ],
+  "verses" : [ {
+    "verse" : "psalms,119,36",
+    "text" : "Turn my heart toward your statutes and not toward selfish gain."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,119,36",
     "id" : 191356,
@@ -28,7 +40,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 119:36\">119:36</a></b> <b>Incline my heart.</b> He realizes that his love for the Lord has its source in God Himself.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,119,37" ],
+  "verses" : [ {
+    "verse" : "psalms,119,37",
+    "text" : "Turn my eyes away from worthless things; preserve my life according to your word."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,119,37",
     "id" : 191357,
@@ -36,7 +51,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 119:37\">119:37</a></b> <b>Turn my eyes from . . . worthless things.</b> Matching his positive desire to move closer to God’s law, there is a corresponding negative desire to turn away from worthless things, particularly idols. For the same word, see note <a class=\"bibleref\" href=\"/passage/?search=Ps 31:6\">Ps. 31:6</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,119,38", "psalms,119,39", "psalms,119,40" ],
+  "verses" : [ {
+    "verse" : "psalms,119,38",
+    "text" : "Fulfill your promise to your servant, so that you may be feared."
+  }, {
+    "verse" : "psalms,119,39",
+    "text" : "Take away the disgrace I dread, for your laws are good."
+  }, {
+    "verse" : "psalms,119,40",
+    "text" : "How I long for your precepts! Preserve my life in your righteousness."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,119,38",
     "id" : 191358,
@@ -44,7 +68,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 119:38\">119:38</a></b> <b>your promise.</b> Likely referring to God’s covenant promise of blessing.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,119,41", "psalms,119,42", "psalms,119,43", "psalms,119,44" ],
+  "verses" : [ {
+    "verse" : "psalms,119,41",
+    "text" : "May your unfailing love come to me, O LORD, your salvation according to your promise;"
+  }, {
+    "verse" : "psalms,119,42",
+    "text" : "then I will answer the one who taunts me, for I trust in your word."
+  }, {
+    "verse" : "psalms,119,43",
+    "text" : "Do not snatch the word of truth from my mouth, for I have put my hope in your laws."
+  }, {
+    "verse" : "psalms,119,44",
+    "text" : "I will always obey your law, for ever and ever."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,119,41",
     "id" : 191359,
@@ -52,7 +88,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 119:41\">119:41</a></b> <b>your steadfast love.</b> God’s love or devotion to those in covenant with Him.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,119,45", "psalms,119,46", "psalms,119,47", "psalms,119,48" ],
+  "verses" : [ {
+    "verse" : "psalms,119,45",
+    "text" : "I will walk about in freedom, for I have sought out your precepts."
+  }, {
+    "verse" : "psalms,119,46",
+    "text" : "I will speak of your statutes before kings and will not be put to shame,"
+  }, {
+    "verse" : "psalms,119,47",
+    "text" : "for I delight in your commands because I love them."
+  }, {
+    "verse" : "psalms,119,48",
+    "text" : "I lift up my hands to your commands, which I love, and I meditate on your decrees."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,119,45",
     "id" : 191360,

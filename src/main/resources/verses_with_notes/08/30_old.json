@@ -1,5 +1,32 @@
 [ {
-  "singleVerses" : [ "job,34,1", "job,34,2", "job,34,3", "job,34,4", "job,34,5", "job,34,6", "job,34,7", "job,34,8", "job,34,9" ],
+  "verses" : [ {
+    "verse" : "job,34,1",
+    "text" : "Then Elihu said:"
+  }, {
+    "verse" : "job,34,2",
+    "text" : "\"Hear my words, you wise men; listen to me, you men of learning."
+  }, {
+    "verse" : "job,34,3",
+    "text" : "For the ear tests words as the tongue tastes food."
+  }, {
+    "verse" : "job,34,4",
+    "text" : "Let us discern for ourselves what is right; let us learn together what is good."
+  }, {
+    "verse" : "job,34,5",
+    "text" : "\"Job says, 'I am innocent, but God denies me justice."
+  }, {
+    "verse" : "job,34,6",
+    "text" : "Although I am right, I am considered a liar; although I am guiltless, his arrow inflicts an incurable wound.'"
+  }, {
+    "verse" : "job,34,7",
+    "text" : "What man is like Job, who drinks scorn like water?"
+  }, {
+    "verse" : "job,34,8",
+    "text" : "He keeps company with evildoers; he associates with wicked men."
+  }, {
+    "verse" : "job,34,9",
+    "text" : "For he says, 'It profits a man nothing when he tries to please God.'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,32,1-job,37,24",
     "id" : 190140,
@@ -12,7 +39,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 34\">34:1–37</a></b> Following a pedantic introduction, Elihu quotes words from Job that are easy to refute (<a class=\"bibleref\" href=\"/passage/?search=Job 12:4\">12:4</a>; <a class=\"bibleref\" href=\"/passage/?search=Job 13:18\">13:18</a>; <a class=\"bibleref\" href=\"/passage/?search=Job 27:2\">27:2</a>, <a class=\"bibleref\" href=\"/passage/?search=Job 27:6\">6</a>). His thesis is that no one is really innocent, so God denies no one justice (<a class=\"bibleref\" href=\"/passage/?search=Job 27:5\">v. 5</a>). The bulk of this second speech is a defense of God’s goodness and justice (<a class=\"bibleref\" href=\"/passage/?search=Job 27:10-Job 27:23\">vv. 10–30</a>). Elihu closes with another condemnation of Job’s words and a call for repentance (vv. 31–37).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,34,10", "job,34,11", "job,34,12", "job,34,13" ],
+  "verses" : [ {
+    "verse" : "job,34,10",
+    "text" : "\"So listen to me, you men of understanding. Far be it from God to do evil, from the Almighty to do wrong."
+  }, {
+    "verse" : "job,34,11",
+    "text" : "He repays a man for what he has done; he brings upon him what his conduct deserves."
+  }, {
+    "verse" : "job,34,12",
+    "text" : "It is unthinkable that God would do wrong, that the Almighty would pervert justice."
+  }, {
+    "verse" : "job,34,13",
+    "text" : "Who appointed him over the earth? Who put him in charge of the whole world?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,34,10",
     "id" : 190148,
@@ -20,7 +59,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 34:10\">34:10</a></b> <b>far be it from God that he should do wickedness.</b> For the next twenty-one verses Elihu expounds this theme. In moments of extreme stress Job had said practically the opposite (<a class=\"bibleref\" href=\"/passage/?search=Job 10:3\">10:3</a>; <a class=\"bibleref\" href=\"/passage/?search=Job 12:4-Job 12:6\">12:4–6</a>; <a class=\"bibleref\" href=\"/passage/?search=Job 21:7\">21:7</a>,<a class=\"bibleref\" href=\"/passage/?search=Job 21:8\">8</a>; <a class=\"bibleref\" href=\"/passage/?search=Job 24:1-Job 24:12\">24:1–12</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,34,14", "job,34,15" ],
+  "verses" : [ {
+    "verse" : "job,34,14",
+    "text" : "If it were his intention and he withdrew his spirit and breath,"
+  }, {
+    "verse" : "job,34,15",
+    "text" : "all mankind would perish together and man would return to the dust."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,34,14-job,34,15",
     "id" : 190149,
@@ -28,7 +73,52 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 34:14\">34:14</a>, <a class=\"bibleref\" href=\"/passage/?search=Job 34:15\">15</a></b> Elihu is right: God’s continual common grace is necessary for any of His creatures to continue its existence.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,34,16", "job,34,17", "job,34,18", "job,34,19", "job,34,20", "job,34,21", "job,34,22", "job,34,23", "job,34,24", "job,34,25", "job,34,26", "job,34,27", "job,34,28", "job,34,29", "job,34,30" ],
+  "verses" : [ {
+    "verse" : "job,34,16",
+    "text" : "\"If you have understanding, hear this; listen to what I say."
+  }, {
+    "verse" : "job,34,17",
+    "text" : "Can he who hates justice govern? Will you condemn the just and mighty One?"
+  }, {
+    "verse" : "job,34,18",
+    "text" : "Is he not the One who says to kings, 'You are worthless,' and to nobles, 'You are wicked,'"
+  }, {
+    "verse" : "job,34,19",
+    "text" : "who shows no partiality to princes and does not favor the rich over the poor, for they are all the work of his hands?"
+  }, {
+    "verse" : "job,34,20",
+    "text" : "They die in an instant, in the middle of the night; the people are shaken and they pass away; the mighty are removed without human hand."
+  }, {
+    "verse" : "job,34,21",
+    "text" : "\"His eyes are on the ways of men; he sees their every step."
+  }, {
+    "verse" : "job,34,22",
+    "text" : "There is no dark place, no deep shadow, where evildoers can hide."
+  }, {
+    "verse" : "job,34,23",
+    "text" : "God has no need to examine men further, that they should come before him for judgment."
+  }, {
+    "verse" : "job,34,24",
+    "text" : "Without inquiry he shatters the mighty and sets up others in their place."
+  }, {
+    "verse" : "job,34,25",
+    "text" : "Because he takes note of their deeds, he overthrows them in the night and they are crushed."
+  }, {
+    "verse" : "job,34,26",
+    "text" : "He punishes them for their wickedness where everyone can see them,"
+  }, {
+    "verse" : "job,34,27",
+    "text" : "because they turned from following him and had no regard for any of his ways."
+  }, {
+    "verse" : "job,34,28",
+    "text" : "They caused the cry of the poor to come before him, so that he heard the cry of the needy."
+  }, {
+    "verse" : "job,34,29",
+    "text" : "But if he remains silent, who can condemn him? If he hides his face, who can see him? Yet he is over man and nation alike,"
+  }, {
+    "verse" : "job,34,30",
+    "text" : "to keep a godless man from ruling, from laying snares for the people."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,34,16-job,34,20",
     "id" : 190150,
@@ -36,7 +126,34 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 34:16-Job 34:20\">34:16–20</a></b> Job had asked why the innocent do not see God’s judgment of the wicked (<a class=\"bibleref\" href=\"/passage/?search=Job 24:1\">24:1</a>). Elihu’s answer is that God is judging them all the time, though it is not always evident.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,34,31", "job,34,32", "job,34,33", "job,34,34", "job,34,35", "job,34,36", "job,34,37", "job,35,1", "job,35,2" ],
+  "verses" : [ {
+    "verse" : "job,34,31",
+    "text" : "\"Suppose a man says to God, 'I am guilty but will offend no more."
+  }, {
+    "verse" : "job,34,32",
+    "text" : "Teach me what I cannot see; if I have done wrong, I will not do so again.'"
+  }, {
+    "verse" : "job,34,33",
+    "text" : "Should God then reward you on your terms, when you refuse to repent? You must decide, not I; so tell me what you know."
+  }, {
+    "verse" : "job,34,34",
+    "text" : "\"Men of understanding declare, wise men who hear me say to me,"
+  }, {
+    "verse" : "job,34,35",
+    "text" : "'Job speaks without knowledge; his words lack insight.'"
+  }, {
+    "verse" : "job,34,36",
+    "text" : "Oh, that Job might be tested to the utmost for answering like a wicked man!"
+  }, {
+    "verse" : "job,34,37",
+    "text" : "To his sin he adds rebellion; scornfully he claps his hands among us and multiplies his words against God.\""
+  }, {
+    "verse" : "job,35,1",
+    "text" : "Then Elihu said:"
+  }, {
+    "verse" : "job,35,2",
+    "text" : "\"Do you think this is just? You say, 'I will be cleared by God. '"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,34,31",
     "id" : 190151,
@@ -44,7 +161,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 34:31\">34:31</a></b> The Hebrew text of <a class=\"bibleref\" href=\"/passage/?search=Job 34:31-Job 34:33\">vv. 31–33</a> is difficult to understand.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,35,3", "job,35,4", "job,35,5" ],
+  "verses" : [ {
+    "verse" : "job,35,3",
+    "text" : "Yet you ask him, 'What profit is it to me, and what do I gain by not sinning?'"
+  }, {
+    "verse" : "job,35,4",
+    "text" : "\"I would like to reply to you and to your friends with you."
+  }, {
+    "verse" : "job,35,5",
+    "text" : "Look up at the heavens and see; gaze at the clouds so high above you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,35,3",
     "id" : 190152,
@@ -52,7 +178,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 35:3\">35:3</a></b> This question resembles Eliphaz’s words in <a class=\"bibleref\" href=\"/passage/?search=Job 22:3\">22:3</a>, but may be extrapolated from Job’s words in <a class=\"bibleref\" href=\"/passage/?search=Job 9:14-Job 9:31\">9:14–31</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,35,6", "job,35,7", "job,35,8" ],
+  "verses" : [ {
+    "verse" : "job,35,6",
+    "text" : "If you sin, how does that affect him? If your sins are many, what does that do to him?"
+  }, {
+    "verse" : "job,35,7",
+    "text" : "If you are righteous, what do you give to him, or what does he receive from your hand?"
+  }, {
+    "verse" : "job,35,8",
+    "text" : "Your wickedness affects only a man like yourself, and your righteousness only the sons of men."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,35,6-job,35,7",
     "id" : 190153,
@@ -60,7 +195,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 35:6\">35:6</a>, <a class=\"bibleref\" href=\"/passage/?search=Job 35:7\">7</a></b> Elihu does not say that God is beyond good and evil, but that God is not within the power of the creature. See <a class=\"bibleref\" href=\"/passage/?search=Rom 11:34\">Rom. 11:34</a>, <a class=\"bibleref\" href=\"/passage/?search=Rom 11:35\">35</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,35,9", "job,35,10", "job,35,11", "job,35,12", "job,35,13" ],
+  "verses" : [ {
+    "verse" : "job,35,9",
+    "text" : "\"Men cry out under a load of oppression; they plead for relief from the arm of the powerful."
+  }, {
+    "verse" : "job,35,10",
+    "text" : "But no one says, 'Where is God my Maker, who gives songs in the night,"
+  }, {
+    "verse" : "job,35,11",
+    "text" : "who teaches more to us than to the beasts of the earth and makes us wiser than the birds of the air?'"
+  }, {
+    "verse" : "job,35,12",
+    "text" : "He does not answer when men cry out because of the arrogance of the wicked."
+  }, {
+    "verse" : "job,35,13",
+    "text" : "Indeed, God does not listen to their empty plea; the Almighty pays no attention to it."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,35,9-job,35,13",
     "id" : 190154,
@@ -68,7 +218,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 35:9-Job 35:13\">35:9–13</a></b> Job had complained in <a class=\"bibleref\" href=\"/passage/?search=Job 23\">ch. 23</a> that God was indifferent to his condition. Elihu counters with some good advice (especially vv. 9–11). But some of it does not apply to Job (v. 12).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,35,14", "job,35,15", "job,35,16" ],
+  "verses" : [ {
+    "verse" : "job,35,14",
+    "text" : "How much less, then, will he listen when you say that you do not see him, that your case is before him and you must wait for him,"
+  }, {
+    "verse" : "job,35,15",
+    "text" : "and further, that his anger never punishes and he does not take the least notice of wickedness."
+  }, {
+    "verse" : "job,35,16",
+    "text" : "So Job opens his mouth with empty talk; without knowledge he multiplies words.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,35,14-job,35,16",
     "id" : 190155,
@@ -76,7 +235,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 35:14-Job 35:16\">35:14–16</a></b> Elihu criticizes what Job has said and its effect on his relation to God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,36,1", "job,36,2", "job,36,3", "job,36,4" ],
+  "verses" : [ {
+    "verse" : "job,36,1",
+    "text" : "Elihu continued:"
+  }, {
+    "verse" : "job,36,2",
+    "text" : "\"Bear with me a little longer and I will show you that there is more to be said in God's behalf."
+  }, {
+    "verse" : "job,36,3",
+    "text" : "I get my knowledge from afar; I will ascribe justice to my Maker."
+  }, {
+    "verse" : "job,36,4",
+    "text" : "Be assured that my words are not false; one perfect in knowledge is with you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,36,1-job,37,24",
     "id" : 190156,
@@ -89,7 +260,40 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 36:1-Job 36:4\">36:1–4</a></b> Elihu opens the speech with an apology in which he reasserts his credentials.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,36,5", "job,36,6", "job,36,7", "job,36,8", "job,36,9", "job,36,10", "job,36,11", "job,36,12", "job,36,13", "job,36,14", "job,36,15" ],
+  "verses" : [ {
+    "verse" : "job,36,5",
+    "text" : "\"God is mighty, but does not despise men; he is mighty, and firm in his purpose."
+  }, {
+    "verse" : "job,36,6",
+    "text" : "He does not keep the wicked alive but gives the afflicted their rights."
+  }, {
+    "verse" : "job,36,7",
+    "text" : "He does not take his eyes off the righteous; he enthrones them with kings and exalts them forever."
+  }, {
+    "verse" : "job,36,8",
+    "text" : "But if men are bound in chains, held fast by cords of affliction,"
+  }, {
+    "verse" : "job,36,9",
+    "text" : "he tells them what they have done- that they have sinned arrogantly."
+  }, {
+    "verse" : "job,36,10",
+    "text" : "He makes them listen to correction and commands them to repent of their evil."
+  }, {
+    "verse" : "job,36,11",
+    "text" : "If they obey and serve him, they will spend the rest of their days in prosperity and their years in contentment."
+  }, {
+    "verse" : "job,36,12",
+    "text" : "But if they do not listen, they will perish by the sword and die without knowledge."
+  }, {
+    "verse" : "job,36,13",
+    "text" : "\"The godless in heart harbor resentment; even when he fetters them, they do not cry for help."
+  }, {
+    "verse" : "job,36,14",
+    "text" : "They die in their youth, among male prostitutes of the shrines."
+  }, {
+    "verse" : "job,36,15",
+    "text" : "But those who suffer he delivers in their suffering; he speaks to them in their affliction."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,36,5-job,36,15",
     "id" : 190158,
@@ -97,7 +301,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 36:5-Job 36:15\">36:5–15</a></b> Elihu struggles with Job’s complaint about the wicked who prosper and the righteous who suffer (<a class=\"bibleref\" href=\"/passage/?search=Job 36:6\">v. 6</a>). With this in mind he dwells on God’s power, goodness, justice, and mercy. But all this is in the context of the view of suffering where suffering is always in direct proportion to sins and righteousness is always blessed. Only the last judgment will reveal this; compare <a class=\"bibleref\" href=\"/passage/?search=John 9:2\">John 9:2</a>, <a class=\"bibleref\" href=\"/passage/?search=John 9:3\">3</a> with <a class=\"bibleref\" href=\"/passage/?search=Rom 2:6\">Rom. 2:6</a>; <a class=\"bibleref\" href=\"/passage/?search=2Cor 5:10\">2 Cor. 5:10</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,36,16", "job,36,17", "job,36,18", "job,36,19", "job,36,20", "job,36,21" ],
+  "verses" : [ {
+    "verse" : "job,36,16",
+    "text" : "\"He is wooing you from the jaws of distress to a spacious place free from restriction, to the comfort of your table laden with choice food."
+  }, {
+    "verse" : "job,36,17",
+    "text" : "But now you are laden with the judgment due the wicked; judgment and justice have taken hold of you."
+  }, {
+    "verse" : "job,36,18",
+    "text" : "Be careful that no one entices you by riches; do not let a large bribe turn you aside."
+  }, {
+    "verse" : "job,36,19",
+    "text" : "Would your wealth or even all your mighty efforts sustain you so you would not be in distress?"
+  }, {
+    "verse" : "job,36,20",
+    "text" : "Do not long for the night, to drag people away from their homes."
+  }, {
+    "verse" : "job,36,21",
+    "text" : "Beware of turning to evil, which you seem to prefer to affliction."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,36,16-job,36,21",
     "id" : 190159,
@@ -105,7 +327,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 36:16-Job 36:21\">36:16–21</a></b> Elihu assures Job of God’s good purpose in his suffering and sternly admonishes him to receive His divine discipline with its promise of deliverance from distress.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,36,22", "job,36,23", "job,36,24", "job,36,25", "job,36,26" ],
+  "verses" : [ {
+    "verse" : "job,36,22",
+    "text" : "\"God is exalted in his power. Who is a teacher like him?"
+  }, {
+    "verse" : "job,36,23",
+    "text" : "Who has prescribed his ways for him, or said to him, 'You have done wrong'?"
+  }, {
+    "verse" : "job,36,24",
+    "text" : "Remember to extol his work, which men have praised in song."
+  }, {
+    "verse" : "job,36,25",
+    "text" : "All mankind has seen it; men gaze on it from afar."
+  }, {
+    "verse" : "job,36,26",
+    "text" : "How great is God-beyond our understanding! The number of his years is past finding out."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,36,22-job,36,26",
     "id" : 190160,
@@ -113,7 +350,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 36:22-Job 36:26\">36:22–26</a></b> Elihu now returns to his opening thesis (<a class=\"bibleref\" href=\"/passage/?search=Job 36:5\">v. 5</a>) concerning the sovereignty of God, whose purpose is always good.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,36,27", "job,36,28", "job,36,29", "job,36,30", "job,36,31", "job,36,32", "job,36,33" ],
+  "verses" : [ {
+    "verse" : "job,36,27",
+    "text" : "\"He draws up the drops of water, which distill as rain to the streams;"
+  }, {
+    "verse" : "job,36,28",
+    "text" : "the clouds pour down their moisture and abundant showers fall on mankind."
+  }, {
+    "verse" : "job,36,29",
+    "text" : "Who can understand how he spreads out the clouds, how he thunders from his pavilion?"
+  }, {
+    "verse" : "job,36,30",
+    "text" : "See how he scatters his lightning about him, bathing the depths of the sea."
+  }, {
+    "verse" : "job,36,31",
+    "text" : "This is the way he governs the nations and provides food in abundance."
+  }, {
+    "verse" : "job,36,32",
+    "text" : "He fills his hands with lightning and commands it to strike its mark."
+  }, {
+    "verse" : "job,36,33",
+    "text" : "His thunder announces the coming storm; even the cattle make known its approach."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,36,27-job,37,13",
     "id" : 190161,

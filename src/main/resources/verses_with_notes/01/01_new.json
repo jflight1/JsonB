@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "matthew,1,1" ],
+  "verses" : [ {
+    "verse" : "matthew,1,1",
+    "text" : "A record of the genealogy of Jesus Christ the son of David, the son of Abraham:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,1,1",
     "id" : 195608,
@@ -7,7 +10,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 1:1\">1:1</a></b> <b>book of the genealogy.</b> The same phrase is used at <a class=\"bibleref\" href=\"/passage/?search=Gen 2:4\">Gen. 2:4</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 5:1\">5:1</a> in the Septuagint, the Greek translation of the Old Testament in common use following 150 <span class=\"small-caps\">b.c.</span> Here it may refer not only to the genealogy immediately following, but to the account of Jesus’ birth or the Gospel as a whole also.</p><p><b>Christ.</b> This title comes from the Greek word <i>Christos,</i> meaning “anointed.” “Messiah” represents the Hebrew word for “anointed”; see note <a class=\"bibleref\" href=\"/passage/?search=1Sam 2:10\">1 Sam. 2:10</a>. In the Old Testament, anointing with oil could be performed for the office of prophet, priest, or king (<a class=\"bibleref\" href=\"/passage/?search=Exod 29:7\">Ex. 29:7</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 16:13\">1 Sam. 16:13</a>; <a class=\"bibleref\" href=\"/passage/?search=1Kgs 19:16\">1 Kin. 19:16</a>). The Old Testament promises the coming of the righteous Servant of the Lord (<a class=\"bibleref\" href=\"/passage/?search=Isa 42:1-Isa 42:9\">Is. 42:1–9</a>), who will be a prophet like Moses (<a class=\"bibleref\" href=\"/passage/?search=Deut 18:18\">Deut. 18:18</a>, <a class=\"bibleref\" href=\"/passage/?search=Deut 18:19\">19</a>), a priest like Melchizedek (<a class=\"bibleref\" href=\"/passage/?search=Ps 110:4\">Ps. 110:4</a>), and a king like David, the Lord’s anointed (<a class=\"bibleref\" href=\"/passage/?search=Isa 55:3-Isa 55:5\">Is. 55:3–5</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 30:9\">Jer. 30:9</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 34:24\">Ezek. 34:24</a>; <a class=\"bibleref\" href=\"/passage/?search=Hos 3:5\">Hos. 3:5</a>; <a class=\"bibleref\" href=\"/passage/?search=Zech 12:8\">Zech. 12:8</a>). Matthew reveals that Jesus is the Christ, the promised King and Deliverer.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,1,2" ],
+  "verses" : [ {
+    "verse" : "matthew,1,2",
+    "text" : "Abraham was the father of Isaac, Isaac the father of Jacob, Jacob the father of Judah and his brothers,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,1,2",
     "id" : 195609,
@@ -15,7 +21,49 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 1:2\">1:2</a></b> The specifics of this genealogy differ from the one found in Luke; see note <a class=\"bibleref\" href=\"/passage/?search=Luke 3:23-Luke 3:38\">Luke 3:23–38</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,1,3", "matthew,1,4", "matthew,1,5", "matthew,1,6", "matthew,1,7", "matthew,1,8", "matthew,1,9", "matthew,1,10", "matthew,1,11", "matthew,1,12", "matthew,1,13", "matthew,1,14", "matthew,1,15", "matthew,1,16" ],
+  "verses" : [ {
+    "verse" : "matthew,1,3",
+    "text" : "Judah the father of Perez and Zerah, whose mother was Tamar, Perez the father of Hezron, Hezron the father of Ram,"
+  }, {
+    "verse" : "matthew,1,4",
+    "text" : "Ram the father of Amminadab, Amminadab the father of Nahshon, Nahshon the father of Salmon,"
+  }, {
+    "verse" : "matthew,1,5",
+    "text" : "Salmon the father of Boaz, whose mother was Rahab, Boaz the father of Obed, whose mother was Ruth, Obed the father of Jesse,"
+  }, {
+    "verse" : "matthew,1,6",
+    "text" : "and Jesse the father of King David. David was the father of Solomon, whose mother had been Uriah's wife,"
+  }, {
+    "verse" : "matthew,1,7",
+    "text" : "Solomon the father of Rehoboam, Rehoboam the father of Abijah, Abijah the father of Asa,"
+  }, {
+    "verse" : "matthew,1,8",
+    "text" : "Asa the father of Jehoshaphat, Jehoshaphat the father of Jehoram, Jehoram the father of Uzziah,"
+  }, {
+    "verse" : "matthew,1,9",
+    "text" : "Uzziah the father of Jotham, Jotham the father of Ahaz, Ahaz the father of Hezekiah,"
+  }, {
+    "verse" : "matthew,1,10",
+    "text" : "Hezekiah the father of Manasseh, Manasseh the father of Amon, Amon the father of Josiah,"
+  }, {
+    "verse" : "matthew,1,11",
+    "text" : "and Josiah the father of Jeconiah and his brothers at the time of the exile to Babylon."
+  }, {
+    "verse" : "matthew,1,12",
+    "text" : "After the exile to Babylon: Jeconiah was the father of Shealtiel, Shealtiel the father of Zerubbabel,"
+  }, {
+    "verse" : "matthew,1,13",
+    "text" : "Zerubbabel the father of Abiud, Abiud the father of Eliakim, Eliakim the father of Azor,"
+  }, {
+    "verse" : "matthew,1,14",
+    "text" : "Azor the father of Zadok, Zadok the father of Akim, Akim the father of Eliud,"
+  }, {
+    "verse" : "matthew,1,15",
+    "text" : "Eliud the father of Eleazar, Eleazar the father of Matthan, Matthan the father of Jacob,"
+  }, {
+    "verse" : "matthew,1,16",
+    "text" : "and Jacob the father of Joseph, the husband of Mary, of whom was born Jesus, who is called Christ."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,1,3-matthew,1,16",
     "id" : 195610,
@@ -23,7 +71,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 1:3-Matt 1:16\">1:3–16</a></b> Women are not usually named in Near Eastern genealogies, but they are intrinsic to God’s purpose in sending Christ. The five women named in Jesus’ genealogy all remind us that God often does the unexpected and chooses the unlikely. Tamar (<a class=\"bibleref\" href=\"/passage/?search=Matt 1:3\">v. 3</a>) reminds us of Judah’s failures (<a class=\"bibleref\" href=\"/passage/?search=Gen 38:6-Gen 38:30\">Gen. 38:6–30</a>); Rahab (v. 5) was a harlot (<a class=\"bibleref\" href=\"/passage/?search=Josh 2\">Josh. 2</a>); Ruth was a Moabite (<a class=\"bibleref\" href=\"/passage/?search=Ruth 1:4\">Ruth 1:4</a>) and thus subject to a special curse (<a class=\"bibleref\" href=\"/passage/?search=Deut 23:3-Deut 23:5\">Deut. 23:3–5</a>); Uriah’s wife Bathsheba (v. 6) was David’s downfall (<a class=\"bibleref\" href=\"/passage/?search=2Sam 11\">2 Sam. 11</a>). Mary fulfills <a class=\"bibleref\" href=\"/passage/?search=Isa 7:14\">Is. 7:14</a> (v. 23), and the even more important promise of <a class=\"bibleref\" href=\"/passage/?search=Gen 3:15\">Gen. 3:15</a> (<a class=\"bibleref\" href=\"/passage/?search=Gal 4:4\">Gal. 4:4</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,1,17", "matthew,1,18" ],
+  "verses" : [ {
+    "verse" : "matthew,1,17",
+    "text" : "Thus there were fourteen generations in all from Abraham to David, fourteen from David to the exile to Babylon, and fourteen from the exile to the Christ."
+  }, {
+    "verse" : "matthew,1,18",
+    "text" : "This is how the birth of Jesus Christ came about: His mother Mary was pledged to be married to Joseph, but before they came together, she was found to be with child through the Holy Spirit."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,1,17",
     "id" : 195611,
@@ -31,7 +85,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 1:17\">1:17</a></b> <b>fourteen generations.</b> Matthew organizes the genealogy into three groups of fourteen to show that God has a purpose in history. The early history leading to David, the monarchy leading to the Exile in Babylon, and the history of Israel after the Exile all lead up to, and point to Christ. Jechoniah (Jehoiachin) is included in both the second and third groups of fourteen; this enumeration is in keeping with Matthew’s abbreviation of the genealogy (<a class=\"bibleref\" href=\"/passage/?search=Matt 1:5\">v. 5</a> cf. <a class=\"bibleref\" href=\"/passage/?search=Josh 2:8\">Josh. 2; v. 8</a> cf. <a class=\"bibleref\" href=\"/passage/?search=2Chr 21:4-2Chr 26:13\">2 Chr. 21:4–26:13</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,1,19", "matthew,1,20" ],
+  "verses" : [ {
+    "verse" : "matthew,1,19",
+    "text" : "Because Joseph her husband was a righteous man and did not want to expose her to public disgrace, he had in mind to divorce her quietly."
+  }, {
+    "verse" : "matthew,1,20",
+    "text" : "But after he had considered this, an angel of the Lord appeared to him in a dream and said, \"Joseph son of David, do not be afraid to take Mary home as your wife, because what is conceived in her is from the Holy Spirit."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,1,19",
     "id" : 195612,
@@ -39,7 +99,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 1:19\">1:19</a></b> <b>Joseph . . . resolved to divorce her quietly.</b> Engagement was almost as binding as marriage, and infidelity during betrothal made divorce almost obligatory.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,1,21", "matthew,1,22" ],
+  "verses" : [ {
+    "verse" : "matthew,1,21",
+    "text" : "She will give birth to a son, and you are to give him the name Jesus, because he will save his people from their sins.\""
+  }, {
+    "verse" : "matthew,1,22",
+    "text" : "All this took place to fulfill what the Lord had said through the prophet:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,1,21",
     "id" : 195613,
@@ -47,7 +113,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 1:21\">1:21</a></b> <b>Jesus.</b> The Greek equivalent of “Joshua,” meaning “Yahweh is salvation,” or “Yahweh saves.” Often in names only the first syllable of God’s name is used (e.g., Eli<i>jah;</i> Isa<i>iah; Jo</i>shua).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,1,23", "matthew,1,24", "matthew,1,25" ],
+  "verses" : [ {
+    "verse" : "matthew,1,23",
+    "text" : "\"The virgin will be with child and will give birth to a son, and they will call him Immanuel\"--which means, \"God with us.\""
+  }, {
+    "verse" : "matthew,1,24",
+    "text" : "When Joseph woke up, he did what the angel of the Lord had commanded him and took Mary home as his wife."
+  }, {
+    "verse" : "matthew,1,25",
+    "text" : "But he had no union with her until she gave birth to a son. And he gave him the name Jesus."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,1,23",
     "id" : 195614,
@@ -55,7 +130,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 1:23\">1:23</a></b> <b>virgin.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Isa 7:14\">Is. 7:14</a>. Jesus’ conception by a virgin is miraculous, announcing that God will soon redeem His people and is present with them. This quotation is the first of a number of Old Testament references Matthew uses to show that Jesus fulfills the Old Testament (2:6, 15, 18, 23 and notes). In the entire Gospel there are twelve such fulfillment formulas, and more than fifty Old Testament quotations. See “The Virgin Birth of Jesus” at <a class=\"bibleref\" href=\"/passage/?search=Luke 1:27\">Luke 1:27</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,2,1" ],
+  "verses" : [ {
+    "verse" : "matthew,2,1",
+    "text" : "After Jesus was born in Bethlehem in Judea, during the time of King Herod, Magi from the east came to Jerusalem"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,2,1",
     "id" : 195615,
@@ -63,7 +141,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 2:1\">2:1</a></b> <b>in the days of Herod the king.</b> Herod the Great is known to have died in 4 <span class=\"small-caps\">b.c.</span> Therefore Jesus was actually born in about 5 or 6 <span class=\"small-caps\">b.c.</span> according to the standard dating of the Gregorian calendar.</p><p><b>wise men.</b> The “Magi” were not kings, but priests or court advisers, such as Joseph or Daniel. They were probably from Mesopotamia, the region of ancient Babylon, although other locations east of Palestine have been suggested. There are numerous accounts of ancient astrologers interpreting astronomical phenomena as heralding the birth of kings.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,2,2", "matthew,2,3", "matthew,2,4", "matthew,2,5" ],
+  "verses" : [ {
+    "verse" : "matthew,2,2",
+    "text" : "and asked, \"Where is the one who has been born king of the Jews? We saw his star in the east and have come to worship him.\""
+  }, {
+    "verse" : "matthew,2,3",
+    "text" : "When King Herod heard this he was disturbed, and all Jerusalem with him."
+  }, {
+    "verse" : "matthew,2,4",
+    "text" : "When he had called together all the people's chief priests and teachers of the law, he asked them where the Christ was to be born."
+  }, {
+    "verse" : "matthew,2,5",
+    "text" : "\"In Bethlehem in Judea,\" they replied, \"for this is what the prophet has written:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,2,2",
     "id" : 195616,
@@ -71,7 +161,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 2:2\">2:2</a></b> <b>star.</b> This may have been a planetary conjunction, a supernova, or something purely supernatural. Whatever the case, it alludes to the star of Jacob (<a class=\"bibleref\" href=\"/passage/?search=Num 24:17\">Num. 24:17</a>), which was prophesied by another Gentile, Balaam.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,2,6", "matthew,2,7", "matthew,2,8", "matthew,2,9", "matthew,2,10" ],
+  "verses" : [ {
+    "verse" : "matthew,2,6",
+    "text" : "\"'But you, Bethlehem, in the land of Judah, are by no means least among the rulers of Judah; for out of you will come a ruler who will be the shepherd of my people Israel.'\""
+  }, {
+    "verse" : "matthew,2,7",
+    "text" : "Then Herod called the Magi secretly and found out from them the exact time the star had appeared."
+  }, {
+    "verse" : "matthew,2,8",
+    "text" : "He sent them to Bethlehem and said, \"Go and make a careful search for the child. As soon as you find him, report to me, so that I too may go and worship him.\""
+  }, {
+    "verse" : "matthew,2,9",
+    "text" : "After they had heard the king, they went on their way, and the star they had seen in the east went ahead of them until it stopped over the place where the child was."
+  }, {
+    "verse" : "matthew,2,10",
+    "text" : "When they saw the star, they were overjoyed."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,2,6",
     "id" : 195617,
@@ -79,7 +184,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 2:6\">2:6</a></b> The second line of the quotation in Matthew appears to say the opposite of the second line of <a class=\"bibleref\" href=\"/passage/?search=Mic 5:2\">Mic. 5:2</a> (“too little”), but the sense is that though Bethlehem appears to be insignificant, it is in truth important. The religious experts concluded from the prophets that the Messiah was to be born in Bethlehem, but not one of them bothered to make the short journey with the wise men to see Christ.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,2,11", "matthew,2,12" ],
+  "verses" : [ {
+    "verse" : "matthew,2,11",
+    "text" : "On coming to the house, they saw the child with his mother Mary, and they bowed down and worshiped him. Then they opened their treasures and presented him with gifts of gold and of incense and of myrrh."
+  }, {
+    "verse" : "matthew,2,12",
+    "text" : "And having been warned in a dream not to go back to Herod, they returned to their country by another route."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,2,11",
     "id" : 195618,

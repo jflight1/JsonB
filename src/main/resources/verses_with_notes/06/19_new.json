@@ -1,8 +1,14 @@
 [ {
-  "singleVerses" : [ "acts,12,24" ],
+  "verses" : [ {
+    "verse" : "acts,12,24",
+    "text" : "But the word of God continued to increase and spread."
+  } ],
   "rsbNotes" : [ ]
 }, {
-  "singleVerses" : [ "acts,12,25" ],
+  "verses" : [ {
+    "verse" : "acts,12,25",
+    "text" : "When Barnabas and Saul had finished their mission, they returned from Jerusalem, taking with them John, also called Mark."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,12,25",
     "id" : 197507,
@@ -10,7 +16,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 12:25\">12:25</a></b> <b>Barnabas and Saul . . . had completed their service.</b> This was the mission of bringing the Antioch famine relief gift to Jerusalem (<a class=\"bibleref\" href=\"/passage/?search=Acts 11:27-Acts 11:30\">11:27–30</a>).</p><p><b>John . . . Mark.</b> Possibly the young man who fled the night of Jesus’ arrest (<a class=\"bibleref\" href=\"/passage/?search=Mark 14:51\">Mark 14:51</a>, <a class=\"bibleref\" href=\"/passage/?search=Mark 14:52\">52</a>). Mark, the writer of the second Gospel (cf. <a class=\"bibleref\" href=\"/passage/?search=1Pet 5:13\">1 Pet. 5:13</a>), accompanied Paul and Barnabas down to Antioch and went with them on the first missionary journey (13:4) as far as Perga in Pamphylia (13:13).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,13,1", "acts,13,2" ],
+  "verses" : [ {
+    "verse" : "acts,13,1",
+    "text" : "In the church at Antioch there were prophets and teachers: Barnabas, Simeon called Niger, Lucius of Cyrene, Manaen (who had been brought up with Herod the tetrarch) and Saul."
+  }, {
+    "verse" : "acts,13,2",
+    "text" : "While they were worshiping the Lord and fasting, the Holy Spirit said, \"Set apart for me Barnabas and Saul for the work to which I have called them.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,13,1",
     "id" : 197508,
@@ -18,7 +30,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 13:1\">13:1</a></b> <b>Barnabas.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Acts 4:36\">4:36</a>.</p><p><b>Simeon . . . called Niger.</b> His second name means “black” in Latin and he may have come from Africa. He may be the same as Simon of Cyrene (<a class=\"bibleref\" href=\"/passage/?search=Luke 23:26\">Luke 23:26</a>) whose sons, Alexander and Rufus, were among the Christians at Rome (<a class=\"bibleref\" href=\"/passage/?search=Mark 15:21\">Mark 15:21</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Rom 16:13\">Rom. 16:13</a>).</p><p><b>Lucius of Cyrene.</b> Cyrene was the capital of the Roman province of Cyrenaica (in modern Libya).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,13,3" ],
+  "verses" : [ {
+    "verse" : "acts,13,3",
+    "text" : "So after they had fasted and prayed, they placed their hands on them and sent them off."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,13,3",
     "id" : 197509,
@@ -26,7 +41,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 13:3\">13:3</a></b> <b>laid their hands on them.</b> They officially placed their hands on Barnabas and Saul in recognition of what the Holy Spirit had already done (<a class=\"bibleref\" href=\"/passage/?search=Acts 13:2\">v. 2</a>) and what He was going to do in sending them out (<a class=\"bibleref\" href=\"/passage/?search=Acts 13:4\">v. 4</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Acts 14:23\">14:23</a>; <a class=\"bibleref\" href=\"/passage/?search=1Tim 4:14\">1 Tim. 4:14</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,13,4" ],
+  "verses" : [ {
+    "verse" : "acts,13,4",
+    "text" : "The two of them, sent on their way by the Holy Spirit, went down to Seleucia and sailed from there to Cyprus."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,13,4",
     "id" : 197510,
@@ -34,7 +52,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 13:4\">13:4</a></b> <b>Seleucia.</b> The port of Antioch, sixteen miles west of Antioch.</p><p><b>Cyprus.</b> An island in the Eastern Mediterranean, inhabited largely by Greeks but also by many Jews.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,13,5" ],
+  "verses" : [ {
+    "verse" : "acts,13,5",
+    "text" : "When they arrived at Salamis, they proclaimed the word of God in the Jewish synagogues. John was with them as their helper."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,13,5",
     "id" : 197511,
@@ -42,7 +63,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 13:5\">13:5</a></b> <b>arrived at Salamis.</b> They sailed directly west about 130 miles from Seleucia to the east coast of Cyprus. Salamis was the most important city on the island; the provincial capital was Paphos, ninety miles southwest.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,13,6" ],
+  "verses" : [ {
+    "verse" : "acts,13,6",
+    "text" : "They traveled through the whole island until they came to Paphos. There they met a Jewish sorcerer and false prophet named Bar-Jesus,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,13,6",
     "id" : 197512,
@@ -50,7 +74,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 13:6\">13:6 a</a></b> <b>certain magician.</b> The Greek <i>magos</i> means “wise man” (<a class=\"bibleref\" href=\"/passage/?search=Matt 2:1\">Matt. 2:1</a>), “sorcerer,” “magician.” Sorcery was forbidden in Judaism, but was not unknown. Bar-Jesus (“son of Joshua”) was indeed a false prophet.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,13,7" ],
+  "verses" : [ {
+    "verse" : "acts,13,7",
+    "text" : "who was an attendant of the proconsul, Sergius Paulus. The proconsul, an intelligent man, sent for Barnabas and Saul because he wanted to hear the word of God."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,13,7",
     "id" : 197513,
@@ -58,7 +85,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 13:7\">13:7</a></b> <b>Sergius Paulus.</b> Possibly Lucius Sergius Paulus, who had been an official in the reign of Claudius and then became proconsul (the chief officer in a senatorial province) at Paphos in Cyprus (cf. <a class=\"bibleref\" href=\"/passage/?search=Acts 18:12\">18:12</a>; <a class=\"bibleref\" href=\"/passage/?search=2Cor 9:2\">2 Cor. 9:2</a>). By contrast, Palestine was an imperial province and had a procurator responsible directly to the emperor.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,13,8" ],
+  "verses" : [ {
+    "verse" : "acts,13,8",
+    "text" : "But Elymas the sorcerer (for that is what his name means) opposed them and tried to turn the proconsul from the faith."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,13,8",
     "id" : 197514,
@@ -66,7 +96,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 13:8\">13:8</a></b> <b>Elymas.</b> Another name for Bar-Jesus. This man was in the proconsul’s court; he tried to keep Paulus from believing the Christian message.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,13,9", "acts,13,10", "acts,13,11", "acts,13,12" ],
+  "verses" : [ {
+    "verse" : "acts,13,9",
+    "text" : "Then Saul, who was also called Paul, filled with the Holy Spirit, looked straight at Elymas and said,"
+  }, {
+    "verse" : "acts,13,10",
+    "text" : "\"You are a child of the devil and an enemy of everything that is right! You are full of all kinds of deceit and trickery. Will you never stop perverting the right ways of the Lord?"
+  }, {
+    "verse" : "acts,13,11",
+    "text" : "Now the hand of the Lord is against you. You are going to be blind, and for a time you will be unable to see the light of the sun.\""
+  }, {
+    "verse" : "acts,13,12",
+    "text" : "Immediately mist and darkness came over him, and he groped about, seeking someone to lead him by the hand. When the proconsul saw what had happened, he believed, for he was amazed at the teaching about the Lord."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,13,9",
     "id" : 197515,
@@ -74,7 +116,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 13:9\">13:9</a></b> <b>Saul . . . called Paul.</b> “Saul” was his Jewish name and “Paul” his Roman name, probably going back to his life in Tarsus. Luke uses the occasion of the conversion of a prominent Gentile official, Sergius Paulus, to introduce the familiar name of the apostle to the Gentiles.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,13,13" ],
+  "verses" : [ {
+    "verse" : "acts,13,13",
+    "text" : "From Paphos, Paul and his companions sailed to Perga in Pamphylia, where John left them to return to Jerusalem."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,13,13",
     "id" : 197516,
@@ -82,7 +127,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 13:13\">13:13</a></b> <b>came to Perga in Pamphylia.</b> The city of Perga was in Pamphylia, an economically poor Roman province on the south coast of Asia Minor (modern Turkey). Perga was five miles inland. It was at this time that John Mark left Paul and Barnabas and returned home.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,13,14" ],
+  "verses" : [ {
+    "verse" : "acts,13,14",
+    "text" : "From Perga they went on to Pisidian Antioch. On the Sabbath they entered the synagogue and sat down."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,13,14",
     "id" : 197517,
@@ -90,7 +138,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 13:14\">13:14</a></b> <b>Antioch in Pisidia.</b> This Antioch was about a hundred miles north of Perga and 3,600 feet above sea level. It was in Phrygia but near Pisidia, and to distinguish it from another Antioch in Phrygia it was popularly called “Antioch in Pisidia.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,13,15" ],
+  "verses" : [ {
+    "verse" : "acts,13,15",
+    "text" : "After the reading from the Law and the Prophets, the synagogue rulers sent word to them, saying, \"Brothers, if you have a message of encouragement for the people, please speak.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,13,15",
     "id" : 197518,

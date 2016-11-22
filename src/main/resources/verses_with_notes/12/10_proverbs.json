@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "proverbs,29,19", "proverbs,29,20" ],
+  "verses" : [ {
+    "verse" : "proverbs,29,19",
+    "text" : "A servant cannot be corrected by mere words; though he understands, he will not respond."
+  }, {
+    "verse" : "proverbs,29,20",
+    "text" : "Do you see a man who speaks in haste? There is more hope for a fool than for him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,29,19",
     "id" : 192330,

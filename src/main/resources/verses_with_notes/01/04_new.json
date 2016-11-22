@@ -1,8 +1,23 @@
 [ {
-  "singleVerses" : [ "matthew,4,12", "matthew,4,13", "matthew,4,14" ],
+  "verses" : [ {
+    "verse" : "matthew,4,12",
+    "text" : "When Jesus heard that John had been put in prison, he returned to Galilee."
+  }, {
+    "verse" : "matthew,4,13",
+    "text" : "Leaving Nazareth, he went and lived in Capernaum, which was by the lake in the area of Zebulun and Naphtali--"
+  }, {
+    "verse" : "matthew,4,14",
+    "text" : "to fulfill what was said through the prophet Isaiah:"
+  } ],
   "rsbNotes" : [ ]
 }, {
-  "singleVerses" : [ "matthew,4,15", "matthew,4,16" ],
+  "verses" : [ {
+    "verse" : "matthew,4,15",
+    "text" : "\"Land of Zebulun and land of Naphtali, the way to the sea, along the Jordan, Galilee of the Gentiles--"
+  }, {
+    "verse" : "matthew,4,16",
+    "text" : "the people living in darkness have seen a great light; on those living in the land of the shadow of death a light has dawned.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,4,15",
     "id" : 195640,
@@ -10,7 +25,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 4:15\">4:15</a></b> <b>Galilee of the Gentiles.</b> Matthew stresses Jesus’ focus on the nation of Israel during His earthly ministry (<a class=\"bibleref\" href=\"/passage/?search=Matt 10:5\">10:5</a>, <a class=\"bibleref\" href=\"/passage/?search=Matt 10:6\">6</a>). However, his observation that Jesus’ ministry fulfills <a class=\"bibleref\" href=\"/passage/?search=Isa 9:2\">Is. 9:2</a> shows that the commission to go to the Gentiles in <a class=\"bibleref\" href=\"/passage/?search=Matt 28:19\">Matt. 28:19</a> is not an afterthought; the ultimate goal always included the nations.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,4,17", "matthew,4,18", "matthew,4,19", "matthew,4,20", "matthew,4,21", "matthew,4,22" ],
+  "verses" : [ {
+    "verse" : "matthew,4,17",
+    "text" : "From that time on Jesus began to preach, \"Repent, for the kingdom of heaven is near.\""
+  }, {
+    "verse" : "matthew,4,18",
+    "text" : "As Jesus was walking beside the Sea of Galilee, he saw two brothers, Simon called Peter and his brother Andrew. They were casting a net into the lake, for they were fishermen."
+  }, {
+    "verse" : "matthew,4,19",
+    "text" : "\"Come, follow me,\" Jesus said, \"and I will make you fishers of men.\""
+  }, {
+    "verse" : "matthew,4,20",
+    "text" : "At once they left their nets and followed him."
+  }, {
+    "verse" : "matthew,4,21",
+    "text" : "Going on from there, he saw two other brothers, James son of Zebedee and his brother John. They were in a boat with their father Zebedee, preparing their nets. Jesus called them,"
+  }, {
+    "verse" : "matthew,4,22",
+    "text" : "and immediately they left the boat and their father and followed him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,4,17",
     "id" : 195641,
@@ -18,7 +51,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 4:17\">4:17</a></b> <b>From that time.</b> This phrase, which also occurs in <a class=\"bibleref\" href=\"/passage/?search=Matt 16:21\">16:21</a>, marks a turning point from the period of preparation to the period of Jesus’ public ministry.</p><p><b>Repent.</b> See “Repentance” at <a class=\"bibleref\" href=\"/passage/?search=Acts 26:20\">Acts 26:20</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,4,23" ],
+  "verses" : [ {
+    "verse" : "matthew,4,23",
+    "text" : "Jesus went throughout Galilee, teaching in their synagogues, preaching the good news of the kingdom, and healing every disease and sickness among the people."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,4,23",
     "id" : 195642,
@@ -26,7 +62,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 4:23\">4:23</a></b> <b>teaching . . . proclaiming . . . healing.</b> Teaching involved communicating the nature and purpose of God’s kingdom, as seen in the Sermon on the Mount (<a class=\"bibleref\" href=\"/passage/?search=Matt 5-Matt 7\">chs. 5–7</a>) and the parables of the kingdom (<a class=\"bibleref\" href=\"/passage/?search=Matt 13\">ch. 13</a>). Preaching was proclaiming the good news that God’s kingdom was near, that His sovereign purposes in history were finally being realized. Healing, as well as teaching and preaching, was a sign that this kingdom had come (<a class=\"bibleref\" href=\"/passage/?search=Matt 11:5\">11:5</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,4,24", "matthew,4,25" ],
+  "verses" : [ {
+    "verse" : "matthew,4,24",
+    "text" : "News about him spread all over Syria, and people brought to him all who were ill with various diseases, those suffering severe pain, the demon-possessed, those having seizures, and the paralyzed, and he healed them."
+  }, {
+    "verse" : "matthew,4,25",
+    "text" : "Large crowds from Galilee, the Decapolis, Jerusalem, Judea and the region across the Jordan followed him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,4,24",
     "id" : 195643,

@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,22,15" ],
+  "verses" : [ {
+    "verse" : "proverbs,22,15",
+    "text" : "Folly is bound up in the heart of a child, but the rod of discipline will drive it far from him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

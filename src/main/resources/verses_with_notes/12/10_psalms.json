@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,129,1" ],
+  "verses" : [ {
+    "verse" : "psalms,129,1",
+    "text" : "They have greatly oppressed me from my youth- let Israel say-"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,129,1-psalms,129,8",
     "id" : 191454,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 129:1\">129:1</a></b> <b>afflicted me.</b> The history of Israel is often a history of suffering and oppression, beginning with slavery in Egypt and continuing through the Babylonian captivity.</p><p><b>from my youth.</b> From Israel’s beginning as a nation. The nation is personified, speaking of itself as “me” and “my.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,129,2" ],
+  "verses" : [ {
+    "verse" : "psalms,129,2",
+    "text" : "they have greatly oppressed me from my youth, but they have not gained the victory over me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,129,2",
     "id" : 191456,
@@ -20,7 +26,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 129:2\">129:2</a></b> <b>they have not prevailed against me.</b> Slavery in Egypt ended in the Exodus; the Babylonian exile ended with the return and restoration of Judah.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,129,3" ],
+  "verses" : [ {
+    "verse" : "psalms,129,3",
+    "text" : "Plowmen have plowed my back and made their furrows long."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,129,3",
     "id" : 191457,
@@ -28,7 +37,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 129:3\">129:3</a></b> <b>plowed upon my back.</b> The metaphor describes the horrors of Israel’s past suffering.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,129,4" ],
+  "verses" : [ {
+    "verse" : "psalms,129,4",
+    "text" : "But the LORD is righteous; he has cut me free from the cords of the wicked."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,129,4",
     "id" : 191458,
@@ -36,7 +48,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 129:4\">129:4</a></b> <b>he has cut the cords.</b> It was as if the wicked held Israel a prisoner bound by strong ropes, but their Savior set them free.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,129,5" ],
+  "verses" : [ {
+    "verse" : "psalms,129,5",
+    "text" : "May all who hate Zion be turned back in shame."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,129,5",
     "id" : 191459,
@@ -44,7 +59,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 129:5\">129:5</a></b> <b>Zion.</b> See notes <a class=\"bibleref\" href=\"/passage/?search=Ps 2:6\">Ps. 2:6</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 50:2\">50:2</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 128:5\">128:5</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,129,6", "psalms,129,7", "psalms,129,8" ],
+  "verses" : [ {
+    "verse" : "psalms,129,6",
+    "text" : "May they be like grass on the roof, which withers before it can grow;"
+  }, {
+    "verse" : "psalms,129,7",
+    "text" : "with it the reaper cannot fill his hands, nor the one who gathers fill his arms."
+  }, {
+    "verse" : "psalms,129,8",
+    "text" : "May those who pass by not say, \"The blessing of the LORD be upon you; we bless you in the name of the LORD.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,129,6",
     "id" : 191460,

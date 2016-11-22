@@ -1,5 +1,14 @@
 [ {
-  "singleVerses" : [ "psalms,52,1", "psalms,52,2", "psalms,52,3" ],
+  "verses" : [ {
+    "verse" : "psalms,52,1",
+    "text" : "Why do you boast of evil, you mighty man? Why do you boast all day long, you who are a disgrace in the eyes of God?"
+  }, {
+    "verse" : "psalms,52,2",
+    "text" : "Your tongue plots destruction; it is like a sharpened razor, you who practice deceit."
+  }, {
+    "verse" : "psalms,52,3",
+    "text" : "You love evil rather than good, falsehood rather than speaking the truth. Selah"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,52,1-psalms,52,9",
     "id" : 190659,
@@ -17,7 +26,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 52:1\">52:1</a></b> <b>mighty man.</b> A soldier or warrior.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,52,4", "psalms,52,5" ],
+  "verses" : [ {
+    "verse" : "psalms,52,4",
+    "text" : "You love every harmful word, O you deceitful tongue!"
+  }, {
+    "verse" : "psalms,52,5",
+    "text" : "Surely God will bring you down to everlasting ruin: He will snatch you up and tear you from your tent; he will uproot you from the land of the living. Selah"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,52,4",
     "id" : 190662,
@@ -25,7 +40,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 52:4\">52:4</a></b> <b>devour.</b> More exactly, “confused.” The wisdom literature consistently teaches that confusion is on the side of the wicked and order on the side of righteousness.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,52,6" ],
+  "verses" : [ {
+    "verse" : "psalms,52,6",
+    "text" : "The righteous will see and fear; they will laugh at him, saying,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,52,6",
     "id" : 190663,
@@ -33,7 +51,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 52:6\">52:6</a></b> <b>fear.</b> This verb may seem strange as associated with laughter. The meaning, however, is not fear in the sense of dread, but rather of reverence and awe. The righteous see the justice of God’s judgment against the wicked.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,52,7" ],
+  "verses" : [ {
+    "verse" : "psalms,52,7",
+    "text" : "\"Here now is the man who did not make God his stronghold but trusted in his great wealth and grew strong by destroying others!\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,52,7",
     "id" : 190664,
@@ -41,7 +62,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 52:7\">52:7</a></b> <b>who would not make God his refuge.</b> This man is the opposite of everything the psalms stand for. Throughout the psalms people are urged to make God their stronghold and to put no trust in themselves. God is the power behind His people in all their victories.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,52,8" ],
+  "verses" : [ {
+    "verse" : "psalms,52,8",
+    "text" : "But I am like an olive tree flourishing in the house of God; I trust in God's unfailing love for ever and ever."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,52,8",
     "id" : 190665,
@@ -49,7 +73,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 52:8\">52:8</a></b> <b>olive tree.</b> Reminiscent of <a class=\"bibleref\" href=\"/passage/?search=Ps 1\">Ps. 1</a>. Olive trees can live for hundreds of years.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,52,9" ],
+  "verses" : [ {
+    "verse" : "psalms,52,9",
+    "text" : "I will praise you forever for what you have done; in your name I will hope, for your name is good. I will praise you in the presence of your saints."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,52,9",
     "id" : 190666,

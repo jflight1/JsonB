@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "romans,5,6", "romans,5,7" ],
+  "verses" : [ {
+    "verse" : "romans,5,6",
+    "text" : "You see, at just the right time, when we were still powerless, Christ died for the ungodly."
+  }, {
+    "verse" : "romans,5,7",
+    "text" : "Very rarely will anyone die for a righteous man, though for a good man someone might possibly dare to die."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,5,1-romans,5,11",
     "id" : 197762,
@@ -12,7 +18,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 5:6\">5:6</a></b> <b>Christ died.</b> The nature of this outpoured love (<a class=\"bibleref\" href=\"/passage/?search=Rom 5:5\">v. 5</a>) is seen in the Cross. There God acted “at the right time,” both in the sense that the death of Christ took place according to the divine timetable (<a class=\"bibleref\" href=\"/passage/?search=John 17:1\">John 17:1</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 2:23\">Acts 2:23</a>; <a class=\"bibleref\" href=\"/passage/?search=Gal 4:4\">Gal. 4:4</a>), and also because it meets us in the moment of our deepest need. This is Paul’s point when he says “still weak” (v. 6), “still sinners” (v. 8), “while we were enemies” (v. 10).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,5,8" ],
+  "verses" : [ {
+    "verse" : "romans,5,8",
+    "text" : "But God demonstrates his own love for us in this: While we were still sinners, Christ died for us."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,5,8-romans,5,11",
     "id" : 197767,
@@ -20,7 +29,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 5:8-Rom 5:11\">5:8–11</a></b> Like <a class=\"bibleref\" href=\"/passage/?search=Rom 8:1-Rom 8:4\">8:1–4</a>, <a class=\"bibleref\" href=\"/passage/?search=Rom 8:32\">32</a>, this passage highlights the special purpose and effectiveness that Paul regularly ascribes to Christ’s death. That is, Christ died specifically “for us” (<a class=\"bibleref\" href=\"/passage/?search=Rom 8:8\">v. 8</a>) who now believe and are justified through our faith, and His death actually achieved for us the “reconciliation” that “we have now received” (<a class=\"bibleref\" href=\"/passage/?search=Rom 8:11\">v. 11</a>). See “Definite Redemption” at <a class=\"bibleref\" href=\"/passage/?search=John 10:15\">John 10:15</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,5,9" ],
+  "verses" : [ {
+    "verse" : "romans,5,9",
+    "text" : "Since we have now been justified by his blood, how much more shall we be saved from God's wrath through him!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,5,9",
     "id" : 197768,
@@ -28,7 +40,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 5:9\">5:9</a></b> <b>much more.</b> Paul argues from the greater to the less. If God would do for us the work of reconciliation, at the cost of the suffering and death of His Son, He will not withhold the final salvation that is “by him,” and by “his blood” as the ascendant Mediator. Keeping for final salvation those who have already been justified is simply God following through His initial purpose of love to them. The decisive, and more costly, expression of this loving purpose was Christ’s actual reconciling death, which guarantees the justification and glorification of those for whom he died (<a class=\"bibleref\" href=\"/passage/?search=Rom 8:32\">8:32</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,5,10", "romans,5,11" ],
+  "verses" : [ {
+    "verse" : "romans,5,10",
+    "text" : "For if, when we were God's enemies, we were reconciled to him through the death of his Son, how much more, having been reconciled, shall we be saved through his life!"
+  }, {
+    "verse" : "romans,5,11",
+    "text" : "Not only is this so, but we also rejoice in God through our Lord Jesus Christ, through whom we have now received reconciliation."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,5,10",
     "id" : 197769,
@@ -36,7 +54,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 5:10\">5:10</a></b> <b>reconciled.</b> Paul alone in the New Testament describes the sin-bearing work of Christ as reconciliation (<a class=\"bibleref\" href=\"/passage/?search=Rom 11:15\">11:15</a>; <a class=\"bibleref\" href=\"/passage/?search=2Cor 5:18-2Cor 5:20\">2 Cor. 5:18–20</a>; <a class=\"bibleref\" href=\"/passage/?search=Eph 2:16\">Eph. 2:16</a>; <a class=\"bibleref\" href=\"/passage/?search=Col 1:20\">Col. 1:20</a>, <a class=\"bibleref\" href=\"/passage/?search=Col 1:22\">22</a>), although the idea is already present in the Old Testament, especially in Hosea. God’s alienation from us is ended by removing the cause of alienation (our sin, guilt, and condemnation) by the death of Christ (cf. <a class=\"bibleref\" href=\"/passage/?search=2Cor 5:21\">2 Cor. 5:21</a>). In this sense, reconciliation is objective (<a class=\"bibleref\" href=\"/passage/?search=2Cor 5:18\">2 Cor. 5:18</a>, <a class=\"bibleref\" href=\"/passage/?search=2Cor 5:19\">19</a>). However, it must be “received” (v. 11; cf. <a class=\"bibleref\" href=\"/passage/?search=2Cor 5:20\">2 Cor. 5:20</a>), by the laying aside of our own alienation and hostility, that is, by repentance and faith in Christ.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,5,12", "romans,5,13" ],
+  "verses" : [ {
+    "verse" : "romans,5,12",
+    "text" : "Therefore, just as sin entered the world through one man, and death through sin, and in this way death came to all men, because all sinned--"
+  }, {
+    "verse" : "romans,5,13",
+    "text" : "for before the law was given, sin was in the world. But sin is not taken into account when there is no law."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,5,12-romans,5,21",
     "id" : 197770,
@@ -49,7 +73,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 5:12\">5:12</a></b> <b>just as sin came into.</b> Paul here begins a comparison that is not concluded until <a class=\"bibleref\" href=\"/passage/?search=Rom 5:18-Rom 5:21\">vv. 18–21</a>. The comparison is interrupted by a meditation extending through <a class=\"bibleref\" href=\"/passage/?search=Rom 5:17\">v. 17</a>.</p><p><b>through one man.</b> Death is not natural to humanity, but is the direct result of sin (<a class=\"bibleref\" href=\"/passage/?search=Gen 2:17\">Gen. 2:17</a>).</p><p><b>because all sinned.</b> The universal reign of death is the consequence of sin. Paul does not explain how all mankind was involved with Adam in his sinning, but simply asserts the fact. All sinned in the sin of Adam. See “Original Sin and Total Depravity” at <a class=\"bibleref\" href=\"/passage/?search=Ps 51:5\">Ps. 51:5</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,5,14" ],
+  "verses" : [ {
+    "verse" : "romans,5,14",
+    "text" : "Nevertheless, death reigned from the time of Adam to the time of Moses, even over those who did not sin by breaking a command, as did Adam, who was a pattern of the one to come."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,5,14",
     "id" : 197772,
@@ -57,7 +84,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 5:14\">5:14</a></b> <b>death reigned.</b> All people were subject to death before the law of Moses was given.</p><p><b>a type of the one who was to come.</b> Adam, the first man, was the divinely appointed head of the whole of humanity, and his sin forfeited righteousness for all those he represented (“all men,” <a class=\"bibleref\" href=\"/passage/?search=Rom 5:12\">vv. 12</a>, <a class=\"bibleref\" href=\"/passage/?search=Rom 5:18\">18</a>; the “many,” <a class=\"bibleref\" href=\"/passage/?search=Rom 5:15\">vv. 15</a>, <a class=\"bibleref\" href=\"/passage/?search=Rom 5:19\">19</a>). In the same way, God made Christ the representative head of a new humanity so that His obedience to death might gain their justification. Inherent in this teaching is the thought that the restoration provided in salvation must follow the pattern, but reverse the content, of the original constitution of humanity before God (<a class=\"bibleref\" href=\"/passage/?search=1Cor 15:45-1Cor 15:49\">1 Cor. 15:45–49</a>; <a class=\"bibleref\" href=\"/passage/?search=Heb 2:14-Heb 2:18\">Heb. 2:14–18</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,5,15" ],
+  "verses" : [ {
+    "verse" : "romans,5,15",
+    "text" : "But the gift is not like the trespass. For if the many died by the trespass of the one man, how much more did God's grace and the gift that came by the grace of the one man, Jesus Christ, overflow to the many!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,5,15",
     "id" : 197773,
@@ -65,7 +95,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 5:15\">5:15</a></b> <b>But the free gift is not like the trespass.</b> Paul spells out the contrast between Christ and Adam in <a class=\"bibleref\" href=\"/passage/?search=Rom 5:15-Rom 5:17\">vv. 15–17</a>. Not only are the acts of the two men antithetical, but the grace of the work of Christ is seen to be greater than the sin, judgment, and condemnation of Adam in the way it brings justification, righteousness, and life to ruined souls (“much more,” <a class=\"bibleref\" href=\"/passage/?search=Rom 5:15\">vv. 15</a>, <a class=\"bibleref\" href=\"/passage/?search=Rom 5:17\">17</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,5,16", "romans,5,17" ],
+  "verses" : [ {
+    "verse" : "romans,5,16",
+    "text" : "Again, the gift of God is not like the result of the one man's sin: The judgment followed one sin and brought condemnation, but the gift followed many trespasses and brought justification."
+  }, {
+    "verse" : "romans,5,17",
+    "text" : "For if, by the trespass of the one man, death reigned through that one man, how much more will those who receive God's abundant provision of grace and of the gift of righteousness reign in life through the one man, Jesus Christ."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,5,16",
     "id" : 197774,
@@ -73,7 +109,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 5:16\">5:16</a></b> <b>the judgment following one trespass.</b> See “The Fall” at <a class=\"bibleref\" href=\"/passage/?search=Gen 3:6\">Gen. 3:6</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,5,18", "romans,5,19" ],
+  "verses" : [ {
+    "verse" : "romans,5,18",
+    "text" : "Consequently, just as the result of one trespass was condemnation for all men, so also the result of one act of righteousness was justification that brings life for all men."
+  }, {
+    "verse" : "romans,5,19",
+    "text" : "For just as through the disobedience of the one man the many were made sinners, so also through the obedience of the one man the many will be made righteous."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,5,18-romans,5,19",
     "id" : 197775,
@@ -81,7 +123,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 5:18\">5:18</a>, <a class=\"bibleref\" href=\"/passage/?search=Rom 5:19\">19</a></b> Paul returns to the main thrust of his analogy, namely that there is a parallel between Adam and Christ in that condemnation and justification are the direct fruits of their actions. On the basis of the actions of “one,” “many” are constituted either sinners or righteous. Adam is the representative head as well as the physical root of all, and all sinned and fell when he sinned. In contrast, “by the one man’s obedience” those whom Christ represents are “made righteous” in Him (see “The Humble Obedience of Christ” at <a class=\"bibleref\" href=\"/passage/?search=John 5:19\">John 5:19</a>). Christ is their representative Head, as well as the spiritual root of the new humanity, for through His resurrection they are given new birth and a living hope (<a class=\"bibleref\" href=\"/passage/?search=1Pet 1:3\">1 Pet. 1:3</a>; <a class=\"bibleref\" href=\"/passage/?search=Eph 2:1-Eph 2:7\">Eph. 2:1–7</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,5,20", "romans,5,21" ],
+  "verses" : [ {
+    "verse" : "romans,5,20",
+    "text" : "The law was added so that the trespass might increase. But where sin increased, grace increased all the more,"
+  }, {
+    "verse" : "romans,5,21",
+    "text" : "so that, just as sin reigned in death, so also grace might reign through righteousness to bring eternal life through Jesus Christ our Lord."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,5,20",
     "id" : 197776,

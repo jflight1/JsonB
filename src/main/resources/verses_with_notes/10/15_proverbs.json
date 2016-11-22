@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,25,16" ],
+  "verses" : [ {
+    "verse" : "proverbs,25,16",
+    "text" : "If you find honey, eat just enough- too much of it, and you will vomit."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,25,16-proverbs,25,17",
     "id" : 192240,

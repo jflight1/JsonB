@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "proverbs,24,5", "proverbs,24,6" ],
+  "verses" : [ {
+    "verse" : "proverbs,24,5",
+    "text" : "A wise man has great power, and a man of knowledge increases strength;"
+  }, {
+    "verse" : "proverbs,24,6",
+    "text" : "for waging war you need guidance, and for victory many advisers."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,22,17-proverbs,24,22",
     "id" : 192162,

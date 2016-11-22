@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "matthew,5,27", "matthew,5,28" ],
+  "verses" : [ {
+    "verse" : "matthew,5,27",
+    "text" : "\"You have heard that it was said, 'Do not commit adultery.'"
+  }, {
+    "verse" : "matthew,5,28",
+    "text" : "But I tell you that anyone who looks at a woman lustfully has already committed adultery with her in his heart."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,5,1-matthew,7,29",
     "id" : 195644,
@@ -7,7 +13,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 5-Matt 7\">5:1–7:29</a></b> The Sermon on the Mount is the first of five great blocks of Jesus’ teaching in Matthew (Introduction: Characteristics and Themes). It is the classic statement of the ethics of the kingdom of God. The early church favored a literal interpretation but fully applied the sermon only to special classes of Christians, especially monastics. Others, such as the Anabaptists, have attempted to apply it literally to every Christian. Still others have viewed it as legalistic, as a provisional, temporary code, or as a heightening of the law of Moses with the aim of inducing repentance (Luther). Finally, some have argued that the demands of the sermon are not to be understood literally, but that Jesus was concerned with inward disposition rather than outward conduct, or that the severity of the sermon is intended to compel a decision by the hearers either for or against God’s demands on their lives.</p><p>We must recognize that the sermon is directed to the disciples and through them to the whole church today. The sermon addresses both inward motives and outward conduct (<a class=\"bibleref\" href=\"/passage/?search=Matt 5:21\">5:21</a>, <a class=\"bibleref\" href=\"/passage/?search=Matt 5:22\">22</a>, <a class=\"bibleref\" href=\"/passage/?search=Matt 5:27\">27</a>, <a class=\"bibleref\" href=\"/passage/?search=Matt 5:28\">28</a>). These legitimate demands are so strict (<a class=\"bibleref\" href=\"/passage/?search=Matt 5:48\">5:48</a>) that no one can completely obey them, and we are therefore driven to the grace and mercy of God. In some cases Jesus uses obviously intentional exaggeration to illustrate the absolute requirements of God’s law (<a class=\"bibleref\" href=\"/passage/?search=Matt 5:29\">5:29</a>, <a class=\"bibleref\" href=\"/passage/?search=Matt 5:30\">30</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,5,29", "matthew,5,30", "matthew,5,31" ],
+  "verses" : [ {
+    "verse" : "matthew,5,29",
+    "text" : "If your right eye causes you to sin, gouge it out and throw it away. It is better for you to lose one part of your body than for your whole body to be thrown into hell."
+  }, {
+    "verse" : "matthew,5,30",
+    "text" : "And if your right hand causes you to sin, cut it off and throw it away. It is better for you to lose one part of your body than for your whole body to go into hell."
+  }, {
+    "verse" : "matthew,5,31",
+    "text" : "\"It has been said, 'Anyone who divorces his wife must give her a certificate of divorce.'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,5,29",
     "id" : 195661,
@@ -15,7 +30,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 5:29\">5:29</a></b> <b>tear it out.</b> The severity of the demand illustrates the radical nature of Jesus’ ethic and our radical need. Jesus is not advocating self-mutilation; not the eyes or hands cause lust, but the heart and mind. Christians must not only avoid the act of adultery (“hand”), but also those things that would lead to a lustful attitude (“eye”).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,5,32", "matthew,5,33" ],
+  "verses" : [ {
+    "verse" : "matthew,5,32",
+    "text" : "But I tell you that anyone who divorces his wife, except for marital unfaithfulness, causes her to become an adulteress, and anyone who marries the divorced woman commits adultery."
+  }, {
+    "verse" : "matthew,5,33",
+    "text" : "\"Again, you have heard that it was said to the people long ago, 'Do not break your oath, but keep the oaths you have made to the Lord.'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,5,32",
     "id" : 195662,
@@ -23,7 +44,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 5:32\">5:32</a></b> See <a class=\"bibleref\" href=\"/passage/?search=Matt 19:3-Matt 19:10\">19:3–10</a> and notes; “Marriage and Divorce” at <a class=\"bibleref\" href=\"/passage/?search=Mal 2:16\">Mal. 2:16</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,5,34", "matthew,5,35", "matthew,5,36", "matthew,5,37" ],
+  "verses" : [ {
+    "verse" : "matthew,5,34",
+    "text" : "But I tell you, Do not swear at all: either by heaven, for it is God's throne;"
+  }, {
+    "verse" : "matthew,5,35",
+    "text" : "or by the earth, for it is his footstool; or by Jerusalem, for it is the city of the Great King."
+  }, {
+    "verse" : "matthew,5,36",
+    "text" : "And do not swear by your head, for you cannot make even one hair white or black."
+  }, {
+    "verse" : "matthew,5,37",
+    "text" : "Simply let your 'Yes' be 'Yes,' and your 'No,No'; anything beyond this comes from the evil one."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,5,34",
     "id" : 195663,
@@ -31,7 +64,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 5:34\">5:34</a></b> <b>Do not take an oath.</b> Some have understood Jesus’ prohibition of oaths to be universal, but Jesus Himself submitted to oath (<a class=\"bibleref\" href=\"/passage/?search=Matt 26:63\">26:63</a>), and Paul invoked God as his witness in <a class=\"bibleref\" href=\"/passage/?search=Rom 1:9\">Rom. 1:9</a>. God Himself takes an oath so that we might be encouraged (<a class=\"bibleref\" href=\"/passage/?search=Heb 6:17\">Heb. 6:17</a>). Jesus is addressing a narrow and misleading legalism that required a specific oath to make spoken words binding. The implication of such an approach to honesty is that we do not need to be truthful except under oath. Jesus demands an integrity of speech as though everything were under oath. He also prohibited the implicit idolatry of swearing by anything less than God. See “Honest Speech, Oaths, and Vows” at <a class=\"bibleref\" href=\"/passage/?search=Neh 5:12\">Neh. 5:12</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,5,38" ],
+  "verses" : [ {
+    "verse" : "matthew,5,38",
+    "text" : "\"You have heard that it was said, 'Eye for eye, and tooth for tooth.'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,5,38",
     "id" : 195664,
@@ -39,7 +75,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 5:38\">5:38</a></b> <b>An eye for an eye.</b> The original intent of <a class=\"bibleref\" href=\"/passage/?search=Exod 21:24\">Ex. 21:24</a>, <a class=\"bibleref\" href=\"/passage/?search=Lev 24:20\">Lev. 24:20</a>, and <a class=\"bibleref\" href=\"/passage/?search=Deut 19:21\">Deut. 19:21</a> is that punishment should be equitable and should fit the crime. These limitations prohibited exacting a greater vengeance (such as Lamech boasted in <a class=\"bibleref\" href=\"/passage/?search=Gen 4:23\">Gen. 4:23</a>) or having different penalties for different social classes. Jesus contradicted those who saw in this principle grounds for personal vengeance.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,5,39", "matthew,5,40" ],
+  "verses" : [ {
+    "verse" : "matthew,5,39",
+    "text" : "But I tell you, Do not resist an evil person. If someone strikes you on the right cheek, turn to him the other also."
+  }, {
+    "verse" : "matthew,5,40",
+    "text" : "And if someone wants to sue you and take your tunic, let him have your cloak as well."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,5,39",
     "id" : 195665,
@@ -47,7 +89,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 5:39\">5:39</a></b> <b>Do not resist.</b> In context this means “do not seek restitution in court.” The slap on the right cheek is a backhanded one—an insult as well as injury. Jesus’ remarks may refer back to the words of the Servant of the Lord in <a class=\"bibleref\" href=\"/passage/?search=Isa 50:6\">Is. 50:6</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,5,41", "matthew,5,42" ],
+  "verses" : [ {
+    "verse" : "matthew,5,41",
+    "text" : "If someone forces you to go one mile, go with him two miles."
+  }, {
+    "verse" : "matthew,5,42",
+    "text" : "Give to the one who asks you, and do not turn away from the one who wants to borrow from you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,5,41",
     "id" : 195666,
@@ -55,7 +103,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 5:41\">5:41</a></b> <b>if anyone forces you.</b> The possibility of a Roman soldier coercing a person to serve as a guide or burden carrier was real. Even if compelled by force to do something for someone, one can demonstrate freedom by volunteering more than was demanded rather than begrudging the service.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,5,43", "matthew,5,44" ],
+  "verses" : [ {
+    "verse" : "matthew,5,43",
+    "text" : "\"You have heard that it was said, 'Love your neighbor and hate your enemy.'"
+  }, {
+    "verse" : "matthew,5,44",
+    "text" : "But I tell you: Love your enemies and pray for those who persecute you,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,5,43",
     "id" : 195667,
@@ -63,7 +117,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 5:43\">5:43</a></b> <b>hate your enemy.</b> This is not in the Old Testament, but was a false conclusion in scribal teaching drawn from the narrow understanding of “neighbor” as simply one’s fellow Jew. Jesus shows that the true intent of <a class=\"bibleref\" href=\"/passage/?search=Lev 19:18\">Lev. 19:18</a> extends even to one’s enemies (<a class=\"bibleref\" href=\"/passage/?search=Luke 10:29-Luke 10:37\">Luke 10:29–37</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,5,45", "matthew,5,46", "matthew,5,47" ],
+  "verses" : [ {
+    "verse" : "matthew,5,45",
+    "text" : "that you may be sons of your Father in heaven. He causes his sun to rise on the evil and the good, and sends rain on the righteous and the unrighteous."
+  }, {
+    "verse" : "matthew,5,46",
+    "text" : "If you love those who love you, what reward will you get? Are not even the tax collectors doing that?"
+  }, {
+    "verse" : "matthew,5,47",
+    "text" : "And if you greet only your brothers, what are you doing more than others? Do not even pagans do that?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,5,45",
     "id" : 195668,
@@ -71,7 +134,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 5:45\">5:45</a></b> See “Providence” at <a class=\"bibleref\" href=\"/passage/?search=Prov 16:33\">Prov. 16:33</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,5,48" ],
+  "verses" : [ {
+    "verse" : "matthew,5,48",
+    "text" : "Be perfect, therefore, as your heavenly Father is perfect."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,5,48",
     "id" : 195669,

@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "ecclesiastes,7,1" ],
+  "verses" : [ {
+    "verse" : "ecclesiastes,7,1",
+    "text" : "A good name is better than fine perfume, and the day of death better than the day of birth."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ecclesiastes,7,1",
     "id" : 192437,
@@ -7,7 +10,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eccl 7:1\">7:1</a></b> <b>day of death.</b> For the godly, death is “far better” (<a class=\"bibleref\" href=\"/passage/?search=Phil 1:23\">Phil. 1:23</a>) because they are with Christ.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ecclesiastes,7,2", "ecclesiastes,7,3", "ecclesiastes,7,4", "ecclesiastes,7,5", "ecclesiastes,7,6" ],
+  "verses" : [ {
+    "verse" : "ecclesiastes,7,2",
+    "text" : "It is better to go to a house of mourning than to go to a house of feasting, for death is the destiny of every man; the living should take this to heart."
+  }, {
+    "verse" : "ecclesiastes,7,3",
+    "text" : "Sorrow is better than laughter, because a sad face is good for the heart."
+  }, {
+    "verse" : "ecclesiastes,7,4",
+    "text" : "The heart of the wise is in the house of mourning, but the heart of fools is in the house of pleasure."
+  }, {
+    "verse" : "ecclesiastes,7,5",
+    "text" : "It is better to heed a wise man's rebuke than to listen to the song of fools."
+  }, {
+    "verse" : "ecclesiastes,7,6",
+    "text" : "Like the crackling of thorns under the pot, so is the laughter of fools. This too is meaningless."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ecclesiastes,7,2-ecclesiastes,7,4",
     "id" : 192438,
@@ -15,7 +33,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eccl 7:2\">7:2</a>, <a class=\"bibleref\" href=\"/passage/?search=Eccl 7:4\">4</a> house of mourning.</b> A funeral provides an indispensable perspective on the universally terminal condition.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ecclesiastes,7,7", "ecclesiastes,7,8" ],
+  "verses" : [ {
+    "verse" : "ecclesiastes,7,7",
+    "text" : "Extortion turns a wise man into a fool, and a bribe corrupts the heart."
+  }, {
+    "verse" : "ecclesiastes,7,8",
+    "text" : "The end of a matter is better than its beginning, and patience is better than pride."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ecclesiastes,7,7",
     "id" : 192439,
@@ -23,7 +47,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eccl 7:7\">7:7</a></b> <b>oppression . . . a bribe.</b> These common experiences may threaten to destabilize an otherwise good spiritual condition (<a class=\"bibleref\" href=\"/passage/?search=Eccl 4:1-Eccl 4:3\">4:1–3</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ecclesiastes,7,9", "ecclesiastes,7,10" ],
+  "verses" : [ {
+    "verse" : "ecclesiastes,7,9",
+    "text" : "Do not be quickly provoked in your spirit, for anger resides in the lap of fools."
+  }, {
+    "verse" : "ecclesiastes,7,10",
+    "text" : "Do not say, \"Why were the old days better than these?\" For it is not wise to ask such questions."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ecclesiastes,7,9",
     "id" : 192440,
@@ -31,7 +61,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eccl 7:9\">7:9</a></b> <b>anger lodges.</b> If unquenched, the anger ignited by life’s frustrations leads to folly.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ecclesiastes,7,11", "ecclesiastes,7,12" ],
+  "verses" : [ {
+    "verse" : "ecclesiastes,7,11",
+    "text" : "Wisdom, like an inheritance, is a good thing and benefits those who see the sun."
+  }, {
+    "verse" : "ecclesiastes,7,12",
+    "text" : "Wisdom is a shelter as money is a shelter, but the advantage of knowledge is this: that wisdom preserves the life of its possessor."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ecclesiastes,7,11-ecclesiastes,7,12",
     "id" : 192441,
@@ -39,7 +75,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eccl 7:11\">7:11</a>, <a class=\"bibleref\" href=\"/passage/?search=Eccl 7:12\">12</a> Wisdom . . . preserves the life.</b> True wisdom gives benefits in this life (contrast <a class=\"bibleref\" href=\"/passage/?search=Eccl 8:8\">8:8</a>) and that to come. Christ is the redemptive wisdom of God (<a class=\"bibleref\" href=\"/passage/?search=1Cor 1:30\">1 Cor. 1:30</a>), making wisdom accessible to sinners.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ecclesiastes,7,13" ],
+  "verses" : [ {
+    "verse" : "ecclesiastes,7,13",
+    "text" : "Consider what God has done: Who can straighten what he has made crooked?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ecclesiastes,7,13-ecclesiastes,7,18",
     "id" : 192442,
@@ -52,7 +91,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eccl 7:13\">7:13</a></b> <b>who can make straight.</b> God’s decrees cannot be reversed. The curse of <a class=\"bibleref\" href=\"/passage/?search=Gen 3\">Gen. 3</a> will not be annulled until the consummation.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ecclesiastes,7,14" ],
+  "verses" : [ {
+    "verse" : "ecclesiastes,7,14",
+    "text" : "When times are good, be happy; but when times are bad, consider: God has made the one as well as the other. Therefore, a man cannot discover anything about his future."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ecclesiastes,7,14",
     "id" : 192444,
@@ -60,7 +102,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eccl 7:14\">7:14</a></b> <b>prosperity . . . adversity.</b> God decrees the one as the other.</p><p><b>man may not find out anything.</b> The future is unknown.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ecclesiastes,7,15" ],
+  "verses" : [ {
+    "verse" : "ecclesiastes,7,15",
+    "text" : "In this meaningless life of mine I have seen both of these: a righteous man perishing in his righteousness, and a wicked man living long in his wickedness."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ecclesiastes,7,15",
     "id" : 192445,
@@ -68,7 +113,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eccl 7:15\">7:15</a></b> <b>righteous . . . wicked.</b> The question implied by this observation is formulated in <a class=\"bibleref\" href=\"/passage/?search=Jer 12:1\">Jer. 12:1</a> (“Why does the way of the wicked prosper?”) and handled at more length in <a class=\"bibleref\" href=\"/passage/?search=Ps 37\">Ps. 37</a> and <a class=\"bibleref\" href=\"/passage/?search=Ps 73\">73</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ecclesiastes,7,16", "ecclesiastes,7,17" ],
+  "verses" : [ {
+    "verse" : "ecclesiastes,7,16",
+    "text" : "Do not be overrighteous, neither be overwise- why destroy yourself?"
+  }, {
+    "verse" : "ecclesiastes,7,17",
+    "text" : "Do not be overwicked, and do not be a fool- why die before your time?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ecclesiastes,7,16-ecclesiastes,7,17",
     "id" : 192446,
@@ -76,7 +127,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eccl 7:16\">7:16</a>, <a class=\"bibleref\" href=\"/passage/?search=Eccl 7:17\">17</a> Be not overly righteous . . . overly wicked.</b> Pride can masquerade as righteousness, even in small things; on the other hand, there is an impulse to lawlessness that goes beyond everyday standards of life.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ecclesiastes,7,18" ],
+  "verses" : [ {
+    "verse" : "ecclesiastes,7,18",
+    "text" : "It is good to grasp the one and not let go of the other. The man who fears God will avoid all extremes."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ecclesiastes,7,18",
     "id" : 192447,
@@ -84,7 +138,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eccl 7:18\">7:18</a></b> <b>this . . . from that.</b> Right knowledge of God delivers those who possess it from destructive excesses of self-righteousness and wickedness.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ecclesiastes,7,19" ],
+  "verses" : [ {
+    "verse" : "ecclesiastes,7,19",
+    "text" : "Wisdom makes one wise man more powerful than ten rulers in a city."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ecclesiastes,7,19",
     "id" : 192448,
@@ -92,7 +149,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eccl 7:19\">7:19</a></b> <b>gives strength to the wise.</b> Wisdom is powerful and encouraging.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ecclesiastes,7,20", "ecclesiastes,7,21" ],
+  "verses" : [ {
+    "verse" : "ecclesiastes,7,20",
+    "text" : "There is not a righteous man on earth who does what is right and never sins."
+  }, {
+    "verse" : "ecclesiastes,7,21",
+    "text" : "Do not pay attention to every word people say, or you may hear your servant cursing you-"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ecclesiastes,7,20",
     "id" : 192449,
@@ -100,7 +163,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eccl 7:20\">7:20</a></b> <b>not a righteous man.</b> All are guilty before God (<a class=\"bibleref\" href=\"/passage/?search=Ps 14:3\">Ps. 14:3</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 53:3\">53:3</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ecclesiastes,7,22", "ecclesiastes,7,23" ],
+  "verses" : [ {
+    "verse" : "ecclesiastes,7,22",
+    "text" : "for you know in your heart that many times you yourself have cursed others."
+  }, {
+    "verse" : "ecclesiastes,7,23",
+    "text" : "All this I tested by wisdom and I said, \"I am determined to be wise\"- but this was beyond me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ecclesiastes,7,22",
     "id" : 192450,
@@ -108,7 +177,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eccl 7:22\">7:22</a></b> <b>many times.</b> We are all multiple offenders in God’s sight.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ecclesiastes,7,24", "ecclesiastes,7,25", "ecclesiastes,7,26", "ecclesiastes,7,27", "ecclesiastes,7,28" ],
+  "verses" : [ {
+    "verse" : "ecclesiastes,7,24",
+    "text" : "Whatever wisdom may be, it is far off and most profound- who can discover it?"
+  }, {
+    "verse" : "ecclesiastes,7,25",
+    "text" : "So I turned my mind to understand, to investigate and to search out wisdom and the scheme of things and to understand the stupidity of wickedness and the madness of folly."
+  }, {
+    "verse" : "ecclesiastes,7,26",
+    "text" : "I find more bitter than death the woman who is a snare, whose heart is a trap and whose hands are chains. The man who pleases God will escape her, but the sinner she will ensnare."
+  }, {
+    "verse" : "ecclesiastes,7,27",
+    "text" : "\"Look,\" says the Teacher, \"this is what I have discovered: \"Adding one thing to another to discover the scheme of things-"
+  }, {
+    "verse" : "ecclesiastes,7,28",
+    "text" : "while I was still searching but not finding- I found one upright man among a thousand, but not one upright woman among them all."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ecclesiastes,7,24",
     "id" : 192451,
@@ -116,7 +200,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eccl 7:24\">7:24</a></b> <b>who can find it out.</b> No one can fully comprehend God’s understanding; it is qualitatively different from human knowledge (<a class=\"bibleref\" href=\"/passage/?search=Eccl 8:16\">8:16</a>, <a class=\"bibleref\" href=\"/passage/?search=Eccl 8:17\">17</a>; <a class=\"bibleref\" href=\"/passage/?search=1Cor 2:11\">1 Cor. 2:11</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ecclesiastes,7,29", "ecclesiastes,8,1", "ecclesiastes,8,2", "ecclesiastes,8,3", "ecclesiastes,8,4" ],
+  "verses" : [ {
+    "verse" : "ecclesiastes,7,29",
+    "text" : "This only have I found: God made mankind upright, but men have gone in search of many schemes.\""
+  }, {
+    "verse" : "ecclesiastes,8,1",
+    "text" : "Who is like the wise man? Who knows the explanation of things? Wisdom brightens a man's face and changes its hard appearance."
+  }, {
+    "verse" : "ecclesiastes,8,2",
+    "text" : "Obey the king's command, I say, because you took an oath before God."
+  }, {
+    "verse" : "ecclesiastes,8,3",
+    "text" : "Do not be in a hurry to leave the king's presence. Do not stand up for a bad cause, for he will do whatever he pleases."
+  }, {
+    "verse" : "ecclesiastes,8,4",
+    "text" : "Since a king's word is supreme, who can say to him, \"What are you doing?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ecclesiastes,7,29",
     "id" : 192452,
@@ -124,7 +223,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eccl 7:29\">7:29</a></b> <b>made man upright.</b> God created Adam morally good (<a class=\"bibleref\" href=\"/passage/?search=Gen 1:31\">Gen. 1:31</a>), but all sin (<a class=\"bibleref\" href=\"/passage/?search=Rom 3:23\">Rom. 3:23</a>; <a class=\"bibleref\" href=\"/passage/?search=Rom 5:12\">5:12</a>). See “The Fall” at <a class=\"bibleref\" href=\"/passage/?search=Gen 3:6\">Gen. 3:6</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ecclesiastes,8,5", "ecclesiastes,8,6", "ecclesiastes,8,7" ],
+  "verses" : [ {
+    "verse" : "ecclesiastes,8,5",
+    "text" : "Whoever obeys his command will come to no harm, and the wise heart will know the proper time and procedure."
+  }, {
+    "verse" : "ecclesiastes,8,6",
+    "text" : "For there is a proper time and procedure for every matter, though a man's misery weighs heavily upon him."
+  }, {
+    "verse" : "ecclesiastes,8,7",
+    "text" : "Since no man knows the future, who can tell him what is to come?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ecclesiastes,8,5-ecclesiastes,8,6",
     "id" : 192453,
@@ -132,7 +240,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eccl 8:5\">8:5</a>, <a class=\"bibleref\" href=\"/passage/?search=Eccl 8:6\">6</a> proper time and the just way.</b> The truly wise seek and commonly find the proper time for every action (<a class=\"bibleref\" href=\"/passage/?search=Eccl 3:1-Eccl 3:8\">3:1–8</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ecclesiastes,8,8" ],
+  "verses" : [ {
+    "verse" : "ecclesiastes,8,8",
+    "text" : "No man has power over the wind to contain it; so no one has power over the day of his death. As no one is discharged in time of war, so wickedness will not release those who practice it."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ecclesiastes,8,8",
     "id" : 192454,
@@ -140,7 +251,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eccl 8:8\">8:8</a></b> <b>power.</b> We cannot control death or evil, but Christ has this power (<a class=\"bibleref\" href=\"/passage/?search=John 10:18\">John 10:18</a>; <a class=\"bibleref\" href=\"/passage/?search=Rev 1:18\">Rev. 1:18</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ecclesiastes,8,9" ],
+  "verses" : [ {
+    "verse" : "ecclesiastes,8,9",
+    "text" : "All this I saw, as I applied my mind to everything done under the sun. There is a time when a man lords it over others to his own hurt."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ecclesiastes,8,9",
     "id" : 192455,
@@ -148,7 +262,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eccl 8:9\">8:9</a></b> <b>to his hurt.</b> Probably this means to hurt the one ruled. Solomon has seen how the irresponsible use of God-given authority injures people (<a class=\"bibleref\" href=\"/passage/?search=Rom 13:3\">Rom. 13:3</a>, <a class=\"bibleref\" href=\"/passage/?search=Rom 13:4\">4</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ecclesiastes,8,10", "ecclesiastes,8,11", "ecclesiastes,8,12", "ecclesiastes,8,13" ],
+  "verses" : [ {
+    "verse" : "ecclesiastes,8,10",
+    "text" : "Then too, I saw the wicked buried-those who used to come and go from the holy place and receive praise in the city where they did this. This too is meaningless."
+  }, {
+    "verse" : "ecclesiastes,8,11",
+    "text" : "When the sentence for a crime is not quickly carried out, the hearts of the people are filled with schemes to do wrong."
+  }, {
+    "verse" : "ecclesiastes,8,12",
+    "text" : "Although a wicked man commits a hundred crimes and still lives a long time, I know that it will go better with God-fearing men, who are reverent before God."
+  }, {
+    "verse" : "ecclesiastes,8,13",
+    "text" : "Yet because the wicked do not fear God, it will not go well with them, and their days will not lengthen like a shadow."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ecclesiastes,8,10-ecclesiastes,8,13",
     "id" : 192456,
@@ -156,7 +282,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eccl 8:10-Eccl 8:13\">8:10–13</a></b> Though inequities abound in human societies, as experienced in civil disorders of our own time, God will nevertheless settle all accounts justly.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ecclesiastes,8,14" ],
+  "verses" : [ {
+    "verse" : "ecclesiastes,8,14",
+    "text" : "There is something else meaningless that occurs on earth: righteous men who get what the wicked deserve, and wicked men who get what the righteous deserve. This too, I say, is meaningless."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ecclesiastes,8,14",
     "id" : 192457,
@@ -164,7 +293,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eccl 8:14\">8:14</a></b> <b>on earth.</b> In this life the righteous and wicked do not necessarily get what they deserve.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ecclesiastes,8,15", "ecclesiastes,8,16" ],
+  "verses" : [ {
+    "verse" : "ecclesiastes,8,15",
+    "text" : "So I commend the enjoyment of life, because nothing is better for a man under the sun than to eat and drink and be glad. Then joy will accompany him in his work all the days of the life God has given him under the sun."
+  }, {
+    "verse" : "ecclesiastes,8,16",
+    "text" : "When I applied my mind to know wisdom and to observe man's labor on earth-his eyes not seeing sleep day or night-"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ecclesiastes,8,15",
     "id" : 192458,
@@ -172,7 +307,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eccl 8:15\">8:15</a></b> <b>commend.</b> In the face of injustice, people are nevertheless to rejoice in this life. Solomon’s mode of expression is pessimistic, but in the immediate context he mentions that life is the gift of God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ecclesiastes,8,17" ],
+  "verses" : [ {
+    "verse" : "ecclesiastes,8,17",
+    "text" : "then I saw all that God has done. No one can comprehend what goes on under the sun. Despite all his efforts to search it out, man cannot discover its meaning. Even if a wise man claims he knows, he cannot really comprehend it."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ecclesiastes,8,17",
     "id" : 192459,
@@ -180,7 +318,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eccl 8:17\">8:17</a></b> <b>all the work of God.</b> See <a class=\"bibleref\" href=\"/passage/?search=Eccl 7:13\">7:13</a>; <a class=\"bibleref\" href=\"/passage/?search=Eccl 11:5\">11:5</a>.</p><p><b>cannot find out.</b> God’s work cannot be fathomed.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ecclesiastes,9,1", "ecclesiastes,9,2" ],
+  "verses" : [ {
+    "verse" : "ecclesiastes,9,1",
+    "text" : "So I reflected on all this and concluded that the righteous and the wise and what they do are in God's hands, but no man knows whether love or hate awaits him."
+  }, {
+    "verse" : "ecclesiastes,9,2",
+    "text" : "All share a common destiny-the righteous and the wicked, the good and the bad, the clean and the unclean, those who offer sacrifices and those who do not. As it is with the good man, so with the sinner; as it is with those who take oaths, so with those who are afraid to take them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ecclesiastes,9,1-ecclesiastes,9,10",
     "id" : 192460,
@@ -193,7 +337,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eccl 9:1\">9:1</a></b> <b>in the hand of God.</b> God sovereignly controls the affairs of both the righteous and wicked.</p><p><b>love or hate.</b> Presently both “good” and “bad” things happen to righteous and wicked people according to God’s inscrutable design (<a class=\"bibleref\" href=\"/passage/?search=Matt 5:44\">Matt. 5:44</a>, <a class=\"bibleref\" href=\"/passage/?search=Matt 5:45\">45</a>; <a class=\"bibleref\" href=\"/passage/?search=Luke 13:1-Luke 13:5\">Luke 13:1–5</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ecclesiastes,9,3", "ecclesiastes,9,4", "ecclesiastes,9,5", "ecclesiastes,9,6", "ecclesiastes,9,7", "ecclesiastes,9,8", "ecclesiastes,9,9" ],
+  "verses" : [ {
+    "verse" : "ecclesiastes,9,3",
+    "text" : "This is the evil in everything that happens under the sun: The same destiny overtakes all. The hearts of men, moreover, are full of evil and there is madness in their hearts while they live, and afterward they join the dead."
+  }, {
+    "verse" : "ecclesiastes,9,4",
+    "text" : "Anyone who is among the living has hope -even a live dog is better off than a dead lion!"
+  }, {
+    "verse" : "ecclesiastes,9,5",
+    "text" : "For the living know that they will die, but the dead know nothing; they have no further reward, and even the memory of them is forgotten."
+  }, {
+    "verse" : "ecclesiastes,9,6",
+    "text" : "Their love, their hate and their jealousy have long since vanished; never again will they have a part in anything that happens under the sun."
+  }, {
+    "verse" : "ecclesiastes,9,7",
+    "text" : "Go, eat your food with gladness, and drink your wine with a joyful heart, for it is now that God favors what you do."
+  }, {
+    "verse" : "ecclesiastes,9,8",
+    "text" : "Always be clothed in white, and always anoint your head with oil."
+  }, {
+    "verse" : "ecclesiastes,9,9",
+    "text" : "Enjoy life with your wife, whom you love, all the days of this meaningless life that God has given you under the sun- all your meaningless days. For this is your lot in life and in your toilsome labor under the sun."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ecclesiastes,9,3",
     "id" : 192462,
@@ -201,7 +366,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eccl 9:3\">9:3</a></b> <b>full of evil.</b> People are totally depraved, that is, corrupt in every aspect (<a class=\"bibleref\" href=\"/passage/?search=Gen 6:5\">Gen. 6:5</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ecclesiastes,9,10" ],
+  "verses" : [ {
+    "verse" : "ecclesiastes,9,10",
+    "text" : "Whatever your hand finds to do, do it with all your might, for in the grave, where you are going, there is neither working nor planning nor knowledge nor wisdom."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ecclesiastes,9,10",
     "id" : 192463,
@@ -209,7 +377,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eccl 9:10\">9:10</a></b> <b>with your might.</b> Like <a class=\"bibleref\" href=\"/passage/?search=Eccl 9:4\">v. 4</a>, this verse emphasizes the necessity of dealing with life as we find it.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ecclesiastes,9,11", "ecclesiastes,9,12", "ecclesiastes,9,13", "ecclesiastes,9,14", "ecclesiastes,9,15" ],
+  "verses" : [ {
+    "verse" : "ecclesiastes,9,11",
+    "text" : "I have seen something else under the sun: The race is not to the swift or the battle to the strong, nor does food come to the wise or wealth to the brilliant or favor to the learned; but time and chance happen to them all."
+  }, {
+    "verse" : "ecclesiastes,9,12",
+    "text" : "Moreover, no man knows when his hour will come: As fish are caught in a cruel net, or birds are taken in a snare, so men are trapped by evil times that fall unexpectedly upon them."
+  }, {
+    "verse" : "ecclesiastes,9,13",
+    "text" : "I also saw under the sun this example of wisdom that greatly impressed me:"
+  }, {
+    "verse" : "ecclesiastes,9,14",
+    "text" : "There was once a small city with only a few people in it. And a powerful king came against it, surrounded it and built huge siegeworks against it."
+  }, {
+    "verse" : "ecclesiastes,9,15",
+    "text" : "Now there lived in that city a man poor but wise, and he saved the city by his wisdom. But nobody remembered that poor man."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ecclesiastes,9,11-ecclesiastes,9,12",
     "id" : 192464,
@@ -217,7 +400,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eccl 9:11\">9:11</a>, <a class=\"bibleref\" href=\"/passage/?search=Eccl 9:12\">12</a> chance.</b> Solomon describes people as victims of inscrutable or even cruel chance. Nevertheless, the believer understands that God orders events in unexpected ways.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ecclesiastes,9,16", "ecclesiastes,9,17", "ecclesiastes,9,18" ],
+  "verses" : [ {
+    "verse" : "ecclesiastes,9,16",
+    "text" : "So I said, \"Wisdom is better than strength.\" But the poor man's wisdom is despised, and his words are no longer heeded."
+  }, {
+    "verse" : "ecclesiastes,9,17",
+    "text" : "The quiet words of the wise are more to be heeded than the shouts of a ruler of fools."
+  }, {
+    "verse" : "ecclesiastes,9,18",
+    "text" : "Wisdom is better than weapons of war, but one sinner destroys much good."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ecclesiastes,9,16",
     "id" : 192465,

@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "deuteronomy,23,1", "deuteronomy,23,2" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,23,1",
+    "text" : "No one who has been emasculated by crushing or cutting may enter the assembly of the LORD."
+  }, {
+    "verse" : "deuteronomy,23,2",
+    "text" : "No one born of a forbidden marriage nor any of his descendants may enter the assembly of the LORD, even down to the tenth generation."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,12,1-deuteronomy,26,19",
     "id" : 186462,
@@ -12,7 +18,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 23:1\">23:1</a></b> <b>the assembly of the <span class=\"small-caps\">Lord</span>.</b> This phrase refers to the worshiping community gathered before the presence of God, rather than to Israel’s population as a whole (<a class=\"bibleref\" href=\"/passage/?search=Neh 13:1-Neh 13:3\">Neh. 13:1–3</a>). The Hebrew word for “assembly” (<i>qahal</i>) is usually rendered <i>ekklesia</i> in the Septuagint (the Greek Old Testament). This is also the term used in the Greek New Testament for “church.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,23,3" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,23,3",
+    "text" : "No Ammonite or Moabite or any of his descendants may enter the assembly of the LORD, even down to the tenth generation."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,23,3",
     "id" : 186540,
@@ -20,7 +29,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 23:3\">23:3</a></b> <b>Ammonite or Moabite . . . the tenth generation.</b> As the word “forever” in this verse indicates, “tenth generation” is probably an idiom denoting permanent exclusion from the worshiping community of Israel (cf. <a class=\"bibleref\" href=\"/passage/?search=Neh 13:1\">Neh. 13:1</a>). This special exclusion of Ammonites and Moabites was due, not to their incestuous origin (<a class=\"bibleref\" href=\"/passage/?search=Gen 19:30-Gen 19:38\">Gen. 19:30–38</a>), but to their stubborn opposition to Israel (v. 4; <a class=\"bibleref\" href=\"/passage/?search=Neh 13:2\">Neh. 13:2</a>). The Old Testament also looks forward to a new covenant in which the exclusions of this passage are transcended (<a class=\"bibleref\" href=\"/passage/?search=Isa 56:3-Isa 56:8\">Is. 56:3–8</a>), an event prefigured by Ruth, the Moabite who became the ancestor of David and of the Messiah (<a class=\"bibleref\" href=\"/passage/?search=Ruth 1:4\">Ruth 1:4</a>; <a class=\"bibleref\" href=\"/passage/?search=Ruth 4:17\">4:17</a>; <a class=\"bibleref\" href=\"/passage/?search=Matt 1:5\">Matt. 1:5</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,23,4", "deuteronomy,23,5", "deuteronomy,23,6", "deuteronomy,23,7", "deuteronomy,23,8" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,23,4",
+    "text" : "For they did not come to meet you with bread and water on your way when you came out of Egypt, and they hired Balaam son of Beor from Pethor in Aram Naharaim to pronounce a curse on you."
+  }, {
+    "verse" : "deuteronomy,23,5",
+    "text" : "However, the LORD your God would not listen to Balaam but turned the curse into a blessing for you, because the LORD your God loves you."
+  }, {
+    "verse" : "deuteronomy,23,6",
+    "text" : "Do not seek a treaty of friendship with them as long as you live."
+  }, {
+    "verse" : "deuteronomy,23,7",
+    "text" : "Do not abhor an Edomite, for he is your brother. Do not abhor an Egyptian, because you lived as an alien in his country."
+  }, {
+    "verse" : "deuteronomy,23,8",
+    "text" : "The third generation of children born to them may enter the assembly of the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,23,4",
     "id" : 186541,
@@ -28,7 +52,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 23:4\">23:4</a></b> <b>Balaam.</b> Note the clear reference to details in <a class=\"bibleref\" href=\"/passage/?search=Num 22-Num 24\">Num. 22–24</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,23,9", "deuteronomy,23,10", "deuteronomy,23,11", "deuteronomy,23,12", "deuteronomy,23,13", "deuteronomy,23,14" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,23,9",
+    "text" : "When you are encamped against your enemies, keep away from everything impure."
+  }, {
+    "verse" : "deuteronomy,23,10",
+    "text" : "If one of your men is unclean because of a nocturnal emission, he is to go outside the camp and stay there."
+  }, {
+    "verse" : "deuteronomy,23,11",
+    "text" : "But as evening approaches he is to wash himself, and at sunset he may return to the camp."
+  }, {
+    "verse" : "deuteronomy,23,12",
+    "text" : "Designate a place outside the camp where you can go to relieve yourself."
+  }, {
+    "verse" : "deuteronomy,23,13",
+    "text" : "As part of your equipment have something to dig with, and when you relieve yourself, dig a hole and cover up your excrement."
+  }, {
+    "verse" : "deuteronomy,23,14",
+    "text" : "For the LORD your God moves about in your camp to protect you and to deliver your enemies to you. Your camp must be holy, so that he will not see among you anything indecent and turn away from you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,23,9-deuteronomy,23,14",
     "id" : 186542,
@@ -36,7 +78,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 23:9-Deut 23:14\">23:9–14</a></b> Because the camp of Israelite soldiers was a place of God’s presence as divine Warrior (<a class=\"bibleref\" href=\"/passage/?search=Deut 23:14\">v. 14</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 20:4\">20:4</a>), the camp was to be kept pure of unclean things. In view here are occurrences that were both hygienically and ceremonially unclean: instances of urination or perhaps nocturnal emission (<a class=\"bibleref\" href=\"/passage/?search=Deut 20:10\">v. 10</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Lev 15:16\">Lev. 15:16</a>), and defecation in the camp (v. 13).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,23,15", "deuteronomy,23,16" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,23,15",
+    "text" : "If a slave has taken refuge with you, do not hand him over to his master."
+  }, {
+    "verse" : "deuteronomy,23,16",
+    "text" : "Let him live among you wherever he likes and in whatever town he chooses. Do not oppress him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,23,15",
     "id" : 186543,
@@ -44,7 +92,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 23:15\">23:15</a></b> <b>slave who has escaped.</b> Slavery in Israel was carefully regulated and its abuses limited (<a class=\"bibleref\" href=\"/passage/?search=Deut 15:12\">15:12</a> note). In view here is an escaped slave from another country who takes refuge in Israel.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,23,17", "deuteronomy,23,18" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,23,17",
+    "text" : "No Israelite man or woman is to become a shrine prostitute."
+  }, {
+    "verse" : "deuteronomy,23,18",
+    "text" : "You must not bring the earnings of a female prostitute or of a male prostitute into the house of the LORD your God to pay any vow, because the LORD your God detests them both."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,23,17",
     "id" : 186544,
@@ -52,7 +106,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 23:17\">23:17</a></b> <b>cult prostitute.</b> Ritual prostitution, involving both male and female prostitutes, was characteristic of the Canaanite fertility religions.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,23,19", "deuteronomy,23,20" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,23,19",
+    "text" : "Do not charge your brother interest, whether on money or food or anything else that may earn interest."
+  }, {
+    "verse" : "deuteronomy,23,20",
+    "text" : "You may charge a foreigner interest, but not a brother Israelite, so that the LORD your God may bless you in everything you put your hand to in the land you are entering to possess."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,23,19",
     "id" : 186545,
@@ -60,7 +120,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 23:19\">23:19</a></b> <b>interest.</b> The agricultural economy of ancient Israel was very different from the commercial economy of today, and borrowing was usually due to poverty. God desired to bless an obedient Israel so that borrowing would be unnecessary (<a class=\"bibleref\" href=\"/passage/?search=Deut 15:4\">15:4</a> note), and those whom the Lord had blessed materially were to assist fellow Israelites in distress by not charging interest. This regulation did not apply to those outside the covenant (the “foreigner,” <a class=\"bibleref\" href=\"/passage/?search=Deut 15:20\">v. 20</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,23,21", "deuteronomy,23,22", "deuteronomy,23,23", "deuteronomy,23,24", "deuteronomy,23,25" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,23,21",
+    "text" : "If you make a vow to the LORD your God, do not be slow to pay it, for the LORD your God will certainly demand it of you and you will be guilty of sin."
+  }, {
+    "verse" : "deuteronomy,23,22",
+    "text" : "But if you refrain from making a vow, you will not be guilty."
+  }, {
+    "verse" : "deuteronomy,23,23",
+    "text" : "Whatever your lips utter you must be sure to do, because you made your vow freely to the LORD your God with your own mouth."
+  }, {
+    "verse" : "deuteronomy,23,24",
+    "text" : "If you enter your neighbor's vineyard, you may eat all the grapes you want, but do not put any in your basket."
+  }, {
+    "verse" : "deuteronomy,23,25",
+    "text" : "If you enter your neighbor's grainfield, you may pick kernels with your hands, but you must not put a sickle to his standing grain."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,23,21",
     "id" : 186546,
@@ -68,7 +143,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 23:21\">23:21</a></b> <b>a vow to the <span class=\"small-caps\">Lord</span>.</b> Such a vow was given voluntarily (<a class=\"bibleref\" href=\"/passage/?search=Deut 23:22\">v. 22</a>). It was a serious matter, and if a valid vow, must be kept. The law of vows is given fully in <a class=\"bibleref\" href=\"/passage/?search=Lev 27\">Lev. 27</a> and <a class=\"bibleref\" href=\"/passage/?search=Num 30\">Num. 30</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,24,1", "deuteronomy,24,2", "deuteronomy,24,3", "deuteronomy,24,4" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,24,1",
+    "text" : "If a man marries a woman who becomes displeasing to him because he finds something indecent about her, and he writes her a certificate of divorce, gives it to her and sends her from his house,"
+  }, {
+    "verse" : "deuteronomy,24,2",
+    "text" : "and if after she leaves his house she becomes the wife of another man,"
+  }, {
+    "verse" : "deuteronomy,24,3",
+    "text" : "and her second husband dislikes her and writes her a certificate of divorce, gives it to her and sends her from his house, or if he dies,"
+  }, {
+    "verse" : "deuteronomy,24,4",
+    "text" : "then her first husband, who divorced her, is not allowed to marry her again after she has been defiled. That would be detestable in the eyes of the LORD. Do not bring sin upon the land the LORD your God is giving you as an inheritance."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,24,1-deuteronomy,24,4",
     "id" : 186547,
@@ -81,7 +168,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 24:1\">24:1</a></b> <b>some indecency.</b> The Hebrew of this phrase is the same as “anything indecent” in <a class=\"bibleref\" href=\"/passage/?search=Deut 23:14\">23:14</a>, and is rather general. Adultery is apparently not in view, for adultery was punishable by death (<a class=\"bibleref\" href=\"/passage/?search=Deut 22:22\">22:22</a>). The fact of divorce for a variety of reasons is recognized, but not necessarily condoned (<a class=\"bibleref\" href=\"/passage/?search=Deut 22:1-Deut 22:3\">vv. 1–3</a> are descriptive, not prescriptive).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,24,5" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,24,5",
+    "text" : "If a man has recently married, he must not be sent to war or have any other duty laid on him. For one year he is to be free to stay at home and bring happiness to the wife he has married."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,24,5",
     "id" : 186549,
@@ -89,7 +179,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 24:5\">24:5</a></b> <b>newly married.</b> A one-year exemption for the newly married would not only strengthen the marriage relationship and benefit the home, but would also help the morale of the army (<a class=\"bibleref\" href=\"/passage/?search=Deut 20:1\">20:1</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,24,6" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,24,6",
+    "text" : "Do not take a pair of millstones-not even the upper one-as security for a debt, because that would be taking a man's livelihood as security."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,24,6",
     "id" : 186550,
@@ -97,7 +190,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 24:6\">24:6</a></b> <b>take . . . in pledge.</b> Because loans were typically given to relieve the economic hardship of the borrower (<a class=\"bibleref\" href=\"/passage/?search=Deut 23:19\">23:19</a> note), the material given “in pledge” was likely not collateral property of value equal to the amount of the loan, but a personal possession given as a token of the promise to pay. In keeping with the purpose of the loan, the lender was not to cause further hardship to the borrower by confiscating essential items such as household millstones or outer garments (<a class=\"bibleref\" href=\"/passage/?search=Deut 23:10-Deut 23:13\">vv. 10–13</a>, <a class=\"bibleref\" href=\"/passage/?search=Deut 23:17\">17</a>). Other references to Old Testament borrowing practices include <a class=\"bibleref\" href=\"/passage/?search=Exod 22:26\">Ex. 22:26</a>, <a class=\"bibleref\" href=\"/passage/?search=Exod 22:27\">27</a>; <a class=\"bibleref\" href=\"/passage/?search=Job 22:6\">Job 22:6</a>; <a class=\"bibleref\" href=\"/passage/?search=Job 24:3\">24:3</a>, <a class=\"bibleref\" href=\"/passage/?search=Job 24:9\">9</a>; <a class=\"bibleref\" href=\"/passage/?search=Amos 2:8\">Amos 2:8</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,24,7" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,24,7",
+    "text" : "If a man is caught kidnapping one of his brother Israelites and treats him as a slave or sells him, the kidnapper must die. You must purge the evil from among you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,24,7",
     "id" : 186551,
@@ -105,7 +201,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 24:7\">24:7</a></b> <b>stealing . . . his brothers.</b> The chief purpose of kidnapping was the enslavement of others for profit. To sell fellow Israelites into slavery in other countries was forbidden on pain of death, probably because such slaves were cut off from the life of the covenant community (itself a form of “death,” <a class=\"bibleref\" href=\"/passage/?search=Exod 12:19\">Ex. 12:19</a> and <a class=\"bibleref\" href=\"/passage/?search=Lev 7:20\">Lev. 7:20</a> notes). Indentured slavery was allowed within Israel, but was tempered in several important ways (15:12 note). Paul condemns slave traders (“enslavers”) together with other violators of the Ten Commandments (<a class=\"bibleref\" href=\"/passage/?search=1Tim 1:10\">1 Tim. 1:10</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,24,8", "deuteronomy,24,9", "deuteronomy,24,10", "deuteronomy,24,11", "deuteronomy,24,12", "deuteronomy,24,13" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,24,8",
+    "text" : "In cases of leprous diseases be very careful to do exactly as the priests, who are Levites, instruct you. You must follow carefully what I have commanded them."
+  }, {
+    "verse" : "deuteronomy,24,9",
+    "text" : "Remember what the LORD your God did to Miriam along the way after you came out of Egypt."
+  }, {
+    "verse" : "deuteronomy,24,10",
+    "text" : "When you make a loan of any kind to your neighbor, do not go into his house to get what he is offering as a pledge."
+  }, {
+    "verse" : "deuteronomy,24,11",
+    "text" : "Stay outside and let the man to whom you are making the loan bring the pledge out to you."
+  }, {
+    "verse" : "deuteronomy,24,12",
+    "text" : "If the man is poor, do not go to sleep with his pledge in your possession."
+  }, {
+    "verse" : "deuteronomy,24,13",
+    "text" : "Return his cloak to him by sunset so that he may sleep in it. Then he will thank you, and it will be regarded as a righteous act in the sight of the LORD your God."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,24,8",
     "id" : 186552,
@@ -113,7 +227,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 24:8\">24:8</a></b> <b>leprous disease.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Lev 13\">Lev. 13</a>; <a class=\"bibleref\" href=\"/passage/?search=Lev 14\">14</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,24,14", "deuteronomy,24,15" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,24,14",
+    "text" : "Do not take advantage of a hired man who is poor and needy, whether he is a brother Israelite or an alien living in one of your towns."
+  }, {
+    "verse" : "deuteronomy,24,15",
+    "text" : "Pay him his wages each day before sunset, because he is poor and is counting on it. Otherwise he may cry to the LORD against you, and you will be guilty of sin."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,24,14",
     "id" : 186553,
@@ -121,7 +241,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 24:14\">24:14 a</a></b> <b>hired servant who is poor.</b> God’s concern for the poor and oppressed is emphasized in this passage (<a class=\"bibleref\" href=\"/passage/?search=Ps 9:18\">Ps. 9:18</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,24,16", "deuteronomy,24,17", "deuteronomy,24,18" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,24,16",
+    "text" : "Fathers shall not be put to death for their children, nor children put to death for their fathers; each is to die for his own sin."
+  }, {
+    "verse" : "deuteronomy,24,17",
+    "text" : "Do not deprive the alien or the fatherless of justice, or take the cloak of the widow as a pledge."
+  }, {
+    "verse" : "deuteronomy,24,18",
+    "text" : "Remember that you were slaves in Egypt and the LORD your God redeemed you from there. That is why I command you to do this."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,24,16",
     "id" : 186554,
@@ -129,7 +258,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 24:16\">24:16</a></b> <b>Fathers shall not be put to death because of their children.</b> This interesting and just law is quoted in <a class=\"bibleref\" href=\"/passage/?search=2Kgs 14:6\">2 Kin. 14:6</a> and <a class=\"bibleref\" href=\"/passage/?search=2Chr 25:4\">2 Chr. 25:4</a>, where it is cited as from the “Book of the Law of Moses” or the “Law in the Book of Moses.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,24,19", "deuteronomy,24,20", "deuteronomy,24,21", "deuteronomy,24,22", "deuteronomy,25,1", "deuteronomy,25,2" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,24,19",
+    "text" : "When you are harvesting in your field and you overlook a sheaf, do not go back to get it. Leave it for the alien, the fatherless and the widow, so that the LORD your God may bless you in all the work of your hands."
+  }, {
+    "verse" : "deuteronomy,24,20",
+    "text" : "When you beat the olives from your trees, do not go over the branches a second time. Leave what remains for the alien, the fatherless and the widow."
+  }, {
+    "verse" : "deuteronomy,24,21",
+    "text" : "When you harvest the grapes in your vineyard, do not go over the vines again. Leave what remains for the alien, the fatherless and the widow."
+  }, {
+    "verse" : "deuteronomy,24,22",
+    "text" : "Remember that you were slaves in Egypt. That is why I command you to do this."
+  }, {
+    "verse" : "deuteronomy,25,1",
+    "text" : "When men have a dispute, they are to take it to court and the judges will decide the case, acquitting the innocent and condemning the guilty."
+  }, {
+    "verse" : "deuteronomy,25,2",
+    "text" : "If the guilty man deserves to be beaten, the judge shall make him lie down and have him flogged in his presence with the number of lashes his crime deserves,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,24,19",
     "id" : 186555,
@@ -137,7 +284,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 24:19\">24:19</a></b> <b>When you reap your harvest.</b> The compassionate intention of this law is realized in <a class=\"bibleref\" href=\"/passage/?search=Ruth 2:2-Ruth 2:23\">Ruth 2:2–23</a> (cf. <a class=\"bibleref\" href=\"/passage/?search=Lev 19:9\">Lev. 19:9</a>, <a class=\"bibleref\" href=\"/passage/?search=Lev 19:10\">10</a>; <a class=\"bibleref\" href=\"/passage/?search=Lev 23:22\">23:22</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,25,3" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,25,3",
+    "text" : "but he must not give him more than forty lashes. If he is flogged more than that, your brother will be degraded in your eyes."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,25,3",
     "id" : 186556,
@@ -145,7 +295,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 25:3\">25:3</a></b> <b>Forty stripes.</b> This is the background of the Jewish practice of giving “forty lashes less one” (<a class=\"bibleref\" href=\"/passage/?search=2Cor 11:24\">2 Cor. 11:24</a>). The intent was to guard against any possible miscount by erring on the side of mercy.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,25,4" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,25,4",
+    "text" : "Do not muzzle an ox while it is treading out the grain."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,25,4",
     "id" : 186557,
@@ -153,7 +306,31 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 25:4\">25:4</a></b> <b>You shall not muzzle an ox.</b> According to Paul, this provision for oxen points to the more general principle that those who labor, particularly Christian ministers, deserve fair remuneration for their work (<a class=\"bibleref\" href=\"/passage/?search=1Cor 9:9-1Cor 9:12\">1 Cor. 9:9–12</a>; <a class=\"bibleref\" href=\"/passage/?search=1Tim 5:18\">1 Tim. 5:18</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,25,5", "deuteronomy,25,6", "deuteronomy,25,7", "deuteronomy,25,8", "deuteronomy,25,9", "deuteronomy,25,10", "deuteronomy,25,11", "deuteronomy,25,12" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,25,5",
+    "text" : "If brothers are living together and one of them dies without a son, his widow must not marry outside the family. Her husband's brother shall take her and marry her and fulfill the duty of a brother-in-law to her."
+  }, {
+    "verse" : "deuteronomy,25,6",
+    "text" : "The first son she bears shall carry on the name of the dead brother so that his name will not be blotted out from Israel."
+  }, {
+    "verse" : "deuteronomy,25,7",
+    "text" : "However, if a man does not want to marry his brother's wife, she shall go to the elders at the town gate and say, \"My husband's brother refuses to carry on his brother's name in Israel. He will not fulfill the duty of a brother-in-law to me.\""
+  }, {
+    "verse" : "deuteronomy,25,8",
+    "text" : "Then the elders of his town shall summon him and talk to him. If he persists in saying, \"I do not want to marry her,\""
+  }, {
+    "verse" : "deuteronomy,25,9",
+    "text" : "his brother's widow shall go up to him in the presence of the elders, take off one of his sandals, spit in his face and say, \"This is what is done to the man who will not build up his brother's family line.\""
+  }, {
+    "verse" : "deuteronomy,25,10",
+    "text" : "That man's line shall be known in Israel as The Family of the Unsandaled."
+  }, {
+    "verse" : "deuteronomy,25,11",
+    "text" : "If two men are fighting and the wife of one of them comes to rescue her husband from his assailant, and she reaches out and seizes him by his private parts,"
+  }, {
+    "verse" : "deuteronomy,25,12",
+    "text" : "you shall cut off her hand. Show her no pity."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,25,5",
     "id" : 186558,
@@ -161,7 +338,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 25:5\">25:5</a></b> <b>Her husband’s brother.</b> The law of levirate marriage (from the Latin word <i>levir,</i> meaning “husband’s brother”) is given only here. The limitation to brothers who “dwell together” may indicate that it applied to an unmarried brother, but it is doubtful that this limitation held in practice. The obvious purpose of the arrangement was to maintain the property rights of the deceased’s family line. The levirate custom dates to patriarchal times and is mentioned in <a class=\"bibleref\" href=\"/passage/?search=Gen 38:8-Gen 38:11\">Gen. 38:8–11</a>; <a class=\"bibleref\" href=\"/passage/?search=Ruth 3:1-Ruth 4:12\">Ruth 3:1–4:12</a>; <a class=\"bibleref\" href=\"/passage/?search=Matt 22:23-Matt 22:28\">Matt. 22:23–28</a>; <a class=\"bibleref\" href=\"/passage/?search=Mark 12:18-Mark 12:23\">Mark 12:18–23</a>; and <a class=\"bibleref\" href=\"/passage/?search=Luke 20:27-Luke 20:33\">Luke 20:27–33</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,25,13", "deuteronomy,25,14", "deuteronomy,25,15", "deuteronomy,25,16" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,25,13",
+    "text" : "Do not have two differing weights in your bag-one heavy, one light."
+  }, {
+    "verse" : "deuteronomy,25,14",
+    "text" : "Do not have two differing measures in your house-one large, one small."
+  }, {
+    "verse" : "deuteronomy,25,15",
+    "text" : "You must have accurate and honest weights and measures, so that you may live long in the land the LORD your God is giving you."
+  }, {
+    "verse" : "deuteronomy,25,16",
+    "text" : "For the LORD your God detests anyone who does these things, anyone who deals dishonestly."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,25,13",
     "id" : 186559,
@@ -169,7 +358,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 25:13\">25:13</a></b> <b>two kinds of weights.</b> God’s displeasure at dishonest business dealing is stressed (<a class=\"bibleref\" href=\"/passage/?search=Lev 19:35\">Lev. 19:35</a>, <a class=\"bibleref\" href=\"/passage/?search=Lev 19:36\">36</a>; <a class=\"bibleref\" href=\"/passage/?search=Prov 11:1\">Prov. 11:1</a>; <a class=\"bibleref\" href=\"/passage/?search=Prov 16:21\">16:21</a>; <a class=\"bibleref\" href=\"/passage/?search=Prov 20:10\">20:10</a>, <a class=\"bibleref\" href=\"/passage/?search=Prov 20:23\">23</a>; and <a class=\"bibleref\" href=\"/passage/?search=Mic 6:11\">Mic. 6:11</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,25,17", "deuteronomy,25,18", "deuteronomy,25,19" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,25,17",
+    "text" : "Remember what the Amalekites did to you along the way when you came out of Egypt."
+  }, {
+    "verse" : "deuteronomy,25,18",
+    "text" : "When you were weary and worn out, they met you on your journey and cut off all who were lagging behind; they had no fear of God."
+  }, {
+    "verse" : "deuteronomy,25,19",
+    "text" : "When the LORD your God gives you rest from all the enemies around you in the land he is giving you to possess as an inheritance, you shall blot out the memory of Amalek from under heaven. Do not forget!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,25,17-deuteronomy,25,19",
     "id" : 186560,

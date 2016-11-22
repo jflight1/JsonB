@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,21,27" ],
+  "verses" : [ {
+    "verse" : "proverbs,21,27",
+    "text" : "The sacrifice of the wicked is detestable- how much more so when brought with evil intent!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

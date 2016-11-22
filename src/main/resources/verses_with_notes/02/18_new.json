@@ -1,8 +1,20 @@
 [ {
-  "singleVerses" : [ "mark,3,7" ],
+  "verses" : [ {
+    "verse" : "mark,3,7",
+    "text" : "Jesus withdrew with his disciples to the lake, and a large crowd from Galilee followed."
+  } ],
   "rsbNotes" : [ ]
 }, {
-  "singleVerses" : [ "mark,3,8", "mark,3,9", "mark,3,10" ],
+  "verses" : [ {
+    "verse" : "mark,3,8",
+    "text" : "When they heard all he was doing, many people came to him from Judea, Jerusalem, Idumea, and the regions across the Jordan and around Tyre and Sidon."
+  }, {
+    "verse" : "mark,3,9",
+    "text" : "Because of the crowd he told his disciples to have a small boat ready for him, to keep the people from crowding him."
+  }, {
+    "verse" : "mark,3,10",
+    "text" : "For he had healed many, so that those with diseases were pushing forward to touch him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,3,8",
     "id" : 196012,
@@ -10,7 +22,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 3:8\">3:8</a></b> <b>great crowd.</b> The phrase is repeated twice (<a class=\"bibleref\" href=\"/passage/?search=Mark 3:8\">vv. 8</a>, <a class=\"bibleref\" href=\"/passage/?search=Mark 3:9\">9</a>). Jesus’ public ministry, in spite of the opposition of the ruling elite (<a class=\"bibleref\" href=\"/passage/?search=Mark 3:6\">v. 6</a>), is becoming a mass movement. Jesus is so crowded that He must take refuge in a small boat (<a class=\"bibleref\" href=\"/passage/?search=Mark 3:9\">v. 9</a>). People are coming to Galilee from everywhere to hear Him.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,3,11" ],
+  "verses" : [ {
+    "verse" : "mark,3,11",
+    "text" : "Whenever the evil spirits saw him, they fell down before him and cried out, \"You are the Son of God.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,3,11",
     "id" : 196013,
@@ -18,7 +33,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 3:11\">3:11</a></b> <b>whenever the unclean spirits saw him.</b> Although the crowds are Jewish (cf. <a class=\"bibleref\" href=\"/passage/?search=Mark 7:26-Mark 7:29\">7:26–29</a>), Jesus is constantly meeting people possessed with evil spirits. In the presence of Jesus the true nature of the combat (<a class=\"bibleref\" href=\"/passage/?search=Eph 6:12\">Eph. 6:12</a>) becomes evident. The demons are exposed, and they expose the true identity of Jesus, the Son of God (1:1; 15:39 and notes).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,3,12" ],
+  "verses" : [ {
+    "verse" : "mark,3,12",
+    "text" : "But he gave them strict orders not to tell who he was."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,3,12",
     "id" : 196014,
@@ -26,7 +44,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 3:12\">3:12</a></b> <b>strictly ordered.</b> See <a class=\"bibleref\" href=\"/passage/?search=Mark 1:34\">1:34</a>, <a class=\"bibleref\" href=\"/passage/?search=Mark 1:43\">43</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,3,13" ],
+  "verses" : [ {
+    "verse" : "mark,3,13",
+    "text" : "Jesus went up on a mountainside and called to him those he wanted, and they came to him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,3,13",
     "id" : 196015,
@@ -34,7 +55,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 3:13\">3:13</a></b> <b>those whom he desired.</b> Mark emphasizes that the choice of the apostles has its origin in Jesus’ determined purpose.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,3,14", "mark,3,15", "mark,3,16", "mark,3,17" ],
+  "verses" : [ {
+    "verse" : "mark,3,14",
+    "text" : "He appointed twelve--designating them apostles--that they might be with him and that he might send them out to preach"
+  }, {
+    "verse" : "mark,3,15",
+    "text" : "and to have authority to drive out demons."
+  }, {
+    "verse" : "mark,3,16",
+    "text" : "These are the twelve he appointed: Simon (to whom he gave the name Peter);"
+  }, {
+    "verse" : "mark,3,17",
+    "text" : "James son of Zebedee and his brother John (to them he gave the name Boanerges, which means Sons of Thunder);"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,3,14",
     "id" : 196016,
@@ -42,7 +75,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 3:14\">3:14</a></b> <b>he appointed twelve.</b> In such a context, the significance of the number “twelve” could hardly be missed. Jesus was setting up the constitution of the renewed Israel (<a class=\"bibleref\" href=\"/passage/?search=Matt 19:28\">Matt. 19:28</a>). See “The Apostles” at <a class=\"bibleref\" href=\"/passage/?search=Acts 1:26\">Acts 1:26</a>.</p><p><b>that they might be with him.</b> A signal point of the uniqueness of the Twelve is the time they spend with the earthly Jesus, a time of preparation.</p><p><b>preach.</b> Again (1:14, 17) the priority is a preaching mission coupled with exorcism. The time of preparation has a markedly practical emphasis.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,3,18" ],
+  "verses" : [ {
+    "verse" : "mark,3,18",
+    "text" : "Andrew, Philip, Bartholomew, Matthew, Thomas, James son of Alphaeus, Thaddaeus, Simon the Zealot"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,3,18",
     "id" : 196017,
@@ -50,7 +86,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 3:18\">3:18</a></b> <b>Thaddaeus.</b> Mark and <a class=\"bibleref\" href=\"/passage/?search=Matt 10:2-Matt 10:4\">Matt. 10:2–4</a> list identical names for the Twelve. The parallel list in <a class=\"bibleref\" href=\"/passage/?search=Luke 6:12-Luke 6:16\">Luke 6:12–16</a> (cf. <a class=\"bibleref\" href=\"/passage/?search=Acts 1:13\">Acts 1:13</a>) had “Judas” instead of “Thaddaeus.” A possible explanation of this difference is that Thaddaeus had a second name, Judas.</p><p><b>Cananaean.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Matt 10:4\">Matt. 10:4</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,3,19", "mark,3,20" ],
+  "verses" : [ {
+    "verse" : "mark,3,19",
+    "text" : "and Judas Iscariot, who betrayed him."
+  }, {
+    "verse" : "mark,3,20",
+    "text" : "Then Jesus entered a house, and again a crowd gathered, so that he and his disciples were not even able to eat."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,3,19",
     "id" : 196018,
@@ -58,7 +100,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 3:19\">3:19</a></b> <b>Iscariot.</b> Some believe that Judas was a political revolutionary because “Iscariot” may have been derived from the Latin <i>itsicarius,</i> “assassin.” More likely the word has a semitic origin<i>—ish</i> meaning “man (of),” <i>Kerioth,</i> a town in Israel close to Hebron (<a class=\"bibleref\" href=\"/passage/?search=Josh 15:25\">Josh. 15:25</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,3,21" ],
+  "verses" : [ {
+    "verse" : "mark,3,21",
+    "text" : "When his family heard about this, they went to take charge of him, for they said, \"He is out of his mind.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,3,21",
     "id" : 196019,
@@ -66,7 +111,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 3:21\">3:21</a></b> <b>his family.</b> Some interpreters identify these as Jesus’ family, others propose associates, or friends. However, the group is possibly identified in <a class=\"bibleref\" href=\"/passage/?search=Mark 3:31\">v. 31</a> as “his mother and his brothers.”</p><p><b>out of his mind.</b> The phrase expresses an attitude of unbelief toward Jesus by those who humanly were closest to Him.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,3,22" ],
+  "verses" : [ {
+    "verse" : "mark,3,22",
+    "text" : "And the teachers of the law who came down from Jerusalem said, \"He is possessed by Beelzebub! By the prince of demons he is driving out demons.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,3,22",
     "id" : 196020,
@@ -74,7 +122,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 3:22\">3:22</a></b> <b>Beelzebul.</b> Greek <i>beelzeboul,</i> the god of Ekron (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 1:2\">2 Kin. 1:2</a>; <a class=\"bibleref\" href=\"/passage/?search=Matt 10:25\">Matt. 10:25</a> note). The Pharisees use it as a name for Satan and accuse Jesus of casting out demons by the power of Satan.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,3,23", "mark,3,24", "mark,3,25", "mark,3,26", "mark,3,27", "mark,3,28" ],
+  "verses" : [ {
+    "verse" : "mark,3,23",
+    "text" : "So Jesus called them and spoke to them in parables: \"How can Satan drive out Satan?"
+  }, {
+    "verse" : "mark,3,24",
+    "text" : "If a kingdom is divided against itself, that kingdom cannot stand."
+  }, {
+    "verse" : "mark,3,25",
+    "text" : "If a house is divided against itself, that house cannot stand."
+  }, {
+    "verse" : "mark,3,26",
+    "text" : "And if Satan opposes himself and is divided, he cannot stand; his end has come."
+  }, {
+    "verse" : "mark,3,27",
+    "text" : "In fact, no one can enter a strong man's house and carry off his possessions unless he first ties up the strong man. Then he can rob his house."
+  }, {
+    "verse" : "mark,3,28",
+    "text" : "I tell you the truth, all the sins and blasphemies of men will be forgiven them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,3,23-mark,3,27",
     "id" : 196021,
@@ -82,7 +148,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 3:23-Mark 3:27\">3:23–27</a></b> <b>parables.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Mark 4:2\">4:2</a>. This parable illustrates Jesus’ claim that the kingdom of God has come (<a class=\"bibleref\" href=\"/passage/?search=Matt 12:28\">Matt. 12:28</a>), for one stronger than the “strong man” is here, able to bind Satan and to free people from his kingdom.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,3,29", "mark,3,30" ],
+  "verses" : [ {
+    "verse" : "mark,3,29",
+    "text" : "But whoever blasphemes against the Holy Spirit will never be forgiven; he is guilty of an eternal sin.\""
+  }, {
+    "verse" : "mark,3,30",
+    "text" : "He said this because they were saying, \"He has an evil spirit.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,3,29",
     "id" : 196022,

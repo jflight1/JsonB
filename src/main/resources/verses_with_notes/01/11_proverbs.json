@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,3,7" ],
+  "verses" : [ {
+    "verse" : "proverbs,3,7",
+    "text" : "Do not be wise in your own eyes; fear the LORD and shun evil."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,3,1-proverbs,3,12",
     "id" : 191681,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 3:7\">3:7</a></b> <b>wise in your own eyes.</b> The phrase summarizes the idea that the human mind with its intellect and reason is independently capable of reaching a true understanding of reality, without any dependence upon God’s revelation.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,3,8" ],
+  "verses" : [ {
+    "verse" : "proverbs,3,8",
+    "text" : "This will bring health to your body and nourishment to your bones."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,3,8",
     "id" : 191688,

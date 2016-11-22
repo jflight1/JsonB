@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,39,1" ],
+  "verses" : [ {
+    "verse" : "psalms,39,1",
+    "text" : "I said, \"I will watch my ways and keep my tongue from sin; I will put a muzzle on my mouth as long as the wicked are in my presence.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,39,1-psalms,39,13",
     "id" : 190534,
@@ -12,7 +15,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 39:1\">39:1</a></b> <b>that I may not sin with my tongue.</b> The psalmist may have been questioning the prosperity of the wicked, and feared that if he spoke in his anger and frustration he might say something offensive to God.</p><p><b>muzzle.</b> He desires to speak out and has to force himself to be quiet.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,39,2", "psalms,39,3" ],
+  "verses" : [ {
+    "verse" : "psalms,39,2",
+    "text" : "But when I was silent and still, not even saying anything good, my anguish increased."
+  }, {
+    "verse" : "psalms,39,3",
+    "text" : "My heart grew hot within me, and as I meditated, the fire burned; then I spoke with my tongue:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,39,2",
     "id" : 190536,
@@ -20,7 +29,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 39:2\">39:2</a></b> <b>my distress.</b> The psalmist repressed his feelings but could not do away with them. Finally, he spoke.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,39,4", "psalms,39,5" ],
+  "verses" : [ {
+    "verse" : "psalms,39,4",
+    "text" : "\"Show me, O LORD, my life's end and the number of my days; let me know how fleeting is my life."
+  }, {
+    "verse" : "psalms,39,5",
+    "text" : "You have made my days a mere handbreadth; the span of my years is as nothing before you. Each man's life is but a breath. Selah"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,39,4",
     "id" : 190537,
@@ -28,7 +43,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 39:4\">39:4</a></b> <b>measure of my days.</b> Their own short, hard lives tempted the faithful as they compared them to the prosperity of the wicked and questioned God’s wisdom and justice. See note <a class=\"bibleref\" href=\"/passage/?search=Ps 88:5\">Ps. 88:5</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,39,6", "psalms,39,7", "psalms,39,8", "psalms,39,9" ],
+  "verses" : [ {
+    "verse" : "psalms,39,6",
+    "text" : "Man is a mere phantom as he goes to and fro: He bustles about, but only in vain; he heaps up wealth, not knowing who will get it."
+  }, {
+    "verse" : "psalms,39,7",
+    "text" : "\"But now, Lord, what do I look for? My hope is in you."
+  }, {
+    "verse" : "psalms,39,8",
+    "text" : "Save me from all my transgressions; do not make me the scorn of fools."
+  }, {
+    "verse" : "psalms,39,9",
+    "text" : "I was silent; I would not open my mouth, for you are the one who has done this."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,39,6",
     "id" : 190538,
@@ -36,7 +63,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 39:6\">39:6</a></b> <b>for nothing.</b> The same Hebrew word is translated “mere breath” in <a class=\"bibleref\" href=\"/passage/?search=Ps 39:5\">v. 5</a>. The sentiment is similar to that found in the Book of Ecclesiastes (<a class=\"bibleref\" href=\"/passage/?search=Ps 5:8-Ps 5:12\">5:8–20</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,39,10", "psalms,39,11" ],
+  "verses" : [ {
+    "verse" : "psalms,39,10",
+    "text" : "Remove your scourge from me; I am overcome by the blow of your hand."
+  }, {
+    "verse" : "psalms,39,11",
+    "text" : "You rebuke and discipline men for their sin; you consume their wealth like a moth- each man is but a breath. Selah"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,39,10",
     "id" : 190539,
@@ -44,7 +77,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 39:10\">39:10</a></b> <b>your stroke.</b> This could be sickness, but it could include depression and other setbacks in life.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,39,12", "psalms,39,13" ],
+  "verses" : [ {
+    "verse" : "psalms,39,12",
+    "text" : "\"Hear my prayer, O LORD, listen to my cry for help; be not deaf to my weeping. For I dwell with you as an alien, a stranger, as all my fathers were."
+  }, {
+    "verse" : "psalms,39,13",
+    "text" : "Look away from me, that I may rejoice again before I depart and am no more.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,39,12",
     "id" : 190540,

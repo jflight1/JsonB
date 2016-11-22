@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,75,1" ],
+  "verses" : [ {
+    "verse" : "psalms,75,1",
+    "text" : "We give thanks to you, O God, we give thanks, for your Name is near; men tell of your wonderful deeds."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,75,1-psalms,75,10",
     "id" : 190878,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 75:1\">75:1</a></b> <b>We.</b> The psalm begins as a communal thanksgiving, though at the end an individual speaks for the community.</p><p><b>name.</b> See <a class=\"bibleref\" href=\"/passage/?search=Ps 8:1\">Ps. 8:1</a>.</p><p><b>your wondrous deeds.</b> God’s great acts in history (<a class=\"bibleref\" href=\"/passage/?search=Rev 15:3\">Rev. 15:3</a>, <a class=\"bibleref\" href=\"/passage/?search=Rev 15:4\">4</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,75,2" ],
+  "verses" : [ {
+    "verse" : "psalms,75,2",
+    "text" : "You say, \"I choose the appointed time; it is I who judge uprightly."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,75,2",
     "id" : 190880,
@@ -20,7 +26,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 75:2\">75:2</a></b> <b>judge with equity.</b> God’s judgments are always just, and He knows the secrets of the heart.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,75,3" ],
+  "verses" : [ {
+    "verse" : "psalms,75,3",
+    "text" : "When the earth and all its people quake, it is I who hold its pillars firm. Selah"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,75,3",
     "id" : 190881,
@@ -28,7 +37,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 75:3\">75:3</a></b> <b>keep steady its pillars.</b> God provides the underlying stability of the world order.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,75,4", "psalms,75,5", "psalms,75,6" ],
+  "verses" : [ {
+    "verse" : "psalms,75,4",
+    "text" : "To the arrogant I say, 'Boast no more,' and to the wicked, 'Do not lift up your horns."
+  }, {
+    "verse" : "psalms,75,5",
+    "text" : "Do not lift your horns against heaven; do not speak with outstretched neck.'\""
+  }, {
+    "verse" : "psalms,75,6",
+    "text" : "No one from the east or the west or from the desert can exalt a man."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,75,4",
     "id" : 190882,
@@ -36,7 +54,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 75:4\">75:4</a></b> <b>horn.</b> This common metaphor is one of a powerful horned beast proudly lifting up its head in defiance and anger. God warns the wicked not to act in this way against Him.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,75,7" ],
+  "verses" : [ {
+    "verse" : "psalms,75,7",
+    "text" : "But it is God who judges: He brings one down, he exalts another."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,75,7",
     "id" : 190883,
@@ -44,7 +65,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 75:7\">75:7</a></b> <b>it is God who executes judgment.</b> God and not any person in the east, west, or south determines what shall stand.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,75,8", "psalms,75,9", "psalms,75,10" ],
+  "verses" : [ {
+    "verse" : "psalms,75,8",
+    "text" : "In the hand of the LORD is a cup full of foaming wine mixed with spices; he pours it out, and all the wicked of the earth drink it down to its very dregs."
+  }, {
+    "verse" : "psalms,75,9",
+    "text" : "As for me, I will declare this forever; I will sing praise to the God of Jacob."
+  }, {
+    "verse" : "psalms,75,10",
+    "text" : "I will cut off the horns of all the wicked, but the horns of the righteous will be lifted up."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,75,8",
     "id" : 190884,

@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,90,1" ],
+  "verses" : [ {
+    "verse" : "psalms,90,1",
+    "text" : "Lord, you have been our dwelling place throughout all generations."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,90,1-psalms,90,17",
     "id" : 191033,
@@ -7,7 +10,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 90\">Ps. 90</a></b> This psalm, the only one ascribed to Moses, contrasts God’s eternity and human mortality. Moses seems to pray for God’s blessing on his own generation, doomed to wander in the wilderness.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,90,2" ],
+  "verses" : [ {
+    "verse" : "psalms,90,2",
+    "text" : "Before the mountains were born or you brought forth the earth and the world, from everlasting to everlasting you are God."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,90,2",
     "id" : 191034,
@@ -15,7 +21,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 90:2\">90:2</a></b> <b>from everlasting to everlasting you are God.</b> The psalmist affirms the eternal existence of God. God’s work of creation (<a class=\"bibleref\" href=\"/passage/?search=Gen 1\">Gen. 1</a>) brought the whole universe into existence; God Himself had always been there. See theological note “The Self-Existence of God” on next page.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,90,3" ],
+  "verses" : [ {
+    "verse" : "psalms,90,3",
+    "text" : "You turn men back to dust, saying, \"Return to dust, O sons of men.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,90,3",
     "id" : 191035,
@@ -23,7 +32,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 90:3\">90:3</a></b> <b>to dust.</b> God’s judgment returns the descendants of Adam to the dust in death.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,90,4" ],
+  "verses" : [ {
+    "verse" : "psalms,90,4",
+    "text" : "For a thousand years in your sight are like a day that has just gone by, or like a watch in the night."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,90,4",
     "id" : 191036,
@@ -31,7 +43,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 90:4\">90:4</a></b> <b>as yesterday.</b> God is not subject to time, but is its Creator. See “God the Creator” at <a class=\"bibleref\" href=\"/passage/?search=Ps 148:5\">148:5</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,90,5", "psalms,90,6", "psalms,90,7" ],
+  "verses" : [ {
+    "verse" : "psalms,90,5",
+    "text" : "You sweep men away in the sleep of death; they are like the new grass of the morning-"
+  }, {
+    "verse" : "psalms,90,6",
+    "text" : "though in the morning it springs up new, by evening it is dry and withered."
+  }, {
+    "verse" : "psalms,90,7",
+    "text" : "We are consumed by your anger and terrified by your indignation."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,90,5",
     "id" : 191037,
@@ -39,7 +60,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 90:5\">90:5</a></b> The brevity of human life—like a sleep—contrasts with God’s eternity.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,90,8", "psalms,90,9" ],
+  "verses" : [ {
+    "verse" : "psalms,90,8",
+    "text" : "You have set our iniquities before you, our secret sins in the light of your presence."
+  }, {
+    "verse" : "psalms,90,9",
+    "text" : "All our days pass away under your wrath; we finish our years with a moan."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,90,8",
     "id" : 191038,
@@ -47,7 +74,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 90:8\">90:8</a></b> <b>our secret sins.</b> People commit sins they think they can hide, like envy, hatred, and lust. But before God there are no secrets (<a class=\"bibleref\" href=\"/passage/?search=Heb 4:12\">Heb. 4:12</a>, <a class=\"bibleref\" href=\"/passage/?search=Heb 4:13\">13</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,90,10" ],
+  "verses" : [ {
+    "verse" : "psalms,90,10",
+    "text" : "The length of our days is seventy years- or eighty, if we have the strength; yet their span is but trouble and sorrow, for they quickly pass, and we fly away."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,90,10",
     "id" : 191039,
@@ -55,7 +85,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 90:10\">90:10</a></b> <b>seventy.</b> To a young person, seventy years seems like a long time. But before God’s eternity, and in human retrospect, it is brief.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,90,11", "psalms,90,12" ],
+  "verses" : [ {
+    "verse" : "psalms,90,11",
+    "text" : "Who knows the power of your anger? For your wrath is as great as the fear that is due you."
+  }, {
+    "verse" : "psalms,90,12",
+    "text" : "Teach us to number our days aright, that we may gain a heart of wisdom."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,90,11",
     "id" : 191040,
@@ -63,7 +99,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 90:11\">90:11</a></b> <b>Who considers.</b> Only Jesus Christ, who drank the full cup of God’s wrath for sinners, knows the full power of death.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,90,13", "psalms,90,14", "psalms,90,15" ],
+  "verses" : [ {
+    "verse" : "psalms,90,13",
+    "text" : "Relent, O LORD! How long will it be? Have compassion on your servants."
+  }, {
+    "verse" : "psalms,90,14",
+    "text" : "Satisfy us in the morning with your unfailing love, that we may sing for joy and be glad all our days."
+  }, {
+    "verse" : "psalms,90,15",
+    "text" : "Make us glad for as many days as you have afflicted us, for as many years as we have seen trouble."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,90,13",
     "id" : 191041,
@@ -71,7 +116,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 90:13\">90:13</a></b> <b>How long.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Ps 6:3\">Ps. 6:3</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,90,16" ],
+  "verses" : [ {
+    "verse" : "psalms,90,16",
+    "text" : "May your deeds be shown to your servants, your splendor to their children."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,90,16",
     "id" : 191042,
@@ -79,7 +127,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 90:16\">90:16</a></b> <b>your work.</b> God must act to redeem and restore.</p><p><b>their children.</b> Moses contemplates a generation entering the Promised Land.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,90,17" ],
+  "verses" : [ {
+    "verse" : "psalms,90,17",
+    "text" : "May the favor of the Lord our God rest upon us; establish the work of our hands for us- yes, establish the work of our hands."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,90,17",
     "id" : 191043,
@@ -87,7 +138,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 90:17\">90:17</a></b> <b>the favor of the <span class=\"small-caps\">Lord</span> our God.</b> In the midst of life in the wilderness, only the blessing of God’s own presence can give meaning and joy.</p><p><b>establish the work of our hands.</b> Wanderers in the wilderness may leave no monuments, but God can give eternal significance to the deeds of hands that serve Him.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,91,1", "psalms,91,2" ],
+  "verses" : [ {
+    "verse" : "psalms,91,1",
+    "text" : "He who dwells in the shelter of the Most High will rest in the shadow of the Almighty."
+  }, {
+    "verse" : "psalms,91,2",
+    "text" : "I will say of the LORD, \"He is my refuge and my fortress, my God, in whom I trust.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,91,1-psalms,91,16",
     "id" : 191044,
@@ -100,7 +157,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 91:1\">91:1</a></b> <b>He who dwells . . . will abide.</b> The verse states the theme of the whole psalm. Those who draw near to God can have peace in Him, however difficult their circumstances.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,91,3" ],
+  "verses" : [ {
+    "verse" : "psalms,91,3",
+    "text" : "Surely he will save you from the fowler's snare and from the deadly pestilence."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,91,3",
     "id" : 191046,
@@ -108,7 +168,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 91:3\">91:3</a></b> <b>he will deliver you.</b> God is present and able to deliver His people. See “Omnipresence and Omnipotence” at <a class=\"bibleref\" href=\"/passage/?search=Jer 23:24\">Jer. 23:24</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,91,4" ],
+  "verses" : [ {
+    "verse" : "psalms,91,4",
+    "text" : "He will cover you with his feathers, and under his wings you will find refuge; his faithfulness will be your shield and rampart."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,91,4",
     "id" : 191047,
@@ -116,7 +179,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 91:4\">91:4</a></b> <b>with his pinions.</b> Psalms of confidence often have a metaphor for God’s compassion at their core. God is likened to a mother bird who protects her young.</p><p><b>his faithfulness.</b> God’s steadfast love and the certainty that He will keep His promises sustain the psalmist.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,91,5", "psalms,91,6", "psalms,91,7", "psalms,91,8", "psalms,91,9", "psalms,91,10" ],
+  "verses" : [ {
+    "verse" : "psalms,91,5",
+    "text" : "You will not fear the terror of night, nor the arrow that flies by day,"
+  }, {
+    "verse" : "psalms,91,6",
+    "text" : "nor the pestilence that stalks in the darkness, nor the plague that destroys at midday."
+  }, {
+    "verse" : "psalms,91,7",
+    "text" : "A thousand may fall at your side, ten thousand at your right hand, but it will not come near you."
+  }, {
+    "verse" : "psalms,91,8",
+    "text" : "You will only observe with your eyes and see the punishment of the wicked."
+  }, {
+    "verse" : "psalms,91,9",
+    "text" : "If you make the Most High your dwelling- even the LORD, who is my refuge-"
+  }, {
+    "verse" : "psalms,91,10",
+    "text" : "then no harm will befall you, no disaster will come near your tent."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,91,5",
     "id" : 191048,
@@ -124,7 +205,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 91:5\">91:5</a></b> <b>the terror of the night.</b> Perhaps a reference to plagues that could sweep through an encampment.</p><p><b>arrow.</b> The literal setting of battle can be taken figuratively for the struggles of life.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,91,11" ],
+  "verses" : [ {
+    "verse" : "psalms,91,11",
+    "text" : "For he will command his angels concerning you to guard you in all your ways;"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,91,11-psalms,91,12",
     "id" : 191049,
@@ -132,7 +216,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 91:11\">91:11</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 91:12\">12</a> his angels.</b> God often works His will through His spiritual attendants, the angels.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,91,12", "psalms,91,13" ],
+  "verses" : [ {
+    "verse" : "psalms,91,12",
+    "text" : "they will lift you up in their hands, so that you will not strike your foot against a stone."
+  }, {
+    "verse" : "psalms,91,13",
+    "text" : "You will tread upon the lion and the cobra; you will trample the great lion and the serpent."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,91,12",
     "id" : 191050,
@@ -140,7 +230,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 91:12\">91:12</a></b> <b>they will bear you up.</b> Satan quoted this passage to Jesus in the wilderness (<a class=\"bibleref\" href=\"/passage/?search=Matt 4:6\">Matt. 4:6</a>) tempting Him to jump from the top of the temple. Satan’s aim was to turn faith into presumption.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,91,14", "psalms,91,15", "psalms,91,16" ],
+  "verses" : [ {
+    "verse" : "psalms,91,14",
+    "text" : "\"Because he loves me,\" says the LORD, \"I will rescue him; I will protect him, for he acknowledges my name."
+  }, {
+    "verse" : "psalms,91,15",
+    "text" : "He will call upon me, and I will answer him; I will be with him in trouble, I will deliver him and honor him."
+  }, {
+    "verse" : "psalms,91,16",
+    "text" : "With long life will I satisfy him and show him my salvation.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,91,14",
     "id" : 191051,

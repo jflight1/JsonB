@@ -1,5 +1,14 @@
 [ {
-  "singleVerses" : [ "1timothy,2,1", "1timothy,2,2", "1timothy,2,3" ],
+  "verses" : [ {
+    "verse" : "1timothy,2,1",
+    "text" : "I urge, then, first of all, that requests, prayers, intercession and thanksgiving be made for everyone--"
+  }, {
+    "verse" : "1timothy,2,2",
+    "text" : "for kings and all those in authority, that we may live peaceful and quiet lives in all godliness and holiness."
+  }, {
+    "verse" : "1timothy,2,3",
+    "text" : "This is good, and pleases God our Savior,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1timothy,2,1-1timothy,2,15",
     "id" : 198824,
@@ -12,7 +21,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Tim 2:1\">2:1</a></b> <b>all people.</b> As can be seen from the next expression (“for kings and all who are in high positions”), this does not mean “every human being,” but rather “all types of people,” whatever their station in life.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1timothy,2,4" ],
+  "verses" : [ {
+    "verse" : "1timothy,2,4",
+    "text" : "who wants all men to be saved and to come to a knowledge of the truth."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1timothy,2,4",
     "id" : 198826,
@@ -20,7 +32,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Tim 2:4\">2:4</a></b> <b>who desires all people to be saved.</b> This does not mean that God sovereignly wills every human being to be saved (i.e., that God saves everyone). It may refer to God’s general benevolence in taking no delight in the death of the wicked, or to God’s desire that all types of people (<a class=\"bibleref\" href=\"/passage/?search=1Tim 2:1\">v. 1</a> note) be saved (i.e., God does not choose His elect from any single group).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1timothy,2,5" ],
+  "verses" : [ {
+    "verse" : "1timothy,2,5",
+    "text" : "For there is one God and one mediator between God and men, the man Christ Jesus,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1timothy,2,5",
     "id" : 198827,
@@ -28,7 +43,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Tim 2:5\">2:5</a></b> <b>there is one God.</b> This is the fundamental affirmation of the Jewish religion (<a class=\"bibleref\" href=\"/passage/?search=Deut 6:4\">Deut. 6:4</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Rom 3:30\">Rom. 3:30</a>; <a class=\"bibleref\" href=\"/passage/?search=1Cor 8:6\">1 Cor. 8:6</a>; <a class=\"bibleref\" href=\"/passage/?search=Gal 3:20\">Gal. 3:20</a>; <a class=\"bibleref\" href=\"/passage/?search=Eph 4:6\">Eph. 4:6</a>).</p><p><b>one mediator between God and men.</b> There is One who arbitrates between God and humanity and reconciles them. See theological note “Christ the Mediator.”</p><p><b>the man Christ Jesus.</b> Paul’s focus is on Christ’s humanity, perhaps because the false teachers had denied that Christ was truly human. The full humanity of Christ is essential to His serving as Mediator of the covenant of grace.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1timothy,2,6" ],
+  "verses" : [ {
+    "verse" : "1timothy,2,6",
+    "text" : "who gave himself as a ransom for all men--the testimony given in its proper time."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1timothy,2,6",
     "id" : 198828,
@@ -36,7 +54,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Tim 2:6\">2:6</a></b> <b>who gave himself as a ransom.</b> By His death on the cross, Christ paid the price necessary to free people from their sins (<a class=\"bibleref\" href=\"/passage/?search=Matt 20:28\">Matt. 20:28</a>; <a class=\"bibleref\" href=\"/passage/?search=Mark 10:45\">Mark 10:45</a>; <a class=\"bibleref\" href=\"/passage/?search=Titus 2:14\">Titus 2:14</a>; <a class=\"bibleref\" href=\"/passage/?search=1Pet 1:18\">1 Pet. 1:18</a>, <a class=\"bibleref\" href=\"/passage/?search=1Pet 1:19\">19</a>). Thus, He is the “one mediator” (v. 5).</p><p><b>all.</b> In keeping with vv. 1 and 4, this is probably a reference to all <i>types</i> of people. Alternately, it expresses Paul’s conviction that Christ’s death was sufficient to ransom all humanity, yet by sovereign design and effect not all are redeemed. See “Definite Redemption” at <a class=\"bibleref\" href=\"/passage/?search=John 10:15\">John 10:15</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1timothy,2,7" ],
+  "verses" : [ {
+    "verse" : "1timothy,2,7",
+    "text" : "And for this purpose I was appointed a herald and an apostle--I am telling the truth, I am not lying--and a teacher of the true faith to the Gentiles."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1timothy,2,7",
     "id" : 198829,
@@ -44,7 +65,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Tim 2:7\">2:7</a></b> <b>I am telling the truth . . . not lying.</b> An odd statement to make to a close friend, but Paul may have intended for the letter to be read to the whole church (<a class=\"bibleref\" href=\"/passage/?search=1Tim 6:21\">6:21</a> note). Presumably the false teachers had questioned Paul’s call and mission.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1timothy,2,8" ],
+  "verses" : [ {
+    "verse" : "1timothy,2,8",
+    "text" : "I want men everywhere to lift up holy hands in prayer, without anger or disputing."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1timothy,2,8-1timothy,2,15",
     "id" : 198830,
@@ -57,7 +81,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Tim 2:8\">2:8</a></b> <b>every place.</b> This probably refers to corporate worship.</p><p><b>men.</b> Paul assumes in <a class=\"bibleref\" href=\"/passage/?search=1Cor 11:5\">1 Cor. 11:5</a> that women, too, will pray when the church meets for worship. Here he is addressing a specific problem at Ephesus.</p><p><b>lifting holy hands.</b> On this posture in prayer, see <a class=\"bibleref\" href=\"/passage/?search=Ps 63:4\">Ps. 63:4</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 141:2\">141:2</a>.</p><p><b>without anger or quarreling.</b> Paul is not concerned to mandate a particular posture, but to encourage a proper attitude (1:5).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1timothy,2,9", "1timothy,2,10" ],
+  "verses" : [ {
+    "verse" : "1timothy,2,9",
+    "text" : "I also want women to dress modestly, with decency and propriety, not with braided hair or gold or pearls or expensive clothes,"
+  }, {
+    "verse" : "1timothy,2,10",
+    "text" : "but with good deeds, appropriate for women who profess to worship God."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1timothy,2,9",
     "id" : 198832,
@@ -65,7 +95,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Tim 2:9\">2:9</a></b> <b>respectable apparel . . . costly attire.</b> Paul is not concerned with clothing and jewelry as such, but with the attitude of the one wearing them (<a class=\"bibleref\" href=\"/passage/?search=1Pet 3:3\">1 Pet. 3:3</a>, <a class=\"bibleref\" href=\"/passage/?search=1Pet 3:4\">4</a>). Greco-Roman society was characterized by extravagance in dress.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1timothy,2,11" ],
+  "verses" : [ {
+    "verse" : "1timothy,2,11",
+    "text" : "A woman should learn in quietness and full submission."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1timothy,2,11",
     "id" : 198833,
@@ -73,7 +106,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Tim 2:11\">2:11</a></b> <b>quietly.</b> As <a class=\"bibleref\" href=\"/passage/?search=1Cor 11:5\">1 Cor. 11:5</a> indicates, Paul does not forbid all vocal participation by women in the worship service. Rather, Paul enjoins silence of a particular sort—a silence that respects the authoritative teaching and governing role assigned to the leaders of the church (v. 12).</p><p><b>all submissiveness.</b> Submission does not necessarily indicate a lower status. Elsewhere Paul applies the concept to wives (<a class=\"bibleref\" href=\"/passage/?search=Eph 5:22\">Eph. 5:22</a>; <a class=\"bibleref\" href=\"/passage/?search=Col 3:18\">Col. 3:18</a>; <a class=\"bibleref\" href=\"/passage/?search=Titus 2:5\">Titus 2:5</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=1Cor 14:34\">1 Cor. 14:34</a>), husbands and wives (<a class=\"bibleref\" href=\"/passage/?search=Eph 5:21\">Eph. 5:21</a>), children (3:4), slaves (<a class=\"bibleref\" href=\"/passage/?search=Titus 2:9\">Titus 2:9</a>), prophets (<a class=\"bibleref\" href=\"/passage/?search=1Cor 14:32\">1 Cor. 14:32</a>), Christians (<a class=\"bibleref\" href=\"/passage/?search=Rom 13:1\">Rom. 13:1</a>, <a class=\"bibleref\" href=\"/passage/?search=Rom 13:5\">5</a>; <a class=\"bibleref\" href=\"/passage/?search=1Cor 16:16\">1 Cor. 16:16</a>; <a class=\"bibleref\" href=\"/passage/?search=Titus 3:1\">Titus 3:1</a>), the church (<a class=\"bibleref\" href=\"/passage/?search=Eph 5:24\">Eph. 5:24</a>), and even Christ Himself (<a class=\"bibleref\" href=\"/passage/?search=1Cor 15:28\">1 Cor. 15:28</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1timothy,2,12" ],
+  "verses" : [ {
+    "verse" : "1timothy,2,12",
+    "text" : "I do not permit a woman to teach or to have authority over a man; she must be silent."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1timothy,2,12",
     "id" : 198834,
@@ -81,7 +117,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Tim 2:12\">2:12</a></b> <b>I do not permit.</b> Here Paul exercises his apostolic authority in restricting women from exercising a certain kind of authority and teaching.</p><p><b>to exercise authority over.</b> This Greek word appears only here in the New Testament and is probably used by Paul to refer to some level of judicial or governing authority. Under the influence of the false teachers, certain women have apparently moved into positions of governing authority within the church, which Paul prohibited (<a class=\"bibleref\" href=\"/passage/?search=1Cor 14:34\">1 Cor. 14:34</a>).</p><p><b>quiet.</b> See note on v. 11.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1timothy,2,13" ],
+  "verses" : [ {
+    "verse" : "1timothy,2,13",
+    "text" : "For Adam was formed first, then Eve."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1timothy,2,13",
     "id" : 198835,
@@ -89,7 +128,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Tim 2:13\">2:13</a></b> Paul appeals to creation (<a class=\"bibleref\" href=\"/passage/?search=Gen 2:7\">Gen. 2:7</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 2:21\">21</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 2:22\">22</a>). He uses a similar argument, though with some qualification, in <a class=\"bibleref\" href=\"/passage/?search=1Cor 11:8-1Cor 11:12\">1 Cor. 11:8–12</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1timothy,2,14" ],
+  "verses" : [ {
+    "verse" : "1timothy,2,14",
+    "text" : "And Adam was not the one deceived; it was the woman who was deceived and became a sinner."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1timothy,2,14",
     "id" : 198836,
@@ -97,7 +139,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Tim 2:14\">2:14</a></b> Again Paul alludes to Genesis, this time to the account of the Fall (<a class=\"bibleref\" href=\"/passage/?search=Gen 3:1-Gen 3:6\">Gen. 3:1–6</a>). The argument might seem unfair, since both Adam and Eve sinned. But Paul’s point is correct: Eve was the one who was “deceived” by the serpent. Paul’s argument here, with its emphasis on who was deceived, is probably a reflection of the relative success that the false teachers at Ephesus have had in leading women astray (5:11–15; <a class=\"bibleref\" href=\"/passage/?search=2Tim 3:6\">2 Tim. 3:6</a>, <a class=\"bibleref\" href=\"/passage/?search=2Tim 3:7\">7</a>). Elsewhere Paul has no qualms about blaming the Fall on Adam (<a class=\"bibleref\" href=\"/passage/?search=Rom 5:12-Rom 5:19\">Rom. 5:12–19</a>; <a class=\"bibleref\" href=\"/passage/?search=1Cor 15:21\">1 Cor. 15:21</a>, <a class=\"bibleref\" href=\"/passage/?search=1Cor 15:22\">22</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1timothy,2,15" ],
+  "verses" : [ {
+    "verse" : "1timothy,2,15",
+    "text" : "But women will be saved through childbearing--if they continue in faith, love and holiness with propriety."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1timothy,2,15",
     "id" : 198837,

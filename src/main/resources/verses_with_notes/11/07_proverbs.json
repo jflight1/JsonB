@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,27,7" ],
+  "verses" : [ {
+    "verse" : "proverbs,27,7",
+    "text" : "He who is full loathes honey, but to the hungry even what is bitter tastes sweet."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,27,7",
     "id" : 192276,
@@ -7,7 +10,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 27:7\">27:7</a></b> See <a class=\"bibleref\" href=\"/passage/?search=Prov 25:16\">25:16</a>, <a class=\"bibleref\" href=\"/passage/?search=Prov 25:17\">17</a>, <a class=\"bibleref\" href=\"/passage/?search=Prov 25:27\">27</a> and notes. The meaning of the proverb is not limited to food, but applies to anything for which we have an appetite.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,27,8", "proverbs,27,9" ],
+  "verses" : [ {
+    "verse" : "proverbs,27,8",
+    "text" : "Like a bird that strays from its nest is a man who strays from his home."
+  }, {
+    "verse" : "proverbs,27,9",
+    "text" : "Perfume and incense bring joy to the heart, and the pleasantness of one's friend springs from his earnest counsel."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,27,8",
     "id" : 192277,

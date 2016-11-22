@@ -1,8 +1,17 @@
 [ {
-  "singleVerses" : [ "luke,21,29" ],
+  "verses" : [ {
+    "verse" : "luke,21,29",
+    "text" : "He told them this parable: \"Look at the fig tree and all the trees."
+  } ],
   "rsbNotes" : [ ]
 }, {
-  "singleVerses" : [ "luke,21,30", "luke,21,31" ],
+  "verses" : [ {
+    "verse" : "luke,21,30",
+    "text" : "When they sprout leaves, you can see for yourselves and know that summer is near."
+  }, {
+    "verse" : "luke,21,31",
+    "text" : "Even so, when you see these things happening, you know that the kingdom of God is near."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,21,30",
     "id" : 196776,
@@ -10,7 +19,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 21:30\">21:30</a></b> The appearance of leaves on the trees announces that summer is at hand. So the signs tell us that the kingdom is near.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,21,32", "luke,21,33", "luke,21,34", "luke,21,35" ],
+  "verses" : [ {
+    "verse" : "luke,21,32",
+    "text" : "\"I tell you the truth, this generation will certainly not pass away until all these things have happened."
+  }, {
+    "verse" : "luke,21,33",
+    "text" : "Heaven and earth will pass away, but my words will never pass away."
+  }, {
+    "verse" : "luke,21,34",
+    "text" : "\"Be careful, or your hearts will be weighed down with dissipation, drunkenness and the anxieties of life, and that day will close on you unexpectedly like a trap."
+  }, {
+    "verse" : "luke,21,35",
+    "text" : "For it will come upon all those who live on the face of the whole earth."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,21,32",
     "id" : 196777,
@@ -18,7 +39,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 21:32\">21:32</a></b> <b>generation.</b> The Greek word usually means all the people alive at a given time, but it can also mean all of a certain kind of people (e.g., wicked or righteous). The term can also mean “race”; if this is the meaning here it signifies that the Jews will continue to the end.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,21,36" ],
+  "verses" : [ {
+    "verse" : "luke,21,36",
+    "text" : "Be always on the watch, and pray that you may be able to escape all that is about to happen, and that you may be able to stand before the Son of Man.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,21,36",
     "id" : 196778,
@@ -26,7 +50,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 21:36\">21:36</a></b> <b>stay awake . . . praying.</b> Watchfulness and prayer are Christian duties to the end of time.</p><p><b>to stand before the Son of Man.</b> This signifies salvation at the last day.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,21,37", "luke,21,38" ],
+  "verses" : [ {
+    "verse" : "luke,21,37",
+    "text" : "Each day Jesus was teaching at the temple, and each evening he went out to spend the night on the hill called the Mount of Olives,"
+  }, {
+    "verse" : "luke,21,38",
+    "text" : "and all the people came early in the morning to hear him at the temple."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,21,37-luke,21,38",
     "id" : 196779,
@@ -34,7 +64,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 21:37\">21:37</a>, <a class=\"bibleref\" href=\"/passage/?search=Luke 21:38\">38</a></b> Jesus’ last days were spent teaching in Jerusalem, while at night He stayed on the Mount of Olives nearby.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,22,1" ],
+  "verses" : [ {
+    "verse" : "luke,22,1",
+    "text" : "Now the Feast of Unleavened Bread, called the Passover, was approaching,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,22,1",
     "id" : 196780,
@@ -42,7 +75,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 22:1\">22:1</a></b> <b>the Feast . . . Passover.</b> Strictly speaking, Passover and the Feast of Unleavened Bread were different but immediately successive festivals (<a class=\"bibleref\" href=\"/passage/?search=Num 28:26\">Num. 28:26</a>, <a class=\"bibleref\" href=\"/passage/?search=Num 28:27\">27</a>), but by New Testament times the names were used interchangeably. The feast commemorated the great deliverance of Israel from Egypt (<a class=\"bibleref\" href=\"/passage/?search=Exod 12:17\">Ex. 12:17</a>; <a class=\"bibleref\" href=\"/passage/?search=Mark 14:1\">Mark 14:1</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,22,2" ],
+  "verses" : [ {
+    "verse" : "luke,22,2",
+    "text" : "and the chief priests and the teachers of the law were looking for some way to get rid of Jesus, for they were afraid of the people."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,22,2",
     "id" : 196781,
@@ -50,7 +86,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 22:2\">22:2</a></b> <b>chief priests.</b> The chief priests had the political power among the Jews and they, not the Pharisees, led the final opposition to Jesus.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,22,3", "luke,22,4", "luke,22,5", "luke,22,6" ],
+  "verses" : [ {
+    "verse" : "luke,22,3",
+    "text" : "Then Satan entered Judas, called Iscariot, one of the Twelve."
+  }, {
+    "verse" : "luke,22,4",
+    "text" : "And Judas went to the chief priests and the officers of the temple guard and discussed with them how he might betray Jesus."
+  }, {
+    "verse" : "luke,22,5",
+    "text" : "They were delighted and agreed to give him money."
+  }, {
+    "verse" : "luke,22,6",
+    "text" : "He consented, and watched for an opportunity to hand Jesus over to them when no crowd was present."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,22,3-luke,22,6",
     "id" : 196782,
@@ -58,7 +106,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 22:3-Luke 22:6\">22:3–6</a></b> Satan took control of Judas (<a class=\"bibleref\" href=\"/passage/?search=John 13:2\">John 13:2</a>), and it was Judas who sought the chief priests, not they who sought him. The “officers” of the temple guard were mostly Levites.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,22,7" ],
+  "verses" : [ {
+    "verse" : "luke,22,7",
+    "text" : "Then came the day of Unleavened Bread on which the Passover lamb had to be sacrificed."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,22,7",
     "id" : 196783,
@@ -66,7 +117,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 22:7\">22:7</a></b> <b>Passover.</b> According to <a class=\"bibleref\" href=\"/passage/?search=Exod 12:5\">Ex. 12:5</a> the animal could be a lamb or a young goat. It would be killed at twilight (<a class=\"bibleref\" href=\"/passage/?search=Exod 12:6\">Ex. 12:6</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,22,8", "luke,22,9" ],
+  "verses" : [ {
+    "verse" : "luke,22,8",
+    "text" : "Jesus sent Peter and John, saying, \"Go and make preparations for us to eat the Passover.\""
+  }, {
+    "verse" : "luke,22,9",
+    "text" : "\"Where do you want us to prepare for it?\" they asked."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,22,8-luke,22,12",
     "id" : 196784,
@@ -74,7 +131,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 22:8-Luke 22:12\">22:8–12</a></b> Jesus was ready to die, but at the time of His own choosing. This may be the reason for the way Jesus made arrangements for the feast. None of the disciples knew where they would eat it.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,22,10", "luke,22,11", "luke,22,12", "luke,22,13" ],
+  "verses" : [ {
+    "verse" : "luke,22,10",
+    "text" : "He replied, \"As you enter the city, a man carrying a jar of water will meet you. Follow him to the house that he enters,"
+  }, {
+    "verse" : "luke,22,11",
+    "text" : "and say to the owner of the house, 'The Teacher asks: Where is the guest room, where I may eat the Passover with my disciples?'"
+  }, {
+    "verse" : "luke,22,12",
+    "text" : "He will show you a large upper room, all furnished. Make preparations there.\""
+  }, {
+    "verse" : "luke,22,13",
+    "text" : "They left and found things just as Jesus had told them. So they prepared the Passover."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,22,10",
     "id" : 196785,

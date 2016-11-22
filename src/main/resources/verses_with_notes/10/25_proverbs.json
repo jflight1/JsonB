@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "proverbs,26,9", "proverbs,26,10" ],
+  "verses" : [ {
+    "verse" : "proverbs,26,9",
+    "text" : "Like a thornbush in a drunkard's hand is a proverb in the mouth of a fool."
+  }, {
+    "verse" : "proverbs,26,10",
+    "text" : "Like an archer who wounds at random is he who hires a fool or any passer-by."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,26,9",
     "id" : 192255,
@@ -7,7 +13,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 26:9\">26:9</a></b> <b>Like a thorn . . . a proverb.</b> This saying apparently refers to a thorn piercing the hand of a person too drunk to sense it. Either the fool is too simple to perceive the significance of the proverb, or, as the thorn injures the drunkard’s hand, so fools will use the proverb to their own hurt.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,26,11" ],
+  "verses" : [ {
+    "verse" : "proverbs,26,11",
+    "text" : "As a dog returns to its vomit, so a fool repeats his folly."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,26,11",
     "id" : 192256,
@@ -15,7 +24,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 26:11\">26:11</a></b> Fools will not learn from their mistakes but rather return, like a dog to its vomit, to repeat them.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,26,12" ],
+  "verses" : [ {
+    "verse" : "proverbs,26,12",
+    "text" : "Do you see a man wise in his own eyes? There is more hope for a fool than for him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,26,12",
     "id" : 192257,

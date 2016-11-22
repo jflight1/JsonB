@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "psalms,36,1", "psalms,36,2" ],
+  "verses" : [ {
+    "verse" : "psalms,36,1",
+    "text" : "An oracle is within my heart concerning the sinfulness of the wicked: There is no fear of God before his eyes."
+  }, {
+    "verse" : "psalms,36,2",
+    "text" : "For in his own eyes he flatters himself too much to detect or hate his sin."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,36,1",
     "id" : 190503,
@@ -7,7 +13,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 36:1\">36:1</a></b> <b>no fear of God.</b> The psalmist identifies the root of all evil, just as <a class=\"bibleref\" href=\"/passage/?search=Prov 1:7\">Prov. 1:7</a> cites the fear of God as the beginning of all knowledge. The fear of God that springs from faith is a special response to revelation, the reverential awe that recognizes total dependence upon the Lord. In the absence of reverence a different type of fear of the Lord will be experienced, namely dread.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,36,3" ],
+  "verses" : [ {
+    "verse" : "psalms,36,3",
+    "text" : "The words of his mouth are wicked and deceitful; he has ceased to be wise and to do good."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,36,3",
     "id" : 190504,
@@ -15,7 +24,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 36:3\">36:3</a></b> <b>trouble . . . wisely.</b> Wisdom has an ethical side: to be wise is to do good.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,36,4" ],
+  "verses" : [ {
+    "verse" : "psalms,36,4",
+    "text" : "Even on his bed he plots evil; he commits himself to a sinful course and does not reject what is wrong."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,36,4",
     "id" : 190505,
@@ -23,7 +35,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 36:4\">36:4</a></b> <b>on his bed.</b> Wickedness is a full-time occupation for the wicked. Even at night, when they should be praying before sleep, wicked people plot and scheme.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,36,5" ],
+  "verses" : [ {
+    "verse" : "psalms,36,5",
+    "text" : "Your love, O LORD, reaches to the heavens, your faithfulness to the skies."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,36,5",
     "id" : 190506,
@@ -31,7 +46,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 36:5\">36:5</a></b> <b>steadfast love.</b> A special word in Hebrew, signifying the loving devotion in which God binds Himself to His people. It indicates His lovingkindness toward those with whom He is in covenant relationship. This word recurs throughout Psalms, showing that it is a book of covenantal prayers.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,36,6" ],
+  "verses" : [ {
+    "verse" : "psalms,36,6",
+    "text" : "Your righteousness is like the mighty mountains, your justice like the great deep. O LORD, you preserve both man and beast."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,36,6",
     "id" : 190507,
@@ -39,7 +57,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 36:6\">36:6</a></b> <b>mountains.</b> See notes <a class=\"bibleref\" href=\"/passage/?search=Ps 29:6\">Ps. 29:6</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 30:7\">30:7</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 46:2\">46:2</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,36,7" ],
+  "verses" : [ {
+    "verse" : "psalms,36,7",
+    "text" : "How priceless is your unfailing love! Both high and low among men find refuge in the shadow of your wings."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,36,7",
     "id" : 190508,
@@ -47,7 +68,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 36:7\">36:7</a></b> <b>wings.</b> This seems to refer to the wings of the cherubim of God’s throne, as represented by the beings depicted as covering the ark of the covenant with their wings. Otherwise God is perceived as the protector of His people, like a mother bird who protects her young brood.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,36,8" ],
+  "verses" : [ {
+    "verse" : "psalms,36,8",
+    "text" : "They feast on the abundance of your house; you give them drink from your river of delights."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,36,8",
     "id" : 190509,
@@ -55,7 +79,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 36:8\">36:8</a></b> <b>feast on the abundance.</b> The psalmist pictures God as a rich and generous host.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,36,9", "psalms,36,10", "psalms,36,11", "psalms,36,12" ],
+  "verses" : [ {
+    "verse" : "psalms,36,9",
+    "text" : "For with you is the fountain of life; in your light we see light."
+  }, {
+    "verse" : "psalms,36,10",
+    "text" : "Continue your love to those who know you, your righteousness to the upright in heart."
+  }, {
+    "verse" : "psalms,36,11",
+    "text" : "May the foot of the proud not come against me, nor the hand of the wicked drive me away."
+  }, {
+    "verse" : "psalms,36,12",
+    "text" : "See how the evildoers lie fallen- thrown down, not able to rise!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,36,9",
     "id" : 190510,

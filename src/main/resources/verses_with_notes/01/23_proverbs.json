@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "proverbs,4,14", "proverbs,4,15" ],
+  "verses" : [ {
+    "verse" : "proverbs,4,14",
+    "text" : "Do not set foot on the path of the wicked or walk in the way of evil men."
+  }, {
+    "verse" : "proverbs,4,15",
+    "text" : "Avoid it, do not travel on it; turn from it and go on your way."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,4,1-proverbs,4,27",
     "id" : 191707,
@@ -12,7 +18,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 4:14\">4:14</a></b> <b>path of the wicked.</b> Wisdom typically contrasts opposing ways and ideas (especially in the concise proverbs of <a class=\"bibleref\" href=\"/passage/?search=Prov 10-Prov 22\">chs. 10–22</a>). This teaching device accentuates the path of wisdom by opposing various aspects of it to the path of folly and evil. Here vv. 11–<a class=\"bibleref\" href=\"/passage/?search=Prov 22:13\">13</a> contrast with <a class=\"bibleref\" href=\"/passage/?search=Prov 22:14-Prov 22:17\">vv. 14–17</a>, and <a class=\"bibleref\" href=\"/passage/?search=Prov 22:18\">v. 18</a> with <a class=\"bibleref\" href=\"/passage/?search=Prov 22:19\">v. 19</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,4,16" ],
+  "verses" : [ {
+    "verse" : "proverbs,4,16",
+    "text" : "For they cannot sleep till they do evil; they are robbed of slumber till they make someone fall."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,4,16",
     "id" : 191718,
@@ -20,7 +29,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 4:16\">4:16</a></b> <b>cannot sleep.</b> Evil is like an addictive drug. Those who embrace it find that without their daily dose they are unable to sleep.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,4,17" ],
+  "verses" : [ {
+    "verse" : "proverbs,4,17",
+    "text" : "They eat the bread of wickedness and drink the wine of violence."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,4,17",
     "id" : 191719,
@@ -28,7 +40,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 4:17\">4:17</a></b> <b>eat . . . drink.</b> Wickedness and violence become their staple food.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,4,18", "proverbs,4,19" ],
+  "verses" : [ {
+    "verse" : "proverbs,4,18",
+    "text" : "The path of the righteous is like the first gleam of dawn, shining ever brighter till the full light of day."
+  }, {
+    "verse" : "proverbs,4,19",
+    "text" : "But the way of the wicked is like deep darkness; they do not know what makes them stumble."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,4,18-proverbs,4,19",
     "id" : 191720,

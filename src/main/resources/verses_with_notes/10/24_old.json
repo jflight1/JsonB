@@ -1,5 +1,20 @@
 [ {
-  "singleVerses" : [ "jeremiah,44,24", "jeremiah,44,25", "jeremiah,44,26", "jeremiah,44,27", "jeremiah,44,28" ],
+  "verses" : [ {
+    "verse" : "jeremiah,44,24",
+    "text" : "Then Jeremiah said to all the people, including the women, \"Hear the word of the LORD, all you people of Judah in Egypt."
+  }, {
+    "verse" : "jeremiah,44,25",
+    "text" : "This is what the LORD Almighty, the God of Israel, says: You and your wives have shown by your actions what you promised when you said, 'We will certainly carry out the vows we made to burn incense and pour out drink offerings to the Queen of Heaven.'\"Go ahead then, do what you promised! Keep your vows!"
+  }, {
+    "verse" : "jeremiah,44,26",
+    "text" : "But hear the word of the LORD, all Jews living in Egypt: 'I swear by my great name,' says the LORD, 'that no one from Judah living anywhere in Egypt will ever again invoke my name or swear, \"As surely as the Sovereign LORD lives.\""
+  }, {
+    "verse" : "jeremiah,44,27",
+    "text" : "For I am watching over them for harm, not for good; the Jews in Egypt will perish by sword and famine until they are all destroyed."
+  }, {
+    "verse" : "jeremiah,44,28",
+    "text" : "Those who escape the sword and return to the land of Judah from Egypt will be very few. Then the whole remnant of Judah who came to live in Egypt will know whose word will stand-mine or theirs."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,41,11-jeremiah,44,30",
     "id" : 193949,
@@ -7,7 +22,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 41:11-Jer 44:30\">41:11–44:30</a></b> Jeremiah is taken to Egypt by Jewish survivors fleeing from possible Babylonian reprisals.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,44,29", "jeremiah,44,30" ],
+  "verses" : [ {
+    "verse" : "jeremiah,44,29",
+    "text" : "\"'This will be the sign to you that I will punish you in this place,' declares the LORD, 'so that you will know that my threats of harm against you will surely stand.'"
+  }, {
+    "verse" : "jeremiah,44,30",
+    "text" : "This is what the LORD says: 'I am going to hand Pharaoh Hophra king of Egypt over to his enemies who seek his life, just as I handed Zedekiah king of Judah over to Nebuchadnezzar king of Babylon, the enemy who was seeking his life.'\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,44,29-jeremiah,44,30",
     "id" : 193962,
@@ -15,7 +36,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 44:29\">44:29</a>, <a class=\"bibleref\" href=\"/passage/?search=Jer 44:30\">30</a></b> Pharaoh Hophra (reigned 589–570 <span class=\"small-caps\">b.c.</span>) was killed by his enemies during a military revolt; his death is used as a sign that all the Lord’s prophecies against the refugees in Egypt would come to pass.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,45,1", "jeremiah,45,2" ],
+  "verses" : [ {
+    "verse" : "jeremiah,45,1",
+    "text" : "This is what Jeremiah the prophet told Baruch son of Neriah in the fourth year of Jehoiakim son of Josiah king of Judah, after Baruch had written on a scroll the words Jeremiah was then dictating:"
+  }, {
+    "verse" : "jeremiah,45,2",
+    "text" : "\"This is what the LORD, the God of Israel, says to you, Baruch:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,45,1-jeremiah,45,5",
     "id" : 193963,
@@ -28,7 +55,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 45:1\">45:1</a></b> <b>fourth year of Jehoiakim.</b> The year in which Baruch prepared the first scroll of Jeremiah’s words for public reading (<a class=\"bibleref\" href=\"/passage/?search=Jer 36:1-Jer 36:3\">36:1–3</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,45,3", "jeremiah,45,4", "jeremiah,45,5" ],
+  "verses" : [ {
+    "verse" : "jeremiah,45,3",
+    "text" : "You said, 'Woe to me! The LORD has added sorrow to my pain; I am worn out with groaning and find no rest.'\""
+  }, {
+    "verse" : "jeremiah,45,4",
+    "text" : "The LORD said, \"Say this to him: 'This is what the LORD says: I will overthrow what I have built and uproot what I have planted, throughout the land."
+  }, {
+    "verse" : "jeremiah,45,5",
+    "text" : "Should you then seek great things for yourself? Seek them not. For I will bring disaster on all people, declares the LORD, but wherever you go I will let you escape with your life.'\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,45,3",
     "id" : 193965,
@@ -36,7 +72,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 45:3\">45:3</a></b> <b>my pain.</b> Baruch had evidently suffered along with Jeremiah as a result of Jeremiah’s prophetic commission (cf. <a class=\"bibleref\" href=\"/passage/?search=Jer 11:18-Jer 11:23\">11:18–23</a>). See 36:19; 43:3.</p><p><b>rest.</b> See <a class=\"bibleref\" href=\"/passage/?search=Deut 12:9\">Deut. 12:9</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 95:11\">Ps. 95:11</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,46,1" ],
+  "verses" : [ {
+    "verse" : "jeremiah,46,1",
+    "text" : "This is the word of the LORD that came to Jeremiah the prophet concerning the nations:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,46,1-jeremiah,51,64",
     "id" : 193966,
@@ -44,7 +83,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 46-Jer 51\">46:1–51:64</a></b> This section of Jeremiah comprises a series of judgment oracles against the surrounding nations.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,46,2" ],
+  "verses" : [ {
+    "verse" : "jeremiah,46,2",
+    "text" : "Concerning Egypt: This is the message against the army of Pharaoh Neco king of Egypt, which was defeated at Carchemish on the Euphrates River by Nebuchadnezzar king of Babylon in the fourth year of Jehoiakim son of Josiah king of Judah:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,46,2",
     "id" : 193967,
@@ -52,7 +94,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 46:2\">46:2</a></b> <b>Carchemish.</b> Nebuchadnezzar defeated Pharaoh Neco at the battle of Carchemish on the upper Euphrates River in 605 <span class=\"small-caps\">b.c.</span> and brought to a close Egypt’s political and military influence over Palestine and Syria.</p><p><b>fourth year of Jehoiakim.</b> See <a class=\"bibleref\" href=\"/passage/?search=Jer 36:1\">36:1</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 45:1\">45:1</a>. The ascendancy of Babylon over Egypt was critical for Judah in her final years.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,46,3", "jeremiah,46,4", "jeremiah,46,5" ],
+  "verses" : [ {
+    "verse" : "jeremiah,46,3",
+    "text" : "\"Prepare your shields, both large and small, and march out for battle!"
+  }, {
+    "verse" : "jeremiah,46,4",
+    "text" : "Harness the horses, mount the steeds! Take your positions with helmets on! Polish your spears, put on your armor!"
+  }, {
+    "verse" : "jeremiah,46,5",
+    "text" : "What do I see? They are terrified, they are retreating, their warriors are defeated. They flee in haste without looking back, and there is terror on every side,\" declares the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,46,3-jeremiah,46,4",
     "id" : 193968,
@@ -60,7 +111,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 46:3\">46:3</a>, <a class=\"bibleref\" href=\"/passage/?search=Jer 46:4\">4</a> Prepare buckler . . . put on your armor.</b> These orders to the Egyptian army mock her military pretensions.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,46,6", "jeremiah,46,7", "jeremiah,46,8" ],
+  "verses" : [ {
+    "verse" : "jeremiah,46,6",
+    "text" : "\"The swift cannot flee nor the strong escape. In the north by the River Euphrates they stumble and fall."
+  }, {
+    "verse" : "jeremiah,46,7",
+    "text" : "\"Who is this that rises like the Nile, like rivers of surging waters?"
+  }, {
+    "verse" : "jeremiah,46,8",
+    "text" : "Egypt rises like the Nile, like rivers of surging waters. She says, 'I will rise and cover the earth; I will destroy cities and their people.'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,46,6",
     "id" : 193969,
@@ -68,7 +128,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 46:6\">46:6</a></b> <b>by the river Euphrates.</b> That is, at Carchemish (<a class=\"bibleref\" href=\"/passage/?search=Jer 46:2\">v. 2</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,46,9", "jeremiah,46,10" ],
+  "verses" : [ {
+    "verse" : "jeremiah,46,9",
+    "text" : "Charge, O horses! Drive furiously, O charioteers! March on, O warriors- men of Cush and Put who carry shields, men of Lydia who draw the bow."
+  }, {
+    "verse" : "jeremiah,46,10",
+    "text" : "But that day belongs to the LORD, the Lord Almighty- a day of vengeance, for vengeance on his foes. The sword will devour till it is satisfied, till it has quenched its thirst with blood. For the Lord, the LORD Almighty, will offer sacrifice in the land of the north by the River Euphrates."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,46,9",
     "id" : 193970,
@@ -76,7 +142,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 46:9\">46:9</a></b> <b>men of Cush . . . Put . . . Lud.</b> Mercenaries from Africa and Greece testify to Egypt’s power.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,46,11", "jeremiah,46,12", "jeremiah,46,13" ],
+  "verses" : [ {
+    "verse" : "jeremiah,46,11",
+    "text" : "\"Go up to Gilead and get balm, O Virgin Daughter of Egypt. But you multiply remedies in vain; there is no healing for you."
+  }, {
+    "verse" : "jeremiah,46,12",
+    "text" : "The nations will hear of your shame; your cries will fill the earth. One warrior will stumble over another; both will fall down together.\""
+  }, {
+    "verse" : "jeremiah,46,13",
+    "text" : "This is the message the LORD spoke to Jeremiah the prophet about the coming of Nebuchadnezzar king of Babylon to attack Egypt:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,46,11",
     "id" : 193971,
@@ -84,7 +159,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 46:11\">46:11</a></b> <b>Gilead.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Jer 8:22\">8:22</a>.</p><p><b>virgin daughter of Egypt.</b> Suggesting vulnerability and innocence, though it could be meant ironically. See its use in connection with Israel in <a class=\"bibleref\" href=\"/passage/?search=Jer 14:17\">14:17</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 18:13\">18:13</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,46,14" ],
+  "verses" : [ {
+    "verse" : "jeremiah,46,14",
+    "text" : "\"Announce this in Egypt, and proclaim it in Migdol; proclaim it also in Memphis and Tahpanhes: 'Take your positions and get ready, for the sword devours those around you.'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,46,14",
     "id" : 193972,
@@ -92,7 +170,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 46:14\">46:14</a></b> <b>Migdol . . . Memphis . . . Tahpanhes.</b> See <a class=\"bibleref\" href=\"/passage/?search=Jer 2:16\">2:16</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 43:8\">43:8</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 44:1\">44:1</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,46,15", "jeremiah,46,16", "jeremiah,46,17" ],
+  "verses" : [ {
+    "verse" : "jeremiah,46,15",
+    "text" : "Why will your warriors be laid low? They cannot stand, for the LORD will push them down."
+  }, {
+    "verse" : "jeremiah,46,16",
+    "text" : "They will stumble repeatedly; they will fall over each other. They will say, 'Get up, let us go back to our own people and our native lands, away from the sword of the oppressor.'"
+  }, {
+    "verse" : "jeremiah,46,17",
+    "text" : "There they will exclaim, 'Pharaoh king of Egypt is only a loud noise; he has missed his opportunity.'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,46,15",
     "id" : 193973,
@@ -100,7 +187,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 46:15\">46:15</a></b> <b>Why are your mighty ones face down.</b> The Septuagint (Greek) reading is preferred by many interpreters: “Why has Apis run away?” Apis was the sacred bull of ancient Egypt, worshiped as an incarnation of the god Ptah, especially at Noph (Memphis, <a class=\"bibleref\" href=\"/passage/?search=Jer 46:14\">v. 14</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,46,18", "jeremiah,46,19" ],
+  "verses" : [ {
+    "verse" : "jeremiah,46,18",
+    "text" : "\"As surely as I live,\" declares the King, whose name is the LORD Almighty, \"one will come who is like Tabor among the mountains, like Carmel by the sea."
+  }, {
+    "verse" : "jeremiah,46,19",
+    "text" : "Pack your belongings for exile, you who live in Egypt, for Memphis will be laid waste and lie in ruins without inhabitant."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,46,18",
     "id" : 193974,
@@ -108,7 +201,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 46:18\">46:18</a></b> <b>As I live.</b> See <a class=\"bibleref\" href=\"/passage/?search=Gen 22:15\">Gen. 22:15</a>.</p><p><b>the King.</b> For God as King, see 8:19; 10:7, 10; 48:15; 51:57; <a class=\"bibleref\" href=\"/passage/?search=Deut 33:5\">Deut. 33:5</a>. In the oracles against the nations, God’s true kingship is contrasted with the vain pretensions of earthly kings.</p><p><b>Tabor . . . Carmel.</b> These mountains in northern Israel stood at the eastern and western boundaries of the strategic Plain of Megiddo.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,46,20", "jeremiah,46,21", "jeremiah,46,22", "jeremiah,46,23", "jeremiah,46,24" ],
+  "verses" : [ {
+    "verse" : "jeremiah,46,20",
+    "text" : "\"Egypt is a beautiful heifer, but a gadfly is coming against her from the north."
+  }, {
+    "verse" : "jeremiah,46,21",
+    "text" : "The mercenaries in her ranks are like fattened calves. They too will turn and flee together, they will not stand their ground, for the day of disaster is coming upon them, the time for them to be punished."
+  }, {
+    "verse" : "jeremiah,46,22",
+    "text" : "Egypt will hiss like a fleeing serpent as the enemy advances in force; they will come against her with axes, like men who cut down trees."
+  }, {
+    "verse" : "jeremiah,46,23",
+    "text" : "They will chop down her forest,\" declares the LORD, \"dense though it be. They are more numerous than locusts, they cannot be counted."
+  }, {
+    "verse" : "jeremiah,46,24",
+    "text" : "The Daughter of Egypt will be put to shame, handed over to the people of the north.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,46,20",
     "id" : 193975,
@@ -116,7 +224,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 46:20\">46:20</a></b> <b>heifer.</b> This may be an ironic allusion to Egyptian worship of the bull Apis (<a class=\"bibleref\" href=\"/passage/?search=Jer 46:15\">v. 15</a> note).</p><p><b>biting fly.</b> That is, Nebuchadnezzar.</p><p><b>from the north.</b> See <a class=\"bibleref\" href=\"/passage/?search=Jer 6:1\">6:1</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,46,25", "jeremiah,46,26", "jeremiah,46,27", "jeremiah,46,28", "jeremiah,47,1", "jeremiah,47,2", "jeremiah,47,3" ],
+  "verses" : [ {
+    "verse" : "jeremiah,46,25",
+    "text" : "The LORD Almighty, the God of Israel, says: \"I am about to bring punishment on Amon god of Thebes, on Pharaoh, on Egypt and her gods and her kings, and on those who rely on Pharaoh."
+  }, {
+    "verse" : "jeremiah,46,26",
+    "text" : "I will hand them over to those who seek their lives, to Nebuchadnezzar king of Babylon and his officers. Later, however, Egypt will be inhabited as in times past,\" declares the LORD."
+  }, {
+    "verse" : "jeremiah,46,27",
+    "text" : "\"Do not fear, O Jacob my servant; do not be dismayed, O Israel. I will surely save you out of a distant place, your descendants from the land of their exile. Jacob will again have peace and security, and no one will make him afraid."
+  }, {
+    "verse" : "jeremiah,46,28",
+    "text" : "Do not fear, O Jacob my servant, for I am with you,\" declares the LORD. \"Though I completely destroy all the nations among which I scatter you, I will not completely destroy you. I will discipline you but only with justice; I will not let you go entirely unpunished.\""
+  }, {
+    "verse" : "jeremiah,47,1",
+    "text" : "This is the word of the LORD that came to Jeremiah the prophet concerning the Philistines before Pharaoh attacked Gaza:"
+  }, {
+    "verse" : "jeremiah,47,2",
+    "text" : "This is what the LORD says: \"See how the waters are rising in the north; they will become an overflowing torrent. They will overflow the land and everything in it, the towns and those who live in them. The people will cry out; all who dwell in the land will wail"
+  }, {
+    "verse" : "jeremiah,47,3",
+    "text" : "at the sound of the hoofs of galloping steeds, at the noise of enemy chariots and the rumble of their wheels. Fathers will not turn to help their children; their hands will hang limp."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,46,25",
     "id" : 193976,
@@ -124,7 +253,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 46:25\">46:25</a></b> <b>Amon of Thebes.</b> Amon was the chief Egyptian god. Thebes is in the south, suggesting even deeper penetration by Babylon.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,47,4", "jeremiah,47,5", "jeremiah,47,6", "jeremiah,47,7" ],
+  "verses" : [ {
+    "verse" : "jeremiah,47,4",
+    "text" : "For the day has come to destroy all the Philistines and to cut off all survivors who could help Tyre and Sidon. The LORD is about to destroy the Philistines, the remnant from the coasts of Caphtor."
+  }, {
+    "verse" : "jeremiah,47,5",
+    "text" : "Gaza will shave her head in mourning; Ashkelon will be silenced. O remnant on the plain, how long will you cut yourselves?"
+  }, {
+    "verse" : "jeremiah,47,6",
+    "text" : "\"'Ah, sword of the LORD,' you cry, 'how long till you rest? Return to your scabbard; cease and be still.'"
+  }, {
+    "verse" : "jeremiah,47,7",
+    "text" : "But how can it rest when the LORD has commanded it, when he has ordered it to attack Ashkelon and the coast?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,47,4",
     "id" : 193977,

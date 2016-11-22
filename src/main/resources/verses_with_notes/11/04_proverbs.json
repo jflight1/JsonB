@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,27,1" ],
+  "verses" : [ {
+    "verse" : "proverbs,27,1",
+    "text" : "Do not boast about tomorrow, for you do not know what a day may bring forth."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,27,1",
     "id" : 192271,
@@ -7,7 +10,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 27:1\">27:1</a></b> Though wisdom is concerned with taking hold on life, people do not have complete control over their future. Fools think they have, but they do not reckon with the sovereign will of God (<a class=\"bibleref\" href=\"/passage/?search=Prov 21:30\">21:30</a> note; <a class=\"bibleref\" href=\"/passage/?search=Luke 12:19\">Luke 12:19</a>, <a class=\"bibleref\" href=\"/passage/?search=Luke 12:20\">20</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,27,2" ],
+  "verses" : [ {
+    "verse" : "proverbs,27,2",
+    "text" : "Let another praise you, and not your own mouth; someone else, and not your own lips."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,27,2",
     "id" : 192272,

@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,27,17" ],
+  "verses" : [ {
+    "verse" : "proverbs,27,17",
+    "text" : "As iron sharpens iron, so one man sharpens another."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,27,17",
     "id" : 192283,

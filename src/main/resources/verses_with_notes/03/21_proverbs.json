@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,11,22" ],
+  "verses" : [ {
+    "verse" : "proverbs,11,22",
+    "text" : "Like a gold ring in a pig's snout is a beautiful woman who shows no discretion."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

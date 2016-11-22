@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "john,13,31", "john,13,32" ],
+  "verses" : [ {
+    "verse" : "john,13,31",
+    "text" : "When he was gone, Jesus said, \"Now is the Son of Man glorified and God is glorified in him."
+  }, {
+    "verse" : "john,13,32",
+    "text" : "If God is glorified in him, God will glorify the Son in himself, and will glorify him at once."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,13,1-john,17,26",
     "id" : 197170,
@@ -12,7 +18,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 13:31\">13:31</a>, <a class=\"bibleref\" href=\"/passage/?search=John 13:32\">32</a> glorified.</b> The verb is repeated five times. One could have expected the opposite word (“humiliated”), for in the language of Paul, Jesus was on the threshold of His deepest humiliation, hanging on the Cross under the divine curse (<a class=\"bibleref\" href=\"/passage/?search=Gal 3:13\">Gal. 3:13</a>). But John focuses on the revelation of God’s glory through Christ so as to bring out the glory of God revealed especially in the Cross.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,13,33" ],
+  "verses" : [ {
+    "verse" : "john,13,33",
+    "text" : "\"My children, I will be with you only a little longer. You will look for me, and just as I told the Jews, so I tell you now: Where I am going, you cannot come."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,13,33",
     "id" : 197188,
@@ -20,7 +29,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 13:33\">13:33</a></b> <b>You will seek me.</b> This restriction is a temporary one. In time His disciples will go where Jesus is, when He has prepared a place for them (<a class=\"bibleref\" href=\"/passage/?search=John 14:2\">14:2</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,13,34", "john,13,35" ],
+  "verses" : [ {
+    "verse" : "john,13,34",
+    "text" : "\"A new command I give you: Love one another. As I have loved you, so you must love one another."
+  }, {
+    "verse" : "john,13,35",
+    "text" : "By this all men will know that you are my disciples, if you love one another.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,13,34",
     "id" : 197189,
@@ -28,7 +43,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 13:34\">13:34</a></b> <b>A new commandment.</b> There is nothing new about the command to love, since <a class=\"bibleref\" href=\"/passage/?search=Lev 19:18\">Lev. 19:18</a> teaches to “love your neighbor as yourself.” The new element is the change from “neighbor” to “one another” and the change from “as yourself” to “as I have loved you.” Christian love has Christ’s sacrificial love as its model, and the community of believers as the primary (though by no means exclusive) place in which it is expressed (cf. <a class=\"bibleref\" href=\"/passage/?search=Matt 25:40\">Matt. 25:40</a>; <a class=\"bibleref\" href=\"/passage/?search=Gal 6:10\">Gal. 6:10</a>; <a class=\"bibleref\" href=\"/passage/?search=Eph 5:25\">Eph. 5:25</a>). See “Love” at <a class=\"bibleref\" href=\"/passage/?search=1Cor 13:13\">1 Cor. 13:13</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,13,36" ],
+  "verses" : [ {
+    "verse" : "john,13,36",
+    "text" : "Simon Peter asked him, \"Lord, where are you going?\" Jesus replied, \"Where I am going, you cannot follow now, but you will follow later.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,13,36",
     "id" : 197190,
@@ -36,7 +54,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 13:36\">13:36</a></b> <b>you will follow afterward.</b> This is a prophecy about the martyrdom of Peter (<a class=\"bibleref\" href=\"/passage/?search=John 21:18\">21:18</a>, <a class=\"bibleref\" href=\"/passage/?search=John 21:19\">19</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,13,37" ],
+  "verses" : [ {
+    "verse" : "john,13,37",
+    "text" : "Peter asked, \"Lord, why can't I follow you now? I will lay down my life for you.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,13,37",
     "id" : 197191,
@@ -44,7 +65,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 13:37\">13:37</a></b> <b>I will lay down my life for you.</b> Peter was undoubtedly sincere, but he did not know himself.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,13,38" ],
+  "verses" : [ {
+    "verse" : "john,13,38",
+    "text" : "Then Jesus answered, \"Will you really lay down your life for me? I tell you the truth, before the rooster crows, you will disown me three times!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,13,38",
     "id" : 197192,
@@ -52,7 +76,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 13:38\">13:38</a></b> <b>the rooster will not crow.</b> The expression “crows twice” (as reported in <a class=\"bibleref\" href=\"/passage/?search=Mark 14:30\">Mark 14:30</a>) refers to the same confirmation of Peter’s denials.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,14,1" ],
+  "verses" : [ {
+    "verse" : "john,14,1",
+    "text" : "\"Do not let your hearts be troubled. Trust in God; trust also in me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,14,1",
     "id" : 197193,
@@ -60,7 +87,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 14:1\">14:1</a></b> <b>Let not your hearts be troubled.</b> This passage of supreme comfort is offered by Jesus in an hour darkened by the shadow of Judas’s treachery and Peter’s failure, only a few hours away from the agony of Gethsemane and death on the cross (<a class=\"bibleref\" href=\"/passage/?search=John 13:21\">13:21</a>). Yet the statement conveys a sense of sublime peace, and is intended to minister to the fears of the disciples rather than to Jesus’ own needs.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,14,2" ],
+  "verses" : [ {
+    "verse" : "john,14,2",
+    "text" : "In my Father's house are many rooms; if it were not so, I would have told you. I am going there to prepare a place for you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,14,2",
     "id" : 197194,
@@ -68,7 +98,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 14:2\">14:2</a></b> <b>many rooms.</b> While the road is narrow and the gate small that lead to life (<a class=\"bibleref\" href=\"/passage/?search=Matt 7:14\">Matt. 7:14</a>), it is also true that the number of Abraham’s children is like the sand on the shore and the stars in the sky (<a class=\"bibleref\" href=\"/passage/?search=Gen 22:17\">Gen. 22:17</a>), “a great multitude that no one could number” (<a class=\"bibleref\" href=\"/passage/?search=Rev 7:9\">Rev. 7:9</a>).</p><p><b>prepare a place for you.</b> Christ prepares the place in heaven for His own, and the Holy Spirit prepares the redeemed on earth for their place in heaven. See “Heaven” at <a class=\"bibleref\" href=\"/passage/?search=Rev 21:1\">Rev. 21:1</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,14,3", "john,14,4", "john,14,5" ],
+  "verses" : [ {
+    "verse" : "john,14,3",
+    "text" : "And if I go and prepare a place for you, I will come back and take you to be with me that you also may be where I am."
+  }, {
+    "verse" : "john,14,4",
+    "text" : "You know the way to the place where I am going.\""
+  }, {
+    "verse" : "john,14,5",
+    "text" : "Thomas said to him, \"Lord, we don't know where you are going, so how can we know the way?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,14,3",
     "id" : 197195,
@@ -76,7 +115,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 14:3\">14:3</a></b> <b>take you to myself.</b> In <a class=\"bibleref\" href=\"/passage/?search=John 1:51\">1:51</a>, Jesus has compared Himself to a ladder between heaven and earth. He is the One who takes His people to heaven.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,14,6" ],
+  "verses" : [ {
+    "verse" : "john,14,6",
+    "text" : "Jesus answered, \"I am the way and the truth and the life. No one comes to the Father except through me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,14,6",
     "id" : 197196,
@@ -84,7 +126,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 14:6\">14:6</a></b> <b>the life.</b> Not existence as such, but existence in fulfillment of God’s design that we should be His living temple (<a class=\"bibleref\" href=\"/passage/?search=John 1:4\">1:4</a>).</p><p><b>except through me.</b> This is a strong affirmation that Christ alone is the way of salvation. To imagine and proclaim other ways is to mislead people and forget the necessity of His coming and redemption (<a class=\"bibleref\" href=\"/passage/?search=Acts 4:12\">Acts 4:12</a>; <a class=\"bibleref\" href=\"/passage/?search=Rom 10:14\">Rom. 10:14</a>, <a class=\"bibleref\" href=\"/passage/?search=Rom 10:15\">15</a>; <a class=\"bibleref\" href=\"/passage/?search=1John 5:12\">1 John 5:12</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,14,7" ],
+  "verses" : [ {
+    "verse" : "john,14,7",
+    "text" : "If you really knew me, you would know my Father as well. From now on, you do know him and have seen him.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,14,7",
     "id" : 197197,
@@ -92,7 +137,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 14:7\">14:7</a></b> <b>If you had known me.</b> All the blessings previously named are summed up in the knowledge of God, which is more than a mere mental grasp, as it involves wholehearted commitment.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,14,8" ],
+  "verses" : [ {
+    "verse" : "john,14,8",
+    "text" : "Philip said, \"Lord, show us the Father and that will be enough for us.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,14,8",
     "id" : 197198,
@@ -100,7 +148,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 14:8\">14:8</a></b> <b>show us the Father.</b> Philip’s request shows misunderstanding, a theme throughout the Gospel (<a class=\"bibleref\" href=\"/passage/?search=John 2:21\">2:21</a> note), but it opens the way for the development that follows.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,14,9" ],
+  "verses" : [ {
+    "verse" : "john,14,9",
+    "text" : "Jesus answered: \"Don't you know me, Philip, even after I have been among you such a long time? Anyone who has seen me has seen the Father. How can you say, 'Show us the Father'?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,14,9",
     "id" : 197199,
@@ -108,7 +159,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 14:9\">14:9</a></b> <b>has seen the Father.</b> Jesus is not denying the distinction of Persons in God. He is reminding Philip that He is the one who reveals God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,14,10" ],
+  "verses" : [ {
+    "verse" : "john,14,10",
+    "text" : "Don't you believe that I am in the Father, and that the Father is in me? The words I say to you are not just my own. Rather, it is the Father, living in me, who is doing his work."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,14,10",
     "id" : 197200,
@@ -116,7 +170,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 14:10\">14:10</a></b> <b>I am in the Father and the Father is in me.</b> This is the reciprocal indwelling announced in <a class=\"bibleref\" href=\"/passage/?search=John 10:38\">10:38</a> and developed here, also in <a class=\"bibleref\" href=\"/passage/?search=John 10:20\">v. 20</a>, and again in <a class=\"bibleref\" href=\"/passage/?search=John 17:21\">17:21</a>. Three great unities are proclaimed in Scripture: the unity of the three Persons of the Trinity; the unity of the divine and human natures of Christ; and the unity of Christ and His people in redemption.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,14,11" ],
+  "verses" : [ {
+    "verse" : "john,14,11",
+    "text" : "Believe me when I say that I am in the Father and the Father is in me; or at least believe on the evidence of the miracles themselves."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,14,11",
     "id" : 197201,
@@ -124,7 +181,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 14:11\">14:11</a></b> See “Miracles” at <a class=\"bibleref\" href=\"/passage/?search=1Kgs 17:22\">1 Kin. 17:22</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,14,12" ],
+  "verses" : [ {
+    "verse" : "john,14,12",
+    "text" : "I tell you the truth, anyone who has faith in me will do what I have been doing. He will do even greater things than these, because I am going to the Father."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,14,12",
     "id" : 197202,
@@ -132,7 +192,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 14:12\">14:12</a></b> <b>greater works than these.</b> History proves that Jesus is not affirming that each believer will do greater miracles than He did. The church’s work in the power of the Holy Spirit will be “greater” than Jesus’ works in number and territory.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,14,13", "john,14,14" ],
+  "verses" : [ {
+    "verse" : "john,14,13",
+    "text" : "And I will do whatever you ask in my name, so that the Son may bring glory to the Father."
+  }, {
+    "verse" : "john,14,14",
+    "text" : "You may ask me for anything in my name, and I will do it."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,14,13",
     "id" : 197203,

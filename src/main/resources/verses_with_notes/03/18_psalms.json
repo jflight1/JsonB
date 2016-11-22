@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,61,1" ],
+  "verses" : [ {
+    "verse" : "psalms,61,1",
+    "text" : "Hear my cry, O God; listen to my prayer."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,61,1-psalms,61,8",
     "id" : 190732,
@@ -7,7 +10,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 61\">Ps. 61</a></b> Elements of lament, thanksgiving, and petition are combined in this memorable psalm.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,61,2" ],
+  "verses" : [ {
+    "verse" : "psalms,61,2",
+    "text" : "From the ends of the earth I call to you, I call as my heart grows faint; lead me to the rock that is higher than I."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,61,2",
     "id" : 190733,
@@ -15,7 +21,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 61:2\">61:2</a></b> <b>from the end of the earth.</b> The psalmist means that he is at a distance from the sanctuary on Mount Zion, and feels himself to be far from God.</p><p><b>rock.</b> He comes to the critical recognition that he does not have the strength to rescue himself; he can only turn to God in trust.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,61,3" ],
+  "verses" : [ {
+    "verse" : "psalms,61,3",
+    "text" : "For you have been my refuge, a strong tower against the foe."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,61,3",
     "id" : 190734,
@@ -23,7 +32,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 61:3\">61:3</a></b> <b>against the enemy.</b> God has protected the writer in the past against his enemies. This phrase leads us to believe that the psalmist is not only physically distant from the temple, but is engaged in a military action for which he needs God’s help.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,61,4" ],
+  "verses" : [ {
+    "verse" : "psalms,61,4",
+    "text" : "I long to dwell in your tent forever and take refuge in the shelter of your wings. Selah"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,61,4",
     "id" : 190735,
@@ -31,7 +43,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 61:4\">61:4</a></b> The psalmist yearns for God’s fellowship. See <a class=\"bibleref\" href=\"/passage/?search=Ps 61:2\">v. 2</a>.</p><p><b>under the shelter of your wings.</b> Some see here a metaphor for God’s compassion, as in the protection of the mother bird for her young. On the other hand, David’s reference to the familiar wings of the cherubim portrayed on the ark of the covenant seems more likely.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,61,5" ],
+  "verses" : [ {
+    "verse" : "psalms,61,5",
+    "text" : "For you have heard my vows, O God; you have given me the heritage of those who fear your name."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,61,5",
     "id" : 190736,
@@ -39,7 +54,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 61:5\">61:5</a></b> <b>my vows.</b> In the process of petitioning the Lord, the psalmist has made promises of obedience to the Lord. See <a class=\"bibleref\" href=\"/passage/?search=Ps 22:22\">22:22</a> and <a class=\"bibleref\" href=\"/passage/?search=1Sam 1:11\">1 Sam. 1:11</a>.</p><p><b>heritage.</b> As a member of God’s community, he receives the promises of the covenant, including the land of Israel and the promise of God’s protection.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,61,6" ],
+  "verses" : [ {
+    "verse" : "psalms,61,6",
+    "text" : "Increase the days of the king's life, his years for many generations."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,61,6",
     "id" : 190737,
@@ -47,7 +65,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 61:6\">61:6</a></b> <b>the life of the king.</b> Israel’s king was the center of the social order in Israel. The stability of that office affected the stability of the society as a whole. The earthly king was a symbol of the divine King. When Christ came, His gospel announced the “kingdom of heaven.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,61,7", "psalms,61,8" ],
+  "verses" : [ {
+    "verse" : "psalms,61,7",
+    "text" : "May he be enthroned in God's presence forever; appoint your love and faithfulness to protect him."
+  }, {
+    "verse" : "psalms,61,8",
+    "text" : "Then will I ever sing praise to your name and fulfill my vows day after day."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,61,7",
     "id" : 190738,

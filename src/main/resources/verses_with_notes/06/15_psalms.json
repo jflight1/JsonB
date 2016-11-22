@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,133,1" ],
+  "verses" : [ {
+    "verse" : "psalms,133,1",
+    "text" : "How good and pleasant it is when brothers live together in unity!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,133,1-psalms,133,3",
     "id" : 191486,
@@ -17,7 +20,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 133:1\">133:1</a></b> <b>brothers.</b> This term could refer to family members, but here probably refers to tribal and national comrades as they unite in worship.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,133,2" ],
+  "verses" : [ {
+    "verse" : "psalms,133,2",
+    "text" : "It is like precious oil poured on the head, running down on the beard, running down on Aaron's beard, down upon the collar of his robes."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,133,2",
     "id" : 191489,
@@ -25,7 +31,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 133:2\">133:2</a></b> <b>like the precious oil.</b> The first simile refers to the anointing of Aaron, the high priest. The special and exclusive blend of oil (<a class=\"bibleref\" href=\"/passage/?search=Exod 30:22-Exod 30:33\">Ex. 30:22–33</a>) was poured out extravagantly, running down his beard and onto his sacred robes. In the same way the unity of the people of God is a rich perfume making their worship pleasing to Him (<a class=\"bibleref\" href=\"/passage/?search=Rom 15:6\">Rom. 15:6</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,133,3" ],
+  "verses" : [ {
+    "verse" : "psalms,133,3",
+    "text" : "It is as if the dew of Hermon were falling on Mount Zion. For there the LORD bestows his blessing, even life forevermore."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,133,3",
     "id" : 191490,

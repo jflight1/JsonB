@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "luke,6,12" ],
+  "verses" : [ {
+    "verse" : "luke,6,12",
+    "text" : "One of those days Jesus went out to a mountainside to pray, and spent the night praying to God."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,6,12",
     "id" : 196442,
@@ -7,7 +10,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 6:12\">6:12</a></b> <b>all night he continued in prayer.</b> Prolonged prayer preceded the important choice of the Twelve.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,6,13", "luke,6,14", "luke,6,15", "luke,6,16" ],
+  "verses" : [ {
+    "verse" : "luke,6,13",
+    "text" : "When morning came, he called his disciples to him and chose twelve of them, whom he also designated apostles:"
+  }, {
+    "verse" : "luke,6,14",
+    "text" : "Simon (whom he named Peter), his brother Andrew, James, John, Philip, Bartholomew,"
+  }, {
+    "verse" : "luke,6,15",
+    "text" : "Matthew, Thomas, James son of Alphaeus, Simon who was called the Zealot,"
+  }, {
+    "verse" : "luke,6,16",
+    "text" : "Judas son of James, and Judas Iscariot, who became a traitor."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,6,13",
     "id" : 196443,
@@ -15,7 +30,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 6:13\">6:13</a></b> <b>apostles.</b> The word means a “messenger,” someone sent (see <a class=\"bibleref\" href=\"/passage/?search=2Cor 1:1\">2 Cor. 1:1</a> note). It is not often used in the Gospels (“the twelve” is more common) but is frequent in Acts and the Epistles. Until now Luke has spoken of “Simon,” but from this point on he usually calls him “Peter.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,6,17", "luke,6,18", "luke,6,19" ],
+  "verses" : [ {
+    "verse" : "luke,6,17",
+    "text" : "He went down with them and stood on a level place. A large crowd of his disciples was there and a great number of people from all over Judea, from Jerusalem, and from the coast of Tyre and Sidon,"
+  }, {
+    "verse" : "luke,6,18",
+    "text" : "who had come to hear him and to be healed of their diseases. Those troubled by evil spirits were cured,"
+  }, {
+    "verse" : "luke,6,19",
+    "text" : "and the people all tried to touch him, because power was coming from him and healing them all."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,6,17",
     "id" : 196444,
@@ -23,7 +47,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 6:17\">6:17 a</a></b> <b>level place.</b> This phrase accounts for the sermon being called “The Sermon on the Plain.” Luke describes a ministry of teaching and healing that had wide appeal.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,6,20" ],
+  "verses" : [ {
+    "verse" : "luke,6,20",
+    "text" : "Looking at his disciples, he said: \"Blessed are you who are poor, for yours is the kingdom of God."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,6,20-luke,6,49",
     "id" : 196445,
@@ -36,7 +63,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 6:20\">6:20</a></b> <b>Blessed.</b> This term implies more than “fortunate” or “happy;” it is a religious term and means those who enjoy the favor of God.</p><p><b>you who are poor.</b> Luke is especially concerned with the blessings that the gospel brings to the poor (see notes <a class=\"bibleref\" href=\"/passage/?search=Luke 1:46-Luke 1:55\">1:46–55</a>, <a class=\"bibleref\" href=\"/passage/?search=Luke 1:51-Luke 1:53\">51–53</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 9:18\">Ps. 9:18</a> note). Poverty can be a curse (<a class=\"bibleref\" href=\"/passage/?search=Prov 30:8\">Prov. 30:8</a>, <a class=\"bibleref\" href=\"/passage/?search=Prov 30:9\">9</a>), and disciples know that they must rely on God for all things. They have no resources of their own and are “poor,” but God blesses them with “the kingdom.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,6,21" ],
+  "verses" : [ {
+    "verse" : "luke,6,21",
+    "text" : "Blessed are you who hunger now, for you will be satisfied. Blessed are you who weep now, for you will laugh."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,6,21",
     "id" : 196447,
@@ -44,7 +74,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 6:21\">6:21</a></b> The hungry realize their need and look to God for satisfaction.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,6,22", "luke,6,23" ],
+  "verses" : [ {
+    "verse" : "luke,6,22",
+    "text" : "Blessed are you when men hate you, when they exclude you and insult you and reject your name as evil, because of the Son of Man."
+  }, {
+    "verse" : "luke,6,23",
+    "text" : "\"Rejoice in that day and leap for joy, because great is your reward in heaven. For that is how their fathers treated the prophets."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,6,22-luke,6,23",
     "id" : 196448,
@@ -52,7 +88,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 6:22\">6:22</a>, <a class=\"bibleref\" href=\"/passage/?search=Luke 6:23\">23</a></b> A blessing for the persecuted is most unexpected. It is not suffering in general that is pronounced blessed, but suffering “on account of the Son of Man.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,6,24", "luke,6,25", "luke,6,26", "luke,6,27", "luke,6,28", "luke,6,29" ],
+  "verses" : [ {
+    "verse" : "luke,6,24",
+    "text" : "\"But woe to you who are rich, for you have already received your comfort."
+  }, {
+    "verse" : "luke,6,25",
+    "text" : "Woe to you who are well fed now, for you will go hungry. Woe to you who laugh now, for you will mourn and weep."
+  }, {
+    "verse" : "luke,6,26",
+    "text" : "Woe to you when all men speak well of you, for that is how their fathers treated the false prophets."
+  }, {
+    "verse" : "luke,6,27",
+    "text" : "\"But I tell you who hear me: Love your enemies, do good to those who hate you,"
+  }, {
+    "verse" : "luke,6,28",
+    "text" : "bless those who curse you, pray for those who mistreat you."
+  }, {
+    "verse" : "luke,6,29",
+    "text" : "If someone strikes you on one cheek, turn to him the other also. If someone takes your cloak, do not stop him from taking your tunic."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,6,24-luke,6,26",
     "id" : 196449,
@@ -60,7 +114,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 6:24-Luke 6:26\">6:24–26</a></b> The “woes” correspond to the blessings of the previous verses. Those who do not realize their spiritual poverty but rely on their own achievement will reap disaster in the end. The term “woe” often introduces a prophetic oracle of doom.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,6,30" ],
+  "verses" : [ {
+    "verse" : "luke,6,30",
+    "text" : "Give to everyone who asks you, and if anyone takes what belongs to you, do not demand it back."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,6,30",
     "id" : 196450,
@@ -68,7 +125,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 6:30\">6:30</a></b> A disciple must be free from the love of possessions.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,6,31" ],
+  "verses" : [ {
+    "verse" : "luke,6,31",
+    "text" : "Do to others as you would have them do to you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,6,31",
     "id" : 196451,
@@ -76,7 +136,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 6:31\">6:31</a></b> Jesus is the first to give the “Golden Rule” in this positive form; see note <a class=\"bibleref\" href=\"/passage/?search=Matt 7:12\">Matt. 7:12</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,6,32", "luke,6,33", "luke,6,34" ],
+  "verses" : [ {
+    "verse" : "luke,6,32",
+    "text" : "\"If you love those who love you, what credit is that to you? Even 'sinners' love those who love them."
+  }, {
+    "verse" : "luke,6,33",
+    "text" : "And if you do good to those who are good to you, what credit is that to you? Even 'sinners' do that."
+  }, {
+    "verse" : "luke,6,34",
+    "text" : "And if you lend to those from whom you expect repayment, what credit is that to you? Even 'sinners' lend to 'sinners,' expecting to be repaid in full."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,6,32-luke,6,34",
     "id" : 196452,
@@ -84,7 +153,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 6:32-Luke 6:34\">6:32–34</a></b> The world’s standards are not to guide the followers of Jesus.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,6,35", "luke,6,36" ],
+  "verses" : [ {
+    "verse" : "luke,6,35",
+    "text" : "But love your enemies, do good to them, and lend to them without expecting to get anything back. Then your reward will be great, and you will be sons of the Most High, because he is kind to the ungrateful and wicked."
+  }, {
+    "verse" : "luke,6,36",
+    "text" : "Be merciful, just as your Father is merciful."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,6,35",
     "id" : 196453,
@@ -92,7 +167,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 6:35\">6:35</a></b> <b>sons of the Most High.</b> God’s people are to be like God, as merciful as He is.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,6,37", "luke,6,38" ],
+  "verses" : [ {
+    "verse" : "luke,6,37",
+    "text" : "\"Do not judge, and you will not be judged. Do not condemn, and you will not be condemned. Forgive, and you will be forgiven."
+  }, {
+    "verse" : "luke,6,38",
+    "text" : "Give, and it will be given to you. A good measure, pressed down, shaken together and running over, will be poured into your lap. For with the measure you use, it will be measured to you.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,6,37",
     "id" : 196454,

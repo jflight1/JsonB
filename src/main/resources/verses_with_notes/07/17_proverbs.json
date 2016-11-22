@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,19,15" ],
+  "verses" : [ {
+    "verse" : "proverbs,19,15",
+    "text" : "Laziness brings on deep sleep, and the shiftless man goes hungry."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 19:15\">19:15</a></b> See <a class=\"bibleref\" href=\"/passage/?search=Prov 6:10\">6:10</a>, <a class=\"bibleref\" href=\"/passage/?search=Prov 6:11\">11</a>; <a class=\"bibleref\" href=\"/passage/?search=Prov 10:4\">10:4</a> and notes.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,19,16" ],
+  "verses" : [ {
+    "verse" : "proverbs,19,16",
+    "text" : "He who obeys instructions guards his life, but he who is contemptuous of his ways will die."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,19,16",
     "id" : 192079,

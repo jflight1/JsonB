@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "2samuel,18,1" ],
+  "verses" : [ {
+    "verse" : "2samuel,18,1",
+    "text" : "David mustered the men who were with him and appointed over them commanders of thousands and commanders of hundreds."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,18,1",
     "id" : 187969,
@@ -7,7 +10,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 18:1\">18:1</a></b> <b>thousands . . . hundreds.</b> These are standard military units, (<a class=\"bibleref\" href=\"/passage/?search=Exod 18:21\">Ex. 18:21</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 31:14\">Num. 31:14</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 1:15\">Deut. 1:15</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 8:12\">1 Sam. 8:12</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 22:7\">22:7</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 29:2\">29:2</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,18,2" ],
+  "verses" : [ {
+    "verse" : "2samuel,18,2",
+    "text" : "David sent the troops out-a third under the command of Joab, a third under Joab's brother Abishai son of Zeruiah, and a third under Ittai the Gittite. The king told the troops, \"I myself will surely march out with you.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,18,2",
     "id" : 187970,
@@ -15,7 +21,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 18:2\">18:2</a></b> <b>one third.</b> It was a conventional practice to divide troops into three parts (<a class=\"bibleref\" href=\"/passage/?search=1Sam 11:11\">1 Sam. 11:11</a>).</p><p><b>Abishai.</b> See note 2:18.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,18,3" ],
+  "verses" : [ {
+    "verse" : "2samuel,18,3",
+    "text" : "But the men said, \"You must not go out; if we are forced to flee, they won't care about us. Even if half of us die, they won't care; but you are worth ten thousand of us. It would be better now for you to give us support from the city.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,18,3",
     "id" : 187971,
@@ -23,7 +32,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 18:3\">18:3</a></b> <b>You shall not go out.</b> In response to David’s emphatic pronouncement in <a class=\"bibleref\" href=\"/passage/?search=2Sam 18:2\">v. 2</a>, the troops are adamant that he must not accompany them. Perhaps they fear that David’s feelings for Absalom (<a class=\"bibleref\" href=\"/passage/?search=2Sam 18:5\">v. 5</a>; <a class=\"bibleref\" href=\"/passage/?search=2Sam 18:33-2Sam 19:7\">18:33–19:7</a>) or simply his advancing age (<a class=\"bibleref\" href=\"/passage/?search=2Sam 21:15-2Sam 21:17\">21:15–17</a>) might prove a liability in the campaign. They recognize, moreover, that the death of David would mean sure defeat, as Ahithophel had earlier pointed out to Absalom (<a class=\"bibleref\" href=\"/passage/?search=2Sam 17:2\">17:2</a>, <a class=\"bibleref\" href=\"/passage/?search=2Sam 17:3\">3</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,18,4", "2samuel,18,5" ],
+  "verses" : [ {
+    "verse" : "2samuel,18,4",
+    "text" : "The king answered, \"I will do whatever seems best to you.\" So the king stood beside the gate while all the men marched out in units of hundreds and of thousands."
+  }, {
+    "verse" : "2samuel,18,5",
+    "text" : "The king commanded Joab, Abishai and Ittai, \"Be gentle with the young man Absalom for my sake.\" And all the troops heard the king giving orders concerning Absalom to each of the commanders."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,18,4",
     "id" : 187972,
@@ -31,7 +46,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 18:4\">18:4</a></b> <b>at the side of the gate.</b> That is, in Mahanaim (<a class=\"bibleref\" href=\"/passage/?search=2Sam 17:24\">17:24</a>, <a class=\"bibleref\" href=\"/passage/?search=2Sam 17:27\">27</a>). See note <a class=\"bibleref\" href=\"/passage/?search=2Sam 19:8\">19:8</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,18,6", "2samuel,18,7" ],
+  "verses" : [ {
+    "verse" : "2samuel,18,6",
+    "text" : "The army marched into the field to fight Israel, and the battle took place in the forest of Ephraim."
+  }, {
+    "verse" : "2samuel,18,7",
+    "text" : "There the army of Israel was defeated by David's men, and the casualties that day were great-twenty thousand men."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,18,6",
     "id" : 187973,
@@ -39,7 +60,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 18:6\">18:6</a></b> <b>the forest of Ephraim.</b> Though the territory of Ephraim was west of the Jordan, the present context implies that “the forest of Ephraim” was east of the Jordan. Ephraim may have taken some territory in the east.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,18,8" ],
+  "verses" : [ {
+    "verse" : "2samuel,18,8",
+    "text" : "The battle spread out over the whole countryside, and the forest claimed more lives that day than the sword."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,18,8",
     "id" : 187974,
@@ -47,7 +71,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 18:8\">18:8</a></b> <b>the forest devoured more.</b> The enemy would be lost in the unfamiliar, rough terrain. Some might take the opportunity to desert and others become easy prey for more experienced soldiers.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,18,9", "2samuel,18,10" ],
+  "verses" : [ {
+    "verse" : "2samuel,18,9",
+    "text" : "Now Absalom happened to meet David's men. He was riding his mule, and as the mule went under the thick branches of a large oak, Absalom's head got caught in the tree. He was left hanging in midair, while the mule he was riding kept on going."
+  }, {
+    "verse" : "2samuel,18,10",
+    "text" : "When one of the men saw this, he told Joab, \"I just saw Absalom hanging in an oak tree.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,18,9",
     "id" : 187975,
@@ -55,7 +85,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 18:9\">18:9</a></b> <b>riding on his mule.</b> Mules were the royal mount of choice (<a class=\"bibleref\" href=\"/passage/?search=2Sam 13:29\">13:29</a>; <a class=\"bibleref\" href=\"/passage/?search=1Kgs 1:33\">1 Kin. 1:33</a>).</p><p><b>his head caught fast in the oak.</b> The text does not say that Absalom’s famous hair was caught in the branches, but it seems likely (14:25, 26 and note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,18,11" ],
+  "verses" : [ {
+    "verse" : "2samuel,18,11",
+    "text" : "Joab said to the man who had told him this, \"What! You saw him? Why didn't you strike him to the ground right there? Then I would have had to give you ten shekels of silver and a warrior's belt.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,18,11",
     "id" : 187976,
@@ -63,7 +96,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 18:11\">18:11</a></b> <b>I would have been glad to give you.</b> Joab has no qualms about violating David’s express command (<a class=\"bibleref\" href=\"/passage/?search=2Sam 18:5\">v. 5</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,18,12", "2samuel,18,13", "2samuel,18,14", "2samuel,18,15" ],
+  "verses" : [ {
+    "verse" : "2samuel,18,12",
+    "text" : "But the man replied, \"Even if a thousand shekels were weighed out into my hands, I would not lift my hand against the king's son. In our hearing the king commanded you and Abishai and Ittai, 'Protect the young man Absalom for my sake. '"
+  }, {
+    "verse" : "2samuel,18,13",
+    "text" : "And if I had put my life in jeopardy -and nothing is hidden from the king-you would have kept your distance from me.\""
+  }, {
+    "verse" : "2samuel,18,14",
+    "text" : "Joab said, \"I'm not going to wait like this for you.\" So he took three javelins in his hand and plunged them into Absalom's heart while Absalom was still alive in the oak tree."
+  }, {
+    "verse" : "2samuel,18,15",
+    "text" : "And ten of Joab's armor-bearers surrounded Absalom, struck him and killed him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,18,12-2samuel,18,13",
     "id" : 187977,
@@ -71,7 +116,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 18:12\">18:12</a>, <a class=\"bibleref\" href=\"/passage/?search=2Sam 18:13\">13</a></b> The man obviously does not share Joab’s cavalier attitude towards David’s orders. Moreover, he astutely concludes that, if he killed Absalom, Joab would deny having any part in it and leave him to take the blame.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,18,16" ],
+  "verses" : [ {
+    "verse" : "2samuel,18,16",
+    "text" : "Then Joab sounded the trumpet, and the troops stopped pursuing Israel, for Joab halted them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,18,16",
     "id" : 187978,
@@ -79,7 +127,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 18:16\">18:16</a></b> <b>blew the trumpet.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Sam 13:3\">1 Sam. 13:3</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,18,17" ],
+  "verses" : [ {
+    "verse" : "2samuel,18,17",
+    "text" : "They took Absalom, threw him into a big pit in the forest and piled up a large heap of rocks over him. Meanwhile, all the Israelites fled to their homes."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,18,17",
     "id" : 187979,
@@ -87,7 +138,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 18:17\">18:17</a></b> <b>raised over him a very great heap of stones.</b> Such burial was often reserved for criminals or enemies (<a class=\"bibleref\" href=\"/passage/?search=Josh 7:26\">Josh. 7:26</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 8:29\">8:29</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,18,18" ],
+  "verses" : [ {
+    "verse" : "2samuel,18,18",
+    "text" : "During his lifetime Absalom had taken a pillar and erected it in the King's Valley as a monument to himself, for he thought, \"I have no son to carry on the memory of my name.\" He named the pillar after himself, and it is called Absalom's Monument to this day."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,18,18",
     "id" : 187980,
@@ -95,7 +149,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 18:18\">18:18</a></b> <b>pillar.</b> Compare Saul’s action in <a class=\"bibleref\" href=\"/passage/?search=1Sam 15:12\">1 Sam. 15:12</a>. In life Absalom had envisaged for himself a king’s career and had erected a pillar of remembrance in his own honor; in death he was branded a traitor and buried under a pile of stones.</p><p><b>King’s Valley.</b> Probably near Jerusalem (<a class=\"bibleref\" href=\"/passage/?search=Gen 14:17\">Gen. 14:17</a>).</p><p><b>no son.</b> Absalom’s three sons, mentioned but not named in 14:27, presumably were not yet born or were already deceased when Absalom erected his monument.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,18,19" ],
+  "verses" : [ {
+    "verse" : "2samuel,18,19",
+    "text" : "Now Ahimaaz son of Zadok said, \"Let me run and take the news to the king that the LORD has delivered him from the hand of his enemies.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,18,19",
     "id" : 187981,
@@ -103,7 +160,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 18:19\">18:19</a></b> <b>Ahimaaz.</b> Ahimaaz has previously served as a messenger for David (<a class=\"bibleref\" href=\"/passage/?search=2Sam 15:36\">15:36</a>; <a class=\"bibleref\" href=\"/passage/?search=2Sam 17:15-2Sam 17:21\">17:15–21</a>) and wishes to do so again.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,18,20" ],
+  "verses" : [ {
+    "verse" : "2samuel,18,20",
+    "text" : "\"You are not the one to take the news today,\" Joab told him. \"You may take the news another time, but you must not do so today, because the king's son is dead.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,18,20",
     "id" : 187982,
@@ -111,7 +171,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 18:20\">18:20</a></b> <b>You are not to carry news today.</b> It can be inferred from <a class=\"bibleref\" href=\"/passage/?search=2Sam 18:27\">v. 27</a> that there was a correlation between the messenger chosen and the content of the message. Joab’s decision not to send Ahimaaz may have been prompted by a desire not to appear as personally taking too much pleasure in Absalom’s death.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,18,21", "2samuel,18,22", "2samuel,18,23", "2samuel,18,24" ],
+  "verses" : [ {
+    "verse" : "2samuel,18,21",
+    "text" : "Then Joab said to a Cushite, \"Go, tell the king what you have seen.\" The Cushite bowed down before Joab and ran off."
+  }, {
+    "verse" : "2samuel,18,22",
+    "text" : "Ahimaaz son of Zadok again said to Joab, \"Come what may, please let me run behind the Cushite.\" But Joab replied, \"My son, why do you want to go? You don't have any news that will bring you a reward.\""
+  }, {
+    "verse" : "2samuel,18,23",
+    "text" : "He said, \"Come what may, I want to run.\" So Joab said, \"Run!\" Then Ahimaaz ran by way of the plain and outran the Cushite."
+  }, {
+    "verse" : "2samuel,18,24",
+    "text" : "While David was sitting between the inner and outer gates, the watchman went up to the roof of the gateway by the wall. As he looked out, he saw a man running alone."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,18,21",
     "id" : 187983,
@@ -119,7 +191,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 18:21\">18:21</a></b> <b>Cushite.</b> Cush is the area south of Egypt.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,18,25", "2samuel,18,26" ],
+  "verses" : [ {
+    "verse" : "2samuel,18,25",
+    "text" : "The watchman called out to the king and reported it. The king said, \"If he is alone, he must have good news.\" And the man came closer and closer."
+  }, {
+    "verse" : "2samuel,18,26",
+    "text" : "Then the watchman saw another man running, and he called down to the gatekeeper, \"Look, another man running alone!\" The king said, \"He must be bringing good news, too.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,18,25",
     "id" : 187984,
@@ -127,7 +205,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 18:25\">18:25</a></b> <b>alone, there is news in his mouth.</b> Were he fleeing the battlefield he would not likely be alone, nor would he be approaching so energetically and openly (compare <a class=\"bibleref\" href=\"/passage/?search=2Sam 19:3\">19:3</a>, which speaks of people “who are ashamed when they flee in battle” and so steal into the city).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,18,27", "2samuel,18,28" ],
+  "verses" : [ {
+    "verse" : "2samuel,18,27",
+    "text" : "The watchman said, \"It seems to me that the first one runs like Ahimaaz son of Zadok.He's a good man,\" the king said. \"He comes with good news.\""
+  }, {
+    "verse" : "2samuel,18,28",
+    "text" : "Then Ahimaaz called out to the king, \"All is well!\" He bowed down before the king with his face to the ground and said, \"Praise be to the LORD your God! He has delivered up the men who lifted their hands against my lord the king.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,18,27",
     "id" : 187985,
@@ -135,7 +219,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 18:27\">18:27</a></b> <b>good man . . . good news.</b> See note on <a class=\"bibleref\" href=\"/passage/?search=2Sam 18:20\">v. 20</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,18,29", "2samuel,18,30", "2samuel,18,31" ],
+  "verses" : [ {
+    "verse" : "2samuel,18,29",
+    "text" : "The king asked, \"Is the young man Absalom safe?\" Ahimaaz answered, \"I saw great confusion just as Joab was about to send the king's servant and me, your servant, but I don't know what it was.\""
+  }, {
+    "verse" : "2samuel,18,30",
+    "text" : "The king said, \"Stand aside and wait here.\" So he stepped aside and stood there."
+  }, {
+    "verse" : "2samuel,18,31",
+    "text" : "Then the Cushite arrived and said, \"My lord the king, hear the good news! The LORD has delivered you today from all who rose up against you.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,18,29",
     "id" : 187986,
@@ -143,7 +236,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 18:29\">18:29</a></b> <b>I saw a great commotion, but I do not know what it was.</b> Ahimaaz conceals his knowledge of Absalom’s death (<a class=\"bibleref\" href=\"/passage/?search=2Sam 18:20\">v. 20</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,18,32" ],
+  "verses" : [ {
+    "verse" : "2samuel,18,32",
+    "text" : "The king asked the Cushite, \"Is the young man Absalom safe?\" The Cushite replied, \"May the enemies of my lord the king and all who rise up to harm you be like that young man.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,18,32",
     "id" : 187987,
@@ -151,7 +247,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 18:32\">18:32</a></b> <b>like that young man.</b> The Cushite offers a conventionally phrased response (<a class=\"bibleref\" href=\"/passage/?search=1Sam 25:26\">1 Sam. 25:26</a>), which David readily understands (v. 33).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,18,33", "2samuel,19,1", "2samuel,19,2", "2samuel,19,3", "2samuel,19,4" ],
+  "verses" : [ {
+    "verse" : "2samuel,18,33",
+    "text" : "The king was shaken. He went up to the room over the gateway and wept. As he went, he said: \"O my son Absalom! My son, my son Absalom! If only I had died instead of you-O Absalom, my son, my son!\""
+  }, {
+    "verse" : "2samuel,19,1",
+    "text" : "Joab was told, \"The king is weeping and mourning for Absalom.\""
+  }, {
+    "verse" : "2samuel,19,2",
+    "text" : "And for the whole army the victory that day was turned into mourning, because on that day the troops heard it said, \"The king is grieving for his son.\""
+  }, {
+    "verse" : "2samuel,19,3",
+    "text" : "The men stole into the city that day as men steal in who are ashamed when they flee from battle."
+  }, {
+    "verse" : "2samuel,19,4",
+    "text" : "The king covered his face and cried aloud, \"O my son Absalom! O Absalom, my son, my son!\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,18,33",
     "id" : 187988,
@@ -159,7 +270,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 18:33\">18:33</a></b> <b>O my son Absalom.</b> The awful repetition in David’s outburst conveys his anguish at the loss of his son (<a class=\"bibleref\" href=\"/passage/?search=2Sam 19:4\">19:4</a>). In spite of all the harm that Absalom caused, David’s grief blinds him to everything else (<a class=\"bibleref\" href=\"/passage/?search=2Sam 19:5\">19:5</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,19,5", "2samuel,19,6" ],
+  "verses" : [ {
+    "verse" : "2samuel,19,5",
+    "text" : "Then Joab went into the house to the king and said, \"Today you have humiliated all your men, who have just saved your life and the lives of your sons and daughters and the lives of your wives and concubines."
+  }, {
+    "verse" : "2samuel,19,6",
+    "text" : "You love those who hate you and hate those who love you. You have made it clear today that the commanders and their men mean nothing to you. I see that you would be pleased if Absalom were alive today and all of us were dead."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,19,5",
     "id" : 187989,
@@ -167,7 +284,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 19:5\">19:5</a></b> <b>You have today covered with shame.</b> What might, under different circumstances, be an understandable display of grief is totally unacceptable here. Joab forcefully declares to David the demoralizing effect his behavior is having on those who have just saved his life. If the actions of later usurpers is any guide, Absalom’s success could have cost the lives of David and his whole household (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 15:29\">1 Kin. 15:29</a>; <a class=\"bibleref\" href=\"/passage/?search=1Kgs 16:11\">16:11</a>, <a class=\"bibleref\" href=\"/passage/?search=1Kgs 16:12\">12</a>; <a class=\"bibleref\" href=\"/passage/?search=2Kgs 10:6\">2 Kin. 10:6</a>, <a class=\"bibleref\" href=\"/passage/?search=2Kgs 10:7\">7</a>, <a class=\"bibleref\" href=\"/passage/?search=2Kgs 10:17\">17</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,19,7" ],
+  "verses" : [ {
+    "verse" : "2samuel,19,7",
+    "text" : "Now go out and encourage your men. I swear by the LORD that if you don't go out, not a man will be left with you by nightfall. This will be worse for you than all the calamities that have come upon you from your youth till now.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,19,7",
     "id" : 187990,
@@ -175,7 +295,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 19:7\">19:7</a></b> <b>not a man will stay with you.</b> Joab practically threatens to lead a rebellion himself if David does not correct his behavior and show his troops proper honor.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,19,8", "2samuel,19,9", "2samuel,19,10" ],
+  "verses" : [ {
+    "verse" : "2samuel,19,8",
+    "text" : "So the king got up and took his seat in the gateway. When the men were told, \"The king is sitting in the gateway,\" they all came before him. Meanwhile, the Israelites had fled to their homes."
+  }, {
+    "verse" : "2samuel,19,9",
+    "text" : "Throughout the tribes of Israel, the people were all arguing with each other, saying, \"The king delivered us from the hand of our enemies; he is the one who rescued us from the hand of the Philistines. But now he has fled the country because of Absalom;"
+  }, {
+    "verse" : "2samuel,19,10",
+    "text" : "and Absalom, whom we anointed to rule over us, has died in battle. So why do you say nothing about bringing the king back?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,19,8",
     "id" : 187991,

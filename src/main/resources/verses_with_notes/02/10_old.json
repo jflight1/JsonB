@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "exodus,30,11" ],
+  "verses" : [ {
+    "verse" : "exodus,30,11",
+    "text" : "Then the LORD said to Moses,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,25,1-exodus,31,8",
     "id" : 185863,
@@ -7,7 +10,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 25:1-Exod 31:8\">25:1–31:8</a></b> This section goes into great detail regarding the divine pattern for the place where the Lord Himself would dwell among His people. The tabernacle and its ministry are the two central features—details of the tabernacle construction, and the precise elements, manner, and persons to be employed in God’s service are carefully specified. The inauguration of the covenant had established God’s kingship over Israel. That kingship was now to be appropriately recognized by the building of a residence for God as a symbol of His royal authority over Israel.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,30,12" ],
+  "verses" : [ {
+    "verse" : "exodus,30,12",
+    "text" : "\"When you take a census of the Israelites to count them, each one must pay the LORD a ransom for his life at the time he is counted. Then no plague will come on them when you number them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,30,12",
     "id" : 185928,
@@ -15,7 +21,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 30:12\">30:12</a></b> <b>take the census.</b> The half-shekel atonement money that accompanied each census witnessed to Israel’s dependence on the Lord’s mercy. Their lives were forfeit because of sin, and must be redeemed. The lesson of the Passover and the redemption of the firstborn is applied to all Israel (<a class=\"bibleref\" href=\"/passage/?search=Exod 13:15\">13:15</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 22:29\">22:29</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 3:40-Num 3:51\">Num. 3:40–51</a>).</p><p><b>ransom.</b> Lit. “atonement.” The payment served as an act of individual atonement and was an assertion of God’s rights over Israel.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,30,13", "exodus,30,14", "exodus,30,15", "exodus,30,16" ],
+  "verses" : [ {
+    "verse" : "exodus,30,13",
+    "text" : "Each one who crosses over to those already counted is to give a half shekel, according to the sanctuary shekel, which weighs twenty gerahs. This half shekel is an offering to the LORD."
+  }, {
+    "verse" : "exodus,30,14",
+    "text" : "All who cross over, those twenty years old or more, are to give an offering to the LORD."
+  }, {
+    "verse" : "exodus,30,15",
+    "text" : "The rich are not to give more than a half shekel and the poor are not to give less when you make the offering to the LORD to atone for your lives."
+  }, {
+    "verse" : "exodus,30,16",
+    "text" : "Receive the atonement money from the Israelites and use it for the service of the Tent of Meeting. It will be a memorial for the Israelites before the LORD, making atonement for your lives.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,30,13",
     "id" : 185929,
@@ -23,7 +41,73 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 30:13\">30:13</a></b> <b>half a shekel.</b> In difficult times the amount was apparently reduced (<a class=\"bibleref\" href=\"/passage/?search=Neh 10:32\">Neh. 10:32</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,30,17", "exodus,30,18", "exodus,30,19", "exodus,30,20", "exodus,30,21", "exodus,30,22", "exodus,30,23", "exodus,30,24", "exodus,30,25", "exodus,30,26", "exodus,30,27", "exodus,30,28", "exodus,30,29", "exodus,30,30", "exodus,30,31", "exodus,30,32", "exodus,30,33", "exodus,30,34", "exodus,30,35", "exodus,30,36", "exodus,30,37", "exodus,30,38" ],
+  "verses" : [ {
+    "verse" : "exodus,30,17",
+    "text" : "Then the LORD said to Moses,"
+  }, {
+    "verse" : "exodus,30,18",
+    "text" : "\"Make a bronze basin, with its bronze stand, for washing. Place it between the Tent of Meeting and the altar, and put water in it."
+  }, {
+    "verse" : "exodus,30,19",
+    "text" : "Aaron and his sons are to wash their hands and feet with water from it."
+  }, {
+    "verse" : "exodus,30,20",
+    "text" : "Whenever they enter the Tent of Meeting, they shall wash with water so that they will not die. Also, when they approach the altar to minister by presenting an offering made to the LORD by fire,"
+  }, {
+    "verse" : "exodus,30,21",
+    "text" : "they shall wash their hands and feet so that they will not die. This is to be a lasting ordinance for Aaron and his descendants for the generations to come.\""
+  }, {
+    "verse" : "exodus,30,22",
+    "text" : "Then the LORD said to Moses,"
+  }, {
+    "verse" : "exodus,30,23",
+    "text" : "\"Take the following fine spices: 500 shekels of liquid myrrh, half as much (that is, 250 shekels) of fragrant cinnamon, 250 shekels of fragrant cane,"
+  }, {
+    "verse" : "exodus,30,24",
+    "text" : "500 shekels of cassia-all according to the sanctuary shekel-and a hin of olive oil."
+  }, {
+    "verse" : "exodus,30,25",
+    "text" : "Make these into a sacred anointing oil, a fragrant blend, the work of a perfumer. It will be the sacred anointing oil."
+  }, {
+    "verse" : "exodus,30,26",
+    "text" : "Then use it to anoint the Tent of Meeting, the ark of the Testimony,"
+  }, {
+    "verse" : "exodus,30,27",
+    "text" : "the table and all its articles, the lampstand and its accessories, the altar of incense,"
+  }, {
+    "verse" : "exodus,30,28",
+    "text" : "the altar of burnt offering and all its utensils, and the basin with its stand."
+  }, {
+    "verse" : "exodus,30,29",
+    "text" : "You shall consecrate them so they will be most holy, and whatever touches them will be holy."
+  }, {
+    "verse" : "exodus,30,30",
+    "text" : "\"Anoint Aaron and his sons and consecrate them so they may serve me as priests."
+  }, {
+    "verse" : "exodus,30,31",
+    "text" : "Say to the Israelites, 'This is to be my sacred anointing oil for the generations to come."
+  }, {
+    "verse" : "exodus,30,32",
+    "text" : "Do not pour it on men's bodies and do not make any oil with the same formula. It is sacred, and you are to consider it sacred."
+  }, {
+    "verse" : "exodus,30,33",
+    "text" : "Whoever makes perfume like it and whoever puts it on anyone other than a priest must be cut off from his people.'\""
+  }, {
+    "verse" : "exodus,30,34",
+    "text" : "Then the LORD said to Moses, \"Take fragrant spices-gum resin, onycha and galbanum-and pure frankincense, all in equal amounts,"
+  }, {
+    "verse" : "exodus,30,35",
+    "text" : "and make a fragrant blend of incense, the work of a perfumer. It is to be salted and pure and sacred."
+  }, {
+    "verse" : "exodus,30,36",
+    "text" : "Grind some of it to powder and place it in front of the Testimony in the Tent of Meeting, where I will meet with you. It shall be most holy to you."
+  }, {
+    "verse" : "exodus,30,37",
+    "text" : "Do not make any incense with this formula for yourselves; consider it holy to the LORD."
+  }, {
+    "verse" : "exodus,30,38",
+    "text" : "Whoever makes any like it to enjoy its fragrance must be cut off from his people.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,30,17-exodus,30,21",
     "id" : 185930,
@@ -31,7 +115,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 30:17-Exod 30:21\">30:17–21</a></b> The priests washed their hands and feet when they approached the altar or entered the tabernacle for ministry. No dimensions are given for the basin, though Solomon’s temple basins were massive (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 7:38\">1 Kin. 7:38</a>). Neglecting to wash might cause death—the holy God was not to be approached casually (vv. 20, 21).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,31,1" ],
+  "verses" : [ {
+    "verse" : "exodus,31,1",
+    "text" : "Then the LORD said to Moses,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,31,1-exodus,31,11",
     "id" : 185931,
@@ -39,7 +126,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 31:1-Exod 31:11\">31:1–11</a></b> The tabernacle was to be constructed according to the divine design by gifted men who were supernaturally enabled by the Holy Spirit to do all the tasks required (<a class=\"bibleref\" href=\"/passage/?search=Exod 31:3-Exod 31:6\">vv. 3–6</a>, <a class=\"bibleref\" href=\"/passage/?search=Exod 31:11\">11</a>). All the work was described to Moses by God and little room was left for creative variation (<a class=\"bibleref\" href=\"/passage/?search=Exod 25:9\">25:9</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,31,2", "exodus,31,3", "exodus,31,4", "exodus,31,5" ],
+  "verses" : [ {
+    "verse" : "exodus,31,2",
+    "text" : "\"See, I have chosen Bezalel son of Uri, the son of Hur, of the tribe of Judah,"
+  }, {
+    "verse" : "exodus,31,3",
+    "text" : "and I have filled him with the Spirit of God, with skill, ability and knowledge in all kinds of crafts-"
+  }, {
+    "verse" : "exodus,31,4",
+    "text" : "to make artistic designs for work in gold, silver and bronze,"
+  }, {
+    "verse" : "exodus,31,5",
+    "text" : "to cut and set stones, to work in wood, and to engage in all kinds of craftsmanship."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,31,2",
     "id" : 185932,
@@ -47,7 +146,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 31:2\">31:2</a></b> <b>Bezalel.</b> The name is archaic and means “in El’s [God’s] shadow” (cf. <a class=\"bibleref\" href=\"/passage/?search=Exod 17:10\">17:10</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,31,6", "exodus,31,7", "exodus,31,8", "exodus,31,9", "exodus,31,10", "exodus,31,11" ],
+  "verses" : [ {
+    "verse" : "exodus,31,6",
+    "text" : "Moreover, I have appointed Oholiab son of Ahisamach, of the tribe of Dan, to help him. Also I have given skill to all the craftsmen to make everything I have commanded you:"
+  }, {
+    "verse" : "exodus,31,7",
+    "text" : "the Tent of Meeting, the ark of the Testimony with the atonement cover on it, and all the other furnishings of the tent-"
+  }, {
+    "verse" : "exodus,31,8",
+    "text" : "the table and its articles, the pure gold lampstand and all its accessories, the altar of incense,"
+  }, {
+    "verse" : "exodus,31,9",
+    "text" : "the altar of burnt offering and all its utensils, the basin with its stand-"
+  }, {
+    "verse" : "exodus,31,10",
+    "text" : "and also the woven garments, both the sacred garments for Aaron the priest and the garments for his sons when they serve as priests,"
+  }, {
+    "verse" : "exodus,31,11",
+    "text" : "and the anointing oil and fragrant incense for the Holy Place. They are to make them just as I commanded you.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,31,6",
     "id" : 185933,
@@ -55,7 +172,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 31:6\">31:6</a></b> <b>Oholiab.</b> Bezalel’s assistant. His name means “the father is my tent.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,31,12", "exodus,31,13", "exodus,31,14", "exodus,31,15", "exodus,31,16", "exodus,31,17" ],
+  "verses" : [ {
+    "verse" : "exodus,31,12",
+    "text" : "Then the LORD said to Moses,"
+  }, {
+    "verse" : "exodus,31,13",
+    "text" : "\"Say to the Israelites, 'You must observe my Sabbaths. This will be a sign between me and you for the generations to come, so you may know that I am the LORD, who makes you holy."
+  }, {
+    "verse" : "exodus,31,14",
+    "text" : "\"'Observe the Sabbath, because it is holy to you. Anyone who desecrates it must be put to death; whoever does any work on that day must be cut off from his people."
+  }, {
+    "verse" : "exodus,31,15",
+    "text" : "For six days, work is to be done, but the seventh day is a Sabbath of rest, holy to the LORD. Whoever does any work on the Sabbath day must be put to death."
+  }, {
+    "verse" : "exodus,31,16",
+    "text" : "The Israelites are to observe the Sabbath, celebrating it for the generations to come as a lasting covenant."
+  }, {
+    "verse" : "exodus,31,17",
+    "text" : "It will be a sign between me and the Israelites forever, for in six days the LORD made the heavens and the earth, and on the seventh day he abstained from work and rested.'\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,31,12-exodus,31,17",
     "id" : 185934,
@@ -63,7 +198,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 31:12-Exod 31:17\">31:12–17</a></b> The Sabbath commandment is reiterated and designated as the covenant sign of the Mosaic covenant (<a class=\"bibleref\" href=\"/passage/?search=Gen 9:12\">Gen. 9:12</a> note). To keep God’s Sabbath is to keep the covenant since the Sabbath is a sign of the special relationship between God and Israel. To disregard God’s Sabbath was to disregard God’s purposes for creation through His redemption of Israel.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,31,18" ],
+  "verses" : [ {
+    "verse" : "exodus,31,18",
+    "text" : "When the LORD finished speaking to Moses on Mount Sinai, he gave him the two tablets of the Testimony, the tablets of stone inscribed by the finger of God."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,31,18",
     "id" : 185935,

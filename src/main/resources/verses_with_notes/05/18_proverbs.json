@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,15,18" ],
+  "verses" : [ {
+    "verse" : "proverbs,15,18",
+    "text" : "A hot-tempered man stirs up dissension, but a patient man calms a quarrel."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 15:18\">15:18</a></b> See <a class=\"bibleref\" href=\"/passage/?search=Prov 14:17\">14:17</a>, <a class=\"bibleref\" href=\"/passage/?search=Prov 14:29\">29</a>; <a class=\"bibleref\" href=\"/passage/?search=Prov 15:1\">15:1</a>. The disposition of people calms or inflames a quarrel. We can disagree without being disagreeable.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,15,19" ],
+  "verses" : [ {
+    "verse" : "proverbs,15,19",
+    "text" : "The way of the sluggard is blocked with thorns, but the path of the upright is a highway."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,15,19",
     "id" : 191990,

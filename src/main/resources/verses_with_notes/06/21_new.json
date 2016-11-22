@@ -1,8 +1,26 @@
 [ {
-  "singleVerses" : [ "acts,13,42", "acts,13,43", "acts,13,44", "acts,13,45" ],
+  "verses" : [ {
+    "verse" : "acts,13,42",
+    "text" : "As Paul and Barnabas were leaving the synagogue, the people invited them to speak further about these things on the next Sabbath."
+  }, {
+    "verse" : "acts,13,43",
+    "text" : "When the congregation was dismissed, many of the Jews and devout converts to Judaism followed Paul and Barnabas, who talked with them and urged them to continue in the grace of God."
+  }, {
+    "verse" : "acts,13,44",
+    "text" : "On the next Sabbath almost the whole city gathered to hear the word of the Lord."
+  }, {
+    "verse" : "acts,13,45",
+    "text" : "When the Jews saw the crowds, they were filled with jealousy and talked abusively against what Paul was saying."
+  } ],
   "rsbNotes" : [ ]
 }, {
-  "singleVerses" : [ "acts,13,46", "acts,13,47" ],
+  "verses" : [ {
+    "verse" : "acts,13,46",
+    "text" : "Then Paul and Barnabas answered them boldly: \"We had to speak the word of God to you first. Since you reject it and do not consider yourselves worthy of eternal life, we now turn to the Gentiles."
+  }, {
+    "verse" : "acts,13,47",
+    "text" : "For this is what the Lord has commanded us: \"'I have made you a light for the Gentiles, that you may bring salvation to the ends of the earth.'\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,13,46",
     "id" : 197523,
@@ -10,7 +28,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 13:46\">13:46</a></b> <b>the word of God . . . first to you.</b> Since Jesus the Messiah came through the Jews (<a class=\"bibleref\" href=\"/passage/?search=Gen 12:3\">Gen. 12:3</a>), Paul is consistent in applying the principle, “to the Jew first and also to the Greek” (<a class=\"bibleref\" href=\"/passage/?search=Rom 1:16\">Rom. 1:16</a>). He recognizes that God’s plan also includes the Gentiles (<a class=\"bibleref\" href=\"/passage/?search=Isa 49:6\">Is. 49:6</a>), a fact resisted by these Jews of Pisidian Antioch.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,13,48", "acts,13,49", "acts,13,50" ],
+  "verses" : [ {
+    "verse" : "acts,13,48",
+    "text" : "When the Gentiles heard this, they were glad and honored the word of the Lord; and all who were appointed for eternal life believed."
+  }, {
+    "verse" : "acts,13,49",
+    "text" : "The word of the Lord spread through the whole region."
+  }, {
+    "verse" : "acts,13,50",
+    "text" : "But the Jews incited the God-fearing women of high standing and the leading men of the city. They stirred up persecution against Paul and Barnabas, and expelled them from their region."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,13,48",
     "id" : 197524,
@@ -18,7 +45,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 13:48\">13:48</a></b> <b>as many as were appointed to eternal life believed.</b> God had chosen these people beforehand, and now through conviction and repentance (<a class=\"bibleref\" href=\"/passage/?search=Acts 11:18\">11:18</a>; <a class=\"bibleref\" href=\"/passage/?search=2Tim 2:25\">2 Tim. 2:25</a>) brought them to faith in Christ (<a class=\"bibleref\" href=\"/passage/?search=Eph 2:8\">Eph. 2:8</a>). Luke uses the passive voice (“were appointed”), indicating that God is the agent. Only God grants eternal life (<a class=\"bibleref\" href=\"/passage/?search=Matt 25:46\">Matt. 25:46</a>; <a class=\"bibleref\" href=\"/passage/?search=John 10:28\">John 10:28</a>; <a class=\"bibleref\" href=\"/passage/?search=John 17:2\">17:2</a>). See “Election and Reprobation” at <a class=\"bibleref\" href=\"/passage/?search=Rom 9:18\">Rom. 9:18</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,13,51", "acts,13,52" ],
+  "verses" : [ {
+    "verse" : "acts,13,51",
+    "text" : "So they shook the dust from their feet in protest against them and went to Iconium."
+  }, {
+    "verse" : "acts,13,52",
+    "text" : "And the disciples were filled with joy and with the Holy Spirit."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,13,51",
     "id" : 197525,
@@ -26,7 +59,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 13:51\">13:51</a></b> <b>shook off the dust from their feet.</b> A Jewish sign of displeasure and disassociation (<a class=\"bibleref\" href=\"/passage/?search=Matt 10:14\">Matt. 10:14</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,14,1", "acts,14,2", "acts,14,3" ],
+  "verses" : [ {
+    "verse" : "acts,14,1",
+    "text" : "At Iconium Paul and Barnabas went as usual into the Jewish synagogue. There they spoke so effectively that a great number of Jews and Gentiles believed."
+  }, {
+    "verse" : "acts,14,2",
+    "text" : "But the Jews who refused to believe stirred up the Gentiles and poisoned their minds against the brothers."
+  }, {
+    "verse" : "acts,14,3",
+    "text" : "So Paul and Barnabas spent considerable time there, speaking boldly for the Lord, who confirmed the message of his grace by enabling them to do miraculous signs and wonders."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,14,1",
     "id" : 197526,
@@ -34,7 +76,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 14:1\">14:1</a></b> <b>at Iconium.</b> Paul and Barnabas traveled eighty miles southeast from Antioch in Pisidia to Iconium, an ancient Phrygian town. The Greeks made it a city state, and under Augustus it became a city in the province of Galatia.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,14,4" ],
+  "verses" : [ {
+    "verse" : "acts,14,4",
+    "text" : "The people of the city were divided; some sided with the Jews, others with the apostles."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,14,4",
     "id" : 197527,
@@ -42,7 +87,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 14:4\">14:4</a></b> <b>apostles.</b> For the first time in Acts, the term has a broader meaning that includes men like Barnabas in addition to the apostles chosen by Jesus (<a class=\"bibleref\" href=\"/passage/?search=Acts 1:24-Acts 1:26\">1:24–26</a>; <a class=\"bibleref\" href=\"/passage/?search=Matt 10:1-Matt 10:4\">Matt. 10:1–4</a>; <a class=\"bibleref\" href=\"/passage/?search=2Cor 1:1\">2 Cor. 1:1</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,14,5" ],
+  "verses" : [ {
+    "verse" : "acts,14,5",
+    "text" : "There was a plot afoot among the Gentiles and Jews, together with their leaders, to mistreat them and stone them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,14,5",
     "id" : 197528,
@@ -50,7 +98,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 14:5\">14:5</a></b> <b>stone them.</b> Stoning was the way the Jews executed the death penalty for religious blasphemy (<a class=\"bibleref\" href=\"/passage/?search=Acts 7:58\">7:58</a>, <a class=\"bibleref\" href=\"/passage/?search=Acts 7:59\">59</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,14,6", "acts,14,7" ],
+  "verses" : [ {
+    "verse" : "acts,14,6",
+    "text" : "But they found out about it and fled to the Lycaonian cities of Lystra and Derbe and to the surrounding country,"
+  }, {
+    "verse" : "acts,14,7",
+    "text" : "where they continued to preach the good news."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,14,6",
     "id" : 197529,

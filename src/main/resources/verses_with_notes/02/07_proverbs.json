@@ -1,5 +1,14 @@
 [ {
-  "singleVerses" : [ "proverbs,8,1", "proverbs,8,2", "proverbs,8,3" ],
+  "verses" : [ {
+    "verse" : "proverbs,8,1",
+    "text" : "Does not wisdom call out? Does not understanding raise her voice?"
+  }, {
+    "verse" : "proverbs,8,2",
+    "text" : "On the heights along the way, where the paths meet, she takes her stand;"
+  }, {
+    "verse" : "proverbs,8,3",
+    "text" : "beside the gates leading into the city, at the entrances, she cries aloud:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,8,1-proverbs,8,36",
     "id" : 191793,
@@ -12,7 +21,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 8:1-Prov 8:3\">8:1–3</a></b> See notes <a class=\"bibleref\" href=\"/passage/?search=Prov 1:20-Prov 1:33\">1:20–33</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,8,4" ],
+  "verses" : [ {
+    "verse" : "proverbs,8,4",
+    "text" : "\"To you, O men, I call out; I raise my voice to all mankind."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,8,4",
     "id" : 191795,
@@ -20,7 +32,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 8:4\">8:4</a></b> <b>men.</b> The Hebrew word usually applies to males, but may extend to all humanity. Wisdom, in the role of the instructor, addresses not sons or pupils, but all people. There is no elite class in the matter of learning wisdom; it is for all.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,8,5" ],
+  "verses" : [ {
+    "verse" : "proverbs,8,5",
+    "text" : "You who are simple, gain prudence; you who are foolish, gain understanding."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,8,5",
     "id" : 191796,
@@ -28,7 +43,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 8:5\">8:5</a></b> See notes <a class=\"bibleref\" href=\"/passage/?search=Prov 1:4\">1:4</a>, <a class=\"bibleref\" href=\"/passage/?search=Prov 1:22\">22</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,8,6" ],
+  "verses" : [ {
+    "verse" : "proverbs,8,6",
+    "text" : "Listen, for I have worthy things to say; I open my lips to speak what is right."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,8,6",
     "id" : 191797,
@@ -36,7 +54,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 8:6\">8:6</a></b> <b>noble things.</b> Princely or valuable things.</p><p><b>what is right.</b> The moral element is implied.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,8,7" ],
+  "verses" : [ {
+    "verse" : "proverbs,8,7",
+    "text" : "My mouth speaks what is true, for my lips detest wickedness."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,8,7",
     "id" : 191798,
@@ -44,7 +65,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 8:7\">8:7</a></b> <b>truth.</b> The word denotes what is utterly reliable. It is the opposite of wickedness. Proverbs relates truth to wisdom in several places, and here the word of wisdom is described in a way suggestive of divine origin.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,8,8" ],
+  "verses" : [ {
+    "verse" : "proverbs,8,8",
+    "text" : "All the words of my mouth are just; none of them is crooked or perverse."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,8,8",
     "id" : 191799,
@@ -52,7 +76,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 8:8\">8:8</a></b> <b>righteous.</b> See note on <a class=\"bibleref\" href=\"/passage/?search=Prov 8:18\">v. 18</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,8,9" ],
+  "verses" : [ {
+    "verse" : "proverbs,8,9",
+    "text" : "To the discerning all of them are right; they are faultless to those who have knowledge."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,8,9",
     "id" : 191800,
@@ -60,7 +87,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 8:9\">8:9</a></b> Wisdom is a self-consistent reality. One must be attuned to it in order to learn it. This is another way of saying that all truth is God’s truth and without the knowledge of God we cannot know the absolute truth. Cf. the wisdom of Jesus in <a class=\"bibleref\" href=\"/passage/?search=Matt 13:10-Matt 13:16\">Matt. 13:10–16</a>; <a class=\"bibleref\" href=\"/passage/?search=Luke 11:52\">Luke 11:52</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,8,10", "proverbs,8,11" ],
+  "verses" : [ {
+    "verse" : "proverbs,8,10",
+    "text" : "Choose my instruction instead of silver, knowledge rather than choice gold,"
+  }, {
+    "verse" : "proverbs,8,11",
+    "text" : "for wisdom is more precious than rubies, and nothing you desire can compare with her."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,8,10-proverbs,8,11",
     "id" : 191801,

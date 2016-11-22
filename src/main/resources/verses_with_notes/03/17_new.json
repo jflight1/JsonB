@@ -1,5 +1,20 @@
 [ {
-  "singleVerses" : [ "luke,2,36", "luke,2,37", "luke,2,38", "luke,2,39", "luke,2,40" ],
+  "verses" : [ {
+    "verse" : "luke,2,36",
+    "text" : "There was also a prophetess, Anna, the daughter of Phanuel, of the tribe of Asher. She was very old; she had lived with her husband seven years after her marriage,"
+  }, {
+    "verse" : "luke,2,37",
+    "text" : "and then was a widow until she was eighty-four. She never left the temple but worshiped night and day, fasting and praying."
+  }, {
+    "verse" : "luke,2,38",
+    "text" : "Coming up to them at that very moment, she gave thanks to God and spoke about the child to all who were looking forward to the redemption of Jerusalem."
+  }, {
+    "verse" : "luke,2,39",
+    "text" : "When Joseph and Mary had done everything required by the Law of the Lord, they returned to Galilee to their own town of Nazareth."
+  }, {
+    "verse" : "luke,2,40",
+    "text" : "And the child grew and became strong; he was filled with wisdom, and the grace of God was upon him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,2,36",
     "id" : 196383,
@@ -7,7 +22,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 2:36\">2:36</a></b> <b>Anna.</b> Prophets were rare in Israel in those days, but the aged Anna was a prophetess.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,2,41" ],
+  "verses" : [ {
+    "verse" : "luke,2,41",
+    "text" : "Every year his parents went to Jerusalem for the Feast of the Passover."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,2,41",
     "id" : 196384,
@@ -15,7 +33,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 2:41\">2:41</a></b> The Passover was one of three feasts that had to be observed in Jerusalem (<a class=\"bibleref\" href=\"/passage/?search=Exod 23:14-Exod 23:17\">Ex. 23:14–17</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 34:23\">34:23</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,2,42" ],
+  "verses" : [ {
+    "verse" : "luke,2,42",
+    "text" : "When he was twelve years old, they went up to the Feast, according to the custom."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,2,42",
     "id" : 196385,
@@ -23,7 +44,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 2:42\">2:42</a></b> <b>twelve years old.</b> Jesus may have gone up with His parents every year, but Jewish custom specified that a boy should be taken to the feast a year or two before he was thirteen, when he would be made a “son of the commandment” and become an adult member of the Jewish religious community.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,2,43", "luke,2,44", "luke,2,45" ],
+  "verses" : [ {
+    "verse" : "luke,2,43",
+    "text" : "After the Feast was over, while his parents were returning home, the boy Jesus stayed behind in Jerusalem, but they were unaware of it."
+  }, {
+    "verse" : "luke,2,44",
+    "text" : "Thinking he was in their company, they traveled on for a day. Then they began looking for him among their relatives and friends."
+  }, {
+    "verse" : "luke,2,45",
+    "text" : "When they did not find him, they went back to Jerusalem to look for him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,2,43-luke,2,45",
     "id" : 196386,
@@ -31,7 +61,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 2:43-Luke 2:45\">2:43–45</a></b> Luke does not say why Jesus stayed behind or how Joseph and Mary came to leave Him behind, but in a large caravan it would be easy to assume that a boy was with friends. If later custom was followed, the women and small children went ahead and the men followed. Each parent might think a twelve-year-old boy was with the other.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,2,46", "luke,2,47", "luke,2,48" ],
+  "verses" : [ {
+    "verse" : "luke,2,46",
+    "text" : "After three days they found him in the temple courts, sitting among the teachers, listening to them and asking them questions."
+  }, {
+    "verse" : "luke,2,47",
+    "text" : "Everyone who heard him was amazed at his understanding and his answers."
+  }, {
+    "verse" : "luke,2,48",
+    "text" : "When his parents saw him, they were astonished. His mother said to him, \"Son, why have you treated us like this? Your father and I have been anxiously searching for you.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,2,46-luke,2,48",
     "id" : 196387,
@@ -39,7 +78,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 2:46-Luke 2:48\">2:46–48</a></b> The temple courts were commonly used for teaching. Jesus both listened and asked questions, showing a determination to learn. In Jewish education there was an emphasis on discussion of problems, which is perhaps behind the reference to “his understanding and his answers” (<a class=\"bibleref\" href=\"/passage/?search=Luke 2:47\">v. 47</a>). But Joseph and Mary did not understand (<a class=\"bibleref\" href=\"/passage/?search=Luke 2:50\">v. 50</a>); there is reproach in Mary’s words.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,2,49", "luke,2,50" ],
+  "verses" : [ {
+    "verse" : "luke,2,49",
+    "text" : "\"Why were you searching for me?\" he asked. \"Didn't you know I had to be in my Father's house?\""
+  }, {
+    "verse" : "luke,2,50",
+    "text" : "But they did not understand what he was saying to them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,2,49",
     "id" : 196388,
@@ -47,7 +92,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 2:49\">2:49</a></b> <b>my Father’s house.</b> Already at twelve years of age, Jesus was conscious of a special relationship to the heavenly Father. The Jews did not speak in this way, but said “our Father” or added “in heaven” or the like.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,2,51" ],
+  "verses" : [ {
+    "verse" : "luke,2,51",
+    "text" : "Then he went down to Nazareth with them and was obedient to them. But his mother treasured all these things in her heart."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,2,51",
     "id" : 196389,
@@ -55,7 +103,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 2:51\">2:51</a></b> <b>submissive.</b> Despite His understanding of His relationship to the heavenly Father, Jesus was a dutiful Son on earth and was obedient to Joseph and Mary as He grew. Mary did not understand it all, but she did not forget.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,2,52" ],
+  "verses" : [ {
+    "verse" : "luke,2,52",
+    "text" : "And Jesus grew in wisdom and stature, and in favor with God and men."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,2,52",
     "id" : 196390,

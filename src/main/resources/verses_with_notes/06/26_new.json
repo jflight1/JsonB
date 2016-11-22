@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "acts,17,1" ],
+  "verses" : [ {
+    "verse" : "acts,17,1",
+    "text" : "When they had passed through Amphipolis and Apollonia, they came to Thessalonica, where there was a Jewish synagogue."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,17,1",
     "id" : 197567,
@@ -7,7 +10,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 17:1\">17:1</a></b> <b>Amphipolis and Apollonia . . . Thessalonica.</b> Amphipolis was thirty miles southwest of Philippi and Apollonia twenty-five miles farther on the highway to Thessalonica. Paul and his companions were eager to get to Thessalonica, forty miles beyond Apollonia. Thessalonica had a population of 200,000 and was the provincial capital of Macedonia.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,17,2", "acts,17,3", "acts,17,4", "acts,17,5", "acts,17,6" ],
+  "verses" : [ {
+    "verse" : "acts,17,2",
+    "text" : "As his custom was, Paul went into the synagogue, and on three Sabbath days he reasoned with them from the Scriptures,"
+  }, {
+    "verse" : "acts,17,3",
+    "text" : "explaining and proving that the Christ had to suffer and rise from the dead. \"This Jesus I am proclaiming to you is the Christ, \"he said."
+  }, {
+    "verse" : "acts,17,4",
+    "text" : "Some of the Jews were persuaded and joined Paul and Silas, as did a large number of God-fearing Greeks and not a few prominent women."
+  }, {
+    "verse" : "acts,17,5",
+    "text" : "But the Jews were jealous; so they rounded up some bad characters from the marketplace, formed a mob and started a riot in the city. They rushed to Jason's house in search of Paul and Silas in order to bring them out to the crowd."
+  }, {
+    "verse" : "acts,17,6",
+    "text" : "But when they did not find them, they dragged Jason and some other brothers before the city officials, shouting: \"These men who have caused trouble all over the world have now come here,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,17,2",
     "id" : 197568,
@@ -15,7 +33,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 17:2\">17:2</a></b> <b>three Sabbath days.</b> The Pauline epistles suggest that Paul stayed in Thessalonica much longer than three weeks. According to <a class=\"bibleref\" href=\"/passage/?search=Phil 4:16\">Phil. 4:16</a>, the church at Philippi repeatedly sent him aid, and the Thessalonian epistles indicate that Paul had been able to give extensive doctrinal instruction to the Thessalonian Christians.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,17,7", "acts,17,8", "acts,17,9" ],
+  "verses" : [ {
+    "verse" : "acts,17,7",
+    "text" : "and Jason has welcomed them into his house. They are all defying Caesar's decrees, saying that there is another king, one called Jesus.\""
+  }, {
+    "verse" : "acts,17,8",
+    "text" : "When they heard this, the crowd and the city officials were thrown into turmoil."
+  }, {
+    "verse" : "acts,17,9",
+    "text" : "Then they made Jason and the others post bond and let them go."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,17,7",
     "id" : 197569,
@@ -23,7 +50,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 17:7\">17:7</a></b> <b>against the decrees of Caesar.</b> A political charge was brought against Paul, who had spoken about the spiritual kingdom of God (<a class=\"bibleref\" href=\"/passage/?search=Acts 14:22\">14:22</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 19:8\">19:8</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 20:25\">20:25</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 28:23\">28:23</a>, <a class=\"bibleref\" href=\"/passage/?search=Acts 28:31\">31</a>). His opponents seemed to have distorted the message to mean political opposition to Rome. About this time, Claudius Caesar (<span class=\"small-caps\">a.d.</span> 49–50) expelled the Jews from Rome because of riots allegedly instigated by “Chrestus,” a probable reference to Christ.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,17,10" ],
+  "verses" : [ {
+    "verse" : "acts,17,10",
+    "text" : "As soon as it was night, the brothers sent Paul and Silas away to Berea. On arriving there, they went to the Jewish synagogue."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,17,10",
     "id" : 197570,
@@ -31,7 +61,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 17:10\">17:10</a></b> <b>Berea.</b> Modern Verria, fifty miles southwest of Thessalonica, in the foothills of the Olympian Mountains.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,17,11", "acts,17,12", "acts,17,13", "acts,17,14", "acts,17,15" ],
+  "verses" : [ {
+    "verse" : "acts,17,11",
+    "text" : "Now the Bereans were of more noble character than the Thessalonians, for they received the message with great eagerness and examined the Scriptures every day to see if what Paul said was true."
+  }, {
+    "verse" : "acts,17,12",
+    "text" : "Many of the Jews believed, as did also a number of prominent Greek women and many Greek men."
+  }, {
+    "verse" : "acts,17,13",
+    "text" : "When the Jews in Thessalonica learned that Paul was preaching the word of God at Berea, they went there too, agitating the crowds and stirring them up."
+  }, {
+    "verse" : "acts,17,14",
+    "text" : "The brothers immediately sent Paul to the coast, but Silas and Timothy stayed at Berea."
+  }, {
+    "verse" : "acts,17,15",
+    "text" : "The men who escorted Paul brought him to Athens and then left with instructions for Silas and Timothy to join him as soon as possible."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,17,11",
     "id" : 197571,
@@ -39,7 +84,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 17:11\">17:11</a></b> <b>examining the Scriptures daily.</b> The Bereans compared Paul’s teaching with God’s written Word, setting a good example for the church throughout history.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,17,16", "acts,17,17" ],
+  "verses" : [ {
+    "verse" : "acts,17,16",
+    "text" : "While Paul was waiting for them in Athens, he was greatly distressed to see that the city was full of idols."
+  }, {
+    "verse" : "acts,17,17",
+    "text" : "So he reasoned in the synagogue with the Jews and the God-fearing Greeks, as well as in the marketplace day by day with those who happened to be there."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,17,16",
     "id" : 197572,
@@ -47,7 +98,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 17:16\">17:16</a></b> <b>Athens.</b> The leading city of Greece, served by the port of Piraeus on the Aegean Sea. Athens reached its zenith in the fifth century <span class=\"small-caps\">b.c.</span> under Pericles (495–429 <span class=\"small-caps\">b.c.</span>), when the Parthenon and other magnificent structures were built. The classical poets Aeschylus, Sophocles, Euripides, and Aristophanes flourished at this time. Although conquered by the Romans in 146 <span class=\"small-caps\">b.c.</span>, Athens continued to be a great intellectual and cultural center.</p><p><b>full of idols.</b> There were statues of gods or goddesses in the Parthenon and other temples on the Acropolis, as well as in the public, commercial, and temple buildings below.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,17,18" ],
+  "verses" : [ {
+    "verse" : "acts,17,18",
+    "text" : "A group of Epicurean and Stoic philosophers began to dispute with him. Some of them asked, \"What is this babbler trying to say?\" Others remarked, \"He seems to be advocating foreign gods.\" They said this because Paul was preaching the good news about Jesus and the resurrection."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,17,18",
     "id" : 197573,
@@ -55,7 +109,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 17:18\">17:18</a></b> <b>Epicurean and Stoic.</b> Epicurus (342–270 <span class=\"small-caps\">b.c.</span>) taught that the purpose of life was pleasure and freedom from pain, passions, and fears. On the other hand, the Cypriot Zeno (340–265 <span class=\"small-caps\">b.c.</span>), founder of Stoicism, stressed living in harmony with nature and depending on reason and other self-sufficient powers. Both schools stressed the quest for peace of mind. Zeno viewed God pantheistically as the “world-soul.”</p><p><b>babbler.</b> A derogatory term meaning a scrap collector or peddler of assorted ideas.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,17,19", "acts,17,20", "acts,17,21", "acts,17,22" ],
+  "verses" : [ {
+    "verse" : "acts,17,19",
+    "text" : "Then they took him and brought him to a meeting of the Areopagus, where they said to him, \"May we know what this new teaching is that you are presenting?"
+  }, {
+    "verse" : "acts,17,20",
+    "text" : "You are bringing some strange ideas to our ears, and we want to know what they mean.\""
+  }, {
+    "verse" : "acts,17,21",
+    "text" : "(All the Athenians and the foreigners who lived there spent their time doing nothing but talking about and listening to the latest ideas.)"
+  }, {
+    "verse" : "acts,17,22",
+    "text" : "Paul then stood up in the meeting of the Areopagus and said: \"Men of Athens! I see that in every way you are very religious."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,17,19",
     "id" : 197574,
@@ -63,7 +129,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 17:19\">17:19</a></b> <b>the Areopagus.</b> The name means “Mars’ Hill.” This is a hill near the Acropolis where in ancient times a council had met. The council became the city council of Athens, and in Roman times it was the court supervising morals, education, and religion. In Paul’s time, the court met in the Royal Portico, in the marketplace below the Acropolis.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,17,23", "acts,17,24", "acts,17,25" ],
+  "verses" : [ {
+    "verse" : "acts,17,23",
+    "text" : "For as I walked around and looked carefully at your objects of worship, I even found an altar with this inscription:|sc TO AN UNKNOWN GOD. Now what you worship as something unknown I am going to proclaim to you."
+  }, {
+    "verse" : "acts,17,24",
+    "text" : "\"The God who made the world and everything in it is the Lord of heaven and earth and does not live in temples built by hands."
+  }, {
+    "verse" : "acts,17,25",
+    "text" : "And he is not served by human hands, as if he needed anything, because he himself gives all men life and breath and everything else."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,17,23",
     "id" : 197575,
@@ -71,7 +146,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 17:23\">17:23</a></b> <b>To the unknown god.</b> Possibly a reference to the Altar of the Twelve Gods at Athens, erected to ensure that no god was left out of their worship. Paul used this point of contact to begin his discourse about the God who made the world, who is not carved out of stone or confined to any temple, and who controls the times and places where people live.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,17,26", "acts,17,27" ],
+  "verses" : [ {
+    "verse" : "acts,17,26",
+    "text" : "From one man he made every nation of men, that they should inhabit the whole earth; and he determined the times set for them and the exact places where they should live."
+  }, {
+    "verse" : "acts,17,27",
+    "text" : "God did this so that men would seek him and perhaps reach out for him and find him, though he is not far from each one of us."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,17,26",
     "id" : 197576,
@@ -79,7 +160,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 17:26\">17:26</a></b> <b>from one man</b> See “The Fall” at <a class=\"bibleref\" href=\"/passage/?search=Gen 3:6\">Gen. 3:6</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,17,28" ],
+  "verses" : [ {
+    "verse" : "acts,17,28",
+    "text" : "'For in him we live and move and have our being.' As some of your own poets have said, 'We are his offspring.'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,17,28",
     "id" : 197577,
@@ -87,7 +171,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 17:28\">17:28</a></b> <b>In him we live and move and have our being.</b> Paul says that God brought all people into being and they only exist by His providence. In the ancient world the three great mysteries of philosophy and science were the questions of life, motion, and being. See “General Revelation” at <a class=\"bibleref\" href=\"/passage/?search=Ps 19:1\">Ps. 19:1</a>.</p><p><b>some of your own poets.</b> Paul knew that the Athenians did not know the Old Testament, and he quoted from three of their own poets. Although their words originally referred to Zeus, the head of the Greek gods, Paul applied the quotations to the living God of heaven. The poets are Epimenides (c. 600 <span class=\"small-caps\">b.c.</span>), Cleanthes (331–233 <span class=\"small-caps\">b.c.</span>), and Aratus (c. 315–240 <span class=\"small-caps\">b.c.</span>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,17,29" ],
+  "verses" : [ {
+    "verse" : "acts,17,29",
+    "text" : "\"Therefore since we are God's offspring, we should not think that the divine being is like gold or silver or stone--an image made by man's design and skill."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,17,29",
     "id" : 197578,
@@ -95,7 +182,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 17:29\">17:29</a></b> <b>not . . . like gold or silver.</b> See “The Self-Existence of God” at <a class=\"bibleref\" href=\"/passage/?search=Ps 90:2\">Ps. 90:2</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,17,30" ],
+  "verses" : [ {
+    "verse" : "acts,17,30",
+    "text" : "In the past God overlooked such ignorance, but now he commands all people everywhere to repent."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,17,30",
     "id" : 197579,
@@ -103,7 +193,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 17:30\">17:30</a></b> <b>times of ignorance God overlooked.</b> That is, God took into consideration the limitations of their knowledge about God, but now Paul has revealed the truth about the living God. With all people, they are called upon to repent of their sins.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,17,31", "acts,17,32", "acts,17,33", "acts,17,34" ],
+  "verses" : [ {
+    "verse" : "acts,17,31",
+    "text" : "For he has set a day when he will judge the world with justice by the man he has appointed. He has given proof of this to all men by raising him from the dead.\""
+  }, {
+    "verse" : "acts,17,32",
+    "text" : "When they heard about the resurrection of the dead, some of them sneered, but others said, \"We want to hear you again on this subject.\""
+  }, {
+    "verse" : "acts,17,33",
+    "text" : "At that, Paul left the Council."
+  }, {
+    "verse" : "acts,17,34",
+    "text" : "A few men became followers of Paul and believed. Among them was Dionysius, a member of the Areopagus, also a woman named Damaris, and a number of others."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,17,31",
     "id" : 197580,

@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,41,1" ],
+  "verses" : [ {
+    "verse" : "psalms,41,1",
+    "text" : "Blessed is he who has regard for the weak; the LORD delivers him in times of trouble."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,41,1-psalms,41,13",
     "id" : 190551,
@@ -12,7 +15,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 41:1\">41:1</a></b> <b>Blessed.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Ps 1:1\">Ps. 1:1</a>.</p><p><b>considers the poor.</b> Understands or empathizes with those who are helpless and unable to take care of themselves. The psalmist is in this condition due to his debilitating sickness. Accordingly, the first three verses here may have been spoken to him by another person, perhaps a priest.</p><p><b>the <span class=\"small-caps\">Lord</span> delivers him.</b> Those strong in self-confidence do not turn to the Lord, because they think they have no need for Him. Those not so deluded, realizing their weakness, have nowhere else to turn.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,41,2", "psalms,41,3", "psalms,41,4", "psalms,41,5" ],
+  "verses" : [ {
+    "verse" : "psalms,41,2",
+    "text" : "The LORD will protect him and preserve his life; he will bless him in the land and not surrender him to the desire of his foes."
+  }, {
+    "verse" : "psalms,41,3",
+    "text" : "The LORD will sustain him on his sickbed and restore him from his bed of illness."
+  }, {
+    "verse" : "psalms,41,4",
+    "text" : "I said, \"O LORD, have mercy on me; heal me, for I have sinned against you.\""
+  }, {
+    "verse" : "psalms,41,5",
+    "text" : "My enemies say of me in malice, \"When will he die and his name perish?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,41,2",
     "id" : 190553,
@@ -20,7 +35,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 41:2\">41:2</a></b> <b>in the land.</b> The Lord preserves the life of His people, but He will also prosper them in the land. This applies the promise of the land found in the Abrahamic covenant (<a class=\"bibleref\" href=\"/passage/?search=Gen 12:1-Gen 12:3\">Gen. 12:1–3</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,41,6", "psalms,41,7", "psalms,41,8" ],
+  "verses" : [ {
+    "verse" : "psalms,41,6",
+    "text" : "Whenever one comes to see me, he speaks falsely, while his heart gathers slander; then he goes out and spreads it abroad."
+  }, {
+    "verse" : "psalms,41,7",
+    "text" : "All my enemies whisper together against me; they imagine the worst for me, saying,"
+  }, {
+    "verse" : "psalms,41,8",
+    "text" : "\"A vile disease has beset him; he will never get up from the place where he lies.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,41,6",
     "id" : 190554,
@@ -28,7 +52,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 41:6\">41:6</a></b> <b>he utters empty words.</b> The psalmist’s enemies visited him while he was ill, speaking words of comfort, but afterward spreading malicious lies about him.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,41,9", "psalms,41,10", "psalms,41,11", "psalms,41,12" ],
+  "verses" : [ {
+    "verse" : "psalms,41,9",
+    "text" : "Even my close friend, whom I trusted, he who shared my bread, has lifted up his heel against me."
+  }, {
+    "verse" : "psalms,41,10",
+    "text" : "But you, O LORD, have mercy on me; raise me up, that I may repay them."
+  }, {
+    "verse" : "psalms,41,11",
+    "text" : "I know that you are pleased with me, for my enemy does not triumph over me."
+  }, {
+    "verse" : "psalms,41,12",
+    "text" : "In my integrity you uphold me and set me in your presence forever."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,41,9",
     "id" : 190555,
@@ -36,7 +72,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 41:9\">41:9</a></b> <b>lifted his heel.</b> For this idiom see <a class=\"bibleref\" href=\"/passage/?search=Gen 25:19-Gen 25:26\">Gen. 25:19–26</a>, where the noun “heel” is connected with the verb “to deceive.” The point is that the psalmist’s close friend has betrayed him in his moment of need. He is abandoned by everyone. Jesus applied this verse specifically to Judas Iscariot (<a class=\"bibleref\" href=\"/passage/?search=John 13:18\">John 13:18</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,41,13" ],
+  "verses" : [ {
+    "verse" : "psalms,41,13",
+    "text" : "Praise be to the LORD, the God of Israel, from everlasting to everlasting. Amen and Amen."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,41,13",
     "id" : 190556,

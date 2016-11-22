@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "2samuel,22,1" ],
+  "verses" : [ {
+    "verse" : "2samuel,22,1",
+    "text" : "David sang to the LORD the words of this song when the LORD delivered him from the hand of all his enemies and from the hand of Saul."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,22,1",
     "id" : 188039,
@@ -7,7 +10,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 22:1\">22:1</a></b> <b>this song.</b> David’s song of praise (which appears also in <a class=\"bibleref\" href=\"/passage/?search=Ps 18\">Ps. 18</a>, with minor variations), together with the prayer of Hannah, forms a fitting frame for the books of 1 and 2 Samuel (<a class=\"bibleref\" href=\"/passage/?search=1Sam 2:1-1Sam 2:10\">1 Sam. 2:1–10</a> note). This song focuses on the Lord’s deliverance of David. It may be outlined as follows: introductory praise of God as “savior” (vv. 2–4); the psalmist’s distress (vv. 5, 6); the psalmist’s petition (v. 7); the Lord’s response in cosmic demonstration (vv. 8–16) and personal rescue (vv. 17–20); the psalmist’s innocence (vv. 21–25) and the Lord’s faithfulness (vv. 26–30); the Lord’s deliverance (vv. 31–37) and the psalmist’s resultant victories (vv. 38–46); concluding praise of God as Savior (vv. 47–51). <a class=\"bibleref\" href=\"/passage/?search=Ps 144\">Ps. 144</a>, also ascribed to David, shows many similarities in theme and language.</p><p><b>all his enemies.</b> See 8:1–14; cf. 5:8; 7:1, 9, 11; 18:32.</p><p><b>from the hand of Saul.</b> See 12:7; <a class=\"bibleref\" href=\"/passage/?search=1Sam 18-1Sam 31\">1 Sam. 18–31</a> (especially 18:9–11; 19:2, 10–11, 15–16).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,22,2" ],
+  "verses" : [ {
+    "verse" : "2samuel,22,2",
+    "text" : "He said: \"The LORD is my rock, my fortress and my deliverer;"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,22,2",
     "id" : 188040,
@@ -15,7 +21,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 22:2\">22:2</a></b> <b>rock.</b> See also <a class=\"bibleref\" href=\"/passage/?search=2Sam 22:32\">vv. 32</a>, <a class=\"bibleref\" href=\"/passage/?search=2Sam 22:47\">47</a>; note on <a class=\"bibleref\" href=\"/passage/?search=1Sam 2:2\">1 Sam. 2:2</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,22,3", "2samuel,22,4" ],
+  "verses" : [ {
+    "verse" : "2samuel,22,3",
+    "text" : "my God is my rock, in whom I take refuge, my shield and the horn of my salvation. He is my stronghold, my refuge and my savior- from violent men you save me."
+  }, {
+    "verse" : "2samuel,22,4",
+    "text" : "I call to the LORD, who is worthy of praise, and I am saved from my enemies."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,22,3",
     "id" : 188041,
@@ -23,7 +35,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 22:3\">22:3</a></b> <b>horn.</b> See notes <a class=\"bibleref\" href=\"/passage/?search=1Sam 2:1\">1 Sam. 2:1</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 2:10\">10</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,22,5", "2samuel,22,6" ],
+  "verses" : [ {
+    "verse" : "2samuel,22,5",
+    "text" : "\"The waves of death swirled about me; the torrents of destruction overwhelmed me."
+  }, {
+    "verse" : "2samuel,22,6",
+    "text" : "The cords of the grave coiled around me; the snares of death confronted me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,22,5",
     "id" : 188042,
@@ -31,7 +49,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 22:5\">22:5</a></b> <b>waves . . . torrents.</b> See <a class=\"bibleref\" href=\"/passage/?search=2Sam 22:17\">v. 17</a>. The image of overflowing water recurs frequently in Old Testament poetry as a symbol of distress and destruction (<a class=\"bibleref\" href=\"/passage/?search=Ps 32:6\">Ps. 32:6</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 69:1\">69:1</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 69:2\">2</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 69:14\">14</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 144:7\">144:7</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 43:2\">Is. 43:2</a>; <a class=\"bibleref\" href=\"/passage/?search=Jonah 2:5\">Jon. 2:5</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,22,7", "2samuel,22,8" ],
+  "verses" : [ {
+    "verse" : "2samuel,22,7",
+    "text" : "In my distress I called to the LORD; I called out to my God. From his temple he heard my voice; my cry came to his ears."
+  }, {
+    "verse" : "2samuel,22,8",
+    "text" : "\"The earth trembled and quaked, the foundations of the heavens shook; they trembled because he was angry."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,22,7",
     "id" : 188043,
@@ -39,7 +63,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 22:7\">22:7</a></b> <b>In my distress.</b> Being in a narrow or tightly confined space is a common figure for distress. In <a class=\"bibleref\" href=\"/passage/?search=2Sam 22:20\">v. 20</a> (note) relief is described as being brought into a ‘‘broad place.‘</p><p><b>From his temple.</b> This probably means God’s heavenly sanctuary (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 8:27\">1 Kin. 8:27</a>, <a class=\"bibleref\" href=\"/passage/?search=1Kgs 8:38-1Kgs 8:39\">38–39</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 11:4\">Ps. 11:4</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 6:1\">Is. 6:1</a>; <a class=\"bibleref\" href=\"/passage/?search=Jonah 2:7\">Jon. 2:7</a>; <a class=\"bibleref\" href=\"/passage/?search=Rev 11:19\">Rev. 11:19</a>; <a class=\"bibleref\" href=\"/passage/?search=Rev 14:17\">14:17</a>; <a class=\"bibleref\" href=\"/passage/?search=Rev 15:5\">15:5</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,22,9", "2samuel,22,10" ],
+  "verses" : [ {
+    "verse" : "2samuel,22,9",
+    "text" : "Smoke rose from his nostrils; consuming fire came from his mouth, burning coals blazed out of it."
+  }, {
+    "verse" : "2samuel,22,10",
+    "text" : "He parted the heavens and came down; dark clouds were under his feet."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,22,9",
     "id" : 188044,
@@ -47,7 +77,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 22:9\">22:9</a></b> <b>Smoke went up from his nostrils.</b> Compare the imagery used to describe the awesome power of Leviathan in <a class=\"bibleref\" href=\"/passage/?search=Job 41:18-Job 41:21\">Job 41:18–21</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,22,11", "2samuel,22,12", "2samuel,22,13" ],
+  "verses" : [ {
+    "verse" : "2samuel,22,11",
+    "text" : "He mounted the cherubim and flew; he soared on the wings of the wind."
+  }, {
+    "verse" : "2samuel,22,12",
+    "text" : "He made darkness his canopy around him- the dark rain clouds of the sky."
+  }, {
+    "verse" : "2samuel,22,13",
+    "text" : "Out of the brightness of his presence bolts of lightning blazed forth."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,22,11",
     "id" : 188045,
@@ -55,7 +94,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 22:11\">22:11</a></b> <b>rode on a cherub and flew.</b> See <a class=\"bibleref\" href=\"/passage/?search=Exod 25:17-Exod 25:22\">Ex. 25:17–22</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 7:89\">Num. 7:89</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 10:19\">Ezek. 10:19</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 11:22\">11:22</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,22,14" ],
+  "verses" : [ {
+    "verse" : "2samuel,22,14",
+    "text" : "The LORD thundered from heaven; the voice of the Most High resounded."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,22,14",
     "id" : 188046,
@@ -63,7 +105,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 22:14\">22:14</a></b> <b>The <span class=\"small-caps\">Lord</span> thundered.</b> See <a class=\"bibleref\" href=\"/passage/?search=1Sam 2:10\">1 Sam. 2:10</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 7:10\">7:10</a>. The Lord’s voice is often likened to thunder (<a class=\"bibleref\" href=\"/passage/?search=Job 37:4\">Job 37:4</a>, <a class=\"bibleref\" href=\"/passage/?search=Job 37:5\">5</a>; <a class=\"bibleref\" href=\"/passage/?search=Job 40:9\">40:9</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 29:3\">Ps. 29:3</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 33:3\">Is. 33:3</a>).</p><p><b>Most High.</b> See <a class=\"bibleref\" href=\"/passage/?search=Gen 14:19\">Gen. 14:19</a> and notes.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,22,15", "2samuel,22,16" ],
+  "verses" : [ {
+    "verse" : "2samuel,22,15",
+    "text" : "He shot arrows and scattered the enemies, bolts of lightning and routed them."
+  }, {
+    "verse" : "2samuel,22,16",
+    "text" : "The valleys of the sea were exposed and the foundations of the earth laid bare at the rebuke of the LORD, at the blast of breath from his nostrils."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,22,15",
     "id" : 188047,
@@ -71,7 +119,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 22:15\">22:15</a></b> <b>he sent out arrows.</b> For similar imagery, see <a class=\"bibleref\" href=\"/passage/?search=Deut 32:23\">Deut. 32:23</a>, <a class=\"bibleref\" href=\"/passage/?search=Deut 32:42\">42</a>; <a class=\"bibleref\" href=\"/passage/?search=Job 6:4\">Job 6:4</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 64:7\">Ps. 64:7</a>. Lightning is sometimes described as the Lord’s arrows (<a class=\"bibleref\" href=\"/passage/?search=Ps 77:17\">Ps. 77:17</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Hab 3:11\">Hab. 3:11</a>; <a class=\"bibleref\" href=\"/passage/?search=Zech 9:14\">Zech. 9:14</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,22,17", "2samuel,22,18", "2samuel,22,19" ],
+  "verses" : [ {
+    "verse" : "2samuel,22,17",
+    "text" : "\"He reached down from on high and took hold of me; he drew me out of deep waters."
+  }, {
+    "verse" : "2samuel,22,18",
+    "text" : "He rescued me from my powerful enemy, from my foes, who were too strong for me."
+  }, {
+    "verse" : "2samuel,22,19",
+    "text" : "They confronted me in the day of my disaster, but the LORD was my support."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,22,17",
     "id" : 188048,
@@ -79,7 +136,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 22:17\">22:17</a></b> <b>many waters.</b> See <a class=\"bibleref\" href=\"/passage/?search=2Sam 22:5\">v. 5</a> note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,22,20" ],
+  "verses" : [ {
+    "verse" : "2samuel,22,20",
+    "text" : "He brought me out into a spacious place; he rescued me because he delighted in me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,22,20",
     "id" : 188049,
@@ -87,7 +147,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 22:20\">22:20</a></b> <b>broad place.</b> See <a class=\"bibleref\" href=\"/passage/?search=2Sam 22:7\">v. 7</a> note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,22,21", "2samuel,22,22", "2samuel,22,23", "2samuel,22,24", "2samuel,22,25", "2samuel,22,26" ],
+  "verses" : [ {
+    "verse" : "2samuel,22,21",
+    "text" : "\"The LORD has dealt with me according to my righteousness; according to the cleanness of my hands he has rewarded me."
+  }, {
+    "verse" : "2samuel,22,22",
+    "text" : "For I have kept the ways of the LORD; I have not done evil by turning from my God."
+  }, {
+    "verse" : "2samuel,22,23",
+    "text" : "All his laws are before me; I have not turned away from his decrees."
+  }, {
+    "verse" : "2samuel,22,24",
+    "text" : "I have been blameless before him and have kept myself from sin."
+  }, {
+    "verse" : "2samuel,22,25",
+    "text" : "The LORD has rewarded me according to my righteousness, according to my cleanness in his sight."
+  }, {
+    "verse" : "2samuel,22,26",
+    "text" : "\"To the faithful you show yourself faithful, to the blameless you show yourself blameless,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,22,21-2samuel,22,25",
     "id" : 188050,
@@ -95,7 +173,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 22:21-2Sam 22:25\">22:21–25</a></b> David is not laying claim to righteousness or sinlessness in any absolute sense. Rather he asserts his blamelessness with respect to his enemies and his confidence that the Lord rewards those who seek to be faithful to Him (<a class=\"bibleref\" href=\"/passage/?search=2Sam 22:26\">v. 26</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 26:23\">1 Sam. 26:23</a>). If this were not the case, David would surely be classed among “the haughty” (v. 28).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,22,27" ],
+  "verses" : [ {
+    "verse" : "2samuel,22,27",
+    "text" : "to the pure you show yourself pure, but to the crooked you show yourself shrewd."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,22,27",
     "id" : 188051,
@@ -103,7 +184,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 22:27\">22:27</a></b> <b>tortuous.</b> Lit. “And with the twisted you will deal tortuously.” In the economy of God’s justice, those who take “twisted” paths will find the way tortuous.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,22,28" ],
+  "verses" : [ {
+    "verse" : "2samuel,22,28",
+    "text" : "You save the humble, but your eyes are on the haughty to bring them low."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,22,28",
     "id" : 188052,
@@ -111,7 +195,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 22:28\">22:28</a></b> <b>humble . . . haughty.</b> See the theme of divine reversal of fortunes in Hannah’s prayer (<a class=\"bibleref\" href=\"/passage/?search=1Sam 2:1-1Sam 2:10\">1 Sam. 2:1–10</a> and note; especially v. 7).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,22,29", "2samuel,22,30", "2samuel,22,31" ],
+  "verses" : [ {
+    "verse" : "2samuel,22,29",
+    "text" : "You are my lamp, O LORD; the LORD turns my darkness into light."
+  }, {
+    "verse" : "2samuel,22,30",
+    "text" : "With your help I can advance against a troop; with my God I can scale a wall."
+  }, {
+    "verse" : "2samuel,22,31",
+    "text" : "\"As for God, his way is perfect; the word of the LORD is flawless. He is a shield for all who take refuge in him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,22,29",
     "id" : 188053,
@@ -119,7 +212,43 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 22:29\">22:29</a></b> <b>my lamp.</b> Cf. notes on <a class=\"bibleref\" href=\"/passage/?search=2Sam 21:17\">21:17</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 3:3\">1 Sam. 3:3</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,22,32", "2samuel,22,33", "2samuel,22,34", "2samuel,22,35", "2samuel,22,36", "2samuel,22,37", "2samuel,22,38", "2samuel,22,39", "2samuel,22,40", "2samuel,22,41", "2samuel,22,42", "2samuel,22,43" ],
+  "verses" : [ {
+    "verse" : "2samuel,22,32",
+    "text" : "For who is God besides the LORD? And who is the Rock except our God?"
+  }, {
+    "verse" : "2samuel,22,33",
+    "text" : "It is God who arms me with strength and makes my way perfect."
+  }, {
+    "verse" : "2samuel,22,34",
+    "text" : "He makes my feet like the feet of a deer; he enables me to stand on the heights."
+  }, {
+    "verse" : "2samuel,22,35",
+    "text" : "He trains my hands for battle; my arms can bend a bow of bronze."
+  }, {
+    "verse" : "2samuel,22,36",
+    "text" : "You give me your shield of victory; you stoop down to make me great."
+  }, {
+    "verse" : "2samuel,22,37",
+    "text" : "You broaden the path beneath me, so that my ankles do not turn."
+  }, {
+    "verse" : "2samuel,22,38",
+    "text" : "\"I pursued my enemies and crushed them; I did not turn back till they were destroyed."
+  }, {
+    "verse" : "2samuel,22,39",
+    "text" : "I crushed them completely, and they could not rise; they fell beneath my feet."
+  }, {
+    "verse" : "2samuel,22,40",
+    "text" : "You armed me with strength for battle; you made my adversaries bow at my feet."
+  }, {
+    "verse" : "2samuel,22,41",
+    "text" : "You made my enemies turn their backs in flight, and I destroyed my foes."
+  }, {
+    "verse" : "2samuel,22,42",
+    "text" : "They cried for help, but there was no one to save them- to the LORD, but he did not answer."
+  }, {
+    "verse" : "2samuel,22,43",
+    "text" : "I beat them as fine as the dust of the earth; I pounded and trampled them like mud in the streets."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,22,32",
     "id" : 188054,
@@ -127,7 +256,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 22:32\">22:32</a></b> <b>rock.</b> See <a class=\"bibleref\" href=\"/passage/?search=2Sam 22:2\">v. 2</a> and note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,22,44", "2samuel,22,45", "2samuel,22,46", "2samuel,22,47", "2samuel,22,48", "2samuel,22,49", "2samuel,22,50" ],
+  "verses" : [ {
+    "verse" : "2samuel,22,44",
+    "text" : "\"You have delivered me from the attacks of my people; you have preserved me as the head of nations. People I did not know are subject to me,"
+  }, {
+    "verse" : "2samuel,22,45",
+    "text" : "and foreigners come cringing to me; as soon as they hear me, they obey me."
+  }, {
+    "verse" : "2samuel,22,46",
+    "text" : "They all lose heart; they come trembling from their strongholds."
+  }, {
+    "verse" : "2samuel,22,47",
+    "text" : "\"The LORD lives! Praise be to my Rock! Exalted be God, the Rock, my Savior!"
+  }, {
+    "verse" : "2samuel,22,48",
+    "text" : "He is the God who avenges me, who puts the nations under me,"
+  }, {
+    "verse" : "2samuel,22,49",
+    "text" : "who sets me free from my enemies. You exalted me above my foes; from violent men you rescued me."
+  }, {
+    "verse" : "2samuel,22,50",
+    "text" : "Therefore I will praise you, O LORD, among the nations; I will sing praises to your name."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,22,44",
     "id" : 188055,
@@ -135,7 +285,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 22:44\">22:44</a></b> <b>my people.</b> This is possibly a reference to the many perils that David experienced at the hands of Saul, Absalom, and others. The corresponding verse in <a class=\"bibleref\" href=\"/passage/?search=Ps 18:43\">Ps. 18:43</a> reads simply “the people,” as does the Septuagint (Greek Old Testament translation) of this verse.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,22,51" ],
+  "verses" : [ {
+    "verse" : "2samuel,22,51",
+    "text" : "He gives his king great victories; he shows unfailing kindness to his anointed, to David and his descendants forever.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,22,51",
     "id" : 188056,
@@ -143,7 +296,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 22:51\">22:51</a></b> <b>his king . . . anointed.</b> The mention of the Lord’s “king” and His “anointed” is reminiscent of the closing verse of Hannah’s prayer in <a class=\"bibleref\" href=\"/passage/?search=1Sam 2:10\">1 Sam. 2:10</a>. After the dynastic promise of <a class=\"bibleref\" href=\"/passage/?search=2Sam 7:5-2Sam 7:16\">2 Sam. 7:5–16</a>, David can speak confidently of God’s unfailing mercy to his descendants forever. The dynastic theme is the transition to ch. 23, where David celebrates the “everlasting covenant” he has with the Lord (23:5).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,23,1" ],
+  "verses" : [ {
+    "verse" : "2samuel,23,1",
+    "text" : "These are the last words of David: \"The oracle of David son of Jesse, the oracle of the man exalted by the Most High, the man anointed by the God of Jacob, Israel's singer of songs:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,23,1",
     "id" : 188057,
@@ -151,7 +307,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 23:1\">23:1</a></b> <b>last words.</b> That is, his last poem. See <a class=\"bibleref\" href=\"/passage/?search=1Kgs 2:1-1Kgs 2:10\">1 Kin. 2:1–10</a> for David’s final instructions to Solomon.</p><p><b>oracle.</b> Or “utterance.” The Hebrew word is often, though not exclusively, associated with prophecy (e.g., <a class=\"bibleref\" href=\"/passage/?search=1Sam 2:30\">1 Sam. 2:30</a>; <a class=\"bibleref\" href=\"/passage/?search=2Kgs 9:26\">2 Kin. 9:26</a>), an association not inappropriate for David (v. 2 and note; <a class=\"bibleref\" href=\"/passage/?search=Acts 2:30\">Acts 2:30</a>).</p><p><b>the sweet psalmist of Israel.</b> Another translation of the Hebrew is ‘‘the beloved of Israel’s Protector.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,23,2" ],
+  "verses" : [ {
+    "verse" : "2samuel,23,2",
+    "text" : "\"The Spirit of the LORD spoke through me; his word was on my tongue."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,23,2-2samuel,23,4",
     "id" : 188058,
@@ -164,7 +323,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 23:2\">23:2</a></b> <b>The Spirit of the <span class=\"small-caps\">Lord</span> speaks by me.</b> Other references to David acting or speaking under divine inspiration include <a class=\"bibleref\" href=\"/passage/?search=1Chr 28:11\">1 Chr. 28:11</a>, <a class=\"bibleref\" href=\"/passage/?search=1Chr 28:12\">12</a>; <a class=\"bibleref\" href=\"/passage/?search=Matt 22:43\">Matt. 22:43</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 1:16\">Acts 1:16</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 4:25\">4:25</a>. David’s empowerment by the Spirit is recounted in <a class=\"bibleref\" href=\"/passage/?search=1Sam 16:13\">1 Sam. 16:13</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,23,3" ],
+  "verses" : [ {
+    "verse" : "2samuel,23,3",
+    "text" : "The God of Israel spoke, the Rock of Israel said to me: 'When one rules over men in righteousness, when he rules in the fear of God,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,23,3",
     "id" : 188060,
@@ -172,7 +334,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 23:3\">23:3</a></b> <b>Rock.</b> See <a class=\"bibleref\" href=\"/passage/?search=2Sam 23:32\">v. 32</a>; notes on <a class=\"bibleref\" href=\"/passage/?search=2Sam 22:2\">22:2</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 2:2\">1 Sam. 2:2</a>.</p><p><b>justly.</b> Righteous rule is possible only for one who lives in a right relationship with God. On what it means to “fear” God, see <a class=\"bibleref\" href=\"/passage/?search=1Sam 12:14\">1 Sam. 12:14</a> note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,23,4" ],
+  "verses" : [ {
+    "verse" : "2samuel,23,4",
+    "text" : "he is like the light of morning at sunrise on a cloudless morning, like the brightness after rain that brings the grass from the earth.'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,23,4",
     "id" : 188061,
@@ -180,7 +345,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 23:4\">23:4</a></b> <b>the morning light . . . sun shining forth.</b> The benefits of righteous rule are enlightenment, fruitfulness, and refreshment. For a fuller development of similar themes, see <a class=\"bibleref\" href=\"/passage/?search=Ps 72\">Ps. 72</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,23,5" ],
+  "verses" : [ {
+    "verse" : "2samuel,23,5",
+    "text" : "\"Is not my house right with God? Has he not made with me an everlasting covenant, arranged and secured in every part? Will he not bring to fruition my salvation and grant me my every desire?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,23,5",
     "id" : 188062,
@@ -188,7 +356,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 23:5\">23:5</a></b> <b>does not my house stand so with God.</b> David’s confidence rests not in his own righteousness but in the everlasting covenant made with him by a gracious God (<a class=\"bibleref\" href=\"/passage/?search=2Sam 7:11-2Sam 7:16\">7:11–16</a>; <a class=\"bibleref\" href=\"/passage/?search=2Chr 13:5\">2 Chr. 13:5</a>; <a class=\"bibleref\" href=\"/passage/?search=2Chr 21:7\">21:7</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 89:3\">Ps. 89:3</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 89:4\">4</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 89:28\">28</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 89:29\">29</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 55:3\">Is. 55:3</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 37:25\">Ezek. 37:25</a>, <a class=\"bibleref\" href=\"/passage/?search=Ezek 37:26\">26</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,23,6", "2samuel,23,7" ],
+  "verses" : [ {
+    "verse" : "2samuel,23,6",
+    "text" : "But evil men are all to be cast aside like thorns, which are not gathered with the hand."
+  }, {
+    "verse" : "2samuel,23,7",
+    "text" : "Whoever touches thorns uses a tool of iron or the shaft of a spear; they are burned up where they lie.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,23,6",
     "id" : 188063,
@@ -196,7 +370,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 23:6\">23:6</a></b> <b>worthless men.</b> The Hebrew term is “Belial”; see note <a class=\"bibleref\" href=\"/passage/?search=1Sam 2:12\">1 Sam. 2:12</a>. The focus here may be on those who had opposed the rule of David.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,23,8", "2samuel,23,9" ],
+  "verses" : [ {
+    "verse" : "2samuel,23,8",
+    "text" : "These are the names of David's mighty men: Josheb-Basshebeth, a Tahkemonite, was chief of the Three; he raised his spear against eight hundred men, whom he killed in one encounter."
+  }, {
+    "verse" : "2samuel,23,9",
+    "text" : "Next to him was Eleazar son of Dodai the Ahohite. As one of the three mighty men, he was with David when they taunted the Philistines gathered at Pas Dammim for battle. Then the men of Israel retreated,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,23,8-2samuel,23,39",
     "id" : 188064,
@@ -209,7 +389,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 23:8\">23:8</a></b> <b>eight hundred.</b> 1 Chr. <a class=\"bibleref\" href=\"/passage/?search=2Sam 11:11\">11:11</a> has “300,” probably a copyist’s error.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,23,10" ],
+  "verses" : [ {
+    "verse" : "2samuel,23,10",
+    "text" : "but he stood his ground and struck down the Philistines till his hand grew tired and froze to the sword. The LORD brought about a great victory that day. The troops returned to Eleazar, but only to strip the dead."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,23,10",
     "id" : 188066,
@@ -217,7 +400,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 23:10\">23:10</a></b> <b>The <span class=\"small-caps\">Lord</span> brought about a great victory that day.</b> This statement, repeated in <a class=\"bibleref\" href=\"/passage/?search=2Sam 23:12\">v. 12</a>, serves as a reminder that, whatever the heroic qualities of the human agent, it is God who ultimately brings victory (<a class=\"bibleref\" href=\"/passage/?search=2Sam 8:6\">8:6</a>, <a class=\"bibleref\" href=\"/passage/?search=2Sam 8:14\">14</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 14:15\">1 Sam. 14:15</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 14:23\">23</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 19:5\">19:5</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,23,11", "2samuel,23,12" ],
+  "verses" : [ {
+    "verse" : "2samuel,23,11",
+    "text" : "Next to him was Shammah son of Agee the Hararite. When the Philistines banded together at a place where there was a field full of lentils, Israel's troops fled from them."
+  }, {
+    "verse" : "2samuel,23,12",
+    "text" : "But Shammah took his stand in the middle of the field. He defended it and struck the Philistines down, and the LORD brought about a great victory."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,23,11",
     "id" : 188067,
@@ -225,7 +414,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 23:11\">23:11</a></b> <b>ground full of lentils.</b> Destroying crops was a common tactic of war (<a class=\"bibleref\" href=\"/passage/?search=Judg 6:3-Judg 6:6\">Judg. 6:3–6</a>, <a class=\"bibleref\" href=\"/passage/?search=Judg 6:11\">11</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,23,13" ],
+  "verses" : [ {
+    "verse" : "2samuel,23,13",
+    "text" : "During harvest time, three of the thirty chief men came down to David at the cave of Adullam, while a band of Philistines was encamped in the Valley of Rephaim."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,23,13",
     "id" : 188068,
@@ -233,7 +425,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 23:13\">23:13</a></b> <b>Valley of Rephaim.</b> See note <a class=\"bibleref\" href=\"/passage/?search=2Sam 5:18\">5:18</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,23,14", "2samuel,23,15" ],
+  "verses" : [ {
+    "verse" : "2samuel,23,14",
+    "text" : "At that time David was in the stronghold, and the Philistine garrison was at Bethlehem."
+  }, {
+    "verse" : "2samuel,23,15",
+    "text" : "David longed for water and said, \"Oh, that someone would get me a drink of water from the well near the gate of Bethlehem!\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,23,14",
     "id" : 188069,
@@ -241,7 +439,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 23:14\">23:14</a></b> <b>stronghold.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Sam 23:14\">1 Sam. 23:14</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,23,16", "2samuel,23,17" ],
+  "verses" : [ {
+    "verse" : "2samuel,23,16",
+    "text" : "So the three mighty men broke through the Philistine lines, drew water from the well near the gate of Bethlehem and carried it back to David. But he refused to drink it; instead, he poured it out before the LORD."
+  }, {
+    "verse" : "2samuel,23,17",
+    "text" : "\"Far be it from me, O LORD, to do this!\" he said. \"Is it not the blood of men who went at the risk of their lives?\" And David would not drink it. Such were the exploits of the three mighty men."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,23,16",
     "id" : 188070,
@@ -249,7 +453,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 23:16\">23:16</a></b> <b>poured it out to the <span class=\"small-caps\">Lord</span>.</b> The brave exploit of the three men is a testimony to their devotion to David, while David’s refusal to drink (<a class=\"bibleref\" href=\"/passage/?search=2Sam 23:17\">v. 17</a>) what had been procured at such great risk to his loyal followers is testimony to his love for them.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,23,18", "2samuel,23,19" ],
+  "verses" : [ {
+    "verse" : "2samuel,23,18",
+    "text" : "Abishai the brother of Joab son of Zeruiah was chief of the Three. He raised his spear against three hundred men, whom he killed, and so he became as famous as the Three."
+  }, {
+    "verse" : "2samuel,23,19",
+    "text" : "Was he not held in greater honor than the Three? He became their commander, even though he was not included among them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,23,18",
     "id" : 188071,
@@ -257,7 +467,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 23:18\">23:18</a></b> <b>Abishai.</b> See note <a class=\"bibleref\" href=\"/passage/?search=2Sam 2:18\">2:18</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,23,20", "2samuel,23,21", "2samuel,23,22" ],
+  "verses" : [ {
+    "verse" : "2samuel,23,20",
+    "text" : "Benaiah son of Jehoiada was a valiant fighter from Kabzeel, who performed great exploits. He struck down two of Moab's best men. He also went down into a pit on a snowy day and killed a lion."
+  }, {
+    "verse" : "2samuel,23,21",
+    "text" : "And he struck down a huge Egyptian. Although the Egyptian had a spear in his hand, Benaiah went against him with a club. He snatched the spear from the Egyptian's hand and killed him with his own spear."
+  }, {
+    "verse" : "2samuel,23,22",
+    "text" : "Such were the exploits of Benaiah son of Jehoiada; he too was as famous as the three mighty men."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,23,20",
     "id" : 188072,
@@ -265,7 +484,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 23:20\">23:20</a></b> <b>Benaiah.</b> See note <a class=\"bibleref\" href=\"/passage/?search=2Sam 8:18\">8:18</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,23,23" ],
+  "verses" : [ {
+    "verse" : "2samuel,23,23",
+    "text" : "He was held in greater honor than any of the Thirty, but he was not included among the Three. And David put him in charge of his bodyguard."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,23,23",
     "id" : 188073,

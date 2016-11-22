@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "proverbs,3,16", "proverbs,3,17" ],
+  "verses" : [ {
+    "verse" : "proverbs,3,16",
+    "text" : "Long life is in her right hand; in her left hand are riches and honor."
+  }, {
+    "verse" : "proverbs,3,17",
+    "text" : "Her ways are pleasant ways, and all her paths are peace."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,3,13-proverbs,3,20",
     "id" : 191693,
@@ -12,7 +18,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 3:16\">3:16</a>, <a class=\"bibleref\" href=\"/passage/?search=Prov 3:17\">17</a></b> See <a class=\"bibleref\" href=\"/passage/?search=Prov 3:2\">v. 2</a> and notes.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,3,18" ],
+  "verses" : [ {
+    "verse" : "proverbs,3,18",
+    "text" : "She is a tree of life to those who embrace her; those who lay hold of her will be blessed."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,3,18",
     "id" : 191697,

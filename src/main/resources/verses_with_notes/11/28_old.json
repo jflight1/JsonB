@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "daniel,5,1" ],
+  "verses" : [ {
+    "verse" : "daniel,5,1",
+    "text" : "King Belshazzar gave a great banquet for a thousand of his nobles and drank wine with them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,5,1",
     "id" : 194579,
@@ -7,7 +10,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Dan 5:1\">5:1</a></b> <b>King Belshazzar.</b> The name “Belshazzar” means “Bel, protect the king” (not to be confused with “Belteshazzar,” the Babylonian name given to <a class=\"bibleref\" href=\"/passage/?search=Dan 1:7\">Daniel, 1:7</a> note). From Babylonian sources we know that Belshazzar was placed in charge of affairs in Babylon while his father, Nabonidus, the last king of Babylon, spent extensive periods of time at Tema in Arabia. The events of this chapter took place in 539 <span class=\"small-caps\">b.c.</span>, the year of Babylon’s fall to the Persians, forty-two years after the death of Nebuchadnezzar in 563 <span class=\"small-caps\">b.c.</span></p></div>"
   } ]
 }, {
-  "singleVerses" : [ "daniel,5,2", "daniel,5,3" ],
+  "verses" : [ {
+    "verse" : "daniel,5,2",
+    "text" : "While Belshazzar was drinking his wine, he gave orders to bring in the gold and silver goblets that Nebuchadnezzar his father had taken from the temple in Jerusalem, so that the king and his nobles, his wives and his concubines might drink from them."
+  }, {
+    "verse" : "daniel,5,3",
+    "text" : "So they brought in the gold goblets that had been taken from the temple of God in Jerusalem, and the king and his nobles, his wives and his concubines drank from them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,5,2",
     "id" : 194580,
@@ -15,7 +24,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Dan 5:2\">5:2</a></b> <b>when he tasted the wine.</b> Under the influence of wine Belshazzar committed a sacrilegious act.</p><p><b>his father.</b> The immediate father of Belshazzar was Nabonidus, not Nebuchadnezzar. It is not unusual for the terms “father” (<a class=\"bibleref\" href=\"/passage/?search=Dan 5:11\">vv. 11</a>, <a class=\"bibleref\" href=\"/passage/?search=Dan 5:13\">13</a>, <a class=\"bibleref\" href=\"/passage/?search=Dan 5:18\">18</a>) and “son” (<a class=\"bibleref\" href=\"/passage/?search=Dan 5:22\">v. 22</a>) to be used as equivalents for “predecessor” and “successor” (text notes).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "daniel,5,4", "daniel,5,5", "daniel,5,6" ],
+  "verses" : [ {
+    "verse" : "daniel,5,4",
+    "text" : "As they drank the wine, they praised the gods of gold and silver, of bronze, iron, wood and stone."
+  }, {
+    "verse" : "daniel,5,5",
+    "text" : "Suddenly the fingers of a human hand appeared and wrote on the plaster of the wall, near the lampstand in the royal palace. The king watched the hand as it wrote."
+  }, {
+    "verse" : "daniel,5,6",
+    "text" : "His face turned pale and he was so frightened that his knees knocked together and his legs gave way."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,5,4",
     "id" : 194581,
@@ -23,7 +41,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Dan 5:4\">5:4</a></b> <b>praised the gods.</b> The temple vessels were defiled, not only by being put to profane use, but also by being used to honor the false gods of Babylon.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "daniel,5,7", "daniel,5,8", "daniel,5,9" ],
+  "verses" : [ {
+    "verse" : "daniel,5,7",
+    "text" : "The king called out for the enchanters, astrologers and diviners to be brought and said to these wise men of Babylon, \"Whoever reads this writing and tells me what it means will be clothed in purple and have a gold chain placed around his neck, and he will be made the third highest ruler in the kingdom.\""
+  }, {
+    "verse" : "daniel,5,8",
+    "text" : "Then all the king's wise men came in, but they could not read the writing or tell the king what it meant."
+  }, {
+    "verse" : "daniel,5,9",
+    "text" : "So King Belshazzar became even more terrified and his face grew more pale. His nobles were baffled."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,5,7",
     "id" : 194582,
@@ -31,7 +58,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Dan 5:7\">5:7</a></b> <b>the enchanters, the Chaldeans, and the astrologers.</b> See notes <a class=\"bibleref\" href=\"/passage/?search=Dan 1:20\">1:20</a>; <a class=\"bibleref\" href=\"/passage/?search=Dan 2:2\">2:2</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Dan 2:27\">2:27</a>; <a class=\"bibleref\" href=\"/passage/?search=Dan 4:7\">4:7</a>.</p><p><b>shows me its interpretation.</b> Once again a king requires Daniel’s assistance to understand a message from God meant for him (<a class=\"bibleref\" href=\"/passage/?search=Dan 2:5\">2:5</a> note).</p><p><b>third ruler.</b> That is, close in power to Nabonidus and Belshazzar (<a class=\"bibleref\" href=\"/passage/?search=Dan 5:1\">5:1</a> note). “Third ruler” is an official designation of a high office, but not necessarily the literal third in line to the throne.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "daniel,5,10" ],
+  "verses" : [ {
+    "verse" : "daniel,5,10",
+    "text" : "The queen, hearing the voices of the king and his nobles, came into the banquet hall. \"O king, live forever!\" she said. \"Don't be alarmed! Don't look so pale!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,5,10",
     "id" : 194583,
@@ -39,7 +69,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Dan 5:10\">5:10</a></b> <b>The queen.</b> It is unlikely that this was a wife of Belshazzar, since she was already present at the banquet (<a class=\"bibleref\" href=\"/passage/?search=Dan 5:2\">vv. 2</a>, <a class=\"bibleref\" href=\"/passage/?search=Dan 5:3\">3</a>). Probably she is to be identified as the “queen mother,” one of very few women to have significant power in ancient royal courts (cf. <a class=\"bibleref\" href=\"/passage/?search=1Kgs 15:3\">1 Kin. 15:3</a>; <a class=\"bibleref\" href=\"/passage/?search=2Kgs 11:1-2Kgs 11:3\">2 Kin. 11:1–3</a>; <a class=\"bibleref\" href=\"/passage/?search=2Kgs 24:12\">24:12</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 13:18\">Jer. 13:18</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "daniel,5,11" ],
+  "verses" : [ {
+    "verse" : "daniel,5,11",
+    "text" : "There is a man in your kingdom who has the spirit of the holy gods in him. In the time of your father he was found to have insight and intelligence and wisdom like that of the gods. King Nebuchadnezzar your father-your father the king, I say-appointed him chief of the magicians, enchanters, astrologers and diviners."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,5,11",
     "id" : 194584,
@@ -47,7 +80,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Dan 5:11\">5:11</a></b> <b>the spirit of the holy gods.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Dan 4:8\">4:8</a>. It is not surprising that the queen mother was more familiar with Daniel’s life and prominence than was Belshazzar. Daniel would be in his eighties by 539 <span class=\"small-caps\">b.c.</span> He had been brought to Babylon as a young man sixty-six years before (605 <span class=\"small-caps\">b.c.</span>, <a class=\"bibleref\" href=\"/passage/?search=Dan 1:1\">1:1</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "daniel,5,12", "daniel,5,13", "daniel,5,14", "daniel,5,15" ],
+  "verses" : [ {
+    "verse" : "daniel,5,12",
+    "text" : "This man Daniel, whom the king called Belteshazzar, was found to have a keen mind and knowledge and understanding, and also the ability to interpret dreams, explain riddles and solve difficult problems. Call for Daniel, and he will tell you what the writing means.\""
+  }, {
+    "verse" : "daniel,5,13",
+    "text" : "So Daniel was brought before the king, and the king said to him, \"Are you Daniel, one of the exiles my father the king brought from Judah?"
+  }, {
+    "verse" : "daniel,5,14",
+    "text" : "I have heard that the spirit of the gods is in you and that you have insight, intelligence and outstanding wisdom."
+  }, {
+    "verse" : "daniel,5,15",
+    "text" : "The wise men and enchanters were brought before me to read this writing and tell me what it means, but they could not explain it."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,5,12",
     "id" : 194585,
@@ -55,7 +100,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Dan 5:12\">5:12</a></b> <b>found in this Daniel.</b> This divine endowment can be understood as the presence of God’s Spirit in an individual, or simply as the possession of a remarkable spirit characteristic of that individual.</p><p><b>Belteshazzar.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Dan 1:7\">1:7</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "daniel,5,16" ],
+  "verses" : [ {
+    "verse" : "daniel,5,16",
+    "text" : "Now I have heard that you are able to give interpretations and to solve difficult problems. If you can read this writing and tell me what it means, you will be clothed in purple and have a gold chain placed around your neck, and you will be made the third highest ruler in the kingdom.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,5,16",
     "id" : 194586,
@@ -63,7 +111,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Dan 5:16\">5:16</a></b> <b>third ruler in the kingdom.</b> See note on <a class=\"bibleref\" href=\"/passage/?search=Dan 5:7\">v. 7</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "daniel,5,17" ],
+  "verses" : [ {
+    "verse" : "daniel,5,17",
+    "text" : "Then Daniel answered the king, \"You may keep your gifts for yourself and give your rewards to someone else. Nevertheless, I will read the writing for the king and tell him what it means."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,5,17",
     "id" : 194587,
@@ -71,7 +122,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Dan 5:17\">5:17</a></b> <b>Let your gifts be for yourself.</b> Daniel may reject Belshazzar’s offer of reward because he is conscious that it is only by God’s mercy that he is able to respond to the king’s request, and he does not want to use his God-given role as a means of personal profit (cf. <a class=\"bibleref\" href=\"/passage/?search=Gen 14:23\">Gen. 14:23</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 9:7\">1 Sam. 9:7</a> note). But why then did he accept them earlier (2:48) and later (v. 29)? Some interpreters believe he is here avoiding royal pressure to modify the ominous message (<a class=\"bibleref\" href=\"/passage/?search=Num 22:18\">Num. 22:18</a>; <a class=\"bibleref\" href=\"/passage/?search=Mic 3:5\">Mic. 3:5</a>, <a class=\"bibleref\" href=\"/passage/?search=Mic 3:11\">11</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "daniel,5,18", "daniel,5,19", "daniel,5,20" ],
+  "verses" : [ {
+    "verse" : "daniel,5,18",
+    "text" : "\"O king, the Most High God gave your father Nebuchadnezzar sovereignty and greatness and glory and splendor."
+  }, {
+    "verse" : "daniel,5,19",
+    "text" : "Because of the high position he gave him, all the peoples and nations and men of every language dreaded and feared him. Those the king wanted to put to death, he put to death; those he wanted to spare, he spared; those he wanted to promote, he promoted; and those he wanted to humble, he humbled."
+  }, {
+    "verse" : "daniel,5,20",
+    "text" : "But when his heart became arrogant and hardened with pride, he was deposed from his royal throne and stripped of his glory."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,5,18",
     "id" : 194588,
@@ -79,7 +139,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Dan 5:18\">5:18</a></b> <b>Nebuchadnezzar your father.</b> See note on <a class=\"bibleref\" href=\"/passage/?search=Dan 5:2\">v. 2</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "daniel,5,21" ],
+  "verses" : [ {
+    "verse" : "daniel,5,21",
+    "text" : "He was driven away from people and given the mind of an animal; he lived with the wild donkeys and ate grass like cattle; and his body was drenched with the dew of heaven, until he acknowledged that the Most High God is sovereign over the kingdoms of men and sets over them anyone he wishes."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,5,21-daniel,5,28",
     "id" : 194589,
@@ -92,7 +155,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Dan 5:21\">5:21</a></b> <b>Most High God rules.</b> This statement summarizes the book’s theology (Introduction: Characteristics and Themes).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "daniel,5,22", "daniel,5,23" ],
+  "verses" : [ {
+    "verse" : "daniel,5,22",
+    "text" : "\"But you his son, O Belshazzar, have not humbled yourself, though you knew all this."
+  }, {
+    "verse" : "daniel,5,23",
+    "text" : "Instead, you have set yourself up against the Lord of heaven. You had the goblets from his temple brought to you, and you and your nobles, your wives and your concubines drank wine from them. You praised the gods of silver and gold, of bronze, iron, wood and stone, which cannot see or hear or understand. But you did not honor the God who holds in his hand your life and all your ways."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,5,22",
     "id" : 194591,
@@ -100,7 +169,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Dan 5:22\">5:22</a></b> <b>And you his son.</b> See note on <a class=\"bibleref\" href=\"/passage/?search=Dan 5:2\">v. 2</a>.</p><p><b>though you knew all this.</b> Because the king is without excuse, even more than his father, the time of mercy is past (contrast a different case at <a class=\"bibleref\" href=\"/passage/?search=1Tim 1:13\">1 Tim. 1:13</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "daniel,5,24" ],
+  "verses" : [ {
+    "verse" : "daniel,5,24",
+    "text" : "Therefore he sent the hand that wrote the inscription."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,5,24",
     "id" : 194592,
@@ -108,7 +180,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Dan 5:24\">5:24</a></b> <b>Then.</b> The writing on the wall is God’s answer to the arrogant challenge presented by Belshazzar’s pride and his defiance of the God who had shown His existence and sovereignty in the time of Nebuchadnezzar.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "daniel,5,25" ],
+  "verses" : [ {
+    "verse" : "daniel,5,25",
+    "text" : "\"This is the inscription that was written: Mene, Mene, Tekel, Parsin"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,5,25",
     "id" : 194593,
@@ -116,7 +191,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Dan 5:25\">5:25</a></b> <b><span class=\"small-caps\">Mene, Mene, Tekel,</span> and <span class=\"small-caps\">Parsin</span>.</b> Aramaic, like Hebrew, is usually written without vowels, and this very short inscription would have been ambiguous.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "daniel,5,26" ],
+  "verses" : [ {
+    "verse" : "daniel,5,26",
+    "text" : "\"This is what these words mean: Mene: God has numbered the days of your reign and brought it to an end."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,5,26",
     "id" : 194594,
@@ -124,7 +202,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Dan 5:26\">5:26</a></b> <b><span class=\"small-caps\">Mene.</span> </b>The Aramaic word could be a verb meaning “numbered” or a noun meaning “mina,” a unit of money. Daniel read it as the verb to signify that the length of Belshazzar’s reign had been determined by God and was about to end (<a class=\"bibleref\" href=\"/passage/?search=Jer 50:18\">Jer. 50:18</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "daniel,5,27" ],
+  "verses" : [ {
+    "verse" : "daniel,5,27",
+    "text" : "Tekel: You have been weighed on the scales and found wanting."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,5,27",
     "id" : 194595,
@@ -132,7 +213,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Dan 5:27\">5:27</a></b> <b><span class=\"small-caps\">Tekel.</span> </b>This word is also either a verb or a noun. Daniel read it as a verb meaning “weighed,” signifying that Belshazzar failed to measure up to God’s standards of righteousness.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "daniel,5,28" ],
+  "verses" : [ {
+    "verse" : "daniel,5,28",
+    "text" : "Peres: Your kingdom is divided and given to the Medes and Persians.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,5,28",
     "id" : 194596,
@@ -140,7 +224,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Dan 5:28\">5:28</a></b> <b><span class=\"small-caps\">Peres.</span></b> If those present at the banquet understood the three terms as nouns indicating various units of money (<i>mina,</i> or sixty shekels; <i>tekel</i>, one shekel; <i>peres,</i> a half-shekel), it is not surprising that they could not understand the inscription.</p><p><b>Medes and Persians.</b> See Introduction: Date and Occasion.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "daniel,5,29" ],
+  "verses" : [ {
+    "verse" : "daniel,5,29",
+    "text" : "Then at Belshazzar's command, Daniel was clothed in purple, a gold chain was placed around his neck, and he was proclaimed the third highest ruler in the kingdom."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,5,29",
     "id" : 194597,
@@ -148,7 +235,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Dan 5:29\">5:29</a></b> <b>Belshazzar gave the command.</b> Like Nebuchadnezzar, Belshazzar honors Daniel (<a class=\"bibleref\" href=\"/passage/?search=Dan 2:48\">2:48</a>), but unlike his predecessor, he does not honor Daniel’s God (<a class=\"bibleref\" href=\"/passage/?search=Dan 2:46\">2:46</a>, <a class=\"bibleref\" href=\"/passage/?search=Dan 2:47\">47</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "daniel,5,30" ],
+  "verses" : [ {
+    "verse" : "daniel,5,30",
+    "text" : "That very night Belshazzar, king of the Babylonians, was slain,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,5,30",
     "id" : 194598,
@@ -156,7 +246,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Dan 5:30\">5:30</a></b> <b>Belshazzar . . . was killed.</b> It is not known just how Belshazzar died. However, the Greek historians Herodotus and Xenophon report that Babylon was taken in a surprise attack by the Persians while the Babylonians were engaged in revelling and dancing.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "daniel,5,31" ],
+  "verses" : [ {
+    "verse" : "daniel,5,31",
+    "text" : "and Darius the Mede took over the kingdom, at the age of sixty-two."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,5,31",
     "id" : 194599,

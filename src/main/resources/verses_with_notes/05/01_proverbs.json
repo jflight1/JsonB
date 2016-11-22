@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "proverbs,14,15", "proverbs,14,16" ],
+  "verses" : [ {
+    "verse" : "proverbs,14,15",
+    "text" : "A simple man believes anything, but a prudent man gives thought to his steps."
+  }, {
+    "verse" : "proverbs,14,16",
+    "text" : "A wise man fears the LORD and shuns evil, but a fool is hotheaded and reckless."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

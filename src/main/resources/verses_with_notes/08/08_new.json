@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "1corinthians,4,1", "1corinthians,4,2" ],
+  "verses" : [ {
+    "verse" : "1corinthians,4,1",
+    "text" : "So then, men ought to regard us as servants of Christ and as those entrusted with the secret things of God."
+  }, {
+    "verse" : "1corinthians,4,2",
+    "text" : "Now it is required that those who have been given a trust must prove faithful."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1corinthians,4,1",
     "id" : 198011,
@@ -7,7 +13,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Cor 4:1\">4:1</a></b> <b>regard us, as servants.</b> These verses show that Paul was being judged and attacked by at least some of the Corinthians (<a class=\"bibleref\" href=\"/passage/?search=1Cor 2:1\">2:1</a> note).</p><p><b>mysteries.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Cor 2:7\">2:7</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1corinthians,4,3", "1corinthians,4,4" ],
+  "verses" : [ {
+    "verse" : "1corinthians,4,3",
+    "text" : "I care very little if I am judged by you or by any human court; indeed, I do not even judge myself."
+  }, {
+    "verse" : "1corinthians,4,4",
+    "text" : "My conscience is clear, but that does not make me innocent. It is the Lord who judges me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1corinthians,4,3",
     "id" : 198012,
@@ -15,7 +27,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Cor 4:3\">4:3</a></b> <b>I do not even judge myself.</b> Though Paul’s conscience is clear (<a class=\"bibleref\" href=\"/passage/?search=1Cor 4:5\">v. 5</a>), ultimately only God determines whether one has proved faithful.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1corinthians,4,5", "1corinthians,4,6", "1corinthians,4,7" ],
+  "verses" : [ {
+    "verse" : "1corinthians,4,5",
+    "text" : "Therefore judge nothing before the appointed time; wait till the Lord comes. He will bring to light what is hidden in darkness and will expose the motives of men's hearts. At that time each will receive his praise from God."
+  }, {
+    "verse" : "1corinthians,4,6",
+    "text" : "Now, brothers, I have applied these things to myself and Apollos for your benefit, so that you may learn from us the meaning of the saying, \"Do not go beyond what is written.\" Then you will not take pride in one man over against another."
+  }, {
+    "verse" : "1corinthians,4,7",
+    "text" : "For who makes you different from anyone else? What do you have that you did not receive? And if you did receive it, why do you boast as though you did not?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1corinthians,4,5",
     "id" : 198013,
@@ -23,7 +44,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Cor 4:5\">4:5</a></b> <b>do not pronounce judgment.</b> Not an absolute command (<a class=\"bibleref\" href=\"/passage/?search=1Cor 5:2\">5:2</a>; <a class=\"bibleref\" href=\"/passage/?search=1Cor 6:2\">6:2</a>), but a reference to the misconceived criticisms raised against Paul.</p><p><b>bring to light the things now hidden.</b> At the Judgment, nothing will escape God’s searching light (<a class=\"bibleref\" href=\"/passage/?search=Matt 10:26\">Matt. 10:26</a> and parallels).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1corinthians,4,8", "1corinthians,4,9", "1corinthians,4,10", "1corinthians,4,11", "1corinthians,4,12", "1corinthians,4,13" ],
+  "verses" : [ {
+    "verse" : "1corinthians,4,8",
+    "text" : "Already you have all you want! Already you have become rich! You have become kings--and that without us! How I wish that you really had become kings so that we might be kings with you!"
+  }, {
+    "verse" : "1corinthians,4,9",
+    "text" : "For it seems to me that God has put us apostles on display at the end of the procession, like men condemned to die in the arena. We have been made a spectacle to the whole universe, to angels as well as to men."
+  }, {
+    "verse" : "1corinthians,4,10",
+    "text" : "We are fools for Christ, but you are so wise in Christ! We are weak, but you are strong! You are honored, we are dishonored!"
+  }, {
+    "verse" : "1corinthians,4,11",
+    "text" : "To this very hour we go hungry and thirsty, we are in rags, we are brutally treated, we are homeless."
+  }, {
+    "verse" : "1corinthians,4,12",
+    "text" : "We work hard with our own hands. When we are cursed, we bless; when we are persecuted, we endure it;"
+  }, {
+    "verse" : "1corinthians,4,13",
+    "text" : "when we are slandered, we answer kindly. Up to this moment we have become the scum of the earth, the refuse of the world."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1corinthians,4,8-1corinthians,4,13",
     "id" : 198014,
@@ -31,7 +70,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Cor 4:8-1Cor 4:13\">4:8–13</a></b> In this powerful passage the apostle makes use of biting irony to show the Corinthians how trivial are their concerns and how unfair their criticisms. The sufferings of Paul are comparable to the pain and public humiliation of captives condemned to die (<a class=\"bibleref\" href=\"/passage/?search=2Cor 11:23-2Cor 11:30\">2 Cor. 11:23–30</a>). In contrast, some of the Corinthians think of themselves as notably successful, but only because they do not understand what it means to be “fools for Christ’s sake” (v. 10).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1corinthians,4,14" ],
+  "verses" : [ {
+    "verse" : "1corinthians,4,14",
+    "text" : "I am not writing this to shame you, but to warn you, as my dear children."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1corinthians,4,14",
     "id" : 198015,
@@ -39,7 +81,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Cor 4:14\">4:14</a></b> <b>not . . . make you ashamed.</b> Paul’s pastoral heart is revealed in these words. The harsh language of the previous passage was not intended to make them feel inferior but to raise their sensitivity to the truth.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1corinthians,4,15", "1corinthians,4,16" ],
+  "verses" : [ {
+    "verse" : "1corinthians,4,15",
+    "text" : "Even though you have ten thousand guardians in Christ, you do not have many fathers, for in Christ Jesus I became your father through the gospel."
+  }, {
+    "verse" : "1corinthians,4,16",
+    "text" : "Therefore I urge you to imitate me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1corinthians,4,15",
     "id" : 198016,
@@ -47,7 +95,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Cor 4:15\">4:15</a></b> <b>countless guides.</b> The Corinthians boasted of their allegiance to Apollos, Peter, and others, with the implication that they had no need for Paul. The apostle reminds them that his fatherly relationship to them is unique and they have no good reason to attack him.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1corinthians,4,17" ],
+  "verses" : [ {
+    "verse" : "1corinthians,4,17",
+    "text" : "For this reason I am sending to you Timothy, my son whom I love, who is faithful in the Lord. He will remind you of my way of life in Christ Jesus, which agrees with what I teach everywhere in every church."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1corinthians,4,17",
     "id" : 198017,
@@ -55,7 +106,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Cor 4:17\">4:17</a></b> <b>I sent you Timothy.</b> Timothy had left prior to the writing of this letter (<a class=\"bibleref\" href=\"/passage/?search=1Cor 16:10\">16:10</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1corinthians,4,18", "1corinthians,4,19", "1corinthians,4,20", "1corinthians,4,21" ],
+  "verses" : [ {
+    "verse" : "1corinthians,4,18",
+    "text" : "Some of you have become arrogant, as if I were not coming to you."
+  }, {
+    "verse" : "1corinthians,4,19",
+    "text" : "But I will come to you very soon, if the Lord is willing, and then I will find out not only how these arrogant people are talking, but what power they have."
+  }, {
+    "verse" : "1corinthians,4,20",
+    "text" : "For the kingdom of God is not a matter of talk but of power."
+  }, {
+    "verse" : "1corinthians,4,21",
+    "text" : "What do you prefer? Shall I come to you with a whip, or in love and with a gentle spirit?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1corinthians,4,18",
     "id" : 198018,

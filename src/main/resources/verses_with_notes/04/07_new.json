@@ -1,8 +1,23 @@
 [ {
-  "singleVerses" : [ "luke,12,8", "luke,12,9" ],
+  "verses" : [ {
+    "verse" : "luke,12,8",
+    "text" : "\"I tell you, whoever acknowledges me before men, the Son of Man will also acknowledge him before the angels of God."
+  }, {
+    "verse" : "luke,12,9",
+    "text" : "But he who disowns me before men will be disowned before the angels of God."
+  } ],
   "rsbNotes" : [ ]
 }, {
-  "singleVerses" : [ "luke,12,10", "luke,12,11", "luke,12,12" ],
+  "verses" : [ {
+    "verse" : "luke,12,10",
+    "text" : "And everyone who speaks a word against the Son of Man will be forgiven, but anyone who blasphemes against the Holy Spirit will not be forgiven."
+  }, {
+    "verse" : "luke,12,11",
+    "text" : "\"When you are brought before synagogues, rulers and authorities, do not worry about how you will defend yourselves or what you will say,"
+  }, {
+    "verse" : "luke,12,12",
+    "text" : "for the Holy Spirit will teach you at that time what you should say.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,12,10",
     "id" : 196594,
@@ -10,7 +25,34 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 12:10\">12:10</a></b> Blasphemy against the Holy Spirit attributes to Satan the work of the Holy Spirit through Christ in the face of overwhelming moral evidence to the contrary. Such deliberate rejection of the truth is a decisive rejection of the One (the Holy Spirit) who can bring a person to repentance and faith; such sin makes forgiveness impossible. See “The Unpardonable Sin” at <a class=\"bibleref\" href=\"/passage/?search=Mark 3:29\">Mark 3:29</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,12,13", "luke,12,14", "luke,12,15", "luke,12,16", "luke,12,17", "luke,12,18", "luke,12,19", "luke,12,20", "luke,12,21" ],
+  "verses" : [ {
+    "verse" : "luke,12,13",
+    "text" : "Someone in the crowd said to him, \"Teacher, tell my brother to divide the inheritance with me.\""
+  }, {
+    "verse" : "luke,12,14",
+    "text" : "Jesus replied, \"Man, who appointed me a judge or an arbiter between you?\""
+  }, {
+    "verse" : "luke,12,15",
+    "text" : "Then he said to them, \"Watch out! Be on your guard against all kinds of greed; a man's life does not consist in the abundance of his possessions.\""
+  }, {
+    "verse" : "luke,12,16",
+    "text" : "And he told them this parable: \"The ground of a certain rich man produced a good crop."
+  }, {
+    "verse" : "luke,12,17",
+    "text" : "He thought to himself, 'What shall I do? I have no place to store my crops.'"
+  }, {
+    "verse" : "luke,12,18",
+    "text" : "\"Then he said, 'This is what I'll do. I will tear down my barns and build bigger ones, and there I will store all my grain and my goods."
+  }, {
+    "verse" : "luke,12,19",
+    "text" : "And I'll say to myself, \"You have plenty of good things laid up for many years. Take life easy; eat, drink and be merry.\"'"
+  }, {
+    "verse" : "luke,12,20",
+    "text" : "\"But God said to him, 'You fool! This very night your life will be demanded from you. Then who will get what you have prepared for yourself?'"
+  }, {
+    "verse" : "luke,12,21",
+    "text" : "\"This is how it will be with anyone who stores up things for himself but is not rich toward God.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,12,13",
     "id" : 196595,
@@ -18,7 +60,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 12:13\">12:13</a></b> The rule for inheritance was given in <a class=\"bibleref\" href=\"/passage/?search=Deut 21:17\">Deut. 21:17</a>, and cases in dispute were often settled by rabbis. This man clearly wanted only a decision in his favor; he was not seeking a just arbitration.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,12,22", "luke,12,23", "luke,12,24" ],
+  "verses" : [ {
+    "verse" : "luke,12,22",
+    "text" : "Then Jesus said to his disciples: \"Therefore I tell you, do not worry about your life, what you will eat; or about your body, what you will wear."
+  }, {
+    "verse" : "luke,12,23",
+    "text" : "Life is more than food, and the body more than clothes."
+  }, {
+    "verse" : "luke,12,24",
+    "text" : "Consider the ravens: They do not sow or reap, they have no storeroom or barn; yet God feeds them. And how much more valuable you are than birds!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,12,22-luke,12,34",
     "id" : 196596,
@@ -26,7 +77,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 12:22-Luke 12:34\">12:22–34</a></b> Jesus provides four weighty arguments against anxiety. First, concern for worldly goods is foolish because life itself is more important (<a class=\"bibleref\" href=\"/passage/?search=Luke 12:23\">v. 23</a>). Second, God will take care of His own, just as He cares for the birds of the air (<a class=\"bibleref\" href=\"/passage/?search=Luke 12:24\">v. 24</a>). Third, anxiety accomplishes nothing (<a class=\"bibleref\" href=\"/passage/?search=Luke 12:25\">vv. 25</a>, <a class=\"bibleref\" href=\"/passage/?search=Luke 12:26\">26</a>). Finally, as heirs of the inexhaustible riches of the kingdom of God, believers should not worry about earthly details (<a class=\"bibleref\" href=\"/passage/?search=Luke 12:32\">vv. 32</a>, <a class=\"bibleref\" href=\"/passage/?search=Luke 12:33\">33</a>). Jesus calls His followers to order their priorities correctly by focusing their hearts on the kingdom (<a class=\"bibleref\" href=\"/passage/?search=Luke 12:34\">v. 34</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,12,25", "luke,12,26" ],
+  "verses" : [ {
+    "verse" : "luke,12,25",
+    "text" : "Who of you by worrying can add a single hour to his life?"
+  }, {
+    "verse" : "luke,12,26",
+    "text" : "Since you cannot do this very little thing, why do you worry about the rest?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,12,25",
     "id" : 196597,
@@ -34,7 +91,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 12:25\">12:25 a</a></b> <b>single hour to his span of life.</b> Or, “make his life any longer.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,12,27", "luke,12,28", "luke,12,29", "luke,12,30" ],
+  "verses" : [ {
+    "verse" : "luke,12,27",
+    "text" : "\"Consider how the lilies grow. They do not labor or spin. Yet I tell you, not even Solomon in all his splendor was dressed like one of these."
+  }, {
+    "verse" : "luke,12,28",
+    "text" : "If that is how God clothes the grass of the field, which is here today, and tomorrow is thrown into the fire, how much more will he clothe you, O you of little faith!"
+  }, {
+    "verse" : "luke,12,29",
+    "text" : "And do not set your heart on what you will eat or drink; do not worry about it."
+  }, {
+    "verse" : "luke,12,30",
+    "text" : "For the pagan world runs after all such things, and your Father knows that you need them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,12,27",
     "id" : 196598,
@@ -42,7 +111,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 12:27\">12:27</a></b> <b>lilies.</b> It is not certain what precise flower is meant.</p><p><b>Solomon.</b> Solomon was proverbial for his wealth and splendor.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,12,31", "luke,12,32" ],
+  "verses" : [ {
+    "verse" : "luke,12,31",
+    "text" : "But seek his kingdom, and these things will be given to you as well."
+  }, {
+    "verse" : "luke,12,32",
+    "text" : "\"Do not be afraid, little flock, for your Father has been pleased to give you the kingdom."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,12,31",
     "id" : 196599,
@@ -50,7 +125,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 12:31\">12:31</a></b> <b>seek his kingdom.</b> The disciples were already in the kingdom. Therefore they should concentrate their energies on the interests of that kingdom.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,12,33", "luke,12,34" ],
+  "verses" : [ {
+    "verse" : "luke,12,33",
+    "text" : "Sell your possessions and give to the poor. Provide purses for yourselves that will not wear out, a treasure in heaven that will not be exhausted, where no thief comes near and no moth destroys."
+  }, {
+    "verse" : "luke,12,34",
+    "text" : "For where your treasure is, there your heart will be also."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,12,33",
     "id" : 196600,

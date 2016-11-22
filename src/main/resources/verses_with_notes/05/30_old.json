@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "2samuel,15,23" ],
+  "verses" : [ {
+    "verse" : "2samuel,15,23",
+    "text" : "The whole countryside wept aloud as all the people passed by. The king also crossed the Kidron Valley, and all the people moved on toward the desert."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,15,23",
     "id" : 187935,
@@ -7,7 +10,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 15:23\">15:23</a></b> <b>brook Kidron.</b> A valley running from north to south along the eastern side of Jerusalem and separating Jerusalem from the Mount of Olives.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,15,24" ],
+  "verses" : [ {
+    "verse" : "2samuel,15,24",
+    "text" : "Zadok was there, too, and all the Levites who were with him were carrying the ark of the covenant of God. They set down the ark of God, and Abiathar offered sacrifices until all the people had finished leaving the city."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,15,24",
     "id" : 187936,
@@ -15,7 +21,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 15:24\">15:24</a></b> <b>Abiathar . . . Zadok.</b> See note <a class=\"bibleref\" href=\"/passage/?search=2Sam 8:17\">8:17</a>.</p><p><b>ark of the covenant of God.</b> See notes <a class=\"bibleref\" href=\"/passage/?search=1Sam 3:3\">1 Sam. 3:3</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 4:3\">4:3</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,15,25" ],
+  "verses" : [ {
+    "verse" : "2samuel,15,25",
+    "text" : "Then the king said to Zadok, \"Take the ark of God back into the city. If I find favor in the LORD's eyes, he will bring me back and let me see it and his dwelling place again."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,15,25",
     "id" : 187937,
@@ -23,7 +32,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 15:25\">15:25</a></b> <b>Carry the ark of God back.</b> David clearly resists any magical understanding of the ark’s power (contrast the elders of Israel, <a class=\"bibleref\" href=\"/passage/?search=1Sam 4:3\">1 Sam. 4:3</a>). Rather, he casts himself on the Lord’s mercy.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,15,26" ],
+  "verses" : [ {
+    "verse" : "2samuel,15,26",
+    "text" : "But if he says, 'I am not pleased with you,' then I am ready; let him do to me whatever seems good to him.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,15,26",
     "id" : 187938,
@@ -31,7 +43,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 15:26\">15:26</a></b> <b>let him do to me what seems good to him.</b> David humbly accepts the Lord’s will (<a class=\"bibleref\" href=\"/passage/?search=2Sam 10:12\">10:12</a> note; <a class=\"bibleref\" href=\"/passage/?search=1Sam 3:18\">1 Sam. 3:18</a>), yet this does not prevent him from taking steps to secure his survival (vv. 28, 32–36).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,15,27" ],
+  "verses" : [ {
+    "verse" : "2samuel,15,27",
+    "text" : "The king also said to Zadok the priest, \"Aren't you a seer? Go back to the city in peace, with your son Ahimaaz and Jonathan son of Abiathar. You and Abiathar take your two sons with you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,15,27",
     "id" : 187939,
@@ -39,7 +54,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 15:27\">15:27</a></b> <b>Go back to the city.</b> Zadok, Abiathar, and their sons will prove useful to David’s cause in <a class=\"bibleref\" href=\"/passage/?search=2Sam 17:15-2Sam 17:21\">17:15–21</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,15,28", "2samuel,15,29" ],
+  "verses" : [ {
+    "verse" : "2samuel,15,28",
+    "text" : "I will wait at the fords in the desert until word comes from you to inform me.\""
+  }, {
+    "verse" : "2samuel,15,29",
+    "text" : "So Zadok and Abiathar took the ark of God back to Jerusalem and stayed there."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,15,28",
     "id" : 187940,
@@ -47,7 +68,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 15:28\">15:28</a></b> <b>fords of the wilderness.</b> Probably the region along the western shore of the Dead Sea; see <a class=\"bibleref\" href=\"/passage/?search=2Sam 17:16\">17:16</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,15,30", "2samuel,15,31" ],
+  "verses" : [ {
+    "verse" : "2samuel,15,30",
+    "text" : "But David continued up the Mount of Olives, weeping as he went; his head was covered and he was barefoot. All the people with him covered their heads too and were weeping as they went up."
+  }, {
+    "verse" : "2samuel,15,31",
+    "text" : "Now David had been told, \"Ahithophel is among the conspirators with Absalom.\" So David prayed, \"O LORD, turn Ahithophel's counsel into foolishness.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,15,30",
     "id" : 187941,
@@ -55,7 +82,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 15:30\">15:30</a></b> <b>Mount of Olives.</b> See note on <a class=\"bibleref\" href=\"/passage/?search=2Sam 15:23\">v. 23</a>.</p><p><b>barefoot . . . head covered.</b> These are signs of grief and sorrow (<a class=\"bibleref\" href=\"/passage/?search=Esth 6:12\">Esth. 6:12</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 20:2-Isa 20:4\">Is. 20:2–4</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 14:3\">Jer. 14:3</a>, <a class=\"bibleref\" href=\"/passage/?search=Jer 14:4\">4</a>; <a class=\"bibleref\" href=\"/passage/?search=Mic 1:8\">Mic. 1:8</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,15,32", "2samuel,15,33", "2samuel,15,34", "2samuel,15,35", "2samuel,15,36" ],
+  "verses" : [ {
+    "verse" : "2samuel,15,32",
+    "text" : "When David arrived at the summit, where people used to worship God, Hushai the Arkite was there to meet him, his robe torn and dust on his head."
+  }, {
+    "verse" : "2samuel,15,33",
+    "text" : "David said to him, \"If you go with me, you will be a burden to me."
+  }, {
+    "verse" : "2samuel,15,34",
+    "text" : "But if you return to the city and say to Absalom, 'I will be your servant, O king; I was your father's servant in the past, but now I will be your servant,' then you can help me by frustrating Ahithophel's advice."
+  }, {
+    "verse" : "2samuel,15,35",
+    "text" : "Won't the priests Zadok and Abiathar be there with you? Tell them anything you hear in the king's palace."
+  }, {
+    "verse" : "2samuel,15,36",
+    "text" : "Their two sons, Ahimaaz son of Zadok and Jonathan son of Abiathar, are there with them. Send them to me with anything you hear.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,15,32",
     "id" : 187942,
@@ -63,7 +105,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 15:32\">15:32</a></b> <b>Hushai.</b> No sooner does David pray that Ahithophel’s counsel be confounded than he is presented, in the person of Hushai, with the means of accomplishing his objective.</p><p><b>the Archite.</b> The Archites were of Canaanite descent (<a class=\"bibleref\" href=\"/passage/?search=Gen 10:15-Gen 10:17\">Gen. 10:15-17</a>) and their territory was west of Bethel (<a class=\"bibleref\" href=\"/passage/?search=Josh 16:2\">Josh. 16:2</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,15,37" ],
+  "verses" : [ {
+    "verse" : "2samuel,15,37",
+    "text" : "So David's friend Hushai arrived at Jerusalem as Absalom was entering the city."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,15,37",
     "id" : 187943,
@@ -71,7 +116,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 15:37\">15:37</a></b> <b>Hushai, David’s friend.</b> Probably an official counselor. See <a class=\"bibleref\" href=\"/passage/?search=1Chr 27:33\">1 Chr. 27:33</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,16,1", "2samuel,16,2", "2samuel,16,3" ],
+  "verses" : [ {
+    "verse" : "2samuel,16,1",
+    "text" : "When David had gone a short distance beyond the summit, there was Ziba, the steward of Mephibosheth, waiting to meet him. He had a string of donkeys saddled and loaded with two hundred loaves of bread, a hundred cakes of raisins, a hundred cakes of figs and a skin of wine."
+  }, {
+    "verse" : "2samuel,16,2",
+    "text" : "The king asked Ziba, \"Why have you brought these?\" Ziba answered, \"The donkeys are for the king's household to ride on, the bread and fruit are for the men to eat, and the wine is to refresh those who become exhausted in the desert.\""
+  }, {
+    "verse" : "2samuel,16,3",
+    "text" : "The king then asked, \"Where is your master's grandson?\" Ziba said to him, \"He is staying in Jerusalem, because he thinks, 'Today the house of Israel will give me back my grandfather's kingdom.'\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,16,1",
     "id" : 187944,
@@ -79,7 +133,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 16:1\">16:1</a></b> <b>Mephibosheth.</b> See note <a class=\"bibleref\" href=\"/passage/?search=2Sam 4:4\">4:4</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,16,4" ],
+  "verses" : [ {
+    "verse" : "2samuel,16,4",
+    "text" : "Then the king said to Ziba, \"All that belonged to Mephibosheth is now yours.I humbly bow,\" Ziba said. \"May I find favor in your eyes, my lord the king.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,16,4",
     "id" : 187945,
@@ -87,7 +144,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 16:4\">16:4</a></b> <b>all that belonged to Mephibosheth is now yours.</b> While David appears to believe Ziba’s tale of Mephibosheth’s treachery, he will change his ruling after hearing Mephibosheth’s side of the story (<a class=\"bibleref\" href=\"/passage/?search=2Sam 19:24-2Sam 19:30\">19:24–30</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,16,5", "2samuel,16,6", "2samuel,16,7" ],
+  "verses" : [ {
+    "verse" : "2samuel,16,5",
+    "text" : "As King David approached Bahurim, a man from the same clan as Saul's family came out from there. His name was Shimei son of Gera, and he cursed as he came out."
+  }, {
+    "verse" : "2samuel,16,6",
+    "text" : "He pelted David and all the king's officials with stones, though all the troops and the special guard were on David's right and left."
+  }, {
+    "verse" : "2samuel,16,7",
+    "text" : "As he cursed, Shimei said, \"Get out, get out, you man of blood, you scoundrel!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,16,5",
     "id" : 187946,
@@ -95,7 +161,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 16:5\">16:5</a></b> <b>Bahurim.</b> See note <a class=\"bibleref\" href=\"/passage/?search=2Sam 3:16\">3:16</a>.</p><p><b>Shimei.</b> As a kinsman of Saul, Shimei may have held David responsible for the deaths of Abner and Ish-bosheth (<a class=\"bibleref\" href=\"/passage/?search=2Sam 3:7\">vv. 7</a>, <a class=\"bibleref\" href=\"/passage/?search=2Sam 3:8\">8</a>; on David’s innocence, see <a class=\"bibleref\" href=\"/passage/?search=2Sam 3:21\">3:21</a>, <a class=\"bibleref\" href=\"/passage/?search=2Sam 3:26\">26</a>, <a class=\"bibleref\" href=\"/passage/?search=2Sam 3:28\">28</a>; <a class=\"bibleref\" href=\"/passage/?search=2Sam 4:9\">4:9</a>, <a class=\"bibleref\" href=\"/passage/?search=2Sam 4:12\">12</a> and notes). He may also have resented David’s permitting seven of Saul’s descendants to be executed by the Gibeonites (<a class=\"bibleref\" href=\"/passage/?search=2Sam 21:1\">21:1</a> note). As a resident of Bahurim, moreover, Shimei may have been upset by David’s treatment of Michal, Saul’s daughter, for it was there that her second husband was ordered to cease following her as she was being taken back to David (<a class=\"bibleref\" href=\"/passage/?search=2Sam 3:16\">3:16</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,16,8" ],
+  "verses" : [ {
+    "verse" : "2samuel,16,8",
+    "text" : "The LORD has repaid you for all the blood you shed in the household of Saul, in whose place you have reigned. The LORD has handed the kingdom over to your son Absalom. You have come to ruin because you are a man of blood!\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,16,8",
     "id" : 187947,
@@ -103,7 +172,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 16:8\">16:8</a></b> <b>The <span class=\"small-caps\">Lord</span> has avenged on you.</b> Shimei is correct that divine retribution plays a part in David’s distress, but it is not because of any injustice to the house of Saul. It was the result of David’s sin against Uriah and Bathsheba (<a class=\"bibleref\" href=\"/passage/?search=2Sam 12:11\">12:11</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,16,9", "2samuel,16,10" ],
+  "verses" : [ {
+    "verse" : "2samuel,16,9",
+    "text" : "Then Abishai son of Zeruiah said to the king, \"Why should this dead dog curse my lord the king? Let me go over and cut off his head.\""
+  }, {
+    "verse" : "2samuel,16,10",
+    "text" : "But the king said, \"What do you and I have in common, you sons of Zeruiah? If he is cursing because the LORD said to him, 'Curse David,' who can ask, 'Why do you do this?'\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,16,9",
     "id" : 187948,
@@ -111,7 +186,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 16:9\">16:9</a></b> <b>Abishai the son of Zeruiah.</b> See note <a class=\"bibleref\" href=\"/passage/?search=2Sam 2:18\">2:18</a>.</p><p><b>dead dog.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Sam 24:14\">1 Sam. 24:14</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,16,11", "2samuel,16,12", "2samuel,16,13", "2samuel,16,14" ],
+  "verses" : [ {
+    "verse" : "2samuel,16,11",
+    "text" : "David then said to Abishai and all his officials, \"My son, who is of my own flesh, is trying to take my life. How much more, then, this Benjamite! Leave him alone; let him curse, for the LORD has told him to."
+  }, {
+    "verse" : "2samuel,16,12",
+    "text" : "It may be that the LORD will see my distress and repay me with good for the cursing I am receiving today.\""
+  }, {
+    "verse" : "2samuel,16,13",
+    "text" : "So David and his men continued along the road while Shimei was going along the hillside opposite him, cursing as he went and throwing stones at him and showering him with dirt."
+  }, {
+    "verse" : "2samuel,16,14",
+    "text" : "The king and all the people with him arrived at their destination exhausted. And there he refreshed himself."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,16,11",
     "id" : 187949,
@@ -119,7 +206,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 16:11\">16:11</a></b> <b>let him curse.</b> David refuses to silence Shimei for several reasons. The Lord has prompted him to curse (<a class=\"bibleref\" href=\"/passage/?search=2Sam 16:10\">v. 10</a>); if his own son wants to kill him, how much more a kinsman of Saul; if the cursing is unjust, the Lord may repay David with good (<a class=\"bibleref\" href=\"/passage/?search=2Sam 16:12\">v. 12</a>). David’s ready submission to God’s judgment is consistent with his character (<a class=\"bibleref\" href=\"/passage/?search=2Sam 12:20-2Sam 12:23\">12:20–23</a>; <a class=\"bibleref\" href=\"/passage/?search=2Sam 15:26\">15:26</a>) and reminiscent of Eli (<a class=\"bibleref\" href=\"/passage/?search=1Sam 3:18\">1 Sam. 3:18</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,16,15" ],
+  "verses" : [ {
+    "verse" : "2samuel,16,15",
+    "text" : "Meanwhile, Absalom and all the men of Israel came to Jerusalem, and Ahithophel was with him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,16,15",
     "id" : 187950,
@@ -127,7 +217,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 16:15\">16:15</a></b> <b>Ahithophel.</b> See note <a class=\"bibleref\" href=\"/passage/?search=2Sam 11:3\">11:3</a> (“Eliam”).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,16,16" ],
+  "verses" : [ {
+    "verse" : "2samuel,16,16",
+    "text" : "Then Hushai the Arkite, David's friend, went to Absalom and said to him, \"Long live the king! Long live the king!\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,16,16",
     "id" : 187951,
@@ -135,7 +228,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 16:16\">16:16</a></b> <b>Hushai the Archite.</b> See note <a class=\"bibleref\" href=\"/passage/?search=2Sam 15:32\">15:32</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,16,17", "2samuel,16,18", "2samuel,16,19", "2samuel,16,20" ],
+  "verses" : [ {
+    "verse" : "2samuel,16,17",
+    "text" : "Absalom asked Hushai, \"Is this the love you show your friend? Why didn't you go with your friend?\""
+  }, {
+    "verse" : "2samuel,16,18",
+    "text" : "Hushai said to Absalom, \"No, the one chosen by the LORD, by these people, and by all the men of Israel-his I will be, and I will remain with him."
+  }, {
+    "verse" : "2samuel,16,19",
+    "text" : "Furthermore, whom should I serve? Should I not serve the son? Just as I served your father, so I will serve you.\""
+  }, {
+    "verse" : "2samuel,16,20",
+    "text" : "Absalom said to Ahithophel, \"Give us your advice. What should we do?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,16,17-2samuel,16,19",
     "id" : 187952,
@@ -143,7 +248,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 16:17-2Sam 16:19\">16:17–19</a></b> Absalom’s suspicion of David’s “friend” (<a class=\"bibleref\" href=\"/passage/?search=2Sam 16:16\">v. 16</a>; <a class=\"bibleref\" href=\"/passage/?search=2Sam 15:37\">15:37</a>) elicits from him a clever reply that he will be loyal to the one whom the Lord and all Israel have chosen. Moreover, it is a natural thing for one who served a father to serve his son also.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,16,21" ],
+  "verses" : [ {
+    "verse" : "2samuel,16,21",
+    "text" : "Ahithophel answered, \"Lie with your father's concubines whom he left to take care of the palace. Then all Israel will hear that you have made yourself a stench in your father's nostrils, and the hands of everyone with you will be strengthened.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,16,21",
     "id" : 187953,
@@ -151,7 +259,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 16:21\">16:21</a></b> <b>Go in to your father’s concubines.</b> To remove any thought among Absalom’s followers of a reconciliation with David, Ahithophel counsels Absalom to lie with David’s concubines who had been left behind (<a class=\"bibleref\" href=\"/passage/?search=2Sam 15:16\">15:16</a>). This would make clear Absalom’s desire for the throne (<a class=\"bibleref\" href=\"/passage/?search=2Sam 3:7\">3:7</a> note; <a class=\"bibleref\" href=\"/passage/?search=2Sam 12:8\">12:8</a> note; <a class=\"bibleref\" href=\"/passage/?search=1Kgs 2:22\">1 Kin. 2:22</a>). Whatever the motivation, such behavior was detestable to God (<a class=\"bibleref\" href=\"/passage/?search=Lev 18\">Lev. 18</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,16,22", "2samuel,16,23" ],
+  "verses" : [ {
+    "verse" : "2samuel,16,22",
+    "text" : "So they pitched a tent for Absalom on the roof, and he lay with his father's concubines in the sight of all Israel."
+  }, {
+    "verse" : "2samuel,16,23",
+    "text" : "Now in those days the advice Ahithophel gave was like that of one who inquires of God. That was how both David and Absalom regarded all of Ahithophel's advice."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,16,22",
     "id" : 187954,

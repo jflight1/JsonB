@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,21,17" ],
+  "verses" : [ {
+    "verse" : "proverbs,21,17",
+    "text" : "He who loves pleasure will become poor; whoever loves wine and oil will never be rich."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 21:17\">21:17</a></b> <b>wine and oil.</b> The words suggest extravagance, especially in feasting.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,21,18" ],
+  "verses" : [ {
+    "verse" : "proverbs,21,18",
+    "text" : "The wicked become a ransom for the righteous, and the unfaithful for the upright."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,21,18",
     "id" : 192133,

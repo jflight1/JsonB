@@ -1,8 +1,35 @@
 [ {
-  "singleVerses" : [ "matthew,28,1", "matthew,28,2", "matthew,28,3", "matthew,28,4", "matthew,28,5" ],
+  "verses" : [ {
+    "verse" : "matthew,28,1",
+    "text" : "After the Sabbath, at dawn on the first day of the week, Mary Magdalene and the other Mary went to look at the tomb."
+  }, {
+    "verse" : "matthew,28,2",
+    "text" : "There was a violent earthquake, for an angel of the Lord came down from heaven and, going to the tomb, rolled back the stone and sat on it."
+  }, {
+    "verse" : "matthew,28,3",
+    "text" : "His appearance was like lightning, and his clothes were white as snow."
+  }, {
+    "verse" : "matthew,28,4",
+    "text" : "The guards were so afraid of him that they shook and became like dead men."
+  }, {
+    "verse" : "matthew,28,5",
+    "text" : "The angel said to the women, \"Do not be afraid, for I know that you are looking for Jesus, who was crucified."
+  } ],
   "rsbNotes" : [ ]
 }, {
-  "singleVerses" : [ "matthew,28,6", "matthew,28,7", "matthew,28,8", "matthew,28,9" ],
+  "verses" : [ {
+    "verse" : "matthew,28,6",
+    "text" : "He is not here; he has risen, just as he said. Come and see the place where he lay."
+  }, {
+    "verse" : "matthew,28,7",
+    "text" : "Then go quickly and tell his disciples: 'He has risen from the dead and is going ahead of you into Galilee. There you will see him.' Now I have told you.\""
+  }, {
+    "verse" : "matthew,28,8",
+    "text" : "So the women hurried away from the tomb, afraid yet filled with joy, and ran to tell his disciples."
+  }, {
+    "verse" : "matthew,28,9",
+    "text" : "Suddenly Jesus met them. \"Greetings,\" he said. They came to him, clasped his feet and worshiped him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,28,6",
     "id" : 195953,
@@ -10,7 +37,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 28:6\">28:6</a></b> <b>has risen.</b> See “The Resurrection of Jesus” at <a class=\"bibleref\" href=\"/passage/?search=Luke 24:2\">Luke 24:2</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,28,10" ],
+  "verses" : [ {
+    "verse" : "matthew,28,10",
+    "text" : "Then Jesus said to them, \"Do not be afraid. Go and tell my brothers to go to Galilee; there they will see me.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,28,10",
     "id" : 195954,
@@ -18,7 +48,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 28:10\">28:10</a></b> <b>my brothers.</b> All Jesus’ disciples (<a class=\"bibleref\" href=\"/passage/?search=Matt 12:49\">12:49</a>, <a class=\"bibleref\" href=\"/passage/?search=Matt 12:50\">50</a>; <a class=\"bibleref\" href=\"/passage/?search=Matt 25:40\">25:40</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,28,11", "matthew,28,12", "matthew,28,13", "matthew,28,14", "matthew,28,15", "matthew,28,16", "matthew,28,17" ],
+  "verses" : [ {
+    "verse" : "matthew,28,11",
+    "text" : "While the women were on their way, some of the guards went into the city and reported to the chief priests everything that had happened."
+  }, {
+    "verse" : "matthew,28,12",
+    "text" : "When the chief priests had met with the elders and devised a plan, they gave the soldiers a large sum of money,"
+  }, {
+    "verse" : "matthew,28,13",
+    "text" : "telling them, \"You are to say, 'His disciples came during the night and stole him away while we were asleep.'"
+  }, {
+    "verse" : "matthew,28,14",
+    "text" : "If this report gets to the governor, we will satisfy him and keep you out of trouble.\""
+  }, {
+    "verse" : "matthew,28,15",
+    "text" : "So the soldiers took the money and did as they were instructed. And this story has been widely circulated among the Jews to this very day."
+  }, {
+    "verse" : "matthew,28,16",
+    "text" : "Then the eleven disciples went to Galilee, to the mountain where Jesus had told them to go."
+  }, {
+    "verse" : "matthew,28,17",
+    "text" : "When they saw him, they worshiped him; but some doubted."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,28,11-matthew,28,15",
     "id" : 195955,
@@ -26,7 +77,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 28:11-Matt 28:15\">28:11–15</a></b> This incident shows that clear evidence may have no effect on those who are committed to unbelief. That the story of the disciples stealing Jesus’ body was still circulated in the days of Justin Martyr (c. 160) indicates something of the desperation felt by Jewish leaders in explaining the empty tomb.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,28,18" ],
+  "verses" : [ {
+    "verse" : "matthew,28,18",
+    "text" : "Then Jesus came to them and said, \"All authority in heaven and on earth has been given to me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,28,18",
     "id" : 195956,
@@ -34,7 +88,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 28:18\">28:18</a></b> Jesus now has “all authority.” The Son of Man has come before the Ancient of Days and received the promised dominion (<a class=\"bibleref\" href=\"/passage/?search=Dan 7:13\">Dan. 7:13</a>, <a class=\"bibleref\" href=\"/passage/?search=Dan 7:14\">14</a>). The last stage of history has begun, but it will not be completed until Christ comes to earth in glory (26:64). See “Jesus’ Heavenly Reign” at <a class=\"bibleref\" href=\"/passage/?search=Acts 7:55\">Acts 7:55</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,28,19" ],
+  "verses" : [ {
+    "verse" : "matthew,28,19",
+    "text" : "Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,28,19",
     "id" : 195957,
@@ -42,7 +99,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 28:19\">28:19</a></b> <b>Go therefore.</b> The Great Commission is given on Christ’s authority. Since Christ’s dominion is universal, the gospel must go to the whole world. This commandment is the primary reason for evangelism and missions.</p><p><b>nations.</b> The same Greek word often translated “Gentiles.” The great promise that in Abraham all the nations would be blessed (<a class=\"bibleref\" href=\"/passage/?search=Gen 12:3\">Gen. 12:3</a>) is ready to be fulfilled.</p><p><b>baptizing them.</b> See note 3:6. Those who become disciples are baptized in (lit. “into”) the triune name. There is one name (not “names”), and one baptism; Father, Son, and Spirit are one God. Disciples are baptized “in” this name because they belong to God, having been brought into the new covenant that expresses the will of the triune God. See theological note “The Sacraments.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,28,20" ],
+  "verses" : [ {
+    "verse" : "matthew,28,20",
+    "text" : "and teaching them to obey everything I have commanded you. And surely I am with you always, to the very end of the age.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,28,20",
     "id" : 195958,

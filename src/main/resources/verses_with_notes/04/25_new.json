@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "luke,22,35" ],
+  "verses" : [ {
+    "verse" : "luke,22,35",
+    "text" : "Then Jesus asked them, \"When I sent you without purse, bag or sandals, did you lack anything?Nothing,\" they answered."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,22,35-luke,22,36",
     "id" : 196798,
@@ -7,7 +10,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 22:35\">22:35</a>, <a class=\"bibleref\" href=\"/passage/?search=Luke 22:36\">36</a></b> The future will not be as easy for the disciples as the past.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,22,36", "luke,22,37" ],
+  "verses" : [ {
+    "verse" : "luke,22,36",
+    "text" : "He said to them, \"But now if you have a purse, take it, and also a bag; and if you don't have a sword, sell your cloak and buy one."
+  }, {
+    "verse" : "luke,22,37",
+    "text" : "It is written: 'And he was numbered with the transgressors'; and I tell you that this must be fulfilled in me. Yes, what is written about me is reaching its fulfillment.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,22,36",
     "id" : 196799,
@@ -15,7 +24,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 22:36\">22:36</a></b> <b>sword.</b> This is probably not meant literally (cf. <a class=\"bibleref\" href=\"/passage/?search=Luke 22:49-Luke 22:51\">vv. 49–51</a>; <a class=\"bibleref\" href=\"/passage/?search=Matt 26:51\">Matt. 26:51</a>, <a class=\"bibleref\" href=\"/passage/?search=Matt 26:52\">52</a>), but is a way of saying that they face a dangerous future. Jesus Himself faces the fulfillment of <a class=\"bibleref\" href=\"/passage/?search=Isa 53:12\">Is. 53:12</a> and His followers will surely experience resistance and persecution.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,22,38", "luke,22,39" ],
+  "verses" : [ {
+    "verse" : "luke,22,38",
+    "text" : "The disciples said, \"See, Lord, here are two swords.That is enough,\" he replied."
+  }, {
+    "verse" : "luke,22,39",
+    "text" : "Jesus went out as usual to the Mount of Olives, and his disciples followed him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,22,38",
     "id" : 196800,
@@ -23,7 +38,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 22:38\">22:38</a></b> <b>enough.</b> The disciples take the words about the sword literally, and Jesus’ reply means, “Enough of that sort of talk.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,22,40" ],
+  "verses" : [ {
+    "verse" : "luke,22,40",
+    "text" : "On reaching the place, he said to them, \"Pray that you will not fall into temptation.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,22,40",
     "id" : 196801,
@@ -31,7 +49,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 22:40\">22:40</a></b> <b>the place.</b> Gethsemane (<a class=\"bibleref\" href=\"/passage/?search=Mark 14:32\">Mark 14:32</a>), an olive grove (<a class=\"bibleref\" href=\"/passage/?search=John 18:1\">John 18:1</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,22,41" ],
+  "verses" : [ {
+    "verse" : "luke,22,41",
+    "text" : "He withdrew about a stone's throw beyond them, knelt down and prayed,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,22,41",
     "id" : 196802,
@@ -39,7 +60,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 22:41\">22:41</a></b> Luke’s account does not mention Peter, James, and John (who slept while Jesus prayed). Luke’s emphasis is on Jesus’ prayer, not the disciples’ failings. People generally prayed standing (<a class=\"bibleref\" href=\"/passage/?search=Luke 18:11\">18:11</a>, <a class=\"bibleref\" href=\"/passage/?search=Luke 18:13\">13</a>), but at this solemn time Jesus knelt.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,22,42" ],
+  "verses" : [ {
+    "verse" : "luke,22,42",
+    "text" : "\"Father, if you are willing, take this cup from me; yet not my will, but yours be done.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,22,42",
     "id" : 196803,
@@ -47,7 +71,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 22:42\">22:42</a></b> <b>this cup.</b> A symbol of suffering and divine anger (<a class=\"bibleref\" href=\"/passage/?search=Isa 51:17\">Is. 51:17</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 23:33\">Ezek. 23:33</a>).</p><p><b>not my will.</b> As One who had taken upon Himself a complete human nature, it was natural for Jesus to shrink from the horror of the Cross, a horror magnified by His knowledge that in dying He would be forsaken by God and experience the weight of divine anger on sin. Nevertheless, Jesus is determined to follow the will of His Father.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,22,43", "luke,22,44", "luke,22,45", "luke,22,46" ],
+  "verses" : [ {
+    "verse" : "luke,22,43",
+    "text" : "An angel from heaven appeared to him and strengthened him."
+  }, {
+    "verse" : "luke,22,44",
+    "text" : "And being in anguish, he prayed more earnestly, and his sweat was like drops of blood falling to the ground."
+  }, {
+    "verse" : "luke,22,45",
+    "text" : "When he rose from prayer and went back to the disciples, he found them asleep, exhausted from sorrow."
+  }, {
+    "verse" : "luke,22,46",
+    "text" : "\"Why are you sleeping?\" he asked them. \"Get up and pray so that you will not fall into temptation.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,22,43-luke,22,44",
     "id" : 196804,
@@ -55,7 +91,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 22:43\">22:43</a>, <a class=\"bibleref\" href=\"/passage/?search=Luke 22:44\">44</a></b> Luke alone tells of the angel who strengthened Jesus and of the sweat “like great drops of blood.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,22,47", "luke,22,48", "luke,22,49", "luke,22,50", "luke,22,51", "luke,22,52" ],
+  "verses" : [ {
+    "verse" : "luke,22,47",
+    "text" : "While he was still speaking a crowd came up, and the man who was called Judas, one of the Twelve, was leading them. He approached Jesus to kiss him,"
+  }, {
+    "verse" : "luke,22,48",
+    "text" : "but Jesus asked him, \"Judas, are you betraying the Son of Man with a kiss?\""
+  }, {
+    "verse" : "luke,22,49",
+    "text" : "When Jesus' followers saw what was going to happen, they said, \"Lord, should we strike with our swords?\""
+  }, {
+    "verse" : "luke,22,50",
+    "text" : "And one of them struck the servant of the high priest, cutting off his right ear."
+  }, {
+    "verse" : "luke,22,51",
+    "text" : "But Jesus answered, \"No more of this!\" And he touched the man's ear and healed him."
+  }, {
+    "verse" : "luke,22,52",
+    "text" : "Then Jesus said to the chief priests, the officers of the temple guard, and the elders, who had come for him, \"Am I leading a rebellion, that you have come with swords and clubs?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,22,47",
     "id" : 196805,
@@ -63,7 +117,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 22:47\">22:47</a></b> <b>kiss.</b> The kiss was a common greeting (<a class=\"bibleref\" href=\"/passage/?search=1Thess 5:26\">1 Thess. 5:26</a>), and to use it in this way was a horrible form of betrayal.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,22,53" ],
+  "verses" : [ {
+    "verse" : "luke,22,53",
+    "text" : "Every day I was with you in the temple courts, and you did not lay a hand on me. But this is your hour--when darkness reigns.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,22,53",
     "id" : 196806,

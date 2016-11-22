@@ -1,5 +1,14 @@
 [ {
-  "singleVerses" : [ "proverbs,24,23", "proverbs,24,24", "proverbs,24,25" ],
+  "verses" : [ {
+    "verse" : "proverbs,24,23",
+    "text" : "These also are sayings of the wise: To show partiality in judging is not good:"
+  }, {
+    "verse" : "proverbs,24,24",
+    "text" : "Whoever says to the guilty, \"You are innocent\"- peoples will curse him and nations denounce him."
+  }, {
+    "verse" : "proverbs,24,25",
+    "text" : "But it will go well with those who convict the guilty, and rich blessing will come upon them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,24,23-proverbs,24,25",
     "id" : 192222,

@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "luke,22,54" ],
+  "verses" : [ {
+    "verse" : "luke,22,54",
+    "text" : "Then seizing him, they led him away and took him into the house of the high priest. Peter followed at a distance."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,22,54",
     "id" : 196807,
@@ -7,7 +10,31 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 22:54\">22:54</a></b> <b>the high priest’s house.</b> Jesus was taken first to the high priest who had ordered His arrest. All four Gospels give more space to the trial than to the Crucifixion. They are answering questions about why the Jews condemned Jesus and why the Romans executed Him, and bringing out His identity as the Son of God and King of the Jews.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,22,55", "luke,22,56", "luke,22,57", "luke,22,58", "luke,22,59", "luke,22,60", "luke,22,61", "luke,22,62" ],
+  "verses" : [ {
+    "verse" : "luke,22,55",
+    "text" : "But when they had kindled a fire in the middle of the courtyard and had sat down together, Peter sat down with them."
+  }, {
+    "verse" : "luke,22,56",
+    "text" : "A servant girl saw him seated there in the firelight. She looked closely at him and said, \"This man was with him.\""
+  }, {
+    "verse" : "luke,22,57",
+    "text" : "But he denied it. \"Woman, I don't know him,\" he said."
+  }, {
+    "verse" : "luke,22,58",
+    "text" : "A little later someone else saw him and said, \"You also are one of them.Man, I am not!\" Peter replied."
+  }, {
+    "verse" : "luke,22,59",
+    "text" : "About an hour later another asserted, \"Certainly this fellow was with him, for he is a Galilean.\""
+  }, {
+    "verse" : "luke,22,60",
+    "text" : "Peter replied, \"Man, I don't know what you're talking about!\" Just as he was speaking, the rooster crowed."
+  }, {
+    "verse" : "luke,22,61",
+    "text" : "The Lord turned and looked straight at Peter. Then Peter remembered the word the Lord had spoken to him: \"Before the rooster crows today, you will disown me three times.\""
+  }, {
+    "verse" : "luke,22,62",
+    "text" : "And he went outside and wept bitterly."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,22,55-luke,22,62",
     "id" : 196808,
@@ -15,7 +42,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 22:55-Luke 22:62\">22:55–62</a></b> All four Gospels say that the first challenge came from a servant girl, but the second variously from the same girl (<a class=\"bibleref\" href=\"/passage/?search=Mark 14:69\">Mark 14:69</a>), a different girl (<a class=\"bibleref\" href=\"/passage/?search=Matt 26:71\">Matt. 26:71</a>), or a man (<a class=\"bibleref\" href=\"/passage/?search=Luke 22:58\">Luke 22:58</a>). Servants were around a fire in a courtyard; a challenge from any of them would be taken up by the others and there would have been several voices challenging Peter. The threefold denial fulfills the prediction of v. 34.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,22,63", "luke,22,64", "luke,22,65" ],
+  "verses" : [ {
+    "verse" : "luke,22,63",
+    "text" : "The men who were guarding Jesus began mocking and beating him."
+  }, {
+    "verse" : "luke,22,64",
+    "text" : "They blindfolded him and demanded, \"Prophesy! Who hit you?\""
+  }, {
+    "verse" : "luke,22,65",
+    "text" : "And they said many other insulting things to him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,22,63-luke,22,65",
     "id" : 196809,
@@ -23,7 +59,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 22:63-Luke 22:65\">22:63–65</a></b> Jesus was evidently left to a guard of soldiers who made sport of Him.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,22,66" ],
+  "verses" : [ {
+    "verse" : "luke,22,66",
+    "text" : "At daybreak the council of the elders of the people, both the chief priests and teachers of the law, met together, and Jesus was led before them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,22,66-luke,22,71",
     "id" : 196810,
@@ -36,7 +75,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 22:66\">22:66</a></b> <b>day.</b> Jewish trials had to be held in the daytime. Luke’s description of those present points to the Sanhedrin.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,22,67", "luke,22,68", "luke,22,69", "luke,22,70" ],
+  "verses" : [ {
+    "verse" : "luke,22,67",
+    "text" : "\"If you are the Christ, \"they said, \"tell us.\""
+  }, {
+    "verse" : "luke,22,68",
+    "text" : "Jesus answered, \"If I tell you, you will not believe me, and if I asked you, you would not answer."
+  }, {
+    "verse" : "luke,22,69",
+    "text" : "But from now on, the Son of Man will be seated at the right hand of the mighty God.\""
+  }, {
+    "verse" : "luke,22,70",
+    "text" : "They all asked, \"Are you then the Son of God?\" He replied, \"You are right in saying I am.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,22,67-luke,22,69",
     "id" : 196812,
@@ -44,7 +95,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 22:67-Luke 22:69\">22:67–69</a></b> Luke does not speak of a formal accusation or of a trial according to proper procedure. The Sanhedrin simply required Jesus to incriminate Himself according to their understanding of the Messiah. This He declines to do, as they would not believe Him. But He does say that a change is coming (“from now on,” <a class=\"bibleref\" href=\"/passage/?search=Luke 22:69\">v. 69</a>) and that He will be in the place of highest honor in heaven.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,22,71" ],
+  "verses" : [ {
+    "verse" : "luke,22,71",
+    "text" : "Then they said, \"Why do we need any more testimony? We have heard it from his own lips.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,22,71",
     "id" : 196813,
@@ -52,7 +106,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 22:71\">22:71</a></b> Jesus had conceded to the Sanhedrin’s charge that He claimed to be the Son of God, and as far as they were concerned He was guilty of blasphemy (cf. <a class=\"bibleref\" href=\"/passage/?search=Matt 26:65\">Matt. 26:65</a>). Persuading the Romans would require a different charge, but for the Sanhedrin the matter was over. Jesus was guilty in their eyes, and it remained only to secure His execution.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,23,1" ],
+  "verses" : [ {
+    "verse" : "luke,23,1",
+    "text" : "Then the whole assembly rose and led him off to Pilate."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,23,1",
     "id" : 196814,
@@ -60,7 +117,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 23:1\">23:1</a></b> <b>the whole company.</b> All the members of the Sanhedrin were not needed, but their united front would impress Pilate with their seriousness.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,23,2" ],
+  "verses" : [ {
+    "verse" : "luke,23,2",
+    "text" : "And they began to accuse him, saying, \"We have found this man subverting our nation. He opposes payment of taxes to Caesar and claims to be Christ, a king.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,23,2",
     "id" : 196815,
@@ -68,7 +128,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 23:2\">23:2</a></b> <b>misleading our nation.</b> A curiously imprecise charge.</p><p><b>forbidding us to give tribute to Caesar.</b> Jesus did the opposite (<a class=\"bibleref\" href=\"/passage/?search=Luke 20:25\">20:25</a>).</p><p><b>saying that he . . . is Christ, a King.</b> Jesus specifically refused to use the title (<a class=\"bibleref\" href=\"/passage/?search=Luke 22:67\">22:67</a>, <a class=\"bibleref\" href=\"/passage/?search=Luke 22:68\">68</a>). All the charges were false.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,23,3", "luke,23,4" ],
+  "verses" : [ {
+    "verse" : "luke,23,3",
+    "text" : "So Pilate asked Jesus, \"Are you the king of the Jews?Yes, it is as you say,\" Jesus replied."
+  }, {
+    "verse" : "luke,23,4",
+    "text" : "Then Pilate announced to the chief priests and the crowd, \"I find no basis for a charge against this man.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,23,3",
     "id" : 196816,
@@ -76,7 +142,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 23:3\">23:3</a></b> <b>You have said so.</b> In one sense Jesus was King of the Jews, but in the sense in which Pilate understood the title He was not. His answer means something like “So you say” (cf. <a class=\"bibleref\" href=\"/passage/?search=John 18:33-John 18:38\">John 18:33–38</a>). From this reply Pilate concluded that Jesus was no revolutionary (v. 4).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,23,5", "luke,23,6", "luke,23,7", "luke,23,8" ],
+  "verses" : [ {
+    "verse" : "luke,23,5",
+    "text" : "But they insisted, \"He stirs up the people all over Judea by his teaching. He started in Galilee and has come all the way here.\""
+  }, {
+    "verse" : "luke,23,6",
+    "text" : "On hearing this, Pilate asked if the man was a Galilean."
+  }, {
+    "verse" : "luke,23,7",
+    "text" : "When he learned that Jesus was under Herod's jurisdiction, he sent him to Herod, who was also in Jerusalem at that time."
+  }, {
+    "verse" : "luke,23,8",
+    "text" : "When Herod saw Jesus, he was greatly pleased, because for a long time he had been wanting to see him. From what he had heard about him, he hoped to see him perform some miracle."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,23,5-luke,23,7",
     "id" : 196817,
@@ -84,7 +162,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 23:5-Luke 23:7\">23:5–7</a></b> In the Roman Empire, a trial was usually held in the province where the offense was committed, but it could be transferred to the province from which the accused came. Pilate seized on this to send Jesus to Herod. Only Luke mentions this.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,23,9", "luke,23,10" ],
+  "verses" : [ {
+    "verse" : "luke,23,9",
+    "text" : "He plied him with many questions, but Jesus gave him no answer."
+  }, {
+    "verse" : "luke,23,10",
+    "text" : "The chief priests and the teachers of the law were standing there, vehemently accusing him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,23,9",
     "id" : 196818,
@@ -92,7 +176,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 23:9\">23:9</a></b> <b>made no answer.</b> Herod was the only person to whom Jesus refused to speak.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,23,11", "luke,23,12" ],
+  "verses" : [ {
+    "verse" : "luke,23,11",
+    "text" : "Then Herod and his soldiers ridiculed and mocked him. Dressing him in an elegant robe, they sent him back to Pilate."
+  }, {
+    "verse" : "luke,23,12",
+    "text" : "That day Herod and Pilate became friends--before this they had been enemies."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,23,11",
     "id" : 196819,

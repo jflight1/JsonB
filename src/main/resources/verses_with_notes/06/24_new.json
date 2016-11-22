@@ -1,8 +1,26 @@
 [ {
-  "singleVerses" : [ "acts,15,36", "acts,15,37", "acts,15,38" ],
+  "verses" : [ {
+    "verse" : "acts,15,36",
+    "text" : "Some time later Paul said to Barnabas, \"Let us go back and visit the brothers in all the towns where we preached the word of the Lord and see how they are doing.\""
+  }, {
+    "verse" : "acts,15,37",
+    "text" : "Barnabas wanted to take John, also called Mark, with them,"
+  }, {
+    "verse" : "acts,15,38",
+    "text" : "but Paul did not think it wise to take him, because he had deserted them in Pamphylia and had not continued with them in the work."
+  } ],
   "rsbNotes" : [ ]
 }, {
-  "singleVerses" : [ "acts,15,39", "acts,15,40", "acts,15,41" ],
+  "verses" : [ {
+    "verse" : "acts,15,39",
+    "text" : "They had such a sharp disagreement that they parted company. Barnabas took Mark and sailed for Cyprus,"
+  }, {
+    "verse" : "acts,15,40",
+    "text" : "but Paul chose Silas and left, commended by the brothers to the grace of the Lord."
+  }, {
+    "verse" : "acts,15,41",
+    "text" : "He went through Syria and Cilicia, strengthening the churches."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,15,39",
     "id" : 197544,
@@ -10,7 +28,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 15:39\">15:39</a></b> <b>disagreement . . . separated.</b> The failure of Barnabas to support the Gentile Christians (<a class=\"bibleref\" href=\"/passage/?search=Gal 2:13\">Gal. 2:13</a>) may have also contributed to the disagreement about Mark. Though the remainder of Acts contains no further record of Paul working with Barnabas, Paul mentions Barnabas in a positive light in <a class=\"bibleref\" href=\"/passage/?search=1Cor 9:6\">1 Cor. 9:6</a>. Paul’s later high regard for Mark is evident in <a class=\"bibleref\" href=\"/passage/?search=Col 4:10\">Col. 4:10</a>; <a class=\"bibleref\" href=\"/passage/?search=Phlm 1:24\">Philem. 24</a>; <a class=\"bibleref\" href=\"/passage/?search=2Tim 4:11\">2 Tim. 4:11</a>.</p><p><b>Barnabas took Mark . . . Cyprus.</b> Barnabas took his cousin Mark (<a class=\"bibleref\" href=\"/passage/?search=Col 4:10\">Col. 4:10</a>) on a missionary journey to the island of Cyprus, Barnabas’s home. This would also provide an opportunity for Barnabas to encourage (4:36) the younger man.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,16,1", "acts,16,2", "acts,16,3", "acts,16,4", "acts,16,5" ],
+  "verses" : [ {
+    "verse" : "acts,16,1",
+    "text" : "He came to Derbe and then to Lystra, where a disciple named Timothy lived, whose mother was a Jewess and a believer, but whose father was a Greek."
+  }, {
+    "verse" : "acts,16,2",
+    "text" : "The brothers at Lystra and Iconium spoke well of him."
+  }, {
+    "verse" : "acts,16,3",
+    "text" : "Paul wanted to take him along on the journey, so he circumcised him because of the Jews who lived in that area, for they all knew that his father was a Greek."
+  }, {
+    "verse" : "acts,16,4",
+    "text" : "As they traveled from town to town, they delivered the decisions reached by the apostles and elders in Jerusalem for the people to obey."
+  }, {
+    "verse" : "acts,16,5",
+    "text" : "So the churches were strengthened in the faith and grew daily in numbers."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,16,1",
     "id" : 197545,
@@ -18,7 +51,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 16:1\">16:1</a></b> <b>A disciple . . . Timothy.</b> In the small Jewish community of Lystra Paul found this young man, part Jew and part Greek. Like his father, Timothy had been reared as a Greek, and so had not been circumcised. His mother was Jewish. Paul did not think he was compromising the principles of Gentile freedom by circumcising Timothy (<a class=\"bibleref\" href=\"/passage/?search=Acts 16:3\">v. 3</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,16,6" ],
+  "verses" : [ {
+    "verse" : "acts,16,6",
+    "text" : "Paul and his companions traveled throughout the region of Phrygia and Galatia, having been kept by the Holy Spirit from preaching the word in the province of Asia."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,16,6",
     "id" : 197546,
@@ -26,7 +62,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 16:6\">16:6</a></b> <b>Phrygia and Galatia.</b> This is the southern part of the larger province of Galatia. It included the Phrygian district, Antioch of Pisidia, and the surrounding area.</p><p><b>Holy Spirit . . . Asia.</b> The province of Asia, located in the western sector of Asia Minor, included the famous city of Ephesus where God wanted Paul to go at a later date (<a class=\"bibleref\" href=\"/passage/?search=Acts 19\">ch. 19</a>). The Holy Spirit’s identity coincides with both the Spirit of Jesus (v. 7) and God (v. 10; cf. <a class=\"bibleref\" href=\"/passage/?search=2Cor 3:17\">2 Cor. 3:17</a> note). These verses point to the Christian doctrine of the Trinity (cf. <a class=\"bibleref\" href=\"/passage/?search=2Cor 13:14\">2 Cor. 13:14</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,16,7", "acts,16,8" ],
+  "verses" : [ {
+    "verse" : "acts,16,7",
+    "text" : "When they came to the border of Mysia, they tried to enter Bithynia, but the Spirit of Jesus would not allow them to."
+  }, {
+    "verse" : "acts,16,8",
+    "text" : "So they passed by Mysia and went down to Troas."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,16,7-acts,16,8",
     "id" : 197547,
@@ -34,7 +76,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 16:7\">16:7</a>, <a class=\"bibleref\" href=\"/passage/?search=Acts 16:8\">8</a> Mysia . . . Troas.</b> Paul and Silas came from Derbe and Lystra northwest to Mysia, a region to the south of the Hellespont. They were unable to go north to Bithynia (toward the Black Sea), and instead went west to Troas on the Aegean coast. Troas was an established seaport; the site of ancient Troy was ten miles inland.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,16,9" ],
+  "verses" : [ {
+    "verse" : "acts,16,9",
+    "text" : "During the night Paul had a vision of a man of Macedonia standing and begging him, \"Come over to Macedonia and help us.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,16,9",
     "id" : 197548,
@@ -42,7 +87,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 16:9\">16:9</a></b> <b>Macedonia.</b> Macedonia was across the Aegean Sea from Troas. Mount Olympus is in the south of Macedonia.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,16,10" ],
+  "verses" : [ {
+    "verse" : "acts,16,10",
+    "text" : "After Paul had seen the vision, we got ready at once to leave for Macedonia, concluding that God had called us to preach the gospel to them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,16,10",
     "id" : 197549,
@@ -50,7 +98,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 16:10\">16:10</a></b> <b>we.</b> The first of several passages using the plural pronoun “we” starts here, indicating that the author was with Paul and Silas.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,16,11" ],
+  "verses" : [ {
+    "verse" : "acts,16,11",
+    "text" : "From Troas we put out to sea and sailed straight for Samothrace, and the next day on to Neapolis."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,16,11",
     "id" : 197550,
@@ -58,7 +109,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 16:11\">16:11</a></b> <b>Samothrace.</b> A prominent island in the north Aegean where vessels regularly stopped. It was about halfway between Troas and Neapolis, the seaport serving Philippi.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,16,12" ],
+  "verses" : [ {
+    "verse" : "acts,16,12",
+    "text" : "From there we traveled to Philippi, a Roman colony and the leading city of that district of Macedonia. And we stayed there several days."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,16,12",
     "id" : 197551,
@@ -66,7 +120,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 16:12\">16:12</a></b> <b>Philippi.</b> Philip II of Macedon, the father of Alexander the Great, had established a large Greek colony here and named it Philippi. The Romans conquered it in 167 <span class=\"small-caps\">b.c.</span> and made it part of the province of Macedonia.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,16,13" ],
+  "verses" : [ {
+    "verse" : "acts,16,13",
+    "text" : "On the Sabbath we went outside the city gate to the river, where we expected to find a place of prayer. We sat down and began to speak to the women who had gathered there."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,16,13",
     "id" : 197552,
@@ -74,7 +131,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 16:13\">16:13 a</a></b> <b>place of prayer.</b> According to Jewish law at least ten men were required to form a synagogue. Failing that, a place of prayer could be established outdoors, preferably near water.</p><p><b>women who had come together.</b> They would meet to read and study the Scriptures, and they welcomed the assistance of any Jewish teacher who happened to visit there.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,16,14" ],
+  "verses" : [ {
+    "verse" : "acts,16,14",
+    "text" : "One of those listening was a woman named Lydia, a dealer in purple cloth from the city of Thyatira, who was a worshiper of God. The Lord opened her heart to respond to Paul's message."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,16,14",
     "id" : 197553,
@@ -82,7 +142,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 16:14\">16:14</a></b> <b>from the city of Thyatira.</b> Southeast of Pergamum and about forty miles inland, Thyatira was in Asia Minor, across the Aegean Sea from Athens. Thyatira was known for wool and dying. Purple was an expensive dye.</p><p><b>The Lord opened her heart.</b> Divine illumination and persuasion is necessary for the heart blinded by sin to respond to the gospel (<a class=\"bibleref\" href=\"/passage/?search=Jer 13:23\">Jer. 13:23</a>; <a class=\"bibleref\" href=\"/passage/?search=John 6:44\">John 6:44</a>, <a class=\"bibleref\" href=\"/passage/?search=John 6:65\">65</a>; <a class=\"bibleref\" href=\"/passage/?search=Rom 9:16\">Rom. 9:16</a>; <a class=\"bibleref\" href=\"/passage/?search=1Cor 2:14\">1 Cor. 2:14</a>). This effectual call of God ensures that all who have been chosen by God will believe (13:48; <a class=\"bibleref\" href=\"/passage/?search=2Thess 2:13\">2 Thess. 2:13</a>, <a class=\"bibleref\" href=\"/passage/?search=2Thess 2:14\">14</a>; <a class=\"bibleref\" href=\"/passage/?search=2Tim 1:9\">2 Tim. 1:9</a>, <a class=\"bibleref\" href=\"/passage/?search=2Tim 1:10\">10</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,16,15" ],
+  "verses" : [ {
+    "verse" : "acts,16,15",
+    "text" : "When she and the members of her household were baptized, she invited us to her home. \"If you consider me a believer in the Lord,\" she said, \"come and stay at my house.\" And she persuaded us."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,16,15",
     "id" : 197554,

@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,28,21" ],
+  "verses" : [ {
+    "verse" : "proverbs,28,21",
+    "text" : "To show partiality is not good- yet a man will do wrong for a piece of bread."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,28,1-proverbs,28,28",
     "id" : 192290,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 28:21\">28:21</a></b> See <a class=\"bibleref\" href=\"/passage/?search=Prov 18:5\">18:5</a>; <a class=\"bibleref\" href=\"/passage/?search=Prov 24:23\">24:23</a>, <a class=\"bibleref\" href=\"/passage/?search=Prov 24:24\">24</a>. Even a small bribe can have disastrous results in the maintenance of order and justice in society.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,28,22" ],
+  "verses" : [ {
+    "verse" : "proverbs,28,22",
+    "text" : "A stingy man is eager to get rich and is unaware that poverty awaits him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,28,22",
     "id" : 192309,

@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,9,11" ],
+  "verses" : [ {
+    "verse" : "proverbs,9,11",
+    "text" : "For through me your days will be many, and years will be added to your life."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,9,1-proverbs,9,18",
     "id" : 191822,
@@ -17,7 +20,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 9:11\">9:11</a></b> See <a class=\"bibleref\" href=\"/passage/?search=Prov 3:2\">3:2</a> and note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,9,12" ],
+  "verses" : [ {
+    "verse" : "proverbs,9,12",
+    "text" : "If you are wise, your wisdom will reward you; if you are a mocker, you alone will suffer.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,9,12",
     "id" : 191835,

@@ -1,5 +1,14 @@
 [ {
-  "singleVerses" : [ "psalms,18,16", "psalms,18,17", "psalms,18,18" ],
+  "verses" : [ {
+    "verse" : "psalms,18,16",
+    "text" : "He reached down from on high and took hold of me; he drew me out of deep waters."
+  }, {
+    "verse" : "psalms,18,17",
+    "text" : "He rescued me from my powerful enemy, from my foes, who were too strong for me."
+  }, {
+    "verse" : "psalms,18,18",
+    "text" : "They confronted me in the day of my disaster, but the LORD was my support."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,18,1-psalms,18,50",
     "id" : 190325,
@@ -12,7 +21,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 18:16\">18:16</a></b> <b>many waters.</b> Symbolic of trouble and distress (<a class=\"bibleref\" href=\"/passage/?search=Ps 69:2\">Ps. 69:2</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,18,19", "psalms,18,20" ],
+  "verses" : [ {
+    "verse" : "psalms,18,19",
+    "text" : "He brought me out into a spacious place; he rescued me because he delighted in me."
+  }, {
+    "verse" : "psalms,18,20",
+    "text" : "The LORD has dealt with me according to my righteousness; according to the cleanness of my hands he has rewarded me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,18,19",
     "id" : 190339,
@@ -20,7 +35,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 18:19\">18:19</a></b> <b>broad place.</b> This may be an allusion to the Exodus and the conquest of Canaan. God delivered Israel from many waters (Red Sea) and brought them to a broad place (the Promised Land). The broad place contrasts with a narrow one, from which it would be hard or impossible to escape from an enemy.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,18,21", "psalms,18,22", "psalms,18,23", "psalms,18,24" ],
+  "verses" : [ {
+    "verse" : "psalms,18,21",
+    "text" : "For I have kept the ways of the LORD; I have not done evil by turning from my God."
+  }, {
+    "verse" : "psalms,18,22",
+    "text" : "All his laws are before me; I have not turned away from his decrees."
+  }, {
+    "verse" : "psalms,18,23",
+    "text" : "I have been blameless before him and have kept myself from sin."
+  }, {
+    "verse" : "psalms,18,24",
+    "text" : "The LORD has rewarded me according to my righteousness, according to the cleanness of my hands in his sight."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,18,21",
     "id" : 190340,
@@ -28,7 +55,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 18:21\">18:21</a></b> <b>ways of the <span class=\"small-caps\">Lord.</span></b> God’s covenant law.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,18,25", "psalms,18,26" ],
+  "verses" : [ {
+    "verse" : "psalms,18,25",
+    "text" : "To the faithful you show yourself faithful, to the blameless you show yourself blameless,"
+  }, {
+    "verse" : "psalms,18,26",
+    "text" : "to the pure you show yourself pure, but to the crooked you show yourself shrewd."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,18,25",
     "id" : 190341,
@@ -36,7 +69,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 18:25\">18:25</a></b> <b>merciful . . . show yourself merciful.</b> The term translated “merciful” has reference to God’s special lovingkindness toward those with whom He is in covenant relationship.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,18,27", "psalms,18,28" ],
+  "verses" : [ {
+    "verse" : "psalms,18,27",
+    "text" : "You save the humble but bring low those whose eyes are haughty."
+  }, {
+    "verse" : "psalms,18,28",
+    "text" : "You, O LORD, keep my lamp burning; my God turns my darkness into light."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,18,27",
     "id" : 190342,
@@ -44,7 +83,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 18:27\">18:27</a></b> <b>you save a humble people.</b> A constant teaching of the Old Testament and the Psalms, most notably <a class=\"bibleref\" href=\"/passage/?search=Ps 113:7-Ps 113:9\">Ps. 113:7–9</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,18,29" ],
+  "verses" : [ {
+    "verse" : "psalms,18,29",
+    "text" : "With your help I can advance against a troop; with my God I can scale a wall."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,18,29",
     "id" : 190343,
@@ -52,7 +94,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 18:29\">18:29</a></b> <b>against a troop.</b> A glimpse at the original inspiration of the verse. It appears as if the psalmist is waging war.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,18,30" ],
+  "verses" : [ {
+    "verse" : "psalms,18,30",
+    "text" : "As for God, his way is perfect; the word of the LORD is flawless. He is a shield for all who take refuge in him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,18,30",
     "id" : 190344,
@@ -60,7 +105,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 18:30\">18:30</a></b> <b>the word of the <span class=\"small-caps\">Lord.</span></b> His revelation to His people. Since this is a psalm of David in a warfare setting, perhaps the reference is more specifically to <a class=\"bibleref\" href=\"/passage/?search=2Sam 7\">2 Sam. 7</a>, the Davidic covenant, where God promises to be David’s Father and God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,18,31", "psalms,18,32", "psalms,18,33" ],
+  "verses" : [ {
+    "verse" : "psalms,18,31",
+    "text" : "For who is God besides the LORD? And who is the Rock except our God?"
+  }, {
+    "verse" : "psalms,18,32",
+    "text" : "It is God who arms me with strength and makes my way perfect."
+  }, {
+    "verse" : "psalms,18,33",
+    "text" : "He makes my feet like the feet of a deer; he enables me to stand on the heights."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,18,31",
     "id" : 190345,
@@ -68,7 +122,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 18:31\">18:31</a></b> <b>but the <span class=\"small-caps\">Lord.</span></b> The use of these rhetorical questions is emphatic: there is no one like the Lord (<a class=\"bibleref\" href=\"/passage/?search=Exod 15:11\">Ex. 15:11</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,18,34", "psalms,18,35" ],
+  "verses" : [ {
+    "verse" : "psalms,18,34",
+    "text" : "He trains my hands for battle; my arms can bend a bow of bronze."
+  }, {
+    "verse" : "psalms,18,35",
+    "text" : "You give me your shield of victory, and your right hand sustains me; you stoop down to make me great."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,18,34",
     "id" : 190346,
@@ -76,7 +136,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 18:34\">18:34</a></b> <b>bow of bronze.</b> Bows were constructed primarily of wood, at times reinforced with metal. The bronze bow is meant to suggest the psalmist’s God-given strength.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,18,36" ],
+  "verses" : [ {
+    "verse" : "psalms,18,36",
+    "text" : "You broaden the path beneath me, so that my ankles do not turn."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,18,36",
     "id" : 190347,

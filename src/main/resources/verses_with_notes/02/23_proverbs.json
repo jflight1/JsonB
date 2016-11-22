@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,10,11" ],
+  "verses" : [ {
+    "verse" : "proverbs,10,11",
+    "text" : "The mouth of the righteous is a fountain of life, but violence overwhelms the mouth of the wicked."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -17,7 +20,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 10:11\">10:11</a></b> <b>fountain of life.</b> The image is similar to “tree of life” (<a class=\"bibleref\" href=\"/passage/?search=Prov 3:18\">3:18</a> note). The words of the wise, like a well, are a source of life (<a class=\"bibleref\" href=\"/passage/?search=Ezek 47:1-Ezek 47:12\">Ezek. 47:1–12</a>; <a class=\"bibleref\" href=\"/passage/?search=Rev 22:1-Rev 22:3\">Rev. 22:1–3</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,10,12" ],
+  "verses" : [ {
+    "verse" : "proverbs,10,12",
+    "text" : "Hatred stirs up dissension, but love covers over all wrongs."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,12",
     "id" : 191855,

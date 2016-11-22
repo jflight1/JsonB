@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "proverbs,29,5", "proverbs,29,6" ],
+  "verses" : [ {
+    "verse" : "proverbs,29,5",
+    "text" : "Whoever flatters his neighbor is spreading a net for his feet."
+  }, {
+    "verse" : "proverbs,29,6",
+    "text" : "An evil man is snared by his own sin, but a righteous one can sing and be glad."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,29,5",
     "id" : 192319,
@@ -7,7 +13,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 29:5\">29:5</a></b> See <a class=\"bibleref\" href=\"/passage/?search=Prov 28:23\">28:23</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,29,7" ],
+  "verses" : [ {
+    "verse" : "proverbs,29,7",
+    "text" : "The righteous care about justice for the poor, but the wicked have no such concern."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,29,7",
     "id" : 192320,
@@ -15,7 +24,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 29:7\">29:7</a></b> <b>knows the rights.</b> Lit. “knows the judgment.” They know and do what God requires for the poor.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,29,8" ],
+  "verses" : [ {
+    "verse" : "proverbs,29,8",
+    "text" : "Mockers stir up a city, but wise men turn away anger."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,29,8",
     "id" : 192321,

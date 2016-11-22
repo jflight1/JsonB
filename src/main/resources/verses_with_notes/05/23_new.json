@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "john,13,1" ],
+  "verses" : [ {
+    "verse" : "john,13,1",
+    "text" : "It was just before the Passover Feast. Jesus knew that the time had come for him to leave this world and go to the Father. Having loved his own who were in the world, he now showed them the full extent of his love."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,13,1-john,17,26",
     "id" : 197170,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 13:1\">13:1</a></b> <b>he loved them to the end.</b> Great emphasis is placed in <a class=\"bibleref\" href=\"/passage/?search=John 13-John 17\">chs. 13–17</a> on Christ’s love. This love is illustrated in the moving scene of the foot-washing in which the Son of God does not disdain performing the most menial tasks of a servant (<a class=\"bibleref\" href=\"/passage/?search=Phil 2:7\">Phil. 2:7</a>, <a class=\"bibleref\" href=\"/passage/?search=Phil 2:8\">8</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,13,2" ],
+  "verses" : [ {
+    "verse" : "john,13,2",
+    "text" : "The evening meal was being served, and the devil had already prompted Judas Iscariot, son of Simon, to betray Jesus."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,13,2",
     "id" : 197172,
@@ -20,7 +26,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 13:2\">13:2</a></b> A vivid contrast between self-serving Judas and self-giving Jesus.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,13,3", "john,13,4" ],
+  "verses" : [ {
+    "verse" : "john,13,3",
+    "text" : "Jesus knew that the Father had put all things under his power, and that he had come from God and was returning to God;"
+  }, {
+    "verse" : "john,13,4",
+    "text" : "so he got up from the meal, took off his outer clothing, and wrapped a towel around his waist."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,13,3",
     "id" : 197173,
@@ -28,7 +40,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 13:3\">13:3</a></b> <b>Jesus, knowing.</b> Jesus’ humble conduct was not because He forgot His rank as incarnate God the Son. His act demonstrates that rank and privilege are not occasions for arrogance, but are higher credentials for service.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,13,5" ],
+  "verses" : [ {
+    "verse" : "john,13,5",
+    "text" : "After that, he poured water into a basin and began to wash his disciples' feet, drying them with the towel that was wrapped around him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,13,5",
     "id" : 197174,
@@ -36,7 +51,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 13:5\">13:5</a></b> <b>wash the disciples’ feet.</b> Footwashing was a common element of hospitality in a dusty country where people wore sandals (cf. <a class=\"bibleref\" href=\"/passage/?search=Luke 7:44\">Luke 7:44</a>). This task was usually performed by the lowliest member of the household.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,13,6", "john,13,7", "john,13,8", "john,13,9", "john,13,10" ],
+  "verses" : [ {
+    "verse" : "john,13,6",
+    "text" : "He came to Simon Peter, who said to him, \"Lord, are you going to wash my feet?\""
+  }, {
+    "verse" : "john,13,7",
+    "text" : "Jesus replied, \"You do not realize now what I am doing, but later you will understand.\""
+  }, {
+    "verse" : "john,13,8",
+    "text" : "\"No,\" said Peter, \"you shall never wash my feet.\" Jesus answered, \"Unless I wash you, you have no part with me.\""
+  }, {
+    "verse" : "john,13,9",
+    "text" : "\"Then, Lord,\" Simon Peter replied, \"not just my feet but my hands and my head as well!\""
+  }, {
+    "verse" : "john,13,10",
+    "text" : "Jesus answered, \"A person who has had a bath needs only to wash his feet; his whole body is clean. And you are clean, though not every one of you.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,13,6-john,13,10",
     "id" : 197175,
@@ -44,7 +74,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 13:6-John 13:10\">13:6–10</a></b> Peter, with his usual impulsiveness (<a class=\"bibleref\" href=\"/passage/?search=Luke 5:8\">Luke 5:8</a>; <a class=\"bibleref\" href=\"/passage/?search=Matt 16:22\">Matt. 16:22</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 10:14\">Acts 10:14</a>), objected to Jesus’ action of washing his feet. He could not understand the humility of Christ. Jesus answers that whatever Peter’s own expectations may have been, Peter must accept Jesus in the path that God has chosen for the Messiah to follow (<a class=\"bibleref\" href=\"/passage/?search=Isa 55:7-Isa 55:9\">Is. 55:7–9</a>; <a class=\"bibleref\" href=\"/passage/?search=Matt 16:23\">Matt. 16:23</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,13,11", "john,13,12" ],
+  "verses" : [ {
+    "verse" : "john,13,11",
+    "text" : "For he knew who was going to betray him, and that was why he said not every one was clean."
+  }, {
+    "verse" : "john,13,12",
+    "text" : "When he had finished washing their feet, he put on his clothes and returned to his place. \"Do you understand what I have done for you?\" he asked them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,13,11",
     "id" : 197176,
@@ -52,7 +88,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 13:11\">13:11</a></b> <b>he knew.</b> John emphasizes that Judas’s betrayal was not an unforeseen development, but that Jesus proceeded in full awareness of coming events and of Judas’s role in them. Judas’s action was his own free and responsible decision—yet carried out according to the plan of God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,13,13", "john,13,14" ],
+  "verses" : [ {
+    "verse" : "john,13,13",
+    "text" : "\"You call me 'Teacher' and 'Lord,' and rightly so, for that is what I am."
+  }, {
+    "verse" : "john,13,14",
+    "text" : "Now that I, your Lord and Teacher, have washed your feet, you also should wash one another's feet."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,13,13",
     "id" : 197177,
@@ -60,7 +102,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 13:13\">13:13</a></b> <b>Teacher and Lord.</b> This double title gives special significance to the claim of Christ over the disciples’ lives. Later, they would call Him “Lord” in acknowledgement of His deity (<a class=\"bibleref\" href=\"/passage/?search=John 20:28\">20:28</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,13,15", "john,13,16" ],
+  "verses" : [ {
+    "verse" : "john,13,15",
+    "text" : "I have set you an example that you should do as I have done for you."
+  }, {
+    "verse" : "john,13,16",
+    "text" : "I tell you the truth, no servant is greater than his master, nor is a messenger greater than the one who sent him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,13,15",
     "id" : 197178,
@@ -68,7 +116,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 13:15\">13:15</a></b> <b>I have given you an example.</b> The humility of Christ is a pattern for His disciples. Instead of aspiring to dominate, they must be eager to serve (<a class=\"bibleref\" href=\"/passage/?search=Matt 20:26-Matt 20:28\">Matt. 20:26–28</a>; <a class=\"bibleref\" href=\"/passage/?search=Phil 2:5-Phil 2:8\">Phil. 2:5–8</a>; <a class=\"bibleref\" href=\"/passage/?search=1Pet 2:21\">1 Pet. 2:21</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,13,17" ],
+  "verses" : [ {
+    "verse" : "john,13,17",
+    "text" : "Now that you know these things, you will be blessed if you do them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,13,17",
     "id" : 197179,
@@ -76,7 +127,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 13:17\">13:17</a></b> <b>if you do them.</b> Intellectual perception is not enough, but must be backed up by commitment of life. This does not mean that our works are the basis of our acceptance by God, but that they are the evidence of a true faith. Trust and obedience are inseparable.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,13,18" ],
+  "verses" : [ {
+    "verse" : "john,13,18",
+    "text" : "\"I am not referring to all of you; I know those I have chosen. But this is to fulfill the scripture: 'He who shares my bread has lifted up his heel against me.'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,13,18",
     "id" : 197180,
@@ -84,7 +138,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 13:18\">13:18</a></b> <b>not . . . all of you.</b> Jesus chose Judas to be one of the Twelve, but He did not bring him to salvation. Judas was not one of the elect (<a class=\"bibleref\" href=\"/passage/?search=Matt 26:24\">Matt. 26:24</a>), yet he was in no way coerced into his betrayal.</p><p><b>fulfilled.</b> Jesus remarks on the fulfillment of Scripture in many details of His life. The quotation from <a class=\"bibleref\" href=\"/passage/?search=Ps 41:9\">Ps. 41:9</a> is a possible reference to the treason of Ahithophel (<a class=\"bibleref\" href=\"/passage/?search=2Sam 15:31\">2 Sam. 15:31</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,13,19", "john,13,20" ],
+  "verses" : [ {
+    "verse" : "john,13,19",
+    "text" : "\"I am telling you now before it happens, so that when it does happen you will believe that I am He."
+  }, {
+    "verse" : "john,13,20",
+    "text" : "I tell you the truth, whoever accepts anyone I send accepts me; and whoever accepts me accepts the one who sent me.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,13,19",
     "id" : 197181,
@@ -92,7 +152,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 13:19\">13:19</a></b> <b>before it takes place.</b> The truth of a prior prediction was the mark of a true prophet, and false prediction was a sure way to discern a false prophet (<a class=\"bibleref\" href=\"/passage/?search=Deut 18:18-Deut 18:22\">Deut. 18:18–22</a>).</p><p><b>I am he.</b> The word “he” is supplied here for the English text. The original Greek reads “I am,” a claim to deity derived from <a class=\"bibleref\" href=\"/passage/?search=Exod 3:14\">Ex. 3:14</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,13,21" ],
+  "verses" : [ {
+    "verse" : "john,13,21",
+    "text" : "After he had said this, Jesus was troubled in spirit and testified, \"I tell you the truth, one of you is going to betray me.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,13,21",
     "id" : 197182,
@@ -100,7 +163,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 13:21\">13:21</a></b> <b>troubled in his spirit.</b> Compare <a class=\"bibleref\" href=\"/passage/?search=John 11:33\">11:33</a>; <a class=\"bibleref\" href=\"/passage/?search=John 12:27\">12:27</a>. From the beginning Jesus knew what Judas would do, but His soul still felt it as the time approached.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,13,22" ],
+  "verses" : [ {
+    "verse" : "john,13,22",
+    "text" : "His disciples stared at one another, at a loss to know which of them he meant."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,13,22",
     "id" : 197183,
@@ -108,7 +174,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 13:22\">13:22</a></b> <b>uncertain.</b> Judas had hidden his betrayal so carefully that the other disciples had no inkling of it. Each one began to fear that he might be the weak link (<a class=\"bibleref\" href=\"/passage/?search=Matt 26:22\">Matt. 26:22</a>). Judas, too, mouthed the question (<a class=\"bibleref\" href=\"/passage/?search=Matt 26:25\">Matt. 26:25</a>), but the disciples apparently did not hear Jesus’ response.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,13,23", "john,13,24", "john,13,25" ],
+  "verses" : [ {
+    "verse" : "john,13,23",
+    "text" : "One of them, the disciple whom Jesus loved, was reclining next to him."
+  }, {
+    "verse" : "john,13,24",
+    "text" : "Simon Peter motioned to this disciple and said, \"Ask him which one he means.\""
+  }, {
+    "verse" : "john,13,25",
+    "text" : "Leaning back against Jesus, he asked him, \"Lord, who is it?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,13,23",
     "id" : 197184,
@@ -116,7 +191,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 13:23\">13:23</a></b> <b>whom Jesus loved.</b> This reference appears in <a class=\"bibleref\" href=\"/passage/?search=John 19:26\">19:26</a>; <a class=\"bibleref\" href=\"/passage/?search=John 20:2\">20:2</a>; <a class=\"bibleref\" href=\"/passage/?search=John 21:7\">21:7</a>, <a class=\"bibleref\" href=\"/passage/?search=John 21:20\">20</a>, and has generally been understood to be John, the author of the Gospel. The remark does not imply a lack of love for the other disciples, but indicates a special affinity for John (<a class=\"bibleref\" href=\"/passage/?search=John 19:26\">19:26</a>, <a class=\"bibleref\" href=\"/passage/?search=John 19:27\">27</a>).</p><p><b>close to Jesus.</b> In a formal banquet people were not seated but reclined at the table (<a class=\"bibleref\" href=\"/passage/?search=Luke 22:14\">Luke 22:14</a> note). John’s position would not be unusual on such an occasion.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,13,26" ],
+  "verses" : [ {
+    "verse" : "john,13,26",
+    "text" : "Jesus answered, \"It is the one to whom I will give this piece of bread when I have dipped it in the dish.\" Then, dipping the piece of bread, he gave it to Judas Iscariot, son of Simon."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,13,26",
     "id" : 197185,
@@ -124,7 +202,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 13:26\">13:26</a></b> <b>this morsel of bread.</b> This was apparently a favor reserved for a guest of honor.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,13,27", "john,13,28", "john,13,29", "john,13,30" ],
+  "verses" : [ {
+    "verse" : "john,13,27",
+    "text" : "As soon as Judas took the bread, Satan entered into him."
+  }, {
+    "verse" : "john,13,28",
+    "text" : "\"What you are about to do, do quickly,\" Jesus told him, but no one at the meal understood why Jesus said this to him."
+  }, {
+    "verse" : "john,13,29",
+    "text" : "Since Judas had charge of the money, some thought Jesus was telling him to buy what was needed for the Feast, or to give something to the poor."
+  }, {
+    "verse" : "john,13,30",
+    "text" : "As soon as Judas had taken the bread, he went out. And it was night."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,13,27",
     "id" : 197186,

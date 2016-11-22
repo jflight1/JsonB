@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "proverbs,4,7", "proverbs,4,8" ],
+  "verses" : [ {
+    "verse" : "proverbs,4,7",
+    "text" : "Wisdom is supreme; therefore get wisdom. Though it cost all you have, get understanding."
+  }, {
+    "verse" : "proverbs,4,8",
+    "text" : "Esteem her, and she will exalt you; embrace her, and she will honor you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,4,1-proverbs,4,27",
     "id" : 191707,
@@ -12,7 +18,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 4:7\">4:7</a></b> <b>The beginning of wisdom.</b> As translated the verse means, “Wisdom is of the first importance, do not neglect it.” Another possible sense is that “Wisdom is first in line” for the learner. Wisdom is ready, and the one who wishes to learn may begin immediately.</p><p><b>whatever you get.</b> Jesus used a similar saying about how one should seek the kingdom of God (<a class=\"bibleref\" href=\"/passage/?search=Matt 13:45\">Matt. 13:45</a>, <a class=\"bibleref\" href=\"/passage/?search=Matt 13:46\">46</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,4,9" ],
+  "verses" : [ {
+    "verse" : "proverbs,4,9",
+    "text" : "She will set a garland of grace on your head and present you with a crown of splendor.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,4,9",
     "id" : 191713,
@@ -20,7 +29,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 4:9\">4:9</a></b> See note <a class=\"bibleref\" href=\"/passage/?search=Prov 1:9\">1:9</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,4,10" ],
+  "verses" : [ {
+    "verse" : "proverbs,4,10",
+    "text" : "Listen, my son, accept what I say, and the years of your life will be many."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,4,10",
     "id" : 191714,

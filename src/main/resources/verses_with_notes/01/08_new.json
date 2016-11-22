@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "matthew,6,25" ],
+  "verses" : [ {
+    "verse" : "matthew,6,25",
+    "text" : "\"Therefore I tell you, do not worry about your life, what you will eat or drink; or about your body, what you will wear. Is not life more important than food, and the body more important than clothes?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,5,1-matthew,7,29",
     "id" : 195644,
@@ -7,7 +10,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 5-Matt 7\">5:1–7:29</a></b> The Sermon on the Mount is the first of five great blocks of Jesus’ teaching in Matthew (Introduction: Characteristics and Themes). It is the classic statement of the ethics of the kingdom of God. The early church favored a literal interpretation but fully applied the sermon only to special classes of Christians, especially monastics. Others, such as the Anabaptists, have attempted to apply it literally to every Christian. Still others have viewed it as legalistic, as a provisional, temporary code, or as a heightening of the law of Moses with the aim of inducing repentance (Luther). Finally, some have argued that the demands of the sermon are not to be understood literally, but that Jesus was concerned with inward disposition rather than outward conduct, or that the severity of the sermon is intended to compel a decision by the hearers either for or against God’s demands on their lives.</p><p>We must recognize that the sermon is directed to the disciples and through them to the whole church today. The sermon addresses both inward motives and outward conduct (<a class=\"bibleref\" href=\"/passage/?search=Matt 5:21\">5:21</a>, <a class=\"bibleref\" href=\"/passage/?search=Matt 5:22\">22</a>, <a class=\"bibleref\" href=\"/passage/?search=Matt 5:27\">27</a>, <a class=\"bibleref\" href=\"/passage/?search=Matt 5:28\">28</a>). These legitimate demands are so strict (<a class=\"bibleref\" href=\"/passage/?search=Matt 5:48\">5:48</a>) that no one can completely obey them, and we are therefore driven to the grace and mercy of God. In some cases Jesus uses obviously intentional exaggeration to illustrate the absolute requirements of God’s law (<a class=\"bibleref\" href=\"/passage/?search=Matt 5:29\">5:29</a>, <a class=\"bibleref\" href=\"/passage/?search=Matt 5:30\">30</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,6,26", "matthew,6,27", "matthew,6,28", "matthew,6,29", "matthew,6,30", "matthew,6,31", "matthew,6,32" ],
+  "verses" : [ {
+    "verse" : "matthew,6,26",
+    "text" : "Look at the birds of the air; they do not sow or reap or store away in barns, and yet your heavenly Father feeds them. Are you not much more valuable than they?"
+  }, {
+    "verse" : "matthew,6,27",
+    "text" : "Who of you by worrying can add a single hour to his life?"
+  }, {
+    "verse" : "matthew,6,28",
+    "text" : "\"And why do you worry about clothes? See how the lilies of the field grow. They do not labor or spin."
+  }, {
+    "verse" : "matthew,6,29",
+    "text" : "Yet I tell you that not even Solomon in all his splendor was dressed like one of these."
+  }, {
+    "verse" : "matthew,6,30",
+    "text" : "If that is how God clothes the grass of the field, which is here today and tomorrow is thrown into the fire, will he not much more clothe you, O you of little faith?"
+  }, {
+    "verse" : "matthew,6,31",
+    "text" : "So do not worry, saying, 'What shall we eat?' or 'What shall we drink?' or 'What shall we wear?'"
+  }, {
+    "verse" : "matthew,6,32",
+    "text" : "For the pagans run after all these things, and your heavenly Father knows that you need them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,6,26",
     "id" : 195681,
@@ -15,7 +39,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 6:26\">6:26</a></b> <b>they neither sow nor reap.</b> The point is not that birds are idle—an adult bird does not stay in its nest with open beak—but that birds do not worry about what the future holds. Anxious worry shows a lack of trust in God’s knowledge and care (<a class=\"bibleref\" href=\"/passage/?search=Matt 6:32\">vv. 32</a>, <a class=\"bibleref\" href=\"/passage/?search=Matt 6:33\">33</a>). See “Providence” at <a class=\"bibleref\" href=\"/passage/?search=Prov 16:33\">Prov. 16:33</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,6,33", "matthew,6,34" ],
+  "verses" : [ {
+    "verse" : "matthew,6,33",
+    "text" : "But seek first his kingdom and his righteousness, and all these things will be given to you as well."
+  }, {
+    "verse" : "matthew,6,34",
+    "text" : "Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,6,33",
     "id" : 195682,
@@ -23,7 +53,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 6:33\">6:33</a></b> <b>seek first the kingdom of God and his righteousness.</b> We are to make God’s sovereign rule, and a right relationship with Him, the highest priority in life (see <a class=\"bibleref\" href=\"/passage/?search=Matt 3:15\">3:15</a> note on “righteousness”). Worry is inconsistent with this priority; it doubts the sovereignty or goodness of God and distracts from the true goals of life. God will meet all the needs of those who risk all for Him.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,7,1", "matthew,7,2", "matthew,7,3", "matthew,7,4", "matthew,7,5" ],
+  "verses" : [ {
+    "verse" : "matthew,7,1",
+    "text" : "\"Do not judge, or you too will be judged."
+  }, {
+    "verse" : "matthew,7,2",
+    "text" : "For in the same way you judge others, you will be judged, and with the measure you use, it will be measured to you."
+  }, {
+    "verse" : "matthew,7,3",
+    "text" : "\"Why do you look at the speck of sawdust in your brother's eye and pay no attention to the plank in your own eye?"
+  }, {
+    "verse" : "matthew,7,4",
+    "text" : "How can you say to your brother, 'Let me take the speck out of your eye,' when all the time there is a plank in your own eye?"
+  }, {
+    "verse" : "matthew,7,5",
+    "text" : "You hypocrite, first take the plank out of your own eye, and then you will see clearly to remove the speck from your brother's eye."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,7,1",
     "id" : 195683,
@@ -31,7 +76,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 7:1\">7:1</a></b> <b>Judge not.</b> Jesus prohibits one kind of judging, but approves a different kind. Condemning others for their faults is failure to exercise forgiveness (<a class=\"bibleref\" href=\"/passage/?search=Matt 6:14\">6:14</a>, <a class=\"bibleref\" href=\"/passage/?search=Matt 6:15\">15</a>); only a gentle and humble criticism that first recognizes one’s own greater faults can help. There is also a necessary, discerning kind of judgment that does not condemn but distinguishes unbelief from belief (<a class=\"bibleref\" href=\"/passage/?search=Matt 6:6\">v. 6</a>). The method of discernment is given in <a class=\"bibleref\" href=\"/passage/?search=Matt 6:16\">v. 16</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,7,6", "matthew,7,7", "matthew,7,8", "matthew,7,9", "matthew,7,10" ],
+  "verses" : [ {
+    "verse" : "matthew,7,6",
+    "text" : "\"Do not give dogs what is sacred; do not throw your pearls to pigs. If you do, they may trample them under their feet, and then turn and tear you to pieces."
+  }, {
+    "verse" : "matthew,7,7",
+    "text" : "\"Ask and it will be given to you; seek and you will find; knock and the door will be opened to you."
+  }, {
+    "verse" : "matthew,7,8",
+    "text" : "For everyone who asks receives; he who seeks finds; and to him who knocks, the door will be opened."
+  }, {
+    "verse" : "matthew,7,9",
+    "text" : "\"Which of you, if his son asks for bread, will give him a stone?"
+  }, {
+    "verse" : "matthew,7,10",
+    "text" : "Or if he asks for a fish, will give him a snake?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,7,6",
     "id" : 195684,
@@ -39,7 +99,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 7:6\">7:6</a></b> <b>what is holy.</b> A reference to the evidences of the kingdom, such as the healings and the exorcisms, which may explain why Jesus did no miracles for unbelievers. But “what is holy” would also include the preaching of the kingdom; believers should not continue to preach to people who have rejected the gospel with contempt and scorn (<a class=\"bibleref\" href=\"/passage/?search=Matt 10:14\">10:14</a>; <a class=\"bibleref\" href=\"/passage/?search=Matt 15:14\">15:14</a>). The Book of Acts illustrates the principle in practice (<a class=\"bibleref\" href=\"/passage/?search=Acts 13:44-Acts 13:51\">Acts 13:44–51</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 18:5\">18:5</a>, <a class=\"bibleref\" href=\"/passage/?search=Acts 18:6\">6</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 28:17-Acts 28:28\">28:17–28</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,7,11" ],
+  "verses" : [ {
+    "verse" : "matthew,7,11",
+    "text" : "If you, then, though you are evil, know how to give good gifts to your children, how much more will your Father in heaven give good gifts to those who ask him!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,7,11",
     "id" : 195685,
@@ -47,7 +110,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 7:11\">7:11</a></b> <b>evil.</b> The general sinfulness of humanity is assumed here, since even those who call God “Father” are said to be evil.</p><p><b>good things.</b> These gifts from the Father are the things Jesus has been describing as necessary for disciples: righteousness, sincerity, purity, humility, and wisdom. Those who know their own need will ask God for them. The parallel in <a class=\"bibleref\" href=\"/passage/?search=Luke 11:13\">Luke 11:13</a> focuses on the one greatest gift—the Holy Spirit.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,7,12", "matthew,7,13" ],
+  "verses" : [ {
+    "verse" : "matthew,7,12",
+    "text" : "So in everything, do to others what you would have them do to you, for this sums up the Law and the Prophets."
+  }, {
+    "verse" : "matthew,7,13",
+    "text" : "\"Enter through the narrow gate. For wide is the gate and broad is the road that leads to destruction, and many enter through it."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,7,12",
     "id" : 195686,
@@ -55,7 +124,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 7:12\">7:12</a></b> <b>do also to them.</b> Often called the “Golden Rule,” this principle was stated by a number of ancient thinkers as, “Do not do to others what you do not want done to you.” Jesus made it a positive obligation. Here it appears after the discussion of God’s goodness and His willingness to give.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,7,14" ],
+  "verses" : [ {
+    "verse" : "matthew,7,14",
+    "text" : "But small is the gate and narrow the road that leads to life, and only a few find it."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,7,14",
     "id" : 195687,

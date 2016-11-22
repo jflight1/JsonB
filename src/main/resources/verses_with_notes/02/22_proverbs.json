@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,10,10" ],
+  "verses" : [ {
+    "verse" : "proverbs,10,10",
+    "text" : "He who winks maliciously causes grief, and a chattering fool comes to ruin."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "1john,4,1" ],
+  "verses" : [ {
+    "verse" : "1john,4,1",
+    "text" : "Dear friends, do not believe every spirit, but test the spirits to see whether they are from God, because many false prophets have gone out into the world."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1john,4,1-1john,4,6",
     "id" : 199548,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1John 4:1\">4:1</a></b> <b>gone out into the world.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1John 2:19\">2:19</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1john,4,2" ],
+  "verses" : [ {
+    "verse" : "1john,4,2",
+    "text" : "This is how you can recognize the Spirit of God: Every spirit that acknowledges that Jesus Christ has come in the flesh is from God,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1john,4,2",
     "id" : 199550,
@@ -20,7 +26,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1John 4:2\">4:2</a></b> <b>Jesus Christ has come in the flesh.</b> John distinguishes the gospel from the error of the docetists who said that Jesus Christ was not truly human (Introduction: Date and Occasion). The humanity of Christ was essential if He was to die for our sins.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1john,4,3" ],
+  "verses" : [ {
+    "verse" : "1john,4,3",
+    "text" : "but every spirit that does not acknowledge Jesus is not from God. This is the spirit of the antichrist, which you have heard is coming and even now is already in the world."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1john,4,3",
     "id" : 199551,
@@ -28,7 +37,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1John 4:3\">4:3</a></b> <b>the antichrist.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1John 2:18\">2:18</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1john,4,4", "1john,4,5" ],
+  "verses" : [ {
+    "verse" : "1john,4,4",
+    "text" : "You, dear children, are from God and have overcome them, because the one who is in you is greater than the one who is in the world."
+  }, {
+    "verse" : "1john,4,5",
+    "text" : "They are from the world and therefore speak from the viewpoint of the world, and the world listens to them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1john,4,4",
     "id" : 199552,
@@ -36,7 +51,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1John 4:4\">4:4</a></b> <b>he who is in the world.</b> In its hostility to God, the world is pervaded by the purposes of the devil, who has captured the human race through temptation (<a class=\"bibleref\" href=\"/passage/?search=1John 5:19\">5:19</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1john,4,6" ],
+  "verses" : [ {
+    "verse" : "1john,4,6",
+    "text" : "We are from God, and whoever knows God listens to us; but whoever is not from God does not listen to us. This is how we recognize the Spirit of truth and the spirit of falsehood."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1john,4,6",
     "id" : 199553,
@@ -44,7 +62,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1John 4:6\">4:6</a></b> <b>from God.</b> The Holy Spirit unites believers. See “The Local Church” at <a class=\"bibleref\" href=\"/passage/?search=Rev 2:1\">Rev. 2:1</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1john,4,7", "1john,4,8" ],
+  "verses" : [ {
+    "verse" : "1john,4,7",
+    "text" : "Dear friends, let us love one another, for love comes from God. Everyone who loves has been born of God and knows God."
+  }, {
+    "verse" : "1john,4,8",
+    "text" : "Whoever does not love does not know God, because God is love."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1john,4,7-1john,4,12",
     "id" : 199554,
@@ -52,7 +76,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1John 4:7-1John 4:12\">4:7–12</a></b> The love of God the Father for “his only Son” (<a class=\"bibleref\" href=\"/passage/?search=1John 4:9\">v. 9</a>) is the source of the love that binds the fellowship of believers together as a family. By giving us His Son, the Father introduced us to the perfect love and eternal life that the Father and the Son have always enjoyed.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1john,4,9" ],
+  "verses" : [ {
+    "verse" : "1john,4,9",
+    "text" : "This is how God showed his love among us: He sent his one and only Son into the world that we might live through him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1john,4,9",
     "id" : 199555,
@@ -60,7 +87,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1John 4:9\">4:9</a></b> <b>only Son.</b> This means that Jesus is God’s Son in eternity, as the Second Person of the Trinity. The Greek can also be translated “one and only Son,” referring to Christ’s uniqueness rather than to His eternal generation.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1john,4,10", "1john,4,11", "1john,4,12", "1john,4,13" ],
+  "verses" : [ {
+    "verse" : "1john,4,10",
+    "text" : "This is love: not that we loved God, but that he loved us and sent his Son as an atoning sacrifice for our sins."
+  }, {
+    "verse" : "1john,4,11",
+    "text" : "Dear friends, since God so loved us, we also ought to love one another."
+  }, {
+    "verse" : "1john,4,12",
+    "text" : "No one has ever seen God; but if we love one another, God lives in us and his love is made complete in us."
+  }, {
+    "verse" : "1john,4,13",
+    "text" : "We know that we live in him and he in us, because he has given us of his Spirit."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1john,4,10",
     "id" : 199556,
@@ -68,7 +107,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1John 4:10\">4:10</a></b> <b>propitiation for our sins.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1John 2:2\">2:2</a>. Christ turned away the righteous anger of God and satisfied the demands of His justice on our behalf. It was to fulfill God’s love that He did this.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1john,4,14", "1john,4,15" ],
+  "verses" : [ {
+    "verse" : "1john,4,14",
+    "text" : "And we have seen and testify that the Father has sent his Son to be the Savior of the world."
+  }, {
+    "verse" : "1john,4,15",
+    "text" : "If anyone acknowledges that Jesus is the Son of God, God lives in him and he in God."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1john,4,14",
     "id" : 199557,
@@ -76,7 +121,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1John 4:14\">4:14</a></b> <b>Savior of the world.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1John 2:2\">2:2</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1john,4,16" ],
+  "verses" : [ {
+    "verse" : "1john,4,16",
+    "text" : "And so we know and rely on the love God has for us. God is love. Whoever lives in love lives in God, and God in him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1john,4,16",
     "id" : 199558,
@@ -84,7 +132,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1John 4:16\">4:16</a></b> <b>God is love.</b> God’s love is shown in His covenant faithfulness and in His relentless pursuit of sinners in spite of their rebellion or indifference (<a class=\"bibleref\" href=\"/passage/?search=1John 4:8\">v. 8</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 34:5-Exod 34:7\">Ex. 34:5–7</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1john,4,17" ],
+  "verses" : [ {
+    "verse" : "1john,4,17",
+    "text" : "In this way, love is made complete among us so that we will have confidence on the day of judgment, because in this world we are like him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1john,4,17",
     "id" : 199559,
@@ -92,7 +143,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1John 4:17\">4:17</a></b> <b>so also are we.</b> Though not like Christ in the completeness of our obedience, we are like Him in our basic orientation, and stand out as He did by contrast with the world at large (<a class=\"bibleref\" href=\"/passage/?search=John 17:16\">John 17:16</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1john,4,18", "1john,4,19", "1john,4,20", "1john,4,21" ],
+  "verses" : [ {
+    "verse" : "1john,4,18",
+    "text" : "There is no fear in love. But perfect love drives out fear, because fear has to do with punishment. The one who fears is not made perfect in love."
+  }, {
+    "verse" : "1john,4,19",
+    "text" : "We love because he first loved us."
+  }, {
+    "verse" : "1john,4,20",
+    "text" : "If anyone says, \"I love God,\" yet hates his brother, he is a liar. For anyone who does not love his brother, whom he has seen, cannot love God, whom he has not seen."
+  }, {
+    "verse" : "1john,4,21",
+    "text" : "And he has given us this command: Whoever loves God must also love his brother."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1john,4,18",
     "id" : 199560,

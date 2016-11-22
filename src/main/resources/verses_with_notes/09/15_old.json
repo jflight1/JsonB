@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "isaiah,19,1", "isaiah,19,2" ],
+  "verses" : [ {
+    "verse" : "isaiah,19,1",
+    "text" : "An oracle concerning Egypt: See, the LORD rides on a swift cloud and is coming to Egypt. The idols of Egypt tremble before him, and the hearts of the Egyptians melt within them."
+  }, {
+    "verse" : "isaiah,19,2",
+    "text" : "\"I will stir up Egyptian against Egyptian- brother will fight against brother, neighbor against neighbor, city against city, kingdom against kingdom."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,13,1-isaiah,23,18",
     "id" : 192745,
@@ -17,7 +23,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 19:1\">19:1</a></b> <b>oracle.</b> Prophetic message (<a class=\"bibleref\" href=\"/passage/?search=Isa 13:1\">13:1</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,19,3" ],
+  "verses" : [ {
+    "verse" : "isaiah,19,3",
+    "text" : "The Egyptians will lose heart, and I will bring their plans to nothing; they will consult the idols and the spirits of the dead, the mediums and the spiritists."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,19,3",
     "id" : 192832,
@@ -25,7 +34,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 19:3\">19:3</a></b> <b>the idols and the sorcerers.</b> On idolatry and divination, see <a class=\"bibleref\" href=\"/passage/?search=Isa 2:6\">2:6</a>, <a class=\"bibleref\" href=\"/passage/?search=Isa 2:8\">8</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 8:19\">8:19</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,19,4" ],
+  "verses" : [ {
+    "verse" : "isaiah,19,4",
+    "text" : "I will hand the Egyptians over to the power of a cruel master, and a fierce king will rule over them,\" declares the Lord, the LORD Almighty."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,19,4",
     "id" : 192833,
@@ -33,7 +45,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 19:4\">19:4</a></b> <b>hard master . . . fierce king.</b> Egypt, too, will be subjugated; perhaps this is an allusion to Pharaoh’s cruelty before the Exodus (<a class=\"bibleref\" href=\"/passage/?search=Exod 6:9\">Ex. 6:9</a>).</p><p><b>Lord <span class=\"small-caps\">God</span> of hosts.</b> See note 1:9.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,19,5" ],
+  "verses" : [ {
+    "verse" : "isaiah,19,5",
+    "text" : "The waters of the river will dry up, and the riverbed will be parched and dry."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,19,5",
     "id" : 192834,
@@ -41,7 +56,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 19:5\">19:5</a></b> <b>river . . . dry.</b> This spells economic disaster for a country whose life depends on the Nile. God can easily dry up Egypt’s many waters.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,19,6" ],
+  "verses" : [ {
+    "verse" : "isaiah,19,6",
+    "text" : "The canals will stink; the streams of Egypt will dwindle and dry up. The reeds and rushes will wither,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,19,6",
     "id" : 192835,
@@ -49,7 +67,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 19:6\">19:6</a></b> <b>reeds and rushes.</b> Contrast <a class=\"bibleref\" href=\"/passage/?search=Isa 35:6\">35:6</a>, <a class=\"bibleref\" href=\"/passage/?search=Isa 35:7\">7</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,19,7", "isaiah,19,8" ],
+  "verses" : [ {
+    "verse" : "isaiah,19,7",
+    "text" : "also the plants along the Nile, at the mouth of the river. Every sown field along the Nile will become parched, will blow away and be no more."
+  }, {
+    "verse" : "isaiah,19,8",
+    "text" : "The fishermen will groan and lament, all who cast hooks into the Nile; those who throw nets on the water will pine away."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,19,7",
     "id" : 192836,
@@ -57,7 +81,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 19:7\">19:7</a></b> <b>sown by the Nile.</b> Egypt was the bread-basket of many countries because of the regular flooding of the Nile (<a class=\"bibleref\" href=\"/passage/?search=Gen 41:57\">Gen. 41:57</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,19,9" ],
+  "verses" : [ {
+    "verse" : "isaiah,19,9",
+    "text" : "Those who work with combed flax will despair, the weavers of fine linen will lose hope."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,19,9",
     "id" : 192837,
@@ -65,7 +92,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 19:9\">19:9</a></b> <b>flax . . . white cotton.</b> God’s judgment against Egypt fell on the important industries of fishing (<a class=\"bibleref\" href=\"/passage/?search=Isa 19:8\">v. 8</a>) and flax products, for which Egypt was famous.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,19,10" ],
+  "verses" : [ {
+    "verse" : "isaiah,19,10",
+    "text" : "The workers in cloth will be dejected, and all the wage earners will be sick at heart."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,19,10",
     "id" : 192838,
@@ -73,7 +103,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 19:10\">19:10</a></b> <b>pillars.</b> The meaning of this Hebrew word is uncertain. Some believe it is a metaphor for the nobles as the “foundation” of the society in contrast to those “who work for pay.” Others suggest “weavers” of cloth. The point is that all aspects of the society will suffer greatly.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,19,11" ],
+  "verses" : [ {
+    "verse" : "isaiah,19,11",
+    "text" : "The officials of Zoan are nothing but fools; the wise counselors of Pharaoh give senseless advice. How can you say to Pharaoh, \"I am one of the wise men, a disciple of the ancient kings\"?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,19,11",
     "id" : 192839,
@@ -81,7 +114,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 19:11\">19:11</a></b> <b>Zoan.</b> Also known as Tanis, this was a city in the Nile Delta (<a class=\"bibleref\" href=\"/passage/?search=Num 13:22\">Num. 13:22</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 78:12\">Ps. 78:12</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 78:43\">43</a>) and Egypt’s capital at the time.</p><p><b>foolish.</b> God turns the wisdom of the wise into folly.</p><p><b>counselors . . . stupid counsel.</b> See note 11:2.</p><p><b>son of the wise, a son of ancient kings.</b> This sarcastic remark taunts Egypt’s claim to wisdom (cf. <a class=\"bibleref\" href=\"/passage/?search=1Kgs 4:29-1Kgs 4:31\">1 Kin. 4:29–31</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,19,12" ],
+  "verses" : [ {
+    "verse" : "isaiah,19,12",
+    "text" : "Where are your wise men now? Let them show you and make known what the LORD Almighty has planned against Egypt."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,19,12",
     "id" : 192840,
@@ -89,7 +125,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 19:12\">19:12</a></b> <b>Where then are your wise men.</b> These words addressed to Pharaoh continue to stand as a polemic against human pride (<a class=\"bibleref\" href=\"/passage/?search=1Cor 1:20\">1 Cor. 1:20</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,19,13", "isaiah,19,14", "isaiah,19,15" ],
+  "verses" : [ {
+    "verse" : "isaiah,19,13",
+    "text" : "The officials of Zoan have become fools, the leaders of Memphis are deceived; the cornerstones of her peoples have led Egypt astray."
+  }, {
+    "verse" : "isaiah,19,14",
+    "text" : "The LORD has poured into them a spirit of dizziness; they make Egypt stagger in all that she does, as a drunkard staggers around in his vomit."
+  }, {
+    "verse" : "isaiah,19,15",
+    "text" : "There is nothing Egypt can do- head or tail, palm branch or reed."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,19,13",
     "id" : 192841,
@@ -97,7 +142,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 19:13\">19:13</a></b> <b>princes . . . cornerstones.</b> These include political, economic, and religious leaders.</p><p><b>Memphis.</b> This city in Lower Egypt was its ancient capital.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,19,16", "isaiah,19,17" ],
+  "verses" : [ {
+    "verse" : "isaiah,19,16",
+    "text" : "In that day the Egyptians will be like women. They will shudder with fear at the uplifted hand that the LORD Almighty raises against them."
+  }, {
+    "verse" : "isaiah,19,17",
+    "text" : "And the land of Judah will bring terror to the Egyptians; everyone to whom Judah is mentioned will be terrified, because of what the LORD Almighty is planning against them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,19,16",
     "id" : 192842,
@@ -105,7 +156,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 19:16\">19:16</a></b> <b>the hand.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Isa 14:26\">14:26</a>, <a class=\"bibleref\" href=\"/passage/?search=Isa 14:27\">27</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,19,18", "isaiah,19,19" ],
+  "verses" : [ {
+    "verse" : "isaiah,19,18",
+    "text" : "In that day five cities in Egypt will speak the language of Canaan and swear allegiance to the LORD Almighty. One of them will be called the City of Destruction."
+  }, {
+    "verse" : "isaiah,19,19",
+    "text" : "In that day there will be an altar to the LORD in the heart of Egypt, and a monument to the LORD at its border."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,19,18",
     "id" : 192843,
@@ -113,7 +170,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 19:18\">19:18</a></b> <b>five cities.</b> Not just one but five cities will turn to the Lord.</p><p><b>language of Canaan.</b> This shows how great a change is in view, because anything Canaanite was an abomination to the Egyptians (<a class=\"bibleref\" href=\"/passage/?search=Gen 43:32\">Gen. 43:32</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 46:34\">46:34</a>).</p><p><b>swear allegiance to the <span class=\"small-caps\">Lord.</span></b> That is, submit completely to God.</p><p><b>City of Destruction.</b> This probably refers to Heliopolis (“City of the Sun,” see text note). Jewish scribes parodied the name by changing the Hebrew word for “sun” to the almost identical Hebrew word for “destruction.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,19,20", "isaiah,19,21" ],
+  "verses" : [ {
+    "verse" : "isaiah,19,20",
+    "text" : "It will be a sign and witness to the LORD Almighty in the land of Egypt. When they cry out to the LORD because of their oppressors, he will send them a savior and defender, and he will rescue them."
+  }, {
+    "verse" : "isaiah,19,21",
+    "text" : "So the LORD will make himself known to the Egyptians, and in that day they will acknowledge the LORD. They will worship with sacrifices and grain offerings; they will make vows to the LORD and keep them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,19,20",
     "id" : 192844,
@@ -121,7 +184,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 19:20\">19:20</a></b> <b>sign . . . witness.</b> The altar (<a class=\"bibleref\" href=\"/passage/?search=Isa 19:19\">v. 19</a>) signifies their commitment to the Lord (cf. <a class=\"bibleref\" href=\"/passage/?search=Gen 12:8\">Gen. 12:8</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 28:22\">28:22</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 22:26-Josh 22:29\">Josh. 22:26–29</a>).</p><p><b>savior and defender.</b> God will fill these roles to deliver them from oppressors, as He did for Israel in the days of the judges (<a class=\"bibleref\" href=\"/passage/?search=Judg 2:18\">Judg. 2:18</a>; <a class=\"bibleref\" href=\"/passage/?search=Judg 3:9\">3:9</a>, <a class=\"bibleref\" href=\"/passage/?search=Judg 3:15\">15</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,19,22" ],
+  "verses" : [ {
+    "verse" : "isaiah,19,22",
+    "text" : "The LORD will strike Egypt with a plague; he will strike them and heal them. They will turn to the LORD, and he will respond to their pleas and heal them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,19,22",
     "id" : 192845,
@@ -129,7 +195,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 19:22\">19:22</a></b> <b>strike . . . heal.</b> Divine discipline will draw the Egyptians to the Lord (<a class=\"bibleref\" href=\"/passage/?search=Isa 30:26\">30:26</a>; <a class=\"bibleref\" href=\"/passage/?search=Hos 6:1\">Hos. 6:1</a>; <a class=\"bibleref\" href=\"/passage/?search=Hos 14:1\">14:1</a>, <a class=\"bibleref\" href=\"/passage/?search=Hos 14:2\">2</a>, <a class=\"bibleref\" href=\"/passage/?search=Hos 14:4\">4</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,19,23" ],
+  "verses" : [ {
+    "verse" : "isaiah,19,23",
+    "text" : "In that day there will be a highway from Egypt to Assyria. The Assyrians will go to Egypt and the Egyptians to Assyria. The Egyptians and Assyrians will worship together."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,19,23",
     "id" : 192846,
@@ -137,7 +206,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 19:23\">19:23</a></b> <b>highway.</b> Building this link between Egypt and Assyria symbolizes the removal of the alienation between them (cf. <a class=\"bibleref\" href=\"/passage/?search=Isa 11:16\">11:16</a> note).</p><p><b>Egypt to Assyria.</b> These two great cultures find unity in a common commitment to the Lord.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,19,24" ],
+  "verses" : [ {
+    "verse" : "isaiah,19,24",
+    "text" : "In that day Israel will be the third, along with Egypt and Assyria, a blessing on the earth."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,19,24",
     "id" : 192847,
@@ -145,7 +217,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 19:24\">19:24</a></b> <b>blessing in the midst of the earth.</b> Israel, Egypt, and Assyria will join in the patriarchal promises (<a class=\"bibleref\" href=\"/passage/?search=Gen 12:2\">Gen. 12:2</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 12:3\">3</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,19,25" ],
+  "verses" : [ {
+    "verse" : "isaiah,19,25",
+    "text" : "The LORD Almighty will bless them, saying, \"Blessed be Egypt my people, Assyria my handiwork, and Israel my inheritance.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,19,25",
     "id" : 192848,
@@ -153,7 +228,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 19:25\">19:25</a></b> <b>people . . . work of my hands . . . inheritance.</b> Each will share in full covenant membership, signified by three designations: “people” (cf. <a class=\"bibleref\" href=\"/passage/?search=Isa 10:24\">10:24</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 40:1\">40:1</a> note; <a class=\"bibleref\" href=\"/passage/?search=Ps 100:3\">Ps. 100:3</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 11:4\">Jer. 11:4</a>; <a class=\"bibleref\" href=\"/passage/?search=Hos 2:23\">Hos. 2:23</a>); “work of my hands” (60:21; <a class=\"bibleref\" href=\"/passage/?search=Ps 119:73\">Ps. 119:73</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 138:8\">138:8</a>); “inheritance” (cf. <a class=\"bibleref\" href=\"/passage/?search=Deut 32:9\">Deut. 32:9</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,20,1" ],
+  "verses" : [ {
+    "verse" : "isaiah,20,1",
+    "text" : "In the year that the supreme commander, sent by Sargon king of Assyria, came to Ashdod and attacked and captured it-"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,20,1",
     "id" : 192849,
@@ -161,7 +239,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 20:1\">20:1</a></b> <b>Sargon.</b> This is Sargon II, king of Assyria from 721 to 705 <span class=\"small-caps\">b.c.</span></p><p><b>Ashdod.</b> This Philistine city rebelled against Assyria at the encouragement of Shabako, the Nubian king (<a class=\"bibleref\" href=\"/passage/?search=Isa 18:1\">18:1</a> note) in 713 <span class=\"small-caps\">b.c.</span> It fell in 711. An inscription mentioning Sargon by name has been unearthed at Ashdod.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,20,2" ],
+  "verses" : [ {
+    "verse" : "isaiah,20,2",
+    "text" : "at that time the LORD spoke through Isaiah son of Amoz. He said to him, \"Take off the sackcloth from your body and the sandals from your feet.\" And he did so, going around stripped and barefoot."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,20,2",
     "id" : 192850,
@@ -169,7 +250,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 20:2\">20:2</a></b> <b>sackcloth . . . barefoot.</b> The Lord ordered Isaiah to be partially clad like a captive going into exile. Sackcloth was a garment for times of mourning (<a class=\"bibleref\" href=\"/passage/?search=Isa 15:3\">15:3</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 22:12\">22:12</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 37:1\">37:1</a>, <a class=\"bibleref\" href=\"/passage/?search=Isa 37:2\">2</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 58:5\">58:5</a>), or else the distinctive prophetic garment (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 1:8\">2 Kin. 1:8</a>; <a class=\"bibleref\" href=\"/passage/?search=Zech 13:4\">Zech. 13:4</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,20,3" ],
+  "verses" : [ {
+    "verse" : "isaiah,20,3",
+    "text" : "Then the LORD said, \"Just as my servant Isaiah has gone stripped and barefoot for three years, as a sign and portent against Egypt and Cush,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,20,3",
     "id" : 192851,
@@ -177,7 +261,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 20:3\">20:3</a></b> <b>my servant.</b> The phrase refers to a position of trust and honor before God. Moses was God’s friend and servant (<a class=\"bibleref\" href=\"/passage/?search=Exod 14:31\">Ex. 14:31</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 12:7\">Num. 12:7</a>, <a class=\"bibleref\" href=\"/passage/?search=Num 12:8\">8</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 34:5\">Deut. 34:5</a>). Also included among God’s servants were Abraham (<a class=\"bibleref\" href=\"/passage/?search=Ps 105:42\">Ps. 105:42</a>); Jacob (<a class=\"bibleref\" href=\"/passage/?search=Ezek 28:25\">Ezek. 28:25</a>); Joshua (<a class=\"bibleref\" href=\"/passage/?search=Josh 24:29\">Josh. 24:29</a>); David (37:35; <a class=\"bibleref\" href=\"/passage/?search=2Sam 3:18\">2 Sam. 3:18</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 132:10\">Ps. 132:10</a>); the Suffering Servant (52:13–53:12); and groups of people, such as the prophets (44:26) and restored Israel (41:8, 9; 43:10; 44:1, 2, 21; 45:4; 48:20). God’s servants may suffer, but they are promised a great heritage as “servants of the <span class=\"small-caps\">Lord</span>” (54:17; 65:8, 9, 13–15; 66:14).</p><p><b>three years.</b> It could designate the time that Isaiah walked about as a sign or the duration before the sign would be realized.</p><p><b>sign and a portent.</b> The prophetic style of life (8:18; cf. <a class=\"bibleref\" href=\"/passage/?search=Deut 13:1\">Deut. 13:1</a>, <a class=\"bibleref\" href=\"/passage/?search=Deut 13:2\">2</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 32:20\">Jer. 32:20</a>) pointed out the folly of relying on Egypt, because Egypt, like any nation, was vulnerable.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,20,4", "isaiah,20,5" ],
+  "verses" : [ {
+    "verse" : "isaiah,20,4",
+    "text" : "so the king of Assyria will lead away stripped and barefoot the Egyptian captives and Cushite exiles, young and old, with buttocks bared-to Egypt's shame."
+  }, {
+    "verse" : "isaiah,20,5",
+    "text" : "Those who trusted in Cush and boasted in Egypt will be afraid and put to shame."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,20,4",
     "id" : 192852,
@@ -185,7 +275,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 20:4\">20:4</a></b> <b>king of Assyria.</b> Esarhaddon fulfilled this prophecy in 671 <span class=\"small-caps\">b.c.</span></p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,20,6" ],
+  "verses" : [ {
+    "verse" : "isaiah,20,6",
+    "text" : "In that day the people who live on this coast will say, 'See what has happened to those we relied on, those we fled to for help and deliverance from the king of Assyria! How then can we escape?'\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,20,6",
     "id" : 192853,
@@ -193,7 +286,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 20:6\">20:6</a></b> <b>in that day.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Isa 2:11\">2:11</a>.</p><p><b>in whom we hoped.</b> Egypt’s fate will persuade the people that no ally can help them escape.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,21,1" ],
+  "verses" : [ {
+    "verse" : "isaiah,21,1",
+    "text" : "An oracle concerning the Desert by the Sea: Like whirlwinds sweeping through the southland, an invader comes from the desert, from a land of terror."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,21,1",
     "id" : 192854,
@@ -201,7 +297,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 21:1\">21:1</a></b> <b>oracle.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Isa 13:1\">13:1</a>.</p><p><b>wilderness of the sea.</b> This is probably a sarcastic parody. Babylon’s southern region on the Persian Gulf, known as “Land of the Sea,” will become a wilderness or as good as a wilderness to anyone looking for salvation from there.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,21,2" ],
+  "verses" : [ {
+    "verse" : "isaiah,21,2",
+    "text" : "A dire vision has been shown to me: The traitor betrays, the looter takes loot. Elam, attack! Media, lay siege! I will bring to an end all the groaning she caused."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,21,2",
     "id" : 192855,
@@ -209,7 +308,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 21:2\">21:2</a></b> <b>stern vision.</b> The prophet is overwhelmed by what he sees.</p><p><b>betrays . . . destroys.</b> In the course of waging war.</p><p><b>Elam . . . Media.</b> Elam was a major region of Persia. It was allied with Media in 700 <span class=\"small-caps\">b.c.</span> Perhaps as a part of Assyria’s army (<a class=\"bibleref\" href=\"/passage/?search=Isa 5:26\">5:26</a> note) Elam helped to conquer Babylon in 689 <span class=\"small-caps\">b.c.</span>, as they certainly did in 539 <span class=\"small-caps\">b.c.</span> (<a class=\"bibleref\" href=\"/passage/?search=Isa 11:11\">11:11</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 13:17\">13:17</a> and notes).</p><p><b>the sighing.</b> The indefinite subject could refer to the groan of Babylon under Assyrian domination or to the groan of the nations under Babylonian control. The former is more likely, because Babylon rose to power in 605 <span class=\"small-caps\">b.c.</span></p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,21,3", "isaiah,21,4" ],
+  "verses" : [ {
+    "verse" : "isaiah,21,3",
+    "text" : "At this my body is racked with pain, pangs seize me, like those of a woman in labor; I am staggered by what I hear, I am bewildered by what I see."
+  }, {
+    "verse" : "isaiah,21,4",
+    "text" : "My heart falters, fear makes me tremble; the twilight I longed for has become a horror to me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,21,3-isaiah,21,4",
     "id" : 192856,
@@ -217,7 +322,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 21:3\">21:3</a>, <a class=\"bibleref\" href=\"/passage/?search=Isa 21:4\">4</a></b> The expressions in these verses convey great psychological suffering on the prophet’s part (<a class=\"bibleref\" href=\"/passage/?search=Isa 16:9-Isa 16:11\">16:9–11</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 22:4\">22:4</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Dan 8:27\">Dan. 8:27</a>; <a class=\"bibleref\" href=\"/passage/?search=Dan 10:16-Dan 10:17\">10:16–17</a>). The report of Babylon’s fall may have distressed Isaiah because now no one could rescue Judah from Assyria.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,21,5" ],
+  "verses" : [ {
+    "verse" : "isaiah,21,5",
+    "text" : "They set the tables, they spread the rugs, they eat, they drink! Get up, you officers, oil the shields!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,21,5",
     "id" : 192857,
@@ -225,7 +333,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 21:5\">21:5</a></b> <b>oil the shield.</b> Prepare for battle.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,21,6" ],
+  "verses" : [ {
+    "verse" : "isaiah,21,6",
+    "text" : "This is what the Lord says to me: \"Go, post a lookout and have him report what he sees."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,21,6",
     "id" : 192858,
@@ -233,7 +344,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 21:6\">21:6</a></b> <b>watchman.</b> Isaiah is God’s watchman in Judah.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,21,7", "isaiah,21,8" ],
+  "verses" : [ {
+    "verse" : "isaiah,21,7",
+    "text" : "When he sees chariots with teams of horses, riders on donkeys or riders on camels, let him be alert, fully alert.\""
+  }, {
+    "verse" : "isaiah,21,8",
+    "text" : "And the lookout shouted, \"Day after day, my lord, I stand on the watchtower; every night I stay at my post."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,21,7",
     "id" : 192859,
@@ -241,7 +358,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 21:7\">21:7</a></b> <b>riders . . . camels.</b> Probably signs of an approaching army.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,21,9" ],
+  "verses" : [ {
+    "verse" : "isaiah,21,9",
+    "text" : "Look, here comes a man in a chariot with a team of horses. And he gives back the answer: 'Babylon has fallen, has fallen! All the images of its gods lie shattered on the ground!'\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,21,9",
     "id" : 192860,
@@ -249,7 +369,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 21:9\">21:9</a></b> <b>fallen is Babylon.</b> Finally, the seductive power of Babylon, her religion (<a class=\"bibleref\" href=\"/passage/?search=Isa 17:7-Isa 17:9\">17:7–9</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 27:9\">27:9</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 46\">46:1–13</a>), and her culture have come to an end (<a class=\"bibleref\" href=\"/passage/?search=Isa 13:19\">13:19</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,21,10" ],
+  "verses" : [ {
+    "verse" : "isaiah,21,10",
+    "text" : "O my people, crushed on the threshing floor, I tell you what I have heard from the LORD Almighty, from the God of Israel."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,21,10",
     "id" : 192861,
@@ -257,7 +380,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 21:10\">21:10</a></b> <b>my threshed and winnowed one.</b> Judah is portrayed as an oppressed people, much like the grain under the threshing sledge (<a class=\"bibleref\" href=\"/passage/?search=Isa 28:27\">28:27</a>, <a class=\"bibleref\" href=\"/passage/?search=Isa 28:28\">28</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 41:15\">41:15</a>, <a class=\"bibleref\" href=\"/passage/?search=Isa 41:16\">16</a>; <a class=\"bibleref\" href=\"/passage/?search=Amos 1:3\">Amos 1:3</a>). See note 40:1.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,21,11" ],
+  "verses" : [ {
+    "verse" : "isaiah,21,11",
+    "text" : "An oracle concerning Dumah: Someone calls to me from Seir, \"Watchman, what is left of the night? Watchman, what is left of the night?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,21,11",
     "id" : 192862,
@@ -265,7 +391,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 21:11\">21:11</a></b> <b>oracle.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Isa 13:1\">13:1</a>.</p><p><b>Dumah.</b> An oasis in Edom at the intersection of the roads from the Red Sea to Palmyra and from the Persian Gulf to Petra.</p><p><b>Seir.</b> Edom. The Edomites ask the prophet what the future will hold.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,21,12" ],
+  "verses" : [ {
+    "verse" : "isaiah,21,12",
+    "text" : "The watchman replies, \"Morning is coming, but also the night. If you would ask, then ask; and come back yet again.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,21,12",
     "id" : 192863,
@@ -273,7 +402,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 21:12\">21:12</a></b> <b>Morning . . . night.</b> The future holds both hope and judgment, specifically, relief from Assyrian domination followed by oppression from Babylon.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,21,13" ],
+  "verses" : [ {
+    "verse" : "isaiah,21,13",
+    "text" : "An oracle concerning Arabia: You caravans of Dedanites, who camp in the thickets of Arabia,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,21,13",
     "id" : 192864,
@@ -281,7 +413,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 21:13\">21:13</a></b> <b>oracle.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Isa 13:1\">13:1</a>.</p><p><b>Dedanites.</b> Dedan was an oasis 200 miles south of Dumah (<a class=\"bibleref\" href=\"/passage/?search=Ezek 27:20\">Ezek. 27:20</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 38:13\">38:13</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,21,14", "isaiah,21,15" ],
+  "verses" : [ {
+    "verse" : "isaiah,21,14",
+    "text" : "bring water for the thirsty; you who live in Tema, bring food for the fugitives."
+  }, {
+    "verse" : "isaiah,21,15",
+    "text" : "They flee from the sword, from the drawn sword, from the bent bow and from the heat of battle."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,21,14",
     "id" : 192865,
@@ -289,7 +427,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 21:14\">21:14</a></b> <b>Tema.</b> This also was an oasis, located 90 miles north of Dedan (<a class=\"bibleref\" href=\"/passage/?search=Jer 25:23\">Jer. 25:23</a>). The desert peoples provide food and water for the fugitives from the battle.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,21,16", "isaiah,21,17" ],
+  "verses" : [ {
+    "verse" : "isaiah,21,16",
+    "text" : "This is what the Lord says to me: \"Within one year, as a servant bound by contract would count it, all the pomp of Kedar will come to an end."
+  }, {
+    "verse" : "isaiah,21,17",
+    "text" : "The survivors of the bowmen, the warriors of Kedar, will be few.\" The LORD, the God of Israel, has spoken."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,21,16",
     "id" : 192866,

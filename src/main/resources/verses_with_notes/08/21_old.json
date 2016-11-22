@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "job,1,1", "job,1,2" ],
+  "verses" : [ {
+    "verse" : "job,1,1",
+    "text" : "In the land of Uz there lived a man whose name was Job. This man was blameless and upright; he feared God and shunned evil."
+  }, {
+    "verse" : "job,1,2",
+    "text" : "He had seven sons and three daughters,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,1,1-job,1,5",
     "id" : 189947,
@@ -12,7 +18,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 1:1\">1:1</a></b> <b>Uz.</b> Uz was an extended region east of Judah, perhaps on the edge of the desert, but conducive to raising crops (<a class=\"bibleref\" href=\"/passage/?search=Job 1:14\">v. 14</a>) and livestock (<a class=\"bibleref\" href=\"/passage/?search=Job 1:3\">v. 3</a>). Job was not a nomad but an elder in a major town (<a class=\"bibleref\" href=\"/passage/?search=Job 29:7\">29:7</a>).</p><p><b>blameless and upright.</b> This is ordinary language and does not mean that Job was sinless.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,1,3", "job,1,4" ],
+  "verses" : [ {
+    "verse" : "job,1,3",
+    "text" : "and he owned seven thousand sheep, three thousand camels, five hundred yoke of oxen and five hundred donkeys, and had a large number of servants. He was the greatest man among all the people of the East."
+  }, {
+    "verse" : "job,1,4",
+    "text" : "His sons used to take turns holding feasts in their homes, and they would invite their three sisters to eat and drink with them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,1,3",
     "id" : 189949,
@@ -20,7 +32,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 1:3\">1:3</a></b> <b>sheep . . . camels . . . oxen . . . donkeys.</b> Patriarchal wealth was measured by amount of livestock (cf. <a class=\"bibleref\" href=\"/passage/?search=Gen 30:43\">Gen. 30:43</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,1,5" ],
+  "verses" : [ {
+    "verse" : "job,1,5",
+    "text" : "When a period of feasting had run its course, Job would send and have them purified. Early in the morning he would sacrifice a burnt offering for each of them, thinking, \"Perhaps my children have sinned and cursed God in their hearts.\" This was Job's regular custom."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,1,5",
     "id" : 189950,
@@ -28,7 +43,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 1:5\">1:5</a></b> <b>consecrate them.</b> Job was rightly concerned for the spiritual welfare of his children.</p><p><b>offer burnt offerings.</b> By this means of grace the patriarch Job, like Abraham (<a class=\"bibleref\" href=\"/passage/?search=Gen 15:9\">Gen. 15:9</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 15:10\">10</a>), filled the role of priest for the family, consecrating his children to the Lord.</p><p><b>cursed God in their hearts.</b> The Hebrew reads lit. “blessed God,” but that is a euphemism. Cursing God was a sin about which Job himself would be tested (v. 11).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,1,6", "job,1,7" ],
+  "verses" : [ {
+    "verse" : "job,1,6",
+    "text" : "One day the angels came to present themselves before the LORD, and Satan also came with them."
+  }, {
+    "verse" : "job,1,7",
+    "text" : "The LORD said to Satan, \"Where have you come from?\" Satan answered the LORD, \"From roaming through the earth and going back and forth in it.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,1,6-job,2,13",
     "id" : 189951,
@@ -46,7 +67,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 1:6\">1:6</a></b> <b>Satan.</b> See theological note “Satan.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,1,8", "job,1,9", "job,1,10" ],
+  "verses" : [ {
+    "verse" : "job,1,8",
+    "text" : "Then the LORD said to Satan, \"Have you considered my servant Job? There is no one on earth like him; he is blameless and upright, a man who fears God and shuns evil.\""
+  }, {
+    "verse" : "job,1,9",
+    "text" : "\"Does Job fear God for nothing?\" Satan replied."
+  }, {
+    "verse" : "job,1,10",
+    "text" : "\"Have you not put a hedge around him and his household and everything he has? You have blessed the work of his hands, so that his flocks and herds are spread throughout the land."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,1,8",
     "id" : 189954,
@@ -54,7 +84,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 1:8\">1:8</a></b> Job is honored by God, who approves of him as a true and faithful servant, i.e., one keeping the solemn oaths of the covenant relationship. It is God, not Satan, who singles out Job for testing.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,1,11" ],
+  "verses" : [ {
+    "verse" : "job,1,11",
+    "text" : "But stretch out your hand and strike everything he has, and he will surely curse you to your face.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,1,11",
     "id" : 189955,
@@ -62,7 +95,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 1:11\">1:11</a></b> Will Job, who was so sensitive to the possibility of his children cursing God, now sin that way himself?</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,1,12" ],
+  "verses" : [ {
+    "verse" : "job,1,12",
+    "text" : "The LORD said to Satan, \"Very well, then, everything he has is in your hands, but on the man himself do not lay a finger.\" Then Satan went out from the presence of the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,1,12",
     "id" : 189956,
@@ -70,7 +106,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 1:12\">1:12</a></b> The Adversary is allowed to test Job, but at this point, only with regard to his possessions and family. His power is restricted to what is permitted by the Lord.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,1,13", "job,1,14", "job,1,15", "job,1,16", "job,1,17", "job,1,18", "job,1,19" ],
+  "verses" : [ {
+    "verse" : "job,1,13",
+    "text" : "One day when Job's sons and daughters were feasting and drinking wine at the oldest brother's house,"
+  }, {
+    "verse" : "job,1,14",
+    "text" : "a messenger came to Job and said, \"The oxen were plowing and the donkeys were grazing nearby,"
+  }, {
+    "verse" : "job,1,15",
+    "text" : "and the Sabeans attacked and carried them off. They put the servants to the sword, and I am the only one who has escaped to tell you!\""
+  }, {
+    "verse" : "job,1,16",
+    "text" : "While he was still speaking, another messenger came and said, \"The fire of God fell from the sky and burned up the sheep and the servants, and I am the only one who has escaped to tell you!\""
+  }, {
+    "verse" : "job,1,17",
+    "text" : "While he was still speaking, another messenger came and said, \"The Chaldeans formed three raiding parties and swept down on your camels and carried them off. They put the servants to the sword, and I am the only one who has escaped to tell you!\""
+  }, {
+    "verse" : "job,1,18",
+    "text" : "While he was still speaking, yet another messenger came and said, \"Your sons and daughters were feasting and drinking wine at the oldest brother's house,"
+  }, {
+    "verse" : "job,1,19",
+    "text" : "when suddenly a mighty wind swept in from the desert and struck the four corners of the house. It collapsed on them and they are dead, and I am the only one who has escaped to tell you!\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,1,13-job,1,22",
     "id" : 189957,
@@ -78,7 +135,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 1:13-Job 1:22\">1:13–22</a></b> Despite Satan’s divinely-permitted (and divinely-limited) assaults on his possessions, servants, and children, Job remains steadfast in his belief that God is good.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,1,20", "job,1,21", "job,1,22" ],
+  "verses" : [ {
+    "verse" : "job,1,20",
+    "text" : "At this, Job got up and tore his robe and shaved his head. Then he fell to the ground in worship"
+  }, {
+    "verse" : "job,1,21",
+    "text" : "and said: \"Naked I came from my mother's womb, and naked I will depart. The LORD gave and the LORD has taken away; may the name of the LORD be praised.\""
+  }, {
+    "verse" : "job,1,22",
+    "text" : "In all this, Job did not sin by charging God with wrongdoing."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,1,20-job,1,22",
     "id" : 189958,
@@ -86,7 +152,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 1:20-Job 1:22\">1:20–22</a></b> Job utters a wisdom poem that portrays the wisdom of quiet submission to the secret will of God. Everything belongs to the Creator who gave it. God’s people must praise Him for whatever He does with what is His. The word “blessed,” (or “praised,” <a class=\"bibleref\" href=\"/passage/?search=Job 1:21\">v. 21</a>) is the same used in <a class=\"bibleref\" href=\"/passage/?search=Job 1:11\">v. 11</a> for “cursed.” By using it here, the author is stressing how Job has frustrated Satan’s predictions in <a class=\"bibleref\" href=\"/passage/?search=Job 1:11\">v. 11</a>. But <a class=\"bibleref\" href=\"/passage/?search=Job 1:22\">v. 22</a> implies the testing is not yet over.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,2,1", "job,2,2" ],
+  "verses" : [ {
+    "verse" : "job,2,1",
+    "text" : "On another day the angels came to present themselves before the LORD, and Satan also came with them to present himself before him."
+  }, {
+    "verse" : "job,2,2",
+    "text" : "And the LORD said to Satan, \"Where have you come from?\" Satan answered the LORD, \"From roaming through the earth and going back and forth in it.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,2,1-job,2,6",
     "id" : 189959,
@@ -94,7 +166,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 2:1-Job 2:6\">2:1–6</a></b> Further developments in heaven—another round of accusations from Satan—precede more suffering for Job on earth.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,2,3" ],
+  "verses" : [ {
+    "verse" : "job,2,3",
+    "text" : "Then the LORD said to Satan, \"Have you considered my servant Job? There is no one on earth like him; he is blameless and upright, a man who fears God and shuns evil. And he still maintains his integrity, though you incited me against him to ruin him without any reason.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,2,3",
     "id" : 189960,
@@ -102,7 +177,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 2:3\">2:3</a></b> <b>holds fast his integrity . . . without reason.</b> The sudden change from the words of <a class=\"bibleref\" href=\"/passage/?search=Job 1:6-Job 1:8\">1:6–8</a> at the end of <a class=\"bibleref\" href=\"/passage/?search=Job 2:1-Job 2:3\">2:1–3</a> shows how the Adversary, who has lost the first round, is humiliated by God through a bit of irony. The same word Satan had used to accuse Job is used here, translated “without reason.” It is the Adversary who has done wrong, not Job.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,2,4", "job,2,5" ],
+  "verses" : [ {
+    "verse" : "job,2,4",
+    "text" : "\"Skin for skin!\" Satan replied. \"A man will give all he has for his own life."
+  }, {
+    "verse" : "job,2,5",
+    "text" : "But stretch out your hand and strike his flesh and bones, and he will surely curse you to your face.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,2,4",
     "id" : 189961,
@@ -110,7 +191,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 2:4\">2:4</a></b> <b>Skin for skin.</b> Satan is suggesting that even Job’s statement of faith in <a class=\"bibleref\" href=\"/passage/?search=Job 1:21\">1:21</a> is nothing but a ploy. He is willing to sacrifice anything for his own skin. If God will only stretch out His hand and strike Job’s body, then he would curse God to His face.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,2,6" ],
+  "verses" : [ {
+    "verse" : "job,2,6",
+    "text" : "The LORD said to Satan, \"Very well, then, he is in your hands; but you must spare his life.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,2,6",
     "id" : 189962,
@@ -118,7 +202,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 2:6\">2:6</a></b> <b>spare his life.</b> God permits the Adversary to be used as His instrument to strike Job. This brings up the problem of evil. Satan, as a creature, is reined in. He is allowed to go only as far as God permits. The word translated “spare” can be translated “safeguard”; it would appear that Satan is being held responsible for Job’s life.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,2,7" ],
+  "verses" : [ {
+    "verse" : "job,2,7",
+    "text" : "So Satan went out from the presence of the LORD and afflicted Job with painful sores from the soles of his feet to the top of his head."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,2,7-job,2,10",
     "id" : 189963,
@@ -131,7 +218,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 2:7\">2:7</a></b> <b>loathsome sores.</b> We have no way of knowing the exact nature of Job’s disease.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,2,8" ],
+  "verses" : [ {
+    "verse" : "job,2,8",
+    "text" : "Then Job took a piece of broken pottery and scraped himself with it as he sat among the ashes."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,2,8",
     "id" : 189965,
@@ -139,7 +229,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 2:8\">2:8</a></b> <b>sat in the ashes.</b> Perhaps by trial and error the ancients learned that the ashes were a place where disease would not spread. Or it may simply have been a way of lamenting.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,2,9" ],
+  "verses" : [ {
+    "verse" : "job,2,9",
+    "text" : "His wife said to him, \"Are you still holding on to your integrity? Curse God and die!\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,2,9",
     "id" : 189966,
@@ -147,7 +240,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 2:9\">2:9</a></b> Job’s wife was unaware of God’s guarantee that Job’s life would not be taken.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,2,10" ],
+  "verses" : [ {
+    "verse" : "job,2,10",
+    "text" : "He replied, \"You are talking like a foolish woman. Shall we accept good from God, and not trouble?\" In all this, Job did not sin in what he said."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,2,10",
     "id" : 189967,
@@ -155,7 +251,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 2:10\">2:10</a></b> <b>foolish.</b> The Hebrew word for “foolish” or “fool” has to do with faithlessness and religious apostasy, as in <a class=\"bibleref\" href=\"/passage/?search=Ps 14:1\">Ps. 14:1</a> (cf. 53:1). It is more an ethical judgment than an intellectual one.</p><p><b>Job did not sin with his lips.</b> This stress on the purity of Job’s speech is an anticipation of the contrast that will come in the dialogue, where Job’s words are less pure.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,2,11", "job,2,12" ],
+  "verses" : [ {
+    "verse" : "job,2,11",
+    "text" : "When Job's three friends, Eliphaz the Temanite, Bildad the Shuhite and Zophar the Naamathite, heard about all the troubles that had come upon him, they set out from their homes and met together by agreement to go and sympathize with him and comfort him."
+  }, {
+    "verse" : "job,2,12",
+    "text" : "When they saw him from a distance, they could hardly recognize him; they began to weep aloud, and they tore their robes and sprinkled dust on their heads."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,2,11-job,2,13",
     "id" : 189968,
@@ -163,7 +265,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 2:11-Job 2:13\">2:11–13</a></b> Job’s friends arrive to comfort him in the midst of his terrible suffering.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,2,13" ],
+  "verses" : [ {
+    "verse" : "job,2,13",
+    "text" : "Then they sat on the ground with him for seven days and seven nights. No one said a word to him, because they saw how great his suffering was."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,2,13",
     "id" : 189969,
@@ -171,7 +276,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 2:13\">2:13</a></b> <b>they sat with him on the ground seven days and seven nights, and no one spoke a word to him.</b> This behavior, tied to the number of completeness (seven), expresses the most intense form of grief they could display. Near Eastern protocol demanded that Job should be the first to speak. For the practice of mourning seven days over the dead, see <a class=\"bibleref\" href=\"/passage/?search=Gen 50:10\">Gen. 50:10</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,3,1", "job,3,2" ],
+  "verses" : [ {
+    "verse" : "job,3,1",
+    "text" : "After this, Job opened his mouth and cursed the day of his birth."
+  }, {
+    "verse" : "job,3,2",
+    "text" : "He said:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,3,1-job,27,23",
     "id" : 189970,
@@ -184,7 +295,31 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 3\">3:1–26</a></b> Job breaks the silence with a fiercely emotional lamentation. He expresses the same kind of depression that overtook the psalmist (<a class=\"bibleref\" href=\"/passage/?search=Ps 88\">Ps. 88</a>) and also Jeremiah (<a class=\"bibleref\" href=\"/passage/?search=Jer 20:14\">Jer. 20:14</a>, <a class=\"bibleref\" href=\"/passage/?search=Jer 20:15\">15</a>), whose bitter lament is, in language, similar to Job’s.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,3,3", "job,3,4", "job,3,5", "job,3,6", "job,3,7", "job,3,8", "job,3,9", "job,3,10" ],
+  "verses" : [ {
+    "verse" : "job,3,3",
+    "text" : "\"May the day of my birth perish, and the night it was said, 'A boy is born!'"
+  }, {
+    "verse" : "job,3,4",
+    "text" : "That day-may it turn to darkness; may God above not care about it; may no light shine upon it."
+  }, {
+    "verse" : "job,3,5",
+    "text" : "May darkness and deep shadow claim it once more; may a cloud settle over it; may blackness overwhelm its light."
+  }, {
+    "verse" : "job,3,6",
+    "text" : "That night-may thick darkness seize it; may it not be included among the days of the year nor be entered in any of the months."
+  }, {
+    "verse" : "job,3,7",
+    "text" : "May that night be barren; may no shout of joy be heard in it."
+  }, {
+    "verse" : "job,3,8",
+    "text" : "May those who curse days curse that day, those who are ready to rouse Leviathan."
+  }, {
+    "verse" : "job,3,9",
+    "text" : "May its morning stars become dark; may it wait for daylight in vain and not see the first rays of dawn,"
+  }, {
+    "verse" : "job,3,10",
+    "text" : "for it did not shut the doors of the womb on me to hide trouble from my eyes."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,3,3-job,3,10",
     "id" : 189972,
@@ -192,7 +327,55 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 3:3-Job 3:10\">3:3–10</a></b> Job does not curse God, but he goes so far as to question God’s wisdom in giving him life.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,3,11", "job,3,12", "job,3,13", "job,3,14", "job,3,15", "job,3,16", "job,3,17", "job,3,18", "job,3,19", "job,3,20", "job,3,21", "job,3,22", "job,3,23", "job,3,24", "job,3,25", "job,3,26" ],
+  "verses" : [ {
+    "verse" : "job,3,11",
+    "text" : "\"Why did I not perish at birth, and die as I came from the womb?"
+  }, {
+    "verse" : "job,3,12",
+    "text" : "Why were there knees to receive me and breasts that I might be nursed?"
+  }, {
+    "verse" : "job,3,13",
+    "text" : "For now I would be lying down in peace; I would be asleep and at rest"
+  }, {
+    "verse" : "job,3,14",
+    "text" : "with kings and counselors of the earth, who built for themselves places now lying in ruins,"
+  }, {
+    "verse" : "job,3,15",
+    "text" : "with rulers who had gold, who filled their houses with silver."
+  }, {
+    "verse" : "job,3,16",
+    "text" : "Or why was I not hidden in the ground like a stillborn child, like an infant who never saw the light of day?"
+  }, {
+    "verse" : "job,3,17",
+    "text" : "There the wicked cease from turmoil, and there the weary are at rest."
+  }, {
+    "verse" : "job,3,18",
+    "text" : "Captives also enjoy their ease; they no longer hear the slave driver's shout."
+  }, {
+    "verse" : "job,3,19",
+    "text" : "The small and the great are there, and the slave is freed from his master."
+  }, {
+    "verse" : "job,3,20",
+    "text" : "\"Why is light given to those in misery, and life to the bitter of soul,"
+  }, {
+    "verse" : "job,3,21",
+    "text" : "to those who long for death that does not come, who search for it more than for hidden treasure,"
+  }, {
+    "verse" : "job,3,22",
+    "text" : "who are filled with gladness and rejoice when they reach the grave?"
+  }, {
+    "verse" : "job,3,23",
+    "text" : "Why is life given to a man whose way is hidden, whom God has hedged in?"
+  }, {
+    "verse" : "job,3,24",
+    "text" : "For sighing comes to me instead of food; my groans pour out like water."
+  }, {
+    "verse" : "job,3,25",
+    "text" : "What I feared has come upon me; what I dreaded has happened to me."
+  }, {
+    "verse" : "job,3,26",
+    "text" : "I have no peace, no quietness; I have no rest, but only turmoil.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,3,11-job,3,26",
     "id" : 189973,

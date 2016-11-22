@@ -1,8 +1,29 @@
 [ {
-  "singleVerses" : [ "matthew,12,46", "matthew,12,47", "matthew,12,48", "matthew,12,49", "matthew,12,50" ],
+  "verses" : [ {
+    "verse" : "matthew,12,46",
+    "text" : "While Jesus was still talking to the crowd, his mother and brothers stood outside, wanting to speak to him."
+  }, {
+    "verse" : "matthew,12,47",
+    "text" : "Someone told him, \"Your mother and brothers are standing outside, wanting to speak to you.\""
+  }, {
+    "verse" : "matthew,12,48",
+    "text" : "He replied to him, \"Who is my mother, and who are my brothers?\""
+  }, {
+    "verse" : "matthew,12,49",
+    "text" : "Pointing to his disciples, he said, \"Here are my mother and my brothers."
+  }, {
+    "verse" : "matthew,12,50",
+    "text" : "For whoever does the will of my Father in heaven is my brother and sister and mother.\""
+  } ],
   "rsbNotes" : [ ]
 }, {
-  "singleVerses" : [ "matthew,13,1", "matthew,13,2" ],
+  "verses" : [ {
+    "verse" : "matthew,13,1",
+    "text" : "That same day Jesus went out of the house and sat by the lake."
+  }, {
+    "verse" : "matthew,13,2",
+    "text" : "Such large crowds gathered around him that he got into a boat and sat in it, while all the people stood on the shore."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,13,1-matthew,13,53",
     "id" : 195763,
@@ -10,7 +31,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 13:1-Matt 13:53\">13:1–53</a></b> This collection of parables on the nature of the kingdom of heaven is the third great discourse in Matthew (Introduction: Characteristics and Themes).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,13,3", "matthew,13,4", "matthew,13,5", "matthew,13,6", "matthew,13,7", "matthew,13,8", "matthew,13,9" ],
+  "verses" : [ {
+    "verse" : "matthew,13,3",
+    "text" : "Then he told them many things in parables, saying: \"A farmer went out to sow his seed."
+  }, {
+    "verse" : "matthew,13,4",
+    "text" : "As he was scattering the seed, some fell along the path, and the birds came and ate it up."
+  }, {
+    "verse" : "matthew,13,5",
+    "text" : "Some fell on rocky places, where it did not have much soil. It sprang up quickly, because the soil was shallow."
+  }, {
+    "verse" : "matthew,13,6",
+    "text" : "But when the sun came up, the plants were scorched, and they withered because they had no root."
+  }, {
+    "verse" : "matthew,13,7",
+    "text" : "Other seed fell among thorns, which grew up and choked the plants."
+  }, {
+    "verse" : "matthew,13,8",
+    "text" : "Still other seed fell on good soil, where it produced a crop--a hundred, sixty or thirty times what was sown."
+  }, {
+    "verse" : "matthew,13,9",
+    "text" : "He who has ears, let him hear.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,13,3",
     "id" : 195764,
@@ -18,7 +60,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 13:3\">13:3</a></b> <b>parables.</b> Although the term “parable” can have a broad range of meanings, Jesus’ “parables” are His distinctive teaching through brief comparisons or narratives. They usually have one central point or idea. Most of Jesus’ parables are clear, but they also contain a depth of meaning that only one with a right relationship to Jesus can comprehend. It is only to the disciples that Jesus gives the interpretation of the parable of the sower (<a class=\"bibleref\" href=\"/passage/?search=Matt 13:18-Matt 13:23\">vv. 18–23</a>) and the parable of the weeds (<a class=\"bibleref\" href=\"/passage/?search=Matt 13:36-Matt 13:43\">vv. 36–43</a>). The ungodly miss this deeper meaning because their lack of a proper relationship with God has darkened their thoughts and hearts (<a class=\"bibleref\" href=\"/passage/?search=Rom 1:21\">Rom. 1:21</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,13,10" ],
+  "verses" : [ {
+    "verse" : "matthew,13,10",
+    "text" : "The disciples came to him and asked, \"Why do you speak to the people in parables?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,13,10",
     "id" : 195765,
@@ -26,7 +71,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 13:10\">13:10</a></b> <b>in parables.</b> See “The Teaching of Jesus” at <a class=\"bibleref\" href=\"/passage/?search=Matt 7:28\">Matt. 7:28</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,13,11" ],
+  "verses" : [ {
+    "verse" : "matthew,13,11",
+    "text" : "He replied, \"The knowledge of the secrets of the kingdom of heaven has been given to you, but not to them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,13,11-matthew,13,17",
     "id" : 195766,
@@ -39,7 +87,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 13:11\">13:11</a></b> <b>To you . . . to them.</b> The “secrets” of the kingdom are the things that were indicated in veiled manner in the Old Testament, but are now made clear to the disciples by the coming of the King. See “Illumination and Conviction” at <a class=\"bibleref\" href=\"/passage/?search=1Cor 2:10\">1 Cor. 2:10</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,13,12" ],
+  "verses" : [ {
+    "verse" : "matthew,13,12",
+    "text" : "Whoever has will be given more, and he will have an abundance. Whoever does not have, even what he has will be taken from him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,13,12",
     "id" : 195768,
@@ -47,7 +98,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 13:12\">13:12</a></b> To those who have a relationship with Jesus, parables deepen understanding and foster that relationship, but to those who do not, parables increase the confusion and ignorance. Thus the function of parables is both to enlighten and to conceal.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,13,13", "matthew,13,14", "matthew,13,15", "matthew,13,16", "matthew,13,17", "matthew,13,18" ],
+  "verses" : [ {
+    "verse" : "matthew,13,13",
+    "text" : "This is why I speak to them in parables: \"Though seeing, they do not see; though hearing, they do not hear or understand."
+  }, {
+    "verse" : "matthew,13,14",
+    "text" : "In them is fulfilled the prophecy of Isaiah: \"'You will be ever hearing but never understanding; you will be ever seeing but never perceiving."
+  }, {
+    "verse" : "matthew,13,15",
+    "text" : "For this people's heart has become calloused; they hardly hear with their ears, and they have closed their eyes. Otherwise they might see with their eyes, hear with their ears, understand with their hearts and turn, and I would heal them.'"
+  }, {
+    "verse" : "matthew,13,16",
+    "text" : "But blessed are your eyes because they see, and your ears because they hear."
+  }, {
+    "verse" : "matthew,13,17",
+    "text" : "For I tell you the truth, many prophets and righteous men longed to see what you see but did not see it, and to hear what you hear but did not hear it."
+  }, {
+    "verse" : "matthew,13,18",
+    "text" : "\"Listen then to what the parable of the sower means:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,13,13",
     "id" : 195769,
@@ -55,7 +124,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 13:13\">13:13</a></b> <b>because seeing.</b> <a class=\"bibleref\" href=\"/passage/?search=Mark 4:12\">Mark 4:12</a> (cf. <a class=\"bibleref\" href=\"/passage/?search=Luke 8:10\">Luke 8:10</a>) phrases this statement even more strongly, with “so that” rather than “because.” For Mark Jesus’ purpose in telling parables is to prevent understanding and to cause unbelief (<a class=\"bibleref\" href=\"/passage/?search=Mark 4:11\">Mark 4:11</a> note); in Matthew Jesus’ parables are in response to people’s unbelief and inability to understand. Though some argue that Matthew softens the note of divine sovereignty seen in Mark, the word “lest” in v. 15 indicates that God’s sovereign choice lies behind the hardening of their hearts whether it precedes (Matthew) or follows (Mark) an encounter with Jesus’ teaching. While in this passage Matthew highlights the moral responsibility of those who reject Christ, his inclusion of the reference to <a class=\"bibleref\" href=\"/passage/?search=Isa 6:9\">Is. 6:9</a>, <a class=\"bibleref\" href=\"/passage/?search=Isa 6:10\">10</a> illustrates the compatibility of God’s sovereignty and human responsibility. The parables served as an instrument of judgment by hardening the impenitent.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,13,19", "matthew,13,20", "matthew,13,21" ],
+  "verses" : [ {
+    "verse" : "matthew,13,19",
+    "text" : "When anyone hears the message about the kingdom and does not understand it, the evil one comes and snatches away what was sown in his heart. This is the seed sown along the path."
+  }, {
+    "verse" : "matthew,13,20",
+    "text" : "The one who received the seed that fell on rocky places is the man who hears the word and at once receives it with joy."
+  }, {
+    "verse" : "matthew,13,21",
+    "text" : "But since he has no root, he lasts only a short time. When trouble or persecution comes because of the word, he quickly falls away."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,13,19",
     "id" : 195770,
@@ -63,7 +141,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 13:19\">13:19</a></b> <b>of the kingdom.</b> See “The Kingdom of God” at <a class=\"bibleref\" href=\"/passage/?search=Luke 17:20\">Luke 17:20</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,13,22" ],
+  "verses" : [ {
+    "verse" : "matthew,13,22",
+    "text" : "The one who received the seed that fell among the thorns is the man who hears the word, but the worries of this life and the deceitfulness of wealth choke it, making it unfruitful."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,13,22",
     "id" : 195771,
@@ -71,7 +152,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 13:22\">13:22</a></b> <b>deceitfulness of riches.</b> Wealth is a blessing from God, but it is a dangerous blessing if it captivates the heart.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,13,23" ],
+  "verses" : [ {
+    "verse" : "matthew,13,23",
+    "text" : "But the one who received the seed that fell on good soil is the man who hears the word and understands it. He produces a crop, yielding a hundred, sixty or thirty times what was sown.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,13,23",
     "id" : 195772,

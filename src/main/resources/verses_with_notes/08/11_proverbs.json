@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,21,4" ],
+  "verses" : [ {
+    "verse" : "proverbs,21,4",
+    "text" : "Haughty eyes and a proud heart, the lamp of the wicked, are sin!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

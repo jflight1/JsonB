@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,19,26" ],
+  "verses" : [ {
+    "verse" : "proverbs,19,26",
+    "text" : "He who robs his father and drives out his mother is a son who brings shame and disgrace."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

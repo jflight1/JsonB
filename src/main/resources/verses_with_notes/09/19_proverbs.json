@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,23,22" ],
+  "verses" : [ {
+    "verse" : "proverbs,23,22",
+    "text" : "Listen to your father, who gave you life, and do not despise your mother when she is old."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,22,17-proverbs,24,22",
     "id" : 192162,

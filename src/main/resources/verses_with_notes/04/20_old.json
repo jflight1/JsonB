@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "joshua,21,1" ],
+  "verses" : [ {
+    "verse" : "joshua,21,1",
+    "text" : "Now the family heads of the Levites approached Eleazar the priest, Joshua son of Nun, and the heads of the other tribal families of Israel"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,13,1-joshua,21,45",
     "id" : 186855,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 21:1-Josh 21:42\">21:1–42</a></b> The last part of the division of the land is the assignment of towns to the Levites, whose lack of an inheritance in the land has been mentioned in <a class=\"bibleref\" href=\"/passage/?search=Josh 13:14\">13:14</a> (note), 33; <a class=\"bibleref\" href=\"/passage/?search=Josh 14:3-Josh 14:4\">14:3–4</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 18:7\">18:7</a>. These towns continued to belong to the tribes to which they had been assigned, but were provided, along with adjoining pasturelands (<a class=\"bibleref\" href=\"/passage/?search=Josh 18:8\">v. 8</a>), for the Levites to live in.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,21,2" ],
+  "verses" : [ {
+    "verse" : "joshua,21,2",
+    "text" : "at Shiloh in Canaan and said to them, \"The LORD commanded through Moses that you give us towns to live in, with pasturelands for our livestock.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,21,2",
     "id" : 186923,
@@ -20,7 +26,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 21:2\">21:2</a></b> <b>The <span class=\"small-caps\">Lord</span> commanded through Moses.</b> Refers to <a class=\"bibleref\" href=\"/passage/?search=Num 35:1-Num 35:8\">Num. 35:1–8</a>. The request of the Levites, like that of Caleb in 14:6–12, was an expression of faith in the promise of God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,21,3" ],
+  "verses" : [ {
+    "verse" : "joshua,21,3",
+    "text" : "So, as the LORD had commanded, the Israelites gave the Levites the following towns and pasturelands out of their own inheritance:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,21,3",
     "id" : 186924,
@@ -28,7 +37,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 21:3\">21:3</a></b> <b>inheritance.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Josh 1:6\">1:6</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,21,4", "joshua,21,5" ],
+  "verses" : [ {
+    "verse" : "joshua,21,4",
+    "text" : "The first lot came out for the Kohathites, clan by clan. The Levites who were descendants of Aaron the priest were allotted thirteen towns from the tribes of Judah, Simeon and Benjamin."
+  }, {
+    "verse" : "joshua,21,5",
+    "text" : "The rest of Kohath's descendants were allotted ten towns from the clans of the tribes of Ephraim, Dan and half of Manasseh."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,21,4",
     "id" : 186925,
@@ -36,7 +51,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 21:4\">21:4</a></b> <b>lot.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Josh 15:1\">15:1</a>.</p><p><b>Kohathites.</b> Kohath was Levi’s second son (<a class=\"bibleref\" href=\"/passage/?search=Exod 6:16\">Ex. 6:16</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 3:17\">Num. 3:17</a>), but his descendants have precedence because the priestly line through Aaron descended from him (<a class=\"bibleref\" href=\"/passage/?search=Exod 6:18\">Ex. 6:18</a>, <a class=\"bibleref\" href=\"/passage/?search=Exod 6:20\">20</a>). Aaron and his sons were chosen by God to be priests (<a class=\"bibleref\" href=\"/passage/?search=Exod 28:1\">Ex. 28:1</a>; <a class=\"bibleref\" href=\"/passage/?search=Lev 8\">Lev. 8:1–36</a>).</p><p><b>Judah, Simeon, and Benjamin.</b> The towns allotted for these tribes were near Jerusalem, where the temple would later be built, although Jerusalem itself is not mentioned in this chapter.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,21,6" ],
+  "verses" : [ {
+    "verse" : "joshua,21,6",
+    "text" : "The descendants of Gershon were allotted thirteen towns from the clans of the tribes of Issachar, Asher, Naphtali and the half-tribe of Manasseh in Bashan."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,21,6",
     "id" : 186926,
@@ -44,7 +62,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 21:6\">21:6</a></b> <b>Gershonites.</b> Descendants of Levi’s first son (<a class=\"bibleref\" href=\"/passage/?search=Exod 6:16\">Ex. 6:16</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 3:17\">Num. 3:17</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,21,7", "joshua,21,8", "joshua,21,9" ],
+  "verses" : [ {
+    "verse" : "joshua,21,7",
+    "text" : "The descendants of Merari, clan by clan, received twelve towns from the tribes of Reuben, Gad and Zebulun."
+  }, {
+    "verse" : "joshua,21,8",
+    "text" : "So the Israelites allotted to the Levites these towns and their pasturelands, as the LORD had commanded through Moses."
+  }, {
+    "verse" : "joshua,21,9",
+    "text" : "From the tribes of Judah and Simeon they allotted the following towns by name"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,21,7",
     "id" : 186927,
@@ -52,7 +79,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 21:7\">21:7</a></b> <b>Merarites.</b> Descendants of Levi’s third son (<a class=\"bibleref\" href=\"/passage/?search=Exod 6:16\">Ex. 6:16</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 3:17\">Num. 3:17</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,21,10", "joshua,21,11" ],
+  "verses" : [ {
+    "verse" : "joshua,21,10",
+    "text" : "(these towns were assigned to the descendants of Aaron who were from the Kohathite clans of the Levites, because the first lot fell to them):"
+  }, {
+    "verse" : "joshua,21,11",
+    "text" : "They gave them Kiriath Arba (that is, Hebron), with its surrounding pastureland, in the hill country of Judah. (Arba was the forefather of Anak.)"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,21,10",
     "id" : 186928,
@@ -60,7 +93,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 21:10\">21:10</a></b> <b>first.</b> The precedence of the priestly line is emphasized (<a class=\"bibleref\" href=\"/passage/?search=Josh 21:4\">v. 4</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,21,12" ],
+  "verses" : [ {
+    "verse" : "joshua,21,12",
+    "text" : "But the fields and villages around the city they had given to Caleb son of Jephunneh as his possession."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,21,12",
     "id" : 186929,
@@ -68,7 +104,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 21:12\">21:12</a></b> <b>Caleb.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Josh 14:6\">14:6</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,21,13", "joshua,21,14", "joshua,21,15", "joshua,21,16" ],
+  "verses" : [ {
+    "verse" : "joshua,21,13",
+    "text" : "So to the descendants of Aaron the priest they gave Hebron (a city of refuge for one accused of murder), Libnah,"
+  }, {
+    "verse" : "joshua,21,14",
+    "text" : "Jattir, Eshtemoa,"
+  }, {
+    "verse" : "joshua,21,15",
+    "text" : "Holon, Debir,"
+  }, {
+    "verse" : "joshua,21,16",
+    "text" : "Ain, Juttah and Beth Shemesh, together with their pasturelands-nine towns from these two tribes."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,21,13",
     "id" : 186930,
@@ -76,7 +124,85 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 21:13\">21:13</a></b> <b>city of refuge.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Josh 20:2\">20:2</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,21,17", "joshua,21,18", "joshua,21,19", "joshua,21,20", "joshua,21,21", "joshua,21,22", "joshua,21,23", "joshua,21,24", "joshua,21,25", "joshua,21,26", "joshua,21,27", "joshua,21,28", "joshua,21,29", "joshua,21,30", "joshua,21,31", "joshua,21,32", "joshua,21,33", "joshua,21,34", "joshua,21,35", "joshua,21,36", "joshua,21,37", "joshua,21,38", "joshua,21,39", "joshua,21,40", "joshua,21,41", "joshua,21,42" ],
+  "verses" : [ {
+    "verse" : "joshua,21,17",
+    "text" : "And from the tribe of Benjamin they gave them Gibeon, Geba,"
+  }, {
+    "verse" : "joshua,21,18",
+    "text" : "Anathoth and Almon, together with their pasturelands-four towns."
+  }, {
+    "verse" : "joshua,21,19",
+    "text" : "All the towns for the priests, the descendants of Aaron, were thirteen, together with their pasturelands."
+  }, {
+    "verse" : "joshua,21,20",
+    "text" : "The rest of the Kohathite clans of the Levites were allotted towns from the tribe of Ephraim:"
+  }, {
+    "verse" : "joshua,21,21",
+    "text" : "In the hill country of Ephraim they were given Shechem (a city of refuge for one accused of murder) and Gezer,"
+  }, {
+    "verse" : "joshua,21,22",
+    "text" : "Kibzaim and Beth Horon, together with their pasturelands-four towns."
+  }, {
+    "verse" : "joshua,21,23",
+    "text" : "Also from the tribe of Dan they received Eltekeh, Gibbethon,"
+  }, {
+    "verse" : "joshua,21,24",
+    "text" : "Aijalon and Gath Rimmon, together with their pasturelands-four towns."
+  }, {
+    "verse" : "joshua,21,25",
+    "text" : "From half the tribe of Manasseh they received Taanach and Gath Rimmon, together with their pasturelands-two towns."
+  }, {
+    "verse" : "joshua,21,26",
+    "text" : "All these ten towns and their pasturelands were given to the rest of the Kohathite clans."
+  }, {
+    "verse" : "joshua,21,27",
+    "text" : "The Levite clans of the Gershonites were given: from the half-tribe of Manasseh, Golan in Bashan (a city of refuge for one accused of murder) and Be Eshtarah, together with their pasturelands-two towns;"
+  }, {
+    "verse" : "joshua,21,28",
+    "text" : "from the tribe of Issachar, Kishion, Daberath,"
+  }, {
+    "verse" : "joshua,21,29",
+    "text" : "Jarmuth and En Gannim, together with their pasturelands-four towns;"
+  }, {
+    "verse" : "joshua,21,30",
+    "text" : "from the tribe of Asher, Mishal, Abdon,"
+  }, {
+    "verse" : "joshua,21,31",
+    "text" : "Helkath and Rehob, together with their pasturelands-four towns;"
+  }, {
+    "verse" : "joshua,21,32",
+    "text" : "from the tribe of Naphtali, Kedesh in Galilee (a city of refuge for one accused of murder), Hammoth Dor and Kartan, together with their pasturelands-three towns."
+  }, {
+    "verse" : "joshua,21,33",
+    "text" : "All the towns of the Gershonite clans were thirteen, together with their pasturelands."
+  }, {
+    "verse" : "joshua,21,34",
+    "text" : "The Merarite clans (the rest of the Levites) were given: from the tribe of Zebulun, Jokneam, Kartah,"
+  }, {
+    "verse" : "joshua,21,35",
+    "text" : "Dimnah and Nahalal, together with their pasturelands-four towns;"
+  }, {
+    "verse" : "joshua,21,36",
+    "text" : "from the tribe of Reuben, Bezer, Jahaz,"
+  }, {
+    "verse" : "joshua,21,37",
+    "text" : "Kedemoth and Mephaath, together with their pasturelands-four towns;"
+  }, {
+    "verse" : "joshua,21,38",
+    "text" : "from the tribe of Gad, Ramoth in Gilead (a city of refuge for one accused of murder), Mahanaim,"
+  }, {
+    "verse" : "joshua,21,39",
+    "text" : "Heshbon and Jazer, together with their pasturelands-four towns in all."
+  }, {
+    "verse" : "joshua,21,40",
+    "text" : "All the towns allotted to the Merarite clans, who were the rest of the Levites, were twelve."
+  }, {
+    "verse" : "joshua,21,41",
+    "text" : "The towns of the Levites in the territory held by the Israelites were forty-eight in all, together with their pasturelands."
+  }, {
+    "verse" : "joshua,21,42",
+    "text" : "Each of these towns had pasturelands surrounding it; this was true for all these towns."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,21,17",
     "id" : 186931,
@@ -84,7 +210,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 21:17\">21:17</a></b> <b>Gibeon.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Josh 9:3\">9:3</a>. The Gibeonites had to serve in the house of God (<a class=\"bibleref\" href=\"/passage/?search=Josh 9:23\">9:23</a> and note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,21,43" ],
+  "verses" : [ {
+    "verse" : "joshua,21,43",
+    "text" : "So the LORD gave Israel all the land he had sworn to give their forefathers, and they took possession of it and settled there."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,21,43-joshua,21,45",
     "id" : 186932,
@@ -97,7 +226,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 21:43\">21:43</a></b> <b>he swore to give to their fathers.</b> The faithfulness of God attested in this book is His faithfulness to the promises made to Abraham, Isaac, and Jacob. In the New Testament, these promises are identified as the gospel (<a class=\"bibleref\" href=\"/passage/?search=Gal 3:8\">Gal. 3:8</a>; Introduction: Characteristics and Themes).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,21,44" ],
+  "verses" : [ {
+    "verse" : "joshua,21,44",
+    "text" : "The LORD gave them rest on every side, just as he had sworn to their forefathers. Not one of their enemies withstood them; the LORD handed all their enemies over to them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,21,44",
     "id" : 186934,
@@ -105,7 +237,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 21:44\">21:44</a></b> <b>Not one . . . withstood.</b> This sums up <a class=\"bibleref\" href=\"/passage/?search=Josh 1-Josh 12\">chs. 1–12</a>, fulfilling the promise of <a class=\"bibleref\" href=\"/passage/?search=Josh 1:5\">1:5</a>.</p><p><b>enemies.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Josh 23:1\">23:1</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,21,45" ],
+  "verses" : [ {
+    "verse" : "joshua,21,45",
+    "text" : "Not one of all the LORD's good promises to the house of Israel failed; every one was fulfilled."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,21,45",
     "id" : 186935,
@@ -113,7 +248,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 21:45\">21:45</a></b> <b>Not one word . . . failed.</b> The writer speaks of the conquest as completed (<a class=\"bibleref\" href=\"/passage/?search=Josh 21:43-Josh 21:45\">vv. 43–45</a> note; <a class=\"bibleref\" href=\"/passage/?search=Josh 10:40-Josh 10:42\">10:40–42</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 11:23\">11:23</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 23:1\">23:1</a>, <a class=\"bibleref\" href=\"/passage/?search=Josh 23:14\">14</a>), while continuing to describe the occupation as incomplete (<a class=\"bibleref\" href=\"/passage/?search=Josh 13:1-Josh 13:7\">13:1–7</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 15:63\">15:63</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 17:12-Josh 17:13\">17:12–13</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 18:3\">18:3</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 23:5\">23:5</a>). A country may officially be defeated and occupied before every part of it ceases resistance.</p><p><b>the house of Israel.</b> Israel is considered as a unity (<a class=\"bibleref\" href=\"/passage/?search=Josh 1:12-Josh 1:15\">1:12–15</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 13:8-Josh 13:33\">13:8–33</a> notes).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,22,1", "joshua,22,2", "joshua,22,3" ],
+  "verses" : [ {
+    "verse" : "joshua,22,1",
+    "text" : "Then Joshua summoned the Reubenites, the Gadites and the half-tribe of Manasseh"
+  }, {
+    "verse" : "joshua,22,2",
+    "text" : "and said to them, \"You have done all that Moses the servant of the LORD commanded, and you have obeyed me in everything I commanded."
+  }, {
+    "verse" : "joshua,22,3",
+    "text" : "For a long time now-to this very day-you have not deserted your brothers but have carried out the mission the LORD your God gave you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,22,1-joshua,24,33",
     "id" : 186936,
@@ -126,7 +270,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 22:1\">22:1</a></b> <b>Reubenites . . . Manasseh.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Josh 13:8-Josh 13:33\">13:8–33</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,22,4" ],
+  "verses" : [ {
+    "verse" : "joshua,22,4",
+    "text" : "Now that the LORD your God has given your brothers rest as he promised, return to your homes in the land that Moses the servant of the LORD gave you on the other side of the Jordan."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,22,4",
     "id" : 186938,
@@ -134,7 +281,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 22:4\">22:4</a></b> <b>rest.</b> See <a class=\"bibleref\" href=\"/passage/?search=Josh 21:44\">21:44</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 1:13\">1:13</a> and note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,22,5" ],
+  "verses" : [ {
+    "verse" : "joshua,22,5",
+    "text" : "But be very careful to keep the commandment and the law that Moses the servant of the LORD gave you: to love the LORD your God, to walk in all his ways, to obey his commands, to hold fast to him and to serve him with all your heart and all your soul.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,22,5",
     "id" : 186939,
@@ -142,7 +292,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 22:5\">22:5</a></b> <b>to observe . . . to love . . . to walk.</b> The various expressions used to describe the proper human response to the grace of God are found in Deuteronomy (<a class=\"bibleref\" href=\"/passage/?search=Josh 4:9\">4:9</a>, 29; <a class=\"bibleref\" href=\"/passage/?search=Josh 6:5\">6:5</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 10:12-Josh 10:13\">10:12–13</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 11:13\">11:13</a> and notes). They portray a wholehearted and confident love and obedience (<a class=\"bibleref\" href=\"/passage/?search=Josh 23:11\">23:11</a> and note; <a class=\"bibleref\" href=\"/passage/?search=John 14:23\">John 14:23</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,22,6", "joshua,22,7" ],
+  "verses" : [ {
+    "verse" : "joshua,22,6",
+    "text" : "Then Joshua blessed them and sent them away, and they went to their homes."
+  }, {
+    "verse" : "joshua,22,7",
+    "text" : "(To the half-tribe of Manasseh Moses had given land in Bashan, and to the other half of the tribe Joshua gave land on the west side of the Jordan with their brothers.) When Joshua sent them home, he blessed them,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,22,6-joshua,22,7",
     "id" : 186940,
@@ -150,7 +306,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 22:6\">22:6</a>, <a class=\"bibleref\" href=\"/passage/?search=Josh 22:7\">7</a> blessed.</b> See <a class=\"bibleref\" href=\"/passage/?search=Josh 8:33\">8:33</a> note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,22,8" ],
+  "verses" : [ {
+    "verse" : "joshua,22,8",
+    "text" : "saying, \"Return to your homes with your great wealth-with large herds of livestock, with silver, gold, bronze and iron, and a great quantity of clothing-and divide with your brothers the plunder from your enemies.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,22,8",
     "id" : 186941,
@@ -158,7 +317,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 22:8\">22:8</a></b> <b>Go back.</b> Joshua’s words of blessing are in the form of commands (like <a class=\"bibleref\" href=\"/passage/?search=Gen 1:28\">Gen. 1:28</a>). To obey them is to receive the benefit.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,22,9" ],
+  "verses" : [ {
+    "verse" : "joshua,22,9",
+    "text" : "So the Reubenites, the Gadites and the half-tribe of Manasseh left the Israelites at Shiloh in Canaan to return to Gilead, their own land, which they had acquired in accordance with the command of the LORD through Moses."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,22,9",
     "id" : 186942,
@@ -166,7 +328,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 22:9\">22:9</a></b> <b>Shiloh.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Josh 18:1\">18:1</a>.</p><p><b>Gilead.</b> Referring generally to the land east of the Jordan.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,22,10", "joshua,22,11" ],
+  "verses" : [ {
+    "verse" : "joshua,22,10",
+    "text" : "When they came to Geliloth near the Jordan in the land of Canaan, the Reubenites, the Gadites and the half-tribe of Manasseh built an imposing altar there by the Jordan."
+  }, {
+    "verse" : "joshua,22,11",
+    "text" : "And when the Israelites heard that they had built the altar on the border of Canaan at Geliloth near the Jordan on the Israelite side,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,22,10",
     "id" : 186943,
@@ -174,7 +342,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 22:10\">22:10</a></b> <b>an altar of imposing size.</b> It would serve as a monument (<a class=\"bibleref\" href=\"/passage/?search=Josh 22:27\">v. 27</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,22,12" ],
+  "verses" : [ {
+    "verse" : "joshua,22,12",
+    "text" : "the whole assembly of Israel gathered at Shiloh to go to war against them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,22,12",
     "id" : 186944,
@@ -182,7 +353,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 22:12\">22:12</a></b> <b>the whole assembly.</b> See <a class=\"bibleref\" href=\"/passage/?search=Josh 8:35\">8:35</a> and note.</p><p><b>to make war.</b> The reaction of the Israelites can be understood in light of the command to have no rival altars to the one at the central sanctuary (<a class=\"bibleref\" href=\"/passage/?search=Lev 17:8-Lev 17:9\">Lev. 17:8–9</a>). The law demanded disciplinary action against apostasy (<a class=\"bibleref\" href=\"/passage/?search=Deut 13:12-Deut 13:18\">Deut. 13:12–18</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,22,13", "joshua,22,14", "joshua,22,15" ],
+  "verses" : [ {
+    "verse" : "joshua,22,13",
+    "text" : "So the Israelites sent Phinehas son of Eleazar, the priest, to the land of Gilead-to Reuben, Gad and the half-tribe of Manasseh."
+  }, {
+    "verse" : "joshua,22,14",
+    "text" : "With him they sent ten of the chief men, one for each of the tribes of Israel, each the head of a family division among the Israelite clans."
+  }, {
+    "verse" : "joshua,22,15",
+    "text" : "When they went to Gilead-to Reuben, Gad and the half-tribe of Manasseh-they said to them:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,22,13",
     "id" : 186945,
@@ -190,7 +370,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 22:13\">22:13</a></b> <b>Phinehas.</b> His action at Peor (<a class=\"bibleref\" href=\"/passage/?search=Josh 22:17\">v. 17</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 25:7-Num 25:8\">Num. 25:7–8</a>) adds solemnity to his being chosen for this mission.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,22,16" ],
+  "verses" : [ {
+    "verse" : "joshua,22,16",
+    "text" : "\"The whole assembly of the LORD says: 'How could you break faith with the God of Israel like this? How could you turn away from the LORD and build yourselves an altar in rebellion against him now?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,22,16",
     "id" : 186946,
@@ -198,7 +381,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 22:16\">22:16</a></b> <b>the whole congregation.</b> The unity of Israel is emphasized throughout Joshua. Geographical boundaries and differences of experience are transcended by the one God, under whose promises all Israel is one people (<a class=\"bibleref\" href=\"/passage/?search=Josh 13:8-Josh 13:33\">13:8–33</a> note). The corollary is that apostasy and rebellion against God will destroy this unity.</p><p><b>turning away.</b> Apostasy is turning away from the Lord; repentance is turning away from sin and toward the Lord (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 8:33\">1 Kin. 8:33</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 3:7\">Jer. 3:7</a>; <a class=\"bibleref\" href=\"/passage/?search=Hos 6:1\">Hos. 6:1</a>).</p><p><b>an altar . . . in rebellion.</b> The altar is understood by the rest of Israel in the light of such teaching as <a class=\"bibleref\" href=\"/passage/?search=Lev 17:8-Lev 17:9\">Lev. 17:8–9</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 12\">Deut. 12</a>. But the accusation is rash. The law requires careful investigation before taking action (<a class=\"bibleref\" href=\"/passage/?search=Deut 13:12-Deut 13:14\">Deut. 13:12–14</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,22,17" ],
+  "verses" : [ {
+    "verse" : "joshua,22,17",
+    "text" : "Was not the sin of Peor enough for us? Up to this very day we have not cleansed ourselves from that sin, even though a plague fell on the community of the LORD!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,22,17",
     "id" : 186947,
@@ -206,7 +392,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 22:17\">22:17</a></b> <b>the sin at Peor.</b> This was an occasion of great apostasy before entering Canaan (<a class=\"bibleref\" href=\"/passage/?search=Num 25\">Num. 25</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 2:1\">Josh. 2:1</a> note).</p><p><b>not cleansed.</b> For cleansing see <a class=\"bibleref\" href=\"/passage/?search=Lev 11-Lev 16\">Lev. 11–16</a>. An inner cleansing also is implied here. The Israelites are not yet rid of the tendency they displayed at Peor.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,22,18" ],
+  "verses" : [ {
+    "verse" : "joshua,22,18",
+    "text" : "And are you now turning away from the LORD? \"'If you rebel against the LORD today, tomorrow he will be angry with the whole community of Israel."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,22,18",
     "id" : 186948,
@@ -214,7 +403,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 22:18\">22:18</a></b> <b>angry.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Josh 7:1\">7:1</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,22,19", "joshua,22,20" ],
+  "verses" : [ {
+    "verse" : "joshua,22,19",
+    "text" : "If the land you possess is defiled, come over to the LORD's land, where the LORD's tabernacle stands, and share the land with us. But do not rebel against the LORD or against us by building an altar for yourselves, other than the altar of the LORD our God."
+  }, {
+    "verse" : "joshua,22,20",
+    "text" : "When Achan son of Zerah acted unfaithfully regarding the devoted things, did not wrath come upon the whole community of Israel? He was not the only one who died for his sin.'\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,22,19",
     "id" : 186949,

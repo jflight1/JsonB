@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "genesis,30,1" ],
+  "verses" : [ {
+    "verse" : "genesis,30,1",
+    "text" : "When Rachel saw that she was not bearing Jacob any children, she became jealous of her sister. So she said to Jacob, \"Give me children, or I'll die!\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,25,19-genesis,35,29",
     "id" : 185165,
@@ -17,7 +20,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 30:1\">30:1</a></b> <b>or I shall die.</b> A hyperbolic expression of her extreme distress (<a class=\"bibleref\" href=\"/passage/?search=Gen 25:32\">25:32</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 27:46\">27:46</a>). Ironically, she later died in childbirth (<a class=\"bibleref\" href=\"/passage/?search=Gen 35:16-Gen 35:18\">35:16–18</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,30,2" ],
+  "verses" : [ {
+    "verse" : "genesis,30,2",
+    "text" : "Jacob became angry with her and said, \"Am I in the place of God, who has kept you from having children?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,30,2",
     "id" : 185256,
@@ -25,7 +31,40 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 30:2\">30:2</a></b> <b>Am I in the place of God.</b> Jacob’s angry retort contrasts sharply with the fervent prayer of Isaac for his childless wife (<a class=\"bibleref\" href=\"/passage/?search=Gen 25:21\">25:21</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,30,3", "genesis,30,4", "genesis,30,5", "genesis,30,6", "genesis,30,7", "genesis,30,8", "genesis,30,9", "genesis,30,10", "genesis,30,11", "genesis,30,12", "genesis,30,13" ],
+  "verses" : [ {
+    "verse" : "genesis,30,3",
+    "text" : "Then she said, \"Here is Bilhah, my maidservant. Sleep with her so that she can bear children for me and that through her I too can build a family.\""
+  }, {
+    "verse" : "genesis,30,4",
+    "text" : "So she gave him her servant Bilhah as a wife. Jacob slept with her,"
+  }, {
+    "verse" : "genesis,30,5",
+    "text" : "and she became pregnant and bore him a son."
+  }, {
+    "verse" : "genesis,30,6",
+    "text" : "Then Rachel said, \"God has vindicated me; he has listened to my plea and given me a son.\" Because of this she named him Dan."
+  }, {
+    "verse" : "genesis,30,7",
+    "text" : "Rachel's servant Bilhah conceived again and bore Jacob a second son."
+  }, {
+    "verse" : "genesis,30,8",
+    "text" : "Then Rachel said, \"I have had a great struggle with my sister, and I have won.\" So she named him Naphtali."
+  }, {
+    "verse" : "genesis,30,9",
+    "text" : "When Leah saw that she had stopped having children, she took her maidservant Zilpah and gave her to Jacob as a wife."
+  }, {
+    "verse" : "genesis,30,10",
+    "text" : "Leah's servant Zilpah bore Jacob a son."
+  }, {
+    "verse" : "genesis,30,11",
+    "text" : "Then Leah said, \"What good fortune!\" So she named him Gad."
+  }, {
+    "verse" : "genesis,30,12",
+    "text" : "Leah's servant Zilpah bore Jacob a second son."
+  }, {
+    "verse" : "genesis,30,13",
+    "text" : "Then Leah said, \"How happy I am! The women will call me happy.\" So she named him Asher."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,30,3",
     "id" : 185257,
@@ -33,7 +72,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 30:3\">30:3</a></b> <b>Here is . . . Bilhah.</b> See <a class=\"bibleref\" href=\"/passage/?search=Gen 16:1\">16:1</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 16:2\">2</a> and notes.</p><p><b>on my behalf.</b> Literally, “on my knees.” The knee was symbolic of parental care (<a class=\"bibleref\" href=\"/passage/?search=Gen 50:23\">50:23</a>; <a class=\"bibleref\" href=\"/passage/?search=Job 3:12\">Job 3:12</a>). According to ancient Near Eastern custom, the delivery of the concubine’s child upon the knees of the wife symbolized the adoption of the child by the wife.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,30,14", "genesis,30,15", "genesis,30,16", "genesis,30,17", "genesis,30,18", "genesis,30,19" ],
+  "verses" : [ {
+    "verse" : "genesis,30,14",
+    "text" : "During wheat harvest, Reuben went out into the fields and found some mandrake plants, which he brought to his mother Leah. Rachel said to Leah, \"Please give me some of your son's mandrakes.\""
+  }, {
+    "verse" : "genesis,30,15",
+    "text" : "But she said to her, \"Wasn't it enough that you took away my husband? Will you take my son's mandrakes too?Very well,\" Rachel said, \"he can sleep with you tonight in return for your son's mandrakes.\""
+  }, {
+    "verse" : "genesis,30,16",
+    "text" : "So when Jacob came in from the fields that evening, Leah went out to meet him. \"You must sleep with me,\" she said. \"I have hired you with my son's mandrakes.\" So he slept with her that night."
+  }, {
+    "verse" : "genesis,30,17",
+    "text" : "God listened to Leah, and she became pregnant and bore Jacob a fifth son."
+  }, {
+    "verse" : "genesis,30,18",
+    "text" : "Then Leah said, \"God has rewarded me for giving my maidservant to my husband.\" So she named him Issachar."
+  }, {
+    "verse" : "genesis,30,19",
+    "text" : "Leah conceived again and bore Jacob a sixth son."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,30,14",
     "id" : 185258,
@@ -41,7 +98,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 30:14\">30:14</a></b> <b>mandrakes.</b> Sometimes called “love apples,” the roots of the mandrake plant were considered an aphrodisiac by the ancients, and used to promote sexual activity and conception (cf. <a class=\"bibleref\" href=\"/passage/?search=Song 7:13\">Song 7:13</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,30,20" ],
+  "verses" : [ {
+    "verse" : "genesis,30,20",
+    "text" : "Then Leah said, \"God has presented me with a precious gift. This time my husband will treat me with honor, because I have borne him six sons.\" So she named him Zebulun."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,30,20",
     "id" : 185259,
@@ -49,7 +109,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 30:20\">30:20</a></b> <b>endowment.</b> A dowry.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,30,21" ],
+  "verses" : [ {
+    "verse" : "genesis,30,21",
+    "text" : "Some time later she gave birth to a daughter and named her Dinah."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,30,21",
     "id" : 185260,
@@ -57,7 +120,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 30:21\">30:21</a></b> <b>Dinah.</b> Dinah is the only daughter of Jacob whose name is given (cf. <a class=\"bibleref\" href=\"/passage/?search=Gen 46:7\">46:7</a>) because she figures prominently in <a class=\"bibleref\" href=\"/passage/?search=Gen 34\">ch. 34</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,30,22", "genesis,30,23", "genesis,30,24" ],
+  "verses" : [ {
+    "verse" : "genesis,30,22",
+    "text" : "Then God remembered Rachel; he listened to her and opened her womb."
+  }, {
+    "verse" : "genesis,30,23",
+    "text" : "She became pregnant and gave birth to a son and said, \"God has taken away my disgrace.\""
+  }, {
+    "verse" : "genesis,30,24",
+    "text" : "She named him Joseph, and said, \"May the LORD add to me another son.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,30,22",
     "id" : 185261,
@@ -65,7 +137,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 30:22\">30:22</a></b> <b>Then God remembered.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Gen 8:1\">8:1</a>. This verse is the climax of <a class=\"bibleref\" href=\"/passage/?search=Gen 29:31-Gen 30:24\">29:31–30:24</a>. Rachel credited the birth of Joseph, not to the aphrodisiac (<a class=\"bibleref\" href=\"/passage/?search=Gen 30:14\">v. 14</a> note), but to God (<a class=\"bibleref\" href=\"/passage/?search=Gen 30:23\">v. 23</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,30,25", "genesis,30,26" ],
+  "verses" : [ {
+    "verse" : "genesis,30,25",
+    "text" : "After Rachel gave birth to Joseph, Jacob said to Laban, \"Send me on my way so I can go back to my own homeland."
+  }, {
+    "verse" : "genesis,30,26",
+    "text" : "Give me my wives and children, for whom I have served you, and I will be on my way. You know how much work I've done for you.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,30,25-genesis,30,43",
     "id" : 185262,
@@ -73,7 +151,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 30:25-Gen 30:43\">30:25–43</a></b> God sovereignly blessed Jacob’s flocks at Laban’s expense in spite of the inexcusable cunning of both men. Jacob appears to outwit Laban, repaying Laban’s trickery, but he obtained his family and wealth entirely by God’s grace (<a class=\"bibleref\" href=\"/passage/?search=Gen 29:31-Gen 30:24\">29:31–30:24</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 31:9\">31:9</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,30,27" ],
+  "verses" : [ {
+    "verse" : "genesis,30,27",
+    "text" : "But Laban said to him, \"If I have found favor in your eyes, please stay. I have learned by divination that the LORD has blessed me because of you.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,30,27",
     "id" : 185263,
@@ -81,7 +162,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 30:27\">30:27</a></b> <b>If I have found favor.</b> A formula of courtesy in negotiations.</p><p><b>learned by divination.</b> Many ancient extrabiblical texts from Mesopotamia pertain to the practice of occult divination, something forbidden in Israel (<a class=\"bibleref\" href=\"/passage/?search=Deut 18:10\">Deut. 18:10</a>, <a class=\"bibleref\" href=\"/passage/?search=Deut 18:14\">14</a>). Noting Jacob’s good fortune, the pagan Laban had attempted to discover the reason through divination (31:19 and note).</p><p><b>blessed me because of you.</b> Once again, those outside the covenant are blessed through their association with the patriarchs (12:2, 3; 13:5, 6; 14:13 and note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,30,28", "genesis,30,29", "genesis,30,30" ],
+  "verses" : [ {
+    "verse" : "genesis,30,28",
+    "text" : "He added, \"Name your wages, and I will pay them.\""
+  }, {
+    "verse" : "genesis,30,29",
+    "text" : "Jacob said to him, \"You know how I have worked for you and how your livestock has fared under my care."
+  }, {
+    "verse" : "genesis,30,30",
+    "text" : "The little you had before I came has increased greatly, and the LORD has blessed you wherever I have been. But now, when may I do something for my own household?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,30,28",
     "id" : 185264,
@@ -89,7 +179,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 30:28\">30:28</a></b> <b>Name your wages.</b> The opportunistic Laban wanted to manipulate the Lord through Jacob to serve his own greed. Thus he hoped to receive God’s blessing.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,30,31", "genesis,30,32", "genesis,30,33", "genesis,30,34" ],
+  "verses" : [ {
+    "verse" : "genesis,30,31",
+    "text" : "\"What shall I give you?\" he asked. \"Don't give me anything,\" Jacob replied. \"But if you will do this one thing for me, I will go on tending your flocks and watching over them:"
+  }, {
+    "verse" : "genesis,30,32",
+    "text" : "Let me go through all your flocks today and remove from them every speckled or spotted sheep, every dark-colored lamb and every spotted or speckled goat. They will be my wages."
+  }, {
+    "verse" : "genesis,30,33",
+    "text" : "And my honesty will testify for me in the future, whenever you check on the wages you have paid me. Any goat in my possession that is not speckled or spotted, or any lamb that is not dark-colored, will be considered stolen.\""
+  }, {
+    "verse" : "genesis,30,34",
+    "text" : "\"Agreed,\" said Laban. \"Let it be as you have said.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,30,31-genesis,30,34",
     "id" : 185265,
@@ -97,7 +199,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 30:31-Gen 30:34\">30:31–34</a></b> In the ancient Near East, most lambs were white and most goats black or dark brown. Thinking the agreement posed little risk to himself, Laban eagerly granted Jacob’s request for the unusually colored animals (<a class=\"bibleref\" href=\"/passage/?search=Gen 30:34\">v. 34</a>). Jacob’s proposal depended upon the faulty notion that vivid visual impressions during the act of reproduction determined the traits of the offspring. He thought that placing alternating colors in front of mating animals would result in unusually colored offspring (<a class=\"bibleref\" href=\"/passage/?search=Gen 30:37\">vv. 37</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 30:38\">38</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 30:41\">41</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 30:42\">42</a>). Even though Jacob’s scheming would deny God His rightful praise, God’s intention to bless Jacob was not thwarted (<a class=\"bibleref\" href=\"/passage/?search=Gen 31:11\">31:11</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 31:12\">12</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,30,35", "genesis,30,36", "genesis,30,37", "genesis,30,38" ],
+  "verses" : [ {
+    "verse" : "genesis,30,35",
+    "text" : "That same day he removed all the male goats that were streaked or spotted, and all the speckled or spotted female goats (all that had white on them) and all the dark-colored lambs, and he placed them in the care of his sons."
+  }, {
+    "verse" : "genesis,30,36",
+    "text" : "Then he put a three-day journey between himself and Jacob, while Jacob continued to tend the rest of Laban's flocks."
+  }, {
+    "verse" : "genesis,30,37",
+    "text" : "Jacob, however, took fresh-cut branches from poplar, almond and plane trees and made white stripes on them by peeling the bark and exposing the white inner wood of the branches."
+  }, {
+    "verse" : "genesis,30,38",
+    "text" : "Then he placed the peeled branches in all the watering troughs, so that they would be directly in front of the flocks when they came to drink. When the flocks were in heat and came to drink,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,30,35",
     "id" : 185266,
@@ -105,7 +219,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 30:35\">30:35</a></b> <b>that day Laban removed.</b> The unscrupulous Laban immediately cheated. According to the agreement the unusually colored animals should have been Jacob’s starting flock (<a class=\"bibleref\" href=\"/passage/?search=Gen 30:32\">v. 32</a>). Jacob began with none of these, a fact highlighting the supernatural blessing on him.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,30,39", "genesis,30,40", "genesis,30,41", "genesis,30,42" ],
+  "verses" : [ {
+    "verse" : "genesis,30,39",
+    "text" : "they mated in front of the branches. And they bore young that were streaked or speckled or spotted."
+  }, {
+    "verse" : "genesis,30,40",
+    "text" : "Jacob set apart the young of the flock by themselves, but made the rest face the streaked and dark-colored animals that belonged to Laban. Thus he made separate flocks for himself and did not put them with Laban's animals."
+  }, {
+    "verse" : "genesis,30,41",
+    "text" : "Whenever the stronger females were in heat, Jacob would place the branches in the troughs in front of the animals so they would mate near the branches,"
+  }, {
+    "verse" : "genesis,30,42",
+    "text" : "but if the animals were weak, he would not place them there. So the weak animals went to Laban and the strong ones to Jacob."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,30,39",
     "id" : 185267,
@@ -113,7 +239,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 30:39\">30:39</a></b> <b>flocks brought forth.</b> Jacob’s success was due to God’s grace (<a class=\"bibleref\" href=\"/passage/?search=Gen 31:9-Gen 31:12\">31:9–12</a>), not to his ill-founded theory of animal husbandry.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,30,43" ],
+  "verses" : [ {
+    "verse" : "genesis,30,43",
+    "text" : "In this way the man grew exceedingly prosperous and came to own large flocks, and maidservants and menservants, and camels and donkeys."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,30,43",
     "id" : 185268,
@@ -121,7 +250,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 30:43\">30:43</a></b> <b>increased greatly.</b> God did abundantly more than Jacob had asked (<a class=\"bibleref\" href=\"/passage/?search=Gen 28:20\">28:20</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,31,1", "genesis,31,2" ],
+  "verses" : [ {
+    "verse" : "genesis,31,1",
+    "text" : "Jacob heard that Laban's sons were saying, \"Jacob has taken everything our father owned and has gained all this wealth from what belonged to our father.\""
+  }, {
+    "verse" : "genesis,31,2",
+    "text" : "And Jacob noticed that Laban's attitude toward him was not what it had been."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,31,1-genesis,31,55",
     "id" : 185269,
@@ -129,7 +264,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 31\">31:1–55</a></b> In fulfillment of His promise in <a class=\"bibleref\" href=\"/passage/?search=Gen 28:15\">28:15</a>, the Lord led a chastened Jacob back to the Promised Land with great wealth at Laban’s expense, and over Laban’s opposition (v. 42). God remained faithful to His promises despite Jacob’s scheming and the pagan idolatry in his household (<a class=\"bibleref\" href=\"/passage/?search=Gen 28:19\">v. 19</a> and note; <a class=\"bibleref\" href=\"/passage/?search=Gen 28:20\">28:20</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,31,3" ],
+  "verses" : [ {
+    "verse" : "genesis,31,3",
+    "text" : "Then the LORD said to Jacob, \"Go back to the land of your fathers and to your relatives, and I will be with you.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,31,3",
     "id" : 185270,
@@ -137,7 +275,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 31:3\">31:3</a></b> <b>Return to the land.</b> Jacob’s departure with his sons from Paddan-aram foreshadows the later Exodus of the twelve tribes of Israel from Egypt: they go in response to God’s call to worship in the land of Canaan (<a class=\"bibleref\" href=\"/passage/?search=Gen 31:3\">vv. 3</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 31:13\">13</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Exod 3:13-Exod 3:18\">Ex. 3:13–18</a>); they spoil the enemy of his wealth (v. 9; cf. <a class=\"bibleref\" href=\"/passage/?search=Exod 12:35\">Ex. 12:35</a>, <a class=\"bibleref\" href=\"/passage/?search=Exod 12:36\">36</a>); they are pursued by superior forces and delivered by divine intervention (vv. 21–42; cf. <a class=\"bibleref\" href=\"/passage/?search=Exod 14:5-Exod 14:31\">Ex. 14:5–31</a>). These Old Testament examples in turn point forward to the pilgrimage of the New Israel, the church (<a class=\"bibleref\" href=\"/passage/?search=1Cor 10:1-1Cor 10:4\">1 Cor. 10:1–4</a>).</p><p><b>I will be with you.</b> See 28:15 and notes.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,31,4" ],
+  "verses" : [ {
+    "verse" : "genesis,31,4",
+    "text" : "So Jacob sent word to Rachel and Leah to come out to the fields where his flocks were."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,31,4",
     "id" : 185271,
@@ -145,7 +286,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 31:4\">31:4</a></b> <b>So Jacob sent and called.</b> Jacob finally began to respond to God in prompt obedience (cf. <a class=\"bibleref\" href=\"/passage/?search=Gen 12:4\">12:4</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 17:23\">17:23</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 22:3\">22:3</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,31,5" ],
+  "verses" : [ {
+    "verse" : "genesis,31,5",
+    "text" : "He said to them, \"I see that your father's attitude toward me is not what it was before, but the God of my father has been with me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,31,5",
     "id" : 185272,
@@ -153,7 +297,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 31:5\">31:5</a></b> <b>God of my father has been with me.</b> Acknowledging the Lord’s faithfulness, Jacob was ready to pay his vow (<a class=\"bibleref\" href=\"/passage/?search=Gen 31:13\">v. 13</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 28:20-Gen 28:22\">28:20–22</a> and notes).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,31,6" ],
+  "verses" : [ {
+    "verse" : "genesis,31,6",
+    "text" : "You know that I've worked for your father with all my strength,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,31,6",
     "id" : 185273,
@@ -161,7 +308,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 31:6\">31:6</a></b> <b>with all my strength.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Gen 29:10\">29:10</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,31,7" ],
+  "verses" : [ {
+    "verse" : "genesis,31,7",
+    "text" : "yet your father has cheated me by changing my wages ten times. However, God has not allowed him to harm me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,31,7",
     "id" : 185274,
@@ -169,7 +319,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 31:7\">31:7</a></b> <b>ten times.</b> The number ten signified completeness; Jacob here is perhaps deploring the magnitude of Laban’s dishonesty.</p><p><b>God did not permit him.</b> In spite of his own schemes, Jacob recognized that the Lord had blessed him.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,31,8" ],
+  "verses" : [ {
+    "verse" : "genesis,31,8",
+    "text" : "If he said, 'The speckled ones will be your wages,' then all the flocks gave birth to speckled young; and if he said, 'The streaked ones will be your wages,' then all the flocks bore streaked young."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,31,8",
     "id" : 185275,
@@ -177,7 +330,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 31:8\">31:8</a></b> <b>spotted . . . striped.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Gen 30:31-Gen 30:34\">30:31–34</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,31,9", "genesis,31,10" ],
+  "verses" : [ {
+    "verse" : "genesis,31,9",
+    "text" : "So God has taken away your father's livestock and has given them to me."
+  }, {
+    "verse" : "genesis,31,10",
+    "text" : "\"In breeding season I once had a dream in which I looked up and saw that the male goats mating with the flock were streaked, speckled or spotted."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,31,9",
     "id" : 185276,
@@ -185,7 +344,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 31:9\">31:9</a></b> <b>Thus God has taken away.</b> Through his dishonest behavior toward Jacob, Laban subjected himself to covenantal curses (<a class=\"bibleref\" href=\"/passage/?search=Gen 12:3\">12:3</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 27:29\">27:29</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,31,11", "genesis,31,12", "genesis,31,13" ],
+  "verses" : [ {
+    "verse" : "genesis,31,11",
+    "text" : "The angel of God said to me in the dream, 'Jacob.' I answered, 'Here I am.'"
+  }, {
+    "verse" : "genesis,31,12",
+    "text" : "And he said, 'Look up and see that all the male goats mating with the flock are streaked, speckled or spotted, for I have seen all that Laban has been doing to you."
+  }, {
+    "verse" : "genesis,31,13",
+    "text" : "I am the God of Bethel, where you anointed a pillar and where you made a vow to me. Now leave this land at once and go back to your native land.'\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,31,11",
     "id" : 185277,
@@ -193,7 +361,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 31:11\">31:11</a></b> <b>angel of God.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Gen 16:7\">16:7</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,31,14" ],
+  "verses" : [ {
+    "verse" : "genesis,31,14",
+    "text" : "Then Rachel and Leah replied, \"Do we still have any share in the inheritance of our father's estate?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,31,14-genesis,31,16",
     "id" : 185278,
@@ -201,7 +372,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 31:14-Gen 31:16\">31:14–16</a></b> In bitterness against their dishonest father (<a class=\"bibleref\" href=\"/passage/?search=Gen 31:14-Gen 31:15\">vv. 14–15</a>) and in recognition of God’s providence (<a class=\"bibleref\" href=\"/passage/?search=Gen 31:16\">v. 16</a>), Leah and Rachel decided to follow Jacob.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,31,15", "genesis,31,16" ],
+  "verses" : [ {
+    "verse" : "genesis,31,15",
+    "text" : "Does he not regard us as foreigners? Not only has he sold us, but he has used up what was paid for us."
+  }, {
+    "verse" : "genesis,31,16",
+    "text" : "Surely all the wealth that God took away from our father belongs to us and our children. So do whatever God has told you.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,31,15",
     "id" : 185279,

@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "1samuel,22,1", "1samuel,22,2" ],
+  "verses" : [ {
+    "verse" : "1samuel,22,1",
+    "text" : "David left Gath and escaped to the cave of Adullam. When his brothers and his father's household heard about it, they went down to him there."
+  }, {
+    "verse" : "1samuel,22,2",
+    "text" : "All those who were in distress or in debt or discontented gathered around him, and he became their leader. About four hundred men were with him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,16,1-1samuel,31,13",
     "id" : 187527,
@@ -12,7 +18,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 22:1\">22:1</a></b> <b>cave of Adullam.</b> Adullam, which may mean “refuge,” has been identified with a site seventeen miles southwest of Jerusalem, midway between Gath and Hebron. See also <a class=\"bibleref\" href=\"/passage/?search=2Sam 23:13\">2 Sam. 23:13</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 12:15\">Josh. 12:15</a>; titles to <a class=\"bibleref\" href=\"/passage/?search=Ps 57\">Ps. 57</a> and <a class=\"bibleref\" href=\"/passage/?search=Ps 142\">142</a>.</p><p><b>his father’s house . . . went down there to him.</b> The vehemence that drove Saul to attack even his own family (20:33) left David’s family with little reason to feel secure.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,22,3" ],
+  "verses" : [ {
+    "verse" : "1samuel,22,3",
+    "text" : "From there David went to Mizpah in Moab and said to the king of Moab, \"Would you let my father and mother come and stay with you until I learn what God will do for me?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,22,3",
     "id" : 187615,
@@ -20,7 +29,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 22:3\">22:3</a></b> <b>Mizpeh of Moab.</b> The specific location of this city is unknown. On the name Mizpeh (“watchtower”), see <a class=\"bibleref\" href=\"/passage/?search=1Sam 7:5\">7:5</a> note.</p><p><b>king of Moab.</b> Moab had a king already in <a class=\"bibleref\" href=\"/passage/?search=Judg 3:12\">Judg. 3:12</a>.</p><p><b>stay with you.</b> David’s decision to seek sanctuary in Moab may be based not only on the assumption that a nation at odds with Saul (14:47) might well wish to side with a rival, but also on David’s family ties to the Moabites (<a class=\"bibleref\" href=\"/passage/?search=Ruth 4:13-Ruth 4:17\">Ruth 4:13–17</a>).</p><p><b>what God will do for me.</b> While taking whatever practical measures he can, David nevertheless sees God in sovereign control of his situation (<a class=\"bibleref\" href=\"/passage/?search=2Sam 15:25\">2 Sam. 15:25</a>, <a class=\"bibleref\" href=\"/passage/?search=2Sam 15:26\">26</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,22,4" ],
+  "verses" : [ {
+    "verse" : "1samuel,22,4",
+    "text" : "So he left them with the king of Moab, and they stayed with him as long as David was in the stronghold."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,22,4",
     "id" : 187616,
@@ -28,7 +40,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 22:4\">22:4</a></b> <b>the stronghold.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Sam 23:14\">23:14</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,22,5" ],
+  "verses" : [ {
+    "verse" : "1samuel,22,5",
+    "text" : "But the prophet Gad said to David, \"Do not stay in the stronghold. Go into the land of Judah.\" So David left and went to the forest of Hereth."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,22,5",
     "id" : 187617,
@@ -36,7 +51,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 22:5\">22:5</a></b> <b>prophet Gad.</b> Later to serve as King David’s seer (<a class=\"bibleref\" href=\"/passage/?search=2Sam 24:11\">2 Sam. 24:11</a>; <a class=\"bibleref\" href=\"/passage/?search=2Chr 29:25\">2 Chr. 29:25</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=1Chr 29:29\">1 Chr. 29:29</a>), Gad’s presence at this point is a reminder that David’s destiny is divinely appointed and that he is under the Lord’s protection. David will later be joined by a priest (vv. 20–23).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,22,6" ],
+  "verses" : [ {
+    "verse" : "1samuel,22,6",
+    "text" : "Now Saul heard that David and his men had been discovered. And Saul, spear in hand, was seated under the tamarisk tree on the hill at Gibeah, with all his officials standing around him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,22,6",
     "id" : 187618,
@@ -44,7 +62,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 22:6\">22:6</a></b> <b>spear in his hand.</b> The mention of Saul’s spear here may be a reminder of Saul’s violent temper (<a class=\"bibleref\" href=\"/passage/?search=1Sam 18:10\">18:10</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 18:11\">11</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 19:10\">19:10</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 20:33\">20:33</a>), which comes to full expression in this episode.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,22,7" ],
+  "verses" : [ {
+    "verse" : "1samuel,22,7",
+    "text" : "Saul said to them, \"Listen, men of Benjamin! Will the son of Jesse give all of you fields and vineyards? Will he make all of you commanders of thousands and commanders of hundreds?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,22,7",
     "id" : 187619,
@@ -52,7 +73,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 22:7\">22:7</a></b> <b>people of Benjamin.</b> Having apparently surrounded himself with members of his own tribe (<a class=\"bibleref\" href=\"/passage/?search=1Sam 9:1\">9:1</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 9:2\">2</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 10:21\">10:21</a>), Saul seeks to reinforce their loyalty with an appeal to self-interest: is David, of the tribe of Judah, likely to be fair to Benjaminites?</p><p><b>fields and vineyards.</b> The questions addressed by Saul to his officials suggest that he engaged in at least some of the abusive royal practices about which Samuel had warned (<a class=\"bibleref\" href=\"/passage/?search=1Sam 8:10-1Sam 8:18\">8:10–18</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,22,8" ],
+  "verses" : [ {
+    "verse" : "1samuel,22,8",
+    "text" : "Is that why you have all conspired against me? No one tells me when my son makes a covenant with the son of Jesse. None of you is concerned about me or tells me that my son has incited my servant to lie in wait for me, as he does today.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,22,8",
     "id" : 187620,
@@ -60,7 +84,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 22:8\">22:8</a></b> <b>when my son makes a covenant.</b> See notes <a class=\"bibleref\" href=\"/passage/?search=1Sam 18:3\">18:3</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 18:4\">4</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,22,9", "1samuel,22,10", "1samuel,22,11", "1samuel,22,12" ],
+  "verses" : [ {
+    "verse" : "1samuel,22,9",
+    "text" : "But Doeg the Edomite, who was standing with Saul's officials, said, \"I saw the son of Jesse come to Ahimelech son of Ahitub at Nob."
+  }, {
+    "verse" : "1samuel,22,10",
+    "text" : "Ahimelech inquired of the LORD for him; he also gave him provisions and the sword of Goliath the Philistine.\""
+  }, {
+    "verse" : "1samuel,22,11",
+    "text" : "Then the king sent for the priest Ahimelech son of Ahitub and his father's whole family, who were the priests at Nob, and they all came to the king."
+  }, {
+    "verse" : "1samuel,22,12",
+    "text" : "Saul said, \"Listen now, son of Ahitub.Yes, my lord,\" he answered."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,22,9",
     "id" : 187621,
@@ -68,7 +104,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 22:9\">22:9</a></b> <b>Doeg the Edomite.</b> See <a class=\"bibleref\" href=\"/passage/?search=1Sam 21:7\">21:7</a> and note.</p><p><b>Ahimelech the son of Ahitub.</b> See <a class=\"bibleref\" href=\"/passage/?search=1Sam 21:1\">21:1</a> and notes.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,22,13" ],
+  "verses" : [ {
+    "verse" : "1samuel,22,13",
+    "text" : "Saul said to him, \"Why have you conspired against me, you and the son of Jesse, giving him bread and a sword and inquiring of God for him, so that he has rebelled against me and lies in wait for me, as he does today?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,22,13",
     "id" : 187622,
@@ -76,7 +115,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 22:13\">22:13</a></b> <b>conspired against me.</b> Saul’s assumption that Ahimelech has plotted with David against the king is baseless; Ahimelech was simply misled by David (<a class=\"bibleref\" href=\"/passage/?search=1Sam 21:2\">21:2</a> note).</p><p><b>risen against me, to lie in wait.</b> Saul’s assumption of hostile motives on David’s part is as ill-founded as his assumption about Ahimelech.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,22,14", "1samuel,22,15", "1samuel,22,16" ],
+  "verses" : [ {
+    "verse" : "1samuel,22,14",
+    "text" : "Ahimelech answered the king, \"Who of all your servants is as loyal as David, the king's son-in-law, captain of your bodyguard and highly respected in your household?"
+  }, {
+    "verse" : "1samuel,22,15",
+    "text" : "Was that day the first time I inquired of God for him? Of course not! Let not the king accuse your servant or any of his father's family, for your servant knows nothing at all about this whole affair.\""
+  }, {
+    "verse" : "1samuel,22,16",
+    "text" : "But the king said, \"You will surely die, Ahimelech, you and your father's whole family.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,22,14",
     "id" : 187623,
@@ -84,7 +132,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 22:14\">22:14</a></b> <b>captain over your bodyguard.</b> Ahimelech may still think that David was doing covert work for Saul (<a class=\"bibleref\" href=\"/passage/?search=1Sam 21:2\">21:2</a>) when he came for help.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,22,17" ],
+  "verses" : [ {
+    "verse" : "1samuel,22,17",
+    "text" : "Then the king ordered the guards at his side: \"Turn and kill the priests of the LORD, because they too have sided with David. They knew he was fleeing, yet they did not tell me.\" But the king's officials were not willing to raise a hand to strike the priests of the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,22,17",
     "id" : 187624,
@@ -92,7 +143,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 22:17\">22:17</a></b> <b>would not . . . strike the priests.</b> Saul’s command that the priests of the Lord be slaughtered is so evil and irrational that his own men refuse to carry it out. At least once before, Saul’s men found it necessary to go against him (<a class=\"bibleref\" href=\"/passage/?search=1Sam 14:45\">14:45</a> and note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,22,18" ],
+  "verses" : [ {
+    "verse" : "1samuel,22,18",
+    "text" : "The king then ordered Doeg, \"You turn and strike down the priests.\" So Doeg the Edomite turned and struck them down. That day he killed eighty-five men who wore the linen ephod."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,22,18",
     "id" : 187625,
@@ -100,7 +154,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 22:18\">22:18</a></b> <b>killed . . . eighty-five persons.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Sam 2:31\">2:31</a>.</p><p><b>linen ephod.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Sam 2:18\">2:18</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,22,19" ],
+  "verses" : [ {
+    "verse" : "1samuel,22,19",
+    "text" : "He also put to the sword Nob, the town of the priests, with its men and women, its children and infants, and its cattle, donkeys and sheep."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,22,19",
     "id" : 187626,
@@ -108,7 +165,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 22:19\">22:19</a></b> <b>both man and woman, child and infant.</b> It is an irony extremely damaging to Saul’s image that the description of the total slaughter of the inhabitants of Nob, “the city of the priests,” matches almost verbatim the order that had been given for the slaughter of the Amalekites (<a class=\"bibleref\" href=\"/passage/?search=1Sam 15:3\">15:3</a>) that Saul failed to carry out.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,22,20", "1samuel,22,21" ],
+  "verses" : [ {
+    "verse" : "1samuel,22,20",
+    "text" : "But Abiathar, a son of Ahimelech son of Ahitub, escaped and fled to join David."
+  }, {
+    "verse" : "1samuel,22,21",
+    "text" : "He told David that Saul had killed the priests of the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,22,20",
     "id" : 187627,
@@ -116,7 +179,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 22:20\">22:20</a></b> <b>Abiathar . . . fled after David.</b> Support for David continues to build, chiefly as a result of Saul’s own misguided attempts at self-preservation. David now has the support of both prophet (<a class=\"bibleref\" href=\"/passage/?search=1Sam 22:5\">v. 5</a>) and priest. Abiathar brings to David the ephod (<a class=\"bibleref\" href=\"/passage/?search=1Sam 23:6\">23:6</a>), which was a means of discerning the Lord’s will (<a class=\"bibleref\" href=\"/passage/?search=1Sam 2:28\">2:28</a> note; <a class=\"bibleref\" href=\"/passage/?search=1Sam 14:3\">14:3</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,22,22", "1samuel,22,23" ],
+  "verses" : [ {
+    "verse" : "1samuel,22,22",
+    "text" : "Then David said to Abiathar: \"That day, when Doeg the Edomite was there, I knew he would be sure to tell Saul. I am responsible for the death of your father's whole family."
+  }, {
+    "verse" : "1samuel,22,23",
+    "text" : "Stay with me; don't be afraid; the man who is seeking your life is seeking mine also. You will be safe with me.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,22,22",
     "id" : 187628,
@@ -124,7 +193,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 22:22\">22:22</a></b> <b>I have occasioned.</b> It would be easy for David to excuse himself for the massacre at Nob by simply condemning Saul. Instead, he readily admits his own share of responsibility for the disaster (<a class=\"bibleref\" href=\"/passage/?search=1Sam 21:2\">21:2</a> note). In this admission the reader glimpses a major difference between David and his predecessor, the quality of their repentance (<a class=\"bibleref\" href=\"/passage/?search=1Sam 15:24-1Sam 15:26\">15:24–26</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 15:30\">30</a> and notes; <a class=\"bibleref\" href=\"/passage/?search=2Sam 12:13\">2 Sam. 12:13</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,23,1", "1samuel,23,2", "1samuel,23,3", "1samuel,23,4", "1samuel,23,5" ],
+  "verses" : [ {
+    "verse" : "1samuel,23,1",
+    "text" : "When David was told, \"Look, the Philistines are fighting against Keilah and are looting the threshing floors,\""
+  }, {
+    "verse" : "1samuel,23,2",
+    "text" : "he inquired of the LORD, saying, \"Shall I go and attack these Philistines?\" The LORD answered him, \"Go, attack the Philistines and save Keilah.\""
+  }, {
+    "verse" : "1samuel,23,3",
+    "text" : "But David's men said to him, \"Here in Judah we are afraid. How much more, then, if we go to Keilah against the Philistine forces!\""
+  }, {
+    "verse" : "1samuel,23,4",
+    "text" : "Once again David inquired of the LORD, and the LORD answered him, \"Go down to Keilah, for I am going to give the Philistines into your hand.\""
+  }, {
+    "verse" : "1samuel,23,5",
+    "text" : "So David and his men went to Keilah, fought the Philistines and carried off their livestock. He inflicted heavy losses on the Philistines and saved the people of Keilah."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,23,1",
     "id" : 187629,
@@ -132,7 +216,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 23:1\">23:1</a></b> <b>Keilah.</b> Located about three miles south of Adullam (<a class=\"bibleref\" href=\"/passage/?search=1Sam 22:1\">22:1</a>) near Philistine territory, Keilah is also mentioned in <a class=\"bibleref\" href=\"/passage/?search=Josh 15:44\">Josh. 15:44</a>.</p><p><b>robbing the threshing floors.</b> Cf. <a class=\"bibleref\" href=\"/passage/?search=Judg 6:3-Judg 6:6\">Judg. 6:3–6</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,23,6" ],
+  "verses" : [ {
+    "verse" : "1samuel,23,6",
+    "text" : "(Now Abiathar son of Ahimelech had brought the ephod down with him when he fled to David at Keilah.)"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,23,6",
     "id" : 187630,
@@ -140,7 +227,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 23:6\">23:6</a></b> <b>ephod.</b> Not the “linen ephod” traditionally worn by all priests (cf. <a class=\"bibleref\" href=\"/passage/?search=1Sam 22:18\">22:18</a>), but the ephod associated with divine inquiry (<a class=\"bibleref\" href=\"/passage/?search=1Sam 2:28\">2:28</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,23,7", "1samuel,23,8", "1samuel,23,9", "1samuel,23,10", "1samuel,23,11" ],
+  "verses" : [ {
+    "verse" : "1samuel,23,7",
+    "text" : "Saul was told that David had gone to Keilah, and he said, \"God has handed him over to me, for David has imprisoned himself by entering a town with gates and bars.\""
+  }, {
+    "verse" : "1samuel,23,8",
+    "text" : "And Saul called up all his forces for battle, to go down to Keilah to besiege David and his men."
+  }, {
+    "verse" : "1samuel,23,9",
+    "text" : "When David learned that Saul was plotting against him, he said to Abiathar the priest, \"Bring the ephod.\""
+  }, {
+    "verse" : "1samuel,23,10",
+    "text" : "David said, \"O LORD, God of Israel, your servant has heard definitely that Saul plans to come to Keilah and destroy the town on account of me."
+  }, {
+    "verse" : "1samuel,23,11",
+    "text" : "Will the citizens of Keilah surrender me to him? Will Saul come down, as your servant has heard? O LORD, God of Israel, tell your servant.\" And the LORD said, \"He will.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,23,7",
     "id" : 187631,
@@ -148,7 +250,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 23:7\">23:7</a></b> <b>God has given him into my hand.</b> Saul’s interpretation of events is without foundation, as the narrator’s diametrically opposed assertion makes clear: “God did not give him into his hand” (<a class=\"bibleref\" href=\"/passage/?search=1Sam 23:14\">v. 14</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,23,12" ],
+  "verses" : [ {
+    "verse" : "1samuel,23,12",
+    "text" : "Again David asked, \"Will the citizens of Keilah surrender me and my men to Saul?\" And the LORD said, \"They will.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,23,12",
     "id" : 187632,
@@ -156,7 +261,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 23:12\">23:12</a></b> <b>Will the men of Keilah surrender me.</b> In view of Saul’s ruthless treatment of the city of Nob, the behavior of the Keilahites probably reflects fear rather than ingratitude to David.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,23,13" ],
+  "verses" : [ {
+    "verse" : "1samuel,23,13",
+    "text" : "So David and his men, about six hundred in number, left Keilah and kept moving from place to place. When Saul was told that David had escaped from Keilah, he did not go there."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,23,13",
     "id" : 187633,
@@ -164,7 +272,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 23:13\">23:13</a></b> <b>men, who were about six hundred.</b> The growth of David’s company from four hundred (<a class=\"bibleref\" href=\"/passage/?search=1Sam 22:2\">22:2</a>) to six hundred is an indication of his increasing strength (<a class=\"bibleref\" href=\"/passage/?search=1Sam 22:20\">22:20</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,23,14", "1samuel,23,15" ],
+  "verses" : [ {
+    "verse" : "1samuel,23,14",
+    "text" : "David stayed in the desert strongholds and in the hills of the Desert of Ziph. Day after day Saul searched for him, but God did not give David into his hands."
+  }, {
+    "verse" : "1samuel,23,15",
+    "text" : "While David was at Horesh in the Desert of Ziph, he learned that Saul had come out to take his life."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,23,14",
     "id" : 187634,
@@ -172,7 +286,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 23:14\">23:14</a></b> <b>strongholds in the wilderness.</b> The term “strongholds” suggests a geographical area and not a single location (<a class=\"bibleref\" href=\"/passage/?search=1Sam 22:4\">22:4</a>; <a class=\"bibleref\" href=\"/passage/?search=2Sam 5:17\">2 Sam. 5:17</a>; <a class=\"bibleref\" href=\"/passage/?search=2Sam 23:14\">23:14</a>).</p><p><b>Wilderness of Ziph.</b> The village of Ziph is thirteen miles southeast of Keilah and five miles southeast of Hebron. The wilderness would be the desert area south of Hebron. Ziph is mentioned in <a class=\"bibleref\" href=\"/passage/?search=Josh 15:55\">Josh. 15:55</a>, along with Maon (v. 24) and Carmel (15:12; 25:2).</p><p><b>God did not give him into his hand.</b> God is in sovereign control of David’s destiny (v. 7; 22:20 and notes).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,23,16" ],
+  "verses" : [ {
+    "verse" : "1samuel,23,16",
+    "text" : "And Saul's son Jonathan went to David at Horesh and helped him find strength in God."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,23,16",
     "id" : 187635,
@@ -180,7 +297,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 23:16\">23:16</a></b> <b>Jonathan, Saul’s son . . . strengthened his hand in God.</b> No longer ignorant of his father’s malevolence toward David (contrast <a class=\"bibleref\" href=\"/passage/?search=1Sam 20:2\">20:2</a>), Jonathan acts as a true friend by aiding David in finding strength where true strength can alone be found. See <a class=\"bibleref\" href=\"/passage/?search=1Sam 30:6\">30:6</a>, where David once more “strengthened himself in the <span class=\"small-caps\">Lord</span> his God.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,23,17" ],
+  "verses" : [ {
+    "verse" : "1samuel,23,17",
+    "text" : "\"Don't be afraid,\" he said. \"My father Saul will not lay a hand on you. You will be king over Israel, and I will be second to you. Even my father Saul knows this.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,23,17",
     "id" : 187636,
@@ -188,7 +308,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 23:17\">23:17</a></b> <b>I shall be next to you.</b> Though Jonathan will not survive to serve David (<a class=\"bibleref\" href=\"/passage/?search=1Sam 31:2\">31:2</a>), his readiness to let go of personal ambition for the sake of God’s chosen king (<a class=\"bibleref\" href=\"/passage/?search=1Sam 18:4\">18:4</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 20:13\">20:13</a>) is a foil to Saul’s desperate efforts to hang on to a kingdom that is no longer his (<a class=\"bibleref\" href=\"/passage/?search=1Sam 15:23\">15:23</a>).</p><p><b>Saul . . . knows this.</b> See <a class=\"bibleref\" href=\"/passage/?search=1Sam 20:30\">20:30</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 20:31\">31</a>. Saul’s refusal to accept his rejection (compare Eli’s response in <a class=\"bibleref\" href=\"/passage/?search=1Sam 3:18\">3:18</a>) cannot be excused on the grounds that he does not know to whom the kingdom should go.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,23,18" ],
+  "verses" : [ {
+    "verse" : "1samuel,23,18",
+    "text" : "The two of them made a covenant before the LORD. Then Jonathan went home, but David remained at Horesh."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,23,18",
     "id" : 187637,
@@ -196,7 +319,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 23:18\">23:18</a></b> <b>covenant.</b> See notes <a class=\"bibleref\" href=\"/passage/?search=1Sam 18:3\">18:3</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 18:4\">4</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,23,19", "1samuel,23,20", "1samuel,23,21", "1samuel,23,22", "1samuel,23,23" ],
+  "verses" : [ {
+    "verse" : "1samuel,23,19",
+    "text" : "The Ziphites went up to Saul at Gibeah and said, \"Is not David hiding among us in the strongholds at Horesh, on the hill of Hakilah, south of Jeshimon?"
+  }, {
+    "verse" : "1samuel,23,20",
+    "text" : "Now, O king, come down whenever it pleases you to do so, and we will be responsible for handing him over to the king.\""
+  }, {
+    "verse" : "1samuel,23,21",
+    "text" : "Saul replied, \"The LORD bless you for your concern for me."
+  }, {
+    "verse" : "1samuel,23,22",
+    "text" : "Go and make further preparation. Find out where David usually goes and who has seen him there. They tell me he is very crafty."
+  }, {
+    "verse" : "1samuel,23,23",
+    "text" : "Find out about all the hiding places he uses and come back to me with definite information. Then I will go with you; if he is in the area, I will track him down among all the clans of Judah.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,23,19",
     "id" : 187638,
@@ -204,7 +342,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 23:19\">23:19</a></b> <b>Ziphites.</b> See note on <a class=\"bibleref\" href=\"/passage/?search=1Sam 23:14\">v. 14</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 26:1\">26:1</a>.</p><p><b>Gibeah.</b> This was Saul’s hometown (<a class=\"bibleref\" href=\"/passage/?search=1Sam 10:26\">10:26</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,23,24", "1samuel,23,25", "1samuel,23,26" ],
+  "verses" : [ {
+    "verse" : "1samuel,23,24",
+    "text" : "So they set out and went to Ziph ahead of Saul. Now David and his men were in the Desert of Maon, in the Arabah south of Jeshimon."
+  }, {
+    "verse" : "1samuel,23,25",
+    "text" : "Saul and his men began the search, and when David was told about it, he went down to the rock and stayed in the Desert of Maon. When Saul heard this, he went into the Desert of Maon in pursuit of David."
+  }, {
+    "verse" : "1samuel,23,26",
+    "text" : "Saul was going along one side of the mountain, and David and his men were on the other side, hurrying to get away from Saul. As Saul and his forces were closing in on David and his men to capture them,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,23,24",
     "id" : 187639,
@@ -212,7 +359,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 23:24\">23:24</a></b> <b>wilderness of Maon.</b> About eight miles south of Hebron, Maon is mentioned in <a class=\"bibleref\" href=\"/passage/?search=1Sam 25:2\">25:2</a> as the hometown of Nabal.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,23,27" ],
+  "verses" : [ {
+    "verse" : "1samuel,23,27",
+    "text" : "a messenger came to Saul, saying, \"Come quickly! The Philistines are raiding the land.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,23,27",
     "id" : 187640,
@@ -220,7 +370,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 23:27\">23:27</a></b> <b>Philistines have made a raid against the land.</b> The providential timing of this Philistine incursion is obvious.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,23,28" ],
+  "verses" : [ {
+    "verse" : "1samuel,23,28",
+    "text" : "Then Saul broke off his pursuit of David and went to meet the Philistines. That is why they call this place Sela Hammahlekoth."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,23,28",
     "id" : 187641,
@@ -228,7 +381,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 23:28\">23:28</a></b> <b>Saul returned from pursuing after David.</b> Saul distinguishes himself by sacrificing personal concerns for the sake of national security.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,23,29" ],
+  "verses" : [ {
+    "verse" : "1samuel,23,29",
+    "text" : "And David went up from there and lived in the strongholds of En Gedi."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,23,29",
     "id" : 187642,

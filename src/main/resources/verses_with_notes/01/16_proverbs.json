@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "proverbs,3,19", "proverbs,3,20" ],
+  "verses" : [ {
+    "verse" : "proverbs,3,19",
+    "text" : "By wisdom the LORD laid the earth's foundations, by understanding he set the heavens in place;"
+  }, {
+    "verse" : "proverbs,3,20",
+    "text" : "by his knowledge the deeps were divided, and the clouds let drop the dew."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,3,13-proverbs,3,20",
     "id" : 191693,

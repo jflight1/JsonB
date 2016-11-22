@@ -1,8 +1,14 @@
 [ {
-  "singleVerses" : [ "psalms,141,1" ],
+  "verses" : [ {
+    "verse" : "psalms,141,1",
+    "text" : "O LORD, I call to you; come quickly to me. Hear my voice when I call to you."
+  } ],
   "rsbNotes" : [ ]
 }, {
-  "singleVerses" : [ "psalms,141,2" ],
+  "verses" : [ {
+    "verse" : "psalms,141,2",
+    "text" : "May my prayer be set before you like incense; may the lifting up of my hands be like the evening sacrifice."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,141,2",
     "id" : 191552,
@@ -10,7 +16,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 141:2\">141:2</a></b> <b>as incense . . . as the evening sacrifice.</b> This simile comes from the sacrificial worship of ancient Israel and suggests that the psalm was set in that context. The incense was valuable and pleasing to the Lord (<a class=\"bibleref\" href=\"/passage/?search=Exod 30:34-Exod 30:38\">Ex. 30:34–38</a>), and the psalmist asks for his prayers to be received favorably also. In <a class=\"bibleref\" href=\"/passage/?search=Rev 8:3-Rev 8:5\">Rev. 8:3–5</a>, an angel carries the prayers of the saints, together with incense, to the throne of God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,141,3" ],
+  "verses" : [ {
+    "verse" : "psalms,141,3",
+    "text" : "Set a guard over my mouth, O LORD; keep watch over the door of my lips."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,141,3",
     "id" : 191553,
@@ -18,7 +27,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 141:3\">141:3</a></b> <b>Set a guard . . . over my mouth.</b> The writer foresees that he will be tempted to speak unwisely, and so shows forthright humility in asking God to deter him.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,141,4" ],
+  "verses" : [ {
+    "verse" : "psalms,141,4",
+    "text" : "Let not my heart be drawn to what is evil, to take part in wicked deeds with men who are evildoers; let me not eat of their delicacies."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,141,4",
     "id" : 191554,
@@ -26,7 +38,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 141:4\">141:4</a></b> <b>to any evil.</b> Indicating any compromise.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,141,5", "psalms,141,6", "psalms,141,7", "psalms,141,8" ],
+  "verses" : [ {
+    "verse" : "psalms,141,5",
+    "text" : "Let a righteous man strike me-it is a kindness; let him rebuke me-it is oil on my head. My head will not refuse it. Yet my prayer is ever against the deeds of evildoers;"
+  }, {
+    "verse" : "psalms,141,6",
+    "text" : "their rulers will be thrown down from the cliffs, and the wicked will learn that my words were well spoken."
+  }, {
+    "verse" : "psalms,141,7",
+    "text" : "They will say, \"As one plows and breaks up the earth, so our bones have been scattered at the mouth of the grave. \""
+  }, {
+    "verse" : "psalms,141,8",
+    "text" : "But my eyes are fixed on you, O Sovereign LORD; in you I take refuge-do not give me over to death."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,141,5",
     "id" : 191555,
@@ -34,7 +58,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 141:5\">141:5</a></b> <b>Let a righteous man strike me.</b> A wise person accepts correction; the person who refuses to listen will finally be destroyed (<a class=\"bibleref\" href=\"/passage/?search=Prov 29:1\">Prov. 29:1</a>; <a class=\"bibleref\" href=\"/passage/?search=Heb 12:1-Heb 12:13\">Heb. 12:1–13</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,141,9" ],
+  "verses" : [ {
+    "verse" : "psalms,141,9",
+    "text" : "Keep me from the snares they have laid for me, from the traps set by evildoers."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,141,9",
     "id" : 191556,
@@ -42,7 +69,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 141:9\">141:9</a></b> <b>the snares.</b> A hunting image; see note <a class=\"bibleref\" href=\"/passage/?search=Ps 140:5\">Ps. 140:5</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,141,10" ],
+  "verses" : [ {
+    "verse" : "psalms,141,10",
+    "text" : "Let the wicked fall into their own nets, while I pass by in safety."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,141,10",
     "id" : 191557,

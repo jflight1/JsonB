@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,119,97" ],
+  "verses" : [ {
+    "verse" : "psalms,119,97",
+    "text" : "Oh, how I love your law! I meditate on it all day long."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,119,1-psalms,119,176",
     "id" : 191337,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 119:97\">119:97</a></b> <b>I love your law.</b> The psalmist loves the law because it comes from his God and Savior. See “The Law of God” at <a class=\"bibleref\" href=\"/passage/?search=Exod 20:1\">Ex. 20:1</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,119,98" ],
+  "verses" : [ {
+    "verse" : "psalms,119,98",
+    "text" : "Your commands make me wiser than my enemies, for they are ever with me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,119,98",
     "id" : 191381,
@@ -20,7 +26,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 119:98\">119:98</a></b> <b>wiser than my enemies.</b> His enemies rebel against God and reject the law, refusing the insight that God their Creator can give them.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,119,99", "psalms,119,100", "psalms,119,101" ],
+  "verses" : [ {
+    "verse" : "psalms,119,99",
+    "text" : "I have more insight than all my teachers, for I meditate on your statutes."
+  }, {
+    "verse" : "psalms,119,100",
+    "text" : "I have more understanding than the elders, for I obey your precepts."
+  }, {
+    "verse" : "psalms,119,101",
+    "text" : "I have kept my feet from every evil path so that I might obey your word."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,119,99",
     "id" : 191382,
@@ -28,7 +43,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 119:99\">119:99</a></b> <b>more understanding than all my teachers.</b> The psalmist does not mean this as a boast but as an emphatic expression of his devotion to God’s law.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,119,102", "psalms,119,103", "psalms,119,104" ],
+  "verses" : [ {
+    "verse" : "psalms,119,102",
+    "text" : "I have not departed from your laws, for you yourself have taught me."
+  }, {
+    "verse" : "psalms,119,103",
+    "text" : "How sweet are your words to my taste, sweeter than honey to my mouth!"
+  }, {
+    "verse" : "psalms,119,104",
+    "text" : "I gain understanding from your precepts; therefore I hate every wrong path."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,119,102",
     "id" : 191383,
@@ -36,7 +60,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 119:102\">119:102</a></b> <b>you have taught me.</b> The psalmist does not claim to study with superior intelligence, or even superior determination; he attributes everything to God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,119,105", "psalms,119,106", "psalms,119,107", "psalms,119,108" ],
+  "verses" : [ {
+    "verse" : "psalms,119,105",
+    "text" : "Your word is a lamp to my feet and a light for my path."
+  }, {
+    "verse" : "psalms,119,106",
+    "text" : "I have taken an oath and confirmed it, that I will follow your righteous laws."
+  }, {
+    "verse" : "psalms,119,107",
+    "text" : "I have suffered much; preserve my life, O LORD, according to your word."
+  }, {
+    "verse" : "psalms,119,108",
+    "text" : "Accept, O LORD, the willing praise of my mouth, and teach me your laws."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,119,105",
     "id" : 191384,
@@ -44,7 +80,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 119:105\">119:105 a</a></b> <b>lamp to my feet.</b> God’s revelation provides the insight to guide His servant. He will not trip in the darkness.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,119,109", "psalms,119,110", "psalms,119,111", "psalms,119,112" ],
+  "verses" : [ {
+    "verse" : "psalms,119,109",
+    "text" : "Though I constantly take my life in my hands, I will not forget your law."
+  }, {
+    "verse" : "psalms,119,110",
+    "text" : "The wicked have set a snare for me, but I have not strayed from your precepts."
+  }, {
+    "verse" : "psalms,119,111",
+    "text" : "Your statutes are my heritage forever; they are the joy of my heart."
+  }, {
+    "verse" : "psalms,119,112",
+    "text" : "My heart is set on keeping your decrees to the very end."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,119,109",
     "id" : 191385,

@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "matthew,24,29" ],
+  "verses" : [ {
+    "verse" : "matthew,24,29",
+    "text" : "\"Immediately after the distress of those days \"'the sun will be darkened, and the moon will not give its light; the stars will fall from the sky, and the heavenly bodies will be shaken.'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,24,1-matthew,25,46",
     "id" : 195888,
@@ -12,7 +15,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 24:29-Matt 24:31\">24:29–31</a></b> Some have understood these verses to represent the defeat of Satan’s forces, the Son of Man’s vindication, and the spread of the gospel to all the world, as having occurred symbolically at the destruction of Jerusalem. But the language of <a class=\"bibleref\" href=\"/passage/?search=Matt 24:31\">v. 31</a> is parallel to passages like <a class=\"bibleref\" href=\"/passage/?search=Matt 13:41\">13:41</a>; <a class=\"bibleref\" href=\"/passage/?search=Matt 16:27\">16:27</a>; and <a class=\"bibleref\" href=\"/passage/?search=Matt 25:31\">25:31</a>, as well as to passages such as <a class=\"bibleref\" href=\"/passage/?search=1Cor 15:52\">1 Cor. 15:52</a> and <a class=\"bibleref\" href=\"/passage/?search=1Thess 4:14-1Thess 4:17\">1 Thess. 4:14–17</a>. The passage most naturally refers to the Second Coming.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,24,30", "matthew,24,31", "matthew,24,32", "matthew,24,33" ],
+  "verses" : [ {
+    "verse" : "matthew,24,30",
+    "text" : "\"At that time the sign of the Son of Man will appear in the sky, and all the nations of the earth will mourn. They will see the Son of Man coming on the clouds of the sky, with power and great glory."
+  }, {
+    "verse" : "matthew,24,31",
+    "text" : "And he will send his angels with a loud trumpet call, and they will gather his elect from the four winds, from one end of the heavens to the other."
+  }, {
+    "verse" : "matthew,24,32",
+    "text" : "\"Now learn this lesson from the fig tree: As soon as its twigs get tender and its leaves come out, you know that summer is near."
+  }, {
+    "verse" : "matthew,24,33",
+    "text" : "Even so, when you see all these things, you know that it is near, right at the door."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,24,30",
     "id" : 195900,
@@ -20,7 +35,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 24:30\">24:30</a></b> <b>sign.</b> Christ Himself, or the first moments of His appearing.</p><p><b>mourn.</b> The mourning of the nations is an allusion to <a class=\"bibleref\" href=\"/passage/?search=Zech 12:10-Zech 12:12\">Zech. 12:10–12</a>, and the coming on the clouds refers to Christ’s assumption of dominion prophesied in <a class=\"bibleref\" href=\"/passage/?search=Dan 7:13\">Dan. 7:13</a>, <a class=\"bibleref\" href=\"/passage/?search=Dan 7:14\">14</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,24,34", "matthew,24,35" ],
+  "verses" : [ {
+    "verse" : "matthew,24,34",
+    "text" : "I tell you the truth, this generation will certainly not pass away until all these things have happened."
+  }, {
+    "verse" : "matthew,24,35",
+    "text" : "Heaven and earth will pass away, but my words will never pass away."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,24,34",
     "id" : 195901,
@@ -28,7 +49,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 24:34\">24:34</a></b> <b>this generation.</b> The phrase naturally means the people living as Jesus spoke. Some suggest it means “this race,” or somewhat better, “this sort of people,” that is, evil and adulterous people, <a class=\"bibleref\" href=\"/passage/?search=Matt 12:39\">12:39</a>.</p><p><b>all these things.</b> That is, “all these things” referred to in <a class=\"bibleref\" href=\"/passage/?search=Matt 12:33\">v. 33</a>, which are distinguished from the consummation itself. They are the “beginning of the birth pains” (<a class=\"bibleref\" href=\"/passage/?search=Matt 12:8\">v. 8</a>) and signs that point to the final coming of Christ, including the siege and fall of Jerusalem. All of the elements of this prophecy, except for the Second Coming itself, had occurred in some form before the disciples died (<a class=\"bibleref\" href=\"/passage/?search=Luke 21:32\">Luke 21:32</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,24,36", "matthew,24,37", "matthew,24,38", "matthew,24,39", "matthew,24,40", "matthew,24,41" ],
+  "verses" : [ {
+    "verse" : "matthew,24,36",
+    "text" : "\"No one knows about that day or hour, not even the angels in heaven, nor the Son, but only the Father."
+  }, {
+    "verse" : "matthew,24,37",
+    "text" : "As it was in the days of Noah, so it will be at the coming of the Son of Man."
+  }, {
+    "verse" : "matthew,24,38",
+    "text" : "For in the days before the flood, people were eating and drinking, marrying and giving in marriage, up to the day Noah entered the ark;"
+  }, {
+    "verse" : "matthew,24,39",
+    "text" : "and they knew nothing about what would happen until the flood came and took them all away. That is how it will be at the coming of the Son of Man."
+  }, {
+    "verse" : "matthew,24,40",
+    "text" : "Two men will be in the field; one will be taken and the other left."
+  }, {
+    "verse" : "matthew,24,41",
+    "text" : "Two women will be grinding with a hand mill; one will be taken and the other left."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,24,36",
     "id" : 195902,
@@ -36,7 +75,37 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 24:36\">24:36</a></b> <b>no one knows.</b> This remains true, and attempts to predict the time of the end are effectively stopped by it. See “The Humanity of Jesus” at <a class=\"bibleref\" href=\"/passage/?search=2John 1:7\">2 John 7</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,24,42", "matthew,24,43", "matthew,24,44", "matthew,24,45", "matthew,24,46", "matthew,24,47", "matthew,24,48", "matthew,24,49", "matthew,24,50", "matthew,24,51" ],
+  "verses" : [ {
+    "verse" : "matthew,24,42",
+    "text" : "\"Therefore keep watch, because you do not know on what day your Lord will come."
+  }, {
+    "verse" : "matthew,24,43",
+    "text" : "But understand this: If the owner of the house had known at what time of night the thief was coming, he would have kept watch and would not have let his house be broken into."
+  }, {
+    "verse" : "matthew,24,44",
+    "text" : "So you also must be ready, because the Son of Man will come at an hour when you do not expect him."
+  }, {
+    "verse" : "matthew,24,45",
+    "text" : "\"Who then is the faithful and wise servant, whom the master has put in charge of the servants in his household to give them their food at the proper time?"
+  }, {
+    "verse" : "matthew,24,46",
+    "text" : "It will be good for that servant whose master finds him doing so when he returns."
+  }, {
+    "verse" : "matthew,24,47",
+    "text" : "I tell you the truth, he will put him in charge of all his possessions."
+  }, {
+    "verse" : "matthew,24,48",
+    "text" : "But suppose that servant is wicked and says to himself, 'My master is staying away a long time,'"
+  }, {
+    "verse" : "matthew,24,49",
+    "text" : "and he then begins to beat his fellow servants and to eat and drink with drunkards."
+  }, {
+    "verse" : "matthew,24,50",
+    "text" : "The master of that servant will come on a day when he does not expect him and at an hour he is not aware of."
+  }, {
+    "verse" : "matthew,24,51",
+    "text" : "He will cut him to pieces and assign him a place with the hypocrites, where there will be weeping and gnashing of teeth."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,24,42",
     "id" : 195903,

@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "luke,23,44" ],
+  "verses" : [ {
+    "verse" : "luke,23,44",
+    "text" : "It was now about the sixth hour, and darkness came over the whole land until the ninth hour,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,23,44",
     "id" : 196832,
@@ -7,7 +10,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 23:44\">23:44</a></b> <b>about the sixth hour.</b> About noon.</p><p><b>darkness.</b> This was a supernatural darkness.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,23,45" ],
+  "verses" : [ {
+    "verse" : "luke,23,45",
+    "text" : "for the sun stopped shining. And the curtain of the temple was torn in two."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,23,45",
     "id" : 196833,
@@ -15,7 +21,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 23:45\">23:45</a></b> <b>the curtain.</b> A curtain separating the Most Holy Place from the rest of the temple. Jesus’ death opened the way into the presence of God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,23,46" ],
+  "verses" : [ {
+    "verse" : "luke,23,46",
+    "text" : "Jesus called out with a loud voice, \"Father, into your hands I commit my spirit.\" When he had said this, he breathed his last."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,23,46",
     "id" : 196834,
@@ -23,7 +32,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 23:46\">23:46</a></b> Matthew and Mark stress how terrible Jesus’ death was. Luke does not deny this, but records Jesus’ words showing that His death was in accordance with the will of the Father.</p><p><b>breathed his last.</b> This is not the usual way of referring to death. None of the Gospels employs standard terminology for Jesus’ death.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,23,47" ],
+  "verses" : [ {
+    "verse" : "luke,23,47",
+    "text" : "The centurion, seeing what had happened, praised God and said, \"Surely this was a righteous man.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,23,47",
     "id" : 196835,
@@ -31,7 +43,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 23:47\">23:47</a></b> <b>innocent.</b> The way He died showed Him to be “innocent.” Matthew and Mark have “Son of God”; in this context, the two terms have much the same meaning (<a class=\"bibleref\" href=\"/passage/?search=Mark 15:39\">Mark 15:39</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,23,48", "luke,23,49" ],
+  "verses" : [ {
+    "verse" : "luke,23,48",
+    "text" : "When all the people who had gathered to witness this sight saw what took place, they beat their breasts and went away."
+  }, {
+    "verse" : "luke,23,49",
+    "text" : "But all those who knew him, including the women who had followed him from Galilee, stood at a distance, watching these things."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,23,48",
     "id" : 196836,
@@ -39,7 +57,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 23:48\">23:48</a></b> <b>beating their breasts.</b> A sign of grief. The crowd had come to be entertained, but Jesus’ death disturbed them. Luke does not say what effect the death had on the disciples who witnessed it.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,23,50", "luke,23,51", "luke,23,52" ],
+  "verses" : [ {
+    "verse" : "luke,23,50",
+    "text" : "Now there was a man named Joseph, a member of the Council, a good and upright man,"
+  }, {
+    "verse" : "luke,23,51",
+    "text" : "who had not consented to their decision and action. He came from the Judean town of Arimathea and he was waiting for the kingdom of God."
+  }, {
+    "verse" : "luke,23,52",
+    "text" : "Going to Pilate, he asked for Jesus' body."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,23,50-luke,23,51",
     "id" : 196837,
@@ -47,7 +74,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 23:50\">23:50</a>, <a class=\"bibleref\" href=\"/passage/?search=Luke 23:51\">51</a></b> Joseph of Arimathea is mentioned in all four Gospels as taking the leading role in Jesus’ burial. The location of Arimathea is uncertain (<a class=\"bibleref\" href=\"/passage/?search=Mark 15:43\">Mark 15:43</a> note). Joseph was a member of the Sanhedrin and must have been absent when the vote to execute Jesus was taken, for “all” agreed to this (<a class=\"bibleref\" href=\"/passage/?search=Mark 14:64\">Mark 14:64</a>). That he was “looking for the kingdom of God” (v. 51) means that he was a follower of Jesus.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,23,53" ],
+  "verses" : [ {
+    "verse" : "luke,23,53",
+    "text" : "Then he took it down, wrapped it in linen cloth and placed it in a tomb cut in the rock, one in which no one had yet been laid."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,23,53",
     "id" : 196838,
@@ -55,7 +85,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 23:53\">23:53</a></b> <b>linen.</b> The linen cloth was a shroud (placed over the linen strips mentioned in <a class=\"bibleref\" href=\"/passage/?search=John 19:40\">John 19:40</a>).</p><p><b>a tomb cut in stone.</b> A rock tomb generally held several bodies (<a class=\"bibleref\" href=\"/passage/?search=Mark 15:46\">Mark 15:46</a> note), but this one was empty.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,23,54" ],
+  "verses" : [ {
+    "verse" : "luke,23,54",
+    "text" : "It was Preparation Day, and the Sabbath was about to begin."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,23,54",
     "id" : 196839,
@@ -63,7 +96,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 23:54\">23:54</a></b> <b>Preparation.</b> Friday, the day on which people prepared for the Sabbath (<a class=\"bibleref\" href=\"/passage/?search=John 19:14\">John 19:14</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,23,55", "luke,23,56" ],
+  "verses" : [ {
+    "verse" : "luke,23,55",
+    "text" : "The women who had come with Jesus from Galilee followed Joseph and saw the tomb and how his body was laid in it."
+  }, {
+    "verse" : "luke,23,56",
+    "text" : "Then they went home and prepared spices and perfumes. But they rested on the Sabbath in obedience to the commandment."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,23,55-luke,23,56",
     "id" : 196840,
@@ -71,7 +110,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 23:55\">23:55</a>, <a class=\"bibleref\" href=\"/passage/?search=Luke 23:56\">56</a></b> There was not time on Friday to do all that Jesus’ followers would have liked for His burial. The women took note of where the body was laid, evidently to know where to come when the Sabbath was over to complete the burial. Joseph and Nicodemus placed a considerable quantity of myrrh and aloes with the body as they laid it in the tomb (<a class=\"bibleref\" href=\"/passage/?search=John 19:38\">John 19:38</a>, <a class=\"bibleref\" href=\"/passage/?search=John 19:39\">39</a>), but the women wanted to make their own contribution.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,24,1" ],
+  "verses" : [ {
+    "verse" : "luke,24,1",
+    "text" : "On the first day of the week, very early in the morning, the women took the spices they had prepared and went to the tomb."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,24,1-luke,24,53",
     "id" : 196841,
@@ -84,7 +126,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 24:1\">24:1</a></b> <b>the first day of the week.</b> This began at sunset on Saturday. The women would have had the hours of darkness to complete their preparations before setting out for the tomb at daybreak.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,24,2", "luke,24,3", "luke,24,4", "luke,24,5", "luke,24,6", "luke,24,7", "luke,24,8" ],
+  "verses" : [ {
+    "verse" : "luke,24,2",
+    "text" : "They found the stone rolled away from the tomb,"
+  }, {
+    "verse" : "luke,24,3",
+    "text" : "but when they entered, they did not find the body of the Lord Jesus."
+  }, {
+    "verse" : "luke,24,4",
+    "text" : "While they were wondering about this, suddenly two men in clothes that gleamed like lightning stood beside them."
+  }, {
+    "verse" : "luke,24,5",
+    "text" : "In their fright the women bowed down with their faces to the ground, but the men said to them, \"Why do you look for the living among the dead?"
+  }, {
+    "verse" : "luke,24,6",
+    "text" : "He is not here; he has risen! Remember how he told you, while he was still with you in Galilee:"
+  }, {
+    "verse" : "luke,24,7",
+    "text" : "'The Son of Man must be delivered into the hands of sinful men, be crucified and on the third day be raised again.'\""
+  }, {
+    "verse" : "luke,24,8",
+    "text" : "Then they remembered his words."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,24,2",
     "id" : 196843,
@@ -97,7 +160,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 24:2\">24:2</a>, <a class=\"bibleref\" href=\"/passage/?search=Luke 24:3\">3</a></b> A stone tomb would be closed by rolling a stone in front of the opening (<a class=\"bibleref\" href=\"/passage/?search=Mark 15:46\">Mark 15:46</a> note). Matthew notes that a seal was placed on the stone (<a class=\"bibleref\" href=\"/passage/?search=Matt 27:66\">Matt. 27:66</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,24,9" ],
+  "verses" : [ {
+    "verse" : "luke,24,9",
+    "text" : "When they came back from the tomb, they told all these things to the Eleven and to all the others."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,24,9",
     "id" : 196845,
@@ -105,7 +171,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 24:9\">24:9</a></b> <b>all the rest.</b> This indefinite expression shows that there was a large band of Jesus’ followers in Jerusalem at this time. Many would have been Galileans in Jerusalem for the Passover.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,24,10" ],
+  "verses" : [ {
+    "verse" : "luke,24,10",
+    "text" : "It was Mary Magdalene, Joanna, Mary the mother of James, and the others with them who told this to the apostles."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,24,10",
     "id" : 196846,
@@ -113,7 +182,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 24:10\">24:10</a></b> Mary Magdalene was the first to see the risen Lord (<a class=\"bibleref\" href=\"/passage/?search=Mark 16:9\">Mark 16:9</a>; <a class=\"bibleref\" href=\"/passage/?search=John 20:10-John 20:18\">John 20:10–18</a>). She is mentioned in all four Gospels in connection with the Crucifixion and the Resurrection, but otherwise we hear of her only in 8:2.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,24,11", "luke,24,12" ],
+  "verses" : [ {
+    "verse" : "luke,24,11",
+    "text" : "But they did not believe the women, because their words seemed to them like nonsense."
+  }, {
+    "verse" : "luke,24,12",
+    "text" : "Peter, however, got up and ran to the tomb. Bending over, he saw the strips of linen lying by themselves, and he went away, wondering to himself what had happened."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,24,11",
     "id" : 196847,

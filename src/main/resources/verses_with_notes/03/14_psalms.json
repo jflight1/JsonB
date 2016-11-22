@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,57,1" ],
+  "verses" : [ {
+    "verse" : "psalms,57,1",
+    "text" : "Have mercy on me, O God, have mercy on me, for in you my soul takes refuge. I will take refuge in the shadow of your wings until the disaster has passed."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,57,1-psalms,57,11",
     "id" : 190697,
@@ -12,7 +15,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 57:1\">57:1</a></b> <b>in the shadow of your wings.</b> The image of God as a protective mother bird protecting her young from trouble communicates God’s compassion for His people. See note on maternal representations of God at <a class=\"bibleref\" href=\"/passage/?search=Ps 131:2\">Ps. 131:2</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,57,2", "psalms,57,3" ],
+  "verses" : [ {
+    "verse" : "psalms,57,2",
+    "text" : "I cry out to God Most High, to God, who fulfills {his purpose} for me."
+  }, {
+    "verse" : "psalms,57,3",
+    "text" : "He sends from heaven and saves me, rebuking those who hotly pursue me; Selah God sends his love and his faithfulness."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,57,2",
     "id" : 190699,
@@ -20,7 +29,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 57:2\">57:2</a></b> <b>who fulfills his purpose for me.</b> This Hebrew phrase might be rendered “who avenges me,” and indicates that God judges His people’s enemies.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,57,4" ],
+  "verses" : [ {
+    "verse" : "psalms,57,4",
+    "text" : "I am in the midst of lions; I lie among ravenous beasts- men whose teeth are spears and arrows, whose tongues are sharp swords."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,57,4",
     "id" : 190700,
@@ -28,7 +40,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 57:4\">57:4</a></b> <b>lions.</b> Lions were numerous in the ancient Near East and in Palestine. They often symbolized power and ruthlessness.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,57,5" ],
+  "verses" : [ {
+    "verse" : "psalms,57,5",
+    "text" : "Be exalted, O God, above the heavens; let your glory be over all the earth."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,57,5",
     "id" : 190701,
@@ -36,7 +51,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 57:5\">57:5</a></b> <b>above the heavens.</b> God is so great that not even the heavens can hold Him (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 8:27\">1 Kin. 8:27</a>). He is transcendent, but in His compassion He dwells with men.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,57,6" ],
+  "verses" : [ {
+    "verse" : "psalms,57,6",
+    "text" : "They spread a net for my feet- I was bowed down in distress. They dug a pit in my path- but they have fallen into it themselves. Selah"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,57,6",
     "id" : 190702,
@@ -44,7 +62,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 57:6\">57:6 a</a></b> <b>net . . . a pit.</b> Like a hunter, the enemy sets snares and traps for the psalmist. The principle that evil people are ultimately caught by their own wicked schemes is a theme that runs through the psalms and the prophets. See <a class=\"bibleref\" href=\"/passage/?search=Ps 7:14-Ps 7:16\">Ps. 7:14–16</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 34:21\">34:21</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 35:8\">35:8</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 37:15\">37:15</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,57,7" ],
+  "verses" : [ {
+    "verse" : "psalms,57,7",
+    "text" : "My heart is steadfast, O God, my heart is steadfast; I will sing and make music."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,57,7",
     "id" : 190703,
@@ -52,7 +73,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 57:7\">57:7</a></b> <b>steadfast.</b> Nothing can swerve the psalmist from his faithful intention to offer up his hymn of praise.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,57,8" ],
+  "verses" : [ {
+    "verse" : "psalms,57,8",
+    "text" : "Awake, my soul! Awake, harp and lyre! I will awaken the dawn."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,57,8",
     "id" : 190704,
@@ -60,7 +84,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 57:8\">57:8</a></b> <b>I will awake the dawn.</b> He will praise the Lord through the night, until dawn arises.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,57,9", "psalms,57,10", "psalms,57,11" ],
+  "verses" : [ {
+    "verse" : "psalms,57,9",
+    "text" : "I will praise you, O Lord, among the nations; I will sing of you among the peoples."
+  }, {
+    "verse" : "psalms,57,10",
+    "text" : "For great is your love, reaching to the heavens; your faithfulness reaches to the skies."
+  }, {
+    "verse" : "psalms,57,11",
+    "text" : "Be exalted, O God, above the heavens; let your glory be over all the earth."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,57,9",
     "id" : 190705,

@@ -1,5 +1,17 @@
 [ {
-  "singleVerses" : [ "daniel,2,24", "daniel,2,25", "daniel,2,26", "daniel,2,27" ],
+  "verses" : [ {
+    "verse" : "daniel,2,24",
+    "text" : "Then Daniel went to Arioch, whom the king had appointed to execute the wise men of Babylon, and said to him, \"Do not execute the wise men of Babylon. Take me to the king, and I will interpret his dream for him.\""
+  }, {
+    "verse" : "daniel,2,25",
+    "text" : "Arioch took Daniel to the king at once and said, \"I have found a man among the exiles from Judah who can tell the king what his dream means.\""
+  }, {
+    "verse" : "daniel,2,26",
+    "text" : "The king asked Daniel (also called Belteshazzar), \"Are you able to tell me what I saw in my dream and interpret it?\""
+  }, {
+    "verse" : "daniel,2,27",
+    "text" : "Daniel replied, \"No wise man, enchanter, magician or diviner can explain to the king the mystery he has asked about,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,2,24",
     "id" : 194544,
@@ -7,7 +19,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Dan 2:24\">2:24</a></b> <b>Do not destroy the wise men.</b> Daniel urges the king to be merciful to the wise men even though their inability to know the dream has been exposed.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "daniel,2,28", "daniel,2,29", "daniel,2,30", "daniel,2,31" ],
+  "verses" : [ {
+    "verse" : "daniel,2,28",
+    "text" : "but there is a God in heaven who reveals mysteries. He has shown King Nebuchadnezzar what will happen in days to come. Your dream and the visions that passed through your mind as you lay on your bed are these:"
+  }, {
+    "verse" : "daniel,2,29",
+    "text" : "\"As you were lying there, O king, your mind turned to things to come, and the revealer of mysteries showed you what is going to happen."
+  }, {
+    "verse" : "daniel,2,30",
+    "text" : "As for me, this mystery has been revealed to me, not because I have greater wisdom than other living men, but so that you, O king, may know the interpretation and that you may understand what went through your mind."
+  }, {
+    "verse" : "daniel,2,31",
+    "text" : "\"You looked, O king, and there before you stood a large statue-an enormous, dazzling statue, awesome in appearance."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,2,28",
     "id" : 194545,
@@ -15,7 +39,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Dan 2:28\">2:28 a</a></b> <b>God in heaven who reveals mysteries.</b> Just as Joseph had done in Egypt (<a class=\"bibleref\" href=\"/passage/?search=Gen 40:8\">Gen. 40:8</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 41:16\">41:16</a>), so also Daniel attributes his knowledge of the dream to God. Daniel’s God revealed to this young man what astrology, magic, and the occult could not discover.</p><p><b>in the latter days.</b> This expression seems to range in meaning from the “end time,” technically called the “eschaton” (<a class=\"bibleref\" href=\"/passage/?search=Ezek 38:16\">Ezek. 38:16</a>), to simply the future in general (<a class=\"bibleref\" href=\"/passage/?search=Gen 49:1\">Gen. 49:1</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 4:30\">Deut. 4:30</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 31:29\">31:29</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "daniel,2,32", "daniel,2,33" ],
+  "verses" : [ {
+    "verse" : "daniel,2,32",
+    "text" : "The head of the statue was made of pure gold, its chest and arms of silver, its belly and thighs of bronze,"
+  }, {
+    "verse" : "daniel,2,33",
+    "text" : "its legs of iron, its feet partly of iron and partly of baked clay."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,2,32-daniel,2,33",
     "id" : 194546,
@@ -23,7 +53,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Dan 2:32\">2:32</a>, <a class=\"bibleref\" href=\"/passage/?search=Dan 2:33\">33</a> gold . . . iron . . . clay.</b> There is a progressive decrease in the value of the materials in the image from the head to the feet.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "daniel,2,34", "daniel,2,35", "daniel,2,36" ],
+  "verses" : [ {
+    "verse" : "daniel,2,34",
+    "text" : "While you were watching, a rock was cut out, but not by human hands. It struck the statue on its feet of iron and clay and smashed them."
+  }, {
+    "verse" : "daniel,2,35",
+    "text" : "Then the iron, the clay, the bronze, the silver and the gold were broken to pieces at the same time and became like chaff on a threshing floor in the summer. The wind swept them away without leaving a trace. But the rock that struck the statue became a huge mountain and filled the whole earth."
+  }, {
+    "verse" : "daniel,2,36",
+    "text" : "\"This was the dream, and now we will interpret it to the king."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,2,34",
     "id" : 194547,
@@ -31,7 +70,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Dan 2:34\">2:34</a></b> <b>its feet of iron and clay.</b> Some interpreters view the mixture of iron and clay in the feet of the image as representing a second phase of the fourth kingdom different from the legs of solid iron (cf. <a class=\"bibleref\" href=\"/passage/?search=Dan 2:41-Dan 2:43\">vv. 41–43</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "daniel,2,37", "daniel,2,38", "daniel,2,39", "daniel,2,40", "daniel,2,41", "daniel,2,42" ],
+  "verses" : [ {
+    "verse" : "daniel,2,37",
+    "text" : "You, O king, are the king of kings. The God of heaven has given you dominion and power and might and glory;"
+  }, {
+    "verse" : "daniel,2,38",
+    "text" : "in your hands he has placed mankind and the beasts of the field and the birds of the air. Wherever they live, he has made you ruler over them all. You are that head of gold."
+  }, {
+    "verse" : "daniel,2,39",
+    "text" : "\"After you, another kingdom will rise, inferior to yours. Next, a third kingdom, one of bronze, will rule over the whole earth."
+  }, {
+    "verse" : "daniel,2,40",
+    "text" : "Finally, there will be a fourth kingdom, strong as iron-for iron breaks and smashes everything-and as iron breaks things to pieces, so it will crush and break all the others."
+  }, {
+    "verse" : "daniel,2,41",
+    "text" : "Just as you saw that the feet and toes were partly of baked clay and partly of iron, so this will be a divided kingdom; yet it will have some of the strength of iron in it, even as you saw iron mixed with clay."
+  }, {
+    "verse" : "daniel,2,42",
+    "text" : "As the toes were partly iron and partly clay, so this kingdom will be partly strong and partly brittle."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,2,37-daniel,2,40",
     "id" : 194548,
@@ -39,7 +96,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Dan 2:37-Dan 2:40\">2:37–40</a></b> <b>king of kings . . . fourth kingdom.</b> The four kingdoms have been widely understood since Josephus (1st century <span class=\"small-caps\">a.d.</span>) to be the empires of Babylon, Medo-Persia, Greece, and Rome. Others understand them to be Babylon, Media, Persia, and Greece, a sequence in agreement with the critical view that the book was written, after the facts, by a living witness during the period of Greek ascendency in the Middle East. However, the animal symbols in <a class=\"bibleref\" href=\"/passage/?search=Dan 7:4-Dan 7:7\">7:4–7</a> historically fit the former structure of a combined Medo-Persian Empire, leaving Greece as the third and Rome as the fourth kingdom. Darius’s appeal to the single “law of the Medes and Persians” (<a class=\"bibleref\" href=\"/passage/?search=Dan 6:12\">6:12</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Dan 5:28\">5:28</a>) agrees with the first order of empires.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "daniel,2,43" ],
+  "verses" : [ {
+    "verse" : "daniel,2,43",
+    "text" : "And just as you saw the iron mixed with baked clay, so the people will be a mixture and will not remain united, any more than iron mixes with clay."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,2,43",
     "id" : 194549,
@@ -47,7 +107,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Dan 2:43\">2:43</a></b> <b>they will mix . . . but . . . not hold together.</b> The elements of the fourth kingdom cannot preserve their union. One possible interpretation of the image is that the iron represents the culture and laws of imperial Rome, while the clay represents the divergent political and social traditions of its many parts. The fourth kingdom, though strong, is temporary.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "daniel,2,44", "daniel,2,45" ],
+  "verses" : [ {
+    "verse" : "daniel,2,44",
+    "text" : "\"In the time of those kings, the God of heaven will set up a kingdom that will never be destroyed, nor will it be left to another people. It will crush all those kingdoms and bring them to an end, but it will itself endure forever."
+  }, {
+    "verse" : "daniel,2,45",
+    "text" : "This is the meaning of the vision of the rock cut out of a mountain, but not by human hands-a rock that broke the iron, the bronze, the clay, the silver and the gold to pieces. \"The great God has shown the king what will take place in the future. The dream is true and the interpretation is trustworthy.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,2,44",
     "id" : 194550,
@@ -55,7 +121,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Dan 2:44\">2:44</a></b> <b>those kings.</b> The most natural interpretation is that the kings are the rulers of the four powers making up the image just described. The other possibility is that they are a sequence of several rulers of the fourth kingdom only.</p><p><b>a kingdom that shall never be destroyed.</b> The eternal kingdom is the kingdom of our Lord Jesus Christ (<a class=\"bibleref\" href=\"/passage/?search=Isa 9:7\">Is. 9:7</a>; <a class=\"bibleref\" href=\"/passage/?search=Luke 1:33\">Luke 1:33</a>; <a class=\"bibleref\" href=\"/passage/?search=Heb 1:8\">Heb. 1:8</a>; <a class=\"bibleref\" href=\"/passage/?search=Rev 11:15\">Rev. 11:15</a>). This kingdom was inaugurated and preached at the First Coming of Christ (<a class=\"bibleref\" href=\"/passage/?search=Mark 1:15\">Mark 1:15</a>; <a class=\"bibleref\" href=\"/passage/?search=Matt 12:28\">Matt. 12:28</a>; <a class=\"bibleref\" href=\"/passage/?search=Matt 24:14\">24:14</a>), but does not come in its fullness until His Second Advent. See “The Kingdom of God” at <a class=\"bibleref\" href=\"/passage/?search=Luke 17:20\">Luke 17:20</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "daniel,2,46" ],
+  "verses" : [ {
+    "verse" : "daniel,2,46",
+    "text" : "Then King Nebuchadnezzar fell prostrate before Daniel and paid him honor and ordered that an offering and incense be presented to him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,2,46",
     "id" : 194551,
@@ -63,7 +132,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Dan 2:46\">2:46</a></b> <b>King Nebuchadnezzar fell . . . paid homage to Daniel.</b> In a reversal of roles, Daniel is exalted to a position of honor by the Lord’s intervention on his behalf. For the king’s reaction, compare <a class=\"bibleref\" href=\"/passage/?search=Acts 14:11\">Acts 14:11</a>; <a class=\"bibleref\" href=\"/passage/?search=Rev 22:8\">Rev. 22:8</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "daniel,2,47" ],
+  "verses" : [ {
+    "verse" : "daniel,2,47",
+    "text" : "The king said to Daniel, \"Surely your God is the God of gods and the Lord of kings and a revealer of mysteries, for you were able to reveal this mystery.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,2,47",
     "id" : 194552,
@@ -71,7 +143,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Dan 2:47\">2:47</a></b> <b>God of gods.</b> Nebuchadnezzar’s statement does not necessarily mean that he recognized Israel’s God as the only God. His exclamation is that Israel’s God is superior to other gods.</p><p><b>Lord of kings.</b> Nebuchadnezzar confesses that Israel’s God is supreme over human rulers and kingdoms. This is the unifying theme of <a class=\"bibleref\" href=\"/passage/?search=Dan 1-Dan 6\">Dan. 1–6</a> (Introduction: Characteristics and Themes).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "daniel,2,48", "daniel,2,49" ],
+  "verses" : [ {
+    "verse" : "daniel,2,48",
+    "text" : "Then the king placed Daniel in a high position and lavished many gifts on him. He made him ruler over the entire province of Babylon and placed him in charge of all its wise men."
+  }, {
+    "verse" : "daniel,2,49",
+    "text" : "Moreover, at Daniel's request the king appointed Shadrach, Meshach and Abednego administrators over the province of Babylon, while Daniel himself remained at the royal court."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,2,48",
     "id" : 194553,
@@ -79,7 +157,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Dan 2:48\">2:48</a></b> <b>province of Babylon.</b> The Babylonian Empire was divided into provinces. Daniel was appointed ruler (cf. <a class=\"bibleref\" href=\"/passage/?search=Dan 3:2\">3:2</a>) of the province where the capital city was. Joseph and Mordecai also rose as Jews to political power in a foreign land. See <a class=\"bibleref\" href=\"/passage/?search=Gen 41:37-Gen 41:44\">Gen. 41:37–44</a> (Joseph) and <a class=\"bibleref\" href=\"/passage/?search=Esth 8:1\">Esth. 8:1</a>, <a class=\"bibleref\" href=\"/passage/?search=Esth 8:2\">2</a> (Mordecai).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "daniel,3,1" ],
+  "verses" : [ {
+    "verse" : "daniel,3,1",
+    "text" : "King Nebuchadnezzar made an image of gold, ninety feet high and nine feet wide, and set it up on the plain of Dura in the province of Babylon."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,3,1",
     "id" : 194554,
@@ -87,7 +168,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Dan 3:1\">3:1</a></b> <b>an image of gold.</b> Although the narrow proportions could suggest an obelisk rather than a statue, the monument is called an “image.” It was probably a figure standing on a pedestal. The gold was probably plating, the fabrication of the image being much like that described in <a class=\"bibleref\" href=\"/passage/?search=Isa 40:19\">Is. 40:19</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 41:7\">41:7</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 10:3-Jer 10:9\">Jer. 10:3–9</a>.</p><p><b>the plain of Dura.</b> Probably about six miles south of Babylon.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "daniel,3,2", "daniel,3,3", "daniel,3,4" ],
+  "verses" : [ {
+    "verse" : "daniel,3,2",
+    "text" : "He then summoned the satraps, prefects, governors, advisers, treasurers, judges, magistrates and all the other provincial officials to come to the dedication of the image he had set up."
+  }, {
+    "verse" : "daniel,3,3",
+    "text" : "So the satraps, prefects, governors, advisers, treasurers, judges, magistrates and all the other provincial officials assembled for the dedication of the image that King Nebuchadnezzar had set up, and they stood before it."
+  }, {
+    "verse" : "daniel,3,4",
+    "text" : "Then the herald loudly proclaimed, \"This is what you are commanded to do, O peoples, nations and men of every language:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,3,2",
     "id" : 194555,
@@ -95,7 +185,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Dan 3:2\">3:2</a></b> <b>satraps . . . officials.</b> The precise responsibilities of these different officials are not known. Five of the seven terms are of Persian origin, perhaps indicating that Daniel did not finish writing the account until after the beginning of Persian rule in 539 <span class=\"small-caps\">b.c.</span></p></div>"
   } ]
 }, {
-  "singleVerses" : [ "daniel,3,5" ],
+  "verses" : [ {
+    "verse" : "daniel,3,5",
+    "text" : "As soon as you hear the sound of the horn, flute, zither, lyre, harp, pipes and all kinds of music, you must fall down and worship the image of gold that King Nebuchadnezzar has set up."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,3,5",
     "id" : 194556,
@@ -103,7 +196,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Dan 3:5\">3:5</a></b> <b>horn . . . harp.</b> Of the six terms for musical instruments, the three translated “lyre,” “harp,” and “bagpipe” are borrowed from Greek. This is not surprising since the international exchange of musicians and musical instruments at royal courts had a long history. The presence of these three Greek terms in Daniel does not establish that the account was written after the time of Alexander the Great, as is sometimes argued.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "daniel,3,6", "daniel,3,7" ],
+  "verses" : [ {
+    "verse" : "daniel,3,6",
+    "text" : "Whoever does not fall down and worship will immediately be thrown into a blazing furnace.\""
+  }, {
+    "verse" : "daniel,3,7",
+    "text" : "Therefore, as soon as they heard the sound of the horn, flute, zither, lyre, harp and all kinds of music, all the peoples, nations and men of every language fell down and worshiped the image of gold that King Nebuchadnezzar had set up."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,3,6",
     "id" : 194557,
@@ -111,7 +210,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Dan 3:6\">3:6 a</a></b> <b>burning fiery furnace.</b> Furnaces or kilns were used in Babylon for firing bricks (<a class=\"bibleref\" href=\"/passage/?search=Gen 11:3\">Gen. 11:3</a>). Execution by burning was not unknown (<a class=\"bibleref\" href=\"/passage/?search=Jer 29:22\">Jer. 29:22</a>; cf. Herodotus 1:86; 4:69; <a class=\"bibleref\" href=\"/passage/?search=2Macc 7\">2 Macc. 7</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "daniel,3,8", "daniel,3,9", "daniel,3,10", "daniel,3,11" ],
+  "verses" : [ {
+    "verse" : "daniel,3,8",
+    "text" : "At this time some astrologers came forward and denounced the Jews."
+  }, {
+    "verse" : "daniel,3,9",
+    "text" : "They said to King Nebuchadnezzar, \"O king, live forever!"
+  }, {
+    "verse" : "daniel,3,10",
+    "text" : "You have issued a decree, O king, that everyone who hears the sound of the horn, flute, zither, lyre, harp, pipes and all kinds of music must fall down and worship the image of gold,"
+  }, {
+    "verse" : "daniel,3,11",
+    "text" : "and that whoever does not fall down and worship will be thrown into a blazing furnace."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,3,8",
     "id" : 194558,
@@ -119,7 +230,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Dan 3:8\">3:8</a></b> <b>Chaldeans.</b> See <a class=\"bibleref\" href=\"/passage/?search=Dan 2:2\">2:2</a> note; here “Chaldeans” probably indicates nationality. The informers were prejudiced against the Jews (<a class=\"bibleref\" href=\"/passage/?search=Dan 2:12\">v. 12</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Esth 3:5\">Esth. 3:5</a>, <a class=\"bibleref\" href=\"/passage/?search=Esth 3:6\">6</a>), possibly because they were jealous of the Jews’ privileged position.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "daniel,3,12", "daniel,3,13", "daniel,3,14" ],
+  "verses" : [ {
+    "verse" : "daniel,3,12",
+    "text" : "But there are some Jews whom you have set over the affairs of the province of Babylon-Shadrach, Meshach and Abednego-who pay no attention to you, O king. They neither serve your gods nor worship the image of gold you have set up.\""
+  }, {
+    "verse" : "daniel,3,13",
+    "text" : "Furious with rage, Nebuchadnezzar summoned Shadrach, Meshach and Abednego. So these men were brought before the king,"
+  }, {
+    "verse" : "daniel,3,14",
+    "text" : "and Nebuchadnezzar said to them, \"Is it true, Shadrach, Meshach and Abednego, that you do not serve my gods or worship the image of gold I have set up?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,3,12",
     "id" : 194559,
@@ -127,7 +247,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Dan 3:12\">3:12</a></b> <b>Shadrach, Meshach, and Abednego.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Dan 1:7\">1:7</a>. Daniel was either not present or was exempted by his high position from having to demonstrate his loyalty (<a class=\"bibleref\" href=\"/passage/?search=Dan 2:48\">2:48</a>, <a class=\"bibleref\" href=\"/passage/?search=Dan 2:49\">49</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "daniel,3,15", "daniel,3,16" ],
+  "verses" : [ {
+    "verse" : "daniel,3,15",
+    "text" : "Now when you hear the sound of the horn, flute, zither, lyre, harp, pipes and all kinds of music, if you are ready to fall down and worship the image I made, very good. But if you do not worship it, you will be thrown immediately into a blazing furnace. Then what god will be able to rescue you from my hand?\""
+  }, {
+    "verse" : "daniel,3,16",
+    "text" : "Shadrach, Meshach and Abednego replied to the king, \"O Nebuchadnezzar, we do not need to defend ourselves before you in this matter."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,3,15",
     "id" : 194560,
@@ -135,7 +261,31 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Dan 3:15\">3:15</a></b> <b>who is the god.</b> From Nebuchadnezzar’s polytheistic perspective there was no god capable of such deliverance. Unwittingly, Nebuchadnezzar challenged the power of the God of Israel.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "daniel,3,17", "daniel,3,18", "daniel,3,19", "daniel,3,20", "daniel,3,21", "daniel,3,22", "daniel,3,23", "daniel,3,24" ],
+  "verses" : [ {
+    "verse" : "daniel,3,17",
+    "text" : "If we are thrown into the blazing furnace, the God we serve is able to save us from it, and he will rescue us from your hand, O king."
+  }, {
+    "verse" : "daniel,3,18",
+    "text" : "But even if he does not, we want you to know, O king, that we will not serve your gods or worship the image of gold you have set up.\""
+  }, {
+    "verse" : "daniel,3,19",
+    "text" : "Then Nebuchadnezzar was furious with Shadrach, Meshach and Abednego, and his attitude toward them changed. He ordered the furnace heated seven times hotter than usual"
+  }, {
+    "verse" : "daniel,3,20",
+    "text" : "and commanded some of the strongest soldiers in his army to tie up Shadrach, Meshach and Abednego and throw them into the blazing furnace."
+  }, {
+    "verse" : "daniel,3,21",
+    "text" : "So these men, wearing their robes, trousers, turbans and other clothes, were bound and thrown into the blazing furnace."
+  }, {
+    "verse" : "daniel,3,22",
+    "text" : "The king's command was so urgent and the furnace so hot that the flames of the fire killed the soldiers who took up Shadrach, Meshach and Abednego,"
+  }, {
+    "verse" : "daniel,3,23",
+    "text" : "and these three men, firmly tied, fell into the blazing furnace."
+  }, {
+    "verse" : "daniel,3,24",
+    "text" : "Then King Nebuchadnezzar leaped to his feet in amazement and asked his advisers, \"Weren't there three men that we tied up and threw into the fire?\" They replied, \"Certainly, O king.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,3,17-daniel,3,18",
     "id" : 194561,
@@ -143,7 +293,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Dan 3:17\">3:17</a>, <a class=\"bibleref\" href=\"/passage/?search=Dan 3:18\">18</a> he will deliver . . . But if not.</b> These verses express the central theme of the chapter. The idea is not that God will always protect His people from physical harm (<a class=\"bibleref\" href=\"/passage/?search=Isa 43:1\">Is. 43:1</a>, <a class=\"bibleref\" href=\"/passage/?search=Isa 43:2\">2</a>). He may do that and certainly is able to. The central idea is that God’s people should be obedient to Him whatever the consequences.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "daniel,3,25" ],
+  "verses" : [ {
+    "verse" : "daniel,3,25",
+    "text" : "He said, \"Look! I see four men walking around in the fire, unbound and unharmed, and the fourth looks like a son of the gods.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,3,25",
     "id" : 194562,
@@ -151,7 +304,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Dan 3:25\">3:25 a</a></b> <b>son of the gods.</b> How Nebuchadnezzar recognized the fourth person in the furnace as a divine being is not explained (<a class=\"bibleref\" href=\"/passage/?search=Dan 3:28\">v. 28</a> note). Perhaps the miraculous appearance was itself sufficient reason for the conclusion.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "daniel,3,26", "daniel,3,27" ],
+  "verses" : [ {
+    "verse" : "daniel,3,26",
+    "text" : "Nebuchadnezzar then approached the opening of the blazing furnace and shouted, \"Shadrach, Meshach and Abednego, servants of the Most High God, come out! Come here!\" So Shadrach, Meshach and Abednego came out of the fire,"
+  }, {
+    "verse" : "daniel,3,27",
+    "text" : "and the satraps, prefects, governors and royal advisers crowded around them. They saw that the fire had not harmed their bodies, nor was a hair of their heads singed; their robes were not scorched, and there was no smell of fire on them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,3,26",
     "id" : 194563,
@@ -159,7 +318,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Dan 3:26\">3:26</a></b> <b>the Most High God.</b> This is a title expressing God’s universal authority. As in <a class=\"bibleref\" href=\"/passage/?search=Dan 3:29\">v. 29</a> and <a class=\"bibleref\" href=\"/passage/?search=Dan 2:47\">2:47</a>, such a confession on the lips of a pagan is not an acknowledgment that Daniel’s Lord is the only God, but only that He is supreme over other gods (<a class=\"bibleref\" href=\"/passage/?search=Dan 4:2\">4:2</a>, <a class=\"bibleref\" href=\"/passage/?search=Dan 4:17\">17</a>, <a class=\"bibleref\" href=\"/passage/?search=Dan 4:34\">34</a>). To a Jew it means there is only one God (<a class=\"bibleref\" href=\"/passage/?search=Dan 4:24-Dan 4:32\">4:24–32</a>; <a class=\"bibleref\" href=\"/passage/?search=Dan 5:18\">5:18</a>, <a class=\"bibleref\" href=\"/passage/?search=Dan 5:21\">21</a>; <a class=\"bibleref\" href=\"/passage/?search=Dan 7:18-Dan 7:27\">7:18–27</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "daniel,3,28", "daniel,3,29", "daniel,3,30" ],
+  "verses" : [ {
+    "verse" : "daniel,3,28",
+    "text" : "Then Nebuchadnezzar said, \"Praise be to the God of Shadrach, Meshach and Abednego, who has sent his angel and rescued his servants! They trusted in him and defied the king's command and were willing to give up their lives rather than serve or worship any god except their own God."
+  }, {
+    "verse" : "daniel,3,29",
+    "text" : "Therefore I decree that the people of any nation or language who say anything against the God of Shadrach, Meshach and Abednego be cut into pieces and their houses be turned into piles of rubble, for no other god can save in this way.\""
+  }, {
+    "verse" : "daniel,3,30",
+    "text" : "Then the king promoted Shadrach, Meshach and Abednego in the province of Babylon."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,3,28",
     "id" : 194564,

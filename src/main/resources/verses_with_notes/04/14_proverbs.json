@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,13,4" ],
+  "verses" : [ {
+    "verse" : "proverbs,13,4",
+    "text" : "The sluggard craves and gets nothing, but the desires of the diligent are fully satisfied."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

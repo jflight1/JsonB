@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,23,9" ],
+  "verses" : [ {
+    "verse" : "proverbs,23,9",
+    "text" : "Do not speak to a fool, for he will scorn the wisdom of your words."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,22,17-proverbs,24,22",
     "id" : 192162,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 23:9\">23:9</a></b> This short instruction repeats the meaning of proverbs such as <a class=\"bibleref\" href=\"/passage/?search=Prov 9:7\">9:7</a> that indicate that the fool is unteachable (cf. <a class=\"bibleref\" href=\"/passage/?search=Matt 7:6\">Matt. 7:6</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,23,10" ],
+  "verses" : [ {
+    "verse" : "proverbs,23,10",
+    "text" : "Do not move an ancient boundary stone or encroach on the fields of the fatherless,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,23,10-proverbs,23,11",
     "id" : 192181,
@@ -20,7 +26,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 23:10\">23:10</a>, <a class=\"bibleref\" href=\"/passage/?search=Prov 23:11\">11</a></b> See <a class=\"bibleref\" href=\"/passage/?search=Prov 22:28\">22:28</a> and note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,23,11" ],
+  "verses" : [ {
+    "verse" : "proverbs,23,11",
+    "text" : "for their Defender is strong; he will take up their case against you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,23,11",
     "id" : 192182,

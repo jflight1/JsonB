@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,13,1" ],
+  "verses" : [ {
+    "verse" : "proverbs,13,1",
+    "text" : "A wise son heeds his father's instruction, but a mocker does not listen to rebuke."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

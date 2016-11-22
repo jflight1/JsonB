@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,27,21" ],
+  "verses" : [ {
+    "verse" : "proverbs,27,21",
+    "text" : "The crucible for silver and the furnace for gold, but man is tested by the praise he receives."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,27,21",
     "id" : 192287,
@@ -7,7 +10,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 27:21\">27:21</a></b> The sense is either that public praise tests character (here one’s resistance to the temptation of pride), or that public esteem is generally a reliable indication of one’s character (but cf. <a class=\"bibleref\" href=\"/passage/?search=Matt 5:11\">Matt. 5:11</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,27,22" ],
+  "verses" : [ {
+    "verse" : "proverbs,27,22",
+    "text" : "Though you grind a fool in a mortar, grinding him like grain with a pestle, you will not remove his folly from him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,27,22",
     "id" : 192288,

@@ -1,5 +1,14 @@
 [ {
-  "singleVerses" : [ "joshua,16,1", "joshua,16,2", "joshua,16,3" ],
+  "verses" : [ {
+    "verse" : "joshua,16,1",
+    "text" : "The allotment for Joseph began at the Jordan of Jericho, east of the waters of Jericho, and went up from there through the desert into the hill country of Bethel."
+  }, {
+    "verse" : "joshua,16,2",
+    "text" : "It went on from Bethel (that is, Luz), crossed over to the territory of the Arkites in Ataroth,"
+  }, {
+    "verse" : "joshua,16,3",
+    "text" : "descended westward to the territory of the Japhletites as far as the region of Lower Beth Horon and on to Gezer, ending at the sea."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,13,1-joshua,21,45",
     "id" : 186855,
@@ -17,7 +26,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 16:1\">16:1</a></b> <b>The allotment.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Josh 15:1\">15:1</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,16,4" ],
+  "verses" : [ {
+    "verse" : "joshua,16,4",
+    "text" : "So Manasseh and Ephraim, the descendants of Joseph, received their inheritance."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,16,4",
     "id" : 186889,
@@ -25,7 +37,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 16:4\">16:4</a></b> <b>Manasseh and Ephraim.</b> Here they are mentioned in the order of birth (<a class=\"bibleref\" href=\"/passage/?search=Gen 48:12-Gen 48:20\">Gen. 48:12–20</a>).</p><p><b>inheritance.</b> See note 1:6.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,16,5", "joshua,16,6", "joshua,16,7", "joshua,16,8", "joshua,16,9" ],
+  "verses" : [ {
+    "verse" : "joshua,16,5",
+    "text" : "This was the territory of Ephraim, clan by clan: The boundary of their inheritance went from Ataroth Addar in the east to Upper Beth Horon"
+  }, {
+    "verse" : "joshua,16,6",
+    "text" : "and continued to the sea. From Micmethath on the north it curved eastward to Taanath Shiloh, passing by it to Janoah on the east."
+  }, {
+    "verse" : "joshua,16,7",
+    "text" : "Then it went down from Janoah to Ataroth and Naarah, touched Jericho and came out at the Jordan."
+  }, {
+    "verse" : "joshua,16,8",
+    "text" : "From Tappuah the border went west to the Kanah Ravine and ended at the sea. This was the inheritance of the tribe of the Ephraimites, clan by clan."
+  }, {
+    "verse" : "joshua,16,9",
+    "text" : "It also included all the towns and their villages that were set aside for the Ephraimites within the inheritance of the Manassites."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,16,5-joshua,16,10",
     "id" : 186890,
@@ -33,7 +60,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 16:5-Josh 16:10\">16:5–10</a></b> Ephraim was Joseph’s younger son (<a class=\"bibleref\" href=\"/passage/?search=Gen 41:52\">Gen. 41:52</a>), but his territory is described before Manasseh’s, probably because of the precedence given him in <a class=\"bibleref\" href=\"/passage/?search=Gen 48:12-Gen 48:20\">Gen. 48:12–20</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,16,10" ],
+  "verses" : [ {
+    "verse" : "joshua,16,10",
+    "text" : "They did not dislodge the Canaanites living in Gezer; to this day the Canaanites live among the people of Ephraim but are required to do forced labor."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,16,10",
     "id" : 186891,
@@ -41,7 +71,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 16:10\">16:10</a></b> <b>they did not drive out.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Josh 15:63\">15:63</a>.</p><p><b>to this day.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Josh 4:9\">4:9</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,17,1", "joshua,17,2" ],
+  "verses" : [ {
+    "verse" : "joshua,17,1",
+    "text" : "This was the allotment for the tribe of Manasseh as Joseph's firstborn, that is, for Makir, Manasseh's firstborn. Makir was the ancestor of the Gileadites, who had received Gilead and Bashan because the Makirites were great soldiers."
+  }, {
+    "verse" : "joshua,17,2",
+    "text" : "So this allotment was for the rest of the people of Manasseh-the clans of Abiezer, Helek, Asriel, Shechem, Hepher and Shemida. These are the other male descendants of Manasseh son of Joseph by their clans."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,17,1",
     "id" : 186892,
@@ -49,7 +85,34 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 17:1\">17:1</a></b> <b>Manasseh.</b> Manasseh was the older of Joseph’s two sons (<a class=\"bibleref\" href=\"/passage/?search=Gen 41:50-Gen 41:51\">Gen. 41:50–51</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 48:12-Gen 48:20\">48:12–20</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 16:5-Josh 16:10\">Josh. 16:5–10</a> note).</p><p><b>the firstborn of Manasseh.</b> See <a class=\"bibleref\" href=\"/passage/?search=Gen 50:23\">Gen. 50:23</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,17,3", "joshua,17,4", "joshua,17,5", "joshua,17,6", "joshua,17,7", "joshua,17,8", "joshua,17,9", "joshua,17,10", "joshua,17,11" ],
+  "verses" : [ {
+    "verse" : "joshua,17,3",
+    "text" : "Now Zelophehad son of Hepher, the son of Gilead, the son of Makir, the son of Manasseh, had no sons but only daughters, whose names were Mahlah, Noah, Hoglah, Milcah and Tirzah."
+  }, {
+    "verse" : "joshua,17,4",
+    "text" : "They went to Eleazar the priest, Joshua son of Nun, and the leaders and said, \"The LORD commanded Moses to give us an inheritance among our brothers.\" So Joshua gave them an inheritance along with the brothers of their father, according to the LORD's command."
+  }, {
+    "verse" : "joshua,17,5",
+    "text" : "Manasseh's share consisted of ten tracts of land besides Gilead and Bashan east of the Jordan,"
+  }, {
+    "verse" : "joshua,17,6",
+    "text" : "because the daughters of the tribe of Manasseh received an inheritance among the sons. The land of Gilead belonged to the rest of the descendants of Manasseh."
+  }, {
+    "verse" : "joshua,17,7",
+    "text" : "The territory of Manasseh extended from Asher to Micmethath east of Shechem. The boundary ran southward from there to include the people living at En Tappuah."
+  }, {
+    "verse" : "joshua,17,8",
+    "text" : "(Manasseh had the land of Tappuah, but Tappuah itself, on the boundary of Manasseh, belonged to the Ephraimites.)"
+  }, {
+    "verse" : "joshua,17,9",
+    "text" : "Then the boundary continued south to the Kanah Ravine. There were towns belonging to Ephraim lying among the towns of Manasseh, but the boundary of Manasseh was the northern side of the ravine and ended at the sea."
+  }, {
+    "verse" : "joshua,17,10",
+    "text" : "On the south the land belonged to Ephraim, on the north to Manasseh. The territory of Manasseh reached the sea and bordered Asher on the north and Issachar on the east."
+  }, {
+    "verse" : "joshua,17,11",
+    "text" : "Within Issachar and Asher, Manasseh also had Beth Shan, Ibleam and the people of Dor, Endor, Taanach and Megiddo, together with their surrounding settlements (the third in the list is Naphoth )."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,17,3-joshua,17,6",
     "id" : 186893,
@@ -57,7 +120,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 17:3-Josh 17:6\">17:3–6</a></b> It was a provision of the law of Moses that the daughters of a man with no son would inherit from him (<a class=\"bibleref\" href=\"/passage/?search=Num 27:1-Num 27:11\">Num. 27:1–11</a>, especially v. 8).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,17,12", "joshua,17,13" ],
+  "verses" : [ {
+    "verse" : "joshua,17,12",
+    "text" : "Yet the Manassites were not able to occupy these towns, for the Canaanites were determined to live in that region."
+  }, {
+    "verse" : "joshua,17,13",
+    "text" : "However, when the Israelites grew stronger, they subjected the Canaanites to forced labor but did not drive them out completely."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,17,12-joshua,17,13",
     "id" : 186894,
@@ -65,7 +134,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 17:12\">17:12</a>, <a class=\"bibleref\" href=\"/passage/?search=Josh 17:13\">13</a> did not utterly drive them out.</b> See notes <a class=\"bibleref\" href=\"/passage/?search=Josh 15:63\">15:63</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 21:45\">21:45</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,17,14" ],
+  "verses" : [ {
+    "verse" : "joshua,17,14",
+    "text" : "The people of Joseph said to Joshua, \"Why have you given us only one allotment and one portion for an inheritance? We are a numerous people and the LORD has blessed us abundantly.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,17,14-joshua,17,18",
     "id" : 186895,
@@ -78,7 +150,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 17:14\">17:14</a></b> <b>one lot and one portion.</b> The territory of Manasseh on both sides of the Jordan and of Ephraim is treated as a unit (<a class=\"bibleref\" href=\"/passage/?search=Josh 16:1\">16:1</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,17,15" ],
+  "verses" : [ {
+    "verse" : "joshua,17,15",
+    "text" : "\"If you are so numerous,\" Joshua answered, \"and if the hill country of Ephraim is too small for you, go up into the forest and clear land for yourselves there in the land of the Perizzites and Rephaites.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,17,15",
     "id" : 186897,
@@ -86,7 +161,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 17:15\">17:15</a></b> <b>go up . . . clear ground for yourselves.</b> Faith in the promise of God should be expressed in courageous, obedient action. See notes <a class=\"bibleref\" href=\"/passage/?search=Josh 1:6\">1:6</a>, <a class=\"bibleref\" href=\"/passage/?search=Josh 1:7\">7</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 14:12\">14:12</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,17,16", "joshua,17,17" ],
+  "verses" : [ {
+    "verse" : "joshua,17,16",
+    "text" : "The people of Joseph replied, \"The hill country is not enough for us, and all the Canaanites who live in the plain have iron chariots, both those in Beth Shan and its settlements and those in the Valley of Jezreel.\""
+  }, {
+    "verse" : "joshua,17,17",
+    "text" : "But Joshua said to the house of Joseph-to Ephraim and Manasseh-\"You are numerous and very powerful. You will have not only one allotment"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,17,16",
     "id" : 186898,
@@ -94,7 +175,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 17:16\">17:16</a></b> <b>not enough . . . the Canaanites.</b> Their fear and unwillingness to obey are expressions of unbelief.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,17,18" ],
+  "verses" : [ {
+    "verse" : "joshua,17,18",
+    "text" : "but the forested hill country as well. Clear it, and its farthest limits will be yours; though the Canaanites have iron chariots and though they are strong, you can drive them out.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,17,18",
     "id" : 186899,
@@ -102,7 +186,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 17:18\">17:18</a></b> <b>you shall drive out.</b> Joshua answers the fears of the people of Joseph with an application of the promise of God (<a class=\"bibleref\" href=\"/passage/?search=Josh 1:2-Josh 1:5\">1:2–5</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,18,1", "joshua,18,2" ],
+  "verses" : [ {
+    "verse" : "joshua,18,1",
+    "text" : "The whole assembly of the Israelites gathered at Shiloh and set up the Tent of Meeting there. The country was brought under their control,"
+  }, {
+    "verse" : "joshua,18,2",
+    "text" : "but there were still seven Israelite tribes who had not yet received their inheritance."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,18,1",
     "id" : 186900,
@@ -110,7 +200,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 18:1\">18:1</a></b> <b>the whole congregation . . . assembled.</b> See <a class=\"bibleref\" href=\"/passage/?search=Josh 8:35\">8:35</a> and note.</p><p><b>Shiloh.</b> Located in Ephraim, the city of Shiloh has so far not been prominent in biblical history, but here it becomes what was called in <a class=\"bibleref\" href=\"/passage/?search=Deut 12\">Deut. 12</a> “the place that the <span class=\"small-caps\">Lord</span> your God will choose” (<a class=\"bibleref\" href=\"/passage/?search=Deut 12:5\">Deut. 12:5</a>, <a class=\"bibleref\" href=\"/passage/?search=Deut 12:11\">11</a>, <a class=\"bibleref\" href=\"/passage/?search=Deut 12:18\">18</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Jer 7:12\">Jer. 7:12</a>). In the days of David this role will be transferred to Jerusalem. For the role of Shiloh in Israel’s history see 22:12; <a class=\"bibleref\" href=\"/passage/?search=Judg 18:31\">Judg. 18:31</a>; <a class=\"bibleref\" href=\"/passage/?search=Judg 21:19\">21:19</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 1:3\">1 Sam. 1:3</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 1:24\">24</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 2:14\">2:14</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 3:21\">3:21</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 4:3\">4:3</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 14:3\">14:3</a>; <a class=\"bibleref\" href=\"/passage/?search=1Kgs 2:27\">1 Kin. 2:27</a>; <a class=\"bibleref\" href=\"/passage/?search=1Kgs 11:29\">11:29</a>; <a class=\"bibleref\" href=\"/passage/?search=1Kgs 14:2\">14:2</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 78:60\">Ps. 78:60</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 7:12\">Jer. 7:12</a>, <a class=\"bibleref\" href=\"/passage/?search=Jer 7:14\">14</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 26:6\">26:6</a>, <a class=\"bibleref\" href=\"/passage/?search=Jer 26:9\">9</a>.</p><p><b>tent of meeting.</b> This name is used for the tabernacle in the Book of Joshua only here and at 19:51 (“tabernacle” in 22:19, 29; “house” in 6:24; 9:23). The “meeting” is that of God with His people (1:5 note). The tabernacle contained the ark of the covenant, the wood and gold box containing the Ten Commandments (3:3; 4:16 and notes; <a class=\"bibleref\" href=\"/passage/?search=Exod 25:10-Exod 25:22\">Ex. 25:10–22</a>). It was the place where the Old Testament sacrificial system for spiritual cleansing and communication with God was inaugurated, to continue in principle until the time of the New Testament.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,18,3", "joshua,18,4", "joshua,18,5" ],
+  "verses" : [ {
+    "verse" : "joshua,18,3",
+    "text" : "So Joshua said to the Israelites: \"How long will you wait before you begin to take possession of the land that the LORD, the God of your fathers, has given you?"
+  }, {
+    "verse" : "joshua,18,4",
+    "text" : "Appoint three men from each tribe. I will send them out to make a survey of the land and to write a description of it, according to the inheritance of each. Then they will return to me."
+  }, {
+    "verse" : "joshua,18,5",
+    "text" : "You are to divide the land into seven parts. Judah is to remain in its territory on the south and the house of Joseph in its territory on the north."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,18,3",
     "id" : 186901,
@@ -118,7 +217,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 18:3\">18:3</a></b> <b>will you put off.</b> Or “be slack” (the same Hebrew verb occurs in <a class=\"bibleref\" href=\"/passage/?search=Prov 18:9\">Prov. 18:9</a>; <a class=\"bibleref\" href=\"/passage/?search=Prov 24:10\">24:10</a>).</p><p><b>take possession.</b> This means to occupy the land completely, something more than the initial conquest (1:11, 15; 13:1; 21:43). It is an act of obedient faith because it is based on the promise of God (1:11 note), hence the note of rebuke in Joshua’s question.</p><p><b>the <span class=\"small-caps\">Lord</span>, the God of your fathers.</b> This is an allusion to the promises to the fathers (1:1–9 note).</p><p><b>has given.</b> See notes 1:2, 3, 11.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,18,6" ],
+  "verses" : [ {
+    "verse" : "joshua,18,6",
+    "text" : "After you have written descriptions of the seven parts of the land, bring them here to me and I will cast lots for you in the presence of the LORD our God."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,18,6",
     "id" : 186902,
@@ -126,7 +228,73 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 18:6\">18:6</a></b> <b>before the <span class=\"small-caps\">Lord.</span></b> God’s presence is represented by the tabernacle because He spoke to them “from between the two cherubim” (<a class=\"bibleref\" href=\"/passage/?search=Josh 3:11\">3:11</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 7:23\">7:23</a> notes; <a class=\"bibleref\" href=\"/passage/?search=Exod 25:22\">Ex. 25:22</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,18,7", "joshua,18,8", "joshua,18,9", "joshua,18,10", "joshua,18,11", "joshua,18,12", "joshua,18,13", "joshua,18,14", "joshua,18,15", "joshua,18,16", "joshua,18,17", "joshua,18,18", "joshua,18,19", "joshua,18,20", "joshua,18,21", "joshua,18,22", "joshua,18,23", "joshua,18,24", "joshua,18,25", "joshua,18,26", "joshua,18,27", "joshua,18,28" ],
+  "verses" : [ {
+    "verse" : "joshua,18,7",
+    "text" : "The Levites, however, do not get a portion among you, because the priestly service of the LORD is their inheritance. And Gad, Reuben and the half-tribe of Manasseh have already received their inheritance on the east side of the Jordan. Moses the servant of the LORD gave it to them.\""
+  }, {
+    "verse" : "joshua,18,8",
+    "text" : "As the men started on their way to map out the land, Joshua instructed them, \"Go and make a survey of the land and write a description of it. Then return to me, and I will cast lots for you here at Shiloh in the presence of the LORD.\""
+  }, {
+    "verse" : "joshua,18,9",
+    "text" : "So the men left and went through the land. They wrote its description on a scroll, town by town, in seven parts, and returned to Joshua in the camp at Shiloh."
+  }, {
+    "verse" : "joshua,18,10",
+    "text" : "Joshua then cast lots for them in Shiloh in the presence of the LORD, and there he distributed the land to the Israelites according to their tribal divisions."
+  }, {
+    "verse" : "joshua,18,11",
+    "text" : "The lot came up for the tribe of Benjamin, clan by clan. Their allotted territory lay between the tribes of Judah and Joseph:"
+  }, {
+    "verse" : "joshua,18,12",
+    "text" : "On the north side their boundary began at the Jordan, passed the northern slope of Jericho and headed west into the hill country, coming out at the desert of Beth Aven."
+  }, {
+    "verse" : "joshua,18,13",
+    "text" : "From there it crossed to the south slope of Luz (that is, Bethel) and went down to Ataroth Addar on the hill south of Lower Beth Horon."
+  }, {
+    "verse" : "joshua,18,14",
+    "text" : "From the hill facing Beth Horon on the south the boundary turned south along the western side and came out at Kiriath Baal (that is, Kiriath Jearim), a town of the people of Judah. This was the western side."
+  }, {
+    "verse" : "joshua,18,15",
+    "text" : "The southern side began at the outskirts of Kiriath Jearim on the west, and the boundary came out at the spring of the waters of Nephtoah."
+  }, {
+    "verse" : "joshua,18,16",
+    "text" : "The boundary went down to the foot of the hill facing the Valley of Ben Hinnom, north of the Valley of Rephaim. It continued down the Hinnom Valley along the southern slope of the Jebusite city and so to En Rogel."
+  }, {
+    "verse" : "joshua,18,17",
+    "text" : "It then curved north, went to En Shemesh, continued to Geliloth, which faces the Pass of Adummim, and ran down to the Stone of Bohan son of Reuben."
+  }, {
+    "verse" : "joshua,18,18",
+    "text" : "It continued to the northern slope of Beth Arabah and on down into the Arabah."
+  }, {
+    "verse" : "joshua,18,19",
+    "text" : "It then went to the northern slope of Beth Hoglah and came out at the northern bay of the Salt Sea, at the mouth of the Jordan in the south. This was the southern boundary."
+  }, {
+    "verse" : "joshua,18,20",
+    "text" : "The Jordan formed the boundary on the eastern side. These were the boundaries that marked out the inheritance of the clans of Benjamin on all sides."
+  }, {
+    "verse" : "joshua,18,21",
+    "text" : "The tribe of Benjamin, clan by clan, had the following cities: Jericho, Beth Hoglah, Emek Keziz,"
+  }, {
+    "verse" : "joshua,18,22",
+    "text" : "Beth Arabah, Zemaraim, Bethel,"
+  }, {
+    "verse" : "joshua,18,23",
+    "text" : "Avvim, Parah, Ophrah,"
+  }, {
+    "verse" : "joshua,18,24",
+    "text" : "Kephar Ammoni, Ophni and Geba-twelve towns and their villages."
+  }, {
+    "verse" : "joshua,18,25",
+    "text" : "Gibeon, Ramah, Beeroth,"
+  }, {
+    "verse" : "joshua,18,26",
+    "text" : "Mizpah, Kephirah, Mozah,"
+  }, {
+    "verse" : "joshua,18,27",
+    "text" : "Rekem, Irpeel, Taralah,"
+  }, {
+    "verse" : "joshua,18,28",
+    "text" : "Zelah, Haeleph, the Jebusite city (that is, Jerusalem), Gibeah and Kiriath-fourteen towns and their villages. This was the inheritance of Benjamin for its clans."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,18,7",
     "id" : 186903,

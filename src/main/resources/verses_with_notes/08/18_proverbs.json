@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "proverbs,21,19", "proverbs,21,20" ],
+  "verses" : [ {
+    "verse" : "proverbs,21,19",
+    "text" : "Better to live in a desert than with a quarrelsome and ill-tempered wife."
+  }, {
+    "verse" : "proverbs,21,20",
+    "text" : "In the house of the wise are stores of choice food and oil, but a foolish man devours all he has."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

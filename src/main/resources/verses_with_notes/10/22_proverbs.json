@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,26,1" ],
+  "verses" : [ {
+    "verse" : "proverbs,26,1",
+    "text" : "Like snow in summer or rain in harvest, honor is not fitting for a fool."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,26,1",
     "id" : 192249,
@@ -7,7 +10,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 26:1\">26:1</a></b> The comparison is explicit (“Like . . . so”). The perceptible orderliness of nature should be paralleled in society’s estimation of human character.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,26,2" ],
+  "verses" : [ {
+    "verse" : "proverbs,26,2",
+    "text" : "Like a fluttering sparrow or a darting swallow, an undeserved curse does not come to rest."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,26,2",
     "id" : 192250,

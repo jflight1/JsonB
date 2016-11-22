@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,28,2" ],
+  "verses" : [ {
+    "verse" : "proverbs,28,2",
+    "text" : "When a country is rebellious, it has many rulers, but a man of understanding and knowledge maintains order."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,28,1-proverbs,28,28",
     "id" : 192290,

@@ -1,4 +1,10 @@
 [ {
-  "singleVerses" : [ "proverbs,27,15", "proverbs,27,16" ],
+  "verses" : [ {
+    "verse" : "proverbs,27,15",
+    "text" : "A quarrelsome wife is like a constant dripping on a rainy day;"
+  }, {
+    "verse" : "proverbs,27,16",
+    "text" : "restraining her is like restraining the wind or grasping oil with the hand."
+  } ],
   "rsbNotes" : [ ]
 } ]

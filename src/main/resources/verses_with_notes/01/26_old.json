@@ -1,5 +1,17 @@
 [ {
-  "singleVerses" : [ "exodus,2,11", "exodus,2,12", "exodus,2,13", "exodus,2,14" ],
+  "verses" : [ {
+    "verse" : "exodus,2,11",
+    "text" : "One day, after Moses had grown up, he went out to where his own people were and watched them at their hard labor. He saw an Egyptian beating a Hebrew, one of his own people."
+  }, {
+    "verse" : "exodus,2,12",
+    "text" : "Glancing this way and that and seeing no one, he killed the Egyptian and hid him in the sand."
+  }, {
+    "verse" : "exodus,2,13",
+    "text" : "The next day he went out and saw two Hebrews fighting. He asked the one in the wrong, \"Why are you hitting your fellow Hebrew?\""
+  }, {
+    "verse" : "exodus,2,14",
+    "text" : "The man said, \"Who made you ruler and judge over us? Are you thinking of killing me as you killed the Egyptian?\" Then Moses was afraid and thought, \"What I did must have become known.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,2,11-exodus,2,15",
     "id" : 185570,
@@ -7,7 +19,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 2:11-Exod 2:15\">2:11–15</a></b> Now forty years old (<a class=\"bibleref\" href=\"/passage/?search=Acts 7:23\">Acts 7:23</a>), Moses identifies himself with God’s people (<a class=\"bibleref\" href=\"/passage/?search=Heb 11:24-Heb 11:27\">Heb. 11:24–27</a>). His effort to deliver an Israelite from oppression proves vain when he seeks to be a judge of Israel (v. 14).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,2,15" ],
+  "verses" : [ {
+    "verse" : "exodus,2,15",
+    "text" : "When Pharaoh heard of this, he tried to kill Moses, but Moses fled from Pharaoh and went to live in Midian, where he sat down by a well."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,2,15",
     "id" : 185571,
@@ -15,7 +30,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 2:15\">2:15</a></b> <b>Midian.</b> Probably the name of an early tribal confederacy operating in the Arabian desert. The nomadic Midianites were descendants of Abraham and Keturah (<a class=\"bibleref\" href=\"/passage/?search=Gen 25:1-Gen 25:6\">Gen. 25:1–6</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 10:29-Num 10:32\">Num. 10:29–32</a>; <a class=\"bibleref\" href=\"/passage/?search=Judg 6\">Judg. 6</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,2,16" ],
+  "verses" : [ {
+    "verse" : "exodus,2,16",
+    "text" : "Now a priest of Midian had seven daughters, and they came to draw water and fill the troughs to water their father's flock."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,2,16",
     "id" : 185572,
@@ -23,7 +41,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 2:16\">2:16</a></b> <b>drew water.</b> The women did the difficult task and then were driven off.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,2,17" ],
+  "verses" : [ {
+    "verse" : "exodus,2,17",
+    "text" : "Some shepherds came along and drove them away, but Moses got up and came to their rescue and watered their flock."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,2,17",
     "id" : 185573,
@@ -31,7 +52,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 2:17\">2:17</a></b> <b>saved them.</b> This was Moses’ third intervention in defense of the weak. Nomadic strife over water rights was common.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,2,18", "exodus,2,19", "exodus,2,20", "exodus,2,21" ],
+  "verses" : [ {
+    "verse" : "exodus,2,18",
+    "text" : "When the girls returned to Reuel their father, he asked them, \"Why have you returned so early today?\""
+  }, {
+    "verse" : "exodus,2,19",
+    "text" : "They answered, \"An Egyptian rescued us from the shepherds. He even drew water for us and watered the flock.\""
+  }, {
+    "verse" : "exodus,2,20",
+    "text" : "\"And where is he?\" he asked his daughters. \"Why did you leave him? Invite him to have something to eat.\""
+  }, {
+    "verse" : "exodus,2,21",
+    "text" : "Moses agreed to stay with the man, who gave his daughter Zipporah to Moses in marriage."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,2,18",
     "id" : 185574,
@@ -39,7 +72,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 2:18\">2:18</a></b> <b>Reuel.</b> The name means “Friend of God.” Moses’ father-in-law was known by two names: Reuel and Jethro (<a class=\"bibleref\" href=\"/passage/?search=Exod 3:1\">3:1</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 4:18\">4:18</a>). Jethro and Reuel may be variant names, or Reuel a clan name.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,2,22" ],
+  "verses" : [ {
+    "verse" : "exodus,2,22",
+    "text" : "Zipporah gave birth to a son, and Moses named him Gershom, saying, \"I have become an alien in a foreign land.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,2,22",
     "id" : 185575,
@@ -47,7 +83,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 2:22\">2:22</a></b> <b>Gershom.</b> See text note. Moses had not forgotten his Egyptian home. Yet he will lead Israel from Egypt to the homeland of the people of God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,2,23", "exodus,2,24", "exodus,2,25" ],
+  "verses" : [ {
+    "verse" : "exodus,2,23",
+    "text" : "During that long period, the king of Egypt died. The Israelites groaned in their slavery and cried out, and their cry for help because of their slavery went up to God."
+  }, {
+    "verse" : "exodus,2,24",
+    "text" : "God heard their groaning and he remembered his covenant with Abraham, with Isaac and with Jacob."
+  }, {
+    "verse" : "exodus,2,25",
+    "text" : "So God looked on the Israelites and was concerned about them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,2,23",
     "id" : 185576,
@@ -55,7 +100,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 2:23\">2:23</a></b> <b>groaned . . . cried out . . . came up.</b> Israel’s anguished cry is balanced by a fourfold description of God’s response. God “heard . . . remembered . . . saw . . . knew” (<a class=\"bibleref\" href=\"/passage/?search=Exod 2:24\">vv. 24</a>, <a class=\"bibleref\" href=\"/passage/?search=Exod 2:25\">25</a>). This summary prepares for the call of Moses and underscores the book’s theme of divine faithfulness to the covenant promises.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,3,1" ],
+  "verses" : [ {
+    "verse" : "exodus,3,1",
+    "text" : "Now Moses was tending the flock of Jethro his father-in-law, the priest of Midian, and he led the flock to the far side of the desert and came to Horeb, the mountain of God."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,3,1",
     "id" : 185577,
@@ -63,7 +111,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 3:1\">3:1</a></b> <b>wilderness.</b> An uncultivated area but capable of sustaining grazing. According to <a class=\"bibleref\" href=\"/passage/?search=Exod 34:3\">34:3</a> and <a class=\"bibleref\" href=\"/passage/?search=Num 10:11\">Num. 10:11</a>, the wilderness of Sinai sustained Israel’s flocks for a year. Horeb and Sinai are terms that possibly distinguish Horeb as an entire range from Mt. Sinai (19:18, 20; cf. <a class=\"bibleref\" href=\"/passage/?search=Deut 4:15\">Deut. 4:15</a>).</p><p><b>mountain of God.</b> This term describes the mountain as a sanctuary, a designation that anticipates ch. 19. Moses is now eighty years old (7:7) and has been in Midian forty years.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,3,2" ],
+  "verses" : [ {
+    "verse" : "exodus,3,2",
+    "text" : "There the angel of the LORD appeared to him in flames of fire from within a bush. Moses saw that though the bush was on fire it did not burn up."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,3,2",
     "id" : 185578,
@@ -71,7 +122,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 3:2\">3:2</a></b> <b>angel of the <span class=\"small-caps\">Lord</span>.</b> This was a theophany, a visible manifestation of God (<a class=\"bibleref\" href=\"/passage/?search=Exod 3:4\">v. 4</a>). See note <a class=\"bibleref\" href=\"/passage/?search=Gen 16:7\">Gen. 16:7</a>.</p><p><b>fire.</b> A frequent biblical symbol for God’s presence (13:21; 19:18; <a class=\"bibleref\" href=\"/passage/?search=Gen 3:24\">Gen. 3:24</a>; <a class=\"bibleref\" href=\"/passage/?search=1Kgs 18:24\">1 Kin. 18:24</a>, <a class=\"bibleref\" href=\"/passage/?search=1Kgs 18:38\">38</a>); it particularly expresses His all-consuming holiness (<a class=\"bibleref\" href=\"/passage/?search=Heb 12:29\">Heb. 12:29</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,3,3", "exodus,3,4" ],
+  "verses" : [ {
+    "verse" : "exodus,3,3",
+    "text" : "So Moses thought, \"I will go over and see this strange sight-why the bush does not burn up.\""
+  }, {
+    "verse" : "exodus,3,4",
+    "text" : "When the LORD saw that he had gone over to look, God called to him from within the bush, \"Moses! Moses!\" And Moses said, \"Here I am.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,3,3",
     "id" : 185579,
@@ -79,7 +136,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 3:3\">3:3</a></b> <b>bush.</b> A real bush was illumined with supernatural fire. God is transcendent, but reveals Himself in the bush to call Moses.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,3,5" ],
+  "verses" : [ {
+    "verse" : "exodus,3,5",
+    "text" : "\"Do not come any closer,\" God said. \"Take off your sandals, for the place where you are standing is holy ground.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,3,5",
     "id" : 185580,
@@ -87,7 +147,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 3:5\">3:5</a></b> <b>holy.</b> The spot was made sacred by God’s presence. See <a class=\"bibleref\" href=\"/passage/?search=Exod 19:23\">19:23</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 24:2\">24:2</a>. The question of how to approach the holy God is central for Exodus. It is resolved in the symbolism of the tabernacle.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,3,6", "exodus,3,7" ],
+  "verses" : [ {
+    "verse" : "exodus,3,6",
+    "text" : "Then he said, \"I am the God of your father, the God of Abraham, the God of Isaac and the God of Jacob.\" At this, Moses hid his face, because he was afraid to look at God."
+  }, {
+    "verse" : "exodus,3,7",
+    "text" : "The LORD said, \"I have indeed seen the misery of my people in Egypt. I have heard them crying out because of their slave drivers, and I am concerned about their suffering."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,3,6",
     "id" : 185581,
@@ -95,7 +161,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 3:6\">3:6</a></b> <b>God of your father.</b> God remembers His covenant promises to the patriarchs and identifies Himself as their God. See <a class=\"bibleref\" href=\"/passage/?search=Gen 26:24\">Gen. 26:24</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 28:13\">28:13</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 31:42\">31:42</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 32:9\">32:9</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,3,8", "exodus,3,9" ],
+  "verses" : [ {
+    "verse" : "exodus,3,8",
+    "text" : "So I have come down to rescue them from the hand of the Egyptians and to bring them up out of that land into a good and spacious land, a land flowing with milk and honey-the home of the Canaanites, Hittites, Amorites, Perizzites, Hivites and Jebusites."
+  }, {
+    "verse" : "exodus,3,9",
+    "text" : "And now the cry of the Israelites has reached me, and I have seen the way the Egyptians are oppressing them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,3,8",
     "id" : 185582,
@@ -103,7 +175,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 3:8\">3:8</a></b> <b>Canaanites.</b> The inhabitants of the Syro-Palestinian coastland.</p><p><b>Hittites.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Gen 10:15\">Gen. 10:15</a>.</p><p><b>Amorites.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Gen 10:16\">Gen. 10:16</a>.</p><p><b>Perizzites.</b> Possibly the peasantry located in central Palestine (<a class=\"bibleref\" href=\"/passage/?search=Josh 17:15\">Josh. 17:15</a>).</p><p><b>Hivites.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Gen 10:17\">Gen. 10:17</a>.</p><p><b>Jebusites.</b> The original occupants of Jerusalem, later dispossessed by David (<a class=\"bibleref\" href=\"/passage/?search=Gen 10:16\">Gen. 10:16</a> note; <a class=\"bibleref\" href=\"/passage/?search=2Sam 5:6-2Sam 5:9\">2 Sam. 5:6–9</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,3,10" ],
+  "verses" : [ {
+    "verse" : "exodus,3,10",
+    "text" : "So now, go. I am sending you to Pharaoh to bring my people the Israelites out of Egypt.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,3,10",
     "id" : 185583,
@@ -111,7 +186,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 3:10\">3:10</a></b> <b>Pharaoh.</b> Probably Thutmose III (1504–1450 <span class=\"small-caps\">b.c.</span>). See Introduction: Date and Occasion.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,3,11" ],
+  "verses" : [ {
+    "verse" : "exodus,3,11",
+    "text" : "But Moses said to God, \"Who am I, that I should go to Pharaoh and bring the Israelites out of Egypt?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,3,11",
     "id" : 185584,
@@ -119,7 +197,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 3:11\">3:11</a></b> <b>Who am I.</b> Moses felt inadequate for the task, as did Gideon (<a class=\"bibleref\" href=\"/passage/?search=Judg 6:15\">Judg. 6:15</a>) and Jeremiah (<a class=\"bibleref\" href=\"/passage/?search=Jer 1:6\">Jer. 1:6</a>). This is the first of his four objections (v. 14; 4:1, 10).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,3,12" ],
+  "verses" : [ {
+    "verse" : "exodus,3,12",
+    "text" : "And God said, \"I will be with you. And this will be the sign to you that it is I who have sent you: When you have brought the people out of Egypt, you will worship God on this mountain.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,3,12",
     "id" : 185585,
@@ -127,7 +208,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 3:12\">3:12</a></b> <b>sign.</b> God’s call will be confirmed by His future action. God will be with Moses to bring him back to worship (“serve God”) on this same mountain. Having served the Egyptians, Israel will become God’s servants in covenant worship.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,3,13" ],
+  "verses" : [ {
+    "verse" : "exodus,3,13",
+    "text" : "Moses said to God, \"Suppose I go to the Israelites and say to them, 'The God of your fathers has sent me to you,' and they ask me, 'What is his name?' Then what shall I tell them?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,3,13",
     "id" : 185586,
@@ -135,7 +219,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 3:13\">3:13</a></b> <b>What is his name.</b> Moses anticipates a question from the people that is also his own. Already Moses seeks God’s revelation of Himself. If God’s deliverance was to be fully appreciated and assured, He who would be worshiped at this mountain must be known (<a class=\"bibleref\" href=\"/passage/?search=Exod 33:12\">33:12</a> and note). A personal name was not merely a form of address but a description of character and personality (<a class=\"bibleref\" href=\"/passage/?search=Ps 9:10\">Ps. 9:10</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=1Sam 25:25\">1 Sam. 25:25</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,3,14" ],
+  "verses" : [ {
+    "verse" : "exodus,3,14",
+    "text" : "God said to Moses, \"I am who I am. This is what you are to say to the Israelites: 'I AM has sent me to you.'\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,3,14",
     "id" : 185587,
@@ -143,7 +230,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 3:14\">3:14</a></b> <b>I <span class=\"small-caps\">am who</span> I <span class=\"small-caps\">am</span>.</b> The Lord is not defined or determined by any other than Himself. As the self-existent One, His promise is sure; He will reveal Himself in His saving deeds.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,3,15" ],
+  "verses" : [ {
+    "verse" : "exodus,3,15",
+    "text" : "God also said to Moses, \"Say to the Israelites, 'The LORD, the God of your fathers-the God of Abraham, the God of Isaac and the God of Jacob-has sent me to you.' This is my name forever, the name by which I am to be remembered from generation to generation."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,3,15",
     "id" : 185588,
@@ -151,7 +241,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 3:15\">3:15</a></b> <b>The <span class=\"small-caps\">Lord</span></b>. The Hebrew is <i>Yahweh,</i> probably derived from the Hebrew verb for “to be” (thus meaning “he is” or “he will be”). The corresponding first person is <i>’ehyeh,</i> “I am.” Note the parallels: “I <span class=\"small-caps\">am</span> has sent me” (<a class=\"bibleref\" href=\"/passage/?search=Exod 3:14\">v. 14</a>) and “The <span class=\"small-caps\">Lord</span> [Yahweh] . . . has sent me” (<a class=\"bibleref\" href=\"/passage/?search=Exod 3:15\">v. 15</a>). See theological note “ ‘This Is My Name’: God’s Self-disclosure” on the next page.</p><p><b>remembered throughout all generations.</b> Yahweh, the divine name particularly associated with God’s covenant relationship with Israel, was henceforth to be used in worship. English versions of the Old Testament usually render this Hebrew name as “the <span class=\"small-caps\">Lord</span>,” following the practice of the New Testament, and of the Jews in the intertestamental period. The Jews thought the name too holy to pronounce, and when reading the text substituted <i>’adonay</i> (“my Lord”). The vowel signs for <i>’adonay</i> were later added to the Hebrew consonants of <i>Yahweh</i> as a pronunciation reminder, and this hybrid form was rendered “Jehovah” by William Tyndale’s English translation (<span class=\"small-caps\">a.d.</span> 1530). In the New Testament, <span class=\"small-caps\">Lord</span> (Yahweh) is applied to Jesus (<a class=\"bibleref\" href=\"/passage/?search=Rom 10:13\">Rom. 10:13</a>, citing <a class=\"bibleref\" href=\"/passage/?search=Joel 2:32\">Joel 2:32</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,3,16" ],
+  "verses" : [ {
+    "verse" : "exodus,3,16",
+    "text" : "\"Go, assemble the elders of Israel and say to them, 'The LORD, the God of your fathers-the God of Abraham, Isaac and Jacob-appeared to me and said: I have watched over you and have seen what has been done to you in Egypt."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,3,16",
     "id" : 185589,
@@ -159,7 +252,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 3:16\">3:16</a></b> <b>elders.</b> Lit. “bearded ones.” These are family heads who would represent Israel. They will be assembled to hear of God’s faithfulness (<a class=\"bibleref\" href=\"/passage/?search=Exod 4:30\">4:30</a>, <a class=\"bibleref\" href=\"/passage/?search=Exod 4:31\">31</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,3,17" ],
+  "verses" : [ {
+    "verse" : "exodus,3,17",
+    "text" : "And I have promised to bring you up out of your misery in Egypt into the land of the Canaanites, Hittites, Amorites, Perizzites, Hivites and Jebusites-a land flowing with milk and honey.'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,3,17",
     "id" : 185590,
@@ -167,7 +263,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 3:17\">3:17</a></b> <b>milk and honey.</b> The usual biblical description of Canaan.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,3,18", "exodus,3,19" ],
+  "verses" : [ {
+    "verse" : "exodus,3,18",
+    "text" : "\"The elders of Israel will listen to you. Then you and the elders are to go to the king of Egypt and say to him, 'The LORD, the God of the Hebrews, has met with us. Let us take a three-day journey into the desert to offer sacrifices to the LORD our God.'"
+  }, {
+    "verse" : "exodus,3,19",
+    "text" : "But I know that the king of Egypt will not let you go unless a mighty hand compels him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,3,18",
     "id" : 185591,
@@ -175,7 +277,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 3:18\">3:18</a></b> <b>three days’ journey.</b> Possibly an expression for a short period of time.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,3,20" ],
+  "verses" : [ {
+    "verse" : "exodus,3,20",
+    "text" : "So I will stretch out my hand and strike the Egyptians with all the wonders that I will perform among them. After that, he will let you go."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,3,20",
     "id" : 185592,
@@ -183,7 +288,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 3:20\">3:20</a></b> <b>wonders.</b> This mention of extraordinary deeds anticipates the plagues (<a class=\"bibleref\" href=\"/passage/?search=Exod 7:14-Exod 12:30\">7:14–12:30</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,3,21", "exodus,3,22" ],
+  "verses" : [ {
+    "verse" : "exodus,3,21",
+    "text" : "\"And I will make the Egyptians favorably disposed toward this people, so that when you leave you will not go empty-handed."
+  }, {
+    "verse" : "exodus,3,22",
+    "text" : "Every woman is to ask her neighbor and any woman living in her house for articles of silver and gold and for clothing, which you will put on your sons and daughters. And so you will plunder the Egyptians.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,3,21",
     "id" : 185593,

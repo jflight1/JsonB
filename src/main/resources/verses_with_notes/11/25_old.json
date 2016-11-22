@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "daniel,1,1" ],
+  "verses" : [ {
+    "verse" : "daniel,1,1",
+    "text" : "In the third year of the reign of Jehoiakim king of Judah, Nebuchadnezzar king of Babylon came to Jerusalem and besieged it."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,1,1",
     "id" : 194523,
@@ -7,7 +10,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Dan 1:1\">1:1</a></b> <b>the third year.</b> Jehoiakim’s third year was 605 <span class=\"small-caps\">b.c.</span> In that year Nebuchadnezzar defeated a coalition of Assyria and Egypt at Carchemish and initiated Babylon’s rise to international power. After the battle of Carchemish, Nebuchadnezzar advanced against Jehoiakim (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 24:1\">2 Kin. 24:1</a>, <a class=\"bibleref\" href=\"/passage/?search=2Kgs 24:2\">2</a>; <a class=\"bibleref\" href=\"/passage/?search=2Chr 36:5-2Chr 36:7\">2 Chr. 36:5–7</a>) and took some Judeans captive, including Daniel. This was the first of three invasions of Judah by Nebuchadnezzar. The second was in 597 <span class=\"small-caps\">b.c.</span> (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 24:10-2Kgs 24:14\">2 Kin. 24:10–14</a>), and the third in 587 <span class=\"small-caps\">b.c.</span> (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 25:1-2Kgs 25:24\">2 Kin. 25:1–24</a>). In the Book of Jeremiah, Nebuchadnezzar’s attack is dated to Jehoiakim’s fourth year instead of the third (<a class=\"bibleref\" href=\"/passage/?search=Jer 25:1\">Jer 25:1</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 46:2\">46:2</a>). The difference of one year occurs because in the Babylonian chronology, which Daniel apparently used, the king’s reign was officially counted from the first day of the succeeding new year, rather than from the actual date of his accession to the throne.</p><p><b>Nebuchadnezzar king of Babylon.</b> Nebuchadnezzar led the Babylonians to victory at Carchemish as crown prince and commander of the army. Shortly after this victory, he assumed the Babylonian throne when his father Nabopolassar died (626–605 <span class=\"small-caps\">b.c.</span>). Nebuchadnezzar’s reign (605–562 <span class=\"small-caps\">b.c.</span>) is the historical context for much of Jeremiah, Ezekiel, and Daniel.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "daniel,1,2", "daniel,1,3" ],
+  "verses" : [ {
+    "verse" : "daniel,1,2",
+    "text" : "And the Lord delivered Jehoiakim king of Judah into his hand, along with some of the articles from the temple of God. These he carried off to the temple of his god in Babylonia and put in the treasure house of his god."
+  }, {
+    "verse" : "daniel,1,3",
+    "text" : "Then the king ordered Ashpenaz, chief of his court officials, to bring in some of the Israelites from the royal family and the nobility-"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,1,2",
     "id" : 194524,
@@ -15,7 +24,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Dan 1:2\">1:2</a></b> <b>the Lord gave . . . into his hand.</b> Israel’s defeat by the Babylonians is not to be explained simply by analysis of military and political factors. God was at work in the affairs of the nations, and He used the Babylonians to judge His own people for their transgressions (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 17:15\">2 Kin. 17:15</a>, <a class=\"bibleref\" href=\"/passage/?search=2Kgs 17:18-2Kgs 17:20\">18–20</a>; <a class=\"bibleref\" href=\"/passage/?search=2Kgs 21:12-2Kgs 21:15\">21:12–15</a>; <a class=\"bibleref\" href=\"/passage/?search=2Kgs 24:3\">24:3</a>, <a class=\"bibleref\" href=\"/passage/?search=2Kgs 24:4\">4</a>).</p><p><b>the treasury of his god.</b> Marduk (or Bel) was the chief god of the Babylonian pantheon (cf. <a class=\"bibleref\" href=\"/passage/?search=Jer 50:2\">Jer. 50:2</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "daniel,1,4" ],
+  "verses" : [ {
+    "verse" : "daniel,1,4",
+    "text" : "young men without any physical defect, handsome, showing aptitude for every kind of learning, well informed, quick to understand, and qualified to serve in the king's palace. He was to teach them the language and literature of the Babylonians."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,1,4",
     "id" : 194525,
@@ -23,7 +35,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Dan 1:4\">1:4</a></b> <b>literature and language of the Chaldeans.</b> Babylonian literature was written in wedge-shaped characters impressed with a stylus on soft clay tablets that were later fired to make them permanent. Thousands of these tablets have been discovered by archaeologists. The Babylonians worshiped many gods, and their culture was filled with magic, sorcery, and astrology. The common language of Babylon was Aramaic (<a class=\"bibleref\" href=\"/passage/?search=Dan 2:4\">2:4</a> and note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "daniel,1,5" ],
+  "verses" : [ {
+    "verse" : "daniel,1,5",
+    "text" : "The king assigned them a daily amount of food and wine from the king's table. They were to be trained for three years, and after that they were to enter the king's service."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,1,5",
     "id" : 194526,
@@ -31,7 +46,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Dan 1:5\">1:5</a></b> <b>the food that the king ate.</b> Jehoiachin later received such a provision under the rule of the Babylonian king, Evil-merodach (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 25:27-2Kgs 25:30\">2 Kin. 25:27–30</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "daniel,1,6" ],
+  "verses" : [ {
+    "verse" : "daniel,1,6",
+    "text" : "Among these were some from Judah: Daniel, Hananiah, Mishael and Azariah."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,1,6",
     "id" : 194527,
@@ -39,7 +57,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Dan 1:6\">1:6</a></b> <b>Daniel, Hananiah, Mishael, and Azariah.</b> In these Hebrew names, the component <i>el</i> means “God,” and <i>yah</i> is a form of God’s name “Yahweh” (<a class=\"bibleref\" href=\"/passage/?search=Ps 50:1\">Ps. 50:1</a> note). Hence: Daniel means “my judge is God”; Hananiah, “Yahweh is gracious”; Mishael, “Who is what God is?” and Azariah, “Yahweh has helped.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "daniel,1,7" ],
+  "verses" : [ {
+    "verse" : "daniel,1,7",
+    "text" : "The chief official gave them new names: to Daniel, the name Belteshazzar; to Hananiah, Shadrach; to Mishael, Meshach; and to Azariah, Abednego."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,1,7",
     "id" : 194528,
@@ -47,7 +68,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Dan 1:7\">1:7</a></b> <b>Belteshazzar . . . Shadrach . . . Meshach . . . Abednego.</b> Suggestions for the meanings of these names include: Belteshazzar, “May Bel protect his life”; Shadrach, “the command of Aku,” (the Sumerian moon god); Meshach, “Who is what Aku is?” and Abednego, “servant of Nebo” (a Babylonian god). Bel is another name for Marduk, the chief Babylonian god (cf. <a class=\"bibleref\" href=\"/passage/?search=Dan 4:8\">4:8</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "daniel,1,8", "daniel,1,9", "daniel,1,10", "daniel,1,11", "daniel,1,12", "daniel,1,13", "daniel,1,14" ],
+  "verses" : [ {
+    "verse" : "daniel,1,8",
+    "text" : "But Daniel resolved not to defile himself with the royal food and wine, and he asked the chief official for permission not to defile himself this way."
+  }, {
+    "verse" : "daniel,1,9",
+    "text" : "Now God had caused the official to show favor and sympathy to Daniel,"
+  }, {
+    "verse" : "daniel,1,10",
+    "text" : "but the official told Daniel, \"I am afraid of my lord the king, who has assigned your food and drink. Why should he see you looking worse than the other young men your age? The king would then have my head because of you.\""
+  }, {
+    "verse" : "daniel,1,11",
+    "text" : "Daniel then said to the guard whom the chief official had appointed over Daniel, Hananiah, Mishael and Azariah,"
+  }, {
+    "verse" : "daniel,1,12",
+    "text" : "\"Please test your servants for ten days: Give us nothing but vegetables to eat and water to drink."
+  }, {
+    "verse" : "daniel,1,13",
+    "text" : "Then compare our appearance with that of the young men who eat the royal food, and treat your servants in accordance with what you see.\""
+  }, {
+    "verse" : "daniel,1,14",
+    "text" : "So he agreed to this and tested them for ten days."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,1,8",
     "id" : 194529,
@@ -55,7 +97,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Dan 1:8\">1:8</a></b> <b>he would not defile himself.</b> The reason for Daniel’s conclusion that he and his friends would be defiled by the king’s food is not given. Perhaps it involved violation of the dietary laws of Moses (<a class=\"bibleref\" href=\"/passage/?search=Lev 11\">Lev. 11</a>; <a class=\"bibleref\" href=\"/passage/?search=Lev 17\">17</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "daniel,1,15", "daniel,1,16" ],
+  "verses" : [ {
+    "verse" : "daniel,1,15",
+    "text" : "At the end of the ten days they looked healthier and better nourished than any of the young men who ate the royal food."
+  }, {
+    "verse" : "daniel,1,16",
+    "text" : "So the guard took away their choice food and the wine they were to drink and gave them vegetables instead."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,1,15",
     "id" : 194530,
@@ -63,7 +111,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Dan 1:15\">1:15</a></b> <b>they were better in appearance.</b> The obedience of Daniel and his friends to God, and their refusal to compromise their faith in a heathen environment, were rewarded with God’s blessing (cf. <a class=\"bibleref\" href=\"/passage/?search=Deut 8:3\">Deut. 8:3</a>; <a class=\"bibleref\" href=\"/passage/?search=Matt 4:4\">Matt. 4:4</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "daniel,1,17" ],
+  "verses" : [ {
+    "verse" : "daniel,1,17",
+    "text" : "To these four young men God gave knowledge and understanding of all kinds of literature and learning. And Daniel could understand visions and dreams of all kinds."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,1,17",
     "id" : 194531,
@@ -71,7 +122,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Dan 1:17\">1:17</a></b> <b>God gave them learning.</b> God’s blessing was not limited to physical well-being, but also included outstanding intellectual development during their three years of Babylonian education.</p><p><b>visions and dreams.</b> With a view to what follows in the book (<a class=\"bibleref\" href=\"/passage/?search=Dan 2\">chs. 2</a>; <a class=\"bibleref\" href=\"/passage/?search=Dan 4\">4</a>; <a class=\"bibleref\" href=\"/passage/?search=Dan 5\">5</a>), Daniel is distinguished from his companions in his ability to interpret dreams and visions, much as Joseph was in the court of Pharaoh (<a class=\"bibleref\" href=\"/passage/?search=Gen 40:8\">Gen. 40:8</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 41:16\">41:16</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "daniel,1,18", "daniel,1,19" ],
+  "verses" : [ {
+    "verse" : "daniel,1,18",
+    "text" : "At the end of the time set by the king to bring them in, the chief official presented them to Nebuchadnezzar."
+  }, {
+    "verse" : "daniel,1,19",
+    "text" : "The king talked with them, and he found none equal to Daniel, Hananiah, Mishael and Azariah; so they entered the king's service."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,1,18",
     "id" : 194532,
@@ -79,7 +136,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Dan 1:18\">1:18</a></b> <b>At the end of the time.</b> That is, after the three years mentioned in <a class=\"bibleref\" href=\"/passage/?search=Dan 1:5\">v. 5</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "daniel,1,20" ],
+  "verses" : [ {
+    "verse" : "daniel,1,20",
+    "text" : "In every matter of wisdom and understanding about which the king questioned them, he found them ten times better than all the magicians and enchanters in his whole kingdom."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,1,20",
     "id" : 194533,
@@ -87,7 +147,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Dan 1:20\">1:20</a></b> <b>the magicians and enchanters.</b> The term translated “magicians” is also used in <a class=\"bibleref\" href=\"/passage/?search=Gen 41:8\">Gen. 41:8</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 41:24\">24</a> and <a class=\"bibleref\" href=\"/passage/?search=Exod 7:11\">Ex. 7:11</a>. The word translated “enchanters” occurs only here and in 2:2 and can be rendered “conjurer” or “soothsayer.” Whatever means these royal advisers used to gain knowledge, Daniel and his friends were able to demonstrate superior insight on the matters they were questioned about.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "daniel,1,21" ],
+  "verses" : [ {
+    "verse" : "daniel,1,21",
+    "text" : "And Daniel remained there until the first year of King Cyrus."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,1,21",
     "id" : 194534,
@@ -95,7 +158,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Dan 1:21\">1:21</a></b> <b>until the first year of King Cyrus.</b> Babylon fell to Cyrus in 539 <span class=\"small-caps\">b.c.</span>, or sixty-six years after Daniel had been taken captive to Babylon. Daniel lived through the entire period of the Babylonian captivity. Cyrus issued a decree in the first year of his reign permitting the Israelites to return from captivity, and to take with them the vessels from the temple that had been seized by Nebuchadnezzar (<a class=\"bibleref\" href=\"/passage/?search=Ezra 1:7-Ezra 1:11\">Ezra 1:7–11</a>). The statement does not mean that Daniel died in the first year of Cyrus (10:1).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "daniel,2,1" ],
+  "verses" : [ {
+    "verse" : "daniel,2,1",
+    "text" : "In the second year of his reign, Nebuchadnezzar had dreams; his mind was troubled and he could not sleep."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,2,1",
     "id" : 194535,
@@ -103,7 +169,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Dan 2:1\">2:1</a></b> <b>In the second year.</b> Since the Babylonian system started counting Nebuchadnezzar’s reign officially from the beginning of the year succeeding his actual succession, his “second year” could mean the end of Daniel’s three years of training (<a class=\"bibleref\" href=\"/passage/?search=Dan 1:5\">1:5</a>). Otherwise the events took place during his training.</p><p><b>his sleep left him.</b> It was widely believed in the ancient Near East that the gods spoke to human beings in dreams.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "daniel,2,2", "daniel,2,3" ],
+  "verses" : [ {
+    "verse" : "daniel,2,2",
+    "text" : "So the king summoned the magicians, enchanters, sorcerers and astrologers to tell him what he had dreamed. When they came in and stood before the king,"
+  }, {
+    "verse" : "daniel,2,3",
+    "text" : "he said to them, \"I have had a dream that troubles me and I want to know what it means. \""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,2,2",
     "id" : 194536,
@@ -111,7 +183,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Dan 2:2\">2:2</a></b> <b>magicians . . . enchanters.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Dan 1:20\">1:20</a>.</p><p><b>sorcerers . . . Chaldeans.</b> “Sorcerers” practiced divination or witchcraft (<a class=\"bibleref\" href=\"/passage/?search=Exod 22:18\">Ex. 22:18</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 18:10\">Deut. 18:10</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 47:9\">Is. 47:9</a>, <a class=\"bibleref\" href=\"/passage/?search=Isa 47:12\">12</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 27:9\">Jer. 27:9</a>). Here “Chaldeans” probably means a class of soothsayers and astrologers, rather than the name of an ethnic group (as in 1:4; 3:8; 5:30; 9:1).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "daniel,2,4" ],
+  "verses" : [ {
+    "verse" : "daniel,2,4",
+    "text" : "Then the astrologers answered the king in Aramaic, \"O king, live forever! Tell your servants the dream, and we will interpret it.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,2,4",
     "id" : 194537,
@@ -119,7 +194,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Dan 2:4\">2:4</a></b> <b>Aramaic.</b> From here until the end of <a class=\"bibleref\" href=\"/passage/?search=Dan 7\">ch. 7</a> the text is written in Aramaic rather than Hebrew. <a class=\"bibleref\" href=\"/passage/?search=Ezra 4:8-Ezra 6:18\">Ezra 4:8–6:18</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezra 7:12-Ezra 7:26\">7:12–26</a> are also written in Aramaic. There has been much speculation about why these verses are in Aramaic, but no generally accepted conclusion has been reached.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "daniel,2,5", "daniel,2,6", "daniel,2,7", "daniel,2,8", "daniel,2,9", "daniel,2,10" ],
+  "verses" : [ {
+    "verse" : "daniel,2,5",
+    "text" : "The king replied to the astrologers, \"This is what I have firmly decided: If you do not tell me what my dream was and interpret it, I will have you cut into pieces and your houses turned into piles of rubble."
+  }, {
+    "verse" : "daniel,2,6",
+    "text" : "But if you tell me the dream and explain it, you will receive from me gifts and rewards and great honor. So tell me the dream and interpret it for me.\""
+  }, {
+    "verse" : "daniel,2,7",
+    "text" : "Once more they replied, \"Let the king tell his servants the dream, and we will interpret it.\""
+  }, {
+    "verse" : "daniel,2,8",
+    "text" : "Then the king answered, \"I am certain that you are trying to gain time, because you realize that this is what I have firmly decided:"
+  }, {
+    "verse" : "daniel,2,9",
+    "text" : "If you do not tell me the dream, there is just one penalty for you. You have conspired to tell me misleading and wicked things, hoping the situation will change. So then, tell me the dream, and I will know that you can interpret it for me.\""
+  }, {
+    "verse" : "daniel,2,10",
+    "text" : "The astrologers answered the king, \"There is not a man on earth who can do what the king asks! No king, however great and mighty, has ever asked such a thing of any magician or enchanter or astrologer."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,2,5",
     "id" : 194538,
@@ -127,7 +220,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Dan 2:5\">2:5</a></b> <b>make known to me the dream.</b> Nebuchadnezzar formulated a test to see whether the advisers to the court had access to hidden knowledge, as they claimed. If they could not tell him the dream, then he would have no confidence in their interpretation (cf. <a class=\"bibleref\" href=\"/passage/?search=Dan 2:9\">v. 9</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "daniel,2,11", "daniel,2,12", "daniel,2,13", "daniel,2,14", "daniel,2,15", "daniel,2,16", "daniel,2,17" ],
+  "verses" : [ {
+    "verse" : "daniel,2,11",
+    "text" : "What the king asks is too difficult. No one can reveal it to the king except the gods, and they do not live among men.\""
+  }, {
+    "verse" : "daniel,2,12",
+    "text" : "This made the king so angry and furious that he ordered the execution of all the wise men of Babylon."
+  }, {
+    "verse" : "daniel,2,13",
+    "text" : "So the decree was issued to put the wise men to death, and men were sent to look for Daniel and his friends to put them to death."
+  }, {
+    "verse" : "daniel,2,14",
+    "text" : "When Arioch, the commander of the king's guard, had gone out to put to death the wise men of Babylon, Daniel spoke to him with wisdom and tact."
+  }, {
+    "verse" : "daniel,2,15",
+    "text" : "He asked the king's officer, \"Why did the king issue such a harsh decree?\" Arioch then explained the matter to Daniel."
+  }, {
+    "verse" : "daniel,2,16",
+    "text" : "At this, Daniel went in to the king and asked for time, so that he might interpret the dream for him."
+  }, {
+    "verse" : "daniel,2,17",
+    "text" : "Then Daniel returned to his house and explained the matter to his friends Hananiah, Mishael and Azariah."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,2,11",
     "id" : 194539,
@@ -135,7 +249,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Dan 2:11\">2:11</a></b> <b>difficult.</b> The wise men confess that they cannot do what the king asks. Only the gods have such power, but the gods, they protest, do not reveal such things to anyone (cf. <a class=\"bibleref\" href=\"/passage/?search=Exod 8:18\">Ex. 8:18</a>, <a class=\"bibleref\" href=\"/passage/?search=Exod 8:19\">19</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "daniel,2,18", "daniel,2,19" ],
+  "verses" : [ {
+    "verse" : "daniel,2,18",
+    "text" : "He urged them to plead for mercy from the God of heaven concerning this mystery, so that he and his friends might not be executed with the rest of the wise men of Babylon."
+  }, {
+    "verse" : "daniel,2,19",
+    "text" : "During the night the mystery was revealed to Daniel in a vision. Then Daniel praised the God of heaven"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,2,18",
     "id" : 194540,
@@ -143,7 +263,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Dan 2:18\">2:18</a></b> <b>seek mercy from the God of heaven.</b> Daniel also realized that human wisdom was insufficient to meet the king’s demand (<a class=\"bibleref\" href=\"/passage/?search=Dan 2:11\">v. 11</a> note). Only divine revelation could provide the answer.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "daniel,2,20" ],
+  "verses" : [ {
+    "verse" : "daniel,2,20",
+    "text" : "and said: \"Praise be to the name of God for ever and ever; wisdom and power are his."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,2,20",
     "id" : 194541,
@@ -151,7 +274,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Dan 2:20\">2:20</a></b> See theological note “The Wisdom and Will of God.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "daniel,2,21" ],
+  "verses" : [ {
+    "verse" : "daniel,2,21",
+    "text" : "He changes times and seasons; he sets up kings and deposes them. He gives wisdom to the wise and knowledge to the discerning."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,2,21",
     "id" : 194542,
@@ -159,7 +285,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Dan 2:21\">2:21</a></b> <b>he removes kings and sets up kings.</b> Daniel alludes to the content of the dream.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "daniel,2,22", "daniel,2,23" ],
+  "verses" : [ {
+    "verse" : "daniel,2,22",
+    "text" : "He reveals deep and hidden things; he knows what lies in darkness, and light dwells with him."
+  }, {
+    "verse" : "daniel,2,23",
+    "text" : "I thank and praise you, O God of my fathers: You have given me wisdom and power, you have made known to me what we asked of you, you have made known to us the dream of the king.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "daniel,2,22",
     "id" : 194543,

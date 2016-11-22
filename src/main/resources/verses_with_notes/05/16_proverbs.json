@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,15,12" ],
+  "verses" : [ {
+    "verse" : "proverbs,15,12",
+    "text" : "A mocker resents correction; he will not consult the wise."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 15:12\">15:12</a></b> <b>scoffer.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Prov 1:22\">1:22</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,15,13", "proverbs,15,14" ],
+  "verses" : [ {
+    "verse" : "proverbs,15,13",
+    "text" : "A happy heart makes the face cheerful, but heartache crushes the spirit."
+  }, {
+    "verse" : "proverbs,15,14",
+    "text" : "The discerning heart seeks knowledge, but the mouth of a fool feeds on folly."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,15,13",
     "id" : 191985,

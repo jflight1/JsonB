@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "proverbs,13,9", "proverbs,13,10" ],
+  "verses" : [ {
+    "verse" : "proverbs,13,9",
+    "text" : "The light of the righteous shines brightly, but the lamp of the wicked is snuffed out."
+  }, {
+    "verse" : "proverbs,13,10",
+    "text" : "Pride only breeds quarrels, but wisdom is found in those who take advice."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

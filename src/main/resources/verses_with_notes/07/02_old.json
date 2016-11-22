@@ -1,5 +1,17 @@
 [ {
-  "singleVerses" : [ "2kings,20,1", "2kings,20,2", "2kings,20,3", "2kings,20,4" ],
+  "verses" : [ {
+    "verse" : "2kings,20,1",
+    "text" : "In those days Hezekiah became ill and was at the point of death. The prophet Isaiah son of Amoz went to him and said, \"This is what the LORD says: Put your house in order, because you are going to die; you will not recover.\""
+  }, {
+    "verse" : "2kings,20,2",
+    "text" : "Hezekiah turned his face to the wall and prayed to the LORD,"
+  }, {
+    "verse" : "2kings,20,3",
+    "text" : "\"Remember, O LORD, how I have walked before you faithfully and with wholehearted devotion and have done what is good in your eyes.\" And Hezekiah wept bitterly."
+  }, {
+    "verse" : "2kings,20,4",
+    "text" : "Before Isaiah had left the middle court, the word of the LORD came to him:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,18,13-2kings,20,19",
     "id" : 188798,
@@ -12,7 +24,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 20:1\">20:1</a></b> <b>In those days.</b> There is good reason to believe that this incident and the reception of the Babylonian envoys (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 20:12-2Kgs 20:19\">vv. 12–19</a>) occurred before the Assyrian invasion of Judah in 701 <span class=\"small-caps\">b.c.</span>, because according to Babylonian documents, Merodach-baladan (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 20:12\">v. 12</a>) died in 703 <span class=\"small-caps\">b.c.</span> Since God added fifteen years to Hezekiah’s life (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 20:6\">v. 6</a>), he would have been ill in 702 <span class=\"small-caps\">b.c.</span> or before.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,20,5" ],
+  "verses" : [ {
+    "verse" : "2kings,20,5",
+    "text" : "\"Go back and tell Hezekiah, the leader of my people, 'This is what the LORD, the God of your father David, says: I have heard your prayer and seen your tears; I will heal you. On the third day from now you will go up to the temple of the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,20,5",
     "id" : 188828,
@@ -20,7 +35,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 20:5\">20:5</a></b> <b>I have heard your prayer; I have seen your tears.</b> God compassionately adds fifteen years (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 20:6\">v. 6</a>) to Hezekiah’s life. Hezekiah’s reforms (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 18:4\">18:4</a>, <a class=\"bibleref\" href=\"/passage/?search=2Kgs 18:5\">5</a>), together with his abiding trust in God during the Assyrian invasion (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 18:7\">18:7</a>, <a class=\"bibleref\" href=\"/passage/?search=2Kgs 18:22\">22</a>, <a class=\"bibleref\" href=\"/passage/?search=2Kgs 18:32\">32</a>; <a class=\"bibleref\" href=\"/passage/?search=2Kgs 19:4\">19:4</a>), reveal a consistency of character. In this respect Hezekiah’s conduct is exemplary. Not only does this passage underscore the importance of prayer, but also divine freedom, compassion, and omnipotence (cf. <a class=\"bibleref\" href=\"/passage/?search=1Kgs 21:27-1Kgs 21:29\">1 Kin. 21:27–29</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,20,6" ],
+  "verses" : [ {
+    "verse" : "2kings,20,6",
+    "text" : "I will add fifteen years to your life. And I will deliver you and this city from the hand of the king of Assyria. I will defend this city for my sake and for the sake of my servant David.'\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,20,6",
     "id" : 188829,
@@ -28,7 +46,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 20:6\">20:6</a></b> <b>I will deliver you and this city out of the hand of the king of Assyria.</b> See notes on <a class=\"bibleref\" href=\"/passage/?search=2Kgs 20:1\">v. 1</a> and <a class=\"bibleref\" href=\"/passage/?search=1Kgs 11:13\">1 Kin. 11:13</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,20,7", "2kings,20,8", "2kings,20,9" ],
+  "verses" : [ {
+    "verse" : "2kings,20,7",
+    "text" : "Then Isaiah said, \"Prepare a poultice of figs.\" They did so and applied it to the boil, and he recovered."
+  }, {
+    "verse" : "2kings,20,8",
+    "text" : "Hezekiah had asked Isaiah, \"What will be the sign that the LORD will heal me and that I will go up to the temple of the LORD on the third day from now?\""
+  }, {
+    "verse" : "2kings,20,9",
+    "text" : "Isaiah answered, \"This is the LORD's sign to you that the LORD will do what he has promised: Shall the shadow go forward ten steps, or shall it go back ten steps?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,20,7",
     "id" : 188830,
@@ -36,7 +63,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 20:7\">20:7</a></b> <b>cake of figs.</b> Divine agency in healing does not rule out the use of medicine (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 20:5\">v. 5</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,20,10", "2kings,20,11" ],
+  "verses" : [ {
+    "verse" : "2kings,20,10",
+    "text" : "\"It is a simple matter for the shadow to go forward ten steps,\" said Hezekiah. \"Rather, have it go back ten steps.\""
+  }, {
+    "verse" : "2kings,20,11",
+    "text" : "Then the prophet Isaiah called upon the LORD, and the LORD made the shadow go back the ten steps it had gone down on the stairway of Ahaz."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,20,10",
     "id" : 188831,
@@ -44,7 +77,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 20:10\">20:10</a></b> <b>ten steps.</b> The reference is to index marks on the steps (dial) of Ahaz (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 20:11\">v. 11</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 38:8\">Is. 38:8</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Josh 10:12-Josh 10:14\">Josh. 10:12–14</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,20,12" ],
+  "verses" : [ {
+    "verse" : "2kings,20,12",
+    "text" : "At that time Merodach-Baladan son of Baladan king of Babylon sent Hezekiah letters and a gift, because he had heard of Hezekiah's illness."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,20,12",
     "id" : 188832,
@@ -52,7 +88,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 20:12\">20:12</a></b> <b>Merodach-baladan.</b> Merodach-baladan was king over Babylon from 721 <span class=\"small-caps\">b.c.</span> until forced by the Assyrian King Sargon II into a vassal relationship (710 <span class=\"small-caps\">b.c.</span>). Shortly after Sargon’s death (705 <span class=\"small-caps\">b.c</span>.), Merodach-baladan led his country to a short-lived independence in 704 <span class=\"small-caps\">b.c.</span> before Sennacherib forced him out in 703 <span class=\"small-caps\">b.c.</span> (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 20:1\">v. 1</a> note).</p><p><b>sent . . . letters and a present to Hezekiah.</b> Assyria was the dominant world empire at this time, and it is likely that Merodach-baladan, together with the king of Egypt, was seeking to encourage Hezekiah’s independence from the Assyrians.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,20,13", "2kings,20,14", "2kings,20,15", "2kings,20,16" ],
+  "verses" : [ {
+    "verse" : "2kings,20,13",
+    "text" : "Hezekiah received the messengers and showed them all that was in his storehouses-the silver, the gold, the spices and the fine oil-his armory and everything found among his treasures. There was nothing in his palace or in all his kingdom that Hezekiah did not show them."
+  }, {
+    "verse" : "2kings,20,14",
+    "text" : "Then Isaiah the prophet went to King Hezekiah and asked, \"What did those men say, and where did they come from?From a distant land,\" Hezekiah replied. \"They came from Babylon.\""
+  }, {
+    "verse" : "2kings,20,15",
+    "text" : "The prophet asked, \"What did they see in your palace?They saw everything in my palace,\" Hezekiah said. \"There is nothing among my treasures that I did not show them.\""
+  }, {
+    "verse" : "2kings,20,16",
+    "text" : "Then Isaiah said to Hezekiah, \"Hear the word of the LORD:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,20,13",
     "id" : 188833,
@@ -60,7 +108,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 20:13\">20:13</a></b> <b>his armory, all that was found in his storehouses.</b> This display probably occurred before Hezekiah sent his treasures as tribute to the Assyrians (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 20:1\">v. 1</a> note; <a class=\"bibleref\" href=\"/passage/?search=2Kgs 18:14-2Kgs 18:16\">18:14–16</a> note). Hezekiah was attempting to impress his Babylonian visitors with his nation’s wealth and power. Hezekiah was receptive to the idea of an alignment with Egypt and Babylon. Isaiah opposed Ahaz’s treaty with Assyria (<a class=\"bibleref\" href=\"/passage/?search=Isa 7:1-Isa 7:17\">Is. 7:1–17</a>), and he opposed this attempt to make a treaty with Babylon and Egypt (vv. 16–18; <a class=\"bibleref\" href=\"/passage/?search=Isa 30\">Is. 30</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 31\">31</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,20,17" ],
+  "verses" : [ {
+    "verse" : "2kings,20,17",
+    "text" : "The time will surely come when everything in your palace, and all that your fathers have stored up until this day, will be carried off to Babylon. Nothing will be left, says the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,20,17",
     "id" : 188834,
@@ -68,7 +119,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 20:17\">20:17</a></b> <b>shall be carried to Babylon.</b> Isaiah rebukes a naive Hezekiah. The same treasures which might induce a treaty, might also attract an invasion. This prophecy was fulfilled by a Babylonian invasion in 598 <span class=\"small-caps\">b.c.</span> and by the Babylonian exile of 586 <span class=\"small-caps\">b.c.</span> Having sought refuge with the Babylonians, Hezekiah discovers that the Babylonians will ultimately be Judah’s ruin.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,20,18", "2kings,20,19" ],
+  "verses" : [ {
+    "verse" : "2kings,20,18",
+    "text" : "And some of your descendants, your own flesh and blood, that will be born to you, will be taken away, and they will become eunuchs in the palace of the king of Babylon.\""
+  }, {
+    "verse" : "2kings,20,19",
+    "text" : "\"The word of the LORD you have spoken is good,\" Hezekiah replied. For he thought, \"Will there not be peace and security in my lifetime?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,20,18",
     "id" : 188835,
@@ -76,7 +133,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 20:18\">20:18</a></b> <b>your own sons, who shall be born to you.</b> Hezekiah’s son Manasseh was exiled by the Assyrians and held captive in Babylon (<a class=\"bibleref\" href=\"/passage/?search=2Chr 33:11\">2 Chr. 33:11</a>). Other descendants followed later (24:15; 25:7).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,20,20", "2kings,20,21" ],
+  "verses" : [ {
+    "verse" : "2kings,20,20",
+    "text" : "As for the other events of Hezekiah's reign, all his achievements and how he made the pool and the tunnel by which he brought water into the city, are they not written in the book of the annals of the kings of Judah?"
+  }, {
+    "verse" : "2kings,20,21",
+    "text" : "Hezekiah rested with his fathers. And Manasseh his son succeeded him as king."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,20,20",
     "id" : 188836,
@@ -84,7 +147,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 20:20\">20:20</a></b> <b>the pool and the conduit and brought water into the city.</b> Hezekiah made improvements in Jerusalem’s water supply in advance of the Assyrian invasion. An inscription in the Siloam Tunnel celebrates the completion of an impressive engineering feat. The conduit runs from the Gihon spring outside the city wall (cf. <a class=\"bibleref\" href=\"/passage/?search=1Kgs 1:33\">1 Kin. 1:33</a> note) through seventeen hundred feet of solid rock to the Pool of Siloam inside the city.</p><p><b>Book of the Chronicles of the Kings of Judah.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Kgs 11:41\">1 Kin. 11:41</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,21,1" ],
+  "verses" : [ {
+    "verse" : "2kings,21,1",
+    "text" : "Manasseh was twelve years old when he became king, and he reigned in Jerusalem fifty-five years. His mother's name was Hephzibah."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,21,1-2kings,21,18",
     "id" : 188837,
@@ -97,7 +163,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 21:1\">21:1</a></b> <b>twelve years old.</b> Manasseh most likely began his reign as co-regent with his father, Hezekiah.</p><p><b>fifty-five years.</b> That is, 697–642 <span class=\"small-caps\">b.c.</span>, including a ten-year co-regency with Hezekiah. Manasseh’s reign was the longest of any Judean king. Assyrian records say that Manasseh was a vassal of both Esarhaddon (681–669 <span class=\"small-caps\">b.c.</span>) and Ashurbanipal (669–627 <span class=\"small-caps\">b.c.</span>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,21,2" ],
+  "verses" : [ {
+    "verse" : "2kings,21,2",
+    "text" : "He did evil in the eyes of the LORD, following the detestable practices of the nations the LORD had driven out before the Israelites."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,21,2",
     "id" : 188839,
@@ -105,7 +174,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 21:2\">21:2</a></b> <b>he did what was evil.</b> Manasseh presided over the worst period of infidelity in Judah’s history. The reforms instituted by Hezekiah were reversed by his son. Manasseh also introduced pagan elements into Judean worship that were unprecedented during the entire period of the monarchy (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 21:3-2Kgs 21:11\">vv. 3–11</a> notes).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,21,3" ],
+  "verses" : [ {
+    "verse" : "2kings,21,3",
+    "text" : "He rebuilt the high places his father Hezekiah had destroyed; he also erected altars to Baal and made an Asherah pole, as Ahab king of Israel had done. He bowed down to all the starry hosts and worshiped them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,21,3",
     "id" : 188840,
@@ -113,7 +185,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 21:3\">21:3</a></b> <b>the high places that Hezekiah his father had destroyed.</b> See <a class=\"bibleref\" href=\"/passage/?search=2Kgs 18:4\">18:4</a> and note on <a class=\"bibleref\" href=\"/passage/?search=1Kgs 3:2\">1 Kin. 3:2</a>.</p><p><b>altars for Baal.</b> State-sanctioned Baal worship had previously been eradicated in the reforms led by the priest Jehoiada (11:18).</p><p><b>Asherah.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Kgs 14:15\">1 Kin. 14:15</a>.</p><p><b>as Ahab king of Israel had done.</b> Manasseh imitated the policies of the worst king of the northern kingdom (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 16:30-1Kgs 16:33\">1 Kin. 16:30–33</a>).</p><p><b>worshiped all the host of heaven.</b> In Babylon and other nations, the sun, moon, and stars were personified as gods (17:16: 23:5). Star worship was forbidden in Israel (<a class=\"bibleref\" href=\"/passage/?search=Deut 4:19\">Deut. 4:19</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 17:3\">17:3</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,21,4", "2kings,21,5" ],
+  "verses" : [ {
+    "verse" : "2kings,21,4",
+    "text" : "He built altars in the temple of the LORD, of which the LORD had said, \"In Jerusalem I will put my Name.\""
+  }, {
+    "verse" : "2kings,21,5",
+    "text" : "In both courts of the temple of the LORD, he built altars to all the starry hosts."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,21,4",
     "id" : 188841,
@@ -121,7 +199,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 21:4\">21:4</a></b> <b>altars in the house of the <span class=\"small-caps\">Lord.</span></b> These altars were dedicated to “the host of heaven” (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 21:5\">v. 5</a>).</p><p><b>Jerusalem.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Kgs 11:13\">1 Kin. 11:13</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,21,6" ],
+  "verses" : [ {
+    "verse" : "2kings,21,6",
+    "text" : "He sacrificed his own son in the fire, practiced sorcery and divination, and consulted mediums and spiritists. He did much evil in the eyes of the LORD, provoking him to anger."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,21,6",
     "id" : 188842,
@@ -129,7 +210,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 21:6\">21:6</a></b> <b>burned his son as an offering.</b> On the gruesome practice of child sacrifice, see note <a class=\"bibleref\" href=\"/passage/?search=2Kgs 16:3\">16:3</a> and <a class=\"bibleref\" href=\"/passage/?search=Deut 12:29-Deut 12:31\">Deut. 12:29–31</a>.</p><p><b>mediums . . . wizards.</b> See note 16:15.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,21,7" ],
+  "verses" : [ {
+    "verse" : "2kings,21,7",
+    "text" : "He took the carved Asherah pole he had made and put it in the temple, of which the LORD had said to David and to his son Solomon, \"In this temple and in Jerusalem, which I have chosen out of all the tribes of Israel, I will put my Name forever."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,21,7",
     "id" : 188843,
@@ -137,7 +221,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 21:7\">21:7</a></b> <b>to David and to Solomon his son.</b> David wished to build the temple himself (<a class=\"bibleref\" href=\"/passage/?search=2Sam 7:1-2Sam 7:3\">2 Sam. 7:1–3</a>), but the Lord instead promised David that He would build David a dynasty and that his son (Solomon) would build the temple (<a class=\"bibleref\" href=\"/passage/?search=2Sam 7:8-2Sam 7:16\">2 Sam. 7:8–16</a>). That promise was fulfilled during Solomon’s reign, and God blessed the temple as the divinely ordained place for sacrifice and prayer (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 9:1-1Kgs 9:3\">1 Kin. 9:1–3</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Deut 12:5\">Deut. 12:5</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,21,8", "2kings,21,9", "2kings,21,10" ],
+  "verses" : [ {
+    "verse" : "2kings,21,8",
+    "text" : "I will not again make the feet of the Israelites wander from the land I gave their forefathers, if only they will be careful to do everything I commanded them and will keep the whole Law that my servant Moses gave them.\""
+  }, {
+    "verse" : "2kings,21,9",
+    "text" : "But the people did not listen. Manasseh led them astray, so that they did more evil than the nations the LORD had destroyed before the Israelites."
+  }, {
+    "verse" : "2kings,21,10",
+    "text" : "The LORD said through his servants the prophets:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,21,8",
     "id" : 188844,
@@ -145,7 +238,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 21:8\">21:8</a></b> <b>if only they will be careful to do.</b> The land was a gift, and its possession was predicated upon Israelite fidelity (<a class=\"bibleref\" href=\"/passage/?search=Deut 1:8\">Deut. 1:8</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 3:18\">3:18</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 4:1\">4:1</a>, <a class=\"bibleref\" href=\"/passage/?search=Deut 4:25-Deut 4:28\">25–28</a>; <a class=\"bibleref\" href=\"/passage/?search=1Kgs 9:4-1Kgs 9:9\">1 Kin. 9:4–9</a>).</p><p><b>my servant Moses.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Kgs 2:3\">1 Kin. 2:3</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,21,11", "2kings,21,12" ],
+  "verses" : [ {
+    "verse" : "2kings,21,11",
+    "text" : "\"Manasseh king of Judah has committed these detestable sins. He has done more evil than the Amorites who preceded him and has led Judah into sin with his idols."
+  }, {
+    "verse" : "2kings,21,12",
+    "text" : "Therefore this is what the LORD, the God of Israel, says: I am going to bring such disaster on Jerusalem and Judah that the ears of everyone who hears of it will tingle."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,21,11",
     "id" : 188845,
@@ -153,7 +252,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 21:11\">21:11</a></b> <b>Amorites.</b> Here a general designation of the original inhabitants of Canaan (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 21:26\">1 Kin. 21:26</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,21,13" ],
+  "verses" : [ {
+    "verse" : "2kings,21,13",
+    "text" : "I will stretch out over Jerusalem the measuring line used against Samaria and the plumb line used against the house of Ahab. I will wipe out Jerusalem as one wipes a dish, wiping it and turning it upside down."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,21,13",
     "id" : 188846,
@@ -161,7 +263,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 21:13\">21:13</a></b> <b>measuring line . . . the plumb line.</b> Both Samaria (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 17:5\">17:5</a>, <a class=\"bibleref\" href=\"/passage/?search=2Kgs 17:6\">6</a>) and the house of Ahab (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 10:10\">10:10</a>, <a class=\"bibleref\" href=\"/passage/?search=2Kgs 10:11\">11</a>) were destroyed. Yahweh uses for destruction the tools normally employed for construction (<a class=\"bibleref\" href=\"/passage/?search=Isa 34:11\">Is. 34:11</a>; <a class=\"bibleref\" href=\"/passage/?search=Lam 2:8\">Lam. 2:8</a>; <a class=\"bibleref\" href=\"/passage/?search=Amos 7:7-Amos 7:9\">Amos 7:7–9</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,21,14" ],
+  "verses" : [ {
+    "verse" : "2kings,21,14",
+    "text" : "I will forsake the remnant of my inheritance and hand them over to their enemies. They will be looted and plundered by all their foes,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,21,14",
     "id" : 188847,
@@ -169,7 +274,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 21:14\">21:14</a></b> <b>I will forsake.</b> The time for patience and forbearance is over. Jerusalem and Judah will not be defeated by a superior people or a superior god. On the contrary, God is abandoning what is left of the original twelve tribes (the “remnant”) to their enemies as punishment (<a class=\"bibleref\" href=\"/passage/?search=Isa 1:5\">Is. 1:5</a>). The exile to Babylon of 586 <span class=\"small-caps\">b.c.</span> is in view (25:1–17).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,21,15" ],
+  "verses" : [ {
+    "verse" : "2kings,21,15",
+    "text" : "because they have done evil in my eyes and have provoked me to anger from the day their forefathers came out of Egypt until this day.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,21,15",
     "id" : 188848,
@@ -177,7 +285,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 21:15\">21:15</a></b> <b>since the day.</b> After liberating His people from slavery in Egypt, God made a covenant with Israel at Mount Sinai (<a class=\"bibleref\" href=\"/passage/?search=Exod 19:1-Num 10:10\">Ex. 19:1–Num. 10:10</a>). Although both God and Israel made promises in this covenant, only God remained faithful. Israel’s history was characterized by constant rebellion.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,21,16" ],
+  "verses" : [ {
+    "verse" : "2kings,21,16",
+    "text" : "Moreover, Manasseh also shed so much innocent blood that he filled Jerusalem from end to end-besides the sin that he had caused Judah to commit, so that they did evil in the eyes of the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,21,16",
     "id" : 188849,
@@ -185,7 +296,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 21:16\">21:16</a></b> <b>shed very much innocent blood.</b> This expression refers to oppression and persecution of the weak (<a class=\"bibleref\" href=\"/passage/?search=Jer 7:6\">Jer. 7:6</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 22:3\">22:3</a>, <a class=\"bibleref\" href=\"/passage/?search=Jer 22:17\">17</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 22:6-Ezek 22:31\">Ezek. 22:6–31</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,21,17", "2kings,21,18" ],
+  "verses" : [ {
+    "verse" : "2kings,21,17",
+    "text" : "As for the other events of Manasseh's reign, and all he did, including the sin he committed, are they not written in the book of the annals of the kings of Judah?"
+  }, {
+    "verse" : "2kings,21,18",
+    "text" : "Manasseh rested with his fathers and was buried in his palace garden, the garden of Uzza. And Amon his son succeeded him as king."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,21,17",
     "id" : 188850,
@@ -193,7 +310,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 21:17\">21:17</a></b> <b>Book of the Chronicles of the Kings of Judah.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Kgs 11:41\">1 Kin. 11:41</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,21,19", "2kings,21,20", "2kings,21,21", "2kings,21,22", "2kings,21,23" ],
+  "verses" : [ {
+    "verse" : "2kings,21,19",
+    "text" : "Amon was twenty-two years old when he became king, and he reigned in Jerusalem two years. His mother's name was Meshullemeth daughter of Haruz; she was from Jotbah."
+  }, {
+    "verse" : "2kings,21,20",
+    "text" : "He did evil in the eyes of the LORD, as his father Manasseh had done."
+  }, {
+    "verse" : "2kings,21,21",
+    "text" : "He walked in all the ways of his father; he worshiped the idols his father had worshiped, and bowed down to them."
+  }, {
+    "verse" : "2kings,21,22",
+    "text" : "He forsook the LORD, the God of his fathers, and did not walk in the way of the LORD."
+  }, {
+    "verse" : "2kings,21,23",
+    "text" : "Amon's officials conspired against him and assassinated the king in his palace."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,21,19",
     "id" : 188851,
@@ -201,7 +333,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 21:19\">21:19</a></b> <b>Amon . . . reigned two years.</b> That is, 642–640 <span class=\"small-caps\">b.c.</span> It is probable that Amon, like Manasseh before him, was an Assyrian vassal.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,21,24" ],
+  "verses" : [ {
+    "verse" : "2kings,21,24",
+    "text" : "Then the people of the land killed all who had plotted against King Amon, and they made Josiah his son king in his place."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,21,24",
     "id" : 188852,
@@ -209,7 +344,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 21:24\">21:24</a></b> <b>the people of the land.</b> See note <a class=\"bibleref\" href=\"/passage/?search=2Kgs 11:14\">11:14</a>. Desiring thorough reforms and not merely the removal of Amon, the people step forward and install a descendant of David who will be loyal to the Davidic legacy.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,21,25", "2kings,21,26" ],
+  "verses" : [ {
+    "verse" : "2kings,21,25",
+    "text" : "As for the other events of Amon's reign, and what he did, are they not written in the book of the annals of the kings of Judah?"
+  }, {
+    "verse" : "2kings,21,26",
+    "text" : "He was buried in his grave in the garden of Uzza. And Josiah his son succeeded him as king."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,21,25",
     "id" : 188853,
@@ -217,7 +358,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 21:25\">21:25</a></b> <b>Book of the Chronicles of the Kings of Judah.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Kgs 11:41\">1 Kin. 11:41</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,22,1" ],
+  "verses" : [ {
+    "verse" : "2kings,22,1",
+    "text" : "Josiah was eight years old when he became king, and he reigned in Jerusalem thirty-one years. His mother's name was Jedidah daughter of Adaiah; she was from Bozkath."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,22,1",
     "id" : 188854,
@@ -225,7 +369,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 22:1\">22:1</a></b> <b>thirty-one years.</b> That is, 640–609 <span class=\"small-caps\">b.c.</span></p><p><b>Bozkath.</b> A town in Judah, mentioned in <a class=\"bibleref\" href=\"/passage/?search=Josh 15:39\">Josh. 15:39</a> but of unknown location.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,22,2" ],
+  "verses" : [ {
+    "verse" : "2kings,22,2",
+    "text" : "He did what was right in the eyes of the LORD and walked in all the ways of his father David, not turning aside to the right or to the left."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,22,2",
     "id" : 188855,

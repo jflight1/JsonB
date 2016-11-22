@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "exodus,10,1" ],
+  "verses" : [ {
+    "verse" : "exodus,10,1",
+    "text" : "Then the LORD said to Moses, \"Go to Pharaoh, for I have hardened his heart and the hearts of his officials so that I may perform these miraculous signs of mine among them"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,7,14-exodus,10,29",
     "id" : 185639,
@@ -12,7 +15,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 10:1\">10:1</a></b> <b>hardened his heart.</b> Pharaoh’s will is reversed four times in this one narrative: <a class=\"bibleref\" href=\"/passage/?search=Exod 10:8\">vv. 8</a>, <a class=\"bibleref\" href=\"/passage/?search=Exod 10:10-Exod 10:11\">10–11</a>, <a class=\"bibleref\" href=\"/passage/?search=Exod 10:16-Exod 10:17\">16–17</a>, <a class=\"bibleref\" href=\"/passage/?search=Exod 10:20\">20</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,10,2", "exodus,10,3", "exodus,10,4", "exodus,10,5", "exodus,10,6", "exodus,10,7", "exodus,10,8" ],
+  "verses" : [ {
+    "verse" : "exodus,10,2",
+    "text" : "that you may tell your children and grandchildren how I dealt harshly with the Egyptians and how I performed my signs among them, and that you may know that I am the LORD.\""
+  }, {
+    "verse" : "exodus,10,3",
+    "text" : "So Moses and Aaron went to Pharaoh and said to him, \"This is what the LORD, the God of the Hebrews, says: 'How long will you refuse to humble yourself before me? Let my people go, so that they may worship me."
+  }, {
+    "verse" : "exodus,10,4",
+    "text" : "If you refuse to let them go, I will bring locusts into your country tomorrow."
+  }, {
+    "verse" : "exodus,10,5",
+    "text" : "They will cover the face of the ground so that it cannot be seen. They will devour what little you have left after the hail, including every tree that is growing in your fields."
+  }, {
+    "verse" : "exodus,10,6",
+    "text" : "They will fill your houses and those of all your officials and all the Egyptians-something neither your fathers nor your forefathers have ever seen from the day they settled in this land till now.'\" Then Moses turned and left Pharaoh."
+  }, {
+    "verse" : "exodus,10,7",
+    "text" : "Pharaoh's officials said to him, \"How long will this man be a snare to us? Let the people go, so that they may worship the LORD their God. Do you not yet realize that Egypt is ruined?\""
+  }, {
+    "verse" : "exodus,10,8",
+    "text" : "Then Moses and Aaron were brought back to Pharaoh. \"Go, worship the LORD your God,\" he said. \"But just who will be going?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,10,2",
     "id" : 185668,
@@ -20,7 +44,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 10:2\">10:2</a></b> <b>tell . . . what signs.</b> A clear statement of the divine plan involving Pharaoh. The plagues were to teach Israel and to leave an indelible impression on their posterity (<a class=\"bibleref\" href=\"/passage/?search=Deut 6:20-Deut 6:25\">Deut. 6:20–25</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,10,9", "exodus,10,10" ],
+  "verses" : [ {
+    "verse" : "exodus,10,9",
+    "text" : "Moses answered, \"We will go with our young and old, with our sons and daughters, and with our flocks and herds, because we are to celebrate a festival to the LORD.\""
+  }, {
+    "verse" : "exodus,10,10",
+    "text" : "Pharaoh said, \"The LORD be with you-if I let you go, along with your women and children! Clearly you are bent on evil."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,10,9",
     "id" : 185669,
@@ -28,7 +58,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 10:9\">10:9</a></b> <b>feast.</b> Moses demands that Israel’s permission to worship be unqualified and total. See note <a class=\"bibleref\" href=\"/passage/?search=Exod 8:25\">8:25</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,10,11" ],
+  "verses" : [ {
+    "verse" : "exodus,10,11",
+    "text" : "No! Have only the men go; and worship the LORD, since that's what you have been asking for.\" Then Moses and Aaron were driven out of Pharaoh's presence."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,10,11",
     "id" : 185670,
@@ -36,7 +69,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 10:11\">10:11</a></b> <b>the men among you.</b> Adult males only were necessary at Israel’s later festivals (<a class=\"bibleref\" href=\"/passage/?search=Exod 23:17\">23:17</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 34:23\">34:23</a>). Note the sarcasm of <a class=\"bibleref\" href=\"/passage/?search=Exod 34:10\">v. 10</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,10,12", "exodus,10,13", "exodus,10,14", "exodus,10,15" ],
+  "verses" : [ {
+    "verse" : "exodus,10,12",
+    "text" : "And the LORD said to Moses, \"Stretch out your hand over Egypt so that locusts will swarm over the land and devour everything growing in the fields, everything left by the hail.\""
+  }, {
+    "verse" : "exodus,10,13",
+    "text" : "So Moses stretched out his staff over Egypt, and the LORD made an east wind blow across the land all that day and all that night. By morning the wind had brought the locusts;"
+  }, {
+    "verse" : "exodus,10,14",
+    "text" : "they invaded all Egypt and settled down in every area of the country in great numbers. Never before had there been such a plague of locusts, nor will there ever be again."
+  }, {
+    "verse" : "exodus,10,15",
+    "text" : "They covered all the ground until it was black. They devoured all that was left after the hail-everything growing in the fields and the fruit on the trees. Nothing green remained on tree or plant in all the land of Egypt."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,10,12-exodus,10,15",
     "id" : 185671,
@@ -44,7 +89,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 10:12-Exod 10:15\">10:12–15</a></b> Goshen was presumably exempt.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,10,16", "exodus,10,17", "exodus,10,18", "exodus,10,19", "exodus,10,20", "exodus,10,21" ],
+  "verses" : [ {
+    "verse" : "exodus,10,16",
+    "text" : "Pharaoh quickly summoned Moses and Aaron and said, \"I have sinned against the LORD your God and against you."
+  }, {
+    "verse" : "exodus,10,17",
+    "text" : "Now forgive my sin once more and pray to the LORD your God to take this deadly plague away from me.\""
+  }, {
+    "verse" : "exodus,10,18",
+    "text" : "Moses then left Pharaoh and prayed to the LORD."
+  }, {
+    "verse" : "exodus,10,19",
+    "text" : "And the LORD changed the wind to a very strong west wind, which caught up the locusts and carried them into the Red Sea. Not a locust was left anywhere in Egypt."
+  }, {
+    "verse" : "exodus,10,20",
+    "text" : "But the LORD hardened Pharaoh's heart, and he would not let the Israelites go."
+  }, {
+    "verse" : "exodus,10,21",
+    "text" : "Then the LORD said to Moses, \"Stretch out your hand toward the sky so that darkness will spread over Egypt-darkness that can be felt.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,10,16",
     "id" : 185672,
@@ -52,7 +115,31 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 10:16\">10:16</a></b> <b>hastily.</b> The speed of Pharaoh’s action and his confession of sin underscore Egypt’s peril. Severe famine threatened (“Not a green thing remained,” <a class=\"bibleref\" href=\"/passage/?search=Exod 10:15\">v. 15</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,10,22", "exodus,10,23", "exodus,10,24", "exodus,10,25", "exodus,10,26", "exodus,10,27", "exodus,10,28", "exodus,10,29" ],
+  "verses" : [ {
+    "verse" : "exodus,10,22",
+    "text" : "So Moses stretched out his hand toward the sky, and total darkness covered all Egypt for three days."
+  }, {
+    "verse" : "exodus,10,23",
+    "text" : "No one could see anyone else or leave his place for three days. Yet all the Israelites had light in the places where they lived."
+  }, {
+    "verse" : "exodus,10,24",
+    "text" : "Then Pharaoh summoned Moses and said, \"Go, worship the LORD. Even your women and children may go with you; only leave your flocks and herds behind.\""
+  }, {
+    "verse" : "exodus,10,25",
+    "text" : "But Moses said, \"You must allow us to have sacrifices and burnt offerings to present to the LORD our God."
+  }, {
+    "verse" : "exodus,10,26",
+    "text" : "Our livestock too must go with us; not a hoof is to be left behind. We have to use some of them in worshiping the LORD our God, and until we get there we will not know what we are to use to worship the LORD.\""
+  }, {
+    "verse" : "exodus,10,27",
+    "text" : "But the LORD hardened Pharaoh's heart, and he was not willing to let them go."
+  }, {
+    "verse" : "exodus,10,28",
+    "text" : "Pharaoh said to Moses, \"Get out of my sight! Make sure you do not appear before me again! The day you see my face you will die.\""
+  }, {
+    "verse" : "exodus,10,29",
+    "text" : "\"Just as you say,\" Moses replied, \"I will never appear before you again.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,10,22",
     "id" : 185673,
@@ -60,7 +147,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 10:22\">10:22</a></b> <b>pitch darkness.</b> This darkness was clearly more than a blinding sandstorm or an eclipse of the sun. It was an unnatural darkness, like that associated with the day of the Lord (<a class=\"bibleref\" href=\"/passage/?search=Isa 8:22\">Is. 8:22</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 58:10\">58:10</a>; <a class=\"bibleref\" href=\"/passage/?search=Joel 2:2\">Joel 2:2</a>; <a class=\"bibleref\" href=\"/passage/?search=Amos 5:20\">Amos 5:20</a>; <a class=\"bibleref\" href=\"/passage/?search=Zeph 1:15\">Zeph. 1:15</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Deut 28:29\">Deut. 28:29</a>). The Egyptians typically celebrated the morning light when the sun god Ra was thought to overcome the dreaded serpent of hostile chaos and darkness. This supernatural darkness was further demonstration of the Lord’s superiority over the Egyptian pantheon (7:19; 8:3 notes).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,11,1", "exodus,11,2" ],
+  "verses" : [ {
+    "verse" : "exodus,11,1",
+    "text" : "Now the LORD had said to Moses, \"I will bring one more plague on Pharaoh and on Egypt. After that, he will let you go from here, and when he does, he will drive you out completely."
+  }, {
+    "verse" : "exodus,11,2",
+    "text" : "Tell the people that men and women alike are to ask their neighbors for articles of silver and gold.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,11,1",
     "id" : 185674,
@@ -68,7 +161,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 11:1\">11:1</a></b> <b>plague.</b> A different Hebrew word for “plague” (cf. <a class=\"bibleref\" href=\"/passage/?search=Exod 9:14\">9:14</a> note) is used to emphasize the climactic act of divine judgment—the death of the firstborn.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,11,3", "exodus,11,4" ],
+  "verses" : [ {
+    "verse" : "exodus,11,3",
+    "text" : "(The LORD made the Egyptians favorably disposed toward the people, and Moses himself was highly regarded in Egypt by Pharaoh's officials and by the people.)"
+  }, {
+    "verse" : "exodus,11,4",
+    "text" : "So Moses said, \"This is what the LORD says: 'About midnight I will go throughout Egypt."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,11,3",
     "id" : 185675,
@@ -76,7 +175,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 11:3\">11:3</a></b> <b>gave . . . favor.</b> All four references to this event (<a class=\"bibleref\" href=\"/passage/?search=Exod 3:21-Exod 3:22\">3:21–22</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 11:2-Exod 11:3\">11:2–3</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 12:35-Exod 12:36\">12:35–36</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 105:36-Ps 105:38\">Ps. 105:36–38</a>) emphasize that Egypt gave gladly because of the Lord’s intervention.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,11,5", "exodus,11,6", "exodus,11,7", "exodus,11,8", "exodus,11,9", "exodus,11,10", "exodus,12,1" ],
+  "verses" : [ {
+    "verse" : "exodus,11,5",
+    "text" : "Every firstborn son in Egypt will die, from the firstborn son of Pharaoh, who sits on the throne, to the firstborn son of the slave girl, who is at her hand mill, and all the firstborn of the cattle as well."
+  }, {
+    "verse" : "exodus,11,6",
+    "text" : "There will be loud wailing throughout Egypt-worse than there has ever been or ever will be again."
+  }, {
+    "verse" : "exodus,11,7",
+    "text" : "But among the Israelites not a dog will bark at any man or animal.' Then you will know that the LORD makes a distinction between Egypt and Israel."
+  }, {
+    "verse" : "exodus,11,8",
+    "text" : "All these officials of yours will come to me, bowing down before me and saying, 'Go, you and all the people who follow you!' After that I will leave.\" Then Moses, hot with anger, left Pharaoh."
+  }, {
+    "verse" : "exodus,11,9",
+    "text" : "The LORD had said to Moses, \"Pharaoh will refuse to listen to you-so that my wonders may be multiplied in Egypt.\""
+  }, {
+    "verse" : "exodus,11,10",
+    "text" : "Moses and Aaron performed all these wonders before Pharaoh, but the LORD hardened Pharaoh's heart, and he would not let the Israelites go out of his country."
+  }, {
+    "verse" : "exodus,12,1",
+    "text" : "The LORD said to Moses and Aaron in Egypt,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,11,5",
     "id" : 185676,
@@ -84,7 +204,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 11:5\">11:5</a></b> <b>handmill.</b> The grinding of corn was menial work done by slaves and prisoners of war.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,12,2", "exodus,12,3", "exodus,12,4" ],
+  "verses" : [ {
+    "verse" : "exodus,12,2",
+    "text" : "\"This month is to be for you the first month, the first month of your year."
+  }, {
+    "verse" : "exodus,12,3",
+    "text" : "Tell the whole community of Israel that on the tenth day of this month each man is to take a lamb for his family, one for each household."
+  }, {
+    "verse" : "exodus,12,4",
+    "text" : "If any household is too small for a whole lamb, they must share one with their nearest neighbor, having taken into account the number of people there are. You are to determine the amount of lamb needed in accordance with what each person will eat."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,12,2",
     "id" : 185677,
@@ -92,7 +221,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 12:2\">12:2</a></b> The first month of the Hebrew year was Abib (March/April). This verse appears to report the institution of this new religious calendar, in commemoration of the Exodus. An autumn calendar is attested at <a class=\"bibleref\" href=\"/passage/?search=Exod 23:16\">23:16</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 34:22\">34:22</a>, though these passages may reflect an unofficial agricultural calendar. In the later Babylonian (spring) calendar the month of Abib is called Nisan (<a class=\"bibleref\" href=\"/passage/?search=Neh 2:1\">Neh. 2:1</a>; <a class=\"bibleref\" href=\"/passage/?search=Esth 3:7\">Esth. 3:7</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,12,5" ],
+  "verses" : [ {
+    "verse" : "exodus,12,5",
+    "text" : "The animals you choose must be year-old males without defect, and you may take them from the sheep or the goats."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,12,5",
     "id" : 185678,
@@ -100,7 +232,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 12:5\">12:5</a></b> <b>without blemish.</b> Like the sacrifices of Israel (e.g., <a class=\"bibleref\" href=\"/passage/?search=Lev 1:3\">Lev. 1:3</a>), the Passover lamb was to be without flaw. The idea of substitution is evident—the lamb died in place of the firstborn. Jesus, whose death was prefigured by the Passover sacrifice, is called the Lamb of God (<a class=\"bibleref\" href=\"/passage/?search=John 1:29\">John 1:29</a>, <a class=\"bibleref\" href=\"/passage/?search=John 1:36\">36</a>; <a class=\"bibleref\" href=\"/passage/?search=1Pet 1:19\">1 Pet. 1:19</a>; <a class=\"bibleref\" href=\"/passage/?search=Rev 5:6\">Rev. 5:6</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,12,6" ],
+  "verses" : [ {
+    "verse" : "exodus,12,6",
+    "text" : "Take care of them until the fourteenth day of the month, when all the people of the community of Israel must slaughter them at twilight."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,12,6",
     "id" : 185679,
@@ -108,7 +243,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 12:6\">12:6</a></b> The slaughter occurred at sunset (<a class=\"bibleref\" href=\"/passage/?search=Deut 16:6\">Deut. 16:6</a>). The act marked the beginning of the Passover.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,12,7" ],
+  "verses" : [ {
+    "verse" : "exodus,12,7",
+    "text" : "Then they are to take some of the blood and put it on the sides and tops of the doorframes of the houses where they eat the lambs."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,12,7",
     "id" : 185680,
@@ -116,7 +254,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 12:7\">12:7</a></b> <b>blood.</b> Blood symbolizes the life of a victim (<a class=\"bibleref\" href=\"/passage/?search=Lev 17:11\">Lev. 17:11</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,12,8", "exodus,12,9", "exodus,12,10" ],
+  "verses" : [ {
+    "verse" : "exodus,12,8",
+    "text" : "That same night they are to eat the meat roasted over the fire, along with bitter herbs, and bread made without yeast."
+  }, {
+    "verse" : "exodus,12,9",
+    "text" : "Do not eat the meat raw or cooked in water, but roast it over the fire-head, legs and inner parts."
+  }, {
+    "verse" : "exodus,12,10",
+    "text" : "Do not leave any of it till morning; if some is left till morning, you must burn it."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,12,8-exodus,12,9",
     "id" : 185681,
@@ -124,7 +271,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 12:8\">12:8</a>, <a class=\"bibleref\" href=\"/passage/?search=Exod 12:9\">9</a></b> The Passover meal was to be eaten as if in haste—the lamb roasted whole and accompanied by unleavened bread. The bitter herbs recalled the bitter suffering of slavery in Egypt (<a class=\"bibleref\" href=\"/passage/?search=Exod 1:14\">1:14</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,12,11" ],
+  "verses" : [ {
+    "verse" : "exodus,12,11",
+    "text" : "This is how you are to eat it: with your cloak tucked into your belt, your sandals on your feet and your staff in your hand. Eat it in haste; it is the LORD's Passover."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,12,11",
     "id" : 185682,
@@ -132,7 +282,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 12:11\">12:11</a></b> <b><span class=\"small-caps\">Lord</span>’s Passover.</b> The Hebrew word for “Passover” is of uncertain etymology. The meaning “pass over” is attested here and probably in <a class=\"bibleref\" href=\"/passage/?search=Isa 31:5\">Is. 31:5</a>. Some suggest a connection with the verb meaning “to limp, hobble,” and others propose a derivation from an Accadian word meaning “appease.”</p><p>The Passover observance is the oldest of the Jewish festivals and was celebrated at twilight on the fourteenth day of the first month (12:6) and for the seven succeeding days (fifteenth through twenty-first). Later participants were garbed for travel to celebrate the exit of Israel from Egypt in haste and anxiety. The practice of ritual questions posed by the children during the Passover celebration is a later development rooted in vv. 26, 27.</p><p>Provision was later made for a second or minor Passover one month later for members of the community who missed the initial feast (<a class=\"bibleref\" href=\"/passage/?search=Num 9:1-Num 9:14\">Num. 9:1–14</a>). The New Testament establishes a direct redemptive connection between the Passover and the death of Jesus, the supreme Passover Lamb, who was sacrificed for us (<a class=\"bibleref\" href=\"/passage/?search=1Cor 5:7\">1 Cor. 5:7</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,12,12", "exodus,12,13" ],
+  "verses" : [ {
+    "verse" : "exodus,12,12",
+    "text" : "\"On that same night I will pass through Egypt and strike down every firstborn-both men and animals-and I will bring judgment on all the gods of Egypt. I am the LORD."
+  }, {
+    "verse" : "exodus,12,13",
+    "text" : "The blood will be a sign for you on the houses where you are; and when I see the blood, I will pass over you. No destructive plague will touch you when I strike Egypt."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,12,12",
     "id" : 185683,

@@ -1,5 +1,20 @@
 [ {
-  "singleVerses" : [ "proverbs,30,24", "proverbs,30,25", "proverbs,30,26", "proverbs,30,27", "proverbs,30,28" ],
+  "verses" : [ {
+    "verse" : "proverbs,30,24",
+    "text" : "\"Four things on earth are small, yet they are extremely wise:"
+  }, {
+    "verse" : "proverbs,30,25",
+    "text" : "Ants are creatures of little strength, yet they store up their food in the summer;"
+  }, {
+    "verse" : "proverbs,30,26",
+    "text" : "coneys are creatures of little power, yet they make their home in the crags;"
+  }, {
+    "verse" : "proverbs,30,27",
+    "text" : "locusts have no king, yet they advance together in ranks;"
+  }, {
+    "verse" : "proverbs,30,28",
+    "text" : "a lizard can be caught with the hand, yet it is found in kings' palaces."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,30,15-proverbs,30,31",
     "id" : 192347,

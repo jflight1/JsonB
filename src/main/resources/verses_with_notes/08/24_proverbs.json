@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,21,30" ],
+  "verses" : [ {
+    "verse" : "proverbs,21,30",
+    "text" : "There is no wisdom, no insight, no plan that can succeed against the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 21:30\">21:30</a></b> The limits of human understanding must be acknowledged in the light of God’s wisdom and sovereignty. The fear of the Lord (<a class=\"bibleref\" href=\"/passage/?search=Prov 1:7\">1:7</a> note) puts us in touch with the revealed wisdom of God. But God is wise beyond what He reveals, and this unrevealed wisdom is not comprehended by us.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,21,31" ],
+  "verses" : [ {
+    "verse" : "proverbs,21,31",
+    "text" : "The horse is made ready for the day of battle, but victory rests with the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,21,31",
     "id" : 192145,

@@ -1,5 +1,17 @@
 [ {
-  "singleVerses" : [ "numbers,8,1", "numbers,8,2", "numbers,8,3", "numbers,8,4" ],
+  "verses" : [ {
+    "verse" : "numbers,8,1",
+    "text" : "The LORD said to Moses,"
+  }, {
+    "verse" : "numbers,8,2",
+    "text" : "\"Speak to Aaron and say to him, 'When you set up the seven lamps, they are to light the area in front of the lampstand.'\""
+  }, {
+    "verse" : "numbers,8,3",
+    "text" : "Aaron did so; he set up the lamps so that they faced forward on the lampstand, just as the LORD commanded Moses."
+  }, {
+    "verse" : "numbers,8,4",
+    "text" : "This is how the lampstand was made: It was made of hammered gold-from its base to its blossoms. The lampstand was made exactly like the pattern the LORD had shown Moses."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,1,1-numbers,10,10",
     "id" : 186171,
@@ -7,7 +19,46 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Num 1:1-Num 10:10\">1:1–10:10</a></b> With the completion of the tabernacle (<a class=\"bibleref\" href=\"/passage/?search=Exod 35:4-Exod 40:38\">Ex. 35:4–40:38</a>) the Lord continues to prepare His people to occupy the Promised Land. A census of fighting men is taken (ch. 1). Then measures to ensure the order and purity of the camp are related—the organization of the camp, the commissioning of the Levites and their ministry, and various provisions for ceremonial purity and religious observance. Finally, provisions are made for direction and guidance of the community (9:15–10:10).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "numbers,8,5", "numbers,8,6", "numbers,8,7", "numbers,8,8", "numbers,8,9", "numbers,8,10", "numbers,8,11", "numbers,8,12", "numbers,8,13", "numbers,8,14", "numbers,8,15", "numbers,8,16", "numbers,8,17" ],
+  "verses" : [ {
+    "verse" : "numbers,8,5",
+    "text" : "The LORD said to Moses:"
+  }, {
+    "verse" : "numbers,8,6",
+    "text" : "\"Take the Levites from among the other Israelites and make them ceremonially clean."
+  }, {
+    "verse" : "numbers,8,7",
+    "text" : "To purify them, do this: Sprinkle the water of cleansing on them; then have them shave their whole bodies and wash their clothes, and so purify themselves."
+  }, {
+    "verse" : "numbers,8,8",
+    "text" : "Have them take a young bull with its grain offering of fine flour mixed with oil; then you are to take a second young bull for a sin offering."
+  }, {
+    "verse" : "numbers,8,9",
+    "text" : "Bring the Levites to the front of the Tent of Meeting and assemble the whole Israelite community."
+  }, {
+    "verse" : "numbers,8,10",
+    "text" : "You are to bring the Levites before the LORD, and the Israelites are to lay their hands on them."
+  }, {
+    "verse" : "numbers,8,11",
+    "text" : "Aaron is to present the Levites before the LORD as a wave offering from the Israelites, so that they may be ready to do the work of the LORD."
+  }, {
+    "verse" : "numbers,8,12",
+    "text" : "\"After the Levites lay their hands on the heads of the bulls, use the one for a sin offering to the LORD and the other for a burnt offering, to make atonement for the Levites."
+  }, {
+    "verse" : "numbers,8,13",
+    "text" : "Have the Levites stand in front of Aaron and his sons and then present them as a wave offering to the LORD."
+  }, {
+    "verse" : "numbers,8,14",
+    "text" : "In this way you are to set the Levites apart from the other Israelites, and the Levites will be mine."
+  }, {
+    "verse" : "numbers,8,15",
+    "text" : "\"After you have purified the Levites and presented them as a wave offering, they are to come to do their work at the Tent of Meeting."
+  }, {
+    "verse" : "numbers,8,16",
+    "text" : "They are the Israelites who are to be given wholly to me. I have taken them as my own in place of the firstborn, the first male offspring from every Israelite woman."
+  }, {
+    "verse" : "numbers,8,17",
+    "text" : "Every firstborn male in Israel, whether man or animal, is mine. When I struck down all the firstborn in Egypt, I set them apart for myself."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,8,5-numbers,8,22",
     "id" : 186197,
@@ -15,7 +66,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Num 8:5-Num 8:22\">8:5–22</a></b> This ceremony, which set apart the Levites for service to the Lord, differs significantly from the consecration ceremony of the priests (<a class=\"bibleref\" href=\"/passage/?search=Exod 29:1-Exod 29:37\">Ex. 29:1–37</a>; <a class=\"bibleref\" href=\"/passage/?search=Lev 8\">Lev. 8</a>). Key terms in the ordination of Aaron and his sons as priests are “hallow” and “consecrate” (<a class=\"bibleref\" href=\"/passage/?search=Exod 29:1\">Ex. 29:1</a>, <a class=\"bibleref\" href=\"/passage/?search=Exod 29:9\">9</a> and notes); the Levites were “cleansed” (vv. 6, 15, 21). The priests received new garments; the Levites shaved the hair on their bodies and washed their clothes (<a class=\"bibleref\" href=\"/passage/?search=Exod 29:5-Exod 29:9\">Ex. 29:5–9</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "numbers,8,18", "numbers,8,19", "numbers,8,20", "numbers,8,21", "numbers,8,22", "numbers,8,23" ],
+  "verses" : [ {
+    "verse" : "numbers,8,18",
+    "text" : "And I have taken the Levites in place of all the firstborn sons in Israel."
+  }, {
+    "verse" : "numbers,8,19",
+    "text" : "Of all the Israelites, I have given the Levites as gifts to Aaron and his sons to do the work at the Tent of Meeting on behalf of the Israelites and to make atonement for them so that no plague will strike the Israelites when they go near the sanctuary.\""
+  }, {
+    "verse" : "numbers,8,20",
+    "text" : "Moses, Aaron and the whole Israelite community did with the Levites just as the LORD commanded Moses."
+  }, {
+    "verse" : "numbers,8,21",
+    "text" : "The Levites purified themselves and washed their clothes. Then Aaron presented them as a wave offering before the LORD and made atonement for them to purify them."
+  }, {
+    "verse" : "numbers,8,22",
+    "text" : "After that, the Levites came to do their work at the Tent of Meeting under the supervision of Aaron and his sons. They did with the Levites just as the LORD commanded Moses."
+  }, {
+    "verse" : "numbers,8,23",
+    "text" : "The LORD said to Moses,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,8,18",
     "id" : 186198,
@@ -23,7 +92,31 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Num 8:18\">8:18</a></b> <b>instead of all the firstborn.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Num 3:11-Num 3:13\">3:11–13</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "numbers,8,24", "numbers,8,25", "numbers,8,26", "numbers,9,1", "numbers,9,2", "numbers,9,3", "numbers,9,4", "numbers,9,5" ],
+  "verses" : [ {
+    "verse" : "numbers,8,24",
+    "text" : "\"This applies to the Levites: Men twenty-five years old or more shall come to take part in the work at the Tent of Meeting,"
+  }, {
+    "verse" : "numbers,8,25",
+    "text" : "but at the age of fifty, they must retire from their regular service and work no longer."
+  }, {
+    "verse" : "numbers,8,26",
+    "text" : "They may assist their brothers in performing their duties at the Tent of Meeting, but they themselves must not do the work. This, then, is how you are to assign the responsibilities of the Levites.\""
+  }, {
+    "verse" : "numbers,9,1",
+    "text" : "The LORD spoke to Moses in the Desert of Sinai in the first month of the second year after they came out of Egypt. He said,"
+  }, {
+    "verse" : "numbers,9,2",
+    "text" : "\"Have the Israelites celebrate the Passover at the appointed time."
+  }, {
+    "verse" : "numbers,9,3",
+    "text" : "Celebrate it at the appointed time, at twilight on the fourteenth day of this month, in accordance with all its rules and regulations.\""
+  }, {
+    "verse" : "numbers,9,4",
+    "text" : "So Moses told the Israelites to celebrate the Passover,"
+  }, {
+    "verse" : "numbers,9,5",
+    "text" : "and they did so in the Desert of Sinai at twilight on the fourteenth day of the first month. The Israelites did everything just as the LORD commanded Moses."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,8,24",
     "id" : 186199,
@@ -31,7 +124,31 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Num 8:24\">8:24</a></b> <b>twenty-five years old.</b> In <a class=\"bibleref\" href=\"/passage/?search=Num 4:3\">4:3</a>, the term of service is listed as from 30 to 50 years old. Rabbinic sources suggest that a five-year apprenticeship was served prior to full service. Alternatively, <a class=\"bibleref\" href=\"/passage/?search=Num 4:3\">4:3</a> may designate the time when complete responsibility for transporting the tabernacle was undertaken, with lighter duties being assumed at age 25. In <a class=\"bibleref\" href=\"/passage/?search=1Chr 23:24-1Chr 23:26\">1 Chr. 23:24–26</a> David lowered the age of Levitical service to 20 because transportation of the tabernacle was no longer necessary.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "numbers,9,6", "numbers,9,7", "numbers,9,8", "numbers,9,9", "numbers,9,10", "numbers,9,11", "numbers,9,12", "numbers,9,13" ],
+  "verses" : [ {
+    "verse" : "numbers,9,6",
+    "text" : "But some of them could not celebrate the Passover on that day because they were ceremonially unclean on account of a dead body. So they came to Moses and Aaron that same day"
+  }, {
+    "verse" : "numbers,9,7",
+    "text" : "and said to Moses, \"We have become unclean because of a dead body, but why should we be kept from presenting the LORD's offering with the other Israelites at the appointed time?\""
+  }, {
+    "verse" : "numbers,9,8",
+    "text" : "Moses answered them, \"Wait until I find out what the LORD commands concerning you.\""
+  }, {
+    "verse" : "numbers,9,9",
+    "text" : "Then the LORD said to Moses,"
+  }, {
+    "verse" : "numbers,9,10",
+    "text" : "\"Tell the Israelites: 'When any of you or your descendants are unclean because of a dead body or are away on a journey, they may still celebrate the LORD's Passover."
+  }, {
+    "verse" : "numbers,9,11",
+    "text" : "They are to celebrate it on the fourteenth day of the second month at twilight. They are to eat the lamb, together with unleavened bread and bitter herbs."
+  }, {
+    "verse" : "numbers,9,12",
+    "text" : "They must not leave any of it till morning or break any of its bones. When they celebrate the Passover, they must follow all the regulations."
+  }, {
+    "verse" : "numbers,9,13",
+    "text" : "But if a man who is ceremonially clean and not on a journey fails to celebrate the Passover, that person must be cut off from his people because he did not present the LORD's offering at the appointed time. That man will bear the consequences of his sin."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,9,6-numbers,9,13",
     "id" : 186200,
@@ -39,7 +156,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Num 9:6-Num 9:13\">9:6–13</a></b> A special problem is identified and God’s answer is given: a person who is unclean or on a journey at the regular time may celebrate Passover exactly one month later. No others may postpone its observance.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "numbers,9,14" ],
+  "verses" : [ {
+    "verse" : "numbers,9,14",
+    "text" : "\"'An alien living among you who wants to celebrate the LORD's Passover must do so in accordance with its rules and regulations. You must have the same regulations for the alien and the native-born.'\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,9,14",
     "id" : 186201,
@@ -47,7 +167,34 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Num 9:14\">9:14</a></b> As a covenant rite, the Passover was to be celebrated only by members of the covenant community. Male strangers who wished to participate were to accept the terms of the covenant by being circumcised (<a class=\"bibleref\" href=\"/passage/?search=Exod 12:48\">Ex. 12:48</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "numbers,9,15", "numbers,9,16", "numbers,9,17", "numbers,9,18", "numbers,9,19", "numbers,9,20", "numbers,9,21", "numbers,9,22", "numbers,9,23" ],
+  "verses" : [ {
+    "verse" : "numbers,9,15",
+    "text" : "On the day the tabernacle, the Tent of the Testimony, was set up, the cloud covered it. From evening till morning the cloud above the tabernacle looked like fire."
+  }, {
+    "verse" : "numbers,9,16",
+    "text" : "That is how it continued to be; the cloud covered it, and at night it looked like fire."
+  }, {
+    "verse" : "numbers,9,17",
+    "text" : "Whenever the cloud lifted from above the Tent, the Israelites set out; wherever the cloud settled, the Israelites encamped."
+  }, {
+    "verse" : "numbers,9,18",
+    "text" : "At the LORD's command the Israelites set out, and at his command they encamped. As long as the cloud stayed over the tabernacle, they remained in camp."
+  }, {
+    "verse" : "numbers,9,19",
+    "text" : "When the cloud remained over the tabernacle a long time, the Israelites obeyed the LORD's order and did not set out."
+  }, {
+    "verse" : "numbers,9,20",
+    "text" : "Sometimes the cloud was over the tabernacle only a few days; at the LORD's command they would encamp, and then at his command they would set out."
+  }, {
+    "verse" : "numbers,9,21",
+    "text" : "Sometimes the cloud stayed only from evening till morning, and when it lifted in the morning, they set out. Whether by day or by night, whenever the cloud lifted, they set out."
+  }, {
+    "verse" : "numbers,9,22",
+    "text" : "Whether the cloud stayed over the tabernacle for two days or a month or a year, the Israelites would remain in camp and not set out; but when it lifted, they would set out."
+  }, {
+    "verse" : "numbers,9,23",
+    "text" : "At the LORD's command they encamped, and at the LORD's command they set out. They obeyed the LORD's order, in accordance with his command through Moses."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,9,15-numbers,10,6",
     "id" : 186202,

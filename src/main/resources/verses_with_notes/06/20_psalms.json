@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "psalms,138,1", "psalms,138,2" ],
+  "verses" : [ {
+    "verse" : "psalms,138,1",
+    "text" : "I will praise you, O LORD, with all my heart; before the \"gods\" I will sing your praise."
+  }, {
+    "verse" : "psalms,138,2",
+    "text" : "I will bow down toward your holy temple and will praise your name for your love and your faithfulness, for you have exalted above all things your name and your word."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,138,1-psalms,138,8",
     "id" : 191522,
@@ -12,7 +18,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 138:1\">138:1</a></b> <b>before the gods.</b> See introduction to <a class=\"bibleref\" href=\"/passage/?search=Ps 82\">Ps. 82</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,138,3" ],
+  "verses" : [ {
+    "verse" : "psalms,138,3",
+    "text" : "When I called, you answered me; you made me bold and stouthearted."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,138,3",
     "id" : 191524,
@@ -20,7 +29,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 138:3\">138:3</a></b> <b>I called, you answered me.</b> The motivating force behind David’s thanksgiving. God answers prayer.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,138,4", "psalms,138,5" ],
+  "verses" : [ {
+    "verse" : "psalms,138,4",
+    "text" : "May all the kings of the earth praise you, O LORD, when they hear the words of your mouth."
+  }, {
+    "verse" : "psalms,138,5",
+    "text" : "May they sing of the ways of the LORD, for the glory of the LORD is great."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,138,4",
     "id" : 191525,
@@ -28,7 +43,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 138:4\">138:4</a></b> <b>All the kings of the earth.</b> David knows that his individual praise is unworthy of the greatness of God. He envisions all the rulers of the world calling upon the Lord. This never happened during the period of the Old Testament; if anything, the kings of the earth were opposed to God (<a class=\"bibleref\" href=\"/passage/?search=Ps 2\">Ps. 2</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 48\">48</a>). After the coming of Christ, the gospel was extended to the nations (note on 133:title). In the end, all the kings of the earth will bring their glory into the New Jerusalem (<a class=\"bibleref\" href=\"/passage/?search=Rev 21:24\">Rev. 21:24</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,138,6" ],
+  "verses" : [ {
+    "verse" : "psalms,138,6",
+    "text" : "Though the LORD is on high, he looks upon the lowly, but the proud he knows from afar."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,138,6",
     "id" : 191526,
@@ -36,7 +54,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 138:6\">138:6</a></b> <b>he regards.</b> He cares for them and meets them in their need.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,138,7" ],
+  "verses" : [ {
+    "verse" : "psalms,138,7",
+    "text" : "Though I walk in the midst of trouble, you preserve my life; you stretch out your hand against the anger of my foes, with your right hand you save me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,138,7",
     "id" : 191527,
@@ -44,7 +65,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 138:7\">138:7</a></b> <b>in the midst of trouble.</b> The trouble is general, enabling later worshipers to readily apply this thought to their own condition.</p><p><b>your right hand.</b> See <a class=\"bibleref\" href=\"/passage/?search=Ps 74:11\">Ps. 74:11</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,138,8" ],
+  "verses" : [ {
+    "verse" : "psalms,138,8",
+    "text" : "The LORD will fulfill his purpose for me; your love, O LORD, endures forever- do not abandon the works of your hands."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,138,8",
     "id" : 191528,

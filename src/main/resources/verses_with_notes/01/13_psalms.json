@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,11,1" ],
+  "verses" : [ {
+    "verse" : "psalms,11,1",
+    "text" : "In the LORD I take refuge. How then can you say to me: \"Flee like a bird to your mountain."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,11,1-psalms,11,7",
     "id" : 190278,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 11:1\">11:1</a></b> <b>to your mountain.</b> Possibly, “from your mountain.” If it is “to your mountain,” then the advice is to flee the city for a mountain fortress. If it is “from your mountain,” the reference is to Zion. In either case David is being advised by others to find salvation elsewhere than in God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,11,2" ],
+  "verses" : [ {
+    "verse" : "psalms,11,2",
+    "text" : "For look, the wicked bend their bows; they set their arrows against the strings to shoot from the shadows at the upright in heart."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,11,2",
     "id" : 190280,
@@ -20,7 +26,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 11:2\">11:2</a></b> <b>bow . . . arrow.</b> While the psalm may have had an original military setting, and would find an appropriate use during periods of war, the image could also refer to other types of affliction as well.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,11,3" ],
+  "verses" : [ {
+    "verse" : "psalms,11,3",
+    "text" : "When the foundations are being destroyed, what can the righteous do?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,11,3",
     "id" : 190281,
@@ -28,7 +37,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 11:3\">11:3</a></b> <b>foundations.</b> That is, of the kingdom conceived as a political entity; including its economy, military, and the like.</p><p><b>righteous.</b> Or perhaps this is a reference to God: “Righteous One.” The next few verses go on to describe what God is doing.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,11,4", "psalms,11,5" ],
+  "verses" : [ {
+    "verse" : "psalms,11,4",
+    "text" : "The LORD is in his holy temple; the LORD is on his heavenly throne. He observes the sons of men; his eyes examine them."
+  }, {
+    "verse" : "psalms,11,5",
+    "text" : "The LORD examines the righteous, but the wicked and those who love violence his soul hates."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,11,4",
     "id" : 190282,
@@ -36,7 +51,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 11:4\">11:4</a></b> <b>throne.</b> As King of the universe, God is in control. Nothing escapes His notice. Not even the actions of the wicked are beyond His purview.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,11,6" ],
+  "verses" : [ {
+    "verse" : "psalms,11,6",
+    "text" : "On the wicked he will rain fiery coals and burning sulfur; a scorching wind will be their lot."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,11,6",
     "id" : 190283,
@@ -44,7 +62,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 11:6\">11:6</a></b> <b>fire and sulfur.</b> Reminiscent of the judgment on Sodom and Gomorrah (<a class=\"bibleref\" href=\"/passage/?search=Gen 19:24\">Gen. 19:24</a>). Evil will be completely burned up.</p><p><b>the portion of their cup.</b> There is a cup of God’s blessing (<a class=\"bibleref\" href=\"/passage/?search=Ps 23:5\">Ps. 23:5</a>) as well as a cup of His wrath. The wicked will drink wrath to its dregs (75:8). Jesus Christ took His people’s punishment upon Himself by drinking the cup of God’s judgment.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,11,7" ],
+  "verses" : [ {
+    "verse" : "psalms,11,7",
+    "text" : "For the LORD is righteous, he loves justice; upright men will see his face."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,11,7",
     "id" : 190284,

@@ -1,5 +1,14 @@
 [ {
-  "singleVerses" : [ "numbers,36,1", "numbers,36,2", "numbers,36,3" ],
+  "verses" : [ {
+    "verse" : "numbers,36,1",
+    "text" : "The family heads of the clan of Gilead son of Makir, the son of Manasseh, who were from the clans of the descendants of Joseph, came and spoke before Moses and the leaders, the heads of the Israelite families."
+  }, {
+    "verse" : "numbers,36,2",
+    "text" : "They said, \"When the LORD commanded my lord to give the land as an inheritance to the Israelites by lot, he ordered you to give the inheritance of our brother Zelophehad to his daughters."
+  }, {
+    "verse" : "numbers,36,3",
+    "text" : "Now suppose they marry men from other Israelite tribes; then their inheritance will be taken from our ancestral inheritance and added to that of the tribe they marry into. And so part of the inheritance allotted to us will be taken away."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,26,1-numbers,36,13",
     "id" : 186294,
@@ -12,7 +21,37 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Num 36:1-Num 36:11\">36:1–11</a></b> See note <a class=\"bibleref\" href=\"/passage/?search=Num 27:1-Num 27:11\">27:1–11</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "numbers,36,4", "numbers,36,5", "numbers,36,6", "numbers,36,7", "numbers,36,8", "numbers,36,9", "numbers,36,10", "numbers,36,11", "numbers,36,12", "numbers,36,13" ],
+  "verses" : [ {
+    "verse" : "numbers,36,4",
+    "text" : "When the Year of Jubilee for the Israelites comes, their inheritance will be added to that of the tribe into which they marry, and their property will be taken from the tribal inheritance of our forefathers.\""
+  }, {
+    "verse" : "numbers,36,5",
+    "text" : "Then at the LORD's command Moses gave this order to the Israelites: \"What the tribe of the descendants of Joseph is saying is right."
+  }, {
+    "verse" : "numbers,36,6",
+    "text" : "This is what the LORD commands for Zelophehad's daughters: They may marry anyone they please as long as they marry within the tribal clan of their father."
+  }, {
+    "verse" : "numbers,36,7",
+    "text" : "No inheritance in Israel is to pass from tribe to tribe, for every Israelite shall keep the tribal land inherited from his forefathers."
+  }, {
+    "verse" : "numbers,36,8",
+    "text" : "Every daughter who inherits land in any Israelite tribe must marry someone in her father's tribal clan, so that every Israelite will possess the inheritance of his fathers."
+  }, {
+    "verse" : "numbers,36,9",
+    "text" : "No inheritance may pass from tribe to tribe, for each Israelite tribe is to keep the land it inherits.\""
+  }, {
+    "verse" : "numbers,36,10",
+    "text" : "So Zelophehad's daughters did as the LORD commanded Moses."
+  }, {
+    "verse" : "numbers,36,11",
+    "text" : "Zelophehad's daughters-Mahlah, Tirzah, Hoglah, Milcah and Noah-married their cousins on their father's side."
+  }, {
+    "verse" : "numbers,36,12",
+    "text" : "They married within the clans of the descendants of Manasseh son of Joseph, and their inheritance remained in their father's clan and tribe."
+  }, {
+    "verse" : "numbers,36,13",
+    "text" : "These are the commands and regulations the LORD gave through Moses to the Israelites on the plains of Moab by the Jordan across from Jericho."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,36,4",
     "id" : 186333,
@@ -20,7 +59,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Num 36:4\">36:4</a></b> <b>the jubilee.</b> In the Jubilee Year, all property would revert to its original owner or heir (<a class=\"bibleref\" href=\"/passage/?search=Lev 25:8-Lev 25:17\">Lev. 25:8–17</a>). In the case of the daughters of Zelophehad it had been established that women could inherit land (27:1–11). If a daughter inheriting property were to marry outside her tribe, it appeared that the Law of Jubilee would cause the land to be transfered to the tribe of the new husband. Moses rules that a woman with property may not marry outside her tribe. In agreement with this, the daughters of Zelophehad married relatives in Manasseh.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,1,1" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,1,1",
+    "text" : "These are the words Moses spoke to all Israel in the desert east of the Jordan-that is, in the Arabah-opposite Suph, between Paran and Tophel, Laban, Hazeroth and Dizahab."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,1,1-deuteronomy,1,5",
     "id" : 186335,
@@ -33,7 +75,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 1:1\">1:1</a></b> <b>beyond the Jordan.</b> See Introduction: Author.</p><p><b>the Arabah opposite Suph.</b> The exact location is uncertain, but taken as a whole, the description points to the region of Moab. This <i>Arabah</i> or “plain”<i></i> extends along the eastern edge of Palestine from the Sea of Galilee south to the Gulf of Aqaba. Suph, meaning “reeds,” may refer to a location in Moab near the Arnon River. The names Paran and Hazeroth are mentioned during Israel’s travels in the Sinai peninsula (<a class=\"bibleref\" href=\"/passage/?search=Num 10:12\">Num. 10:12</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 11:35\">11:35</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 12:16\">12:16</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 33:17\">33:17</a>), but it is unclear whether they are the same places as mentioned here. Tophel, Laban, and Dizahab are mentioned only here.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,1,2" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,1,2",
+    "text" : "(It takes eleven days to go from Horeb to Kadesh Barnea by the Mount Seir road.)"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,1,2",
     "id" : 186337,
@@ -41,7 +86,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 1:2\">1:2</a></b> <b>eleven days’ journey.</b> The distance between Horeb and Kadesh-barnea is about 150 miles. The Israelites went by way of the Mount Seir road, which probably means they traveled part of the time along the valley north of Ezion-geber, a journey of 175 miles or more. They made good time if the whole nation arrived in eleven days. But the “eleven days’ journey” could be a conventional expression for the distance involved, rather than the time taken on this particular journey.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,1,3" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,1,3",
+    "text" : "In the fortieth year, on the first day of the eleventh month, Moses proclaimed to the Israelites all that the LORD had commanded him concerning them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,1,3",
     "id" : 186338,
@@ -49,7 +97,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 1:3\">1:3</a></b> <b>the fortieth year.</b> This date (forty years since the Exodus from Egypt) serves to fix the time for the book as a whole. The years of divine judgment have ended (<a class=\"bibleref\" href=\"/passage/?search=Num 14:33\">Num. 14:33</a>, <a class=\"bibleref\" href=\"/passage/?search=Num 14:34\">34</a>), and Israel prepares to enter the Promised Land. This forty-year period included thirty-eight years in the wilderness, followed by two years for the conquest of Transjordan (2:14).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,1,4" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,1,4",
+    "text" : "This was after he had defeated Sihon king of the Amorites, who reigned in Heshbon, and at Edrei had defeated Og king of Bashan, who reigned in Ashtaroth."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,1,4",
     "id" : 186339,
@@ -57,7 +108,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 1:4\">1:4</a></b> <b>Sihon . . . Og.</b> The conquest of Transjordan is detailed in <a class=\"bibleref\" href=\"/passage/?search=Deut 2:24-Deut 3:11\">2:24–3:11</a>.</p><p><b>Heshbon.</b> The name has been preserved in the modern Tell Hesban, located in Transjordan some thirty-five miles east of Jerusalem. Extensive excavations have discovered no remains at Hesban from Moses’ time (i.e., from the fourteenth century <span class=\"small-caps\">b.c.</span>). It is possible that a nearby mound that does contain fourteenth-century remains is the Heshbon in Moses’ day.</p><p><b>Edrei.</b> The name is probably preserved in the town-name of modern Der’a on the border between Syria and Jordan, which does have ruins of this period.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,1,5" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,1,5",
+    "text" : "East of the Jordan in the territory of Moab, Moses began to expound this law, saying:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,1,5",
     "id" : 186340,
@@ -65,7 +119,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 1:5\">1:5</a></b> <b>in the land of Moab.</b> The Israelites are said to have camped in the plains of Moab (e.g., <a class=\"bibleref\" href=\"/passage/?search=Num 22:1\">Num. 22:1</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 26:3\">26:3</a>, <a class=\"bibleref\" href=\"/passage/?search=Num 26:63\">63</a>) or in the land of Moab (e.g., <a class=\"bibleref\" href=\"/passage/?search=Deut 29:1\">Deut. 29:1</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 32:49\">32:49</a>), but Israel was encamped north of the Arnon River, the northern border of Moab. The solution is that Moab earlier had held the northern territory but had been driven south of the Arnon by Sihon the Amorite (<a class=\"bibleref\" href=\"/passage/?search=Num 21:26\">Num. 21:26</a>). Jephthah rehearses this history in <a class=\"bibleref\" href=\"/passage/?search=Judg 11:14-Judg 11:27\">Judg. 11:14–27</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,1,6" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,1,6",
+    "text" : "The LORD our God said to us at Horeb, \"You have stayed long enough at this mountain."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,1,6-deuteronomy,4,40",
     "id" : 186341,
@@ -78,7 +135,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 1:6\">1:6</a></b> <b>Horeb.</b> Another name for Sinai, apparently for the area around Mount Sinai. The name Sinai nearly always has the designation “Mount” or “wilderness.” Horeb only once has the designation “Mount” (<a class=\"bibleref\" href=\"/passage/?search=Exod 33:6\">Ex. 33:6</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,1,7" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,1,7",
+    "text" : "Break camp and advance into the hill country of the Amorites; go to all the neighboring peoples in the Arabah, in the mountains, in the western foothills, in the Negev and along the coast, to the land of the Canaanites and to Lebanon, as far as the great river, the Euphrates."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,1,7",
     "id" : 186343,
@@ -86,7 +146,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 1:7\">1:7</a></b> <b>the land of the Canaanites.</b> These borders of the Promised Land were given to Abraham in <a class=\"bibleref\" href=\"/passage/?search=Gen 15:18\">Gen. 15:18</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 15:19\">19</a>. The promise included driving out the Canaanites and the other nations.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,1,8", "deuteronomy,1,9", "deuteronomy,1,10", "deuteronomy,1,11", "deuteronomy,1,12" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,1,8",
+    "text" : "See, I have given you this land. Go in and take possession of the land that the LORD swore he would give to your fathers-to Abraham, Isaac and Jacob-and to their descendants after them.\""
+  }, {
+    "verse" : "deuteronomy,1,9",
+    "text" : "At that time I said to you, \"You are too heavy a burden for me to carry alone."
+  }, {
+    "verse" : "deuteronomy,1,10",
+    "text" : "The LORD your God has increased your numbers so that today you are as many as the stars in the sky."
+  }, {
+    "verse" : "deuteronomy,1,11",
+    "text" : "May the LORD, the God of your fathers, increase you a thousand times and bless you as he has promised!"
+  }, {
+    "verse" : "deuteronomy,1,12",
+    "text" : "But how can I bear your problems and your burdens and your disputes all by myself?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,1,8",
     "id" : 186344,
@@ -94,7 +169,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 1:8\">1:8</a></b> <b>the <span class=\"small-caps\">Lord</span> swore.</b> God’s solemn oath to give the land to Abraham’s descendants is mentioned at least six times in Genesis, and is found at least twenty-five times in Deuteronomy (it is also mentioned in Exodus, Leviticus, and Numbers).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,1,13", "deuteronomy,1,14", "deuteronomy,1,15", "deuteronomy,1,16", "deuteronomy,1,17", "deuteronomy,1,18" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,1,13",
+    "text" : "Choose some wise, understanding and respected men from each of your tribes, and I will set them over you.\""
+  }, {
+    "verse" : "deuteronomy,1,14",
+    "text" : "You answered me, \"What you propose to do is good.\""
+  }, {
+    "verse" : "deuteronomy,1,15",
+    "text" : "So I took the leading men of your tribes, wise and respected men, and appointed them to have authority over you-as commanders of thousands, of hundreds, of fifties and of tens and as tribal officials."
+  }, {
+    "verse" : "deuteronomy,1,16",
+    "text" : "And I charged your judges at that time: Hear the disputes between your brothers and judge fairly, whether the case is between brother Israelites or between one of them and an alien."
+  }, {
+    "verse" : "deuteronomy,1,17",
+    "text" : "Do not show partiality in judging; hear both small and great alike. Do not be afraid of any man, for judgment belongs to God. Bring me any case too hard for you, and I will hear it."
+  }, {
+    "verse" : "deuteronomy,1,18",
+    "text" : "And at that time I told you everything you were to do."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,1,13",
     "id" : 186345,
@@ -102,7 +195,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 1:13\">1:13</a></b> <b>Choose . . . wise . . . men.</b> A reference to <a class=\"bibleref\" href=\"/passage/?search=Exod 18:24-Exod 18:26\">Ex. 18:24–26</a> where Moses took the good advice of Jethro, his father-in-law. During the year at Mount Sinai, Moses, under God, organized the nation’s judicial system, military power, and worship. Regarding the judges, see 16:18; 17:8; 19:17.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,1,19", "deuteronomy,1,20", "deuteronomy,1,21", "deuteronomy,1,22", "deuteronomy,1,23", "deuteronomy,1,24", "deuteronomy,1,25" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,1,19",
+    "text" : "Then, as the LORD our God commanded us, we set out from Horeb and went toward the hill country of the Amorites through all that vast and dreadful desert that you have seen, and so we reached Kadesh Barnea."
+  }, {
+    "verse" : "deuteronomy,1,20",
+    "text" : "Then I said to you, \"You have reached the hill country of the Amorites, which the LORD our God is giving us."
+  }, {
+    "verse" : "deuteronomy,1,21",
+    "text" : "See, the LORD your God has given you the land. Go up and take possession of it as the LORD, the God of your fathers, told you. Do not be afraid; do not be discouraged.\""
+  }, {
+    "verse" : "deuteronomy,1,22",
+    "text" : "Then all of you came to me and said, \"Let us send men ahead to spy out the land for us and bring back a report about the route we are to take and the towns we will come to.\""
+  }, {
+    "verse" : "deuteronomy,1,23",
+    "text" : "The idea seemed good to me; so I selected twelve of you, one man from each tribe."
+  }, {
+    "verse" : "deuteronomy,1,24",
+    "text" : "They left and went up into the hill country, and came to the Valley of Eshcol and explored it."
+  }, {
+    "verse" : "deuteronomy,1,25",
+    "text" : "Taking with them some of the fruit of the land, they brought it down to us and reported, \"It is a good land that the LORD our God is giving us.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,1,19",
     "id" : 186346,
@@ -110,7 +224,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 1:19\">1:19</a></b> <b>Kadesh-barnea.</b> The place was called simply Kadesh in <a class=\"bibleref\" href=\"/passage/?search=Num 13:26\">Num. 13:26</a>. Kadesh means “holy place” and the name was doubtless given by the original inhabitants to many supposedly sacred places. This place was called Kadesh-barnea to distinguish it from other such places (e.g., in Naphtali, <a class=\"bibleref\" href=\"/passage/?search=Judg 4:6\">Judg. 4:6</a>; in Judah, <a class=\"bibleref\" href=\"/passage/?search=Josh 15:23\">Josh. 15:23</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,1,26", "deuteronomy,1,27" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,1,26",
+    "text" : "But you were unwilling to go up; you rebelled against the command of the LORD your God."
+  }, {
+    "verse" : "deuteronomy,1,27",
+    "text" : "You grumbled in your tents and said, \"The LORD hates us; so he brought us out of Egypt to deliver us into the hands of the Amorites to destroy us."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,1,26",
     "id" : 186347,
@@ -118,7 +238,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 1:26\">1:26</a></b> <b>but rebelled.</b> This account of the people’s failure at Kadesh parallels extensively the account in <a class=\"bibleref\" href=\"/passage/?search=Num 13\">Num. 13</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,1,28", "deuteronomy,1,29", "deuteronomy,1,30", "deuteronomy,1,31", "deuteronomy,1,32" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,1,28",
+    "text" : "Where can we go? Our brothers have made us lose heart. They say, 'The people are stronger and taller than we are; the cities are large, with walls up to the sky. We even saw the Anakites there.'\""
+  }, {
+    "verse" : "deuteronomy,1,29",
+    "text" : "Then I said to you, \"Do not be terrified; do not be afraid of them."
+  }, {
+    "verse" : "deuteronomy,1,30",
+    "text" : "The LORD your God, who is going before you, will fight for you, as he did for you in Egypt, before your very eyes,"
+  }, {
+    "verse" : "deuteronomy,1,31",
+    "text" : "and in the desert. There you saw how the LORD your God carried you, as a father carries his son, all the way you went until you reached this place.\""
+  }, {
+    "verse" : "deuteronomy,1,32",
+    "text" : "In spite of this, you did not trust in the LORD your God,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,1,28",
     "id" : 186348,
@@ -126,7 +261,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 1:28\">1:28</a></b> <b>the Anakim.</b> The name Anak appears in Egyptian texts of the early second millennium as the name of a ruler in Palestine. It probably is related to the biblical Anak whose descendants lived in Hebron (<a class=\"bibleref\" href=\"/passage/?search=Num 13:22\">Num. 13:22</a>). They were taller than the Israelites and were feared for their military prowess. Joshua conquered them, and their remnants merged with the Philistines (<a class=\"bibleref\" href=\"/passage/?search=Josh 12:21\">Josh. 12:21</a>, <a class=\"bibleref\" href=\"/passage/?search=Josh 12:22\">22</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,1,33", "deuteronomy,1,34", "deuteronomy,1,35", "deuteronomy,1,36" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,1,33",
+    "text" : "who went ahead of you on your journey, in fire by night and in a cloud by day, to search out places for you to camp and to show you the way you should go."
+  }, {
+    "verse" : "deuteronomy,1,34",
+    "text" : "When the LORD heard what you said, he was angry and solemnly swore:"
+  }, {
+    "verse" : "deuteronomy,1,35",
+    "text" : "\"Not a man of this evil generation shall see the good land I swore to give your forefathers,"
+  }, {
+    "verse" : "deuteronomy,1,36",
+    "text" : "except Caleb son of Jephunneh. He will see it, and I will give him and his descendants the land he set his feet on, because he followed the LORD wholeheartedly.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,1,33",
     "id" : 186349,
@@ -134,7 +281,34 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 1:33\">1:33</a></b> <b>in fire by night.</b> The mention of the pillar of fire and the cloud refers to <a class=\"bibleref\" href=\"/passage/?search=Exod 13:21\">Ex. 13:21</a>, where the pillar guided them out of Egypt, and especially to <a class=\"bibleref\" href=\"/passage/?search=Num 9:15-Num 9:23\">Num. 9:15–23</a>, which tells of the Lord’s guidance through the whole wilderness journey.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,1,37", "deuteronomy,1,38", "deuteronomy,1,39", "deuteronomy,1,40", "deuteronomy,1,41", "deuteronomy,1,42", "deuteronomy,1,43", "deuteronomy,1,44", "deuteronomy,1,45" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,1,37",
+    "text" : "Because of you the LORD became angry with me also and said, \"You shall not enter it, either."
+  }, {
+    "verse" : "deuteronomy,1,38",
+    "text" : "But your assistant, Joshua son of Nun, will enter it. Encourage him, because he will lead Israel to inherit it."
+  }, {
+    "verse" : "deuteronomy,1,39",
+    "text" : "And the little ones that you said would be taken captive, your children who do not yet know good from bad-they will enter the land. I will give it to them and they will take possession of it."
+  }, {
+    "verse" : "deuteronomy,1,40",
+    "text" : "But as for you, turn around and set out toward the desert along the route to the Red Sea. \""
+  }, {
+    "verse" : "deuteronomy,1,41",
+    "text" : "Then you replied, \"We have sinned against the LORD. We will go up and fight, as the LORD our God commanded us.\" So every one of you put on his weapons, thinking it easy to go up into the hill country."
+  }, {
+    "verse" : "deuteronomy,1,42",
+    "text" : "But the LORD said to me, \"Tell them, 'Do not go up and fight, because I will not be with you. You will be defeated by your enemies.'\""
+  }, {
+    "verse" : "deuteronomy,1,43",
+    "text" : "So I told you, but you would not listen. You rebelled against the LORD's command and in your arrogance you marched up into the hill country."
+  }, {
+    "verse" : "deuteronomy,1,44",
+    "text" : "The Amorites who lived in those hills came out against you; they chased you like a swarm of bees and beat you down from Seir all the way to Hormah."
+  }, {
+    "verse" : "deuteronomy,1,45",
+    "text" : "You came back and wept before the LORD, but he paid no attention to your weeping and turned a deaf ear to you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,1,37",
     "id" : 186350,
@@ -142,7 +316,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 1:37\">1:37</a></b> <b>Even with me the <span class=\"small-caps\">Lord</span> was angry.</b> Mention of the doom of the lost generation recalls that God was also displeased with Moses and refused to allow him to enter Canaan (<a class=\"bibleref\" href=\"/passage/?search=Deut 32:51\">32:51</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 20:9-Num 20:11\">Num. 20:9–11</a> note; 27:14). Joshua, a faithful spy, would carry on as leader (<a class=\"bibleref\" href=\"/passage/?search=Num 27:12-Num 27:23\">Num. 27:12–23</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,1,46" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,1,46",
+    "text" : "And so you stayed in Kadesh many days-all the time you spent there."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,1,46",
     "id" : 186351,

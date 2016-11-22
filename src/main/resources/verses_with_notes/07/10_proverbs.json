@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,18,23" ],
+  "verses" : [ {
+    "verse" : "proverbs,18,23",
+    "text" : "A poor man pleads for mercy, but a rich man answers harshly."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 18:23\">18:23</a></b> The proverb is a matter-of-fact observation of the harsh reality of life’s inequalities due to the effects of sin.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,18,24" ],
+  "verses" : [ {
+    "verse" : "proverbs,18,24",
+    "text" : "A man of many companions may come to ruin, but there is a friend who sticks closer than a brother."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,18,24",
     "id" : 192066,

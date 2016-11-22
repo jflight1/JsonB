@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,13,24" ],
+  "verses" : [ {
+    "verse" : "proverbs,13,24",
+    "text" : "He who spares the rod hates his son, but he who loves him is careful to discipline him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 13:24\">13:24</a></b> <b>rod.</b> Although the word may symbolize any kind of disciplinary correction, there is little doubt that corporal punishment was approved in some situations (<a class=\"bibleref\" href=\"/passage/?search=Prov 10:13\">10:13</a>; <a class=\"bibleref\" href=\"/passage/?search=Prov 22:15\">22:15</a>; <a class=\"bibleref\" href=\"/passage/?search=Prov 23:13\">23:13</a>, <a class=\"bibleref\" href=\"/passage/?search=Prov 23:14\">14</a>; <a class=\"bibleref\" href=\"/passage/?search=Prov 29:15\">29:15</a>). Discipline with love prevents the rod from being destructive (<a class=\"bibleref\" href=\"/passage/?search=Prov 3:11\">3:11</a>, <a class=\"bibleref\" href=\"/passage/?search=Prov 3:12\">12</a> and notes).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,13,25" ],
+  "verses" : [ {
+    "verse" : "proverbs,13,25",
+    "text" : "The righteous eat to their hearts' content, but the stomach of the wicked goes hungry."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,13,25",
     "id" : 191943,

@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,89,38" ],
+  "verses" : [ {
+    "verse" : "psalms,89,38",
+    "text" : "But you have rejected, you have spurned, you have been very angry with your anointed one."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,89,1-psalms,89,52",
     "id" : 191011,
@@ -12,7 +15,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 89:38\">89:38</a></b> <b>you have cast off.</b> The focus of the psalm shifts to the present and the great rift in the relationship between God and the king.</p><p><b>your anointed.</b> An unspecified Davidic successor to the throne.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,89,39", "psalms,89,40" ],
+  "verses" : [ {
+    "verse" : "psalms,89,39",
+    "text" : "You have renounced the covenant with your servant and have defiled his crown in the dust."
+  }, {
+    "verse" : "psalms,89,40",
+    "text" : "You have broken through all his walls and reduced his strongholds to ruins."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,89,39",
     "id" : 191029,
@@ -20,7 +29,31 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 89:39\">89:39</a></b> <b>renounced.</b> The psalmist is outspoken, speaking boldly in his appeal to break God’s silence.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,89,41", "psalms,89,42", "psalms,89,43", "psalms,89,44", "psalms,89,45", "psalms,89,46", "psalms,89,47", "psalms,89,48" ],
+  "verses" : [ {
+    "verse" : "psalms,89,41",
+    "text" : "All who pass by have plundered him; he has become the scorn of his neighbors."
+  }, {
+    "verse" : "psalms,89,42",
+    "text" : "You have exalted the right hand of his foes; you have made all his enemies rejoice."
+  }, {
+    "verse" : "psalms,89,43",
+    "text" : "You have turned back the edge of his sword and have not supported him in battle."
+  }, {
+    "verse" : "psalms,89,44",
+    "text" : "You have put an end to his splendor and cast his throne to the ground."
+  }, {
+    "verse" : "psalms,89,45",
+    "text" : "You have cut short the days of his youth; you have covered him with a mantle of shame. Selah"
+  }, {
+    "verse" : "psalms,89,46",
+    "text" : "How long, O LORD? Will you hide yourself forever? How long will your wrath burn like fire?"
+  }, {
+    "verse" : "psalms,89,47",
+    "text" : "Remember how fleeting is my life. For what futility you have created all men!"
+  }, {
+    "verse" : "psalms,89,48",
+    "text" : "What man can live and not see death, or save himself from the power of the grave? Selah"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,89,41",
     "id" : 191030,
@@ -28,7 +61,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 89:41\">89:41</a></b> <b>All . . . plunder him.</b> God’s absence is experienced through the victory of their enemies.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,89,49", "psalms,89,50", "psalms,89,51" ],
+  "verses" : [ {
+    "verse" : "psalms,89,49",
+    "text" : "O Lord, where is your former great love, which in your faithfulness you swore to David?"
+  }, {
+    "verse" : "psalms,89,50",
+    "text" : "Remember, Lord, how your servant has been mocked, how I bear in my heart the taunts of all the nations,"
+  }, {
+    "verse" : "psalms,89,51",
+    "text" : "the taunts with which your enemies have mocked, O LORD, with which they have mocked every step of your anointed one."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,89,49",
     "id" : 191031,
@@ -36,7 +78,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 89:49\">89:49</a></b> <b>your steadfast love of old.</b> God’s lovingkindness is the love by which God binds Himself to His people in covenant devotion.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,89,52" ],
+  "verses" : [ {
+    "verse" : "psalms,89,52",
+    "text" : "Praise be to the LORD forever! Amen and Amen. BOOK IV Psalms 90-106"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,89,52",
     "id" : 191032,

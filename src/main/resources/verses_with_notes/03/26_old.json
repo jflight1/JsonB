@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "deuteronomy,5,1", "deuteronomy,5,2" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,5,1",
+    "text" : "Moses summoned all Israel and said: Hear, O Israel, the decrees and laws I declare in your hearing today. Learn them and be sure to follow them."
+  }, {
+    "verse" : "deuteronomy,5,2",
+    "text" : "The LORD our God made a covenant with us at Horeb."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,4,44-deuteronomy,11,32",
     "id" : 186391,
@@ -12,7 +18,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 5:1\">5:1</a></b> <b>Hear, O Israel.</b> This solemn form of address to Israel is only found in Deuteronomy: first here, then in the great <i>Shema</i> of <a class=\"bibleref\" href=\"/passage/?search=Deut 6:4\">6:4</a>, and finally in the exhortation of <a class=\"bibleref\" href=\"/passage/?search=Deut 9:1-Deut 9:3\">9:1–3</a>. Here the foundational covenant at Mount Sinai in Horeb is recalled.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,5,3", "deuteronomy,5,4", "deuteronomy,5,5" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,5,3",
+    "text" : "It was not with our fathers that the LORD made this covenant, but with us, with all of us who are alive here today."
+  }, {
+    "verse" : "deuteronomy,5,4",
+    "text" : "The LORD spoke to you face to face out of the fire on the mountain."
+  }, {
+    "verse" : "deuteronomy,5,5",
+    "text" : "(At that time I stood between the LORD and you to declare to you the word of the LORD, because you were afraid of the fire and did not go up the mountain.) And he said:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,5,3",
     "id" : 186395,
@@ -20,7 +35,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 5:3\">5:3</a></b> <b>Not with our fathers.</b> Moses is differentiating the Sinai covenant from the promise of the land made to the patriarchs, Abraham, Isaac, and Jacob. It was not the patriarchs who stood before God at Sinai, but the Israelites of Moses’ day (<a class=\"bibleref\" href=\"/passage/?search=Deut 11:2\">11:2</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,5,6" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,5,6",
+    "text" : "\"I am the LORD your God, who brought you out of Egypt, out of the land of slavery."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,5,6-deuteronomy,5,21",
     "id" : 186396,
@@ -28,7 +46,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 5:6-Deut 5:21\">5:6–21</a></b> See <a class=\"bibleref\" href=\"/passage/?search=Exod 20:2-Exod 20:17\">Ex. 20:2–17</a> and notes.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,5,7" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,5,7",
+    "text" : "\"You shall have no other gods before me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,5,7",
     "id" : 186397,
@@ -36,7 +57,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 5:7\">5:7</a></b> <b>no other gods.</b> The exalted monotheism of this commandment and of the whole Old Testament was unique in ancient times. There are no other gods (<a class=\"bibleref\" href=\"/passage/?search=Deut 4:39\">4:39</a>), and the worship of anything other than God Himself is forbidden.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,5,8", "deuteronomy,5,9" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,5,8",
+    "text" : "\"You shall not make for yourself an idol in the form of anything in heaven above or on the earth beneath or in the waters below."
+  }, {
+    "verse" : "deuteronomy,5,9",
+    "text" : "You shall not bow down to them or worship them; for I, the LORD your God, am a jealous God, punishing the children for the sin of the fathers to the third and fourth generation of those who hate me,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,5,8",
     "id" : 186398,
@@ -44,7 +71,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 5:8\">5:8 a</a></b> <b>carved image.</b> See <a class=\"bibleref\" href=\"/passage/?search=Deut 4:15\">4:15</a>; note on <a class=\"bibleref\" href=\"/passage/?search=Exod 20:4\">Ex. 20:4</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,5,10", "deuteronomy,5,11" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,5,10",
+    "text" : "but showing love to a thousand generations of those who love me and keep my commandments."
+  }, {
+    "verse" : "deuteronomy,5,11",
+    "text" : "\"You shall not misuse the name of the LORD your God, for the LORD will not hold anyone guiltless who misuses his name."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,5,10",
     "id" : 186399,
@@ -52,7 +85,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 5:10\">5:10</a></b> <b>to thousands.</b> Whereas God’s anger extends only to the third and fourth generation, His love extends to a thousand generations (<a class=\"bibleref\" href=\"/passage/?search=Deut 7:9\">7:9</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,5,12", "deuteronomy,5,13", "deuteronomy,5,14", "deuteronomy,5,15" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,5,12",
+    "text" : "\"Observe the Sabbath day by keeping it holy, as the LORD your God has commanded you."
+  }, {
+    "verse" : "deuteronomy,5,13",
+    "text" : "Six days you shall labor and do all your work,"
+  }, {
+    "verse" : "deuteronomy,5,14",
+    "text" : "but the seventh day is a Sabbath to the LORD your God. On it you shall not do any work, neither you, nor your son or daughter, nor your manservant or maidservant, nor your ox, your donkey or any of your animals, nor the alien within your gates, so that your manservant and maidservant may rest, as you do."
+  }, {
+    "verse" : "deuteronomy,5,15",
+    "text" : "Remember that you were slaves in Egypt and that the LORD your God brought you out of there with a mighty hand and an outstretched arm. Therefore the LORD your God has commanded you to observe the Sabbath day."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,5,12-deuteronomy,5,15",
     "id" : 186400,
@@ -65,7 +110,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 5:12\">5:12</a></b> <b>Observe the Sabbath day.</b> Most of the commandments in Deuteronomy parallel almost verbatim those in Exodus, with obvious interdependence. Deuteronomy bases this command on the deliverance from the bondage of Egypt, whereas Exodus cites God’s work of creation as a basis. The continuing sabbatical principle commands a weekly day of rest. The change from the seventh day to the first day or Lord’s Day by the New Testament church (<a class=\"bibleref\" href=\"/passage/?search=Rev 1:10\">Rev. 1:10</a>), in celebration of Christ’s resurrection, points to the inauguration of the new creation (<a class=\"bibleref\" href=\"/passage/?search=1Cor 15:45-1Cor 15:49\">1 Cor. 15:45–49</a>; <a class=\"bibleref\" href=\"/passage/?search=2Cor 5:17\">2 Cor. 5:17</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Exod 20:11\">Ex. 20:11</a>), and to the believer’s redemption from bondage to sin through the death and resurrection of Christ.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,5,16", "deuteronomy,5,17", "deuteronomy,5,18", "deuteronomy,5,19", "deuteronomy,5,20", "deuteronomy,5,21" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,5,16",
+    "text" : "\"Honor your father and your mother, as the LORD your God has commanded you, so that you may live long and that it may go well with you in the land the LORD your God is giving you."
+  }, {
+    "verse" : "deuteronomy,5,17",
+    "text" : "\"You shall not murder."
+  }, {
+    "verse" : "deuteronomy,5,18",
+    "text" : "\"You shall not commit adultery."
+  }, {
+    "verse" : "deuteronomy,5,19",
+    "text" : "\"You shall not steal."
+  }, {
+    "verse" : "deuteronomy,5,20",
+    "text" : "\"You shall not give false testimony against your neighbor."
+  }, {
+    "verse" : "deuteronomy,5,21",
+    "text" : "\"You shall not covet your neighbor's wife. You shall not set your desire on your neighbor's house or land, his manservant or maidservant, his ox or donkey, or anything that belongs to your neighbor.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,5,16",
     "id" : 186402,
@@ -73,7 +136,46 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 5:16\">5:16</a></b> <b>that your days may be long.</b> Other passages suggest that this clause may primarily be a promise of settled conditions and long peace for the people in the land, which would also include freedom from early death in war and revolution (<a class=\"bibleref\" href=\"/passage/?search=Deut 5:33\">5:33</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 30:18\">30:18</a>, <a class=\"bibleref\" href=\"/passage/?search=Deut 30:20\">20</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Deut 25:15\">25:15</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,5,22", "deuteronomy,5,23", "deuteronomy,5,24", "deuteronomy,5,25", "deuteronomy,5,26", "deuteronomy,5,27", "deuteronomy,5,28", "deuteronomy,5,29", "deuteronomy,5,30", "deuteronomy,5,31", "deuteronomy,5,32", "deuteronomy,5,33", "deuteronomy,6,1" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,5,22",
+    "text" : "These are the commandments the LORD proclaimed in a loud voice to your whole assembly there on the mountain from out of the fire, the cloud and the deep darkness; and he added nothing more. Then he wrote them on two stone tablets and gave them to me."
+  }, {
+    "verse" : "deuteronomy,5,23",
+    "text" : "When you heard the voice out of the darkness, while the mountain was ablaze with fire, all the leading men of your tribes and your elders came to me."
+  }, {
+    "verse" : "deuteronomy,5,24",
+    "text" : "And you said, \"The LORD our God has shown us his glory and his majesty, and we have heard his voice from the fire. Today we have seen that a man can live even if God speaks with him."
+  }, {
+    "verse" : "deuteronomy,5,25",
+    "text" : "But now, why should we die? This great fire will consume us, and we will die if we hear the voice of the LORD our God any longer."
+  }, {
+    "verse" : "deuteronomy,5,26",
+    "text" : "For what mortal man has ever heard the voice of the living God speaking out of fire, as we have, and survived?"
+  }, {
+    "verse" : "deuteronomy,5,27",
+    "text" : "Go near and listen to all that the LORD our God says. Then tell us whatever the LORD our God tells you. We will listen and obey.\""
+  }, {
+    "verse" : "deuteronomy,5,28",
+    "text" : "The LORD heard you when you spoke to me and the LORD said to me, \"I have heard what this people said to you. Everything they said was good."
+  }, {
+    "verse" : "deuteronomy,5,29",
+    "text" : "Oh, that their hearts would be inclined to fear me and keep all my commands always, so that it might go well with them and their children forever!"
+  }, {
+    "verse" : "deuteronomy,5,30",
+    "text" : "\"Go, tell them to return to their tents."
+  }, {
+    "verse" : "deuteronomy,5,31",
+    "text" : "But you stay here with me so that I may give you all the commands, decrees and laws you are to teach them to follow in the land I am giving them to possess.\""
+  }, {
+    "verse" : "deuteronomy,5,32",
+    "text" : "So be careful to do what the LORD your God has commanded you; do not turn aside to the right or to the left."
+  }, {
+    "verse" : "deuteronomy,5,33",
+    "text" : "Walk in all the way that the LORD your God has commanded you, so that you may live and prosper and prolong your days in the land that you will possess."
+  }, {
+    "verse" : "deuteronomy,6,1",
+    "text" : "These are the commands, decrees and laws the LORD your God directed me to teach you to observe in the land that you are crossing the Jordan to possess,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,5,22",
     "id" : 186403,
@@ -81,7 +183,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 5:22\">5:22</a></b> <b>and he added no more.</b> Lit. “and He did not add,” perhaps an idiom meaning that He spoke no more. This would fit the statement in Exodus, that the people in their fear asked that God speak no more to them directly, but only through Moses (<a class=\"bibleref\" href=\"/passage/?search=Exod 20:19\">Ex. 20:19</a>).</p><p><b>two tablets of stone.</b> The tablets are mentioned in <a class=\"bibleref\" href=\"/passage/?search=Exod 31:18\">Ex. 31:18</a>, where they are called the “two tablets of the testimony . . . written with the finger of God.” In addition, the tablets were inscribed on both sides (<a class=\"bibleref\" href=\"/passage/?search=Exod 32:15\">Ex. 32:15</a>). These tablets were broken (<a class=\"bibleref\" href=\"/passage/?search=Exod 32:19\">Ex. 32:19</a>), but new ones were made (<a class=\"bibleref\" href=\"/passage/?search=Exod 34:1-Exod 34:4\">Ex. 34:1–4</a>, <a class=\"bibleref\" href=\"/passage/?search=Exod 34:27\">27</a>). Called “the testimony,” the tablets were placed in the ark of the testimony (<a class=\"bibleref\" href=\"/passage/?search=Exod 25:16\">Ex. 25:16</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 40:20\">40:20</a>), also called the “ark of the covenant” (<a class=\"bibleref\" href=\"/passage/?search=Num 10:33\">Num. 10:33</a>). The “testimony” was the written record attesting the terms of the covenant (<a class=\"bibleref\" href=\"/passage/?search=Exod 25:16\">Ex. 25:16</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,6,2", "deuteronomy,6,3" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,6,2",
+    "text" : "so that you, your children and their children after them may fear the LORD your God as long as you live by keeping all his decrees and commands that I give you, and so that you may enjoy long life."
+  }, {
+    "verse" : "deuteronomy,6,3",
+    "text" : "Hear, O Israel, and be careful to obey so that it may go well with you and that you may increase greatly in a land flowing with milk and honey, just as the LORD, the God of your fathers, promised you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,6,2",
     "id" : 186404,
@@ -89,7 +197,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 6:2\">6:2</a></b> <b>days may be long.</b> These words translate the same Hebrew phrase as in <a class=\"bibleref\" href=\"/passage/?search=Deut 5:33\">5:33</a>. Here also we may understand the meaning as “long life in the land.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,6,4" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,6,4",
+    "text" : "Hear, O Israel: The LORD our God, the LORD is one."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,6,4",
     "id" : 186405,
@@ -97,7 +208,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 6:4\">6:4</a></b> <b>Hear, O Israel.</b> Often called the <i>Shema</i>, from the initial Hebrew word meaning “Hear,” this verse became the great confession of Israel’s monotheistic faith, and is recited morning and evening by Jews (cf. <a class=\"bibleref\" href=\"/passage/?search=Mark 12:29\">Mark 12:29</a>). See note 5:1.</p><p><b>The <span class=\"small-caps\">Lord . . .</span> <span class=\"small-caps\">Lord</span> is one.</b> Though the Hebrew may be translated several ways (text note), it is best to understand the verse as affirming both God’s uniqueness and unity or singularity—the only God is “one” (<a class=\"bibleref\" href=\"/passage/?search=Mark 12:29\">Mark 12:29</a>). As the Old Testament implies and the New Testament explicitly teaches, however, there is differentiation of Persons within the unity of the Godhead. See “One and Three: The Trinity” at <a class=\"bibleref\" href=\"/passage/?search=Isa 44:6\">Is. 44:6</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,6,5", "deuteronomy,6,6" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,6,5",
+    "text" : "Love the LORD your God with all your heart and with all your soul and with all your strength."
+  }, {
+    "verse" : "deuteronomy,6,6",
+    "text" : "These commandments that I give you today are to be upon your hearts."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,6,5",
     "id" : 186406,
@@ -105,7 +222,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 6:5\">6:5</a></b> <b>all your might.</b> The Hebrew expresses totality. For this reason the New Testament sometimes renders it with “mind and strength” (<a class=\"bibleref\" href=\"/passage/?search=Mark 12:30\">Mark 12:30</a>). This is the language of devotion. God does not demand mere outward obedience to a law, but the heartfelt love and commitment of the whole person (<a class=\"bibleref\" href=\"/passage/?search=Prov 23:26\">Prov. 23:26</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,6,7" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,6,7",
+    "text" : "Impress them on your children. Talk about them when you sit at home and when you walk along the road, when you lie down and when you get up."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,6,7",
     "id" : 186407,
@@ -113,7 +233,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 6:7\">6:7</a></b> <b>children.</b> See “The Christian Family” at <a class=\"bibleref\" href=\"/passage/?search=Eph 5:22\">Eph. 5:22</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,6,8", "deuteronomy,6,9" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,6,8",
+    "text" : "Tie them as symbols on your hands and bind them on your foreheads."
+  }, {
+    "verse" : "deuteronomy,6,9",
+    "text" : "Write them on the doorframes of your houses and on your gates."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,6,8",
     "id" : 186408,
@@ -121,7 +247,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 6:8\">6:8</a></b> <b>frontlets between your eyes.</b> The phrases in this section are multiplied to emphasize the overall importance of God’s law. Jews since the time of Christ have taken these verses literally and tie little boxes containing these verses on their arms and foreheads, and fasten them on their doorposts (cf. <a class=\"bibleref\" href=\"/passage/?search=Matt 23:5\">Matt. 23:5</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,6,10", "deuteronomy,6,11", "deuteronomy,6,12" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,6,10",
+    "text" : "When the LORD your God brings you into the land he swore to your fathers, to Abraham, Isaac and Jacob, to give you-a land with large, flourishing cities you did not build,"
+  }, {
+    "verse" : "deuteronomy,6,11",
+    "text" : "houses filled with all kinds of good things you did not provide, wells you did not dig, and vineyards and olive groves you did not plant-then when you eat and are satisfied,"
+  }, {
+    "verse" : "deuteronomy,6,12",
+    "text" : "be careful that you do not forget the LORD, who brought you out of Egypt, out of the land of slavery."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,6,10",
     "id" : 186409,
@@ -129,7 +264,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 6:10\">6:10</a></b> <b>the land that he swore to your fathers.</b> See <a class=\"bibleref\" href=\"/passage/?search=Deut 5:3\">5:3</a> and note. This is one of many references in Deuteronomy to God’s solemn promise to the patriarchs.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,6,13", "deuteronomy,6,14" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,6,13",
+    "text" : "Fear the LORD your God, serve him only and take your oaths in his name."
+  }, {
+    "verse" : "deuteronomy,6,14",
+    "text" : "Do not follow other gods, the gods of the peoples around you;"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,6,13",
     "id" : 186410,
@@ -137,7 +278,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 6:13\">6:13</a></b> <b>by his name you shall swear.</b> The third commandment does not forbid taking an oath on the name of God (cf. <a class=\"bibleref\" href=\"/passage/?search=Judg 8:19\">Judg. 8:19</a>), but forbids a false oath. Because swearing by the name of a god implied the recognition and worship of that god, the Israelites were not to swear by other gods (cf. <a class=\"bibleref\" href=\"/passage/?search=Jer 5:7\">Jer. 5:7</a>; <a class=\"bibleref\" href=\"/passage/?search=Zeph 1:5\">Zeph. 1:5</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,6,15" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,6,15",
+    "text" : "for the LORD your God, who is among you, is a jealous God and his anger will burn against you, and he will destroy you from the face of the land."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,6,15",
     "id" : 186411,
@@ -145,7 +289,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 6:15\">6:15 a</a></b> <b>jealous God.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Exod 20:5\">Ex. 20:5</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,6,16", "deuteronomy,6,17", "deuteronomy,6,18", "deuteronomy,6,19" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,6,16",
+    "text" : "Do not test the LORD your God as you did at Massah."
+  }, {
+    "verse" : "deuteronomy,6,17",
+    "text" : "Be sure to keep the commands of the LORD your God and the stipulations and decrees he has given you."
+  }, {
+    "verse" : "deuteronomy,6,18",
+    "text" : "Do what is right and good in the LORD's sight, so that it may go well with you and you may go in and take over the good land that the LORD promised on oath to your forefathers,"
+  }, {
+    "verse" : "deuteronomy,6,19",
+    "text" : "thrusting out all your enemies before you, as the LORD said."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,6,16",
     "id" : 186412,
@@ -153,7 +309,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 6:16\">6:16</a></b> <b>Massah.</b> This word means “testing” (<a class=\"bibleref\" href=\"/passage/?search=Exod 17:7\">Ex. 17:7</a>). Later in Old Testament history, King Ahaz of Judah cited this verse insincerely (<a class=\"bibleref\" href=\"/passage/?search=Isa 7:12\">Is. 7:12</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,6,20", "deuteronomy,6,21", "deuteronomy,6,22", "deuteronomy,6,23" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,6,20",
+    "text" : "In the future, when your son asks you, \"What is the meaning of the stipulations, decrees and laws the LORD our God has commanded you?\""
+  }, {
+    "verse" : "deuteronomy,6,21",
+    "text" : "tell him: \"We were slaves of Pharaoh in Egypt, but the LORD brought us out of Egypt with a mighty hand."
+  }, {
+    "verse" : "deuteronomy,6,22",
+    "text" : "Before our eyes the LORD sent miraculous signs and wonders-great and terrible-upon Egypt and Pharaoh and his whole household."
+  }, {
+    "verse" : "deuteronomy,6,23",
+    "text" : "But he brought us out from there to bring us in and give us the land that he promised on oath to our forefathers."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,6,20-deuteronomy,6,24",
     "id" : 186413,
@@ -161,7 +329,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 6:20-Deut 6:24\">6:20–24</a></b> See note <a class=\"bibleref\" href=\"/passage/?search=Deut 4:9\">4:9</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,6,24", "deuteronomy,6,25" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,6,24",
+    "text" : "The LORD commanded us to obey all these decrees and to fear the LORD our God, so that we might always prosper and be kept alive, as is the case today."
+  }, {
+    "verse" : "deuteronomy,6,25",
+    "text" : "And if we are careful to obey all this law before the LORD our God, as he has commanded us, that will be our righteousness.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,6,24",
     "id" : 186414,

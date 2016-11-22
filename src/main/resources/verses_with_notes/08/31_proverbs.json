@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,22,13" ],
+  "verses" : [ {
+    "verse" : "proverbs,22,13",
+    "text" : "The sluggard says, \"There is a lion outside!\" or, \"I will be murdered in the streets!\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "proverbs,25,6", "proverbs,25,7" ],
+  "verses" : [ {
+    "verse" : "proverbs,25,6",
+    "text" : "Do not exalt yourself in the king's presence, and do not claim a place among great men;"
+  }, {
+    "verse" : "proverbs,25,7",
+    "text" : "it is better for him to say to you, \"Come up here,\" than for him to humiliate you before a nobleman. What you have seen with your eyes"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,25,6-proverbs,25,7",
     "id" : 192231,
@@ -7,7 +13,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 25:6\">25:6</a>, <a class=\"bibleref\" href=\"/passage/?search=Prov 25:7\">7</a></b> Wisdom of the royal court observes an unspoken protocol. It rebukes conceit and self-seeking that overreaches itself and leads to humiliation. It is better to start out with humility and then be exalted. Jesus adapted this instruction to speak of our place in the kingdom of God (<a class=\"bibleref\" href=\"/passage/?search=Luke 14:7-Luke 14:11\">Luke 14:7–11</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,25,8" ],
+  "verses" : [ {
+    "verse" : "proverbs,25,8",
+    "text" : "do not bring hastily to court, for what will you do in the end if your neighbor puts you to shame?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,25,8",
     "id" : 192232,

@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "psalms,65,1", "psalms,65,2" ],
+  "verses" : [ {
+    "verse" : "psalms,65,1",
+    "text" : "Praise awaits you, O God, in Zion; to you our vows will be fulfilled."
+  }, {
+    "verse" : "psalms,65,2",
+    "text" : "O you who hear prayer, to you all men will come."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,65,1-psalms,65,13",
     "id" : 190766,
@@ -12,7 +18,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 65:1\">65:1</a></b> <b>in Zion.</b> The location chosen by God for the temple, and the place toward which praise is directed. See notes <a class=\"bibleref\" href=\"/passage/?search=Ps 50:2\">Ps. 50:2</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 128:5\">128:5</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 129:5\">129:5</a>, and especially <a class=\"bibleref\" href=\"/passage/?search=Ps 2:6\">2:6</a>.</p><p><b>vows.</b> When Israel brought petitions before the Lord, they frequently promised to offer sacrifices in response to answered prayer.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,65,3" ],
+  "verses" : [ {
+    "verse" : "psalms,65,3",
+    "text" : "When we were overwhelmed by sins, you forgave our transgressions."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,65,3",
     "id" : 190768,
@@ -20,7 +29,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 65:3\">65:3</a></b> <b>our transgressions.</b> From the perspective of the sinner, there is no hope. God in His grace, however, forgives the sinner; this is a source of great joy to the psalmist.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,65,4" ],
+  "verses" : [ {
+    "verse" : "psalms,65,4",
+    "text" : "Blessed are those you choose and bring near to live in your courts! We are filled with the good things of your house, of your holy temple."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,65,4",
     "id" : 190769,
@@ -28,7 +40,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 65:4\">65:4</a></b> <b>Blessed.</b> See <a class=\"bibleref\" href=\"/passage/?search=Ps 1:1\">Ps. 1:1</a>.</p><p><b>you choose.</b> God’s free grace is the source of blessing, and the highest blessing of all is to enjoy His fellowship (<a class=\"bibleref\" href=\"/passage/?search=Ps 16:11\">Ps. 16:11</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,65,5" ],
+  "verses" : [ {
+    "verse" : "psalms,65,5",
+    "text" : "You answer us with awesome deeds of righteousness, O God our Savior, the hope of all the ends of the earth and of the farthest seas,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,65,5",
     "id" : 190770,
@@ -36,7 +51,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 65:5\">65:5</a></b> <b>awesome deeds.</b> God is not a distant deity who has nothing to do with His creation. He answers prayer by intervening in history and in the lives of His people.</p><p><b>ends of the earth.</b> In the theologies of the surrounding lands, it was thought that there were different gods for different localities; e.g., Marduk of Babylon and Baal of Ugarit. The psalmist knows that the Lord is not simply another god among many; He is the God of the universe.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,65,6" ],
+  "verses" : [ {
+    "verse" : "psalms,65,6",
+    "text" : "who formed the mountains by your power, having armed yourself with strength,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,65,6",
     "id" : 190771,
@@ -44,7 +62,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 65:6\">65:6</a></b> <b>the mountains.</b> A symbol of firmness and strength. God’s creation of them shows His power and greatness (<a class=\"bibleref\" href=\"/passage/?search=Ps 46:2\">Ps. 46:2</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 46:3\">3</a> and notes).</p><p><b>girded with might.</b> God is clothed with power as a divine warrior who conquers the enemies of Israel (<a class=\"bibleref\" href=\"/passage/?search=Exod 15\">Ex. 15</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 5:13-Josh 5:15\">Josh. 5:13–15</a>; <a class=\"bibleref\" href=\"/passage/?search=Judg 5\">Judg. 5</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,65,7" ],
+  "verses" : [ {
+    "verse" : "psalms,65,7",
+    "text" : "who stilled the roaring of the seas, the roaring of their waves, and the turmoil of the nations."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,65,7",
     "id" : 190772,
@@ -52,7 +73,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 65:7\">65:7</a></b> <b>the roaring of their waves.</b> The seas represent chaos and evil (<a class=\"bibleref\" href=\"/passage/?search=Ps 77:16-Ps 77:19\">Ps. 77:16–19</a> and notes), often the chaos and evil of surrounding nations who attack Israel (<a class=\"bibleref\" href=\"/passage/?search=Dan 7\">Dan. 7</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,65,8" ],
+  "verses" : [ {
+    "verse" : "psalms,65,8",
+    "text" : "Those living far away fear your wonders; where morning dawns and evening fades you call forth songs of joy."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,65,8",
     "id" : 190773,
@@ -60,7 +84,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 65:8\">65:8</a></b> <b>dwell at the ends of the earth.</b> A deeper meaning of this verse was brought to light in the coming of Christ and the preaching of the gospel throughout the world.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,65,9", "psalms,65,10", "psalms,65,11", "psalms,65,12", "psalms,65,13" ],
+  "verses" : [ {
+    "verse" : "psalms,65,9",
+    "text" : "You care for the land and water it; you enrich it abundantly. The streams of God are filled with water to provide the people with grain, for so you have ordained it."
+  }, {
+    "verse" : "psalms,65,10",
+    "text" : "You drench its furrows and level its ridges; you soften it with showers and bless its crops."
+  }, {
+    "verse" : "psalms,65,11",
+    "text" : "You crown the year with your bounty, and your carts overflow with abundance."
+  }, {
+    "verse" : "psalms,65,12",
+    "text" : "The grasslands of the desert overflow; the hills are clothed with gladness."
+  }, {
+    "verse" : "psalms,65,13",
+    "text" : "The meadows are covered with flocks and the valleys are mantled with grain; they shout for joy and sing."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,65,9",
     "id" : 190774,

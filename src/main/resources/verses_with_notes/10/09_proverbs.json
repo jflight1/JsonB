@@ -1,5 +1,20 @@
 [ {
-  "singleVerses" : [ "proverbs,24,30", "proverbs,24,31", "proverbs,24,32", "proverbs,24,33", "proverbs,24,34" ],
+  "verses" : [ {
+    "verse" : "proverbs,24,30",
+    "text" : "I went past the field of the sluggard, past the vineyard of the man who lacks judgment;"
+  }, {
+    "verse" : "proverbs,24,31",
+    "text" : "thorns had come up everywhere, the ground was covered with weeds, and the stone wall was in ruins."
+  }, {
+    "verse" : "proverbs,24,32",
+    "text" : "I applied my heart to what I observed and learned a lesson from what I saw:"
+  }, {
+    "verse" : "proverbs,24,33",
+    "text" : "A little sleep, a little slumber, a little folding of the hands to rest-"
+  }, {
+    "verse" : "proverbs,24,34",
+    "text" : "and poverty will come on you like a bandit and scarcity like an armed man."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,24,30-proverbs,24,34",
     "id" : 192226,

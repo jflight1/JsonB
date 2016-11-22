@@ -1,8 +1,20 @@
 [ {
-  "singleVerses" : [ "luke,7,11", "luke,7,12" ],
+  "verses" : [ {
+    "verse" : "luke,7,11",
+    "text" : "Soon afterward, Jesus went to a town called Nain, and his disciples and a large crowd went along with him."
+  }, {
+    "verse" : "luke,7,12",
+    "text" : "As he approached the town gate, a dead person was being carried out--the only son of his mother, and she was a widow. And a large crowd from the town was with her."
+  } ],
   "rsbNotes" : [ ]
 }, {
-  "singleVerses" : [ "luke,7,13", "luke,7,14" ],
+  "verses" : [ {
+    "verse" : "luke,7,13",
+    "text" : "When the Lord saw her, his heart went out to her and he said, \"Don't cry.\""
+  }, {
+    "verse" : "luke,7,14",
+    "text" : "Then he went up and touched the coffin, and those carrying it stood still. He said, \"Young man, I say to you, get up!\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,7,13",
     "id" : 196462,
@@ -10,7 +22,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 7:13\">7:13</a></b> <b>saw her.</b> The mother would have been walking in front of the bier, so Jesus would have met her first. Nobody asked Him to help, but out of compassion He took action.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,7,15" ],
+  "verses" : [ {
+    "verse" : "luke,7,15",
+    "text" : "The dead man sat up and began to talk, and Jesus gave him back to his mother."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,7,15",
     "id" : 196463,
@@ -18,7 +33,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 7:15\">7:15</a></b> The first of Jesus’ three miracles of raising the dead (<a class=\"bibleref\" href=\"/passage/?search=Luke 8:40-Luke 8:56\">8:40–56</a>; <a class=\"bibleref\" href=\"/passage/?search=John 11:1-John 11:44\">John 11:1–44</a>). Such miracles were powerful messianic signs (v. 22). These “resurrections” differ from the resurrection of Christ, however, for these three were reunited with their mortal bodies only to die once more. As the first to be clothed with an imperishable, spiritual body (<a class=\"bibleref\" href=\"/passage/?search=1Cor 15:42-1Cor 15:44\">1 Cor. 15:42–44</a>), Jesus is indeed the “firstborn from the dead” (<a class=\"bibleref\" href=\"/passage/?search=Col 1:18\">Col. 1:18</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=1Cor 15:20\">1 Cor. 15:20</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,7,16", "luke,7,17" ],
+  "verses" : [ {
+    "verse" : "luke,7,16",
+    "text" : "They were all filled with awe and praised God. \"A great prophet has appeared among us,\" they said. \"God has come to help his people.\""
+  }, {
+    "verse" : "luke,7,17",
+    "text" : "This news about Jesus spread throughout Judea and the surrounding country."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,7,16",
     "id" : 196464,
@@ -26,7 +47,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 7:16\">7:16</a></b> <b>A great prophet.</b> Inadequate, but probably the highest title they knew. They recognized the presence of God’s power among them.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,7,18", "luke,7,19", "luke,7,20" ],
+  "verses" : [ {
+    "verse" : "luke,7,18",
+    "text" : "John's disciples told him about all these things. Calling two of them,"
+  }, {
+    "verse" : "luke,7,19",
+    "text" : "he sent them to the Lord to ask, \"Are you the one who was to come, or should we expect someone else?\""
+  }, {
+    "verse" : "luke,7,20",
+    "text" : "When the men came to Jesus, they said, \"John the Baptist sent us to you to ask, 'Are you the one who was to come, or should we expect someone else?'\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,7,18-luke,7,19",
     "id" : 196465,
@@ -34,7 +64,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 7:18\">7:18</a>, <a class=\"bibleref\" href=\"/passage/?search=Luke 7:19\">19</a></b> John had borne witness to Jesus (<a class=\"bibleref\" href=\"/passage/?search=Luke 3:16-Luke 3:17\">3:16–17</a>), so questions like these are unexpected. Some think his faith had failed in the harsh conditions of Herod’s prison, others that his patience had given out and he was suggesting that Jesus should actively bring in the kingdom. More probably he looked for Jesus to bring judgment, a note that John had stressed in his own ministry. He could not understand why Jesus did not punish sinners, but constantly performed deeds of mercy. Would somebody else come to carry out the threats of judgment?</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,7,21", "luke,7,22", "luke,7,23" ],
+  "verses" : [ {
+    "verse" : "luke,7,21",
+    "text" : "At that very time Jesus cured many who had diseases, sicknesses and evil spirits, and gave sight to many who were blind."
+  }, {
+    "verse" : "luke,7,22",
+    "text" : "So he replied to the messengers, \"Go back and report to John what you have seen and heard: The blind receive sight, the lame walk, those who have leprosy are cured, the deaf hear, the dead are raised, and the good news is preached to the poor."
+  }, {
+    "verse" : "luke,7,23",
+    "text" : "Blessed is the man who does not fall away on account of me.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,7,21-luke,7,23",
     "id" : 196466,
@@ -42,7 +81,31 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 7:21-Luke 7:23\">7:21–23</a></b> See <a class=\"bibleref\" href=\"/passage/?search=Isa 35:5\">Is. 35:5</a>, <a class=\"bibleref\" href=\"/passage/?search=Isa 35:6\">6</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 61:1\">61:1</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,7,24", "luke,7,25", "luke,7,26", "luke,7,27", "luke,7,28", "luke,7,29", "luke,7,30", "luke,7,31" ],
+  "verses" : [ {
+    "verse" : "luke,7,24",
+    "text" : "After John's messengers left, Jesus began to speak to the crowd about John: \"What did you go out into the desert to see? A reed swayed by the wind?"
+  }, {
+    "verse" : "luke,7,25",
+    "text" : "If not, what did you go out to see? A man dressed in fine clothes? No, those who wear expensive clothes and indulge in luxury are in palaces."
+  }, {
+    "verse" : "luke,7,26",
+    "text" : "But what did you go out to see? A prophet? Yes, I tell you, and more than a prophet."
+  }, {
+    "verse" : "luke,7,27",
+    "text" : "This is the one about whom it is written: \"'I will send my messenger ahead of you, who will prepare your way before you.'"
+  }, {
+    "verse" : "luke,7,28",
+    "text" : "I tell you, among those born of women there is no one greater than John; yet the one who is least in the kingdom of God is greater than he.\""
+  }, {
+    "verse" : "luke,7,29",
+    "text" : "(All the people, even the tax collectors, when they heard Jesus' words, acknowledged that God's way was right, because they had been baptized by John."
+  }, {
+    "verse" : "luke,7,30",
+    "text" : "But the Pharisees and experts in the law rejected God's purpose for themselves, because they had not been baptized by John.)"
+  }, {
+    "verse" : "luke,7,31",
+    "text" : "\"To what, then, can I compare the people of this generation? What are they like?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,7,24-luke,7,28",
     "id" : 196467,
@@ -50,7 +113,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 7:24-Luke 7:28\">7:24–28</a></b> Jesus praises John as the greatest of men, cast in the mold of the prophets of Israel and unmoved by expediency or luxury. Yet as a prophet he belonged to an era that was being withdrawn as the kingdom of God was introduced. In this sense he was less than those who were in the kingdom.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,7,32", "luke,7,33", "luke,7,34", "luke,7,35" ],
+  "verses" : [ {
+    "verse" : "luke,7,32",
+    "text" : "They are like children sitting in the marketplace and calling out to each other: \"'We played the flute for you, and you did not dance; we sang a dirge, and you did not cry.'"
+  }, {
+    "verse" : "luke,7,33",
+    "text" : "For John the Baptist came neither eating bread nor drinking wine, and you say, 'He has a demon.'"
+  }, {
+    "verse" : "luke,7,34",
+    "text" : "The Son of Man came eating and drinking, and you say, 'Here is a glutton and a drunkard, a friend of tax collectors and \"sinners.\"'"
+  }, {
+    "verse" : "luke,7,35",
+    "text" : "But wisdom is proved right by all her children.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,7,32",
     "id" : 196468,

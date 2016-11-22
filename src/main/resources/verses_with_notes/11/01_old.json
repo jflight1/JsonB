@@ -1,5 +1,14 @@
 [ {
-  "singleVerses" : [ "ezekiel,1,1", "ezekiel,1,2", "ezekiel,1,3" ],
+  "verses" : [ {
+    "verse" : "ezekiel,1,1",
+    "text" : "In the thirtieth year, in the fourth month on the fifth day, while I was among the exiles by the Kebar River, the heavens were opened and I saw visions of God."
+  }, {
+    "verse" : "ezekiel,1,2",
+    "text" : "On the fifth of the month-it was the fifth year of the exile of King Jehoiachin-"
+  }, {
+    "verse" : "ezekiel,1,3",
+    "text" : "the word of the LORD came to Ezekiel the priest, the son of Buzi, by the Kebar River in the land of the Babylonians. There the hand of the LORD was upon him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,1,1",
     "id" : 194168,
@@ -7,7 +16,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 1:1\">1:1</a></b> <b>thirtieth year.</b> July, 593 <span class=\"small-caps\">b.c.</span> The book appears to have a double superscription, one in the first person (<a class=\"bibleref\" href=\"/passage/?search=Ezek 1:1\">v. 1</a>) and the other in the third (<a class=\"bibleref\" href=\"/passage/?search=Ezek 1:2-Ezek 1:3\">vv. 2–3</a>). The dates in the Book of Ezekiel are normally calculated from the year of the captivity of Jehoiachin (cf. <a class=\"bibleref\" href=\"/passage/?search=Ezek 40:1\">40:1</a>). But the first date in the book specifies a “thirtieth” year (<a class=\"bibleref\" href=\"/passage/?search=Ezek 40:1\">v. 1</a>) and immediately refers to the “fifth year” (<a class=\"bibleref\" href=\"/passage/?search=Ezek 40:2\">v. 2</a>) of Jehoiachin. Probably the “thirtieth” year is Ezekiel’s age at the time of his prophetic call, coinciding with the “fifth” year of Jehoiachin. A candidate for the priesthood ordinarily assumed the full responsibilities of the office at age thirty (<a class=\"bibleref\" href=\"/passage/?search=Num 4:3\">Num. 4:3</a>). Instead of achieving this important goal, Ezekiel was living in exile far from the temple in Jerusalem, unable to fulfill his calling as a priest.</p><p><b>Chebar canal.</b> The Jews living outside their homeland commonly established places of worship along streams of water (<a class=\"bibleref\" href=\"/passage/?search=Ps 137:1\">Ps. 137:1</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 16:13\">Acts 16:13</a>). Two cuneiform texts from Nippur mention a <i>naru kabari</i> (meaning “Great River”) that is probably the Chebar; it was a large irrigation canal that brought water from the Euphrates below Babylon.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,1,4" ],
+  "verses" : [ {
+    "verse" : "ezekiel,1,4",
+    "text" : "I looked, and I saw a windstorm coming out of the north-an immense cloud with flashing lightning and surrounded by brilliant light. The center of the fire looked like glowing metal,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,1,4-ezekiel,3,15",
     "id" : 194169,
@@ -20,7 +32,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 1:4\">1:4</a></b> <b>stormy wind.</b> For the whirlwind or storm as a mode of theophany, see <a class=\"bibleref\" href=\"/passage/?search=2Kgs 2:1\">2 Kin. 2:1</a>, <a class=\"bibleref\" href=\"/passage/?search=2Kgs 2:11\">11</a>; <a class=\"bibleref\" href=\"/passage/?search=Job 38:1\">Job 38:1</a>; <a class=\"bibleref\" href=\"/passage/?search=Job 40:6\">40:6</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 77:18\">Ps. 77:18</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 83:15\">83:15</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 148:8\">148:8</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 29:6\">Is. 29:6</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 66:15\">66:15</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 4:13\">Jer. 4:13</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 23:19\">23:19</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 30:23\">30:23</a>; <a class=\"bibleref\" href=\"/passage/?search=Nah 1:3\">Nah. 1:3</a>; <a class=\"bibleref\" href=\"/passage/?search=Zech 9:14\">Zech. 9:14</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,1,5", "ezekiel,1,6", "ezekiel,1,7", "ezekiel,1,8", "ezekiel,1,9" ],
+  "verses" : [ {
+    "verse" : "ezekiel,1,5",
+    "text" : "and in the fire was what looked like four living creatures. In appearance their form was that of a man,"
+  }, {
+    "verse" : "ezekiel,1,6",
+    "text" : "but each of them had four faces and four wings."
+  }, {
+    "verse" : "ezekiel,1,7",
+    "text" : "Their legs were straight; their feet were like those of a calf and gleamed like burnished bronze."
+  }, {
+    "verse" : "ezekiel,1,8",
+    "text" : "Under their wings on their four sides they had the hands of a man. All four of them had faces and wings,"
+  }, {
+    "verse" : "ezekiel,1,9",
+    "text" : "and their wings touched one another. Each one went straight ahead; they did not turn as they moved."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,1,5",
     "id" : 194171,
@@ -28,7 +55,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 1:5\">1:5</a></b> When these “living creatures” appear again they are identified as “cherubim” (<a class=\"bibleref\" href=\"/passage/?search=Ezek 10:1\">10:1</a>, <a class=\"bibleref\" href=\"/passage/?search=Ezek 10:15\">15</a>, <a class=\"bibleref\" href=\"/passage/?search=Ezek 10:16\">16</a>, <a class=\"bibleref\" href=\"/passage/?search=Ezek 10:20\">20</a>). There are points of similarity with the seraphim that attend God in Isaiah’s call (<a class=\"bibleref\" href=\"/passage/?search=Isa 6:2\">Is. 6:2</a>, <a class=\"bibleref\" href=\"/passage/?search=Isa 6:3\">3</a>), and with John’s vision of the divine throne (<a class=\"bibleref\" href=\"/passage/?search=Rev 4:6-Rev 4:9\">Rev. 4:6–9</a>). Their wings “touched one another” (v. 9) like the wings of the cherubim over the ark in the Most Holy Place of the temple (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 6:27\">1 Kin. 6:27</a>; <a class=\"bibleref\" href=\"/passage/?search=2Chr 3:11-2Chr 3:12\">2 Chr. 3:11–12</a>). Chronicles describes the ark as the divine chariot (<a class=\"bibleref\" href=\"/passage/?search=1Chr 28:18\">1 Chr. 28:18</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,1,10", "ezekiel,1,11", "ezekiel,1,12" ],
+  "verses" : [ {
+    "verse" : "ezekiel,1,10",
+    "text" : "Their faces looked like this: Each of the four had the face of a man, and on the right side each had the face of a lion, and on the left the face of an ox; each also had the face of an eagle."
+  }, {
+    "verse" : "ezekiel,1,11",
+    "text" : "Such were their faces. Their wings were spread out upward; each had two wings, one touching the wing of another creature on either side, and two wings covering its body."
+  }, {
+    "verse" : "ezekiel,1,12",
+    "text" : "Each one went straight ahead. Wherever the spirit would go, they would go, without turning as they went."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,1,10",
     "id" : 194172,
@@ -36,7 +72,40 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 1:10\">1:10</a></b> <b>faces.</b> The four faces probably represent the heads of four realms of creation. Man is supreme and faces outward. The ox is the head of domestic animals; the lion of wild animals; and the eagle of birds. The creatures apparently were in a square with the human faces looking outward to the four cardinal directions, making the other faces visible from the sides.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,1,13", "ezekiel,1,14", "ezekiel,1,15", "ezekiel,1,16", "ezekiel,1,17", "ezekiel,1,18", "ezekiel,1,19", "ezekiel,1,20", "ezekiel,1,21", "ezekiel,1,22", "ezekiel,1,23" ],
+  "verses" : [ {
+    "verse" : "ezekiel,1,13",
+    "text" : "The appearance of the living creatures was like burning coals of fire or like torches. Fire moved back and forth among the creatures; it was bright, and lightning flashed out of it."
+  }, {
+    "verse" : "ezekiel,1,14",
+    "text" : "The creatures sped back and forth like flashes of lightning."
+  }, {
+    "verse" : "ezekiel,1,15",
+    "text" : "As I looked at the living creatures, I saw a wheel on the ground beside each creature with its four faces."
+  }, {
+    "verse" : "ezekiel,1,16",
+    "text" : "This was the appearance and structure of the wheels: They sparkled like chrysolite, and all four looked alike. Each appeared to be made like a wheel intersecting a wheel."
+  }, {
+    "verse" : "ezekiel,1,17",
+    "text" : "As they moved, they would go in any one of the four directions the creatures faced; the wheels did not turn about as the creatures went."
+  }, {
+    "verse" : "ezekiel,1,18",
+    "text" : "Their rims were high and awesome, and all four rims were full of eyes all around."
+  }, {
+    "verse" : "ezekiel,1,19",
+    "text" : "When the living creatures moved, the wheels beside them moved; and when the living creatures rose from the ground, the wheels also rose."
+  }, {
+    "verse" : "ezekiel,1,20",
+    "text" : "Wherever the spirit would go, they would go, and the wheels would rise along with them, because the spirit of the living creatures was in the wheels."
+  }, {
+    "verse" : "ezekiel,1,21",
+    "text" : "When the creatures moved, they also moved; when the creatures stood still, they also stood still; and when the creatures rose from the ground, the wheels rose along with them, because the spirit of the living creatures was in the wheels."
+  }, {
+    "verse" : "ezekiel,1,22",
+    "text" : "Spread out above the heads of the living creatures was what looked like an expanse, sparkling like ice, and awesome."
+  }, {
+    "verse" : "ezekiel,1,23",
+    "text" : "Under the expanse their wings were stretched out one toward the other, and each had two wings covering its body."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,1,13-ezekiel,1,14",
     "id" : 194173,
@@ -44,7 +113,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 1:13\">1:13</a>, <a class=\"bibleref\" href=\"/passage/?search=Ezek 1:14\">14</a> coals of fire . . . torches . . . lightning.</b> Fire is a regular component of the theophanies (manifestations or appearances of God) in the Old Testament (<a class=\"bibleref\" href=\"/passage/?search=Gen 15:17\">Gen. 15:17</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 3:2\">Ex. 3:2</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 13:21\">13:21</a>, <a class=\"bibleref\" href=\"/passage/?search=Exod 13:22\">22</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 14:24\">14:24</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 19:18\">19:18</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 24:17\">24:17</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 11:1\">Num. 11:1</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 1:33\">Deut. 1:33</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 4:11\">4:11</a>, <a class=\"bibleref\" href=\"/passage/?search=Deut 4:12\">12</a>, <a class=\"bibleref\" href=\"/passage/?search=Deut 4:24\">24</a>, <a class=\"bibleref\" href=\"/passage/?search=Deut 4:33\">33</a>, <a class=\"bibleref\" href=\"/passage/?search=Deut 4:36\">36</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 5:22-Deut 5:26\">5:22–26</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 9:3\">9:3</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 18:8\">Ps. 18:8</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 78:14\">78:14</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 78:21\">21</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,1,24", "ezekiel,1,25", "ezekiel,1,26" ],
+  "verses" : [ {
+    "verse" : "ezekiel,1,24",
+    "text" : "When the creatures moved, I heard the sound of their wings, like the roar of rushing waters, like the voice of the Almighty, like the tumult of an army. When they stood still, they lowered their wings."
+  }, {
+    "verse" : "ezekiel,1,25",
+    "text" : "Then there came a voice from above the expanse over their heads as they stood with lowered wings."
+  }, {
+    "verse" : "ezekiel,1,26",
+    "text" : "Above the expanse over their heads was what looked like a throne of sapphire, and high above on the throne was a figure like that of a man."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,1,24",
     "id" : 194174,
@@ -52,7 +130,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 1:24\">1:24</a></b> <b>sound.</b> A distinctive loud sound accompanies theophanies involving the divine army (<a class=\"bibleref\" href=\"/passage/?search=2Sam 5:24\">2 Sam. 5:24</a>; <a class=\"bibleref\" href=\"/passage/?search=2Kgs 7:6\">2 Kin. 7:6</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 13:4\">Is. 13:4</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 66:6\">66:6</a>; <a class=\"bibleref\" href=\"/passage/?search=Joel 2:5\">Joel 2:5</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Gen 3:8\">Gen. 3:8</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 19:19\">Ex. 19:19</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 6:4\">Is. 6:4</a>). See particularly 3:12, 13; 10:5.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,1,27" ],
+  "verses" : [ {
+    "verse" : "ezekiel,1,27",
+    "text" : "I saw that from what appeared to be his waist up he looked like glowing metal, as if full of fire, and that from there down he looked like fire; and brilliant light surrounded him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,1,27",
     "id" : 194175,
@@ -60,7 +141,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 1:27\">1:27</a></b> <b>brightness.</b> The light radiating from the divine presence is overwhelming (<a class=\"bibleref\" href=\"/passage/?search=Dan 7:9\">Dan. 7:9</a>), for God dwells “in unapproachable light” (<a class=\"bibleref\" href=\"/passage/?search=1Tim 6:16\">1 Tim. 6:16</a>). No one has seen God, and Ezekiel does not dare to describe Him. He can speak only of “the appearance of the likeness of the glory” of the Lord (1:28), a way of speaking essentially three steps removed from a direct description of God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,1,28" ],
+  "verses" : [ {
+    "verse" : "ezekiel,1,28",
+    "text" : "Like the appearance of a rainbow in the clouds on a rainy day, so was the radiance around him. This was the appearance of the likeness of the glory of the LORD. When I saw it, I fell facedown, and I heard the voice of one speaking."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,1,28",
     "id" : 194176,
@@ -68,7 +152,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 1:28\">1:28</a></b> <b>bow.</b> The rainbow not only reflects the splendor around God but testifies to His dominion over the sea and His promise to Noah (<a class=\"bibleref\" href=\"/passage/?search=Gen 9:16\">Gen. 9:16</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 9:17\">17</a>). See theological note “The Glory of God” on page 1148.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,2,1" ],
+  "verses" : [ {
+    "verse" : "ezekiel,2,1",
+    "text" : "He said to me, \"Son of man, stand up on your feet and I will speak to you.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,2,1-ezekiel,2,8",
     "id" : 194177,
@@ -81,7 +168,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 2:1\">2:1</a></b> <b>Son of man.</b> God addresses Ezekiel this way more than ninety times in this book. The phrase means “person, human being” and emphasizes the humanity and frailty of the prophet, all the more when it stands in such proximity to a vision of God’s glory. This use of the phrase in Ezekiel should be distinguished from its use in the Gospels as the favorite self-designation of Jesus. Jesus uses the phrase to designate Himself as the “Son of Man” known from <a class=\"bibleref\" href=\"/passage/?search=Dan 7:13\">Dan. 7:13</a>, <a class=\"bibleref\" href=\"/passage/?search=Dan 7:14\">14</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,2,2", "ezekiel,2,3", "ezekiel,2,4", "ezekiel,2,5" ],
+  "verses" : [ {
+    "verse" : "ezekiel,2,2",
+    "text" : "As he spoke, the Spirit came into me and raised me to my feet, and I heard him speaking to me."
+  }, {
+    "verse" : "ezekiel,2,3",
+    "text" : "He said: \"Son of man, I am sending you to the Israelites, to a rebellious nation that has rebelled against me; they and their fathers have been in revolt against me to this very day."
+  }, {
+    "verse" : "ezekiel,2,4",
+    "text" : "The people to whom I am sending you are obstinate and stubborn. Say to them, 'This is what the Sovereign LORD says.'"
+  }, {
+    "verse" : "ezekiel,2,5",
+    "text" : "And whether they listen or fail to listen-for they are a rebellious house-they will know that a prophet has been among them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,2,2",
     "id" : 194179,
@@ -89,7 +188,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 2:2\">2:2</a></b> <b>Spirit.</b> In the Old Testament the Spirit of God is preeminently the Spirit of prophecy, the Spirit who makes the prophet a channel of revelation (<a class=\"bibleref\" href=\"/passage/?search=Num 11:25\">Num. 11:25</a>, <a class=\"bibleref\" href=\"/passage/?search=Num 11:26\">26</a>, <a class=\"bibleref\" href=\"/passage/?search=Num 11:29\">29</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 10:6\">1 Sam. 10:6</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 19:20\">19:20</a>; <a class=\"bibleref\" href=\"/passage/?search=Joel 2:28\">Joel 2:28</a>; <a class=\"bibleref\" href=\"/passage/?search=Zech 7:12\">Zech. 7:12</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,2,6", "ezekiel,2,7", "ezekiel,2,8" ],
+  "verses" : [ {
+    "verse" : "ezekiel,2,6",
+    "text" : "And you, son of man, do not be afraid of them or their words. Do not be afraid, though briers and thorns are all around you and you live among scorpions. Do not be afraid of what they say or terrified by them, though they are a rebellious house."
+  }, {
+    "verse" : "ezekiel,2,7",
+    "text" : "You must speak my words to them, whether they listen or fail to listen, for they are rebellious."
+  }, {
+    "verse" : "ezekiel,2,8",
+    "text" : "But you, son of man, listen to what I say to you. Do not rebel like that rebellious house; open your mouth and eat what I give you.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,2,6",
     "id" : 194180,
@@ -97,7 +205,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 2:6\">2:6</a></b> <b>briers . . . thorns . . . scorpions.</b> These metaphors refer to those who are going to persecute Ezekiel for bringing an unpopular message from God (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 18:4\">1 Kin. 18:4</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 20:7-Jer 20:18\">Jer. 20:7–18</a>; <a class=\"bibleref\" href=\"/passage/?search=Matt 23:29-Matt 23:31\">Matt. 23:29–31</a>, <a class=\"bibleref\" href=\"/passage/?search=Matt 23:34\">34</a>, <a class=\"bibleref\" href=\"/passage/?search=Matt 23:37\">37</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,2,9" ],
+  "verses" : [ {
+    "verse" : "ezekiel,2,9",
+    "text" : "Then I looked, and I saw a hand stretched out to me. In it was a scroll,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,2,9-ezekiel,3,3",
     "id" : 194181,
@@ -105,7 +216,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 2:9-Ezek 3:3\">2:9–3:3</a></b> In other accounts of the prophetic call, once the commission is given God often provides a sign to confirm it (<a class=\"bibleref\" href=\"/passage/?search=Exod 3:12\">Ex. 3:12</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 1:11-Jer 1:14\">Jer. 1:11–14</a>). Moses had said that God would put His word into the mouths of the prophets (<a class=\"bibleref\" href=\"/passage/?search=Deut 18:18\">Deut. 18:18</a>), and here that is seen in a graphic way. What food is to the body, so the word of God would be for Ezekiel’s ministry.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,2,10", "ezekiel,3,1", "ezekiel,3,2", "ezekiel,3,3", "ezekiel,3,4", "ezekiel,3,5", "ezekiel,3,6" ],
+  "verses" : [ {
+    "verse" : "ezekiel,2,10",
+    "text" : "which he unrolled before me. On both sides of it were written words of lament and mourning and woe."
+  }, {
+    "verse" : "ezekiel,3,1",
+    "text" : "And he said to me, \"Son of man, eat what is before you, eat this scroll; then go and speak to the house of Israel.\""
+  }, {
+    "verse" : "ezekiel,3,2",
+    "text" : "So I opened my mouth, and he gave me the scroll to eat."
+  }, {
+    "verse" : "ezekiel,3,3",
+    "text" : "Then he said to me, \"Son of man, eat this scroll I am giving you and fill your stomach with it.\" So I ate it, and it tasted as sweet as honey in my mouth."
+  }, {
+    "verse" : "ezekiel,3,4",
+    "text" : "He then said to me: \"Son of man, go now to the house of Israel and speak my words to them."
+  }, {
+    "verse" : "ezekiel,3,5",
+    "text" : "You are not being sent to a people of obscure speech and difficult language, but to the house of Israel-"
+  }, {
+    "verse" : "ezekiel,3,6",
+    "text" : "not to many peoples of obscure speech and difficult language, whose words you cannot understand. Surely if I had sent you to them, they would have listened to you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,2,10",
     "id" : 194182,
@@ -113,7 +245,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 2:10\">2:10</a></b> <b>front . . . back.</b> Scrolls were ordinarily written only on one side, but see also <a class=\"bibleref\" href=\"/passage/?search=Zech 5:3\">Zech. 5:3</a>; <a class=\"bibleref\" href=\"/passage/?search=Rev 5:1\">Rev. 5:1</a>.</p><p><b>lamentation and mourning and woe.</b> Most of the first half of the Book of Ezekiel is oracles of judgment against Judah (chs. 1–24) and foreign nations (chs. 25–32).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,3,7" ],
+  "verses" : [ {
+    "verse" : "ezekiel,3,7",
+    "text" : "But the house of Israel is not willing to listen to you because they are not willing to listen to me, for the whole house of Israel is hardened and obstinate."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,3,7",
     "id" : 194183,
@@ -121,7 +256,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 3:7\">3:7</a></b> <b>to you . . . to me.</b> The Lord identifies His messengers with Himself (cf. <a class=\"bibleref\" href=\"/passage/?search=Luke 10:16\">Luke 10:16</a>; <a class=\"bibleref\" href=\"/passage/?search=John 13:20\">John 13:20</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,3,8", "ezekiel,3,9", "ezekiel,3,10", "ezekiel,3,11" ],
+  "verses" : [ {
+    "verse" : "ezekiel,3,8",
+    "text" : "But I will make you as unyielding and hardened as they are."
+  }, {
+    "verse" : "ezekiel,3,9",
+    "text" : "I will make your forehead like the hardest stone, harder than flint. Do not be afraid of them or terrified by them, though they are a rebellious house.\""
+  }, {
+    "verse" : "ezekiel,3,10",
+    "text" : "And he said to me, \"Son of man, listen carefully and take to heart all the words I speak to you."
+  }, {
+    "verse" : "ezekiel,3,11",
+    "text" : "Go now to your countrymen in exile and speak to them. Say to them, 'This is what the Sovereign LORD says,' whether they listen or fail to listen.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,3,8",
     "id" : 194184,
@@ -129,7 +276,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 3:8\">3:8</a></b> <b>made your face as hard.</b> Ezekiel’s name in Hebrew means “God makes strong, hardens.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,3,12", "ezekiel,3,13", "ezekiel,3,14" ],
+  "verses" : [ {
+    "verse" : "ezekiel,3,12",
+    "text" : "Then the Spirit lifted me up, and I heard behind me a loud rumbling sound-May the glory of the LORD be praised in his dwelling place!-"
+  }, {
+    "verse" : "ezekiel,3,13",
+    "text" : "the sound of the wings of the living creatures brushing against each other and the sound of the wheels beside them, a loud rumbling sound."
+  }, {
+    "verse" : "ezekiel,3,14",
+    "text" : "The Spirit then lifted me up and took me away, and I went in bitterness and in the anger of my spirit, with the strong hand of the LORD upon me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,3,12",
     "id" : 194185,
@@ -137,7 +293,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 3:12\">3:12</a></b> <b>Spirit lifted me up.</b> Ezekiel more than once describes his visionary experiences in terms of transport by the Spirit (<a class=\"bibleref\" href=\"/passage/?search=Ezek 3:12\">3:12</a>, <a class=\"bibleref\" href=\"/passage/?search=Ezek 3:14\">14</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 8:3\">8:3</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 11:1\">11:1</a>, <a class=\"bibleref\" href=\"/passage/?search=Ezek 11:24\">24</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 40:1-Ezek 40:3\">40:1–3</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 43:5\">43:5</a>). See <a class=\"bibleref\" href=\"/passage/?search=2Kgs 2:11\">2 Kin. 2:11</a>, <a class=\"bibleref\" href=\"/passage/?search=2Kgs 2:16\">16</a>; <a class=\"bibleref\" href=\"/passage/?search=2Cor 12:1\">2 Cor. 12:1</a>, <a class=\"bibleref\" href=\"/passage/?search=2Cor 12:2\">2</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,3,15" ],
+  "verses" : [ {
+    "verse" : "ezekiel,3,15",
+    "text" : "I came to the exiles who lived at Tel Abib near the Kebar River. And there, where they were living, I sat among them for seven days-overwhelmed."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,3,15",
     "id" : 194186,

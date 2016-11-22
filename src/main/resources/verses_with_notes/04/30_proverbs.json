@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,14,13" ],
+  "verses" : [ {
+    "verse" : "proverbs,14,13",
+    "text" : "Even in laughter the heart may ache, and joy may end in grief."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 14:13\">14:13</a></b> Cf. <a class=\"bibleref\" href=\"/passage/?search=Prov 14:10\">v. 10</a> and note. Outward joy and hidden grief may coexist, but grief may be the truth to be faced in the end.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,14,14" ],
+  "verses" : [ {
+    "verse" : "proverbs,14,14",
+    "text" : "The faithless will be fully repaid for their ways, and the good man rewarded for his."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,14,14",
     "id" : 191955,

@@ -1,5 +1,17 @@
 [ {
-  "singleVerses" : [ "jeremiah,37,1", "jeremiah,37,2", "jeremiah,37,3", "jeremiah,37,4" ],
+  "verses" : [ {
+    "verse" : "jeremiah,37,1",
+    "text" : "Zedekiah son of Josiah was made king of Judah by Nebuchadnezzar king of Babylon; he reigned in place of Jehoiachin son of Jehoiakim."
+  }, {
+    "verse" : "jeremiah,37,2",
+    "text" : "Neither he nor his attendants nor the people of the land paid any attention to the words the LORD had spoken through Jeremiah the prophet."
+  }, {
+    "verse" : "jeremiah,37,3",
+    "text" : "King Zedekiah, however, sent Jehucal son of Shelemiah with the priest Zephaniah son of Maaseiah to Jeremiah the prophet with this message: \"Please pray to the LORD our God for us.\""
+  }, {
+    "verse" : "jeremiah,37,4",
+    "text" : "Now Jeremiah was free to come and go among the people, for he had not yet been put in prison."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,37,1-jeremiah,39,18",
     "id" : 193929,
@@ -12,7 +24,37 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 37:1\">37:1</a></b> <b>Zedekiah . . . reigned instead of Coniah.</b> See <a class=\"bibleref\" href=\"/passage/?search=2Kgs 24:17-2Kgs 24:18\">2 Kin. 24:17–18</a>. The year was 597 <span class=\"small-caps\">b.c.</span></p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,37,5", "jeremiah,37,6", "jeremiah,37,7", "jeremiah,37,8", "jeremiah,37,9", "jeremiah,37,10", "jeremiah,37,11", "jeremiah,37,12", "jeremiah,37,13", "jeremiah,37,14" ],
+  "verses" : [ {
+    "verse" : "jeremiah,37,5",
+    "text" : "Pharaoh's army had marched out of Egypt, and when the Babylonians who were besieging Jerusalem heard the report about them, they withdrew from Jerusalem."
+  }, {
+    "verse" : "jeremiah,37,6",
+    "text" : "Then the word of the LORD came to Jeremiah the prophet:"
+  }, {
+    "verse" : "jeremiah,37,7",
+    "text" : "\"This is what the LORD, the God of Israel, says: Tell the king of Judah, who sent you to inquire of me, 'Pharaoh's army, which has marched out to support you, will go back to its own land, to Egypt."
+  }, {
+    "verse" : "jeremiah,37,8",
+    "text" : "Then the Babylonians will return and attack this city; they will capture it and burn it down.'"
+  }, {
+    "verse" : "jeremiah,37,9",
+    "text" : "\"This is what the LORD says: Do not deceive yourselves, thinking, 'The Babylonians will surely leave us.' They will not!"
+  }, {
+    "verse" : "jeremiah,37,10",
+    "text" : "Even if you were to defeat the entire Babylonian army that is attacking you and only wounded men were left in their tents, they would come out and burn this city down.\""
+  }, {
+    "verse" : "jeremiah,37,11",
+    "text" : "After the Babylonian army had withdrawn from Jerusalem because of Pharaoh's army,"
+  }, {
+    "verse" : "jeremiah,37,12",
+    "text" : "Jeremiah started to leave the city to go to the territory of Benjamin to get his share of the property among the people there."
+  }, {
+    "verse" : "jeremiah,37,13",
+    "text" : "But when he reached the Benjamin Gate, the captain of the guard, whose name was Irijah son of Shelemiah, the son of Hananiah, arrested him and said, \"You are deserting to the Babylonians!\""
+  }, {
+    "verse" : "jeremiah,37,14",
+    "text" : "\"That's not true!\" Jeremiah said. \"I am not deserting to the Babylonians.\" But Irijah would not listen to him; instead, he arrested Jeremiah and brought him to the officials."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,37,5",
     "id" : 193931,
@@ -20,7 +62,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 37:5\">37:5</a></b> <b>Egypt . . . Chaldeans.</b> See <a class=\"bibleref\" href=\"/passage/?search=Jer 34:10\">34:10</a>, <a class=\"bibleref\" href=\"/passage/?search=Jer 34:11\">11</a>. Egypt and Babylon were in contention for the region. Many in Judah were looking to Egypt for support (<a class=\"bibleref\" href=\"/passage/?search=Jer 24:8\">24:8</a>); the Babylonians would have withdrawn to counter the Egyptian advance.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,37,15", "jeremiah,37,16", "jeremiah,37,17", "jeremiah,37,18", "jeremiah,37,19", "jeremiah,37,20" ],
+  "verses" : [ {
+    "verse" : "jeremiah,37,15",
+    "text" : "They were angry with Jeremiah and had him beaten and imprisoned in the house of Jonathan the secretary, which they had made into a prison."
+  }, {
+    "verse" : "jeremiah,37,16",
+    "text" : "Jeremiah was put into a vaulted cell in a dungeon, where he remained a long time."
+  }, {
+    "verse" : "jeremiah,37,17",
+    "text" : "Then King Zedekiah sent for him and had him brought to the palace, where he asked him privately, \"Is there any word from the LORD?Yes,\" Jeremiah replied, \"you will be handed over to the king of Babylon.\""
+  }, {
+    "verse" : "jeremiah,37,18",
+    "text" : "Then Jeremiah said to King Zedekiah, \"What crime have I committed against you or your officials or this people, that you have put me in prison?"
+  }, {
+    "verse" : "jeremiah,37,19",
+    "text" : "Where are your prophets who prophesied to you, 'The king of Babylon will not attack you or this land'?"
+  }, {
+    "verse" : "jeremiah,37,20",
+    "text" : "But now, my lord the king, please listen. Let me bring my petition before you: Do not send me back to the house of Jonathan the secretary, or I will die there.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,37,15",
     "id" : 193932,
@@ -28,7 +88,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 37:15\">37:15</a></b> <b>they beat him.</b> This is the second mention of such punishment (<a class=\"bibleref\" href=\"/passage/?search=Jer 20:2\">20:2</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,37,21", "jeremiah,38,1", "jeremiah,38,2", "jeremiah,38,3", "jeremiah,38,4", "jeremiah,38,5" ],
+  "verses" : [ {
+    "verse" : "jeremiah,37,21",
+    "text" : "King Zedekiah then gave orders for Jeremiah to be placed in the courtyard of the guard and given bread from the street of the bakers each day until all the bread in the city was gone. So Jeremiah remained in the courtyard of the guard."
+  }, {
+    "verse" : "jeremiah,38,1",
+    "text" : "Shephatiah son of Mattan, Gedaliah son of Pashhur, Jehucal son of Shelemiah, and Pashhur son of Malkijah heard what Jeremiah was telling all the people when he said,"
+  }, {
+    "verse" : "jeremiah,38,2",
+    "text" : "\"This is what the LORD says: 'Whoever stays in this city will die by the sword, famine or plague, but whoever goes over to the Babylonians will live. He will escape with his life; he will live.'"
+  }, {
+    "verse" : "jeremiah,38,3",
+    "text" : "And this is what the LORD says: 'This city will certainly be handed over to the army of the king of Babylon, who will capture it.'\""
+  }, {
+    "verse" : "jeremiah,38,4",
+    "text" : "Then the officials said to the king, \"This man should be put to death. He is discouraging the soldiers who are left in this city, as well as all the people, by the things he is saying to them. This man is not seeking the good of these people but their ruin.\""
+  }, {
+    "verse" : "jeremiah,38,5",
+    "text" : "\"He is in your hands,\" King Zedekiah answered. \"The king can do nothing to oppose you.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,37,21",
     "id" : 193933,
@@ -36,7 +114,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 37:21\">37:21</a></b> <b>the court of the guard.</b> The court was less severe than the “dungeon” (<a class=\"bibleref\" href=\"/passage/?search=Jer 37:16\">v. 16</a>; see <a class=\"bibleref\" href=\"/passage/?search=Jer 32:2\">32:2</a>). Zedekiah here shows a measure of respect for God’s prophet.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,38,6" ],
+  "verses" : [ {
+    "verse" : "jeremiah,38,6",
+    "text" : "So they took Jeremiah and put him into the cistern of Malkijah, the king's son, which was in the courtyard of the guard. They lowered Jeremiah by ropes into the cistern; it had no water in it, only mud, and Jeremiah sank down into the mud."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,38,6",
     "id" : 193934,
@@ -44,7 +125,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 38:6\">38:6</a></b> <b>cistern.</b> This was likely a deep pit with only a small opening in the top. Whether it was empty from water shortage or disuse is not clear. They may have hoped Jeremiah would die there.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,38,7", "jeremiah,38,8", "jeremiah,38,9", "jeremiah,38,10", "jeremiah,38,11" ],
+  "verses" : [ {
+    "verse" : "jeremiah,38,7",
+    "text" : "But Ebed-Melech, a Cushite, an official in the royal palace, heard that they had put Jeremiah into the cistern. While the king was sitting in the Benjamin Gate,"
+  }, {
+    "verse" : "jeremiah,38,8",
+    "text" : "Ebed-Melech went out of the palace and said to him,"
+  }, {
+    "verse" : "jeremiah,38,9",
+    "text" : "\"My lord the king, these men have acted wickedly in all they have done to Jeremiah the prophet. They have thrown him into a cistern, where he will starve to death when there is no longer any bread in the city.\""
+  }, {
+    "verse" : "jeremiah,38,10",
+    "text" : "Then the king commanded Ebed-Melech the Cushite, \"Take thirty men from here with you and lift Jeremiah the prophet out of the cistern before he dies.\""
+  }, {
+    "verse" : "jeremiah,38,11",
+    "text" : "So Ebed-Melech took the men with him and went to a room under the treasury in the palace. He took some old rags and worn-out clothes from there and let them down with ropes to Jeremiah in the cistern."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,38,7",
     "id" : 193935,
@@ -52,7 +148,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 38:7\">38:7</a></b> <b>Ebed-melech.</b> The name means “king’s servant” and he would have held a position of responsibility in Zedekiah’s household.</p><p><b>king was sitting in the Benjamin Gate.</b> Probably he was hearing civil suits (<a class=\"bibleref\" href=\"/passage/?search=2Sam 15:2-2Sam 15:4\">2 Sam. 15:2–4</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,38,12", "jeremiah,38,13" ],
+  "verses" : [ {
+    "verse" : "jeremiah,38,12",
+    "text" : "Ebed-Melech the Cushite said to Jeremiah, \"Put these old rags and worn-out clothes under your arms to pad the ropes.\" Jeremiah did so,"
+  }, {
+    "verse" : "jeremiah,38,13",
+    "text" : "and they pulled him up with the ropes and lifted him out of the cistern. And Jeremiah remained in the courtyard of the guard."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,38,12",
     "id" : 193936,
@@ -60,7 +162,31 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 38:12\">38:12</a></b> <b>rags . . . ropes.</b> Here is a touching glimpse of Ebed-melech’s kindness.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,38,14", "jeremiah,38,15", "jeremiah,38,16", "jeremiah,38,17", "jeremiah,38,18", "jeremiah,38,19", "jeremiah,38,20", "jeremiah,38,21" ],
+  "verses" : [ {
+    "verse" : "jeremiah,38,14",
+    "text" : "Then King Zedekiah sent for Jeremiah the prophet and had him brought to the third entrance to the temple of the LORD. \"I am going to ask you something,\" the king said to Jeremiah. \"Do not hide anything from me.\""
+  }, {
+    "verse" : "jeremiah,38,15",
+    "text" : "Jeremiah said to Zedekiah, \"If I give you an answer, will you not kill me? Even if I did give you counsel, you would not listen to me.\""
+  }, {
+    "verse" : "jeremiah,38,16",
+    "text" : "But King Zedekiah swore this oath secretly to Jeremiah: \"As surely as the LORD lives, who has given us breath, I will neither kill you nor hand you over to those who are seeking your life.\""
+  }, {
+    "verse" : "jeremiah,38,17",
+    "text" : "Then Jeremiah said to Zedekiah, \"This is what the LORD God Almighty, the God of Israel, says: 'If you surrender to the officers of the king of Babylon, your life will be spared and this city will not be burned down; you and your family will live."
+  }, {
+    "verse" : "jeremiah,38,18",
+    "text" : "But if you will not surrender to the officers of the king of Babylon, this city will be handed over to the Babylonians and they will burn it down; you yourself will not escape from their hands.'\""
+  }, {
+    "verse" : "jeremiah,38,19",
+    "text" : "King Zedekiah said to Jeremiah, \"I am afraid of the Jews who have gone over to the Babylonians, for the Babylonians may hand me over to them and they will mistreat me.\""
+  }, {
+    "verse" : "jeremiah,38,20",
+    "text" : "\"They will not hand you over,\" Jeremiah replied. \"Obey the LORD by doing what I tell you. Then it will go well with you, and your life will be spared."
+  }, {
+    "verse" : "jeremiah,38,21",
+    "text" : "But if you refuse to surrender, this is what the LORD has revealed to me:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,38,14",
     "id" : 193937,
@@ -68,7 +194,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 38:14\">38:14</a></b> <b>third entrance.</b> This entrance is not mentioned elsewhere, but perhaps was for the private use of the king. The whole encounter breathes secrecy.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,38,22", "jeremiah,38,23", "jeremiah,38,24", "jeremiah,38,25", "jeremiah,38,26", "jeremiah,38,27", "jeremiah,38,28" ],
+  "verses" : [ {
+    "verse" : "jeremiah,38,22",
+    "text" : "All the women left in the palace of the king of Judah will be brought out to the officials of the king of Babylon. Those women will say to you: \"'They misled you and overcame you- those trusted friends of yours. Your feet are sunk in the mud; your friends have deserted you.'"
+  }, {
+    "verse" : "jeremiah,38,23",
+    "text" : "\"All your wives and children will be brought out to the Babylonians. You yourself will not escape from their hands but will be captured by the king of Babylon; and this city will be burned down.\""
+  }, {
+    "verse" : "jeremiah,38,24",
+    "text" : "Then Zedekiah said to Jeremiah, \"Do not let anyone know about this conversation, or you may die."
+  }, {
+    "verse" : "jeremiah,38,25",
+    "text" : "If the officials hear that I talked with you, and they come to you and say, 'Tell us what you said to the king and what the king said to you; do not hide it from us or we will kill you,'"
+  }, {
+    "verse" : "jeremiah,38,26",
+    "text" : "then tell them, 'I was pleading with the king not to send me back to Jonathan's house to die there.'\""
+  }, {
+    "verse" : "jeremiah,38,27",
+    "text" : "All the officials did come to Jeremiah and question him, and he told them everything the king had ordered him to say. So they said no more to him, for no one had heard his conversation with the king."
+  }, {
+    "verse" : "jeremiah,38,28",
+    "text" : "And Jeremiah remained in the courtyard of the guard until the day Jerusalem was captured."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,38,22",
     "id" : 193938,

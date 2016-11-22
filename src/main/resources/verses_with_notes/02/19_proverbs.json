@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,10,5" ],
+  "verses" : [ {
+    "verse" : "proverbs,10,5",
+    "text" : "He who gathers crops in summer is a wise son, but he who sleeps during harvest is a disgraceful son."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

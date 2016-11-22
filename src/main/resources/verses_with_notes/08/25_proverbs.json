@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,22,1" ],
+  "verses" : [ {
+    "verse" : "proverbs,22,1",
+    "text" : "A good name is more desirable than great riches; to be esteemed is better than silver or gold."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

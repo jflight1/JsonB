@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "genesis,44,1" ],
+  "verses" : [ {
+    "verse" : "genesis,44,1",
+    "text" : "Now Joseph gave these instructions to the steward of his house: \"Fill the men's sacks with as much food as they can carry, and put each man's silver in the mouth of his sack."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,37,2-genesis,50,26",
     "id" : 185362,
@@ -12,7 +15,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 43-Gen 45\">43:1–45:28</a></b> Joseph’s ruse had already begun to move his brothers from indifference to integrity and loyalty toward one another (<a class=\"bibleref\" href=\"/passage/?search=Gen 42:21\">42:21</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 42:22\">22</a>). This change is further manifested in Judah’s offer of himself as surety (<a class=\"bibleref\" href=\"/passage/?search=Gen 43:9\">43:9</a>) and in his offer to sacrifice himself in Benjamin’s stead (<a class=\"bibleref\" href=\"/passage/?search=Gen 44:33\">44:33</a>). Finally, Joseph makes himself known to his brothers and, seeing their sins in the light of God’s purpose, he forgives them (<a class=\"bibleref\" href=\"/passage/?search=Gen 45\">ch. 45</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,44,2", "genesis,44,3", "genesis,44,4" ],
+  "verses" : [ {
+    "verse" : "genesis,44,2",
+    "text" : "Then put my cup, the silver one, in the mouth of the youngest one's sack, along with the silver for his grain.\" And he did as Joseph said."
+  }, {
+    "verse" : "genesis,44,3",
+    "text" : "As morning dawned, the men were sent on their way with their donkeys."
+  }, {
+    "verse" : "genesis,44,4",
+    "text" : "They had not gone far from the city when Joseph said to his steward, \"Go after those men at once, and when you catch up with them, say to them, 'Why have you repaid good with evil?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,44,2",
     "id" : 185455,
@@ -20,7 +32,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 44:2\">44:2</a></b> <b>put my cup.</b> Joseph was putting the brothers to the final test of family fidelity.</p><p><b>sack of the youngest.</b> The original crime pertained to Joseph, Rachel’s son and Jacob’s favorite, and the brothers selling him into slavery in Egypt. To test the brothers, Joseph brilliantly created a situation where Rachel’s other son (and Jacob’s favorite), Benjamin, was also threatened with slavery in Egypt.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,44,5", "genesis,44,6", "genesis,44,7", "genesis,44,8", "genesis,44,9" ],
+  "verses" : [ {
+    "verse" : "genesis,44,5",
+    "text" : "Isn't this the cup my master drinks from and also uses for divination? This is a wicked thing you have done.'\""
+  }, {
+    "verse" : "genesis,44,6",
+    "text" : "When he caught up with them, he repeated these words to them."
+  }, {
+    "verse" : "genesis,44,7",
+    "text" : "But they said to him, \"Why does my lord say such things? Far be it from your servants to do anything like that!"
+  }, {
+    "verse" : "genesis,44,8",
+    "text" : "We even brought back to you from the land of Canaan the silver we found inside the mouths of our sacks. So why would we steal silver or gold from your master's house?"
+  }, {
+    "verse" : "genesis,44,9",
+    "text" : "If any of your servants is found to have it, he will die; and the rest of us will become my lord's slaves.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,44,5",
     "id" : 185456,
@@ -28,7 +55,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 44:5\">44:5</a></b> <b>practices divination.</b> Hydromancy, a form of ancient Near Eastern divination, made use of vessels of water. Objects or liquids put in the water generated patterns that were thought to reveal the future. This description and Joseph’s statement in <a class=\"bibleref\" href=\"/passage/?search=Gen 44:15\">v. 15</a> do not indicate that he actually practiced pagan divination; this description was necessary to the ruse and identified the silver cup as a treasured possession (cf. <a class=\"bibleref\" href=\"/passage/?search=Gen 42:7\">42:7</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 42:12\">12</a>). Joseph received revelation from God alone (<a class=\"bibleref\" href=\"/passage/?search=Gen 40:8\">40:8</a> and note; <a class=\"bibleref\" href=\"/passage/?search=Gen 41:16\">41:16</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,44,10", "genesis,44,11", "genesis,44,12" ],
+  "verses" : [ {
+    "verse" : "genesis,44,10",
+    "text" : "\"Very well, then,\" he said, \"let it be as you say. Whoever is found to have it will become my slave; the rest of you will be free from blame.\""
+  }, {
+    "verse" : "genesis,44,11",
+    "text" : "Each of them quickly lowered his sack to the ground and opened it."
+  }, {
+    "verse" : "genesis,44,12",
+    "text" : "Then the steward proceeded to search, beginning with the oldest and ending with the youngest. And the cup was found in Benjamin's sack."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,44,10",
     "id" : 185457,
@@ -36,7 +72,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 44:10\">44:10</a></b> <b>shall be my servant.</b> Joseph’s modification of the brothers’ offer (<a class=\"bibleref\" href=\"/passage/?search=Gen 44:9\">v. 9</a>) was necessary: he was testing their attitude toward making Benjamin a slave (<a class=\"bibleref\" href=\"/passage/?search=Gen 44:17\">v. 17</a> and note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,44,13" ],
+  "verses" : [ {
+    "verse" : "genesis,44,13",
+    "text" : "At this, they tore their clothes. Then they all loaded their donkeys and returned to the city."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,44,13",
     "id" : 185458,
@@ -44,7 +83,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 44:13\">44:13</a></b> <b>they tore their clothes.</b> This display of extreme distress demonstrated their affection for both father and brother.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,44,14" ],
+  "verses" : [ {
+    "verse" : "genesis,44,14",
+    "text" : "Joseph was still in the house when Judah and his brothers came in, and they threw themselves to the ground before him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,44,14",
     "id" : 185459,
@@ -52,7 +94,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 44:14\">44:14</a></b> <b>fell before him.</b> Now they bowed before Joseph asking for mercy (<a class=\"bibleref\" href=\"/passage/?search=Gen 43:26\">43:26</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,44,15" ],
+  "verses" : [ {
+    "verse" : "genesis,44,15",
+    "text" : "Joseph said to them, \"What is this you have done? Don't you know that a man like me can find things out by divination?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,44,15",
     "id" : 185460,
@@ -60,7 +105,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 44:15\">44:15</a></b> <b>divination.</b> See note on <a class=\"bibleref\" href=\"/passage/?search=Gen 44:5\">v. 5</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,44,16" ],
+  "verses" : [ {
+    "verse" : "genesis,44,16",
+    "text" : "\"What can we say to my lord?\" Judah replied. \"What can we say? How can we prove our innocence? God has uncovered your servants' guilt. We are now my lord's slaves-we ourselves and the one who was found to have the cup.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,44,16",
     "id" : 185461,
@@ -68,7 +116,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 44:16\">44:16</a></b> <b>found out the guilt of your servants.</b> Judah saw the impending penalty as punishment for their treatment of Joseph (<a class=\"bibleref\" href=\"/passage/?search=Gen 42:21\">42:21</a> and note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,44,17" ],
+  "verses" : [ {
+    "verse" : "genesis,44,17",
+    "text" : "But Joseph said, \"Far be it from me to do such a thing! Only the man who was found to have the cup will become my slave. The rest of you, go back to your father in peace.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,44,17",
     "id" : 185462,
@@ -76,7 +127,52 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 44:17\">44:17</a></b> <b>man . . . shall be my servant.</b> The stage for the great test was set (<a class=\"bibleref\" href=\"/passage/?search=Gen 44:2\">v. 2</a> note). Would they show compassion on their father and loyalty to Joseph’s brother?</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,44,18", "genesis,44,19", "genesis,44,20", "genesis,44,21", "genesis,44,22", "genesis,44,23", "genesis,44,24", "genesis,44,25", "genesis,44,26", "genesis,44,27", "genesis,44,28", "genesis,44,29", "genesis,44,30", "genesis,44,31", "genesis,44,32" ],
+  "verses" : [ {
+    "verse" : "genesis,44,18",
+    "text" : "Then Judah went up to him and said: \"Please, my lord, let your servant speak a word to my lord. Do not be angry with your servant, though you are equal to Pharaoh himself."
+  }, {
+    "verse" : "genesis,44,19",
+    "text" : "My lord asked his servants, 'Do you have a father or a brother?'"
+  }, {
+    "verse" : "genesis,44,20",
+    "text" : "And we answered, 'We have an aged father, and there is a young son born to him in his old age. His brother is dead, and he is the only one of his mother's sons left, and his father loves him.'"
+  }, {
+    "verse" : "genesis,44,21",
+    "text" : "\"Then you said to your servants, 'Bring him down to me so I can see him for myself.'"
+  }, {
+    "verse" : "genesis,44,22",
+    "text" : "And we said to my lord, 'The boy cannot leave his father; if he leaves him, his father will die.'"
+  }, {
+    "verse" : "genesis,44,23",
+    "text" : "But you told your servants, 'Unless your youngest brother comes down with you, you will not see my face again.'"
+  }, {
+    "verse" : "genesis,44,24",
+    "text" : "When we went back to your servant my father, we told him what my lord had said."
+  }, {
+    "verse" : "genesis,44,25",
+    "text" : "\"Then our father said, 'Go back and buy a little more food.'"
+  }, {
+    "verse" : "genesis,44,26",
+    "text" : "But we said, 'We cannot go down. Only if our youngest brother is with us will we go. We cannot see the man's face unless our youngest brother is with us.'"
+  }, {
+    "verse" : "genesis,44,27",
+    "text" : "\"Your servant my father said to us, 'You know that my wife bore me two sons."
+  }, {
+    "verse" : "genesis,44,28",
+    "text" : "One of them went away from me, and I said, \"He has surely been torn to pieces.\" And I have not seen him since."
+  }, {
+    "verse" : "genesis,44,29",
+    "text" : "If you take this one from me too and harm comes to him, you will bring my gray head down to the grave in misery.'"
+  }, {
+    "verse" : "genesis,44,30",
+    "text" : "\"So now, if the boy is not with us when I go back to your servant my father and if my father, whose life is closely bound up with the boy's life,"
+  }, {
+    "verse" : "genesis,44,31",
+    "text" : "sees that the boy isn't there, he will die. Your servants will bring the gray head of our father down to the grave in sorrow."
+  }, {
+    "verse" : "genesis,44,32",
+    "text" : "Your servant guaranteed the boy's safety to my father. I said, 'If I do not bring him back to you, I will bear the blame before you, my father, all my life!'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,44,18",
     "id" : 185463,
@@ -84,7 +180,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 44:18\">44:18</a></b> <b>Judah.</b> Representing the brothers (<a class=\"bibleref\" href=\"/passage/?search=Gen 43:3\">43:3</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,44,33" ],
+  "verses" : [ {
+    "verse" : "genesis,44,33",
+    "text" : "\"Now then, please let your servant remain here as my lord's slave in place of the boy, and let the boy return with his brothers."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,44,33",
     "id" : 185464,
@@ -92,7 +191,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 44:33\">44:33</a></b> <b>instead of the boy.</b> Here is a Judah very different from the one who sold his brother into slavery (<a class=\"bibleref\" href=\"/passage/?search=Gen 37:26\">37:26</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 37:27\">27</a>). Judah’s self-sacrificing love prefigures the vicarious atonement of Christ who by His voluntary suffering healed the breach between God and humans.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,44,34" ],
+  "verses" : [ {
+    "verse" : "genesis,44,34",
+    "text" : "How can I go back to my father if the boy is not with me? No! Do not let me see the misery that would come upon my father.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,44,34",
     "id" : 185465,
@@ -100,7 +202,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 44:34\">44:34</a></b> <b>see the evil.</b> See <a class=\"bibleref\" href=\"/passage/?search=Gen 37:34\">37:34</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 37:35\">35</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,45,1", "genesis,45,2", "genesis,45,3", "genesis,45,4" ],
+  "verses" : [ {
+    "verse" : "genesis,45,1",
+    "text" : "Then Joseph could no longer control himself before all his attendants, and he cried out, \"Have everyone leave my presence!\" So there was no one with Joseph when he made himself known to his brothers."
+  }, {
+    "verse" : "genesis,45,2",
+    "text" : "And he wept so loudly that the Egyptians heard him, and Pharaoh's household heard about it."
+  }, {
+    "verse" : "genesis,45,3",
+    "text" : "Joseph said to his brothers, \"I am Joseph! Is my father still living?\" But his brothers were not able to answer him, because they were terrified at his presence."
+  }, {
+    "verse" : "genesis,45,4",
+    "text" : "Then Joseph said to his brothers, \"Come close to me.\" When they had done so, he said, \"I am your brother Joseph, the one you sold into Egypt!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,45,1-genesis,45,28",
     "id" : 185466,
@@ -108,7 +222,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 45\">45:1–28</a></b> In this narrative of forgiveness and reconciliation, Joseph presents a model of submission to God’s eternal and benevolent purpose (vv. 5–8). All the evil done to him by his brothers was only part of God’s secret plan designed for the good, not only of Joseph, but of his wicked brothers as well. We learn that “all things work together” to accomplish God’s excellent purpose (<a class=\"bibleref\" href=\"/passage/?search=Rom 8:28\">Rom. 8:28</a>), not only for us who presently “love God,” but for the “great multitude” that will comprise the everlasting city (<a class=\"bibleref\" href=\"/passage/?search=Rev 7:9\">Rev. 7:9</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,45,5" ],
+  "verses" : [ {
+    "verse" : "genesis,45,5",
+    "text" : "And now, do not be distressed and do not be angry with yourselves for selling me here, because it was to save lives that God sent me ahead of you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,45,5-genesis,45,8",
     "id" : 185467,
@@ -121,7 +238,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 45:5\">45:5</a></b> <b>do not . . . angry with yourselves.</b> Joseph directed their gaze away from their sins to God’s grace (<a class=\"bibleref\" href=\"/passage/?search=Gen 50:19\">50:19</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,45,6" ],
+  "verses" : [ {
+    "verse" : "genesis,45,6",
+    "text" : "For two years now there has been famine in the land, and for the next five years there will not be plowing and reaping."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,45,6",
     "id" : 185469,
@@ -129,7 +249,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 45:6\">45:6</a></b> <b>these two years.</b> Joseph was thirty-nine years old at this time (<a class=\"bibleref\" href=\"/passage/?search=Gen 41:46\">41:46</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 42:8\">42:8</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,45,7" ],
+  "verses" : [ {
+    "verse" : "genesis,45,7",
+    "text" : "But God sent me ahead of you to preserve for you a remnant on earth and to save your lives by a great deliverance."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,45,7",
     "id" : 185470,
@@ -137,7 +260,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 45:7\">45:7</a></b> <b>remnant.</b> Joseph’s use of this term indicates his strong faith, tested by hard experience, in the faithfulness of God to His covenant promises. Out of this small endangered group a great nation would be built (<a class=\"bibleref\" href=\"/passage/?search=Gen 12:1-Gen 12:3\">12:1–3</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 17:7\">17:7</a>). The prophets would later use this term in affirming that even in trying circumstances God would always preserve a people for Himself (<a class=\"bibleref\" href=\"/passage/?search=Isa 10:20\">Is. 10:20</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 37:30-Isa 37:32\">37:30–32</a>; <a class=\"bibleref\" href=\"/passage/?search=Mic 2:12\">Mic. 2:12</a>, <a class=\"bibleref\" href=\"/passage/?search=Mic 2:13\">13</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,45,8", "genesis,45,9" ],
+  "verses" : [ {
+    "verse" : "genesis,45,8",
+    "text" : "\"So then, it was not you who sent me here, but God. He made me father to Pharaoh, lord of his entire household and ruler of all Egypt."
+  }, {
+    "verse" : "genesis,45,9",
+    "text" : "Now hurry back to my father and say to him, 'This is what your son Joseph says: God has made me lord of all Egypt. Come down to me; don't delay."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,45,8",
     "id" : 185471,
@@ -145,7 +274,43 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 45:8\">45:8</a></b> <b>it was not you . . . but God.</b> Without excusing their sin, for which repentance was necessary (<a class=\"bibleref\" href=\"/passage/?search=Gen 42:4\">42:4</a> note), Joseph encourages the now contrite sinners to rejoice in God’s sovereign and gracious overruling of their evil intentions.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,45,10", "genesis,45,11", "genesis,45,12", "genesis,45,13", "genesis,45,14", "genesis,45,15", "genesis,45,16", "genesis,45,17", "genesis,45,18", "genesis,45,19", "genesis,45,20", "genesis,45,21" ],
+  "verses" : [ {
+    "verse" : "genesis,45,10",
+    "text" : "You shall live in the region of Goshen and be near me-you, your children and grandchildren, your flocks and herds, and all you have."
+  }, {
+    "verse" : "genesis,45,11",
+    "text" : "I will provide for you there, because five years of famine are still to come. Otherwise you and your household and all who belong to you will become destitute.'"
+  }, {
+    "verse" : "genesis,45,12",
+    "text" : "\"You can see for yourselves, and so can my brother Benjamin, that it is really I who am speaking to you."
+  }, {
+    "verse" : "genesis,45,13",
+    "text" : "Tell my father about all the honor accorded me in Egypt and about everything you have seen. And bring my father down here quickly.\""
+  }, {
+    "verse" : "genesis,45,14",
+    "text" : "Then he threw his arms around his brother Benjamin and wept, and Benjamin embraced him, weeping."
+  }, {
+    "verse" : "genesis,45,15",
+    "text" : "And he kissed all his brothers and wept over them. Afterward his brothers talked with him."
+  }, {
+    "verse" : "genesis,45,16",
+    "text" : "When the news reached Pharaoh's palace that Joseph's brothers had come, Pharaoh and all his officials were pleased."
+  }, {
+    "verse" : "genesis,45,17",
+    "text" : "Pharaoh said to Joseph, \"Tell your brothers, 'Do this: Load your animals and return to the land of Canaan,"
+  }, {
+    "verse" : "genesis,45,18",
+    "text" : "and bring your father and your families back to me. I will give you the best of the land of Egypt and you can enjoy the fat of the land.'"
+  }, {
+    "verse" : "genesis,45,19",
+    "text" : "\"You are also directed to tell them, 'Do this: Take some carts from Egypt for your children and your wives, and get your father and come."
+  }, {
+    "verse" : "genesis,45,20",
+    "text" : "Never mind about your belongings, because the best of all Egypt will be yours.'\""
+  }, {
+    "verse" : "genesis,45,21",
+    "text" : "So the sons of Israel did this. Joseph gave them carts, as Pharaoh had commanded, and he also gave them provisions for their journey."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,45,10",
     "id" : 185472,
@@ -153,7 +318,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 45:10\">45:10</a></b> <b>land of Goshen.</b> A region in northeastern Egypt near the Wadi Tumilat in the Nile Delta. This fertile region provided ample grazing for their flocks (<a class=\"bibleref\" href=\"/passage/?search=Gen 45:18\">v. 18</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 47:4\">47:4</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 47:6\">6</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,45,22", "genesis,45,23" ],
+  "verses" : [ {
+    "verse" : "genesis,45,22",
+    "text" : "To each of them he gave new clothing, but to Benjamin he gave three hundred shekels of silver and five sets of clothes."
+  }, {
+    "verse" : "genesis,45,23",
+    "text" : "And this is what he sent to his father: ten donkeys loaded with the best things of Egypt, and ten female donkeys loaded with grain and bread and other provisions for his journey."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,45,22",
     "id" : 185473,
@@ -161,7 +332,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 45:22\">45:22</a></b> <b>a change of clothes.</b> In striking contrast to when the brothers stripped Joseph of his tunic (<a class=\"bibleref\" href=\"/passage/?search=Gen 37:23\">37:23</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,45,24", "genesis,45,25", "genesis,45,26", "genesis,45,27", "genesis,45,28" ],
+  "verses" : [ {
+    "verse" : "genesis,45,24",
+    "text" : "Then he sent his brothers away, and as they were leaving he said to them, \"Don't quarrel on the way!\""
+  }, {
+    "verse" : "genesis,45,25",
+    "text" : "So they went up out of Egypt and came to their father Jacob in the land of Canaan."
+  }, {
+    "verse" : "genesis,45,26",
+    "text" : "They told him, \"Joseph is still alive! In fact, he is ruler of all Egypt.\" Jacob was stunned; he did not believe them."
+  }, {
+    "verse" : "genesis,45,27",
+    "text" : "But when they told him everything Joseph had said to them, and when he saw the carts Joseph had sent to carry him back, the spirit of their father Jacob revived."
+  }, {
+    "verse" : "genesis,45,28",
+    "text" : "And Israel said, \"I'm convinced! My son Joseph is still alive. I will go and see him before I die.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,45,24",
     "id" : 185474,

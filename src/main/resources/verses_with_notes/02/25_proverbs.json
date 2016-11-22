@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,10,15" ],
+  "verses" : [ {
+    "verse" : "proverbs,10,15",
+    "text" : "The wealth of the rich is their fortified city, but poverty is the ruin of the poor."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -17,7 +20,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 10:15\">10:15</a></b> <b>strong city.</b> The image is that of security against the uncertainties of life.</p><p><b>poverty of the poor.</b> The poor do not have much defense against the unexpected. This circumstance is observed without comment on its rightness or wrongness (cf. <a class=\"bibleref\" href=\"/passage/?search=Matt 26:11\">Matt. 26:11</a>). In the final analysis, however, the rich, whose confidence is in themselves (28:11), will find that their monetary security is illusory (11:4, 28; 18:10, 11; 23:4, 5). Only the Lord is a sure defense (3:5, 6).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,10,16" ],
+  "verses" : [ {
+    "verse" : "proverbs,10,16",
+    "text" : "The wages of the righteous bring them life, but the income of the wicked brings them punishment."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,16",
     "id" : 191859,

@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,6,12" ],
+  "verses" : [ {
+    "verse" : "proverbs,6,12",
+    "text" : "A scoundrel and villain, who goes about with a corrupt mouth,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,6,12-proverbs,6,15",
     "id" : 191757,
@@ -12,7 +15,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 6:12\">6:12</a></b> <b>worthless person.</b> Lit. “man of Belial,” a phrase of uncertain origin and meaning. It probably indicates a base and worthless person, with an element of active malevolence.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,6,13", "proverbs,6,14" ],
+  "verses" : [ {
+    "verse" : "proverbs,6,13",
+    "text" : "who winks with his eye, signals with his feet and motions with his fingers,"
+  }, {
+    "verse" : "proverbs,6,14",
+    "text" : "who plots evil with deceit in his heart- he always stirs up dissension."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,6,13",
     "id" : 191759,
@@ -20,7 +29,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 6:13\">6:13</a></b> <b>winks . . . signals . . . points.</b> The wicked will not speak plainly and openly, but make veiled suggestions and signs that sow seeds of distrust and dissension.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,6,15" ],
+  "verses" : [ {
+    "verse" : "proverbs,6,15",
+    "text" : "Therefore disaster will overtake him in an instant; he will suddenly be destroyed-without remedy."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,6,15",
     "id" : 191760,

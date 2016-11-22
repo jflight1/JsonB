@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,24,3" ],
+  "verses" : [ {
+    "verse" : "proverbs,24,3",
+    "text" : "By wisdom a house is built, and through understanding it is established;"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,22,17-proverbs,24,22",
     "id" : 192162,
@@ -17,7 +20,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 24:3\">24:3 a</a></b> <b>house is built.</b> “House” refers either literally to a building to live in, or is a metaphor for a family, or even a dynasty (<a class=\"bibleref\" href=\"/passage/?search=2Sam 7:11\">2 Sam. 7:11</a>, <a class=\"bibleref\" href=\"/passage/?search=2Sam 7:12\">12</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,24,4" ],
+  "verses" : [ {
+    "verse" : "proverbs,24,4",
+    "text" : "through knowledge its rooms are filled with rare and beautiful treasures."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,24,4",
     "id" : 192206,

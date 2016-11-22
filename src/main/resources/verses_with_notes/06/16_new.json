@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "acts,10,24" ],
+  "verses" : [ {
+    "verse" : "acts,10,24",
+    "text" : "The next day Peter started out with them, and some of the brothers from Joppa went along. The following day he arrived in Caesarea. Cornelius was expecting them and had called together his relatives and close friends."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,10,24",
     "id" : 197484,
@@ -7,7 +10,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 10:24\">10:24</a></b> <b>the following day.</b> It took the group two days to travel thirty miles from Joppa to Caesarea.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,10,25", "acts,10,26", "acts,10,27" ],
+  "verses" : [ {
+    "verse" : "acts,10,25",
+    "text" : "As Peter entered the house, Cornelius met him and fell at his feet in reverence."
+  }, {
+    "verse" : "acts,10,26",
+    "text" : "But Peter made him get up. \"Stand up,\" he said, \"I am only a man myself.\""
+  }, {
+    "verse" : "acts,10,27",
+    "text" : "Talking with him, Peter went inside and found a large gathering of people."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,10,25",
     "id" : 197485,
@@ -15,7 +27,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 10:25\">10:25</a></b> <b>Peter entered.</b> Peter was now willing to enter the house of a Gentile (<a class=\"bibleref\" href=\"/passage/?search=Acts 10:28\">v. 28</a>).</p><p><b>fell down at his feet and worshiped him.</b> Cornelius was overawed at Peter’s presence; he had been instructed by God to send for the apostle.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,10,28", "acts,10,29", "acts,10,30", "acts,10,31", "acts,10,32", "acts,10,33" ],
+  "verses" : [ {
+    "verse" : "acts,10,28",
+    "text" : "He said to them: \"You are well aware that it is against our law for a Jew to associate with a Gentile or visit him. But God has shown me that I should not call any man impure or unclean."
+  }, {
+    "verse" : "acts,10,29",
+    "text" : "So when I was sent for, I came without raising any objection. May I ask why you sent for me?\""
+  }, {
+    "verse" : "acts,10,30",
+    "text" : "Cornelius answered: \"Four days ago I was in my house praying at this hour, at three in the afternoon. Suddenly a man in shining clothes stood before me"
+  }, {
+    "verse" : "acts,10,31",
+    "text" : "and said, 'Cornelius, God has heard your prayer and remembered your gifts to the poor."
+  }, {
+    "verse" : "acts,10,32",
+    "text" : "Send to Joppa for Simon who is called Peter. He is a guest in the home of Simon the tanner, who lives by the sea.'"
+  }, {
+    "verse" : "acts,10,33",
+    "text" : "So I sent for you immediately, and it was good of you to come. Now we are all here in the presence of God to listen to everything the Lord has commanded you to tell us.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,10,28",
     "id" : 197486,
@@ -23,7 +53,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 10:28\">10:28</a></b> <b>God has shown me.</b> He refers to the vision he had seen (<a class=\"bibleref\" href=\"/passage/?search=Acts 10:15\">v. 15</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,10,34", "acts,10,35" ],
+  "verses" : [ {
+    "verse" : "acts,10,34",
+    "text" : "Then Peter began to speak: \"I now realize how true it is that God does not show favoritism"
+  }, {
+    "verse" : "acts,10,35",
+    "text" : "but accepts men from every nation who fear him and do what is right."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,10,34",
     "id" : 197487,
@@ -31,7 +67,31 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 10:34\">10:34</a></b> <b>God shows no partiality.</b> The gospel is for both Jews and Gentiles (<a class=\"bibleref\" href=\"/passage/?search=Acts 1:8\">1:8</a>; <a class=\"bibleref\" href=\"/passage/?search=Rom 1:16\">Rom. 1:16</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,10,36", "acts,10,37", "acts,10,38", "acts,10,39", "acts,10,40", "acts,10,41", "acts,10,42", "acts,10,43" ],
+  "verses" : [ {
+    "verse" : "acts,10,36",
+    "text" : "You know the message God sent to the people of Israel, telling the good news of peace through Jesus Christ, who is Lord of all."
+  }, {
+    "verse" : "acts,10,37",
+    "text" : "You know what has happened throughout Judea, beginning in Galilee after the baptism that John preached--"
+  }, {
+    "verse" : "acts,10,38",
+    "text" : "how God anointed Jesus of Nazareth with the Holy Spirit and power, and how he went around doing good and healing all who were under the power of the devil, because God was with him."
+  }, {
+    "verse" : "acts,10,39",
+    "text" : "\"We are witnesses of everything he did in the country of the Jews and in Jerusalem. They killed him by hanging him on a tree,"
+  }, {
+    "verse" : "acts,10,40",
+    "text" : "but God raised him from the dead on the third day and caused him to be seen."
+  }, {
+    "verse" : "acts,10,41",
+    "text" : "He was not seen by all the people, but by witnesses whom God had already chosen--by us who ate and drank with him after he rose from the dead."
+  }, {
+    "verse" : "acts,10,42",
+    "text" : "He commanded us to preach to the people and to testify that he is the one whom God appointed as judge of the living and the dead."
+  }, {
+    "verse" : "acts,10,43",
+    "text" : "All the prophets testify about him that everyone who believes in him receives forgiveness of sins through his name.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,10,36",
     "id" : 197488,
@@ -39,7 +99,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 10:36\">10:36</a></b> <b>preaching good news of peace through Jesus Christ.</b> The peace of reconciliation with God through the blood of Jesus, our peace (<a class=\"bibleref\" href=\"/passage/?search=Eph 2:13\">Eph. 2:13</a>, <a class=\"bibleref\" href=\"/passage/?search=Eph 2:14\">14</a>).</p><p><b>Lord of all.</b> Jesus is Lord of both Jews and Gentiles.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,10,44" ],
+  "verses" : [ {
+    "verse" : "acts,10,44",
+    "text" : "While Peter was still speaking these words, the Holy Spirit came on all who heard the message."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,10,44",
     "id" : 197489,
@@ -47,7 +110,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 10:44\">10:44</a></b> <b>the Holy Spirit fell on all.</b> They were anointed by the Spirit’s power and were praising God and speaking in tongues (<a class=\"bibleref\" href=\"/passage/?search=Acts 10:46\">v. 46</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,10,45", "acts,10,46", "acts,10,47" ],
+  "verses" : [ {
+    "verse" : "acts,10,45",
+    "text" : "The circumcised believers who had come with Peter were astonished that the gift of the Holy Spirit had been poured out even on the Gentiles."
+  }, {
+    "verse" : "acts,10,46",
+    "text" : "For they heard them speaking in tongues and praising God."
+  }, {
+    "verse" : "acts,10,47",
+    "text" : "Then Peter said, \"Can anyone keep these people from being baptized with water? They have received the Holy Spirit just as we have.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,10,45",
     "id" : 197490,
@@ -55,7 +127,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 10:45\">10:45</a></b> <b>the circumcised . . . were amazed.</b> It was difficult for strict Jews who had not seen Peter’s vision to realize that God did not show favoritism in His offer.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,10,48" ],
+  "verses" : [ {
+    "verse" : "acts,10,48",
+    "text" : "So he ordered that they be baptized in the name of Jesus Christ. Then they asked Peter to stay with them for a few days."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,10,48",
     "id" : 197491,

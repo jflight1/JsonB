@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "luke,18,18" ],
+  "verses" : [ {
+    "verse" : "luke,18,18",
+    "text" : "A certain ruler asked him, \"Good teacher, what must I do to inherit eternal life?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,18,18",
     "id" : 196704,
@@ -7,7 +10,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 18:18\">18:18</a></b> <b>ruler.</b> A general term meaning someone from the upper classes.</p><p><b>Good Teacher.</b> This was not a usual form of address in Judaism; it was mere flattery. The man assumed that his deeds would bring him to eternal life.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,18,19", "luke,18,20", "luke,18,21" ],
+  "verses" : [ {
+    "verse" : "luke,18,19",
+    "text" : "\"Why do you call me good?\" Jesus answered. \"No one is good--except God alone."
+  }, {
+    "verse" : "luke,18,20",
+    "text" : "You know the commandments: 'Do not commit adultery, do not murder, do not steal, do not give false testimony, honor your father and mother.'\""
+  }, {
+    "verse" : "luke,18,21",
+    "text" : "\"All these I have kept since I was a boy,\" he said."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,18,19",
     "id" : 196705,
@@ -15,7 +27,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 18:19\">18:19</a></b> <b>Why do you call me good.</b> Jesus challenges the ruler’s flattery by reminding him that true goodness is an attribute of God alone. That his flattery was indeed insincere is shown by his failure to do what the “Good Teacher” taught him (<a class=\"bibleref\" href=\"/passage/?search=Luke 18:23\">v. 23</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,18,22" ],
+  "verses" : [ {
+    "verse" : "luke,18,22",
+    "text" : "When Jesus heard this, he said to him, \"You still lack one thing. Sell everything you have and give to the poor, and you will have treasure in heaven. Then come, follow me.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,18,22",
     "id" : 196706,
@@ -23,7 +38,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 18:22\">18:22</a></b> <b>Sell all.</b> This challenge revealed that the young man had not really understood the commandments. When he was faced with the choice, it became clear that his possessions came before God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,18,23", "luke,18,24", "luke,18,25" ],
+  "verses" : [ {
+    "verse" : "luke,18,23",
+    "text" : "When he heard this, he became very sad, because he was a man of great wealth."
+  }, {
+    "verse" : "luke,18,24",
+    "text" : "Jesus looked at him and said, \"How hard it is for the rich to enter the kingdom of God!"
+  }, {
+    "verse" : "luke,18,25",
+    "text" : "Indeed, it is easier for a camel to go through the eye of a needle than for a rich man to enter the kingdom of God.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,18,23-luke,18,25",
     "id" : 196707,
@@ -31,7 +55,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 18:23-Luke 18:25\">18:23–25</a></b> See note <a class=\"bibleref\" href=\"/passage/?search=Mark 10:25\">Mark 10:25</a>. The wealthy are tempted to rely on earthly things, together with those whose wealth is achievement in intellectual, artistic, or other fields. Great achievers often find it difficult to rely wholly on the mercy of God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,18,26", "luke,18,27" ],
+  "verses" : [ {
+    "verse" : "luke,18,26",
+    "text" : "Those who heard this asked, \"Who then can be saved?\""
+  }, {
+    "verse" : "luke,18,27",
+    "text" : "Jesus replied, \"What is impossible with men is possible with God.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,18,26-luke,18,27",
     "id" : 196708,
@@ -39,7 +69,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 18:26\">18:26</a>, <a class=\"bibleref\" href=\"/passage/?search=Luke 18:27\">27</a></b> If the rich with all their advantages cannot easily be saved, who can be? The answer is that salvation, for rich or poor, is always the gift of God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,18,28", "luke,18,29", "luke,18,30" ],
+  "verses" : [ {
+    "verse" : "luke,18,28",
+    "text" : "Peter said to him, \"We have left all we had to follow you!\""
+  }, {
+    "verse" : "luke,18,29",
+    "text" : "\"I tell you the truth,\" Jesus said to them, \"no one who has left home or wife or brothers or parents or children for the sake of the kingdom of God"
+  }, {
+    "verse" : "luke,18,30",
+    "text" : "will fail to receive many times as much in this age and, in the age to come, eternal life.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,18,28-luke,18,30",
     "id" : 196709,
@@ -47,7 +86,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 18:28-Luke 18:30\">18:28–30</a></b> Jesus’ answer to Peter means that God’s gifts surpass anything we can give up for Him. It does not mean that we can make sacrifices as a means of getting a better reward.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,18,31", "luke,18,32", "luke,18,33", "luke,18,34" ],
+  "verses" : [ {
+    "verse" : "luke,18,31",
+    "text" : "Jesus took the Twelve aside and told them, \"We are going up to Jerusalem, and everything that is written by the prophets about the Son of Man will be fulfilled."
+  }, {
+    "verse" : "luke,18,32",
+    "text" : "He will be handed over to the Gentiles. They will mock him, insult him, spit on him, flog him and kill him."
+  }, {
+    "verse" : "luke,18,33",
+    "text" : "On the third day he will rise again.\""
+  }, {
+    "verse" : "luke,18,34",
+    "text" : "The disciples did not understand any of this. Its meaning was hidden from them, and they did not know what he was talking about."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,18,31-luke,18,34",
     "id" : 196710,
@@ -55,7 +106,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 18:31-Luke 18:34\">18:31–34</a></b> In His predictions of the Passion (cf. <a class=\"bibleref\" href=\"/passage/?search=Luke 5:35\">5:35</a>; <a class=\"bibleref\" href=\"/passage/?search=Luke 9:22\">9:22</a>, <a class=\"bibleref\" href=\"/passage/?search=Luke 9:43-Luke 9:45\">43–45</a>; <a class=\"bibleref\" href=\"/passage/?search=Luke 12:50\">12:50</a>; <a class=\"bibleref\" href=\"/passage/?search=Luke 13:32\">13:32</a>, <a class=\"bibleref\" href=\"/passage/?search=Luke 13:33\">33</a>; <a class=\"bibleref\" href=\"/passage/?search=Luke 17:25\">17:25</a>), this is the first time Jesus speaks of being handed over to the Gentiles.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,18,35", "luke,18,36", "luke,18,37" ],
+  "verses" : [ {
+    "verse" : "luke,18,35",
+    "text" : "As Jesus approached Jericho, a blind man was sitting by the roadside begging."
+  }, {
+    "verse" : "luke,18,36",
+    "text" : "When he heard the crowd going by, he asked what was happening."
+  }, {
+    "verse" : "luke,18,37",
+    "text" : "They told him, \"Jesus of Nazareth is passing by.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,18,35",
     "id" : 196711,
@@ -63,7 +123,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 18:35\">18:35</a></b> <b>draw near to Jericho.</b> Luke implies Jesus was entering Jericho, whereas Matthew and Mark say the incident occurred as they “went out” of Jericho (<a class=\"bibleref\" href=\"/passage/?search=Matt 20:30\">Matt. 20:30</a>; <a class=\"bibleref\" href=\"/passage/?search=Mark 10:46\">Mark 10:46</a>). There seem to have been two “Jerichos” about a mile apart: the ruins of the Old Testament city conquered by Joshua (<a class=\"bibleref\" href=\"/passage/?search=Josh 6\">Josh. 6</a>), and a city built by Herod the Great. The encounter may have happened as Jesus was leaving the old city and entering the new.</p><p><b>a blind man.</b> Matthew mentions two blind men (cf. <a class=\"bibleref\" href=\"/passage/?search=Matt 9:27\">Matt. 9:27</a> and note), while Luke and Mark mention only one (named Bartimaeus, <a class=\"bibleref\" href=\"/passage/?search=Mark 10:46\">Mark 10:46</a>); he may have been the spokesman for the two.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,18,38", "luke,18,39", "luke,18,40", "luke,18,41" ],
+  "verses" : [ {
+    "verse" : "luke,18,38",
+    "text" : "He called out, \"Jesus, Son of David, have mercy on me!\""
+  }, {
+    "verse" : "luke,18,39",
+    "text" : "Those who led the way rebuked him and told him to be quiet, but he shouted all the more, \"Son of David, have mercy on me!\""
+  }, {
+    "verse" : "luke,18,40",
+    "text" : "Jesus stopped and ordered the man to be brought to him. When he came near, Jesus asked him,"
+  }, {
+    "verse" : "luke,18,41",
+    "text" : "\"What do you want me to do for you?Lord, I want to see,\" he replied."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,18,38",
     "id" : 196712,
@@ -71,7 +143,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 18:38\">18:38</a></b> <b>Son of David.</b> A messianic title.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,18,42", "luke,18,43" ],
+  "verses" : [ {
+    "verse" : "luke,18,42",
+    "text" : "Jesus said to him, \"Receive your sight; your faith has healed you.\""
+  }, {
+    "verse" : "luke,18,43",
+    "text" : "Immediately he received his sight and followed Jesus, praising God. When all the people saw it, they also praised God."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,18,42",
     "id" : 196713,

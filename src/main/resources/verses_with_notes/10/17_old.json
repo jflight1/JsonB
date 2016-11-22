@@ -1,5 +1,20 @@
 [ {
-  "singleVerses" : [ "jeremiah,30,1", "jeremiah,30,2", "jeremiah,30,3", "jeremiah,30,4", "jeremiah,30,5" ],
+  "verses" : [ {
+    "verse" : "jeremiah,30,1",
+    "text" : "This is the word that came to Jeremiah from the LORD:"
+  }, {
+    "verse" : "jeremiah,30,2",
+    "text" : "\"This is what the LORD, the God of Israel, says: 'Write in a book all the words I have spoken to you."
+  }, {
+    "verse" : "jeremiah,30,3",
+    "text" : "The days are coming,' declares the LORD, 'when I will bring my people Israel and Judah back from captivity and restore them to the land I gave their forefathers to possess,' says the LORD.\""
+  }, {
+    "verse" : "jeremiah,30,4",
+    "text" : "These are the words the LORD spoke concerning Israel and Judah:"
+  }, {
+    "verse" : "jeremiah,30,5",
+    "text" : "\"This is what the LORD says: \"'Cries of fear are heard- terror, not peace."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,30,1-jeremiah,33,26",
     "id" : 193857,
@@ -7,7 +22,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 30-Jer 33\">30:1–33:26</a></b> These chapters contain promises of restoration and of the new covenant (<a class=\"bibleref\" href=\"/passage/?search=Jer 31:31-Jer 31:34\">31:31–34</a>). The certainty of restoration is portrayed in Jeremiah’s purchase of a field (<a class=\"bibleref\" href=\"/passage/?search=Jer 32\">ch. 32</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,30,6" ],
+  "verses" : [ {
+    "verse" : "jeremiah,30,6",
+    "text" : "Ask and see: Can a man bear children? Then why do I see every strong man with his hands on his stomach like a woman in labor, every face turned deathly pale?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,30,6",
     "id" : 193858,
@@ -15,7 +33,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 30:6\">30:6</a></b> <b>can a man . . . woman in labor.</b> The anguish of childbirth is a picture of the suffering under the Babylonian armies (<a class=\"bibleref\" href=\"/passage/?search=Jer 4:19\">4:19</a>, <a class=\"bibleref\" href=\"/passage/?search=Jer 4:31\">31</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,30,7", "jeremiah,30,8", "jeremiah,30,9" ],
+  "verses" : [ {
+    "verse" : "jeremiah,30,7",
+    "text" : "How awful that day will be! None will be like it. It will be a time of trouble for Jacob, but he will be saved out of it."
+  }, {
+    "verse" : "jeremiah,30,8",
+    "text" : "\"'In that day,' declares the LORD Almighty, 'I will break the yoke off their necks and will tear off their bonds; no longer will foreigners enslave them."
+  }, {
+    "verse" : "jeremiah,30,9",
+    "text" : "Instead, they will serve the LORD their God and David their king, whom I will raise up for them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,30,7",
     "id" : 193859,
@@ -23,7 +50,37 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 30:7\">30:7</a></b> <b>That day.</b> The day of the Lord; see <a class=\"bibleref\" href=\"/passage/?search=Amos 5:18\">Amos 5:18</a>; <a class=\"bibleref\" href=\"/passage/?search=Amos 8:9\">8:9</a>. Amos’s generation expected it as a day of deliverance, but had to learn that it would bring judgment.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,30,10", "jeremiah,30,11", "jeremiah,30,12", "jeremiah,30,13", "jeremiah,30,14", "jeremiah,30,15", "jeremiah,30,16", "jeremiah,30,17", "jeremiah,30,18", "jeremiah,30,19" ],
+  "verses" : [ {
+    "verse" : "jeremiah,30,10",
+    "text" : "\"'So do not fear, O Jacob my servant; do not be dismayed, O Israel,' declares the LORD. 'I will surely save you out of a distant place, your descendants from the land of their exile. Jacob will again have peace and security, and no one will make him afraid."
+  }, {
+    "verse" : "jeremiah,30,11",
+    "text" : "I am with you and will save you,' declares the LORD. 'Though I completely destroy all the nations among which I scatter you, I will not completely destroy you. I will discipline you but only with justice; I will not let you go entirely unpunished.'"
+  }, {
+    "verse" : "jeremiah,30,12",
+    "text" : "\"This is what the LORD says: \"'Your wound is incurable, your injury beyond healing."
+  }, {
+    "verse" : "jeremiah,30,13",
+    "text" : "There is no one to plead your cause, no remedy for your sore, no healing for you."
+  }, {
+    "verse" : "jeremiah,30,14",
+    "text" : "All your allies have forgotten you; they care nothing for you. I have struck you as an enemy would and punished you as would the cruel, because your guilt is so great and your sins so many."
+  }, {
+    "verse" : "jeremiah,30,15",
+    "text" : "Why do you cry out over your wound, your pain that has no cure? Because of your great guilt and many sins I have done these things to you."
+  }, {
+    "verse" : "jeremiah,30,16",
+    "text" : "\"'But all who devour you will be devoured; all your enemies will go into exile. Those who plunder you will be plundered; all who make spoil of you I will despoil."
+  }, {
+    "verse" : "jeremiah,30,17",
+    "text" : "But I will restore you to health and heal your wounds,' declares the LORD, 'because you are called an outcast, Zion for whom no one cares.'"
+  }, {
+    "verse" : "jeremiah,30,18",
+    "text" : "\"This is what the LORD says: \"'I will restore the fortunes of Jacob's tents and have compassion on his dwellings; the city will be rebuilt on her ruins, and the palace will stand in its proper place."
+  }, {
+    "verse" : "jeremiah,30,19",
+    "text" : "From them will come songs of thanksgiving and the sound of rejoicing. I will add to their numbers, and they will not be decreased; I will bring them honor, and they will not be disdained."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,30,10",
     "id" : 193860,
@@ -31,7 +88,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 30:10\">30:10</a></b> <b>fear not, O Jacob my servant.</b> See <a class=\"bibleref\" href=\"/passage/?search=Isa 41:8\">Is. 41:8</a>, <a class=\"bibleref\" href=\"/passage/?search=Isa 41:10\">10</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 43:1\">43:1</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 44:1\">44:1</a>, <a class=\"bibleref\" href=\"/passage/?search=Isa 44:2\">2</a>.</p><p><b>none shall make him afraid.</b> Contrast v. 5. This promise is a fulfillment of covenant blessing (<a class=\"bibleref\" href=\"/passage/?search=Lev 26:6\">Lev. 26:6</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,30,20" ],
+  "verses" : [ {
+    "verse" : "jeremiah,30,20",
+    "text" : "Their children will be as in days of old, and their community will be established before me; I will punish all who oppress them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,30,20",
     "id" : 193861,
@@ -39,7 +99,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 30:20\">30:20</a></b> <b>as they were of old.</b> This is probably an allusion to the time of David (<a class=\"bibleref\" href=\"/passage/?search=Jer 30:9\">v. 9</a>).</p><p><b>congregation.</b> A technical term denoting the political or religious assembly of the covenant people.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,30,21", "jeremiah,30,22", "jeremiah,30,23", "jeremiah,30,24", "jeremiah,31,1" ],
+  "verses" : [ {
+    "verse" : "jeremiah,30,21",
+    "text" : "Their leader will be one of their own; their ruler will arise from among them. I will bring him near and he will come close to me, for who is he who will devote himself to be close to me?' declares the LORD."
+  }, {
+    "verse" : "jeremiah,30,22",
+    "text" : "\"'So you will be my people, and I will be your God.'\""
+  }, {
+    "verse" : "jeremiah,30,23",
+    "text" : "See, the storm of the LORD will burst out in wrath, a driving wind swirling down on the heads of the wicked."
+  }, {
+    "verse" : "jeremiah,30,24",
+    "text" : "The fierce anger of the LORD will not turn back until he fully accomplishes the purposes of his heart. In days to come you will understand this."
+  }, {
+    "verse" : "jeremiah,31,1",
+    "text" : "\"At that time,\" declares the LORD, \"I will be the God of all the clans of Israel, and they will be my people.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,30,21",
     "id" : 193862,
@@ -47,7 +122,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 30:21\">30:21</a></b> <b>Their prince . . . ruler . . . from their midst.</b> Whereas Judah is being ruled by a foreign power during its exile, Jeremiah looks forward to the restoration of its political independence and special relationship with the Lord (<a class=\"bibleref\" href=\"/passage/?search=Jer 30:22\">v. 22</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,31,2" ],
+  "verses" : [ {
+    "verse" : "jeremiah,31,2",
+    "text" : "This is what the LORD says: \"The people who survive the sword will find favor in the desert; I will come to give rest to Israel.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,31,2",
     "id" : 193863,
@@ -55,7 +133,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 31:2\">31:2</a></b> <b>people who survived the sword.</b> The remnant through whom God’s purposes will continue (<a class=\"bibleref\" href=\"/passage/?search=Jer 31:7\">v. 7</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 6:9\">6:9</a> note; <a class=\"bibleref\" href=\"/passage/?search=Jer 23:3\">23:3</a> note). Contrast <a class=\"bibleref\" href=\"/passage/?search=Jer 15:2\">15:2</a>.</p><p><b>wilderness.</b> Judah’s exile in Babylon and subsequent restoration are sometimes compared with Israel’s wanderings in the wilderness prior to entering the Promised Land (see <a class=\"bibleref\" href=\"/passage/?search=Isa 40:3\">Is. 40:3</a>, <a class=\"bibleref\" href=\"/passage/?search=Isa 40:4\">4</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 43:19\">43:19</a>, <a class=\"bibleref\" href=\"/passage/?search=Isa 43:20\">20</a>). Like the first exodus, this restoration will be a demonstration of the Lord’s power to save.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,31,3" ],
+  "verses" : [ {
+    "verse" : "jeremiah,31,3",
+    "text" : "The LORD appeared to us in the past, saying: \"I have loved you with an everlasting love; I have drawn you with loving-kindness."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,31,3",
     "id" : 193864,
@@ -63,7 +144,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 31:3\">31:3</a></b> <b>from far away.</b> This phrase probably carries forward the allusion to Sinai from the preceding verse (<a class=\"bibleref\" href=\"/passage/?search=Exod 19-Exod 24\">Ex. 19–24</a>).</p><p><b>loved . . . everlasting love.</b> The Lord’s love for Israel was the ground of His election of them (<a class=\"bibleref\" href=\"/passage/?search=Deut 7:6\">Deut. 7:6</a>, <a class=\"bibleref\" href=\"/passage/?search=Deut 7:7\">7</a>). The everlasting character of the covenant is affirmed in <a class=\"bibleref\" href=\"/passage/?search=Gen 17:7\">Gen. 17:7</a>.</p><p><b>faithfulness.</b> See note 9:24; contrast 16:5. This verse provides another sign of the reestablishment of the broken covenant.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,31,4" ],
+  "verses" : [ {
+    "verse" : "jeremiah,31,4",
+    "text" : "I will build you up again and you will be rebuilt, O Virgin Israel. Again you will take up your tambourines and go out to dance with the joyful."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,31,4",
     "id" : 193865,
@@ -71,7 +155,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 31:4\">31:4</a></b> <b>virgin Israel.</b> Contrast <a class=\"bibleref\" href=\"/passage/?search=Jer 18:13-Jer 18:15\">18:13–15</a>, where Israel’s “virginity” has been squandered. See also <a class=\"bibleref\" href=\"/passage/?search=Jer 2:20\">2:20</a>, <a class=\"bibleref\" href=\"/passage/?search=Jer 2:22\">22</a>. In the new covenant the stain of defilement is finally cleansed.</p><p><b>dance.</b> Such dances are acts of religious celebration (<a class=\"bibleref\" href=\"/passage/?search=Judg 21:19\">Judg. 21:19</a>, <a class=\"bibleref\" href=\"/passage/?search=Judg 21:20\">20</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,31,5" ],
+  "verses" : [ {
+    "verse" : "jeremiah,31,5",
+    "text" : "Again you will plant vineyards on the hills of Samaria; the farmers will plant them and enjoy their fruit."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,31,5",
     "id" : 193866,
@@ -79,7 +166,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 31:5\">31:5</a></b> <b>plant vineyards . . . enjoy the fruit.</b> This promise signifies the covenant blessing of fertility (<a class=\"bibleref\" href=\"/passage/?search=Deut 7:13\">Deut. 7:13</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 28:4\">28:4</a>; contrast <a class=\"bibleref\" href=\"/passage/?search=Deut 28:30\">Deut. 28:30</a>).</p><p><b>Samaria.</b> The capital of the northern kingdom of Israel, or the northern kingdom as a whole. Its people were deported by Assyria in 722 <span class=\"small-caps\">b.c.</span></p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,31,6", "jeremiah,31,7", "jeremiah,31,8" ],
+  "verses" : [ {
+    "verse" : "jeremiah,31,6",
+    "text" : "There will be a day when watchmen cry out on the hills of Ephraim, 'Come, let us go up to Zion, to the LORD our God.'\""
+  }, {
+    "verse" : "jeremiah,31,7",
+    "text" : "This is what the LORD says: \"Sing with joy for Jacob; shout for the foremost of the nations. Make your praises heard, and say, 'O LORD, save your people, the remnant of Israel.'"
+  }, {
+    "verse" : "jeremiah,31,8",
+    "text" : "See, I will bring them from the land of the north and gather them from the ends of the earth. Among them will be the blind and the lame, expectant mothers and women in labor; a great throng will return."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,31,6",
     "id" : 193867,
@@ -87,7 +183,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 31:6\">31:6</a></b> <b>watchmen.</b> Perhaps they were responsible for knowing the times of annual feasts, by observing the moon.</p><p><b>Ephraim . . . let us go up to Zion.</b> Not as previously, to the apostate northern shrines of Jeroboam at Bethel and Dan (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 12:26-1Kgs 12:33\">1 Kin. 12:26–33</a>), but in renewed relationship with the Lord.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,31,9", "jeremiah,31,10" ],
+  "verses" : [ {
+    "verse" : "jeremiah,31,9",
+    "text" : "They will come with weeping; they will pray as I bring them back. I will lead them beside streams of water on a level path where they will not stumble, because I am Israel's father, and Ephraim is my firstborn son."
+  }, {
+    "verse" : "jeremiah,31,10",
+    "text" : "\"Hear the word of the LORD, O nations; proclaim it in distant coastlands: 'He who scattered Israel will gather them and will watch over his flock like a shepherd.'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,31,9",
     "id" : 193868,
@@ -95,7 +197,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 31:9\">31:9</a></b> <b>lead . . . brooks of water.</b> See <a class=\"bibleref\" href=\"/passage/?search=Ps 23:2\">Ps. 23:2</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 48:21\">Is. 48:21</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 49:10\">49:10</a>.</p><p><b>straight path.</b> See <a class=\"bibleref\" href=\"/passage/?search=Isa 40:4\">Is. 40:4</a>.</p><p><b>father . . . firstborn.</b> See 3:4; 31:20; <a class=\"bibleref\" href=\"/passage/?search=Exod 4:22\">Ex. 4:22</a>; <a class=\"bibleref\" href=\"/passage/?search=Hos 11:1-Hos 11:4\">Hos. 11:1–4</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,31,11", "jeremiah,31,12", "jeremiah,31,13", "jeremiah,31,14" ],
+  "verses" : [ {
+    "verse" : "jeremiah,31,11",
+    "text" : "For the LORD will ransom Jacob and redeem them from the hand of those stronger than they."
+  }, {
+    "verse" : "jeremiah,31,12",
+    "text" : "They will come and shout for joy on the heights of Zion; they will rejoice in the bounty of the LORD - the grain, the new wine and the oil, the young of the flocks and herds. They will be like a well-watered garden, and they will sorrow no more."
+  }, {
+    "verse" : "jeremiah,31,13",
+    "text" : "Then maidens will dance and be glad, young men and old as well. I will turn their mourning into gladness; I will give them comfort and joy instead of sorrow."
+  }, {
+    "verse" : "jeremiah,31,14",
+    "text" : "I will satisfy the priests with abundance, and my people will be filled with my bounty,\" declares the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,31,11",
     "id" : 193869,
@@ -103,7 +217,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 31:11\">31:11</a></b> <b>ransomed . . . redeemed.</b> These verbs are closely related synonyms in Hebrew. The word translated “ransomed” means “to set free by paying a ransom,” and it is used of the Lord’s act of liberating Israel from Egypt (<a class=\"bibleref\" href=\"/passage/?search=Deut 7:8\">Deut. 7:8</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 9:26\">9:26</a>). The second verb (“redeemed”) is a technical term related to the responsibility of a “close relative” to purchase or “redeem” property which would otherwise be alienated from a family (32:8; <a class=\"bibleref\" href=\"/passage/?search=Ruth 2:20\">Ruth 2:20</a> note). It is also used of God’s deliverance of Israel from Egypt (<a class=\"bibleref\" href=\"/passage/?search=Exod 6:6\">Ex. 6:6</a>, <a class=\"bibleref\" href=\"/passage/?search=Exod 6:7\">7</a>). The way that God has redeemed us to Himself through the ransom of Christ (cf. <a class=\"bibleref\" href=\"/passage/?search=1Tim 2:5\">1 Tim. 2:5</a>, <a class=\"bibleref\" href=\"/passage/?search=1Tim 2:6\">6</a>) is explained in the New Testament (see “The Atonement” at <a class=\"bibleref\" href=\"/passage/?search=Rom 3:25\">Rom. 3:25</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,31,15", "jeremiah,31,16", "jeremiah,31,17", "jeremiah,31,18", "jeremiah,31,19", "jeremiah,31,20" ],
+  "verses" : [ {
+    "verse" : "jeremiah,31,15",
+    "text" : "This is what the LORD says: \"A voice is heard in Ramah, mourning and great weeping, Rachel weeping for her children and refusing to be comforted, because her children are no more.\""
+  }, {
+    "verse" : "jeremiah,31,16",
+    "text" : "This is what the LORD says: \"Restrain your voice from weeping and your eyes from tears, for your work will be rewarded,\" declares the LORD. \"They will return from the land of the enemy."
+  }, {
+    "verse" : "jeremiah,31,17",
+    "text" : "So there is hope for your future,\" declares the LORD. \"Your children will return to their own land."
+  }, {
+    "verse" : "jeremiah,31,18",
+    "text" : "\"I have surely heard Ephraim's moaning: 'You disciplined me like an unruly calf, and I have been disciplined. Restore me, and I will return, because you are the LORD my God."
+  }, {
+    "verse" : "jeremiah,31,19",
+    "text" : "After I strayed, I repented; after I came to understand, I beat my breast. I was ashamed and humiliated because I bore the disgrace of my youth.'"
+  }, {
+    "verse" : "jeremiah,31,20",
+    "text" : "Is not Ephraim my dear son, the child in whom I delight? Though I often speak against him, I still remember him. Therefore my heart yearns for him; I have great compassion for him,\" declares the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,31,15",
     "id" : 193870,
@@ -111,7 +243,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 31:15\">31:15</a></b> <b>A voice . . . in Ramah . . . Rachel is weeping.</b> Ramah was in the region assigned to the tribe of Benjamin. Rachel weeps over the destruction of the north in 722 <span class=\"small-caps\">b.c.</span> The words are quoted in <a class=\"bibleref\" href=\"/passage/?search=Matt 2:18\">Matt. 2:18</a> concerning Herod’s slaughter of the innocents.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,31,21" ],
+  "verses" : [ {
+    "verse" : "jeremiah,31,21",
+    "text" : "\"Set up road signs; put up guideposts. Take note of the highway, the road that you take. Return, O Virgin Israel, return to your towns."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,31,21",
     "id" : 193871,
@@ -119,7 +254,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 31:21\">31:21</a></b> <b>Set up road markers.</b> Israel must remind itself to return not only to its land, but more importantly to God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,31,22", "jeremiah,31,23", "jeremiah,31,24", "jeremiah,31,25", "jeremiah,31,26" ],
+  "verses" : [ {
+    "verse" : "jeremiah,31,22",
+    "text" : "How long will you wander, O unfaithful daughter? The LORD will create a new thing on earth- a woman will surround a man.\""
+  }, {
+    "verse" : "jeremiah,31,23",
+    "text" : "This is what the LORD Almighty, the God of Israel, says: \"When I bring them back from captivity, the people in the land of Judah and in its towns will once again use these words: 'The LORD bless you, O righteous dwelling, O sacred mountain.'"
+  }, {
+    "verse" : "jeremiah,31,24",
+    "text" : "People will live together in Judah and all its towns-farmers and those who move about with their flocks."
+  }, {
+    "verse" : "jeremiah,31,25",
+    "text" : "I will refresh the weary and satisfy the faint.\""
+  }, {
+    "verse" : "jeremiah,31,26",
+    "text" : "At this I awoke and looked around. My sleep had been pleasant to me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,31,22",
     "id" : 193872,

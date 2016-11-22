@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,10,8" ],
+  "verses" : [ {
+    "verse" : "proverbs,10,8",
+    "text" : "The wise in heart accept commands, but a chattering fool comes to ruin."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -17,7 +20,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 10:8\">10:8</a></b> <b>receive commandments.</b> The wise person is teachable and receives the commands of wisdom (<a class=\"bibleref\" href=\"/passage/?search=Prov 2:1\">2:1</a>; <a class=\"bibleref\" href=\"/passage/?search=Prov 3:1\">3:1</a> note).</p><p><b>babbling fool.</b> Fools do not know when to be silent and listen. They lack the discipline of wisdom and promote their own downfall (<a class=\"bibleref\" href=\"/passage/?search=Prov 3:14\">v. 14</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,10,9" ],
+  "verses" : [ {
+    "verse" : "proverbs,10,9",
+    "text" : "The man of integrity walks securely, but he who takes crooked paths will be found out."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,9",
     "id" : 191852,

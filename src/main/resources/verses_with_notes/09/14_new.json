@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "galatians,1,1", "galatians,1,2" ],
+  "verses" : [ {
+    "verse" : "galatians,1,1",
+    "text" : "Paul, an apostle--sent not from men nor by man, but by Jesus Christ and God the Father, who raised him from the dead--"
+  }, {
+    "verse" : "galatians,1,2",
+    "text" : "and all the brothers with me, To the churches in Galatia:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "galatians,1,1",
     "id" : 198380,
@@ -7,7 +13,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gal 1:1\">1:1</a></b> <b>Paul.</b> We know from fifteen references in <a class=\"bibleref\" href=\"/passage/?search=Acts 7-Acts 13\">Acts 7–13</a> that Paul was also called “Saul.” In his letters, however, he always calls himself “Paul,” a common Roman name.</p><p><b>apostle.</b> The word means “messenger.” Paul could on occasion use it to refer to an envoy such as Epaphroditus (<a class=\"bibleref\" href=\"/passage/?search=Phil 2:25\">Phil. 2:25</a>), but he uses it here to denote the original apostles at Jerusalem (1:19; <a class=\"bibleref\" href=\"/passage/?search=1Cor 15:9\">1 Cor. 15:9</a>). Paul claims the authority of an apostle to lay the foundation of the church (<a class=\"bibleref\" href=\"/passage/?search=1Cor 3:10\">1 Cor. 3:10</a>; <a class=\"bibleref\" href=\"/passage/?search=1Cor 9:1\">9:1</a>; <a class=\"bibleref\" href=\"/passage/?search=1Cor 14:37\">14:37</a>, <a class=\"bibleref\" href=\"/passage/?search=1Cor 14:38\">38</a>; <a class=\"bibleref\" href=\"/passage/?search=Eph 2:20\">Eph. 2:20</a>; <a class=\"bibleref\" href=\"/passage/?search=Eph 3:3-Eph 3:5\">3:3–5</a>). His apostleship and calling came from God Himself (1:11–2:10). See <a class=\"bibleref\" href=\"/passage/?search=2Cor 1:1\">2 Cor. 1:1</a> note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "galatians,1,3", "galatians,1,4", "galatians,1,5" ],
+  "verses" : [ {
+    "verse" : "galatians,1,3",
+    "text" : "Grace and peace to you from God our Father and the Lord Jesus Christ,"
+  }, {
+    "verse" : "galatians,1,4",
+    "text" : "who gave himself for our sins to rescue us from the present evil age, according to the will of our God and Father,"
+  }, {
+    "verse" : "galatians,1,5",
+    "text" : "to whom be glory for ever and ever. Amen."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "galatians,1,3",
     "id" : 198381,
@@ -15,7 +30,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gal 1:3\">1:3</a></b> <b>Grace to you and peace.</b> Each of Paul’s letters begins with a reference to these two blessings from God. “Grace” translates the Greek <i>charis,</i> which means “an undeserved act of kindness.” Paul uses this word more often than any other New Testament writer and gives it immense theological significance. It refers to all that God has given us in Christ, nothing of which we have earned or can repay. “Peace” refers to the relationship that Christ’s death and resurrection (<a class=\"bibleref\" href=\"/passage/?search=Gal 1:4\">1:4</a>) have established with God for those who believe the gospel. For Paul’s own comments on the meaning of these two terms, see <a class=\"bibleref\" href=\"/passage/?search=Rom 5:1\">Rom. 5:1</a>, <a class=\"bibleref\" href=\"/passage/?search=Rom 5:2\">2</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "galatians,1,6" ],
+  "verses" : [ {
+    "verse" : "galatians,1,6",
+    "text" : "I am astonished that you are so quickly deserting the one who called you by the grace of Christ and are turning to a different gospel--"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "galatians,1,6",
     "id" : 198382,
@@ -23,7 +41,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gal 1:6\">1:6</a></b> <b>called you in the grace.</b> God’s grace comes to us at His initiative, by His call, and not because of anything we have done to deserve it (<a class=\"bibleref\" href=\"/passage/?search=Gal 1:15\">1:15</a>; <a class=\"bibleref\" href=\"/passage/?search=Rom 4:4-Rom 4:8\">Rom. 4:4–8</a>; <a class=\"bibleref\" href=\"/passage/?search=Rom 8:30\">8:30</a>; <a class=\"bibleref\" href=\"/passage/?search=Rom 9:11-Rom 9:13\">9:11–13</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "galatians,1,7" ],
+  "verses" : [ {
+    "verse" : "galatians,1,7",
+    "text" : "which is really no gospel at all. Evidently some people are throwing you into confusion and are trying to pervert the gospel of Christ."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "galatians,1,7",
     "id" : 198383,
@@ -31,7 +52,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gal 1:7\">1:7</a></b> <b>some who trouble.</b> Probably Jewish Christians from Jerusalem who insisted that Gentiles must not only believe in Jesus Christ but must also accept circumcision and thereby become Jews (<a class=\"bibleref\" href=\"/passage/?search=Gal 2:3-Gal 2:5\">2:3–5</a>, <a class=\"bibleref\" href=\"/passage/?search=Gal 2:12\">12</a>; <a class=\"bibleref\" href=\"/passage/?search=Gal 6:12\">6:12</a>, <a class=\"bibleref\" href=\"/passage/?search=Gal 6:13\">13</a>). Various shades of this idea were widespread among early Jewish Christians (<a class=\"bibleref\" href=\"/passage/?search=Acts 15:1\">Acts 15:1</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 21:20\">21:20</a>, <a class=\"bibleref\" href=\"/passage/?search=Acts 21:21\">21</a>; <a class=\"bibleref\" href=\"/passage/?search=Phil 3:2\">Phil. 3:2</a>, <a class=\"bibleref\" href=\"/passage/?search=Phil 3:3\">3</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "galatians,1,8" ],
+  "verses" : [ {
+    "verse" : "galatians,1,8",
+    "text" : "But even if we or an angel from heaven should preach a gospel other than the one we preached to you, let him be eternally condemned!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "galatians,1,8-galatians,1,9",
     "id" : 198384,
@@ -39,7 +63,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gal 1:8\">1:8</a>, <a class=\"bibleref\" href=\"/passage/?search=Gal 1:9\">9</a></b> Those who add any additional requirements for salvation to faith in Jesus Christ, no matter how excellent their credentials, twist the gospel into another form. The preachers of the false gospel are under God’s condemnation.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "galatians,1,9" ],
+  "verses" : [ {
+    "verse" : "galatians,1,9",
+    "text" : "As we have already said, so now I say again: If anybody is preaching to you a gospel other than what you accepted, let him be eternally condemned!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "galatians,1,9",
     "id" : 198385,
@@ -47,7 +74,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gal 1:9\">1:9</a></b> <b>accursed.</b> Paul’s usual thanksgiving for his readers is here replaced by the threat of a curse, repeated for emphasis. The Greek word is <i>anathema</i> used also in <a class=\"bibleref\" href=\"/passage/?search=Rom 9:3\">Rom. 9:3</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "galatians,1,10" ],
+  "verses" : [ {
+    "verse" : "galatians,1,10",
+    "text" : "Am I now trying to win the approval of men, or of God? Or am I trying to please men? If I were still trying to please men, I would not be a servant of Christ."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "galatians,1,10",
     "id" : 198386,
@@ -55,7 +85,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gal 1:10\">1:10</a></b> <b>seeking the approval of man.</b> Paul’s opponents in Galatia attacked not only the gospel but also its messenger, Paul. One of their charges was that Paul preached an easy form of the gospel, requiring neither circumcision nor obedience to the Sabbath laws and dietary restrictions (<a class=\"bibleref\" href=\"/passage/?search=Gal 4:10\">4:10</a>; <a class=\"bibleref\" href=\"/passage/?search=Gal 5:11\">5:11</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "galatians,1,11" ],
+  "verses" : [ {
+    "verse" : "galatians,1,11",
+    "text" : "I want you to know, brothers, that the gospel I preached is not something that man made up."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "galatians,1,11",
     "id" : 198387,
@@ -63,7 +96,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gal 1:11\">1:11</a></b> <b>not man’s.</b> Paul defends himself against his opponents’ charge that he is in rebellion against the Jerusalem apostles who gave him his authority in the first place. Paul contends that his authority comes from God alone, the Jerusalem apostles merely confirming it.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "galatians,1,12" ],
+  "verses" : [ {
+    "verse" : "galatians,1,12",
+    "text" : "I did not receive it from any man, nor was I taught it; rather, I received it by revelation from Jesus Christ."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "galatians,1,12",
     "id" : 198388,
@@ -71,7 +107,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gal 1:12\">1:12</a></b> <b>through a revelation.</b> See <a class=\"bibleref\" href=\"/passage/?search=Acts 9:3-Acts 9:5\">Acts 9:3–5</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 22:6-Acts 22:10\">22:6–10</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 26:13-Acts 26:18\">26:13–18</a>; <a class=\"bibleref\" href=\"/passage/?search=1Cor 15:8\">1 Cor. 15:8</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "galatians,1,13" ],
+  "verses" : [ {
+    "verse" : "galatians,1,13",
+    "text" : "For you have heard of my previous way of life in Judaism, how intensely I persecuted the church of God and tried to destroy it."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "galatians,1,13",
     "id" : 198389,
@@ -79,7 +118,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gal 1:13\">1:13</a></b> <b>persecuted the church of God.</b> Paul’s persecution of the church before his call was well known to the early Christians (<a class=\"bibleref\" href=\"/passage/?search=Acts 7:58\">Acts 7:58</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 8:3\">8:3</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 9:1\">9:1</a>, <a class=\"bibleref\" href=\"/passage/?search=Acts 9:2\">2</a>). Paul himself was profoundly ashamed of this part of his past (<a class=\"bibleref\" href=\"/passage/?search=1Cor 15:9\">1 Cor. 15:9</a>), although he looked on it as evidence that God’s grace can overcome even the most rebellious sinners (<a class=\"bibleref\" href=\"/passage/?search=Acts 22:4\">Acts 22:4</a>, <a class=\"bibleref\" href=\"/passage/?search=Acts 22:5\">5</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 26:9-Acts 26:11\">26:9–11</a>; <a class=\"bibleref\" href=\"/passage/?search=1Cor 15:10\">1 Cor. 15:10</a>; <a class=\"bibleref\" href=\"/passage/?search=Phil 3:6\">Phil. 3:6</a>; <a class=\"bibleref\" href=\"/passage/?search=1Tim 1:13\">1 Tim. 1:13</a>, <a class=\"bibleref\" href=\"/passage/?search=1Tim 1:14\">14</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "galatians,1,14" ],
+  "verses" : [ {
+    "verse" : "galatians,1,14",
+    "text" : "I was advancing in Judaism beyond many Jews of my own age and was extremely zealous for the traditions of my fathers."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "galatians,1,14",
     "id" : 198390,
@@ -87,7 +129,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gal 1:14\">1:14</a></b> <b>extremely zealous.</b> Paul was fond of pointing out to opponents like those in Galatia that being a Jew, even a zealous Jew, is not sufficient for salvation. Paul considered his own experience proof that zeal for the law would not save (<a class=\"bibleref\" href=\"/passage/?search=Rom 9:30-Rom 10:4\">Rom. 9:30–10:4</a>; <a class=\"bibleref\" href=\"/passage/?search=2Cor 11:22\">2 Cor. 11:22</a>; <a class=\"bibleref\" href=\"/passage/?search=Phil 3:4-Phil 3:6\">Phil. 3:4–6</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "galatians,1,15" ],
+  "verses" : [ {
+    "verse" : "galatians,1,15",
+    "text" : "But when God, who set me apart from birth and called me by his grace, was pleased"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "galatians,1,15",
     "id" : 198391,
@@ -95,7 +140,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gal 1:15\">1:15</a></b> <b>before I was born.</b> Paul consciously echoes the call of Jeremiah (<a class=\"bibleref\" href=\"/passage/?search=Jer 1:5\">Jer. 1:5</a>) and, perhaps, the Servant spoken of by Isaiah (<a class=\"bibleref\" href=\"/passage/?search=Isa 49:1\">Is. 49:1</a>, <a class=\"bibleref\" href=\"/passage/?search=Isa 49:5\">5</a>), who both like Paul were called to be God’s messengers to Gentiles. Paul was conscious that his apostleship (v. 1 note) was in continuity with the Old Testament prophetic tradition.</p><p><b>called me by his grace.</b> See note on v. 3; “Effectual Calling and Conversion” at <a class=\"bibleref\" href=\"/passage/?search=2Thess 2:14\">2 Thess. 2:14</a>. Paul’s call to be an apostle, like the faith of every believer, was the product of God’s prior grace. Before our birth, and therefore before we could do anything good or bad, God chose to create faith in us (<a class=\"bibleref\" href=\"/passage/?search=Rom 9:10-Rom 9:13\">Rom. 9:10–13</a>; <a class=\"bibleref\" href=\"/passage/?search=Eph 1:4-Eph 1:6\">Eph. 1:4–6</a>). No one can earn God’s call; it is a free gift.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "galatians,1,16" ],
+  "verses" : [ {
+    "verse" : "galatians,1,16",
+    "text" : "to reveal his Son in me so that I might preach him among the Gentiles, I did not consult any man,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "galatians,1,16",
     "id" : 198392,
@@ -103,7 +151,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gal 1:16\">1:16</a></b> <b>Gentiles.</b> Both “nations” and “Gentiles” are correct translations of the Greek word used here. Jewish writers used the term to refer to everyone that was not a Jew. Paul was called to preach to the Gentiles (<a class=\"bibleref\" href=\"/passage/?search=Gal 2:9\">2:9</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 9:15\">Acts 9:15</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 22:21\">22:21</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 26:17\">26:17</a>; <a class=\"bibleref\" href=\"/passage/?search=Rom 1:5\">Rom. 1:5</a>; <a class=\"bibleref\" href=\"/passage/?search=Rom 15:16\">15:16</a>), but he did not regard this as a call to preach exclusively to Gentiles. In <a class=\"bibleref\" href=\"/passage/?search=Acts 13-Acts 28\">Acts 13–28</a> he frequently preaches to Jews, and such passages as <a class=\"bibleref\" href=\"/passage/?search=Rom 1:14-Rom 1:16\">Rom. 1:14–16</a>; <a class=\"bibleref\" href=\"/passage/?search=Rom 9:1-Rom 9:5\">9:1–5</a>; <a class=\"bibleref\" href=\"/passage/?search=1Cor 9:20\">1 Cor. 9:20</a> show that he was ready to evangelize Jews.</p><p><b>consult with anyone.</b> Paul did, of course, meet with Ananias three days after his conversion (<a class=\"bibleref\" href=\"/passage/?search=Acts 9:10-Acts 9:19\">Acts 9:10–19</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 22:12-Acts 22:16\">22:12–16</a>). The word translated “consult,” however, suggests laying something before someone or submitting it for comment and approval. Paul certainly did not consult Ananias in this sense. Ananias’s role was to confirm Paul’s calling to preach to the Gentiles and to baptize him.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "galatians,1,17" ],
+  "verses" : [ {
+    "verse" : "galatians,1,17",
+    "text" : "nor did I go up to Jerusalem to see those who were apostles before I was, but I went immediately into Arabia and later returned to Damascus."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "galatians,1,17",
     "id" : 198393,
@@ -111,7 +162,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gal 1:17\">1:17</a></b> <b>Jerusalem . . . Arabia . . . Damascus.</b> Paul’s conversion and call took place near Damascus (<a class=\"bibleref\" href=\"/passage/?search=Acts 9:3\">Acts 9:3</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 22:6\">22:6</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 26:12\">26:12</a>). He spent several days in the city after his conversion (<a class=\"bibleref\" href=\"/passage/?search=Acts 9:19\">Acts 9:19</a>). This ancient city is on a fertile plain between two rivers, and the traveler from there must literally “go up” to Jerusalem in the Palestinian highlands. Jerusalem was the cultural and religious center of Palestine, and home to James, Peter, and John, who are prominent in Acts and Galatians as leaders of the early Christian community in Jerusalem (2:9). Paul stresses that his call to preach to the Gentiles came from God and not from the leaders of the Jerusalem church. Arabia was ruled by a Nabatean king, Aretas IV, who struggled with Rome for control of Damascus. When Paul was converted, Aretas’s governor was in control of the city and apparently aided angry Jews in an effort to kill Paul (<a class=\"bibleref\" href=\"/passage/?search=Acts 9:23-Acts 9:25\">Acts 9:23–25</a>; <a class=\"bibleref\" href=\"/passage/?search=2Cor 11:32\">2 Cor. 11:32</a>, <a class=\"bibleref\" href=\"/passage/?search=2Cor 11:33\">33</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "galatians,1,18" ],
+  "verses" : [ {
+    "verse" : "galatians,1,18",
+    "text" : "Then after three years, I went up to Jerusalem to get acquainted with Peter and stayed with him fifteen days."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "galatians,1,18",
     "id" : 198394,
@@ -119,7 +173,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gal 1:18\">1:18</a></b> <b>three years.</b> The “many days” of <a class=\"bibleref\" href=\"/passage/?search=Acts 9:23\">Acts 9:23</a>.</p><p><b>to Jerusalem.</b> Paul’s first trip to Jerusalem after his conversion (<a class=\"bibleref\" href=\"/passage/?search=Acts 9:26-Acts 9:30\">Acts 9:26–30</a>).</p><p><b>visit.</b> This translates a Greek word that means visiting someone for the purpose of getting information. Paul may have interviewed Peter about Jesus’ life and teaching.</p><p><b>Cephas.</b> Peter’s Aramaic name was “Cephas.” Both “Cephas” and “Peter” mean “rock.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "galatians,1,19", "galatians,1,20" ],
+  "verses" : [ {
+    "verse" : "galatians,1,19",
+    "text" : "I saw none of the other apostles--only James, the Lord's brother."
+  }, {
+    "verse" : "galatians,1,20",
+    "text" : "I assure you before God that what I am writing you is no lie."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "galatians,1,19",
     "id" : 198395,
@@ -127,7 +187,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gal 1:19\">1:19</a></b> <b>James the Lord’s brother.</b> See <a class=\"bibleref\" href=\"/passage/?search=Matt 13:55\">Matt. 13:55</a> and <a class=\"bibleref\" href=\"/passage/?search=Mark 6:3\">Mark 6:3</a>. This James is not the disciple James who is frequently coupled with Peter and John in the Gospels. Herod murdered that James in the church’s earliest days (<a class=\"bibleref\" href=\"/passage/?search=Acts 12:2\">Acts 12:2</a>). James, the Lord’s brother, at first did not believe in Jesus (<a class=\"bibleref\" href=\"/passage/?search=John 7:5\">John 7:5</a>) but later was converted, perhaps as a result of seeing the risen Lord (<a class=\"bibleref\" href=\"/passage/?search=1Cor 15:7\">1 Cor. 15:7</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "galatians,1,21" ],
+  "verses" : [ {
+    "verse" : "galatians,1,21",
+    "text" : "Later I went to Syria and Cilicia."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "galatians,1,21",
     "id" : 198396,
@@ -135,7 +198,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gal 1:21\">1:21</a></b> <b>Syria and Cilicia.</b> See <a class=\"bibleref\" href=\"/passage/?search=Acts 9:30\">Acts 9:30</a>. Paul returned home to Tarsus (<a class=\"bibleref\" href=\"/passage/?search=Acts 9:11\">Acts 9:11</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 21:39\">21:39</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 22:3\">22:3</a>), the most important city in Cilicia. This part of Cilicia was under the administration of the Roman province of Syria during the early first century. Paul’s use of the two names is accurate.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "galatians,1,22", "galatians,1,23", "galatians,1,24" ],
+  "verses" : [ {
+    "verse" : "galatians,1,22",
+    "text" : "I was personally unknown to the churches of Judea that are in Christ."
+  }, {
+    "verse" : "galatians,1,23",
+    "text" : "They only heard the report: \"The man who formerly persecuted us is now preaching the faith he once tried to destroy.\""
+  }, {
+    "verse" : "galatians,1,24",
+    "text" : "And they praised God because of me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "galatians,1,22",
     "id" : 198397,

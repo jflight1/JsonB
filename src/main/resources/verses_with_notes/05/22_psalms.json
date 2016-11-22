@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "psalms,118,19", "psalms,118,20" ],
+  "verses" : [ {
+    "verse" : "psalms,118,19",
+    "text" : "Open for me the gates of righteousness; I will enter and give thanks to the LORD."
+  }, {
+    "verse" : "psalms,118,20",
+    "text" : "This is the gate of the LORD through which the righteous may enter."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,118,1-psalms,118,29",
     "id" : 191323,
@@ -12,7 +18,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 118:19\">118:19</a></b> <b>the gates of righteousness.</b> The entrance to the sanctuary, leading to the presence of God, where the psalmist will offer thanks. The gates are righteous because the One who dwells behind them is righteous, and those who enter must be righteous as well (<a class=\"bibleref\" href=\"/passage/?search=Ps 15\">Ps. 15</a> and <a class=\"bibleref\" href=\"/passage/?search=Ps 24\">24</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,118,21" ],
+  "verses" : [ {
+    "verse" : "psalms,118,21",
+    "text" : "I will give you thanks, for you answered me; you have become my salvation."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,118,21",
     "id" : 191331,
@@ -20,7 +29,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 118:21\">118:21</a></b> <b>my salvation.</b> See note on <a class=\"bibleref\" href=\"/passage/?search=Ps 118:14\">v. 14</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,118,22", "psalms,118,23" ],
+  "verses" : [ {
+    "verse" : "psalms,118,22",
+    "text" : "The stone the builders rejected has become the capstone;"
+  }, {
+    "verse" : "psalms,118,23",
+    "text" : "the LORD has done this, and it is marvelous in our eyes."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,118,22",
     "id" : 191332,
@@ -28,7 +43,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 118:22\">118:22</a></b> <b>The stone that the builders rejected.</b> The metaphor would likely refer originally to the king, who represented his people. The stone was cast off in despair when defeat seemed inevitable, and victory was no longer a realistic hope (but see following note).</p><p><b>the cornerstone.</b> The low and insignificant, despite having been rejected, is exalted to the chief place. Jesus later applies this passage to Himself (<a class=\"bibleref\" href=\"/passage/?search=Matt 21:42\">Matt. 21:42</a>; <a class=\"bibleref\" href=\"/passage/?search=Mark 12:10\">Mark 12:10</a>; <a class=\"bibleref\" href=\"/passage/?search=Luke 20:17\">Luke 20:17</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 4:11\">Acts 4:11</a> and <a class=\"bibleref\" href=\"/passage/?search=1Pet 2:7\">1 Pet. 2:7</a>). Jesus is the cornerstone (<a class=\"bibleref\" href=\"/passage/?search=Eph 2:20\">Eph. 2:20</a>), cast away by the earthly rulers of His day, but exalted to the right hand of the Father. To some this is a cause for stumbling (<a class=\"bibleref\" href=\"/passage/?search=Isa 8:14\">Is. 8:14</a>; <a class=\"bibleref\" href=\"/passage/?search=1Pet 2\">1 Pet. 2</a>), but to others the basis of hope.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,118,24", "psalms,118,25" ],
+  "verses" : [ {
+    "verse" : "psalms,118,24",
+    "text" : "This is the day the LORD has made; let us rejoice and be glad in it."
+  }, {
+    "verse" : "psalms,118,25",
+    "text" : "O LORD, save us; O LORD, grant us success."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,118,24",
     "id" : 191333,
@@ -36,7 +57,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 118:24\">118:24</a></b> <b>the day that the <span class=\"small-caps\">Lord</span> has made.</b> Because of God’s victory, His people will turn the day of despair into a day of worship before the Lord.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,118,26" ],
+  "verses" : [ {
+    "verse" : "psalms,118,26",
+    "text" : "Blessed is he who comes in the name of the LORD. From the house of the LORD we bless you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,118,26",
     "id" : 191334,
@@ -44,7 +68,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 118:26\">118:26</a></b> <b>Blessed is he who comes in the name of the <span class=\"small-caps\">Lord.</span></b> Later, this cry is lifted up by the crowds as they welcome the true King, Christ Jesus, into Jerusalem (<a class=\"bibleref\" href=\"/passage/?search=Matt 21:9\">Matt. 21:9</a>). In a way still beyond their understanding, Jesus was about to defeat sin and death on the cross.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,118,27", "psalms,118,28" ],
+  "verses" : [ {
+    "verse" : "psalms,118,27",
+    "text" : "The LORD is God, and he has made his light shine upon us. With boughs in hand, join in the festal procession up to the horns of the altar."
+  }, {
+    "verse" : "psalms,118,28",
+    "text" : "You are my God, and I will give you thanks; you are my God, and I will exalt you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,118,27",
     "id" : 191335,
@@ -52,7 +82,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 118:27\">118:27</a></b> <b>the festal sacrifice.</b> The sacrifice was performed in public worship before the Lord.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,118,29" ],
+  "verses" : [ {
+    "verse" : "psalms,118,29",
+    "text" : "Give thanks to the LORD, for he is good; his love endures forever."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,118,29",
     "id" : 191336,

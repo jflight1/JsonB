@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,10,29" ],
+  "verses" : [ {
+    "verse" : "proverbs,10,29",
+    "text" : "The way of the LORD is a refuge for the righteous, but it is the ruin of those who do evil."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -17,7 +20,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 10:29\">10:29</a></b> This proverb states a basic principle of covenant theology rather than an observation on human life. The wisdom writers remind us that the source of all true knowledge and wisdom is the self-revelation of God in His creative, providential, and saving works, and especially in the Scriptures.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,10,30" ],
+  "verses" : [ {
+    "verse" : "proverbs,10,30",
+    "text" : "The righteous will never be uprooted, but the wicked will not remain in the land."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,30",
     "id" : 191868,

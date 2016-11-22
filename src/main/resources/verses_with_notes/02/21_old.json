@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "leviticus,11,1" ],
+  "verses" : [ {
+    "verse" : "leviticus,11,1",
+    "text" : "The LORD said to Moses and Aaron,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,11,1-leviticus,16,34",
     "id" : 186072,
@@ -12,7 +15,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 11\">11:1–47</a></b> Moses instructs the Israelites regarding the principles of cleanness, showing them that, though all corpses are unclean (vv. 24, <a class=\"bibleref\" href=\"/passage/?search=Lev 11:27\">27</a>, <a class=\"bibleref\" href=\"/passage/?search=Lev 11:31-Lev 11:40\">31–40</a>), some perfectly healthy creatures are also stated to be unclean in a milder sense and therefore must not be eaten. Although some of the forbidden animals posed a possible health threat (e.g., pigs as carriers of trichinosis), this classification is not based simply on health grounds. Rather, the principle teaches basic moral and spiritual truths. Carnivorous animals and birds of prey eat flesh with blood in it, something forbidden to human beings (<a class=\"bibleref\" href=\"/passage/?search=Lev 7:26\">7:26</a>). Such animals also contact corpses, which are unclean. The clean creatures here symbolize Israelites, while unclean animals symbolize Gentiles. Only domesticated clean animals may be offered in sacrifice, for the sacrificial animal represents the offerer. In restricting his diet to clean animals, the Israelite was reminded that God had chosen Israel alone among the nations. Only when the new covenant admitted Gentiles to the community of God were the food laws abrogated (<a class=\"bibleref\" href=\"/passage/?search=Mark 7:19\">Mark 7:19</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 10:15\">Acts 10:15</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,11,2", "leviticus,11,3", "leviticus,11,4", "leviticus,11,5", "leviticus,11,6", "leviticus,11,7", "leviticus,11,8" ],
+  "verses" : [ {
+    "verse" : "leviticus,11,2",
+    "text" : "\"Say to the Israelites: 'Of all the animals that live on land, these are the ones you may eat:"
+  }, {
+    "verse" : "leviticus,11,3",
+    "text" : "You may eat any animal that has a split hoof completely divided and that chews the cud."
+  }, {
+    "verse" : "leviticus,11,4",
+    "text" : "\"'There are some that only chew the cud or only have a split hoof, but you must not eat them. The camel, though it chews the cud, does not have a split hoof; it is ceremonially unclean for you."
+  }, {
+    "verse" : "leviticus,11,5",
+    "text" : "The coney, though it chews the cud, does not have a split hoof; it is unclean for you."
+  }, {
+    "verse" : "leviticus,11,6",
+    "text" : "The rabbit, though it chews the cud, does not have a split hoof; it is unclean for you."
+  }, {
+    "verse" : "leviticus,11,7",
+    "text" : "And the pig, though it has a split hoof completely divided, does not chew the cud; it is unclean for you."
+  }, {
+    "verse" : "leviticus,11,8",
+    "text" : "You must not eat their meat or touch their carcasses; they are unclean for you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,11,2-leviticus,11,8",
     "id" : 186074,
@@ -20,7 +44,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 11:2-Lev 11:8\">11:2–8</a></b> Cud-chewing, cloven-hoofed land animals were clean and so could be eaten. Other animals were unclean.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,11,9", "leviticus,11,10", "leviticus,11,11", "leviticus,11,12" ],
+  "verses" : [ {
+    "verse" : "leviticus,11,9",
+    "text" : "\"'Of all the creatures living in the water of the seas and the streams, you may eat any that have fins and scales."
+  }, {
+    "verse" : "leviticus,11,10",
+    "text" : "But all creatures in the seas or streams that do not have fins and scales-whether among all the swarming things or among all the other living creatures in the water-you are to detest."
+  }, {
+    "verse" : "leviticus,11,11",
+    "text" : "And since you are to detest them, you must not eat their meat and you must detest their carcasses."
+  }, {
+    "verse" : "leviticus,11,12",
+    "text" : "Anything living in the water that does not have fins and scales is to be detestable to you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,11,9-leviticus,11,12",
     "id" : 186075,
@@ -28,7 +64,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 11:9-Lev 11:12\">11:9–12</a></b> Only ordinary fish with fins and scales were clean. Other water creatures were unclean and therefore inedible.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,11,13", "leviticus,11,14", "leviticus,11,15", "leviticus,11,16", "leviticus,11,17", "leviticus,11,18", "leviticus,11,19" ],
+  "verses" : [ {
+    "verse" : "leviticus,11,13",
+    "text" : "\"'These are the birds you are to detest and not eat because they are detestable: the eagle, the vulture, the black vulture,"
+  }, {
+    "verse" : "leviticus,11,14",
+    "text" : "the red kite, any kind of black kite,"
+  }, {
+    "verse" : "leviticus,11,15",
+    "text" : "any kind of raven,"
+  }, {
+    "verse" : "leviticus,11,16",
+    "text" : "the horned owl, the screech owl, the gull, any kind of hawk,"
+  }, {
+    "verse" : "leviticus,11,17",
+    "text" : "the little owl, the cormorant, the great owl,"
+  }, {
+    "verse" : "leviticus,11,18",
+    "text" : "the white owl, the desert owl, the osprey,"
+  }, {
+    "verse" : "leviticus,11,19",
+    "text" : "the stork, any kind of heron, the hoopoe and the bat."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,11,13-leviticus,11,19",
     "id" : 186076,
@@ -36,7 +93,79 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 11:13-Lev 11:19\">11:13–19</a></b> Birds of prey were unclean, but others were clean.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,11,20", "leviticus,11,21", "leviticus,11,22", "leviticus,11,23", "leviticus,11,24", "leviticus,11,25", "leviticus,11,26", "leviticus,11,27", "leviticus,11,28", "leviticus,11,29", "leviticus,11,30", "leviticus,11,31", "leviticus,11,32", "leviticus,11,33", "leviticus,11,34", "leviticus,11,35", "leviticus,11,36", "leviticus,11,37", "leviticus,11,38", "leviticus,11,39", "leviticus,11,40", "leviticus,11,41", "leviticus,11,42", "leviticus,11,43" ],
+  "verses" : [ {
+    "verse" : "leviticus,11,20",
+    "text" : "\"'All flying insects that walk on all fours are to be detestable to you."
+  }, {
+    "verse" : "leviticus,11,21",
+    "text" : "There are, however, some winged creatures that walk on all fours that you may eat: those that have jointed legs for hopping on the ground."
+  }, {
+    "verse" : "leviticus,11,22",
+    "text" : "Of these you may eat any kind of locust, katydid, cricket or grasshopper."
+  }, {
+    "verse" : "leviticus,11,23",
+    "text" : "But all other winged creatures that have four legs you are to detest."
+  }, {
+    "verse" : "leviticus,11,24",
+    "text" : "\"'You will make yourselves unclean by these; whoever touches their carcasses will be unclean till evening."
+  }, {
+    "verse" : "leviticus,11,25",
+    "text" : "Whoever picks up one of their carcasses must wash his clothes, and he will be unclean till evening."
+  }, {
+    "verse" : "leviticus,11,26",
+    "text" : "\"'Every animal that has a split hoof not completely divided or that does not chew the cud is unclean for you; whoever touches the carcass of any of them will be unclean."
+  }, {
+    "verse" : "leviticus,11,27",
+    "text" : "Of all the animals that walk on all fours, those that walk on their paws are unclean for you; whoever touches their carcasses will be unclean till evening."
+  }, {
+    "verse" : "leviticus,11,28",
+    "text" : "Anyone who picks up their carcasses must wash his clothes, and he will be unclean till evening. They are unclean for you."
+  }, {
+    "verse" : "leviticus,11,29",
+    "text" : "\"'Of the animals that move about on the ground, these are unclean for you: the weasel, the rat, any kind of great lizard,"
+  }, {
+    "verse" : "leviticus,11,30",
+    "text" : "the gecko, the monitor lizard, the wall lizard, the skink and the chameleon."
+  }, {
+    "verse" : "leviticus,11,31",
+    "text" : "Of all those that move along the ground, these are unclean for you. Whoever touches them when they are dead will be unclean till evening."
+  }, {
+    "verse" : "leviticus,11,32",
+    "text" : "When one of them dies and falls on something, that article, whatever its use, will be unclean, whether it is made of wood, cloth, hide or sackcloth. Put it in water; it will be unclean till evening, and then it will be clean."
+  }, {
+    "verse" : "leviticus,11,33",
+    "text" : "If one of them falls into a clay pot, everything in it will be unclean, and you must break the pot."
+  }, {
+    "verse" : "leviticus,11,34",
+    "text" : "Any food that could be eaten but has water on it from such a pot is unclean, and any liquid that could be drunk from it is unclean."
+  }, {
+    "verse" : "leviticus,11,35",
+    "text" : "Anything that one of their carcasses falls on becomes unclean; an oven or cooking pot must be broken up. They are unclean, and you are to regard them as unclean."
+  }, {
+    "verse" : "leviticus,11,36",
+    "text" : "A spring, however, or a cistern for collecting water remains clean, but anyone who touches one of these carcasses is unclean."
+  }, {
+    "verse" : "leviticus,11,37",
+    "text" : "If a carcass falls on any seeds that are to be planted, they remain clean."
+  }, {
+    "verse" : "leviticus,11,38",
+    "text" : "But if water has been put on the seed and a carcass falls on it, it is unclean for you."
+  }, {
+    "verse" : "leviticus,11,39",
+    "text" : "\"'If an animal that you are allowed to eat dies, anyone who touches the carcass will be unclean till evening."
+  }, {
+    "verse" : "leviticus,11,40",
+    "text" : "Anyone who eats some of the carcass must wash his clothes, and he will be unclean till evening. Anyone who picks up the carcass must wash his clothes, and he will be unclean till evening."
+  }, {
+    "verse" : "leviticus,11,41",
+    "text" : "\"'Every creature that moves about on the ground is detestable; it is not to be eaten."
+  }, {
+    "verse" : "leviticus,11,42",
+    "text" : "You are not to eat any creature that moves about on the ground, whether it moves on its belly or walks on all fours or on many feet; it is detestable."
+  }, {
+    "verse" : "leviticus,11,43",
+    "text" : "Do not defile yourselves by any of these creatures. Do not make yourselves unclean by means of them or be made unclean by them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,11,20-leviticus,11,23",
     "id" : 186077,
@@ -44,7 +173,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 11:20-Lev 11:23\">11:20–23</a></b> Insects that hop might be eaten (<a class=\"bibleref\" href=\"/passage/?search=Lev 11:21\">v. 21</a>), but not others.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,11,44" ],
+  "verses" : [ {
+    "verse" : "leviticus,11,44",
+    "text" : "I am the LORD your God; consecrate yourselves and be holy, because I am holy. Do not make yourselves unclean by any creature that moves about on the ground."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,11,44",
     "id" : 186078,
@@ -52,7 +184,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 11:44\">11:44</a></b> See theological note “God Is Light: Divine Holiness and Justice.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,11,45", "leviticus,11,46", "leviticus,11,47", "leviticus,12,1" ],
+  "verses" : [ {
+    "verse" : "leviticus,11,45",
+    "text" : "I am the LORD who brought you up out of Egypt to be your God; therefore be holy, because I am holy."
+  }, {
+    "verse" : "leviticus,11,46",
+    "text" : "\"'These are the regulations concerning animals, birds, every living thing that moves in the water and every creature that moves about on the ground."
+  }, {
+    "verse" : "leviticus,11,47",
+    "text" : "You must distinguish between the unclean and the clean, between living creatures that may be eaten and those that may not be eaten.'\""
+  }, {
+    "verse" : "leviticus,12,1",
+    "text" : "The LORD said to Moses,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,11,45",
     "id" : 186079,
@@ -60,7 +204,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 11:45\">11:45</a></b> <b>be holy.</b> The word “holy” means “separate” or “set apart.” Only God is intrinsically holy. He is by nature majestic, awesome, and pure. He demonstrated His transcendent holiness by His creation of the world (<a class=\"bibleref\" href=\"/passage/?search=Gen 1:1\">Gen. 1:1</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 1:3\">3</a> and notes), by His great acts in history such as redeeming His people from Egypt, and by His perfect laws. Israel’s holiness derived from her unique covenant relationship with the only true and living God. His covenant provided, among other things, moral and judicial laws that reflected God’s own righteous standards, and the sacrificial system to cleanse them from sin. The immediate background for this designation of Israel as a “holy nation” is the Lord’s appearance on Mount Sinai: they washed their clothes, avoided contact with the mountain, and abstained from sexual intercourse in preparation for that unique event (<a class=\"bibleref\" href=\"/passage/?search=Exod 19:10-Exod 19:15\">Ex. 19:10–15</a>, <a class=\"bibleref\" href=\"/passage/?search=Exod 19:21-Exod 19:24\">21–24</a>; <a class=\"bibleref\" href=\"/passage/?search=Heb 12:18-Heb 12:21\">Heb. 12:18–21</a>).</p><p>Jesus Christ, the Mediator of the new covenant (<a class=\"bibleref\" href=\"/passage/?search=Heb 8:6\">Heb. 8:6</a>; <a class=\"bibleref\" href=\"/passage/?search=Heb 9:15\">9:15</a>; <a class=\"bibleref\" href=\"/passage/?search=Heb 12:24\">12:24</a>), also demands perfection (<a class=\"bibleref\" href=\"/passage/?search=Matt 5:48\">Matt. 5:48</a>). But He provides the new Israel with holiness by His perfect sacrifice, which removed the sins of His people forever (<a class=\"bibleref\" href=\"/passage/?search=Heb 9\">Heb. 9</a>; <a class=\"bibleref\" href=\"/passage/?search=Heb 10\">10</a>), and by His Holy Spirit, who inscribes God’s moral law on their hearts (<a class=\"bibleref\" href=\"/passage/?search=2Cor 3:3\">2 Cor. 3:3</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Jer 31:31-Jer 31:34\">Jer. 31:31–34</a>). Without that holiness no one will see God (<a class=\"bibleref\" href=\"/passage/?search=Heb 12:14\">Heb. 12:14</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,12,2", "leviticus,12,3", "leviticus,12,4" ],
+  "verses" : [ {
+    "verse" : "leviticus,12,2",
+    "text" : "\"Say to the Israelites: 'A woman who becomes pregnant and gives birth to a son will be ceremonially unclean for seven days, just as she is unclean during her monthly period."
+  }, {
+    "verse" : "leviticus,12,3",
+    "text" : "On the eighth day the boy is to be circumcised."
+  }, {
+    "verse" : "leviticus,12,4",
+    "text" : "Then the woman must wait thirty-three days to be purified from her bleeding. She must not touch anything sacred or go to the sanctuary until the days of her purification are over."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,12,2",
     "id" : 186080,
@@ -68,7 +221,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 12:2\">12:2</a></b> <b>unclean.</b> The flow of blood after childbirth made a mother unclean (<a class=\"bibleref\" href=\"/passage/?search=Lev 12:4\">vv. 4</a>, <a class=\"bibleref\" href=\"/passage/?search=Lev 12:5\">5</a>, <a class=\"bibleref\" href=\"/passage/?search=Lev 12:7\">7</a>). Loss of blood could lead to death, thus illustrating the equation of uncleanness with death or the threat thereof (<a class=\"bibleref\" href=\"/passage/?search=Lev 11-Lev 16\">chs. 11–16</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,12,5", "leviticus,12,6", "leviticus,12,7" ],
+  "verses" : [ {
+    "verse" : "leviticus,12,5",
+    "text" : "If she gives birth to a daughter, for two weeks the woman will be unclean, as during her period. Then she must wait sixty-six days to be purified from her bleeding."
+  }, {
+    "verse" : "leviticus,12,6",
+    "text" : "\"'When the days of her purification for a son or daughter are over, she is to bring to the priest at the entrance to the Tent of Meeting a year-old lamb for a burnt offering and a young pigeon or a dove for a sin offering."
+  }, {
+    "verse" : "leviticus,12,7",
+    "text" : "He shall offer them before the LORD to make atonement for her, and then she will be ceremonially clean from her flow of blood. \"'These are the regulations for the woman who gives birth to a boy or a girl."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,12,5",
     "id" : 186081,
@@ -76,7 +238,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 12:5\">12:5</a></b> <b>sixty-six days.</b> The text does not explain why the birth of a daughter made a mother unclean for twice as long as the birth of a son. Perhaps a daughter, as a potential mother, was subject to uncleanness in a way a son was not.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,12,8" ],
+  "verses" : [ {
+    "verse" : "leviticus,12,8",
+    "text" : "If she cannot afford a lamb, she is to bring two doves or two young pigeons, one for a burnt offering and the other for a sin offering. In this way the priest will make atonement for her, and she will be clean.'\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,12,8",
     "id" : 186082,

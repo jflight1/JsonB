@@ -1,8 +1,14 @@
 [ {
-  "singleVerses" : [ "matthew,15,1" ],
+  "verses" : [ {
+    "verse" : "matthew,15,1",
+    "text" : "Then some Pharisees and teachers of the law came to Jesus from Jerusalem and asked,"
+  } ],
   "rsbNotes" : [ ]
 }, {
-  "singleVerses" : [ "matthew,15,2" ],
+  "verses" : [ {
+    "verse" : "matthew,15,2",
+    "text" : "\"Why do your disciples break the tradition of the elders? They don't wash their hands before they eat!\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,15,2",
     "id" : 195793,
@@ -10,7 +16,31 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 15:2\">15:2</a></b> <b>tradition of the elders.</b> This oral law was regarded by the Pharisees as having equal authority with the written law. It was codified as the <i>Mishnah</i> in the second century. One of its treatises covers details of hand washing, such as how much water is to be used, how many rinsings are necessary, and so on.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,15,3", "matthew,15,4", "matthew,15,5", "matthew,15,6", "matthew,15,7", "matthew,15,8", "matthew,15,9", "matthew,15,10" ],
+  "verses" : [ {
+    "verse" : "matthew,15,3",
+    "text" : "Jesus replied, \"And why do you break the command of God for the sake of your tradition?"
+  }, {
+    "verse" : "matthew,15,4",
+    "text" : "For God said, 'Honor your father and mother' and 'Anyone who curses his father or mother must be put to death.'"
+  }, {
+    "verse" : "matthew,15,5",
+    "text" : "But you say that if a man says to his father or mother, 'Whatever help you might otherwise have received from me is a gift devoted to God,'"
+  }, {
+    "verse" : "matthew,15,6",
+    "text" : "he is not to 'honor his father 'with it. Thus you nullify the word of God for the sake of your tradition."
+  }, {
+    "verse" : "matthew,15,7",
+    "text" : "You hypocrites! Isaiah was right when he prophesied about you:"
+  }, {
+    "verse" : "matthew,15,8",
+    "text" : "\"'These people honor me with their lips, but their hearts are far from me."
+  }, {
+    "verse" : "matthew,15,9",
+    "text" : "They worship me in vain; their teachings are but rules taught by men.'\""
+  }, {
+    "verse" : "matthew,15,10",
+    "text" : "Jesus called the crowd to him and said, \"Listen and understand."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,15,3-matthew,15,6",
     "id" : 195794,
@@ -18,7 +48,46 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 15:3-Matt 15:6\">15:3–6</a></b> Jesus makes a sharp distinction between human traditions and the divine commands of Scripture. Cherished traditional understandings must not supplant or obscure the Bible itself, nor should customs be elevated to the level of divine law. See “Legalism” at <a class=\"bibleref\" href=\"/passage/?search=Matt 23:4\">Matt. 23:4</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,15,11", "matthew,15,12", "matthew,15,13", "matthew,15,14", "matthew,15,15", "matthew,15,16", "matthew,15,17", "matthew,15,18", "matthew,15,19", "matthew,15,20", "matthew,15,21", "matthew,15,22", "matthew,15,23" ],
+  "verses" : [ {
+    "verse" : "matthew,15,11",
+    "text" : "What goes into a man's mouth does not make him 'unclean,' but what comes out of his mouth, that is what makes him 'unclean.'\""
+  }, {
+    "verse" : "matthew,15,12",
+    "text" : "Then the disciples came to him and asked, \"Do you know that the Pharisees were offended when they heard this?\""
+  }, {
+    "verse" : "matthew,15,13",
+    "text" : "He replied, \"Every plant that my heavenly Father has not planted will be pulled up by the roots."
+  }, {
+    "verse" : "matthew,15,14",
+    "text" : "Leave them; they are blind guides. If a blind man leads a blind man, both will fall into a pit.\""
+  }, {
+    "verse" : "matthew,15,15",
+    "text" : "Peter said, \"Explain the parable to us.\""
+  }, {
+    "verse" : "matthew,15,16",
+    "text" : "\"Are you still so dull?\" Jesus asked them."
+  }, {
+    "verse" : "matthew,15,17",
+    "text" : "\"Don't you see that whatever enters the mouth goes into the stomach and then out of the body?"
+  }, {
+    "verse" : "matthew,15,18",
+    "text" : "But the things that come out of the mouth come from the heart, and these make a man 'unclean.'"
+  }, {
+    "verse" : "matthew,15,19",
+    "text" : "For out of the heart come evil thoughts, murder, adultery, sexual immorality, theft, false testimony, slander."
+  }, {
+    "verse" : "matthew,15,20",
+    "text" : "These are what make a man 'unclean'; but eating with unwashed hands does not make him 'unclean.'\""
+  }, {
+    "verse" : "matthew,15,21",
+    "text" : "Leaving that place, Jesus withdrew to the region of Tyre and Sidon."
+  }, {
+    "verse" : "matthew,15,22",
+    "text" : "A Canaanite woman from that vicinity came to him, crying out, \"Lord, Son of David, have mercy on me! My daughter is suffering terribly from demon-possession.\""
+  }, {
+    "verse" : "matthew,15,23",
+    "text" : "Jesus did not answer a word. So his disciples came to him and urged him, \"Send her away, for she keeps crying out after us.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,15,11",
     "id" : 195795,
@@ -26,7 +95,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 15:11\">15:11</a></b> <b>what comes out of the mouth.</b> What one says is a reflection or product of what is inside (<a class=\"bibleref\" href=\"/passage/?search=Matt 12:36\">12:36</a>, <a class=\"bibleref\" href=\"/passage/?search=Matt 12:37\">37</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,15,24", "matthew,15,25" ],
+  "verses" : [ {
+    "verse" : "matthew,15,24",
+    "text" : "He answered, \"I was sent only to the lost sheep of Israel.\""
+  }, {
+    "verse" : "matthew,15,25",
+    "text" : "The woman came and knelt before him. \"Lord, help me!\" she said."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,15,24",
     "id" : 195796,
@@ -34,7 +109,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 15:24\">15:24</a></b> <b>only to the lost sheep . . . of Israel.</b> Prior to the resurrection, the “wall of hostility” (<a class=\"bibleref\" href=\"/passage/?search=Eph 2:14\">Eph. 2:14</a>) still stood. Jesus came as the Messiah and heir to the throne of David. Jesus graciously responds only after it was clear that the woman had no presumption of deserving the blessing promised to Israel; rather, she hoped to benefit from the overflow of those blessings.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,15,26", "matthew,15,27", "matthew,15,28" ],
+  "verses" : [ {
+    "verse" : "matthew,15,26",
+    "text" : "He replied, \"It is not right to take the children's bread and toss it to their dogs.\""
+  }, {
+    "verse" : "matthew,15,27",
+    "text" : "\"Yes, Lord,\" she said, \"but even the dogs eat the crumbs that fall from their masters' table.\""
+  }, {
+    "verse" : "matthew,15,28",
+    "text" : "Then Jesus answered, \"Woman, you have great faith! Your request is granted.\" And her daughter was healed from that very hour."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,15,26",
     "id" : 195797,

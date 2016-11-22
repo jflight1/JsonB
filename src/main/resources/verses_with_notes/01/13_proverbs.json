@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,3,11" ],
+  "verses" : [ {
+    "verse" : "proverbs,3,11",
+    "text" : "My son, do not despise the LORD's discipline and do not resent his rebuke,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,3,1-proverbs,3,12",
     "id" : 191681,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 3:11\">3:11</a></b> <b>discipline.</b> Although the instruction of God will require chastisement, this correction is not calculated to harm or anger His children. But because chastisement is suffering, specific encouragement not to rebel against it is necessary.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,3,12" ],
+  "verses" : [ {
+    "verse" : "proverbs,3,12",
+    "text" : "because the LORD disciplines those he loves, as a father the son he delights in."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,3,12",
     "id" : 191692,

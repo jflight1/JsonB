@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,30,7" ],
+  "verses" : [ {
+    "verse" : "proverbs,30,7",
+    "text" : "\"Two things I ask of you, O LORD; do not refuse me before I die:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,30,7-proverbs,30,9",
     "id" : 192342,
@@ -7,7 +10,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 30:7-Prov 30:9\">30:7–9</a></b> This prayer reflects a desire to learn from the kind of wisdom that is in Proverbs.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,30,8" ],
+  "verses" : [ {
+    "verse" : "proverbs,30,8",
+    "text" : "Keep falsehood and lies far from me; give me neither poverty nor riches, but give me only my daily bread."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,30,8",
     "id" : 192343,
@@ -15,7 +21,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 30:8\">30:8</a></b> <b>the food that is needful for me.</b> The request is for a sufficiency that avoids both extremes of poverty and unnecessary riches.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,30,9" ],
+  "verses" : [ {
+    "verse" : "proverbs,30,9",
+    "text" : "Otherwise, I may have too much and disown you and say, 'Who is the LORD?' Or I may become poor and steal, and so dishonor the name of my God."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,30,9",
     "id" : 192344,

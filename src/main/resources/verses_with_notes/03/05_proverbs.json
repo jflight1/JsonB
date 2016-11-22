@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,10,26" ],
+  "verses" : [ {
+    "verse" : "proverbs,10,26",
+    "text" : "As vinegar to the teeth and smoke to the eyes, so is a sluggard to those who send him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

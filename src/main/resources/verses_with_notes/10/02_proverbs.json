@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "proverbs,24,15", "proverbs,24,16" ],
+  "verses" : [ {
+    "verse" : "proverbs,24,15",
+    "text" : "Do not lie in wait like an outlaw against a righteous man's house, do not raid his dwelling place;"
+  }, {
+    "verse" : "proverbs,24,16",
+    "text" : "for though a righteous man falls seven times, he rises again, but the wicked are brought down by calamity."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,22,17-proverbs,24,22",
     "id" : 192162,

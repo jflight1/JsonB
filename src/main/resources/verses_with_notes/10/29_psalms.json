@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,101,1" ],
+  "verses" : [ {
+    "verse" : "psalms,101,1",
+    "text" : "I will sing of your love and justice; to you, O LORD, I will sing praise."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,101,1-psalms,101,8",
     "id" : 191119,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 101:1\">101:1</a></b> <b>justice.</b> The reference is to God’s judgments. The psalmist praises the Lord for them because they are consistent and righteous, not arbitrary.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,101,2" ],
+  "verses" : [ {
+    "verse" : "psalms,101,2",
+    "text" : "I will be careful to lead a blameless life- when will you come to me? I will walk in my house with blameless heart."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,101,2",
     "id" : 191121,
@@ -20,7 +26,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 101:2\">101:2</a></b> <b>the way that is blameless.</b> As defined by the law of God. See <a class=\"bibleref\" href=\"/passage/?search=Mic 6:8\">Mic. 6:8</a> for the classic description.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,101,3", "psalms,101,4" ],
+  "verses" : [ {
+    "verse" : "psalms,101,3",
+    "text" : "I will set before my eyes no vile thing. The deeds of faithless men I hate; they will not cling to me."
+  }, {
+    "verse" : "psalms,101,4",
+    "text" : "Men of perverse heart shall be far from me; I will have nothing to do with evil."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,101,3",
     "id" : 191122,
@@ -28,7 +40,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 101:3\">101:3</a></b> <b>I hate.</b> The psalmist strongly repudiates wicked deeds. He will not tolerate them in his presence. In this he seeks to emulate God, who will not tolerate an unrepentant sinner in His presence.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,101,5", "psalms,101,6", "psalms,101,7", "psalms,101,8" ],
+  "verses" : [ {
+    "verse" : "psalms,101,5",
+    "text" : "Whoever slanders his neighbor in secret, him will I put to silence; whoever has haughty eyes and a proud heart, him will I not endure."
+  }, {
+    "verse" : "psalms,101,6",
+    "text" : "My eyes will be on the faithful in the land, that they may dwell with me; he whose walk is blameless will minister to me."
+  }, {
+    "verse" : "psalms,101,7",
+    "text" : "No one who practices deceit will dwell in my house; no one who speaks falsely will stand in my presence."
+  }, {
+    "verse" : "psalms,101,8",
+    "text" : "Every morning I will put to silence all the wicked in the land; I will cut off every evildoer from the city of the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,101,5",
     "id" : 191123,

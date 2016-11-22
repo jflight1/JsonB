@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,20,22" ],
+  "verses" : [ {
+    "verse" : "proverbs,20,22",
+    "text" : "Do not say, \"I'll pay you back for this wrong!\" Wait for the LORD, and he will deliver you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 20:22\">20:22</a></b> This directive parallels the principle in <a class=\"bibleref\" href=\"/passage/?search=Deut 32:35\">Deut. 32:35</a> and <a class=\"bibleref\" href=\"/passage/?search=Rom 12:19\">Rom. 12:19</a>, warning against taking the law into one’s own hands and undermining the order of society. The deliverance is not national (<a class=\"bibleref\" href=\"/passage/?search=Deut 32:35\">Deut. 32:35</a>, <a class=\"bibleref\" href=\"/passage/?search=Deut 32:36\">36</a>) but individual, possibly by means of due legal process, but ultimately with the Lord Himself as its source.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,20,23" ],
+  "verses" : [ {
+    "verse" : "proverbs,20,23",
+    "text" : "The LORD detests differing weights, and dishonest scales do not please him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,20,23",
     "id" : 192111,

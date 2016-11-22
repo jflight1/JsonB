@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,37,12" ],
+  "verses" : [ {
+    "verse" : "psalms,37,12",
+    "text" : "The wicked plot against the righteous and gnash their teeth at them;"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,37,1-psalms,37,40",
     "id" : 190511,
@@ -7,7 +10,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 37\">Ps. 37</a></b> An acrostic (Introduction: Characteristics and Themes), and like most acrostics, a wisdom meditation.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,37,13", "psalms,37,14" ],
+  "verses" : [ {
+    "verse" : "psalms,37,13",
+    "text" : "but the Lord laughs at the wicked, for he knows their day is coming."
+  }, {
+    "verse" : "psalms,37,14",
+    "text" : "The wicked draw the sword and bend the bow to bring down the poor and needy, to slay those whose ways are upright."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,37,13",
     "id" : 190516,
@@ -15,7 +24,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 37:13\">37:13</a></b> <b>the Lord laughs at the wicked.</b> See <a class=\"bibleref\" href=\"/passage/?search=Ps 2:4\">Ps. 2:4</a>. Vivid human language describes the folly of rebellion against the Almighty. God is not threatened, nor is His judgment avoided.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,37,15", "psalms,37,16", "psalms,37,17", "psalms,37,18", "psalms,37,19", "psalms,37,20" ],
+  "verses" : [ {
+    "verse" : "psalms,37,15",
+    "text" : "But their swords will pierce their own hearts, and their bows will be broken."
+  }, {
+    "verse" : "psalms,37,16",
+    "text" : "Better the little that the righteous have than the wealth of many wicked;"
+  }, {
+    "verse" : "psalms,37,17",
+    "text" : "for the power of the wicked will be broken, but the LORD upholds the righteous."
+  }, {
+    "verse" : "psalms,37,18",
+    "text" : "The days of the blameless are known to the LORD, and their inheritance will endure forever."
+  }, {
+    "verse" : "psalms,37,19",
+    "text" : "In times of disaster they will not wither; in days of famine they will enjoy plenty."
+  }, {
+    "verse" : "psalms,37,20",
+    "text" : "But the wicked will perish: The LORD's enemies will be like the beauty of the fields, they will vanish-vanish like smoke."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,37,15",
     "id" : 190517,
@@ -23,7 +50,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 37:15\">37:15</a></b> <b>their sword shall enter their own heart.</b> The consequences of sin are frequently the result of its own outworking. See <a class=\"bibleref\" href=\"/passage/?search=Ps 7:14-Ps 7:16\">7:14–16</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 34:21\">34:21</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 35:8\">35:8</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,37,21", "psalms,37,22", "psalms,37,23" ],
+  "verses" : [ {
+    "verse" : "psalms,37,21",
+    "text" : "The wicked borrow and do not repay, but the righteous give generously;"
+  }, {
+    "verse" : "psalms,37,22",
+    "text" : "those the LORD blesses will inherit the land, but those he curses will be cut off."
+  }, {
+    "verse" : "psalms,37,23",
+    "text" : "If the LORD delights in a man's way, he makes his steps firm;"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,37,21",
     "id" : 190518,
@@ -31,7 +67,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 37:21\">37:21</a></b> <b>borrows but does not pay back.</b> The wicked break the eighth commandment, against stealing, by not repaying their debts. The righteous pay their debts and give money generously. Those who give mercifully in God’s cause prosper at last.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,37,24" ],
+  "verses" : [ {
+    "verse" : "psalms,37,24",
+    "text" : "though he stumble, he will not fall, for the LORD upholds him with his hand."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,37,24",
     "id" : 190519,
@@ -39,7 +78,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 37:24\">37:24</a></b> <b>fall.</b> The wise man is not perfect—he may fall in the way. But God guides and protects him even when he sins and encounters obstacles.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,37,25", "psalms,37,26", "psalms,37,27", "psalms,37,28", "psalms,37,29" ],
+  "verses" : [ {
+    "verse" : "psalms,37,25",
+    "text" : "I was young and now I am old, yet I have never seen the righteous forsaken or their children begging bread."
+  }, {
+    "verse" : "psalms,37,26",
+    "text" : "They are always generous and lend freely; their children will be blessed."
+  }, {
+    "verse" : "psalms,37,27",
+    "text" : "Turn from evil and do good; then you will dwell in the land forever."
+  }, {
+    "verse" : "psalms,37,28",
+    "text" : "For the LORD loves the just and will not forsake his faithful ones. They will be protected forever, but the offspring of the wicked will be cut off;"
+  }, {
+    "verse" : "psalms,37,29",
+    "text" : "the righteous will inherit the land and dwell in it forever."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,37,25-psalms,37,26",
     "id" : 190520,

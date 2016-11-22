@@ -1,5 +1,41 @@
 [ {
-  "singleVerses" : [ "exodus,35,10", "exodus,35,11", "exodus,35,12", "exodus,35,13", "exodus,35,14", "exodus,35,15", "exodus,35,16", "exodus,35,17", "exodus,35,18", "exodus,35,19", "exodus,35,20", "exodus,35,21" ],
+  "verses" : [ {
+    "verse" : "exodus,35,10",
+    "text" : "\"All who are skilled among you are to come and make everything the LORD has commanded:"
+  }, {
+    "verse" : "exodus,35,11",
+    "text" : "the tabernacle with its tent and its covering, clasps, frames, crossbars, posts and bases;"
+  }, {
+    "verse" : "exodus,35,12",
+    "text" : "the ark with its poles and the atonement cover and the curtain that shields it;"
+  }, {
+    "verse" : "exodus,35,13",
+    "text" : "the table with its poles and all its articles and the bread of the Presence;"
+  }, {
+    "verse" : "exodus,35,14",
+    "text" : "the lampstand that is for light with its accessories, lamps and oil for the light;"
+  }, {
+    "verse" : "exodus,35,15",
+    "text" : "the altar of incense with its poles, the anointing oil and the fragrant incense; the curtain for the doorway at the entrance to the tabernacle;"
+  }, {
+    "verse" : "exodus,35,16",
+    "text" : "the altar of burnt offering with its bronze grating, its poles and all its utensils; the bronze basin with its stand;"
+  }, {
+    "verse" : "exodus,35,17",
+    "text" : "the curtains of the courtyard with its posts and bases, and the curtain for the entrance to the courtyard;"
+  }, {
+    "verse" : "exodus,35,18",
+    "text" : "the tent pegs for the tabernacle and for the courtyard, and their ropes;"
+  }, {
+    "verse" : "exodus,35,19",
+    "text" : "the woven garments worn for ministering in the sanctuary-both the sacred garments for Aaron the priest and the garments for his sons when they serve as priests.\""
+  }, {
+    "verse" : "exodus,35,20",
+    "text" : "Then the whole Israelite community withdrew from Moses' presence,"
+  }, {
+    "verse" : "exodus,35,21",
+    "text" : "and everyone who was willing and whose heart moved him came and brought an offering to the LORD for the work on the Tent of Meeting, for all its service, and for the sacred garments."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,35,4-exodus,39,43",
     "id" : 185989,
@@ -7,7 +43,70 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 35:4-Exod 39:43\">35:4–39:43</a></b> This entire section is based on <a class=\"bibleref\" href=\"/passage/?search=Exod 25-Exod 31\">chs. 25–31</a> but follows a different order. While <a class=\"bibleref\" href=\"/passage/?search=Exod 25-Exod 31\">chs. 25–31</a> gave the instructions for the tabernacle, this section describes its construction. Beginning with the reiteration of instructions for the gathering of offerings and artisans (<a class=\"bibleref\" href=\"/passage/?search=Exod 35:4-Exod 35:19\">35:4–19</a>), the narrative then moves logically to the gathering of materials and the recognition of artisans (<a class=\"bibleref\" href=\"/passage/?search=Exod 35:20-Exod 36:7\">35:20–36:7</a>), the construction of the tabernacle parts and contents (<a class=\"bibleref\" href=\"/passage/?search=Exod 36:8-Exod 38:31\">36:8–38:31</a>), the preparation of sacred vestments (<a class=\"bibleref\" href=\"/passage/?search=Exod 39:1-Exod 39:31\">39:1–31</a>), the erection of the tabernacle (<a class=\"bibleref\" href=\"/passage/?search=Exod 39:32-Exod 40:33\">39:32–40:33</a>), and finally to the climactic arrival of the glory of the Lord in the tabernacle (<a class=\"bibleref\" href=\"/passage/?search=Exod 40:34-Exod 40:38\">40:34–38</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,35,22", "exodus,35,23", "exodus,35,24", "exodus,35,25", "exodus,35,26", "exodus,35,27", "exodus,35,28", "exodus,35,29", "exodus,35,30", "exodus,35,31", "exodus,35,32", "exodus,35,33", "exodus,35,34", "exodus,35,35", "exodus,36,1", "exodus,36,2", "exodus,36,3", "exodus,36,4", "exodus,36,5", "exodus,36,6", "exodus,36,7" ],
+  "verses" : [ {
+    "verse" : "exodus,35,22",
+    "text" : "All who were willing, men and women alike, came and brought gold jewelry of all kinds: brooches, earrings, rings and ornaments. They all presented their gold as a wave offering to the LORD."
+  }, {
+    "verse" : "exodus,35,23",
+    "text" : "Everyone who had blue, purple or scarlet yarn or fine linen, or goat hair, ram skins dyed red or hides of sea cows brought them."
+  }, {
+    "verse" : "exodus,35,24",
+    "text" : "Those presenting an offering of silver or bronze brought it as an offering to the LORD, and everyone who had acacia wood for any part of the work brought it."
+  }, {
+    "verse" : "exodus,35,25",
+    "text" : "Every skilled woman spun with her hands and brought what she had spun-blue, purple or scarlet yarn or fine linen."
+  }, {
+    "verse" : "exodus,35,26",
+    "text" : "And all the women who were willing and had the skill spun the goat hair."
+  }, {
+    "verse" : "exodus,35,27",
+    "text" : "The leaders brought onyx stones and other gems to be mounted on the ephod and breastpiece."
+  }, {
+    "verse" : "exodus,35,28",
+    "text" : "They also brought spices and olive oil for the light and for the anointing oil and for the fragrant incense."
+  }, {
+    "verse" : "exodus,35,29",
+    "text" : "All the Israelite men and women who were willing brought to the LORD freewill offerings for all the work the LORD through Moses had commanded them to do."
+  }, {
+    "verse" : "exodus,35,30",
+    "text" : "Then Moses said to the Israelites, \"See, the LORD has chosen Bezalel son of Uri, the son of Hur, of the tribe of Judah,"
+  }, {
+    "verse" : "exodus,35,31",
+    "text" : "and he has filled him with the Spirit of God, with skill, ability and knowledge in all kinds of crafts-"
+  }, {
+    "verse" : "exodus,35,32",
+    "text" : "to make artistic designs for work in gold, silver and bronze,"
+  }, {
+    "verse" : "exodus,35,33",
+    "text" : "to cut and set stones, to work in wood and to engage in all kinds of artistic craftsmanship."
+  }, {
+    "verse" : "exodus,35,34",
+    "text" : "And he has given both him and Oholiab son of Ahisamach, of the tribe of Dan, the ability to teach others."
+  }, {
+    "verse" : "exodus,35,35",
+    "text" : "He has filled them with skill to do all kinds of work as craftsmen, designers, embroiderers in blue, purple and scarlet yarn and fine linen, and weavers-all of them master craftsmen and designers."
+  }, {
+    "verse" : "exodus,36,1",
+    "text" : "So Bezalel, Oholiab and every skilled person to whom the LORD has given skill and ability to know how to carry out all the work of constructing the sanctuary are to do the work just as the LORD has commanded.\""
+  }, {
+    "verse" : "exodus,36,2",
+    "text" : "Then Moses summoned Bezalel and Oholiab and every skilled person to whom the LORD had given ability and who was willing to come and do the work."
+  }, {
+    "verse" : "exodus,36,3",
+    "text" : "They received from Moses all the offerings the Israelites had brought to carry out the work of constructing the sanctuary. And the people continued to bring freewill offerings morning after morning."
+  }, {
+    "verse" : "exodus,36,4",
+    "text" : "So all the skilled craftsmen who were doing all the work on the sanctuary left their work"
+  }, {
+    "verse" : "exodus,36,5",
+    "text" : "and said to Moses, \"The people are bringing more than enough for doing the work the LORD commanded to be done.\""
+  }, {
+    "verse" : "exodus,36,6",
+    "text" : "Then Moses gave an order and they sent this word throughout the camp: \"No man or woman is to make anything else as an offering for the sanctuary.\" And so the people were restrained from bringing more,"
+  }, {
+    "verse" : "exodus,36,7",
+    "text" : "because what they already had was more than enough to do all the work."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,35,22",
     "id" : 185990,
@@ -15,7 +114,100 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 35:22\">35:22</a></b> <b>women.</b> Women are mentioned for the first time. Their involvement both in the donation and preparation of the materials was significant (<a class=\"bibleref\" href=\"/passage/?search=Exod 35:25\">vv. 25</a>, <a class=\"bibleref\" href=\"/passage/?search=Exod 35:26\">26</a>, <a class=\"bibleref\" href=\"/passage/?search=Exod 35:29\">29</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,36,8", "exodus,36,9", "exodus,36,10", "exodus,36,11", "exodus,36,12", "exodus,36,13", "exodus,36,14", "exodus,36,15", "exodus,36,16", "exodus,36,17", "exodus,36,18", "exodus,36,19", "exodus,36,20", "exodus,36,21", "exodus,36,22", "exodus,36,23", "exodus,36,24", "exodus,36,25", "exodus,36,26", "exodus,36,27", "exodus,36,28", "exodus,36,29", "exodus,36,30", "exodus,36,31", "exodus,36,32", "exodus,36,33", "exodus,36,34", "exodus,36,35", "exodus,36,36", "exodus,36,37", "exodus,36,38" ],
+  "verses" : [ {
+    "verse" : "exodus,36,8",
+    "text" : "All the skilled men among the workmen made the tabernacle with ten curtains of finely twisted linen and blue, purple and scarlet yarn, with cherubim worked into them by a skilled craftsman."
+  }, {
+    "verse" : "exodus,36,9",
+    "text" : "All the curtains were the same size-twenty-eight cubits long and four cubits wide."
+  }, {
+    "verse" : "exodus,36,10",
+    "text" : "They joined five of the curtains together and did the same with the other five."
+  }, {
+    "verse" : "exodus,36,11",
+    "text" : "Then they made loops of blue material along the edge of the end curtain in one set, and the same was done with the end curtain in the other set."
+  }, {
+    "verse" : "exodus,36,12",
+    "text" : "They also made fifty loops on one curtain and fifty loops on the end curtain of the other set, with the loops opposite each other."
+  }, {
+    "verse" : "exodus,36,13",
+    "text" : "Then they made fifty gold clasps and used them to fasten the two sets of curtains together so that the tabernacle was a unit."
+  }, {
+    "verse" : "exodus,36,14",
+    "text" : "They made curtains of goat hair for the tent over the tabernacle-eleven altogether."
+  }, {
+    "verse" : "exodus,36,15",
+    "text" : "All eleven curtains were the same size-thirty cubits long and four cubits wide."
+  }, {
+    "verse" : "exodus,36,16",
+    "text" : "They joined five of the curtains into one set and the other six into another set."
+  }, {
+    "verse" : "exodus,36,17",
+    "text" : "Then they made fifty loops along the edge of the end curtain in one set and also along the edge of the end curtain in the other set."
+  }, {
+    "verse" : "exodus,36,18",
+    "text" : "They made fifty bronze clasps to fasten the tent together as a unit."
+  }, {
+    "verse" : "exodus,36,19",
+    "text" : "Then they made for the tent a covering of ram skins dyed red, and over that a covering of hides of sea cows."
+  }, {
+    "verse" : "exodus,36,20",
+    "text" : "They made upright frames of acacia wood for the tabernacle."
+  }, {
+    "verse" : "exodus,36,21",
+    "text" : "Each frame was ten cubits long and a cubit and a half wide,"
+  }, {
+    "verse" : "exodus,36,22",
+    "text" : "with two projections set parallel to each other. They made all the frames of the tabernacle in this way."
+  }, {
+    "verse" : "exodus,36,23",
+    "text" : "They made twenty frames for the south side of the tabernacle"
+  }, {
+    "verse" : "exodus,36,24",
+    "text" : "and made forty silver bases to go under them-two bases for each frame, one under each projection."
+  }, {
+    "verse" : "exodus,36,25",
+    "text" : "For the other side, the north side of the tabernacle, they made twenty frames"
+  }, {
+    "verse" : "exodus,36,26",
+    "text" : "and forty silver bases-two under each frame."
+  }, {
+    "verse" : "exodus,36,27",
+    "text" : "They made six frames for the far end, that is, the west end of the tabernacle,"
+  }, {
+    "verse" : "exodus,36,28",
+    "text" : "and two frames were made for the corners of the tabernacle at the far end."
+  }, {
+    "verse" : "exodus,36,29",
+    "text" : "At these two corners the frames were double from the bottom all the way to the top and fitted into a single ring; both were made alike."
+  }, {
+    "verse" : "exodus,36,30",
+    "text" : "So there were eight frames and sixteen silver bases-two under each frame."
+  }, {
+    "verse" : "exodus,36,31",
+    "text" : "They also made crossbars of acacia wood: five for the frames on one side of the tabernacle,"
+  }, {
+    "verse" : "exodus,36,32",
+    "text" : "five for those on the other side, and five for the frames on the west, at the far end of the tabernacle."
+  }, {
+    "verse" : "exodus,36,33",
+    "text" : "They made the center crossbar so that it extended from end to end at the middle of the frames."
+  }, {
+    "verse" : "exodus,36,34",
+    "text" : "They overlaid the frames with gold and made gold rings to hold the crossbars. They also overlaid the crossbars with gold."
+  }, {
+    "verse" : "exodus,36,35",
+    "text" : "They made the curtain of blue, purple and scarlet yarn and finely twisted linen, with cherubim worked into it by a skilled craftsman."
+  }, {
+    "verse" : "exodus,36,36",
+    "text" : "They made four posts of acacia wood for it and overlaid them with gold. They made gold hooks for them and cast their four silver bases."
+  }, {
+    "verse" : "exodus,36,37",
+    "text" : "For the entrance to the tent they made a curtain of blue, purple and scarlet yarn and finely twisted linen-the work of an embroiderer;"
+  }, {
+    "verse" : "exodus,36,38",
+    "text" : "and they made five posts with hooks for them. They overlaid the tops of the posts and their bands with gold and made their five bases of bronze."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,36,8-exodus,39,43",
     "id" : 185991,

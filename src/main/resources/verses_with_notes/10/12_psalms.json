@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "psalms,82,1", "psalms,82,2" ],
+  "verses" : [ {
+    "verse" : "psalms,82,1",
+    "text" : "God presides in the great assembly; he gives judgment among the \"gods\":"
+  }, {
+    "verse" : "psalms,82,2",
+    "text" : "\"How long will you defend the unjust and show partiality to the wicked? Selah"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,82,1-psalms,82,8",
     "id" : 190956,
@@ -12,7 +18,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 82:1\">82:1</a></b> <b>the divine council.</b> The exact scope of this congregation is unclear. It may be the heavenly assembly (including only spiritual powers), or it may include earthly kings.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,82,3", "psalms,82,4", "psalms,82,5", "psalms,82,6", "psalms,82,7" ],
+  "verses" : [ {
+    "verse" : "psalms,82,3",
+    "text" : "Defend the cause of the weak and fatherless; maintain the rights of the poor and oppressed."
+  }, {
+    "verse" : "psalms,82,4",
+    "text" : "Rescue the weak and needy; deliver them from the hand of the wicked."
+  }, {
+    "verse" : "psalms,82,5",
+    "text" : "\"They know nothing, they understand nothing. They walk about in darkness; all the foundations of the earth are shaken."
+  }, {
+    "verse" : "psalms,82,6",
+    "text" : "\"I said, 'You are \"gods\"; you are all sons of the Most High.'"
+  }, {
+    "verse" : "psalms,82,7",
+    "text" : "But you will die like mere men; you will fall like every other ruler.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,82,3",
     "id" : 190958,
@@ -20,7 +41,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 82:3\">82:3</a></b> <b>the weak.</b> See <a class=\"bibleref\" href=\"/passage/?search=Ps 9:18\">Ps. 9:18</a> note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,82,8" ],
+  "verses" : [ {
+    "verse" : "psalms,82,8",
+    "text" : "Rise up, O God, judge the earth, for all the nations are your inheritance."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,82,8",
     "id" : 190959,

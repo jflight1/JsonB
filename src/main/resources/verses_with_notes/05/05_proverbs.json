@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,14,25" ],
+  "verses" : [ {
+    "verse" : "proverbs,14,25",
+    "text" : "A truthful witness saves lives, but a false witness is deceitful."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

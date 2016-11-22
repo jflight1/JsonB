@@ -1,5 +1,26 @@
 [ {
-  "singleVerses" : [ "judges,1,1", "judges,1,2", "judges,1,3", "judges,1,4", "judges,1,5", "judges,1,6", "judges,1,7" ],
+  "verses" : [ {
+    "verse" : "judges,1,1",
+    "text" : "After the death of Joshua, the Israelites asked the LORD, \"Who will be the first to go up and fight for us against the Canaanites?\""
+  }, {
+    "verse" : "judges,1,2",
+    "text" : "The LORD answered, \"Judah is to go; I have given the land into their hands.\""
+  }, {
+    "verse" : "judges,1,3",
+    "text" : "Then the men of Judah said to the Simeonites their brothers, \"Come up with us into the territory allotted to us, to fight against the Canaanites. We in turn will go with you into yours.\" So the Simeonites went with them."
+  }, {
+    "verse" : "judges,1,4",
+    "text" : "When Judah attacked, the LORD gave the Canaanites and Perizzites into their hands and they struck down ten thousand men at Bezek."
+  }, {
+    "verse" : "judges,1,5",
+    "text" : "It was there that they found Adoni-Bezek and fought against him, putting to rout the Canaanites and Perizzites."
+  }, {
+    "verse" : "judges,1,6",
+    "text" : "Adoni-Bezek fled, but they chased him and caught him, and cut off his thumbs and big toes."
+  }, {
+    "verse" : "judges,1,7",
+    "text" : "Then Adoni-Bezek said, \"Seventy kings with their thumbs and big toes cut off have picked up scraps under my table. Now God has paid me back for what I did to them.\" They brought him to Jerusalem, and he died there."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,1,1-judges,2,5",
     "id" : 187007,
@@ -12,7 +33,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 1:1\">1:1</a></b> <b>After.</b> The Book of Joshua opens similarly: “After the death of Moses” (<a class=\"bibleref\" href=\"/passage/?search=Josh 1:1\">Josh. 1:1</a>).</p><p><b>Who.</b> The Israelites ask an almost identical question at the end of the book—“Who shall go up first for us to fight against the people of Benjamin?” (20:18). The choice of God is Judah. David and his heirs would come from this tribe.</p><p><b>Canaanites.</b> The Canaanites were one of several groups inhabiting the land of Canaan. The Israelites were commanded to annihilate them (<a class=\"bibleref\" href=\"/passage/?search=Deut 7:1-Deut 7:2\">Deut. 7:1–2</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 20:16-Deut 20:20\">20:16–20</a>), and whether they could obey these terms of the covenant will be the issue for this entire introductory section.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,1,8", "judges,1,9" ],
+  "verses" : [ {
+    "verse" : "judges,1,8",
+    "text" : "The men of Judah attacked Jerusalem also and took it. They put the city to the sword and set it on fire."
+  }, {
+    "verse" : "judges,1,9",
+    "text" : "After that, the men of Judah went down to fight against the Canaanites living in the hill country, the Negev and the western foothills."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,1,8",
     "id" : 187009,
@@ -20,7 +47,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 1:8\">1:8</a></b> <b>sword.</b> Judah obeyed the covenant by destroying the inhabitants without mercy (<a class=\"bibleref\" href=\"/passage/?search=Deut 7:1-Deut 7:2\">Deut. 7:1–2</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 20:16-Deut 20:20\">20:16–20</a>). Judah did not occupy Jerusalem at this point (v. 21).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,1,10", "judges,1,11" ],
+  "verses" : [ {
+    "verse" : "judges,1,10",
+    "text" : "They advanced against the Canaanites living in Hebron (formerly called Kiriath Arba) and defeated Sheshai, Ahiman and Talmai."
+  }, {
+    "verse" : "judges,1,11",
+    "text" : "From there they advanced against the people living in Debir (formerly called Kiriath Sepher)."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,1,10-judges,1,15",
     "id" : 187010,
@@ -28,7 +61,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 1:10-Judg 1:15\">1:10–15</a></b> These verses describing the victories of Caleb and Othniel are quoted from <a class=\"bibleref\" href=\"/passage/?search=Josh 15:13-Josh 15:19\">Josh. 15:13–19</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,1,12" ],
+  "verses" : [ {
+    "verse" : "judges,1,12",
+    "text" : "And Caleb said, \"I will give my daughter Acsah in marriage to the man who attacks and captures Kiriath Sepher.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,1,12",
     "id" : 187011,
@@ -36,7 +72,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 1:12\">1:12</a></b> <b>Caleb.</b> Caleb, though of Kenizzite ancestry (<a class=\"bibleref\" href=\"/passage/?search=Gen 15:19\">Gen. 15:19</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 32:12\">Num. 32:12</a>), was counted as belonging to the tribe of Judah. He represented Judah when the spies were sent into Canaan (<a class=\"bibleref\" href=\"/passage/?search=Num 13:6\">Num. 13:6</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,1,13", "judges,1,14", "judges,1,15", "judges,1,16", "judges,1,17", "judges,1,18" ],
+  "verses" : [ {
+    "verse" : "judges,1,13",
+    "text" : "Othniel son of Kenaz, Caleb's younger brother, took it; so Caleb gave his daughter Acsah to him in marriage."
+  }, {
+    "verse" : "judges,1,14",
+    "text" : "One day when she came to Othniel, she urged him to ask her father for a field. When she got off her donkey, Caleb asked her, \"What can I do for you?\""
+  }, {
+    "verse" : "judges,1,15",
+    "text" : "She replied, \"Do me a special favor. Since you have given me land in the Negev, give me also springs of water.\" Then Caleb gave her the upper and lower springs."
+  }, {
+    "verse" : "judges,1,16",
+    "text" : "The descendants of Moses' father-in-law, the Kenite, went up from the City of Palms with the men of Judah to live among the people of the Desert of Judah in the Negev near Arad."
+  }, {
+    "verse" : "judges,1,17",
+    "text" : "Then the men of Judah went with the Simeonites their brothers and attacked the Canaanites living in Zephath, and they totally destroyed the city. Therefore it was called Hormah."
+  }, {
+    "verse" : "judges,1,18",
+    "text" : "The men of Judah also took Gaza, Ashkelon and Ekron-each city with its territory."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,1,13",
     "id" : 187012,
@@ -44,7 +98,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 1:13\">1:13</a></b> <b>Othniel . . . Caleb’s younger brother.</b> See <a class=\"bibleref\" href=\"/passage/?search=Josh 15:17-Josh 15:19\">Josh. 15:17–19</a>. <a class=\"bibleref\" href=\"/passage/?search=Judg 1:12-Judg 1:15\">Judg. 1:12–15</a> provides the only real picture of this first judge.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,1,19" ],
+  "verses" : [ {
+    "verse" : "judges,1,19",
+    "text" : "The LORD was with the men of Judah. They took possession of the hill country, but they were unable to drive the people from the plains, because they had iron chariots."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,1,19",
     "id" : 187013,
@@ -52,7 +109,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 1:19\">1:19</a></b> <b>the <span class=\"small-caps\">Lord</span> was with Judah.</b> God kept His covenant promise (<a class=\"bibleref\" href=\"/passage/?search=Judg 1:2\">v. 2</a>). With the exception of the house of Joseph, the writer deals briefly with the rest of the tribes, describing as failures their efforts at settlement (<a class=\"bibleref\" href=\"/passage/?search=Judg 1:27-Judg 1:36\">1:27–36</a> note).</p><p><b>chariots of iron.</b> Such chariots, with their wooden wheels overlaid with iron, were powerful weapons, especially on the level plains. In effect, Judah is excused for failing to dislodge the Canaanites.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,1,20" ],
+  "verses" : [ {
+    "verse" : "judges,1,20",
+    "text" : "As Moses had promised, Hebron was given to Caleb, who drove from it the three sons of Anak."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,1,20",
     "id" : 187014,
@@ -60,7 +120,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 1:20\">1:20</a></b> <b>Caleb.</b> Caleb, from the tribe of Judah, is an example of faithfulness to the covenant. In <a class=\"bibleref\" href=\"/passage/?search=Deut 1:36-Deut 1:37\">Deut. 1:36–37</a>, Caleb is rewarded for his covenant obedience, an obedience flowing from faith in God’s promise.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,1,21" ],
+  "verses" : [ {
+    "verse" : "judges,1,21",
+    "text" : "The Benjamites, however, failed to dislodge the Jebusites, who were living in Jerusalem; to this day the Jebusites live there with the Benjamites."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,1,21",
     "id" : 187015,
@@ -68,7 +131,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 1:21\">1:21</a></b> <b>people of Benjamin.</b> The writer specifies that Benjamin, Saul’s tribe, did not make a final conquest of Jerusalem. According to <a class=\"bibleref\" href=\"/passage/?search=Josh 15:63\">Joshua 15:63</a>, the tribe of Judah also failed to drive the Jebusites out of Jerusalem. The city was on the border between the two tribes. The complete conquest of Jerusalem was left for David to accomplish (<a class=\"bibleref\" href=\"/passage/?search=2Sam 5:7\">2 Sam. 5:7</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,1,22", "judges,1,23", "judges,1,24", "judges,1,25", "judges,1,26" ],
+  "verses" : [ {
+    "verse" : "judges,1,22",
+    "text" : "Now the house of Joseph attacked Bethel, and the LORD was with them."
+  }, {
+    "verse" : "judges,1,23",
+    "text" : "When they sent men to spy out Bethel (formerly called Luz),"
+  }, {
+    "verse" : "judges,1,24",
+    "text" : "the spies saw a man coming out of the city and they said to him, \"Show us how to get into the city and we will see that you are treated well.\""
+  }, {
+    "verse" : "judges,1,25",
+    "text" : "So he showed them, and they put the city to the sword but spared the man and his whole family."
+  }, {
+    "verse" : "judges,1,26",
+    "text" : "He then went to the land of the Hittites, where he built a city and called it Luz, which is its name to this day."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,1,22",
     "id" : 187016,
@@ -76,7 +154,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 1:22\">1:22</a></b> <b>the <span class=\"small-caps\">Lord</span> was with them.</b> Besides Judah (<a class=\"bibleref\" href=\"/passage/?search=Judg 1:19\">v. 19</a>), only with regard to the house of Joseph is it said that “the <span class=\"small-caps\">Lord</span> was with them.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,1,27", "judges,1,28", "judges,1,29", "judges,1,30", "judges,1,31", "judges,1,32", "judges,1,33" ],
+  "verses" : [ {
+    "verse" : "judges,1,27",
+    "text" : "But Manasseh did not drive out the people of Beth Shan or Taanach or Dor or Ibleam or Megiddo and their surrounding settlements, for the Canaanites were determined to live in that land."
+  }, {
+    "verse" : "judges,1,28",
+    "text" : "When Israel became strong, they pressed the Canaanites into forced labor but never drove them out completely."
+  }, {
+    "verse" : "judges,1,29",
+    "text" : "Nor did Ephraim drive out the Canaanites living in Gezer, but the Canaanites continued to live there among them."
+  }, {
+    "verse" : "judges,1,30",
+    "text" : "Neither did Zebulun drive out the Canaanites living in Kitron or Nahalol, who remained among them; but they did subject them to forced labor."
+  }, {
+    "verse" : "judges,1,31",
+    "text" : "Nor did Asher drive out those living in Acco or Sidon or Ahlab or Aczib or Helbah or Aphek or Rehob,"
+  }, {
+    "verse" : "judges,1,32",
+    "text" : "and because of this the people of Asher lived among the Canaanite inhabitants of the land."
+  }, {
+    "verse" : "judges,1,33",
+    "text" : "Neither did Naphtali drive out those living in Beth Shemesh or Beth Anath; but the Naphtalites too lived among the Canaanite inhabitants of the land, and those living in Beth Shemesh and Beth Anath became forced laborers for them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,1,27-judges,1,36",
     "id" : 187017,
@@ -84,7 +183,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 1:27-Judg 1:36\">1:27–36</a></b> Judah, Benjamin, and Joseph have already been mentioned. The shortcomings of the remaining tribes are briefly presented in outline fashion.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,1,34", "judges,1,35", "judges,1,36" ],
+  "verses" : [ {
+    "verse" : "judges,1,34",
+    "text" : "The Amorites confined the Danites to the hill country, not allowing them to come down into the plain."
+  }, {
+    "verse" : "judges,1,35",
+    "text" : "And the Amorites were determined also to hold out in Mount Heres, Aijalon and Shaalbim, but when the power of the house of Joseph increased, they too were pressed into forced labor."
+  }, {
+    "verse" : "judges,1,36",
+    "text" : "The boundary of the Amorites was from Scorpion Pass to Sela and beyond."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,1,34",
     "id" : 187018,
@@ -92,7 +200,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 1:34\">1:34</a></b> <b>people of Dan.</b> See <a class=\"bibleref\" href=\"/passage/?search=Judg 17-Judg 18\">chs. 17–18</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,2,1" ],
+  "verses" : [ {
+    "verse" : "judges,2,1",
+    "text" : "The angel of the LORD went up from Gilgal to Bokim and said, \"I brought you up out of Egypt and led you into the land that I swore to give to your forefathers. I said, 'I will never break my covenant with you,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,2,1-judges,2,5",
     "id" : 187019,
@@ -105,7 +216,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 2:1\">2:1</a></b> <b>the angel of the <span class=\"small-caps\">Lord.</span></b> A theophany, that is, a visible revelation of God. See <a class=\"bibleref\" href=\"/passage/?search=Judg 6:11-Judg 6:24\">6:11–24</a>; <a class=\"bibleref\" href=\"/passage/?search=Judg 13:2-Judg 13:23\">13:2–23</a>. The words of God’s preeminent messenger (<a class=\"bibleref\" href=\"/passage/?search=Judg 6:11-Judg 6:24\">6:11–24</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 3:1-Exod 3:17\">Ex. 3:1–17</a>) are the words of the Lord Himself. The Angel of the Lord led Israel out of captivity in Egypt and fought for them (<a class=\"bibleref\" href=\"/passage/?search=Exod 14:19\">Ex. 14:19</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 23:20-Exod 23:23\">23:20–23</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 33:2\">33:2</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 20:16\">Num. 20:16</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 63:9\">Is. 63:9</a>).</p><p><b>Gilgal.</b> The ark of the covenant was at Gilgal (<a class=\"bibleref\" href=\"/passage/?search=Josh 5:1-Josh 5:12\">Josh. 5:1–12</a>).</p><p><b>I brought you up from Egypt.</b> The Ten Commandments begin with the same statement (<a class=\"bibleref\" href=\"/passage/?search=Exod 20:2\">Ex. 20:2</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 5:6\">Deut. 5:6</a>), a reminder that the history of what God has done is linked to His commands. The Sovereign God who publishes the covenant identifies Himself as the Benefactor of His people.</p><p><b>and brought you into the land that I swore.</b> God kept His oath (<a class=\"bibleref\" href=\"/passage/?search=Josh 23:3-Josh 23:16\">Josh. 23:3–16</a>). The chief difference here between God and His people is that God keeps His vow while the people break theirs.</p><p><b>I will never break my covenant.</b> See <a class=\"bibleref\" href=\"/passage/?search=Deut 7:9\">Deut. 7:9</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,2,2" ],
+  "verses" : [ {
+    "verse" : "judges,2,2",
+    "text" : "and you shall not make a covenant with the people of this land, but you shall break down their altars.' Yet you have disobeyed me. Why have you done this?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,2,2",
     "id" : 187021,
@@ -113,7 +227,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 2:2\">2:2</a></b> <b>you shall break down their altars.</b> Idolatry is taken as the leading, typical act of covenant breaking (<a class=\"bibleref\" href=\"/passage/?search=Judg 2:11\">v. 11</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 34:13\">Ex. 34:13</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 33:52\">Num. 33:52</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 7:5\">Deut. 7:5</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 12:3\">12:3</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 23:16\">Josh. 23:16</a>).</p><p><b>you have not obeyed.</b> Israel contracted marriages with the people of the land (3:5–6) and did not tear down their altars (6:25–32). The Canaanites could not be driven out because of Israel’s sin.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,2,3", "judges,2,4", "judges,2,5" ],
+  "verses" : [ {
+    "verse" : "judges,2,3",
+    "text" : "Now therefore I tell you that I will not drive them out before you; they will be thorns in your sides and their gods will be a snare to you.\""
+  }, {
+    "verse" : "judges,2,4",
+    "text" : "When the angel of the LORD had spoken these things to all the Israelites, the people wept aloud,"
+  }, {
+    "verse" : "judges,2,5",
+    "text" : "and they called that place Bokim. There they offered sacrifices to the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,2,3",
     "id" : 187022,
@@ -121,7 +244,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 2:3\">2:3</a></b> <b>thorns . . . a snare.</b> Intermarriage and all other relationships with the Canaanites had been forbidden because such contact would lead to idolatry (<a class=\"bibleref\" href=\"/passage/?search=Exod 34:12\">Ex. 34:12</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 33:55\">Num. 33:55</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 7:16\">Deut. 7:16</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 23:12-Josh 23:13\">Josh. 23:12–13</a>). For disobeying the terms of the covenant, Israel would suffer what Canaan suffered, removal from the land (<a class=\"bibleref\" href=\"/passage/?search=Num 33:56\">Num. 33:56</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 23:13\">Josh. 23:13</a>; <a class=\"bibleref\" href=\"/passage/?search=2Kgs 17:5-2Kgs 17:8\">2 Kin. 17:5–8</a>; <a class=\"bibleref\" href=\"/passage/?search=2Kgs 25:1-2Kgs 25:11\">25:1–11</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,2,6" ],
+  "verses" : [ {
+    "verse" : "judges,2,6",
+    "text" : "After Joshua had dismissed the Israelites, they went to take possession of the land, each to his own inheritance."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,2,6-judges,2,10",
     "id" : 187023,
@@ -134,7 +260,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 2:6\">2:6</a></b> <b>When Joshua.</b> See <a class=\"bibleref\" href=\"/passage/?search=Judg 1:1\">1:1</a>; Introduction: Date and Occasion.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,2,7", "judges,2,8", "judges,2,9" ],
+  "verses" : [ {
+    "verse" : "judges,2,7",
+    "text" : "The people served the LORD throughout the lifetime of Joshua and of the elders who outlived him and who had seen all the great things the LORD had done for Israel."
+  }, {
+    "verse" : "judges,2,8",
+    "text" : "Joshua son of Nun, the servant of the LORD, died at the age of a hundred and ten."
+  }, {
+    "verse" : "judges,2,9",
+    "text" : "And they buried him in the land of his inheritance, at Timnath Heres in the hill country of Ephraim, north of Mount Gaash."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,2,7",
     "id" : 187025,

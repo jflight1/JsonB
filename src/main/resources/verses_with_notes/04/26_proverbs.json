@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,14,5" ],
+  "verses" : [ {
+    "verse" : "proverbs,14,5",
+    "text" : "A truthful witness does not deceive, but a false witness pours out lies."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 14:5\">14:5</a></b> A fact and a warning that emphasize the consistency of character with action (<a class=\"bibleref\" href=\"/passage/?search=Prov 12:5\">12:5</a>, <a class=\"bibleref\" href=\"/passage/?search=Prov 12:17\">17</a> and notes).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,14,6" ],
+  "verses" : [ {
+    "verse" : "proverbs,14,6",
+    "text" : "The mocker seeks wisdom and finds none, but knowledge comes easily to the discerning."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,14,6",
     "id" : 191949,

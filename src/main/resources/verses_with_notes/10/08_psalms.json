@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "psalms,78,56", "psalms,78,57" ],
+  "verses" : [ {
+    "verse" : "psalms,78,56",
+    "text" : "But they put God to the test and rebelled against the Most High; they did not keep his statutes."
+  }, {
+    "verse" : "psalms,78,57",
+    "text" : "Like their fathers they were disloyal and faithless, as unreliable as a faulty bow."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,78,54-psalms,78,64",
     "id" : 190920,
@@ -12,7 +18,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 78:56\">78:56</a></b> <b>tested and rebelled against the Most High God.</b> They did not keep His law in the desert, nor did they keep it in the Promised Land. See <a class=\"bibleref\" href=\"/passage/?search=Judg 2:10-Judg 2:15\">Judg. 2:10–15</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,78,58", "psalms,78,59" ],
+  "verses" : [ {
+    "verse" : "psalms,78,58",
+    "text" : "They angered him with their high places; they aroused his jealousy with their idols."
+  }, {
+    "verse" : "psalms,78,59",
+    "text" : "When God heard them, he was very angry; he rejected Israel completely."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,78,58",
     "id" : 190923,
@@ -20,7 +32,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 78:58\">78:58</a></b> <b>with their idols.</b> The height of their rebellion was to worship false gods.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,78,60" ],
+  "verses" : [ {
+    "verse" : "psalms,78,60",
+    "text" : "He abandoned the tabernacle of Shiloh, the tent he had set up among men."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,78,60",
     "id" : 190924,
@@ -28,7 +43,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 78:60\">78:60</a></b> <b>dwelling at Shiloh.</b> Soon after entering the Promised Land, the tabernacle was set up in Shiloh (<a class=\"bibleref\" href=\"/passage/?search=Josh 18:1\">Josh. 18:1</a>), twenty miles northeast of Jerusalem, in the tribal territory of Ephraim.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,78,61", "psalms,78,62", "psalms,78,63", "psalms,78,64" ],
+  "verses" : [ {
+    "verse" : "psalms,78,61",
+    "text" : "He sent the ark of his might into captivity, his splendor into the hands of the enemy."
+  }, {
+    "verse" : "psalms,78,62",
+    "text" : "He gave his people over to the sword; he was very angry with his inheritance."
+  }, {
+    "verse" : "psalms,78,63",
+    "text" : "Fire consumed their young men, and their maidens had no wedding songs;"
+  }, {
+    "verse" : "psalms,78,64",
+    "text" : "their priests were put to the sword, and their widows could not weep."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,78,61",
     "id" : 190925,
@@ -36,7 +63,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 78:61\">78:61</a></b> <b>his power to captivity.</b> During Samuel’s youth, God punished Israel and its leaders, particularly Eli’s sons, by abandoning Israel in battle and allowing the Philistines to capture the ark (<a class=\"bibleref\" href=\"/passage/?search=1Sam 4\">1 Sam. 4</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 5\">5</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,78,65", "psalms,78,66" ],
+  "verses" : [ {
+    "verse" : "psalms,78,65",
+    "text" : "Then the Lord awoke as from sleep, as a man wakes from the stupor of wine."
+  }, {
+    "verse" : "psalms,78,66",
+    "text" : "He beat back his enemies; he put them to everlasting shame."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,78,65",
     "id" : 190926,
@@ -44,7 +77,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 78:65\">78:65</a></b> <b>as from sleep.</b> God had left Israel temporarily and seemed to be asleep. An unusual figure of speech explains how He began to act.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,78,67" ],
+  "verses" : [ {
+    "verse" : "psalms,78,67",
+    "text" : "Then he rejected the tents of Joseph, he did not choose the tribe of Ephraim;"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,78,67",
     "id" : 190927,
@@ -52,7 +88,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 78:67\">78:67</a></b> <b>He rejected.</b> The rejection of the tribe of Ephraim refers to the abandonment of the Shiloh sanctuary, and perhaps also the rejection of Saul’s monarchy.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,78,68", "psalms,78,69" ],
+  "verses" : [ {
+    "verse" : "psalms,78,68",
+    "text" : "but he chose the tribe of Judah, Mount Zion, which he loved."
+  }, {
+    "verse" : "psalms,78,69",
+    "text" : "He built his sanctuary like the heights, like the earth that he established forever."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,78,68",
     "id" : 190928,
@@ -60,7 +102,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 78:68\">78:68</a></b> <b>but he chose the tribe of Judah.</b> Jerusalem succeeded Shiloh as the designated location for the worship of God.</p><p><b>Mount Zion.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Ps 2:6\">Ps. 2:6</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,78,70", "psalms,78,71" ],
+  "verses" : [ {
+    "verse" : "psalms,78,70",
+    "text" : "He chose David his servant and took him from the sheep pens;"
+  }, {
+    "verse" : "psalms,78,71",
+    "text" : "from tending the sheep he brought him to be the shepherd of his people Jacob, of Israel his inheritance."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,78,70",
     "id" : 190929,
@@ -68,7 +116,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 78:70\">78:70</a></b> <b>sheepfolds.</b> This verse recalls David’s humble origins (<a class=\"bibleref\" href=\"/passage/?search=1Sam 16:11-1Sam 16:13\">1 Sam. 16:11–13</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,78,72" ],
+  "verses" : [ {
+    "verse" : "psalms,78,72",
+    "text" : "And David shepherded them with integrity of heart; with skillful hands he led them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,78,72",
     "id" : 190930,

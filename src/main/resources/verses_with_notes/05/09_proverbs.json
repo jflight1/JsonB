@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,14,32" ],
+  "verses" : [ {
+    "verse" : "proverbs,14,32",
+    "text" : "When calamity comes, the wicked are brought down, but even in death the righteous have a refuge."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 14:32\">14:32</a></b> <b>death.</b> The Septuagint (Greek Old Testament) reads “piety,” making a more direct contrast with “wickedness.” The Hebrew text does not speak explicitly of resurrection from death, but it does suggest confidence that God vindicates the righteous (<a class=\"bibleref\" href=\"/passage/?search=Prov 23:18\">23:18</a> and note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,14,33" ],
+  "verses" : [ {
+    "verse" : "proverbs,14,33",
+    "text" : "Wisdom reposes in the heart of the discerning and even among fools she lets herself be known."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,14,33",
     "id" : 191971,

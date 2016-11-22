@@ -1,5 +1,14 @@
 [ {
-  "singleVerses" : [ "psalms,135,1", "psalms,135,2", "psalms,135,3" ],
+  "verses" : [ {
+    "verse" : "psalms,135,1",
+    "text" : "Praise the LORD. Praise the name of the LORD; praise him, you servants of the LORD,"
+  }, {
+    "verse" : "psalms,135,2",
+    "text" : "you who minister in the house of the LORD, in the courts of the house of our God."
+  }, {
+    "verse" : "psalms,135,3",
+    "text" : "Praise the LORD, for the LORD is good; sing praise to his name, for that is pleasant."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,135,1",
     "id" : 191494,
@@ -7,7 +16,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 135:1\">135:1</a></b> <b>Praise the <span class=\"small-caps\">Lord.</span></b> Hebrew <i>hallu yah.</i> The phrase opens and closes (<a class=\"bibleref\" href=\"/passage/?search=Ps 135:21\">v. 21</a>) the psalm with praise.</p><p><b>name.</b> See <a class=\"bibleref\" href=\"/passage/?search=Ps 8:1\">Ps. 8:1</a>.</p><p><b>servants.</b> The reference is probably to the priests and Levites who serve in the temple area. While some have said that “servants” is never used in such a restricted manner, the next two phrases seem to limit the reference to the temple personnel.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,135,4" ],
+  "verses" : [ {
+    "verse" : "psalms,135,4",
+    "text" : "For the LORD has chosen Jacob to be his own, Israel to be his treasured possession."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,135,4",
     "id" : 191495,
@@ -15,7 +27,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 135:4\">135:4</a></b> <b>chosen . . . for himself.</b> The Lord chose Israel for Himself out of His unconditional love, not because of any merit in Israel (<a class=\"bibleref\" href=\"/passage/?search=Deut 7:7-Deut 7:11\">Deut. 7:7–11</a>).</p><p><b>possession.</b> God has lifted the lowly and made them great in His eyes.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,135,5" ],
+  "verses" : [ {
+    "verse" : "psalms,135,5",
+    "text" : "I know that the LORD is great, that our Lord is greater than all gods."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,135,5",
     "id" : 191496,
@@ -23,7 +38,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 135:5\">135:5</a></b> <b>is above all gods.</b> The foreign nations could not imagine a god like the Lord (<a class=\"bibleref\" href=\"/passage/?search=Ps 113:4\">113:4</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,135,6" ],
+  "verses" : [ {
+    "verse" : "psalms,135,6",
+    "text" : "The LORD does whatever pleases him, in the heavens and on the earth, in the seas and all their depths."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,135,6",
     "id" : 191497,
@@ -31,7 +49,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 135:6\">135:6</a></b> <b>in the seas.</b> Special reference is made to the seas, since the seas culturally represented the forces of chaos in the ancient Near East (<a class=\"bibleref\" href=\"/passage/?search=Ps 18:4\">18:4</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 18:15\">15</a> and notes). But it is God Himself who controls the seas.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,135,7" ],
+  "verses" : [ {
+    "verse" : "psalms,135,7",
+    "text" : "He makes clouds rise from the ends of the earth; he sends lightning with the rain and brings out the wind from his storehouses."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,135,7",
     "id" : 191498,
@@ -39,7 +60,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 135:7\">135:7</a></b> <b>lightnings for the rain.</b> God’s control over the storm may be a reply to Canaanites or Israelites who dared to attribute the power of the storm to Baal (<a class=\"bibleref\" href=\"/passage/?search=Ps 29\">Ps. 29</a> and notes).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,135,8", "psalms,135,9", "psalms,135,10" ],
+  "verses" : [ {
+    "verse" : "psalms,135,8",
+    "text" : "He struck down the firstborn of Egypt, the firstborn of men and animals."
+  }, {
+    "verse" : "psalms,135,9",
+    "text" : "He sent his signs and wonders into your midst, O Egypt, against Pharaoh and all his servants."
+  }, {
+    "verse" : "psalms,135,10",
+    "text" : "He struck down many nations and killed mighty kings-"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,135,8",
     "id" : 191499,
@@ -47,7 +77,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 135:8\">135:8</a></b> <b>the firstborn of Egypt.</b> The culmination of the ten plagues God used to win freedom for His people (<a class=\"bibleref\" href=\"/passage/?search=Exod 11\">Ex. 11</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,135,11", "psalms,135,12", "psalms,135,13", "psalms,135,14" ],
+  "verses" : [ {
+    "verse" : "psalms,135,11",
+    "text" : "Sihon king of the Amorites, Og king of Bashan and all the kings of Canaan-"
+  }, {
+    "verse" : "psalms,135,12",
+    "text" : "and he gave their land as an inheritance, an inheritance to his people Israel."
+  }, {
+    "verse" : "psalms,135,13",
+    "text" : "Your name, O LORD, endures forever, your renown, O LORD, through all generations."
+  }, {
+    "verse" : "psalms,135,14",
+    "text" : "For the LORD will vindicate his people and have compassion on his servants."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,135,11",
     "id" : 191500,
@@ -55,7 +97,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 135:11\">135:11</a></b> <b>Sihon . . . Og.</b> Kings opposing Israel during their time in the wilderness under Moses (<a class=\"bibleref\" href=\"/passage/?search=Num 21:21-Num 21:35\">Num. 21:21–35</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,135,15", "psalms,135,16", "psalms,135,17" ],
+  "verses" : [ {
+    "verse" : "psalms,135,15",
+    "text" : "The idols of the nations are silver and gold, made by the hands of men."
+  }, {
+    "verse" : "psalms,135,16",
+    "text" : "They have mouths, but cannot speak, eyes, but they cannot see;"
+  }, {
+    "verse" : "psalms,135,17",
+    "text" : "they have ears, but cannot hear, nor is there breath in their mouths."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,135,15",
     "id" : 191501,
@@ -63,7 +114,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 135:15\">135:15</a></b> <b>The idols of the nations.</b> The surrounding nations worshiped their gods by statues of wood and precious metals. The psalmist, like Isaiah (<a class=\"bibleref\" href=\"/passage/?search=Isa 44\">Is. 44</a>), ridicules this practice. It is a crude and absurd example of taking a piece of creation and exalting it above the Creator (<a class=\"bibleref\" href=\"/passage/?search=Rom 1:21-Rom 1:23\">Rom. 1:21–23</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,135,18" ],
+  "verses" : [ {
+    "verse" : "psalms,135,18",
+    "text" : "Those who make them will be like them, and so will all who trust in them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,135,18",
     "id" : 191502,
@@ -71,7 +125,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 135:18\">135:18</a></b> <b>like them.</b> The pagans made their gods in their own image. Those who serve such gods will become like them, powerless and contemptible. See <a class=\"bibleref\" href=\"/passage/?search=Isa 44:9-Isa 44:20\">Is. 44:9–20</a>; <a class=\"bibleref\" href=\"/passage/?search=Rom 1:22-Rom 1:25\">Rom. 1:22–25</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,135,19", "psalms,135,20", "psalms,135,21" ],
+  "verses" : [ {
+    "verse" : "psalms,135,19",
+    "text" : "O house of Israel, praise the LORD; O house of Aaron, praise the LORD;"
+  }, {
+    "verse" : "psalms,135,20",
+    "text" : "O house of Levi, praise the LORD; you who fear him, praise the LORD."
+  }, {
+    "verse" : "psalms,135,21",
+    "text" : "Praise be to the LORD from Zion, to him who dwells in Jerusalem. Praise the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,135,19",
     "id" : 191503,

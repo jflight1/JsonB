@@ -1,8 +1,23 @@
 [ {
-  "singleVerses" : [ "2kings,4,18", "2kings,4,19", "2kings,4,20" ],
+  "verses" : [ {
+    "verse" : "2kings,4,18",
+    "text" : "The child grew, and one day he went out to his father, who was with the reapers."
+  }, {
+    "verse" : "2kings,4,19",
+    "text" : "\"My head! My head!\" he said to his father. His father told a servant, \"Carry him to his mother.\""
+  }, {
+    "verse" : "2kings,4,20",
+    "text" : "After the servant had lifted him up and carried him to his mother, the boy sat on her lap until noon, and then he died."
+  } ],
   "rsbNotes" : [ ]
 }, {
-  "singleVerses" : [ "2kings,4,21", "2kings,4,22" ],
+  "verses" : [ {
+    "verse" : "2kings,4,21",
+    "text" : "She went up and laid him on the bed of the man of God, then shut the door and went out."
+  }, {
+    "verse" : "2kings,4,22",
+    "text" : "She called her husband and said, \"Please send me one of the servants and a donkey so I can go to the man of God quickly and return.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,4,21",
     "id" : 188560,
@@ -10,7 +25,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 4:21\">4:21</a></b> <b>laid him on the bed of the man of God.</b> She refuses to accept the death of her son and conceals his body in Elisha’s room so that the ritual of mourning will not begin (<a class=\"bibleref\" href=\"/passage/?search=Gen 50:10\">Gen. 50:10</a>; <a class=\"bibleref\" href=\"/passage/?search=2Chr 35:25\">2 Chr. 35:25</a>; <a class=\"bibleref\" href=\"/passage/?search=Job 2:12\">Job 2:12</a>, <a class=\"bibleref\" href=\"/passage/?search=Job 2:13\">13</a>; <a class=\"bibleref\" href=\"/passage/?search=Dan 10:2\">Dan. 10:2</a>; <a class=\"bibleref\" href=\"/passage/?search=Mark 5:38\">Mark 5:38</a>; <a class=\"bibleref\" href=\"/passage/?search=John 11:33\">John 11:33</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,4,23", "2kings,4,24", "2kings,4,25", "2kings,4,26" ],
+  "verses" : [ {
+    "verse" : "2kings,4,23",
+    "text" : "\"Why go to him today?\" he asked. \"It's not the New Moon or the Sabbath.It's all right,\" she said."
+  }, {
+    "verse" : "2kings,4,24",
+    "text" : "She saddled the donkey and said to her servant, \"Lead on; don't slow down for me unless I tell you.\""
+  }, {
+    "verse" : "2kings,4,25",
+    "text" : "So she set out and came to the man of God at Mount Carmel. When he saw her in the distance, the man of God said to his servant Gehazi, \"Look! There's the Shunammite!"
+  }, {
+    "verse" : "2kings,4,26",
+    "text" : "Run to meet her and ask her, 'Are you all right? Is your husband all right? Is your child all right?' Everything is all right,\" she said."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,4,23",
     "id" : 188561,
@@ -18,7 +45,40 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 4:23\">4:23</a></b> <b>It is neither new moon nor Sabbath.</b> Ancient Israel had a lunar calendar, and a festival was celebrated at each New Moon (<a class=\"bibleref\" href=\"/passage/?search=Num 10:10\">Num. 10:10</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 28:11-Num 28:15\">28:11–15</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezra 3:5\">Ezra 3:5</a>; <a class=\"bibleref\" href=\"/passage/?search=Neh 10:33\">Neh. 10:33</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 1:13\">Is. 1:13</a>, <a class=\"bibleref\" href=\"/passage/?search=Isa 1:14\">14</a>; <a class=\"bibleref\" href=\"/passage/?search=Amos 8:5\">Amos 8:5</a>). The law did not permit work on the Sabbath, and possibly not on the New Moon either (<a class=\"bibleref\" href=\"/passage/?search=Exod 16:23\">Ex. 16:23</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 20:8-Exod 20:10\">20:8–10</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 20:5\">1 Sam. 20:5</a>; <a class=\"bibleref\" href=\"/passage/?search=1Chr 23:31\">1 Chr. 23:31</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,4,27", "2kings,4,28", "2kings,4,29", "2kings,4,30", "2kings,4,31", "2kings,4,32", "2kings,4,33", "2kings,4,34", "2kings,4,35", "2kings,4,36", "2kings,4,37" ],
+  "verses" : [ {
+    "verse" : "2kings,4,27",
+    "text" : "When she reached the man of God at the mountain, she took hold of his feet. Gehazi came over to push her away, but the man of God said, \"Leave her alone! She is in bitter distress, but the LORD has hidden it from me and has not told me why.\""
+  }, {
+    "verse" : "2kings,4,28",
+    "text" : "\"Did I ask you for a son, my lord?\" she said. \"Didn't I tell you, 'Don't raise my hopes'?\""
+  }, {
+    "verse" : "2kings,4,29",
+    "text" : "Elisha said to Gehazi, \"Tuck your cloak into your belt, take my staff in your hand and run. If you meet anyone, do not greet him, and if anyone greets you, do not answer. Lay my staff on the boy's face.\""
+  }, {
+    "verse" : "2kings,4,30",
+    "text" : "But the child's mother said, \"As surely as the LORD lives and as you live, I will not leave you.\" So he got up and followed her."
+  }, {
+    "verse" : "2kings,4,31",
+    "text" : "Gehazi went on ahead and laid the staff on the boy's face, but there was no sound or response. So Gehazi went back to meet Elisha and told him, \"The boy has not awakened.\""
+  }, {
+    "verse" : "2kings,4,32",
+    "text" : "When Elisha reached the house, there was the boy lying dead on his couch."
+  }, {
+    "verse" : "2kings,4,33",
+    "text" : "He went in, shut the door on the two of them and prayed to the LORD."
+  }, {
+    "verse" : "2kings,4,34",
+    "text" : "Then he got on the bed and lay upon the boy, mouth to mouth, eyes to eyes, hands to hands. As he stretched himself out upon him, the boy's body grew warm."
+  }, {
+    "verse" : "2kings,4,35",
+    "text" : "Elisha turned away and walked back and forth in the room and then got on the bed and stretched out upon him once more. The boy sneezed seven times and opened his eyes."
+  }, {
+    "verse" : "2kings,4,36",
+    "text" : "Elisha summoned Gehazi and said, \"Call the Shunammite.\" And he did. When she came, he said, \"Take your son.\""
+  }, {
+    "verse" : "2kings,4,37",
+    "text" : "She came in, fell at his feet and bowed to the ground. Then she took her son and went out."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,4,27",
     "id" : 188562,
@@ -26,7 +86,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 4:27\">4:27</a></b> <b>caught hold of his feet.</b> Doing this was a sign of respect (<a class=\"bibleref\" href=\"/passage/?search=John 11:32\">John 11:32</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,4,38" ],
+  "verses" : [ {
+    "verse" : "2kings,4,38",
+    "text" : "Elisha returned to Gilgal and there was a famine in that region. While the company of the prophets was meeting with him, he said to his servant, \"Put on the large pot and cook some stew for these men.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,4,38",
     "id" : 188563,
@@ -34,7 +97,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 4:38\">4:38</a></b> <b>Set on the large pot.</b> During a famine, Elisha’s request was not trivial (cf. <a class=\"bibleref\" href=\"/passage/?search=1Kgs 17:11-1Kgs 17:13\">1 Kin. 17:11–13</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,4,39", "2kings,4,40", "2kings,4,41" ],
+  "verses" : [ {
+    "verse" : "2kings,4,39",
+    "text" : "One of them went out into the fields to gather herbs and found a wild vine. He gathered some of its gourds and filled the fold of his cloak. When he returned, he cut them up into the pot of stew, though no one knew what they were."
+  }, {
+    "verse" : "2kings,4,40",
+    "text" : "The stew was poured out for the men, but as they began to eat it, they cried out, \"O man of God, there is death in the pot!\" And they could not eat it."
+  }, {
+    "verse" : "2kings,4,41",
+    "text" : "Elisha said, \"Get some flour.\" He put it into the pot and said, \"Serve it to the people to eat.\" And there was nothing harmful in the pot."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,4,39",
     "id" : 188564,
@@ -42,7 +114,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 4:39\">4:39</a></b> <b>wild gourds.</b> There exist in this area several more or less poisonous gourds that resemble edible plants.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,4,42", "2kings,4,43", "2kings,4,44" ],
+  "verses" : [ {
+    "verse" : "2kings,4,42",
+    "text" : "A man came from Baal Shalishah, bringing the man of God twenty loaves of barley bread baked from the first ripe grain, along with some heads of new grain. \"Give it to the people to eat,\" Elisha said."
+  }, {
+    "verse" : "2kings,4,43",
+    "text" : "\"How can I set this before a hundred men?\" his servant asked. But Elisha answered, \"Give it to the people to eat. For this is what the LORD says: 'They will eat and have some left over.'\""
+  }, {
+    "verse" : "2kings,4,44",
+    "text" : "Then he set it before them, and they ate and had some left over, according to the word of the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,4,42",
     "id" : 188565,
@@ -50,7 +131,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 4:42\">4:42</a></b> <b>Baal-shalishah.</b> In the hill country of Ephraim, on the Brook of Kanah.</p><p><b>bread of the firstfruits.</b> By bringing the firstfruits of the harvest, the man showed his dedication to Elijah and his gratitude for his prophetic work (<a class=\"bibleref\" href=\"/passage/?search=Lev 2:14\">Lev. 2:14</a>; <a class=\"bibleref\" href=\"/passage/?search=Lev 23:9-Lev 23:21\">23:9–21</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 18:3-Deut 18:5\">Deut. 18:3–5</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,5,1" ],
+  "verses" : [ {
+    "verse" : "2kings,5,1",
+    "text" : "Now Naaman was commander of the army of the king of Aram. He was a great man in the sight of his master and highly regarded, because through him the LORD had given victory to Aram. He was a valiant soldier, but he had leprosy."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,5,1",
     "id" : 188566,
@@ -58,7 +142,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 5:1\">5:1</a></b> <b>the king of Syria.</b> This king and the king of Israel (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 5:5\">v. 5</a>) are probably Ben-hadad II (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 8:7\">8:7</a>; <a class=\"bibleref\" href=\"/passage/?search=2Kgs 13:3\">13:3</a>; <a class=\"bibleref\" href=\"/passage/?search=1Kgs 20:1\">1 Kin. 20:1</a>) and Jehoram (1:17; 3:1; 9:24).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,5,2", "2kings,5,3", "2kings,5,4" ],
+  "verses" : [ {
+    "verse" : "2kings,5,2",
+    "text" : "Now bands from Aram had gone out and had taken captive a young girl from Israel, and she served Naaman's wife."
+  }, {
+    "verse" : "2kings,5,3",
+    "text" : "She said to her mistress, \"If only my master would see the prophet who is in Samaria! He would cure him of his leprosy.\""
+  }, {
+    "verse" : "2kings,5,4",
+    "text" : "Naaman went to his master and told him what the girl from Israel had said."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,5,2",
     "id" : 188567,
@@ -66,7 +159,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 5:2\">5:2</a></b> <b>raids.</b> During the long history of tension between Israel and Syria there were often skirmishes and raids along the border.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,5,5", "2kings,5,6" ],
+  "verses" : [ {
+    "verse" : "2kings,5,5",
+    "text" : "\"By all means, go,\" the king of Aram replied. \"I will send a letter to the king of Israel.\" So Naaman left, taking with him ten talents of silver, six thousand shekels of gold and ten sets of clothing."
+  }, {
+    "verse" : "2kings,5,6",
+    "text" : "The letter that he took to the king of Israel read: \"With this letter I am sending my servant Naaman to you so that you may cure him of his leprosy.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,5,5",
     "id" : 188568,
@@ -74,7 +173,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 5:5\">5:5 a</a></b> <b>letter to the king of Israel.</b> The Syrian king sends an official letter to the king of Israel introducing Naaman and asking for a favor on his behalf. The Syrian king has mistakenly supposed that Elisha’s work is at the command of the Israelite king.</p><p><b>ten talents of silver, six thousand shekels of gold.</b> That is, about 750 pounds of silver and 150 pounds of gold.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,5,7" ],
+  "verses" : [ {
+    "verse" : "2kings,5,7",
+    "text" : "As soon as the king of Israel read the letter, he tore his robes and said, \"Am I God? Can I kill and bring back to life? Why does this fellow send someone to me to be cured of his leprosy? See how he is trying to pick a quarrel with me!\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,5,7",
     "id" : 188569,
@@ -82,7 +184,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 5:7\">5:7</a></b> <b>he tore his clothes.</b> This was a sign of great distress (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 21:27\">1 Kin. 21:27</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,5,8", "2kings,5,9" ],
+  "verses" : [ {
+    "verse" : "2kings,5,8",
+    "text" : "When Elisha the man of God heard that the king of Israel had torn his robes, he sent him this message: \"Why have you torn your robes? Have the man come to me and he will know that there is a prophet in Israel.\""
+  }, {
+    "verse" : "2kings,5,9",
+    "text" : "So Naaman went with his horses and chariots and stopped at the door of Elisha's house."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,5,8",
     "id" : 188570,
@@ -90,7 +198,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 5:8\">5:8</a></b> <b>Why have you torn your clothes.</b> Elisha scolds the king for reacting to the Syrian request with such alarm and not believing that God could help him.</p><p><b>he may know that there is a prophet in Israel.</b> See <a class=\"bibleref\" href=\"/passage/?search=2Kgs 3:11\">3:11</a>; <a class=\"bibleref\" href=\"/passage/?search=2Kgs 8:7\">8:7</a>, <a class=\"bibleref\" href=\"/passage/?search=2Kgs 8:8\">8</a>; <a class=\"bibleref\" href=\"/passage/?search=1Kgs 17:24\">1 Kin. 17:24</a>; <a class=\"bibleref\" href=\"/passage/?search=1Kgs 18:36\">18:36</a>. Elisha responds affirmatively to the Syrian gesture (v. 3).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,5,10" ],
+  "verses" : [ {
+    "verse" : "2kings,5,10",
+    "text" : "Elisha sent a messenger to say to him, \"Go, wash yourself seven times in the Jordan, and your flesh will be restored and you will be cleansed.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,5,10",
     "id" : 188571,
@@ -98,7 +209,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 5:10\">5:10</a></b> <b>Elisha sent a messenger.</b> Both Elijah and Elisha would often test the faith of the people to whom they ministered (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 17:13\">1 Kin. 17:13</a>; <a class=\"bibleref\" href=\"/passage/?search=2Kgs 4:3\">2 Kin. 4:3</a>, <a class=\"bibleref\" href=\"/passage/?search=2Kgs 4:4\">4</a>). In this case, Elisha does not even meet with Naaman but sends instructions through a messenger instead.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,5,11" ],
+  "verses" : [ {
+    "verse" : "2kings,5,11",
+    "text" : "But Naaman went away angry and said, \"I thought that he would surely come out to me and stand and call on the name of the LORD his God, wave his hand over the spot and cure me of my leprosy."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,5,11",
     "id" : 188572,
@@ -106,7 +220,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 5:11\">5:11</a></b> <b>wave his hand over the place.</b> Not realizing the importance of divine freedom and the critical role of faith, Naaman thought there was something contemptible about having to bathe seven times in the river.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,5,12", "2kings,5,13", "2kings,5,14" ],
+  "verses" : [ {
+    "verse" : "2kings,5,12",
+    "text" : "Are not Abana and Pharpar, the rivers of Damascus, better than any of the waters of Israel? Couldn't I wash in them and be cleansed?\" So he turned and went off in a rage."
+  }, {
+    "verse" : "2kings,5,13",
+    "text" : "Naaman's servants went to him and said, \"My father, if the prophet had told you to do some great thing, would you not have done it? How much more, then, when he tells you, 'Wash and be cleansed'!\""
+  }, {
+    "verse" : "2kings,5,14",
+    "text" : "So he went down and dipped himself in the Jordan seven times, as the man of God had told him, and his flesh was restored and became clean like that of a young boy."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,5,12",
     "id" : 188573,
@@ -114,7 +237,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 5:12\">5:12</a></b> <b>Abana and Pharpar, the rivers of Damascus.</b> If the prophetic healing was a meaningless ritual, Naaman might as well have stayed at home.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,5,15" ],
+  "verses" : [ {
+    "verse" : "2kings,5,15",
+    "text" : "Then Naaman and all his attendants went back to the man of God. He stood before him and said, \"Now I know that there is no God in all the world except in Israel. Please accept now a gift from your servant.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,5,15",
     "id" : 188574,
@@ -122,7 +248,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 5:15\">5:15</a></b> <b>there is no God in all the earth but in Israel.</b> Naaman was not merely saying that the Lord was more powerful than the Syrian gods; he was confessing that there is only one God, the Lord. In saying this, Naaman adopts the faith of Israel as his own (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 18:39\">1 Kin. 18:39</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,5,16" ],
+  "verses" : [ {
+    "verse" : "2kings,5,16",
+    "text" : "The prophet answered, \"As surely as the LORD lives, whom I serve, I will not accept a thing.\" And even though Naaman urged him, he refused."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,5,16",
     "id" : 188575,
@@ -130,7 +259,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 5:16\">5:16</a></b> <b>As the <span class=\"small-caps\">Lord</span> lives.</b> The words are an oath (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 1:17\">1 Kin. 1:17</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,5,17" ],
+  "verses" : [ {
+    "verse" : "2kings,5,17",
+    "text" : "\"If you will not,\" said Naaman, \"please let me, your servant, be given as much earth as a pair of mules can carry, for your servant will never again make burnt offerings and sacrifices to any other god but the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,5,17",
     "id" : 188576,
@@ -138,7 +270,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 5:17\">5:17</a></b> <b>two mules’ load of earth.</b> People in the ancient Near East believed that the gods were tied to the lands they ruled. Naaman asks for dirt from the Lord’s land to sanctify the altar he plans to build for Him in another country.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,5,18", "2kings,5,19", "2kings,5,20", "2kings,5,21" ],
+  "verses" : [ {
+    "verse" : "2kings,5,18",
+    "text" : "But may the LORD forgive your servant for this one thing: When my master enters the temple of Rimmon to bow down and he is leaning on my arm and I bow there also-when I bow down in the temple of Rimmon, may the LORD forgive your servant for this.\""
+  }, {
+    "verse" : "2kings,5,19",
+    "text" : "\"Go in peace,\" Elisha said. After Naaman had traveled some distance,"
+  }, {
+    "verse" : "2kings,5,20",
+    "text" : "Gehazi, the servant of Elisha the man of God, said to himself, \"My master was too easy on Naaman, this Aramean, by not accepting from him what he brought. As surely as the LORD lives, I will run after him and get something from him.\""
+  }, {
+    "verse" : "2kings,5,21",
+    "text" : "So Gehazi hurried after Naaman. When Naaman saw him running toward him, he got down from the chariot to meet him. \"Is everything all right?\" he asked."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,5,18",
     "id" : 188577,
@@ -146,7 +290,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 5:18\">5:18</a></b> <b>Rimmon.</b> The word “Rimmon” (lit. “pomegranate”) is a parody of the name Ramanu, the Syrian storm god corresponding to Baal. This chief deity of Syria was also known by the name Hadad (<a class=\"bibleref\" href=\"/passage/?search=Zech 12:11\">Zech. 12:11</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,5,22", "2kings,5,23", "2kings,5,24", "2kings,5,25" ],
+  "verses" : [ {
+    "verse" : "2kings,5,22",
+    "text" : "\"Everything is all right,\" Gehazi answered. \"My master sent me to say, 'Two young men from the company of the prophets have just come to me from the hill country of Ephraim. Please give them a talent of silver and two sets of clothing.'\""
+  }, {
+    "verse" : "2kings,5,23",
+    "text" : "\"By all means, take two talents,\" said Naaman. He urged Gehazi to accept them, and then tied up the two talents of silver in two bags, with two sets of clothing. He gave them to two of his servants, and they carried them ahead of Gehazi."
+  }, {
+    "verse" : "2kings,5,24",
+    "text" : "When Gehazi came to the hill, he took the things from the servants and put them away in the house. He sent the men away and they left."
+  }, {
+    "verse" : "2kings,5,25",
+    "text" : "Then he went in and stood before his master Elisha. \"Where have you been, Gehazi?\" Elisha asked. \"Your servant didn't go anywhere,\" Gehazi answered."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,5,22",
     "id" : 188578,
@@ -154,7 +310,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 5:22\">5:22</a></b> <b>sons of the prophets.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Kgs 20:35\">1 Kin. 20:35</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,5,26" ],
+  "verses" : [ {
+    "verse" : "2kings,5,26",
+    "text" : "But Elisha said to him, \"Was not my spirit with you when the man got down from his chariot to meet you? Is this the time to take money, or to accept clothes, olive groves, vineyards, flocks, herds, or menservants and maidservants?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,5,26",
     "id" : 188579,
@@ -162,7 +321,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 5:26\">5:26</a></b> <b>money.</b> The word refers not to coins (which were probably not yet in use), but to quantities of gold or silver.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,5,27" ],
+  "verses" : [ {
+    "verse" : "2kings,5,27",
+    "text" : "Naaman's leprosy will cling to you and to your descendants forever.\" Then Gehazi went from Elisha's presence and he was leprous, as white as snow."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,5,27",
     "id" : 188580,

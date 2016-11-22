@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,16,18" ],
+  "verses" : [ {
+    "verse" : "proverbs,16,18",
+    "text" : "Pride goes before destruction, a haughty spirit before a fall."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

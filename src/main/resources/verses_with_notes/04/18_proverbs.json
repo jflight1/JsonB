@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,13,11" ],
+  "verses" : [ {
+    "verse" : "proverbs,13,11",
+    "text" : "Dishonest money dwindles away, but he who gathers money little by little makes it grow."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

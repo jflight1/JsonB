@@ -1,8 +1,17 @@
 [ {
-  "singleVerses" : [ "luke,8,40" ],
+  "verses" : [ {
+    "verse" : "luke,8,40",
+    "text" : "Now when Jesus returned, a crowd welcomed him, for they were all expecting him."
+  } ],
   "rsbNotes" : [ ]
 }, {
-  "singleVerses" : [ "luke,8,41", "luke,8,42" ],
+  "verses" : [ {
+    "verse" : "luke,8,41",
+    "text" : "Then a man named Jairus, a ruler of the synagogue, came and fell at Jesus' feet, pleading with him to come to his house"
+  }, {
+    "verse" : "luke,8,42",
+    "text" : "because his only daughter, a girl of about twelve, was dying."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,8,41",
     "id" : 196497,
@@ -10,7 +19,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 8:41\">8:41 a</a></b> <b>ruler of the synagogue.</b> The man who would arrange the service, choosing those who would read Scripture or lead in prayer.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,8,43" ],
+  "verses" : [ {
+    "verse" : "luke,8,43",
+    "text" : "As Jesus was on his way, the crowds almost crushed him. And a woman was there who had been subject to bleeding for twelve years, but no one could heal her."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,8,43",
     "id" : 196498,
@@ -18,7 +30,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 8:43\">8:43 a</a></b> <b>discharge of blood.</b> The woman’s condition would make her ceremonially unclean (<a class=\"bibleref\" href=\"/passage/?search=Lev 15:25\">Lev. 15:25</a>), cutting her off from many social relationships.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,8,44" ],
+  "verses" : [ {
+    "verse" : "luke,8,44",
+    "text" : "She came up behind him and touched the edge of his cloak, and immediately her bleeding stopped."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,8,44",
     "id" : 196499,
@@ -26,7 +41,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 8:44\">8:44</a></b> <b>the fringe of his garment.</b> Perhaps the tassel prescribed in <a class=\"bibleref\" href=\"/passage/?search=Num 15:37-Num 15:40\">Num. 15:37–40</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,8,45", "luke,8,46", "luke,8,47" ],
+  "verses" : [ {
+    "verse" : "luke,8,45",
+    "text" : "\"Who touched me?\" Jesus asked. When they all denied it, Peter said, \"Master, the people are crowding and pressing against you.\""
+  }, {
+    "verse" : "luke,8,46",
+    "text" : "But Jesus said, \"Someone touched me; I know that power has gone out from me.\""
+  }, {
+    "verse" : "luke,8,47",
+    "text" : "Then the woman, seeing that she could not go unnoticed, came trembling and fell at his feet. In the presence of all the people, she told why she had touched him and how she had been instantly healed."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,8,45",
     "id" : 196500,
@@ -34,7 +58,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 8:45\">8:45</a></b> The woman’s cure needed to be known publicly in order for her to be taken back into normal social life. Jesus was careful to arrange this.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,8,48", "luke,8,49", "luke,8,50", "luke,8,51" ],
+  "verses" : [ {
+    "verse" : "luke,8,48",
+    "text" : "Then he said to her, \"Daughter, your faith has healed you. Go in peace.\""
+  }, {
+    "verse" : "luke,8,49",
+    "text" : "While Jesus was still speaking, someone came from the house of Jairus, the synagogue ruler. \"Your daughter is dead,\" he said. \"Don't bother the teacher any more.\""
+  }, {
+    "verse" : "luke,8,50",
+    "text" : "Hearing this, Jesus said to Jairus, \"Don't be afraid; just believe, and she will be healed.\""
+  }, {
+    "verse" : "luke,8,51",
+    "text" : "When he arrived at the house of Jairus, he did not let anyone go in with him except Peter, John and James, and the child's father and mother."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,8,48",
     "id" : 196501,
@@ -42,7 +78,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 8:48\">8:48</a></b> <b>Daughter.</b> She is the only woman Jesus calls “Daughter,” a tender statement.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,8,52", "luke,8,53" ],
+  "verses" : [ {
+    "verse" : "luke,8,52",
+    "text" : "Meanwhile, all the people were wailing and mourning for her. \"Stop wailing,\" Jesus said. \"She is not dead but asleep.\""
+  }, {
+    "verse" : "luke,8,53",
+    "text" : "They laughed at him, knowing that she was dead."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,8,52",
     "id" : 196502,
@@ -50,7 +92,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 8:52\">8:52</a></b> Luke does not explain who “all” these people were. They would certainly include relatives and friends, probably people from the neighborhood and professional mourners (including flute players, <a class=\"bibleref\" href=\"/passage/?search=Matt 9:23\">Matt. 9:23</a>). Mourning was normally demonstrative, and there would have been much wailing. Jesus forbade it all and said that the girl was “sleeping.” This does not mean that she had not died, but that Jesus was prepared to waken her from death.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,8,54", "luke,8,55" ],
+  "verses" : [ {
+    "verse" : "luke,8,54",
+    "text" : "But he took her by the hand and said, \"My child, get up!\""
+  }, {
+    "verse" : "luke,8,55",
+    "text" : "Her spirit returned, and at once she stood up. Then Jesus told them to give her something to eat."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,8,54",
     "id" : 196503,
@@ -58,7 +106,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 8:54\">8:54</a></b> <b>arise.</b> Luke describes the miracle simply (<a class=\"bibleref\" href=\"/passage/?search=Mark 5:41\">Mark 5:41</a> retains the Aramaic words Jesus used, but Luke translates them).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,8,56" ],
+  "verses" : [ {
+    "verse" : "luke,8,56",
+    "text" : "Her parents were astonished, but he ordered them not to tell anyone what had happened."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,8,56",
     "id" : 196504,
@@ -66,7 +117,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 8:56\">8:56</a></b> The effect of the miracle was astonishment. This time Jesus forbade publicity; He often did not want news of His miracles to spread (<a class=\"bibleref\" href=\"/passage/?search=Mark 1:34\">Mark 1:34</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,9,1", "luke,9,2" ],
+  "verses" : [ {
+    "verse" : "luke,9,1",
+    "text" : "When Jesus had called the Twelve together, he gave them power and authority to drive out all demons and to cure diseases,"
+  }, {
+    "verse" : "luke,9,2",
+    "text" : "and he sent them out to preach the kingdom of God and to heal the sick."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,9,1-luke,9,2",
     "id" : 196505,
@@ -74,7 +131,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 9:1\">9:1</a>, <a class=\"bibleref\" href=\"/passage/?search=Luke 9:2\">2</a></b> The Twelve were evidently not together all the time (some had homes and families). But for this important mission Jesus gathered them all. He equipped them with power over demons (see “Demons” at <a class=\"bibleref\" href=\"/passage/?search=Deut 32:17\">Deut. 32:17</a>) and sickness, and commissioned them to continue His work of preaching and healing.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,9,3" ],
+  "verses" : [ {
+    "verse" : "luke,9,3",
+    "text" : "He told them: \"Take nothing for the journey--no staff, no bag, no bread, no money, no extra tunic."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,9,3",
     "id" : 196506,
@@ -82,7 +142,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 9:3\">9:3</a></b> They were to take the barest minimum, relying on God’s provision.</p><p><b>no staff.</b> No complete explanation has been given as to why <a class=\"bibleref\" href=\"/passage/?search=Mark 6:8\">Mark 6:8</a> allows a staff; perhaps both are ways of saying “Go as you are; make no special preparation.”</p><p><b>bag.</b> The bag a traveler would take to carry belongings and provisions for his journey.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,9,4" ],
+  "verses" : [ {
+    "verse" : "luke,9,4",
+    "text" : "Whatever house you enter, stay there until you leave that town."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,9,4",
     "id" : 196507,
@@ -90,7 +153,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 9:4\">9:4</a></b> They would rely on hospitality, but staying in one house limited the time they spent in any one place.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,9,5", "luke,9,6" ],
+  "verses" : [ {
+    "verse" : "luke,9,5",
+    "text" : "If people do not welcome you, shake the dust off your feet when you leave their town, as a testimony against them.\""
+  }, {
+    "verse" : "luke,9,6",
+    "text" : "So they set out and went from village to village, preaching the gospel and healing people everywhere."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,9,5",
     "id" : 196508,

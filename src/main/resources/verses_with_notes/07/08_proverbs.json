@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,18,20" ],
+  "verses" : [ {
+    "verse" : "proverbs,18,20",
+    "text" : "From the fruit of his mouth a man's stomach is filled; with the harvest from his lips he is satisfied."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 18:20\">18:20</a></b> <b>the fruit of a man’s mouth.</b> See <a class=\"bibleref\" href=\"/passage/?search=Prov 12:14\">12:14</a>; <a class=\"bibleref\" href=\"/passage/?search=Prov 13:2\">13:2</a> and notes.</p><p><b>he is satisfied.</b> Probably a metaphor for the constructive results of wise speech that promotes life-giving relationships.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,18,21" ],
+  "verses" : [ {
+    "verse" : "proverbs,18,21",
+    "text" : "The tongue has the power of life and death, and those who love it will eat its fruit."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,18,21",
     "id" : 192063,

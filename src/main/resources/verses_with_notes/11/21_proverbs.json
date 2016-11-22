@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,28,6" ],
+  "verses" : [ {
+    "verse" : "proverbs,28,6",
+    "text" : "Better a poor man whose walk is blameless than a rich man whose ways are perverse."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,28,1-proverbs,28,28",
     "id" : 192290,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 28:6\">28:6</a></b> <b>in his integrity.</b> Integrity in one’s relationships with God and others is more important than riches.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,28,7" ],
+  "verses" : [ {
+    "verse" : "proverbs,28,7",
+    "text" : "He who keeps the law is a discerning son, but a companion of gluttons disgraces his father."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,28,7",
     "id" : 192296,

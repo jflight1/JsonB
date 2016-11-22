@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "jonah,1,1" ],
+  "verses" : [ {
+    "verse" : "jonah,1,1",
+    "text" : "The word of the LORD came to Jonah son of Amittai:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jonah,1,1-jonah,2,10",
     "id" : 195133,
@@ -17,7 +20,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jonah 1:1\">1:1</a></b> <b>Now the word of the <span class=\"small-caps\">Lord</span> came to Jonah.</b> With some variations, wording like this is used some 112 times in the Old Testament to describe the giving of a divine message to a prophet.</p><p><b>Jonah the son of Amittai.</b> The recipient of the Lord’s revelation is Jonah (“dove”), the son of Amittai (“loyal” or “faithful”). This designation identifies the prophet as the historical character of <a class=\"bibleref\" href=\"/passage/?search=2Kgs 14:25\">2 Kin. 14:25</a>, who proclaimed that Jeroboam II (793–753 <span class=\"small-caps\">b.c.</span>) would recover territory from the Syrians to the north. Contrast Jonah’s message to Jeroboam’s kingdom with the words of Amos and Hosea, who prophesied during the period of Israel’s spiritual decline in the latter part of the same century (Introduction: Date and Occasion).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jonah,1,2" ],
+  "verses" : [ {
+    "verse" : "jonah,1,2",
+    "text" : "\"Go to the great city of Nineveh and preach against it, because its wickedness has come up before me.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jonah,1,2",
     "id" : 195136,
@@ -25,7 +31,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jonah 1:2\">1:2</a></b> <b>go to Nineveh.</b> The Lord’s sovereignty over all the nations is implicit in the command to Jonah. He is the Judge of all the earth (<a class=\"bibleref\" href=\"/passage/?search=Gen 18:25\">Gen. 18:25</a>). The last capital of the Assyrian Empire, Nineveh was located on the east side of the Tigris River directly opposite the modern city of Mosul in northern Iraq. The site has been extensively excavated and boasts a long and rich history.</p><p><b>call out against it.</b> Jonah understood that his pronouncement of the Lord’s judgment on the feared and hated Assyrian Empire was reversible (4:2 note). He knew that his message offered the opportunity for repentance.</p><p><b>their evil has come up before me.</b> In the later prophecy of Nahum (seventh century <span class=\"small-caps\">b.c.</span>), the Assyrian capital of Nineveh is the focus of divine wrath and is depicted as the embodiment of evil and cruelty (<a class=\"bibleref\" href=\"/passage/?search=Nah 3:1-Nah 3:7\">Nah. 3:1–7</a>). The Assyrian war machine was guilty of horrendous atrocities; in 612 <span class=\"small-caps\">b.c.</span> that empire would itself fall victim to a cruel destroyer.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jonah,1,3" ],
+  "verses" : [ {
+    "verse" : "jonah,1,3",
+    "text" : "But Jonah ran away from the LORD and headed for Tarshish. He went down to Joppa, where he found a ship bound for that port. After paying the fare, he went aboard and sailed for Tarshish to flee from the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jonah,1,3",
     "id" : 195137,
@@ -33,7 +42,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jonah 1:3\">1:3</a></b> <b>Tarshish.</b> Precise identification of this Tarshish is difficult, though it is often identified with the mining port of Tartessus in southern Spain. Sometimes, however, the term designates distant Mediterranean coastlands in general.</p><p><b>from the presence of the <span class=\"small-caps\">Lord</span>.</b> Because God is present even “in the uttermost parts of the sea” (<a class=\"bibleref\" href=\"/passage/?search=Ps 139:9\">Ps. 139:9</a>), escape was impossible.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jonah,1,4", "jonah,1,5", "jonah,1,6" ],
+  "verses" : [ {
+    "verse" : "jonah,1,4",
+    "text" : "Then the LORD sent a great wind on the sea, and such a violent storm arose that the ship threatened to break up."
+  }, {
+    "verse" : "jonah,1,5",
+    "text" : "All the sailors were afraid and each cried out to his own god. And they threw the cargo into the sea to lighten the ship. But Jonah had gone below deck, where he lay down and fell into a deep sleep."
+  }, {
+    "verse" : "jonah,1,6",
+    "text" : "The captain went to him and said, \"How can you sleep? Get up and call on your god! Maybe he will take notice of us, and we will not perish.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jonah,1,4",
     "id" : 195138,
@@ -41,7 +59,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jonah 1:4\">1:4</a></b> <b>the <span class=\"small-caps\">Lord</span> hurled a great wind upon the sea.</b> Jonah’s God is the Creator and Lord of the sea (<a class=\"bibleref\" href=\"/passage/?search=Gen 1:10\">Gen. 1:10</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 1:21\">21</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 14:21\">Ex. 14:21</a>; <a class=\"bibleref\" href=\"/passage/?search=Mark 4:41\">Mark 4:41</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jonah,1,7", "jonah,1,8" ],
+  "verses" : [ {
+    "verse" : "jonah,1,7",
+    "text" : "Then the sailors said to each other, \"Come, let us cast lots to find out who is responsible for this calamity.\" They cast lots and the lot fell on Jonah."
+  }, {
+    "verse" : "jonah,1,8",
+    "text" : "So they asked him, \"Tell us, who is responsible for making all this trouble for us? What do you do? Where do you come from? What is your country? From what people are you?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jonah,1,7",
     "id" : 195139,
@@ -49,7 +73,31 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jonah 1:7\">1:7</a></b> <b>let us cast lots.</b> The casting of lots was a common form of divination in the ancient world, a device used to discover the will of the gods. This method of discerning the will of the true God was not forbidden in ancient Israel, for the Lord ruled even over lots (<a class=\"bibleref\" href=\"/passage/?search=Num 26:55\">Num. 26:55</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 18:6-Josh 18:10\">Josh. 18:6–10</a>; <a class=\"bibleref\" href=\"/passage/?search=Neh 10:34\">Neh. 10:34</a>; <a class=\"bibleref\" href=\"/passage/?search=Prov 16:33\">Prov. 16:33</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 1:24-Acts 1:26\">Acts 1:24–26</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jonah,1,9", "jonah,1,10", "jonah,1,11", "jonah,1,12", "jonah,1,13", "jonah,1,14", "jonah,1,15", "jonah,1,16" ],
+  "verses" : [ {
+    "verse" : "jonah,1,9",
+    "text" : "He answered, \"I am a Hebrew and I worship the LORD, the God of heaven, who made the sea and the land.\""
+  }, {
+    "verse" : "jonah,1,10",
+    "text" : "This terrified them and they asked, \"What have you done?\" (They knew he was running away from the LORD, because he had already told them so.)"
+  }, {
+    "verse" : "jonah,1,11",
+    "text" : "The sea was getting rougher and rougher. So they asked him, \"What should we do to you to make the sea calm down for us?\""
+  }, {
+    "verse" : "jonah,1,12",
+    "text" : "\"Pick me up and throw me into the sea,\" he replied, \"and it will become calm. I know that it is my fault that this great storm has come upon you.\""
+  }, {
+    "verse" : "jonah,1,13",
+    "text" : "Instead, the men did their best to row back to land. But they could not, for the sea grew even wilder than before."
+  }, {
+    "verse" : "jonah,1,14",
+    "text" : "Then they cried to the LORD, \"O LORD, please do not let us die for taking this man's life. Do not hold us accountable for killing an innocent man, for you, O LORD, have done as you pleased.\""
+  }, {
+    "verse" : "jonah,1,15",
+    "text" : "Then they took Jonah and threw him overboard, and the raging sea grew calm."
+  }, {
+    "verse" : "jonah,1,16",
+    "text" : "At this the men greatly feared the LORD, and they offered a sacrifice to the LORD and made vows to him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jonah,1,9",
     "id" : 195140,
@@ -57,7 +105,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jonah 1:9\">1:9</a></b> <b>I am a Hebrew.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Gen 14:13\">Gen. 14:13</a>. Jonah identifies himself in ethnic terms. The term “Hebrew” was used by Israelites to identify themselves to foreigners (<a class=\"bibleref\" href=\"/passage/?search=Gen 40:15\">Gen. 40:15</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 1:19\">Ex. 1:19</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 3:18\">3:18</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 10:3\">10:3</a>).</p><p><b>I fear the <span class=\"small-caps\">Lord</span>.</b> Jonah also identifies himself in religious terms. The Lord his God is not just a personal, family, or national deity. He is the supreme and sovereign God, the Creator of land and sea.</p><p><b>the God of heaven.</b> An old title (<a class=\"bibleref\" href=\"/passage/?search=Gen 24:3\">Gen. 24:3</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 24:7\">7</a>) also commonly used in the Persian period after the Exile (<a class=\"bibleref\" href=\"/passage/?search=2Chr 36:23\">2 Chr. 36:23</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezra 1:2\">Ezra 1:2</a>; <a class=\"bibleref\" href=\"/passage/?search=Neh 1:4\">Neh. 1:4</a>, <a class=\"bibleref\" href=\"/passage/?search=Neh 1:5\">5</a>; <a class=\"bibleref\" href=\"/passage/?search=Neh 2:4\">2:4</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jonah,1,17" ],
+  "verses" : [ {
+    "verse" : "jonah,1,17",
+    "text" : "But the LORD provided a great fish to swallow Jonah, and Jonah was inside the fish three days and three nights."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jonah,1,17",
     "id" : 195141,
@@ -65,7 +116,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jonah 1:17\">1:17</a></b> <b>the <span class=\"small-caps\">Lord</span> appointed.</b> The same Hebrew word also occurs in <a class=\"bibleref\" href=\"/passage/?search=Jonah 4:6-Jonah 4:8\">4:6–8</a>; each instance indicates a startling example of God’s sovereignty over the natural world.</p><p><b>a great fish.</b> The species of whale or fish that swallowed Jonah cannot be identified with certainty. Suggestions have included the sperm whale or a large shark. The fish was God’s instrument to rescue Jonah from the depths of the sea (“the belly of Sheol,” <a class=\"bibleref\" href=\"/passage/?search=Jonah 2:2\">2:2</a>).</p><p><b>three days and three nights.</b> Jesus referred to the Book of Jonah in order to communicate truths regarding His own message and mission (<a class=\"bibleref\" href=\"/passage/?search=Matt 12:38-Matt 12:41\">Matt. 12:38–41</a>; <a class=\"bibleref\" href=\"/passage/?search=Matt 16:4\">16:4</a>; <a class=\"bibleref\" href=\"/passage/?search=Luke 11:29-Luke 11:32\">Luke 11:29–32</a>). He speaks of the “sign of the prophet Jonah” not only with reference to the three days and three nights that Jonah was in the fish (<a class=\"bibleref\" href=\"/passage/?search=Matt 12:39\">Matt. 12:39</a>, <a class=\"bibleref\" href=\"/passage/?search=Matt 12:40\">40</a>), but also with regard to the efficacy of Jonah’s preaching. Without benefit of a miraculous sign, the Ninevites recognized Jonah’s message as one with divine authority, and they responded in repentance.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jonah,2,1" ],
+  "verses" : [ {
+    "verse" : "jonah,2,1",
+    "text" : "From inside the fish Jonah prayed to the LORD his God."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jonah,2,1-jonah,2,10",
     "id" : 195142,
@@ -78,7 +132,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jonah 2:1\">2:1</a></b> <b>Jonah prayed.</b> Consistent with Old Testament narrative style, the Jonah story is interrupted with a poem (<a class=\"bibleref\" href=\"/passage/?search=Jonah 2:2-Jonah 2:9\">vv. 2–9</a>), a psalm of thanksgiving and celebration for the Lord’s deliverance and mercy. The literary structure is typical of a thanksgiving psalm: (a) petition for deliverance (<a class=\"bibleref\" href=\"/passage/?search=Jonah 2:2\">2:2</a>); (b) review of crisis (<a class=\"bibleref\" href=\"/passage/?search=Jonah 2:3-Jonah 2:6\">2:3–6</a>); (c) review of deliverance (<a class=\"bibleref\" href=\"/passage/?search=Jonah 2:6\">2:6</a>, <a class=\"bibleref\" href=\"/passage/?search=Jonah 2:7\">7</a>); and (d) praise for deliverance (<a class=\"bibleref\" href=\"/passage/?search=Jonah 2:8\">2:8</a>, <a class=\"bibleref\" href=\"/passage/?search=Jonah 2:9\">9</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jonah,2,2" ],
+  "verses" : [ {
+    "verse" : "jonah,2,2",
+    "text" : "He said: \"In my distress I called to the LORD, and he answered me. From the depths of the grave I called for help, and you listened to my cry."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jonah,2,2",
     "id" : 195144,
@@ -86,7 +143,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jonah 2:2\">2:2</a></b> <b>I called out . . . and he answered me.</b> Using the poetic device of parallelism, Jonah’s psalm is introduced in two couplets that tell of the prophet’s prayer and the Lord’s answer. Jonah acknowledges that he was rescued “out of the belly of Sheol” (a watery grave in the depths of the sea).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jonah,2,3" ],
+  "verses" : [ {
+    "verse" : "jonah,2,3",
+    "text" : "You hurled me into the deep, into the very heart of the seas, and the currents swirled about me; all your waves and breakers swept over me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jonah,2,3-jonah,2,6",
     "id" : 195145,
@@ -94,7 +154,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jonah 2:3-Jonah 2:6\">2:3–6</a></b> These verses contain a vivid recollection of the near-death crisis, its causes, and results. Jonah’s plight was the Lord’s judgment on his disobedience. The brush with a watery grave is presented with graphic imagery: entanglement in seaweed, the silence of deep water, and waves swelling high above the victim.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jonah,2,4", "jonah,2,5" ],
+  "verses" : [ {
+    "verse" : "jonah,2,4",
+    "text" : "I said, 'I have been banished from your sight; yet I will look again toward your holy temple.'"
+  }, {
+    "verse" : "jonah,2,5",
+    "text" : "The engulfing waters threatened me, the deep surrounded me; seaweed was wrapped around my head."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jonah,2,4",
     "id" : 195146,
@@ -102,7 +168,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jonah 2:4\">2:4</a></b> <b>I am driven away from your sight.</b> For the prophet, the ultimate horror of death was separation from the presence of the Lord (<a class=\"bibleref\" href=\"/passage/?search=Ps 88:4\">Ps. 88:4</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 88:5\">5</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 88:10-Ps 88:12\">10–12</a>).</p><p><b>Yet I shall again look upon your holy temple.</b> The Jerusalem temple was the earthly location of the divine presence. Jonah longed for the communion with God that the temple afforded. The prophet now laments losing the same divine presence that he earlier had sought to escape (1:3, 10).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jonah,2,6" ],
+  "verses" : [ {
+    "verse" : "jonah,2,6",
+    "text" : "To the roots of the mountains I sank down; the earth beneath barred me in forever. But you brought my life up from the pit, O LORD my God."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jonah,2,6",
     "id" : 195147,
@@ -110,7 +179,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jonah 2:6\">2:6</a></b> <b>I went down.</b> Jonah was at death’s door. His slow, silent descent through the depths, like a journey to the underworld, had brought him to “the gates of death” (<a class=\"bibleref\" href=\"/passage/?search=Ps 9:13\">Ps. 9:13</a>).</p><p><b>you brought up my life from the pit.</b> Here “pit” is used to describe the realm of death (<a class=\"bibleref\" href=\"/passage/?search=Job 33:22\">Job 33:22</a>, <a class=\"bibleref\" href=\"/passage/?search=Job 33:24\">24</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 49:9\">Ps. 49:9</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 51:14\">Is. 51:14</a>). Despite the hopelessness of the circumstances, the repentant prophet is rescued from the realm of the dead and restored to communion with God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jonah,2,7" ],
+  "verses" : [ {
+    "verse" : "jonah,2,7",
+    "text" : "\"When my life was ebbing away, I remembered you, LORD, and my prayer rose to you, to your holy temple."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jonah,2,7",
     "id" : 195148,
@@ -118,7 +190,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jonah 2:7\">2:7</a></b> <b>I remembered the <span class=\"small-caps\">Lord</span>.</b> The context indicates that this prayer was answered; the importance and effectiveness of prayer are again emphasized, as in <a class=\"bibleref\" href=\"/passage/?search=Jonah 2:2\">v. 2</a> (cf. <a class=\"bibleref\" href=\"/passage/?search=Heb 4:16\">Heb. 4:16</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jonah,2,8" ],
+  "verses" : [ {
+    "verse" : "jonah,2,8",
+    "text" : "\"Those who cling to worthless idols forfeit the grace that could be theirs."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jonah,2,8",
     "id" : 195149,
@@ -126,7 +201,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jonah 2:8\">2:8</a></b> <b>Those who pay regard to vain idols.</b> Recalling the ineffectiveness of the sailors’ prayers and of their gods (<a class=\"bibleref\" href=\"/passage/?search=Jonah 1:5\">1:5</a>), Jonah condemns those who put their faith in idols.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jonah,2,9" ],
+  "verses" : [ {
+    "verse" : "jonah,2,9",
+    "text" : "But I, with a song of thanksgiving, will sacrifice to you. What I have vowed I will make good. Salvation comes from the LORD.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jonah,2,9",
     "id" : 195150,
@@ -134,7 +212,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jonah 2:9\">2:9</a></b> <b>Salvation belongs to the <span class=\"small-caps\">Lord</span>.</b> Like Joshua before him (<a class=\"bibleref\" href=\"/passage/?search=Josh 24:14\">Josh. 24:14</a>, <a class=\"bibleref\" href=\"/passage/?search=Josh 24:15\">15</a>), Jonah declares his loyalty to the Lord and extols Him as the only source of salvation and deliverance. In imparting salvation to Jonah, the Lord moved the prophet from disobedience to repentance; in imparting salvation to the Ninevites, He will move them from idolatry to faith (3:5–10); in imparting salvation to the Gentiles now He sovereignly moves them to faith and repentance (<a class=\"bibleref\" href=\"/passage/?search=Acts 11:17\">Acts 11:17</a>, <a class=\"bibleref\" href=\"/passage/?search=Acts 11:18\">18</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jonah,2,10" ],
+  "verses" : [ {
+    "verse" : "jonah,2,10",
+    "text" : "And the LORD commanded the fish, and it vomited Jonah onto dry land."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jonah,2,10",
     "id" : 195151,
@@ -142,7 +223,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jonah 2:10\">2:10</a></b> <b>the <span class=\"small-caps\">Lord</span> spoke . . . it vomited Jonah.</b> Again creation responds obediently to the sovereign commands of the Creator (<a class=\"bibleref\" href=\"/passage/?search=Jonah 1:4\">1:4</a>, <a class=\"bibleref\" href=\"/passage/?search=Jonah 1:15\">15</a>, <a class=\"bibleref\" href=\"/passage/?search=Jonah 1:17\">17</a>). The fish, which might have been God’s weapon of death, by grace became God’s tool of deliverance.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jonah,3,1", "jonah,3,2" ],
+  "verses" : [ {
+    "verse" : "jonah,3,1",
+    "text" : "Then the word of the LORD came to Jonah a second time:"
+  }, {
+    "verse" : "jonah,3,2",
+    "text" : "\"Go to the great city of Nineveh and proclaim to it the message I give you.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jonah,3,1-jonah,4,11",
     "id" : 195152,
@@ -150,7 +237,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jonah 3-Jonah 4\">3:1–4:11</a></b> In this second division of the book Jonah preaches the message God commanded, and the people of Nineveh respond with genuine repentance (<a class=\"bibleref\" href=\"/passage/?search=Jonah 3\">ch. 3</a>). When the Lord turns from threatened judgment, we learn the real reason why Jonah had fled the first time: he feared that God would show mercy to the hated Assyrians (<a class=\"bibleref\" href=\"/passage/?search=Jonah 4:2\">4:2</a>). In the object lessons that follow, the wideness of the Lord’s mercy and compassion is revealed (<a class=\"bibleref\" href=\"/passage/?search=Jonah 4:5-Jonah 4:11\">4:5–11</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jonah,3,3", "jonah,3,4" ],
+  "verses" : [ {
+    "verse" : "jonah,3,3",
+    "text" : "Jonah obeyed the word of the LORD and went to Nineveh. Now Nineveh was a very important city-a visit required three days."
+  }, {
+    "verse" : "jonah,3,4",
+    "text" : "On the first day, Jonah started into the city. He proclaimed: \"Forty more days and Nineveh will be overturned.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jonah,3,3",
     "id" : 195153,
@@ -158,7 +251,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jonah 3:3\">3:3</a></b> <b>Jonah arose and went.</b> Having learned that the call of God is irrevocable (cf. <a class=\"bibleref\" href=\"/passage/?search=Rom 11:29\">Rom. 11:29</a>), Jonah responded to the Lord’s renewed commission. Though he obeyed God this time, Jonah was “displeased” with the prospect of Ninevite repentance (4:1, 2).</p><p><b>Nineveh was.</b> Some have suggested that the use of the past tense (“was”) indicates that the city was no longer in existence at the time of writing. Given the city’s destruction in 612 <span class=\"small-caps\">b.c.</span> by the Medes and Babylonians, this interpretation would date the narrative sometime after the late seventh century <span class=\"small-caps\">b.c.</span> The past tense does not preclude an eighth-century date, however, for it may simply indicate the status of the city when the prophet arrived.</p><p><b>an exceedingly great city, three days’ journey.</b> The Hebrew is difficult to translate. Many commentators interpret these phrases as a reference to the physical size of Nineveh. Archaeological exploration has shown that the city was between seven and eight miles in circumference with an estimated population of 120,000 people. Others suggest that the first formula should be translated “a very important city,” or more lit. as “a great city to God” (emphasizing its significance rather than size). This latter reading fits the context better. The second expression (lit. “journey of three days”) could indicate the duration of visit appropriate (in terms of ancient Near Eastern diplomatic protocol) for an emissary to such an important city.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jonah,3,5" ],
+  "verses" : [ {
+    "verse" : "jonah,3,5",
+    "text" : "The Ninevites believed God. They declared a fast, and all of them, from the greatest to the least, put on sackcloth."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jonah,3,5",
     "id" : 195154,
@@ -166,7 +262,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jonah 3:5\">3:5</a></b> <b>the people of Nineveh believed.</b> Jonah’s worst fears were realized when the people believed, repented, proclaimed a fast, and adorned themselves in sackcloth (the traditional mourning garb of the ancient Near East). The repentance was swift and city-wide.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jonah,3,6" ],
+  "verses" : [ {
+    "verse" : "jonah,3,6",
+    "text" : "When the news reached the king of Nineveh, he rose from his throne, took off his royal robes, covered himself with sackcloth and sat down in the dust."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jonah,3,6",
     "id" : 195155,
@@ -174,7 +273,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jonah 3:6\">3:6</a></b> <b>the king of Nineveh.</b> Apparently a reference to the mighty king of Assyria. Although it is highly unlikely that Assyrian records would note this unusual occurrence, some scholars have associated this event with the religious reforms of Adad-nirari III (810–783 <span class=\"small-caps\">b.c.</span>). The reign of Assur-dan III (772–755 <span class=\"small-caps\">b.c.</span>) has also been suggested.</p><p><b>he arose . . . and sat in ashes.</b> The king’s response was as immediate and spontaneous as that of his subjects. Royal authority gave way to penitent humility. He exchanged his robes for sackcloth, his throne for a bed of ashes (cf. <a class=\"bibleref\" href=\"/passage/?search=Job 42:6\">Job 42:6</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 58:5\">Is. 58:5</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jonah,3,7" ],
+  "verses" : [ {
+    "verse" : "jonah,3,7",
+    "text" : "Then he issued a proclamation in Nineveh: \"By the decree of the king and his nobles: Do not let any man or beast, herd or flock, taste anything; do not let them eat or drink."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jonah,3,7",
     "id" : 195156,
@@ -182,7 +284,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jonah 3:7\">3:7</a></b> <b>decree of the king.</b> With the royal edict mandating prayer, mourning rites, and a fast for man and beast, Nineveh’s repentance was complete. The inclusion of animals points to the thorough and genuine nature of their repentance. Later, it was customary among the Persians to include domestic animals in the rites of mourning.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jonah,3,8" ],
+  "verses" : [ {
+    "verse" : "jonah,3,8",
+    "text" : "But let man and beast be covered with sackcloth. Let everyone call urgently on God. Let them give up their evil ways and their violence."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jonah,3,8",
     "id" : 195157,
@@ -190,7 +295,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jonah 3:8\">3:8</a></b> <b>Let everyone turn from . . . violence.</b> This royal admonition addressed the most prominent of Nineveh’s sins. Physical violence and social injustice were hallmarks of the Assyrian Empire (<a class=\"bibleref\" href=\"/passage/?search=Nah 3:1\">Nah. 3:1</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jonah,3,9" ],
+  "verses" : [ {
+    "verse" : "jonah,3,9",
+    "text" : "Who knows? God may yet relent and with compassion turn from his fierce anger so that we will not perish.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jonah,3,9",
     "id" : 195158,
@@ -198,7 +306,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jonah 3:9\">3:9</a></b> The king gives personal and corporate expression to the hope that genuine repentance will avert the divine judgment. The structure of <a class=\"bibleref\" href=\"/passage/?search=Jonah 3:5-Jonah 3:9\">3:5–9</a> conforms to the typical Old Testament pattern of reporting corporate repentance (<a class=\"bibleref\" href=\"/passage/?search=Jer 36:3\">Jer. 36:3</a>; <a class=\"bibleref\" href=\"/passage/?search=Joel 2\">Joel 2</a>): (a) threat of judgment, (b) penitent response, and (c) divine decision to withhold punishment.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jonah,3,10" ],
+  "verses" : [ {
+    "verse" : "jonah,3,10",
+    "text" : "When God saw what they did and how they turned from their evil ways, he had compassion and did not bring upon them the destruction he had threatened."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jonah,3,10",
     "id" : 195159,
@@ -206,7 +317,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jonah 3:10\">3:10</a></b> <b>God saw what they did.</b> The prophetic warning (<a class=\"bibleref\" href=\"/passage/?search=Jonah 3:4\">v. 4</a>) had an implied condition, namely, that judgment was imminent—if the city did not repent. In turning “from their evil way” the Ninevites met that condition. The Lord’s change of mind (i.e., His sovereign choice to make His own action depend upon human response) is fully compatible with God’s sovereignty and immutability, since He ordains the means as well as the ends of His sovereign will (<a class=\"bibleref\" href=\"/passage/?search=Jer 18:7-Jer 18:10\">Jer. 18:7–10</a>). See note <a class=\"bibleref\" href=\"/passage/?search=Gen 6:6\">Gen. 6:6</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jonah,4,1" ],
+  "verses" : [ {
+    "verse" : "jonah,4,1",
+    "text" : "But Jonah was greatly displeased and became angry."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jonah,4,1-jonah,4,11",
     "id" : 195160,
@@ -219,7 +333,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jonah 4:1\">4:1</a></b> <b>it displeased Jonah exceedingly.</b> The Hebrew is particularly vivid (lit. “it was evil to Jonah as a great wrong”). Jonah’s emotion is expressed in the strongest language possible: his greatest fear was that the Lord would bestow forgiveness on Israel’s most hated enemy.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jonah,4,2", "jonah,4,3", "jonah,4,4" ],
+  "verses" : [ {
+    "verse" : "jonah,4,2",
+    "text" : "He prayed to the LORD, \"O LORD, is this not what I said when I was still at home? That is why I was so quick to flee to Tarshish. I knew that you are a gracious and compassionate God, slow to anger and abounding in love, a God who relents from sending calamity."
+  }, {
+    "verse" : "jonah,4,3",
+    "text" : "Now, O LORD, take away my life, for it is better for me to die than to live.\""
+  }, {
+    "verse" : "jonah,4,4",
+    "text" : "But the LORD replied, \"Have you any right to be angry?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jonah,4,2",
     "id" : 195162,
@@ -227,7 +350,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jonah 4:2\">4:2</a></b> <b>you are a gracious . . . relenting from disaster.</b> The reason for Jonah’s initial flight to Tarshish is revealed. Despite his blatant disobedience and narrow-mindedness, Jonah understood the character of God. Here he echoes a liturgical formula describing God’s mercy to an undeserving Israel (e.g., <a class=\"bibleref\" href=\"/passage/?search=Exod 34:6\">Ex. 34:6</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 14:18\">Num. 14:18</a>; <a class=\"bibleref\" href=\"/passage/?search=Neh 9:17\">Neh. 9:17</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 103:8\">Ps. 103:8</a>; <a class=\"bibleref\" href=\"/passage/?search=Joel 2:13\">Joel 2:13</a>). Only here and in <a class=\"bibleref\" href=\"/passage/?search=Joel 2:13\">Joel 2:13</a> does the reference to divine repentance (“he relents over disaster”) conclude the formula (3:10 note), an inclusion appropriate to the context of Nineveh’s repentance and deliverance.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jonah,4,5" ],
+  "verses" : [ {
+    "verse" : "jonah,4,5",
+    "text" : "Jonah went out and sat down at a place east of the city. There he made himself a shelter, sat in its shade and waited to see what would happen to the city."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jonah,4,5",
     "id" : 195163,
@@ -235,7 +361,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jonah 4:5\">4:5</a></b> <b>Jonah went out . . . made a booth.</b> Grateful for his own deliverance, Jonah still refuses to accept that of the Ninevites. Hoping that the Lord will execute judgment, Jonah leaves the city for a vantage point from which to view the destruction of the city.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jonah,4,6" ],
+  "verses" : [ {
+    "verse" : "jonah,4,6",
+    "text" : "Then the LORD God provided a vine and made it grow up over Jonah to give shade for his head to ease his discomfort, and Jonah was very happy about the vine."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jonah,4,6",
     "id" : 195164,
@@ -243,7 +372,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jonah 4:6\">4:6</a></b> <b>the <span class=\"small-caps\">Lord</span> God appointed a plant.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Jonah 1:17\">1:17</a>. Probably because of the shortage of timber in this dry region, Jonah’s shelter was not adequate to provide protection from the hot Near Eastern sun. The type of vegetation provided is uncertain; some suggest the castor oil plant, which grows quickly to a height of 15 feet.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jonah,4,7", "jonah,4,8" ],
+  "verses" : [ {
+    "verse" : "jonah,4,7",
+    "text" : "But at dawn the next day God provided a worm, which chewed the vine so that it withered."
+  }, {
+    "verse" : "jonah,4,8",
+    "text" : "When the sun rose, God provided a scorching east wind, and the sun blazed on Jonah's head so that he grew faint. He wanted to die, and said, \"It would be better for me to die than to live.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jonah,4,7-jonah,4,8",
     "id" : 195165,
@@ -251,7 +386,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jonah 4:7\">4:7</a>, <a class=\"bibleref\" href=\"/passage/?search=Jonah 4:8\">8</a></b> The same divine hand that in mercy had provided the great fish and the shade now brings a worm to kill the plant, and a hot east wind (likely the feared scirocco of the Mediterranean world) to torment the bitter prophet.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jonah,4,9", "jonah,4,10", "jonah,4,11" ],
+  "verses" : [ {
+    "verse" : "jonah,4,9",
+    "text" : "But God said to Jonah, \"Do you have a right to be angry about the vine?I do,\" he said. \"I am angry enough to die.\""
+  }, {
+    "verse" : "jonah,4,10",
+    "text" : "But the LORD said, \"You have been concerned about this vine, though you did not tend it or make it grow. It sprang up overnight and died overnight."
+  }, {
+    "verse" : "jonah,4,11",
+    "text" : "But Nineveh has more than a hundred and twenty thousand people who cannot tell their right hand from their left, and many cattle as well. Should I not be concerned about that great city?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jonah,4,9-jonah,4,11",
     "id" : 195166,

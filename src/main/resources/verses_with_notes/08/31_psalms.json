@@ -1,5 +1,14 @@
 [ {
-  "singleVerses" : [ "psalms,44,9", "psalms,44,10", "psalms,44,11" ],
+  "verses" : [ {
+    "verse" : "psalms,44,9",
+    "text" : "But now you have rejected and humbled us; you no longer go out with our armies."
+  }, {
+    "verse" : "psalms,44,10",
+    "text" : "You made us retreat before the enemy, and our adversaries have plundered us."
+  }, {
+    "verse" : "psalms,44,11",
+    "text" : "You gave us up to be devoured like sheep and have scattered us among the nations."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,44,1-psalms,44,26",
     "id" : 190569,
@@ -12,7 +21,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 44:9\">44:9</a></b> <b>you have rejected us and disgraced us.</b> God was with Israel at Jericho, but now He does not bless the army with His leadership. This resulted in their easy defeat.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,44,12", "psalms,44,13", "psalms,44,14", "psalms,44,15", "psalms,44,16", "psalms,44,17", "psalms,44,18" ],
+  "verses" : [ {
+    "verse" : "psalms,44,12",
+    "text" : "You sold your people for a pittance, gaining nothing from their sale."
+  }, {
+    "verse" : "psalms,44,13",
+    "text" : "You have made us a reproach to our neighbors, the scorn and derision of those around us."
+  }, {
+    "verse" : "psalms,44,14",
+    "text" : "You have made us a byword among the nations; the peoples shake their heads at us."
+  }, {
+    "verse" : "psalms,44,15",
+    "text" : "My disgrace is before me all day long, and my face is covered with shame"
+  }, {
+    "verse" : "psalms,44,16",
+    "text" : "at the taunts of those who reproach and revile me, because of the enemy, who is bent on revenge."
+  }, {
+    "verse" : "psalms,44,17",
+    "text" : "All this happened to us, though we had not forgotten you or been false to your covenant."
+  }, {
+    "verse" : "psalms,44,18",
+    "text" : "Our hearts had not turned back; our feet had not strayed from your path."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,44,12",
     "id" : 190576,
@@ -20,7 +50,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 44:12\">44:12</a></b> <b>You have sold your people for a trifle.</b> These are bold words, a striking example of the honesty of the psalmist’s approach to God in prayer.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,44,19", "psalms,44,20", "psalms,44,21" ],
+  "verses" : [ {
+    "verse" : "psalms,44,19",
+    "text" : "But you crushed us and made us a haunt for jackals and covered us over with deep darkness."
+  }, {
+    "verse" : "psalms,44,20",
+    "text" : "If we had forgotten the name of our God or spread out our hands to a foreign god,"
+  }, {
+    "verse" : "psalms,44,21",
+    "text" : "would not God have discovered it, since he knows the secrets of the heart?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,44,19",
     "id" : 190577,
@@ -28,7 +67,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 44:19\">44:19</a></b> <b>shadow of death.</b> Normally reserved for God’s enemies (<a class=\"bibleref\" href=\"/passage/?search=Nah 1:8\">Nah. 1:8</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,44,22" ],
+  "verses" : [ {
+    "verse" : "psalms,44,22",
+    "text" : "Yet for your sake we face death all day long; we are considered as sheep to be slaughtered."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,44,22",
     "id" : 190578,
@@ -36,7 +78,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 44:22\">44:22</a></b> <b>for your sake.</b> The world seems utterly turned around. The people have not forgotten God, yet they suffer for His sake. Paul quotes this verse in <a class=\"bibleref\" href=\"/passage/?search=Rom 8:36\">Rom. 8:36</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,44,23", "psalms,44,24", "psalms,44,25" ],
+  "verses" : [ {
+    "verse" : "psalms,44,23",
+    "text" : "Awake, O Lord! Why do you sleep? Rouse yourself! Do not reject us forever."
+  }, {
+    "verse" : "psalms,44,24",
+    "text" : "Why do you hide your face and forget our misery and oppression?"
+  }, {
+    "verse" : "psalms,44,25",
+    "text" : "We are brought down to the dust; our bodies cling to the ground."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,44,23",
     "id" : 190579,
@@ -44,7 +95,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 44:23\">44:23</a></b> <b>Awake.</b> The psalmist prays as if God were asleep and unaware of Israel’s plight. This daring language reflects the writer’s frustration. The usual cry to God before battle is “Arise” (<a class=\"bibleref\" href=\"/passage/?search=Ps 7:6\">Ps. 7:6</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,44,26" ],
+  "verses" : [ {
+    "verse" : "psalms,44,26",
+    "text" : "Rise up and help us; redeem us because of your unfailing love."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,44,26",
     "id" : 190580,

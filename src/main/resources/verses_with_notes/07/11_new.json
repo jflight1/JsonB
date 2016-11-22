@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "acts,28,1", "acts,28,2" ],
+  "verses" : [ {
+    "verse" : "acts,28,1",
+    "text" : "Once safely on shore, we found out that the island was called Malta."
+  }, {
+    "verse" : "acts,28,2",
+    "text" : "The islanders showed us unusual kindness. They built a fire and welcomed us all because it was raining and cold."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,28,1",
     "id" : 197681,
@@ -7,7 +13,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 28:1\">28:1</a></b> <b>Malta.</b> Ancient Melita (the name means “a place of refuge”) was settled by Phoenicians who came there about 1000 <span class=\"small-caps\">b.c.</span> Malta measures 8 by 18 miles and is 60 miles south of Sicily and 180 miles northeast of Cyrene, North Africa.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,28,3", "acts,28,4", "acts,28,5" ],
+  "verses" : [ {
+    "verse" : "acts,28,3",
+    "text" : "Paul gathered a pile of brushwood and, as he put it on the fire, a viper, driven out by the heat, fastened itself on his hand."
+  }, {
+    "verse" : "acts,28,4",
+    "text" : "When the islanders saw the snake hanging from his hand, they said to each other, \"This man must be a murderer; for though he escaped from the sea, Justice has not allowed him to live.\""
+  }, {
+    "verse" : "acts,28,5",
+    "text" : "But Paul shook the snake off into the fire and suffered no ill effects."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,28,3-acts,28,5",
     "id" : 197682,
@@ -15,7 +30,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 28:3-Acts 28:5\">28:3–5</a></b> Being cold-blooded, snakes can become stiff and motionless in cold weather, and Paul must have picked up the serpent along with the brush. Some have suggested that the snake was nonpoisonous, but the Greek word translated “creature” in <a class=\"bibleref\" href=\"/passage/?search=Acts 28:4\">v. 4</a> is one applied to dangerous animals and poisonous snakes, and there is little reason to doubt the islanders’ identification of the snake as poisonous.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,28,6", "acts,28,7" ],
+  "verses" : [ {
+    "verse" : "acts,28,6",
+    "text" : "The people expected him to swell up or suddenly fall dead, but after waiting a long time and seeing nothing unusual happen to him, they changed their minds and said he was a god."
+  }, {
+    "verse" : "acts,28,7",
+    "text" : "There was an estate nearby that belonged to Publius, the chief official of the island. He welcomed us to his home and for three days entertained us hospitably."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,28,6",
     "id" : 197683,
@@ -23,7 +44,31 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 28:6\">28:6</a></b> <b>they changed their minds.</b> There is some irony in the islanders’ reappraisal of Paul’s character—from murderer destined for death to that of a god. This recalls the events in Lystra, where first the people hailed Paul and Barnabas as gods, and then nearly stoned Paul to death (<a class=\"bibleref\" href=\"/passage/?search=Acts 14:11-Acts 14:20\">14:11–20</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,28,8", "acts,28,9", "acts,28,10", "acts,28,11", "acts,28,12", "acts,28,13", "acts,28,14", "acts,28,15" ],
+  "verses" : [ {
+    "verse" : "acts,28,8",
+    "text" : "His father was sick in bed, suffering from fever and dysentery. Paul went in to see him and, after prayer, placed his hands on him and healed him."
+  }, {
+    "verse" : "acts,28,9",
+    "text" : "When this had happened, the rest of the sick on the island came and were cured."
+  }, {
+    "verse" : "acts,28,10",
+    "text" : "They honored us in many ways and when we were ready to sail, they furnished us with the supplies we needed."
+  }, {
+    "verse" : "acts,28,11",
+    "text" : "After three months we put out to sea in a ship that had wintered in the island. It was an Alexandrian ship with the figurehead of the twin gods Castor and Pollux."
+  }, {
+    "verse" : "acts,28,12",
+    "text" : "We put in at Syracuse and stayed there three days."
+  }, {
+    "verse" : "acts,28,13",
+    "text" : "From there we set sail and arrived at Rhegium. The next day the south wind came up, and on the following day we reached Puteoli."
+  }, {
+    "verse" : "acts,28,14",
+    "text" : "There we found some brothers who invited us to spend a week with them. And so we came to Rome."
+  }, {
+    "verse" : "acts,28,15",
+    "text" : "The brothers there had heard that we were coming, and they traveled as far as the Forum of Appius and the Three Taverns to meet us. At the sight of these men Paul thanked God and was encouraged."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,28,8",
     "id" : 197684,
@@ -31,7 +76,49 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 28:8\">28:8</a></b> <b>sick with fever and dysentery.</b> The Greek words suggest repeated feverish attacks. The ailment has been diagnosed in modern times as Malta fever, caused by the milk of Maltese goats.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,28,16", "acts,28,17", "acts,28,18", "acts,28,19", "acts,28,20", "acts,28,21", "acts,28,22", "acts,28,23", "acts,28,24", "acts,28,25", "acts,28,26", "acts,28,27", "acts,28,28", "acts,28,29" ],
+  "verses" : [ {
+    "verse" : "acts,28,16",
+    "text" : "When we got to Rome, Paul was allowed to live by himself, with a soldier to guard him."
+  }, {
+    "verse" : "acts,28,17",
+    "text" : "Three days later he called together the leaders of the Jews. When they had assembled, Paul said to them: \"My brothers, although I have done nothing against our people or against the customs of our ancestors, I was arrested in Jerusalem and handed over to the Romans."
+  }, {
+    "verse" : "acts,28,18",
+    "text" : "They examined me and wanted to release me, because I was not guilty of any crime deserving death."
+  }, {
+    "verse" : "acts,28,19",
+    "text" : "But when the Jews objected, I was compelled to appeal to Caesar--not that I had any charge to bring against my own people."
+  }, {
+    "verse" : "acts,28,20",
+    "text" : "For this reason I have asked to see you and talk with you. It is because of the hope of Israel that I am bound with this chain.\""
+  }, {
+    "verse" : "acts,28,21",
+    "text" : "They replied, \"We have not received any letters from Judea concerning you, and none of the brothers who have come from there has reported or said anything bad about you."
+  }, {
+    "verse" : "acts,28,22",
+    "text" : "But we want to hear what your views are, for we know that people everywhere are talking against this sect.\""
+  }, {
+    "verse" : "acts,28,23",
+    "text" : "They arranged to meet Paul on a certain day, and came in even larger numbers to the place where he was staying. From morning till evening he explained and declared to them the kingdom of God and tried to convince them about Jesus from the Law of Moses and from the Prophets."
+  }, {
+    "verse" : "acts,28,24",
+    "text" : "Some were convinced by what he said, but others would not believe."
+  }, {
+    "verse" : "acts,28,25",
+    "text" : "They disagreed among themselves and began to leave after Paul had made this final statement: \"The Holy Spirit spoke the truth to your forefathers when he said through Isaiah the prophet:"
+  }, {
+    "verse" : "acts,28,26",
+    "text" : "\"'Go to this people and say, \"You will be ever hearing but never understanding; you will be ever seeing but never perceiving.\""
+  }, {
+    "verse" : "acts,28,27",
+    "text" : "For this people's heart has become calloused; they hardly hear with their ears, and they have closed their eyes. Otherwise they might see with their eyes, hear with their ears, understand with their hearts and turn, and I would heal them.'"
+  }, {
+    "verse" : "acts,28,28",
+    "text" : "\"Therefore I want you to know that God's salvation has been sent to the Gentiles, and they will listen!\""
+  }, {
+    "verse" : "acts,28,29",
+    "text" : "See Footnote"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,28,16",
     "id" : 197685,
@@ -39,7 +126,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 28:16\">28:16</a></b> <b>stay by himself . . . guarded.</b> Under house arrest, Paul lived in his own rented home. There he could entertain his friends and minister to groups such as the Roman Jews.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,28,30" ],
+  "verses" : [ {
+    "verse" : "acts,28,30",
+    "text" : "For two whole years Paul stayed there in his own rented house and welcomed all who came to see him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,28,30-acts,28,31",
     "id" : 197686,
@@ -47,7 +137,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 28:30\">28:30</a>, <a class=\"bibleref\" href=\"/passage/?search=Acts 28:31\">31</a></b> From <span class=\"small-caps\">a.d.</span> 60–62 Paul was under house arrest preaching and teaching to anyone who wanted to hear. His subject is summarized as the kingdom of God and Jesus Christ. At the end of Acts, Paul has not yet been tried before Nero, as the Lord said was going to happen (<a class=\"bibleref\" href=\"/passage/?search=Acts 27:24\">27:24</a>). It appears that Paul expected to be acquitted and released (<a class=\"bibleref\" href=\"/passage/?search=Phil 1:25\">Phil. 1:25</a>; <a class=\"bibleref\" href=\"/passage/?search=Phil 2:24\">2:24</a>; <a class=\"bibleref\" href=\"/passage/?search=Phlm 1:22\">Philem. 22</a>). This must have occurred before <span class=\"small-caps\">a.d.</span> 64, when Nero set fire to Rome and accused Christians of that crime. When released, Paul seems to have taken up his ministry again, going as far as Greece (Nicopolis, <a class=\"bibleref\" href=\"/passage/?search=Titus 3:12\">Titus 3:12</a>; Thessalonica, <a class=\"bibleref\" href=\"/passage/?search=2Tim 4:10\">2 Tim. 4:10</a>), Crete (<a class=\"bibleref\" href=\"/passage/?search=Titus 1:5\">Titus 1:5</a>), and Asia Minor (Ephesus, <a class=\"bibleref\" href=\"/passage/?search=2Tim 1:18\">2 Tim. 1:18</a>; <a class=\"bibleref\" href=\"/passage/?search=2Tim 4:12\">4:12</a>; Troas, <a class=\"bibleref\" href=\"/passage/?search=2Tim 4:13\">2 Tim. 4:13</a>; Miletus, <a class=\"bibleref\" href=\"/passage/?search=2Tim 4:20\">2 Tim. 4:20</a>). Possibly he went as far west as Spain (<a class=\"bibleref\" href=\"/passage/?search=Rom 15:23\">Rom. 15:23</a>, <a class=\"bibleref\" href=\"/passage/?search=Rom 15:24\">24</a>, <a class=\"bibleref\" href=\"/passage/?search=Rom 15:28\">28</a>), as the first-century writing <i>1 Clement</i> may indicate. About <span class=\"small-caps\">a.d.</span> 67, Paul was imprisoned again by Nero and executed. In <a class=\"bibleref\" href=\"/passage/?search=2Tim 4:6-2Tim 4:8\">2 Tim. 4:6–8</a>, Paul anticipates the end of his life.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,28,31" ],
+  "verses" : [ {
+    "verse" : "acts,28,31",
+    "text" : "Boldly and without hindrance he preached the kingdom of God and taught about the Lord Jesus Christ."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,28,31",
     "id" : 197687,

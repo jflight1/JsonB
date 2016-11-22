@@ -1,5 +1,23 @@
 [ {
-  "singleVerses" : [ "matthew,7,15", "matthew,7,16", "matthew,7,17", "matthew,7,18", "matthew,7,19", "matthew,7,20" ],
+  "verses" : [ {
+    "verse" : "matthew,7,15",
+    "text" : "\"Watch out for false prophets. They come to you in sheep's clothing, but inwardly they are ferocious wolves."
+  }, {
+    "verse" : "matthew,7,16",
+    "text" : "By their fruit you will recognize them. Do people pick grapes from thornbushes, or figs from thistles?"
+  }, {
+    "verse" : "matthew,7,17",
+    "text" : "Likewise every good tree bears good fruit, but a bad tree bears bad fruit."
+  }, {
+    "verse" : "matthew,7,18",
+    "text" : "A good tree cannot bear bad fruit, and a bad tree cannot bear good fruit."
+  }, {
+    "verse" : "matthew,7,19",
+    "text" : "Every tree that does not bear good fruit is cut down and thrown into the fire."
+  }, {
+    "verse" : "matthew,7,20",
+    "text" : "Thus, by their fruit you will recognize them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,5,1-matthew,7,29",
     "id" : 195644,
@@ -12,7 +30,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 7:15\">7:15</a></b> <b>sheep’s clothing . . . ravenous wolves.</b> The message of false prophets may be attractive and even seem orthodox. The only way to know for sure is to allow time to see “their fruits” (<a class=\"bibleref\" href=\"/passage/?search=Matt 7:16-Matt 7:20\">vv. 16–20</a>). Some of the false prophets’ fruits are mentioned in the New Testament: controversies (<a class=\"bibleref\" href=\"/passage/?search=1Tim 1:3\">1 Tim. 1:3</a>), divisions (<a class=\"bibleref\" href=\"/passage/?search=1Tim 6:3\">1 Tim. 6:3</a>, <a class=\"bibleref\" href=\"/passage/?search=1Tim 6:4\">4</a>), destruction of faith (<a class=\"bibleref\" href=\"/passage/?search=2Tim 2:18\">2 Tim. 2:18</a>), and self-destruction by heresy (<a class=\"bibleref\" href=\"/passage/?search=2Pet 2:1\">2 Pet. 2:1</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,7,21", "matthew,7,22", "matthew,7,23", "matthew,7,24" ],
+  "verses" : [ {
+    "verse" : "matthew,7,21",
+    "text" : "\"Not everyone who says to me, 'Lord, Lord,' will enter the kingdom of heaven, but only he who does the will of my Father who is in heaven."
+  }, {
+    "verse" : "matthew,7,22",
+    "text" : "Many will say to me on that day, 'Lord, Lord, did we not prophesy in your name, and in your name drive out demons and perform many miracles?'"
+  }, {
+    "verse" : "matthew,7,23",
+    "text" : "Then I will tell them plainly, 'I never knew you. Away from me, you evildoers!'"
+  }, {
+    "verse" : "matthew,7,24",
+    "text" : "\"Therefore everyone who hears these words of mine and puts them into practice is like a wise man who built his house on the rock."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,7,21",
     "id" : 195689,
@@ -20,7 +50,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 7:21\">7:21</a></b> <b>Lord, Lord.</b> The doubling of a name was an address of intimacy (<a class=\"bibleref\" href=\"/passage/?search=Gen 22:11\">Gen. 22:11</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 3:10\">1 Sam. 3:10</a>; <a class=\"bibleref\" href=\"/passage/?search=2Sam 18:33\">2 Sam. 18:33</a>; <a class=\"bibleref\" href=\"/passage/?search=Luke 22:31\">Luke 22:31</a>). It is not claims or feelings of intimacy with Jesus that matter, nor is it simply good works, even miraculous ones; only doing the will of the Father matters. Genuine intimacy with the Father means knowing God and being known by God (<a class=\"bibleref\" href=\"/passage/?search=1Cor 8:2\">1 Cor. 8:2</a>, <a class=\"bibleref\" href=\"/passage/?search=1Cor 8:3\">3</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,7,25", "matthew,7,26", "matthew,7,27", "matthew,7,28" ],
+  "verses" : [ {
+    "verse" : "matthew,7,25",
+    "text" : "The rain came down, the streams rose, and the winds blew and beat against that house; yet it did not fall, because it had its foundation on the rock."
+  }, {
+    "verse" : "matthew,7,26",
+    "text" : "But everyone who hears these words of mine and does not put them into practice is like a foolish man who built his house on sand."
+  }, {
+    "verse" : "matthew,7,27",
+    "text" : "The rain came down, the streams rose, and the winds blew and beat against that house, and it fell with a great crash.\""
+  }, {
+    "verse" : "matthew,7,28",
+    "text" : "When Jesus had finished saying these things, the crowds were amazed at his teaching,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,7,25",
     "id" : 195690,
@@ -28,7 +70,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 7:25\">7:25</a></b> <b>the rain fell.</b> Storms in Palestine are infrequent but can be violent. Although the houses of the foolish and the wise may for a long time appear equally secure, when the storm comes the destruction of the foolish one’s house is total (<a class=\"bibleref\" href=\"/passage/?search=Isa 28:14-Isa 28:18\">Is. 28:14–18</a>). So it is with the life of those who ignore the words of Jesus.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,7,29" ],
+  "verses" : [ {
+    "verse" : "matthew,7,29",
+    "text" : "because he taught as one who had authority, and not as their teachers of the law."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,7,29",
     "id" : 195691,

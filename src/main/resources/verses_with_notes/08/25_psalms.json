@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,40,1" ],
+  "verses" : [ {
+    "verse" : "psalms,40,1",
+    "text" : "I waited patiently for the LORD; he turned to me and heard my cry."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,40,1-psalms,40,17",
     "id" : 190541,
@@ -7,7 +10,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 40\">Ps. 40</a></b> This psalm has two sections joined together with vv. 9–10 as an appropriate transition. God has answered an earlier prayer of the psalmist, but he still has problems to bring before God. He looks to God in a time of new crisis.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,40,2" ],
+  "verses" : [ {
+    "verse" : "psalms,40,2",
+    "text" : "He lifted me out of the slimy pit, out of the mud and mire; he set my feet on a rock and gave me a firm place to stand."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,40,2",
     "id" : 190542,
@@ -15,7 +21,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 40:2\">40:2</a></b> <b>pit of destruction . . . rock.</b> A miry pit is contrasted with the sure footing of a rock. Sheol, the grave, is often pictured as a pit (<a class=\"bibleref\" href=\"/passage/?search=Ps 6:5\">6:5</a> and notes; <a class=\"bibleref\" href=\"/passage/?search=Ps 30:3\">30:3</a>). Perhaps the psalmist was ill and threatened with death; or, since the psalm is probably royal, he may have felt the threat of death in battle.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,40,3" ],
+  "verses" : [ {
+    "verse" : "psalms,40,3",
+    "text" : "He put a new song in my mouth, a hymn of praise to our God. Many will see and fear and put their trust in the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,40,3",
     "id" : 190543,
@@ -23,7 +32,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 40:3\">40:3</a></b> <b>new song.</b> See <a class=\"bibleref\" href=\"/passage/?search=Ps 33:3\">Ps. 33:3</a> note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,40,4", "psalms,40,5" ],
+  "verses" : [ {
+    "verse" : "psalms,40,4",
+    "text" : "Blessed is the man who makes the LORD his trust, who does not look to the proud, to those who turn aside to false gods."
+  }, {
+    "verse" : "psalms,40,5",
+    "text" : "Many, O LORD my God, are the wonders you have done. The things you planned for us no one can recount to you; were I to speak and tell of them, they would be too many to declare."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,40,4",
     "id" : 190544,
@@ -31,7 +46,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 40:4\">40:4</a></b> <b>Blessed.</b> See <a class=\"bibleref\" href=\"/passage/?search=Ps 1:1\">Ps. 1:1</a> note.</p><p><b>proud.</b> A rare word used of Egypt in <a class=\"bibleref\" href=\"/passage/?search=Ps 87:4\">Ps. 87:4</a> and there simply translated “Rahab.” Here it probably refers to the false idols of the surrounding nations.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,40,6" ],
+  "verses" : [ {
+    "verse" : "psalms,40,6",
+    "text" : "Sacrifice and offering you did not desire, but my ears you have pierced,; burnt offerings and sin offerings you did not require."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,40,6",
     "id" : 190545,
@@ -39,7 +57,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 40:6\">40:6</a></b> <b>you have not desired.</b> The psalmist knows that the animal sacrifices of the Old Testament were mandated by God. But if they were offered without genuine repentance and faith, God did not want them.</p><p><b>you have given me an open ear.</b> This difficult phrase may be idiomatic. The Hebrew more literally translated would be “ears you have dug for me” (see text note). This would mean that God gave the psalmist ears to hear and obey. The phrase is important because it is cited in <a class=\"bibleref\" href=\"/passage/?search=Heb 10:5-Heb 10:7\">Heb. 10:5–7</a>. Hebrews uses the Septuagint (Greek Old Testament) translation, “a body have you prepared for me.” The meaning is the same; the “ears” are to the “body” as the part to the whole. The obedience of Jesus in the body is to offer Himself once and for all, replacing the animal sacrifices of the Old Testament.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,40,7" ],
+  "verses" : [ {
+    "verse" : "psalms,40,7",
+    "text" : "Then I said, \"Here I am, I have come- it is written about me in the scroll."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,40,7",
     "id" : 190546,
@@ -47,7 +68,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 40:7\">40:7</a></b> <b>in the scroll of the book it is written of me.</b> The reference may refer to the commandment recorded for kings in <a class=\"bibleref\" href=\"/passage/?search=Deut 17\">Deut. 17</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,40,8" ],
+  "verses" : [ {
+    "verse" : "psalms,40,8",
+    "text" : "I desire to do your will, O my God; your law is within my heart.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,40,8",
     "id" : 190547,
@@ -55,7 +79,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 40:8\">40:8</a></b> <b>I desire to do your will.</b> This verse comes to the heart of the matter. The psalmist offers what God requires—heartfelt obedience.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,40,9", "psalms,40,10" ],
+  "verses" : [ {
+    "verse" : "psalms,40,9",
+    "text" : "I proclaim righteousness in the great assembly; I do not seal my lips, as you know, O LORD."
+  }, {
+    "verse" : "psalms,40,10",
+    "text" : "I do not hide your righteousness in my heart; I speak of your faithfulness and salvation. I do not conceal your love and your truth from the great assembly."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,40,9",
     "id" : 190548,

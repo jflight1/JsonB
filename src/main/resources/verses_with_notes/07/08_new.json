@@ -1,8 +1,20 @@
 [ {
-  "singleVerses" : [ "acts,26,1", "acts,26,2" ],
+  "verses" : [ {
+    "verse" : "acts,26,1",
+    "text" : "Then Agrippa said to Paul, \"You have permission to speak for yourself.\" So Paul motioned with his hand and began his defense:"
+  }, {
+    "verse" : "acts,26,2",
+    "text" : "\"King Agrippa, I consider myself fortunate to stand before you today as I make my defense against all the accusations of the Jews,"
+  } ],
   "rsbNotes" : [ ]
 }, {
-  "singleVerses" : [ "acts,26,3", "acts,26,4" ],
+  "verses" : [ {
+    "verse" : "acts,26,3",
+    "text" : "and especially so because you are well acquainted with all the Jewish customs and controversies. Therefore, I beg you to listen to me patiently."
+  }, {
+    "verse" : "acts,26,4",
+    "text" : "\"The Jews all know the way I have lived ever since I was a child, from the beginning of my life in my own country, and also in Jerusalem."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,26,3",
     "id" : 197663,
@@ -10,7 +22,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 26:3\">26:3</a></b> <b>familiar with all the customs and controversies of the Jews.</b> As the great-grandson of Herod the Great and son of Herod Agrippa I, who had persecuted the church (<a class=\"bibleref\" href=\"/passage/?search=Acts 12:1-Acts 12:23\">12:1–23</a>), Herod Agrippa II (<span class=\"small-caps\">a.d.</span> 27–c. 100) had an intimate knowledge of Jewish matters. Although influential in Jewish religious affairs because he had political authority to appoint the high priest, Agrippa II was unpopular with the Jews because of his incestuous relationship with his sister Bernice (<a class=\"bibleref\" href=\"/passage/?search=Acts 25:13\">25:13</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,26,5", "acts,26,6", "acts,26,7", "acts,26,8", "acts,26,9", "acts,26,10", "acts,26,11" ],
+  "verses" : [ {
+    "verse" : "acts,26,5",
+    "text" : "They have known me for a long time and can testify, if they are willing, that according to the strictest sect of our religion, I lived as a Pharisee."
+  }, {
+    "verse" : "acts,26,6",
+    "text" : "And now it is because of my hope in what God has promised our fathers that I am on trial today."
+  }, {
+    "verse" : "acts,26,7",
+    "text" : "This is the promise our twelve tribes are hoping to see fulfilled as they earnestly serve God day and night. O king, it is because of this hope that the Jews are accusing me."
+  }, {
+    "verse" : "acts,26,8",
+    "text" : "Why should any of you consider it incredible that God raises the dead?"
+  }, {
+    "verse" : "acts,26,9",
+    "text" : "\"I too was convinced that I ought to do all that was possible to oppose the name of Jesus of Nazareth."
+  }, {
+    "verse" : "acts,26,10",
+    "text" : "And that is just what I did in Jerusalem. On the authority of the chief priests I put many of the saints in prison, and when they were put to death, I cast my vote against them."
+  }, {
+    "verse" : "acts,26,11",
+    "text" : "Many a time I went from one synagogue to another to have them punished, and I tried to force them to blaspheme. In my obsession against them, I even went to foreign cities to persecute them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,26,5",
     "id" : 197664,
@@ -18,7 +51,31 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 26:5\">26:5</a></b> <b>strictest party . . . I have lived as a Pharisee.</b> Knowing the background of Agrippa, Paul stressed his dependence on the God of his fathers (cf. <a class=\"bibleref\" href=\"/passage/?search=Acts 24:14\">24:14</a>) and his link with the Pharisees (<a class=\"bibleref\" href=\"/passage/?search=Phil 3:5\">Phil. 3:5</a>, <a class=\"bibleref\" href=\"/passage/?search=Phil 3:6\">6</a>) to show the legitimacy of his Judaism. Paul argued that God had promised the resurrection of the body. Although this was the belief of Jews in general and the Pharisees in particular, it was being used as the basis of charges against him.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,26,12", "acts,26,13", "acts,26,14", "acts,26,15", "acts,26,16", "acts,26,17", "acts,26,18", "acts,26,19" ],
+  "verses" : [ {
+    "verse" : "acts,26,12",
+    "text" : "\"On one of these journeys I was going to Damascus with the authority and commission of the chief priests."
+  }, {
+    "verse" : "acts,26,13",
+    "text" : "About noon, O king, as I was on the road, I saw a light from heaven, brighter than the sun, blazing around me and my companions."
+  }, {
+    "verse" : "acts,26,14",
+    "text" : "We all fell to the ground, and I heard a voice saying to me in Aramaic, 'Saul, Saul, why do you persecute me? It is hard for you to kick against the goads.'"
+  }, {
+    "verse" : "acts,26,15",
+    "text" : "\"Then I asked, 'Who are you, Lord?'"
+  }, {
+    "verse" : "acts,26,16",
+    "text" : "\"'I am Jesus, whom you are persecuting,' the Lord replied. 'Now get up and stand on your feet. I have appeared to you to appoint you as a servant and as a witness of what you have seen of me and what I will show you."
+  }, {
+    "verse" : "acts,26,17",
+    "text" : "I will rescue you from your own people and from the Gentiles. I am sending you to them"
+  }, {
+    "verse" : "acts,26,18",
+    "text" : "to open their eyes and turn them from darkness to light, and from the power of Satan to God, so that they may receive forgiveness of sins and a place among those who are sanctified by faith in me.'"
+  }, {
+    "verse" : "acts,26,19",
+    "text" : "\"So then, King Agrippa, I was not disobedient to the vision from heaven."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,26,12-acts,26,14",
     "id" : 197665,
@@ -26,7 +83,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 26:12-Acts 26:14\">26:12–14</a></b> Paul’s experience on the road to Damascus (<a class=\"bibleref\" href=\"/passage/?search=Acts 9:1-Acts 9:19\">9:1–19</a>) was so important to him that he recounted it twice, once before the Jewish crowd in Jerusalem (<a class=\"bibleref\" href=\"/passage/?search=Acts 22:6-Acts 22:16\">22:6–16</a>), and again before this mainly pagan audience in Caesarea.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,26,20", "acts,26,21", "acts,26,22" ],
+  "verses" : [ {
+    "verse" : "acts,26,20",
+    "text" : "First to those in Damascus, then to those in Jerusalem and in all Judea, and to the Gentiles also, I preached that they should repent and turn to God and prove their repentance by their deeds."
+  }, {
+    "verse" : "acts,26,21",
+    "text" : "That is why the Jews seized me in the temple courts and tried to kill me."
+  }, {
+    "verse" : "acts,26,22",
+    "text" : "But I have had God's help to this very day, and so I stand here and testify to small and great alike. I am saying nothing beyond what the prophets and Moses said would happen--"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,26,20",
     "id" : 197666,
@@ -34,7 +100,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 26:20\">26:20</a></b> See <a class=\"bibleref\" href=\"/passage/?search=Acts 2:38\">2:38</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 3:19\">3:19</a> and note; <a class=\"bibleref\" href=\"/passage/?search=Acts 17:20\">17:20</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 20:21\">20:21</a>; theological note “Repentance.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,26,23", "acts,26,24", "acts,26,25", "acts,26,26" ],
+  "verses" : [ {
+    "verse" : "acts,26,23",
+    "text" : "that the Christ would suffer and, as the first to rise from the dead, would proclaim light to his own people and to the Gentiles.\""
+  }, {
+    "verse" : "acts,26,24",
+    "text" : "At this point Festus interrupted Paul's defense. \"You are out of your mind, Paul!\" he shouted. \"Your great learning is driving you insane.\""
+  }, {
+    "verse" : "acts,26,25",
+    "text" : "\"I am not insane, most excellent Festus,\" Paul replied. \"What I am saying is true and reasonable."
+  }, {
+    "verse" : "acts,26,26",
+    "text" : "The king is familiar with these things, and I can speak freely to him. I am convinced that none of this has escaped his notice, because it was not done in a corner."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,26,23",
     "id" : 197667,
@@ -42,7 +120,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 26:23\">26:23</a></b> <b>Christ must suffer . . . rise from the dead.</b> The Jews had difficulty accepting the idea that the Messiah would suffer and die. Jesus and His apostles taught this doctrine from the Scriptures (<a class=\"bibleref\" href=\"/passage/?search=Acts 17:2\">17:2</a>, <a class=\"bibleref\" href=\"/passage/?search=Acts 17:3\">3</a>; <a class=\"bibleref\" href=\"/passage/?search=Luke 24:27\">Luke 24:27</a>; <a class=\"bibleref\" href=\"/passage/?search=1Cor 15:3\">1 Cor. 15:3</a>, <a class=\"bibleref\" href=\"/passage/?search=1Cor 15:4\">4</a>), yet the Jews rejected it, arrested Paul, and wanted to kill him.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,26,27" ],
+  "verses" : [ {
+    "verse" : "acts,26,27",
+    "text" : "King Agrippa, do you believe the prophets? I know you do.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,26,27",
     "id" : 197668,
@@ -50,7 +131,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 26:27\">26:27</a></b> <b>do you believe the prophets.</b> Agrippa faced a dilemma: if he said no, he would anger the Jews; if he said yes, he would lose face because Paul would ask him to believe the gospel.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,26,28", "acts,26,29", "acts,26,30", "acts,26,31", "acts,26,32" ],
+  "verses" : [ {
+    "verse" : "acts,26,28",
+    "text" : "Then Agrippa said to Paul, \"Do you think that in such a short time you can persuade me to be a Christian?\""
+  }, {
+    "verse" : "acts,26,29",
+    "text" : "Paul replied, \"Short time or long--I pray God that not only you but all who are listening to me today may become what I am, except for these chains.\""
+  }, {
+    "verse" : "acts,26,30",
+    "text" : "The king rose, and with him the governor and Bernice and those sitting with them."
+  }, {
+    "verse" : "acts,26,31",
+    "text" : "They left the room, and while talking with one another, they said, \"This man is not doing anything that deserves death or imprisonment.\""
+  }, {
+    "verse" : "acts,26,32",
+    "text" : "Agrippa said to Festus, \"This man could have been set free if he had not appealed to Caesar.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,26,28",
     "id" : 197669,

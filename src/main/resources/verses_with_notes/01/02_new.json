@@ -1,8 +1,23 @@
 [ {
-  "singleVerses" : [ "matthew,2,13", "matthew,2,14" ],
+  "verses" : [ {
+    "verse" : "matthew,2,13",
+    "text" : "When they had gone, an angel of the Lord appeared to Joseph in a dream. \"Get up,\" he said, \"take the child and his mother and escape to Egypt. Stay there until I tell you, for Herod is going to search for the child to kill him.\""
+  }, {
+    "verse" : "matthew,2,14",
+    "text" : "So he got up, took the child and his mother during the night and left for Egypt,"
+  } ],
   "rsbNotes" : [ ]
 }, {
-  "singleVerses" : [ "matthew,2,15", "matthew,2,16", "matthew,2,17" ],
+  "verses" : [ {
+    "verse" : "matthew,2,15",
+    "text" : "where he stayed until the death of Herod. And so was fulfilled what the Lord had said through the prophet: \"Out of Egypt I called my son.\""
+  }, {
+    "verse" : "matthew,2,16",
+    "text" : "When Herod realized that he had been outwitted by the Magi, he was furious, and he gave orders to kill all the boys in Bethlehem and its vicinity who were two years old and under, in accordance with the time he had learned from the Magi."
+  }, {
+    "verse" : "matthew,2,17",
+    "text" : "Then what was said through the prophet Jeremiah was fulfilled:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,2,15",
     "id" : 195619,
@@ -10,7 +25,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 2:15\">2:15</a></b> <b>fulfill.</b> <a class=\"bibleref\" href=\"/passage/?search=Hos 11:1\">Hos. 11:1</a> refers to God’s calling His son Israel out of Egypt in the Exodus. Matthew means that the history of God’s redemption of Israel points forward to Jesus, the true Son of God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,2,18", "matthew,2,19", "matthew,2,20", "matthew,2,21", "matthew,2,22" ],
+  "verses" : [ {
+    "verse" : "matthew,2,18",
+    "text" : "\"A voice is heard in Ramah, weeping and great mourning, Rachel weeping for her children and refusing to be comforted, because they are no more.\""
+  }, {
+    "verse" : "matthew,2,19",
+    "text" : "After Herod died, an angel of the Lord appeared in a dream to Joseph in Egypt"
+  }, {
+    "verse" : "matthew,2,20",
+    "text" : "and said, \"Get up, take the child and his mother and go to the land of Israel, for those who were trying to take the child's life are dead.\""
+  }, {
+    "verse" : "matthew,2,21",
+    "text" : "So he got up, took the child and his mother and went to the land of Israel."
+  }, {
+    "verse" : "matthew,2,22",
+    "text" : "But when he heard that Archelaus was reigning in Judea in place of his father Herod, he was afraid to go there. Having been warned in a dream, he withdrew to the district of Galilee,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,2,18",
     "id" : 195620,
@@ -18,7 +48,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 2:18\">2:18</a></b> Matthew is quoting from <a class=\"bibleref\" href=\"/passage/?search=Jer 31:15\">Jer. 31:15</a>, from a prophecy about the return of Israel from exile. Rachel, the mother, represents all Israel in her weeping, and the departure of Christ to Egypt is like the departure of Rachel’s sons, Joseph and Benjamin, to Egypt (<a class=\"bibleref\" href=\"/passage/?search=Gen 37:28\">Gen. 37:28</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 43:15\">43:15</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,2,23", "matthew,3,1" ],
+  "verses" : [ {
+    "verse" : "matthew,2,23",
+    "text" : "and he went and lived in a town called Nazareth. So was fulfilled what was said through the prophets: \"He will be called a Nazarene.\""
+  }, {
+    "verse" : "matthew,3,1",
+    "text" : "In those days John the Baptist came, preaching in the Desert of Judea"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,2,23",
     "id" : 195621,
@@ -26,7 +62,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 2:23\">2:23</a></b> <b>He shall be called a Nazarene.</b> The Old Testament has no verse exactly corresponding to this, but note that Matthew introduces this reference to the prophets in more general terms than his other quotations. Nazareth was Christ’s home, but Matthew’s point is probably that Jesus would be despised, as people from Nazareth were (<a class=\"bibleref\" href=\"/passage/?search=John 1:46\">John 1:46</a>; <a class=\"bibleref\" href=\"/passage/?search=John 7:42\">7:42</a>, <a class=\"bibleref\" href=\"/passage/?search=John 7:52\">52</a>). <a class=\"bibleref\" href=\"/passage/?search=Isa 11:1\">Is. 11:1</a> refers to the Messiah as a “branch” (Hebrew <i>netzer</i>) from the roots of Jesse; this verse may have been in mind.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,3,2" ],
+  "verses" : [ {
+    "verse" : "matthew,3,2",
+    "text" : "and saying, \"Repent, for the kingdom of heaven is near.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,3,2",
     "id" : 195622,
@@ -34,7 +73,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 3:2\">3:2</a></b> <b>Repent.</b> The first command of both John the Baptist and Jesus (<a class=\"bibleref\" href=\"/passage/?search=Matt 4:17\">4:17</a>). Repentance is not just sorrow for sin but a decisive change, a turning away from sin and to a life of obedience. “Repent” translates the Old Testament call to Israel to “return” to faithfulness to the covenant. It does not mean self-punishment, depression, or remorse. Judas was sorrowful and distressed (<a class=\"bibleref\" href=\"/passage/?search=Matt 27:3\">27:3</a>) but he did not repent. See “Repentance” at <a class=\"bibleref\" href=\"/passage/?search=Acts 26:20\">Acts 26:20</a>.</p><p><b>kingdom of heaven.</b> The message of John the Baptist introduces the theme of Jesus’ teaching. Mark and Luke call it the “kingdom of God” (4:17; cf. <a class=\"bibleref\" href=\"/passage/?search=Mark 1:15\">Mark 1:15</a>). The kingdom or the reign of God is what the Old Testament prophets awaited: God’s display of His sovereignty in the redemption of His people. John and Jesus proclaimed that the time of waiting was over and the King Himself had come. With the death and resurrection of Jesus and the spread of the good news to all nations, the Old Testament promises of God have been largely fulfilled for us, although we still await their complete realization when Christ returns in judgment (ch. 13 and notes).</p><p><b>is at hand.</b> The beginning of God’s work is the basis for the command to repent.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,3,3", "matthew,3,4", "matthew,3,5" ],
+  "verses" : [ {
+    "verse" : "matthew,3,3",
+    "text" : "This is he who was spoken of through the prophet Isaiah: \"A voice of one calling in the desert, 'Prepare the way for the Lord, make straight paths for him.'\""
+  }, {
+    "verse" : "matthew,3,4",
+    "text" : "John's clothes were made of camel's hair, and he had a leather belt around his waist. His food was locusts and wild honey."
+  }, {
+    "verse" : "matthew,3,5",
+    "text" : "People went out to him from Jerusalem and all Judea and the whole region of the Jordan."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,3,3",
     "id" : 195623,
@@ -42,7 +90,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 3:3\">3:3</a></b> <b>this is he.</b> John the Baptist proclaims the coming of the Lord, using <a class=\"bibleref\" href=\"/passage/?search=Isa 40\">Is. 40</a>:3. John’s ministry pointed forward, like the Old Testament prophets, to a greater One who would follow (11:7–11; <a class=\"bibleref\" href=\"/passage/?search=Acts 19:4\">Acts 19:4</a>, <a class=\"bibleref\" href=\"/passage/?search=Acts 19:5\">5</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,3,6" ],
+  "verses" : [ {
+    "verse" : "matthew,3,6",
+    "text" : "Confessing their sins, they were baptized by him in the Jordan River."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,3,6",
     "id" : 195624,

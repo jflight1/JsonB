@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,20,4" ],
+  "verses" : [ {
+    "verse" : "proverbs,20,4",
+    "text" : "A sluggard does not plow in season; so at harvest time he looks but finds nothing."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 20:4\">20:4</a></b> See <a class=\"bibleref\" href=\"/passage/?search=Prov 6:6-Prov 6:11\">6:6–11</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,20,5" ],
+  "verses" : [ {
+    "verse" : "proverbs,20,5",
+    "text" : "The purposes of a man's heart are deep waters, but a man of understanding draws them out."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,20,5",
     "id" : 192094,
@@ -20,7 +26,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 20:5\">20:5</a></b> <b>will draw it out.</b> If “deep water” refers to truth deeply hidden in the “heart,” the wise person is seen as one who can draw such wisdom to the surface and bring it to expression (<a class=\"bibleref\" href=\"/passage/?search=Prov 18:4\">18:4</a> and note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,20,6" ],
+  "verses" : [ {
+    "verse" : "proverbs,20,6",
+    "text" : "Many a man claims to have unfailing love, but a faithful man who can find?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,20,6",
     "id" : 192095,

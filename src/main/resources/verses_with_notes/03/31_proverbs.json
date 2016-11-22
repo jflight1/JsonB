@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,12,8" ],
+  "verses" : [ {
+    "verse" : "proverbs,12,8",
+    "text" : "A man is praised according to his wisdom, but men with warped minds are despised."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 12:8\">12:8</a></b> <b>good sense.</b> The display of mastery in life wins praise.</p><p><b>twisted mind.</b> The phrase suggests an inability to think straight; more muddled than evil.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,12,9" ],
+  "verses" : [ {
+    "verse" : "proverbs,12,9",
+    "text" : "Better to be a nobody and yet have a servant than pretend to be somebody and have no food."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,12,9",
     "id" : 191905,

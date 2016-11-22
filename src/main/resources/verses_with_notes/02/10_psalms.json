@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,32,1" ],
+  "verses" : [ {
+    "verse" : "psalms,32,1",
+    "text" : "Blessed is he whose transgressions are forgiven, whose sins are covered."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,32,1-psalms,32,11",
     "id" : 190458,
@@ -7,7 +10,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 32\">Ps. 32</a></b> A penitential psalm containing some distinctive wisdom language (vv. 1, <a class=\"bibleref\" href=\"/passage/?search=Ps 32:2\">2</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 32:8-Ps 32:10\">8–10</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,32,2" ],
+  "verses" : [ {
+    "verse" : "psalms,32,2",
+    "text" : "Blessed is the man whose sin the LORD does not count against him and in whose spirit is no deceit."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,32,2",
     "id" : 190459,
@@ -15,7 +21,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 32:2\">32:2</a></b> <b>iniquity.</b> Three different words for sin are used in the first two verses to bring out the many aspects of man’s rebellion against God. Paul cites the first two verses of this psalm in <a class=\"bibleref\" href=\"/passage/?search=Rom 4:6-Rom 4:8\">Rom. 4:6–8</a> in describing the grace of God’s forgiveness.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,32,3" ],
+  "verses" : [ {
+    "verse" : "psalms,32,3",
+    "text" : "When I kept silent, my bones wasted away through my groaning all day long."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,32,3",
     "id" : 190460,
@@ -23,7 +32,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 32:3\">32:3</a></b> <b>my bones wasted away.</b> The psalmist perceives sin’s consequences in his body. This is not merely poetic language, although sin does not always have immediate physical consequences.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,32,4" ],
+  "verses" : [ {
+    "verse" : "psalms,32,4",
+    "text" : "For day and night your hand was heavy upon me; my strength was sapped as in the heat of summer. Selah"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,32,4",
     "id" : 190461,
@@ -31,7 +43,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 32:4\">32:4</a></b> <b>my strength was . . . heat.</b> Guilt immobilized and enervated the psalmist.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,32,5" ],
+  "verses" : [ {
+    "verse" : "psalms,32,5",
+    "text" : "Then I acknowledged my sin to you and did not cover up my iniquity. I said, \"I will confess my transgressions to the LORD \"- and you forgave the guilt of my sin. Selah"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,32,5",
     "id" : 190462,
@@ -39,7 +54,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 32:5\">32:5</a></b> <b>I acknowledged my sin to you.</b> He praises God’s willingness and authority to forgive.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,32,6", "psalms,32,7" ],
+  "verses" : [ {
+    "verse" : "psalms,32,6",
+    "text" : "Therefore let everyone who is godly pray to you while you may be found; surely when the mighty waters rise, they will not reach him."
+  }, {
+    "verse" : "psalms,32,7",
+    "text" : "You are my hiding place; you will protect me from trouble and surround me with songs of deliverance. Selah"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,32,6",
     "id" : 190463,
@@ -47,7 +68,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 32:6\">32:6</a></b> <b>godly.</b> Or “saints”; see <a class=\"bibleref\" href=\"/passage/?search=Ps 31:23\">Ps. 31:23</a> note.</p><p><b>great waters.</b> Elsewhere translated “many waters.” See notes <a class=\"bibleref\" href=\"/passage/?search=Ps 18:4\">Ps. 18:4</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 18:16\">16</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 29:3\">29:3</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 29:10\">10</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 46:2\">46:2</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 69:1\">69:1</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 69:2\">2</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 144:7\">144:7</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,32,8" ],
+  "verses" : [ {
+    "verse" : "psalms,32,8",
+    "text" : "I will instruct you and teach you in the way you should go; I will counsel you and watch over you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,32,8",
     "id" : 190464,
@@ -55,7 +79,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 32:8\">32:8</a></b> <b>I will instruct you.</b> Using language found in wisdom sections of the Old Testament (e.g., <a class=\"bibleref\" href=\"/passage/?search=Ps 1\">Ps. 1</a> and <a class=\"bibleref\" href=\"/passage/?search=Prov 1-Prov 9\">Prov. 1–9</a>), God promises to direct the psalmist in the way of the covenant, in the way of righteousness.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,32,9", "psalms,32,10", "psalms,32,11" ],
+  "verses" : [ {
+    "verse" : "psalms,32,9",
+    "text" : "Do not be like the horse or the mule, which have no understanding but must be controlled by bit and bridle or they will not come to you."
+  }, {
+    "verse" : "psalms,32,10",
+    "text" : "Many are the woes of the wicked, but the LORD's unfailing love surrounds the man who trusts in him."
+  }, {
+    "verse" : "psalms,32,11",
+    "text" : "Rejoice in the LORD and be glad, you righteous; sing, all you who are upright in heart!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,32,9",
     "id" : 190465,

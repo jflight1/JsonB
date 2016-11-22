@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,16,4" ],
+  "verses" : [ {
+    "verse" : "proverbs,16,4",
+    "text" : "The LORD works out everything for his own ends- even the wicked for a day of disaster."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 16:4\">16:4</a></b> <b>for its purpose.</b> Lit. “for His answer” or “for its answer.” All of creation, even the wicked and their actions, stand under God’s sovereignty and serve His purposes (cf. <a class=\"bibleref\" href=\"/passage/?search=Rom 9:17-Rom 9:23\">Rom. 9:17–23</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,16,5" ],
+  "verses" : [ {
+    "verse" : "proverbs,16,5",
+    "text" : "The LORD detests all the proud of heart. Be sure of this: They will not go unpunished."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,16,5",
     "id" : 192005,

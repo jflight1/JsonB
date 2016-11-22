@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "proverbs,26,18", "proverbs,26,19" ],
+  "verses" : [ {
+    "verse" : "proverbs,26,18",
+    "text" : "Like a madman shooting firebrands or deadly arrows"
+  }, {
+    "verse" : "proverbs,26,19",
+    "text" : "is a man who deceives his neighbor and says, \"I was only joking!\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,26,18-proverbs,26,19",
     "id" : 192263,

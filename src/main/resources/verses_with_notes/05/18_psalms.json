@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,115,1" ],
+  "verses" : [ {
+    "verse" : "psalms,115,1",
+    "text" : "Not to us, O LORD, not to us but to your name be the glory, because of your love and faithfulness."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,115,1-psalms,115,18",
     "id" : 191297,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 115:1\">115:1</a></b> <b>your steadfast love.</b> God’s covenantal affection for His people.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,115,2" ],
+  "verses" : [ {
+    "verse" : "psalms,115,2",
+    "text" : "Why do the nations say, \"Where is their God?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,115,2",
     "id" : 191299,
@@ -20,7 +26,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 115:2\">115:2</a></b> <b>the nations.</b> The nations that surrounded Israel at different times: Canaan, Babylonia, Assyria, Persia, and Egypt.</p><p><b>Where is their God.</b> As the nations observed Israel struggling, they would say that Israel’s God was unable or unwilling to act.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,115,3" ],
+  "verses" : [ {
+    "verse" : "psalms,115,3",
+    "text" : "Our God is in heaven; he does whatever pleases him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,115,3",
     "id" : 191300,
@@ -28,7 +37,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 115:3\">115:3</a></b> <b>all that he pleases.</b> A notable expression of God’s sovereignty.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,115,4", "psalms,115,5", "psalms,115,6", "psalms,115,7" ],
+  "verses" : [ {
+    "verse" : "psalms,115,4",
+    "text" : "But their idols are silver and gold, made by the hands of men."
+  }, {
+    "verse" : "psalms,115,5",
+    "text" : "They have mouths, but cannot speak, eyes, but they cannot see;"
+  }, {
+    "verse" : "psalms,115,6",
+    "text" : "they have ears, but cannot hear, noses, but they cannot smell;"
+  }, {
+    "verse" : "psalms,115,7",
+    "text" : "they have hands, but cannot feel, feet, but they cannot walk; nor can they utter a sound with their throats."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,115,4",
     "id" : 191301,
@@ -36,7 +57,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 115:4\">115:4</a></b> <b>Their idols.</b> The psalmist draws a sharp contrast between the living God of Israel and the man-made deities of the Near East. See <a class=\"bibleref\" href=\"/passage/?search=Isa 44:6-Isa 44:23\">Is. 44:6–23</a>; <a class=\"bibleref\" href=\"/passage/?search=Rom 1:21-Rom 1:23\">Rom. 1:21–23</a>; “Syncretism and Idolatry” at <a class=\"bibleref\" href=\"/passage/?search=Hos 2:13\">Hos. 2:13</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,115,8" ],
+  "verses" : [ {
+    "verse" : "psalms,115,8",
+    "text" : "Those who make them will be like them, and so will all who trust in them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,115,8",
     "id" : 191302,
@@ -44,7 +68,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 115:8\">115:8</a></b> <b>like them.</b> When people construct their own gods, they make them in their own image. As they worship these gods, they are more and more conformed to their likeness. See <a class=\"bibleref\" href=\"/passage/?search=2Kgs 17:15\">2 Kin. 17:15</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,115,9" ],
+  "verses" : [ {
+    "verse" : "psalms,115,9",
+    "text" : "O house of Israel, trust in the LORD - he is their help and shield."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,115,9",
     "id" : 191303,
@@ -52,7 +79,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 115:9\">115:9</a></b> <b>O Israel.</b> A reference to all the people of God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,115,10" ],
+  "verses" : [ {
+    "verse" : "psalms,115,10",
+    "text" : "O house of Aaron, trust in the LORD - he is their help and shield."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,115,10",
     "id" : 191304,
@@ -60,7 +90,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 115:10\">115:10</a></b> <b>house of Aaron.</b> The speaker addresses the priests of Israel.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,115,11" ],
+  "verses" : [ {
+    "verse" : "psalms,115,11",
+    "text" : "You who fear him, trust in the LORD - he is their help and shield."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,115,11",
     "id" : 191305,
@@ -68,7 +101,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 115:11\">115:11</a></b> <b>You who fear the <span class=\"small-caps\">Lord</span>.</b> Finally, the psalmist singles out those who tremble before the Lord. These are the faithful within Israel or, as later usage suggests, also proselytes.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,115,12", "psalms,115,13", "psalms,115,14" ],
+  "verses" : [ {
+    "verse" : "psalms,115,12",
+    "text" : "The LORD remembers us and will bless us: He will bless the house of Israel, he will bless the house of Aaron,"
+  }, {
+    "verse" : "psalms,115,13",
+    "text" : "he will bless those who fear the LORD - small and great alike."
+  }, {
+    "verse" : "psalms,115,14",
+    "text" : "May the LORD make you increase, both you and your children."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,115,12",
     "id" : 191306,
@@ -76,7 +118,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 115:12\">115:12</a></b> <b>remembered.</b> See <a class=\"bibleref\" href=\"/passage/?search=Ps 44:1\">Ps. 44:1</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,115,15" ],
+  "verses" : [ {
+    "verse" : "psalms,115,15",
+    "text" : "May you be blessed by the LORD, the Maker of heaven and earth."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,115,15",
     "id" : 191307,
@@ -84,7 +129,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 115:15\">115:15</a></b> <b>who made heaven and earth.</b> As the Creator of all, God is able to provide for His people the material blessings they need.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,115,16" ],
+  "verses" : [ {
+    "verse" : "psalms,115,16",
+    "text" : "The highest heavens belong to the LORD, but the earth he has given to man."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,115,16",
     "id" : 191308,
@@ -92,7 +140,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 115:16\">115:16</a></b> <b>the earth he has given to the children of man.</b> God created the earth and it belongs to Him. Along with the gift of the earth comes the responsibility to work and serve God faithfully.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,115,17", "psalms,115,18" ],
+  "verses" : [ {
+    "verse" : "psalms,115,17",
+    "text" : "It is not the dead who praise the LORD, those who go down to silence;"
+  }, {
+    "verse" : "psalms,115,18",
+    "text" : "it is we who extol the LORD, both now and forevermore. Praise the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,115,17",
     "id" : 191309,

@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "genesis,23,1", "genesis,23,2" ],
+  "verses" : [ {
+    "verse" : "genesis,23,1",
+    "text" : "Sarah lived to be a hundred and twenty-seven years old."
+  }, {
+    "verse" : "genesis,23,2",
+    "text" : "She died at Kiriath Arba (that is, Hebron) in the land of Canaan, and Abraham went to mourn for Sarah and to weep over her."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,22,20-genesis,25,11",
     "id" : 185124,
@@ -7,7 +13,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 22:20-Gen 25:11\">22:20–25:11</a></b> This final section of the account of Terah provides a transition from the patriarchal headship of Abraham to that of Isaac (<a class=\"bibleref\" href=\"/passage/?search=Gen 2:4\">2:4</a> note; Introduction: Outline). It narrates Sarah’s death (<a class=\"bibleref\" href=\"/passage/?search=Gen 23\">ch. 23</a>), Isaac’s marriage to Rebekah (<a class=\"bibleref\" href=\"/passage/?search=Gen 24\">ch. 24</a>), the dismissal of Abraham’s other children, leaving Isaac as the sole heir (<a class=\"bibleref\" href=\"/passage/?search=Gen 25:1-Gen 25:6\">25:1–6</a>), and Abraham’s death (<a class=\"bibleref\" href=\"/passage/?search=Gen 25:7-Gen 25:11\">25:7–11</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,23,3" ],
+  "verses" : [ {
+    "verse" : "genesis,23,3",
+    "text" : "Then Abraham rose from beside his dead wife and spoke to the Hittites. He said,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,23,3-genesis,23,18",
     "id" : 185127,
@@ -15,7 +24,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 23:3-Gen 23:18\">23:3–18</a></b> The extensive description of the negotiation and sale of the cave demonstrates that Abraham secured an impeccable legal claim to the field in Machpelah. Anticipating the greater fulfillment of the land grant promise (<a class=\"bibleref\" href=\"/passage/?search=Gen 13:15\">13:15</a> note), Abraham now became legal heir to a small plot in the Promised Land.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,23,4", "genesis,23,5" ],
+  "verses" : [ {
+    "verse" : "genesis,23,4",
+    "text" : "\"I am an alien and a stranger among you. Sell me some property for a burial site here so I can bury my dead.\""
+  }, {
+    "verse" : "genesis,23,5",
+    "text" : "The Hittites replied to Abraham,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,23,4",
     "id" : 185128,
@@ -23,7 +38,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 23:4\">23:4 a</a></b> <b>sojourner and foreigner.</b> Though Abraham lived in the Promised Land as a sojourner (<a class=\"bibleref\" href=\"/passage/?search=Gen 21:34\">21:34</a> note; <a class=\"bibleref\" href=\"/passage/?search=Heb 11:9\">Heb. 11:9</a>, <a class=\"bibleref\" href=\"/passage/?search=Heb 11:13\">13</a>), he demonstrated his faith in the covenant promises by buying his first piece of property in the Promised Land—a cave to serve as a burial site.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,23,6", "genesis,23,7", "genesis,23,8", "genesis,23,9" ],
+  "verses" : [ {
+    "verse" : "genesis,23,6",
+    "text" : "\"Sir, listen to us. You are a mighty prince among us. Bury your dead in the choicest of our tombs. None of us will refuse you his tomb for burying your dead.\""
+  }, {
+    "verse" : "genesis,23,7",
+    "text" : "Then Abraham rose and bowed down before the people of the land, the Hittites."
+  }, {
+    "verse" : "genesis,23,8",
+    "text" : "He said to them, \"If you are willing to let me bury my dead, then listen to me and intercede with Ephron son of Zohar on my behalf"
+  }, {
+    "verse" : "genesis,23,9",
+    "text" : "so he will sell me the cave of Machpelah, which belongs to him and is at the end of his field. Ask him to sell it to me for the full price as a burial site among you.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,23,6",
     "id" : 185129,
@@ -31,7 +58,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 23:6\">23:6 a</a></b> <b>prince of God.</b> Or, “a mighty prince” (text note). Though some suggest that this was merely respectful flattery, it is likely that the citizens of Hebron had discerned God’s blessing on Abraham (cf. <a class=\"bibleref\" href=\"/passage/?search=Gen 21:22\">21:22</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,23,10" ],
+  "verses" : [ {
+    "verse" : "genesis,23,10",
+    "text" : "Ephron the Hittite was sitting among his people and he replied to Abraham in the hearing of all the Hittites who had come to the gate of his city."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,23,10",
     "id" : 185130,
@@ -39,7 +69,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 23:10\">23:10</a></b> <b>gate.</b> Legal transactions took place at the gates of ancient Near Eastern cities (<a class=\"bibleref\" href=\"/passage/?search=Gen 19:1\">19:1</a> note; <a class=\"bibleref\" href=\"/passage/?search=Ruth 4:1\">Ruth 4:1</a>, <a class=\"bibleref\" href=\"/passage/?search=Ruth 4:2\">2</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,23,11", "genesis,23,12", "genesis,23,13", "genesis,23,14" ],
+  "verses" : [ {
+    "verse" : "genesis,23,11",
+    "text" : "\"No, my lord,\" he said. \"Listen to me; I give you the field, and I give you the cave that is in it. I give it to you in the presence of my people. Bury your dead.\""
+  }, {
+    "verse" : "genesis,23,12",
+    "text" : "Again Abraham bowed down before the people of the land"
+  }, {
+    "verse" : "genesis,23,13",
+    "text" : "and he said to Ephron in their hearing, \"Listen to me, if you will. I will pay the price of the field. Accept it from me so I can bury my dead there.\""
+  }, {
+    "verse" : "genesis,23,14",
+    "text" : "Ephron answered Abraham,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,23,11",
     "id" : 185131,
@@ -47,7 +89,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 23:11\">23:11</a></b> <b>I give.</b> As the excessive price requested (<a class=\"bibleref\" href=\"/passage/?search=Gen 23:15\">v. 15</a> note) and Abraham’s offer of money (<a class=\"bibleref\" href=\"/passage/?search=Gen 23:13\">v. 13</a>) indicate, Ephron’s offer to give the cave and field was part of the Near Eastern bargaining ritual. The seeming generosity of the offer was probably intended either to obligate Abraham to respond with a gift of even greater value (if accepted) or to discourage Abraham from lengthy negotiation over the price.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,23,15" ],
+  "verses" : [ {
+    "verse" : "genesis,23,15",
+    "text" : "\"Listen to me, my lord; the land is worth four hundred shekels of silver, but what is that between me and you? Bury your dead.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,23,15",
     "id" : 185132,
@@ -55,7 +100,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 23:15\">23:15</a></b> <b>four hundred shekels.</b> A high price, especially when compared with the field that Jeremiah bought for seventeen shekels (<a class=\"bibleref\" href=\"/passage/?search=Jer 32:9\">Jer. 32:9</a>) and with the hill of Samaria that Omri purchased for two talents of silver (six thousand shekels, <a class=\"bibleref\" href=\"/passage/?search=1Kgs 16:24\">1 Kin. 16:24</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,23,16", "genesis,23,17", "genesis,23,18" ],
+  "verses" : [ {
+    "verse" : "genesis,23,16",
+    "text" : "Abraham agreed to Ephron's terms and weighed out for him the price he had named in the hearing of the Hittites: four hundred shekels of silver, according to the weight current among the merchants."
+  }, {
+    "verse" : "genesis,23,17",
+    "text" : "So Ephron's field in Machpelah near Mamre-both the field and the cave in it, and all the trees within the borders of the field-was deeded"
+  }, {
+    "verse" : "genesis,23,18",
+    "text" : "to Abraham as his property in the presence of all the Hittites who had come to the gate of the city."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,23,16",
     "id" : 185133,
@@ -63,7 +117,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 23:16\">23:16</a></b> <b>Abraham weighed out.</b> Abraham was willing to pay an excessive price in return for an unimpeachable sale.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,23,19", "genesis,23,20" ],
+  "verses" : [ {
+    "verse" : "genesis,23,19",
+    "text" : "Afterward Abraham buried his wife Sarah in the cave in the field of Machpelah near Mamre (which is at Hebron) in the land of Canaan."
+  }, {
+    "verse" : "genesis,23,20",
+    "text" : "So the field and the cave in it were deeded to Abraham by the Hittites as a burial site."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,23,19",
     "id" : 185134,
@@ -71,7 +131,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 23:19\">23:19</a></b> <b>buried . . . in the cave.</b> In faithful expectation that God would fulfill the covenant promise of land (<a class=\"bibleref\" href=\"/passage/?search=Gen 13:15\">13:15</a> and note), Abraham sought to anchor his descendants in the Promised Land (<a class=\"bibleref\" href=\"/passage/?search=Gen 24:6-Gen 24:9\">24:6–9</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 25:9\">25:9</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 49:30\">49:30</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 50:13\">50:13</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,24,1" ],
+  "verses" : [ {
+    "verse" : "genesis,24,1",
+    "text" : "Abraham was now old and well advanced in years, and the LORD had blessed him in every way."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,24,1-genesis,24,9",
     "id" : 185135,
@@ -79,7 +142,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 24:1-Gen 24:9\">24:1–9</a></b> See “Honest Speech, Oaths, and Vows” at <a class=\"bibleref\" href=\"/passage/?search=Neh 5:12\">Neh. 5:12</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,24,2" ],
+  "verses" : [ {
+    "verse" : "genesis,24,2",
+    "text" : "He said to the chief servant in his household, the one in charge of all that he had, \"Put your hand under my thigh."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,24,2",
     "id" : 185136,
@@ -87,7 +153,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 24:2\">24:2</a></b> <b>oldest.</b> Abraham assigned this important mission only to his most trusted manager, perhaps Eliezer of Damascus (<a class=\"bibleref\" href=\"/passage/?search=Gen 15:2\">15:2</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 15:3\">3</a>).</p><p><b>Put your hand under my thigh.</b> The loins were viewed as the source of vital and procreative power (<a class=\"bibleref\" href=\"/passage/?search=Deut 33:11\">Deut. 33:11</a>; <a class=\"bibleref\" href=\"/passage/?search=Job 40:16\">Job 40:16</a>; <a class=\"bibleref\" href=\"/passage/?search=Heb 7:10\">Heb. 7:10</a>). Such an oath was inviolable, even after the death of the one to whom it was sworn (47:29–31).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,24,3", "genesis,24,4", "genesis,24,5" ],
+  "verses" : [ {
+    "verse" : "genesis,24,3",
+    "text" : "I want you to swear by the LORD, the God of heaven and the God of earth, that you will not get a wife for my son from the daughters of the Canaanites, among whom I am living,"
+  }, {
+    "verse" : "genesis,24,4",
+    "text" : "but will go to my country and my own relatives and get a wife for my son Isaac.\""
+  }, {
+    "verse" : "genesis,24,5",
+    "text" : "The servant asked him, \"What if the woman is unwilling to come back with me to this land? Shall I then take your son back to the country you came from?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,24,3",
     "id" : 185137,
@@ -95,7 +170,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 24:3\">24:3</a></b> <b>the <span class=\"small-caps\">Lord</span></b> . . . <b>of the earth.</b> See <a class=\"bibleref\" href=\"/passage/?search=Gen 14:22\">14:22</a>.</p><p><b>not . . . from the daughters of the Canaanites.</b> Abraham sets an example for his descendants to secure wives from the blessed Semites, not the cursed Canaanites (<a class=\"bibleref\" href=\"/passage/?search=Gen 9:24-Gen 9:27\">9:24–27</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 7:1-Deut 7:4\">Deut. 7:1–4</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,24,6" ],
+  "verses" : [ {
+    "verse" : "genesis,24,6",
+    "text" : "\"Make sure that you do not take my son back there,\" Abraham said."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,24,6",
     "id" : 185138,
@@ -103,7 +181,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 24:6\">24:6</a></b> <b>do not take my son back there.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Gen 23:19\">23:19</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,24,7", "genesis,24,8", "genesis,24,9", "genesis,24,10", "genesis,24,11" ],
+  "verses" : [ {
+    "verse" : "genesis,24,7",
+    "text" : "\"The LORD, the God of heaven, who brought me out of my father's household and my native land and who spoke to me and promised me on oath, saying, 'To your offspring I will give this land'-he will send his angel before you so that you can get a wife for my son from there."
+  }, {
+    "verse" : "genesis,24,8",
+    "text" : "If the woman is unwilling to come back with you, then you will be released from this oath of mine. Only do not take my son back there.\""
+  }, {
+    "verse" : "genesis,24,9",
+    "text" : "So the servant put his hand under the thigh of his master Abraham and swore an oath to him concerning this matter."
+  }, {
+    "verse" : "genesis,24,10",
+    "text" : "Then the servant took ten of his master's camels and left, taking with him all kinds of good things from his master. He set out for Aram Naharaim and made his way to the town of Nahor."
+  }, {
+    "verse" : "genesis,24,11",
+    "text" : "He had the camels kneel down near the well outside the town; it was toward evening, the time the women go out to draw water."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,24,7",
     "id" : 185139,
@@ -111,7 +204,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 24:7\">24:7</a></b> <b>I will give . . . he will send.</b> Claiming God’s covenant promise (<a class=\"bibleref\" href=\"/passage/?search=Gen 12:7\">12:7</a>), Abraham looks forward to God’s continuing guidance and provision. Abraham had learned from his experience with Hagar not to trust the flesh to secure the promise but to rely on God’s supernatural provision (<a class=\"bibleref\" href=\"/passage/?search=Gen 16\">ch. 16</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,24,12", "genesis,24,13" ],
+  "verses" : [ {
+    "verse" : "genesis,24,12",
+    "text" : "Then he prayed, \"O LORD, God of my master Abraham, give me success today, and show kindness to my master Abraham."
+  }, {
+    "verse" : "genesis,24,13",
+    "text" : "See, I am standing beside this spring, and the daughters of the townspeople are coming out to draw water."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,24,12",
     "id" : 185140,
@@ -119,7 +218,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 24:12\">24:12</a></b> <b>O <span class=\"small-caps\">Lord</span>, God.</b> The meeting of Abraham’s servant and Rebekah was framed in prayer (<a class=\"bibleref\" href=\"/passage/?search=Gen 24:26\">vv. 26</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 24:27\">27</a>).</p><p><b>steadfast love.</b> The Hebrew word <i>hesed</i> means loyalty to a covenant relationship (<a class=\"bibleref\" href=\"/passage/?search=Exod 15:13\">Ex. 15:13</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,24,14" ],
+  "verses" : [ {
+    "verse" : "genesis,24,14",
+    "text" : "May it be that when I say to a girl, 'Please let down your jar that I may have a drink,' and she says, 'Drink, and I'll water your camels too'-let her be the one you have chosen for your servant Isaac. By this I will know that you have shown kindness to my master.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,24,14",
     "id" : 185141,
@@ -127,7 +229,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 24:14\">24:14</a></b> <b>By this I shall know.</b> A request for a sign was appropriate in connection with the servant’s mission to advance the messianic line (cf. <a class=\"bibleref\" href=\"/passage/?search=Isa 7:10-Isa 7:14\">Is. 7:10–14</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,24,15" ],
+  "verses" : [ {
+    "verse" : "genesis,24,15",
+    "text" : "Before he had finished praying, Rebekah came out with her jar on her shoulder. She was the daughter of Bethuel son of Milcah, who was the wife of Abraham's brother Nahor."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,24,15",
     "id" : 185142,
@@ -135,7 +240,40 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 24:15\">24:15</a></b> <b>Rebekah.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Gen 22:23\">22:23</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,24,16", "genesis,24,17", "genesis,24,18", "genesis,24,19", "genesis,24,20", "genesis,24,21", "genesis,24,22", "genesis,24,23", "genesis,24,24", "genesis,24,25", "genesis,24,26" ],
+  "verses" : [ {
+    "verse" : "genesis,24,16",
+    "text" : "The girl was very beautiful, a virgin; no man had ever lain with her. She went down to the spring, filled her jar and came up again."
+  }, {
+    "verse" : "genesis,24,17",
+    "text" : "The servant hurried to meet her and said, \"Please give me a little water from your jar.\""
+  }, {
+    "verse" : "genesis,24,18",
+    "text" : "\"Drink, my lord,\" she said, and quickly lowered the jar to her hands and gave him a drink."
+  }, {
+    "verse" : "genesis,24,19",
+    "text" : "After she had given him a drink, she said, \"I'll draw water for your camels too, until they have finished drinking.\""
+  }, {
+    "verse" : "genesis,24,20",
+    "text" : "So she quickly emptied her jar into the trough, ran back to the well to draw more water, and drew enough for all his camels."
+  }, {
+    "verse" : "genesis,24,21",
+    "text" : "Without saying a word, the man watched her closely to learn whether or not the LORD had made his journey successful."
+  }, {
+    "verse" : "genesis,24,22",
+    "text" : "When the camels had finished drinking, the man took out a gold nose ring weighing a beka and two gold bracelets weighing ten shekels."
+  }, {
+    "verse" : "genesis,24,23",
+    "text" : "Then he asked, \"Whose daughter are you? Please tell me, is there room in your father's house for us to spend the night?\""
+  }, {
+    "verse" : "genesis,24,24",
+    "text" : "She answered him, \"I am the daughter of Bethuel, the son that Milcah bore to Nahor.\""
+  }, {
+    "verse" : "genesis,24,25",
+    "text" : "And she added, \"We have plenty of straw and fodder, as well as room for you to spend the night.\""
+  }, {
+    "verse" : "genesis,24,26",
+    "text" : "Then the man bowed down and worshiped the LORD,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,24,16",
     "id" : 185143,
@@ -143,7 +281,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 24:16\">24:16 a</a></b> <b>maiden whom no man had known.</b> Her virginity was important to ensure that the offspring would be Isaac’s.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,24,27", "genesis,24,28" ],
+  "verses" : [ {
+    "verse" : "genesis,24,27",
+    "text" : "saying, \"Praise be to the LORD, the God of my master Abraham, who has not abandoned his kindness and faithfulness to my master. As for me, the LORD has led me on the journey to the house of my master's relatives.\""
+  }, {
+    "verse" : "genesis,24,28",
+    "text" : "The girl ran and told her mother's household about these things."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,24,27",
     "id" : 185144,
@@ -151,7 +295,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 24:27\">24:27</a></b> <b>the <span class=\"small-caps\">Lord</span></b><span class=\"small-caps\"></span> <b>has led me.</b> God guides His saints through providential acts (cf. <a class=\"bibleref\" href=\"/passage/?search=Gen 50:20\">50:20</a>). Later in the Pentateuch the expression is used for God’s special guidance of His people through the wilderness to the Promised Land (<a class=\"bibleref\" href=\"/passage/?search=Exod 13:17\">Ex. 13:17</a>, <a class=\"bibleref\" href=\"/passage/?search=Exod 13:21\">21</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 15:13\">15:13</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,24,29", "genesis,24,30", "genesis,24,31", "genesis,24,32" ],
+  "verses" : [ {
+    "verse" : "genesis,24,29",
+    "text" : "Now Rebekah had a brother named Laban, and he hurried out to the man at the spring."
+  }, {
+    "verse" : "genesis,24,30",
+    "text" : "As soon as he had seen the nose ring, and the bracelets on his sister's arms, and had heard Rebekah tell what the man said to her, he went out to the man and found him standing by the camels near the spring."
+  }, {
+    "verse" : "genesis,24,31",
+    "text" : "\"Come, you who are blessed by the LORD,\" he said. \"Why are you standing out here? I have prepared the house and a place for the camels.\""
+  }, {
+    "verse" : "genesis,24,32",
+    "text" : "So the man went to the house, and the camels were unloaded. Straw and fodder were brought for the camels, and water for him and his men to wash their feet."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,24,29",
     "id" : 185145,
@@ -159,7 +315,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 24:29\">24:29</a></b> <b>Laban.</b> Laban took responsibility for the family, probably because Bethuel was incapacitated (<a class=\"bibleref\" href=\"/passage/?search=Gen 24:50\">v. 50</a> and note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,24,33", "genesis,24,34", "genesis,24,35" ],
+  "verses" : [ {
+    "verse" : "genesis,24,33",
+    "text" : "Then food was set before him, but he said, \"I will not eat until I have told you what I have to say.Then tell us,\" Laban said."
+  }, {
+    "verse" : "genesis,24,34",
+    "text" : "So he said, \"I am Abraham's servant."
+  }, {
+    "verse" : "genesis,24,35",
+    "text" : "The LORD has blessed my master abundantly, and he has become wealthy. He has given him sheep and cattle, silver and gold, menservants and maidservants, and camels and donkeys."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,24,33",
     "id" : 185146,
@@ -167,7 +332,49 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 24:33\">24:33</a></b> <b>not eat until I have said.</b> The servant recounts the story (<a class=\"bibleref\" href=\"/passage/?search=Gen 24:34-Gen 24:48\">vv. 34–48</a>) in detail so that Rebekah and her family will acknowledge the hand of the Lord (<a class=\"bibleref\" href=\"/passage/?search=Gen 24:50\">v. 50</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,24,36", "genesis,24,37", "genesis,24,38", "genesis,24,39", "genesis,24,40", "genesis,24,41", "genesis,24,42", "genesis,24,43", "genesis,24,44", "genesis,24,45", "genesis,24,46", "genesis,24,47", "genesis,24,48", "genesis,24,49" ],
+  "verses" : [ {
+    "verse" : "genesis,24,36",
+    "text" : "My master's wife Sarah has borne him a son in her old age, and he has given him everything he owns."
+  }, {
+    "verse" : "genesis,24,37",
+    "text" : "And my master made me swear an oath, and said, 'You must not get a wife for my son from the daughters of the Canaanites, in whose land I live,"
+  }, {
+    "verse" : "genesis,24,38",
+    "text" : "but go to my father's family and to my own clan, and get a wife for my son.'"
+  }, {
+    "verse" : "genesis,24,39",
+    "text" : "\"Then I asked my master, 'What if the woman will not come back with me?'"
+  }, {
+    "verse" : "genesis,24,40",
+    "text" : "\"He replied, 'The LORD, before whom I have walked, will send his angel with you and make your journey a success, so that you can get a wife for my son from my own clan and from my father's family."
+  }, {
+    "verse" : "genesis,24,41",
+    "text" : "Then, when you go to my clan, you will be released from my oath even if they refuse to give her to you-you will be released from my oath.'"
+  }, {
+    "verse" : "genesis,24,42",
+    "text" : "\"When I came to the spring today, I said, 'O LORD, God of my master Abraham, if you will, please grant success to the journey on which I have come."
+  }, {
+    "verse" : "genesis,24,43",
+    "text" : "See, I am standing beside this spring; if a maiden comes out to draw water and I say to her, \"Please let me drink a little water from your jar,\""
+  }, {
+    "verse" : "genesis,24,44",
+    "text" : "and if she says to me, \"Drink, and I'll draw water for your camels too,\" let her be the one the LORD has chosen for my master's son.'"
+  }, {
+    "verse" : "genesis,24,45",
+    "text" : "\"Before I finished praying in my heart, Rebekah came out, with her jar on her shoulder. She went down to the spring and drew water, and I said to her, 'Please give me a drink.'"
+  }, {
+    "verse" : "genesis,24,46",
+    "text" : "\"She quickly lowered her jar from her shoulder and said, 'Drink, and I'll water your camels too.' So I drank, and she watered the camels also."
+  }, {
+    "verse" : "genesis,24,47",
+    "text" : "\"I asked her, 'Whose daughter are you?'\"She said, 'The daughter of Bethuel son of Nahor, whom Milcah bore to him.'\"Then I put the ring in her nose and the bracelets on her arms,"
+  }, {
+    "verse" : "genesis,24,48",
+    "text" : "and I bowed down and worshiped the LORD. I praised the LORD, the God of my master Abraham, who had led me on the right road to get the granddaughter of my master's brother for his son."
+  }, {
+    "verse" : "genesis,24,49",
+    "text" : "Now if you will show kindness and faithfulness to my master, tell me; and if not, tell me, so I may know which way to turn.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,24,36",
     "id" : 185147,
@@ -175,7 +382,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 24:36\">24:36</a></b> <b>he has given all that he has.</b> An important detail, considering Abraham’s considerable wealth (cf. <a class=\"bibleref\" href=\"/passage/?search=Gen 25:5\">25:5</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 25:6\">6</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,24,50", "genesis,24,51" ],
+  "verses" : [ {
+    "verse" : "genesis,24,50",
+    "text" : "Laban and Bethuel answered, \"This is from the LORD; we can say nothing to you one way or the other."
+  }, {
+    "verse" : "genesis,24,51",
+    "text" : "Here is Rebekah; take her and go, and let her become the wife of your master's son, as the LORD has directed.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,24,50",
     "id" : 185148,

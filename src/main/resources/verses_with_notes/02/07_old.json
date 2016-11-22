@@ -1,5 +1,23 @@
 [ {
-  "singleVerses" : [ "exodus,26,1", "exodus,26,2", "exodus,26,3", "exodus,26,4", "exodus,26,5", "exodus,26,6" ],
+  "verses" : [ {
+    "verse" : "exodus,26,1",
+    "text" : "\"Make the tabernacle with ten curtains of finely twisted linen and blue, purple and scarlet yarn, with cherubim worked into them by a skilled craftsman."
+  }, {
+    "verse" : "exodus,26,2",
+    "text" : "All the curtains are to be the same size-twenty-eight cubits long and four cubits wide."
+  }, {
+    "verse" : "exodus,26,3",
+    "text" : "Join five of the curtains together, and do the same with the other five."
+  }, {
+    "verse" : "exodus,26,4",
+    "text" : "Make loops of blue material along the edge of the end curtain in one set, and do the same with the end curtain in the other set."
+  }, {
+    "verse" : "exodus,26,5",
+    "text" : "Make fifty loops on one curtain and fifty loops on the end curtain of the other set, with the loops opposite each other."
+  }, {
+    "verse" : "exodus,26,6",
+    "text" : "Then make fifty gold clasps and use them to fasten the curtains together so that the tabernacle is a unit."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,25,1-exodus,31,8",
     "id" : 185863,
@@ -17,7 +35,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 26:1\">26:1</a></b> <b>tabernacle.</b> The tabernacle itself, which housed the Holy and Most Holy Places, was forty-five feet long, fifteen feet wide, and fifteen feet high. It was covered with ten curtains woven of expensive fabrics adorned with cherubim. Two sets of five curtains, forty-two feet by six feet, each of fine linen, were connected so as to provide a continuous piece measuring sixty by forty-two feet. This was then draped over the wooden framework. This inner covering ended one cubit (18 inches) short of the ground on either side (<a class=\"bibleref\" href=\"/passage/?search=Exod 26:1-Exod 26:6\">vv. 1–6</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,26,7", "exodus,26,8", "exodus,26,9", "exodus,26,10", "exodus,26,11", "exodus,26,12" ],
+  "verses" : [ {
+    "verse" : "exodus,26,7",
+    "text" : "\"Make curtains of goat hair for the tent over the tabernacle-eleven altogether."
+  }, {
+    "verse" : "exodus,26,8",
+    "text" : "All eleven curtains are to be the same size-thirty cubits long and four cubits wide."
+  }, {
+    "verse" : "exodus,26,9",
+    "text" : "Join five of the curtains together into one set and the other six into another set. Fold the sixth curtain double at the front of the tent."
+  }, {
+    "verse" : "exodus,26,10",
+    "text" : "Make fifty loops along the edge of the end curtain in one set and also along the edge of the end curtain in the other set."
+  }, {
+    "verse" : "exodus,26,11",
+    "text" : "Then make fifty bronze clasps and put them in the loops to fasten the tent together as a unit."
+  }, {
+    "verse" : "exodus,26,12",
+    "text" : "As for the additional length of the tent curtains, the half curtain that is left over is to hang down at the rear of the tabernacle."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,26,7",
     "id" : 185886,
@@ -25,7 +61,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 26:7\">26:7</a></b> <b>curtains of goats’ hair.</b> As protection for the inner curtain two sets of curtains of goats’ hair were to be joined by loops and clasps to make one curtain of forty-five feet from top to bottom and sixty-six feet from end to end.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,26,13" ],
+  "verses" : [ {
+    "verse" : "exodus,26,13",
+    "text" : "The tent curtains will be a cubit longer on both sides; what is left will hang over the sides of the tabernacle so as to cover it."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,26,13",
     "id" : 185887,
@@ -33,7 +72,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 26:13\">26:13</a></b> <b>the cubit . . . shall hang over.</b> The outer curtains were two cubits (three feet) longer than the inner ones and would barely reach the ground (<a class=\"bibleref\" href=\"/passage/?search=Exod 26:1\">v. 1</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,26,14" ],
+  "verses" : [ {
+    "verse" : "exodus,26,14",
+    "text" : "Make for the tent a covering of ram skins dyed red, and over that a covering of hides of sea cows."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,26,14",
     "id" : 185888,
@@ -41,7 +83,40 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 26:14\">26:14 a</a></b> <b>covering.</b> Two further covers of rams’ skins and goatskins, apparently arranged in that sequence, were made to protect the two inner sets.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,26,15", "exodus,26,16", "exodus,26,17", "exodus,26,18", "exodus,26,19", "exodus,26,20", "exodus,26,21", "exodus,26,22", "exodus,26,23", "exodus,26,24", "exodus,26,25" ],
+  "verses" : [ {
+    "verse" : "exodus,26,15",
+    "text" : "\"Make upright frames of acacia wood for the tabernacle."
+  }, {
+    "verse" : "exodus,26,16",
+    "text" : "Each frame is to be ten cubits long and a cubit and a half wide,"
+  }, {
+    "verse" : "exodus,26,17",
+    "text" : "with two projections set parallel to each other. Make all the frames of the tabernacle in this way."
+  }, {
+    "verse" : "exodus,26,18",
+    "text" : "Make twenty frames for the south side of the tabernacle"
+  }, {
+    "verse" : "exodus,26,19",
+    "text" : "and make forty silver bases to go under them-two bases for each frame, one under each projection."
+  }, {
+    "verse" : "exodus,26,20",
+    "text" : "For the other side, the north side of the tabernacle, make twenty frames"
+  }, {
+    "verse" : "exodus,26,21",
+    "text" : "and forty silver bases-two under each frame."
+  }, {
+    "verse" : "exodus,26,22",
+    "text" : "Make six frames for the far end, that is, the west end of the tabernacle,"
+  }, {
+    "verse" : "exodus,26,23",
+    "text" : "and make two frames for the corners at the far end."
+  }, {
+    "verse" : "exodus,26,24",
+    "text" : "At these two corners they must be double from the bottom all the way to the top, and fitted into a single ring; both shall be like that."
+  }, {
+    "verse" : "exodus,26,25",
+    "text" : "So there will be eight frames and sixteen silver bases-two under each frame."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,26,15",
     "id" : 185889,
@@ -49,7 +124,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 26:15\">26:15</a></b> <b>upright frames.</b> These provided the framework on which the curtains were draped. They were planks, or more likely open frames, that were set vertically to provide the sides and back of the structure. They were stabilized with cross bars and anchored in silver bases driven into the ground. There were twenty on each side and six at the back (west).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,26,26", "exodus,26,27", "exodus,26,28", "exodus,26,29", "exodus,26,30" ],
+  "verses" : [ {
+    "verse" : "exodus,26,26",
+    "text" : "\"Also make crossbars of acacia wood: five for the frames on one side of the tabernacle,"
+  }, {
+    "verse" : "exodus,26,27",
+    "text" : "five for those on the other side, and five for the frames on the west, at the far end of the tabernacle."
+  }, {
+    "verse" : "exodus,26,28",
+    "text" : "The center crossbar is to extend from end to end at the middle of the frames."
+  }, {
+    "verse" : "exodus,26,29",
+    "text" : "Overlay the frames with gold and make gold rings to hold the crossbars. Also overlay the crossbars with gold."
+  }, {
+    "verse" : "exodus,26,30",
+    "text" : "\"Set up the tabernacle according to the plan shown you on the mountain."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,26,26",
     "id" : 185890,
@@ -57,7 +147,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 26:26\">26:26</a></b> <b>make bars.</b> The frames were supported by fifteen cross members overlaid with gold, five for each of the enclosed sides. The entire structure could be dismantled or assembled in a minimum of time.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,26,31", "exodus,26,32", "exodus,26,33", "exodus,26,34", "exodus,26,35" ],
+  "verses" : [ {
+    "verse" : "exodus,26,31",
+    "text" : "\"Make a curtain of blue, purple and scarlet yarn and finely twisted linen, with cherubim worked into it by a skilled craftsman."
+  }, {
+    "verse" : "exodus,26,32",
+    "text" : "Hang it with gold hooks on four posts of acacia wood overlaid with gold and standing on four silver bases."
+  }, {
+    "verse" : "exodus,26,33",
+    "text" : "Hang the curtain from the clasps and place the ark of the Testimony behind the curtain. The curtain will separate the Holy Place from the Most Holy Place."
+  }, {
+    "verse" : "exodus,26,34",
+    "text" : "Put the atonement cover on the ark of the Testimony in the Most Holy Place."
+  }, {
+    "verse" : "exodus,26,35",
+    "text" : "Place the table outside the curtain on the north side of the tabernacle and put the lampstand opposite it on the south side."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,26,31",
     "id" : 185891,
@@ -65,7 +170,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 26:31\">26:31</a></b> <b>make a veil.</b> The interior of the tabernacle tent was to be divided by the “veil of the screen” (<a class=\"bibleref\" href=\"/passage/?search=Exod 39:34\">39:34</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 40:21\">40:21</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 4:5\">Num. 4:5</a>), separating the inner Most Holy Place from the outer Holy Place. This veil was a tapestry that hung thirty feet from the entrance to the tent, creating an inner cube fifteen feet square where the ark was kept. This was the Most Holy Place, the throne room where the Lord would meet with Israel’s high priest on the Day of Atonement. The Holy Place, a royal antechamber, extended thirty feet from the veil to the tent entrance.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,26,36", "exodus,26,37" ],
+  "verses" : [ {
+    "verse" : "exodus,26,36",
+    "text" : "\"For the entrance to the tent make a curtain of blue, purple and scarlet yarn and finely twisted linen-the work of an embroiderer."
+  }, {
+    "verse" : "exodus,26,37",
+    "text" : "Make gold hooks for this curtain and five posts of acacia wood overlaid with gold. And cast five bronze bases for them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,26,36",
     "id" : 185892,
@@ -73,7 +184,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 26:36\">26:36</a></b> <b>for the entrance.</b> The gate at the east end was covered by a screen supported by acacia pillars set in bronze sockets. The screen was made of the same material as the inner curtains and the veil, but was of embroidery rather than tapestry since it was further from the Most Holy Place.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,27,1", "exodus,27,2" ],
+  "verses" : [ {
+    "verse" : "exodus,27,1",
+    "text" : "\"Build an altar of acacia wood, three cubits high; it is to be square, five cubits long and five cubits wide."
+  }, {
+    "verse" : "exodus,27,2",
+    "text" : "Make a horn at each of the four corners, so that the horns and the altar are of one piece, and overlay the altar with bronze."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,27,1",
     "id" : 185893,
@@ -81,7 +198,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 27:1\">27:1</a></b> <b>altar.</b> The altar of burnt offering was made of acacia wood overlaid with bronze. The horns at the four corners were important in the ritual and were smeared with blood at the consecration of priests (<a class=\"bibleref\" href=\"/passage/?search=Exod 29:12\">29:12</a>), in the sin offering (<a class=\"bibleref\" href=\"/passage/?search=Lev 4:25\">Lev. 4:25</a>, <a class=\"bibleref\" href=\"/passage/?search=Lev 4:30\">30</a>), and on the Day of the Atonement (<a class=\"bibleref\" href=\"/passage/?search=Lev 16:18\">Lev. 16:18</a>). They gave sanctuary to anyone who laid hold of them (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 1:50\">1 Kin. 1:50</a>). The altar was hollow and was filled with earth or uncut stones (20:24).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,27,3" ],
+  "verses" : [ {
+    "verse" : "exodus,27,3",
+    "text" : "Make all its utensils of bronze-its pots to remove the ashes, and its shovels, sprinkling bowls, meat forks and firepans."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,27,3",
     "id" : 185894,
@@ -89,7 +209,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 27:3\">27:3</a></b> <b>its utensils.</b> Accessories, being outside of the tabernacle proper, were all of bronze.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,27,4", "exodus,27,5", "exodus,27,6", "exodus,27,7", "exodus,27,8" ],
+  "verses" : [ {
+    "verse" : "exodus,27,4",
+    "text" : "Make a grating for it, a bronze network, and make a bronze ring at each of the four corners of the network."
+  }, {
+    "verse" : "exodus,27,5",
+    "text" : "Put it under the ledge of the altar so that it is halfway up the altar."
+  }, {
+    "verse" : "exodus,27,6",
+    "text" : "Make poles of acacia wood for the altar and overlay them with bronze."
+  }, {
+    "verse" : "exodus,27,7",
+    "text" : "The poles are to be inserted into the rings so they will be on two sides of the altar when it is carried."
+  }, {
+    "verse" : "exodus,27,8",
+    "text" : "Make the altar hollow, out of boards. It is to be made just as you were shown on the mountain."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,27,4",
     "id" : 185895,
@@ -97,7 +232,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 27:4\">27:4</a></b> <b>make for it a grating.</b> The grate details and its function are obscure. It was placed halfway down the altar running from below the ledge of the altar to the ground. Perhaps it was for ventilation of the altar fire. The “ledge” of <a class=\"bibleref\" href=\"/passage/?search=Exod 27:5\">v. 5</a> was apparently for priests to stand on when offering sacrifice.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,27,9", "exodus,27,10", "exodus,27,11", "exodus,27,12", "exodus,27,13", "exodus,27,14", "exodus,27,15" ],
+  "verses" : [ {
+    "verse" : "exodus,27,9",
+    "text" : "\"Make a courtyard for the tabernacle. The south side shall be a hundred cubits long and is to have curtains of finely twisted linen,"
+  }, {
+    "verse" : "exodus,27,10",
+    "text" : "with twenty posts and twenty bronze bases and with silver hooks and bands on the posts."
+  }, {
+    "verse" : "exodus,27,11",
+    "text" : "The north side shall also be a hundred cubits long and is to have curtains, with twenty posts and twenty bronze bases and with silver hooks and bands on the posts."
+  }, {
+    "verse" : "exodus,27,12",
+    "text" : "\"The west end of the courtyard shall be fifty cubits wide and have curtains, with ten posts and ten bases."
+  }, {
+    "verse" : "exodus,27,13",
+    "text" : "On the east end, toward the sunrise, the courtyard shall also be fifty cubits wide."
+  }, {
+    "verse" : "exodus,27,14",
+    "text" : "Curtains fifteen cubits long are to be on one side of the entrance, with three posts and three bases,"
+  }, {
+    "verse" : "exodus,27,15",
+    "text" : "and curtains fifteen cubits long are to be on the other side, with three posts and three bases."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,27,9",
     "id" : 185896,
@@ -105,7 +261,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 27:9\">27:9</a></b> <b>make the court.</b> The court was a rectangle of 150 by 75 feet enclosed by white linen hangings seven and one-half feet high separating it from the surrounding camp of Israel (<a class=\"bibleref\" href=\"/passage/?search=Exod 27:18\">v. 18</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,27,16", "exodus,27,17" ],
+  "verses" : [ {
+    "verse" : "exodus,27,16",
+    "text" : "\"For the entrance to the courtyard, provide a curtain twenty cubits long, of blue, purple and scarlet yarn and finely twisted linen-the work of an embroiderer-with four posts and four bases."
+  }, {
+    "verse" : "exodus,27,17",
+    "text" : "All the posts around the courtyard are to have silver bands and hooks, and bronze bases."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,27,16",
     "id" : 185897,
@@ -113,7 +275,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 27:16\">27:16</a></b> <b>For the gate.</b> A thirty-foot opening on the east side was covered by a screen (<a class=\"bibleref\" href=\"/passage/?search=Exod 27:16\">v. 16</a>). Fifty-six pillars (twenty on the north and south sides, ten on the west, and three on either side of the entrance on the east) in bronze sockets held up the linen hangings. Another four pillars supported the screen. Their arrangement is not specified; neither is the placement of the tabernacle within the courtyard. The pillars may have been held in place by pegs and guy ropes (<a class=\"bibleref\" href=\"/passage/?search=Exod 35:18\">35:18</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,27,18", "exodus,27,19" ],
+  "verses" : [ {
+    "verse" : "exodus,27,18",
+    "text" : "The courtyard shall be a hundred cubits long and fifty cubits wide, with curtains of finely twisted linen five cubits high, and with bronze bases."
+  }, {
+    "verse" : "exodus,27,19",
+    "text" : "All the other articles used in the service of the tabernacle, whatever their function, including all the tent pegs for it and those for the courtyard, are to be of bronze."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,27,18",
     "id" : 185898,
@@ -121,7 +289,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 27:18\">27:18</a></b> <b>length of the court.</b> The court apparently consisted of two equal seventy-five foot squares containing the tabernacle proper and the open space before it. The ark and the altar of burnt offering were the respective central objects. The eastern, open half of the court provided public space for sacrifices and the gathering of worshipers.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,27,20" ],
+  "verses" : [ {
+    "verse" : "exodus,27,20",
+    "text" : "\"Command the Israelites to bring you clear oil of pressed olives for the light so that the lamps may be kept burning."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,27,20",
     "id" : 185899,
@@ -129,7 +300,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 27:20\">27:20</a></b> <b>pure beaten olive oil for the light.</b> Pure olive oil, which provided a virtually smoke-free light. The lamp was the golden lampstand that stood on the south side of the Holy Place (<a class=\"bibleref\" href=\"/passage/?search=Lev 24:1-Lev 24:4\">Lev. 24:1–4</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,27,21" ],
+  "verses" : [ {
+    "verse" : "exodus,27,21",
+    "text" : "In the Tent of Meeting, outside the curtain that is in front of the Testimony, Aaron and his sons are to keep the lamps burning before the LORD from evening till morning. This is to be a lasting ordinance among the Israelites for the generations to come."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,27,21",
     "id" : 185900,

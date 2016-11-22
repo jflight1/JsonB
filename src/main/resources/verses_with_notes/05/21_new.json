@@ -1,5 +1,14 @@
 [ {
-  "singleVerses" : [ "john,11,55", "john,11,56", "john,11,57" ],
+  "verses" : [ {
+    "verse" : "john,11,55",
+    "text" : "When it was almost time for the Jewish Passover, many went up from the country to Jerusalem for their ceremonial cleansing before the Passover."
+  }, {
+    "verse" : "john,11,56",
+    "text" : "They kept looking for Jesus, and as they stood in the temple area they asked one another, \"What do you think? Isn't he coming to the Feast at all?\""
+  }, {
+    "verse" : "john,11,57",
+    "text" : "But the chief priests and Pharisees had given orders that if anyone found out where Jesus was, he should report it so that they might arrest him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,11,54-john,11,57",
     "id" : 197143,
@@ -7,7 +16,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 11:54-John 11:57\">11:54–57</a></b> The increasing hostility of the Jewish leaders led Jesus to withdraw for a time from Jerusalem.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,12,1", "john,12,2" ],
+  "verses" : [ {
+    "verse" : "john,12,1",
+    "text" : "Six days before the Passover, Jesus arrived at Bethany, where Lazarus lived, whom Jesus had raised from the dead."
+  }, {
+    "verse" : "john,12,2",
+    "text" : "Here a dinner was given in Jesus' honor. Martha served, while Lazarus was among those reclining at the table with him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,12,1-john,12,11",
     "id" : 197144,
@@ -15,7 +30,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 12:1-John 12:11\">12:1–11</a></b> The anointing of Jesus recounted in <a class=\"bibleref\" href=\"/passage/?search=Luke 7:36-Luke 7:50\">Luke 7:36–50</a> is a different incident from this anointing by Mary, which is related also in <a class=\"bibleref\" href=\"/passage/?search=Matt 26:6-Matt 26:12\">Matt. 26:6–12</a> and <a class=\"bibleref\" href=\"/passage/?search=Mark 14:3-Mark 14:9\">Mark 14:3–9</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,12,3" ],
+  "verses" : [ {
+    "verse" : "john,12,3",
+    "text" : "Then Mary took about a pint of pure nard, an expensive perfume; she poured it on Jesus' feet and wiped his feet with her hair. And the house was filled with the fragrance of the perfume."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,12,3",
     "id" : 197145,
@@ -23,7 +41,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 12:3\">12:3</a></b> <b>expensive ointment.</b> Judas evaluates this at a year’s wages (<a class=\"bibleref\" href=\"/passage/?search=John 12:5\">v. 5</a>), almost three times as much as Judas accepted to betray Jesus.</p><p><b>anointed the feet of Jesus.</b> Matthew and Mark indicate that she poured some perfume on His head, which would be the common practice. To attend to His feet and wipe them with her hair was a tribute of humility and devotion.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,12,4", "john,12,5", "john,12,6" ],
+  "verses" : [ {
+    "verse" : "john,12,4",
+    "text" : "But one of his disciples, Judas Iscariot, who was later to betray him, objected,"
+  }, {
+    "verse" : "john,12,5",
+    "text" : "\"Why wasn't this perfume sold and the money given to the poor? It was worth a year's wages. \""
+  }, {
+    "verse" : "john,12,6",
+    "text" : "He did not say this because he cared about the poor but because he was a thief; as keeper of the money bag, he used to help himself to what was put into it."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,12,4-john,12,6",
     "id" : 197146,
@@ -31,7 +58,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 12:4-John 12:6\">12:4–6</a></b> Judas (and the other disciples, <a class=\"bibleref\" href=\"/passage/?search=Matt 26:8\">Matt. 26:8</a>) objected strongly, calling the act a waste of money. His remarks were inconsiderate of Jesus and cruel toward Mary. The interest in the poor is unmasked as artificial.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,12,7" ],
+  "verses" : [ {
+    "verse" : "john,12,7",
+    "text" : "\"Leave her alone,\" Jesus replied. \"It was intended that she should save this perfume for the day of my burial."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,12,7",
     "id" : 197147,
@@ -39,7 +69,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 12:7\">12:7</a></b> <b>Leave her alone.</b> Jesus defends Mary while hinting at the nearness of His death. For this pivotal point of God’s redemptive work, no expense is too great.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,12,8" ],
+  "verses" : [ {
+    "verse" : "john,12,8",
+    "text" : "You will always have the poor among you, but you will not always have me.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,12,8",
     "id" : 197148,
@@ -47,7 +80,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 12:8\">12:8</a></b> <b>always . . . not always.</b> There would always be poverty in a fallen world, together with the responsibilities of ministering to the poor as an expression of God’s love. The opportunity of being present with Jesus and serving Him during His time on earth would not be repeated.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,12,9", "john,12,10" ],
+  "verses" : [ {
+    "verse" : "john,12,9",
+    "text" : "Meanwhile a large crowd of Jews found out that Jesus was there and came, not only because of him but also to see Lazarus, whom he had raised from the dead."
+  }, {
+    "verse" : "john,12,10",
+    "text" : "So the chief priests made plans to kill Lazarus as well,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,12,9-john,12,10",
     "id" : 197149,
@@ -55,7 +94,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 12:9\">12:9</a>, <a class=\"bibleref\" href=\"/passage/?search=John 12:10\">10</a></b> Instead of recognizing God’s hand in Lazarus’s resurrection, the chief priests plotted to kill both Jesus and Lazarus.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,12,11", "john,12,12" ],
+  "verses" : [ {
+    "verse" : "john,12,11",
+    "text" : "for on account of him many of the Jews were going over to Jesus and putting their faith in him."
+  }, {
+    "verse" : "john,12,12",
+    "text" : "The next day the great crowd that had come for the Feast heard that Jesus was on his way to Jerusalem."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,12,11",
     "id" : 197150,
@@ -63,7 +108,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 12:11\">12:11</a></b> <b>many of the Jews.</b> The religious leaders were losing popularity: Nicodemus seemed to have defected (<a class=\"bibleref\" href=\"/passage/?search=John 7:50-John 7:52\">7:50–52</a>); some Jews had believed in Christ, however superficially (<a class=\"bibleref\" href=\"/passage/?search=John 8:30\">8:30</a> note); some were impressed by the healing of the man born blind (<a class=\"bibleref\" href=\"/passage/?search=John 10:21\">10:21</a>); Jesus seemed to be gaining followers across the Jordan (<a class=\"bibleref\" href=\"/passage/?search=John 10:41\">10:41</a>, <a class=\"bibleref\" href=\"/passage/?search=John 10:42\">42</a>); and now Lazarus’s resurrection was leading still more to faith in Him (<a class=\"bibleref\" href=\"/passage/?search=John 10:17\">vv. 17</a>, <a class=\"bibleref\" href=\"/passage/?search=John 10:18\">18</a>; <a class=\"bibleref\" href=\"/passage/?search=John 11:45\">11:45</a>). All this prepared for the acclaim that Jesus would receive at His triumphal entry, which led the Pharisees to say, “the world has gone after him” (<a class=\"bibleref\" href=\"/passage/?search=John 11:19\">v. 19</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,12,13" ],
+  "verses" : [ {
+    "verse" : "john,12,13",
+    "text" : "They took palm branches and went out to meet him, shouting, \"Hosanna! Blessed is he who comes in the name of the Lord!Blessed is the King of Israel!\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,12,13",
     "id" : 197151,
@@ -71,7 +119,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 12:13\">12:13</a></b> <b>Hosanna.</b> The salutation was borrowed in part from <a class=\"bibleref\" href=\"/passage/?search=Ps 118:25\">Ps. 118:25</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 118:26\">26</a>, to which was added the reference to “the King of Israel.” This was particularly disquieting to the Jewish leaders, who feared a popular uprising under Jesus’ leadership.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,12,14", "john,12,15", "john,12,16", "john,12,17", "john,12,18", "john,12,19" ],
+  "verses" : [ {
+    "verse" : "john,12,14",
+    "text" : "Jesus found a young donkey and sat upon it, as it is written,"
+  }, {
+    "verse" : "john,12,15",
+    "text" : "\"Do not be afraid, O Daughter of Zion; see, your king is coming, seated on a donkey's colt.\""
+  }, {
+    "verse" : "john,12,16",
+    "text" : "At first his disciples did not understand all this. Only after Jesus was glorified did they realize that these things had been written about him and that they had done these things to him."
+  }, {
+    "verse" : "john,12,17",
+    "text" : "Now the crowd that was with him when he called Lazarus from the tomb and raised him from the dead continued to spread the word."
+  }, {
+    "verse" : "john,12,18",
+    "text" : "Many people, because they had heard that he had given this miraculous sign, went out to meet him."
+  }, {
+    "verse" : "john,12,19",
+    "text" : "So the Pharisees said to one another, \"See, this is getting us nowhere. Look how the whole world has gone after him!\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,12,14-john,12,15",
     "id" : 197152,

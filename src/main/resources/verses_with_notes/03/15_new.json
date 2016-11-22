@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "luke,1,57", "luke,1,58" ],
+  "verses" : [ {
+    "verse" : "luke,1,57",
+    "text" : "When it was time for Elizabeth to have her baby, she gave birth to a son."
+  }, {
+    "verse" : "luke,1,58",
+    "text" : "Her neighbors and relatives heard that the Lord had shown her great mercy, and they shared her joy."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,1,1-luke,1,80",
     "id" : 196344,
@@ -7,7 +13,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 1\">1</a></b>:<b>31 Jesus.</b> The name means “Yahweh is salvation.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,1,59", "luke,1,60", "luke,1,61", "luke,1,62" ],
+  "verses" : [ {
+    "verse" : "luke,1,59",
+    "text" : "On the eighth day they came to circumcise the child, and they were going to name him after his father Zechariah,"
+  }, {
+    "verse" : "luke,1,60",
+    "text" : "but his mother spoke up and said, \"No! He is to be called John.\""
+  }, {
+    "verse" : "luke,1,61",
+    "text" : "They said to her, \"There is no one among your relatives who has that name.\""
+  }, {
+    "verse" : "luke,1,62",
+    "text" : "Then they made signs to his father, to find out what he would like to name the child."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,1,59",
     "id" : 196356,
@@ -15,7 +33,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 1:59\">1:59</a></b> <b>the eighth day.</b> Jewish circumcision was on the eighth day (<a class=\"bibleref\" href=\"/passage/?search=Gen 17:12\">Gen. 17:12</a>), but this is the earliest evidence for the custom of naming on that day.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,1,63", "luke,1,64" ],
+  "verses" : [ {
+    "verse" : "luke,1,63",
+    "text" : "He asked for a writing tablet, and to everyone's astonishment he wrote, \"His name is John.\""
+  }, {
+    "verse" : "luke,1,64",
+    "text" : "Immediately his mouth was opened and his tongue was loosed, and he began to speak, praising God."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,1,63",
     "id" : 196357,
@@ -23,7 +47,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 1:63\">1:63</a></b> <b>writing tablet.</b> A writing tablet was a board covered with wax that could be written on with a pointed instrument.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,1,65", "luke,1,66", "luke,1,67" ],
+  "verses" : [ {
+    "verse" : "luke,1,65",
+    "text" : "The neighbors were all filled with awe, and throughout the hill country of Judea people were talking about all these things."
+  }, {
+    "verse" : "luke,1,66",
+    "text" : "Everyone who heard this wondered about it, asking, \"What then is this child going to be?\" For the Lord's hand was with him."
+  }, {
+    "verse" : "luke,1,67",
+    "text" : "His father Zechariah was filled with the Holy Spirit and prophesied:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,1,65",
     "id" : 196358,
@@ -31,7 +64,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 1:65\">1:65</a></b> <b>fear.</b> The emotion of awe and reverence appropriate to the presence of God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,1,68" ],
+  "verses" : [ {
+    "verse" : "luke,1,68",
+    "text" : "\"Praise be to the Lord, the God of Israel, because he has come and has redeemed his people."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,1,68",
     "id" : 196359,
@@ -39,7 +75,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 1:68\">1:68</a></b> <b>Blessed.</b> A common way of beginning a thanksgiving (<a class=\"bibleref\" href=\"/passage/?search=Ps 72:18\">Ps. 72:18</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 124:6\">124:6</a>).</p><p><b>redeemed.</b> God’s people are not rescued without cost.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,1,69", "luke,1,70", "luke,1,71" ],
+  "verses" : [ {
+    "verse" : "luke,1,69",
+    "text" : "He has raised up a horn of salvation for us in the house of his servant David"
+  }, {
+    "verse" : "luke,1,70",
+    "text" : "(as he said through his holy prophets of long ago),"
+  }, {
+    "verse" : "luke,1,71",
+    "text" : "salvation from our enemies and from the hand of all who hate us--"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,1,69",
     "id" : 196360,
@@ -47,7 +92,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 1:69\">1:69</a></b> <b>horn.</b> The horn was a symbol of strength.</p><p><b>his servant David.</b> This phrase shows that Zechariah is talking about Jesus, not John.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,1,72", "luke,1,73", "luke,1,74", "luke,1,75" ],
+  "verses" : [ {
+    "verse" : "luke,1,72",
+    "text" : "to show mercy to our fathers and to remember his holy covenant,"
+  }, {
+    "verse" : "luke,1,73",
+    "text" : "the oath he swore to our father Abraham:"
+  }, {
+    "verse" : "luke,1,74",
+    "text" : "to rescue us from the hand of our enemies, and to enable us to serve him without fear"
+  }, {
+    "verse" : "luke,1,75",
+    "text" : "in holiness and righteousness before him all our days."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,1,72",
     "id" : 196361,
@@ -55,7 +112,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 1:72\">1:72</a></b> <b>his holy covenant.</b> There are several covenants in the Old Testament, but that with Abraham was always seen as specially significant (<a class=\"bibleref\" href=\"/passage/?search=Gen 17\">Gen. 17</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,1,76", "luke,1,77" ],
+  "verses" : [ {
+    "verse" : "luke,1,76",
+    "text" : "And you, my child, will be called a prophet of the Most High; for you will go on before the Lord to prepare the way for him,"
+  }, {
+    "verse" : "luke,1,77",
+    "text" : "to give his people the knowledge of salvation through the forgiveness of their sins,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,1,76",
     "id" : 196362,
@@ -63,7 +126,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 1:76\">1:76</a></b> <b>you, child.</b> Zechariah turns his attention to John and says he will be the forerunner of the Lord.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,1,78", "luke,1,79" ],
+  "verses" : [ {
+    "verse" : "luke,1,78",
+    "text" : "because of the tender mercy of our God, by which the rising sun will come to us from heaven"
+  }, {
+    "verse" : "luke,1,79",
+    "text" : "to shine on those living in darkness and in the shadow of death, to guide our feet into the path of peace.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,1,78",
     "id" : 196363,
@@ -71,7 +140,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 1:78\">1:78</a></b> <b>the sunrise.</b> This refers to the Messiah (<a class=\"bibleref\" href=\"/passage/?search=Mal 4:2\">Mal. 4:2</a>). The Greek means simply “rising,” and some think of a shoot from Jesse (<a class=\"bibleref\" href=\"/passage/?search=Isa 11:1\">Is. 11:1</a>). But the word is commonly used of the “rising” of the sun, and so a reference to the dawn is more likely.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,1,80" ],
+  "verses" : [ {
+    "verse" : "luke,1,80",
+    "text" : "And the child grew and became strong in spirit; and he lived in the desert until he appeared publicly to Israel."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,1,80",
     "id" : 196364,

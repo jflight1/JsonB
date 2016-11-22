@@ -1,8 +1,26 @@
 [ {
-  "singleVerses" : [ "mark,4,26", "mark,4,27", "mark,4,28", "mark,4,29" ],
+  "verses" : [ {
+    "verse" : "mark,4,26",
+    "text" : "He also said, \"This is what the kingdom of God is like. A man scatters seed on the ground."
+  }, {
+    "verse" : "mark,4,27",
+    "text" : "Night and day, whether he sleeps or gets up, the seed sprouts and grows, though he does not know how."
+  }, {
+    "verse" : "mark,4,28",
+    "text" : "All by itself the soil produces grain--first the stalk, then the head, then the full kernel in the head."
+  }, {
+    "verse" : "mark,4,29",
+    "text" : "As soon as the grain is ripe, he puts the sickle to it, because the harvest has come.\""
+  } ],
   "rsbNotes" : [ ]
 }, {
-  "singleVerses" : [ "mark,4,30", "mark,4,31" ],
+  "verses" : [ {
+    "verse" : "mark,4,30",
+    "text" : "Again he said, \"What shall we say the kingdom of God is like, or what parable shall we use to describe it?"
+  }, {
+    "verse" : "mark,4,31",
+    "text" : "It is like a mustard seed, which is the smallest seed you plant in the ground."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,4,30-mark,4,32",
     "id" : 196036,
@@ -10,7 +28,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 4:30-Mark 4:32\">4:30–32</a></b> The parable of the mustard seed is again concerned with the kingdom’s present manifestation in the person of Jesus.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,4,32" ],
+  "verses" : [ {
+    "verse" : "mark,4,32",
+    "text" : "Yet when planted, it grows and becomes the largest of all garden plants, with such big branches that the birds of the air can perch in its shade.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,4,32",
     "id" : 196037,
@@ -18,7 +39,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 4:32\">4:32</a></b> <b>birds of the air.</b> In <a class=\"bibleref\" href=\"/passage/?search=Dan 4:21\">Dan. 4:21</a> the same metaphor refers to the world-wide dominion of Nebuchadnezzar.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,4,33", "mark,4,34" ],
+  "verses" : [ {
+    "verse" : "mark,4,33",
+    "text" : "With many similar parables Jesus spoke the word to them, as much as they could understand."
+  }, {
+    "verse" : "mark,4,34",
+    "text" : "He did not say anything to them without using a parable. But when he was alone with his own disciples, he explained everything."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,4,33-mark,4,34",
     "id" : 196038,
@@ -26,7 +53,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 4:33\">4:33</a>, <a class=\"bibleref\" href=\"/passage/?search=Mark 4:34\">34</a></b> See <a class=\"bibleref\" href=\"/passage/?search=Mark 4:10-Mark 4:12\">vv. 10–12</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,4,35", "mark,4,36" ],
+  "verses" : [ {
+    "verse" : "mark,4,35",
+    "text" : "That day when evening came, he said to his disciples, \"Let us go over to the other side.\""
+  }, {
+    "verse" : "mark,4,36",
+    "text" : "Leaving the crowd behind, they took him along, just as he was, in the boat. There were also other boats with him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,4,35",
     "id" : 196039,
@@ -34,7 +67,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 4:35\">4:35</a></b> <b>the other side.</b> According to <a class=\"bibleref\" href=\"/passage/?search=Mark 3:7\">3:7</a>, Jesus is in Galilee. The “other side” of the lake is the region of the Gadarenes in the Decapolis (<a class=\"bibleref\" href=\"/passage/?search=Mark 5:1\">5:1</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,4,37" ],
+  "verses" : [ {
+    "verse" : "mark,4,37",
+    "text" : "A furious squall came up, and the waves broke over the boat, so that it was nearly swamped."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,4,37",
     "id" : 196040,
@@ -42,7 +78,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 4:37\">4:37</a></b> <b>great windstorm.</b> The Sea of Galilee is about 700 feet below sea level, thirteen miles long and eight miles wide. At its southern end is a deep, cliff-lined valley. The wind funnelling through the surrounding hills and through this valley can whip the lake into sudden violent storms.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,4,38" ],
+  "verses" : [ {
+    "verse" : "mark,4,38",
+    "text" : "Jesus was in the stern, sleeping on a cushion. The disciples woke him and said to him, \"Teacher, don't you care if we drown?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,4,38",
     "id" : 196041,
@@ -50,7 +89,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 4:38\">4:38</a></b> <b>he was . . . asleep.</b> Jesus had been teaching all day, and was no doubt exhausted. Mark, like John (<a class=\"bibleref\" href=\"/passage/?search=John 4:6\">John 4:6</a>; <a class=\"bibleref\" href=\"/passage/?search=John 11:35\">11:35</a>, <a class=\"bibleref\" href=\"/passage/?search=John 11:38\">38</a>), emphasizes the full humanity of Jesus.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,4,39", "mark,4,40", "mark,4,41" ],
+  "verses" : [ {
+    "verse" : "mark,4,39",
+    "text" : "He got up, rebuked the wind and said to the waves, \"Quiet! Be still!\" Then the wind died down and it was completely calm."
+  }, {
+    "verse" : "mark,4,40",
+    "text" : "He said to his disciples, \"Why are you so afraid? Do you still have no faith?\""
+  }, {
+    "verse" : "mark,4,41",
+    "text" : "They were terrified and asked each other, \"Who is this? Even the wind and the waves obey him!\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,4,39",
     "id" : 196042,
@@ -58,7 +106,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 4:39\">4:39</a></b> <b>Peace! Be still!</b> Lit. “be muzzled.” Jesus has authority on earth to forgive sins (<a class=\"bibleref\" href=\"/passage/?search=Mark 2:10\">2:10</a>), He is Lord of the Sabbath (<a class=\"bibleref\" href=\"/passage/?search=Mark 2:28\">2:28</a>), He has authority in His teaching (<a class=\"bibleref\" href=\"/passage/?search=Mark 1:22\">1:22</a>) and over the demons (<a class=\"bibleref\" href=\"/passage/?search=Mark 1:27\">1:27</a>), and now He demonstrates His authority over nature. This calming of the storm resembles His exorcisms; there is the demonic expression of violence (<a class=\"bibleref\" href=\"/passage/?search=Mark 1:26\">1:26</a>; <a class=\"bibleref\" href=\"/passage/?search=Mark 5:4\">5:4</a>, <a class=\"bibleref\" href=\"/passage/?search=Mark 5:13\">13</a>), the command to be “silent” (<a class=\"bibleref\" href=\"/passage/?search=Mark 1:25\">1:25</a> note), and the resultant calm (<a class=\"bibleref\" href=\"/passage/?search=Mark 5:15\">5:15</a>). Jesus binds “the strong man” (<a class=\"bibleref\" href=\"/passage/?search=Mark 3:23-Mark 3:27\">3:23–27</a>) and reclaims from his power the physical creation.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,5,1" ],
+  "verses" : [ {
+    "verse" : "mark,5,1",
+    "text" : "They went across the lake to the region of the Gerasenes."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,5,1",
     "id" : 196043,
@@ -66,7 +117,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 5:1\">5:1</a></b> <b>the country of the Gerasenes.</b> Gerasa was thirty miles southeast of the lake. There is also a village named Khersa on the eastern shore with the kind of cliffs and tombs described in the story. Jesus enters the Decapolis, a political association of ten independent Greek city-states, anticipating the future Gentile mission of the church. The Gentile character of the population is apparent since the Jews did not raise pigs, which were unclean under Mosaic law.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,5,2" ],
+  "verses" : [ {
+    "verse" : "mark,5,2",
+    "text" : "When Jesus got out of the boat, a man with an evil spirit came from the tombs to meet him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,5,2",
     "id" : 196044,
@@ -74,7 +128,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 5:2\">5:2</a></b> <b>out of the tombs.</b> This demon-possessed man was exiled from normal human contacts, separated from his village and family (<a class=\"bibleref\" href=\"/passage/?search=Mark 5:19\">v. 19</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,5,3", "mark,5,4", "mark,5,5", "mark,5,6" ],
+  "verses" : [ {
+    "verse" : "mark,5,3",
+    "text" : "This man lived in the tombs, and no one could bind him any more, not even with a chain."
+  }, {
+    "verse" : "mark,5,4",
+    "text" : "For he had often been chained hand and foot, but he tore the chains apart and broke the irons on his feet. No one was strong enough to subdue him."
+  }, {
+    "verse" : "mark,5,5",
+    "text" : "Night and day among the tombs and in the hills he would cry out and cut himself with stones."
+  }, {
+    "verse" : "mark,5,6",
+    "text" : "When he saw Jesus from a distance, he ran and fell on his knees in front of him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,5,3",
     "id" : 196045,
@@ -82,7 +148,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 5:3\">5:3</a></b> <b>no one could bind him.</b> Violence and unusual physical strength leading to slow self-destruction (<a class=\"bibleref\" href=\"/passage/?search=Mark 5:5\">v. 5</a>; <a class=\"bibleref\" href=\"/passage/?search=Mark 9:22\">9:22</a>) often seem to characterize the demon-possessed (<a class=\"bibleref\" href=\"/passage/?search=Mark 9:13\">v. 13</a>; <a class=\"bibleref\" href=\"/passage/?search=Mark 1:26\">1:26</a>; <a class=\"bibleref\" href=\"/passage/?search=Mark 9:18\">9:18</a>, <a class=\"bibleref\" href=\"/passage/?search=Mark 9:20\">20</a>, <a class=\"bibleref\" href=\"/passage/?search=Mark 9:22\">22</a>, <a class=\"bibleref\" href=\"/passage/?search=Mark 9:26\">26</a>), but before the spiritual strength of Jesus the demons cower and flee.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,5,7", "mark,5,8" ],
+  "verses" : [ {
+    "verse" : "mark,5,7",
+    "text" : "He shouted at the top of his voice, \"What do you want with me, Jesus, Son of the Most High God? Swear to God that you won't torture me!\""
+  }, {
+    "verse" : "mark,5,8",
+    "text" : "For Jesus had said to him, \"Come out of this man, you evil spirit!\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,5,7",
     "id" : 196046,
@@ -90,7 +162,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 5:7\">5:7</a></b> <b>What have you to do with me.</b> See <a class=\"bibleref\" href=\"/passage/?search=Mark 1:24\">1:24</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,5,9" ],
+  "verses" : [ {
+    "verse" : "mark,5,9",
+    "text" : "Then Jesus asked him, \"What is your name?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,5,9",
     "id" : 196047,
@@ -98,7 +173,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 5:9\">5:9</a></b> <b>What is your name.</b> Naming someone was believed to be a way of gaining power over them. The demons had already identified Jesus (<a class=\"bibleref\" href=\"/passage/?search=Mark 5:7\">v. 7</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Mark 1:24\">1:24</a>, <a class=\"bibleref\" href=\"/passage/?search=Mark 1:34\">34</a>), but by this question Jesus reveals His superior power.</p><p><b>Legion.</b> Jesus forces the demon to unmask himself. He is not one but many. A Roman legion was six thousand men.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,5,10", "mark,5,11", "mark,5,12" ],
+  "verses" : [ {
+    "verse" : "mark,5,10",
+    "text" : "\"My name is Legion,\" he replied, \"for we are many.\" And he begged Jesus again and again not to send them out of the area."
+  }, {
+    "verse" : "mark,5,11",
+    "text" : "A large herd of pigs was feeding on the nearby hillside."
+  }, {
+    "verse" : "mark,5,12",
+    "text" : "The demons begged Jesus, \"Send us among the pigs; allow us to go into them.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,5,10",
     "id" : 196048,
@@ -106,7 +190,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 5:10\">5:10</a></b> <b>he begged.</b> The demon cowers before Jesus, even invoking God’s name as a form of protection (<a class=\"bibleref\" href=\"/passage/?search=Mark 5:7\">v. 7</a>), recognizing that Jesus has absolute power over him.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,5,13", "mark,5,14" ],
+  "verses" : [ {
+    "verse" : "mark,5,13",
+    "text" : "He gave them permission, and the evil spirits came out and went into the pigs. The herd, about two thousand in number, rushed down the steep bank into the lake and were drowned."
+  }, {
+    "verse" : "mark,5,14",
+    "text" : "Those tending the pigs ran off and reported this in the town and countryside, and the people went out to see what had happened."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,5,13",
     "id" : 196049,
@@ -114,7 +204,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 5:13\">5:13</a></b> <b>he gave them permission.</b> Jesus permits the demons to enter the pigs, who then hurl themselves over the cliff. This exorcism is a dramatic demonstration of Jesus’ power over evil (<a class=\"bibleref\" href=\"/passage/?search=Mark 5:14\">vv. 14</a>, <a class=\"bibleref\" href=\"/passage/?search=Mark 5:16\">16</a>) and of the presence of the kingdom in His ministry (<a class=\"bibleref\" href=\"/passage/?search=Luke 11:20\">Luke 11:20</a>). See “Demons” at <a class=\"bibleref\" href=\"/passage/?search=Deut 32:17\">Deut. 32:17</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,5,15", "mark,5,16", "mark,5,17", "mark,5,18" ],
+  "verses" : [ {
+    "verse" : "mark,5,15",
+    "text" : "When they came to Jesus, they saw the man who had been possessed by the legion of demons, sitting there, dressed and in his right mind; and they were afraid."
+  }, {
+    "verse" : "mark,5,16",
+    "text" : "Those who had seen it told the people what had happened to the demon-possessed man--and told about the pigs as well."
+  }, {
+    "verse" : "mark,5,17",
+    "text" : "Then the people began to plead with Jesus to leave their region."
+  }, {
+    "verse" : "mark,5,18",
+    "text" : "As Jesus was getting into the boat, the man who had been demon-possessed begged to go with him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,5,15",
     "id" : 196050,
@@ -122,7 +224,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 5:15\">5:15</a></b> <b>sitting.</b> In comparison with his previous violent behavior and the recent destruction of the pigs, the man “sitting there, clothed and in his right mind” gives eloquent expression to the peace and life-giving restoration that comes from Jesus’ power (<a class=\"bibleref\" href=\"/passage/?search=Mark 4:39\">4:39</a>; <a class=\"bibleref\" href=\"/passage/?search=Mark 9:26\">9:26</a>, <a class=\"bibleref\" href=\"/passage/?search=Mark 9:27\">27</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,5,19", "mark,5,20" ],
+  "verses" : [ {
+    "verse" : "mark,5,19",
+    "text" : "Jesus did not let him, but said, \"Go home to your family and tell them how much the Lord has done for you, and how he has had mercy on you.\""
+  }, {
+    "verse" : "mark,5,20",
+    "text" : "So the man went away and began to tell in the Decapolis how much Jesus had done for him. And all the people were amazed."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,5,19",
     "id" : 196051,

@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,12,25" ],
+  "verses" : [ {
+    "verse" : "proverbs,12,25",
+    "text" : "An anxious heart weighs a man down, but a kind word cheers him up."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

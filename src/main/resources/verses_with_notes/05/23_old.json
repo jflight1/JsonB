@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "2samuel,2,12" ],
+  "verses" : [ {
+    "verse" : "2samuel,2,12",
+    "text" : "Abner son of Ner, together with the men of Ish-Bosheth son of Saul, left Mahanaim and went to Gibeon."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,2,8-2samuel,2,32",
     "id" : 187742,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 2:12\">2:12</a></b> <b>Gibeon.</b> Gibeon was a Benjaminite town, now called el-Jib, about five miles north of Jerusalem.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,2,13" ],
+  "verses" : [ {
+    "verse" : "2samuel,2,13",
+    "text" : "Joab son of Zeruiah and David's men went out and met them at the pool of Gibeon. One group sat down on one side of the pool and one group on the other side."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,2,13",
     "id" : 187747,
@@ -20,7 +26,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 2:13\">2:13</a></b> <b>Joab the son of Zeruiah.</b> See note on <a class=\"bibleref\" href=\"/passage/?search=2Sam 2:18\">v. 18</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,2,14", "2samuel,2,15", "2samuel,2,16", "2samuel,2,17" ],
+  "verses" : [ {
+    "verse" : "2samuel,2,14",
+    "text" : "Then Abner said to Joab, \"Let's have some of the young men get up and fight hand to hand in front of us.All right, let them do it,\" Joab said."
+  }, {
+    "verse" : "2samuel,2,15",
+    "text" : "So they stood up and were counted off-twelve men for Benjamin and Ish-Bosheth son of Saul, and twelve for David."
+  }, {
+    "verse" : "2samuel,2,16",
+    "text" : "Then each man grabbed his opponent by the head and thrust his dagger into his opponent's side, and they fell down together. So that place in Gibeon was called Helkath Hazzurim."
+  }, {
+    "verse" : "2samuel,2,17",
+    "text" : "The battle that day was very fierce, and Abner and the men of Israel were defeated by David's men."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,2,14",
     "id" : 187748,
@@ -28,7 +46,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 2:14\">2:14</a></b> <b>Let the young men arise and compete.</b> Abner suggests a form of representative combat similar to the contest between David and Goliath (<a class=\"bibleref\" href=\"/passage/?search=1Sam 17:4\">1 Sam. 17:4</a> note). Large-scale bloodshed was not averted either time (vv. 17, 31).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,2,18", "2samuel,2,19", "2samuel,2,20", "2samuel,2,21" ],
+  "verses" : [ {
+    "verse" : "2samuel,2,18",
+    "text" : "The three sons of Zeruiah were there: Joab, Abishai and Asahel. Now Asahel was as fleet-footed as a wild gazelle."
+  }, {
+    "verse" : "2samuel,2,19",
+    "text" : "He chased Abner, turning neither to the right nor to the left as he pursued him."
+  }, {
+    "verse" : "2samuel,2,20",
+    "text" : "Abner looked behind him and asked, \"Is that you, Asahel?It is,\" he answered."
+  }, {
+    "verse" : "2samuel,2,21",
+    "text" : "Then Abner said to him, \"Turn aside to the right or to the left; take on one of the young men and strip him of his weapons.\" But Asahel would not stop chasing him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,2,18",
     "id" : 187749,
@@ -36,7 +66,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 2:18\">2:18</a></b> <b>three sons of Zeruiah.</b> According to <a class=\"bibleref\" href=\"/passage/?search=1Chr 2:16\">1 Chr. 2:16</a>, Zeruiah was one of David’s two sisters, which would make her sons his nephews.</p><p><b>Joab.</b> Joab played an important role throughout David’s reign, serving as commander of David’s forces (8:16). Though an ardent supporter of David, Joab at times proved to be uncontrollable (3:39), acting in his own interests (3:26, 27) and even defying David’s orders (18:5, 9–14). Joab was executed by King Solomon (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 2:28-1Kgs 2:35\">1 Kin. 2:28–35</a>).</p><p><b>Abishai.</b> Abishai served alongside Joab in David’s army (10:10; 18:2; 23:18).</p><p><b>Asahel.</b> Also listed among David’s mighty men (23:24), Asahel’s relentless pursuit of Abner in this present episode will lead to a violent death (v. 23).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,2,22", "2samuel,2,23", "2samuel,2,24", "2samuel,2,25" ],
+  "verses" : [ {
+    "verse" : "2samuel,2,22",
+    "text" : "Again Abner warned Asahel, \"Stop chasing me! Why should I strike you down? How could I look your brother Joab in the face?\""
+  }, {
+    "verse" : "2samuel,2,23",
+    "text" : "But Asahel refused to give up the pursuit; so Abner thrust the butt of his spear into Asahel's stomach, and the spear came out through his back. He fell there and died on the spot. And every man stopped when he came to the place where Asahel had fallen and died."
+  }, {
+    "verse" : "2samuel,2,24",
+    "text" : "But Joab and Abishai pursued Abner, and as the sun was setting, they came to the hill of Ammah, near Giah on the way to the wasteland of Gibeon."
+  }, {
+    "verse" : "2samuel,2,25",
+    "text" : "Then the men of Benjamin rallied behind Abner. They formed themselves into a group and took their stand on top of a hill."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,2,22",
     "id" : 187750,
@@ -44,7 +86,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 2:22\">2:22</a></b> <b>How then could I . . . your brother Joab.</b> Abner’s attempts to avoid striking down Asahel may be motivated not simply by fear of reprisal from Joab, but also by a desire not to erect unnecessary barriers to eventual compromise with David. See note on <a class=\"bibleref\" href=\"/passage/?search=2Sam 2:26\">v. 26</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,2,26", "2samuel,2,27" ],
+  "verses" : [ {
+    "verse" : "2samuel,2,26",
+    "text" : "Abner called out to Joab, \"Must the sword devour forever? Don't you realize that this will end in bitterness? How long before you order your men to stop pursuing their brothers?\""
+  }, {
+    "verse" : "2samuel,2,27",
+    "text" : "Joab answered, \"As surely as God lives, if you had not spoken, the men would have continued the pursuit of their brothers until morning. \""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,2,26",
     "id" : 187751,
@@ -52,7 +100,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 2:26\">2:26</a></b> <b>tell your people to turn from the pursuit of their brothers.</b> Abner’s reference to “their brothers” may suggest a shift in a more conciliatory direction; perhaps Abner senses that David cannot be stopped. Abner would prefer truce to defeat, especially if he could remain autonomous.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,2,28", "2samuel,2,29" ],
+  "verses" : [ {
+    "verse" : "2samuel,2,28",
+    "text" : "So Joab blew the trumpet, and all the men came to a halt; they no longer pursued Israel, nor did they fight anymore."
+  }, {
+    "verse" : "2samuel,2,29",
+    "text" : "All that night Abner and his men marched through the Arabah. They crossed the Jordan, continued through the whole Bithron and came to Mahanaim."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,2,28",
     "id" : 187752,
@@ -60,7 +114,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 2:28\">2:28</a></b> <b>trumpet.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Sam 13:3\">1 Sam. 13:3</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,2,30", "2samuel,2,31", "2samuel,2,32" ],
+  "verses" : [ {
+    "verse" : "2samuel,2,30",
+    "text" : "Then Joab returned from pursuing Abner and assembled all his men. Besides Asahel, nineteen of David's men were found missing."
+  }, {
+    "verse" : "2samuel,2,31",
+    "text" : "But David's men had killed three hundred and sixty Benjamites who were with Abner."
+  }, {
+    "verse" : "2samuel,2,32",
+    "text" : "They took Asahel and buried him in his father's tomb at Bethlehem. Then Joab and his men marched all night and arrived at Hebron by daybreak."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,2,30-2samuel,2,31",
     "id" : 187753,
@@ -68,7 +131,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 2:30\">2:30</a>, <a class=\"bibleref\" href=\"/passage/?search=2Sam 2:31\">31</a></b> The disparity between the number of casualties suffered by David’s troops and by the Benjaminites is a token of things to come.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,3,1" ],
+  "verses" : [ {
+    "verse" : "2samuel,3,1",
+    "text" : "The war between the house of Saul and the house of David lasted a long time. David grew stronger and stronger, while the house of Saul grew weaker and weaker."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,3,1",
     "id" : 187754,
@@ -76,7 +142,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 3:1\">3:1</a></b> <b>war between the house of Saul and the house of David.</b> At least in the northern tribes, the transfer of power to David after the death of Saul was not unopposed. A key figure supporting Saul was Abner, Saul’s military commander who had installed Saul’s surviving son, Ish-bosheth, as king in Mahanaim (<a class=\"bibleref\" href=\"/passage/?search=2Sam 2:8\">2:8</a>, <a class=\"bibleref\" href=\"/passage/?search=2Sam 2:9\">9</a>). But the tide was running in David’s favor (<a class=\"bibleref\" href=\"/passage/?search=2Sam 2:30\">2:30</a>, <a class=\"bibleref\" href=\"/passage/?search=2Sam 2:31\">31</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,3,2" ],
+  "verses" : [ {
+    "verse" : "2samuel,3,2",
+    "text" : "Sons were born to David in Hebron: His firstborn was Amnon the son of Ahinoam of Jezreel;"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,3,2-2samuel,3,11",
     "id" : 187755,
@@ -89,7 +158,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 3:2\">3:2</a></b> <b>sons were born to David at Hebron.</b> As the list that follows reveals, David took additional wives in Hebron. In <a class=\"bibleref\" href=\"/passage/?search=2Sam 5:13-2Sam 5:16\">5:13–16</a>, after David’s arrival in Jerusalem, yet more wives and concubines are added, and at least eleven more children will be born to David (see the cumulative list in <a class=\"bibleref\" href=\"/passage/?search=1Chr 3:1-1Chr 3:9\">1 Chr. 3:1–9</a>). While the narrator offers no explicit evaluation of David’s behavior (ancient Near Eastern kings commonly multiplied wives and children), it violates the standards of <a class=\"bibleref\" href=\"/passage/?search=Deut 17:17\">Deut. 17:17</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,3,3", "2samuel,3,4", "2samuel,3,5", "2samuel,3,6" ],
+  "verses" : [ {
+    "verse" : "2samuel,3,3",
+    "text" : "his second, Kileab the son of Abigail the widow of Nabal of Carmel; the third, Absalom the son of Maacah daughter of Talmai king of Geshur;"
+  }, {
+    "verse" : "2samuel,3,4",
+    "text" : "the fourth, Adonijah the son of Haggith; the fifth, Shephatiah the son of Abital;"
+  }, {
+    "verse" : "2samuel,3,5",
+    "text" : "and the sixth, Ithream the son of David's wife Eglah. These were born to David in Hebron."
+  }, {
+    "verse" : "2samuel,3,6",
+    "text" : "During the war between the house of Saul and the house of David, Abner had been strengthening his own position in the house of Saul."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,3,3",
     "id" : 187757,
@@ -97,7 +178,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 3:3\">3:3</a></b> <b>Maacah the daughter of Talmai king of Geshur.</b> David’s marrying a foreign wife from the small Aramean kingdom of Geshur may have been politically motivated, giving him an ally north of Ish-bosheth’s shaky realm.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,3,7", "2samuel,3,8" ],
+  "verses" : [ {
+    "verse" : "2samuel,3,7",
+    "text" : "Now Saul had had a concubine named Rizpah daughter of Aiah. And Ish-Bosheth said to Abner, \"Why did you sleep with my father's concubine?\""
+  }, {
+    "verse" : "2samuel,3,8",
+    "text" : "Abner was very angry because of what Ish-Bosheth said and he answered, \"Am I a dog's head-on Judah's side? This very day I am loyal to the house of your father Saul and to his family and friends. I haven't handed you over to David. Yet now you accuse me of an offense involving this woman!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,3,7",
     "id" : 187758,
@@ -105,7 +192,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 3:7\">3:7</a></b> <b>Why have you gone in to my father’s concubine.</b> Abner’s appropriation of Saul’s concubine would amount to a claim on the throne (<a class=\"bibleref\" href=\"/passage/?search=2Sam 12:8\">12:8</a> note; <a class=\"bibleref\" href=\"/passage/?search=2Sam 16:21\">16:21</a> note; <a class=\"bibleref\" href=\"/passage/?search=1Kgs 2:22\">1 Kin. 2:22</a>). The reader is not told whether Ish-bosheth’s suspicion is well-founded or simple paranoia. Whatever the case, Abner uses the accusation as an occasion to shift his allegiance to David (vv. 8–10).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,3,9" ],
+  "verses" : [ {
+    "verse" : "2samuel,3,9",
+    "text" : "May God deal with Abner, be it ever so severely, if I do not do for David what the LORD promised him on oath"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,3,9",
     "id" : 187759,
@@ -113,7 +203,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 3:9\">3:9</a></b> <b>what the <span class=\"small-caps\">Lord</span> has sworn to him.</b> See <a class=\"bibleref\" href=\"/passage/?search=2Sam 5:2\">5:2</a> note; <a class=\"bibleref\" href=\"/passage/?search=1Sam 13:14\">1 Sam. 13:14</a> note; 15:28; 24:20 note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,3,10" ],
+  "verses" : [ {
+    "verse" : "2samuel,3,10",
+    "text" : "and transfer the kingdom from the house of Saul and establish David's throne over Israel and Judah from Dan to Beersheba.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,3,10",
     "id" : 187760,
@@ -121,7 +214,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 3:10\">3:10</a></b> <b>Dan to Beersheba.</b> A proverbial expression for “the whole country” (<a class=\"bibleref\" href=\"/passage/?search=Judg 20:1\">Judg. 20:1</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,3,11" ],
+  "verses" : [ {
+    "verse" : "2samuel,3,11",
+    "text" : "Ish-Bosheth did not dare to say another word to Abner, because he was afraid of him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,3,11",
     "id" : 187761,
@@ -129,7 +225,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 3:11\">3:11</a></b> <b>he feared him.</b> Ish-bosheth’s reaction indicates that Abner was in a position not only to make a threat but to carry it out.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,3,12" ],
+  "verses" : [ {
+    "verse" : "2samuel,3,12",
+    "text" : "Then Abner sent messengers on his behalf to say to David, \"Whose land is it? Make an agreement with me, and I will help you bring all Israel over to you.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,3,12",
     "id" : 187762,
@@ -137,7 +236,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 3:12\">3:12</a></b> <b>To whom does the land belong.</b> Abner means that the land is his own, as one who controls it and can give it to David, or else that the land is David’s by right, and that David should enlist Abner’s help to secure it.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,3,13" ],
+  "verses" : [ {
+    "verse" : "2samuel,3,13",
+    "text" : "\"Good,\" said David. \"I will make an agreement with you. But I demand one thing of you: Do not come into my presence unless you bring Michal daughter of Saul when you come to see me.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,3,13",
     "id" : 187763,
@@ -145,7 +247,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 3:13\">3:13</a></b> <b>bring Michal, Saul’s daughter.</b> Returning David’s wife Michal to him (<a class=\"bibleref\" href=\"/passage/?search=1Sam 18:27\">1 Sam. 18:27</a>) would not only make right Saul’s wrong of having given her to another in David’s absence (<a class=\"bibleref\" href=\"/passage/?search=1Sam 25:44\">1 Sam. 25:44</a>), but would also strengthen David’s claim to the throne over Saul’s former realm. The restrictions of <a class=\"bibleref\" href=\"/passage/?search=Deut 24:1-Deut 24:4\">Deut. 24:1–4</a> do not apply in this situation, since David’s separation from Michal was involuntary.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,3,14", "2samuel,3,15" ],
+  "verses" : [ {
+    "verse" : "2samuel,3,14",
+    "text" : "Then David sent messengers to Ish-Bosheth son of Saul, demanding, \"Give me my wife Michal, whom I betrothed to myself for the price of a hundred Philistine foreskins.\""
+  }, {
+    "verse" : "2samuel,3,15",
+    "text" : "So Ish-Bosheth gave orders and had her taken away from her husband Paltiel son of Laish."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,3,14",
     "id" : 187764,
@@ -153,7 +261,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 3:14\">3:14</a></b> <b>David sent messengers to Ish-bosheth.</b> The insecurity of Ish-bosheth’s position is evident not only in his fear of Abner (<a class=\"bibleref\" href=\"/passage/?search=2Sam 3:11\">v. 11</a>) but also in his inability to resist David’s orders.</p><p><b>a hundred foreskins of the Philistines.</b> David refers to the bride-price that Saul had set for Michal (<a class=\"bibleref\" href=\"/passage/?search=1Sam 18:25\">1 Sam. 18:25</a>); his payment had actually been twice the amount (<a class=\"bibleref\" href=\"/passage/?search=1Sam 18:27\">1 Sam. 18:27</a>).</p><p><b>weeping.</b> A vivid glimpse of suffering caused by deeds outside the man’s control.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,3,16" ],
+  "verses" : [ {
+    "verse" : "2samuel,3,16",
+    "text" : "Her husband, however, went with her, weeping behind her all the way to Bahurim. Then Abner said to him, \"Go back home!\" So he went back."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,3,16",
     "id" : 187765,
@@ -161,7 +272,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 3:16\">3:16</a></b> <b>Bahurim.</b> Tentatively identified with a site about 1.5 miles east of Jerusalem in the territory of Benjamin. Bahurim was the hometown of Shimei, son of Gera (<a class=\"bibleref\" href=\"/passage/?search=2Sam 16:5\">16:5</a>; <a class=\"bibleref\" href=\"/passage/?search=1Kgs 2:8\">1 Kin. 2:8</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,3,17" ],
+  "verses" : [ {
+    "verse" : "2samuel,3,17",
+    "text" : "Abner conferred with the elders of Israel and said, \"For some time you have wanted to make David your king."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,3,17",
     "id" : 187766,
@@ -169,7 +283,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 3:17\">3:17</a></b> <b>you have been seeking David as king over you.</b> See <a class=\"bibleref\" href=\"/passage/?search=2Sam 3:1\">v. 1</a> note. Apparently Ish-bosheth and Abner are all that have stood in the way of harmonious relations between David and Israel. Abner here steps aside, and Ish-bosheth will not stand long without him (<a class=\"bibleref\" href=\"/passage/?search=2Sam 4\">ch. 4</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,3,18", "2samuel,3,19", "2samuel,3,20" ],
+  "verses" : [ {
+    "verse" : "2samuel,3,18",
+    "text" : "Now do it! For the LORD promised David, 'By my servant David I will rescue my people Israel from the hand of the Philistines and from the hand of all their enemies.'\""
+  }, {
+    "verse" : "2samuel,3,19",
+    "text" : "Abner also spoke to the Benjamites in person. Then he went to Hebron to tell David everything that Israel and the whole house of Benjamin wanted to do."
+  }, {
+    "verse" : "2samuel,3,20",
+    "text" : "When Abner, who had twenty men with him, came to David at Hebron, David prepared a feast for him and his men."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,3,18",
     "id" : 187767,
@@ -177,7 +300,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 3:18\">3:18</a></b> <b>my servant David.</b> David is now recognized as the recipient of a commission like the one first given to Saul (<a class=\"bibleref\" href=\"/passage/?search=1Sam 9:16\">1 Sam. 9:16</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,3,21", "2samuel,3,22", "2samuel,3,23" ],
+  "verses" : [ {
+    "verse" : "2samuel,3,21",
+    "text" : "Then Abner said to David, \"Let me go at once and assemble all Israel for my lord the king, so that they may make a compact with you, and that you may rule over all that your heart desires.\" So David sent Abner away, and he went in peace."
+  }, {
+    "verse" : "2samuel,3,22",
+    "text" : "Just then David's men and Joab returned from a raid and brought with them a great deal of plunder. But Abner was no longer with David in Hebron, because David had sent him away, and he had gone in peace."
+  }, {
+    "verse" : "2samuel,3,23",
+    "text" : "When Joab and all the soldiers with him arrived, he was told that Abner son of Ner had come to the king and that the king had sent him away and that he had gone in peace."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,3,21",
     "id" : 187768,
@@ -185,7 +317,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 3:21\">3:21</a></b> <b>that they may make a covenant with you.</b> See <a class=\"bibleref\" href=\"/passage/?search=2Sam 5:3\">5:3</a>.</p><p><b>in peace.</b> The repetition of this phrase twice more in <a class=\"bibleref\" href=\"/passage/?search=2Sam 5:22\">vv. 22</a>, <a class=\"bibleref\" href=\"/passage/?search=2Sam 5:23\">23</a> underscores that David was not involved in Abner’s death; see also vv. 26, 28, 29, 37.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,3,24", "2samuel,3,25" ],
+  "verses" : [ {
+    "verse" : "2samuel,3,24",
+    "text" : "So Joab went to the king and said, \"What have you done? Look, Abner came to you. Why did you let him go? Now he is gone!"
+  }, {
+    "verse" : "2samuel,3,25",
+    "text" : "You know Abner son of Ner; he came to deceive you and observe your movements and find out everything you are doing.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,3,24",
     "id" : 187769,
@@ -193,7 +331,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 3:24\">3:24</a></b> Joab’s agitation at the thought of Abner’s peaceful departure is apparent in his words to David.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,3,26" ],
+  "verses" : [ {
+    "verse" : "2samuel,3,26",
+    "text" : "Joab then left David and sent messengers after Abner, and they brought him back from the well of Sirah. But David did not know it."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,3,26",
     "id" : 187770,
@@ -201,7 +342,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 3:26\">3:26</a></b> <b>cistern of Sirah.</b> A few miles north of Hebron.</p><p><b>But David did not know about it.</b> This note is another confirmation of David’s innocence in the death of Abner (<a class=\"bibleref\" href=\"/passage/?search=2Sam 3:21-2Sam 3:23\">vv. 21–23</a>, <a class=\"bibleref\" href=\"/passage/?search=2Sam 3:28\">28</a>, <a class=\"bibleref\" href=\"/passage/?search=2Sam 3:29\">29</a>, <a class=\"bibleref\" href=\"/passage/?search=2Sam 3:37\">37</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,3,27" ],
+  "verses" : [ {
+    "verse" : "2samuel,3,27",
+    "text" : "Now when Abner returned to Hebron, Joab took him aside into the gateway, as though to speak with him privately. And there, to avenge the blood of his brother Asahel, Joab stabbed him in the stomach, and he died."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,3,27",
     "id" : 187771,
@@ -209,7 +353,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 3:27\">3:27</a></b> <b>for the blood of Asahel his brother.</b> See also <a class=\"bibleref\" href=\"/passage/?search=2Sam 3:30\">v. 30</a>. In <a class=\"bibleref\" href=\"/passage/?search=2Sam 2:18-2Sam 2:23\">2:18–23</a> Abner’s slaying of Asahel is depicted as essentially a matter of self-defense, and the battle context of Abner’s action makes it doubtful that Joab had the right to act as an “avenger of blood” (<a class=\"bibleref\" href=\"/passage/?search=2Sam 14:11\">14:11</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 35:16-Num 35:25\">Num. 35:16–25</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 19:11-Deut 19:13\">Deut. 19:11–13</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 20:3\">Josh. 20:3</a>). Joab may also have wanted to eliminate a potential rival in David’s court (see his murder of Amasa in 20:10).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,3,28" ],
+  "verses" : [ {
+    "verse" : "2samuel,3,28",
+    "text" : "Later, when David heard about this, he said, \"I and my kingdom are forever innocent before the LORD concerning the blood of Abner son of Ner."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,3,28",
     "id" : 187772,
@@ -217,7 +364,37 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 3:28\">3:28</a></b> <b>I and my kingdom are forever guiltless.</b> See <a class=\"bibleref\" href=\"/passage/?search=2Sam 3:21-2Sam 3:23\">vv. 21–23</a>, <a class=\"bibleref\" href=\"/passage/?search=2Sam 3:26\">26</a>, <a class=\"bibleref\" href=\"/passage/?search=2Sam 3:37\">37</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,3,29", "2samuel,3,30", "2samuel,3,31", "2samuel,3,32", "2samuel,3,33", "2samuel,3,34", "2samuel,3,35", "2samuel,3,36", "2samuel,3,37", "2samuel,3,38" ],
+  "verses" : [ {
+    "verse" : "2samuel,3,29",
+    "text" : "May his blood fall upon the head of Joab and upon all his father's house! May Joab's house never be without someone who has a running sore or leprosy or who leans on a crutch or who falls by the sword or who lacks food.\""
+  }, {
+    "verse" : "2samuel,3,30",
+    "text" : "(Joab and his brother Abishai murdered Abner because he had killed their brother Asahel in the battle at Gibeon.)"
+  }, {
+    "verse" : "2samuel,3,31",
+    "text" : "Then David said to Joab and all the people with him, \"Tear your clothes and put on sackcloth and walk in mourning in front of Abner.\" King David himself walked behind the bier."
+  }, {
+    "verse" : "2samuel,3,32",
+    "text" : "They buried Abner in Hebron, and the king wept aloud at Abner's tomb. All the people wept also."
+  }, {
+    "verse" : "2samuel,3,33",
+    "text" : "The king sang this lament for Abner: \"Should Abner have died as the lawless die?"
+  }, {
+    "verse" : "2samuel,3,34",
+    "text" : "Your hands were not bound, your feet were not fettered. You fell as one falls before wicked men.\" And all the people wept over him again."
+  }, {
+    "verse" : "2samuel,3,35",
+    "text" : "Then they all came and urged David to eat something while it was still day; but David took an oath, saying, \"May God deal with me, be it ever so severely, if I taste bread or anything else before the sun sets!\""
+  }, {
+    "verse" : "2samuel,3,36",
+    "text" : "All the people took note and were pleased; indeed, everything the king did pleased them."
+  }, {
+    "verse" : "2samuel,3,37",
+    "text" : "So on that day all the people and all Israel knew that the king had no part in the murder of Abner son of Ner."
+  }, {
+    "verse" : "2samuel,3,38",
+    "text" : "Then the king said to his men, \"Do you not realize that a prince and a great man has fallen in Israel this day?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,3,29",
     "id" : 187773,
@@ -225,7 +402,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 3:29\">3:29</a></b> <b>May it fall upon the head of Joab.</b> David’s decision only to utter a curse upon Joab’s house rather than take direct disciplinary action may have been a result of the ambiguous circumstances of Joab’s crime. More likely, however, such factors as Joab’s considerable power and reputation and his familial relationship with David influenced his decision. Ultimately Joab’s crime did not go unpunished (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 2:5\">1 Kin. 2:5</a>, <a class=\"bibleref\" href=\"/passage/?search=1Kgs 2:6\">6</a>, <a class=\"bibleref\" href=\"/passage/?search=1Kgs 2:28-1Kgs 2:35\">28–35</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,3,39" ],
+  "verses" : [ {
+    "verse" : "2samuel,3,39",
+    "text" : "And today, though I am the anointed king, I am weak, and these sons of Zeruiah are too strong for me. May the LORD repay the evildoer according to his evil deeds!\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,3,39",
     "id" : 187774,

@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "mark,14,22", "mark,14,23" ],
+  "verses" : [ {
+    "verse" : "mark,14,22",
+    "text" : "While they were eating, Jesus took bread, gave thanks and broke it, and gave it to his disciples, saying, \"Take it; this is my body.\""
+  }, {
+    "verse" : "mark,14,23",
+    "text" : "Then he took the cup, gave thanks and offered it to them, and they all drank from it."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,14,22",
     "id" : 196253,
@@ -7,7 +13,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 14:22\">14:22</a></b> <b>as they were eating.</b> The sacramental meal of the new covenant is intrinsically related to and grows out of that of the old (note the parallelism with <a class=\"bibleref\" href=\"/passage/?search=Exod 24:9-Exod 24:11\">Ex. 24:9–11</a>). Jesus takes two elements of the Passover meal, unleavened bread and wine, to express His new work of redemption. See “The Lord’s Supper” at <a class=\"bibleref\" href=\"/passage/?search=1Cor 11:23\">1 Cor. 11:23</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,14,24" ],
+  "verses" : [ {
+    "verse" : "mark,14,24",
+    "text" : "\"This is my blood of the covenant, which is poured out for many,\" he said to them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,14,24",
     "id" : 196254,
@@ -15,7 +24,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 14:24\">14:24</a></b> <b>my blood.</b> In the original Passover the blood of the lamb protected the Israelites from death (<a class=\"bibleref\" href=\"/passage/?search=Exod 12:23\">Ex. 12:23</a>, <a class=\"bibleref\" href=\"/passage/?search=Exod 12:30\">30</a>). The phrase “blood of the covenant” comes from <a class=\"bibleref\" href=\"/passage/?search=Exod 24:8\">Ex. 24:8</a>, and recalls that biblical covenants are sealed in blood (<a class=\"bibleref\" href=\"/passage/?search=Gen 15:9-Gen 15:21\">Gen. 15:9–21</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 17:9-Gen 17:14\">17:9–14</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 24:4-Exod 24:8\">Ex. 24:4–8</a>).</p><p><b>poured out for many.</b> Jesus is alluding to <a class=\"bibleref\" href=\"/passage/?search=Isa 53:12\">Is. 53:12</a> where the Servant of the Lord “poured out His soul to death” and “bore the sin of many.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,14,25" ],
+  "verses" : [ {
+    "verse" : "mark,14,25",
+    "text" : "\"I tell you the truth, I will not drink again of the fruit of the vine until that day when I drink it anew in the kingdom of God.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,14,25",
     "id" : 196255,
@@ -23,7 +35,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 14:25\">14:25</a></b> <b>I will not drink.</b> Jesus is hereby predicting the imminence of His death.</p><p><b>drink it new.</b> Jesus expresses His faith in God who will not abandon Him in death.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,14,26", "mark,14,27" ],
+  "verses" : [ {
+    "verse" : "mark,14,26",
+    "text" : "When they had sung a hymn, they went out to the Mount of Olives."
+  }, {
+    "verse" : "mark,14,27",
+    "text" : "\"You will all fall away,\" Jesus told them, \"for it is written: \"'I will strike the shepherd, and the sheep will be scattered.'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,14,26",
     "id" : 196256,
@@ -31,7 +49,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 14:26\">14:26</a></b> <b>sung a hymn.</b> This mention of singing is a reference to the Passover liturgy. Jesus and His disciples sing <a class=\"bibleref\" href=\"/passage/?search=Ps 115-Ps 118\">Ps. 115–118</a>, the traditional close of the meal.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,14,28", "mark,14,29" ],
+  "verses" : [ {
+    "verse" : "mark,14,28",
+    "text" : "But after I have risen, I will go ahead of you into Galilee.\""
+  }, {
+    "verse" : "mark,14,29",
+    "text" : "Peter declared, \"Even if all fall away, I will not.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,14,28",
     "id" : 196257,
@@ -39,7 +63,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 14:28\">14:28</a></b> <b>to Galilee.</b> The angel at the tomb remembers this promise and alludes to Peter’s denial (<a class=\"bibleref\" href=\"/passage/?search=Mark 16:7\">16:7</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,14,30", "mark,14,31", "mark,14,32" ],
+  "verses" : [ {
+    "verse" : "mark,14,30",
+    "text" : "\"I tell you the truth,\" Jesus answered, \"today--yes, tonight--before the rooster crows twice you yourself will disown me three times.\""
+  }, {
+    "verse" : "mark,14,31",
+    "text" : "But Peter insisted emphatically, \"Even if I have to die with you, I will never disown you.\" And all the others said the same."
+  }, {
+    "verse" : "mark,14,32",
+    "text" : "They went to a place called Gethsemane, and Jesus said to his disciples, \"Sit here while I pray.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,14,30",
     "id" : 196258,
@@ -47,7 +80,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 14:30\">14:30</a></b> <b>before the rooster crows twice.</b> For other examples of Jesus’ knowledge of future events, see note on <a class=\"bibleref\" href=\"/passage/?search=Mark 14:13\">v. 13</a>. The seemingly specific reference could also be a poetic way of saying “before dawn.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,14,33", "mark,14,34", "mark,14,35" ],
+  "verses" : [ {
+    "verse" : "mark,14,33",
+    "text" : "He took Peter, James and John along with him, and he began to be deeply distressed and troubled."
+  }, {
+    "verse" : "mark,14,34",
+    "text" : "\"My soul is overwhelmed with sorrow to the point of death,\" he said to them. \"Stay here and keep watch.\""
+  }, {
+    "verse" : "mark,14,35",
+    "text" : "Going a little farther, he fell to the ground and prayed that if possible the hour might pass from him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,14,33",
     "id" : 196259,
@@ -55,7 +97,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 14:33\">14:33</a></b> <b>Peter and James and John.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Mark 5:37\">5:37</a>.</p><p><b>troubled.</b> This verb is unique to Mark, and each time expresses deep emotional distress (<a class=\"bibleref\" href=\"/passage/?search=Mark 9:15\">9:15</a>; <a class=\"bibleref\" href=\"/passage/?search=Mark 16:5\">16:5</a>, <a class=\"bibleref\" href=\"/passage/?search=Mark 16:6\">6</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,14,36" ],
+  "verses" : [ {
+    "verse" : "mark,14,36",
+    "text" : "\"Abba, Father,\" he said, \"everything is possible for you. Take this cup from me. Yet not what I will, but what you will.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,14,36",
     "id" : 196260,
@@ -63,7 +108,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 14:36\">14:36</a></b> <b>Abba.</b> A colloquial Aramaic word for “father,” which expresses Jesus’ close relation with God the Father. Mark records the Semitic word (<a class=\"bibleref\" href=\"/passage/?search=Mark 5:41\">5:41</a>; <a class=\"bibleref\" href=\"/passage/?search=Mark 7:34\">7:34</a>; <a class=\"bibleref\" href=\"/passage/?search=Mark 11:9\">11:9</a>; <a class=\"bibleref\" href=\"/passage/?search=Mark 14:45\">14:45</a>; <a class=\"bibleref\" href=\"/passage/?search=Mark 15:22\">15:22</a>, <a class=\"bibleref\" href=\"/passage/?search=Mark 15:34\">34</a>).</p><p><b>cup.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Mark 10:38\">10:38</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,14,37" ],
+  "verses" : [ {
+    "verse" : "mark,14,37",
+    "text" : "Then he returned to his disciples and found them sleeping. \"Simon,\" he said to Peter, \"are you asleep? Could you not keep watch for one hour?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,14,37",
     "id" : 196261,
@@ -71,7 +119,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 14:37\">14:37</a></b> <b>one hour.</b> In spite of noble intentions (<a class=\"bibleref\" href=\"/passage/?search=Mark 14:29\">14:29</a>, <a class=\"bibleref\" href=\"/passage/?search=Mark 14:31\">31</a>), Peter is incapable of one hour of true discipleship.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,14,38", "mark,14,39", "mark,14,40", "mark,14,41", "mark,14,42" ],
+  "verses" : [ {
+    "verse" : "mark,14,38",
+    "text" : "Watch and pray so that you will not fall into temptation. The spirit is willing, but the body is weak.\""
+  }, {
+    "verse" : "mark,14,39",
+    "text" : "Once more he went away and prayed the same thing."
+  }, {
+    "verse" : "mark,14,40",
+    "text" : "When he came back, he again found them sleeping, because their eyes were heavy. They did not know what to say to him."
+  }, {
+    "verse" : "mark,14,41",
+    "text" : "Returning the third time, he said to them, \"Are you still sleeping and resting? Enough! The hour has come. Look, the Son of Man is betrayed into the hands of sinners."
+  }, {
+    "verse" : "mark,14,42",
+    "text" : "Rise! Let us go! Here comes my betrayer!\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,14,38",
     "id" : 196262,
@@ -79,7 +142,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 14:38\">14:38</a></b> <b>Watch.</b> This exhortation recalls the warning of <a class=\"bibleref\" href=\"/passage/?search=Mark 13:32-Mark 13:37\">13:32–37</a> to watch and not fall asleep before the coming of the Son of Man. “Temptation” is the trap of Satan to cause God’s people (in this case the Twelve) to fall and, if possible, to bring to nothing the plan of redemption.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,14,43" ],
+  "verses" : [ {
+    "verse" : "mark,14,43",
+    "text" : "Just as he was speaking, Judas, one of the Twelve, appeared. With him was a crowd armed with swords and clubs, sent from the chief priests, the teachers of the law, and the elders."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,14,43",
     "id" : 196263,
@@ -87,7 +153,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 14:43\">14:43</a></b> <b>crowd.</b> Probably a force sent by the Sanhedrin since the three categories of members of that body are mentioned (<a class=\"bibleref\" href=\"/passage/?search=Mark 14:53\">v. 53</a>; <a class=\"bibleref\" href=\"/passage/?search=Mark 8:31\">8:31</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,14,44", "mark,14,45", "mark,14,46", "mark,14,47" ],
+  "verses" : [ {
+    "verse" : "mark,14,44",
+    "text" : "Now the betrayer had arranged a signal with them: \"The one I kiss is the man; arrest him and lead him away under guard.\""
+  }, {
+    "verse" : "mark,14,45",
+    "text" : "Going at once to Jesus, Judas said, \"Rabbi!\" and kissed him."
+  }, {
+    "verse" : "mark,14,46",
+    "text" : "The men seized Jesus and arrested him."
+  }, {
+    "verse" : "mark,14,47",
+    "text" : "Then one of those standing near drew his sword and struck the servant of the high priest, cutting off his ear."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,14,44",
     "id" : 196264,
@@ -95,7 +173,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 14:44\">14:44</a></b> <b>kiss.</b> A sign of respect that disciples showed to teachers. After eating from the same dish (<a class=\"bibleref\" href=\"/passage/?search=Mark 14:20\">v. 20</a> note) Judas now feigns submission and respect.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,14,48" ],
+  "verses" : [ {
+    "verse" : "mark,14,48",
+    "text" : "\"Am I leading a rebellion,\" said Jesus, \"that you have come out with swords and clubs to capture me?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,14,48",
     "id" : 196265,
@@ -103,7 +184,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 14:48\">14:48</a></b> <b>as against a robber.</b> The Greek can mean either “robber” or “insurrectionist,” but in view of the charges brought against Jesus at His trial (<a class=\"bibleref\" href=\"/passage/?search=Luke 23:2\">Luke 23:2</a>), “insurrectionist” is better.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,14,49", "mark,14,50" ],
+  "verses" : [ {
+    "verse" : "mark,14,49",
+    "text" : "Every day I was with you, teaching in the temple courts, and you did not arrest me. But the Scriptures must be fulfilled.\""
+  }, {
+    "verse" : "mark,14,50",
+    "text" : "Then everyone deserted him and fled."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,14,49",
     "id" : 196266,
@@ -111,7 +198,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 14:49\">14:49</a></b> <b>let the Scriptures be fulfilled.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Mark 8:31\">8:31</a>. In view of v. 50, the passage Jesus had in mind may be <a class=\"bibleref\" href=\"/passage/?search=Zech 13:7\">Zech. 13:7</a> (see v. 27).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,14,51", "mark,14,52" ],
+  "verses" : [ {
+    "verse" : "mark,14,51",
+    "text" : "A young man, wearing nothing but a linen garment, was following Jesus. When they seized him,"
+  }, {
+    "verse" : "mark,14,52",
+    "text" : "he fled naked, leaving his garment behind."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,14,51",
     "id" : 196267,

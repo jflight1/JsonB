@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,12,19" ],
+  "verses" : [ {
+    "verse" : "proverbs,12,19",
+    "text" : "Truthful lips endure forever, but a lying tongue lasts only a moment."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 12:18\">12:18</a>, <a class=\"bibleref\" href=\"/passage/?search=Prov 12:19\">19</a></b> These two proverbs may have been placed with <a class=\"bibleref\" href=\"/passage/?search=Prov 12:17\">v. 17</a> because they enlarge on the same theme. Verse 18 considers the effects of words on our relationships with others, while <a class=\"bibleref\" href=\"/passage/?search=Prov 12:19\">v. 19</a> considers the strength of truth compared with the weakness of lies that inevitably give themselves away (cf. <a class=\"bibleref\" href=\"/passage/?search=Prov 12:13\">v. 13</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,12,20" ],
+  "verses" : [ {
+    "verse" : "proverbs,12,20",
+    "text" : "There is deceit in the hearts of those who plot evil, but joy for those who promote peace."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,12,20",
     "id" : 191915,

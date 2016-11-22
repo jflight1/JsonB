@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,24,13" ],
+  "verses" : [ {
+    "verse" : "proverbs,24,13",
+    "text" : "Eat honey, my son, for it is good; honey from the comb is sweet to your taste."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,22,17-proverbs,24,22",
     "id" : 192162,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 24:13\">24:13</a></b> <b>eat honey.</b> This mention of honey is not merely a metaphor. Good food, a part of the prosperous life, is a concern of wisdom (<a class=\"bibleref\" href=\"/passage/?search=Prov 25:16\">25:16</a>; <a class=\"bibleref\" href=\"/passage/?search=Eccl 9:7\">Eccl. 9:7</a>, <a class=\"bibleref\" href=\"/passage/?search=Eccl 9:8\">8</a>; <a class=\"bibleref\" href=\"/passage/?search=Song 5:1\">Song 5:1</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,24,14" ],
+  "verses" : [ {
+    "verse" : "proverbs,24,14",
+    "text" : "Know also that wisdom is sweet to your soul; if you find it, there is a future hope for you, and your hope will not be cut off."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,24,14",
     "id" : 192215,

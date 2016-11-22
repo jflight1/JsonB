@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "1chronicles,12,19" ],
+  "verses" : [ {
+    "verse" : "1chronicles,12,19",
+    "text" : "Some of the men of Manasseh defected to David when he went with the Philistines to fight against Saul. (He and his men did not help the Philistines because, after consultation, their rulers sent him away. They said, \"It will cost us our heads if he deserts to his master Saul.\")"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,12,8-1chronicles,12,19",
     "id" : 189034,
@@ -12,7 +15,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 12:19\">12:19</a></b> <b>he did not help them.</b> While significantly abbreviating the account of <a class=\"bibleref\" href=\"/passage/?search=1Sam 29\">1 Sam. 29</a>, the writer is clear that David did not fight against his fellow Israelites.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,12,20", "1chronicles,12,21" ],
+  "verses" : [ {
+    "verse" : "1chronicles,12,20",
+    "text" : "When David went to Ziklag, these were the men of Manasseh who defected to him: Adnah, Jozabad, Jediael, Michael, Jozabad, Elihu and Zillethai, leaders of units of a thousand in Manasseh."
+  }, {
+    "verse" : "1chronicles,12,21",
+    "text" : "They helped David against raiding bands, for all of them were brave warriors, and they were commanders in his army."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,12,20",
     "id" : 189039,
@@ -20,7 +29,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 12:20\">12:20</a></b> <b>Ziklag.</b> David received further support at Ziklag (<a class=\"bibleref\" href=\"/passage/?search=1Chr 12:8-1Chr 12:19\">12:8–19</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,12,22" ],
+  "verses" : [ {
+    "verse" : "1chronicles,12,22",
+    "text" : "Day after day men came to help David, until he had a great army, like the army of God."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,12,22",
     "id" : 189040,
@@ -28,7 +40,52 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 12:22\">12:22</a></b> <b>like an army of God.</b> The writer gives high praise to David’s army by comparing it to the innumerable heavenly army.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,12,23", "1chronicles,12,24", "1chronicles,12,25", "1chronicles,12,26", "1chronicles,12,27", "1chronicles,12,28", "1chronicles,12,29", "1chronicles,12,30", "1chronicles,12,31", "1chronicles,12,32", "1chronicles,12,33", "1chronicles,12,34", "1chronicles,12,35", "1chronicles,12,36", "1chronicles,12,37" ],
+  "verses" : [ {
+    "verse" : "1chronicles,12,23",
+    "text" : "These are the numbers of the men armed for battle who came to David at Hebron to turn Saul's kingdom over to him, as the LORD had said:"
+  }, {
+    "verse" : "1chronicles,12,24",
+    "text" : "men of Judah, carrying shield and spear-6,800 armed for battle;"
+  }, {
+    "verse" : "1chronicles,12,25",
+    "text" : "men of Simeon, warriors ready for battle-7,100;"
+  }, {
+    "verse" : "1chronicles,12,26",
+    "text" : "men of Levi-4,600,"
+  }, {
+    "verse" : "1chronicles,12,27",
+    "text" : "including Jehoiada, leader of the family of Aaron, with 3,700 men,"
+  }, {
+    "verse" : "1chronicles,12,28",
+    "text" : "and Zadok, a brave young warrior, with 22 officers from his family;"
+  }, {
+    "verse" : "1chronicles,12,29",
+    "text" : "men of Benjamin, Saul's kinsmen-3,000, most of whom had remained loyal to Saul's house until then;"
+  }, {
+    "verse" : "1chronicles,12,30",
+    "text" : "men of Ephraim, brave warriors, famous in their own clans-20,800;"
+  }, {
+    "verse" : "1chronicles,12,31",
+    "text" : "men of half the tribe of Manasseh, designated by name to come and make David king-18,000;"
+  }, {
+    "verse" : "1chronicles,12,32",
+    "text" : "men of Issachar, who understood the times and knew what Israel should do-200 chiefs, with all their relatives under their command;"
+  }, {
+    "verse" : "1chronicles,12,33",
+    "text" : "men of Zebulun, experienced soldiers prepared for battle with every type of weapon, to help David with undivided loyalty-50,000;"
+  }, {
+    "verse" : "1chronicles,12,34",
+    "text" : "men of Naphtali-1,000 officers, together with 37,000 men carrying shields and spears;"
+  }, {
+    "verse" : "1chronicles,12,35",
+    "text" : "men of Dan, ready for battle-28,600;"
+  }, {
+    "verse" : "1chronicles,12,36",
+    "text" : "men of Asher, experienced soldiers prepared for battle-40,000;"
+  }, {
+    "verse" : "1chronicles,12,37",
+    "text" : "and from east of the Jordan, men of Reuben, Gad and the half-tribe of Manasseh, armed with every type of weapon-120,000."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,12,23",
     "id" : 189041,
@@ -36,7 +93,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 12:23\">12:23</a></b> <b>Hebron.</b> David found other supporters at Hebron, with representatives coming from each tribe. The numbers appear very high. Several explanations of these large numbers are possible. The Hebrew word translated “thousand” may be a technical term referring to a military unit of considerably smaller size. In that case, <a class=\"bibleref\" href=\"/passage/?search=1Chr 12:24\">v. 24</a> would read “men of Judah, carrying shield and spear, six units with eight hundred armed for war.” Second, the Hebrew consonants translated “thousand” could also be read with other vowel points, to mean “chiefs.” On this account, <a class=\"bibleref\" href=\"/passage/?search=1Chr 12:24\">v. 24</a> would read “six chiefs with eight hundred armed for war.” Finally, it is possible that there is a figurative or rhetorical exaggeration (<a class=\"bibleref\" href=\"/passage/?search=1Chr 12:22\">12:22</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,12,38", "1chronicles,12,39", "1chronicles,12,40" ],
+  "verses" : [ {
+    "verse" : "1chronicles,12,38",
+    "text" : "All these were fighting men who volunteered to serve in the ranks. They came to Hebron fully determined to make David king over all Israel. All the rest of the Israelites were also of one mind to make David king."
+  }, {
+    "verse" : "1chronicles,12,39",
+    "text" : "The men spent three days there with David, eating and drinking, for their families had supplied provisions for them."
+  }, {
+    "verse" : "1chronicles,12,40",
+    "text" : "Also, their neighbors from as far away as Issachar, Zebulun and Naphtali came bringing food on donkeys, camels, mules and oxen. There were plentiful supplies of flour, fig cakes, raisin cakes, wine, oil, cattle and sheep, for there was joy in Israel."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,12,38-1chronicles,12,40",
     "id" : 189042,
@@ -49,7 +115,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 12:38\">12:38</a></b> <b>all Israel.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Chr 11:1\">11:1</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,13,1" ],
+  "verses" : [ {
+    "verse" : "1chronicles,13,1",
+    "text" : "David conferred with each of his officers, the commanders of thousands and commanders of hundreds."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,13,1-1chronicles,29,30",
     "id" : 189044,
@@ -62,7 +131,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 13:1-1Chr 13:4\">13:1–4</a></b> This introduction does not appear in <a class=\"bibleref\" href=\"/passage/?search=2Sam 5\">2 Sam. 5</a> and <a class=\"bibleref\" href=\"/passage/?search=2Sam 6\">6</a>. It focuses on the support of “all the assembly” for worship centralized at Jerusalem (13:4–8; also 11:1 note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,13,2" ],
+  "verses" : [ {
+    "verse" : "1chronicles,13,2",
+    "text" : "He then said to the whole assembly of Israel, \"If it seems good to you and if it is the will of the LORD our God, let us send word far and wide to the rest of our brothers throughout the territories of Israel, and also to the priests and Levites who are with them in their towns and pasturelands, to come and join us."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,13,2",
     "id" : 189046,
@@ -70,7 +142,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 13:2\">13:2</a></b> <b>good to you . . . from the <span class=\"small-caps\">Lord.</span></b> The harmony between David and the people as they seek to obey God is a model for the returned exiles (<a class=\"bibleref\" href=\"/passage/?search=2Chr 30:4\">2 Chr. 30:4</a>, <a class=\"bibleref\" href=\"/passage/?search=2Chr 30:5\">5</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,13,3", "1chronicles,13,4", "1chronicles,13,5" ],
+  "verses" : [ {
+    "verse" : "1chronicles,13,3",
+    "text" : "Let us bring the ark of our God back to us, for we did not inquire of it during the reign of Saul.\""
+  }, {
+    "verse" : "1chronicles,13,4",
+    "text" : "The whole assembly agreed to do this, because it seemed right to all the people."
+  }, {
+    "verse" : "1chronicles,13,5",
+    "text" : "So David assembled all the Israelites, from the Shihor River in Egypt to Lebo Hamath, to bring the ark of God from Kiriath Jearim."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,13,3",
     "id" : 189047,
@@ -78,7 +159,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 13:3\">13:3</a></b> <b>we did not seek it.</b> The Chronicler contrasts David and Saul (<a class=\"bibleref\" href=\"/passage/?search=1Chr 11:2\">11:2</a>). David was concerned for the ark, while Saul neglected it.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,13,6" ],
+  "verses" : [ {
+    "verse" : "1chronicles,13,6",
+    "text" : "David and all the Israelites with him went to Baalah of Judah (Kiriath Jearim) to bring up from there the ark of God the LORD, who is enthroned between the cherubim-the ark that is called by the Name."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,13,6",
     "id" : 189048,
@@ -86,7 +170,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 13:6\">13:6</a></b> <b>called by the name.</b> The “name” of God indicates the nearness of God, the divine power dwelling in the temple and accessible through prayer and sacrifice (<a class=\"bibleref\" href=\"/passage/?search=1Chr 16:10\">16:10</a>; <a class=\"bibleref\" href=\"/passage/?search=1Chr 22:7\">22:7</a>, <a class=\"bibleref\" href=\"/passage/?search=1Chr 22:8\">8</a>, <a class=\"bibleref\" href=\"/passage/?search=1Chr 22:10\">10</a>, <a class=\"bibleref\" href=\"/passage/?search=1Chr 22:19\">19</a>; <a class=\"bibleref\" href=\"/passage/?search=1Chr 28:3\">28:3</a>; <a class=\"bibleref\" href=\"/passage/?search=1Chr 29:16\">29:16</a>; <a class=\"bibleref\" href=\"/passage/?search=2Chr 2:1\">2 Chr. 2:1</a>, <a class=\"bibleref\" href=\"/passage/?search=2Chr 2:4\">4</a>; <a class=\"bibleref\" href=\"/passage/?search=2Chr 6:5-2Chr 6:10\">6:5–10</a>, <a class=\"bibleref\" href=\"/passage/?search=2Chr 6:20\">20</a>, <a class=\"bibleref\" href=\"/passage/?search=2Chr 6:32-2Chr 6:38\">32–38</a>; <a class=\"bibleref\" href=\"/passage/?search=2Chr 7:16\">7:16</a>, <a class=\"bibleref\" href=\"/passage/?search=2Chr 7:20\">20</a>; <a class=\"bibleref\" href=\"/passage/?search=2Chr 12:13\">12:13</a>; <a class=\"bibleref\" href=\"/passage/?search=2Chr 20:8\">20:8</a>, <a class=\"bibleref\" href=\"/passage/?search=2Chr 20:9\">9</a>; <a class=\"bibleref\" href=\"/passage/?search=2Chr 33:4\">33:4</a>, <a class=\"bibleref\" href=\"/passage/?search=2Chr 33:7\">7</a>). The New Testament teaches Christians to pray “in the name” of Jesus, meaning “by authority of” Jesus (<a class=\"bibleref\" href=\"/passage/?search=John 12:28\">John 12:28</a>; <a class=\"bibleref\" href=\"/passage/?search=John 14:13\">14:13</a>, <a class=\"bibleref\" href=\"/passage/?search=John 14:14\">14</a>; <a class=\"bibleref\" href=\"/passage/?search=John 16:24\">16:24</a>).</p><p><b>who sits enthroned above the cherubim.</b> The ark of the covenant represented the presence of God among His people.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,13,7" ],
+  "verses" : [ {
+    "verse" : "1chronicles,13,7",
+    "text" : "They moved the ark of God from Abinadab's house on a new cart, with Uzzah and Ahio guiding it."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,13,7",
     "id" : 189049,
@@ -94,7 +181,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 13:7\">13:7</a></b> <b>on a new cart.</b> The Israelites did not observe the law of God about transporting the ark with poles on the priests’ shoulders (<a class=\"bibleref\" href=\"/passage/?search=Exod 25:12-Exod 25:15\">Ex. 25:12–15</a>). Instead, they handled it with disregard for the holiness of God and the divine regulation of worship (15:2, 11–15).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,13,8", "1chronicles,13,9" ],
+  "verses" : [ {
+    "verse" : "1chronicles,13,8",
+    "text" : "David and all the Israelites were celebrating with all their might before God, with songs and with harps, lyres, tambourines, cymbals and trumpets."
+  }, {
+    "verse" : "1chronicles,13,9",
+    "text" : "When they came to the threshing floor of Kidon, Uzzah reached out his hand to steady the ark, because the oxen stumbled."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,13,8",
     "id" : 189050,
@@ -102,7 +195,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 13:8\">13:8</a></b> <b>rejoicing before God.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Chr 15:16\">15:16</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,13,10" ],
+  "verses" : [ {
+    "verse" : "1chronicles,13,10",
+    "text" : "The LORD's anger burned against Uzzah, and he struck him down because he had put his hand on the ark. So he died there before God."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,13,10",
     "id" : 189051,
@@ -110,7 +206,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 13:10\">13:10</a></b> <b>he struck him.</b> Uzzah demonstrated a disregard for the sanctity of worship by touching the ark (<a class=\"bibleref\" href=\"/passage/?search=Num 4:15\">Num. 4:15</a>). Although seemingly a minor offense, Uzzah’s violation involved carelessness for the holiness of God, which called for judgment that would be a warning to all (v. 7 note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,13,11", "1chronicles,13,12" ],
+  "verses" : [ {
+    "verse" : "1chronicles,13,11",
+    "text" : "Then David was angry because the LORD's wrath had broken out against Uzzah, and to this day that place is called Perez Uzzah."
+  }, {
+    "verse" : "1chronicles,13,12",
+    "text" : "David was afraid of God that day and asked, \"How can I ever bring the ark of God to me?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,13,11",
     "id" : 189052,
@@ -118,7 +220,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 13:11\">13:11</a></b> <b>to this day.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Chr 4:41\">4:41</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,13,13", "1chronicles,13,14" ],
+  "verses" : [ {
+    "verse" : "1chronicles,13,13",
+    "text" : "He did not take the ark to be with him in the City of David. Instead, he took it aside to the house of Obed-Edom the Gittite."
+  }, {
+    "verse" : "1chronicles,13,14",
+    "text" : "The ark of God remained with the family of Obed-Edom in his house for three months, and the LORD blessed his household and everything he had."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,13,13",
     "id" : 189053,
@@ -126,7 +234,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 13:13\">13:13</a></b> <b>Obed-edom.</b> A Levite (<a class=\"bibleref\" href=\"/passage/?search=1Chr 15:18\">15:18</a>, <a class=\"bibleref\" href=\"/passage/?search=1Chr 15:21\">21</a>, <a class=\"bibleref\" href=\"/passage/?search=1Chr 15:24\">24</a>) who was blessed with many sons (<a class=\"bibleref\" href=\"/passage/?search=1Chr 26:4\">26:4</a>, <a class=\"bibleref\" href=\"/passage/?search=1Chr 26:5\">5</a>) presumably because he cared properly for the ark. Chronicles often mentions numerous children as a sign of divine approval and blessing (<a class=\"bibleref\" href=\"/passage/?search=1Chr 14:3\">14:3</a>; <a class=\"bibleref\" href=\"/passage/?search=2Chr 11:18-2Chr 11:23\">2 Chr. 11:18–23</a>; <a class=\"bibleref\" href=\"/passage/?search=2Chr 13:21\">13:21</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,14,1" ],
+  "verses" : [ {
+    "verse" : "1chronicles,14,1",
+    "text" : "Now Hiram king of Tyre sent messengers to David, along with cedar logs, stonemasons and carpenters to build a palace for him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,14,1",
     "id" : 189054,
@@ -134,7 +245,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 14:1\">14:1</a></b> This account illustrates that despite David’s failure (<a class=\"bibleref\" href=\"/passage/?search=1Chr 13\">ch. 13</a>), God established and blessed him. Three items appear: palace preparations (<a class=\"bibleref\" href=\"/passage/?search=1Chr 14:1\">14:1</a>, <a class=\"bibleref\" href=\"/passage/?search=1Chr 14:2\">2</a>), David’s children in Jerusalem (<a class=\"bibleref\" href=\"/passage/?search=1Chr 14:3-1Chr 14:7\">14:3–7</a>), and David’s victory over the Philistines (<a class=\"bibleref\" href=\"/passage/?search=1Chr 14:8-1Chr 14:17\">14:8–17</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,14,2", "1chronicles,14,3", "1chronicles,14,4", "1chronicles,14,5", "1chronicles,14,6", "1chronicles,14,7" ],
+  "verses" : [ {
+    "verse" : "1chronicles,14,2",
+    "text" : "And David knew that the LORD had established him as king over Israel and that his kingdom had been highly exalted for the sake of his people Israel."
+  }, {
+    "verse" : "1chronicles,14,3",
+    "text" : "In Jerusalem David took more wives and became the father of more sons and daughters."
+  }, {
+    "verse" : "1chronicles,14,4",
+    "text" : "These are the names of the children born to him there: Shammua, Shobab, Nathan, Solomon,"
+  }, {
+    "verse" : "1chronicles,14,5",
+    "text" : "Ibhar, Elishua, Elpelet,"
+  }, {
+    "verse" : "1chronicles,14,6",
+    "text" : "Nogah, Nepheg, Japhia,"
+  }, {
+    "verse" : "1chronicles,14,7",
+    "text" : "Elishama, Beeliada and Eliphelet."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,14,2",
     "id" : 189055,
@@ -142,7 +271,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 14:2\">14:2</a></b> <b>the <span class=\"small-caps\">Lord</span> had established . . . exalted for the sake of his people.</b> David recognized that the establishment of his kingdom was a blessing for the people. Following their exile in Babylon, readers would be encouraged by these remarks in their hope for a new Davidic king (<a class=\"bibleref\" href=\"/passage/?search=2Chr 2:11\">2 Chr. 2:11</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,14,8", "1chronicles,14,9", "1chronicles,14,10", "1chronicles,14,11" ],
+  "verses" : [ {
+    "verse" : "1chronicles,14,8",
+    "text" : "When the Philistines heard that David had been anointed king over all Israel, they went up in full force to search for him, but David heard about it and went out to meet them."
+  }, {
+    "verse" : "1chronicles,14,9",
+    "text" : "Now the Philistines had come and raided the Valley of Rephaim;"
+  }, {
+    "verse" : "1chronicles,14,10",
+    "text" : "so David inquired of God: \"Shall I go and attack the Philistines? Will you hand them over to me?\" The LORD answered him, \"Go, I will hand them over to you.\""
+  }, {
+    "verse" : "1chronicles,14,11",
+    "text" : "So David and his men went up to Baal Perazim, and there he defeated them. He said, \"As waters break out, God has broken out against my enemies by my hand.\" So that place was called Baal Perazim."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,14,8-1chronicles,14,12",
     "id" : 189056,
@@ -155,7 +296,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 14:8\">14:8</a></b> <b>all Israel.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Chr 11:1\">11:1</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,14,12", "1chronicles,14,13", "1chronicles,14,14", "1chronicles,14,15", "1chronicles,14,16" ],
+  "verses" : [ {
+    "verse" : "1chronicles,14,12",
+    "text" : "The Philistines had abandoned their gods there, and David gave orders to burn them in the fire."
+  }, {
+    "verse" : "1chronicles,14,13",
+    "text" : "Once more the Philistines raided the valley;"
+  }, {
+    "verse" : "1chronicles,14,14",
+    "text" : "so David inquired of God again, and God answered him, \"Do not go straight up, but circle around them and attack them in front of the balsam trees."
+  }, {
+    "verse" : "1chronicles,14,15",
+    "text" : "As soon as you hear the sound of marching in the tops of the balsam trees, move out to battle, because that will mean God has gone out in front of you to strike the Philistine army.\""
+  }, {
+    "verse" : "1chronicles,14,16",
+    "text" : "So David did as God commanded him, and they struck down the Philistine army, all the way from Gibeon to Gezer."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,14,12",
     "id" : 189058,
@@ -163,7 +319,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 14:12\">14:12</a></b> <b>they were burned.</b> David followed Mosaic regulations in these actions (<a class=\"bibleref\" href=\"/passage/?search=Deut 7:5\">Deut. 7:5</a>, <a class=\"bibleref\" href=\"/passage/?search=Deut 7:25\">25</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,14,17" ],
+  "verses" : [ {
+    "verse" : "1chronicles,14,17",
+    "text" : "So David's fame spread throughout every land, and the LORD made all the nations fear him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,14,17",
     "id" : 189059,

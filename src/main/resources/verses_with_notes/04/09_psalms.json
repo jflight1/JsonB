@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "psalms,78,65", "psalms,78,66" ],
+  "verses" : [ {
+    "verse" : "psalms,78,65",
+    "text" : "Then the Lord awoke as from sleep, as a man wakes from the stupor of wine."
+  }, {
+    "verse" : "psalms,78,66",
+    "text" : "He beat back his enemies; he put them to everlasting shame."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,78,65",
     "id" : 190926,
@@ -7,7 +13,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 78:65\">78:65</a></b> <b>as from sleep.</b> God had left Israel temporarily and seemed to be asleep. An unusual figure of speech explains how He began to act.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,78,67" ],
+  "verses" : [ {
+    "verse" : "psalms,78,67",
+    "text" : "Then he rejected the tents of Joseph, he did not choose the tribe of Ephraim;"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,78,67",
     "id" : 190927,
@@ -15,7 +24,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 78:67\">78:67</a></b> <b>He rejected.</b> The rejection of the tribe of Ephraim refers to the abandonment of the Shiloh sanctuary, and perhaps also the rejection of Saul’s monarchy.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,78,68", "psalms,78,69" ],
+  "verses" : [ {
+    "verse" : "psalms,78,68",
+    "text" : "but he chose the tribe of Judah, Mount Zion, which he loved."
+  }, {
+    "verse" : "psalms,78,69",
+    "text" : "He built his sanctuary like the heights, like the earth that he established forever."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,78,68",
     "id" : 190928,
@@ -23,7 +38,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 78:68\">78:68</a></b> <b>but he chose the tribe of Judah.</b> Jerusalem succeeded Shiloh as the designated location for the worship of God.</p><p><b>Mount Zion.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Ps 2:6\">Ps. 2:6</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,78,70", "psalms,78,71" ],
+  "verses" : [ {
+    "verse" : "psalms,78,70",
+    "text" : "He chose David his servant and took him from the sheep pens;"
+  }, {
+    "verse" : "psalms,78,71",
+    "text" : "from tending the sheep he brought him to be the shepherd of his people Jacob, of Israel his inheritance."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,78,70",
     "id" : 190929,
@@ -31,7 +52,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 78:70\">78:70</a></b> <b>sheepfolds.</b> This verse recalls David’s humble origins (<a class=\"bibleref\" href=\"/passage/?search=1Sam 16:11-1Sam 16:13\">1 Sam. 16:11–13</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,78,72" ],
+  "verses" : [ {
+    "verse" : "psalms,78,72",
+    "text" : "And David shepherded them with integrity of heart; with skillful hands he led them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,78,72",
     "id" : 190930,

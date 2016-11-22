@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,30,17" ],
+  "verses" : [ {
+    "verse" : "proverbs,30,17",
+    "text" : "\"The eye that mocks a father, that scorns obedience to a mother, will be pecked out by the ravens of the valley, will be eaten by the vultures."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,30,15-proverbs,30,31",
     "id" : 192347,

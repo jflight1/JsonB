@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,14,1" ],
+  "verses" : [ {
+    "verse" : "proverbs,14,1",
+    "text" : "The wise woman builds her house, but with her own hands the foolish one tears hers down."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 14:1\">14:1</a></b> <b>wisest of women builds her house.</b> Note the verbal parallels with the personification of wisdom as a woman who builds her house in <a class=\"bibleref\" href=\"/passage/?search=Prov 9:1\">9:1</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,14,2" ],
+  "verses" : [ {
+    "verse" : "proverbs,14,2",
+    "text" : "He whose walk is upright fears the LORD, but he whose ways are devious despises him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,14,2",
     "id" : 191945,

@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "proverbs,29,26", "proverbs,29,27" ],
+  "verses" : [ {
+    "verse" : "proverbs,29,26",
+    "text" : "Many seek an audience with a ruler, but it is from the LORD that man gets justice."
+  }, {
+    "verse" : "proverbs,29,27",
+    "text" : "The righteous detest the dishonest; the wicked detest the upright."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,29,26",
     "id" : 192335,

@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "deuteronomy,18,1", "deuteronomy,18,2" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,18,1",
+    "text" : "The priests, who are Levites-indeed the whole tribe of Levi-are to have no allotment or inheritance with Israel. They shall live on the offerings made to the LORD by fire, for that is their inheritance."
+  }, {
+    "verse" : "deuteronomy,18,2",
+    "text" : "They shall have no inheritance among their brothers; the LORD is their inheritance, as he promised them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,12,1-deuteronomy,26,19",
     "id" : 186462,
@@ -12,7 +18,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 18:1\">18:1</a></b> <b>all the tribe of Levi.</b> Not only the priests, but the whole tribe of Levi, numbering twenty-three thousand, was to receive no inheritance (<a class=\"bibleref\" href=\"/passage/?search=Num 18:20\">Num. 18:20</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 26:62\">26:62</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 10:9\">Deut. 10:9</a>). This tribe would have no farms for livelihood, but would depend on the tithes and offerings of the people (vv. 3–5). Moses specifically allotted them forty-two cities, six of which would be cities of refuge (<a class=\"bibleref\" href=\"/passage/?search=Num 35:2-Num 35:8\">Num. 35:2–8</a>). In due time these cities were allocated by Joshua (<a class=\"bibleref\" href=\"/passage/?search=Josh 21\">Josh. 21</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,18,3", "deuteronomy,18,4", "deuteronomy,18,5", "deuteronomy,18,6", "deuteronomy,18,7", "deuteronomy,18,8" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,18,3",
+    "text" : "This is the share due the priests from the people who sacrifice a bull or a sheep: the shoulder, the jowls and the inner parts."
+  }, {
+    "verse" : "deuteronomy,18,4",
+    "text" : "You are to give them the firstfruits of your grain, new wine and oil, and the first wool from the shearing of your sheep,"
+  }, {
+    "verse" : "deuteronomy,18,5",
+    "text" : "for the LORD your God has chosen them and their descendants out of all your tribes to stand and minister in the LORD's name always."
+  }, {
+    "verse" : "deuteronomy,18,6",
+    "text" : "If a Levite moves from one of your towns anywhere in Israel where he is living, and comes in all earnestness to the place the LORD will choose,"
+  }, {
+    "verse" : "deuteronomy,18,7",
+    "text" : "he may minister in the name of the LORD his God like all his fellow Levites who serve there in the presence of the LORD."
+  }, {
+    "verse" : "deuteronomy,18,8",
+    "text" : "He is to share equally in their benefits, even though he has received money from the sale of family possessions."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,18,3",
     "id" : 186507,
@@ -20,7 +44,34 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 18:3\">18:3</a></b> <b>priests’ due.</b> In place of a land inheritance, and in recognition of their priestly duties, the priests had a right to specific portions of the animals offered for sacrifice. Later, this practice was sometimes abused by corrupt priests (<a class=\"bibleref\" href=\"/passage/?search=1Sam 2:12-1Sam 2:17\">1 Sam. 2:12–17</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,18,9", "deuteronomy,18,10", "deuteronomy,18,11", "deuteronomy,18,12", "deuteronomy,18,13", "deuteronomy,18,14", "deuteronomy,18,15", "deuteronomy,18,16", "deuteronomy,18,17" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,18,9",
+    "text" : "When you enter the land the LORD your God is giving you, do not learn to imitate the detestable ways of the nations there."
+  }, {
+    "verse" : "deuteronomy,18,10",
+    "text" : "Let no one be found among you who sacrifices his son or daughter in the fire, who practices divination or sorcery, interprets omens, engages in witchcraft,"
+  }, {
+    "verse" : "deuteronomy,18,11",
+    "text" : "or casts spells, or who is a medium or spiritist or who consults the dead."
+  }, {
+    "verse" : "deuteronomy,18,12",
+    "text" : "Anyone who does these things is detestable to the LORD, and because of these detestable practices the LORD your God will drive out those nations before you."
+  }, {
+    "verse" : "deuteronomy,18,13",
+    "text" : "You must be blameless before the LORD your God."
+  }, {
+    "verse" : "deuteronomy,18,14",
+    "text" : "The nations you will dispossess listen to those who practice sorcery or divination. But as for you, the LORD your God has not permitted you to do so."
+  }, {
+    "verse" : "deuteronomy,18,15",
+    "text" : "The LORD your God will raise up for you a prophet like me from among your own brothers. You must listen to him."
+  }, {
+    "verse" : "deuteronomy,18,16",
+    "text" : "For this is what you asked of the LORD your God at Horeb on the day of the assembly when you said, \"Let us not hear the voice of the LORD our God nor see this great fire anymore, or we will die.\""
+  }, {
+    "verse" : "deuteronomy,18,17",
+    "text" : "The LORD said to me: \"What they say is good."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,18,9",
     "id" : 186508,
@@ -28,7 +79,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 18:9\">18:9</a></b> <b>the abominable practices of those nations.</b> Anticipating the instructions regarding true and false prophecy in <a class=\"bibleref\" href=\"/passage/?search=Deut 18:19-Deut 18:22\">vv. 19–22</a>, Moses forbids all attempts to discern the future through occult, pagan means, as well as resorting to sorcery and witchcraft. The detestable character of these practices is underscored and cited as a reason for divine judgment upon the Canaanites (<a class=\"bibleref\" href=\"/passage/?search=Deut 18:9\">vv. 9</a>, <a class=\"bibleref\" href=\"/passage/?search=Deut 18:12\">12</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,18,18", "deuteronomy,18,19" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,18,18",
+    "text" : "I will raise up for them a prophet like you from among their brothers; I will put my words in his mouth, and he will tell them everything I command him."
+  }, {
+    "verse" : "deuteronomy,18,19",
+    "text" : "If anyone does not listen to my words that the prophet speaks in my name, I myself will call him to account."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,18,18",
     "id" : 186509,
@@ -36,7 +93,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 18:18\">18:18</a></b> Moses, the preeminent prophet of the Old Testament period, introduces the topic of Israelite prophecy. God would communicate His word to Israel through a succession of prophets. As mediators of God’s word to the people, the other Old Testament prophets would function in ways similar to Moses (<a class=\"bibleref\" href=\"/passage/?search=Deut 18:16\">v. 16</a>). But none would be the initial mediators of a covenant, and none would equal Moses’ intimacy with God or receive divine revelations as clear as those given to him (<a class=\"bibleref\" href=\"/passage/?search=Num 12:6-Num 12:8\">Num. 12:6–8</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 34:10\">Deut. 34:10</a>). This passage, then, finds final fulfillment in the Prophet who is equal to, indeed greater than, the prophet Moses—Jesus Christ (<a class=\"bibleref\" href=\"/passage/?search=Acts 3:22-Acts 3:26\">Acts 3:22–26</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 7:37\">7:37</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=John 5:45-John 5:47\">John 5:45–47</a>; <a class=\"bibleref\" href=\"/passage/?search=Heb 3:2-Heb 3:6\">Heb. 3:2–6</a>). Like Moses, Christ is the Mediator of a covenant between God and His people (<a class=\"bibleref\" href=\"/passage/?search=Luke 22:20\">Luke 22:20</a>; <a class=\"bibleref\" href=\"/passage/?search=Heb 8:7-Heb 8:13\">Heb. 8:7–13</a>). See theological note “Prophets.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,18,20", "deuteronomy,18,21", "deuteronomy,18,22", "deuteronomy,19,1" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,18,20",
+    "text" : "But a prophet who presumes to speak in my name anything I have not commanded him to say, or a prophet who speaks in the name of other gods, must be put to death.\""
+  }, {
+    "verse" : "deuteronomy,18,21",
+    "text" : "You may say to yourselves, \"How can we know when a message has not been spoken by the LORD?\""
+  }, {
+    "verse" : "deuteronomy,18,22",
+    "text" : "If what a prophet proclaims in the name of the LORD does not take place or come true, that is a message the LORD has not spoken. That prophet has spoken presumptuously. Do not be afraid of him."
+  }, {
+    "verse" : "deuteronomy,19,1",
+    "text" : "When the LORD your God has destroyed the nations whose land he is giving you, and when you have driven them out and settled in their towns and houses,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,18,20-deuteronomy,18,22",
     "id" : 186510,
@@ -44,7 +113,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 18:20-Deut 18:22\">18:20–22</a></b> Two means of discerning false prophets from true are given in Deuteronomy. The first is theological integrity—a true prophet will not teach error or lead the people astray (<a class=\"bibleref\" href=\"/passage/?search=Deut 18:20\">v. 20</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 13:1-Deut 13:5\">13:1–5</a>). The second is that his prophetic predictions of the future would come true (v. 22). See “The Authentication of Scripture” at <a class=\"bibleref\" href=\"/passage/?search=2Cor 4:6\">2 Cor. 4:6</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,19,2", "deuteronomy,19,3" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,19,2",
+    "text" : "then set aside for yourselves three cities centrally located in the land the LORD your God is giving you to possess."
+  }, {
+    "verse" : "deuteronomy,19,3",
+    "text" : "Build roads to them and divide into three parts the land the LORD your God is giving you as an inheritance, so that anyone who kills a man may flee there."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,19,2",
     "id" : 186511,
@@ -52,7 +127,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 19:2\">19:2</a></b> <b>three cities.</b> These cities of refuge were to be set aside in Canaan. The three cities of refuge for Transjordan had already been named and set aside. See <a class=\"bibleref\" href=\"/passage/?search=Deut 4:41-Deut 4:43\">4:41–43</a> for the sequence of establishing these cities.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,19,4", "deuteronomy,19,5", "deuteronomy,19,6", "deuteronomy,19,7", "deuteronomy,19,8" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,19,4",
+    "text" : "This is the rule concerning the man who kills another and flees there to save his life-one who kills his neighbor unintentionally, without malice aforethought."
+  }, {
+    "verse" : "deuteronomy,19,5",
+    "text" : "For instance, a man may go into the forest with his neighbor to cut wood, and as he swings his ax to fell a tree, the head may fly off and hit his neighbor and kill him. That man may flee to one of these cities and save his life."
+  }, {
+    "verse" : "deuteronomy,19,6",
+    "text" : "Otherwise, the avenger of blood might pursue him in a rage, overtake him if the distance is too great, and kill him even though he is not deserving of death, since he did it to his neighbor without malice aforethought."
+  }, {
+    "verse" : "deuteronomy,19,7",
+    "text" : "This is why I command you to set aside for yourselves three cities."
+  }, {
+    "verse" : "deuteronomy,19,8",
+    "text" : "If the LORD your God enlarges your territory, as he promised on oath to your forefathers, and gives you the whole land he promised them,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,19,4",
     "id" : 186512,
@@ -60,7 +150,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 19:4\">19:4</a></b> <b>If anyone kills his neighbor unintentionally.</b> The law of manslaughter is given first in <a class=\"bibleref\" href=\"/passage/?search=Exod 21:13\">Ex. 21:13</a>, then more fully in <a class=\"bibleref\" href=\"/passage/?search=Num 35:6-Num 35:28\">Num. 35:6–28</a>. This passage repeats some matters given in Numbers. Other regulations are added, such as the provision for building access roads to the cities of refuge. Also, this passage specifies three extra cities in Canaan if the nation’s territory is greatly enlarged. But it is plain in both Numbers and Deuteronomy that a man guilty of premeditated murder must die. The death penalty is grounded, not in disrespect for life, but in intense respect for the life of the innocent victim, made in the image of God (<a class=\"bibleref\" href=\"/passage/?search=Gen 9:6\">Gen. 9:6</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,19,9", "deuteronomy,19,10", "deuteronomy,19,11", "deuteronomy,19,12", "deuteronomy,19,13" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,19,9",
+    "text" : "because you carefully follow all these laws I command you today-to love the LORD your God and to walk always in his ways-then you are to set aside three more cities."
+  }, {
+    "verse" : "deuteronomy,19,10",
+    "text" : "Do this so that innocent blood will not be shed in your land, which the LORD your God is giving you as your inheritance, and so that you will not be guilty of bloodshed."
+  }, {
+    "verse" : "deuteronomy,19,11",
+    "text" : "But if a man hates his neighbor and lies in wait for him, assaults and kills him, and then flees to one of these cities,"
+  }, {
+    "verse" : "deuteronomy,19,12",
+    "text" : "the elders of his town shall send for him, bring him back from the city, and hand him over to the avenger of blood to die."
+  }, {
+    "verse" : "deuteronomy,19,13",
+    "text" : "Show him no pity. You must purge from Israel the guilt of shedding innocent blood, so that it may go well with you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,19,9",
     "id" : 186513,
@@ -68,7 +173,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 19:9\">19:9</a></b> <b>by loving . . . walking ever in his ways.</b> See <a class=\"bibleref\" href=\"/passage/?search=Deut 6:4\">6:4</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,19,14" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,19,14",
+    "text" : "Do not move your neighbor's boundary stone set up by your predecessors in the inheritance you receive in the land the LORD your God is giving you to possess."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,19,14",
     "id" : 186514,
@@ -76,7 +184,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 19:14\">19:14</a></b> <b>your neighbor’s landmark.</b> Though this verse has sometimes been misinterpreted to urge respect for ancient customs and beliefs, the term “landmark” actually refers to stones that served as boundary markers. This law was essential to prevent encroachment and theft of land (<a class=\"bibleref\" href=\"/passage/?search=Deut 27:17\">27:17</a>; <a class=\"bibleref\" href=\"/passage/?search=Prov 22:28\">Prov. 22:28</a>; <a class=\"bibleref\" href=\"/passage/?search=Prov 23:20\">23:20</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,19,15", "deuteronomy,19,16", "deuteronomy,19,17", "deuteronomy,19,18", "deuteronomy,19,19" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,19,15",
+    "text" : "One witness is not enough to convict a man accused of any crime or offense he may have committed. A matter must be established by the testimony of two or three witnesses."
+  }, {
+    "verse" : "deuteronomy,19,16",
+    "text" : "If a malicious witness takes the stand to accuse a man of a crime,"
+  }, {
+    "verse" : "deuteronomy,19,17",
+    "text" : "the two men involved in the dispute must stand in the presence of the LORD before the priests and the judges who are in office at the time."
+  }, {
+    "verse" : "deuteronomy,19,18",
+    "text" : "The judges must make a thorough investigation, and if the witness proves to be a liar, giving false testimony against his brother,"
+  }, {
+    "verse" : "deuteronomy,19,19",
+    "text" : "then do to him as he intended to do to his brother. You must purge the evil from among you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,19,15-deuteronomy,19,21",
     "id" : 186515,
@@ -89,7 +212,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 19:15\">19:15</a></b> <b>single witness.</b> See <a class=\"bibleref\" href=\"/passage/?search=Deut 17:6\">17:6</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,19,20" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,19,20",
+    "text" : "The rest of the people will hear of this and be afraid, and never again will such an evil thing be done among you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,19,20",
     "id" : 186517,
@@ -97,7 +223,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 19:20\">19:20</a></b> <b>fear.</b> See “The Three Purposes of the Law” at <a class=\"bibleref\" href=\"/passage/?search=Deut 13:10\">13:10</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,19,21" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,19,21",
+    "text" : "Show no pity: life for life, eye for eye, tooth for tooth, hand for hand, foot for foot."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,19,21",
     "id" : 186518,
@@ -105,7 +234,34 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 19:21\">19:21</a></b> <b>eye for eye.</b> Much argument has revolved about this verse. Some contend it is brutal and opposed to New Testament ideas of love and mercy. The phrase “eye for eye” occurs twice more in the Pentateuch (<a class=\"bibleref\" href=\"/passage/?search=Exod 21:24\">Ex. 21:24</a>; <a class=\"bibleref\" href=\"/passage/?search=Lev 24:20\">Lev. 24:20</a>). In each case, the verse is in a legal context; it is a principle of public justice—the penalty must fit the crime. There are indications that the term was not taken literally (<a class=\"bibleref\" href=\"/passage/?search=Exod 21:18\">Ex. 21:18</a>, <a class=\"bibleref\" href=\"/passage/?search=Exod 21:26\">26</a>, <a class=\"bibleref\" href=\"/passage/?search=Exod 21:27\">27</a>). The only physical penalty mentioned in the law is flogging, and that limited to forty strokes (<a class=\"bibleref\" href=\"/passage/?search=Deut 25:3\">Deut. 25:3</a>). Christ opposed those who used this verse as an excuse for personal vengeance (<a class=\"bibleref\" href=\"/passage/?search=Matt 5:38\">Matt. 5:38</a> note). See notes <a class=\"bibleref\" href=\"/passage/?search=Exod 21:24\">Ex. 21:24</a> and <a class=\"bibleref\" href=\"/passage/?search=Lev 24:20\">Lev. 24:20</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,20,1", "deuteronomy,20,2", "deuteronomy,20,3", "deuteronomy,20,4", "deuteronomy,20,5", "deuteronomy,20,6", "deuteronomy,20,7", "deuteronomy,20,8", "deuteronomy,20,9" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,20,1",
+    "text" : "When you go to war against your enemies and see horses and chariots and an army greater than yours, do not be afraid of them, because the LORD your God, who brought you up out of Egypt, will be with you."
+  }, {
+    "verse" : "deuteronomy,20,2",
+    "text" : "When you are about to go into battle, the priest shall come forward and address the army."
+  }, {
+    "verse" : "deuteronomy,20,3",
+    "text" : "He shall say: \"Hear, O Israel, today you are going into battle against your enemies. Do not be fainthearted or afraid; do not be terrified or give way to panic before them."
+  }, {
+    "verse" : "deuteronomy,20,4",
+    "text" : "For the LORD your God is the one who goes with you to fight for you against your enemies to give you victory.\""
+  }, {
+    "verse" : "deuteronomy,20,5",
+    "text" : "The officers shall say to the army: \"Has anyone built a new house and not dedicated it? Let him go home, or he may die in battle and someone else may dedicate it."
+  }, {
+    "verse" : "deuteronomy,20,6",
+    "text" : "Has anyone planted a vineyard and not begun to enjoy it? Let him go home, or he may die in battle and someone else enjoy it."
+  }, {
+    "verse" : "deuteronomy,20,7",
+    "text" : "Has anyone become pledged to a woman and not married her? Let him go home, or he may die in battle and someone else marry her.\""
+  }, {
+    "verse" : "deuteronomy,20,8",
+    "text" : "Then the officers shall add, \"Is any man afraid or fainthearted? Let him go home so that his brothers will not become disheartened too.\""
+  }, {
+    "verse" : "deuteronomy,20,9",
+    "text" : "When the officers have finished speaking to the army, they shall appoint commanders over it."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,20,1",
     "id" : 186519,
@@ -113,7 +269,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 20:1\">20:1</a></b> <b>you shall not be afraid.</b> Morale in the army, particularly the importance of single-minded reliance upon God, is the subject of <a class=\"bibleref\" href=\"/passage/?search=Deut 20:1-Deut 20:9\">vv. 1–9</a>. The exemptions cited illustrate the principle that anyone whose heart was not in the fight should not be there (<a class=\"bibleref\" href=\"/passage/?search=Deut 20:5-Deut 20:8\">vv. 5–8</a>). The power of God, rather than numerical superiority, would guarantee Israel’s victory (<a class=\"bibleref\" href=\"/passage/?search=Deut 20:4\">v. 4</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Deut 32:30\">32:30</a> note; <a class=\"bibleref\" href=\"/passage/?search=Judg 7:1-Judg 7:8\">Judg. 7:1–8</a>). One result of such an attitude would be high morale, which would itself contribute to victory.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,20,10", "deuteronomy,20,11", "deuteronomy,20,12", "deuteronomy,20,13", "deuteronomy,20,14", "deuteronomy,20,15", "deuteronomy,20,16" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,20,10",
+    "text" : "When you march up to attack a city, make its people an offer of peace."
+  }, {
+    "verse" : "deuteronomy,20,11",
+    "text" : "If they accept and open their gates, all the people in it shall be subject to forced labor and shall work for you."
+  }, {
+    "verse" : "deuteronomy,20,12",
+    "text" : "If they refuse to make peace and they engage you in battle, lay siege to that city."
+  }, {
+    "verse" : "deuteronomy,20,13",
+    "text" : "When the LORD your God delivers it into your hand, put to the sword all the men in it."
+  }, {
+    "verse" : "deuteronomy,20,14",
+    "text" : "As for the women, the children, the livestock and everything else in the city, you may take these as plunder for yourselves. And you may use the plunder the LORD your God gives you from your enemies."
+  }, {
+    "verse" : "deuteronomy,20,15",
+    "text" : "This is how you are to treat all the cities that are at a distance from you and do not belong to the nations nearby."
+  }, {
+    "verse" : "deuteronomy,20,16",
+    "text" : "However, in the cities of the nations the LORD your God is giving you as an inheritance, do not leave alive anything that breathes."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,20,10",
     "id" : 186520,
@@ -121,7 +298,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 20:10\">20:10</a></b> <b>offer terms of peace.</b> Ancient walled cities could withstand attack for some time, and attackers wanted to avoid the trouble of a lengthy siege. An offer of peace in exchange for vassal tribute (<a class=\"bibleref\" href=\"/passage/?search=Deut 20:11\">v. 11</a>), coupled with the threat of death for the defending soldiers, could be attractive to both sides. These warfare provisions (comparatively humane for that period) were applied to enemies outside the Promised Land (<a class=\"bibleref\" href=\"/passage/?search=Deut 20:15\">v. 15</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,20,17", "deuteronomy,20,18" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,20,17",
+    "text" : "Completely destroy them-the Hittites, Amorites, Canaanites, Perizzites, Hivites and Jebusites-as the LORD your God has commanded you."
+  }, {
+    "verse" : "deuteronomy,20,18",
+    "text" : "Otherwise, they will teach you to follow all the detestable things they do in worshiping their gods, and you will sin against the LORD your God."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,20,17",
     "id" : 186521,
@@ -129,7 +312,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Deut 20:17\">20:17</a></b> <b>complete destruction.</b> The Hebrew word for this practice is <i>herem,</i> which means “to put under the ban” (i.e., to devote everything to the Lord), as occurred at Jericho during the conquest (<a class=\"bibleref\" href=\"/passage/?search=Josh 6:17-Josh 6:19\">Josh. 6:17–19</a>). See notes <a class=\"bibleref\" href=\"/passage/?search=Lev 27:28\">Lev. 27:28</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 7:26\">Deut. 7:26</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "deuteronomy,20,19", "deuteronomy,20,20" ],
+  "verses" : [ {
+    "verse" : "deuteronomy,20,19",
+    "text" : "When you lay siege to a city for a long time, fighting against it to capture it, do not destroy its trees by putting an ax to them, because you can eat their fruit. Do not cut them down. Are the trees of the field people, that you should besiege them?"
+  }, {
+    "verse" : "deuteronomy,20,20",
+    "text" : "However, you may cut down trees that you know are not fruit trees and use them to build siege works until the city at war with you falls."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "deuteronomy,20,19",
     "id" : 186522,

@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "proverbs,22,22", "proverbs,22,23" ],
+  "verses" : [ {
+    "verse" : "proverbs,22,22",
+    "text" : "Do not exploit the poor because they are poor and do not crush the needy in court,"
+  }, {
+    "verse" : "proverbs,22,23",
+    "text" : "for the LORD will take up their case and will plunder those who plunder them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,22,17-proverbs,24,22",
     "id" : 192162,

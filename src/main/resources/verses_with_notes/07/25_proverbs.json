@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,20,1" ],
+  "verses" : [ {
+    "verse" : "proverbs,20,1",
+    "text" : "Wine is a mocker and beer a brawler; whoever is led astray by them is not wise."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

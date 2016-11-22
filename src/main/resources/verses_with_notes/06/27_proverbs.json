@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,18,1" ],
+  "verses" : [ {
+    "verse" : "proverbs,18,1",
+    "text" : "An unfriendly man pursues selfish ends; he defies all sound judgment."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

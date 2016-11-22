@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,100,1" ],
+  "verses" : [ {
+    "verse" : "psalms,100,1",
+    "text" : "Shout for joy to the LORD, all the earth."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,100,1-psalms,100,5",
     "id" : 191113,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 100:1\">100:1</a></b> <b>all the earth.</b> As in the royal psalms preceding, the call goes out beyond the chosen people to all the peoples of the earth. God is their King too, whether they are aware of it or not.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,100,2" ],
+  "verses" : [ {
+    "verse" : "psalms,100,2",
+    "text" : "Worship the LORD with gladness; come before him with joyful songs."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,100,2",
     "id" : 191115,
@@ -20,7 +26,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 100:2\">100:2</a></b> <b>with gladness.</b> God is not a despotic king who forces his people to serve him. Loving service is grateful response to the grace of God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,100,3" ],
+  "verses" : [ {
+    "verse" : "psalms,100,3",
+    "text" : "Know that the LORD is God. It is he who made us, and we are his; we are his people, the sheep of his pasture."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,100,3",
     "id" : 191116,
@@ -28,7 +37,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 100:3\">100:3</a></b> <b>the sheep of his pasture.</b> See <a class=\"bibleref\" href=\"/passage/?search=Ps 23:1\">Ps. 23:1</a> for note on royal overtones of the portrayal of God as a shepherd.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,100,4" ],
+  "verses" : [ {
+    "verse" : "psalms,100,4",
+    "text" : "Enter his gates with thanksgiving and his courts with praise; give thanks to him and praise his name."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,100,4",
     "id" : 191117,
@@ -36,7 +48,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 100:4\">100:4</a></b> <b>his gates . . . his courts.</b> Those of the temple. This psalm may have been sung during a festive entry into the temple precincts.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,100,5" ],
+  "verses" : [ {
+    "verse" : "psalms,100,5",
+    "text" : "For the LORD is good and his love endures forever; his faithfulness continues through all generations."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,100,5",
     "id" : 191118,

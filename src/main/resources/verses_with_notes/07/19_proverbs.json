@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "proverbs,19,18", "proverbs,19,19" ],
+  "verses" : [ {
+    "verse" : "proverbs,19,18",
+    "text" : "Discipline your son, for in that there is hope; do not be a willing party to his death."
+  }, {
+    "verse" : "proverbs,19,19",
+    "text" : "A hot-tempered man must pay the penalty; if you rescue him, you will have to do it again."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

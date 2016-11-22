@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "matthew,20,29" ],
+  "verses" : [ {
+    "verse" : "matthew,20,29",
+    "text" : "As Jesus and his disciples were leaving Jericho, a large crowd followed him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,20,29",
     "id" : 195853,
@@ -7,7 +10,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 20:29\">20:29</a></b> <b>went out.</b> Luke says that they were entering Jericho rather than leaving. One possibility is that Matthew and Mark refer to the ruins of Old Testament Jericho, about a mile away from the newer town of Jericho built by Herod (<a class=\"bibleref\" href=\"/passage/?search=Luke 18:35\">Luke 18:35</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,20,30", "matthew,20,31", "matthew,20,32", "matthew,20,33", "matthew,20,34" ],
+  "verses" : [ {
+    "verse" : "matthew,20,30",
+    "text" : "Two blind men were sitting by the roadside, and when they heard that Jesus was going by, they shouted, \"Lord, Son of David, have mercy on us!\""
+  }, {
+    "verse" : "matthew,20,31",
+    "text" : "The crowd rebuked them and told them to be quiet, but they shouted all the louder, \"Lord, Son of David, have mercy on us!\""
+  }, {
+    "verse" : "matthew,20,32",
+    "text" : "Jesus stopped and called them. \"What do you want me to do for you?\" he asked."
+  }, {
+    "verse" : "matthew,20,33",
+    "text" : "\"Lord,\" they answered, \"we want our sight.\""
+  }, {
+    "verse" : "matthew,20,34",
+    "text" : "Jesus had compassion on them and touched their eyes. Immediately they received their sight and followed him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,20,30",
     "id" : 195854,
@@ -15,7 +33,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 20:30\">20:30</a></b> <b>two blind men.</b> Once again Matthew mentions two men where Mark and Luke mention only one (<a class=\"bibleref\" href=\"/passage/?search=Matt 8:28\">8:28</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,21,1", "matthew,21,2", "matthew,21,3", "matthew,21,4", "matthew,21,5", "matthew,21,6" ],
+  "verses" : [ {
+    "verse" : "matthew,21,1",
+    "text" : "As they approached Jerusalem and came to Bethphage on the Mount of Olives, Jesus sent two disciples,"
+  }, {
+    "verse" : "matthew,21,2",
+    "text" : "saying to them, \"Go to the village ahead of you, and at once you will find a donkey tied there, with her colt by her. Untie them and bring them to me."
+  }, {
+    "verse" : "matthew,21,3",
+    "text" : "If anyone says anything to you, tell him that the Lord needs them, and he will send them right away.\""
+  }, {
+    "verse" : "matthew,21,4",
+    "text" : "This took place to fulfill what was spoken through the prophet:"
+  }, {
+    "verse" : "matthew,21,5",
+    "text" : "\"Say to the Daughter of Zion, 'See, your king comes to you, gentle and riding on a donkey, on a colt, the foal of a donkey.'\""
+  }, {
+    "verse" : "matthew,21,6",
+    "text" : "The disciples went and did as Jesus had instructed them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,21,1-matthew,21,11",
     "id" : 195855,
@@ -23,7 +59,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 21:1-Matt 21:11\">21:1–11</a></b> Of the Synoptic Gospels, only Matthew mentions the colt’s mother, probably to emphasize that it was a young colt, not yet weaned and therefore not yet ridden (cf. <a class=\"bibleref\" href=\"/passage/?search=Mark 11:2\">Mark 11:2</a>), and because the quotation from <a class=\"bibleref\" href=\"/passage/?search=Zech 9:9\">Zech. 9:9</a> prophesies that the coming king would ride on “a colt, the foal of a donkey.” Jesus chooses to make the fulfillment of prophecy unmistakable.</p><p>The Triumphal Entry is clearly a symbolic act. <a class=\"bibleref\" href=\"/passage/?search=Zech 9:9\">Zech. 9:9</a> was recognized as messianic by Jews, and the shout “Hosanna to the Son of David!” (v. 9) as well as the spreading of cloaks on the ground (cf. <a class=\"bibleref\" href=\"/passage/?search=2Kgs 9:13\">2 Kin. 9:13</a>) indicates that the crowd recognizes Jesus’ claim to be the Messiah. Note David’s proclamation of Solomon as his designated heir by having him ride into the city on a donkey (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 1:33\">1 Kin. 1:33</a>, <a class=\"bibleref\" href=\"/passage/?search=1Kgs 1:38\">38</a>, <a class=\"bibleref\" href=\"/passage/?search=1Kgs 1:44\">44</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,21,7", "matthew,21,8" ],
+  "verses" : [ {
+    "verse" : "matthew,21,7",
+    "text" : "They brought the donkey and the colt, placed their cloaks on them, and Jesus sat on them."
+  }, {
+    "verse" : "matthew,21,8",
+    "text" : "A very large crowd spread their cloaks on the road, while others cut branches from the trees and spread them on the road."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,21,7",
     "id" : 195856,
@@ -31,7 +73,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 21:7\">21:7</a></b> <b>he sat on them.</b> Jesus rode the colt (<a class=\"bibleref\" href=\"/passage/?search=Mark 11:2\">Mark 11:2</a>). Perhaps “them” refers to the garments.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,21,9", "matthew,21,10", "matthew,21,11" ],
+  "verses" : [ {
+    "verse" : "matthew,21,9",
+    "text" : "The crowds that went ahead of him and those that followed shouted, \"Hosanna to the Son of David!Blessed is he who comes in the name of the Lord!Hosanna in the highest!\""
+  }, {
+    "verse" : "matthew,21,10",
+    "text" : "When Jesus entered Jerusalem, the whole city was stirred and asked, \"Who is this?\""
+  }, {
+    "verse" : "matthew,21,11",
+    "text" : "The crowds answered, \"This is Jesus, the prophet from Nazareth in Galilee.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,21,9",
     "id" : 195857,
@@ -39,7 +90,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 21:9\">21:9</a></b> <b>Hosanna.</b> A Hebrew expression meaning, “Save, now.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,21,12" ],
+  "verses" : [ {
+    "verse" : "matthew,21,12",
+    "text" : "Jesus entered the temple area and drove out all who were buying and selling there. He overturned the tables of the money changers and the benches of those selling doves."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,21,12-matthew,21,13",
     "id" : 195858,
@@ -47,7 +101,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 21:12\">21:12</a>, <a class=\"bibleref\" href=\"/passage/?search=Matt 21:13\">13</a></b> <a class=\"bibleref\" href=\"/passage/?search=John 1:13-John 1:17\">John 1:13–17</a> recounts a cleansing of the temple early in Jesus’ ministry rather than during the final week. Many scholars, both liberal and conservative, propose that either John or the Synoptic Gospels changed the occasion for theological or other reasons. Others conclude that Jesus drove out money-changers on two separate occasions (<a class=\"bibleref\" href=\"/passage/?search=Mark 11:15\">Mark 11:15</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,21,13", "matthew,21,14", "matthew,21,15" ],
+  "verses" : [ {
+    "verse" : "matthew,21,13",
+    "text" : "\"It is written,\" he said to them, \"'My house will be called a house of prayer,' but you are making it a 'den of robbers.'\""
+  }, {
+    "verse" : "matthew,21,14",
+    "text" : "The blind and the lame came to him at the temple, and he healed them."
+  }, {
+    "verse" : "matthew,21,15",
+    "text" : "But when the chief priests and the teachers of the law saw the wonderful things he did and the children shouting in the temple area, \"Hosanna to the Son of David,\" they were indignant."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,21,13",
     "id" : 195859,
@@ -55,7 +118,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 21:13\">21:13</a></b> <b>den of robbers.</b> The phrase is from <a class=\"bibleref\" href=\"/passage/?search=Jer 7:11\">Jer. 7:11</a>. Through the prophet the Lord denounced the idea that the physical temple guaranteed His blessing in spite of Judah’s wickedness. This same superstitious notion prevailed in Jesus’ time.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,21,16", "matthew,21,17" ],
+  "verses" : [ {
+    "verse" : "matthew,21,16",
+    "text" : "\"Do you hear what these children are saying?\" they asked him. \"Yes,\" replied Jesus, \"have you never read, \"'From the lips of children and infants you have ordained praise'?\""
+  }, {
+    "verse" : "matthew,21,17",
+    "text" : "And he left them and went out of the city to Bethany, where he spent the night."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,21,16",
     "id" : 195860,
@@ -63,7 +132,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 21:16\">21:16</a></b> Jesus’ quotation of <a class=\"bibleref\" href=\"/passage/?search=Ps 8:2\">Ps. 8:2</a> to justify the children’s praises is astounding, for <a class=\"bibleref\" href=\"/passage/?search=Ps 8\">Ps. 8</a> says that God ordained worship for Himself from the lips of children. Jesus indirectly claims the prerogative of deity.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,21,18", "matthew,21,19", "matthew,21,20" ],
+  "verses" : [ {
+    "verse" : "matthew,21,18",
+    "text" : "Early in the morning, as he was on his way back to the city, he was hungry."
+  }, {
+    "verse" : "matthew,21,19",
+    "text" : "Seeing a fig tree by the road, he went up to it but found nothing on it except leaves. Then he said to it, \"May you never bear fruit again!\" Immediately the tree withered."
+  }, {
+    "verse" : "matthew,21,20",
+    "text" : "When the disciples saw this, they were amazed. \"How did the fig tree wither so quickly?\" they asked."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,21,18-matthew,21,20",
     "id" : 195861,
@@ -71,7 +149,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 21:18-Matt 21:20\">21:18–20</a></b> Matthew condenses an incident that took place on two separate days (cf. <a class=\"bibleref\" href=\"/passage/?search=Mark 11:12-Mark 11:14\">Mark 11:12–14</a>, <a class=\"bibleref\" href=\"/passage/?search=Mark 11:20-Mark 11:26\">20–26</a>). The linking of this incident with the cleansing of the temple hints at God’s imminent punishment of Israel by the destruction of the city and the temple (<a class=\"bibleref\" href=\"/passage/?search=Jer 24:1-Jer 24:8\">Jer. 24:1–8</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,21,21", "matthew,21,22" ],
+  "verses" : [ {
+    "verse" : "matthew,21,21",
+    "text" : "Jesus replied, \"I tell you the truth, if you have faith and do not doubt, not only can you do what was done to the fig tree, but also you can say to this mountain, 'Go, throw yourself into the sea,' and it will be done."
+  }, {
+    "verse" : "matthew,21,22",
+    "text" : "If you believe, you will receive whatever you ask for in prayer.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,21,21-matthew,21,22",
     "id" : 195862,

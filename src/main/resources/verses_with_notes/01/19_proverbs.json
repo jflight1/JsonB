@@ -1,5 +1,14 @@
 [ {
-  "singleVerses" : [ "proverbs,3,33", "proverbs,3,34", "proverbs,3,35" ],
+  "verses" : [ {
+    "verse" : "proverbs,3,33",
+    "text" : "The LORD's curse is on the house of the wicked, but he blesses the home of the righteous."
+  }, {
+    "verse" : "proverbs,3,34",
+    "text" : "He mocks proud mockers but gives grace to the humble."
+  }, {
+    "verse" : "proverbs,3,35",
+    "text" : "The wise inherit honor, but fools he holds up to shame."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,3,27-proverbs,3,35",
     "id" : 191704,

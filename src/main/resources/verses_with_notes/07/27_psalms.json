@@ -1,8 +1,14 @@
 [ {
-  "singleVerses" : [ "psalms,21,1" ],
+  "verses" : [ {
+    "verse" : "psalms,21,1",
+    "text" : "O LORD, the king rejoices in your strength. How great is his joy in the victories you give!"
+  } ],
   "rsbNotes" : [ ]
 }, {
-  "singleVerses" : [ "psalms,21,2" ],
+  "verses" : [ {
+    "verse" : "psalms,21,2",
+    "text" : "You have granted him the desire of his heart and have not withheld the request of his lips. Selah"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,21,2",
     "id" : 190369,
@@ -10,7 +16,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 21:2\">21:2</a></b> <b>his heart’s desire.</b> Similar language is used in <a class=\"bibleref\" href=\"/passage/?search=Ps 20:4\">20:4</a>, though it is uncertain whether the same occasion inspired both psalms. The first part of <a class=\"bibleref\" href=\"/passage/?search=Ps 21\">Ps. 21</a> sounds like the answer to the prayer in <a class=\"bibleref\" href=\"/passage/?search=Ps 20\">Ps. 20</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,21,3" ],
+  "verses" : [ {
+    "verse" : "psalms,21,3",
+    "text" : "You welcomed him with rich blessings and placed a crown of pure gold on his head."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,21,3",
     "id" : 190370,
@@ -18,7 +27,37 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 21:3\">21:3</a></b> <b>set a crown . . . upon his head.</b> While some think this verse is about a coronation, it probably refers to the king’s transition from a war leader (who does not wear his crown) to a king sitting on his throne.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,21,4", "psalms,21,5", "psalms,21,6", "psalms,21,7", "psalms,21,8", "psalms,21,9", "psalms,21,10", "psalms,21,11", "psalms,21,12", "psalms,21,13" ],
+  "verses" : [ {
+    "verse" : "psalms,21,4",
+    "text" : "He asked you for life, and you gave it to him- length of days, for ever and ever."
+  }, {
+    "verse" : "psalms,21,5",
+    "text" : "Through the victories you gave, his glory is great; you have bestowed on him splendor and majesty."
+  }, {
+    "verse" : "psalms,21,6",
+    "text" : "Surely you have granted him eternal blessings and made him glad with the joy of your presence."
+  }, {
+    "verse" : "psalms,21,7",
+    "text" : "For the king trusts in the LORD; through the unfailing love of the Most High he will not be shaken."
+  }, {
+    "verse" : "psalms,21,8",
+    "text" : "Your hand will lay hold on all your enemies; your right hand will seize your foes."
+  }, {
+    "verse" : "psalms,21,9",
+    "text" : "At the time of your appearing you will make them like a fiery furnace. In his wrath the LORD will swallow them up, and his fire will consume them."
+  }, {
+    "verse" : "psalms,21,10",
+    "text" : "You will destroy their descendants from the earth, their posterity from mankind."
+  }, {
+    "verse" : "psalms,21,11",
+    "text" : "Though they plot evil against you and devise wicked schemes, they cannot succeed;"
+  }, {
+    "verse" : "psalms,21,12",
+    "text" : "for you will make them turn their backs when you aim at them with drawn bow."
+  }, {
+    "verse" : "psalms,21,13",
+    "text" : "Be exalted, O LORD, in your strength; we will sing and praise your might."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,21,4",
     "id" : 190371,

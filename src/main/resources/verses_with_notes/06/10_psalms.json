@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,128,1" ],
+  "verses" : [ {
+    "verse" : "psalms,128,1",
+    "text" : "Blessed are all who fear the LORD, who walk in his ways."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,128,1",
     "id" : 191449,
@@ -7,7 +10,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 128:1\">128:1</a></b> <b>fears the <span class=\"small-caps\">Lord.</span></b> See notes <a class=\"bibleref\" href=\"/passage/?search=Ps 34:7\">Ps. 34:7</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 36:1\">36:1</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 119:63\">119:63</a>.</p><p><b>walks in his ways.</b> Those who obey God’s will for their lives as manifested in His law.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,128,2" ],
+  "verses" : [ {
+    "verse" : "psalms,128,2",
+    "text" : "You will eat the fruit of your labor; blessings and prosperity will be yours."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,128,2",
     "id" : 191450,
@@ -15,7 +21,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 128:2\">128:2</a></b> <b>the labor of your hands.</b> One result of the Fall was that Adam would have to work hard to get food on the table (<a class=\"bibleref\" href=\"/passage/?search=Gen 3:17-Gen 3:19\">Gen. 3:17–19</a>). The Preacher of Ecclesiastes was driven to despair because some people labored while others, less deserving, enjoyed the benefits of their labor (<a class=\"bibleref\" href=\"/passage/?search=Eccl 5:8-Eccl 6:12\">Eccl. 5:8–6:12</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 65:22\">Is. 65:22</a>). The psalmist envisions the righteous prospering from their own labor, a just situation.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,128,3", "psalms,128,4" ],
+  "verses" : [ {
+    "verse" : "psalms,128,3",
+    "text" : "Your wife will be like a fruitful vine within your house; your sons will be like olive shoots around your table."
+  }, {
+    "verse" : "psalms,128,4",
+    "text" : "Thus is the man blessed who fears the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,128,3",
     "id" : 191451,
@@ -23,7 +35,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 128:3\">128:3 a</a></b> <b>fruitful vine.</b> The vine produced the grapes for wine, a source of joy to the Israelites (<a class=\"bibleref\" href=\"/passage/?search=Ps 104:15\">Ps. 104:15</a>). The blessing that the fruitful wife brings includes children around the table.</p><p><b>olive shoots.</b> Olives and olive oil were valued staple commodities in the nation’s life.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,128,5" ],
+  "verses" : [ {
+    "verse" : "psalms,128,5",
+    "text" : "May the LORD bless you from Zion all the days of your life; may you see the prosperity of Jerusalem,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,128,5",
     "id" : 191452,
@@ -31,7 +46,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 128:5\">128:5</a></b> <b>from Zion.</b> That is, from the temple (<a class=\"bibleref\" href=\"/passage/?search=Ps 2:6\">Ps. 2:6</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 50:2\">50:2</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,128,6" ],
+  "verses" : [ {
+    "verse" : "psalms,128,6",
+    "text" : "and may you live to see your children's children. Peace be upon Israel."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,128,6",
     "id" : 191453,

@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "romans,4,1" ],
+  "verses" : [ {
+    "verse" : "romans,4,1",
+    "text" : "What then shall we say that Abraham, our forefather, discovered in this matter?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,4,1-romans,4,25",
     "id" : 197750,
@@ -7,7 +10,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 4\">4:1–25</a></b> Paul confirms his argument that justification is by grace through faith in Christ (<a class=\"bibleref\" href=\"/passage/?search=Rom 3:22-Rom 3:25\">3:22–25</a>) by an appeal to the life of Abraham. As spiritual father of the Jews (<a class=\"bibleref\" href=\"/passage/?search=Rom 3:1\">v. 1</a>), Abraham provides a test case for Paul’s doctrine. If he can show that Abraham was justified by faith, his earlier exposition becomes irrefutable in a Jewish context.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,4,2", "romans,4,3" ],
+  "verses" : [ {
+    "verse" : "romans,4,2",
+    "text" : "If, in fact, Abraham was justified by works, he had something to boast about--but not before God."
+  }, {
+    "verse" : "romans,4,3",
+    "text" : "What does the Scripture say? \"Abraham believed God, and it was credited to him as righteousness.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,4,2-romans,4,3",
     "id" : 197751,
@@ -15,7 +24,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 4:2\">4:2</a>, <a class=\"bibleref\" href=\"/passage/?search=Rom 4:3\">3</a></b> Contrary to the view that Abraham was considered righteous and sustained in covenant with God on the basis of his obedience and faithfulness, Paul intends to demonstrate that the general statement in <a class=\"bibleref\" href=\"/passage/?search=Rom 3:27\">3:27</a> is true of Abraham in particular. Abraham had nothing “to boast about,” for <a class=\"bibleref\" href=\"/passage/?search=Gen 15:6\">Gen. 15:6</a> proves that it was by faith, not by law-keeping, that he was counted righteous. James also points to Abraham as an example of one who demonstrates true faith by his works (<a class=\"bibleref\" href=\"/passage/?search=Jas 2:21\">James 2:21</a>). See “Justification and Merit” at <a class=\"bibleref\" href=\"/passage/?search=Gal 3:11\">Gal. 3:11</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,4,4", "romans,4,5" ],
+  "verses" : [ {
+    "verse" : "romans,4,4",
+    "text" : "Now when a man works, his wages are not credited to him as a gift, but as an obligation."
+  }, {
+    "verse" : "romans,4,5",
+    "text" : "However, to the man who does not work but trusts God who justifies the wicked, his faith is credited as righteousness."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,4,4-romans,4,5",
     "id" : 197752,
@@ -23,7 +38,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 4:4\">4:4</a>, <a class=\"bibleref\" href=\"/passage/?search=Rom 4:5\">5</a></b> It is a general principle that wages are earned by work, not received “as a gift.” But <a class=\"bibleref\" href=\"/passage/?search=Gen 15:6\">Gen. 15:6</a> makes no mention of works on Abraham’s part, only of the trust he had in God. Although faith was Abraham’s action, it contributed nothing to Abraham’s resultant righteousness before God, which was God’s own gift (v. 4). In this sense, while faith as the instrument of justification involves human activity, it is not a “work” of merit. The righteousness of God was “counted” to Abraham (vv. 3, 9) and not earned by him. See “Faith and Works” at <a class=\"bibleref\" href=\"/passage/?search=Jas 2:24\">James 2:24</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,4,6", "romans,4,7", "romans,4,8" ],
+  "verses" : [ {
+    "verse" : "romans,4,6",
+    "text" : "David says the same thing when he speaks of the blessedness of the man to whom God credits righteousness apart from works:"
+  }, {
+    "verse" : "romans,4,7",
+    "text" : "\"Blessed are they whose transgressions are forgiven, whose sins are covered."
+  }, {
+    "verse" : "romans,4,8",
+    "text" : "Blessed is the man whose sin the Lord will never count against him.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,4,6-romans,4,8",
     "id" : 197753,
@@ -31,7 +55,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 4:6-Rom 4:8\">4:6–8</a></b> That Paul’s exegesis of <a class=\"bibleref\" href=\"/passage/?search=Gen 15:6\">Gen. 15:6</a> is correct is confirmed by an appeal to David’s words in <a class=\"bibleref\" href=\"/passage/?search=Ps 32:1\">Ps. 32:1</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 32:2\">2</a>. Blessedness, fellowship with God together with all its accompaniments, and salvation are not earned, but are the effect of the gift of forgiveness. It is by Christ’s work, not ours, that we are justified. Human merit of any sort is excluded.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,4,9", "romans,4,10", "romans,4,11", "romans,4,12" ],
+  "verses" : [ {
+    "verse" : "romans,4,9",
+    "text" : "Is this blessedness only for the circumcised, or also for the uncircumcised? We have been saying that Abraham's faith was credited to him as righteousness."
+  }, {
+    "verse" : "romans,4,10",
+    "text" : "Under what circumstances was it credited? Was it after he was circumcised, or before? It was not after, but before!"
+  }, {
+    "verse" : "romans,4,11",
+    "text" : "And he received the sign of circumcision, a seal of the righteousness that he had by faith while he was still uncircumcised. So then, he is the father of all who believe but have not been circumcised, in order that righteousness might be credited to them."
+  }, {
+    "verse" : "romans,4,12",
+    "text" : "And he is also the father of the circumcised who not only are circumcised but who also walk in the footsteps of the faith that our father Abraham had before he was circumcised."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,4,9-romans,4,12",
     "id" : 197754,

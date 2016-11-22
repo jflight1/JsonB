@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,17,24" ],
+  "verses" : [ {
+    "verse" : "proverbs,17,24",
+    "text" : "A discerning man keeps wisdom in view, but a fool's eyes wander to the ends of the earth."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 17:24\">17:24</a></b> The contrast is between concentration on the task of learning wisdom and day dreaming (<a class=\"bibleref\" href=\"/passage/?search=Prov 12:11\">12:11</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,17,25" ],
+  "verses" : [ {
+    "verse" : "proverbs,17,25",
+    "text" : "A foolish son brings grief to his father and bitterness to the one who bore him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,17,25",
     "id" : 192044,

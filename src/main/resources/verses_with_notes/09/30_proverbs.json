@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,24,11" ],
+  "verses" : [ {
+    "verse" : "proverbs,24,11",
+    "text" : "Rescue those being led away to death; hold back those staggering toward slaughter."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,22,17-proverbs,24,22",
     "id" : 192162,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 24:11\">24:11</a>, <a class=\"bibleref\" href=\"/passage/?search=Prov 24:12\">12</a></b> These two verses are best taken together. One cannot use the excuse of ignorance to avoid the responsibility to help another in need.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,24,12" ],
+  "verses" : [ {
+    "verse" : "proverbs,24,12",
+    "text" : "If you say, \"But we knew nothing about this,\" does not he who weighs the heart perceive it? Does not he who guards your life know it? Will he not repay each person according to what he has done?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,24,12",
     "id" : 192213,

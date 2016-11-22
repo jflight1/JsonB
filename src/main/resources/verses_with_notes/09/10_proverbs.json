@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "proverbs,23,1", "proverbs,23,2" ],
+  "verses" : [ {
+    "verse" : "proverbs,23,1",
+    "text" : "When you sit to dine with a ruler, note well what is before you,"
+  }, {
+    "verse" : "proverbs,23,2",
+    "text" : "and put a knife to your throat if you are given to gluttony."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,22,17-proverbs,24,22",
     "id" : 192162,
@@ -17,7 +23,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 23:1\">23:1</a></b> <b>what is before you.</b> Or, “who is before you.” The sense is either, “Do not allow the feast to excite you with greed,” or, “Be attentive to the great ruler, and not to the food.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,23,3" ],
+  "verses" : [ {
+    "verse" : "proverbs,23,3",
+    "text" : "Do not crave his delicacies, for that food is deceptive."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,23,3",
     "id" : 192176,

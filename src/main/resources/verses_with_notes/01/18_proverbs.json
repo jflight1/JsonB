@@ -1,5 +1,20 @@
 [ {
-  "singleVerses" : [ "proverbs,3,27", "proverbs,3,28", "proverbs,3,29", "proverbs,3,30", "proverbs,3,31" ],
+  "verses" : [ {
+    "verse" : "proverbs,3,27",
+    "text" : "Do not withhold good from those who deserve it, when it is in your power to act."
+  }, {
+    "verse" : "proverbs,3,28",
+    "text" : "Do not say to your neighbor, \"Come back later; I'll give it tomorrow\"- when you now have it with you."
+  }, {
+    "verse" : "proverbs,3,29",
+    "text" : "Do not plot harm against your neighbor, who lives trustfully near you."
+  }, {
+    "verse" : "proverbs,3,30",
+    "text" : "Do not accuse a man for no reason- when he has done you no harm."
+  }, {
+    "verse" : "proverbs,3,31",
+    "text" : "Do not envy a violent man or choose any of his ways,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,3,27-proverbs,3,35",
     "id" : 191704,
@@ -7,7 +22,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 3:27-Prov 3:35\">3:27–35</a></b> The section begins with a series of commandments about certain abuses in human relationships (<a class=\"bibleref\" href=\"/passage/?search=Prov 3:27-Prov 3:31\">vv. 27–31</a>). These are followed by clauses explaining the Lord’s direct interest in the morality of these precepts (<a class=\"bibleref\" href=\"/passage/?search=Prov 3:32-Prov 3:35\">vv. 32–35</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,3,32" ],
+  "verses" : [ {
+    "verse" : "proverbs,3,32",
+    "text" : "for the LORD detests a perverse man but takes the upright into his confidence."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,3,32",
     "id" : 191705,

@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "john,3,1" ],
+  "verses" : [ {
+    "verse" : "john,3,1",
+    "text" : "Now there was a man of the Pharisees named Nicodemus, a member of the Jewish ruling council."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,3,1-john,3,21",
     "id" : 196910,
@@ -7,7 +10,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 3:1-John 3:21\">3:1–21</a></b> This is the first of many teaching discourses recorded by John. Typically on being asked a question, Jesus answers in a way that steers the discussion into a deeper realm, often through misunderstandings that are corrected for those becoming true disciples. The new understanding reveals Jesus more fully.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,3,2" ],
+  "verses" : [ {
+    "verse" : "john,3,2",
+    "text" : "He came to Jesus at night and said, \"Rabbi, we know you are a teacher who has come from God. For no one could perform the miraculous signs you are doing if God were not with him.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,3,2",
     "id" : 196911,
@@ -15,7 +21,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 3:2\">3:2</a></b> <b>by night.</b> This might betray a fear of being seen, or it might be a sign of deference to Jesus, a rabbi who should not be distracted during the day. Understood symbolically, Nicodemus is a person living in the darkness of this world, who now encounters the light (<a class=\"bibleref\" href=\"/passage/?search=John 8:12\">8:12</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=John 9:4\">9:4</a>; <a class=\"bibleref\" href=\"/passage/?search=John 11:10\">11:10</a>; <a class=\"bibleref\" href=\"/passage/?search=John 13:30\">13:30</a>).</p><p><b>a teacher . . . from God.</b> Nicodemus understands that God attests His messengers through giving them power to perform miracles, but this understanding falls far short of Jesus’ true identity.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,3,3", "john,3,4" ],
+  "verses" : [ {
+    "verse" : "john,3,3",
+    "text" : "In reply Jesus declared, \"I tell you the truth, no one can see the kingdom of God unless he is born again. \""
+  }, {
+    "verse" : "john,3,4",
+    "text" : "\"How can a man be born when he is old?\" Nicodemus asked. \"Surely he cannot enter a second time into his mother's womb to be born!\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,3,3",
     "id" : 196912,
@@ -23,7 +35,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 3:3\">3:3</a></b> <b>born again.</b> See text note. The translation “born from above” accords well with the discussion of “earthly” and “heavenly” things in <a class=\"bibleref\" href=\"/passage/?search=John 3:12\">v. 12</a>, and the discussion of ascending and descending in <a class=\"bibleref\" href=\"/passage/?search=John 3:13\">v. 13</a>. This is the meaning of the Greek adverb in other places in this Gospel (<a class=\"bibleref\" href=\"/passage/?search=John 19:11\">19:11</a>, <a class=\"bibleref\" href=\"/passage/?search=John 19:23\">23</a>). Nicodemus apparently understood it to mean “a second time.” It is possible that both meanings are intended—a new birth that is a birth from above. See theological note “Regeneration: The New Birth” on the next page.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,3,5" ],
+  "verses" : [ {
+    "verse" : "john,3,5",
+    "text" : "Jesus answered, \"I tell you the truth, no one can enter the kingdom of God unless he is born of water and the Spirit."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,3,5",
     "id" : 196913,
@@ -31,7 +46,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 3:5\">3:5</a></b> <b>born of water and the Spirit.</b> Some suggest that the “water” is the release of fluid that accompanies physical birth, but linguistic considerations point to understanding “water” and “Spirit” as referring to a single spiritual birth. Many interpreters understand “water” here as the water of baptism, but such a reference, before Christian baptism was instituted, would have been meaningless to Nicodemus. Others find a reference to John’s baptism, but Jesus nowhere makes John’s baptism a requirement for salvation. Probably the statement refers to Old Testament passages in which the terms “water” and “Spirit” are linked to express the pouring out of God’s Spirit in the end times (<a class=\"bibleref\" href=\"/passage/?search=Isa 32:15\">Is. 32:15</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 44:3\">44:3</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 36:25-Ezek 36:27\">Ezek. 36:25–27</a>). The presence of such rich Old Testament imagery accounts for Jesus’ reproof of Nicodemus (v. 10): as a “teacher of Israel,” he should have understood.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,3,6", "john,3,7", "john,3,8", "john,3,9", "john,3,10" ],
+  "verses" : [ {
+    "verse" : "john,3,6",
+    "text" : "Flesh gives birth to flesh, but the Spirit gives birth to spirit."
+  }, {
+    "verse" : "john,3,7",
+    "text" : "You should not be surprised at my saying, 'You must be born again.'"
+  }, {
+    "verse" : "john,3,8",
+    "text" : "The wind blows wherever it pleases. You hear its sound, but you cannot tell where it comes from or where it is going. So it is with everyone born of the Spirit.\""
+  }, {
+    "verse" : "john,3,9",
+    "text" : "\"How can this be?\" Nicodemus asked."
+  }, {
+    "verse" : "john,3,10",
+    "text" : "\"You are Israel's teacher,\" said Jesus, \"and do you not understand these things?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,3,6-john,3,8",
     "id" : 196914,
@@ -39,7 +69,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 3:6-John 3:8\">3:6–8</a></b> This passage emphasizes the priority and sovereignty of God in the work of salvation. It does not exclude the reality of human response in repentance and faith.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,3,11", "john,3,12" ],
+  "verses" : [ {
+    "verse" : "john,3,11",
+    "text" : "I tell you the truth, we speak of what we know, and we testify to what we have seen, but still you people do not accept our testimony."
+  }, {
+    "verse" : "john,3,12",
+    "text" : "I have spoken to you of earthly things and you do not believe; how then will you believe if I speak of heavenly things?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,3,11",
     "id" : 196915,
@@ -47,7 +83,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 3:11\">3:11</a></b> <b>I say to you . . . you do not receive our testimony.</b> The first “you” is singular (Nicodemus) and the second “you” is plural (you and those whom you represent).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,3,13" ],
+  "verses" : [ {
+    "verse" : "john,3,13",
+    "text" : "No one has ever gone into heaven except the one who came from heaven--the Son of Man."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,3,13",
     "id" : 196916,
@@ -55,7 +94,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 3:13\">3:13</a></b> <b>who descended from heaven.</b> It could be said that in His divine nature Christ continued to dwell “in heaven” even during His life on earth. The point is that He has authority to speak of heavenly things. Later in the Gospel, Jesus’ origin “from heaven” becomes a chief matter of dispute (<a class=\"bibleref\" href=\"/passage/?search=John 6:41\">6:41</a>, <a class=\"bibleref\" href=\"/passage/?search=John 6:42\">42</a>).</p><p><b>the Son of Man.</b> See note at <a class=\"bibleref\" href=\"/passage/?search=Matt 8:20\">Matt. 8:20</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,3,14", "john,3,15" ],
+  "verses" : [ {
+    "verse" : "john,3,14",
+    "text" : "Just as Moses lifted up the snake in the desert, so the Son of Man must be lifted up,"
+  }, {
+    "verse" : "john,3,15",
+    "text" : "that everyone who believes in him may have eternal life."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,3,14",
     "id" : 196917,
@@ -63,7 +108,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 3:14\">3:14</a></b> <b>Moses.</b> <a class=\"bibleref\" href=\"/passage/?search=Num 21:4-Num 21:9\">Num. 21:4–9</a> records the story of the rebellious Israelites, who murmured and complained. God sent fiery serpents into their midst to punish them. Then God told Moses to put a bronze serpent on a pole, with the promise that whoever looked at it would live.</p><p><b>must . . . be lifted up.</b> Here is a key term in this Gospel (8:28; 12:32, 34) which carries the double meaning of crucifixion and exaltation. Christ’s death on the cross, His resurrection, and His glorification together reveal the glory of God. The word “must” points to God’s sovereign purpose. The crucifixion was the keystone of God’s eternal plan to save His people (<a class=\"bibleref\" href=\"/passage/?search=Acts 4:27\">Acts 4:27</a>, <a class=\"bibleref\" href=\"/passage/?search=Acts 4:28\">28</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,3,16" ],
+  "verses" : [ {
+    "verse" : "john,3,16",
+    "text" : "\"For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,3,16",
     "id" : 196918,
@@ -71,7 +119,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 3:16\">3:16</a></b> <b>God so loved the world.</b> Some have insisted that God sent Jesus to die for the purpose of bringing salvation to everyone without exception, but only as a possibility. However, Jesus makes clear that the salvation of those whom the Father “gives me,” and only those, is not a mere possibility but an absolute certainty; “will come to me” (<a class=\"bibleref\" href=\"/passage/?search=John 6:37-John 6:40\">6:37–40</a>; <a class=\"bibleref\" href=\"/passage/?search=John 10:14-John 10:18\">10:14–18</a>; <a class=\"bibleref\" href=\"/passage/?search=John 17:9\">17:9</a>). The point made by “the world” is that Christ’s saving work is not limited to one time or place but applies to the elect from all over the world. Those who do not receive the remedy God has provided in Christ will perish. It remains true that anyone who believes will not die (be separated from God) but live in God’s presence forever. See “God Is Love: Divine Goodness and Faithfulness” at <a class=\"bibleref\" href=\"/passage/?search=Ps 136:1\">Ps. 136:1</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,3,17" ],
+  "verses" : [ {
+    "verse" : "john,3,17",
+    "text" : "For God did not send his Son into the world to condemn the world, but to save the world through him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,3,17",
     "id" : 196919,
@@ -79,7 +130,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 3:17\">3:17</a></b> <b>to condemn the world.</b> Jesus elsewhere says that judgment does attend His coming into the world (<a class=\"bibleref\" href=\"/passage/?search=John 9:39\">9:39</a>). His point is not that He will not judge, but that the time is not ready. The world was already under threat of judgment before He came, but with His coming salvation became a reality offered to a hostile world (<a class=\"bibleref\" href=\"/passage/?search=Matt 23:37\">Matt. 23:37</a>; <a class=\"bibleref\" href=\"/passage/?search=Rom 5:8\">Rom. 5:8</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,3,18" ],
+  "verses" : [ {
+    "verse" : "john,3,18",
+    "text" : "Whoever believes in him is not condemned, but whoever does not believe stands condemned already because he has not believed in the name of God's one and only Son."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,3,18",
     "id" : 196920,
@@ -87,7 +141,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 3:18\">3:18</a></b> Unbelief is not the only basis for condemnation, but it constitutes the climax of rebellion by resisting even God’s gracious offer of salvation in Christ. Jesus comes into a world that is already condemned because of its rejection of God’s self-revelation (<a class=\"bibleref\" href=\"/passage/?search=Rom 1:18-Rom 1:32\">Rom. 1:18–32</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,3,19", "john,3,20" ],
+  "verses" : [ {
+    "verse" : "john,3,19",
+    "text" : "This is the verdict: Light has come into the world, but men loved darkness instead of light because their deeds were evil."
+  }, {
+    "verse" : "john,3,20",
+    "text" : "Everyone who does evil hates the light, and will not come into the light for fear that his deeds will be exposed."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,3,19",
     "id" : 196921,
@@ -95,7 +155,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 3:19\">3:19</a></b> <b>people loved the darkness rather than the light.</b> Jesus gives the reason for the world’s rejection of Him: He is the light who exposes whether a person is righteous or not.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,3,21" ],
+  "verses" : [ {
+    "verse" : "john,3,21",
+    "text" : "But whoever lives by the truth comes into the light, so that it may be seen plainly that what he has done has been done through God.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,3,21",
     "id" : 196922,

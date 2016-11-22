@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,13,2" ],
+  "verses" : [ {
+    "verse" : "proverbs,13,2",
+    "text" : "From the fruit of his lips a man enjoys good things, but the unfaithful have a craving for violence."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 13:2\">13:2</a></b> <b>fruit of his mouth.</b> The power of words is a frequent wisdom theme. See <a class=\"bibleref\" href=\"/passage/?search=Prov 10:11\">10:11</a>, <a class=\"bibleref\" href=\"/passage/?search=Prov 10:13\">13</a>, <a class=\"bibleref\" href=\"/passage/?search=Prov 10:19\">19</a>; <a class=\"bibleref\" href=\"/passage/?search=Prov 12:14\">12:14</a> and notes. Wise words are constructive, and the speaker personally benefits from them.</p><p><b>treacherous.</b> The word suggests treacherous deceivers whose social conscience is warped.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,13,3" ],
+  "verses" : [ {
+    "verse" : "proverbs,13,3",
+    "text" : "He who guards his lips guards his life, but he who speaks rashly will come to ruin."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,13,3",
     "id" : 191924,

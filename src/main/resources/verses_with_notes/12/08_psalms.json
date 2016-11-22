@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "psalms,127,1", "psalms,127,2" ],
+  "verses" : [ {
+    "verse" : "psalms,127,1",
+    "text" : "Unless the LORD builds the house, its builders labor in vain. Unless the LORD watches over the city, the watchmen stand guard in vain."
+  }, {
+    "verse" : "psalms,127,2",
+    "text" : "In vain you rise early and stay up late, toiling for food to eat- for he grants sleep to those he loves."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,127,1-psalms,127,5",
     "id" : 191445,
@@ -12,7 +18,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 127:1\">127:1</a></b> <b>builds the house.</b> The primary reference is to the actual building of a residence, but as a “Song of Ascents” written by Solomon, it is natural to think specifically of the temple. Furthermore, in the light of the second half of the psalm, the house refers to the family as well as to a physical structure.</p><p><b>watches over the city.</b> A city is not secured by its defenses, but by the protection of the Lord. The psalm would remind pilgrims that Jerusalem was not a place of magical protection and security, but that all depended on the Lord.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,127,3", "psalms,127,4" ],
+  "verses" : [ {
+    "verse" : "psalms,127,3",
+    "text" : "Sons are a heritage from the LORD, children a reward from him."
+  }, {
+    "verse" : "psalms,127,4",
+    "text" : "Like arrows in the hands of a warrior are sons born in one's youth."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,127,3",
     "id" : 191447,
@@ -20,7 +32,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 127:3\">127:3</a></b> <b>children.</b> Lit. “the fruit of the womb.” The psalm concentrates on sons, who had the power to provide for their father in his old age, but the second part of this verse includes all children, male and female alike.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,127,5" ],
+  "verses" : [ {
+    "verse" : "psalms,127,5",
+    "text" : "Blessed is the man whose quiver is full of them. They will not be put to shame when they contend with their enemies in the gate."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,127,5",
     "id" : 191448,

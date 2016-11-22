@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "psalms,95,1", "psalms,95,2" ],
+  "verses" : [ {
+    "verse" : "psalms,95,1",
+    "text" : "Come, let us sing for joy to the LORD; let us shout aloud to the Rock of our salvation."
+  }, {
+    "verse" : "psalms,95,2",
+    "text" : "Let us come before him with thanksgiving and extol him with music and song."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,95,1-psalms,95,11",
     "id" : 191079,
@@ -12,7 +18,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 95:1\">95:1</a></b> <b>let us.</b> A worship leader, such as a priest, calls on the congregation to worship the Lord together with him.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,95,3", "psalms,95,4" ],
+  "verses" : [ {
+    "verse" : "psalms,95,3",
+    "text" : "For the LORD is the great God, the great King above all gods."
+  }, {
+    "verse" : "psalms,95,4",
+    "text" : "In his hand are the depths of the earth, and the mountain peaks belong to him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,95,3",
     "id" : 191081,
@@ -20,7 +32,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 95:3\">95:3 a</a></b> <b>great King above all gods.</b> As the supreme God of the universe all sovereignty is His. The reference is to popular Near Eastern mythology, not the actual existence of such gods (<a class=\"bibleref\" href=\"/passage/?search=Ps 48:2\">48:2</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 74:13\">74:13</a> and notes).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,95,5" ],
+  "verses" : [ {
+    "verse" : "psalms,95,5",
+    "text" : "The sea is his, for he made it, and his hands formed the dry land."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,95,5",
     "id" : 191082,
@@ -28,7 +43,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 95:5\">95:5</a></b> <b>The sea . . . the dry land.</b> As in <a class=\"bibleref\" href=\"/passage/?search=Ps 95:4\">v. 4</a>, complementary terms are used to indicate the whole earth.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,95,6" ],
+  "verses" : [ {
+    "verse" : "psalms,95,6",
+    "text" : "Come, let us bow down in worship, let us kneel before the LORD our Maker;"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,95,6",
     "id" : 191083,
@@ -36,7 +54,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 95:6\">95:6</a></b> <b>our Maker.</b> We worship our Creator.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,95,7" ],
+  "verses" : [ {
+    "verse" : "psalms,95,7",
+    "text" : "for he is our God and we are the people of his pasture, the flock under his care. Today, if you hear his voice,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,95,7",
     "id" : 191084,
@@ -44,7 +65,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 95:7\">95:7</a></b> <b>Today.</b> This is an ever-present day.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,95,8", "psalms,95,9", "psalms,95,10" ],
+  "verses" : [ {
+    "verse" : "psalms,95,8",
+    "text" : "do not harden your hearts as you did at Meribah, as you did that day at Massah in the desert,"
+  }, {
+    "verse" : "psalms,95,9",
+    "text" : "where your fathers tested and tried me, though they had seen what I did."
+  }, {
+    "verse" : "psalms,95,10",
+    "text" : "For forty years I was angry with that generation; I said, \"They are a people whose hearts go astray, and they have not known my ways.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,95,8",
     "id" : 191085,
@@ -52,7 +82,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 95:8\">95:8</a></b> <b>Meribah . . . Massah.</b> These place-names may be translated “quarreling” and “testing.” They sum up Israel’s attitude toward God during the forty years of wandering in the wilderness. For the history see <a class=\"bibleref\" href=\"/passage/?search=Exod 17:1-Exod 17:7\">Ex. 17:1–7</a> and notes; <a class=\"bibleref\" href=\"/passage/?search=Num 20:1-Num 20:13\">Num. 20:1–13</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,95,11" ],
+  "verses" : [ {
+    "verse" : "psalms,95,11",
+    "text" : "So I declared on oath in my anger, \"They shall never enter my rest.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,95,11",
     "id" : 191086,
@@ -60,7 +93,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 95:11\">95:11</a></b> <b>They shall not enter my rest.</b> Those who rebelled against the Lord in the wilderness never entered the Promised Land. <a class=\"bibleref\" href=\"/passage/?search=Heb 3:7-Heb 4:7\">Heb. 3:7–4:7</a> cites this passage and applies it to the Christian’s life. Professing Christians must heed God’s Word, or they will not enter God’s eternal rest.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,96,1", "psalms,96,2" ],
+  "verses" : [ {
+    "verse" : "psalms,96,1",
+    "text" : "Sing to the LORD a new song; sing to the LORD, all the earth."
+  }, {
+    "verse" : "psalms,96,2",
+    "text" : "Sing to the LORD, praise his name; proclaim his salvation day after day."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,96,1-psalms,96,13",
     "id" : 191087,
@@ -73,7 +112,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 96:1\">96:1 a</a></b> <b>new song.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Ps 33:3\">Ps. 33:3</a>.</p><p><b>all the earth.</b> Since God is King of the whole earth, and not merely of Israel, the writer calls on all His subjects to praise Him. It is not until Christ returns that substantial numbers from the nations join in the universal chorus of praise.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,96,3", "psalms,96,4", "psalms,96,5", "psalms,96,6", "psalms,96,7" ],
+  "verses" : [ {
+    "verse" : "psalms,96,3",
+    "text" : "Declare his glory among the nations, his marvelous deeds among all peoples."
+  }, {
+    "verse" : "psalms,96,4",
+    "text" : "For great is the LORD and most worthy of praise; he is to be feared above all gods."
+  }, {
+    "verse" : "psalms,96,5",
+    "text" : "For all the gods of the nations are idols, but the LORD made the heavens."
+  }, {
+    "verse" : "psalms,96,6",
+    "text" : "Splendor and majesty are before him; strength and glory are in his sanctuary."
+  }, {
+    "verse" : "psalms,96,7",
+    "text" : "Ascribe to the LORD, O families of nations, ascribe to the LORD glory and strength."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,96,3",
     "id" : 191089,
@@ -81,7 +135,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 96:3\">96:3</a></b> <b>his marvelous works.</b> God’s acts in history provide marvelous events for which to praise Him, e.g., He “made the heavens” (<a class=\"bibleref\" href=\"/passage/?search=Ps 96:5\">v. 5</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,96,8", "psalms,96,9" ],
+  "verses" : [ {
+    "verse" : "psalms,96,8",
+    "text" : "Ascribe to the LORD the glory due his name; bring an offering and come into his courts."
+  }, {
+    "verse" : "psalms,96,9",
+    "text" : "Worship the LORD in the splendor of his holiness; tremble before him, all the earth."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,96,8",
     "id" : 191090,
@@ -89,7 +149,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 96:8\">96:8</a></b> <b>an offering.</b> See <a class=\"bibleref\" href=\"/passage/?search=Lev 2\">Lev. 2</a>. The word is also used for the tribute due a king (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 17:4\">2 Kin. 17:4</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,96,10", "psalms,96,11", "psalms,96,12", "psalms,96,13" ],
+  "verses" : [ {
+    "verse" : "psalms,96,10",
+    "text" : "Say among the nations, \"The LORD reigns.\" The world is firmly established, it cannot be moved; he will judge the peoples with equity."
+  }, {
+    "verse" : "psalms,96,11",
+    "text" : "Let the heavens rejoice, let the earth be glad; let the sea resound, and all that is in it;"
+  }, {
+    "verse" : "psalms,96,12",
+    "text" : "let the fields be jubilant, and everything in them. Then all the trees of the forest will sing for joy;"
+  }, {
+    "verse" : "psalms,96,13",
+    "text" : "they will sing before the LORD, for he comes, he comes to judge the earth. He will judge the world in righteousness and the peoples in his truth."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,96,10",
     "id" : 191091,

@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,25,23" ],
+  "verses" : [ {
+    "verse" : "proverbs,25,23",
+    "text" : "As a north wind brings rain, so a sly tongue brings angry looks."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,25,23",
     "id" : 192244,
@@ -7,7 +10,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 25:23\">25:23</a></b> Note the inevitable cause and effect relationship expressed in both lines.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,25,24" ],
+  "verses" : [ {
+    "verse" : "proverbs,25,24",
+    "text" : "Better to live on a corner of the roof than share a house with a quarrelsome wife."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,25,24",
     "id" : 192245,

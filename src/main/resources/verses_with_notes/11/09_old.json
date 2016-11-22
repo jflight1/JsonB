@@ -1,5 +1,17 @@
 [ {
-  "singleVerses" : [ "ezekiel,20,1", "ezekiel,20,2", "ezekiel,20,3", "ezekiel,20,4" ],
+  "verses" : [ {
+    "verse" : "ezekiel,20,1",
+    "text" : "In the seventh year, in the fifth month on the tenth day, some of the elders of Israel came to inquire of the LORD, and they sat down in front of me."
+  }, {
+    "verse" : "ezekiel,20,2",
+    "text" : "Then the word of the LORD came to me:"
+  }, {
+    "verse" : "ezekiel,20,3",
+    "text" : "\"Son of man, speak to the elders of Israel and say to them, 'This is what the Sovereign LORD says: Have you come to inquire of me? As surely as I live, I will not let you inquire of me, declares the Sovereign LORD.'"
+  }, {
+    "verse" : "ezekiel,20,4",
+    "text" : "\"Will you judge them? Will you judge them, son of man? Then confront them with the detestable practices of their fathers"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,20,1",
     "id" : 194294,
@@ -7,7 +19,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 20:1\">20:1</a></b> <b>year.</b> Once again the elders gather to seek instruction from the prophet, about a year later than the date last mentioned (<a class=\"bibleref\" href=\"/passage/?search=Ezek 8:1\">8:1</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Ezek 14:1\">14:1</a>). The date would be the tenth of Ab (August, 591 <span class=\"small-caps\">b.c.</span>), five years to the day before Jerusalem was put to the torch (<a class=\"bibleref\" href=\"/passage/?search=Jer 52:12\">Jer. 52:12</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,20,5", "ezekiel,20,6", "ezekiel,20,7" ],
+  "verses" : [ {
+    "verse" : "ezekiel,20,5",
+    "text" : "and say to them: 'This is what the Sovereign LORD says: On the day I chose Israel, I swore with uplifted hand to the descendants of the house of Jacob and revealed myself to them in Egypt. With uplifted hand I said to them, \"I am the LORD your God.\""
+  }, {
+    "verse" : "ezekiel,20,6",
+    "text" : "On that day I swore to them that I would bring them out of Egypt into a land I had searched out for them, a land flowing with milk and honey, the most beautiful of all lands."
+  }, {
+    "verse" : "ezekiel,20,7",
+    "text" : "And I said to them, \"Each of you, get rid of the vile images you have set your eyes on, and do not defile yourselves with the idols of Egypt. I am the LORD your God.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,20,5",
     "id" : 194295,
@@ -15,7 +36,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 20:5\">20:5</a></b> <b>I swore.</b> This phrase is repeated several times in the chapter (<a class=\"bibleref\" href=\"/passage/?search=Ezek 20:5\">vv. 5</a>, <a class=\"bibleref\" href=\"/passage/?search=Ezek 20:6\">6</a>, <a class=\"bibleref\" href=\"/passage/?search=Ezek 20:15\">15</a>, <a class=\"bibleref\" href=\"/passage/?search=Ezek 20:23\">23</a>, <a class=\"bibleref\" href=\"/passage/?search=Ezek 20:28\">28</a>, <a class=\"bibleref\" href=\"/passage/?search=Ezek 20:42\">42</a>). God had pledged Himself to Israel and would perform His promises. See <a class=\"bibleref\" href=\"/passage/?search=Exod 3:6-Exod 3:10\">Ex. 3:6–10</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 6:2-Exod 6:8\">6:2–8</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,20,8", "ezekiel,20,9", "ezekiel,20,10" ],
+  "verses" : [ {
+    "verse" : "ezekiel,20,8",
+    "text" : "\"'But they rebelled against me and would not listen to me; they did not get rid of the vile images they had set their eyes on, nor did they forsake the idols of Egypt. So I said I would pour out my wrath on them and spend my anger against them in Egypt."
+  }, {
+    "verse" : "ezekiel,20,9",
+    "text" : "But for the sake of my name I did what would keep it from being profaned in the eyes of the nations they lived among and in whose sight I had revealed myself to the Israelites by bringing them out of Egypt."
+  }, {
+    "verse" : "ezekiel,20,10",
+    "text" : "Therefore I led them out of Egypt and brought them into the desert."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,20,8",
     "id" : 194296,
@@ -23,7 +53,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 20:8\">20:8</a></b> <b>idols of Egypt.</b> The Pentateuch does not record details about the religious life of the Israelites during their slavery in Egypt, but it is safe to infer that they had assimilated the religion of the culture there as they did later in Canaan. The incident with the golden calf (<a class=\"bibleref\" href=\"/passage/?search=Exod 32\">Ex. 32</a>) should be understood against the background of idolatry in Egypt. See 23:3; <a class=\"bibleref\" href=\"/passage/?search=Josh 24:14\">Josh. 24:14</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,20,11" ],
+  "verses" : [ {
+    "verse" : "ezekiel,20,11",
+    "text" : "I gave them my decrees and made known to them my laws, for the man who obeys them will live by them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,20,11",
     "id" : 194297,
@@ -31,7 +64,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 20:11\">20:11</a></b> <b>statutes.</b> The law was God’s gracious gift to Israel; it was a way of life (<a class=\"bibleref\" href=\"/passage/?search=Deut 4:40\">Deut. 4:40</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 32:46\">32:46</a>, <a class=\"bibleref\" href=\"/passage/?search=Deut 32:47\">47</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 1:7\">Josh. 1:7</a>, <a class=\"bibleref\" href=\"/passage/?search=Josh 1:8\">8</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,20,12" ],
+  "verses" : [ {
+    "verse" : "ezekiel,20,12",
+    "text" : "Also I gave them my Sabbaths as a sign between us, so they would know that I the LORD made them holy."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,20,12",
     "id" : 194298,
@@ -39,7 +75,37 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 20:12\">20:12</a></b> <b>Sabbaths.</b> The Sabbath (<a class=\"bibleref\" href=\"/passage/?search=Ezek 20:13\">vv. 13</a>, <a class=\"bibleref\" href=\"/passage/?search=Ezek 20:16\">16</a>, <a class=\"bibleref\" href=\"/passage/?search=Ezek 20:21\">21</a>, <a class=\"bibleref\" href=\"/passage/?search=Ezek 20:24\">24</a>) is singled out as a law unique to Israel, one that most clearly distinguished it from the nations. The Sabbath is often cited as an important example that stands for the whole law (<a class=\"bibleref\" href=\"/passage/?search=Ezek 22:8\">22:8</a>, <a class=\"bibleref\" href=\"/passage/?search=Ezek 22:26\">26</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 23:38\">23:38</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 44:24\">44:24</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Neh 13:18\">Neh. 13:18</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 56:2\">Is. 56:2</a>, <a class=\"bibleref\" href=\"/passage/?search=Isa 56:4\">4</a>, <a class=\"bibleref\" href=\"/passage/?search=Isa 56:6\">6</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 17:19-Jer 17:27\">Jer. 17:19–27</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,20,13", "ezekiel,20,14", "ezekiel,20,15", "ezekiel,20,16", "ezekiel,20,17", "ezekiel,20,18", "ezekiel,20,19", "ezekiel,20,20", "ezekiel,20,21", "ezekiel,20,22" ],
+  "verses" : [ {
+    "verse" : "ezekiel,20,13",
+    "text" : "\"'Yet the people of Israel rebelled against me in the desert. They did not follow my decrees but rejected my laws-although the man who obeys them will live by them-and they utterly desecrated my Sabbaths. So I said I would pour out my wrath on them and destroy them in the desert."
+  }, {
+    "verse" : "ezekiel,20,14",
+    "text" : "But for the sake of my name I did what would keep it from being profaned in the eyes of the nations in whose sight I had brought them out."
+  }, {
+    "verse" : "ezekiel,20,15",
+    "text" : "Also with uplifted hand I swore to them in the desert that I would not bring them into the land I had given them-a land flowing with milk and honey, most beautiful of all lands-"
+  }, {
+    "verse" : "ezekiel,20,16",
+    "text" : "because they rejected my laws and did not follow my decrees and desecrated my Sabbaths. For their hearts were devoted to their idols."
+  }, {
+    "verse" : "ezekiel,20,17",
+    "text" : "Yet I looked on them with pity and did not destroy them or put an end to them in the desert."
+  }, {
+    "verse" : "ezekiel,20,18",
+    "text" : "I said to their children in the desert, \"Do not follow the statutes of your fathers or keep their laws or defile yourselves with their idols."
+  }, {
+    "verse" : "ezekiel,20,19",
+    "text" : "I am the LORD your God; follow my decrees and be careful to keep my laws."
+  }, {
+    "verse" : "ezekiel,20,20",
+    "text" : "Keep my Sabbaths holy, that they may be a sign between us. Then you will know that I am the LORD your God.\""
+  }, {
+    "verse" : "ezekiel,20,21",
+    "text" : "\"'But the children rebelled against me: They did not follow my decrees, they were not careful to keep my laws-although the man who obeys them will live by them-and they desecrated my Sabbaths. So I said I would pour out my wrath on them and spend my anger against them in the desert."
+  }, {
+    "verse" : "ezekiel,20,22",
+    "text" : "But I withheld my hand, and for the sake of my name I did what would keep it from being profaned in the eyes of the nations in whose sight I had brought them out."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,20,13",
     "id" : 194299,
@@ -47,7 +113,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 20:13\">20:13</a></b> <b>rebelled.</b> The first generation in the wilderness rebelled against God (<a class=\"bibleref\" href=\"/passage/?search=Exod 17:2\">Ex. 17:2</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 14:18\">Num. 14:18</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 14:16\">16</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 14:17\">17</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 20:10\">20:10</a>, <a class=\"bibleref\" href=\"/passage/?search=Num 20:24\">24</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 20:25\">25</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 26:9\">26:9</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 27:14\">27:14</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 1:26\">Deut. 1:26</a>, <a class=\"bibleref\" href=\"/passage/?search=Deut 1:43\">43</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 9:7\">9:7</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 31:27\">31:27</a>).</p><p><b>my Sabbaths.</b> See <a class=\"bibleref\" href=\"/passage/?search=Num 15:32-Num 15:36\">Num. 15:32–36</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,20,23", "ezekiel,20,24", "ezekiel,20,25" ],
+  "verses" : [ {
+    "verse" : "ezekiel,20,23",
+    "text" : "Also with uplifted hand I swore to them in the desert that I would disperse them among the nations and scatter them through the countries,"
+  }, {
+    "verse" : "ezekiel,20,24",
+    "text" : "because they had not obeyed my laws but had rejected my decrees and desecrated my Sabbaths, and their eyes lusted after their fathers' idols."
+  }, {
+    "verse" : "ezekiel,20,25",
+    "text" : "I also gave them over to statutes that were not good and laws they could not live by;"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,20,23",
     "id" : 194300,
@@ -55,7 +130,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 20:23\">20:23</a></b> <b>scatter.</b> The threat of exile existed even before the people entered the land (<a class=\"bibleref\" href=\"/passage/?search=Lev 26:32-Lev 26:35\">Lev. 26:32–35</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 28:64-Deut 28:67\">Deut. 28:64–67</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 106:26\">Ps. 106:26</a>). Moses predicted that they would rebel against the Lord once in the land (<a class=\"bibleref\" href=\"/passage/?search=Deut 31:27\">Deut. 31:27</a>, <a class=\"bibleref\" href=\"/passage/?search=Deut 31:29\">29</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,20,26", "ezekiel,20,27", "ezekiel,20,28" ],
+  "verses" : [ {
+    "verse" : "ezekiel,20,26",
+    "text" : "I let them become defiled through their gifts-the sacrifice of every firstborn -that I might fill them with horror so they would know that I am the LORD.'"
+  }, {
+    "verse" : "ezekiel,20,27",
+    "text" : "\"Therefore, son of man, speak to the people of Israel and say to them, 'This is what the Sovereign LORD says: In this also your fathers blasphemed me by forsaking me:"
+  }, {
+    "verse" : "ezekiel,20,28",
+    "text" : "When I brought them into the land I had sworn to give them and they saw any high hill or any leafy tree, there they offered their sacrifices, made offerings that provoked me to anger, presented their fragrant incense and poured out their drink offerings."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,20,26",
     "id" : 194301,
@@ -63,7 +147,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 20:26\">20:26</a></b> <b>their firstborn.</b> The law was God’s gracious gift (<a class=\"bibleref\" href=\"/passage/?search=Ezek 20:11\">v. 11</a> note), but when perverted it brought death. Ezekiel appears to regard the practice of child sacrifice in ancient Israel as a perversion of their laws regarding the firstborn (<a class=\"bibleref\" href=\"/passage/?search=Exod 13:1\">Ex. 13:1</a>, <a class=\"bibleref\" href=\"/passage/?search=Exod 13:11-Exod 13:16\">11–16</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 22:29\">22:29</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 34:19\">34:19</a>, <a class=\"bibleref\" href=\"/passage/?search=Exod 34:20\">20</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 18:15\">Num. 18:15</a>, <a class=\"bibleref\" href=\"/passage/?search=Num 18:16\">16</a>). Every firstborn belonged to the Lord, but children were not to be sacrificed.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,20,29", "ezekiel,20,30", "ezekiel,20,31" ],
+  "verses" : [ {
+    "verse" : "ezekiel,20,29",
+    "text" : "Then I said to them: What is this high place you go to?'\" (It is called Bamah to this day.)"
+  }, {
+    "verse" : "ezekiel,20,30",
+    "text" : "\"Therefore say to the house of Israel: 'This is what the Sovereign LORD says: Will you defile yourselves the way your fathers did and lust after their vile images?"
+  }, {
+    "verse" : "ezekiel,20,31",
+    "text" : "When you offer your gifts-the sacrifice of your sons in the fire-you continue to defile yourselves with all your idols to this day. Am I to let you inquire of me, O house of Israel? As surely as I live, declares the Sovereign LORD, I will not let you inquire of me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,20,29",
     "id" : 194302,
@@ -71,7 +164,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 20:29\">20:29</a></b> <b>high place.</b> Second Kings measures almost every ruler of Judah in terms of what he or she did about the high places around Jerusalem.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,20,32", "ezekiel,20,33", "ezekiel,20,34" ],
+  "verses" : [ {
+    "verse" : "ezekiel,20,32",
+    "text" : "\"'You say, \"We want to be like the nations, like the peoples of the world, who serve wood and stone.\" But what you have in mind will never happen."
+  }, {
+    "verse" : "ezekiel,20,33",
+    "text" : "As surely as I live, declares the Sovereign LORD, I will rule over you with a mighty hand and an outstretched arm and with outpoured wrath."
+  }, {
+    "verse" : "ezekiel,20,34",
+    "text" : "I will bring you from the nations and gather you from the countries where you have been scattered-with a mighty hand and an outstretched arm and with outpoured wrath."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,20,32-ezekiel,20,38",
     "id" : 194303,
@@ -79,7 +181,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 20:32-Ezek 20:38\">20:32–38</a></b> The desire to be like the surrounding nations (<a class=\"bibleref\" href=\"/passage/?search=Ezek 20:32\">v. 32</a>) reflects <a class=\"bibleref\" href=\"/passage/?search=1Sam 8:20\">1 Sam. 8:20</a>; the people had rejected God (<a class=\"bibleref\" href=\"/passage/?search=1Sam 8:7\">1 Sam. 8:7</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 8:8\">8</a>). But just as God would not abandon earlier generations of His chosen people, so now He promises a new exodus and a return to the wilderness experience (vv. 33–35). Just as only the faithful and obedient from those in the wilderness generation crossed into the land (<a class=\"bibleref\" href=\"/passage/?search=Num 14:30\">Num. 14:30</a>, <a class=\"bibleref\" href=\"/passage/?search=Num 14:38\">38</a>), so too God would again purge the nation to bring a faithful people into the land (vv. 36–38).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,20,35", "ezekiel,20,36" ],
+  "verses" : [ {
+    "verse" : "ezekiel,20,35",
+    "text" : "I will bring you into the desert of the nations and there, face to face, I will execute judgment upon you."
+  }, {
+    "verse" : "ezekiel,20,36",
+    "text" : "As I judged your fathers in the desert of the land of Egypt, so I will judge you, declares the Sovereign LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,20,35",
     "id" : 194304,
@@ -87,7 +195,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 20:35\">20:35</a></b> <b>wilderness of the peoples.</b> Possibly this refers to the desolation of exile, which Israel was about to experience. Israel was going to be judged in a “wilderness” just as the wilderness generation had been.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,20,37" ],
+  "verses" : [ {
+    "verse" : "ezekiel,20,37",
+    "text" : "I will take note of you as you pass under my rod, and I will bring you into the bond of the covenant."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,20,37",
     "id" : 194305,
@@ -95,7 +206,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 20:37\">20:37</a></b> <b>pass under the rod.</b> The phrase alludes to the practice of counting off animals for the tithe (<a class=\"bibleref\" href=\"/passage/?search=Lev 27:32\">Lev. 27:32</a>, <a class=\"bibleref\" href=\"/passage/?search=Lev 27:33\">33</a>); it suggests that a tenth would be left (cf. <a class=\"bibleref\" href=\"/passage/?search=Isa 6:13\">Is. 6:13</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,20,38", "ezekiel,20,39" ],
+  "verses" : [ {
+    "verse" : "ezekiel,20,38",
+    "text" : "I will purge you of those who revolt and rebel against me. Although I will bring them out of the land where they are living, yet they will not enter the land of Israel. Then you will know that I am the LORD."
+  }, {
+    "verse" : "ezekiel,20,39",
+    "text" : "\"'As for you, O house of Israel, this is what the Sovereign LORD says: Go and serve your idols, every one of you! But afterward you will surely listen to me and no longer profane my holy name with your gifts and idols."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,20,38",
     "id" : 194306,
@@ -103,7 +220,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 20:38\">20:38</a></b> <b>purge.</b> The goal of the periodic catastrophes that befell Israel was commonly to produce a purified, purged, and faithful remnant (<a class=\"bibleref\" href=\"/passage/?search=Ezek 6:8\">6:8</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,20,40", "ezekiel,20,41", "ezekiel,20,42", "ezekiel,20,43", "ezekiel,20,44" ],
+  "verses" : [ {
+    "verse" : "ezekiel,20,40",
+    "text" : "For on my holy mountain, the high mountain of Israel, declares the Sovereign LORD, there in the land the entire house of Israel will serve me, and there I will accept them. There I will require your offerings and your choice gifts, along with all your holy sacrifices."
+  }, {
+    "verse" : "ezekiel,20,41",
+    "text" : "I will accept you as fragrant incense when I bring you out from the nations and gather you from the countries where you have been scattered, and I will show myself holy among you in the sight of the nations."
+  }, {
+    "verse" : "ezekiel,20,42",
+    "text" : "Then you will know that I am the LORD, when I bring you into the land of Israel, the land I had sworn with uplifted hand to give to your fathers."
+  }, {
+    "verse" : "ezekiel,20,43",
+    "text" : "There you will remember your conduct and all the actions by which you have defiled yourselves, and you will loathe yourselves for all the evil you have done."
+  }, {
+    "verse" : "ezekiel,20,44",
+    "text" : "You will know that I am the LORD, when I deal with you for my name's sake and not according to your evil ways and your corrupt practices, O house of Israel, declares the Sovereign LORD.'\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,20,40",
     "id" : 194307,
@@ -111,7 +243,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 20:40\">20:40</a></b> <b>holy mountain.</b> Zion. The faithful remnant would worship at God’s holy mountain. The glory of the grace of God is that He deals with us in mercy and not as our sins deserve (<a class=\"bibleref\" href=\"/passage/?search=Ezek 20:44\">20:44</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezra 9:13\">Ezra 9:13</a>; <a class=\"bibleref\" href=\"/passage/?search=Job 33:27\">Job 33:27</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 103:10\">Ps. 103:10</a>; <a class=\"bibleref\" href=\"/passage/?search=Lam 3:22\">Lam. 3:22</a>, <a class=\"bibleref\" href=\"/passage/?search=Lam 3:23\">23</a>, <a class=\"bibleref\" href=\"/passage/?search=Lam 3:31-Lam 3:33\">31–33</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,20,45", "ezekiel,20,46", "ezekiel,20,47", "ezekiel,20,48" ],
+  "verses" : [ {
+    "verse" : "ezekiel,20,45",
+    "text" : "The word of the LORD came to me:"
+  }, {
+    "verse" : "ezekiel,20,46",
+    "text" : "\"Son of man, set your face toward the south; preach against the south and prophesy against the forest of the southland."
+  }, {
+    "verse" : "ezekiel,20,47",
+    "text" : "Say to the southern forest: 'Hear the word of the LORD. This is what the Sovereign LORD says: I am about to set fire to you, and it will consume all your trees, both green and dry. The blazing flame will not be quenched, and every face from south to north will be scorched by it."
+  }, {
+    "verse" : "ezekiel,20,48",
+    "text" : "Everyone will see that I the LORD have kindled it; it will not be quenched.'\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,20,45-ezekiel,20,48",
     "id" : 194308,
@@ -119,7 +263,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 20:45-Ezek 20:48\">20:45–48</a></b> This short prophecy against the South is explained in <a class=\"bibleref\" href=\"/passage/?search=Ezek 21:1-Ezek 21:5\">21:1–5</a>. Here and in <a class=\"bibleref\" href=\"/passage/?search=Ezek 21:4\">21:4</a> disaster comes “from south to north,” and the disaster cannot be stopped (v. 48; <a class=\"bibleref\" href=\"/passage/?search=Ezek 21:5\">21:5</a>). The threat was issued in Babylon, and Israel is described as lying to the south. Disaster is usually portrayed as coming from the north (<a class=\"bibleref\" href=\"/passage/?search=Isa 14:31\">Is. 14:31</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 41:25\">41:25</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 1:13-Jer 1:15\">Jer. 1:13–15</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 4:6\">4:6</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 6:1\">6:1</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 10:22\">10:22</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 25:9\">25:9</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 47:2\">47:2</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 50:9\">50:9</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 51:48\">51:48</a>; <a class=\"bibleref\" href=\"/passage/?search=Joel 2:20\">Joel 2:20</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,20,49" ],
+  "verses" : [ {
+    "verse" : "ezekiel,20,49",
+    "text" : "Then I said, \"Ah, Sovereign LORD! They are saying of me, 'Isn't he just telling parables?'\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,20,49",
     "id" : 194309,

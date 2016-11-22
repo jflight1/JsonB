@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "exodus,4,1" ],
+  "verses" : [ {
+    "verse" : "exodus,4,1",
+    "text" : "Moses answered, \"What if they do not believe me or listen to me and say, 'The LORD did not appear to you'?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,4,1-exodus,4,9",
     "id" : 185594,
@@ -12,7 +15,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 4:1\">4:1</a></b> <b>But behold.</b> Moses’ third objection (<a class=\"bibleref\" href=\"/passage/?search=Exod 3:11\">3:11</a> note). Israel must be persuaded. This would be the difficult task, but God had purposed to see that Israel would believe (<a class=\"bibleref\" href=\"/passage/?search=Exod 3:18\">3:18</a>). Nothing is said about convincing Pharaoh (cf. <a class=\"bibleref\" href=\"/passage/?search=Exod 6:12\">6:12</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,4,2", "exodus,4,3", "exodus,4,4", "exodus,4,5" ],
+  "verses" : [ {
+    "verse" : "exodus,4,2",
+    "text" : "Then the LORD said to him, \"What is that in your hand?A staff,\" he replied."
+  }, {
+    "verse" : "exodus,4,3",
+    "text" : "The LORD said, \"Throw it on the ground.\" Moses threw it on the ground and it became a snake, and he ran from it."
+  }, {
+    "verse" : "exodus,4,4",
+    "text" : "Then the LORD said to him, \"Reach out your hand and take it by the tail.\" So Moses reached out and took hold of the snake and it turned back into a staff in his hand."
+  }, {
+    "verse" : "exodus,4,5",
+    "text" : "\"This,\" said the LORD, \"is so that they may believe that the LORD, the God of their fathers-the God of Abraham, the God of Isaac and the God of Jacob-has appeared to you.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,4,2",
     "id" : 185596,
@@ -20,7 +35,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 4:2\">4:2</a></b> <b>hand.</b> The Hebrew word for “hand” often connotes power. Against the oppressing hand of Egypt (<a class=\"bibleref\" href=\"/passage/?search=Exod 3:8\">3:8</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 14:30\">14:30</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 18:10\">18:10</a>), the mighty hand of God will be stretched out (<a class=\"bibleref\" href=\"/passage/?search=Exod 3:19-Exod 3:20\">3:19–20</a>). God will use the hand of Moses to show His power. Moses’ staff will become the staff of God (<a class=\"bibleref\" href=\"/passage/?search=Exod 3:20\">v. 20</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,4,6", "exodus,4,7", "exodus,4,8" ],
+  "verses" : [ {
+    "verse" : "exodus,4,6",
+    "text" : "Then the LORD said, \"Put your hand inside your cloak.\" So Moses put his hand into his cloak, and when he took it out, it was leprous, like snow."
+  }, {
+    "verse" : "exodus,4,7",
+    "text" : "\"Now put it back into your cloak,\" he said. So Moses put his hand back into his cloak, and when he took it out, it was restored, like the rest of his flesh."
+  }, {
+    "verse" : "exodus,4,8",
+    "text" : "Then the LORD said, \"If they do not believe you or pay attention to the first miraculous sign, they may believe the second."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,4,6",
     "id" : 185597,
@@ -28,7 +52,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 4:6\">4:6</a></b> <b>leprous.</b> Not what is today called Hansen’s Disease, but a common skin disease of the time. God shows His power to judge and to heal.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,4,9" ],
+  "verses" : [ {
+    "verse" : "exodus,4,9",
+    "text" : "But if they do not believe these two signs or listen to you, take some water from the Nile and pour it on the dry ground. The water you take from the river will become blood on the ground.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,4,9",
     "id" : 185598,
@@ -36,7 +63,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 4:9\">4:9</a></b> <b>the Nile.</b> This specific sign was not needed by Moses and was not used, though its force appears in the first plague (<a class=\"bibleref\" href=\"/passage/?search=Exod 7:20\">7:20</a>). The Nile was revered as a god and was the source of Egypt’s life. This sign would have meant the potential death of the Nile and thus of Egypt.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,4,10", "exodus,4,11", "exodus,4,12" ],
+  "verses" : [ {
+    "verse" : "exodus,4,10",
+    "text" : "Moses said to the LORD, \"O Lord, I have never been eloquent, neither in the past nor since you have spoken to your servant. I am slow of speech and tongue.\""
+  }, {
+    "verse" : "exodus,4,11",
+    "text" : "The LORD said to him, \"Who gave man his mouth? Who makes him deaf or mute? Who gives him sight or makes him blind? Is it not I, the LORD?"
+  }, {
+    "verse" : "exodus,4,12",
+    "text" : "Now go; I will help you speak and will teach you what to say.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,4,10",
     "id" : 185599,
@@ -44,7 +80,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 4:10\">4:10</a></b> <b>slow of speech.</b> The fourth objection. Moses is not fluent, but God equips whom He calls (<a class=\"bibleref\" href=\"/passage/?search=Jer 1:9\">Jer. 1:9</a>). God was teaching Moses and his successors to depend on Him for their gifts. If God made the mouth (v. 11), He can enable man to use it.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,4,13", "exodus,4,14", "exodus,4,15", "exodus,4,16" ],
+  "verses" : [ {
+    "verse" : "exodus,4,13",
+    "text" : "But Moses said, \"O Lord, please send someone else to do it.\""
+  }, {
+    "verse" : "exodus,4,14",
+    "text" : "Then the LORD's anger burned against Moses and he said, \"What about your brother, Aaron the Levite? I know he can speak well. He is already on his way to meet you, and his heart will be glad when he sees you."
+  }, {
+    "verse" : "exodus,4,15",
+    "text" : "You shall speak to him and put words in his mouth; I will help both of you speak and will teach you what to do."
+  }, {
+    "verse" : "exodus,4,16",
+    "text" : "He will speak to the people for you, and it will be as if he were your mouth and as if you were God to him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,4,13-exodus,4,16",
     "id" : 185600,
@@ -52,7 +100,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 4:13-Exod 4:16\">4:13–16</a></b> Left without excuse, Moses still tries to decline his commission. But the Lord has already summoned his brother Aaron. The relation of Moses to Aaron sheds light on the nature of prophecy: Aaron will be a mouthpiece for Moses just as a prophet is for God (<a class=\"bibleref\" href=\"/passage/?search=Exod 4:16\">v. 16</a>). See also <a class=\"bibleref\" href=\"/passage/?search=Exod 6:30\">6:30</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 7:1\">7:1</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,4,17", "exodus,4,18" ],
+  "verses" : [ {
+    "verse" : "exodus,4,17",
+    "text" : "But take this staff in your hand so you can perform miraculous signs with it.\""
+  }, {
+    "verse" : "exodus,4,18",
+    "text" : "Then Moses went back to Jethro his father-in-law and said to him, \"Let me go back to my own people in Egypt to see if any of them are still alive.\" Jethro said, \"Go, and I wish you well.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,4,17",
     "id" : 185601,
@@ -60,7 +114,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 4:17\">4:17</a></b> <b>signs.</b> The plagues are again anticipated (<a class=\"bibleref\" href=\"/passage/?search=Exod 3:20\">3:20</a> note). These miraculous deeds will be performed with this same staff.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,4,19" ],
+  "verses" : [ {
+    "verse" : "exodus,4,19",
+    "text" : "Now the LORD had said to Moses in Midian, \"Go back to Egypt, for all the men who wanted to kill you are dead.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,4,19",
     "id" : 185602,
@@ -68,7 +125,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 4:19\">4:19</a></b> <b>all the men . . . dead.</b> Including the Egyptian Pharaoh (Introduction: Date and Occasion).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,4,20" ],
+  "verses" : [ {
+    "verse" : "exodus,4,20",
+    "text" : "So Moses took his wife and sons, put them on a donkey and started back to Egypt. And he took the staff of God in his hand."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,4,20",
     "id" : 185603,
@@ -76,7 +136,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 4:20\">4:20</a></b> <b>sons.</b> Gershom (<a class=\"bibleref\" href=\"/passage/?search=Exod 2:22\">2:22</a>) and Eliezer (<a class=\"bibleref\" href=\"/passage/?search=Exod 18:4\">18:4</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,4,21" ],
+  "verses" : [ {
+    "verse" : "exodus,4,21",
+    "text" : "The LORD said to Moses, \"When you return to Egypt, see that you perform before Pharaoh all the wonders I have given you the power to do. But I will harden his heart so that he will not let the people go."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,4,21",
     "id" : 185604,
@@ -84,7 +147,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 4:21\">4:21</a></b> <b>I will harden his heart.</b> The Lord’s hardening of Pharaoh’s heart is a sovereign divine judgment on Pharaoh, who is also said to harden his own heart (<a class=\"bibleref\" href=\"/passage/?search=Exod 8:15\">8:15</a>; <a class=\"bibleref\" href=\"/passage/?search=Rom 9:17\">Rom. 9:17</a>, <a class=\"bibleref\" href=\"/passage/?search=Rom 9:18\">18</a>). God purposes to display His power over the stubborn hostility of the king so that His people might know that He is the Lord their deliverer (6:6–8).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,4,22", "exodus,4,23" ],
+  "verses" : [ {
+    "verse" : "exodus,4,22",
+    "text" : "Then say to Pharaoh, 'This is what the LORD says: Israel is my firstborn son,"
+  }, {
+    "verse" : "exodus,4,23",
+    "text" : "and I told you, \"Let my son go, so he may worship me.\" But you refused to let him go; so I will kill your firstborn son.'\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,4,22",
     "id" : 185605,
@@ -92,7 +161,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 4:22\">4:22</a></b> <b>Israel is my firstborn son.</b> The Lord puts His claim upon Israel as His firstborn son, His beloved, a title ultimately realized in Jesus Christ (<a class=\"bibleref\" href=\"/passage/?search=Mark 1:11\">Mark 1:11</a>). God’s claim is the reason for God’s deliverance and the covenant to be sealed at Sinai (“that he may serve me,” v. 23). This claim issues in God’s threat against Pharaoh’s firstborn (i.e., the firstborn of Egypt).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,4,24" ],
+  "verses" : [ {
+    "verse" : "exodus,4,24",
+    "text" : "At a lodging place on the way, the LORD met {Moses} and was about to kill him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,4,24",
     "id" : 185606,
@@ -100,7 +172,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 4:24\">4:24</a></b> <b>put him to death.</b> The Hebrew is unclear. These words echo <a class=\"bibleref\" href=\"/passage/?search=Exod 4:23\">v. 23</a> and may refer to Moses’ firstborn, Gershom, not to Moses. Alternatively, the attack may have been directed against Moses himself, perhaps because of his failure to circumcise his son.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,4,25", "exodus,4,26" ],
+  "verses" : [ {
+    "verse" : "exodus,4,25",
+    "text" : "But Zipporah took a flint knife, cut off her son's foreskin and touched {Moses'} feet with it. \"Surely you are a bridegroom of blood to me,\" she said."
+  }, {
+    "verse" : "exodus,4,26",
+    "text" : "So the LORD let him alone. (At that time she said \"bridegroom of blood,\" referring to circumcision.)"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,4,25",
     "id" : 185607,
@@ -108,7 +186,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 4:25\">4:25</a></b> <b>flint.</b> Presumably, a ceremonial instrument. Zipporah intervenes to circumcise her son.</p><p><b>Moses’ feet.</b> Lit. “his feet”; the word “Moses’ ” is supplied (cf. 24 note). The connection of Zipporah’s action with the “bridegroom of blood” is uncertain. Circumcision, no less than the Passover, requires the shedding of blood for cleansing and protection. The Lord, the God of the fathers, requires the sign He gave to Abraham (<a class=\"bibleref\" href=\"/passage/?search=Gen 17:10\">Gen. 17:10</a>). Other examples of divine confrontation at the beginning of a mission include <a class=\"bibleref\" href=\"/passage/?search=Gen 32:24\">Gen. 32:24</a> and <a class=\"bibleref\" href=\"/passage/?search=Josh 5:13\">Josh. 5:13</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,4,27", "exodus,4,28", "exodus,4,29" ],
+  "verses" : [ {
+    "verse" : "exodus,4,27",
+    "text" : "The LORD said to Aaron, \"Go into the desert to meet Moses.\" So he met Moses at the mountain of God and kissed him."
+  }, {
+    "verse" : "exodus,4,28",
+    "text" : "Then Moses told Aaron everything the LORD had sent him to say, and also about all the miraculous signs he had commanded him to perform."
+  }, {
+    "verse" : "exodus,4,29",
+    "text" : "Moses and Aaron brought together all the elders of the Israelites,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,4,27",
     "id" : 185608,
@@ -116,7 +203,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 4:27\">4:27</a></b> <b>to meet Moses.</b> In Hebrew narrative style, this statement takes the reader back in time to explain Aaron’s meeting with Moses before Moses left Sinai.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,4,30" ],
+  "verses" : [ {
+    "verse" : "exodus,4,30",
+    "text" : "and Aaron told them everything the LORD had said to Moses. He also performed the signs before the people,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,4,30",
     "id" : 185609,
@@ -124,7 +214,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 4:30\">4:30</a></b> <b>Aaron.</b> Aaron will now function as Moses’ spokesman (<a class=\"bibleref\" href=\"/passage/?search=Exod 4:13-Exod 4:16\">vv. 13–16</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,4,31" ],
+  "verses" : [ {
+    "verse" : "exodus,4,31",
+    "text" : "and they believed. And when they heard that the LORD was concerned about them and had seen their misery, they bowed down and worshiped."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,4,31",
     "id" : 185610,
@@ -132,7 +225,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 4:31\">4:31</a></b> <b>believed.</b> Israel now believes as God had said that they would (<a class=\"bibleref\" href=\"/passage/?search=Exod 3:18\">3:18</a>). They worship, praising God for His care.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,5,1" ],
+  "verses" : [ {
+    "verse" : "exodus,5,1",
+    "text" : "Afterward Moses and Aaron went to Pharaoh and said, \"This is what the LORD, the God of Israel, says: 'Let my people go, so that they may hold a festival to me in the desert.'\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,5,1",
     "id" : 185611,
@@ -140,7 +236,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 5:1\">5:1</a></b> <b>Let my people go.</b> The confrontation with Pharaoh begins with God’s demand. The people are His, not Pharaoh’s.</p><p><b>hold a feast.</b> This was a pilgrimage to a shrine where a festival would be held (<a class=\"bibleref\" href=\"/passage/?search=Exod 3:18\">3:18</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,5,2" ],
+  "verses" : [ {
+    "verse" : "exodus,5,2",
+    "text" : "Pharaoh said, \"Who is the LORD, that I should obey him and let Israel go? I do not know the LORD and I will not let Israel go.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,5,2",
     "id" : 185612,
@@ -148,7 +247,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 5:2\">5:2</a></b> <b>Who is the <span class=\"small-caps\">Lord</span>.<span class=\"small-caps\"></span> </b>Pharaoh’s question will be answered by the plagues.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,5,3", "exodus,5,4" ],
+  "verses" : [ {
+    "verse" : "exodus,5,3",
+    "text" : "Then they said, \"The God of the Hebrews has met with us. Now let us take a three-day journey into the desert to offer sacrifices to the LORD our God, or he may strike us with plagues or with the sword.\""
+  }, {
+    "verse" : "exodus,5,4",
+    "text" : "But the king of Egypt said, \"Moses and Aaron, why are you taking the people away from their labor? Get back to your work!\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,5,3",
     "id" : 185613,
@@ -156,7 +261,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 5:3\">5:3</a></b> After presenting God’s demand, Moses and Aaron seek to reason with Pharaoh. The Lord is the God of the Hebrews; the distance would be only a three-day journey; disobedience to God’s command could seriously reduce Pharaoh’s work force.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,5,5", "exodus,5,6" ],
+  "verses" : [ {
+    "verse" : "exodus,5,5",
+    "text" : "Then Pharaoh said, \"Look, the people of the land are now numerous, and you are stopping them from working.\""
+  }, {
+    "verse" : "exodus,5,6",
+    "text" : "That same day Pharaoh gave this order to the slave drivers and foremen in charge of the people:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,5,5",
     "id" : 185614,
@@ -164,7 +275,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 5:5\">5:5</a></b> <b>people of the land.</b> Later this term came to mean the responsible landowners in Israel (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 11:18-2Kgs 11:20\">2 Kin. 11:18–20</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 34:19\">Jer. 34:19</a>), but here it means peasant workers attached to the land.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,5,7", "exodus,5,8", "exodus,5,9" ],
+  "verses" : [ {
+    "verse" : "exodus,5,7",
+    "text" : "\"You are no longer to supply the people with straw for making bricks; let them go and gather their own straw."
+  }, {
+    "verse" : "exodus,5,8",
+    "text" : "But require them to make the same number of bricks as before; don't reduce the quota. They are lazy; that is why they are crying out, 'Let us go and sacrifice to our God.'"
+  }, {
+    "verse" : "exodus,5,9",
+    "text" : "Make the work harder for the men so that they keep working and pay no attention to lies.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,5,7",
     "id" : 185615,
@@ -172,7 +292,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 5:7\">5:7</a></b> <b>straw.</b> The bricks of the time were much larger than modern bricks; they were molded of Nile mud with straw to increase their strength.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,5,10", "exodus,5,11", "exodus,5,12", "exodus,5,13", "exodus,5,14" ],
+  "verses" : [ {
+    "verse" : "exodus,5,10",
+    "text" : "Then the slave drivers and the foremen went out and said to the people, \"This is what Pharaoh says: 'I will not give you any more straw."
+  }, {
+    "verse" : "exodus,5,11",
+    "text" : "Go and get your own straw wherever you can find it, but your work will not be reduced at all.'\""
+  }, {
+    "verse" : "exodus,5,12",
+    "text" : "So the people scattered all over Egypt to gather stubble to use for straw."
+  }, {
+    "verse" : "exodus,5,13",
+    "text" : "The slave drivers kept pressing them, saying, \"Complete the work required of you for each day, just as when you had straw.\""
+  }, {
+    "verse" : "exodus,5,14",
+    "text" : "The Israelite foremen appointed by Pharaoh's slave drivers were beaten and were asked, \"Why didn't you meet your quota of bricks yesterday or today, as before?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,5,10",
     "id" : 185616,
@@ -180,7 +315,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 5:10\">5:10</a></b> <b>taskmasters.</b> The slave masters and section leaders pass the order down through the ranks. During the events of <a class=\"bibleref\" href=\"/passage/?search=Exod 5:6-Exod 5:19\">vv. 6–19</a> Moses and Aaron do not intervene. This crushing reply of Pharaoh shows his human supremacy.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,5,15", "exodus,5,16", "exodus,5,17", "exodus,5,18", "exodus,5,19", "exodus,5,20" ],
+  "verses" : [ {
+    "verse" : "exodus,5,15",
+    "text" : "Then the Israelite foremen went and appealed to Pharaoh: \"Why have you treated your servants this way?"
+  }, {
+    "verse" : "exodus,5,16",
+    "text" : "Your servants are given no straw, yet we are told, 'Make bricks!' Your servants are being beaten, but the fault is with your own people.\""
+  }, {
+    "verse" : "exodus,5,17",
+    "text" : "Pharaoh said, \"Lazy, that's what you are-lazy! That is why you keep saying, 'Let us go and sacrifice to the LORD.'"
+  }, {
+    "verse" : "exodus,5,18",
+    "text" : "Now get to work. You will not be given any straw, yet you must produce your full quota of bricks.\""
+  }, {
+    "verse" : "exodus,5,19",
+    "text" : "The Israelite foremen realized they were in trouble when they were told, \"You are not to reduce the number of bricks required of you for each day.\""
+  }, {
+    "verse" : "exodus,5,20",
+    "text" : "When they left Pharaoh, they found Moses and Aaron waiting to meet them,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,5,15-exodus,5,21",
     "id" : 185617,
@@ -188,7 +341,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 5:15-Exod 5:21\">5:15–21</a></b> Israel appeals to Pharaoh for relief and complains to Moses and Aaron about their plight.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,5,21" ],
+  "verses" : [ {
+    "verse" : "exodus,5,21",
+    "text" : "and they said, \"May the LORD look upon you and judge you! You have made us a stench to Pharaoh and his officials and have put a sword in their hand to kill us.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,5,21",
     "id" : 185618,

@@ -1,5 +1,14 @@
 [ {
-  "singleVerses" : [ "ezekiel,37,1", "ezekiel,37,2", "ezekiel,37,3" ],
+  "verses" : [ {
+    "verse" : "ezekiel,37,1",
+    "text" : "The hand of the LORD was upon me, and he brought me out by the Spirit of the LORD and set me in the middle of a valley; it was full of bones."
+  }, {
+    "verse" : "ezekiel,37,2",
+    "text" : "He led me back and forth among them, and I saw a great many bones on the floor of the valley, bones that were very dry."
+  }, {
+    "verse" : "ezekiel,37,3",
+    "text" : "He asked me, \"Son of man, can these bones live?\" I said, \"O Sovereign LORD, you alone know.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,37,1-ezekiel,37,14",
     "id" : 194425,
@@ -12,7 +21,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 37:1\">37:1</a></b> <b>Spirit.</b> The words “breath,” “Spirit,” and “wind” in this passage represent the same Hebrew word, adjusted by translations to the requirements of context (<a class=\"bibleref\" href=\"/passage/?search=Ezek 37:1\">vv. 1</a>, <a class=\"bibleref\" href=\"/passage/?search=Ezek 37:5\">5</a>, <a class=\"bibleref\" href=\"/passage/?search=Ezek 37:6\">6</a>, <a class=\"bibleref\" href=\"/passage/?search=Ezek 37:8\">8</a>, <a class=\"bibleref\" href=\"/passage/?search=Ezek 37:9\">9</a>, <a class=\"bibleref\" href=\"/passage/?search=Ezek 37:10\">10</a>, <a class=\"bibleref\" href=\"/passage/?search=Ezek 37:14\">14</a>).</p><p><b>valley.</b> This is the same term used in <a class=\"bibleref\" href=\"/passage/?search=Ezek 3:22\">3:22</a>; see note there. Since this word is only used in Ezekiel in these two passages, the locale of this vision may have been the same as that for the prophet’s call. Some have suggested that the vision was in the environs of Jerusalem, possibly the Kidron Valley east of the city (<a class=\"bibleref\" href=\"/passage/?search=Ezek 47:1-Ezek 47:6\">47:1–6</a>; <a class=\"bibleref\" href=\"/passage/?search=Joel 3:12\">Joel 3:12</a>; <a class=\"bibleref\" href=\"/passage/?search=Zech 14:4\">Zech. 14:4</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,37,4", "ezekiel,37,5", "ezekiel,37,6", "ezekiel,37,7", "ezekiel,37,8" ],
+  "verses" : [ {
+    "verse" : "ezekiel,37,4",
+    "text" : "Then he said to me, \"Prophesy to these bones and say to them, 'Dry bones, hear the word of the LORD!"
+  }, {
+    "verse" : "ezekiel,37,5",
+    "text" : "This is what the Sovereign LORD says to these bones: I will make breath enter you, and you will come to life."
+  }, {
+    "verse" : "ezekiel,37,6",
+    "text" : "I will attach tendons to you and make flesh come upon you and cover you with skin; I will put breath in you, and you will come to life. Then you will know that I am the LORD.'\""
+  }, {
+    "verse" : "ezekiel,37,7",
+    "text" : "So I prophesied as I was commanded. And as I was prophesying, there was a noise, a rattling sound, and the bones came together, bone to bone."
+  }, {
+    "verse" : "ezekiel,37,8",
+    "text" : "I looked, and tendons and flesh appeared on them and skin covered them, but there was no breath in them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,37,4",
     "id" : 194427,
@@ -20,7 +44,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 37:4\">37:4</a></b> <b>Prophesy.</b> The prophetic word was like God’s word at creation. God spoke, and new life was created (<a class=\"bibleref\" href=\"/passage/?search=Gen 1\">Gen. 1</a>). Ezekiel’s words are similarly efficacious in this vision, for they are also God’s words.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,37,9", "ezekiel,37,10", "ezekiel,37,11" ],
+  "verses" : [ {
+    "verse" : "ezekiel,37,9",
+    "text" : "Then he said to me, \"Prophesy to the breath; prophesy, son of man, and say to it, 'This is what the Sovereign LORD says: Come from the four winds, O breath, and breathe into these slain, that they may live.'\""
+  }, {
+    "verse" : "ezekiel,37,10",
+    "text" : "So I prophesied as he commanded me, and breath entered them; they came to life and stood up on their feet-a vast army."
+  }, {
+    "verse" : "ezekiel,37,11",
+    "text" : "Then he said to me: \"Son of man, these bones are the whole house of Israel. They say, 'Our bones are dried up and our hope is gone; we are cut off.'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,37,9",
     "id" : 194428,
@@ -28,7 +61,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 37:9\">37:9</a></b> <b>breath.</b> The infusion of the breath of life recalls <a class=\"bibleref\" href=\"/passage/?search=Gen 2:7\">Gen. 2:7</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,37,12", "ezekiel,37,13" ],
+  "verses" : [ {
+    "verse" : "ezekiel,37,12",
+    "text" : "Therefore prophesy and say to them: 'This is what the Sovereign LORD says: O my people, I am going to open your graves and bring you up from them; I will bring you back to the land of Israel."
+  }, {
+    "verse" : "ezekiel,37,13",
+    "text" : "Then you, my people, will know that I am the LORD, when I open your graves and bring you up from them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,37,12",
     "id" : 194429,
@@ -36,7 +75,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 37:12\">37:12</a></b> <b>graves.</b> The vision began with exposed and unburied bones (<a class=\"bibleref\" href=\"/passage/?search=Ezek 37:2\">v. 2</a>), but now broadens to include the opening of graves.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,37,14", "ezekiel,37,15" ],
+  "verses" : [ {
+    "verse" : "ezekiel,37,14",
+    "text" : "I will put my Spirit in you and you will live, and I will settle you in your own land. Then you will know that I the LORD have spoken, and I have done it, declares the LORD.'\""
+  }, {
+    "verse" : "ezekiel,37,15",
+    "text" : "The word of the LORD came to me:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,37,14",
     "id" : 194430,
@@ -44,7 +89,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 37:14\">37:14</a></b> <b>you shall know.</b> Israel’s restoration would be God’s own testimony to His power and rule.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,37,16", "ezekiel,37,17" ],
+  "verses" : [ {
+    "verse" : "ezekiel,37,16",
+    "text" : "\"Son of man, take a stick of wood and write on it, 'Belonging to Judah and the Israelites associated with him.' Then take another stick of wood, and write on it, 'Ephraim's stick, belonging to Joseph and all the house of Israel associated with him.'"
+  }, {
+    "verse" : "ezekiel,37,17",
+    "text" : "Join them together into one stick so that they will become one in your hand."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,37,16",
     "id" : 194431,
@@ -52,7 +103,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 37:16\">37:16 a</a></b> <b>stick.</b> The prophet performs another symbolic action (<a class=\"bibleref\" href=\"/passage/?search=Ezek 4:1-Ezek 4:3\">4:1–3</a> note). Two sticks, one bearing the name of the southern kingdom Judah and the other bearing the name of the northern kingdom Ephraim, are held end to end in one of the prophet’s hands so that they appeared to be joined.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,37,18", "ezekiel,37,19", "ezekiel,37,20", "ezekiel,37,21", "ezekiel,37,22", "ezekiel,37,23" ],
+  "verses" : [ {
+    "verse" : "ezekiel,37,18",
+    "text" : "\"When your countrymen ask you, 'Won't you tell us what you mean by this?'"
+  }, {
+    "verse" : "ezekiel,37,19",
+    "text" : "say to them, 'This is what the Sovereign LORD says: I am going to take the stick of Joseph-which is in Ephraim's hand-and of the Israelite tribes associated with him, and join it to Judah's stick, making them a single stick of wood, and they will become one in my hand.'"
+  }, {
+    "verse" : "ezekiel,37,20",
+    "text" : "Hold before their eyes the sticks you have written on"
+  }, {
+    "verse" : "ezekiel,37,21",
+    "text" : "and say to them, 'This is what the Sovereign LORD says: I will take the Israelites out of the nations where they have gone. I will gather them from all around and bring them back into their own land."
+  }, {
+    "verse" : "ezekiel,37,22",
+    "text" : "I will make them one nation in the land, on the mountains of Israel. There will be one king over all of them and they will never again be two nations or be divided into two kingdoms."
+  }, {
+    "verse" : "ezekiel,37,23",
+    "text" : "They will no longer defile themselves with their idols and vile images or with any of their offenses, for I will save them from all their sinful backsliding, and I will cleanse them. They will be my people, and I will be their God."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,37,18-ezekiel,37,23",
     "id" : 194432,
@@ -60,7 +129,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 37:18-Ezek 37:23\">37:18–23</a></b> The prophet interprets his symbolic actions (<a class=\"bibleref\" href=\"/passage/?search=Ezek 37:16\">vv. 16</a>, <a class=\"bibleref\" href=\"/passage/?search=Ezek 37:17\">17</a>). Joseph’s two sons were Ephraim and Manasseh; these two tribes were the central part of the northern kingdom, so much so that the northern kingdom (Israel) was sometimes designated simply as “Ephraim” (<a class=\"bibleref\" href=\"/passage/?search=2Chr 25:7\">2 Chr. 25:7</a>, <a class=\"bibleref\" href=\"/passage/?search=2Chr 25:10\">10</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 7:2\">Is. 7:2</a>, <a class=\"bibleref\" href=\"/passage/?search=Isa 7:9\">9</a>, <a class=\"bibleref\" href=\"/passage/?search=Isa 7:17\">17</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 11:13\">11:13</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 17:3\">17:3</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 31:20\">Jer. 31:20</a>; <a class=\"bibleref\" href=\"/passage/?search=Hos 4:17\">Hos. 4:17</a>; <a class=\"bibleref\" href=\"/passage/?search=Hos 6:4\">6:4</a>; <a class=\"bibleref\" href=\"/passage/?search=Hos 8:9\">8:9</a>; <a class=\"bibleref\" href=\"/passage/?search=Hos 9:8\">9:8</a>; <a class=\"bibleref\" href=\"/passage/?search=Hos 10:6\">10:6</a>; <a class=\"bibleref\" href=\"/passage/?search=Zech 9:13\">Zech. 9:13</a>). It fell to the Assyrians almost a century and a half before the exile of Judah, and was dispersed among other nations and assimilated to them. This passage looks back to the united monarchy under David and Solomon, and forward to a future ideal restoration (33:24; <a class=\"bibleref\" href=\"/passage/?search=Jer 3:18\">Jer. 3:18</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 23:5\">23:5</a>, <a class=\"bibleref\" href=\"/passage/?search=Jer 23:6\">6</a>; <a class=\"bibleref\" href=\"/passage/?search=Hos 1:11\">Hos. 1:11</a>; <a class=\"bibleref\" href=\"/passage/?search=Amos 9:11\">Amos 9:11</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,37,24" ],
+  "verses" : [ {
+    "verse" : "ezekiel,37,24",
+    "text" : "\"'My servant David will be king over them, and they will all have one shepherd. They will follow my laws and be careful to keep my decrees."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,37,24",
     "id" : 194433,
@@ -68,7 +140,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 37:24\">37:24</a></b> <b>king.</b> Ezekiel is reluctant to use the word “king” in reference to any of the historical rulers of Jerusalem, preferring instead to call them “prince” (<a class=\"bibleref\" href=\"/passage/?search=Ezek 37:25\">v. 25</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 12:10\">12:10</a>, <a class=\"bibleref\" href=\"/passage/?search=Ezek 12:12\">12</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 19:1\">19:1</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 21:12\">21:12</a>, <a class=\"bibleref\" href=\"/passage/?search=Ezek 21:25\">25</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 22:6\">22:6</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 34:24\">34:24</a>). Here, however, he describes the future Davidic ruler as “king” (<a class=\"bibleref\" href=\"/passage/?search=Ezek 34:22\">v. 22</a>, <a class=\"bibleref\" href=\"/passage/?search=Ezek 34:24\">24</a>), possibly a subtle way of distinguishing this future ruler from the others. The New Testament reveals that this shepherd-king is Jesus (<a class=\"bibleref\" href=\"/passage/?search=Ezek 34:2-Ezek 34:10\">34:2–10</a>, <a class=\"bibleref\" href=\"/passage/?search=Ezek 34:23\">23</a> and notes), who reigns over the renewed people of God forever (<a class=\"bibleref\" href=\"/passage/?search=Ezek 34:25\">v. 25</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 34:31\">34:31</a>; <a class=\"bibleref\" href=\"/passage/?search=John 10:11\">John 10:11</a>, <a class=\"bibleref\" href=\"/passage/?search=John 10:14\">14</a>; <a class=\"bibleref\" href=\"/passage/?search=Matt 2:2\">Matt. 2:2</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 5:31\">Acts 5:31</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,37,25" ],
+  "verses" : [ {
+    "verse" : "ezekiel,37,25",
+    "text" : "They will live in the land I gave to my servant Jacob, the land where your fathers lived. They and their children and their children's children will live there forever, and David my servant will be their prince forever."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,37,25-ezekiel,37,28",
     "id" : 194434,
@@ -76,7 +151,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 37:25-Ezek 37:28\">37:25–28</a></b> <b>forever . . . forevermore.</b> The repetition of “forever” (<a class=\"bibleref\" href=\"/passage/?search=Ezek 37:25\">vv. 25</a>, <a class=\"bibleref\" href=\"/passage/?search=Ezek 37:26\">26</a>, <a class=\"bibleref\" href=\"/passage/?search=Ezek 37:28\">28</a>) indicates that the reunification in view is eschatological, that is, an event to occur in the last days.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,37,26" ],
+  "verses" : [ {
+    "verse" : "ezekiel,37,26",
+    "text" : "I will make a covenant of peace with them; it will be an everlasting covenant. I will establish them and increase their numbers, and I will put my sanctuary among them forever."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,37,26",
     "id" : 194435,
@@ -84,7 +162,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 37:26\">37:26</a></b> <b>covenant of peace.</b> See <a class=\"bibleref\" href=\"/passage/?search=Ezek 34:25\">34:25</a> and note.</p><p><b>everlasting covenant.</b> This eternal covenant took effect through the offering of Christ’s blood (<a class=\"bibleref\" href=\"/passage/?search=Heb 13:20\">Heb. 13:20</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,37,27" ],
+  "verses" : [ {
+    "verse" : "ezekiel,37,27",
+    "text" : "My dwelling place will be with them; I will be their God, and they will be my people."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,37,27",
     "id" : 194436,
@@ -92,7 +173,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 37:27\">37:27</a></b> <b>their God . . . my people.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Ezek 34:30\">34:30</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,37,28" ],
+  "verses" : [ {
+    "verse" : "ezekiel,37,28",
+    "text" : "Then the nations will know that I the LORD make Israel holy, when my sanctuary is among them forever.'\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,37,28",
     "id" : 194437,
@@ -100,7 +184,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 37:28\">37:28</a></b> <b>sanctuary is in their midst forevermore.</b> Ezekiel looks for a renewed city of God (<a class=\"bibleref\" href=\"/passage/?search=Ezek 40-Ezek 48\">chs. 40–48</a>). More than six hundred years later John had a similar vision (<a class=\"bibleref\" href=\"/passage/?search=Rev 21\">Rev. 21</a>), but of a city that needed no temple building (<a class=\"bibleref\" href=\"/passage/?search=Rev 21:22\">Rev. 21:22</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,38,1" ],
+  "verses" : [ {
+    "verse" : "ezekiel,38,1",
+    "text" : "The word of the LORD came to me:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,38,1-ezekiel,39,29",
     "id" : 194438,
@@ -108,7 +195,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 38-Ezek 39\">38:1–39:29</a></b> Before his description of the future city of God, the prophet first describes the defeat and removal of its foes. Gog, the prince of Magog (see note on v. 2), sums up the final opposition to the kingdom and people of God. God comes as a divine warrior, fighting for His people and visiting an apocalyptic defeat on His foes, preparing the way for the vision of the renewed city (<a class=\"bibleref\" href=\"/passage/?search=Ezek 40-Ezek 48\">chs. 40–48</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,38,2", "ezekiel,38,3", "ezekiel,38,4" ],
+  "verses" : [ {
+    "verse" : "ezekiel,38,2",
+    "text" : "\"Son of man, set your face against Gog, of the land of Magog, the chief prince of Meshech and Tubal; prophesy against him"
+  }, {
+    "verse" : "ezekiel,38,3",
+    "text" : "and say: 'This is what the Sovereign LORD says: I am against you, O Gog, chief prince of Meshech and Tubal."
+  }, {
+    "verse" : "ezekiel,38,4",
+    "text" : "I will turn you around, put hooks in your jaws and bring you out with your whole army-your horses, your horsemen fully armed, and a great horde with large and small shields, all of them brandishing their swords."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,38,2",
     "id" : 194439,
@@ -116,7 +212,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 38:2\">38:2</a></b> <b>Gog.</b> The identity of Gog is uncertain. He is often identified with Gyges, the king of Lydia, a land in Anatolia (modern Turkey). In Akkadian texts from the seventh century Gyges is known as an Assyrian vassal; later legend credited him with the invention of coinage. The name “Gog” is phonetically similar to the Akkadian word for “Gyges,” but an identification of the two is by no means certain.</p><p><b>Magog.</b> This land ruled by Gog is also otherwise unknown from extant geographical lists or citations in ancient literature; it may mean no more than “land of Gog.”</p><p><b>Meshech and Tubal.</b> Though the identification of Gog and Magog remain uncertain, the identification of Meshech and Tubal is not in doubt (<a class=\"bibleref\" href=\"/passage/?search=Ezek 27:13\">27:13</a> note). From the ancient historians Herodotus and Josephus, as well as Assyrian documents from the twelfth to the eighth centuries <span class=\"small-caps\">b.c.</span>, they are known to be tribes from central and eastern Anatolia (modern Turkey). Considerable misunderstanding has resulted from misguided speculation regarding these geographical terms. Some have identified these locations with other sites known from contemporary geography and have made them part of conjectures about later political events. Meshech and Tubal are said to be Moscow and Tobolsk, two Russian cities far distant from the region Ezekiel mentions. The Hebrew word translated “prince” (<a class=\"bibleref\" href=\"/passage/?search=Ezek 27:2\">v. 2</a>) is <i>ro’sh,</i> and some have said that this means “Russia.” Even if this word is a geographical name and not to be translated “prince,” it is not “Russia.” The name “Russia” was brought into the region north of Kiev by the Vikings in the Middle Ages, and was not in use in Ezekiel’s time.</p><p>In describing the threats to Israel’s existence, the Bible commonly refers to foes coming from the north (<a class=\"bibleref\" href=\"/passage/?search=Isa 41:25\">Is. 41:25</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 1:13-Jer 1:15\">Jer. 1:13–15</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 4:6\">4:6</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 6:22\">6:22</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 10:22\">10:22</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 13:20\">13:20</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 15:12\">15:12</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 25:9\">25:9</a>, <a class=\"bibleref\" href=\"/passage/?search=Jer 25:26\">26</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 46:10\">46:10</a>, <a class=\"bibleref\" href=\"/passage/?search=Jer 46:20\">20</a>, <a class=\"bibleref\" href=\"/passage/?search=Jer 46:24\">24</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 50:3\">50:3</a>, <a class=\"bibleref\" href=\"/passage/?search=Jer 50:9\">9</a>, <a class=\"bibleref\" href=\"/passage/?search=Jer 50:41\">41</a>, 49; <a class=\"bibleref\" href=\"/passage/?search=Ezek 26:7\">Ezek. 26:7</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 38:6\">38:6</a>, <a class=\"bibleref\" href=\"/passage/?search=Ezek 38:15\">15</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 39:2\">39:2</a>; <a class=\"bibleref\" href=\"/passage/?search=Dan 11\">Dan. 11</a>; <a class=\"bibleref\" href=\"/passage/?search=Zech 2:6\">Zech. 2:6</a>; <a class=\"bibleref\" href=\"/passage/?search=Zech 6:6-Zech 6:8\">6:6–8</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Isa 5:26-Isa 5:29\">Is. 5:26–29</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 13:1-Isa 13:13\">13:1–13</a>; <a class=\"bibleref\" href=\"/passage/?search=Heb 1:5-Heb 1:11\">Heb. 1:5–11</a>; <a class=\"bibleref\" href=\"/passage/?search=Nah 2:2-Nah 2:10\">Nah. 2:2–10</a>; <a class=\"bibleref\" href=\"/passage/?search=Nah 3:1-Nah 3:3\">3:1–3</a>). References to these northern foes before the Babylonian exile in the sixth century <span class=\"small-caps\">b.c.</span> usually point to Assyria, Babylon, and Persia, Israel’s traditional enemies. During and after the Babylonian exile, the foes from the north take on a more symbolic and apocalyptic coloring. In his description of conflict at the end of time, Ezekiel mentions tribes on the fringes of kingdoms to the north as an embodiment of the foes from the north that already figured in Israel’s eschatology (their understanding of the last days). Rather than add to speculation about future history, modern readers should understand that Ezekiel himself uses these nations as symbolic references to all powers arrayed against God’s people. Ezekiel contains many oracles against foreign nations (<a class=\"bibleref\" href=\"/passage/?search=Ezek 29-Ezek 32\">Ezek. 29–32</a>), but there is none specifically against Babylon, where he and the exiles were held in captivity. Some have suggested that Magog, Meshech, and Tubal are veiled references to Babylon, the immediate enemy. Gog and Magog recur in John’s apocalyptic description of future conflict between good and evil (<a class=\"bibleref\" href=\"/passage/?search=Rev 20:8\">Rev. 20:8</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,38,5" ],
+  "verses" : [ {
+    "verse" : "ezekiel,38,5",
+    "text" : "Persia, Cush and Put will be with them, all with shields and helmets,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,38,5",
     "id" : 194440,
@@ -124,7 +223,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 38:5\">38:5</a></b> <b>Cush.</b> See <a class=\"bibleref\" href=\"/passage/?search=Isa 18:1\">Is. 18:1</a> note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,38,6", "ezekiel,38,7", "ezekiel,38,8" ],
+  "verses" : [ {
+    "verse" : "ezekiel,38,6",
+    "text" : "also Gomer with all its troops, and Beth Togarmah from the far north with all its troops-the many nations with you."
+  }, {
+    "verse" : "ezekiel,38,7",
+    "text" : "\"'Get ready; be prepared, you and all the hordes gathered about you, and take command of them."
+  }, {
+    "verse" : "ezekiel,38,8",
+    "text" : "After many days you will be called to arms. In future years you will invade a land that has recovered from war, whose people were gathered from many nations to the mountains of Israel, which had long been desolate. They had been brought out from the nations, and now all of them live in safety."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,38,6",
     "id" : 194441,
@@ -132,7 +240,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 38:6\">38:6</a></b> <b>Gomer.</b> This is probably a group from the area north of the Black Sea, known to the Assyrians as the Gimirrai and to the Greeks as the Cimmerians. Gog leads a coalition of nations from the south and the north. The picture is of a total mobilization against the people of God. Compare the divine summons to war in <a class=\"bibleref\" href=\"/passage/?search=Joel 3:9-Joel 3:11\">Joel 3:9–11</a>.</p><p><b>Beth-togarmah.</b> See 27:14 note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,38,9", "ezekiel,38,10" ],
+  "verses" : [ {
+    "verse" : "ezekiel,38,9",
+    "text" : "You and all your troops and the many nations with you will go up, advancing like a storm; you will be like a cloud covering the land."
+  }, {
+    "verse" : "ezekiel,38,10",
+    "text" : "\"'This is what the Sovereign LORD says: On that day thoughts will come into your mind and you will devise an evil scheme."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,38,9",
     "id" : 194442,
@@ -140,7 +254,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 38:9\">38:9</a></b> <b>like a cloud.</b> An innumerable foe assembles (<a class=\"bibleref\" href=\"/passage/?search=Jer 4:13\">Jer. 4:13</a>; <a class=\"bibleref\" href=\"/passage/?search=Joel 2:2\">Joel 2:2</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,38,11", "ezekiel,38,12" ],
+  "verses" : [ {
+    "verse" : "ezekiel,38,11",
+    "text" : "You will say, \"I will invade a land of unwalled villages; I will attack a peaceful and unsuspecting people-all of them living without walls and without gates and bars."
+  }, {
+    "verse" : "ezekiel,38,12",
+    "text" : "I will plunder and loot and turn my hand against the resettled ruins and the people gathered from the nations, rich in livestock and goods, living at the center of the land.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,38,11",
     "id" : 194443,
@@ -148,7 +268,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 38:11\">38:11</a></b> <b>quiet people.</b> Compare the strategy in <a class=\"bibleref\" href=\"/passage/?search=Judg 18:7\">Judg. 18:7</a>, <a class=\"bibleref\" href=\"/passage/?search=Judg 18:8\">8</a>. Though Gog plotted against Israel, in reality God was bringing them to their own destruction (vv. 4, 16).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,38,13", "ezekiel,38,14", "ezekiel,38,15", "ezekiel,38,16" ],
+  "verses" : [ {
+    "verse" : "ezekiel,38,13",
+    "text" : "Sheba and Dedan and the merchants of Tarshish and all her villages will say to you, \"Have you come to plunder? Have you gathered your hordes to loot, to carry off silver and gold, to take away livestock and goods and to seize much plunder?\"'"
+  }, {
+    "verse" : "ezekiel,38,14",
+    "text" : "\"Therefore, son of man, prophesy and say to Gog: 'This is what the Sovereign LORD says: In that day, when my people Israel are living in safety, will you not take notice of it?"
+  }, {
+    "verse" : "ezekiel,38,15",
+    "text" : "You will come from your place in the far north, you and many nations with you, all of them riding on horses, a great horde, a mighty army."
+  }, {
+    "verse" : "ezekiel,38,16",
+    "text" : "You will advance against my people Israel like a cloud that covers the land. In days to come, O Gog, I will bring you against my land, so that the nations may know me when I show myself holy through you before their eyes."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,38,13",
     "id" : 194444,
@@ -156,7 +288,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 38:13\">38:13</a></b> <b>Sheba.</b> The southwestern corner of the Arabian peninsula (modern Yemen). The Sabeans were famous for trading (<a class=\"bibleref\" href=\"/passage/?search=Ezek 23:42\">23:42</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 27:22\">27:22</a>; <a class=\"bibleref\" href=\"/passage/?search=1Kgs 10:1\">1 Kin. 10:1</a>, <a class=\"bibleref\" href=\"/passage/?search=1Kgs 10:2\">2</a>; <a class=\"bibleref\" href=\"/passage/?search=Job 6:19\">Job 6:19</a>; <a class=\"bibleref\" href=\"/passage/?search=Joel 3:8\">Joel 3:8</a>).</p><p><b>Dedan.</b> A territory in southern Edom (25:13; 27:20; <a class=\"bibleref\" href=\"/passage/?search=Jer 25:23\">Jer. 25:23</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 49:8\">49:8</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,38,17" ],
+  "verses" : [ {
+    "verse" : "ezekiel,38,17",
+    "text" : "\"'This is what the Sovereign LORD says: Are you not the one I spoke of in former days by my servants the prophets of Israel? At that time they prophesied for years that I would bring you against them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,38,17",
     "id" : 194445,
@@ -164,7 +299,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 38:17\">38:17</a></b> <b>he of whom I spoke.</b> Gog is not specifically mentioned in any other Old Testament prophecy. Ezekiel refers to earlier prophecies describing a foe from the north (<a class=\"bibleref\" href=\"/passage/?search=Ezek 38:2\">v. 2</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,38,18", "ezekiel,38,19", "ezekiel,38,20", "ezekiel,38,21", "ezekiel,38,22", "ezekiel,38,23" ],
+  "verses" : [ {
+    "verse" : "ezekiel,38,18",
+    "text" : "This is what will happen in that day: When Gog attacks the land of Israel, my hot anger will be aroused, declares the Sovereign LORD."
+  }, {
+    "verse" : "ezekiel,38,19",
+    "text" : "In my zeal and fiery wrath I declare that at that time there shall be a great earthquake in the land of Israel."
+  }, {
+    "verse" : "ezekiel,38,20",
+    "text" : "The fish of the sea, the birds of the air, the beasts of the field, every creature that moves along the ground, and all the people on the face of the earth will tremble at my presence. The mountains will be overturned, the cliffs will crumble and every wall will fall to the ground."
+  }, {
+    "verse" : "ezekiel,38,21",
+    "text" : "I will summon a sword against Gog on all my mountains, declares the Sovereign LORD. Every man's sword will be against his brother."
+  }, {
+    "verse" : "ezekiel,38,22",
+    "text" : "I will execute judgment upon him with plague and bloodshed; I will pour down torrents of rain, hailstones and burning sulfur on him and on his troops and on the many nations with him."
+  }, {
+    "verse" : "ezekiel,38,23",
+    "text" : "And so I will show my greatness and my holiness, and I will make myself known in the sight of many nations. Then they will know that I am the LORD.'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,38,18-ezekiel,38,23",
     "id" : 194446,

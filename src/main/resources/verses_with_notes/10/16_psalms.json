@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,86,1" ],
+  "verses" : [ {
+    "verse" : "psalms,86,1",
+    "text" : "Hear, O LORD, and answer me, for I am poor and needy."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,86,1",
     "id" : 190987,
@@ -7,7 +10,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 86:1\">86:title</a></b> <b><span class=\"small-caps\">Prayer</span>.</b> See introduction to <a class=\"bibleref\" href=\"/passage/?search=Ps 17\">Ps. 17</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,86,2" ],
+  "verses" : [ {
+    "verse" : "psalms,86,2",
+    "text" : "Guard my life, for I am devoted to you. You are my God; save your servant who trusts in you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,86,2",
     "id" : 190988,
@@ -15,7 +21,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 86:2\">86:2</a></b> <b>who trusts in you.</b> The psalmist recognizes his own inability, but he knows where true strength lies.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,86,3", "psalms,86,4" ],
+  "verses" : [ {
+    "verse" : "psalms,86,3",
+    "text" : "Have mercy on me, O Lord, for I call to you all day long."
+  }, {
+    "verse" : "psalms,86,4",
+    "text" : "Bring joy to your servant, for to you, O Lord, I lift up my soul."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,86,3",
     "id" : 190989,
@@ -23,7 +35,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 86:3\">86:3</a></b> <b>Be gracious to me.</b> The poet knows that God’s answer to his prayer is a manifestation of His unmerited grace. God owes him nothing.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,86,5", "psalms,86,6", "psalms,86,7" ],
+  "verses" : [ {
+    "verse" : "psalms,86,5",
+    "text" : "You are forgiving and good, O Lord, abounding in love to all who call to you."
+  }, {
+    "verse" : "psalms,86,6",
+    "text" : "Hear my prayer, O LORD; listen to my cry for mercy."
+  }, {
+    "verse" : "psalms,86,7",
+    "text" : "In the day of my trouble I will call to you, for you will answer me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,86,5",
     "id" : 190990,
@@ -31,7 +52,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 86:5\">86:5</a></b> <b>steadfast love.</b> The special love of God toward those in covenant with Him.</p><p><b>to all who call upon you.</b> God does not forgive all people indiscriminately; He waits until they turn to Him with prayers of repentance.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,86,8" ],
+  "verses" : [ {
+    "verse" : "psalms,86,8",
+    "text" : "Among the gods there is none like you, O Lord; no deeds can compare with yours."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,86,8",
     "id" : 190991,
@@ -39,7 +63,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 86:8\">86:8</a></b> <b>There is none like you.</b> The psalmist sees that no god of the surrounding nations can be compared with the Lord in what He is or what He does. This confession of God’s uniqueness is not a tacit admission that other gods exist (see <a class=\"bibleref\" href=\"/passage/?search=Ps 86:10\">v. 10</a>). The psalmist is comparing the foreigners’ vain imaginations with the reality of Yahweh.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,86,9", "psalms,86,10" ],
+  "verses" : [ {
+    "verse" : "psalms,86,9",
+    "text" : "All the nations you have made will come and worship before you, O Lord; they will bring glory to your name."
+  }, {
+    "verse" : "psalms,86,10",
+    "text" : "For you are great and do marvelous deeds; you alone are God."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,86,9",
     "id" : 190992,
@@ -47,7 +77,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 86:9\">86:9</a></b> <b>All the nations you have made.</b> Yahweh is the God of all the nations, even though they may not recognize Him. God gives them their existence and whatever blessings they have.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,86,11", "psalms,86,12" ],
+  "verses" : [ {
+    "verse" : "psalms,86,11",
+    "text" : "Teach me your way, O LORD, and I will walk in your truth; give me an undivided heart, that I may fear your name."
+  }, {
+    "verse" : "psalms,86,12",
+    "text" : "I will praise you, O Lord my God, with all my heart; I will glorify your name forever."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,86,11",
     "id" : 190993,
@@ -55,7 +91,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 86:11\">86:11</a></b> <b>unite my heart.</b> Such a united heart is one totally set on God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,86,13", "psalms,86,14", "psalms,86,15", "psalms,86,16", "psalms,86,17" ],
+  "verses" : [ {
+    "verse" : "psalms,86,13",
+    "text" : "For great is your love toward me; you have delivered me from the depths of the grave."
+  }, {
+    "verse" : "psalms,86,14",
+    "text" : "The arrogant are attacking me, O God; a band of ruthless men seeks my life- men without regard for you."
+  }, {
+    "verse" : "psalms,86,15",
+    "text" : "But you, O Lord, are a compassionate and gracious God, slow to anger, abounding in love and faithfulness."
+  }, {
+    "verse" : "psalms,86,16",
+    "text" : "Turn to me and have mercy on me; grant your strength to your servant and save the son of your maidservant."
+  }, {
+    "verse" : "psalms,86,17",
+    "text" : "Give me a sign of your goodness, that my enemies may see it and be put to shame, for you, O LORD, have helped me and comforted me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,86,13",
     "id" : 190994,

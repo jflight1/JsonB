@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,51,1" ],
+  "verses" : [ {
+    "verse" : "psalms,51,1",
+    "text" : "Have mercy on me, O God, according to your unfailing love; according to your great compassion blot out my transgressions."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,51,1-psalms,51,19",
     "id" : 190645,
@@ -12,7 +15,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 51:1\">51:1</a></b> <b>according to your steadfast love.</b> David had been guilty of a great sin in the matter of Uriah, husband of Bathsheba (<a class=\"bibleref\" href=\"/passage/?search=2Sam 11\">2 Sam. 11</a>). David pleads for God’s mercy, in keeping with His promised love for His people.</p><p><b>mercy.</b> God’s forgiveness of sinners is the result of His mercy. Sinners deserve death, but He gives life.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,51,2", "psalms,51,3" ],
+  "verses" : [ {
+    "verse" : "psalms,51,2",
+    "text" : "Wash away all my iniquity and cleanse me from my sin."
+  }, {
+    "verse" : "psalms,51,3",
+    "text" : "For I know my transgressions, and my sin is always before me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,51,2",
     "id" : 190647,
@@ -20,7 +29,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 51:2\">51:2</a></b> <b>Wash.</b> The word means specifically to “wash clothes.” The psalmist’s iniquity is like filthy clothes that need to be laundered.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,51,4" ],
+  "verses" : [ {
+    "verse" : "psalms,51,4",
+    "text" : "Against you, you only, have I sinned and done what is evil in your sight, so that you are proved right when you speak and justified when you judge."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,51,4",
     "id" : 190648,
@@ -28,7 +40,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 51:4\">51:4</a></b> <b>you only.</b> David committed adultery with Bathsheba and sent her husband to his death. How can he say he sinned against God only? Rebellion against God was the root of his sin, and his crime injured people who belonged to God and transgressed a social order created by God.</p><p><b>justified . . . blameless.</b> David recognized that God’s anger against him was just. This verse is cited by Paul in <a class=\"bibleref\" href=\"/passage/?search=Rom 3:4\">Rom. 3:4</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,51,5" ],
+  "verses" : [ {
+    "verse" : "psalms,51,5",
+    "text" : "Surely I was sinful at birth, sinful from the time my mother conceived me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,51,5",
     "id" : 190649,
@@ -36,7 +51,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 51:5\">51:5</a></b> <b>brought forth in iniquity.</b> The Bible clearly teaches that children are sinners. They are not born innocent and only later become sinners. Children, too, need God’s salvation. See theological note “Original Sin and Total Depravity.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,51,6" ],
+  "verses" : [ {
+    "verse" : "psalms,51,6",
+    "text" : "Surely you desire truth in the inner parts; you teach me wisdom in the inmost place."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,51,6",
     "id" : 190650,
@@ -44,7 +62,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 51:6\">51:6</a></b> <b>the inward being . . . the secret heart.</b> That is, truth and wisdom at the center of one’s being.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,51,7", "psalms,51,8", "psalms,51,9" ],
+  "verses" : [ {
+    "verse" : "psalms,51,7",
+    "text" : "Cleanse me with hyssop, and I will be clean; wash me, and I will be whiter than snow."
+  }, {
+    "verse" : "psalms,51,8",
+    "text" : "Let me hear joy and gladness; let the bones you have crushed rejoice."
+  }, {
+    "verse" : "psalms,51,9",
+    "text" : "Hide your face from my sins and blot out all my iniquity."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,51,7",
     "id" : 190651,
@@ -52,7 +79,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 51:7\">51:7</a></b> <b>with hyssop.</b> The allusion is to <a class=\"bibleref\" href=\"/passage/?search=Lev 14:6\">Lev. 14:6</a>, <a class=\"bibleref\" href=\"/passage/?search=Lev 14:7\">7</a>, where the cleansing of a leper is described.</p><p><b>wash me.</b> This may be an allusion to <a class=\"bibleref\" href=\"/passage/?search=Num 19:19\">Num. 19:19</a>, where instructions are given for ritual washing after contact with a dead person. On the need for washing the heart, see “Legalism” at <a class=\"bibleref\" href=\"/passage/?search=Matt 23:4\">Matt. 23:4</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,51,10" ],
+  "verses" : [ {
+    "verse" : "psalms,51,10",
+    "text" : "Create in me a pure heart, O God, and renew a steadfast spirit within me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,51,10",
     "id" : 190652,
@@ -60,7 +90,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 51:10\">51:10</a></b> <b>Create.</b> The verb is the same used at <a class=\"bibleref\" href=\"/passage/?search=Gen 1:1\">Gen. 1:1</a> for the creation of the world. The psalmist knows that the redirection of his desires and thoughts can only come about through the intervention of God. See “Repentance” at <a class=\"bibleref\" href=\"/passage/?search=Acts 26:20\">Acts 26:20</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,51,11" ],
+  "verses" : [ {
+    "verse" : "psalms,51,11",
+    "text" : "Do not cast me from your presence or take your Holy Spirit from me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,51,11",
     "id" : 190653,
@@ -68,7 +101,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 51:11\">51:11</a></b> <b>Holy Spirit.</b> The Old Testament does not make a full disclosure of the personhood of the Holy Spirit. David understands that his spiritual well-being depends on God’s presence with him. He fears that the Spirit may be taken away, because the Spirit is holy and David is sinful. See “The Holy Spirit” at <a class=\"bibleref\" href=\"/passage/?search=John 14:26\">John 14:26</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,51,12" ],
+  "verses" : [ {
+    "verse" : "psalms,51,12",
+    "text" : "Restore to me the joy of your salvation and grant me a willing spirit, to sustain me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,51,12",
     "id" : 190654,
@@ -76,7 +112,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 51:12\">51:12</a></b> <b>joy of your salvation.</b> David had suffered from a spiritual dullness that led to moral bankruptcy. To prevent such disaster in the future, he prays for joy.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,51,13" ],
+  "verses" : [ {
+    "verse" : "psalms,51,13",
+    "text" : "Then I will teach transgressors your ways, and sinners will turn back to you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,51,13",
     "id" : 190655,
@@ -84,7 +123,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 51:13\">51:13</a></b> <b>I will teach transgressors your ways.</b> If forgiven, the psalmist promises to use his life to help others find forgiveness.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,51,14", "psalms,51,15" ],
+  "verses" : [ {
+    "verse" : "psalms,51,14",
+    "text" : "Save me from bloodguilt, O God, the God who saves me, and my tongue will sing of your righteousness."
+  }, {
+    "verse" : "psalms,51,15",
+    "text" : "O Lord, open my lips, and my mouth will declare your praise."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,51,14",
     "id" : 190656,
@@ -92,7 +137,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 51:14\">51:14</a></b> <b>sing aloud of your righteousness.</b> David has previously spoken of God’s justice in condemning sin (<a class=\"bibleref\" href=\"/passage/?search=Ps 51:4\">v. 4</a>). Now, the same justice overcomes sin and condemnation through grace, as explained in <a class=\"bibleref\" href=\"/passage/?search=Rom 3:21-Rom 3:26\">Rom. 3:21–26</a> and epitomized in <a class=\"bibleref\" href=\"/passage/?search=1John 1:9\">1 John 1:9</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,51,16", "psalms,51,17" ],
+  "verses" : [ {
+    "verse" : "psalms,51,16",
+    "text" : "You do not delight in sacrifice, or I would bring it; you do not take pleasure in burnt offerings."
+  }, {
+    "verse" : "psalms,51,17",
+    "text" : "The sacrifices of God are a broken spirit; a broken and contrite heart, O God, you will not despise."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,51,16",
     "id" : 190657,
@@ -100,7 +151,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 51:16\">51:16</a></b> <b>you will not be pleased with a burnt offering.</b> The Bible values heartfelt obedience above outward religious conformity (<a class=\"bibleref\" href=\"/passage/?search=Ps 40:6-Ps 40:8\">40:6–8</a>; <a class=\"bibleref\" href=\"/passage/?search=Mic 6:6-Mic 6:8\">Mic. 6:6–8</a>). As v. 19 shows, this did not condemn sacrifices as such.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,51,18", "psalms,51,19" ],
+  "verses" : [ {
+    "verse" : "psalms,51,18",
+    "text" : "In your good pleasure make Zion prosper; build up the walls of Jerusalem."
+  }, {
+    "verse" : "psalms,51,19",
+    "text" : "Then there will be righteous sacrifices, whole burnt offerings to delight you; then bulls will be offered on your altar."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,51,18-psalms,51,19",
     "id" : 190658,

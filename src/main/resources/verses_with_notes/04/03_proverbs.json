@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,12,12" ],
+  "verses" : [ {
+    "verse" : "proverbs,12,12",
+    "text" : "The wicked desire the plunder of evil men, but the root of the righteous flourishes."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 12:12\">12:12</a></b> Although the Hebrew of this verse is difficult, the basic contrast—the benefits of righteousness against the effects of wickedness—is plain.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,12,13" ],
+  "verses" : [ {
+    "verse" : "proverbs,12,13",
+    "text" : "An evil man is trapped by his sinful talk, but a righteous man escapes trouble."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,12,13",
     "id" : 191909,
@@ -20,7 +26,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 12:13\">12:13</a></b> See <a class=\"bibleref\" href=\"/passage/?search=Prov 10:11\">10:11</a>, <a class=\"bibleref\" href=\"/passage/?search=Prov 10:14\">14</a>, <a class=\"bibleref\" href=\"/passage/?search=Prov 10:31\">31</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,12,14" ],
+  "verses" : [ {
+    "verse" : "proverbs,12,14",
+    "text" : "From the fruit of his lips a man is filled with good things as surely as the work of his hands rewards him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,12,14",
     "id" : 191910,

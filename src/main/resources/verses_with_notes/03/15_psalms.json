@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "psalms,58,1", "psalms,58,2" ],
+  "verses" : [ {
+    "verse" : "psalms,58,1",
+    "text" : "Do you rulers indeed speak justly? Do you judge uprightly among men?"
+  }, {
+    "verse" : "psalms,58,2",
+    "text" : "No, in your heart you devise injustice, and your hands mete out violence on the earth."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,58,1-psalms,58,11",
     "id" : 190706,
@@ -12,7 +18,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 58:1\">58:1</a></b> <b>you gods.</b> The word “gods” could be used for the corrupt judges of this verse, according to the example in <a class=\"bibleref\" href=\"/passage/?search=Ps 82:1\">Ps. 82:1</a> (see text note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,58,3" ],
+  "verses" : [ {
+    "verse" : "psalms,58,3",
+    "text" : "Even from birth the wicked go astray; from the womb they are wayward and speak lies."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,58,3",
     "id" : 190708,
@@ -20,7 +29,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 58:3\">58:3</a></b> <b>from the womb.</b> David recognized this of himself in <a class=\"bibleref\" href=\"/passage/?search=Ps 51:5\">Ps. 51:5</a>. All are born with a nature that rebels against God—this is the meaning of the doctrine of original sin. David means that the wickedness of the evil judges in particular extends back to the beginning of their lives.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,58,4", "psalms,58,5", "psalms,58,6" ],
+  "verses" : [ {
+    "verse" : "psalms,58,4",
+    "text" : "Their venom is like the venom of a snake, like that of a cobra that has stopped its ears,"
+  }, {
+    "verse" : "psalms,58,5",
+    "text" : "that will not heed the tune of the charmer, however skillful the enchanter may be."
+  }, {
+    "verse" : "psalms,58,6",
+    "text" : "Break the teeth in their mouths, O God; tear out, O LORD, the fangs of the lions!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,58,4-psalms,58,5",
     "id" : 190709,
@@ -28,7 +46,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 58:4\">58:4</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 58:5\">5</a> venom of a serpent.</b> The psalmist likens the wicked rulers to snakes. The story of the Fall (<a class=\"bibleref\" href=\"/passage/?search=Gen 3\">Gen. 3</a>), initiated by the serpent, sharpens the image. The rulers’ words are as distinctive as the venom of the serpent, and they turn a deaf ear to logical arguments and even divine judgments that may be addressed to them.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,58,7", "psalms,58,8", "psalms,58,9" ],
+  "verses" : [ {
+    "verse" : "psalms,58,7",
+    "text" : "Let them vanish like water that flows away; when they draw the bow, let their arrows be blunted."
+  }, {
+    "verse" : "psalms,58,8",
+    "text" : "Like a slug melting away as it moves along, like a stillborn child, may they not see the sun."
+  }, {
+    "verse" : "psalms,58,9",
+    "text" : "Before your pots can feel the heat of the thorns- whether they be green or dry-the wicked will be swept away."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,58,7",
     "id" : 190710,
@@ -36,7 +63,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 58:7\">58:7</a></b> <b>when he aims his arrows . . . blunted.</b> Bring to nothing their evil schemes that seek violence against the innocent.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,58,10" ],
+  "verses" : [ {
+    "verse" : "psalms,58,10",
+    "text" : "The righteous will be glad when they are avenged, when they bathe their feet in the blood of the wicked."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,58,10",
     "id" : 190711,
@@ -44,7 +74,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 58:10\">58:10</a></b> <b>The righteous will rejoice.</b> Eternity will show that God’s judgment of the wicked is just. This judgment will cause rejoicing since the alternative would be unthinkable: heaven populated with God’s enemies (<a class=\"bibleref\" href=\"/passage/?search=Rev 16:5\">Rev. 16:5</a>, <a class=\"bibleref\" href=\"/passage/?search=Rev 16:6\">6</a>; <a class=\"bibleref\" href=\"/passage/?search=Rev 19:1-Rev 19:3\">19:1–3</a>; <a class=\"bibleref\" href=\"/passage/?search=Rev 21:27\">21:27</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,58,11" ],
+  "verses" : [ {
+    "verse" : "psalms,58,11",
+    "text" : "Then men will say, \"Surely the righteous still are rewarded; surely there is a God who judges the earth.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,58,11",
     "id" : 190712,

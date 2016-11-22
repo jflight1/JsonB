@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,14,26" ],
+  "verses" : [ {
+    "verse" : "proverbs,14,26",
+    "text" : "He who fears the LORD has a secure fortress, and for his children it will be a refuge."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 14:26\">14:26</a></b> <b>fear of the <span class=\"small-caps\">Lord.</span></b> See <a class=\"bibleref\" href=\"/passage/?search=Prov 1:7\">1:7</a> and note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,14,27" ],
+  "verses" : [ {
+    "verse" : "proverbs,14,27",
+    "text" : "The fear of the LORD is a fountain of life, turning a man from the snares of death."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,14,27",
     "id" : 191967,

@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "revelation,12,1", "revelation,12,2" ],
+  "verses" : [ {
+    "verse" : "revelation,12,1",
+    "text" : "A great and wondrous sign appeared in heaven: a woman clothed with the sun, with the moon under her feet and a crown of twelve stars on her head."
+  }, {
+    "verse" : "revelation,12,2",
+    "text" : "She was pregnant and cried out in pain as she was about to give birth."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "revelation,12,1-revelation,14,20",
     "id" : 199704,
@@ -12,7 +18,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rev 12:1\">12:1 a</a></b> <b>woman.</b> The imagery calls to mind Joseph’s dream (<a class=\"bibleref\" href=\"/passage/?search=Gen 37:9\">Gen. 37:9</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 37:10\">10</a>) and the picture of Jerusalem bringing forth the Messiah and His remnant (<a class=\"bibleref\" href=\"/passage/?search=Isa 54:1-Isa 54:4\">Is. 54:1–4</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 66:7-Isa 66:13\">66:7–13</a>; <a class=\"bibleref\" href=\"/passage/?search=Mic 5:3\">Mic. 5:3</a>). The Old Testament saints collectively are in view. Mary the mother of Jesus is included in this group, but only as an outstanding member of the whole. The later history shows that the New Testament saints also are included (vv. 13–17). The light-bearing character of the woman foreshadows the glory of the new Jerusalem (21:11, 22–27). In her privileges the church now already partakes in the blessings to come. But she is still buffeted by Satan (chs. 12–14 note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "revelation,12,3", "revelation,12,4" ],
+  "verses" : [ {
+    "verse" : "revelation,12,3",
+    "text" : "Then another sign appeared in heaven: an enormous red dragon with seven heads and ten horns and seven crowns on his heads."
+  }, {
+    "verse" : "revelation,12,4",
+    "text" : "His tail swept a third of the stars out of the sky and flung them to the earth. The dragon stood in front of the woman who was about to give birth, so that he might devour her child the moment it was born."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "revelation,12,3",
     "id" : 199706,
@@ -20,7 +32,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rev 12:3\">12:3 a</a></b> <b>great red dragon.</b> This figure is identified as Satan, the devil, in <a class=\"bibleref\" href=\"/passage/?search=Rev 12:9\">v. 9</a>. The image of a dragon depicts Satan in his monstrous power and hideous enmity against God. Satan has constantly opposed the plans of God and has been repeatedly defeated in the great acts of God’s saving power (<a class=\"bibleref\" href=\"/passage/?search=Gen 3:1\">Gen. 3:1</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 3:15\">15</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 74:13\">Ps. 74:13</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 74:14\">14</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 27:1\">Is. 27:1</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 51:9\">51:9</a>, <a class=\"bibleref\" href=\"/passage/?search=Isa 51:10\">10</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 29:3\">Ezek. 29:3</a>; <a class=\"bibleref\" href=\"/passage/?search=Luke 10:18\">Luke 10:18</a>; <a class=\"bibleref\" href=\"/passage/?search=Luke 11:14-Luke 11:23\">11:14–23</a>; <a class=\"bibleref\" href=\"/passage/?search=John 12:31\">John 12:31</a>; <a class=\"bibleref\" href=\"/passage/?search=Col 2:15\">Col. 2:15</a>). He rises against the Messiah (vv. 4, 5) and His servants (v. 17) but will finally be consigned to everlasting punishment (20:10).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "revelation,12,5" ],
+  "verses" : [ {
+    "verse" : "revelation,12,5",
+    "text" : "She gave birth to a son, a male child, who will rule all the nations with an iron scepter. And her child was snatched up to God and to his throne."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "revelation,12,5",
     "id" : 199707,
@@ -28,7 +43,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rev 12:5\">12:5 a</a></b> <b>male child.</b> In fulfillment of <a class=\"bibleref\" href=\"/passage/?search=Mic 5:3\">Mic. 5:3</a>, Christ is born and His triumphant rule over the nations will be established, as certified by His resurrection and ascension.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "revelation,12,6" ],
+  "verses" : [ {
+    "verse" : "revelation,12,6",
+    "text" : "The woman fled into the desert to a place prepared for her by God, where she might be taken care of for 1,260 days."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "revelation,12,6",
     "id" : 199708,
@@ -36,7 +54,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rev 12:6\">12:6</a></b> God promises protection for a persecuted church. On the 1,260 days, see note <a class=\"bibleref\" href=\"/passage/?search=Rev 11:2\">11:2</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "revelation,12,7", "revelation,12,8", "revelation,12,9", "revelation,12,10", "revelation,12,11", "revelation,12,12" ],
+  "verses" : [ {
+    "verse" : "revelation,12,7",
+    "text" : "And there was war in heaven. Michael and his angels fought against the dragon, and the dragon and his angels fought back."
+  }, {
+    "verse" : "revelation,12,8",
+    "text" : "But he was not strong enough, and they lost their place in heaven."
+  }, {
+    "verse" : "revelation,12,9",
+    "text" : "The great dragon was hurled down--that ancient serpent called the devil, or Satan, who leads the whole world astray. He was hurled to the earth, and his angels with him."
+  }, {
+    "verse" : "revelation,12,10",
+    "text" : "Then I heard a loud voice in heaven say: \"Now have come the salvation and the power and the kingdom of our God, and the authority of his Christ. For the accuser of our brothers, who accuses them before our God day and night, has been hurled down."
+  }, {
+    "verse" : "revelation,12,11",
+    "text" : "They overcame him by the blood of the Lamb and by the word of their testimony; they did not love their lives so much as to shrink from death."
+  }, {
+    "verse" : "revelation,12,12",
+    "text" : "Therefore rejoice, you heavens and you who dwell in them! But woe to the earth and the sea, because the devil has gone down to you! He is filled with fury, because he knows that his time is short.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "revelation,12,7-revelation,12,12",
     "id" : 199709,
@@ -44,7 +80,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rev 12:7-Rev 12:12\">12:7–12</a></b> The victory of Christ (<a class=\"bibleref\" href=\"/passage/?search=Rev 12:5\">v. 5</a>) results in sweeping consequences, beginning with the expulsion of Satan by Michael, who is functioning as an agent of Christ. The passage does not speak of the fall of Satan at the time of creation but of the defeat of Satan in the crucifixion and resurrection of Christ (<a class=\"bibleref\" href=\"/passage/?search=Rev 12:12\">v. 12</a>; <a class=\"bibleref\" href=\"/passage/?search=John 12:31\">John 12:31</a>; <a class=\"bibleref\" href=\"/passage/?search=Col 2:15\">Col. 2:15</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "revelation,12,13" ],
+  "verses" : [ {
+    "verse" : "revelation,12,13",
+    "text" : "When the dragon saw that he had been hurled to the earth, he pursued the woman who had given birth to the male child."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "revelation,12,13-revelation,12,17",
     "id" : 199710,
@@ -52,7 +91,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rev 12:13-Rev 12:17\">12:13–17</a></b> Having failed to destroy Christ (<a class=\"bibleref\" href=\"/passage/?search=Rev 12:4\">vv. 4</a>, <a class=\"bibleref\" href=\"/passage/?search=Rev 12:5\">5</a>), the Dragon tries to destroy the people of Christ. He uses his mouth, representing deceit (<a class=\"bibleref\" href=\"/passage/?search=Rev 12:15\">vv. 15</a>, <a class=\"bibleref\" href=\"/passage/?search=Rev 12:9\">9</a>; <a class=\"bibleref\" href=\"/passage/?search=2Thess 2:9\">2 Thess. 2:9</a>, <a class=\"bibleref\" href=\"/passage/?search=2Thess 2:10\">10</a>). When deceit fails, he tries persecuting power (12:17–13:10).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "revelation,12,14", "revelation,12,15", "revelation,12,16", "revelation,12,17" ],
+  "verses" : [ {
+    "verse" : "revelation,12,14",
+    "text" : "The woman was given the two wings of a great eagle, so that she might fly to the place prepared for her in the desert, where she would be taken care of for a time, times and half a time, out of the serpent's reach."
+  }, {
+    "verse" : "revelation,12,15",
+    "text" : "Then from his mouth the serpent spewed water like a river, to overtake the woman and sweep her away with the torrent."
+  }, {
+    "verse" : "revelation,12,16",
+    "text" : "But the earth helped the woman by opening its mouth and swallowing the river that the dragon had spewed out of his mouth."
+  }, {
+    "verse" : "revelation,12,17",
+    "text" : "Then the dragon was enraged at the woman and went off to make war against the rest of her offspring--those who obey God's commandments and hold to the testimony of Jesus."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "revelation,12,14",
     "id" : 199711,

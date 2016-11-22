@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "2john,1,1", "2john,1,2" ],
+  "verses" : [ {
+    "verse" : "2john,1,1",
+    "text" : "The elder,"
+  }, {
+    "verse" : "2john,1,2",
+    "text" : "To the chosen lady and her children, whom I love in the truth--and not I only, but also all who know the truth--because of the truth, which lives in us and will be with us forever:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2john,1,1-2john,1,3",
     "id" : 199572,
@@ -12,7 +18,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2John 1:1\">1</a></b> <b>The elder.</b> There is no real difficulty with an apostle identifying himself as an elder, since the responsibilities of an apostle toward each individual congregation were the same as the responsibilities of an elder (<a class=\"bibleref\" href=\"/passage/?search=1Pet 5:1-1Pet 5:4\">1 Pet. 5:1–4</a>).</p><p><b>the elect lady.</b> Some consider this expression and the similar expression in v. 13 as a metaphor for a church, but such usage is otherwise unknown.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2john,1,3" ],
+  "verses" : [ {
+    "verse" : "2john,1,3",
+    "text" : "Grace, mercy and peace from God the Father and from Jesus Christ, the Father's Son, will be with us in truth and love."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2john,1,3",
     "id" : 199574,
@@ -20,7 +29,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2John 1:3\">3</a></b> <b>Grace, mercy, and peace.</b> Like the apostle Paul, John begins his greeting with mention of the rich Christian blessings of grace and peace (<a class=\"bibleref\" href=\"/passage/?search=Gal 1:3\">Gal. 1:3</a> note), but adds “mercy.” The source of this blessed “grace, mercy, and peace” is none other than God Himself, who is truth (<a class=\"bibleref\" href=\"/passage/?search=John 14:6\">John 14:6</a>; <a class=\"bibleref\" href=\"/passage/?search=1John 5:6\">1 John 5:6</a>) and love (<a class=\"bibleref\" href=\"/passage/?search=1John 4:8\">1 John 4:8</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2john,1,4" ],
+  "verses" : [ {
+    "verse" : "2john,1,4",
+    "text" : "It has given me great joy to find some of your children walking in the truth, just as the Father commanded us."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2john,1,4-2john,1,6",
     "id" : 199575,
@@ -28,7 +40,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2John 1:4-2John 1:6\">4–6</a></b> The elder and the lady share the joy of seeing members of her household continue to be faithful to the truth. The mark of Christian faithfulness is love for one another, the central command given to Christians by Jesus Himself (<a class=\"bibleref\" href=\"/passage/?search=John 13:34\">John 13:34</a>). That love is defined by all the commands Christ gave His followers.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2john,1,5", "2john,1,6" ],
+  "verses" : [ {
+    "verse" : "2john,1,5",
+    "text" : "And now, dear lady, I am not writing you a new command but one we have had from the beginning. I ask that we love one another."
+  }, {
+    "verse" : "2john,1,6",
+    "text" : "And this is love: that we walk in obedience to his commands. As you have heard from the beginning, his command is that you walk in love."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2john,1,5",
     "id" : 199576,
@@ -36,7 +54,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2John 1:5\">5</a></b> <b>not . . . a new commandment.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1John 2:7-1John 2:11\">1 John 2:7–11</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2john,1,7", "2john,1,8", "2john,1,9" ],
+  "verses" : [ {
+    "verse" : "2john,1,7",
+    "text" : "Many deceivers, who do not acknowledge Jesus Christ as coming in the flesh, have gone out into the world. Any such person is the deceiver and the antichrist."
+  }, {
+    "verse" : "2john,1,8",
+    "text" : "Watch out that you do not lose what you have worked for, but that you may be rewarded fully."
+  }, {
+    "verse" : "2john,1,9",
+    "text" : "Anyone who runs ahead and does not continue in the teaching of Christ does not have God; whoever continues in the teaching has both the Father and the Son."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2john,1,7-2john,1,11",
     "id" : 199577,
@@ -49,7 +76,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2John 1:7\">7</a></b> <b>gone out.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1John 2:19\">1 John 2:19</a>.</p><p><b>do not confess the coming of Jesus Christ in the flesh.</b> The deceivers were docetists, who denied the reality of the human nature of Christ (<a class=\"bibleref\" href=\"/passage/?search=1John 4:2\">1 John 4:2</a> note). See theological note “The Humanity of Jesus.”</p><p><b>the antichrist.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1John 2:18\">1 John 2:18</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2john,1,10", "2john,1,11" ],
+  "verses" : [ {
+    "verse" : "2john,1,10",
+    "text" : "If anyone comes to you and does not bring this teaching, do not take him into your house or welcome him."
+  }, {
+    "verse" : "2john,1,11",
+    "text" : "Anyone who welcomes him shares in his wicked work."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2john,1,10",
     "id" : 199579,
@@ -57,7 +90,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2John 1:10\">10</a></b> <b>do not receive him into your house or give him any greeting.</b> This stern measure contrasts sharply with the exhortation given in <a class=\"bibleref\" href=\"/passage/?search=3John 1:5-3John 1:8\">3 John 5–8</a> to welcome believers who proclaim the truth.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2john,1,12", "2john,1,13" ],
+  "verses" : [ {
+    "verse" : "2john,1,12",
+    "text" : "I have much to write to you, but I do not want to use paper and ink. Instead, I hope to visit you and talk with you face to face, so that our joy may be complete."
+  }, {
+    "verse" : "2john,1,13",
+    "text" : "The children of your chosen sister send their greetings."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2john,1,12-2john,1,13",
     "id" : 199580,

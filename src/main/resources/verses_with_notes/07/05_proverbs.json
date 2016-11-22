@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "proverbs,18,14", "proverbs,18,15" ],
+  "verses" : [ {
+    "verse" : "proverbs,18,14",
+    "text" : "A man's spirit sustains him in sickness, but a crushed spirit who can bear?"
+  }, {
+    "verse" : "proverbs,18,15",
+    "text" : "The heart of the discerning acquires knowledge; the ears of the wise seek it out."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

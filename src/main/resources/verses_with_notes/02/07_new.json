@@ -1,5 +1,47 @@
 [ {
-  "singleVerses" : [ "matthew,25,1", "matthew,25,2", "matthew,25,3", "matthew,25,4", "matthew,25,5", "matthew,25,6", "matthew,25,7", "matthew,25,8", "matthew,25,9", "matthew,25,10", "matthew,25,11", "matthew,25,12", "matthew,25,13", "matthew,25,14" ],
+  "verses" : [ {
+    "verse" : "matthew,25,1",
+    "text" : "\"At that time the kingdom of heaven will be like ten virgins who took their lamps and went out to meet the bridegroom."
+  }, {
+    "verse" : "matthew,25,2",
+    "text" : "Five of them were foolish and five were wise."
+  }, {
+    "verse" : "matthew,25,3",
+    "text" : "The foolish ones took their lamps but did not take any oil with them."
+  }, {
+    "verse" : "matthew,25,4",
+    "text" : "The wise, however, took oil in jars along with their lamps."
+  }, {
+    "verse" : "matthew,25,5",
+    "text" : "The bridegroom was a long time in coming, and they all became drowsy and fell asleep."
+  }, {
+    "verse" : "matthew,25,6",
+    "text" : "\"At midnight the cry rang out: 'Here's the bridegroom! Come out to meet him!'"
+  }, {
+    "verse" : "matthew,25,7",
+    "text" : "\"Then all the virgins woke up and trimmed their lamps."
+  }, {
+    "verse" : "matthew,25,8",
+    "text" : "The foolish ones said to the wise, 'Give us some of your oil; our lamps are going out.'"
+  }, {
+    "verse" : "matthew,25,9",
+    "text" : "\"'No,' they replied, 'there may not be enough for both us and you. Instead, go to those who sell oil and buy some for yourselves.'"
+  }, {
+    "verse" : "matthew,25,10",
+    "text" : "\"But while they were on their way to buy the oil, the bridegroom arrived. The virgins who were ready went in with him to the wedding banquet. And the door was shut."
+  }, {
+    "verse" : "matthew,25,11",
+    "text" : "\"Later the others also came. 'Sir! Sir!' they said. 'Open the door for us!'"
+  }, {
+    "verse" : "matthew,25,12",
+    "text" : "\"But he replied, 'I tell you the truth, I don't know you.'"
+  }, {
+    "verse" : "matthew,25,13",
+    "text" : "\"Therefore keep watch, because you do not know the day or the hour."
+  }, {
+    "verse" : "matthew,25,14",
+    "text" : "\"Again, it will be like a man going on a journey, who called his servants and entrusted his property to them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,24,1-matthew,25,46",
     "id" : 195888,
@@ -12,7 +54,34 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 25:1-Matt 25:13\">25:1–13</a></b> The delay of Christ’s return distinguishes the wise from the foolish. Being ready means being prepared for a long delay; short-lived zeal is inadequate.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,25,15", "matthew,25,16", "matthew,25,17", "matthew,25,18", "matthew,25,19", "matthew,25,20", "matthew,25,21", "matthew,25,22", "matthew,25,23" ],
+  "verses" : [ {
+    "verse" : "matthew,25,15",
+    "text" : "To one he gave five talents of money, to another two talents, and to another one talent, each according to his ability. Then he went on his journey."
+  }, {
+    "verse" : "matthew,25,16",
+    "text" : "The man who had received the five talents went at once and put his money to work and gained five more."
+  }, {
+    "verse" : "matthew,25,17",
+    "text" : "So also, the one with the two talents gained two more."
+  }, {
+    "verse" : "matthew,25,18",
+    "text" : "But the man who had received the one talent went off, dug a hole in the ground and hid his master's money."
+  }, {
+    "verse" : "matthew,25,19",
+    "text" : "\"After a long time the master of those servants returned and settled accounts with them."
+  }, {
+    "verse" : "matthew,25,20",
+    "text" : "The man who had received the five talents brought the other five. 'Master,' he said, 'you entrusted me with five talents. See, I have gained five more.'"
+  }, {
+    "verse" : "matthew,25,21",
+    "text" : "\"His master replied, 'Well done, good and faithful servant! You have been faithful with a few things; I will put you in charge of many things. Come and share your master's happiness!'"
+  }, {
+    "verse" : "matthew,25,22",
+    "text" : "\"The man with the two talents also came. 'Master,' he said, 'you entrusted me with two talents; see, I have gained two more.'"
+  }, {
+    "verse" : "matthew,25,23",
+    "text" : "\"His master replied, 'Well done, good and faithful servant! You have been faithful with a few things; I will put you in charge of many things. Come and share your master's happiness!'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,25,15",
     "id" : 195905,
@@ -20,7 +89,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 25:15\">25:15</a></b> <b>talents.</b> See notes <a class=\"bibleref\" href=\"/passage/?search=Matt 18:24\">18:24</a>, <a class=\"bibleref\" href=\"/passage/?search=Matt 18:28\">28</a>. The English word “talent” meaning a natural endowment or special ability is derived from this parable.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,25,24", "matthew,25,25", "matthew,25,26", "matthew,25,27", "matthew,25,28", "matthew,25,29", "matthew,25,30" ],
+  "verses" : [ {
+    "verse" : "matthew,25,24",
+    "text" : "\"Then the man who had received the one talent came. 'Master,' he said, 'I knew that you are a hard man, harvesting where you have not sown and gathering where you have not scattered seed."
+  }, {
+    "verse" : "matthew,25,25",
+    "text" : "So I was afraid and went out and hid your talent in the ground. See, here is what belongs to you.'"
+  }, {
+    "verse" : "matthew,25,26",
+    "text" : "\"His master replied, 'You wicked, lazy servant! So you knew that I harvest where I have not sown and gather where I have not scattered seed?"
+  }, {
+    "verse" : "matthew,25,27",
+    "text" : "Well then, you should have put my money on deposit with the bankers, so that when I returned I would have received it back with interest."
+  }, {
+    "verse" : "matthew,25,28",
+    "text" : "\"'Take the talent from him and give it to the one who has the ten talents."
+  }, {
+    "verse" : "matthew,25,29",
+    "text" : "For everyone who has will be given more, and he will have an abundance. Whoever does not have, even what he has will be taken from him."
+  }, {
+    "verse" : "matthew,25,30",
+    "text" : "And throw that worthless servant outside, into the darkness, where there will be weeping and gnashing of teeth.'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,25,24",
     "id" : 195906,

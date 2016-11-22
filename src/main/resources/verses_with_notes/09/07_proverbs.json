@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "proverbs,22,24", "proverbs,22,25" ],
+  "verses" : [ {
+    "verse" : "proverbs,22,24",
+    "text" : "Do not make friends with a hot-tempered man, do not associate with one easily angered,"
+  }, {
+    "verse" : "proverbs,22,25",
+    "text" : "or you may learn his ways and get yourself ensnared."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,22,17-proverbs,24,22",
     "id" : 192162,

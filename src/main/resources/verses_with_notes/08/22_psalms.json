@@ -1,5 +1,14 @@
 [ {
-  "singleVerses" : [ "psalms,37,30", "psalms,37,31", "psalms,37,32" ],
+  "verses" : [ {
+    "verse" : "psalms,37,30",
+    "text" : "The mouth of the righteous man utters wisdom, and his tongue speaks what is just."
+  }, {
+    "verse" : "psalms,37,31",
+    "text" : "The law of his God is in his heart; his feet do not slip."
+  }, {
+    "verse" : "psalms,37,32",
+    "text" : "The wicked lie in wait for the righteous, seeking their very lives;"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,37,1-psalms,37,40",
     "id" : 190511,
@@ -12,7 +21,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 37:30\">37:30</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 37:31\">31</a></b> Governed inwardly by God’s law, both the speech and actions of the righteous person are wise and just. In Hebrew, “heart” is the normal way of referring to the inner principle that governs outward performance (<a class=\"bibleref\" href=\"/passage/?search=Prov 4:23\">Prov. 4:23</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,37,33", "psalms,37,34" ],
+  "verses" : [ {
+    "verse" : "psalms,37,33",
+    "text" : "but the LORD will not leave them in their power or let them be condemned when brought to trial."
+  }, {
+    "verse" : "psalms,37,34",
+    "text" : "Wait for the LORD and keep his way. He will exalt you to inherit the land; when the wicked are cut off, you will see it."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,37,33",
     "id" : 190522,
@@ -20,7 +35,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 37:33\">37:33</a></b> <b>brought to trial.</b> The Lord will not allow the accusations of the wicked to destroy those He deems righteous. At His own bar of justice God will pronounce them innocent.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,37,35", "psalms,37,36" ],
+  "verses" : [ {
+    "verse" : "psalms,37,35",
+    "text" : "I have seen a wicked and ruthless man flourishing like a green tree in its native soil,"
+  }, {
+    "verse" : "psalms,37,36",
+    "text" : "but he soon passed away and was no more; though I looked for him, he could not be found."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,37,35",
     "id" : 190523,
@@ -28,7 +49,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 37:35\">37:35</a></b> <b>green laurel tree.</b> It commonly happens that the wicked prosper in the business of this world (<a class=\"bibleref\" href=\"/passage/?search=Luke 16:8\">Luke 16:8</a>). Far from being envied they should be mourned, since their temporary success is but a prelude to eternal loss.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,37,37", "psalms,37,38", "psalms,37,39", "psalms,37,40" ],
+  "verses" : [ {
+    "verse" : "psalms,37,37",
+    "text" : "Consider the blameless, observe the upright; there is a future for the man of peace."
+  }, {
+    "verse" : "psalms,37,38",
+    "text" : "But all sinners will be destroyed; the future of the wicked will be cut off."
+  }, {
+    "verse" : "psalms,37,39",
+    "text" : "The salvation of the righteous comes from the LORD; he is their stronghold in time of trouble."
+  }, {
+    "verse" : "psalms,37,40",
+    "text" : "The LORD helps them and delivers them; he delivers them from the wicked and saves them, because they take refuge in him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,37,37",
     "id" : 190524,

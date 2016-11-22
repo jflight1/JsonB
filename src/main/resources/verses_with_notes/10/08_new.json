@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "colossians,3,18", "colossians,3,19" ],
+  "verses" : [ {
+    "verse" : "colossians,3,18",
+    "text" : "Wives, submit to your husbands, as is fitting in the Lord."
+  }, {
+    "verse" : "colossians,3,19",
+    "text" : "Husbands, love your wives and do not be harsh with them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "colossians,3,1-colossians,4,6",
     "id" : 198698,
@@ -12,7 +18,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Col 3:18\">3:18</a>, <a class=\"bibleref\" href=\"/passage/?search=Col 3:19\">19</a></b> See note <a class=\"bibleref\" href=\"/passage/?search=Eph 5:22-Eph 5:32\">Eph. 5:22–32</a>; “The Christian Family” at <a class=\"bibleref\" href=\"/passage/?search=Eph 5:22\">Eph. 5:22</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "colossians,3,20", "colossians,3,21" ],
+  "verses" : [ {
+    "verse" : "colossians,3,20",
+    "text" : "Children, obey your parents in everything, for this pleases the Lord."
+  }, {
+    "verse" : "colossians,3,21",
+    "text" : "Fathers, do not embitter your children, or they will become discouraged."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "colossians,3,20-colossians,3,21",
     "id" : 198713,
@@ -20,7 +32,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Col 3:20\">3:20</a>, <a class=\"bibleref\" href=\"/passage/?search=Col 3:21\">21</a></b> See notes <a class=\"bibleref\" href=\"/passage/?search=Eph 6:1-Eph 6:3\">Eph. 6:1–3</a>, <a class=\"bibleref\" href=\"/passage/?search=Eph 6:4\">4</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "colossians,3,22", "colossians,3,23", "colossians,3,24", "colossians,3,25", "colossians,4,1" ],
+  "verses" : [ {
+    "verse" : "colossians,3,22",
+    "text" : "Slaves, obey your earthly masters in everything; and do it, not only when their eye is on you and to win their favor, but with sincerity of heart and reverence for the Lord."
+  }, {
+    "verse" : "colossians,3,23",
+    "text" : "Whatever you do, work at it with all your heart, as working for the Lord, not for men,"
+  }, {
+    "verse" : "colossians,3,24",
+    "text" : "since you know that you will receive an inheritance from the Lord as a reward. It is the Lord Christ you are serving."
+  }, {
+    "verse" : "colossians,3,25",
+    "text" : "Anyone who does wrong will be repaid for his wrong, and there is no favoritism."
+  }, {
+    "verse" : "colossians,4,1",
+    "text" : "Masters, provide your slaves with what is right and fair, because you know that you also have a Master in heaven."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "colossians,3,22-colossians,4,1",
     "id" : 198714,
@@ -28,7 +55,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Col 3:22-Col 4:1\">3:22–4:1</a></b> This treatment of slave and free in Colossians is probably related to the subject matter of the letter to Philemon. Onesimus was a runaway slave whom Paul was returning with a letter to his owner Philemon. Onesimus was accompanying Tychicus with the letter to the Colossians (<a class=\"bibleref\" href=\"/passage/?search=Col 4:7-Col 4:9\">4:7–9</a>), and they were probably carrying the letter to Philemon as well (Introduction to Philemon).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "colossians,4,2", "colossians,4,3", "colossians,4,4", "colossians,4,5", "colossians,4,6" ],
+  "verses" : [ {
+    "verse" : "colossians,4,2",
+    "text" : "Devote yourselves to prayer, being watchful and thankful."
+  }, {
+    "verse" : "colossians,4,3",
+    "text" : "And pray for us, too, that God may open a door for our message, so that we may proclaim the mystery of Christ, for which I am in chains."
+  }, {
+    "verse" : "colossians,4,4",
+    "text" : "Pray that I may proclaim it clearly, as I should."
+  }, {
+    "verse" : "colossians,4,5",
+    "text" : "Be wise in the way you act toward outsiders; make the most of every opportunity."
+  }, {
+    "verse" : "colossians,4,6",
+    "text" : "Let your conversation be always full of grace, seasoned with salt, so that you may know how to answer everyone."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "colossians,4,2-colossians,4,6",
     "id" : 198715,
@@ -36,7 +78,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Col 4:2-Col 4:6\">4:2–6</a></b> Two other ways in which believers can set their “minds on things that are above” (<a class=\"bibleref\" href=\"/passage/?search=Col 3:2\">3:2</a>) are praying (<a class=\"bibleref\" href=\"/passage/?search=Eph 6:18-Eph 6:20\">Eph. 6:18–20</a> note) and telling their faith wisely and persuasively to outsiders so that they may be drawn to the fullness of life in Christ.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "colossians,4,7", "colossians,4,8" ],
+  "verses" : [ {
+    "verse" : "colossians,4,7",
+    "text" : "Tychicus will tell you all the news about me. He is a dear brother, a faithful minister and fellow servant in the Lord."
+  }, {
+    "verse" : "colossians,4,8",
+    "text" : "I am sending him to you for the express purpose that you may know about our circumstances and that he may encourage your hearts."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "colossians,4,7-colossians,4,17",
     "id" : 198716,
@@ -49,7 +97,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Col 4:7\">4:7</a></b> <b>Tychicus.</b> The primary carrier of the letters to the Colossians, Philemon, and the Ephesians (<a class=\"bibleref\" href=\"/passage/?search=Eph 6:21\">Eph. 6:21</a>, <a class=\"bibleref\" href=\"/passage/?search=Eph 6:22\">22</a>). First mentioned as part of Paul’s entourage in <a class=\"bibleref\" href=\"/passage/?search=Acts 20:4\">Acts 20:4</a>, Tychicus was from the Roman province of Asia (in modern Turkey), and appears to have been one of Paul’s more trusted emissaries toward the end of his ministry (<a class=\"bibleref\" href=\"/passage/?search=2Tim 4:12\">2 Tim. 4:12</a>; <a class=\"bibleref\" href=\"/passage/?search=Titus 3:12\">Titus 3:12</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "colossians,4,9" ],
+  "verses" : [ {
+    "verse" : "colossians,4,9",
+    "text" : "He is coming with Onesimus, our faithful and dear brother, who is one of you. They will tell you everything that is happening here."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "colossians,4,9",
     "id" : 198718,
@@ -57,7 +108,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Col 4:9\">4:9</a></b> <b>Onesimus.</b> See Introduction to Philemon.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "colossians,4,10" ],
+  "verses" : [ {
+    "verse" : "colossians,4,10",
+    "text" : "My fellow prisoner Aristarchus sends you his greetings, as does Mark, the cousin of Barnabas. (You have received instructions about him; if he comes to you, welcome him.)"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "colossians,4,10",
     "id" : 198719,
@@ -65,7 +119,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Col 4:10\">4:10</a></b> <b>Aristarchus.</b> This Jew from Thessalonica had been publicly associated with Paul’s tumultuous ministry in Ephesus (<a class=\"bibleref\" href=\"/passage/?search=Acts 19:29\">Acts 19:29</a>). He had traveled with Paul’s company through Greece (<a class=\"bibleref\" href=\"/passage/?search=Acts 20:4\">Acts 20:4</a>) and on to Jerusalem and Rome (<a class=\"bibleref\" href=\"/passage/?search=Acts 27:2\">Acts 27:2</a>), where he now shared the apostle’s imprisonment.</p><p><b>Mark.</b> The rift that had emerged more than a decade earlier between Paul and the cousins Barnabas and John Mark (author of the Gospel of Mark, <a class=\"bibleref\" href=\"/passage/?search=Acts 13:13\">Acts 13:13</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 15:37-Acts 15:40\">15:37–40</a>) had healed (<a class=\"bibleref\" href=\"/passage/?search=2Tim 4:11\">2 Tim. 4:11</a>; <a class=\"bibleref\" href=\"/passage/?search=Phlm 1:24\">Philem. 24</a>). Paul’s special mention of Mark testifies to the power of the reconciling work of Christ (1:20–22) and to the peace that is to rule within Christ’s body (3:15).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "colossians,4,11" ],
+  "verses" : [ {
+    "verse" : "colossians,4,11",
+    "text" : "Jesus, who is called Justus, also sends greetings. These are the only Jews among my fellow workers for the kingdom of God, and they have proved a comfort to me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "colossians,4,11",
     "id" : 198720,
@@ -73,7 +130,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Col 4:11\">4:11</a></b> <b>Jesus who is called Justus.</b> Otherwise unknown.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "colossians,4,12" ],
+  "verses" : [ {
+    "verse" : "colossians,4,12",
+    "text" : "Epaphras, who is one of you and a servant of Christ Jesus, sends greetings. He is always wrestling in prayer for you, that you may stand firm in all the will of God, mature and fully assured."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "colossians,4,12",
     "id" : 198721,
@@ -81,7 +141,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Col 4:12\">4:12</a></b> <b>Epaphras.</b> See <a class=\"bibleref\" href=\"/passage/?search=Col 1:7\">1:7</a>; Introduction: Date and Occasion.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "colossians,4,13" ],
+  "verses" : [ {
+    "verse" : "colossians,4,13",
+    "text" : "I vouch for him that he is working hard for you and for those at Laodicea and Hierapolis."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "colossians,4,13",
     "id" : 198722,
@@ -89,7 +152,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Col 4:13\">4:13</a></b> <b>Hierapolis.</b> See Introduction: Date and Occasion.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "colossians,4,14" ],
+  "verses" : [ {
+    "verse" : "colossians,4,14",
+    "text" : "Our dear friend Luke, the doctor, and Demas send greetings."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "colossians,4,14",
     "id" : 198723,
@@ -97,7 +163,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Col 4:14\">4:14</a></b> <b>Luke.</b> This traveling companion of Paul in Acts was with Paul on what may have been the eve of his death (<a class=\"bibleref\" href=\"/passage/?search=2Tim 4:11\">2 Tim. 4:11</a>). As author of the Gospel of Luke and Acts, he was also Paul’s chronicler. Though his writing shows him to be exceptionally literate, the mention of his occupation does not necessarily mark him as a man of high social standing, since physicians were often slaves.</p><p><b>Demas.</b> Demas abandoned Paul during his second imprisonment in Rome (<a class=\"bibleref\" href=\"/passage/?search=2Tim 4:10\">2 Tim. 4:10</a>). He is mentioned one other time (<a class=\"bibleref\" href=\"/passage/?search=Phlm 1:24\">Philem. 24</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "colossians,4,15" ],
+  "verses" : [ {
+    "verse" : "colossians,4,15",
+    "text" : "Give my greetings to the brothers at Laodicea, and to Nympha and the church in her house."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "colossians,4,15",
     "id" : 198724,
@@ -105,7 +174,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Col 4:15\">4:15</a></b> <b>Nympha.</b> Some manuscripts identify this person, who hosted the Laodicean house church, as a woman. There are several references to women (whose marital status is not mentioned) as patrons or hosts of churches, or as workers in ministry (<a class=\"bibleref\" href=\"/passage/?search=Acts 12:12\">Acts 12:12</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 16:13-Acts 16:15\">16:13–15</a>; <a class=\"bibleref\" href=\"/passage/?search=Rom 16:1\">Rom. 16:1</a>, <a class=\"bibleref\" href=\"/passage/?search=Rom 16:2\">2</a>, <a class=\"bibleref\" href=\"/passage/?search=Rom 16:6\">6</a>, <a class=\"bibleref\" href=\"/passage/?search=Rom 16:7\">7</a>, <a class=\"bibleref\" href=\"/passage/?search=Rom 16:12\">12</a>, <a class=\"bibleref\" href=\"/passage/?search=Rom 16:13\">13</a>; <a class=\"bibleref\" href=\"/passage/?search=Phil 4:2\">Phil. 4:2</a>, <a class=\"bibleref\" href=\"/passage/?search=Phil 4:3\">3</a>; <a class=\"bibleref\" href=\"/passage/?search=2John 1\">2 John 1</a>, <a class=\"bibleref\" href=\"/passage/?search=2John 1:5\">5</a>). The standard of relationships between men and women, particularly husbands and wives, set out in 3:18 and parallels (<a class=\"bibleref\" href=\"/passage/?search=1Cor 14:33-1Cor 14:35\">1 Cor. 14:33–35</a>; <a class=\"bibleref\" href=\"/passage/?search=Eph 5:22-Eph 5:33\">Eph. 5:22–33</a>; <a class=\"bibleref\" href=\"/passage/?search=1Tim 2:11-1Tim 2:15\">1 Tim. 2:11–15</a>) was not inconsistent with the partnership in ministry that existed between men and women in the early church.</p><p><b>church in her house.</b> There is no evidence of churches owning separate property for worship until the middle of the third century. Until then, house churches were the norm. Those who exercised a ministry of hospitality by having churches in their homes were important benefactors of the early church (<a class=\"bibleref\" href=\"/passage/?search=Acts 12:12\">Acts 12:12</a>; <a class=\"bibleref\" href=\"/passage/?search=Rom 16:5\">Rom. 16:5</a>; <a class=\"bibleref\" href=\"/passage/?search=1Cor 16:19\">1 Cor. 16:19</a>; <a class=\"bibleref\" href=\"/passage/?search=Phlm 1:2\">Philem. 2</a>). On hospitality, see <a class=\"bibleref\" href=\"/passage/?search=Rom 12:13\">Rom. 12:13</a>; <a class=\"bibleref\" href=\"/passage/?search=1Tim 3:2\">1 Tim. 3:2</a>; <a class=\"bibleref\" href=\"/passage/?search=Titus 1:8\">Titus 1:8</a>; <a class=\"bibleref\" href=\"/passage/?search=Heb 13:2\">Heb. 13:2</a>; <a class=\"bibleref\" href=\"/passage/?search=1Pet 4:9\">1 Pet. 4:9</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "colossians,4,16" ],
+  "verses" : [ {
+    "verse" : "colossians,4,16",
+    "text" : "After this letter has been read to you, see that it is also read in the church of the Laodiceans and that you in turn read the letter from Laodicea."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "colossians,4,16",
     "id" : 198725,
@@ -113,7 +185,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Col 4:16\">4:16</a></b> <b>letter from Laodicea.</b> Some suggest that Paul is referring to the letter to the Ephesians, which in some ancient manuscripts lacks a destination, and which may have gone out as a circular letter (Introduction to Ephesians: Date and Occasion). Since Tychicus is the bearer of Ephesians as well (<a class=\"bibleref\" href=\"/passage/?search=Eph 6:21\">Eph. 6:21</a>, <a class=\"bibleref\" href=\"/passage/?search=Eph 6:22\">22</a>), the conclusion that the Ephesian and Laodicean letters were one and the same would imply that Colossians and Ephesians were written at about the same time, and that Tychicus traveled first to Laodicea and then to Colossae. However, it may be more natural to assume, on the basis of the more reflective style of Ephesians, that it was written some time after Colossians, and that Tychicus brought the Ephesian letter around to the churches on a subsequent trip (if, indeed, it was a circular letter). The best proposal for the identity of the letter from Laodicea is that it was a separate letter that has not survived.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "colossians,4,17" ],
+  "verses" : [ {
+    "verse" : "colossians,4,17",
+    "text" : "Tell Archippus: \"See to it that you complete the work you have received in the Lord.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "colossians,4,17",
     "id" : 198726,
@@ -121,7 +196,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Col 4:17\">4:17</a></b> <b>Archippus.</b> If Philemon was host of the house church in Colossae, which had seen the Onesimus incident, this verse may well suggest that Archippus was its spiritual leader.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "colossians,4,18" ],
+  "verses" : [ {
+    "verse" : "colossians,4,18",
+    "text" : "I, Paul, write this greeting in my own hand. Remember my chains. Grace be with you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "colossians,4,18",
     "id" : 198727,

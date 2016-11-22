@@ -1,8 +1,20 @@
 [ {
-  "singleVerses" : [ "psalms,31,19", "psalms,31,20" ],
+  "verses" : [ {
+    "verse" : "psalms,31,19",
+    "text" : "How great is your goodness, which you have stored up for those who fear you, which you bestow in the sight of men on those who take refuge in you."
+  }, {
+    "verse" : "psalms,31,20",
+    "text" : "In the shelter of your presence you hide them from the intrigues of men; in your dwelling you keep them safe from accusing tongues."
+  } ],
   "rsbNotes" : [ ]
 }, {
-  "singleVerses" : [ "psalms,31,21", "psalms,31,22" ],
+  "verses" : [ {
+    "verse" : "psalms,31,21",
+    "text" : "Praise be to the LORD, for he showed his wonderful love to me when I was in a besieged city."
+  }, {
+    "verse" : "psalms,31,22",
+    "text" : "In my alarm I said, \"I am cut off from your sight!\" Yet you heard my cry for mercy when I called to you for help."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,31,21",
     "id" : 190456,
@@ -10,7 +22,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 31:21\">31:21</a></b> <b>besieged city.</b> This phrase is difficult to understand. The psalmist could be remembering a particular incident. It may be that the original reading was “in a difficult time,” a rendering that fits the context well. A copyist’s error in one letter would account for the difference of reading.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,31,23", "psalms,31,24" ],
+  "verses" : [ {
+    "verse" : "psalms,31,23",
+    "text" : "Love the LORD, all his saints! The LORD preserves the faithful, but the proud he pays back in full."
+  }, {
+    "verse" : "psalms,31,24",
+    "text" : "Be strong and take heart, all you who hope in the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,31,23",
     "id" : 190457,

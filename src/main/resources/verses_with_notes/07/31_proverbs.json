@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,20,12" ],
+  "verses" : [ {
+    "verse" : "proverbs,20,12",
+    "text" : "Ears that hear and eyes that see- the LORD has made them both."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

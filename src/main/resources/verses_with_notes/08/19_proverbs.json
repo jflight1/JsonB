@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,21,21" ],
+  "verses" : [ {
+    "verse" : "proverbs,21,21",
+    "text" : "He who pursues righteousness and love finds life, prosperity and honor."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 21:21\">21:21</a></b> Those who cultivate right relationships and loyalty find lasting benefits in life (<a class=\"bibleref\" href=\"/passage/?search=Prov 21:16\">v. 16</a> and note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,21,22" ],
+  "verses" : [ {
+    "verse" : "proverbs,21,22",
+    "text" : "A wise man attacks the city of the mighty and pulls down the stronghold in which they trust."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,21,22",
     "id" : 192136,

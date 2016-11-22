@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,18,9" ],
+  "verses" : [ {
+    "verse" : "proverbs,18,9",
+    "text" : "One who is slack in his work is brother to one who destroys."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 18:9\">18:9</a></b> See <a class=\"bibleref\" href=\"/passage/?search=Prov 6:9-Prov 6:11\">6:9–11</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,18,10" ],
+  "verses" : [ {
+    "verse" : "proverbs,18,10",
+    "text" : "The name of the LORD is a strong tower; the righteous run to it and are safe."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,18,10",
     "id" : 192054,

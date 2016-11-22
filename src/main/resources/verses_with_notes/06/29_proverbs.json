@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "proverbs,18,4", "proverbs,18,5" ],
+  "verses" : [ {
+    "verse" : "proverbs,18,4",
+    "text" : "The words of a man's mouth are deep waters, but the fountain of wisdom is a bubbling brook."
+  }, {
+    "verse" : "proverbs,18,5",
+    "text" : "It is not good to be partial to the wicked or to deprive the innocent of justice."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

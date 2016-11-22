@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,16,24" ],
+  "verses" : [ {
+    "verse" : "proverbs,16,24",
+    "text" : "Pleasant words are a honeycomb, sweet to the soul and healing to the bones."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

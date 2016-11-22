@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,26,17" ],
+  "verses" : [ {
+    "verse" : "proverbs,26,17",
+    "text" : "Like one who seizes a dog by the ears is a passer-by who meddles in a quarrel not his own."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,26,17",
     "id" : 192262,

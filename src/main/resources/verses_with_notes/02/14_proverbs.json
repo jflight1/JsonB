@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,9,9" ],
+  "verses" : [ {
+    "verse" : "proverbs,9,9",
+    "text" : "Instruct a wise man and he will be wiser still; teach a righteous man and he will add to his learning."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,9,1-proverbs,9,18",
     "id" : 191822,
@@ -17,7 +20,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 9:9\">9:9</a></b> Wisdom recognizes an important principle of human nature: there is no standing still; we progress in the direction of our choice. Wisdom accumulates more wisdom (cf. <a class=\"bibleref\" href=\"/passage/?search=Matt 13:12\">Matt. 13:12</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,9,10" ],
+  "verses" : [ {
+    "verse" : "proverbs,9,10",
+    "text" : "\"The fear of the LORD is the beginning of wisdom, and knowledge of the Holy One is understanding."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,9,10",
     "id" : 191833,

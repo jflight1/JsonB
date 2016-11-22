@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,25,28" ],
+  "verses" : [ {
+    "verse" : "proverbs,25,28",
+    "text" : "Like a city whose walls are broken down is a man who lacks self-control."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,25,28",
     "id" : 192248,

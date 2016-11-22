@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,10,19" ],
+  "verses" : [ {
+    "verse" : "proverbs,10,19",
+    "text" : "When words are many, sin is not absent, but he who holds his tongue is wise."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

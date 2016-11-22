@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "mark,15,1" ],
+  "verses" : [ {
+    "verse" : "mark,15,1",
+    "text" : "Very early in the morning, the chief priests, with the elders, the teachers of the law and the whole Sanhedrin, reached a decision. They bound Jesus, led him away and handed him over to Pilate."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,14,53-mark,15,15",
     "id" : 196268,
@@ -12,7 +15,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 15:1\">15:1</a></b> <b>as soon as it was morning.</b> Probably at dawn. The purpose of the new meeting was apparently to draw up a civil charge (cf. <a class=\"bibleref\" href=\"/passage/?search=Luke 23:2\">Luke 23:2</a>).</p><p><b>Pilate.</b> The Apostles’ Creed mentions Pilate as the representative of Rome who faced Jesus in this trial. Pilate was Roman governor of Judea from <span class=\"small-caps\">a.d.</span> 26 to 36. As magistrate, only he had the legal right to pronounce capital sentences (14:64 note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,15,2", "mark,15,3" ],
+  "verses" : [ {
+    "verse" : "mark,15,2",
+    "text" : "\"Are you the king of the Jews?\" asked Pilate. \"Yes, it is as you say,\" Jesus replied."
+  }, {
+    "verse" : "mark,15,3",
+    "text" : "The chief priests accused him of many things."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,15,2",
     "id" : 196280,
@@ -20,7 +29,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 15:2\">15:2</a></b> <b>King of the Jews.</b> This title is ambiguous. In a political sense, the Herods were kings and Jesus was not. Nevertheless Jesus was King of the Jews, offered to them as the fulfillment of their messianic hopes.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,15,4", "mark,15,5", "mark,15,6" ],
+  "verses" : [ {
+    "verse" : "mark,15,4",
+    "text" : "So again Pilate asked him, \"Aren't you going to answer? See how many things they are accusing you of.\""
+  }, {
+    "verse" : "mark,15,5",
+    "text" : "But Jesus still made no reply, and Pilate was amazed."
+  }, {
+    "verse" : "mark,15,6",
+    "text" : "Now it was the custom at the Feast to release a prisoner whom the people requested."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,15,4",
     "id" : 196281,
@@ -28,7 +46,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 15:4\">15:4</a></b> <b>Have you no answer.</b> Pilate apparently wanted to make Jesus realize that, before the law, silence meant consent.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,15,7", "mark,15,8", "mark,15,9", "mark,15,10", "mark,15,11", "mark,15,12" ],
+  "verses" : [ {
+    "verse" : "mark,15,7",
+    "text" : "A man called Barabbas was in prison with the insurrectionists who had committed murder in the uprising."
+  }, {
+    "verse" : "mark,15,8",
+    "text" : "The crowd came up and asked Pilate to do for them what he usually did."
+  }, {
+    "verse" : "mark,15,9",
+    "text" : "\"Do you want me to release to you the king of the Jews?\" asked Pilate,"
+  }, {
+    "verse" : "mark,15,10",
+    "text" : "knowing it was out of envy that the chief priests had handed Jesus over to him."
+  }, {
+    "verse" : "mark,15,11",
+    "text" : "But the chief priests stirred up the crowd to have Pilate release Barabbas instead."
+  }, {
+    "verse" : "mark,15,12",
+    "text" : "\"What shall I do, then, with the one you call the king of the Jews?\" Pilate asked them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,15,7",
     "id" : 196282,
@@ -36,7 +72,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 15:7\">15:7</a></b> <b>Barabbas.</b> Apparently he was an insurrectionist seeking the military overthrow of Rome. <a class=\"bibleref\" href=\"/passage/?search=Matt 27:16\">Matt. 27:16</a> (in some manuscripts) gives his first name as “Jesus,” a common name of the period. The choice Pilate proposes to the crowd (v. 9) is unwittingly ironic: Jesus Barabbas, the would-be political savior of Israel, or Jesus of Nazareth, the true Savior of the world.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,15,13", "mark,15,14" ],
+  "verses" : [ {
+    "verse" : "mark,15,13",
+    "text" : "\"Crucify him!\" they shouted."
+  }, {
+    "verse" : "mark,15,14",
+    "text" : "\"Why? What crime has he committed?\" asked Pilate. But they shouted all the louder, \"Crucify him!\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,15,13",
     "id" : 196283,
@@ -44,7 +86,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 15:13\">15:13</a></b> <b>Crucify.</b> Of Persian origin and adopted by the Romans, this cruel and shameful form of capital punishment was used mainly against rebellious slaves and insurrectionists. Metal spikes were driven through the wrists or hands (<a class=\"bibleref\" href=\"/passage/?search=John 20:25\">John 20:25</a>) and heels of the victim who suffered terrible pain. Death usually resulted over the course of days from the effects of the injuries, hunger, dehydration, and exposure. Breaking the condemned’s legs (<a class=\"bibleref\" href=\"/passage/?search=John 19:33\">John 19:33</a>) caused rapid death by asphyxiation, since the legs could no longer lift the body to help the person breathe. As Paul notes, the crucifixion of Jesus brought Him publicly under the curse of God (<a class=\"bibleref\" href=\"/passage/?search=Gal 3:13\">Gal. 3:13</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Deut 21:23\">Deut. 21:23</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,15,15" ],
+  "verses" : [ {
+    "verse" : "mark,15,15",
+    "text" : "Wanting to satisfy the crowd, Pilate released Barabbas to them. He had Jesus flogged, and handed him over to be crucified."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,15,15",
     "id" : 196284,
@@ -52,7 +97,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 15:15\">15:15</a></b> <b>scourged.</b> In Roman custom flogging preceded crucifixion.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,15,16" ],
+  "verses" : [ {
+    "verse" : "mark,15,16",
+    "text" : "The soldiers led Jesus away into the palace (that is, the Praetorium) and called together the whole company of soldiers."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,15,16",
     "id" : 196285,
@@ -60,7 +108,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 15:16\">15:16</a></b> <b>palace.</b> Originally the word for a military headquarters or barracks generally. In the Gospels it refers to an official residence (cf. <a class=\"bibleref\" href=\"/passage/?search=Acts 23:35\">Acts 23:35</a>).</p><p><b>whole battalion.</b> Lit. “cohort” or tenth part of a Roman legion of nominally six hundred men.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,15,17" ],
+  "verses" : [ {
+    "verse" : "mark,15,17",
+    "text" : "They put a purple robe on him, then twisted together a crown of thorns and set it on him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,15,17",
     "id" : 196286,
@@ -68,7 +119,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 15:17\">15:17</a></b> <b>clothed him in a purple cloak.</b> Purple was expensive and hard to produce, and for this reason was a mark of high rank (<a class=\"bibleref\" href=\"/passage/?search=Esth 1:6\">Esth. 1:6</a>; <a class=\"bibleref\" href=\"/passage/?search=Prov 31:22\">Prov. 31:22</a>; <a class=\"bibleref\" href=\"/passage/?search=Luke 16:19\">Luke 16:19</a>; <a class=\"bibleref\" href=\"/passage/?search=Rev 17:4\">Rev. 17:4</a>), especially of royalty (<a class=\"bibleref\" href=\"/passage/?search=2Chr 2:7\">2 Chr. 2:7</a>, <a class=\"bibleref\" href=\"/passage/?search=2Chr 2:14\">14</a>; <a class=\"bibleref\" href=\"/passage/?search=2Chr 3:14\">3:14</a>; <a class=\"bibleref\" href=\"/passage/?search=Song 3:10\">Song 3:10</a>).</p><p><b>crown of thorns.</b> Jesus bore the divine curse (v. 13 note) on the ground, which produced thorns after Adam sinned (<a class=\"bibleref\" href=\"/passage/?search=Gen 3:17\">Gen. 3:17</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 3:18\">18</a>).The soldiers used the crown to ridicule the idea that Jesus was a king.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,15,18", "mark,15,19", "mark,15,20" ],
+  "verses" : [ {
+    "verse" : "mark,15,18",
+    "text" : "And they began to call out to him, \"Hail, king of the Jews!\""
+  }, {
+    "verse" : "mark,15,19",
+    "text" : "Again and again they struck him on the head with a staff and spit on him. Falling on their knees, they paid homage to him."
+  }, {
+    "verse" : "mark,15,20",
+    "text" : "And when they had mocked him, they took off the purple robe and put his own clothes on him. Then they led him out to crucify him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,15,18",
     "id" : 196287,
@@ -76,7 +136,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 15:18\">15:18</a></b> <b>Hail.</b> This salutation and the homage paid (<a class=\"bibleref\" href=\"/passage/?search=Mark 15:19\">v. 19</a>) are mockeries of the respect due to royalty.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,15,21" ],
+  "verses" : [ {
+    "verse" : "mark,15,21",
+    "text" : "A certain man from Cyrene, Simon, the father of Alexander and Rufus, was passing by on his way in from the country, and they forced him to carry the cross."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,15,21",
     "id" : 196288,
@@ -84,7 +147,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 15:21\">15:21</a></b> <b>Cyrene.</b> Cyrene was an important city in what is today Libya. There was a large Jewish settlement in Cyrene going back several hundred years (<a class=\"bibleref\" href=\"/passage/?search=Acts 6:9\">Acts 6:9</a>).</p><p><b>Alexander and Rufus.</b> Simon’s sons may have been members of the Christian community to which Mark wrote, probably at Rome (cf. <a class=\"bibleref\" href=\"/passage/?search=Rom 16:13\">Rom. 16:13</a>).</p><p><b>carry his cross.</b> Usually the condemned man would carry the crossbeam, weighing thirty to forty pounds. Simon, in taking up the cross of Jesus, became a visual image of the true discipleship that Jesus demands (8:34).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,15,22" ],
+  "verses" : [ {
+    "verse" : "mark,15,22",
+    "text" : "They brought Jesus to the place called Golgotha (which means The Place of the Skull)."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,15,22",
     "id" : 196289,
@@ -92,7 +158,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 15:22\">15:22</a></b> <b>Place of a Skull.</b> An ominous name, possibly referring to the shape of the hill where executions were carried out.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,15,23" ],
+  "verses" : [ {
+    "verse" : "mark,15,23",
+    "text" : "Then they offered him wine mixed with myrrh, but he did not take it."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,15,23",
     "id" : 196290,
@@ -100,7 +169,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 15:23\">15:23</a></b> <b>wine mixed with myrrh.</b> A primitive form of painkiller. Myrrh was an expensive spice used as a cosmetic. It was offered to Jesus at His birth as a gift for a king (<a class=\"bibleref\" href=\"/passage/?search=Matt 2:11\">Matt. 2:11</a>), and used in His burial by Nicodemus (<a class=\"bibleref\" href=\"/passage/?search=John 19:39\">John 19:39</a>, <a class=\"bibleref\" href=\"/passage/?search=John 19:40\">40</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,15,24" ],
+  "verses" : [ {
+    "verse" : "mark,15,24",
+    "text" : "And they crucified him. Dividing up his clothes, they cast lots to see what each would get."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,15,24",
     "id" : 196291,
@@ -108,7 +180,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 15:24\">15:24</a></b> <b>divided his garments.</b> These were the spoils reserved for the execution squad. This seemingly unimportant detail is a fulfillment of <a class=\"bibleref\" href=\"/passage/?search=Ps 22:18\">Ps. 22:18</a>, a psalm that describes the agony of a violent and undeserved death (<a class=\"bibleref\" href=\"/passage/?search=Ps 22:16\">Ps. 22:16</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,15,25" ],
+  "verses" : [ {
+    "verse" : "mark,15,25",
+    "text" : "It was the third hour when they crucified him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,15,25",
     "id" : 196292,
@@ -116,7 +191,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 15:25\">15:25</a></b> <b>third hour.</b> About 9:00 <span class=\"small-caps\">a.m.</span></p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,15,26" ],
+  "verses" : [ {
+    "verse" : "mark,15,26",
+    "text" : "The written notice of the charge against him read: THE KING OF THE JEWS."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,15,26",
     "id" : 196293,
@@ -124,7 +202,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 15:26\">15:26</a></b> <b>the charge.</b> Called the <i>titulus,</i> in Latin, this was a sign carried before the prisoner on the way to execution, and affixed to the cross over his head.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,15,27" ],
+  "verses" : [ {
+    "verse" : "mark,15,27",
+    "text" : "They crucified two robbers with him, one on his right and one on his left."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,15,27",
     "id" : 196294,
@@ -132,7 +213,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 15:27\">15:27</a></b> <b>two robbers.</b> Though the Greek word often means “robber,” it can also mean “insurrectionist” (<a class=\"bibleref\" href=\"/passage/?search=Mark 14:48\">14:48</a> note) or more generally “criminal.” Since robbery was not punishable by crucifixion (<a class=\"bibleref\" href=\"/passage/?search=Mark 14:13\">v. 13</a> note), one of the latter two meanings is more probable here.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,15,28" ],
+  "verses" : [ {
+    "verse" : "mark,15,28",
+    "text" : "See Footnote"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,15,28",
     "id" : 196295,
@@ -140,7 +224,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 15:28\">15:28</a></b> This verse is lacking in the most ancient manuscripts, although it is present in the vast majority of existing manuscripts. It is possible that early copyists inserted the citation of <a class=\"bibleref\" href=\"/passage/?search=Isa 53:12\">Is. 53:12</a>, relying on the parallel passage of <a class=\"bibleref\" href=\"/passage/?search=Luke 22:37\">Luke 22:37</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,15,29" ],
+  "verses" : [ {
+    "verse" : "mark,15,29",
+    "text" : "Those who passed by hurled insults at him, shaking their heads and saying, \"So! You who are going to destroy the temple and build it in three days,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,15,29",
     "id" : 196296,
@@ -148,7 +235,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 15:29\">15:29</a></b> See note <a class=\"bibleref\" href=\"/passage/?search=Mark 14:58\">14:58</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,15,30", "mark,15,31", "mark,15,32" ],
+  "verses" : [ {
+    "verse" : "mark,15,30",
+    "text" : "come down from the cross and save yourself!\""
+  }, {
+    "verse" : "mark,15,31",
+    "text" : "In the same way the chief priests and the teachers of the law mocked him among themselves. \"He saved others,\" they said, \"but he can't save himself!"
+  }, {
+    "verse" : "mark,15,32",
+    "text" : "Let this Christ, this King of Israel, come down now from the cross, that we may see and believe.\" Those crucified with him also heaped insults on him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,15,30",
     "id" : 196297,
@@ -156,7 +252,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 15:30\">15:30</a></b> <b>come down.</b> This is both an insult and a diabolical temptation similar to those proposed to Jesus at the beginning of His ministry (<a class=\"bibleref\" href=\"/passage/?search=Matt 4:2-Matt 4:6\">Matt. 4:2–6</a>). The devil is still seeking to subvert the work of redemption at the very moment of its accomplishment, when Jesus is at His greatest physical weakness (14:38).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,15,33" ],
+  "verses" : [ {
+    "verse" : "mark,15,33",
+    "text" : "At the sixth hour darkness came over the whole land until the ninth hour."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,15,33",
     "id" : 196298,
@@ -164,7 +263,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 15:33\">15:33</a></b> <b>sixth hour.</b> Noon.</p><p><b>darkness.</b> This recalls the darkness in Egypt, which lasted three days before the death of the firstborn sons (<a class=\"bibleref\" href=\"/passage/?search=Exod 10:22\">Ex. 10:22</a>). See also the prophecy of <a class=\"bibleref\" href=\"/passage/?search=Amos 8:9\">Amos 8:9</a>, <a class=\"bibleref\" href=\"/passage/?search=Amos 8:10\">10</a> where the Lord promises to “darken the earth in broad daylight,” in a time “like the mourning for an only son.”</p><p><b>ninth hour.</b> About 3:00 <span class=\"small-caps\">p.m.</span></p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,15,34" ],
+  "verses" : [ {
+    "verse" : "mark,15,34",
+    "text" : "And at the ninth hour Jesus cried out in a loud voice, \"Eloi, Eloi, lama sabachthani?\"--which means, \"My God, my God, why have you forsaken me?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,15,34",
     "id" : 196299,
@@ -172,7 +274,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 15:34\">15:34</a></b> <b>Eloi . . . sabachthani.</b> This is the first verse of <a class=\"bibleref\" href=\"/passage/?search=Ps 22\">Ps. 22</a> in Aramaic. Even in the jaws of death, Jesus’ life is determined by what is written in Scripture.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,15,35" ],
+  "verses" : [ {
+    "verse" : "mark,15,35",
+    "text" : "When some of those standing near heard this, they said, \"Listen, he's calling Elijah.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,15,35",
     "id" : 196300,
@@ -180,7 +285,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 15:35\">15:35</a></b> <b>Elijah.</b> Some mistook the word <i>Eloi</i> for “Elijah,” perhaps because in some circles it was believed that Elijah would return (<a class=\"bibleref\" href=\"/passage/?search=Mark 6:15\">6:15</a>; <a class=\"bibleref\" href=\"/passage/?search=Mark 8:28\">8:28</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,15,36" ],
+  "verses" : [ {
+    "verse" : "mark,15,36",
+    "text" : "One man ran, filled a sponge with wine vinegar, put it on a stick, and offered it to Jesus to drink. \"Now leave him alone. Let's see if Elijah comes to take him down,\" he said."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,15,36",
     "id" : 196301,
@@ -188,7 +296,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 15:36\">15:36</a></b> <b>sour wine.</b> A cheap wine that has almost become vinegar. Unlike the offer of wine and myrrh (<a class=\"bibleref\" href=\"/passage/?search=Mark 15:23\">v. 23</a>), there is no humanitarian desire to relieve the suffering here, but rather a cruel intention to prolong it by reviving Jesus, in order to see if “Elijah” would come at His call.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,15,37" ],
+  "verses" : [ {
+    "verse" : "mark,15,37",
+    "text" : "With a loud cry, Jesus breathed his last."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,15,37",
     "id" : 196302,
@@ -196,7 +307,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 15:37\">15:37</a></b> <b>uttered a loud cry.</b> Jesus had been hanging on the cross for six hours (<a class=\"bibleref\" href=\"/passage/?search=Mark 15:25\">vv. 25</a>, <a class=\"bibleref\" href=\"/passage/?search=Mark 15:34\">34</a>). Crucifixion could last two or three days (<a class=\"bibleref\" href=\"/passage/?search=Mark 15:13\">v. 13</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,15,38" ],
+  "verses" : [ {
+    "verse" : "mark,15,38",
+    "text" : "The curtain of the temple was torn in two from top to bottom."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,15,38",
     "id" : 196303,
@@ -204,7 +318,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 15:38\">15:38</a></b> <b>the curtain of the temple was torn in two.</b> The death of Jesus is the final and definitive sacrifice for sin (<a class=\"bibleref\" href=\"/passage/?search=Heb 7:27\">Heb. 7:27</a>). The old dispensation of the covenant of grace is brought to a decisive end. No longer would the high priest need to enter into the Most Holy Place behind the veil to atone for the sins of the people (<a class=\"bibleref\" href=\"/passage/?search=Exod 26:31-Exod 26:33\">Ex. 26:31–33</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Heb 9:1-Heb 9:10\">Heb. 9:1–10</a>). Jesus is the new and eternal High Priest (<a class=\"bibleref\" href=\"/passage/?search=Heb 8:1\">Heb. 8:1</a>), and also the perfect sacrificial victim (<a class=\"bibleref\" href=\"/passage/?search=Heb 9:14\">Heb. 9:14</a>) who obtains for His people “eternal redemption” (<a class=\"bibleref\" href=\"/passage/?search=Heb 9:12\">Heb. 9:12</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,15,39" ],
+  "verses" : [ {
+    "verse" : "mark,15,39",
+    "text" : "And when the centurion, who stood there in front of Jesus, heard his cry and saw how he died, he said, \"Surely this man was the Son of God!\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,15,39",
     "id" : 196304,
@@ -212,7 +329,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 15:39\">15:39</a></b> <b>centurion.</b> A Roman officer responsible for one hundred men. This centurion was apparently responsible for the detachment that put Jesus to death. He was well placed to observe the death of Jesus.</p><p><b>Son of God.</b> The Greek could be translated “a son of God.” A Roman would not see in this term the Old Testament Messiah nor the eternal Son of the Trinity, but rather the Hellenistic idea of a human being favored by the gods. Nevertheless, the confession stands as the goal and climax of Mark’s Gospel, filled with the content of the Christian message (cf. <a class=\"bibleref\" href=\"/passage/?search=Mark 1:1\">1:1</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,15,40" ],
+  "verses" : [ {
+    "verse" : "mark,15,40",
+    "text" : "Some women were watching from a distance. Among them were Mary Magdalene, Mary the mother of James the younger and of Joses, and Salome."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,15,40",
     "id" : 196305,
@@ -220,7 +340,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 15:40\">15:40</a></b> <b>Mary Magdalene.</b> That is, from Magdala on the southwestern shore of the Sea of Galilee (cf. <a class=\"bibleref\" href=\"/passage/?search=Mark 16:9\">16:9</a>; <a class=\"bibleref\" href=\"/passage/?search=Luke 8:2\">Luke 8:2</a>).</p><p><b>Mary the mother of James the younger and of Joses.</b> Known only from this incident (cf. <a class=\"bibleref\" href=\"/passage/?search=Matt 27:56\">Matt. 27:56</a>).</p><p><b>Salome.</b> Mother of James and John (<a class=\"bibleref\" href=\"/passage/?search=Matt 27:56\">Matt. 27:56</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Matt 20:20\">20:20</a>, <a class=\"bibleref\" href=\"/passage/?search=Matt 20:21\">21</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,15,41" ],
+  "verses" : [ {
+    "verse" : "mark,15,41",
+    "text" : "In Galilee these women had followed him and cared for his needs. Many other women who had come up with him to Jerusalem were also there."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,15,41",
     "id" : 196306,
@@ -228,7 +351,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 15:41\">15:41</a></b> <b>many other women.</b> All the men had fled, except the beloved disciple (<a class=\"bibleref\" href=\"/passage/?search=John 19:26\">John 19:26</a>, <a class=\"bibleref\" href=\"/passage/?search=John 19:35\">35</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,15,42" ],
+  "verses" : [ {
+    "verse" : "mark,15,42",
+    "text" : "It was Preparation Day (that is, the day before the Sabbath). So as evening approached,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,15,42",
     "id" : 196307,
@@ -236,7 +362,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 15:42\">15:42</a></b> <b>day of Preparation.</b> The day before the Sabbath (Friday; <a class=\"bibleref\" href=\"/passage/?search=John 19:14\">John 19:14</a> note). Food was prepared before sunset, when the Sabbath began. Joseph would have to buy the linen, make arrangements for Jesus’ burial, and ready the tomb (vv. 43–46) in the three hours remaining between Jesus’ death and sunset.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,15,43" ],
+  "verses" : [ {
+    "verse" : "mark,15,43",
+    "text" : "Joseph of Arimathea, a prominent member of the Council, who was himself waiting for the kingdom of God, went boldly to Pilate and asked for Jesus' body."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,15,43",
     "id" : 196308,
@@ -244,7 +373,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 15:43\">15:43</a></b> <b>Joseph of Arimathea.</b> Perhaps from Ramah in Judea, twenty miles northwest of Jerusalem, the city of the prophet Samuel (<a class=\"bibleref\" href=\"/passage/?search=1Sam 1:1\">1 Sam. 1:1</a>). See note <a class=\"bibleref\" href=\"/passage/?search=Luke 23:50\">Luke 23:50</a>, <a class=\"bibleref\" href=\"/passage/?search=Luke 23:51\">51</a>.</p><p><b>Council.</b> The Sanhedrin (8:31 note).</p><p><b>kingdom of God.</b> See note 1:15. Joseph was no doubt a pious Pharisee, but also a secret follower of Jesus.</p><p><b>took courage.</b> This is apparently Joseph’s first act of faith, but it comes at a time when all Jesus’ own disciples had fled. Joseph puts himself in conflict with the decision of the Sanhedrin, and jeopardizes his entire future.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,15,44", "mark,15,45" ],
+  "verses" : [ {
+    "verse" : "mark,15,44",
+    "text" : "Pilate was surprised to hear that he was already dead. Summoning the centurion, he asked him if Jesus had already died."
+  }, {
+    "verse" : "mark,15,45",
+    "text" : "When he learned from the centurion that it was so, he gave the body to Joseph."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,15,44",
     "id" : 196309,
@@ -252,7 +387,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 15:44\">15:44</a></b> <b>Pilate was surprised.</b> Pilate’s surprise again confirms the unusual character of Jesus’ death (<a class=\"bibleref\" href=\"/passage/?search=Mark 15:37\">v. 37</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,15,46", "mark,15,47" ],
+  "verses" : [ {
+    "verse" : "mark,15,46",
+    "text" : "So Joseph bought some linen cloth, took down the body, wrapped it in the linen, and placed it in a tomb cut out of rock. Then he rolled a stone against the entrance of the tomb."
+  }, {
+    "verse" : "mark,15,47",
+    "text" : "Mary Magdalene and Mary the mother of Joses saw where he was laid."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,15,46",
     "id" : 196310,

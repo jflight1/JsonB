@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,44,1" ],
+  "verses" : [ {
+    "verse" : "psalms,44,1",
+    "text" : "We have heard with our ears, O God; our fathers have told us what you did in their days, in days long ago."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,44,1-psalms,44,26",
     "id" : 190569,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 44:1\">44:1</a></b> <b>deeds you performed in their days.</b> Memory plays a key role in the psalms (<a class=\"bibleref\" href=\"/passage/?search=Ps 77\">Ps. 77</a>). When in distress, it brings healing to remember God’s gracious acts in the past. In this psalm, however, past deliverance throws a question mark over the present. Why doesn’t God work now as He did for our fathers in the past?</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,44,2" ],
+  "verses" : [ {
+    "verse" : "psalms,44,2",
+    "text" : "With your hand you drove out the nations and planted our fathers; you crushed the peoples and made our fathers flourish."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,44,2",
     "id" : 190571,
@@ -20,7 +26,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 44:2\">44:2</a></b> <b>them you planted.</b> The reference is to the conquest and settlement of the land as recorded in the Book of Joshua.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,44,3" ],
+  "verses" : [ {
+    "verse" : "psalms,44,3",
+    "text" : "It was not by their sword that they won the land, nor did their arm bring them victory; it was your right hand, your arm, and the light of your face, for you loved them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,44,3",
     "id" : 190572,
@@ -28,7 +37,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 44:3\">44:3</a></b> <b>your right hand.</b> Israel did not take possession of the land by their own might or strategy, but through God’s power. God fought for them like a warrior in their midst (<a class=\"bibleref\" href=\"/passage/?search=Josh 6\">Josh. 6</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 7\">Deut. 7</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,44,4", "psalms,44,5" ],
+  "verses" : [ {
+    "verse" : "psalms,44,4",
+    "text" : "You are my King and my God, who decrees victories for Jacob."
+  }, {
+    "verse" : "psalms,44,5",
+    "text" : "Through you we push back our enemies; through your name we trample our foes."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,44,4",
     "id" : 190573,
@@ -36,7 +51,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 44:4\">44:4</a></b> <b>Jacob.</b> Another name for Israel.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,44,6", "psalms,44,7", "psalms,44,8" ],
+  "verses" : [ {
+    "verse" : "psalms,44,6",
+    "text" : "I do not trust in my bow, my sword does not bring me victory;"
+  }, {
+    "verse" : "psalms,44,7",
+    "text" : "but you give us victory over our enemies, you put our adversaries to shame."
+  }, {
+    "verse" : "psalms,44,8",
+    "text" : "In God we make our boast all day long, and we will praise your name forever. Selah"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,44,6",
     "id" : 190574,

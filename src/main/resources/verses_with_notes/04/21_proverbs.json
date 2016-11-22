@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "proverbs,13,17", "proverbs,13,18" ],
+  "verses" : [ {
+    "verse" : "proverbs,13,17",
+    "text" : "A wicked messenger falls into trouble, but a trustworthy envoy brings healing."
+  }, {
+    "verse" : "proverbs,13,18",
+    "text" : "He who ignores discipline comes to poverty and shame, but whoever heeds correction is honored."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +18,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 13:17\">13:17</a></b> <b>wicked messenger.</b> One who brings a deceitful message.</p><p><b>trouble.</b> Or, “misfortune.” Such a messenger was the Amalekite who, hoping to win favor from David, falsely claimed to have killed Saul, but was executed for his trouble (<a class=\"bibleref\" href=\"/passage/?search=2Sam 1:1-2Sam 1:16\">2 Sam. 1:1–16</a>). The parallel statements of this proverb suggest that the faithful messenger, perhaps an envoy, promotes the welfare of others.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,13,19" ],
+  "verses" : [ {
+    "verse" : "proverbs,13,19",
+    "text" : "A longing fulfilled is sweet to the soul, but fools detest turning from evil."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,13,19",
     "id" : 191937,

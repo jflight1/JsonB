@@ -1,5 +1,17 @@
 [ {
-  "singleVerses" : [ "job,31,1", "job,31,2", "job,31,3", "job,31,4" ],
+  "verses" : [ {
+    "verse" : "job,31,1",
+    "text" : "\"I made a covenant with my eyes not to look lustfully at a girl."
+  }, {
+    "verse" : "job,31,2",
+    "text" : "For what is man's lot from God above, his heritage from the Almighty on high?"
+  }, {
+    "verse" : "job,31,3",
+    "text" : "Is it not ruin for the wicked, disaster for those who do wrong?"
+  }, {
+    "verse" : "job,31,4",
+    "text" : "Does he not see my ways and count my every step?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,31,1-job,31,40",
     "id" : 190129,
@@ -12,7 +24,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 31:1-Job 31:4\">31:1–4</a></b> Job explains that he determined not to sin with his eyes (<a class=\"bibleref\" href=\"/passage/?search=1John 2:16\">1 John 2:16</a>). He may be speaking of more than ordinary lust, that is of the worship of the fertility goddesses so popular in Old Testament times. The word translated “virgin” (v. 1) is used of the goddess of fertility in Canaanite writings. She was a kind of Venus and was called the “maiden Anat” in Ugarit.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,31,5", "job,31,6", "job,31,7", "job,31,8" ],
+  "verses" : [ {
+    "verse" : "job,31,5",
+    "text" : "\"If I have walked in falsehood or my foot has hurried after deceit-"
+  }, {
+    "verse" : "job,31,6",
+    "text" : "let God weigh me in honest scales and he will know that I am blameless-"
+  }, {
+    "verse" : "job,31,7",
+    "text" : "if my steps have turned from the path, if my heart has been led by my eyes, or if my hands have been defiled,"
+  }, {
+    "verse" : "job,31,8",
+    "text" : "then may others eat what I have sown, and may my crops be uprooted."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,31,5-job,31,8",
     "id" : 190131,
@@ -20,7 +44,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 31:5-Job 31:8\">31:5–8</a></b> Job clears himself of avarice with a sanction based on God’s “just balance,” His justice.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,31,9", "job,31,10", "job,31,11", "job,31,12" ],
+  "verses" : [ {
+    "verse" : "job,31,9",
+    "text" : "\"If my heart has been enticed by a woman, or if I have lurked at my neighbor's door,"
+  }, {
+    "verse" : "job,31,10",
+    "text" : "then may my wife grind another man's grain, and may other men sleep with her."
+  }, {
+    "verse" : "job,31,11",
+    "text" : "For that would have been shameful, a sin to be judged."
+  }, {
+    "verse" : "job,31,12",
+    "text" : "It is a fire that burns to Destruction; it would have uprooted my harvest."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,31,9-job,31,12",
     "id" : 190132,
@@ -28,7 +64,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 31:9-Job 31:12\">31:9–12</a></b> Job clears himself of adultery with God’s fire as the sanction.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,31,13", "job,31,14", "job,31,15" ],
+  "verses" : [ {
+    "verse" : "job,31,13",
+    "text" : "\"If I have denied justice to my menservants and maidservants when they had a grievance against me,"
+  }, {
+    "verse" : "job,31,14",
+    "text" : "what will I do when God confronts me? What will I answer when called to account?"
+  }, {
+    "verse" : "job,31,15",
+    "text" : "Did not he who made me in the womb make them? Did not the same one form us both within our mothers?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,31,13-job,31,15",
     "id" : 190133,
@@ -36,7 +81,31 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 31:13-Job 31:15\">31:13–15</a></b> Job clears himself of injustice with reference to God’s court as the sanction.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,31,16", "job,31,17", "job,31,18", "job,31,19", "job,31,20", "job,31,21", "job,31,22", "job,31,23" ],
+  "verses" : [ {
+    "verse" : "job,31,16",
+    "text" : "\"If I have denied the desires of the poor or let the eyes of the widow grow weary,"
+  }, {
+    "verse" : "job,31,17",
+    "text" : "if I have kept my bread to myself, not sharing it with the fatherless-"
+  }, {
+    "verse" : "job,31,18",
+    "text" : "but from my youth I reared him as would a father, and from my birth I guided the widow-"
+  }, {
+    "verse" : "job,31,19",
+    "text" : "if I have seen anyone perishing for lack of clothing, or a needy man without a garment,"
+  }, {
+    "verse" : "job,31,20",
+    "text" : "and his heart did not bless me for warming him with the fleece from my sheep,"
+  }, {
+    "verse" : "job,31,21",
+    "text" : "if I have raised my hand against the fatherless, knowing that I had influence in court,"
+  }, {
+    "verse" : "job,31,22",
+    "text" : "then let my arm fall from the shoulder, let it be broken off at the joint."
+  }, {
+    "verse" : "job,31,23",
+    "text" : "For I dreaded destruction from God, and for fear of his splendor I could not do such things."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,31,16-job,31,23",
     "id" : 190134,
@@ -44,7 +113,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 31:16-Job 31:23\">31:16–23</a></b> Job clears himself of neglect of the needy and abuse of the helpless with God’s terror as the sanction.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,31,24", "job,31,25", "job,31,26", "job,31,27", "job,31,28" ],
+  "verses" : [ {
+    "verse" : "job,31,24",
+    "text" : "\"If I have put my trust in gold or said to pure gold, 'You are my security,'"
+  }, {
+    "verse" : "job,31,25",
+    "text" : "if I have rejoiced over my great wealth, the fortune my hands had gained,"
+  }, {
+    "verse" : "job,31,26",
+    "text" : "if I have regarded the sun in its radiance or the moon moving in splendor,"
+  }, {
+    "verse" : "job,31,27",
+    "text" : "so that my heart was secretly enticed and my hand offered them a kiss of homage,"
+  }, {
+    "verse" : "job,31,28",
+    "text" : "then these also would be sins to be judged, for I would have been unfaithful to God on high."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,31,24-job,31,27",
     "id" : 190135,
@@ -52,7 +136,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 31:24-Job 31:27\">31:24–27</a></b> Job clears himself of idolatry with regard to gold or the gods.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,31,29", "job,31,30", "job,31,31", "job,31,32", "job,31,33", "job,31,34" ],
+  "verses" : [ {
+    "verse" : "job,31,29",
+    "text" : "\"If I have rejoiced at my enemy's misfortune or gloated over the trouble that came to him-"
+  }, {
+    "verse" : "job,31,30",
+    "text" : "I have not allowed my mouth to sin by invoking a curse against his life-"
+  }, {
+    "verse" : "job,31,31",
+    "text" : "if the men of my household have never said, 'Who has not had his fill of Job's meat?'-"
+  }, {
+    "verse" : "job,31,32",
+    "text" : "but no stranger had to spend the night in the street, for my door was always open to the traveler-"
+  }, {
+    "verse" : "job,31,33",
+    "text" : "if I have concealed my sin as men do, by hiding my guilt in my heart"
+  }, {
+    "verse" : "job,31,34",
+    "text" : "because I so feared the crowd and so dreaded the contempt of the clans that I kept silent and would not go outside"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,31,29-job,31,34",
     "id" : 190136,
@@ -60,7 +162,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 31:29-Job 31:34\">31:29–34</a></b> Job clears himself of hatred, selfishness, and hypocrisy. In these verses God’s divine judgment is the sanction (<a class=\"bibleref\" href=\"/passage/?search=Job 31:28\">v. 28</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,31,35", "job,31,36" ],
+  "verses" : [ {
+    "verse" : "job,31,35",
+    "text" : "(\"Oh, that I had someone to hear me! I sign now my defense-let the Almighty answer me; let my accuser put his indictment in writing."
+  }, {
+    "verse" : "job,31,36",
+    "text" : "Surely I would wear it on my shoulder, I would put it on like a crown."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,31,35-job,31,37",
     "id" : 190137,
@@ -68,7 +176,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 31:35-Job 31:37\">31:35–37</a></b> The climax: Job attaches his binding signature (“Here is my signature,” <a class=\"bibleref\" href=\"/passage/?search=Job 31:35\">v. 35</a>) and challenges for a specific indictment.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,31,37", "job,31,38", "job,31,39" ],
+  "verses" : [ {
+    "verse" : "job,31,37",
+    "text" : "I would give him an account of my every step; like a prince I would approach him.)-"
+  }, {
+    "verse" : "job,31,38",
+    "text" : "\"if my land cries out against me and all its furrows are wet with tears,"
+  }, {
+    "verse" : "job,31,39",
+    "text" : "if I have devoured its yield without payment or broken the spirit of its tenants,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,31,37",
     "id" : 190138,
@@ -76,7 +193,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 31:37\">31:37</a></b> Job has already expressed confidence that God would accept him if he had an opportunity to present his case (<a class=\"bibleref\" href=\"/passage/?search=Job 13:14-Job 13:16\">13:14–16</a>). In the end this is possible only through grace.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,31,40" ],
+  "verses" : [ {
+    "verse" : "job,31,40",
+    "text" : "then let briers come up instead of wheat and weeds instead of barley.\" The words of Job are ended."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,31,40",
     "id" : 190139,
@@ -84,7 +204,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 31:40\">31:40</a></b> <b>The words of Job are ended.</b> With his signature Job closes his case. The rest is now up to the Judge.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,32,1", "job,32,2" ],
+  "verses" : [ {
+    "verse" : "job,32,1",
+    "text" : "So these three men stopped answering Job, because he was righteous in his own eyes."
+  }, {
+    "verse" : "job,32,2",
+    "text" : "But Elihu son of Barakel the Buzite, of the family of Ram, became very angry with Job for justifying himself rather than God."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,32,1-job,37,24",
     "id" : 190140,
@@ -97,7 +223,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 32:1-Job 32:5\">32:1–5</a></b> The narrator introduces Elihu’s four speeches on Job’s situation with an explanation for why he injected himself into the debate.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,32,3", "job,32,4", "job,32,5" ],
+  "verses" : [ {
+    "verse" : "job,32,3",
+    "text" : "He was also angry with the three friends, because they had found no way to refute Job, and yet had condemned him."
+  }, {
+    "verse" : "job,32,4",
+    "text" : "Now Elihu had waited before speaking to Job because they were older than he."
+  }, {
+    "verse" : "job,32,5",
+    "text" : "But when he saw that the three men had nothing more to say, his anger was aroused."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,32,3",
     "id" : 190142,
@@ -105,7 +240,79 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 32:3\">32:3</a></b> <b>declared Job to be in the wrong.</b> According to ancient Jewish tradition the original reading was “condemned Elohim,” changed by pious convention to “condemned Job,” so as to avoid writing a blasphemous thought.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,32,6", "job,32,7", "job,32,8", "job,32,9", "job,32,10", "job,32,11", "job,32,12", "job,32,13", "job,32,14", "job,32,15", "job,32,16", "job,32,17", "job,32,18", "job,32,19", "job,32,20", "job,32,21", "job,32,22", "job,33,1", "job,33,2", "job,33,3", "job,33,4", "job,33,5", "job,33,6", "job,33,7" ],
+  "verses" : [ {
+    "verse" : "job,32,6",
+    "text" : "So Elihu son of Barakel the Buzite said: \"I am young in years, and you are old; that is why I was fearful, not daring to tell you what I know."
+  }, {
+    "verse" : "job,32,7",
+    "text" : "I thought, 'Age should speak; advanced years should teach wisdom.'"
+  }, {
+    "verse" : "job,32,8",
+    "text" : "But it is the spirit in a man, the breath of the Almighty, that gives him understanding."
+  }, {
+    "verse" : "job,32,9",
+    "text" : "It is not only the old who are wise, not only the aged who understand what is right."
+  }, {
+    "verse" : "job,32,10",
+    "text" : "\"Therefore I say: Listen to me; I too will tell you what I know."
+  }, {
+    "verse" : "job,32,11",
+    "text" : "I waited while you spoke, I listened to your reasoning; while you were searching for words,"
+  }, {
+    "verse" : "job,32,12",
+    "text" : "I gave you my full attention. But not one of you has proved Job wrong; none of you has answered his arguments."
+  }, {
+    "verse" : "job,32,13",
+    "text" : "Do not say, 'We have found wisdom; let God refute him, not man.'"
+  }, {
+    "verse" : "job,32,14",
+    "text" : "But Job has not marshaled his words against me, and I will not answer him with your arguments."
+  }, {
+    "verse" : "job,32,15",
+    "text" : "\"They are dismayed and have no more to say; words have failed them."
+  }, {
+    "verse" : "job,32,16",
+    "text" : "Must I wait, now that they are silent, now that they stand there with no reply?"
+  }, {
+    "verse" : "job,32,17",
+    "text" : "I too will have my say; I too will tell what I know."
+  }, {
+    "verse" : "job,32,18",
+    "text" : "For I am full of words, and the spirit within me compels me;"
+  }, {
+    "verse" : "job,32,19",
+    "text" : "inside I am like bottled-up wine, like new wineskins ready to burst."
+  }, {
+    "verse" : "job,32,20",
+    "text" : "I must speak and find relief; I must open my lips and reply."
+  }, {
+    "verse" : "job,32,21",
+    "text" : "I will show partiality to no one, nor will I flatter any man;"
+  }, {
+    "verse" : "job,32,22",
+    "text" : "for if I were skilled in flattery, my Maker would soon take me away."
+  }, {
+    "verse" : "job,33,1",
+    "text" : "\"But now, Job, listen to my words; pay attention to everything I say."
+  }, {
+    "verse" : "job,33,2",
+    "text" : "I am about to open my mouth; my words are on the tip of my tongue."
+  }, {
+    "verse" : "job,33,3",
+    "text" : "My words come from an upright heart; my lips sincerely speak what I know."
+  }, {
+    "verse" : "job,33,4",
+    "text" : "The Spirit of God has made me; the breath of the Almighty gives me life."
+  }, {
+    "verse" : "job,33,5",
+    "text" : "Answer me then, if you can; prepare yourself and confront me."
+  }, {
+    "verse" : "job,33,6",
+    "text" : "I am just like you before God; I too have been taken from clay."
+  }, {
+    "verse" : "job,33,7",
+    "text" : "No fear of me should alarm you, nor should my hand be heavy upon you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,32,6-job,33,7",
     "id" : 190143,
@@ -113,7 +320,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 32:6-Job 33:7\">32:6–33:7</a></b> It takes Elihu this entire section just to make his introduction and to give his reason for speaking. He appears to have a warmer personality than the counselors who never called Job by his name (cf. <a class=\"bibleref\" href=\"/passage/?search=Job 33:1\">33:1</a>, <a class=\"bibleref\" href=\"/passage/?search=Job 33:31\">31</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,33,8", "job,33,9", "job,33,10", "job,33,11" ],
+  "verses" : [ {
+    "verse" : "job,33,8",
+    "text" : "\"But you have said in my hearing- I heard the very words-"
+  }, {
+    "verse" : "job,33,9",
+    "text" : "'I am pure and without sin; I am clean and free from guilt."
+  }, {
+    "verse" : "job,33,10",
+    "text" : "Yet God has found fault with me; he considers me his enemy."
+  }, {
+    "verse" : "job,33,11",
+    "text" : "He fastens my feet in shackles; he keeps close watch on all my paths.'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,33,8",
     "id" : 190144,
@@ -121,7 +340,40 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 33:8\">33:8</a></b> <b>your words.</b> In quoting Job, Elihu is accurate (cf. <a class=\"bibleref\" href=\"/passage/?search=Job 33:10\">33:10</a>, <a class=\"bibleref\" href=\"/passage/?search=Job 33:11\">11</a> with <a class=\"bibleref\" href=\"/passage/?search=Job 13:24\">13:24</a> and <a class=\"bibleref\" href=\"/passage/?search=Job 13:27\">27</a>). Verbatim quotation was not the expected norm in ancient Eastern culture.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,33,12", "job,33,13", "job,33,14", "job,33,15", "job,33,16", "job,33,17", "job,33,18", "job,33,19", "job,33,20", "job,33,21", "job,33,22" ],
+  "verses" : [ {
+    "verse" : "job,33,12",
+    "text" : "\"But I tell you, in this you are not right, for God is greater than man."
+  }, {
+    "verse" : "job,33,13",
+    "text" : "Why do you complain to him that he answers none of man's words?"
+  }, {
+    "verse" : "job,33,14",
+    "text" : "For God does speak-now one way, now another- though man may not perceive it."
+  }, {
+    "verse" : "job,33,15",
+    "text" : "In a dream, in a vision of the night, when deep sleep falls on men as they slumber in their beds,"
+  }, {
+    "verse" : "job,33,16",
+    "text" : "he may speak in their ears and terrify them with warnings,"
+  }, {
+    "verse" : "job,33,17",
+    "text" : "to turn man from wrongdoing and keep him from pride,"
+  }, {
+    "verse" : "job,33,18",
+    "text" : "to preserve his soul from the pit, his life from perishing by the sword."
+  }, {
+    "verse" : "job,33,19",
+    "text" : "Or a man may be chastened on a bed of pain with constant distress in his bones,"
+  }, {
+    "verse" : "job,33,20",
+    "text" : "so that his very being finds food repulsive and his soul loathes the choicest meal."
+  }, {
+    "verse" : "job,33,21",
+    "text" : "His flesh wastes away to nothing, and his bones, once hidden, now stick out."
+  }, {
+    "verse" : "job,33,22",
+    "text" : "His soul draws near to the pit, and his life to the messengers of death."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,33,12-job,33,22",
     "id" : 190145,
@@ -129,7 +381,40 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Job 33:12-Job 33:22\">33:12–22</a></b> Elihu’s appeal to God’s transcendence repeats what the counselors have already said, but he handles the theme differently from them. His purpose is to show that, despite God’s transcendence, He does speak to man: through revelation (dreams) and through suffering.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "job,33,23", "job,33,24", "job,33,25", "job,33,26", "job,33,27", "job,33,28", "job,33,29", "job,33,30", "job,33,31", "job,33,32", "job,33,33" ],
+  "verses" : [ {
+    "verse" : "job,33,23",
+    "text" : "\"Yet if there is an angel on his side as a mediator, one out of a thousand, to tell a man what is right for him,"
+  }, {
+    "verse" : "job,33,24",
+    "text" : "to be gracious to him and say, 'Spare him from going down to the pit; I have found a ransom for him'-"
+  }, {
+    "verse" : "job,33,25",
+    "text" : "then his flesh is renewed like a child's; it is restored as in the days of his youth."
+  }, {
+    "verse" : "job,33,26",
+    "text" : "He prays to God and finds favor with him, he sees God's face and shouts for joy; he is restored by God to his righteous state."
+  }, {
+    "verse" : "job,33,27",
+    "text" : "Then he comes to men and says, 'I sinned, and perverted what was right, but I did not get what I deserved."
+  }, {
+    "verse" : "job,33,28",
+    "text" : "He redeemed my soul from going down to the pit, and I will live to enjoy the light.'"
+  }, {
+    "verse" : "job,33,29",
+    "text" : "\"God does all these things to a man- twice, even three times-"
+  }, {
+    "verse" : "job,33,30",
+    "text" : "to turn back his soul from the pit, that the light of life may shine on him."
+  }, {
+    "verse" : "job,33,31",
+    "text" : "\"Pay attention, Job, and listen to me; be silent, and I will speak."
+  }, {
+    "verse" : "job,33,32",
+    "text" : "If you have anything to say, answer me; speak up, for I want you to be cleared."
+  }, {
+    "verse" : "job,33,33",
+    "text" : "But if not, then listen to me; be silent, and I will teach you wisdom.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "job,33,23-job,33,30",
     "id" : 190146,

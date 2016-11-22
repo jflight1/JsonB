@@ -1,5 +1,14 @@
 [ {
-  "singleVerses" : [ "genesis,42,18", "genesis,42,19", "genesis,42,20" ],
+  "verses" : [ {
+    "verse" : "genesis,42,18",
+    "text" : "On the third day, Joseph said to them, \"Do this and you will live, for I fear God:"
+  }, {
+    "verse" : "genesis,42,19",
+    "text" : "If you are honest men, let one of your brothers stay here in prison, while the rest of you go and take grain back for your starving households."
+  }, {
+    "verse" : "genesis,42,20",
+    "text" : "But you must bring your youngest brother to me, so that your words may be verified and that you may not die.\" This they proceeded to do."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,37,2-genesis,50,26",
     "id" : 185362,
@@ -22,7 +31,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 42:18\">42:18</a></b> <b>I fear God.</b> Joseph assured the brothers that he would deal honestly with them (<a class=\"bibleref\" href=\"/passage/?search=Gen 20:11\">20:11</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,42,21", "genesis,42,22", "genesis,42,23" ],
+  "verses" : [ {
+    "verse" : "genesis,42,21",
+    "text" : "They said to one another, \"Surely we are being punished because of our brother. We saw how distressed he was when he pleaded with us for his life, but we would not listen; that's why this distress has come upon us.\""
+  }, {
+    "verse" : "genesis,42,22",
+    "text" : "Reuben replied, \"Didn't I tell you not to sin against the boy? But you wouldn't listen! Now we must give an accounting for his blood.\""
+  }, {
+    "verse" : "genesis,42,23",
+    "text" : "They did not realize that Joseph could understand them, since he was using an interpreter."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,42,21",
     "id" : 185439,
@@ -30,7 +48,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 42:21\">42:21</a></b> <b>In truth we are guilty.</b> Though falsely accused of spying, they saw the Egyptian as the tool of God’s higher justice, matching their punishment with their real crime against Joseph.</p><p><b>we did not listen.</b> Their consciences awakened, the brothers’ heartless behavior came back to haunt them (<a class=\"bibleref\" href=\"/passage/?search=Gen 37:25\">37:25</a> and note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,42,24", "genesis,42,25", "genesis,42,26", "genesis,42,27" ],
+  "verses" : [ {
+    "verse" : "genesis,42,24",
+    "text" : "He turned away from them and began to weep, but then turned back and spoke to them again. He had Simeon taken from them and bound before their eyes."
+  }, {
+    "verse" : "genesis,42,25",
+    "text" : "Joseph gave orders to fill their bags with grain, to put each man's silver back in his sack, and to give them provisions for their journey. After this was done for them,"
+  }, {
+    "verse" : "genesis,42,26",
+    "text" : "they loaded their grain on their donkeys and left."
+  }, {
+    "verse" : "genesis,42,27",
+    "text" : "At the place where they stopped for the night one of them opened his sack to get feed for his donkey, and he saw his silver in the mouth of his sack."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,42,24",
     "id" : 185440,
@@ -38,7 +68,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 42:24\">42:24</a></b> <b>he . . . wept.</b> With their confession of guilt, reconciliation was possible.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,42,28", "genesis,42,29", "genesis,42,30", "genesis,42,31", "genesis,42,32", "genesis,42,33" ],
+  "verses" : [ {
+    "verse" : "genesis,42,28",
+    "text" : "\"My silver has been returned,\" he said to his brothers. \"Here it is in my sack.\" Their hearts sank and they turned to each other trembling and said, \"What is this that God has done to us?\""
+  }, {
+    "verse" : "genesis,42,29",
+    "text" : "When they came to their father Jacob in the land of Canaan, they told him all that had happened to them. They said,"
+  }, {
+    "verse" : "genesis,42,30",
+    "text" : "\"The man who is lord over the land spoke harshly to us and treated us as though we were spying on the land."
+  }, {
+    "verse" : "genesis,42,31",
+    "text" : "But we said to him, 'We are honest men; we are not spies."
+  }, {
+    "verse" : "genesis,42,32",
+    "text" : "We were twelve brothers, sons of one father. One is no more, and the youngest is now with our father in Canaan.'"
+  }, {
+    "verse" : "genesis,42,33",
+    "text" : "\"Then the man who is lord over the land said to us, 'This is how I will know whether you are honest men: Leave one of your brothers here with me, and take food for your starving households and go."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,42,28",
     "id" : 185441,
@@ -46,7 +94,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 42:28\">42:28</a></b> <b>God has done.</b> The first explicit mention of God by the brothers; they saw the hand of God at work behind their frightful circumstances (<a class=\"bibleref\" href=\"/passage/?search=Gen 42:21\">vv. 21</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 42:22\">22</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,42,34", "genesis,42,35", "genesis,42,36" ],
+  "verses" : [ {
+    "verse" : "genesis,42,34",
+    "text" : "But bring your youngest brother to me so I will know that you are not spies but honest men. Then I will give your brother back to you, and you can trade in the land.'\""
+  }, {
+    "verse" : "genesis,42,35",
+    "text" : "As they were emptying their sacks, there in each man's sack was his pouch of silver! When they and their father saw the money pouches, they were frightened."
+  }, {
+    "verse" : "genesis,42,36",
+    "text" : "Their father Jacob said to them, \"You have deprived me of my children. Joseph is no more and Simeon is no more, and now you want to take Benjamin. Everything is against me!\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,42,34",
     "id" : 185442,
@@ -54,7 +111,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 42:34\">42:34</a></b> <b>you shall trade in the land.</b> In order not to distress their aged father further, they changed Joseph’s threat of death (<a class=\"bibleref\" href=\"/passage/?search=Gen 42:18\">vv. 18</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 42:20\">20</a>) to a promise of economic opportunity.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,42,37", "genesis,42,38" ],
+  "verses" : [ {
+    "verse" : "genesis,42,37",
+    "text" : "Then Reuben said to his father, \"You may put both of my sons to death if I do not bring him back to you. Entrust him to my care, and I will bring him back.\""
+  }, {
+    "verse" : "genesis,42,38",
+    "text" : "But Jacob said, \"My son will not go down there with you; his brother is dead and he is the only one left. If harm comes to him on the journey you are taking, you will bring my gray head down to the grave in sorrow.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,42,37",
     "id" : 185443,
@@ -62,7 +125,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 42:37\">42:37</a></b> <b>Kill my two sons.</b> Jacob did not accept Reuben’s ill-considered proposal. Only the threat of starvation coupled with Judah’s assurances would change his mind (<a class=\"bibleref\" href=\"/passage/?search=Gen 43:1-Gen 43:14\">43:1–14</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,43,1", "genesis,43,2" ],
+  "verses" : [ {
+    "verse" : "genesis,43,1",
+    "text" : "Now the famine was still severe in the land."
+  }, {
+    "verse" : "genesis,43,2",
+    "text" : "So when they had eaten all the grain they had brought from Egypt, their father said to them, \"Go back and buy us a little more food.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,43,1-genesis,45,28",
     "id" : 185444,
@@ -75,7 +144,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 43\">43:1–34</a></b> Through Joseph, the merciful (v. 14), providing (v. 23), and gracious (v. 29) God of the fathers begins to bring peace to the shattered family (vv. 23, <a class=\"bibleref\" href=\"/passage/?search=Gen 43:26-Gen 43:28\">26–28</a>). See note on <a class=\"bibleref\" href=\"/passage/?search=Gen 42\">ch. 42</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,43,3", "genesis,43,4", "genesis,43,5", "genesis,43,6", "genesis,43,7" ],
+  "verses" : [ {
+    "verse" : "genesis,43,3",
+    "text" : "But Judah said to him, \"The man warned us solemnly, 'You will not see my face again unless your brother is with you.'"
+  }, {
+    "verse" : "genesis,43,4",
+    "text" : "If you will send our brother along with us, we will go down and buy food for you."
+  }, {
+    "verse" : "genesis,43,5",
+    "text" : "But if you will not send him, we will not go down, because the man said to us, 'You will not see my face again unless your brother is with you.'\""
+  }, {
+    "verse" : "genesis,43,6",
+    "text" : "Israel asked, \"Why did you bring this trouble on me by telling the man you had another brother?\""
+  }, {
+    "verse" : "genesis,43,7",
+    "text" : "They replied, \"The man questioned us closely about ourselves and our family. 'Is your father still living?' he asked us. 'Do you have another brother?' We simply answered his questions. How were we to know he would say, 'Bring your brother down here'?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,43,3",
     "id" : 185446,
@@ -83,7 +167,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 43:3\">43:3</a></b> <b>Judah.</b> Another brother had to step forward after Jacob’s definitive refusal to Reuben (<a class=\"bibleref\" href=\"/passage/?search=Gen 42:37\">42:37</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 42:38\">38</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Gen 49:3\">49:3</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 49:4\">4</a>). With his leadership rebuffed, Reuben is henceforth eclipsed by Joseph (who assumes the firstborn’s privileges, <a class=\"bibleref\" href=\"/passage/?search=Gen 37:8\">37:8</a> note) and by Judah (who here takes Reuben’s place of responsibility for the eleven brothers and whose royal tribe was to produce the Messiah, <a class=\"bibleref\" href=\"/passage/?search=Gen 37:8\">vv. 8</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 37:9\">9</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 49:10\">49:10</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,43,8", "genesis,43,9", "genesis,43,10" ],
+  "verses" : [ {
+    "verse" : "genesis,43,8",
+    "text" : "Then Judah said to Israel his father, \"Send the boy along with me and we will go at once, so that we and you and our children may live and not die."
+  }, {
+    "verse" : "genesis,43,9",
+    "text" : "I myself will guarantee his safety; you can hold me personally responsible for him. If I do not bring him back to you and set him here before you, I will bear the blame before you all my life."
+  }, {
+    "verse" : "genesis,43,10",
+    "text" : "As it is, if we had not delayed, we could have gone and returned twice.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,43,8",
     "id" : 185447,
@@ -91,7 +184,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 43:8\">43:8</a></b> <b>live and not die.</b> A reference to the severe famine (<a class=\"bibleref\" href=\"/passage/?search=Gen 43:1\">v. 1</a>) that also recalls Joseph’s threat (<a class=\"bibleref\" href=\"/passage/?search=Gen 42:18-Gen 42:20\">42:18–20</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 42:34\">34</a> and note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,43,11", "genesis,43,12", "genesis,43,13" ],
+  "verses" : [ {
+    "verse" : "genesis,43,11",
+    "text" : "Then their father Israel said to them, \"If it must be, then do this: Put some of the best products of the land in your bags and take them down to the man as a gift-a little balm and a little honey, some spices and myrrh, some pistachio nuts and almonds."
+  }, {
+    "verse" : "genesis,43,12",
+    "text" : "Take double the amount of silver with you, for you must return the silver that was put back into the mouths of your sacks. Perhaps it was a mistake."
+  }, {
+    "verse" : "genesis,43,13",
+    "text" : "Take your brother also and go back to the man at once."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,43,11",
     "id" : 185448,
@@ -99,7 +201,43 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 43:11\">43:11 a</a></b> <b>present.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Gen 32:13\">32:13</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,43,14", "genesis,43,15", "genesis,43,16", "genesis,43,17", "genesis,43,18", "genesis,43,19", "genesis,43,20", "genesis,43,21", "genesis,43,22", "genesis,43,23", "genesis,43,24", "genesis,43,25" ],
+  "verses" : [ {
+    "verse" : "genesis,43,14",
+    "text" : "And may God Almighty grant you mercy before the man so that he will let your other brother and Benjamin come back with you. As for me, if I am bereaved, I am bereaved.\""
+  }, {
+    "verse" : "genesis,43,15",
+    "text" : "So the men took the gifts and double the amount of silver, and Benjamin also. They hurried down to Egypt and presented themselves to Joseph."
+  }, {
+    "verse" : "genesis,43,16",
+    "text" : "When Joseph saw Benjamin with them, he said to the steward of his house, \"Take these men to my house, slaughter an animal and prepare dinner; they are to eat with me at noon.\""
+  }, {
+    "verse" : "genesis,43,17",
+    "text" : "The man did as Joseph told him and took the men to Joseph's house."
+  }, {
+    "verse" : "genesis,43,18",
+    "text" : "Now the men were frightened when they were taken to his house. They thought, \"We were brought here because of the silver that was put back into our sacks the first time. He wants to attack us and overpower us and seize us as slaves and take our donkeys.\""
+  }, {
+    "verse" : "genesis,43,19",
+    "text" : "So they went up to Joseph's steward and spoke to him at the entrance to the house."
+  }, {
+    "verse" : "genesis,43,20",
+    "text" : "\"Please, sir,\" they said, \"we came down here the first time to buy food."
+  }, {
+    "verse" : "genesis,43,21",
+    "text" : "But at the place where we stopped for the night we opened our sacks and each of us found his silver-the exact weight-in the mouth of his sack. So we have brought it back with us."
+  }, {
+    "verse" : "genesis,43,22",
+    "text" : "We have also brought additional silver with us to buy food. We don't know who put our silver in our sacks.\""
+  }, {
+    "verse" : "genesis,43,23",
+    "text" : "\"It's all right,\" he said. \"Don't be afraid. Your God, the God of your father, has given you treasure in your sacks; I received your silver.\" Then he brought Simeon out to them."
+  }, {
+    "verse" : "genesis,43,24",
+    "text" : "The steward took the men into Joseph's house, gave them water to wash their feet and provided fodder for their donkeys."
+  }, {
+    "verse" : "genesis,43,25",
+    "text" : "They prepared their gifts for Joseph's arrival at noon, because they had heard that they were to eat there."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,43,14",
     "id" : 185449,
@@ -107,7 +245,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 43:14\">43:14</a></b> <b>God Almighty.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Gen 17:1\">17:1</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,43,26", "genesis,43,27", "genesis,43,28" ],
+  "verses" : [ {
+    "verse" : "genesis,43,26",
+    "text" : "When Joseph came home, they presented to him the gifts they had brought into the house, and they bowed down before him to the ground."
+  }, {
+    "verse" : "genesis,43,27",
+    "text" : "He asked them how they were, and then he said, \"How is your aged father you told me about? Is he still living?\""
+  }, {
+    "verse" : "genesis,43,28",
+    "text" : "They replied, \"Your servant our father is still alive and well.\" And they bowed low to pay him honor."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,43,26",
     "id" : 185450,
@@ -115,7 +262,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 43:26\">43:26</a></b> <b>bowed down.</b> See <a class=\"bibleref\" href=\"/passage/?search=Gen 37:5-Gen 37:11\">37:5–11</a>. At their first meeting they bowed in submission (<a class=\"bibleref\" href=\"/passage/?search=Gen 42:6\">42:6</a>); here they bowed in homage with tribute in hand (<a class=\"bibleref\" href=\"/passage/?search=Gen 42:28\">v. 28</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Matt 2:11\">Matt. 2:11</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,43,29", "genesis,43,30", "genesis,43,31" ],
+  "verses" : [ {
+    "verse" : "genesis,43,29",
+    "text" : "As he looked about and saw his brother Benjamin, his own mother's son, he asked, \"Is this your youngest brother, the one you told me about?\" And he said, \"God be gracious to you, my son.\""
+  }, {
+    "verse" : "genesis,43,30",
+    "text" : "Deeply moved at the sight of his brother, Joseph hurried out and looked for a place to weep. He went into his private room and wept there."
+  }, {
+    "verse" : "genesis,43,31",
+    "text" : "After he had washed his face, he came out and, controlling himself, said, \"Serve the food.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,43,29",
     "id" : 185451,
@@ -123,7 +279,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 43:29\">43:29</a></b> <b>God be gracious.</b> Joseph reserved a special greeting for his beloved full-brother Benjamin (cf. <a class=\"bibleref\" href=\"/passage/?search=Num 6:25\">Num. 6:25</a>; <a class=\"bibleref\" href=\"/passage/?search=Rom 1:7\">Rom. 1:7</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,43,32" ],
+  "verses" : [ {
+    "verse" : "genesis,43,32",
+    "text" : "They served him by himself, the brothers by themselves, and the Egyptians who ate with him by themselves, because Egyptians could not eat with Hebrews, for that is detestable to Egyptians."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,43,32",
     "id" : 185452,
@@ -131,7 +290,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 43:32\">43:32</a></b> <b>Hebrews.</b> See <a class=\"bibleref\" href=\"/passage/?search=Gen 14:13\">14:13</a> and note; <a class=\"bibleref\" href=\"/passage/?search=Gen 39:14\">39:14</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 41:12\">41:12</a>.</p><p><b>an abomination to the Egyptians.</b> As Palestinian shepherds, the Hebrews followed different dietary practices and slaughtered for food animals that were sacred to the Egyptians (<a class=\"bibleref\" href=\"/passage/?search=Gen 46:34\">46:34</a> and note). Such customs served the divine purpose by isolating the Israelites in the land of Goshen and preventing their assimilation into the pagan Egyptian culture (<a class=\"bibleref\" href=\"/passage/?search=Gen 38\">38:1–30</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,43,33" ],
+  "verses" : [ {
+    "verse" : "genesis,43,33",
+    "text" : "The men had been seated before him in the order of their ages, from the firstborn to the youngest; and they looked at each other in astonishment."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,43,33",
     "id" : 185453,
@@ -139,7 +301,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 43:33\">43:33</a></b> <b>amazement.</b> The assigned seating of the brothers (in order of their birth) understandably amazed them.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,43,34" ],
+  "verses" : [ {
+    "verse" : "genesis,43,34",
+    "text" : "When portions were served to them from Joseph's table, Benjamin's portion was five times as much as anyone else's. So they feasted and drank freely with him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,43,34",
     "id" : 185454,

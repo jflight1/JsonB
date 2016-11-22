@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "2kings,3,1" ],
+  "verses" : [ {
+    "verse" : "2kings,3,1",
+    "text" : "Joram son of Ahab became king of Israel in Samaria in the eighteenth year of Jehoshaphat king of Judah, and he reigned twelve years."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,3,1",
     "id" : 188542,
@@ -7,7 +10,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 3:1\">3:1</a></b> <b>In the eighteenth year of Jehoshaphat.</b> Probably Jehoram of Judah and his father Jehoshaphat ruled together as co-regents for approximately five years (853–848 <span class=\"small-caps\">b.c.</span>). “The second year of Jehoram” (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 1:17\">1:17</a>) would be the same as “the eighteenth year of Jehoshaphat” (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 3:1\">3:1</a>).</p><p><b>twelve years.</b> That is, 852–841 <span class=\"small-caps\">b.c.</span></p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,3,2" ],
+  "verses" : [ {
+    "verse" : "2kings,3,2",
+    "text" : "He did evil in the eyes of the LORD, but not as his father and mother had done. He got rid of the sacred stone of Baal that his father had made."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,3,2",
     "id" : 188543,
@@ -15,7 +21,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 3:2\">3:2</a></b> <b>pillar of Baal.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Kgs 14:23\">1 Kin. 14:23</a>. Jehoram initiates a minor reform, attempting to undo some of the damage of his parents.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,3,3" ],
+  "verses" : [ {
+    "verse" : "2kings,3,3",
+    "text" : "Nevertheless he clung to the sins of Jeroboam son of Nebat, which he had caused Israel to commit; he did not turn away from them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,3,3",
     "id" : 188544,
@@ -23,7 +32,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 3:3\">3:3</a></b> <b>sin of Jeroboam.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Kgs 12:30\">1 Kin. 12:30</a>. Jehoram’s reform was not thoroughgoing; he did not address the fundamental flaw in the worship of the northern kingdom.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,3,4", "2kings,3,5", "2kings,3,6", "2kings,3,7", "2kings,3,8" ],
+  "verses" : [ {
+    "verse" : "2kings,3,4",
+    "text" : "Now Mesha king of Moab raised sheep, and he had to supply the king of Israel with a hundred thousand lambs and with the wool of a hundred thousand rams."
+  }, {
+    "verse" : "2kings,3,5",
+    "text" : "But after Ahab died, the king of Moab rebelled against the king of Israel."
+  }, {
+    "verse" : "2kings,3,6",
+    "text" : "So at that time King Joram set out from Samaria and mobilized all Israel."
+  }, {
+    "verse" : "2kings,3,7",
+    "text" : "He also sent this message to Jehoshaphat king of Judah: \"The king of Moab has rebelled against me. Will you go with me to fight against Moab?I will go with you,\" he replied. \"I am as you are, my people as your people, my horses as your horses.\""
+  }, {
+    "verse" : "2kings,3,8",
+    "text" : "\"By what route shall we attack?\" he asked. \"Through the Desert of Edom,\" he answered."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,3,4",
     "id" : 188545,
@@ -31,7 +55,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 3:4\">3:4</a></b> <b>Mesha king of Moab.</b> According to the Moabite Stone, Mesha acknowledged that, like his predecessors, he also was a vassal to Israel. He claimed to have freed his land from subjection to Israel and boasted that “Israel has perished forever.”</p><p><b>he had to deliver to the king.</b> Part of Mesha’s obligations as a vassal would be to pay tribute regularly to his superior.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,3,9", "2kings,3,10" ],
+  "verses" : [ {
+    "verse" : "2kings,3,9",
+    "text" : "So the king of Israel set out with the king of Judah and the king of Edom. After a roundabout march of seven days, the army had no more water for themselves or for the animals with them."
+  }, {
+    "verse" : "2kings,3,10",
+    "text" : "\"What!\" exclaimed the king of Israel. \"Has the LORD called us three kings together only to hand us over to Moab?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,3,9",
     "id" : 188546,
@@ -39,7 +69,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 3:9\">3:9</a></b> <b>king of Edom.</b> The ruler of Edom was likely a vassal to the king of Judah and therefore obliged to assist him (cf. <a class=\"bibleref\" href=\"/passage/?search=2Kgs 8:20\">8:20</a>; <a class=\"bibleref\" href=\"/passage/?search=1Kgs 22:47\">1 Kin. 22:47</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,3,11", "2kings,3,12", "2kings,3,13" ],
+  "verses" : [ {
+    "verse" : "2kings,3,11",
+    "text" : "But Jehoshaphat asked, \"Is there no prophet of the LORD here, that we may inquire of the LORD through him?\" An officer of the king of Israel answered, \"Elisha son of Shaphat is here. He used to pour water on the hands of Elijah. \""
+  }, {
+    "verse" : "2kings,3,12",
+    "text" : "Jehoshaphat said, \"The word of the LORD is with him.\" So the king of Israel and Jehoshaphat and the king of Edom went down to him."
+  }, {
+    "verse" : "2kings,3,13",
+    "text" : "Elisha said to the king of Israel, \"What do we have to do with each other? Go to the prophets of your father and the prophets of your mother.No,\" the king of Israel answered, \"because it was the LORD who called us three kings together to hand us over to Moab.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,3,11",
     "id" : 188547,
@@ -47,7 +86,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 3:11\">3:11</a></b> <b>Is there no prophet of the <span class=\"small-caps\">Lord</span> here.</b> Jehoshaphat posed a similar question to Ahab (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 22:7\">1 Kin. 22:7</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,3,14" ],
+  "verses" : [ {
+    "verse" : "2kings,3,14",
+    "text" : "Elisha said, \"As surely as the LORD Almighty lives, whom I serve, if I did not have respect for the presence of Jehoshaphat king of Judah, I would not look at you or even notice you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,3,14",
     "id" : 188548,
@@ -55,7 +97,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 3:14\">3:14</a></b> <b>regard for Jehoshaphat.</b> Elisha consents to prophesy for the coalition, but only for the sake of Jehoshaphat, whose reign was viewed positively (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 22:43\">1 Kin. 22:43</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,3,15" ],
+  "verses" : [ {
+    "verse" : "2kings,3,15",
+    "text" : "But now bring me a harpist.\" While the harpist was playing, the hand of the LORD came upon Elisha"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,3,15",
     "id" : 188549,
@@ -63,7 +108,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 3:15\">3:15</a></b> <b>bring me a musician.</b> The musician was employed to provide an atmosphere suitable for the reception of divine revelation (cf. <a class=\"bibleref\" href=\"/passage/?search=1Sam 10:5\">1 Sam. 10:5</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 10:6\">6</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 19:20-1Sam 19:24\">19:20–24</a>).</p><p><b>the hand of the <span class=\"small-caps\">Lord.</span></b> The phrase is a symbol of prophetic inspiration (<a class=\"bibleref\" href=\"/passage/?search=Ezek 1:3\">Ezek. 1:3</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 8:1\">8:1</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 13:9\">13:9</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,3,16", "2kings,3,17", "2kings,3,18", "2kings,3,19" ],
+  "verses" : [ {
+    "verse" : "2kings,3,16",
+    "text" : "and he said, \"This is what the LORD says: Make this valley full of ditches."
+  }, {
+    "verse" : "2kings,3,17",
+    "text" : "For this is what the LORD says: You will see neither wind nor rain, yet this valley will be filled with water, and you, your cattle and your other animals will drink."
+  }, {
+    "verse" : "2kings,3,18",
+    "text" : "This is an easy thing in the eyes of the LORD; he will also hand Moab over to you."
+  }, {
+    "verse" : "2kings,3,19",
+    "text" : "You will overthrow every fortified city and every major town. You will cut down every good tree, stop up all the springs, and ruin every good field with stones.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,3,16",
     "id" : 188550,
@@ -71,7 +128,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 3:16\">3:16</a></b> <b>this dry streambed.</b> This is usually identified as the Valley of Zered, a wadi (seasonal stream) that flows into the southern end of the Dead Sea and formed the border between Edom and Moab (<a class=\"bibleref\" href=\"/passage/?search=Deut 2:13\">Deut. 2:13</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,3,20", "2kings,3,21" ],
+  "verses" : [ {
+    "verse" : "2kings,3,20",
+    "text" : "The next morning, about the time for offering the sacrifice, there it was-water flowing from the direction of Edom! And the land was filled with water."
+  }, {
+    "verse" : "2kings,3,21",
+    "text" : "Now all the Moabites had heard that the kings had come to fight against them; so every man, young and old, who could bear arms was called up and stationed on the border."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,3,20",
     "id" : 188551,
@@ -79,7 +142,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 3:20\">3:20</a></b> <b>water came from the direction of Edom.</b> Flash floods in the mountains of Edom flowed rapidly through the stream bed in the direction of the Dead Sea.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,3,22", "2kings,3,23", "2kings,3,24" ],
+  "verses" : [ {
+    "verse" : "2kings,3,22",
+    "text" : "When they got up early in the morning, the sun was shining on the water. To the Moabites across the way, the water looked red-like blood."
+  }, {
+    "verse" : "2kings,3,23",
+    "text" : "\"That's blood!\" they said. \"Those kings must have fought and slaughtered each other. Now to the plunder, Moab!\""
+  }, {
+    "verse" : "2kings,3,24",
+    "text" : "But when the Moabites came to the camp of Israel, the Israelites rose up and fought them until they fled. And the Israelites invaded the land and slaughtered the Moabites."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,3,22",
     "id" : 188552,
@@ -87,7 +159,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 3:22\">3:22</a></b> <b>the water . . . as red as blood.</b> The water was colored by Edom’s red sandstone (cf. <a class=\"bibleref\" href=\"/passage/?search=Gen 25:30\">Gen. 25:30</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,3,25", "2kings,3,26" ],
+  "verses" : [ {
+    "verse" : "2kings,3,25",
+    "text" : "They destroyed the towns, and each man threw a stone on every good field until it was covered. They stopped up all the springs and cut down every good tree. Only Kir Hareseth was left with its stones in place, but men armed with slings surrounded it and attacked it as well."
+  }, {
+    "verse" : "2kings,3,26",
+    "text" : "When the king of Moab saw that the battle had gone against him, he took with him seven hundred swordsmen to break through to the king of Edom, but they failed."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,3,25",
     "id" : 188553,
@@ -95,7 +173,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 3:25\">3:25</a></b> <b>Kir-haraseth.</b> Probably this was the capital of Moab (<a class=\"bibleref\" href=\"/passage/?search=Isa 16:7\">Is. 16:7</a>, <a class=\"bibleref\" href=\"/passage/?search=Isa 16:11\">11</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 48:31\">Jer. 48:31</a>, <a class=\"bibleref\" href=\"/passage/?search=Jer 48:36\">36</a>), about eleven miles east of the Dead Sea and fourteen miles north of the Valley of Zered.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,3,27" ],
+  "verses" : [ {
+    "verse" : "2kings,3,27",
+    "text" : "Then he took his firstborn son, who was to succeed him as king, and offered him as a sacrifice on the city wall. The fury against Israel was great; they withdrew and returned to their own land."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,3,27",
     "id" : 188554,
@@ -103,7 +184,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 3:27\">3:27</a></b> <b>his oldest son.</b> This grisly act was meant to induce the god Chemosh to deliver the Moabites from certain defeat. Child sacrifice was expressly forbidden in Israel (<a class=\"bibleref\" href=\"/passage/?search=Exod 34:20\">Ex. 34:20</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 18:10\">Deut. 18:10</a>); nevertheless, two later kings of Judah (Ahaz and Manasseh) apparently practiced it (16:3; 21:6).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,4,1", "2kings,4,2", "2kings,4,3", "2kings,4,4", "2kings,4,5", "2kings,4,6", "2kings,4,7" ],
+  "verses" : [ {
+    "verse" : "2kings,4,1",
+    "text" : "The wife of a man from the company of the prophets cried out to Elisha, \"Your servant my husband is dead, and you know that he revered the LORD. But now his creditor is coming to take my two boys as his slaves.\""
+  }, {
+    "verse" : "2kings,4,2",
+    "text" : "Elisha replied to her, \"How can I help you? Tell me, what do you have in your house?Your servant has nothing there at all,\" she said, \"except a little oil.\""
+  }, {
+    "verse" : "2kings,4,3",
+    "text" : "Elisha said, \"Go around and ask all your neighbors for empty jars. Don't ask for just a few."
+  }, {
+    "verse" : "2kings,4,4",
+    "text" : "Then go inside and shut the door behind you and your sons. Pour oil into all the jars, and as each is filled, put it to one side.\""
+  }, {
+    "verse" : "2kings,4,5",
+    "text" : "She left him and afterward shut the door behind her and her sons. They brought the jars to her and she kept pouring."
+  }, {
+    "verse" : "2kings,4,6",
+    "text" : "When all the jars were full, she said to her son, \"Bring me another one.\" But he replied, \"There is not a jar left.\" Then the oil stopped flowing."
+  }, {
+    "verse" : "2kings,4,7",
+    "text" : "She went and told the man of God, and he said, \"Go, sell the oil and pay your debts. You and your sons can live on what is left.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,4,1",
     "id" : 188555,
@@ -111,7 +213,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 4:1\">4:1</a></b> <b>sons of the prophets.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Kgs 20:35\">1 Kin. 20:35</a>.</p><p><b>my two children to be his slaves.</b> The Mosaic law allows taking children as bond servants (or slaves) for a limited period of time (<a class=\"bibleref\" href=\"/passage/?search=Exod 21:2\">Ex. 21:2</a>, <a class=\"bibleref\" href=\"/passage/?search=Exod 21:7\">7</a>; <a class=\"bibleref\" href=\"/passage/?search=Lev 25:39-Lev 25:46\">Lev. 25:39–46</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 15:12-Deut 15:18\">Deut. 15:12–18</a>). Unfortunately, this provision was often abused (<a class=\"bibleref\" href=\"/passage/?search=Neh 5:5-Neh 5:8\">Neh. 5:5–8</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 34:8-Jer 34:22\">Jer. 34:8–22</a>; <a class=\"bibleref\" href=\"/passage/?search=Amos 2:6\">Amos 2:6</a>; <a class=\"bibleref\" href=\"/passage/?search=Amos 8:6\">8:6</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,4,8", "2kings,4,9", "2kings,4,10", "2kings,4,11" ],
+  "verses" : [ {
+    "verse" : "2kings,4,8",
+    "text" : "One day Elisha went to Shunem. And a well-to-do woman was there, who urged him to stay for a meal. So whenever he came by, he stopped there to eat."
+  }, {
+    "verse" : "2kings,4,9",
+    "text" : "She said to her husband, \"I know that this man who often comes our way is a holy man of God."
+  }, {
+    "verse" : "2kings,4,10",
+    "text" : "Let's make a small room on the roof and put in it a bed and a table, a chair and a lamp for him. Then he can stay there whenever he comes to us.\""
+  }, {
+    "verse" : "2kings,4,11",
+    "text" : "One day when Elisha came, he went up to his room and lay down there."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,4,8",
     "id" : 188556,
@@ -119,7 +233,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 4:8\">4:8</a></b> <b>Shunem.</b> In northern Canaan, outside Israel (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 1:3\">1 Kin. 1:3</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,4,12", "2kings,4,13" ],
+  "verses" : [ {
+    "verse" : "2kings,4,12",
+    "text" : "He said to his servant Gehazi, \"Call the Shunammite.\" So he called her, and she stood before him."
+  }, {
+    "verse" : "2kings,4,13",
+    "text" : "Elisha said to him, \"Tell her, 'You have gone to all this trouble for us. Now what can be done for you? Can we speak on your behalf to the king or the commander of the army?'\" She replied, \"I have a home among my own people.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,4,12",
     "id" : 188557,
@@ -127,7 +247,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 4:12\">4:12</a></b> <b>Gehazi.</b> Elisha’s personal attendant (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 5:20-2Kgs 5:27\">5:20–27</a>; <a class=\"bibleref\" href=\"/passage/?search=2Kgs 6:15\">6:15</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,4,14", "2kings,4,15", "2kings,4,16" ],
+  "verses" : [ {
+    "verse" : "2kings,4,14",
+    "text" : "\"What can be done for her?\" Elisha asked. Gehazi said, \"Well, she has no son and her husband is old.\""
+  }, {
+    "verse" : "2kings,4,15",
+    "text" : "Then Elisha said, \"Call her.\" So he called her, and she stood in the doorway."
+  }, {
+    "verse" : "2kings,4,16",
+    "text" : "\"About this time next year,\" Elisha said, \"you will hold a son in your arms.No, my lord,\" she objected. \"Don't mislead your servant, O man of God!\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,4,14",
     "id" : 188558,
@@ -135,7 +264,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Kgs 4:14\">4:14</a></b> <b>she has no son, and her husband is old.</b> An heir was of great importance because the family name and possessions would be passed on to the children. Without a son, a family’s home and goods would be given to others. Moreover, living as a widow, a real prospect for this woman, would be very difficult (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 17:9\">1 Kin. 17:9</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2kings,4,17" ],
+  "verses" : [ {
+    "verse" : "2kings,4,17",
+    "text" : "But the woman became pregnant, and the next year about that same time she gave birth to a son, just as Elisha had told her."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2kings,4,17",
     "id" : 188559,

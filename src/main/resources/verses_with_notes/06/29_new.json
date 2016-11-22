@@ -1,5 +1,23 @@
 [ {
-  "singleVerses" : [ "acts,19,13", "acts,19,14", "acts,19,15", "acts,19,16", "acts,19,17", "acts,19,18" ],
+  "verses" : [ {
+    "verse" : "acts,19,13",
+    "text" : "Some Jews who went around driving out evil spirits tried to invoke the name of the Lord Jesus over those who were demon-possessed. They would say, \"In the name of Jesus, whom Paul preaches, I command you to come out.\""
+  }, {
+    "verse" : "acts,19,14",
+    "text" : "Seven sons of Sceva, a Jewish chief priest, were doing this."
+  }, {
+    "verse" : "acts,19,15",
+    "text" : "One day the evil spirit answered them, \"Jesus I know, and I know about Paul, but who are you?\""
+  }, {
+    "verse" : "acts,19,16",
+    "text" : "Then the man who had the evil spirit jumped on them and overpowered them all. He gave them such a beating that they ran out of the house naked and bleeding."
+  }, {
+    "verse" : "acts,19,17",
+    "text" : "When this became known to the Jews and Greeks living in Ephesus, they were all seized with fear, and the name of the Lord Jesus was held in high honor."
+  }, {
+    "verse" : "acts,19,18",
+    "text" : "Many of those who believed now came and openly confessed their evil deeds."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,19,13",
     "id" : 197598,
@@ -7,7 +25,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 19:13\">19:13</a></b> <b>evil spirits.</b> In ancient times it was common practice to use magical names to drive out evil spirits. Jews in Ephesus presumed “to invoke the name of the Lord Jesus” over those possessed, trying to imitate what Paul did (<a class=\"bibleref\" href=\"/passage/?search=Acts 19:12\">v. 12</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 16:18\">16:18</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,19,19", "acts,19,20", "acts,19,21", "acts,19,22" ],
+  "verses" : [ {
+    "verse" : "acts,19,19",
+    "text" : "A number who had practiced sorcery brought their scrolls together and burned them publicly. When they calculated the value of the scrolls, the total came to fifty thousand drachmas."
+  }, {
+    "verse" : "acts,19,20",
+    "text" : "In this way the word of the Lord spread widely and grew in power."
+  }, {
+    "verse" : "acts,19,21",
+    "text" : "After all this had happened, Paul decided to go to Jerusalem, passing through Macedonia and Achaia. \"After I have been there,\" he said, \"I must visit Rome also.\""
+  }, {
+    "verse" : "acts,19,22",
+    "text" : "He sent two of his helpers, Timothy and Erastus, to Macedonia, while he stayed in the province of Asia a little longer."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,19,19",
     "id" : 197599,
@@ -15,7 +45,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 19:19\">19:19</a></b> <b>their books.</b> These were scrolls with the names and incantations used in their magic.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,19,23" ],
+  "verses" : [ {
+    "verse" : "acts,19,23",
+    "text" : "About that time there arose a great disturbance about the Way."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,19,23",
     "id" : 197600,
@@ -23,7 +56,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 19:23\">19:23</a></b> <b>the Way.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Acts 9:2\">9:2</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,19,24", "acts,19,25", "acts,19,26" ],
+  "verses" : [ {
+    "verse" : "acts,19,24",
+    "text" : "A silversmith named Demetrius, who made silver shrines of Artemis, brought in no little business for the craftsmen."
+  }, {
+    "verse" : "acts,19,25",
+    "text" : "He called them together, along with the workmen in related trades, and said: \"Men, you know we receive a good income from this business."
+  }, {
+    "verse" : "acts,19,26",
+    "text" : "And you see and hear how this fellow Paul has convinced and led astray large numbers of people here in Ephesus and in practically the whole province of Asia. He says that man-made gods are no gods at all."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,19,24",
     "id" : 197601,
@@ -31,7 +73,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 19:24\">19:24</a></b> <b>Demetrius, a silversmith.</b> An important guild of silversmiths had developed at Ephesus on account of the large numbers of religious pilgrims. The pilgrims came to worship the goddess Diana (Artemis in Greek) who was portrayed by a famous statue at Ephesus as a fertility goddess with many breasts. Her “image” which had fallen “from the sky” (<a class=\"bibleref\" href=\"/passage/?search=Acts 19:35\">v. 35</a>) was probably a meteorite that the people had begun to worship. The temple of Artemis was one of the seven wonders of the ancient world. Not only was it the object of religious pilgrimage, but it was a banking depository as well. Making silver shrines and images of the goddess was an important trade.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,19,27", "acts,19,28", "acts,19,29", "acts,19,30", "acts,19,31" ],
+  "verses" : [ {
+    "verse" : "acts,19,27",
+    "text" : "There is danger not only that our trade will lose its good name, but also that the temple of the great goddess Artemis will be discredited, and the goddess herself, who is worshiped throughout the province of Asia and the world, will be robbed of her divine majesty.\""
+  }, {
+    "verse" : "acts,19,28",
+    "text" : "When they heard this, they were furious and began shouting: \"Great is Artemis of the Ephesians!\""
+  }, {
+    "verse" : "acts,19,29",
+    "text" : "Soon the whole city was in an uproar. The people seized Gaius and Aristarchus, Paul's traveling companions from Macedonia, and rushed as one man into the theater."
+  }, {
+    "verse" : "acts,19,30",
+    "text" : "Paul wanted to appear before the crowd, but the disciples would not let him."
+  }, {
+    "verse" : "acts,19,31",
+    "text" : "Even some of the officials of the province, friends of Paul, sent him a message begging him not to venture into the theater."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,19,27",
     "id" : 197602,
@@ -39,7 +96,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 19:27\">19:27</a></b> <b>temple of the great goddess Artemis.</b> The archaic Ionic temple of Artemis measured 220 by 425 feet, with 127 marble columns each 62 feet high. The lowest drums of the 36 western columns were carved with reliefs. The statue of the goddess was displayed in an inner room of the temple.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,19,32", "acts,19,33", "acts,19,34", "acts,19,35", "acts,19,36" ],
+  "verses" : [ {
+    "verse" : "acts,19,32",
+    "text" : "The assembly was in confusion: Some were shouting one thing, some another. Most of the people did not even know why they were there."
+  }, {
+    "verse" : "acts,19,33",
+    "text" : "The Jews pushed Alexander to the front, and some of the crowd shouted instructions to him. He motioned for silence in order to make a defense before the people."
+  }, {
+    "verse" : "acts,19,34",
+    "text" : "But when they realized he was a Jew, they all shouted in unison for about two hours: \"Great is Artemis of the Ephesians!\""
+  }, {
+    "verse" : "acts,19,35",
+    "text" : "The city clerk quieted the crowd and said: \"Men of Ephesus, doesn't all the world know that the city of Ephesus is the guardian of the temple of the great Artemis and of her image, which fell from heaven?"
+  }, {
+    "verse" : "acts,19,36",
+    "text" : "Therefore, since these facts are undeniable, you ought to be quiet and not do anything rash."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,19,32",
     "id" : 197603,
@@ -47,7 +119,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 19:32\">19:32</a></b> <b>assembly.</b> The Greek word <i>ekklesia</i> is used here and in <a class=\"bibleref\" href=\"/passage/?search=Acts 19:39\">vv. 39</a> and <a class=\"bibleref\" href=\"/passage/?search=Acts 19:41\">41</a> to denote a secular assembly of people (<a class=\"bibleref\" href=\"/passage/?search=Acts 5:11\">5:11</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,19,37", "acts,19,38", "acts,19,39", "acts,19,40", "acts,19,41" ],
+  "verses" : [ {
+    "verse" : "acts,19,37",
+    "text" : "You have brought these men here, though they have neither robbed temples nor blasphemed our goddess."
+  }, {
+    "verse" : "acts,19,38",
+    "text" : "If, then, Demetrius and his fellow craftsmen have a grievance against anybody, the courts are open and there are proconsuls. They can press charges."
+  }, {
+    "verse" : "acts,19,39",
+    "text" : "If there is anything further you want to bring up, it must be settled in a legal assembly."
+  }, {
+    "verse" : "acts,19,40",
+    "text" : "As it is, we are in danger of being charged with rioting because of today's events. In that case we would not be able to account for this commotion, since there is no reason for it.\""
+  }, {
+    "verse" : "acts,19,41",
+    "text" : "After he had said this, he dismissed the assembly."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,19,37",
     "id" : 197604,

@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,16,14" ],
+  "verses" : [ {
+    "verse" : "proverbs,16,14",
+    "text" : "A king's wrath is a messenger of death, but a wise man will appease it."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 16:12-Prov 16:15\">16:12–15</a></b> Wisdom concerning kingship not only reflects the ideal of Solomon and his wise rule, but also expresses the power of the king to establish righteous order in his realm.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,16,15" ],
+  "verses" : [ {
+    "verse" : "proverbs,16,15",
+    "text" : "When a king's face brightens, it means life; his favor is like a rain cloud in spring."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,16,15",
     "id" : 192013,

@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "matthew,25,31" ],
+  "verses" : [ {
+    "verse" : "matthew,25,31",
+    "text" : "\"When the Son of Man comes in his glory, and all the angels with him, he will sit on his throne in heavenly glory."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,24,1-matthew,25,46",
     "id" : 195888,
@@ -12,7 +15,31 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 25:31\">25:31</a></b> <b>Son of Man.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Matt 8:20\">8:20</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,25,32", "matthew,25,33", "matthew,25,34", "matthew,25,35", "matthew,25,36", "matthew,25,37", "matthew,25,38", "matthew,25,39" ],
+  "verses" : [ {
+    "verse" : "matthew,25,32",
+    "text" : "All the nations will be gathered before him, and he will separate the people one from another as a shepherd separates the sheep from the goats."
+  }, {
+    "verse" : "matthew,25,33",
+    "text" : "He will put the sheep on his right and the goats on his left."
+  }, {
+    "verse" : "matthew,25,34",
+    "text" : "\"Then the King will say to those on his right, 'Come, you who are blessed by my Father; take your inheritance, the kingdom prepared for you since the creation of the world."
+  }, {
+    "verse" : "matthew,25,35",
+    "text" : "For I was hungry and you gave me something to eat, I was thirsty and you gave me something to drink, I was a stranger and you invited me in,"
+  }, {
+    "verse" : "matthew,25,36",
+    "text" : "I needed clothes and you clothed me, I was sick and you looked after me, I was in prison and you came to visit me.'"
+  }, {
+    "verse" : "matthew,25,37",
+    "text" : "\"Then the righteous will answer him, 'Lord, when did we see you hungry and feed you, or thirsty and give you something to drink?"
+  }, {
+    "verse" : "matthew,25,38",
+    "text" : "When did we see you a stranger and invite you in, or needing clothes and clothe you?"
+  }, {
+    "verse" : "matthew,25,39",
+    "text" : "When did we see you sick or in prison and go to visit you?'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,25,32",
     "id" : 195908,
@@ -20,7 +47,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 25:32\">25:32</a></b> <b>sheep.</b> The image of Christ’s people as sheep is found in <a class=\"bibleref\" href=\"/passage/?search=Ezek 34\">Ezek. 34</a> and is a part of Jesus’ teaching (10:16; 18:12). The division concerns individuals, not nations.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,25,40" ],
+  "verses" : [ {
+    "verse" : "matthew,25,40",
+    "text" : "\"The King will reply, 'I tell you the truth, whatever you did for one of the least of these brothers of mine, you did for me.'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,25,40",
     "id" : 195909,
@@ -28,7 +58,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 25:40\">25:40</a></b> <b>the least of these my brothers.</b> Christ’s disciples (<a class=\"bibleref\" href=\"/passage/?search=Matt 10:42\">10:42</a>; <a class=\"bibleref\" href=\"/passage/?search=Matt 12:48\">12:48</a>, <a class=\"bibleref\" href=\"/passage/?search=Matt 12:49\">49</a>; <a class=\"bibleref\" href=\"/passage/?search=Matt 18:14\">18:14</a>), not the poor and needy in general. The judgment of the nations depends on how they respond to Christians and to the gospel (<a class=\"bibleref\" href=\"/passage/?search=Matt 10:40-Matt 10:42\">10:40–42</a>), not only because it is through the testimony of Christians that the Gentiles can hear and believe (<a class=\"bibleref\" href=\"/passage/?search=Rom 10:14\">Rom. 10:14</a>), but also because Christ identifies with His people. Their suffering is His suffering, and compassion shown to them is compassion shown to Him.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,25,41", "matthew,25,42", "matthew,25,43", "matthew,25,44", "matthew,25,45" ],
+  "verses" : [ {
+    "verse" : "matthew,25,41",
+    "text" : "\"Then he will say to those on his left, 'Depart from me, you who are cursed, into the eternal fire prepared for the devil and his angels."
+  }, {
+    "verse" : "matthew,25,42",
+    "text" : "For I was hungry and you gave me nothing to eat, I was thirsty and you gave me nothing to drink,"
+  }, {
+    "verse" : "matthew,25,43",
+    "text" : "I was a stranger and you did not invite me in, I needed clothes and you did not clothe me, I was sick and in prison and you did not look after me.'"
+  }, {
+    "verse" : "matthew,25,44",
+    "text" : "\"They also will answer, 'Lord, when did we see you hungry or thirsty or a stranger or needing clothes or sick or in prison, and did not help you?'"
+  }, {
+    "verse" : "matthew,25,45",
+    "text" : "\"He will reply, 'I tell you the truth, whatever you did not do for one of the least of these, you did not do for me.'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,25,41",
     "id" : 195910,
@@ -36,7 +81,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 25:41\">25:41</a></b> See theological note “The Final Judgment” on next page.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,25,46", "matthew,26,1", "matthew,26,2", "matthew,26,3", "matthew,26,4" ],
+  "verses" : [ {
+    "verse" : "matthew,25,46",
+    "text" : "\"Then they will go away to eternal punishment, but the righteous to eternal life.\""
+  }, {
+    "verse" : "matthew,26,1",
+    "text" : "When Jesus had finished saying all these things, he said to his disciples,"
+  }, {
+    "verse" : "matthew,26,2",
+    "text" : "\"As you know, the Passover is two days away--and the Son of Man will be handed over to be crucified.\""
+  }, {
+    "verse" : "matthew,26,3",
+    "text" : "Then the chief priests and the elders of the people assembled in the palace of the high priest, whose name was Caiaphas,"
+  }, {
+    "verse" : "matthew,26,4",
+    "text" : "and they plotted to arrest Jesus in some sly way and kill him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,25,46",
     "id" : 195911,
@@ -44,7 +104,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 25:46\">25:46</a></b> <b>eternal punishment.</b> See “Hell” at <a class=\"bibleref\" href=\"/passage/?search=Mark 9:43\">Mark 9:43</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,26,5" ],
+  "verses" : [ {
+    "verse" : "matthew,26,5",
+    "text" : "\"But not during the Feast,\" they said, \"or there may be a riot among the people.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,26,5",
     "id" : 195912,
@@ -52,7 +115,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 26:5\">26:5</a></b> <b>Not during the feast.</b> Although the officials expected to postpone the murder of Jesus until after Passover (<a class=\"bibleref\" href=\"/passage/?search=Mark 14:1\">Mark 14:1</a> note), God’s purpose (v. 2) was for it to take place on or just before the feast (v. 17 note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,26,6", "matthew,26,7" ],
+  "verses" : [ {
+    "verse" : "matthew,26,6",
+    "text" : "While Jesus was in Bethany in the home of a man known as Simon the Leper,"
+  }, {
+    "verse" : "matthew,26,7",
+    "text" : "a woman came to him with an alabaster jar of very expensive perfume, which she poured on his head as he was reclining at the table."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,26,6-matthew,26,13",
     "id" : 195913,
@@ -60,7 +129,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 26:6-Matt 26:13\">26:6–13</a></b> <a class=\"bibleref\" href=\"/passage/?search=Mark 14:3-Mark 14:9\">Mark 14:3–9</a> agrees with Matthew’s account regarding the time (two days before Passover, v. 2) and the method of anointing (on Jesus’ head). <a class=\"bibleref\" href=\"/passage/?search=John 12:1-John 12:8\">John 12:1–8</a> differs chronologically (six days before Passover), but although certain details are different (Mary anoints His feet), none conflict (<a class=\"bibleref\" href=\"/passage/?search=John 12:3\">John 12:3</a> note). These three accounts probably relate the same incident. <a class=\"bibleref\" href=\"/passage/?search=Luke 7:36-Luke 7:38\">Luke 7:36–38</a>, however, bears only superficial similarity to this story.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,26,8", "matthew,26,9", "matthew,26,10" ],
+  "verses" : [ {
+    "verse" : "matthew,26,8",
+    "text" : "When the disciples saw this, they were indignant. \"Why this waste?\" they asked."
+  }, {
+    "verse" : "matthew,26,9",
+    "text" : "\"This perfume could have been sold at a high price and the money given to the poor.\""
+  }, {
+    "verse" : "matthew,26,10",
+    "text" : "Aware of this, Jesus said to them, \"Why are you bothering this woman? She has done a beautiful thing to me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,26,8",
     "id" : 195914,
@@ -68,7 +146,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 26:8\">26:8</a></b> <b>they were indignant.</b> John reports the hypocritical objection of Judas (<a class=\"bibleref\" href=\"/passage/?search=John 12:4-John 12:6\">John 12:4–6</a>), and Matthew indicates that the others agreed with him.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,26,11", "matthew,26,12", "matthew,26,13" ],
+  "verses" : [ {
+    "verse" : "matthew,26,11",
+    "text" : "The poor you will always have with you, but you will not always have me."
+  }, {
+    "verse" : "matthew,26,12",
+    "text" : "When she poured this perfume on my body, she did it to prepare me for burial."
+  }, {
+    "verse" : "matthew,26,13",
+    "text" : "I tell you the truth, wherever this gospel is preached throughout the world, what she has done will also be told, in memory of her.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,26,11",
     "id" : 195915,

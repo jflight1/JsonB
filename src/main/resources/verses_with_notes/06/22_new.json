@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "acts,14,8", "acts,14,9" ],
+  "verses" : [ {
+    "verse" : "acts,14,8",
+    "text" : "In Lystra there sat a man crippled in his feet, who was lame from birth and had never walked."
+  }, {
+    "verse" : "acts,14,9",
+    "text" : "He listened to Paul as he was speaking. Paul looked directly at him, saw that he had faith to be healed"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,14,8",
     "id" : 197530,
@@ -7,7 +13,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 14:8\">14:8</a></b> <b>Lystra.</b> In 6 <span class=\"small-caps\">b.c.</span> Augustus fortified this settlement and made it into a Roman colony of the province of Galatia. He also settled the colony with Roman army veterans.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,14,10", "acts,14,11" ],
+  "verses" : [ {
+    "verse" : "acts,14,10",
+    "text" : "and called out, \"Stand up on your feet!\" At that, the man jumped up and began to walk."
+  }, {
+    "verse" : "acts,14,11",
+    "text" : "When the crowd saw what Paul had done, they shouted in the Lycaonian language, \"The gods have come down to us in human form!\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,14,10",
     "id" : 197531,
@@ -15,7 +27,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 14:10\">14:10</a></b> <b>he sprang up and began walking.</b> See “Miracles” at <a class=\"bibleref\" href=\"/passage/?search=1Kgs 17:22\">1 Kin. 17:22</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,14,12", "acts,14,13" ],
+  "verses" : [ {
+    "verse" : "acts,14,12",
+    "text" : "Barnabas they called Zeus, and Paul they called Hermes because he was the chief speaker."
+  }, {
+    "verse" : "acts,14,13",
+    "text" : "The priest of Zeus, whose temple was just outside the city, brought bulls and wreaths to the city gates because he and the crowd wanted to offer sacrifices to them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,14,12-acts,14,13",
     "id" : 197532,
@@ -23,7 +41,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 14:12\">14:12</a>, <a class=\"bibleref\" href=\"/passage/?search=Acts 14:13\">13</a></b> An ancient legend circulated in Lystra that the Greek gods Zeus and Hermes disguised themselves as men and came to the Phrygian hill country, seeking hospitality. Only one couple welcomed them, and in return their cottage was changed into a temple with a golden roof and marble columns. The houses of those who had refused the gods were destroyed. The Lystrans may have been thinking of this legend when they welcomed Barnabas and Paul and prepared to sacrifice oxen.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,14,14" ],
+  "verses" : [ {
+    "verse" : "acts,14,14",
+    "text" : "But when the apostles Barnabas and Paul heard of this, they tore their clothes and rushed out into the crowd, shouting:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,14,14",
     "id" : 197533,
@@ -31,7 +52,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 14:14\">14:14</a></b> <b>tore their garments.</b> A conventional sign of grief or distress.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,14,15" ],
+  "verses" : [ {
+    "verse" : "acts,14,15",
+    "text" : "\"Men, why are you doing this? We too are only men, human like you. We are bringing you good news, telling you to turn from these worthless things to the living God, who made heaven and earth and sea and everything in them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,14,15-acts,14,17",
     "id" : 197534,
@@ -39,7 +63,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 14:15-Acts 14:17\">14:15–17</a></b> The content of Paul’s sermon is similar to his later sermon at Athens (<a class=\"bibleref\" href=\"/passage/?search=Acts 17:22-Acts 17:31\">17:22–31</a>). Both sermons were addressed to pagan crowds who would not understand quotations from and explanations of Old Testament Scriptures. Paul stressed that God’s creative and providential power extended everywhere. See “General Revelation” at <a class=\"bibleref\" href=\"/passage/?search=Ps 19:1\">Ps. 19:1</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,14,16", "acts,14,17", "acts,14,18", "acts,14,19" ],
+  "verses" : [ {
+    "verse" : "acts,14,16",
+    "text" : "In the past, he let all nations go their own way."
+  }, {
+    "verse" : "acts,14,17",
+    "text" : "Yet he has not left himself without testimony: He has shown kindness by giving you rain from heaven and crops in their seasons; he provides you with plenty of food and fills your hearts with joy.\""
+  }, {
+    "verse" : "acts,14,18",
+    "text" : "Even with these words, they had difficulty keeping the crowd from sacrificing to them."
+  }, {
+    "verse" : "acts,14,19",
+    "text" : "Then some Jews came from Antioch and Iconium and won the crowd over. They stoned Paul and dragged him outside the city, thinking he was dead."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,14,16",
     "id" : 197535,
@@ -47,7 +83,34 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 14:16\">14:16</a></b> <b>allowed all the nations.</b> See “Mankind’s Guilty Knowledge of God” at <a class=\"bibleref\" href=\"/passage/?search=Rom 1:19\">Rom. 1:19</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,14,20", "acts,14,21", "acts,14,22", "acts,14,23", "acts,14,24", "acts,14,25", "acts,14,26", "acts,14,27", "acts,14,28" ],
+  "verses" : [ {
+    "verse" : "acts,14,20",
+    "text" : "But after the disciples had gathered around him, he got up and went back into the city. The next day he and Barnabas left for Derbe."
+  }, {
+    "verse" : "acts,14,21",
+    "text" : "They preached the good news in that city and won a large number of disciples. Then they returned to Lystra, Iconium and Antioch,"
+  }, {
+    "verse" : "acts,14,22",
+    "text" : "strengthening the disciples and encouraging them to remain true to the faith. \"We must go through many hardships to enter the kingdom of God,\" they said."
+  }, {
+    "verse" : "acts,14,23",
+    "text" : "Paul and Barnabas appointed elders for them in each church and, with prayer and fasting, committed them to the Lord, in whom they had put their trust."
+  }, {
+    "verse" : "acts,14,24",
+    "text" : "After going through Pisidia, they came into Pamphylia,"
+  }, {
+    "verse" : "acts,14,25",
+    "text" : "and when they had preached the word in Perga, they went down to Attalia."
+  }, {
+    "verse" : "acts,14,26",
+    "text" : "From Attalia they sailed back to Antioch, where they had been committed to the grace of God for the work they had now completed."
+  }, {
+    "verse" : "acts,14,27",
+    "text" : "On arriving there, they gathered the church together and reported all that God had done through them and how he had opened the door of faith to the Gentiles."
+  }, {
+    "verse" : "acts,14,28",
+    "text" : "And they stayed there a long time with the disciples."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,14,20",
     "id" : 197536,

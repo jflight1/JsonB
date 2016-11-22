@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "2chronicles,33,14" ],
+  "verses" : [ {
+    "verse" : "2chronicles,33,14",
+    "text" : "Afterward he rebuilt the outer wall of the City of David, west of the Gihon spring in the valley, as far as the entrance of the Fish Gate and encircling the hill of Ophel; he also made it much higher. He stationed military commanders in all the fortified cities in Judah."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,33,1-2chronicles,33,20",
     "id" : 189529,
@@ -17,7 +20,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 33:14\">33:14</a></b> The historian notes Manasseh’s building projects as a sign of God’s blessing.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,33,15", "2chronicles,33,16", "2chronicles,33,17" ],
+  "verses" : [ {
+    "verse" : "2chronicles,33,15",
+    "text" : "He got rid of the foreign gods and removed the image from the temple of the LORD, as well as all the altars he had built on the temple hill and in Jerusalem; and he threw them out of the city."
+  }, {
+    "verse" : "2chronicles,33,16",
+    "text" : "Then he restored the altar of the LORD and sacrificed fellowship offerings and thank offerings on it, and told Judah to serve the LORD, the God of Israel."
+  }, {
+    "verse" : "2chronicles,33,17",
+    "text" : "The people, however, continued to sacrifice at the high places, but only to the LORD their God."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,33,15",
     "id" : 189541,
@@ -25,7 +37,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 33:15\">33:15</a></b> <b>all the altars.</b> The writer of Kings notes that Josiah had to destroy altars Manasseh had erected (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 23:12\">2 Kin. 23:12</a>). Apparently, Manasseh’s reforms were incomplete.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,33,18", "2chronicles,33,19" ],
+  "verses" : [ {
+    "verse" : "2chronicles,33,18",
+    "text" : "The other events of Manasseh's reign, including his prayer to his God and the words the seers spoke to him in the name of the LORD, the God of Israel, are written in the annals of the kings of Israel."
+  }, {
+    "verse" : "2chronicles,33,19",
+    "text" : "His prayer and how God was moved by his entreaty, as well as all his sins and unfaithfulness, and the sites where he built high places and set up Asherah poles and idols before he humbled himself-all are written in the records of the seers."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,33,18-2chronicles,33,19",
     "id" : 189542,
@@ -33,7 +51,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 33:18\">33:18</a>, <a class=\"bibleref\" href=\"/passage/?search=2Chr 33:19\">19</a> the Chronicles of the Kings of Israel . . . Chronicles of the Seers.</b> See Introduction to 1 Chronicles: Author.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,33,20" ],
+  "verses" : [ {
+    "verse" : "2chronicles,33,20",
+    "text" : "Manasseh rested with his fathers and was buried in his palace. And Amon his son succeeded him as king."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,33,20",
     "id" : 189543,
@@ -41,7 +62,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 33:20\">33:20</a></b> <b>buried him in his house.</b> See note <a class=\"bibleref\" href=\"/passage/?search=2Chr 21:19\">21:19</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,33,21", "2chronicles,33,22", "2chronicles,33,23", "2chronicles,33,24", "2chronicles,33,25" ],
+  "verses" : [ {
+    "verse" : "2chronicles,33,21",
+    "text" : "Amon was twenty-two years old when he became king, and he reigned in Jerusalem two years."
+  }, {
+    "verse" : "2chronicles,33,22",
+    "text" : "He did evil in the eyes of the LORD, as his father Manasseh had done. Amon worshiped and offered sacrifices to all the idols Manasseh had made."
+  }, {
+    "verse" : "2chronicles,33,23",
+    "text" : "But unlike his father Manasseh, he did not humble himself before the LORD; Amon increased his guilt."
+  }, {
+    "verse" : "2chronicles,33,24",
+    "text" : "Amon's officials conspired against him and assassinated him in his palace."
+  }, {
+    "verse" : "2chronicles,33,25",
+    "text" : "Then the people of the land killed all who had plotted against King Amon, and they made Josiah his son king in his place."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,33,21-2chronicles,33,25",
     "id" : 189544,
@@ -54,7 +90,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 33:21\">33:21</a></b> <b>Amon . . . two years.</b> He reigned 642–640 <span class=\"small-caps\">b.c.</span></p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,34,1", "2chronicles,34,2" ],
+  "verses" : [ {
+    "verse" : "2chronicles,34,1",
+    "text" : "Josiah was eight years old when he became king, and he reigned in Jerusalem thirty-one years."
+  }, {
+    "verse" : "2chronicles,34,2",
+    "text" : "He did what was right in the eyes of the LORD and walked in the ways of his father David, not turning aside to the right or to the left."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,34,1-2chronicles,36,1",
     "id" : 189546,
@@ -67,7 +109,34 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 34:1\">34:1</a></b> <b>Josiah . . . thirty-one years.</b> Josiah reigned 640–609 <span class=\"small-caps\">b.c</span>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,34,3", "2chronicles,34,4", "2chronicles,34,5", "2chronicles,34,6", "2chronicles,34,7", "2chronicles,34,8", "2chronicles,34,9", "2chronicles,34,10", "2chronicles,34,11" ],
+  "verses" : [ {
+    "verse" : "2chronicles,34,3",
+    "text" : "In the eighth year of his reign, while he was still young, he began to seek the God of his father David. In his twelfth year he began to purge Judah and Jerusalem of high places, Asherah poles, carved idols and cast images."
+  }, {
+    "verse" : "2chronicles,34,4",
+    "text" : "Under his direction the altars of the Baals were torn down; he cut to pieces the incense altars that were above them, and smashed the Asherah poles, the idols and the images. These he broke to pieces and scattered over the graves of those who had sacrificed to them."
+  }, {
+    "verse" : "2chronicles,34,5",
+    "text" : "He burned the bones of the priests on their altars, and so he purged Judah and Jerusalem."
+  }, {
+    "verse" : "2chronicles,34,6",
+    "text" : "In the towns of Manasseh, Ephraim and Simeon, as far as Naphtali, and in the ruins around them,"
+  }, {
+    "verse" : "2chronicles,34,7",
+    "text" : "he tore down the altars and the Asherah poles and crushed the idols to powder and cut to pieces all the incense altars throughout Israel. Then he went back to Jerusalem."
+  }, {
+    "verse" : "2chronicles,34,8",
+    "text" : "In the eighteenth year of Josiah's reign, to purify the land and the temple, he sent Shaphan son of Azaliah and Maaseiah the ruler of the city, with Joah son of Joahaz, the recorder, to repair the temple of the LORD his God."
+  }, {
+    "verse" : "2chronicles,34,9",
+    "text" : "They went to Hilkiah the high priest and gave him the money that had been brought into the temple of God, which the Levites who were the doorkeepers had collected from the people of Manasseh, Ephraim and the entire remnant of Israel and from all the people of Judah and Benjamin and the inhabitants of Jerusalem."
+  }, {
+    "verse" : "2chronicles,34,10",
+    "text" : "Then they entrusted it to the men appointed to supervise the work on the LORD's temple. These men paid the workers who repaired and restored the temple."
+  }, {
+    "verse" : "2chronicles,34,11",
+    "text" : "They also gave money to the carpenters and builders to purchase dressed stone, and timber for joists and beams for the buildings that the kings of Judah had allowed to fall into ruin."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,34,3-2chronicles,35,19",
     "id" : 189548,
@@ -80,7 +149,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 34:3\">34:3</a></b> <b>while he was yet a boy.</b> Josiah began to reverse the policies of Amon at an early age.</p><p><b>he began to purge.</b> Josiah’s removal of idolatry is reported more completely in <a class=\"bibleref\" href=\"/passage/?search=2Kgs 23:4-2Kgs 23:20\">2 Kin. 23:4–20</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,34,12", "2chronicles,34,13", "2chronicles,34,14" ],
+  "verses" : [ {
+    "verse" : "2chronicles,34,12",
+    "text" : "The men did the work faithfully. Over them to direct them were Jahath and Obadiah, Levites descended from Merari, and Zechariah and Meshullam, descended from Kohath. The Levites-all who were skilled in playing musical instruments-"
+  }, {
+    "verse" : "2chronicles,34,13",
+    "text" : "had charge of the laborers and supervised all the workers from job to job. Some of the Levites were secretaries, scribes and doorkeepers."
+  }, {
+    "verse" : "2chronicles,34,14",
+    "text" : "While they were bringing out the money that had been taken into the temple of the LORD, Hilkiah the priest found the Book of the Law of the LORD that had been given through Moses."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,34,12",
     "id" : 189550,
@@ -88,7 +166,31 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 34:12\">34:12</a></b> <b>the Levites.</b> The involvement of the Levites would ensure that Josiah’s reforms were according to the patterns established by David (<a class=\"bibleref\" href=\"/passage/?search=1Chr 6\">1 Chr. 6</a>), Solomon (<a class=\"bibleref\" href=\"/passage/?search=2Chr 7:6\">2 Chr. 7:6</a>; <a class=\"bibleref\" href=\"/passage/?search=2Chr 8:14\">8:14</a>) and Hezekiah (29:2–19).</p><p><b>instruments of music.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Chr 15:16\">1 Chr. 15:16</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,34,15", "2chronicles,34,16", "2chronicles,34,17", "2chronicles,34,18", "2chronicles,34,19", "2chronicles,34,20", "2chronicles,34,21", "2chronicles,34,22" ],
+  "verses" : [ {
+    "verse" : "2chronicles,34,15",
+    "text" : "Hilkiah said to Shaphan the secretary, \"I have found the Book of the Law in the temple of the LORD.\" He gave it to Shaphan."
+  }, {
+    "verse" : "2chronicles,34,16",
+    "text" : "Then Shaphan took the book to the king and reported to him: \"Your officials are doing everything that has been committed to them."
+  }, {
+    "verse" : "2chronicles,34,17",
+    "text" : "They have paid out the money that was in the temple of the LORD and have entrusted it to the supervisors and workers.\""
+  }, {
+    "verse" : "2chronicles,34,18",
+    "text" : "Then Shaphan the secretary informed the king, \"Hilkiah the priest has given me a book.\" And Shaphan read from it in the presence of the king."
+  }, {
+    "verse" : "2chronicles,34,19",
+    "text" : "When the king heard the words of the Law, he tore his robes."
+  }, {
+    "verse" : "2chronicles,34,20",
+    "text" : "He gave these orders to Hilkiah, Ahikam son of Shaphan, Abdon son of Micah, Shaphan the secretary and Asaiah the king's attendant:"
+  }, {
+    "verse" : "2chronicles,34,21",
+    "text" : "\"Go and inquire of the LORD for me and for the remnant in Israel and Judah about what is written in this book that has been found. Great is the LORD's anger that is poured out on us because our fathers have not kept the word of the LORD; they have not acted in accordance with all that is written in this book.\""
+  }, {
+    "verse" : "2chronicles,34,22",
+    "text" : "Hilkiah and those the king had sent with him went to speak to the prophetess Huldah, who was the wife of Shallum son of Tokhath, the son of Hasrah, keeper of the wardrobe. She lived in Jerusalem, in the Second District."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,34,15",
     "id" : 189551,
@@ -96,7 +198,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 34:15\">34:15</a></b> <b>the Book of the Law . . . of the <span class=\"small-caps\">Lord.</span> </b>Probably Deuteronomy (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 22:8\">2 Kin. 22:8</a> note). The priests delivered the book to Josiah, who accepted it as the guide for his reforms (cf. <a class=\"bibleref\" href=\"/passage/?search=Ezra 7:6-Ezra 7:10\">Ezra 7:6–10</a>; <a class=\"bibleref\" href=\"/passage/?search=Neh 8\">Neh. 8</a>; <a class=\"bibleref\" href=\"/passage/?search=Neh 9\">9</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,34,23", "2chronicles,34,24", "2chronicles,34,25", "2chronicles,34,26", "2chronicles,34,27", "2chronicles,34,28", "2chronicles,34,29" ],
+  "verses" : [ {
+    "verse" : "2chronicles,34,23",
+    "text" : "She said to them, \"This is what the LORD, the God of Israel, says: Tell the man who sent you to me,"
+  }, {
+    "verse" : "2chronicles,34,24",
+    "text" : "'This is what the LORD says: I am going to bring disaster on this place and its people-all the curses written in the book that has been read in the presence of the king of Judah."
+  }, {
+    "verse" : "2chronicles,34,25",
+    "text" : "Because they have forsaken me and burned incense to other gods and provoked me to anger by all that their hands have made, my anger will be poured out on this place and will not be quenched.'"
+  }, {
+    "verse" : "2chronicles,34,26",
+    "text" : "Tell the king of Judah, who sent you to inquire of the LORD, 'This is what the LORD, the God of Israel, says concerning the words you heard:"
+  }, {
+    "verse" : "2chronicles,34,27",
+    "text" : "Because your heart was responsive and you humbled yourself before God when you heard what he spoke against this place and its people, and because you humbled yourself before me and tore your robes and wept in my presence, I have heard you, declares the LORD."
+  }, {
+    "verse" : "2chronicles,34,28",
+    "text" : "Now I will gather you to your fathers, and you will be buried in peace. Your eyes will not see all the disaster I am going to bring on this place and on those who live here.'\" So they took her answer back to the king."
+  }, {
+    "verse" : "2chronicles,34,29",
+    "text" : "Then the king called together all the elders of Judah and Jerusalem."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,34,23-2chronicles,34,28",
     "id" : 189552,
@@ -104,7 +227,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 34:23-2Chr 34:28\">34:23–28</a></b> Huldah the prophetess announced divine judgment because of the violation of God’s law, but Josiah’s humility had the effect of postponing disaster (<a class=\"bibleref\" href=\"/passage/?search=1Chr 28:9\">1 Chr. 28:9</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,34,30", "2chronicles,34,31", "2chronicles,34,32", "2chronicles,34,33" ],
+  "verses" : [ {
+    "verse" : "2chronicles,34,30",
+    "text" : "He went up to the temple of the LORD with the men of Judah, the people of Jerusalem, the priests and the Levites-all the people from the least to the greatest. He read in their hearing all the words of the Book of the Covenant, which had been found in the temple of the LORD."
+  }, {
+    "verse" : "2chronicles,34,31",
+    "text" : "The king stood by his pillar and renewed the covenant in the presence of the LORD -to follow the LORD and keep his commands, regulations and decrees with all his heart and all his soul, and to obey the words of the covenant written in this book."
+  }, {
+    "verse" : "2chronicles,34,32",
+    "text" : "Then he had everyone in Jerusalem and Benjamin pledge themselves to it; the people of Jerusalem did this in accordance with the covenant of God, the God of their fathers."
+  }, {
+    "verse" : "2chronicles,34,33",
+    "text" : "Josiah removed all the detestable idols from all the territory belonging to the Israelites, and he had all who were present in Israel serve the LORD their God. As long as he lived, they did not fail to follow the LORD, the God of their fathers."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,34,30",
     "id" : 189553,

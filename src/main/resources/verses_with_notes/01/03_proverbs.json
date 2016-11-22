@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "proverbs,1,10", "proverbs,1,11" ],
+  "verses" : [ {
+    "verse" : "proverbs,1,10",
+    "text" : "My son, if sinners entice you, do not give in to them."
+  }, {
+    "verse" : "proverbs,1,11",
+    "text" : "If they say, \"Come along with us; let's lie in wait for someone's blood, let's waylay some harmless soul;"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,1,10-proverbs,1,19",
     "id" : 191647,
@@ -7,7 +13,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 1:10-Prov 1:19\">1:10–19</a></b> These verses make up another unit in the instruction form. Possibly this form was a teaching tool in more formal education outside the home as wise men taught their pupils. The conditional “if” clauses (<a class=\"bibleref\" href=\"/passage/?search=Prov 1:10\">vv. 10</a>, <a class=\"bibleref\" href=\"/passage/?search=Prov 1:11\">11</a>) indicate the situations to which this wisdom applies. The command in <a class=\"bibleref\" href=\"/passage/?search=Prov 1:15\">v. 15</a> is supported by the reasons for it in <a class=\"bibleref\" href=\"/passage/?search=Prov 1:16-Prov 1:19\">vv. 16–19</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,1,12" ],
+  "verses" : [ {
+    "verse" : "proverbs,1,12",
+    "text" : "let's swallow them alive, like the grave, and whole, like those who go down to the pit;"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,1,12",
     "id" : 191648,
@@ -15,7 +24,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 1:12\">1:12</a></b> <b>Sheol.</b> The realm of death is here depicted as ready to swallow its victims. Elsewhere this poetic term denotes a realm where corruption is father and the worm is mother (<a class=\"bibleref\" href=\"/passage/?search=Job 17:13\">Job 17:13</a>, <a class=\"bibleref\" href=\"/passage/?search=Job 17:14\">14</a>), a domain with gates (<a class=\"bibleref\" href=\"/passage/?search=Isa 38:10\">Is. 38:10</a>). It is a land of no return (<a class=\"bibleref\" href=\"/passage/?search=Job 7:9\">Job 7:9</a>), silence (<a class=\"bibleref\" href=\"/passage/?search=Ps 94:17\">Ps. 94:17</a>), darkness (<a class=\"bibleref\" href=\"/passage/?search=Ps 143:3\">Ps. 143:3</a>), and forgetfulness (<a class=\"bibleref\" href=\"/passage/?search=Ps 88:11\">Ps. 88:11</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 88:12\">12</a>). See 9:18 note; <a class=\"bibleref\" href=\"/passage/?search=Isa 14:9-Isa 14:11\">Is. 14:9–11</a> note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,1,13", "proverbs,1,14" ],
+  "verses" : [ {
+    "verse" : "proverbs,1,13",
+    "text" : "we will get all sorts of valuable things and fill our houses with plunder;"
+  }, {
+    "verse" : "proverbs,1,14",
+    "text" : "throw in your lot with us, and we will share a common purse\"-"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,1,13",
     "id" : 191649,
@@ -23,7 +38,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 1:13\">1:13</a></b> <b>precious goods.</b> Proverbs does not forbid or discourage wealth—only the use of evil to get it. However, the ultimate wealth is wisdom itself (<a class=\"bibleref\" href=\"/passage/?search=Prov 2:4\">2:4</a>; <a class=\"bibleref\" href=\"/passage/?search=Prov 3:13-Prov 3:16\">3:13–16</a>; <a class=\"bibleref\" href=\"/passage/?search=Job 28:12-Job 28:19\">Job 28:12–19</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,1,15" ],
+  "verses" : [ {
+    "verse" : "proverbs,1,15",
+    "text" : "my son, do not go along with them, do not set foot on their paths;"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,1,15",
     "id" : 191650,
@@ -31,7 +49,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 1:15\">1:15</a></b> <b>my son.</b> After the extended conditional clause (<a class=\"bibleref\" href=\"/passage/?search=Prov 1:10-Prov 1:14\">vv. 10–14</a>) the address is repeated to reinforce the command to avoid evil people.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,1,16" ],
+  "verses" : [ {
+    "verse" : "proverbs,1,16",
+    "text" : "for their feet rush into sin, they are swift to shed blood."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,1,16",
     "id" : 191651,
@@ -39,7 +60,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 1:16\">1:16</a></b> This verse is almost identical with <a class=\"bibleref\" href=\"/passage/?search=Isa 59:7\">Is. 59:7</a> and is partly quoted in <a class=\"bibleref\" href=\"/passage/?search=Rom 3:15\">Rom. 3:15</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,1,17", "proverbs,1,18" ],
+  "verses" : [ {
+    "verse" : "proverbs,1,17",
+    "text" : "How useless to spread a net in full view of all the birds!"
+  }, {
+    "verse" : "proverbs,1,18",
+    "text" : "These men lie in wait for their own blood; they waylay only themselves!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,1,17",
     "id" : 191652,
@@ -47,7 +74,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 1:17\">1:17</a></b> <b>in vain . . . bird.</b> This saying is introduced to strengthen the reasons for the author’s counsel. The apparent meaning is that even a bird will avoid a trap once it has knowledge of it. Those who are tempted should do the same.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,1,19" ],
+  "verses" : [ {
+    "verse" : "proverbs,1,19",
+    "text" : "Such is the end of all who go after ill-gotten gain; it takes away the lives of those who get it."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,1,19",
     "id" : 191653,

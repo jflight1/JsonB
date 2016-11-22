@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,19,1" ],
+  "verses" : [ {
+    "verse" : "psalms,19,1",
+    "text" : "The heavens declare the glory of God; the skies proclaim the work of his hands."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,19,1-psalms,19,14",
     "id" : 190353,
@@ -17,7 +20,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 19:1\">19:1</a></b> <b>heavens.</b> The psalmist uses creation language here; compare <a class=\"bibleref\" href=\"/passage/?search=Gen 1:1-Gen 1:8\">Gen. 1:1–8</a>, where this word has been translated “expanse.” See theological note “General Revelation.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,19,2", "psalms,19,3" ],
+  "verses" : [ {
+    "verse" : "psalms,19,2",
+    "text" : "Day after day they pour forth speech; night after night they display knowledge."
+  }, {
+    "verse" : "psalms,19,3",
+    "text" : "There is no speech or language where their voice is not heard."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,19,2",
     "id" : 190356,
@@ -25,7 +34,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 19:2\">19:2</a></b> <b>pours out speech.</b> This metaphor claims that the creation, specifically the heavens, constantly attests God’s power and goodness.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,19,4" ],
+  "verses" : [ {
+    "verse" : "psalms,19,4",
+    "text" : "Their voice goes out into all the earth, their words to the ends of the world. In the heavens he has pitched a tent for the sun,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,19,4",
     "id" : 190357,
@@ -33,7 +45,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 19:4\">19:4</a></b> <b>all the earth.</b> God’s revelation in creation is open to all who do not suppress it. Paul applies this verse to gospel proclamation (<a class=\"bibleref\" href=\"/passage/?search=Rom 10:18\">Rom. 10:18</a>).</p><p><b>set a tent.</b> The sun is personified throughout this section, but not deified as in other ancient Near Eastern religions. The context indicates that the reference to the tent is probably an allusion to its absence from the nighttime sky.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,19,5" ],
+  "verses" : [ {
+    "verse" : "psalms,19,5",
+    "text" : "which is like a bridegroom coming forth from his pavilion, like a champion rejoicing to run his course."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,19,5",
     "id" : 190358,
@@ -41,7 +56,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 19:5\">19:5</a></b> <b>like a strong man.</b> Robust and strong as it courses across the sky, the sun is God’s creation. If it is powerful, how much more is God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,19,6" ],
+  "verses" : [ {
+    "verse" : "psalms,19,6",
+    "text" : "It rises at one end of the heavens and makes its circuit to the other; nothing is hidden from its heat."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,19,6",
     "id" : 190359,
@@ -49,7 +67,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 19:6\">19:6</a></b> <b>nothing.</b> Nothing escapes the heat of the sun, and nothing can hide from the Creator.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,19,7", "psalms,19,8", "psalms,19,9", "psalms,19,10", "psalms,19,11" ],
+  "verses" : [ {
+    "verse" : "psalms,19,7",
+    "text" : "The law of the LORD is perfect, reviving the soul. The statutes of the LORD are trustworthy, making wise the simple."
+  }, {
+    "verse" : "psalms,19,8",
+    "text" : "The precepts of the LORD are right, giving joy to the heart. The commands of the LORD are radiant, giving light to the eyes."
+  }, {
+    "verse" : "psalms,19,9",
+    "text" : "The fear of the LORD is pure, enduring forever. The ordinances of the LORD are sure and altogether righteous."
+  }, {
+    "verse" : "psalms,19,10",
+    "text" : "They are more precious than gold, than much pure gold; they are sweeter than honey, than honey from the comb."
+  }, {
+    "verse" : "psalms,19,11",
+    "text" : "By them is your servant warned; in keeping them there is great reward."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,19,7-psalms,19,11",
     "id" : 190360,
@@ -62,7 +95,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 19:7\">19:7</a></b> <b>law.</b> Torah, the most general term for the law.</p><p><b>reviving the soul.</b> God’s Word transforms the lives of those subject to that Word.</p><p><b>making wise.</b> Wisdom is not superior intellectual power. God’s Word instills reverence for God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,19,12", "psalms,19,13", "psalms,19,14" ],
+  "verses" : [ {
+    "verse" : "psalms,19,12",
+    "text" : "Who can discern his errors? Forgive my hidden faults."
+  }, {
+    "verse" : "psalms,19,13",
+    "text" : "Keep your servant also from willful sins; may they not rule over me. Then will I be blameless, innocent of great transgression."
+  }, {
+    "verse" : "psalms,19,14",
+    "text" : "May the words of my mouth and the meditation of my heart be pleasing in your sight, O Lord, my Rock and my Redeemer."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,19,12-psalms,19,13",
     "id" : 190362,

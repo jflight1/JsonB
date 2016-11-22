@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,50,1" ],
+  "verses" : [ {
+    "verse" : "psalms,50,1",
+    "text" : "The Mighty One, God, the LORD, speaks and summons the earth from the rising of the sun to the place where it sets."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,50,1-psalms,50,23",
     "id" : 190629,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 50:1\">50:1</a></b> <b>The Mighty One, God the <span class=\"small-caps\">Lord.</span></b> The psalm opens impressively with three divine names. The third is God’s covenant name, conventionally translated with the word “<span class=\"small-caps\">Lord</span>” in small capitals. In Hebrew it is four consonants, called the “Tetragrammaton,” and probably pronounced “Yahweh.” “Jehovah” uses the vowels of a different word in a way suggested by the Jewish custom of not pronouncing God’s sacred name. See <a class=\"bibleref\" href=\"/passage/?search=Exod 3:13-Exod 3:15\">Ex. 3:13–15</a> and notes.</p><p><b>from the rising of the sun to its setting.</b> From east to west, God addresses the whole earth.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,50,2" ],
+  "verses" : [ {
+    "verse" : "psalms,50,2",
+    "text" : "From Zion, perfect in beauty, God shines forth."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,50,2",
     "id" : 190631,
@@ -20,7 +26,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 50:2\">50:2</a></b> <b>Zion.</b> The location of the temple, the place God has chosen to make His presence known. See <a class=\"bibleref\" href=\"/passage/?search=Ps 2:6\">Ps. 2:6</a>.</p><p><b>shines forth.</b> The language indicates a “theophany,” a visual self-revelation of God. God’s presence is manifest at His temple in Jerusalem. See <a class=\"bibleref\" href=\"/passage/?search=Deut 33:2\">Deut. 33:2</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,50,3", "psalms,50,4" ],
+  "verses" : [ {
+    "verse" : "psalms,50,3",
+    "text" : "Our God comes and will not be silent; a fire devours before him, and around him a tempest rages."
+  }, {
+    "verse" : "psalms,50,4",
+    "text" : "He summons the heavens above, and the earth, that he may judge his people:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,50,3",
     "id" : 190632,
@@ -28,7 +40,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 50:3\">50:3</a></b> <b>before him is a devouring fire.</b> God’s theophany (<a class=\"bibleref\" href=\"/passage/?search=Ps 50:2\">v. 2</a> note) is often accompanied by powerful and dangerous forces, especially when He speaks in judgment (<a class=\"bibleref\" href=\"/passage/?search=Exod 19\">Ex. 19</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 24\">Is. 24</a>; <a class=\"bibleref\" href=\"/passage/?search=Nah 1\">Nah. 1</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,50,5" ],
+  "verses" : [ {
+    "verse" : "psalms,50,5",
+    "text" : "\"Gather to me my consecrated ones, who made a covenant with me by sacrifice.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,50,5",
     "id" : 190633,
@@ -36,7 +51,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 50:5\">50:5 a</a></b> <b>covenant with me by sacrifice.</b> A covenant is a solemn agreement between persons. Here, as in most places, it signifies the bond between God and His people. However, since man is sinful, this relationship must be accompanied by sacrifice, representing the punishment for sin.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,50,6" ],
+  "verses" : [ {
+    "verse" : "psalms,50,6",
+    "text" : "And the heavens proclaim his righteousness, for God himself is judge. Selah"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,50,6",
     "id" : 190634,
@@ -44,7 +62,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 50:6\">50:6</a></b> <b>heavens.</b> Possibly a poetic way of referring to the inhabitants of heaven, the angels; otherwise, the glory of the inanimate, created heavens.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,50,7" ],
+  "verses" : [ {
+    "verse" : "psalms,50,7",
+    "text" : "\"Hear, O my people, and I will speak, O Israel, and I will testify against you: I am God, your God."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,50,7",
     "id" : 190635,
@@ -52,7 +73,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 50:7\">50:7</a></b> <b>testify.</b> This legal terminology is used because covenants were legal instruments, like contracts or treaties. When there was some disruption in the people’s faithfulness, they were often put on trial by the Lord or by one of His prophets (<a class=\"bibleref\" href=\"/passage/?search=Mic 6:1-Mic 6:8\">Mic. 6:1–8</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,50,8" ],
+  "verses" : [ {
+    "verse" : "psalms,50,8",
+    "text" : "I do not rebuke you for your sacrifices or your burnt offerings, which are ever before me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,50,8",
     "id" : 190636,
@@ -60,7 +84,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 50:8\">50:8</a></b> <b>Not for your sacrifices do I rebuke you.</b> This verse indicates that the people’s problem was not observance of the sacrificial rites. They were faithful to do them, but they apparently misunderstood their significance.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,50,9" ],
+  "verses" : [ {
+    "verse" : "psalms,50,9",
+    "text" : "I have no need of a bull from your stall or of goats from your pens,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,50,9",
     "id" : 190637,
@@ -68,7 +95,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 50:9\">50:9</a></b> <b>will not accept.</b> The people of the surrounding nations thought that their gods ate the sacrifices offered to them and grew hungry when deprived. In the Gilgamesh Epic, the goddess Ishtar bemoans the lack of sacrifices that resulted in her god-sized hunger.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,50,10", "psalms,50,11", "psalms,50,12" ],
+  "verses" : [ {
+    "verse" : "psalms,50,10",
+    "text" : "for every animal of the forest is mine, and the cattle on a thousand hills."
+  }, {
+    "verse" : "psalms,50,11",
+    "text" : "I know every bird in the mountains, and the creatures of the field are mine."
+  }, {
+    "verse" : "psalms,50,12",
+    "text" : "If I were hungry I would not tell you, for the world is mine, and all that is in it."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,50,10",
     "id" : 190638,
@@ -76,7 +112,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 50:10\">50:10</a></b> <b>every beast of the forest is mine.</b> God affirms that He created and owns all the creatures of the world.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,50,13", "psalms,50,14", "psalms,50,15" ],
+  "verses" : [ {
+    "verse" : "psalms,50,13",
+    "text" : "Do I eat the flesh of bulls or drink the blood of goats?"
+  }, {
+    "verse" : "psalms,50,14",
+    "text" : "Sacrifice thank offerings to God, fulfill your vows to the Most High,"
+  }, {
+    "verse" : "psalms,50,15",
+    "text" : "and call upon me in the day of trouble; I will deliver you, and you will honor me.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,50,13-psalms,50,14",
     "id" : 190639,
@@ -84,7 +129,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 50:13\">50:13</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 50:14\">14</a> Do I eat the flesh of bulls.</b> This rhetorical question makes it clear that the Lord neither eats the sacrifices, nor is He satisfied with them apart from sincere commitment and thanksgiving.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,50,16" ],
+  "verses" : [ {
+    "verse" : "psalms,50,16",
+    "text" : "But to the wicked, God says: \"What right have you to recite my laws or take my covenant on your lips?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,50,16",
     "id" : 190640,
@@ -92,7 +140,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 50:16\">50:16</a></b> <b>wicked.</b> Probably the wicked people within the professing covenant community, since they know God’s law.</p><p><b>recite.</b> This may be a reference to a covenant renewal ceremony in which the covenant community together recites the law and reaffirms its intention to keep it (<a class=\"bibleref\" href=\"/passage/?search=Deut 31:9-Deut 31:11\">Deut. 31:9–11</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,50,17" ],
+  "verses" : [ {
+    "verse" : "psalms,50,17",
+    "text" : "You hate my instruction and cast my words behind you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,50,17",
     "id" : 190641,
@@ -100,7 +151,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 50:17\">50:17</a></b> <b>hate discipline.</b> A sure sign of a fool (<a class=\"bibleref\" href=\"/passage/?search=Prov 1:7\">Prov. 1:7</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,50,18", "psalms,50,19", "psalms,50,20" ],
+  "verses" : [ {
+    "verse" : "psalms,50,18",
+    "text" : "When you see a thief, you join with him; you throw in your lot with adulterers."
+  }, {
+    "verse" : "psalms,50,19",
+    "text" : "You use your mouth for evil and harness your tongue to deceit."
+  }, {
+    "verse" : "psalms,50,20",
+    "text" : "You speak continually against your brother and slander your own mother's son."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,50,18-psalms,50,19",
     "id" : 190642,
@@ -108,7 +168,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 50:18\">50:18</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 50:19\">19</a></b> The psalmist cites the seventh, eighth, and ninth commandments.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,50,21" ],
+  "verses" : [ {
+    "verse" : "psalms,50,21",
+    "text" : "These things you have done and I kept silent; you thought I was altogether like you. But I will rebuke you and accuse you to your face."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,50,21",
     "id" : 190643,
@@ -116,7 +179,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 50:21\">50:21</a></b> <b>I have been silent.</b> God’s silence was frequently taken by the wicked as a sign that He didn’t care if they sinned.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,50,22", "psalms,50,23" ],
+  "verses" : [ {
+    "verse" : "psalms,50,22",
+    "text" : "\"Consider this, you who forget God, or I will tear you to pieces, with none to rescue:"
+  }, {
+    "verse" : "psalms,50,23",
+    "text" : "He who sacrifices thank offerings honors me, and he prepares the way so that I may show him the salvation of God.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,50,22",
     "id" : 190644,

@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,15,29" ],
+  "verses" : [ {
+    "verse" : "proverbs,15,29",
+    "text" : "The LORD is far from the wicked but he hears the prayer of the righteous."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 15:29\">15:29</a></b> See note on <a class=\"bibleref\" href=\"/passage/?search=Prov 15:8\">v. 8</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,15,30" ],
+  "verses" : [ {
+    "verse" : "proverbs,15,30",
+    "text" : "A cheerful look brings joy to the heart, and good news gives health to the bones."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,15,30",
     "id" : 191998,

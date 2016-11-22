@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,33,12" ],
+  "verses" : [ {
+    "verse" : "psalms,33,12",
+    "text" : "Blessed is the nation whose God is the LORD, the people he chose for his inheritance."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,33,1-psalms,33,22",
     "id" : 190466,
@@ -12,7 +15,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 33:12\">33:12</a></b> <b>the people whom he has chosen.</b> God is the One who initiated the relationship with Israel, the nation He chose (<a class=\"bibleref\" href=\"/passage/?search=Deut 7:7-Deut 7:11\">Deut. 7:7–11</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,33,13", "psalms,33,14" ],
+  "verses" : [ {
+    "verse" : "psalms,33,13",
+    "text" : "From heaven the LORD looks down and sees all mankind;"
+  }, {
+    "verse" : "psalms,33,14",
+    "text" : "from his dwelling place he watches all who live on earth-"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,33,13",
     "id" : 190475,
@@ -20,7 +29,31 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 33:13\">33:13</a></b> <b>heaven.</b> See “Heaven” at <a class=\"bibleref\" href=\"/passage/?search=Rev 21:1\">Rev. 21:1</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,33,15", "psalms,33,16", "psalms,33,17", "psalms,33,18", "psalms,33,19", "psalms,33,20", "psalms,33,21", "psalms,33,22" ],
+  "verses" : [ {
+    "verse" : "psalms,33,15",
+    "text" : "he who forms the hearts of all, who considers everything they do."
+  }, {
+    "verse" : "psalms,33,16",
+    "text" : "No king is saved by the size of his army; no warrior escapes by his great strength."
+  }, {
+    "verse" : "psalms,33,17",
+    "text" : "A horse is a vain hope for deliverance; despite all its great strength it cannot save."
+  }, {
+    "verse" : "psalms,33,18",
+    "text" : "But the eyes of the LORD are on those who fear him, on those whose hope is in his unfailing love,"
+  }, {
+    "verse" : "psalms,33,19",
+    "text" : "to deliver them from death and keep them alive in famine."
+  }, {
+    "verse" : "psalms,33,20",
+    "text" : "We wait in hope for the LORD; he is our help and our shield."
+  }, {
+    "verse" : "psalms,33,21",
+    "text" : "In him our hearts rejoice, for we trust in his holy name."
+  }, {
+    "verse" : "psalms,33,22",
+    "text" : "May your unfailing love rest upon us, O LORD, even as we put our hope in you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,33,15",
     "id" : 190476,

@@ -1,8 +1,14 @@
 [ {
-  "singleVerses" : [ "genesis,37,1" ],
+  "verses" : [ {
+    "verse" : "genesis,37,1",
+    "text" : "Jacob lived in the land where his father had stayed, the land of Canaan."
+  } ],
   "rsbNotes" : [ ]
 }, {
-  "singleVerses" : [ "genesis,37,2" ],
+  "verses" : [ {
+    "verse" : "genesis,37,2",
+    "text" : "This is the account of Jacob. Joseph, a young man of seventeen, was tending the flocks with his brothers, the sons of Bilhah and the sons of Zilpah, his father's wives, and he brought their father a bad report about them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,37,2-genesis,50,26",
     "id" : 185362,
@@ -15,7 +21,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 37:2\">37:2</a></b> <b>the generations of Jacob.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Gen 2:4\">2:4</a>.</p><p><b>sons of Bilhah and Zilpah.</b> Dan, Naphtali, Gad, and Asher (<a class=\"bibleref\" href=\"/passage/?search=Gen 30:4-Gen 30:13\">30:4–13</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,37,3" ],
+  "verses" : [ {
+    "verse" : "genesis,37,3",
+    "text" : "Now Israel loved Joseph more than any of his other sons, because he had been born to him in his old age; and he made a richly ornamented robe for him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,37,3",
     "id" : 185364,
@@ -23,7 +32,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 37:3\">37:3</a></b> <b>loved.</b> Parental favoritism again promoted family discord, deception, and the disappearance of the preferred son, but God graciously used it to achieve His good purpose (cf. <a class=\"bibleref\" href=\"/passage/?search=Gen 25:28\">25:28</a>).</p><p><b>old age.</b> See <a class=\"bibleref\" href=\"/passage/?search=Gen 30:22-Gen 30:24\">30:22–24</a>.</p><p><b>robe of many colors.</b> A sign of Joseph’s preferential status (cf. <a class=\"bibleref\" href=\"/passage/?search=2Sam 13:18\">2 Sam. 13:18</a>), and a galling reminder to Joseph’s brothers of their father’s favoritism. The exact nature of the coat is uncertain. The rendering “of many colors” reflects the Septuagint (Greek Old Testament) translation. Some suggest that the Hebrew means a “long coat with sleeves.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,37,4" ],
+  "verses" : [ {
+    "verse" : "genesis,37,4",
+    "text" : "When his brothers saw that their father loved him more than any of them, they hated him and could not speak a kind word to him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,37,4",
     "id" : 185365,
@@ -31,7 +43,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 37:4\">37:4</a></b> <b>could not speak peacefully to him.</b> Or, “could not greet him with peace.” The greeting, or salutation, was a crucial element of ancient etiquette (cf. <a class=\"bibleref\" href=\"/passage/?search=1Sam 25:6\">1 Sam. 25:6</a>). Such a failure to extend the greeting indicated the depth of their animosity.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,37,5", "genesis,37,6" ],
+  "verses" : [ {
+    "verse" : "genesis,37,5",
+    "text" : "Joseph had a dream, and when he told it to his brothers, they hated him all the more."
+  }, {
+    "verse" : "genesis,37,6",
+    "text" : "He said to them, \"Listen to this dream I had:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,37,5",
     "id" : 185366,
@@ -39,7 +57,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 37:5\">37:5</a></b> <b>dream.</b> As in certain other Genesis narratives, the key to the Joseph story is given in an opening revelation (cf. <a class=\"bibleref\" href=\"/passage/?search=Gen 12:1-Gen 12:3\">12:1–3</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 25:22\">25:22</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 25:23\">23</a>). This prophetic dream shows that God’s sovereign purpose lay behind all the events of the narrative (<a class=\"bibleref\" href=\"/passage/?search=Gen 45:5-Gen 45:8\">45:5–8</a>). See note <a class=\"bibleref\" href=\"/passage/?search=Gen 20:3\">20:3</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,37,7" ],
+  "verses" : [ {
+    "verse" : "genesis,37,7",
+    "text" : "We were binding sheaves of grain out in the field when suddenly my sheaf rose and stood upright, while your sheaves gathered around mine and bowed down to it.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,37,7",
     "id" : 185367,
@@ -47,7 +68,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 37:7\">37:7</a></b> <b>bowed down.</b> See <a class=\"bibleref\" href=\"/passage/?search=Gen 42:6\">42:6</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 43:26\">43:26</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 44:14\">44:14</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,37,8" ],
+  "verses" : [ {
+    "verse" : "genesis,37,8",
+    "text" : "His brothers said to him, \"Do you intend to reign over us? Will you actually rule us?\" And they hated him all the more because of his dream and what he had said."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,37,8",
     "id" : 185368,
@@ -55,7 +79,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 37:8\">37:8</a></b> <b>reign.</b> Their rhetorical question was later answered when Joseph came to rule “over all the land of Egypt” (<a class=\"bibleref\" href=\"/passage/?search=Gen 41:43\">41:43</a>) and then over the covenant family living in Egypt. Joseph’s status as head of the covenant family was confirmed when he received “the birthright” from his father Jacob (<a class=\"bibleref\" href=\"/passage/?search=1Chr 5:2\">1 Chr. 5:2</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Deut 33:16\">Deut. 33:16</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,37,9" ],
+  "verses" : [ {
+    "verse" : "genesis,37,9",
+    "text" : "Then he had another dream, and he told it to his brothers. \"Listen,\" he said, \"I had another dream, and this time the sun and moon and eleven stars were bowing down to me.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,37,9",
     "id" : 185369,
@@ -63,7 +90,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 37:9\">37:9</a></b> <b>another dream.</b> The reiteration of the theme in Joseph’s second dream, like the similar repetition in Pharaoh’s dreams (<a class=\"bibleref\" href=\"/passage/?search=Gen 41:1-Gen 41:7\">41:1–7</a>), shows that the matter was determined by God and would quickly come to pass (<a class=\"bibleref\" href=\"/passage/?search=Gen 41:32\">41:32</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,37,10" ],
+  "verses" : [ {
+    "verse" : "genesis,37,10",
+    "text" : "When he told his father as well as his brothers, his father rebuked him and said, \"What is this dream you had? Will your mother and I and your brothers actually come and bow down to the ground before you?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,37,10",
     "id" : 185370,
@@ -71,7 +101,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 37:10\">37:10</a></b> <b>mother.</b> Probably a reference to Joseph’s stepmother Leah; his mother Rachel had earlier died in childbirth (<a class=\"bibleref\" href=\"/passage/?search=Gen 35:16-Gen 35:20\">35:16–20</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,37,11", "genesis,37,12", "genesis,37,13", "genesis,37,14" ],
+  "verses" : [ {
+    "verse" : "genesis,37,11",
+    "text" : "His brothers were jealous of him, but his father kept the matter in mind."
+  }, {
+    "verse" : "genesis,37,12",
+    "text" : "Now his brothers had gone to graze their father's flocks near Shechem,"
+  }, {
+    "verse" : "genesis,37,13",
+    "text" : "and Israel said to Joseph, \"As you know, your brothers are grazing the flocks near Shechem. Come, I am going to send you to them.Very well,\" he replied."
+  }, {
+    "verse" : "genesis,37,14",
+    "text" : "So he said to him, \"Go and see if all is well with your brothers and with the flocks, and bring word back to me.\" Then he sent him off from the Valley of Hebron. When Joseph arrived at Shechem,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,37,11",
     "id" : 185371,
@@ -79,7 +121,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 37:11\">37:11</a></b> <b>kept the saying in mind.</b> This statement perhaps anticipates Jacob’s later decision to give Joseph the birthright and double portion (<a class=\"bibleref\" href=\"/passage/?search=Gen 37:8\">v. 8</a> note; <a class=\"bibleref\" href=\"/passage/?search=Gen 48:5\">48:5</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 48:6\">6</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,37,15", "genesis,37,16", "genesis,37,17", "genesis,37,18", "genesis,37,19", "genesis,37,20" ],
+  "verses" : [ {
+    "verse" : "genesis,37,15",
+    "text" : "a man found him wandering around in the fields and asked him, \"What are you looking for?\""
+  }, {
+    "verse" : "genesis,37,16",
+    "text" : "He replied, \"I'm looking for my brothers. Can you tell me where they are grazing their flocks?\""
+  }, {
+    "verse" : "genesis,37,17",
+    "text" : "\"They have moved on from here,\" the man answered. \"I heard them say, 'Let's go to Dothan.'\" So Joseph went after his brothers and found them near Dothan."
+  }, {
+    "verse" : "genesis,37,18",
+    "text" : "But they saw him in the distance, and before he reached them, they plotted to kill him."
+  }, {
+    "verse" : "genesis,37,19",
+    "text" : "\"Here comes that dreamer!\" they said to each other."
+  }, {
+    "verse" : "genesis,37,20",
+    "text" : "\"Come now, let's kill him and throw him into one of these cisterns and say that a ferocious animal devoured him. Then we'll see what comes of his dreams.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,37,15",
     "id" : 185372,
@@ -87,7 +147,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 37:15\">37:15</a></b> <b>wandering in the fields.</b> Because of this divinely ordained delay the Ishmaelites arrived at just the right time (<a class=\"bibleref\" href=\"/passage/?search=Gen 37:21-Gen 37:28\">vv. 21–28</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,37,21", "genesis,37,22", "genesis,37,23", "genesis,37,24" ],
+  "verses" : [ {
+    "verse" : "genesis,37,21",
+    "text" : "When Reuben heard this, he tried to rescue him from their hands. \"Let's not take his life,\" he said."
+  }, {
+    "verse" : "genesis,37,22",
+    "text" : "\"Don't shed any blood. Throw him into this cistern here in the desert, but don't lay a hand on him.\" Reuben said this to rescue him from them and take him back to his father."
+  }, {
+    "verse" : "genesis,37,23",
+    "text" : "So when Joseph came to his brothers, they stripped him of his robe-the richly ornamented robe he was wearing-"
+  }, {
+    "verse" : "genesis,37,24",
+    "text" : "and they took him and threw him into the cistern. Now the cistern was empty; there was no water in it."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,37,21",
     "id" : 185373,
@@ -95,7 +167,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 37:21\">37:21</a></b> <b>Reuben . . . rescued him.</b> As the eldest brother (<a class=\"bibleref\" href=\"/passage/?search=Gen 29:32\">29:32</a>), Reuben assumed leadership in Jacob’s absence and was responsible for the safety of his brothers (<a class=\"bibleref\" href=\"/passage/?search=Gen 29:29\">vv. 29</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 29:30\">30</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,37,25", "genesis,37,26" ],
+  "verses" : [ {
+    "verse" : "genesis,37,25",
+    "text" : "As they sat down to eat their meal, they looked up and saw a caravan of Ishmaelites coming from Gilead. Their camels were loaded with spices, balm and myrrh, and they were on their way to take them down to Egypt."
+  }, {
+    "verse" : "genesis,37,26",
+    "text" : "Judah said to his brothers, \"What will we gain if we kill our brother and cover up his blood?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,37,25",
     "id" : 185374,
@@ -103,7 +181,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 37:25\">37:25</a></b> <b>they sat down to eat.</b> The brothers later acknowledged the heartlessness of their behavior (<a class=\"bibleref\" href=\"/passage/?search=Gen 42:21\">42:21</a>).</p><p><b>Ishmaelites.</b> These traders are also identified as Midianites (<a class=\"bibleref\" href=\"/passage/?search=Gen 42:28\">v. 28</a>). Both groups were descended from Abraham and had no doubt intermarried (<a class=\"bibleref\" href=\"/passage/?search=Gen 25:2\">25:2</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 25:12\">12</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,37,27" ],
+  "verses" : [ {
+    "verse" : "genesis,37,27",
+    "text" : "Come, let's sell him to the Ishmaelites and not lay our hands on him; after all, he is our brother, our own flesh and blood.\" His brothers agreed."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,37,27",
     "id" : 185375,
@@ -111,7 +192,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 37:27\">37:27</a></b> <b>sell him.</b> Note the later prohibition in the Mosaic law against kidnapping (<a class=\"bibleref\" href=\"/passage/?search=Exod 21:16\">Ex. 21:16</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 24:7\">Deut. 24:7</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,37,28", "genesis,37,29" ],
+  "verses" : [ {
+    "verse" : "genesis,37,28",
+    "text" : "So when the Midianite merchants came by, his brothers pulled Joseph up out of the cistern and sold him for twenty shekels of silver to the Ishmaelites, who took him to Egypt."
+  }, {
+    "verse" : "genesis,37,29",
+    "text" : "When Reuben returned to the cistern and saw that Joseph was not there, he tore his clothes."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,37,28",
     "id" : 185376,
@@ -119,7 +206,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 37:28\">37:28</a></b> <b>twenty shekels.</b> See <a class=\"bibleref\" href=\"/passage/?search=Lev 27:5\">Lev. 27:5</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,37,30" ],
+  "verses" : [ {
+    "verse" : "genesis,37,30",
+    "text" : "He went back to his brothers and said, \"The boy isn't there! Where can I turn now?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,37,30",
     "id" : 185377,
@@ -127,7 +217,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 37:30\">37:30</a></b> <b>where shall I go.</b> Under such circumstances, Reuben dreaded returning to his father, to whom he must give an account (<a class=\"bibleref\" href=\"/passage/?search=Gen 37:21\">v. 21</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,37,31", "genesis,37,32", "genesis,37,33", "genesis,37,34", "genesis,37,35" ],
+  "verses" : [ {
+    "verse" : "genesis,37,31",
+    "text" : "Then they got Joseph's robe, slaughtered a goat and dipped the robe in the blood."
+  }, {
+    "verse" : "genesis,37,32",
+    "text" : "They took the ornamented robe back to their father and said, \"We found this. Examine it to see whether it is your son's robe.\""
+  }, {
+    "verse" : "genesis,37,33",
+    "text" : "He recognized it and said, \"It is my son's robe! Some ferocious animal has devoured him. Joseph has surely been torn to pieces.\""
+  }, {
+    "verse" : "genesis,37,34",
+    "text" : "Then Jacob tore his clothes, put on sackcloth and mourned for his son many days."
+  }, {
+    "verse" : "genesis,37,35",
+    "text" : "All his sons and daughters came to comfort him, but he refused to be comforted. \"No,\" he said, \"in mourning will I go down to the grave to my son.\" So his father wept for him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,37,31-genesis,37,33",
     "id" : 185378,
@@ -135,7 +240,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 37:31-Gen 37:33\">37:31–33</a></b> Note the irony of these verses. Having deceived his father Isaac with goat skins (<a class=\"bibleref\" href=\"/passage/?search=Gen 27:9\">27:9</a>) and with Esau’s clothing (<a class=\"bibleref\" href=\"/passage/?search=Gen 27:27\">27:27</a>), Jacob here is deceived by goat’s blood on his son’s clothes.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,37,36" ],
+  "verses" : [ {
+    "verse" : "genesis,37,36",
+    "text" : "Meanwhile, the Midianites sold Joseph in Egypt to Potiphar, one of Pharaoh's officials, the captain of the guard."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,37,36",
     "id" : 185379,
@@ -143,7 +251,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 37:36\">37:36</a></b> <b>Potiphar.</b> This Egyptian name means, “he whom [the sun god] Ra has given.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,38,1" ],
+  "verses" : [ {
+    "verse" : "genesis,38,1",
+    "text" : "At that time, Judah left his brothers and went down to stay with a man of Adullam named Hirah."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,38,1-genesis,38,30",
     "id" : 185380,
@@ -156,7 +267,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 38:1\">38:1</a></b> <b>Judah went down.</b> From Hebron in the hill country to the lowlands (<a class=\"bibleref\" href=\"/passage/?search=Gen 35:27\">35:27</a>). The family further degenerates by disloyalty.</p><p><b>Adullamite.</b> An inhabitant of the royal Canaanite city of Adullam (<a class=\"bibleref\" href=\"/passage/?search=Josh 12:15\">Josh. 12:15</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,38,2", "genesis,38,3", "genesis,38,4" ],
+  "verses" : [ {
+    "verse" : "genesis,38,2",
+    "text" : "There Judah met the daughter of a Canaanite man named Shua. He married her and lay with her;"
+  }, {
+    "verse" : "genesis,38,3",
+    "text" : "she became pregnant and gave birth to a son, who was named Er."
+  }, {
+    "verse" : "genesis,38,4",
+    "text" : "She conceived again and gave birth to a son and named him Onan."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,38,2",
     "id" : 185382,
@@ -164,7 +284,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 38:2\">38:2</a></b> <b>Canaanite.</b> See <a class=\"bibleref\" href=\"/passage/?search=Gen 9:25\">9:25</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 9:26\">26</a> and notes.</p><p><b>took her.</b> See <a class=\"bibleref\" href=\"/passage/?search=Gen 24:3\">24:3</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 26:34\">26:34</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 26:35\">35</a> and notes.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,38,5", "genesis,38,6", "genesis,38,7" ],
+  "verses" : [ {
+    "verse" : "genesis,38,5",
+    "text" : "She gave birth to still another son and named him Shelah. It was at Kezib that she gave birth to him."
+  }, {
+    "verse" : "genesis,38,6",
+    "text" : "Judah got a wife for Er, his firstborn, and her name was Tamar."
+  }, {
+    "verse" : "genesis,38,7",
+    "text" : "But Er, Judah's firstborn, was wicked in the LORD's sight; so the LORD put him to death."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,38,5",
     "id" : 185383,
@@ -172,7 +301,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 38:5\">38:5</a></b> <b>Chezib.</b> A town near Adullam (<a class=\"bibleref\" href=\"/passage/?search=Gen 38:1\">v. 1</a> note). The mention of this Canaanite town, the name of which means “deceptive,” underscores the theme of deception in the story of Jacob and his family.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,38,8" ],
+  "verses" : [ {
+    "verse" : "genesis,38,8",
+    "text" : "Then Judah said to Onan, \"Lie with your brother's wife and fulfill your duty to her as a brother-in-law to produce offspring for your brother.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,38,8",
     "id" : 185384,
@@ -180,7 +312,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 38:8\">38:8</a></b> <b>raise up offspring for your brother.</b> The first reference in Scripture to the widespread ancient custom of levirate marriage, whereby the brother of a deceased man (who lacked a heir) was expected to marry the widow. The offspring were considered children and heirs of the deceased. See note <a class=\"bibleref\" href=\"/passage/?search=Deut 25:5\">Deut. 25:5</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,38,9", "genesis,38,10" ],
+  "verses" : [ {
+    "verse" : "genesis,38,9",
+    "text" : "But Onan knew that the offspring would not be his; so whenever he lay with his brother's wife, he spilled his semen on the ground to keep from producing offspring for his brother."
+  }, {
+    "verse" : "genesis,38,10",
+    "text" : "What he did was wicked in the LORD's sight; so he put him to death also."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,38,9",
     "id" : 185385,
@@ -188,7 +326,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 38:9\">38:9</a></b> <b>so as not to give offspring to his brother.</b> Because the deceased Er was the firstborn, his heir would have inherited his position of family leadership and double portion (<a class=\"bibleref\" href=\"/passage/?search=Gen 37:11\">37:11</a> note). Desiring the place of firstborn for himself, second-born Onan (<a class=\"bibleref\" href=\"/passage/?search=Gen 37:4\">v. 4</a>) had intercourse with Tamar but prevented conception of a child. In so doing he was unfair to both his deceased brother and Tamar.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,38,11", "genesis,38,12" ],
+  "verses" : [ {
+    "verse" : "genesis,38,11",
+    "text" : "Judah then said to his daughter-in-law Tamar, \"Live as a widow in your father's house until my son Shelah grows up.\" For he thought, \"He may die too, just like his brothers.\" So Tamar went to live in her father's house."
+  }, {
+    "verse" : "genesis,38,12",
+    "text" : "After a long time Judah's wife, the daughter of Shua, died. When Judah had recovered from his grief, he went up to Timnah, to the men who were shearing his sheep, and his friend Hirah the Adullamite went with him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,38,11",
     "id" : 185386,
@@ -196,7 +340,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 38:11\">38:11</a></b> <b>for he feared.</b> Failing to perceive God’s judgment on his folly and on his wicked sons, Judah superstitiously regarded Tamar as a wife who brings misfortune. Because Judah was not about to risk the life of his third son, Tamar’s future (which depended on having offspring) was bleak.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,38,13" ],
+  "verses" : [ {
+    "verse" : "genesis,38,13",
+    "text" : "When Tamar was told, \"Your father-in-law is on his way to Timnah to shear his sheep,\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,38,13",
     "id" : 185387,
@@ -204,7 +351,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 38:13\">38:13</a></b> <b>to shear his sheep.</b> Judah departed with his Canaanite friend Hirah (<a class=\"bibleref\" href=\"/passage/?search=Gen 38:1\">v. 1</a>) to attend the sheep-shearing, an event marked by a great feast. This provided Tamar with an opportunity to effect her plan.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,38,14", "genesis,38,15", "genesis,38,16", "genesis,38,17" ],
+  "verses" : [ {
+    "verse" : "genesis,38,14",
+    "text" : "she took off her widow's clothes, covered herself with a veil to disguise herself, and then sat down at the entrance to Enaim, which is on the road to Timnah. For she saw that, though Shelah had now grown up, she had not been given to him as his wife."
+  }, {
+    "verse" : "genesis,38,15",
+    "text" : "When Judah saw her, he thought she was a prostitute, for she had covered her face."
+  }, {
+    "verse" : "genesis,38,16",
+    "text" : "Not realizing that she was his daughter-in-law, he went over to her by the roadside and said, \"Come now, let me sleep with you.And what will you give me to sleep with you?\" she asked."
+  }, {
+    "verse" : "genesis,38,17",
+    "text" : "\"I'll send you a young goat from my flock,\" he said. \"Will you give me something as a pledge until you send it?\" she asked."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,38,14",
     "id" : 185388,
@@ -212,7 +371,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 38:14\">38:14</a></b> <b>garments.</b> Once again clothing plays a part in deception (<a class=\"bibleref\" href=\"/passage/?search=Gen 37:31-Gen 37:33\">37:31–33</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,38,18", "genesis,38,19", "genesis,38,20" ],
+  "verses" : [ {
+    "verse" : "genesis,38,18",
+    "text" : "He said, \"What pledge should I give you?Your seal and its cord, and the staff in your hand,\" she answered. So he gave them to her and slept with her, and she became pregnant by him."
+  }, {
+    "verse" : "genesis,38,19",
+    "text" : "After she left, she took off her veil and put on her widow's clothes again."
+  }, {
+    "verse" : "genesis,38,20",
+    "text" : "Meanwhile Judah sent the young goat by his friend the Adullamite in order to get his pledge back from the woman, but he did not find her."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,38,18",
     "id" : 185389,
@@ -220,7 +388,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 38:18\">38:18</a></b> <b>Your signet and your cord.</b> A cylinder seal, worn on a cord around the neck, was the insignia of a prominent man. He signed contracts by rolling the seal over the clay on which the contract was etched.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,38,21", "genesis,38,22", "genesis,38,23" ],
+  "verses" : [ {
+    "verse" : "genesis,38,21",
+    "text" : "He asked the men who lived there, \"Where is the shrine prostitute who was beside the road at Enaim?There hasn't been any shrine prostitute here,\" they said."
+  }, {
+    "verse" : "genesis,38,22",
+    "text" : "So he went back to Judah and said, \"I didn't find her. Besides, the men who lived there said, 'There hasn't been any shrine prostitute here.'\""
+  }, {
+    "verse" : "genesis,38,23",
+    "text" : "Then Judah said, \"Let her keep what she has, or we will become a laughingstock. After all, I did send her this young goat, but you didn't find her.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,38,21",
     "id" : 185390,
@@ -228,7 +405,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 38:21\">38:21</a></b> <b>prostitute.</b> Out of deference to Judah, his friend here used a more respectable term meaning “shrine prostitute” (a different Hebrew word is translated “prostitue” in <a class=\"bibleref\" href=\"/passage/?search=Gen 38:15\">v. 15</a>). Cultic prostitution was integral to the Canaanite fertility religions, and was later a persistent snare to Israel (<a class=\"bibleref\" href=\"/passage/?search=Deut 23:17\">Deut. 23:17</a>; <a class=\"bibleref\" href=\"/passage/?search=1Kgs 14:24\">1 Kin. 14:24</a> text note; <a class=\"bibleref\" href=\"/passage/?search=2Kgs 23:7\">2 Kin. 23:7</a> text note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,38,24", "genesis,38,25" ],
+  "verses" : [ {
+    "verse" : "genesis,38,24",
+    "text" : "About three months later Judah was told, \"Your daughter-in-law Tamar is guilty of prostitution, and as a result she is now pregnant.\" Judah said, \"Bring her out and have her burned to death!\""
+  }, {
+    "verse" : "genesis,38,25",
+    "text" : "As she was being brought out, she sent a message to her father-in-law. \"I am pregnant by the man who owns these,\" she said. And she added, \"See if you recognize whose seal and cord and staff these are.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,38,24",
     "id" : 185391,
@@ -236,7 +419,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 38:24\">38:24</a></b> <b>burned.</b> A punishment later codified in the Mosaic law for a priest’s daughter who prostituted herself (<a class=\"bibleref\" href=\"/passage/?search=Lev 21:9\">Lev. 21:9</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Deut 22:21\">Deut. 22:21</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,38,26" ],
+  "verses" : [ {
+    "verse" : "genesis,38,26",
+    "text" : "Judah recognized them and said, \"She is more righteous than I, since I wouldn't give her to my son Shelah.\" And he did not sleep with her again."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,38,26",
     "id" : 185392,
@@ -244,7 +430,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 38:26\">38:26</a></b> <b>more righteous than I.</b> Though she played on Judah’s vice, Tamar was commended for her daring ruse to redress Judah’s wrong and build up her family. Thus she became a heroine in Israel (<a class=\"bibleref\" href=\"/passage/?search=Ruth 4:12\">Ruth 4:12</a>).</p><p><b>did not know her again.</b> To do so would have made him guilty of incest.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,38,27", "genesis,38,28" ],
+  "verses" : [ {
+    "verse" : "genesis,38,27",
+    "text" : "When the time came for her to give birth, there were twin boys in her womb."
+  }, {
+    "verse" : "genesis,38,28",
+    "text" : "As she was giving birth, one of them put out his hand; so the midwife took a scarlet thread and tied it on his wrist and said, \"This one came out first.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,38,27-genesis,38,30",
     "id" : 185393,
@@ -252,7 +444,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 38:27-Gen 38:30\">38:27–30</a></b> Another notable birth of twins where the identity of the firstborn is crucial to the story (cf. <a class=\"bibleref\" href=\"/passage/?search=Gen 25:21-Gen 25:34\">25:21–34</a>). Having identified one child as the firstborn with a thread, the midwife is surprised when the other twin is born first.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,38,29", "genesis,38,30" ],
+  "verses" : [ {
+    "verse" : "genesis,38,29",
+    "text" : "But when he drew back his hand, his brother came out, and she said, \"So this is how you have broken out!\" And he was named Perez."
+  }, {
+    "verse" : "genesis,38,30",
+    "text" : "Then his brother, who had the scarlet thread on his wrist, came out and he was given the name Zerah."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,38,29",
     "id" : 185394,

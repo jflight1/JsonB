@@ -1,5 +1,14 @@
 [ {
-  "singleVerses" : [ "leviticus,20,22", "leviticus,20,23", "leviticus,20,24" ],
+  "verses" : [ {
+    "verse" : "leviticus,20,22",
+    "text" : "\"'Keep all my decrees and laws and follow them, so that the land where I am bringing you to live may not vomit you out."
+  }, {
+    "verse" : "leviticus,20,23",
+    "text" : "You must not live according to the customs of the nations I am going to drive out before you. Because they did all these things, I abhorred them."
+  }, {
+    "verse" : "leviticus,20,24",
+    "text" : "But I said to you, \"You will possess their land; I will give it to you as an inheritance, a land flowing with milk and honey.\" I am the LORD your God, who has set you apart from the nations."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,17,1-leviticus,27,34",
     "id" : 186098,
@@ -12,7 +21,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 20\">20:1–27</a></b> The instruction here repeats many of the same points of <a class=\"bibleref\" href=\"/passage/?search=Lev 18\">chs. 18</a>; <a class=\"bibleref\" href=\"/passage/?search=Lev 19\">19</a> (for parallel verses, consult the cross-references), but with the addition of prescribed penalties. The death penalty is indicated for many offenses, pointing to the horror with which God viewed them (cf. <a class=\"bibleref\" href=\"/passage/?search=Rom 1:18-Rom 1:32\">Rom. 1:18–32</a>). In other cases divine penalties, such as cutting off (7:20 note), are mentioned; these cover situations where detection might be difficult (v. 18) or family solidarity might make the head of the family reluctant to punish (v. 17).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,20,25", "leviticus,20,26" ],
+  "verses" : [ {
+    "verse" : "leviticus,20,25",
+    "text" : "\"'You must therefore make a distinction between clean and unclean animals and between unclean and clean birds. Do not defile yourselves by any animal or bird or anything that moves along the ground-those which I have set apart as unclean for you."
+  }, {
+    "verse" : "leviticus,20,26",
+    "text" : "You are to be holy to me because I, the LORD, am holy, and I have set you apart from the nations to be my own."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,20,25",
     "id" : 186127,
@@ -20,7 +35,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 20:25\">20:25</a></b> See notes on <a class=\"bibleref\" href=\"/passage/?search=Lev 11\">ch. 11</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,20,27" ],
+  "verses" : [ {
+    "verse" : "leviticus,20,27",
+    "text" : "\"'A man or woman who is a medium or spiritist among you must be put to death. You are to stone them; their blood will be on their own heads.'\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,20,27",
     "id" : 186128,
@@ -28,7 +46,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 20:27\">20:27</a></b> See note on <a class=\"bibleref\" href=\"/passage/?search=Lev 20:6\">v. 6</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,21,1", "leviticus,21,2", "leviticus,21,3", "leviticus,21,4" ],
+  "verses" : [ {
+    "verse" : "leviticus,21,1",
+    "text" : "The LORD said to Moses, \"Speak to the priests, the sons of Aaron, and say to them: 'A priest must not make himself ceremonially unclean for any of his people who die,"
+  }, {
+    "verse" : "leviticus,21,2",
+    "text" : "except for a close relative, such as his mother or father, his son or daughter, his brother,"
+  }, {
+    "verse" : "leviticus,21,3",
+    "text" : "or an unmarried sister who is dependent on him since she has no husband-for her he may make himself unclean."
+  }, {
+    "verse" : "leviticus,21,4",
+    "text" : "He must not make himself unclean for people related to him by marriage, and so defile himself."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,21,1-leviticus,21,24",
     "id" : 186129,
@@ -41,7 +71,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 21:1\">21:1</a></b> Holiness (life) and death are incompatible; therefore priests could not mourn for any save their closest relatives (<a class=\"bibleref\" href=\"/passage/?search=Lev 21:2-Lev 21:3\">vv. 2–3</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,21,5", "leviticus,21,6", "leviticus,21,7", "leviticus,21,8", "leviticus,21,9" ],
+  "verses" : [ {
+    "verse" : "leviticus,21,5",
+    "text" : "\"'Priests must not shave their heads or shave off the edges of their beards or cut their bodies."
+  }, {
+    "verse" : "leviticus,21,6",
+    "text" : "They must be holy to their God and must not profane the name of their God. Because they present the offerings made to the LORD by fire, the food of their God, they are to be holy."
+  }, {
+    "verse" : "leviticus,21,7",
+    "text" : "\"'They must not marry women defiled by prostitution or divorced from their husbands, because priests are holy to their God."
+  }, {
+    "verse" : "leviticus,21,8",
+    "text" : "Regard them as holy, because they offer up the food of your God. Consider them holy, because I the LORD am holy-I who make you holy."
+  }, {
+    "verse" : "leviticus,21,9",
+    "text" : "\"'If a priest's daughter defiles herself by becoming a prostitute, she disgraces her father; she must be burned in the fire."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,21,5",
     "id" : 186131,
@@ -49,7 +94,58 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 21:5\">21:5</a></b> Mourning customs involving disfigurement of the body were also banned, for priests as holy men had to have whole bodies (<a class=\"bibleref\" href=\"/passage/?search=Deut 14:1\">Deut. 14:1</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,21,10", "leviticus,21,11", "leviticus,21,12", "leviticus,21,13", "leviticus,21,14", "leviticus,21,15", "leviticus,21,16", "leviticus,21,17", "leviticus,21,18", "leviticus,21,19", "leviticus,21,20", "leviticus,21,21", "leviticus,21,22", "leviticus,21,23", "leviticus,21,24", "leviticus,22,1", "leviticus,22,2" ],
+  "verses" : [ {
+    "verse" : "leviticus,21,10",
+    "text" : "\"'The high priest, the one among his brothers who has had the anointing oil poured on his head and who has been ordained to wear the priestly garments, must not let his hair become unkempt or tear his clothes."
+  }, {
+    "verse" : "leviticus,21,11",
+    "text" : "He must not enter a place where there is a dead body. He must not make himself unclean, even for his father or mother,"
+  }, {
+    "verse" : "leviticus,21,12",
+    "text" : "nor leave the sanctuary of his God or desecrate it, because he has been dedicated by the anointing oil of his God. I am the LORD."
+  }, {
+    "verse" : "leviticus,21,13",
+    "text" : "\"'The woman he marries must be a virgin."
+  }, {
+    "verse" : "leviticus,21,14",
+    "text" : "He must not marry a widow, a divorced woman, or a woman defiled by prostitution, but only a virgin from his own people,"
+  }, {
+    "verse" : "leviticus,21,15",
+    "text" : "so he will not defile his offspring among his people. I am the LORD, who makes him holy. '\""
+  }, {
+    "verse" : "leviticus,21,16",
+    "text" : "The LORD said to Moses,"
+  }, {
+    "verse" : "leviticus,21,17",
+    "text" : "\"Say to Aaron: 'For the generations to come none of your descendants who has a defect may come near to offer the food of his God."
+  }, {
+    "verse" : "leviticus,21,18",
+    "text" : "No man who has any defect may come near: no man who is blind or lame, disfigured or deformed;"
+  }, {
+    "verse" : "leviticus,21,19",
+    "text" : "no man with a crippled foot or hand,"
+  }, {
+    "verse" : "leviticus,21,20",
+    "text" : "or who is hunchbacked or dwarfed, or who has any eye defect, or who has festering or running sores or damaged testicles."
+  }, {
+    "verse" : "leviticus,21,21",
+    "text" : "No descendant of Aaron the priest who has any defect is to come near to present the offerings made to the LORD by fire. He has a defect; he must not come near to offer the food of his God."
+  }, {
+    "verse" : "leviticus,21,22",
+    "text" : "He may eat the most holy food of his God, as well as the holy food;"
+  }, {
+    "verse" : "leviticus,21,23",
+    "text" : "yet because of his defect, he must not go near the curtain or approach the altar, and so desecrate my sanctuary. I am the LORD, who makes them holy. '\""
+  }, {
+    "verse" : "leviticus,21,24",
+    "text" : "So Moses told this to Aaron and his sons and to all the Israelites."
+  }, {
+    "verse" : "leviticus,22,1",
+    "text" : "The LORD said to Moses,"
+  }, {
+    "verse" : "leviticus,22,2",
+    "text" : "\"Tell Aaron and his sons to treat with respect the sacred offerings the Israelites consecrate to me, so they will not profane my holy name. I am the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,21,10-leviticus,21,12",
     "id" : 186132,
@@ -57,7 +153,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 21:10-Lev 21:12\">21:10–12</a></b> The high priest, representing man restored to fellowship with God, was obliged to avoid all contact with death (cf. <a class=\"bibleref\" href=\"/passage/?search=Lev 10:6\">10:6</a>, <a class=\"bibleref\" href=\"/passage/?search=Lev 10:7\">7</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,22,3", "leviticus,22,4", "leviticus,22,5", "leviticus,22,6", "leviticus,22,7", "leviticus,22,8", "leviticus,22,9" ],
+  "verses" : [ {
+    "verse" : "leviticus,22,3",
+    "text" : "\"Say to them: 'For the generations to come, if any of your descendants is ceremonially unclean and yet comes near the sacred offerings that the Israelites consecrate to the LORD, that person must be cut off from my presence. I am the LORD."
+  }, {
+    "verse" : "leviticus,22,4",
+    "text" : "\"'If a descendant of Aaron has an infectious skin disease or a bodily discharge, he may not eat the sacred offerings until he is cleansed. He will also be unclean if he touches something defiled by a corpse or by anyone who has an emission of semen,"
+  }, {
+    "verse" : "leviticus,22,5",
+    "text" : "or if he touches any crawling thing that makes him unclean, or any person who makes him unclean, whatever the uncleanness may be."
+  }, {
+    "verse" : "leviticus,22,6",
+    "text" : "The one who touches any such thing will be unclean till evening. He must not eat any of the sacred offerings unless he has bathed himself with water."
+  }, {
+    "verse" : "leviticus,22,7",
+    "text" : "When the sun goes down, he will be clean, and after that he may eat the sacred offerings, for they are his food."
+  }, {
+    "verse" : "leviticus,22,8",
+    "text" : "He must not eat anything found dead or torn by wild animals, and so become unclean through it. I am the LORD."
+  }, {
+    "verse" : "leviticus,22,9",
+    "text" : "\"'The priests are to keep my requirements so that they do not become guilty and die for treating them with contempt. I am the LORD, who makes them holy."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,22,3",
     "id" : 186133,
@@ -65,7 +182,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 22:3\">22:3</a></b> For any unclean person to eat holy food from a sacrifice was to risk death (<a class=\"bibleref\" href=\"/passage/?search=Lev 7:20-Lev 7:21\">7:20–21</a>). Uncleanness (death) and holiness (life) were not to mix.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,22,10", "leviticus,22,11", "leviticus,22,12", "leviticus,22,13" ],
+  "verses" : [ {
+    "verse" : "leviticus,22,10",
+    "text" : "\"'No one outside a priest's family may eat the sacred offering, nor may the guest of a priest or his hired worker eat it."
+  }, {
+    "verse" : "leviticus,22,11",
+    "text" : "But if a priest buys a slave with money, or if a slave is born in his household, that slave may eat his food."
+  }, {
+    "verse" : "leviticus,22,12",
+    "text" : "If a priest's daughter marries anyone other than a priest, she may not eat any of the sacred contributions."
+  }, {
+    "verse" : "leviticus,22,13",
+    "text" : "But if a priest's daughter becomes a widow or is divorced, yet has no children, and she returns to live in her father's house as in her youth, she may eat of her father's food. No unauthorized person, however, may eat any of it."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,22,10-leviticus,22,13",
     "id" : 186134,
@@ -73,7 +202,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 22:10-Lev 22:13\">22:10–13</a></b> These verses define which dependents of the priests were allowed to eat sacrificial food.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,22,14", "leviticus,22,15", "leviticus,22,16" ],
+  "verses" : [ {
+    "verse" : "leviticus,22,14",
+    "text" : "\"'If anyone eats a sacred offering by mistake, he must make restitution to the priest for the offering and add a fifth of the value to it."
+  }, {
+    "verse" : "leviticus,22,15",
+    "text" : "The priests must not desecrate the sacred offerings the Israelites present to the LORD"
+  }, {
+    "verse" : "leviticus,22,16",
+    "text" : "by allowing them to eat the sacred offerings and so bring upon them guilt requiring payment. I am the LORD, who makes them holy.'\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,22,14",
     "id" : 186135,

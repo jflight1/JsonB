@@ -1,5 +1,41 @@
 [ {
-  "singleVerses" : [ "matthew,22,1", "matthew,22,2", "matthew,22,3", "matthew,22,4", "matthew,22,5", "matthew,22,6", "matthew,22,7", "matthew,22,8", "matthew,22,9", "matthew,22,10", "matthew,22,11", "matthew,22,12" ],
+  "verses" : [ {
+    "verse" : "matthew,22,1",
+    "text" : "Jesus spoke to them again in parables, saying:"
+  }, {
+    "verse" : "matthew,22,2",
+    "text" : "\"The kingdom of heaven is like a king who prepared a wedding banquet for his son."
+  }, {
+    "verse" : "matthew,22,3",
+    "text" : "He sent his servants to those who had been invited to the banquet to tell them to come, but they refused to come."
+  }, {
+    "verse" : "matthew,22,4",
+    "text" : "\"Then he sent some more servants and said, 'Tell those who have been invited that I have prepared my dinner: My oxen and fattened cattle have been butchered, and everything is ready. Come to the wedding banquet.'"
+  }, {
+    "verse" : "matthew,22,5",
+    "text" : "\"But they paid no attention and went off--one to his field, another to his business."
+  }, {
+    "verse" : "matthew,22,6",
+    "text" : "The rest seized his servants, mistreated them and killed them."
+  }, {
+    "verse" : "matthew,22,7",
+    "text" : "The king was enraged. He sent his army and destroyed those murderers and burned their city."
+  }, {
+    "verse" : "matthew,22,8",
+    "text" : "\"Then he said to his servants, 'The wedding banquet is ready, but those I invited did not deserve to come."
+  }, {
+    "verse" : "matthew,22,9",
+    "text" : "Go to the street corners and invite to the banquet anyone you find.'"
+  }, {
+    "verse" : "matthew,22,10",
+    "text" : "So the servants went out into the streets and gathered all the people they could find, both good and bad, and the wedding hall was filled with guests."
+  }, {
+    "verse" : "matthew,22,11",
+    "text" : "\"But when the king came in to see the guests, he noticed a man there who was not wearing wedding clothes."
+  }, {
+    "verse" : "matthew,22,12",
+    "text" : "'Friend,' he asked, 'how did you get in here without wedding clothes?' The man was speechless."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,22,1-matthew,22,14",
     "id" : 195866,
@@ -7,7 +43,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 22:1-Matt 22:14\">22:1–14</a></b> Although there are similarities between this parable and <a class=\"bibleref\" href=\"/passage/?search=Luke 14:16-Luke 14:24\">Luke 14:16–24</a>, there are few verbal parallels and some great differences. They should be understood as different parables given on different occasions. The first part of the parable (vv. 1–10) continues the theme begun in the previous chapter that the heirs of the kingdom have rejected it, and the kingdom has been offered to others. God’s servants have the task of offering the gospel to all people (v. 9). The second part (vv. 11–14) affirms that receiving an invitation to God’s kingdom does not guarantee inclusion; one must be properly clothed (cf. <a class=\"bibleref\" href=\"/passage/?search=Zech 3:3-Zech 3:5\">Zech. 3:3–5</a>; <a class=\"bibleref\" href=\"/passage/?search=Rev 3:18\">Rev. 3:18</a>; <a class=\"bibleref\" href=\"/passage/?search=Rev 19:8\">19:8</a>). Although everyone who hears the gospel has been invited, and although many may claim to be in the kingdom, only those clothed with Christ’s righteousness are actually presentable to God. Only those who are chosen will be present at the marriage supper of the Lamb, and this election does not depend on any previous status (8:11, 12).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,22,13" ],
+  "verses" : [ {
+    "verse" : "matthew,22,13",
+    "text" : "\"Then the king told the attendants, 'Tie him hand and foot, and throw him outside, into the darkness, where there will be weeping and gnashing of teeth.'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,22,13",
     "id" : 195867,
@@ -15,7 +54,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 22:13\">22:13</a></b> <b>outer darkness.</b> A description of eternal punishment. There will be no middle ground between heaven and hell.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,22,14", "matthew,22,15", "matthew,22,16" ],
+  "verses" : [ {
+    "verse" : "matthew,22,14",
+    "text" : "\"For many are invited, but few are chosen.\""
+  }, {
+    "verse" : "matthew,22,15",
+    "text" : "Then the Pharisees went out and laid plans to trap him in his words."
+  }, {
+    "verse" : "matthew,22,16",
+    "text" : "They sent their disciples to him along with the Herodians. \"Teacher,\" they said, \"we know you are a man of integrity and that you teach the way of God in accordance with the truth. You aren't swayed by men, because you pay no attention to who they are."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,22,14",
     "id" : 195868,
@@ -23,7 +71,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 22:14\">22:14</a></b> <b>called . . . chosen.</b> See “Effectual Calling and Conversion” at <a class=\"bibleref\" href=\"/passage/?search=2Thess 2:14\">2 Thess. 2:14</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,22,17", "matthew,22,18", "matthew,22,19", "matthew,22,20" ],
+  "verses" : [ {
+    "verse" : "matthew,22,17",
+    "text" : "Tell us then, what is your opinion? Is it right to pay taxes to Caesar or not?\""
+  }, {
+    "verse" : "matthew,22,18",
+    "text" : "But Jesus, knowing their evil intent, said, \"You hypocrites, why are you trying to trap me?"
+  }, {
+    "verse" : "matthew,22,19",
+    "text" : "Show me the coin used for paying the tax.\" They brought him a denarius,"
+  }, {
+    "verse" : "matthew,22,20",
+    "text" : "and he asked them, \"Whose portrait is this? And whose inscription?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,22,17",
     "id" : 195869,
@@ -31,7 +91,37 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 22:17\">22:17</a></b> <b>taxes.</b> The hated poll tax symbolized submission to Rome. If Jesus simply advocated payment of the tax, He would alienate the people; if He encouraged nonpayment the Herodians would accuse Him of treason. Jesus’ answer turns the question to a deeper issue, ultimate allegiance to God. The coin bearing the image of Caesar belongs to him; human beings made in the image of God belong to God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,22,21", "matthew,22,22", "matthew,22,23", "matthew,22,24", "matthew,22,25", "matthew,22,26", "matthew,22,27", "matthew,22,28", "matthew,22,29", "matthew,22,30" ],
+  "verses" : [ {
+    "verse" : "matthew,22,21",
+    "text" : "\"Caesar's,\" they replied. Then he said to them, \"Give to Caesar what is Caesar's, and to God what is God's.\""
+  }, {
+    "verse" : "matthew,22,22",
+    "text" : "When they heard this, they were amazed. So they left him and went away."
+  }, {
+    "verse" : "matthew,22,23",
+    "text" : "That same day the Sadducees, who say there is no resurrection, came to him with a question."
+  }, {
+    "verse" : "matthew,22,24",
+    "text" : "\"Teacher,\" they said, \"Moses told us that if a man dies without having children, his brother must marry the widow and have children for him."
+  }, {
+    "verse" : "matthew,22,25",
+    "text" : "Now there were seven brothers among us. The first one married and died, and since he had no children, he left his wife to his brother."
+  }, {
+    "verse" : "matthew,22,26",
+    "text" : "The same thing happened to the second and third brother, right on down to the seventh."
+  }, {
+    "verse" : "matthew,22,27",
+    "text" : "Finally, the woman died."
+  }, {
+    "verse" : "matthew,22,28",
+    "text" : "Now then, at the resurrection, whose wife will she be of the seven, since all of them were married to her?\""
+  }, {
+    "verse" : "matthew,22,29",
+    "text" : "Jesus replied, \"You are in error because you do not know the Scriptures or the power of God."
+  }, {
+    "verse" : "matthew,22,30",
+    "text" : "At the resurrection people will neither marry nor be given in marriage; they will be like the angels in heaven."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,22,21",
     "id" : 195870,
@@ -39,7 +129,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 22:21\">22:21</a></b> <b>to Caesar.</b> See “Christians and Civil Government” at <a class=\"bibleref\" href=\"/passage/?search=Rom 13:1\">Rom. 13:1</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,22,31", "matthew,22,32", "matthew,22,33" ],
+  "verses" : [ {
+    "verse" : "matthew,22,31",
+    "text" : "But about the resurrection of the dead--have you not read what God said to you,"
+  }, {
+    "verse" : "matthew,22,32",
+    "text" : "'I am the God of Abraham, the God of Isaac, and the God of Jacob'? He is not the God of the dead but of the living.\""
+  }, {
+    "verse" : "matthew,22,33",
+    "text" : "When the crowds heard this, they were astonished at his teaching."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,22,31-matthew,22,32",
     "id" : 195871,

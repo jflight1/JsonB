@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "psalms,3,1", "psalms,3,2" ],
+  "verses" : [ {
+    "verse" : "psalms,3,1",
+    "text" : "O LORD, how many are my foes! How many rise up against me!"
+  }, {
+    "verse" : "psalms,3,2",
+    "text" : "Many are saying of me, \"God will not deliver him.\" Selah"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,3,1-psalms,3,8",
     "id" : 190211,
@@ -12,7 +18,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 3:1\">3:1</a></b> <b>Many . . . rising.</b> The number and nature of the foes betrays the royal origin of the psalm. The foes of the nation are also the king’s foes.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,3,3" ],
+  "verses" : [ {
+    "verse" : "psalms,3,3",
+    "text" : "But you are a shield around me, O LORD; you bestow glory on me and lift up my head."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,3,3",
     "id" : 190213,
@@ -20,7 +29,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 3:3\">3:3</a></b> <b>lifter of my head.</b> An expression of encouragement.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,3,4" ],
+  "verses" : [ {
+    "verse" : "psalms,3,4",
+    "text" : "To the LORD I cry aloud, and he answers me from his holy hill. Selah"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,3,4",
     "id" : 190214,
@@ -28,7 +40,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 3:4\">3:4</a></b> <b>holy hill.</b> That is, Zion (see note <a class=\"bibleref\" href=\"/passage/?search=Ps 2:6\">Ps. 2:6</a>). God designated Zion as the place where His people could approach Him through sacrifice.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,3,5", "psalms,3,6" ],
+  "verses" : [ {
+    "verse" : "psalms,3,5",
+    "text" : "I lie down and sleep; I wake again, because the LORD sustains me."
+  }, {
+    "verse" : "psalms,3,6",
+    "text" : "I will not fear the tens of thousands drawn up against me on every side."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,3,5",
     "id" : 190215,
@@ -36,7 +54,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 3:5\">3:5</a></b> <b>I lay down and slept.</b> As in <a class=\"bibleref\" href=\"/passage/?search=Ps 91\">Ps. 91</a>, the psalmist is able to sleep in the war camp, though the enemy surrounds him.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,3,7", "psalms,3,8" ],
+  "verses" : [ {
+    "verse" : "psalms,3,7",
+    "text" : "Arise, O LORD! Deliver me, O my God! Strike all my enemies on the jaw; break the teeth of the wicked."
+  }, {
+    "verse" : "psalms,3,8",
+    "text" : "From the LORD comes deliverance. May your blessing be on your people. Selah"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,3,7",
     "id" : 190216,

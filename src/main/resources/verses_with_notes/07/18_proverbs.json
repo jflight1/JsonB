@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,19,17" ],
+  "verses" : [ {
+    "verse" : "proverbs,19,17",
+    "text" : "He who is kind to the poor lends to the LORD, and he will reward him for what he has done."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

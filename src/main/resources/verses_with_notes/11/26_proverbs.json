@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,28,15" ],
+  "verses" : [ {
+    "verse" : "proverbs,28,15",
+    "text" : "Like a roaring lion or a charging bear is a wicked man ruling over a helpless people."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,28,1-proverbs,28,28",
     "id" : 192290,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 28:15\">28:15</a></b> See <a class=\"bibleref\" href=\"/passage/?search=Prov 28:3\">vv. 3</a>, <a class=\"bibleref\" href=\"/passage/?search=Prov 28:16\">16</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,28,16" ],
+  "verses" : [ {
+    "verse" : "proverbs,28,16",
+    "text" : "A tyrannical ruler lacks judgment, but he who hates ill-gotten gain will enjoy a long life."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,28,16",
     "id" : 192305,

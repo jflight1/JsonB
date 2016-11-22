@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,17,27" ],
+  "verses" : [ {
+    "verse" : "proverbs,17,27",
+    "text" : "A man of knowledge uses words with restraint, and a man of understanding is even-tempered."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 17:27\">17:27</a></b> <b>restrains.</b> That is, restrains his speech. This proverb contrasts with <a class=\"bibleref\" href=\"/passage/?search=Prov 16:27\">16:27</a>, <a class=\"bibleref\" href=\"/passage/?search=Prov 16:28\">28</a>. The wise know how to control their tongues.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,17,28" ],
+  "verses" : [ {
+    "verse" : "proverbs,17,28",
+    "text" : "Even a fool is thought wise if he keeps silent, and discerning if he holds his tongue."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,17,28",
     "id" : 192046,

@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "exodus,5,22", "exodus,5,23" ],
+  "verses" : [ {
+    "verse" : "exodus,5,22",
+    "text" : "Moses returned to the LORD and said, \"O Lord, why have you brought trouble upon this people? Is this why you sent me?"
+  }, {
+    "verse" : "exodus,5,23",
+    "text" : "Ever since I went to Pharaoh to speak in your name, he has brought trouble upon this people, and you have not rescued your people at all.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,5,22",
     "id" : 185619,
@@ -7,7 +13,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 5:22\">5:22</a></b> <b>Moses . . . said.</b> As a mediator, Moses speaks God’s Word to the people, and pleads the plight of the people to God. This pattern is repeated throughout Exodus. God’s reply (<a class=\"bibleref\" href=\"/passage/?search=Exod 6\">ch. 6</a>) gives assurance that the hopeless situation will be the occasion for His mighty action.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,6,1" ],
+  "verses" : [ {
+    "verse" : "exodus,6,1",
+    "text" : "Then the LORD said to Moses, \"Now you will see what I will do to Pharaoh: Because of my mighty hand he will let them go; because of my mighty hand he will drive them out of his country.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,6,1",
     "id" : 185620,
@@ -15,7 +24,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 6:1\">6:1</a></b> <b>drive.</b> The Lord’s power will more than prevail. Pharaoh will not only let them go, he will <i>drive</i> Israel out.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,6,2" ],
+  "verses" : [ {
+    "verse" : "exodus,6,2",
+    "text" : "God also said to Moses, \"I am the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,6,2-exodus,6,8",
     "id" : 185621,
@@ -23,7 +35,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 6:2-Exod 6:8\">6:2–8</a></b> Note the repeated use of the revelation (authority) formula, “I am the <span class=\"small-caps\">Lord</span>,” in these verses (vv. 2, 6–8). The use of God’s covenant name underscores the surety of His covenant promises and faithfulness (<a class=\"bibleref\" href=\"/passage/?search=Exod 3:15\">3:15</a> and notes).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,6,3" ],
+  "verses" : [ {
+    "verse" : "exodus,6,3",
+    "text" : "I appeared to Abraham, to Isaac and to Jacob as God Almighty, but by my name the LORD I did not make myself known to them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,6,3",
     "id" : 185622,
@@ -31,7 +46,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 6:3\">6:3</a></b> <b>God Almighty.</b> God had revealed Himself to the patriarchs as God Almighty (Hebrew <i>El Shaddai,</i> <a class=\"bibleref\" href=\"/passage/?search=Gen 17:1\">Gen. 17:1</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 28:3\">28:3</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 35:11\">35:11</a>). In Genesis, however, the name <i>Yahweh</i> is much more commonly used, perhaps only to identify the God of the fathers as Yahweh, the <span class=\"small-caps\">Lord</span>. Nevertheless, while some passages seem to imply the use of <i>Yahweh</i> from the earliest time (<a class=\"bibleref\" href=\"/passage/?search=Gen 4:26\">Gen. 4:26</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 9:26\">9:26</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 12:8\">12:8</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 24:12\">24:12</a>), it is not found as an element in personal names (<i>Ja-</i> or <i>Jo</i>) before the time of Moses, with the possible exception of Jochebed (6:20). In any case, God identifies Himself as El Shaddai, the God of the patriarchs, but reveals Himself afresh as Yahweh, the covenant God who claims and redeems Israel according to His gracious purpose.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,6,4" ],
+  "verses" : [ {
+    "verse" : "exodus,6,4",
+    "text" : "I also established my covenant with them to give them the land of Canaan, where they lived as aliens."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,6,4",
     "id" : 185623,
@@ -39,7 +57,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 6:4\">6:4</a></b> <b>my covenant.</b> Yahweh is also El Shaddai, the God of Abraham, Isaac, and Jacob. His covenant promise to these earlier patriarchs is His purpose for Israel. The continuity of the covenant is affirmed in <a class=\"bibleref\" href=\"/passage/?search=Exod 6:4\">vv. 4</a>, <a class=\"bibleref\" href=\"/passage/?search=Exod 6:5\">5</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,6,5" ],
+  "verses" : [ {
+    "verse" : "exodus,6,5",
+    "text" : "Moreover, I have heard the groaning of the Israelites, whom the Egyptians are enslaving, and I have remembered my covenant."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,6,5",
     "id" : 185624,
@@ -47,7 +68,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 6:5\">6:5</a></b> <b>remembered my covenant.</b> When used of God, “remembered” means that He is prepared to act on His promises, not simply recall them. This narrative affirms the inclusion in the Abrahamic covenant of all Israel.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,6,6" ],
+  "verses" : [ {
+    "verse" : "exodus,6,6",
+    "text" : "\"Therefore, say to the Israelites: 'I am the LORD, and I will bring you out from under the yoke of the Egyptians. I will free you from being slaves to them, and I will redeem you with an outstretched arm and with mighty acts of judgment."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,6,6",
     "id" : 185625,
@@ -55,7 +79,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 6:6\">6:6</a></b> <b>bring you out . . . redeem.</b> God’s reply to Moses’ complaint of <a class=\"bibleref\" href=\"/passage/?search=Exod 5:22-Exod 5:23\">5:22–23</a>. This is the central core of the section, a solemn assurance of redemption and of covenant reaffirmation.</p><p><b>redeem.</b> This term normally refers to the restoration of rights to a disadvantaged family member by the payment of a price or a ransom; such redemption was normally effected by the next of kin (<a class=\"bibleref\" href=\"/passage/?search=Lev 25:25\">Lev. 25:25</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Ruth 4\">Ruth 4</a>). Israel, as Yahweh’s son (4:22), was redeemed from Egypt to be God’s own people. Rescue, redemption, and covenant relation are the keys to the passage. The heart of the covenant is God’s claim on His people and the reciprocal claim that He allows them to make on Him.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,6,7", "exodus,6,8" ],
+  "verses" : [ {
+    "verse" : "exodus,6,7",
+    "text" : "I will take you as my own people, and I will be your God. Then you will know that I am the LORD your God, who brought you out from under the yoke of the Egyptians."
+  }, {
+    "verse" : "exodus,6,8",
+    "text" : "And I will bring you to the land I swore with uplifted hand to give to Abraham, to Isaac and to Jacob. I will give it to you as a possession. I am the LORD.'\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,6,7",
     "id" : 185626,
@@ -63,7 +93,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 6:7\">6:7</a></b> <b>my people.</b> This anticipates <a class=\"bibleref\" href=\"/passage/?search=Exod 19:5-Exod 19:6\">19:5–6</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,6,9", "exodus,6,10", "exodus,6,11", "exodus,6,12", "exodus,6,13" ],
+  "verses" : [ {
+    "verse" : "exodus,6,9",
+    "text" : "Moses reported this to the Israelites, but they did not listen to him because of their discouragement and cruel bondage."
+  }, {
+    "verse" : "exodus,6,10",
+    "text" : "Then the LORD said to Moses,"
+  }, {
+    "verse" : "exodus,6,11",
+    "text" : "\"Go, tell Pharaoh king of Egypt to let the Israelites go out of his country.\""
+  }, {
+    "verse" : "exodus,6,12",
+    "text" : "But Moses said to the LORD, \"If the Israelites will not listen to me, why would Pharaoh listen to me, since I speak with faltering lips?\""
+  }, {
+    "verse" : "exodus,6,13",
+    "text" : "Now the LORD spoke to Moses and Aaron about the Israelites and Pharaoh king of Egypt, and he commanded them to bring the Israelites out of Egypt."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,6,9-exodus,6,13",
     "id" : 185627,
@@ -71,7 +116,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 6:9-Exod 6:13\">6:9–13</a></b> God renews His demand for Israel’s release. The discouragement of Israel and Moses shows that the deliverance must be God’s work completely. In spite of God’s renewed promise, the people will not hear, and even Moses has difficulty believing that his mission will be effective.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,6,14", "exodus,6,15", "exodus,6,16", "exodus,6,17", "exodus,6,18", "exodus,6,19" ],
+  "verses" : [ {
+    "verse" : "exodus,6,14",
+    "text" : "These were the heads of their families: The sons of Reuben the firstborn son of Israel were Hanoch and Pallu, Hezron and Carmi. These were the clans of Reuben."
+  }, {
+    "verse" : "exodus,6,15",
+    "text" : "The sons of Simeon were Jemuel, Jamin, Ohad, Jakin, Zohar and Shaul the son of a Canaanite woman. These were the clans of Simeon."
+  }, {
+    "verse" : "exodus,6,16",
+    "text" : "These were the names of the sons of Levi according to their records: Gershon, Kohath and Merari. Levi lived 137 years."
+  }, {
+    "verse" : "exodus,6,17",
+    "text" : "The sons of Gershon, by clans, were Libni and Shimei."
+  }, {
+    "verse" : "exodus,6,18",
+    "text" : "The sons of Kohath were Amram, Izhar, Hebron and Uzziel. Kohath lived 133 years."
+  }, {
+    "verse" : "exodus,6,19",
+    "text" : "The sons of Merari were Mahli and Mushi. These were the clans of Levi according to their records."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,6,14-exodus,6,27",
     "id" : 185628,
@@ -79,7 +142,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 6:14-Exod 6:27\">6:14–27</a></b> In this transitional section, Moses and Aaron are formally identified, and the story of their work is reviewed and resumed in preparation for the description of the ten plagues. The formal identification is accomplished through a genealogy that begins with Reuben, Israel’s oldest son, then proceeds to Simeon, the second son, and finally to Levi. Levi’s genealogy establishes the link to Moses and Aaron. Among the Levites Amram is singled out, then Aaron and Moses. The subsequent names constitute the priestly line for Israel (<a class=\"bibleref\" href=\"/passage/?search=Num 25:10-Num 25:13\">Num. 25:10–13</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 26:57-Num 26:62\">26:57–62</a>). For Korah, see <a class=\"bibleref\" href=\"/passage/?search=Num 16:1-Num 16:35\">Num. 16:1–35</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,6,20", "exodus,6,21", "exodus,6,22" ],
+  "verses" : [ {
+    "verse" : "exodus,6,20",
+    "text" : "Amram married his father's sister Jochebed, who bore him Aaron and Moses. Amram lived 137 years."
+  }, {
+    "verse" : "exodus,6,21",
+    "text" : "The sons of Izhar were Korah, Nepheg and Zicri."
+  }, {
+    "verse" : "exodus,6,22",
+    "text" : "The sons of Uzziel were Mishael, Elzaphan and Sithri."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,6,20",
     "id" : 185629,
@@ -87,7 +159,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 6:20\">6:20</a></b> The record of the marriage of Amram to his paternal aunt would be most unlikely in a fictitious genealogy. Such a marriage was later forbidden in the Mosaic Law (<a class=\"bibleref\" href=\"/passage/?search=Lev 18:12\">Lev. 18:12</a>). Three women are mentioned in tracing the line: Jochebed, Elisheba, and a daughter of Putiel.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,6,23", "exodus,6,24" ],
+  "verses" : [ {
+    "verse" : "exodus,6,23",
+    "text" : "Aaron married Elisheba, daughter of Amminadab and sister of Nahshon, and she bore him Nadab and Abihu, Eleazar and Ithamar."
+  }, {
+    "verse" : "exodus,6,24",
+    "text" : "The sons of Korah were Assir, Elkanah and Abiasaph. These were the Korahite clans."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,6,23",
     "id" : 185630,
@@ -95,7 +173,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 6:23\">6:23</a></b> <b>bore him.</b> No descendant of Moses is named, but those of Aaron continue for the next two generations to establish priestly succession from Aaron through his successor Eleazar. The genealogy spans only four generations for the sojourn in Egypt and is clearly selective (<a class=\"bibleref\" href=\"/passage/?search=Gen 5:3-Gen 5:32\">Gen. 5:3–32</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,6,25", "exodus,6,26", "exodus,6,27" ],
+  "verses" : [ {
+    "verse" : "exodus,6,25",
+    "text" : "Eleazar son of Aaron married one of the daughters of Putiel, and she bore him Phinehas. These were the heads of the Levite families, clan by clan."
+  }, {
+    "verse" : "exodus,6,26",
+    "text" : "It was this same Aaron and Moses to whom the LORD said, \"Bring the Israelites out of Egypt by their divisions.\""
+  }, {
+    "verse" : "exodus,6,27",
+    "text" : "They were the ones who spoke to Pharaoh king of Egypt about bringing the Israelites out of Egypt. It was the same Moses and Aaron."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,6,25",
     "id" : 185631,
@@ -103,7 +190,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 6:25\">6:25</a></b> <b>Putiel . . . Phinehas.</b> Like “Merari” in <a class=\"bibleref\" href=\"/passage/?search=Exod 6:16\">v. 16</a>, these are probably Egyptian names, which occurred frequently among Levites.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,6,28", "exodus,6,29", "exodus,6,30" ],
+  "verses" : [ {
+    "verse" : "exodus,6,28",
+    "text" : "Now when the LORD spoke to Moses in Egypt,"
+  }, {
+    "verse" : "exodus,6,29",
+    "text" : "he said to him, \"I am the LORD. Tell Pharaoh king of Egypt everything I tell you.\""
+  }, {
+    "verse" : "exodus,6,30",
+    "text" : "But Moses said to the LORD, \"Since I speak with faltering lips, why would Pharaoh listen to me?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,6,28-exodus,7,7",
     "id" : 185632,
@@ -111,7 +207,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 6:28-Exod 7:7\">6:28–7:7</a></b> This section reviews and restates Moses’ commission after his hesitation (<a class=\"bibleref\" href=\"/passage/?search=Exod 6:12\">6:12</a>, <a class=\"bibleref\" href=\"/passage/?search=Exod 6:30\">30</a>). The real demand now appears: not a temporary absence, but a definitive exodus from Egypt.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,7,1" ],
+  "verses" : [ {
+    "verse" : "exodus,7,1",
+    "text" : "Then the LORD said to Moses, \"See, I have made you like God to Pharaoh, and your brother Aaron will be your prophet."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,7,1",
     "id" : 185633,
@@ -119,7 +218,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 7:1\">7:1</a></b> <b>prophet.</b> The origin of the Hebrew term for “prophet” is disputed, but perhaps it means “one who is called.” The function of Aaron in relation to Moses demonstrates the function of a true prophet in relation to God (<a class=\"bibleref\" href=\"/passage/?search=Exod 4:13-Exod 4:16\">4:13–16</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,7,2" ],
+  "verses" : [ {
+    "verse" : "exodus,7,2",
+    "text" : "You are to say everything I command you, and your brother Aaron is to tell Pharaoh to let the Israelites go out of his country."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,7,2-exodus,7,5",
     "id" : 185634,
@@ -127,7 +229,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 7:2-Exod 7:5\">7:2–5</a></b> The theological explanation of the plagues is given in the first five plagues. Pharaoh’s obstinacy is self-motivated (<a class=\"bibleref\" href=\"/passage/?search=Exod 7:22\">7:22</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 8:15\">8:15</a>, <a class=\"bibleref\" href=\"/passage/?search=Exod 8:32\">32</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 9:7\">9:7</a>). God is said to have hardened Pharaoh’s heart in plagues seven, eight, and nine (<a class=\"bibleref\" href=\"/passage/?search=Exod 10:1\">10:1</a>, <a class=\"bibleref\" href=\"/passage/?search=Exod 10:20\">20</a>, <a class=\"bibleref\" href=\"/passage/?search=Exod 10:27\">27</a>). In the sixth plague, the obstinacy stems from Pharaoh himself (<a class=\"bibleref\" href=\"/passage/?search=Exod 9:35\">9:35</a>), but God also claims to have hardened Pharaoh (<a class=\"bibleref\" href=\"/passage/?search=Exod 10:1\">10:1</a>). God’s purpose is not simply judgment on Pharaoh, but manifesting His power to save His people so that His name might be proclaimed in all the earth (<a class=\"bibleref\" href=\"/passage/?search=Exod 9:16\">9:16</a>; <a class=\"bibleref\" href=\"/passage/?search=Rom 9:17\">Rom. 9:17</a>, <a class=\"bibleref\" href=\"/passage/?search=Rom 9:18\">18</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,7,3", "exodus,7,4", "exodus,7,5", "exodus,7,6", "exodus,7,7", "exodus,7,8" ],
+  "verses" : [ {
+    "verse" : "exodus,7,3",
+    "text" : "But I will harden Pharaoh's heart, and though I multiply my miraculous signs and wonders in Egypt,"
+  }, {
+    "verse" : "exodus,7,4",
+    "text" : "he will not listen to you. Then I will lay my hand on Egypt and with mighty acts of judgment I will bring out my divisions, my people the Israelites."
+  }, {
+    "verse" : "exodus,7,5",
+    "text" : "And the Egyptians will know that I am the LORD when I stretch out my hand against Egypt and bring the Israelites out of it.\""
+  }, {
+    "verse" : "exodus,7,6",
+    "text" : "Moses and Aaron did just as the LORD commanded them."
+  }, {
+    "verse" : "exodus,7,7",
+    "text" : "Moses was eighty years old and Aaron eighty-three when they spoke to Pharaoh."
+  }, {
+    "verse" : "exodus,7,8",
+    "text" : "The LORD said to Moses and Aaron,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,7,3",
     "id" : 185635,
@@ -135,7 +255,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 7:3\">7:3</a></b> <b>heart.</b> The Hebrew is a broad term describing the center of feeling, thinking, and willing. The Lord causes Pharaoh’s heart to become hard (lit. “difficult”), not by implanting evil in it, but by giving it over to its evil direction without restraint (<a class=\"bibleref\" href=\"/passage/?search=Rom 1:24\">Rom. 1:24</a>, <a class=\"bibleref\" href=\"/passage/?search=Rom 1:26\">26</a>, <a class=\"bibleref\" href=\"/passage/?search=Rom 1:28\">28</a>). Paul contrasts hardening with showing mercy (<a class=\"bibleref\" href=\"/passage/?search=Rom 9:18\">Rom. 9:18</a>). God’s judgment on Pharaoh issued in mercy to Israel, Egypt, and the nations as they saw His power to save.</p><p><b>though I multiply.</b> Or, “in order that I might multiply.”</p><p><b>my signs and wonders.</b> These are the nine plagues and ten miracles of 7:9–11:10, culminating in the death plague.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,7,9", "exodus,7,10" ],
+  "verses" : [ {
+    "verse" : "exodus,7,9",
+    "text" : "\"When Pharaoh says to you, 'Perform a miracle,' then say to Aaron, 'Take your staff and throw it down before Pharaoh,' and it will become a snake.\""
+  }, {
+    "verse" : "exodus,7,10",
+    "text" : "So Moses and Aaron went to Pharaoh and did just as the LORD commanded. Aaron threw his staff down in front of Pharaoh and his officials, and it became a snake."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,7,9",
     "id" : 185636,
@@ -143,7 +269,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 7:9\">7:9</a></b> <b>serpent.</b> The Hebrew word here (different from the word for “serpent” in <a class=\"bibleref\" href=\"/passage/?search=Exod 4:3\">4:3</a>) often refers to a sea reptile or river monster (<a class=\"bibleref\" href=\"/passage/?search=Gen 1:21\">Gen. 1:21</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 29:3\">Ezek. 29:3</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 32:2\">32:2</a>), but can refer to any large reptile. A large snake is probably in view.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,7,11", "exodus,7,12" ],
+  "verses" : [ {
+    "verse" : "exodus,7,11",
+    "text" : "Pharaoh then summoned wise men and sorcerers, and the Egyptian magicians also did the same things by their secret arts:"
+  }, {
+    "verse" : "exodus,7,12",
+    "text" : "Each one threw down his staff and it became a snake. But Aaron's staff swallowed up their staffs."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,7,11",
     "id" : 185637,
@@ -151,7 +283,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 7:11\">7:11</a></b> <b>magicians.</b> The Hebrew term indicates an engraver or writer, a learned person. The Egyptian magicians relied on the familiar tricks of magic, Aaron on divine power. See note <a class=\"bibleref\" href=\"/passage/?search=Exod 9:11\">9:11</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,7,13" ],
+  "verses" : [ {
+    "verse" : "exodus,7,13",
+    "text" : "Yet Pharaoh's heart became hard and he would not listen to them, just as the LORD had said."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,7,13",
     "id" : 185638,
@@ -159,7 +294,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 7:13\">7:13</a></b> <b>as the <span class=\"small-caps\">Lord</span> had said.</b> See <a class=\"bibleref\" href=\"/passage/?search=Exod 4:21\">4:21</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 7:3\">7:3</a>, <a class=\"bibleref\" href=\"/passage/?search=Exod 7:22\">22</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 8:15\">8:15</a>, <a class=\"bibleref\" href=\"/passage/?search=Exod 8:19\">19</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,7,14", "exodus,7,15", "exodus,7,16" ],
+  "verses" : [ {
+    "verse" : "exodus,7,14",
+    "text" : "Then the LORD said to Moses, \"Pharaoh's heart is unyielding; he refuses to let the people go."
+  }, {
+    "verse" : "exodus,7,15",
+    "text" : "Go to Pharaoh in the morning as he goes out to the water. Wait on the bank of the Nile to meet him, and take in your hand the staff that was changed into a snake."
+  }, {
+    "verse" : "exodus,7,16",
+    "text" : "Then say to him, 'The LORD, the God of the Hebrews, has sent me to say to you: Let my people go, so that they may worship me in the desert. But until now you have not listened."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,7,14-exodus,10,29",
     "id" : 185639,
@@ -172,7 +316,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 7:14\">7:14</a></b> <b>hardened.</b> Pharaoh’s hardening was the necessary prerequisite for the display of divine power (<a class=\"bibleref\" href=\"/passage/?search=Exod 4:21\">4:21</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,7,17", "exodus,7,18" ],
+  "verses" : [ {
+    "verse" : "exodus,7,17",
+    "text" : "This is what the LORD says: By this you will know that I am the LORD: With the staff that is in my hand I will strike the water of the Nile, and it will be changed into blood."
+  }, {
+    "verse" : "exodus,7,18",
+    "text" : "The fish in the Nile will die, and the river will stink; the Egyptians will not be able to drink its water.'\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,7,17",
     "id" : 185641,
@@ -180,7 +330,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 7:17\">7:17</a></b> The use of the rod with the first three and the last three plagues shows that Yahweh is the real author.</p><p><b>I will strike.</b> Aaron will strike (<a class=\"bibleref\" href=\"/passage/?search=Exod 7:19\">vv. 19</a>, <a class=\"bibleref\" href=\"/passage/?search=Exod 7:20\">20</a>), but the Lord will perform the miracle. The striking is by God’s hand, by His rod. The deed of Aaron is owned by God no less than the word that God gave him through Moses.</p><p><b>blood.</b> In Hebrew the word never denotes its red color, but always blood as a substance. The red clay that comes down at the time of flooding from the Ethiopian highlands (coloring the Nile water) is not in view.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,7,19", "exodus,7,20", "exodus,7,21" ],
+  "verses" : [ {
+    "verse" : "exodus,7,19",
+    "text" : "The LORD said to Moses, \"Tell Aaron, 'Take your staff and stretch out your hand over the waters of Egypt-over the streams and canals, over the ponds and all the reservoirs'-and they will turn to blood. Blood will be everywhere in Egypt, even in the wooden buckets and stone jars.\""
+  }, {
+    "verse" : "exodus,7,20",
+    "text" : "Moses and Aaron did just as the LORD had commanded. He raised his staff in the presence of Pharaoh and his officials and struck the water of the Nile, and all the water was changed into blood."
+  }, {
+    "verse" : "exodus,7,21",
+    "text" : "The fish in the Nile died, and the river smelled so bad that the Egyptians could not drink its water. Blood was everywhere in Egypt."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,7,19",
     "id" : 185642,
@@ -188,7 +347,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 7:19\">7:19</a></b> <b>waters.</b> All the natural waters of Egypt were involved, including the natural arms of the Nile, the irrigation canals, and the pools formed by river flooding. The Nile River, the source of Egypt’s agricultural life, was revered as a god. Beginning with this plague the Lord’s superiority over the Egyptian pantheon of gods is demonstrated.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,7,22", "exodus,7,23", "exodus,7,24", "exodus,7,25" ],
+  "verses" : [ {
+    "verse" : "exodus,7,22",
+    "text" : "But the Egyptian magicians did the same things by their secret arts, and Pharaoh's heart became hard; he would not listen to Moses and Aaron, just as the LORD had said."
+  }, {
+    "verse" : "exodus,7,23",
+    "text" : "Instead, he turned and went into his palace, and did not take even this to heart."
+  }, {
+    "verse" : "exodus,7,24",
+    "text" : "And all the Egyptians dug along the Nile to get drinking water, because they could not drink the water of the river."
+  }, {
+    "verse" : "exodus,7,25",
+    "text" : "Seven days passed after the LORD struck the Nile."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,7,22",
     "id" : 185643,

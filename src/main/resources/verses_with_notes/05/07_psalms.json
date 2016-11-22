@@ -1,5 +1,14 @@
 [ {
-  "singleVerses" : [ "psalms,105,37", "psalms,105,38", "psalms,105,39" ],
+  "verses" : [ {
+    "verse" : "psalms,105,37",
+    "text" : "He brought out Israel, laden with silver and gold, and from among their tribes no one faltered."
+  }, {
+    "verse" : "psalms,105,38",
+    "text" : "Egypt was glad when they left, because dread of Israel had fallen on them."
+  }, {
+    "verse" : "psalms,105,39",
+    "text" : "He spread out a cloud as a covering, and a fire to give light at night."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,105,1-psalms,105,45",
     "id" : 191172,
@@ -12,7 +21,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 105:37\">105:37</a></b> <b>with silver and gold.</b> God’s great mercy and generosity may be seen here. As a slave nation in Egypt, Israel had little to call their own. Through the plagues, however, God struck fear into the hearts of the Egyptians so that they not only let Israel go, but were willing to hand over their valuables to encourage Israel’s exodus (<a class=\"bibleref\" href=\"/passage/?search=Exod 12:33-Exod 12:36\">Ex. 12:33–36</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,105,40", "psalms,105,41" ],
+  "verses" : [ {
+    "verse" : "psalms,105,40",
+    "text" : "They asked, and he brought them quail and satisfied them with the bread of heaven."
+  }, {
+    "verse" : "psalms,105,41",
+    "text" : "He opened the rock, and water gushed out; like a river it flowed in the desert."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,105,40",
     "id" : 191191,
@@ -20,7 +35,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 105:40\">105:40</a></b> <b>bread from heaven.</b> The manna. God’s providential mercy went beyond bringing them out of Egypt—He provided for them in the wilderness by giving them food and drink.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,105,42", "psalms,105,43", "psalms,105,44" ],
+  "verses" : [ {
+    "verse" : "psalms,105,42",
+    "text" : "For he remembered his holy promise given to his servant Abraham."
+  }, {
+    "verse" : "psalms,105,43",
+    "text" : "He brought out his people with rejoicing, his chosen ones with shouts of joy;"
+  }, {
+    "verse" : "psalms,105,44",
+    "text" : "he gave them the lands of the nations, and they fell heir to what others had toiled for-"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,105,42",
     "id" : 191192,
@@ -28,7 +52,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 105:42\">105:42</a></b> <b>his holy promise.</b> The Abrahamic covenant included the promise that God would make Israel “a great nation” (<a class=\"bibleref\" href=\"/passage/?search=Gen 12:2\">Gen. 12:2</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,105,45" ],
+  "verses" : [ {
+    "verse" : "psalms,105,45",
+    "text" : "that they might keep his precepts and observe his laws. Praise the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,105,45",
     "id" : 191193,

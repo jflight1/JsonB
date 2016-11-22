@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,24,8" ],
+  "verses" : [ {
+    "verse" : "proverbs,24,8",
+    "text" : "He who plots evil will be known as a schemer."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,22,17-proverbs,24,22",
     "id" : 192162,

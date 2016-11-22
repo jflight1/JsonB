@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,4,1" ],
+  "verses" : [ {
+    "verse" : "psalms,4,1",
+    "text" : "Answer me when I call to you, O my righteous God. Give me relief from my distress; be merciful to me and hear my prayer."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,4,1-psalms,4,8",
     "id" : 190217,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 4:1\">4:1</a></b> <b>Answer me . . . my righteousness.</b> The imperative verbs in this verse show the boldness of the psalmist in prayer. He can fearlessly call on God because he knows that God is his righteousness (<a class=\"bibleref\" href=\"/passage/?search=Jer 23:6\">Jer. 23:6</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,4,2" ],
+  "verses" : [ {
+    "verse" : "psalms,4,2",
+    "text" : "How long, O men, will you turn my glory into shame? How long will you love delusions and seek false gods? Selah"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,4,2",
     "id" : 190219,
@@ -20,7 +26,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 4:2\">4:2</a></b> <b>my honor be turned into shame.</b> It seems that the psalmist is angry at men who turn away from God to serve the false gods of the nations.</p><p><b>vain words.</b> Lit. “empty things.”</p><p><b>seek after lies.</b> The idols of the nations are lies because they don’t really exist; they are the figments of sinful imagination.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,4,3" ],
+  "verses" : [ {
+    "verse" : "psalms,4,3",
+    "text" : "Know that the LORD has set apart the godly for himself; the LORD will hear when I call to him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,4,3",
     "id" : 190220,
@@ -28,7 +37,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 4:3\">4:3</a></b> <b>godly.</b> Those who are in covenant with God, the recipients of God’s lovingkindness.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,4,4", "psalms,4,5" ],
+  "verses" : [ {
+    "verse" : "psalms,4,4",
+    "text" : "In your anger do not sin; when you are on your beds, search your hearts and be silent. Selah"
+  }, {
+    "verse" : "psalms,4,5",
+    "text" : "Offer right sacrifices and trust in the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,4,4",
     "id" : 190221,
@@ -36,7 +51,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 4:4\">4:4</a></b> <b>Be angry, and do not sin.</b> Compare with <a class=\"bibleref\" href=\"/passage/?search=Eph 4:26\">Eph. 4:26</a>. These are the sacrifices prescribed in <a class=\"bibleref\" href=\"/passage/?search=Lev 1-Lev 7\">Lev. 1–7</a>, offered with a righteous attitude without which all sacrifice or worship is unacceptable (<a class=\"bibleref\" href=\"/passage/?search=Ps 40:6-Ps 40:8\">Ps. 40:6–8</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,4,6", "psalms,4,7" ],
+  "verses" : [ {
+    "verse" : "psalms,4,6",
+    "text" : "Many are asking, \"Who can show us any good?\" Let the light of your face shine upon us, O LORD."
+  }, {
+    "verse" : "psalms,4,7",
+    "text" : "You have filled my heart with greater joy than when their grain and new wine abound."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,4,6",
     "id" : 190222,
@@ -44,7 +65,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 4:6\">4:6</a></b> <b>good.</b> The skeptics taunt that there is nothing good. The psalmist responds to their doubts with an appeal that God would reveal Himself.</p><p><b>light of your face.</b> The phrase resembles the priestly blessing found in <a class=\"bibleref\" href=\"/passage/?search=Num 6:25\">Num. 6:25</a>, <a class=\"bibleref\" href=\"/passage/?search=Num 6:26\">26</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,4,8" ],
+  "verses" : [ {
+    "verse" : "psalms,4,8",
+    "text" : "I will lie down and sleep in peace, for you alone, O LORD, make me dwell in safety."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,4,8",
     "id" : 190223,

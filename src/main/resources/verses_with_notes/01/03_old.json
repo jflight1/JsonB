@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "genesis,5,1" ],
+  "verses" : [ {
+    "verse" : "genesis,5,1",
+    "text" : "This is the written account of Adam's line. When God created man, he made him in the likeness of God."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,5,1-genesis,6,8",
     "id" : 184827,
@@ -17,7 +20,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 5:1\">5:1</a></b> <b>This is the book of the generations.</b> A new section of the Book of Genesis begins (<a class=\"bibleref\" href=\"/passage/?search=Gen 2:4\">2:4</a> note). The mention of a “book” or “document” indicates that the author used sources (<a class=\"bibleref\" href=\"/passage/?search=Gen 11:10-Gen 11:26\">11:10–26</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,5,2" ],
+  "verses" : [ {
+    "verse" : "genesis,5,2",
+    "text" : "He created them male and female and blessed them. And when they were created, he called them \"man. \""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,5,2",
     "id" : 184830,
@@ -25,7 +31,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 5:2\">5:2</a></b> <b>blessed.</b> The creation blessing is reiterated (<a class=\"bibleref\" href=\"/passage/?search=Gen 1:28\">1:28</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 9:1\">9:1</a> note).</p><p><b>named.</b> See <a class=\"bibleref\" href=\"/passage/?search=Gen 1:5\">1:5</a> and note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,5,3", "genesis,5,4" ],
+  "verses" : [ {
+    "verse" : "genesis,5,3",
+    "text" : "When Adam had lived 130 years, he had a son in his own likeness, in his own image; and he named him Seth."
+  }, {
+    "verse" : "genesis,5,4",
+    "text" : "After Seth was born, Adam lived 800 years and had other sons and daughters."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,5,3-genesis,5,32",
     "id" : 184831,
@@ -33,7 +45,55 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 5:3-Gen 5:32\">5:3–32</a></b> These verses contain ten paragraphs, each written in the same form, with one paragraph for each generation in Adam’s line through Seth. There are some similarities, as well as significant differences, between this material and the Sumerian King List (written c. 2000 <span class=\"small-caps\">b.c.</span> ), which mentions eight antediluvian (pre-Flood) kings who reigned for exceptionally long periods (up to 72,000 years). Following the Sumerian flood account (cf. <a class=\"bibleref\" href=\"/passage/?search=Gen 6-Gen 9\">chs. 6–9</a>), there is another list of shorter-lived postdiluvians (cf. <a class=\"bibleref\" href=\"/passage/?search=Gen 11\">ch. 11</a>).</p><p>More significant are the formal similarities and material differences between this Sethite genealogy and the Cainite genealogy in <a class=\"bibleref\" href=\"/passage/?search=Gen 4\">ch. 4</a>. Both are initially linear, focusing on one individual in each generation, and both conclude by dividing the line among three sons (<a class=\"bibleref\" href=\"/passage/?search=Gen 4:20-Gen 4:22\">4:20–22</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 5:32\">5:32</a>; the same is true in <a class=\"bibleref\" href=\"/passage/?search=Gen 11:10-Gen 11:26\">11:10–26</a>). But the central themes of these genealogies contrast sharply. Cain’s line dies in the Flood; Seth’s lives through it. Whereas the former presents the curse-laden line of Cain that concludes with murderer begetting murderer (<a class=\"bibleref\" href=\"/passage/?search=Gen 4:17-Gen 4:24\">4:17–24</a>), the latter links the founder of humanity, Adam, with its re-founder, Noah (<a class=\"bibleref\" href=\"/passage/?search=Gen 4:25\">4:25</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 4:26\">26</a> note). The Enoch and Lamech in Seth’s line cannot be confused with the first and last descendants bearing these names in Cain’s line. Enoch, the seventh in the line of Seth, “walked with God” and “God took him” (<a class=\"bibleref\" href=\"/passage/?search=Gen 4:24\">v. 24</a>); and the Sethite Lamech names his son Noah, hoping the Lord will “bring us relief” (cf. v. 29).</p><p>Because the Hebrew word translated “fathered” often means “became the ancestor of,” and because some of the numbers appear to be symbolic, many scholars argue that there are gaps in these genealogies, and that they therefore cannot be used to compute a precise chronology. The significant seventh generation of each genealogy marks a high point—the height of wickedness in the Cainite Lamech (<a class=\"bibleref\" href=\"/passage/?search=Gen 4:18-Gen 4:24\">4:18–24</a>), and the height of godliness in the Sethite Enoch (<a class=\"bibleref\" href=\"/passage/?search=Gen 4:18-Gen 4:24\">vv. 18–24</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Gen 4:21-Gen 4:24\">vv. 21–24</a> note). The figure of ten generations from Seth to Noah (<a class=\"bibleref\" href=\"/passage/?search=Gen 4:3-Gen 4:26\">vv. 3–32</a>) matches the ten generations from Shem to Abram in <a class=\"bibleref\" href=\"/passage/?search=Gen 11:10-Gen 11:26\">11:10–26</a> (this latter genealogy appears to contain gaps, <a class=\"bibleref\" href=\"/passage/?search=Gen 11:10-Gen 11:26\">11:10–26</a> note; cf. <a class=\"bibleref\" href=\"/passage/?search=Matt 1:17\">Matt. 1:17</a> note). Also, the ages of some antediluvians may be symbolic, and are perhaps related to astronomical periods known to the ancient Near Eastern peoples (e.g., the three hundred sixty-five years of Enoch’s life, vv. 21–24 note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,5,5", "genesis,5,6", "genesis,5,7", "genesis,5,8", "genesis,5,9", "genesis,5,10", "genesis,5,11", "genesis,5,12", "genesis,5,13", "genesis,5,14", "genesis,5,15", "genesis,5,16", "genesis,5,17", "genesis,5,18", "genesis,5,19", "genesis,5,20" ],
+  "verses" : [ {
+    "verse" : "genesis,5,5",
+    "text" : "Altogether, Adam lived 930 years, and then he died."
+  }, {
+    "verse" : "genesis,5,6",
+    "text" : "When Seth had lived 105 years, he became the father of Enosh."
+  }, {
+    "verse" : "genesis,5,7",
+    "text" : "And after he became the father of Enosh, Seth lived 807 years and had other sons and daughters."
+  }, {
+    "verse" : "genesis,5,8",
+    "text" : "Altogether, Seth lived 912 years, and then he died."
+  }, {
+    "verse" : "genesis,5,9",
+    "text" : "When Enosh had lived 90 years, he became the father of Kenan."
+  }, {
+    "verse" : "genesis,5,10",
+    "text" : "And after he became the father of Kenan, Enosh lived 815 years and had other sons and daughters."
+  }, {
+    "verse" : "genesis,5,11",
+    "text" : "Altogether, Enosh lived 905 years, and then he died."
+  }, {
+    "verse" : "genesis,5,12",
+    "text" : "When Kenan had lived 70 years, he became the father of Mahalalel."
+  }, {
+    "verse" : "genesis,5,13",
+    "text" : "And after he became the father of Mahalalel, Kenan lived 840 years and had other sons and daughters."
+  }, {
+    "verse" : "genesis,5,14",
+    "text" : "Altogether, Kenan lived 910 years, and then he died."
+  }, {
+    "verse" : "genesis,5,15",
+    "text" : "When Mahalalel had lived 65 years, he became the father of Jared."
+  }, {
+    "verse" : "genesis,5,16",
+    "text" : "And after he became the father of Jared, Mahalalel lived 830 years and had other sons and daughters."
+  }, {
+    "verse" : "genesis,5,17",
+    "text" : "Altogether, Mahalalel lived 895 years, and then he died."
+  }, {
+    "verse" : "genesis,5,18",
+    "text" : "When Jared had lived 162 years, he became the father of Enoch."
+  }, {
+    "verse" : "genesis,5,19",
+    "text" : "And after he became the father of Enoch, Jared lived 800 years and had other sons and daughters."
+  }, {
+    "verse" : "genesis,5,20",
+    "text" : "Altogether, Jared lived 962 years, and then he died."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,5,5",
     "id" : 184832,
@@ -41,7 +101,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 5:5\">5:5</a></b> <b>he died.</b> See <a class=\"bibleref\" href=\"/passage/?search=Gen 3:19\">3:19</a> and notes. Through Adam’s transgression death had come upon all (<a class=\"bibleref\" href=\"/passage/?search=Rom 5:12-Rom 5:14\">Rom. 5:12–14</a>). On the other hand, in spite of this judgment God’s grace preserves the messianic line (3:15 and note) even while sin abounds in the earth (4:17–24).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,5,21" ],
+  "verses" : [ {
+    "verse" : "genesis,5,21",
+    "text" : "When Enoch had lived 65 years, he became the father of Methuselah."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,5,21-genesis,5,24",
     "id" : 184833,
@@ -49,7 +112,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 5:21-Gen 5:24\">5:21–24</a></b> The number seven (or multiples of it) is often significant in biblical genealogies (<a class=\"bibleref\" href=\"/passage/?search=Gen 5:3-Gen 5:32\">5:3–32</a> note; <a class=\"bibleref\" href=\"/passage/?search=Matt 1:17\">Matt. 1:17</a> note; <a class=\"bibleref\" href=\"/passage/?search=Jude 1:14\">Jude 14</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,5,22" ],
+  "verses" : [ {
+    "verse" : "genesis,5,22",
+    "text" : "And after he became the father of Methuselah, Enoch walked with God 300 years and had other sons and daughters."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,5,22",
     "id" : 184834,
@@ -57,7 +123,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 5:22\">5:22</a></b> <b>walked with God.</b> The expression, repeated twice (here and <a class=\"bibleref\" href=\"/passage/?search=Gen 5:24\">v. 24</a>), signifies intimate fellowship (<a class=\"bibleref\" href=\"/passage/?search=Gen 3:8\">3:8</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 6:9\">6:9</a>), including special revelation.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,5,23" ],
+  "verses" : [ {
+    "verse" : "genesis,5,23",
+    "text" : "Altogether, Enoch lived 365 years."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,5,23",
     "id" : 184835,
@@ -65,7 +134,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 5:23\">5:23</a></b> <b>365 years.</b> Perhaps a symbolic number corresponding to the days of the solar year and signifying a life of special privilege. Although longevity is often a sign of divine blessing and favor (<a class=\"bibleref\" href=\"/passage/?search=Ps 91:16\">Ps. 91:16</a>), the blessed Enoch’s relatively short life span, especially compared to his son Methuselah, shows that being in God’s presence is an even greater privilege (<a class=\"bibleref\" href=\"/passage/?search=John 17:24\">John 17:24</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,5,24", "genesis,5,25", "genesis,5,26", "genesis,5,27", "genesis,5,28" ],
+  "verses" : [ {
+    "verse" : "genesis,5,24",
+    "text" : "Enoch walked with God; then he was no more, because God took him away."
+  }, {
+    "verse" : "genesis,5,25",
+    "text" : "When Methuselah had lived 187 years, he became the father of Lamech."
+  }, {
+    "verse" : "genesis,5,26",
+    "text" : "And after he became the father of Lamech, Methuselah lived 782 years and had other sons and daughters."
+  }, {
+    "verse" : "genesis,5,27",
+    "text" : "Altogether, Methuselah lived 969 years, and then he died."
+  }, {
+    "verse" : "genesis,5,28",
+    "text" : "When Lamech had lived 182 years, he had a son."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,5,24",
     "id" : 184836,
@@ -73,7 +157,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 5:24\">5:24</a></b> <b>was not, for God took him.</b> Of all recorded Old Testament saints, only Enoch and Elijah did not experience physical death (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 2:1-2Kgs 2:12\">2 Kin. 2:1–12</a>; <a class=\"bibleref\" href=\"/passage/?search=Heb 11:5\">Heb. 11:5</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,5,29", "genesis,5,30", "genesis,5,31" ],
+  "verses" : [ {
+    "verse" : "genesis,5,29",
+    "text" : "He named him Noah and said, \"He will comfort us in the labor and painful toil of our hands caused by the ground the LORD has cursed.\""
+  }, {
+    "verse" : "genesis,5,30",
+    "text" : "After Noah was born, Lamech lived 595 years and had other sons and daughters."
+  }, {
+    "verse" : "genesis,5,31",
+    "text" : "Altogether, Lamech lived 777 years, and then he died."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,5,29",
     "id" : 184837,
@@ -81,7 +174,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 5:29\">5:29</a></b> <b>this one shall bring us relief.</b> Whereas the Cainite Lamech sought to redress wrong through revenge (<a class=\"bibleref\" href=\"/passage/?search=Gen 4:24\">4:24</a>), the Sethite Lamech looked in hope to the Lord to provide the seed through whom would come deliverance from the curse.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,5,32" ],
+  "verses" : [ {
+    "verse" : "genesis,5,32",
+    "text" : "After Noah was 500 years old, he became the father of Shem, Ham and Japheth."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,5,32",
     "id" : 184838,
@@ -89,7 +185,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 5:32\">5:32</a></b> <b>500.</b> See <a class=\"bibleref\" href=\"/passage/?search=Gen 6:3\">6:3</a> and note.</p><p><b>Shem, Ham, and Japheth.</b> See <a class=\"bibleref\" href=\"/passage/?search=Gen 9:18\">9:18</a> where their story is resumed.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,6,1" ],
+  "verses" : [ {
+    "verse" : "genesis,6,1",
+    "text" : "When men began to increase in number on the earth and daughters were born to them,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,6,1-genesis,6,8",
     "id" : 184839,
@@ -97,7 +196,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 6:1-Gen 6:8\">6:1–8</a></b> This section, by the mention of Noah (<a class=\"bibleref\" href=\"/passage/?search=Gen 5:32\">5:32</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 6:8\">6:8</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 6:9\">9</a>), signals the transition from the godly line of Seth to the flood story (<a class=\"bibleref\" href=\"/passage/?search=Gen 6:9-Gen 9:17\">6:9–9:17</a>) and recalls the ominous situation at the end of the Cainite lineage (<a class=\"bibleref\" href=\"/passage/?search=Gen 4:17-Gen 4:24\">4:17–24</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,6,2" ],
+  "verses" : [ {
+    "verse" : "genesis,6,2",
+    "text" : "the sons of God saw that the daughters of men were beautiful, and they married any of them they chose."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,6,2",
     "id" : 184840,
@@ -105,7 +207,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 6:2\">6:2</a></b> <b>sons of God.</b> These have been identified as Sethites (the traditional Christian interpretation), as angels (the earliest Jewish interpretation; cf. <a class=\"bibleref\" href=\"/passage/?search=Job 1:6\">Job 1:6</a>), and as royal tyrannical successors to Lamech who gathered harems (proposed by rabbis of the second-century <span class=\"small-caps\">a.d.</span>). All three interpretations can be defended linguistically. On the surface, the first interpretation best fits the immediate preceding context (a contrast of the curse-laden line of Cain with the godly line of Seth), but it fails to explain adequately how “daughters of man” refers specifically to Cainite women. The second view has ancient support, but seems to contradict Jesus’ statement that angels do not marry (<a class=\"bibleref\" href=\"/passage/?search=Mark 12:25\">Mark 12:25</a>) and does not explain why the focus is on mortals (v. 3) and the judgment on them (vv. 5–7). The third interpretation best explains the phrase “any they chose” (12:10–20; 20:1; <a class=\"bibleref\" href=\"/passage/?search=1Sam 11\">1 Sam. 11</a>) but lacks as much ancient support. The best solution is probably a combination of the last two. These human offspring are also the spiritual offspring of Satan (3:15), empowered by demons (cf. <a class=\"bibleref\" href=\"/passage/?search=Deut 32:17\">Deut. 32:17</a>).</p><p><b>saw . . . attractive . . . took.</b> The Hebrew term here translated “attractive” is often rendered “good.” Their sin repeats the pattern (“saw . . . good . . . took”) of the original sin in 3:6.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,6,3" ],
+  "verses" : [ {
+    "verse" : "genesis,6,3",
+    "text" : "Then the LORD said, \"My Spirit will not contend with man forever, for he is mortal; his days will be a hundred and twenty years.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,6,3",
     "id" : 184841,
@@ -113,7 +218,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 6:3\">6:3</a></b> <b>My Spirit.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Gen 1:2\">1:2</a>.</p><p><b>abide in.</b> The Hebrew word is difficult to translate. Some scholars relate it to a term meaning “rule” or “judge,” while ancient translators understood it to mean “remain” or “contend” (text note). Either way, the sentence points to the withdrawal of God’s life-giving Spirit (<a class=\"bibleref\" href=\"/passage/?search=Gen 1:2\">1:2</a> note).</p><p><b>120 years.</b> Probably the span of time between this proclamation and the Flood (<a class=\"bibleref\" href=\"/passage/?search=Gen 5:32\">5:32</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 7:6\">7:6</a>). It may refer to an individual’s life span, but that interpretation seems contradicted by the age of the postdiluvians who at first lived much longer (<a class=\"bibleref\" href=\"/passage/?search=Gen 11\">Gen. 11</a>) and then much less (<a class=\"bibleref\" href=\"/passage/?search=Ps 90:10\">Ps. 90:10</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,6,4" ],
+  "verses" : [ {
+    "verse" : "genesis,6,4",
+    "text" : "The Nephilim were on the earth in those days-and also afterward-when the sons of God went to the daughters of men and had children by them. They were the heroes of old, men of renown."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,6,4",
     "id" : 184842,
@@ -121,7 +229,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 6:4\">6:4</a></b> <b>Nephilim.</b> See text note. These giant-like “mighty men,” the offspring of the demonic tyrants (<a class=\"bibleref\" href=\"/passage/?search=Gen 6:2\">v. 2</a> note), filled the earth with violence (<a class=\"bibleref\" href=\"/passage/?search=Gen 6:11\">v. 11</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 13:32\">Num. 13:32</a>). The Hebrew root means “to fall,” and may suggest their fate (<a class=\"bibleref\" href=\"/passage/?search=Ezek 32:20-Ezek 32:28\">Ezek. 32:20–28</a>).</p><p><b>and also afterward.</b> This parenthetical remark reminds the book’s original audience that the same kind of horrible people existed after the Flood (<a class=\"bibleref\" href=\"/passage/?search=Num 13:32\">Num. 13:32</a>).</p><p><b>mighty men.</b> The Hebrew here is also used for Nimrod and his bestial kingdom (10:8–11).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,6,5" ],
+  "verses" : [ {
+    "verse" : "genesis,6,5",
+    "text" : "The LORD saw how great man's wickedness on the earth had become, and that every inclination of the thoughts of his heart was only evil all the time."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,6,5",
     "id" : 184843,
@@ -129,7 +240,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 6:5\">6:5</a></b> <b>every intention . . . of his heart.</b> A vivid portrayal of the depth and comprehensiveness of human depravity (cf. <a class=\"bibleref\" href=\"/passage/?search=Gen 8:21\">8:21</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,6,6" ],
+  "verses" : [ {
+    "verse" : "genesis,6,6",
+    "text" : "The LORD was grieved that he had made man on the earth, and his heart was filled with pain."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,6,6",
     "id" : 184844,
@@ -137,7 +251,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 6:6\">6:6</a></b> <b>was sorry.</b> Here a reference to a change of attitudes and actions. There is no contradiction between this verse and passages teaching the changelessness (immutability) of God (<a class=\"bibleref\" href=\"/passage/?search=Mal 3:6\">Mal. 3:6</a>; <a class=\"bibleref\" href=\"/passage/?search=Jas 1:17\">James 1:17</a>) and that God does not change His mind (<a class=\"bibleref\" href=\"/passage/?search=Num 23:19\">Num. 23:19</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 15:29\">1 Sam. 15:29</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 33:11\">Ps. 33:11</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 46:10\">Is. 46:10</a>). Remembering that this description is anthropopathic (God is depicted in terms of the human experience of knowledge and emotion), we must also recognize that the immutable and sovereign God deals appropriately with changes in human behavior. When they sin or repent of sin, He “changes His mind” with regard to the blessing or punishment appropriate to the situation (<a class=\"bibleref\" href=\"/passage/?search=Exod 32:12\">Ex. 32:12</a>, <a class=\"bibleref\" href=\"/passage/?search=Exod 32:14\">14</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 15:11\">1 Sam. 15:11</a>; <a class=\"bibleref\" href=\"/passage/?search=2Sam 24:16\">2 Sam. 24:16</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 18:11\">Jer. 18:11</a>; <a class=\"bibleref\" href=\"/passage/?search=Amos 7:3\">Amos 7:3</a>, <a class=\"bibleref\" href=\"/passage/?search=Amos 7:6\">6</a>)—all in accordance with His sovereign and eternal purposes. Because God is changeless in His being, and eternally loyal to His covenant promises, we can have firm confidence in Him who is “the same yesterday and today and forever” (<a class=\"bibleref\" href=\"/passage/?search=Heb 13:8\">Heb. 13:8</a> and note).</p><p><b>grieved him to his heart.</b> The Hebrew here means “indignant rage” (cf. 34:7). Christ’s sacrifice pacifies God’s bitter indignation against sin (8:21).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,6,7" ],
+  "verses" : [ {
+    "verse" : "genesis,6,7",
+    "text" : "So the LORD said, \"I will wipe mankind, whom I have created, from the face of the earth-men and animals, and creatures that move along the ground, and birds of the air-for I am grieved that I have made them.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,6,7",
     "id" : 184845,
@@ -145,7 +262,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 6:7\">6:7</a></b> <b>I will blot out.</b> In this story the first created order is destroyed by a flood and the second inaugurated, a scenario constituting a prophetic model of the present order to be destroyed by fire and replaced by the third and perfect one (<a class=\"bibleref\" href=\"/passage/?search=2Pet 3:3-2Pet 3:13\">2 Pet. 3:3–13</a>). Jesus also uses this model as a type of the Day of the Lord (<a class=\"bibleref\" href=\"/passage/?search=Matt 24:37-Matt 24:39\">Matt. 24:37–39</a>).</p><p><b>animals . . . heavens.</b> As the ground endured the consequences of its rulers’ sin, so also must the animals.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,6,8" ],
+  "verses" : [ {
+    "verse" : "genesis,6,8",
+    "text" : "But Noah found favor in the eyes of the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,6,8",
     "id" : 184846,
@@ -153,7 +273,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 6:8\">6:8</a></b> <b>But Noah.</b> See <a class=\"bibleref\" href=\"/passage/?search=Rom 11:3-Rom 11:6\">Rom. 11:3–6</a>.</p><p><b>found favor.</b> God’s “grace” is always His unmerited favor, and Noah’s integrity could not earn God’s acceptance (<a class=\"bibleref\" href=\"/passage/?search=Rom 3:10-Rom 3:12\">Rom. 3:10–12</a>). God saved Noah, as He saves us, as an unconditional gift, which Christ would later purchase with His own blood. Even so, Noah seems to be a type of Christ: just as Noah represented his family, so Christ represents the whole family of God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,6,9", "genesis,6,10", "genesis,6,11", "genesis,6,12" ],
+  "verses" : [ {
+    "verse" : "genesis,6,9",
+    "text" : "This is the account of Noah. Noah was a righteous man, blameless among the people of his time, and he walked with God."
+  }, {
+    "verse" : "genesis,6,10",
+    "text" : "Noah had three sons: Shem, Ham and Japheth."
+  }, {
+    "verse" : "genesis,6,11",
+    "text" : "Now the earth was corrupt in God's sight and was full of violence."
+  }, {
+    "verse" : "genesis,6,12",
+    "text" : "God saw how corrupt the earth had become, for all the people on earth had corrupted their ways."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,6,9-genesis,9,29",
     "id" : 184847,
@@ -171,7 +303,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 6:9\">6:9</a></b> <b>These are the generations of.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Gen 2:4\">2:4</a>.</p><p><b>righteous.</b> The word presupposes a covenant in which those who are joined to the Lord by faith (<a class=\"bibleref\" href=\"/passage/?search=Gen 15:6\">15:6</a>) follow His moral standards. These standards were revealed to Noah in conscience (<a class=\"bibleref\" href=\"/passage/?search=Gen 3:8\">3:8</a> and note) and special revelation (<a class=\"bibleref\" href=\"/passage/?search=Gen 5:22\">5:22</a> note).</p><p><b>blameless.</b> Not that Noah never sinned (cf. <a class=\"bibleref\" href=\"/passage/?search=Gen 9:20-Gen 9:23\">9:20–23</a>), but that his devotion to God and His commandments was unchallenged (cf. <a class=\"bibleref\" href=\"/passage/?search=2Sam 22:24\">2 Sam. 22:24</a>).</p><p><b>walked with God.</b> See note 5:22.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,6,13" ],
+  "verses" : [ {
+    "verse" : "genesis,6,13",
+    "text" : "So God said to Noah, \"I am going to put an end to all people, for the earth is filled with violence because of them. I am surely going to destroy both them and the earth."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,6,13",
     "id" : 184850,
@@ -179,7 +314,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 6:13\">6:13</a></b> <b>destroy.</b> The same Hebrew word lies behind “corrupt” and “corrupted” in <a class=\"bibleref\" href=\"/passage/?search=Gen 6:11\">vv. 11</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 6:12\">12</a>. The punishment matches the crime: as man ruined the good earth, so God will ruin the earth against man.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,6,14" ],
+  "verses" : [ {
+    "verse" : "genesis,6,14",
+    "text" : "So make yourself an ark of cypress wood; make rooms in it and coat it with pitch inside and out."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,6,14",
     "id" : 184851,
@@ -187,7 +325,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 6:14\">6:14</a></b> <b>ark . . . pitch.</b> The same Hebrew terms are used in <a class=\"bibleref\" href=\"/passage/?search=Exod 2:3\">Ex. 2:3</a> for the ark (of bulrushes) that protected Moses, whom God also used to bring forth a new humanity from a world under judgment.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,6,15", "genesis,6,16" ],
+  "verses" : [ {
+    "verse" : "genesis,6,15",
+    "text" : "This is how you are to build it: The ark is to be 450 feet long, 75 feet wide and 45 feet high."
+  }, {
+    "verse" : "genesis,6,16",
+    "text" : "Make a roof for it and finish the ark to within 18 inches of the top. Put a door in the side of the ark and make lower, middle and upper decks."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,6,15",
     "id" : 184852,
@@ -195,7 +339,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 6:15\">6:15</a></b> <b>This is how.</b> The <span class=\"small-caps\">Lord</span> uniquely specified the design for the building of the ark, the Exodus tabernacle, and Solomon’s temple. The ark preserved Noah’s covenant family through chaotic water; the latter structures would sustain the later covenant people among the chaotic nations.</p><p><b>300 cubits . . . 30 cubits.</b> See text note. The dimensions (450 by 75 by 45 feet) indicate a stable and seaworthy vessel similar in size to a modern battleship. By contrast the ark in the Babylonian Gilgamesh Epic, though pitched within and without, is an unstable 180-foot cube, about four times larger in volume than Noah’s ark (<a class=\"bibleref\" href=\"/passage/?search=Gen 7:4\">7:4</a> and note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,6,17" ],
+  "verses" : [ {
+    "verse" : "genesis,6,17",
+    "text" : "I am going to bring floodwaters on the earth to destroy all life under the heavens, every creature that has the breath of life in it. Everything on earth will perish."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,6,17",
     "id" : 184853,
@@ -203,7 +350,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 6:17\">6:17</a></b> <b>I will bring a flood of waters.</b> God sovereignly rules over the Flood (<a class=\"bibleref\" href=\"/passage/?search=Ps 29:10\">Ps. 29:10</a>).</p><p><b>earth . . . all flesh.</b> A worldwide flood seems to be in view (7:19–23; 8:21; 9:11,15; <a class=\"bibleref\" href=\"/passage/?search=2Pet 3:5-2Pet 3:7\">2 Pet. 3:5–7</a>). But comprehensive language can also be used for limited situations (<a class=\"bibleref\" href=\"/passage/?search=Dan 2:38\">Dan. 2:38</a>; <a class=\"bibleref\" href=\"/passage/?search=Dan 4:22\">4:22</a>; <a class=\"bibleref\" href=\"/passage/?search=Dan 5:19\">5:19</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,6,18", "genesis,6,19" ],
+  "verses" : [ {
+    "verse" : "genesis,6,18",
+    "text" : "But I will establish my covenant with you, and you will enter the ark-you and your sons and your wife and your sons' wives with you."
+  }, {
+    "verse" : "genesis,6,19",
+    "text" : "You are to bring into the ark two of all living creatures, male and female, to keep them alive with you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,6,18-genesis,6,21",
     "id" : 184854,
@@ -216,7 +369,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 6:18\">6:18</a></b> <b>establish my covenant.</b> The first occurrence in Genesis of the Hebrew term for “covenant” (<i>berith</i>), though the concept itself and related terms are present earlier. See notes <a class=\"bibleref\" href=\"/passage/?search=Gen 2:4\">2:4</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 2:8-Gen 2:17\">2:8–17</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 2:24\">2:24</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 3\">3:1–24</a>. The Hebrew here denotes not the initiation of a completely new covenant, but the confirmation to Noah of a covenant already in existence. Noah’s salvation from the waters of the Flood is an example of God’s covenant grace and mercy. See “God’s Covenant of Grace” at <a class=\"bibleref\" href=\"/passage/?search=Gen 12:1\">12:1</a>.</p><p><b>your sons . . . with you.</b> This refrain (<a class=\"bibleref\" href=\"/passage/?search=Gen 7:7\">7:7</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 7:13\">13</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 8:16\">8:16</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 8:18\">18</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Gen 7:1\">7:1</a>) emphasizes that God preserves humanity in its basic family structure and that God often deals savingly with the entire family unit, including the children. Here physical salvation is secured in the midst of floodwater, a type of Christian baptism (<a class=\"bibleref\" href=\"/passage/?search=1Pet 3:20\">1 Pet. 3:20</a>, <a class=\"bibleref\" href=\"/passage/?search=1Pet 3:21\">21</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,6,20", "genesis,6,21" ],
+  "verses" : [ {
+    "verse" : "genesis,6,20",
+    "text" : "Two of every kind of bird, of every kind of animal and of every kind of creature that moves along the ground will come to you to be kept alive."
+  }, {
+    "verse" : "genesis,6,21",
+    "text" : "You are to take every kind of food that is to be eaten and store it away as food for you and for them.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,6,20",
     "id" : 184856,
@@ -224,7 +383,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 6:20\">6:20</a></b> <b>shall come in to you.</b> God’s power can be discerned in the animals’ coming to Noah.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,6,22" ],
+  "verses" : [ {
+    "verse" : "genesis,6,22",
+    "text" : "Noah did everything just as God commanded him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,6,22",
     "id" : 184857,
@@ -232,7 +394,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 6:22\">6:22</a></b> The ancient Mesopotamian flood stories focused on human heroes or mighty men such as Utnapishtim, the only survivor of the flood in the Gilgamesh Epic (<a class=\"bibleref\" href=\"/passage/?search=Gen 6:9-Gen 9:29\">6:9–9:29</a> note). By contrast, the Genesis account focuses on God and mentions only Noah’s obedience (<a class=\"bibleref\" href=\"/passage/?search=Gen 7:5\">7:5</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 7:9\">9</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 7:16\">16</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,7,1" ],
+  "verses" : [ {
+    "verse" : "genesis,7,1",
+    "text" : "The LORD then said to Noah, \"Go into the ark, you and your whole family, because I have found you righteous in this generation."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,7,1-genesis,7,10",
     "id" : 184858,
@@ -245,7 +410,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 7:1\">7:1</a></b> <b>all your household.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Gen 6:18\">6:18</a>.</p><p><b>righteous.</b> See notes <a class=\"bibleref\" href=\"/passage/?search=Gen 6:9\">6:9</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,7,2", "genesis,7,3" ],
+  "verses" : [ {
+    "verse" : "genesis,7,2",
+    "text" : "Take with you seven of every kind of clean animal, a male and its mate, and two of every kind of unclean animal, a male and its mate,"
+  }, {
+    "verse" : "genesis,7,3",
+    "text" : "and also seven of every kind of bird, male and female, to keep their various kinds alive throughout the earth."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,7,2-genesis,7,3",
     "id" : 184860,
@@ -258,7 +429,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 7:2\">7:2</a></b> <b>seven.</b> The additional clean animals were needed for sacrificial purposes (<a class=\"bibleref\" href=\"/passage/?search=Gen 8:20\">8:20</a>) and for food (<a class=\"bibleref\" href=\"/passage/?search=Gen 9:3\">9:3</a>).</p><p><b>all . . . animals.</b> See <a class=\"bibleref\" href=\"/passage/?search=Gen 6:19\">6:19</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 6:20\">20</a> and note.</p><p><b>clean.</b> Noah would have known of the distinction between clean and unclean through special revelation (<a class=\"bibleref\" href=\"/passage/?search=Gen 5:22\">5:22</a> note). Fundamental institutions of the Law—the Sabbath (<a class=\"bibleref\" href=\"/passage/?search=Gen 2:1-Gen 2:3\">2:1–3</a>), the ideal sanctuary (<a class=\"bibleref\" href=\"/passage/?search=Gen 2:8\">2:8</a> note), and sacrifice (<a class=\"bibleref\" href=\"/passage/?search=Gen 3:21\">3:21</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 4:3-Gen 4:5\">4:3–5</a>)—reach back to the pre-Flood creation order; others, such as tithing (<a class=\"bibleref\" href=\"/passage/?search=Gen 14:20\">14:20</a>) and circumcision (<a class=\"bibleref\" href=\"/passage/?search=Gen 17:9-Gen 17:14\">17:9–14</a>), to at least the time of the patriarchs. Earth’s future depended on these sacrificial animals (<a class=\"bibleref\" href=\"/passage/?search=Gen 8:20-Gen 8:22\">8:20–22</a> and notes; <a class=\"bibleref\" href=\"/passage/?search=Lev 11\">Lev. 11:1–47</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,7,4" ],
+  "verses" : [ {
+    "verse" : "genesis,7,4",
+    "text" : "Seven days from now I will send rain on the earth for forty days and forty nights, and I will wipe from the face of the earth every living creature I have made.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,7,4",
     "id" : 184862,
@@ -266,7 +440,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 7:4\">7:4</a></b> <b>in seven days.</b> A hundred and twenty years were needed to build the ark (<a class=\"bibleref\" href=\"/passage/?search=Gen 6:3\">6:3</a> and note) and one week to fill it. A Babylonian flood account imagines seven days to build a ship much bigger than Noah’s and a flood lasting seven days (<a class=\"bibleref\" href=\"/passage/?search=Gen 6:15\">6:15</a> note).</p><p><b>forty.</b> Forty is a conventional number for a long time and signals the introduction of a new age: by Noah, Moses (<a class=\"bibleref\" href=\"/passage/?search=Exod 24:18\">Ex. 24:18</a>); Elijah (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 19:8\">1 Kin. 19:8</a>); Christ (<a class=\"bibleref\" href=\"/passage/?search=Acts 1:3\">Acts 1:3</a>). The forty days are part of the 150 total days (8:4).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,7,5" ],
+  "verses" : [ {
+    "verse" : "genesis,7,5",
+    "text" : "And Noah did all that the LORD commanded him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,7,5",
     "id" : 184863,
@@ -274,7 +451,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 7:5\">7:5</a></b> <b>commanded.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Gen 6:22\">6:22</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,7,6" ],
+  "verses" : [ {
+    "verse" : "genesis,7,6",
+    "text" : "Noah was six hundred years old when the floodwaters came on the earth."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,7,6",
     "id" : 184864,
@@ -282,7 +462,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 7:6\">7:6</a></b> <b>six hundred.</b> See <a class=\"bibleref\" href=\"/passage/?search=Gen 6:3\">6:3</a> and note. The precise day is given in <a class=\"bibleref\" href=\"/passage/?search=Gen 6:11\">v. 11</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,7,7", "genesis,7,8" ],
+  "verses" : [ {
+    "verse" : "genesis,7,7",
+    "text" : "And Noah and his sons and his wife and his sons' wives entered the ark to escape the waters of the flood."
+  }, {
+    "verse" : "genesis,7,8",
+    "text" : "Pairs of clean and unclean animals, of birds and of all creatures that move along the ground,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,7,7",
     "id" : 184865,
@@ -290,7 +476,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 7:7\">7:7</a></b> <b>sons.</b> See <a class=\"bibleref\" href=\"/passage/?search=Gen 6:18\">6:18</a> and note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,7,9" ],
+  "verses" : [ {
+    "verse" : "genesis,7,9",
+    "text" : "male and female, came to Noah and entered the ark, as God had commanded Noah."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,7,9",
     "id" : 184866,
@@ -298,7 +487,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 7:9\">7:9</a></b> <b>went.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Gen 6:20\">6:20</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,7,10" ],
+  "verses" : [ {
+    "verse" : "genesis,7,10",
+    "text" : "And after the seven days the floodwaters came on the earth."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,7,10",
     "id" : 184867,
@@ -306,7 +498,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 7:10\">7:10</a></b> <b>waters . . . came upon the earth.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Gen 6:17\">6:17</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,7,11", "genesis,7,12" ],
+  "verses" : [ {
+    "verse" : "genesis,7,11",
+    "text" : "In the six hundredth year of Noah's life, on the seventeenth day of the second month-on that day all the springs of the great deep burst forth, and the floodgates of the heavens were opened."
+  }, {
+    "verse" : "genesis,7,12",
+    "text" : "And rain fell on the earth forty days and forty nights."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,7,11",
     "id" : 184868,
@@ -314,7 +512,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 7:11\">7:11</a></b> <b>fountains . . . windows.</b> Poetic expressions for the unrestrained release of water (<a class=\"bibleref\" href=\"/passage/?search=Ps 78:23\">Ps. 78:23</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 24:18\">Is. 24:18</a>; <a class=\"bibleref\" href=\"/passage/?search=Amos 8:4\">Amos 8:4</a>; <a class=\"bibleref\" href=\"/passage/?search=Mal 3:10\">Mal. 3:10</a>). The earth is being returned to its primordial condition by the release of the bounded waters above and by the upsurge of the subterranean waters (1:2, 6–9; 8:2–5 note).</p><p><b>deep.</b> See note 1:2.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,7,13", "genesis,7,14", "genesis,7,15" ],
+  "verses" : [ {
+    "verse" : "genesis,7,13",
+    "text" : "On that very day Noah and his sons, Shem, Ham and Japheth, together with his wife and the wives of his three sons, entered the ark."
+  }, {
+    "verse" : "genesis,7,14",
+    "text" : "They had with them every wild animal according to its kind, all livestock according to their kinds, every creature that moves along the ground according to its kind and every bird according to its kind, everything with wings."
+  }, {
+    "verse" : "genesis,7,15",
+    "text" : "Pairs of all creatures that have the breath of life in them came to Noah and entered the ark."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,7,13-genesis,7,16",
     "id" : 184869,
@@ -327,7 +534,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 7:13\">7:13</a></b> <b>On the very same day.</b> This phrase suggests a memorable occasion (<a class=\"bibleref\" href=\"/passage/?search=Gen 17:23\">17:23</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 17:26\">26</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 12:41\">Ex. 12:41</a>, <a class=\"bibleref\" href=\"/passage/?search=Exod 12:51\">51</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 32:48\">Deut. 32:48</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,7,16" ],
+  "verses" : [ {
+    "verse" : "genesis,7,16",
+    "text" : "The animals going in were male and female of every living thing, as God had commanded Noah. Then the LORD shut him in."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,7,16",
     "id" : 184871,
@@ -335,7 +545,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 7:16\">7:16</a></b> <b>the <span class=\"small-caps\">Lord</span> shut.</b> God’s works of grace are both sovereign and particular. In a Babylonian flood account the hero shuts the door; God is the chief actor throughout the biblical account. In shutting the door, God also distinguishes between the righteous and the wicked (<a class=\"bibleref\" href=\"/passage/?search=Gen 6:18-Gen 6:20\">6:18–20</a> note). Elsewhere in Scripture doors provide safety for God’s people in times of judgment. Behind closed doors while God rained judgment on the wicked, Lot (<a class=\"bibleref\" href=\"/passage/?search=Gen 19:10\">19:10</a>), Israel (<a class=\"bibleref\" href=\"/passage/?search=Exod 12:23\">Ex. 12:23</a>), and Rahab (<a class=\"bibleref\" href=\"/passage/?search=Josh 2:19\">Josh. 2:19</a>) found safety. Jesus uses this symbol of separation in describing the safety of the righteous in the day of the Lord’s coming (<a class=\"bibleref\" href=\"/passage/?search=Matt 25:10-Matt 25:13\">Matt. 25:10–13</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,7,17" ],
+  "verses" : [ {
+    "verse" : "genesis,7,17",
+    "text" : "For forty days the flood kept coming on the earth, and as the waters increased they lifted the ark high above the earth."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,7,17-genesis,7,24",
     "id" : 184872,
@@ -348,7 +561,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 7:17\">7:17</a></b> <b>forty.</b> See note on <a class=\"bibleref\" href=\"/passage/?search=Gen 7:4\">v. 4</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,7,18", "genesis,7,19" ],
+  "verses" : [ {
+    "verse" : "genesis,7,18",
+    "text" : "The waters rose and increased greatly on the earth, and the ark floated on the surface of the water."
+  }, {
+    "verse" : "genesis,7,19",
+    "text" : "They rose greatly on the earth, and all the high mountains under the entire heavens were covered."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,7,18",
     "id" : 184874,
@@ -356,7 +575,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 7:18\">7:18</a></b> <b>prevailed.</b> The Hebrew word, repeated in <a class=\"bibleref\" href=\"/passage/?search=Gen 7:19\">vv. 19</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 7:20\">20</a>, is a military term for triumph in battle.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,7,20" ],
+  "verses" : [ {
+    "verse" : "genesis,7,20",
+    "text" : "The waters rose and covered the mountains to a depth of more than twenty feet.,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,7,20",
     "id" : 184875,
@@ -364,7 +586,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 7:20\">7:20</a></b> <b>fifteen cubits deep.</b> The mountains were submerged to a depth of fifteen cubits (22.5 feet), a depth sufficient to keep the ark from grounding.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,7,21", "genesis,7,22" ],
+  "verses" : [ {
+    "verse" : "genesis,7,21",
+    "text" : "Every living thing that moved on the earth perished-birds, livestock, wild animals, all the creatures that swarm over the earth, and all mankind."
+  }, {
+    "verse" : "genesis,7,22",
+    "text" : "Everything on dry land that had the breath of life in its nostrils died."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,7,21",
     "id" : 184876,
@@ -372,7 +600,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 7:21\">7:21</a></b> The creatures are listed in the order of their creation (<a class=\"bibleref\" href=\"/passage/?search=Gen 1:20-Gen 1:25\">1:20–25</a>).</p><p><b>all flesh died.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Gen 6:17\">6:17</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,7,23", "genesis,7,24" ],
+  "verses" : [ {
+    "verse" : "genesis,7,23",
+    "text" : "Every living thing on the face of the earth was wiped out; men and animals and the creatures that move along the ground and the birds of the air were wiped from the earth. Only Noah was left, and those with him in the ark."
+  }, {
+    "verse" : "genesis,7,24",
+    "text" : "The waters flooded the earth for a hundred and fifty days."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,7,23",
     "id" : 184877,

@@ -1,5 +1,20 @@
 [ {
-  "singleVerses" : [ "leviticus,16,29", "leviticus,16,30", "leviticus,16,31", "leviticus,16,32", "leviticus,16,33" ],
+  "verses" : [ {
+    "verse" : "leviticus,16,29",
+    "text" : "\"This is to be a lasting ordinance for you: On the tenth day of the seventh month you must deny yourselves and not do any work-whether native-born or an alien living among you-"
+  }, {
+    "verse" : "leviticus,16,30",
+    "text" : "because on this day atonement will be made for you, to cleanse you. Then, before the LORD, you will be clean from all your sins."
+  }, {
+    "verse" : "leviticus,16,31",
+    "text" : "It is a sabbath of rest, and you must deny yourselves; it is a lasting ordinance."
+  }, {
+    "verse" : "leviticus,16,32",
+    "text" : "The priest who is anointed and ordained to succeed his father as high priest is to make atonement. He is to put on the sacred linen garments"
+  }, {
+    "verse" : "leviticus,16,33",
+    "text" : "and make atonement for the Most Holy Place, for the Tent of Meeting and the altar, and for the priests and all the people of the community."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,11,1-leviticus,16,34",
     "id" : 186072,
@@ -17,7 +32,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 16:29\">16:29</a></b> <b>afflict yourselves.</b> See text note. The ordinary Israelites were to show penitence for their sins by not working, by fasting, and possibly by wearing sackcloth (<a class=\"bibleref\" href=\"/passage/?search=Ps 69:10\">Ps. 69:10</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 69:11\">11</a>). Failing to observe the Day of Atonement could entail death (23:28–30). This is the only holy day to which this threat is attached.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,16,34" ],
+  "verses" : [ {
+    "verse" : "leviticus,16,34",
+    "text" : "\"This is to be a lasting ordinance for you: Atonement is to be made once a year for all the sins of the Israelites.\" And it was done, as the LORD commanded Moses."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,16,34",
     "id" : 186097,
@@ -25,7 +43,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 16:34\">16:34</a></b> <b>once in the year.</b> By contrast, Jesus Christ offered the final and complete sacrifice for sin (<a class=\"bibleref\" href=\"/passage/?search=Heb 9:23-Heb 9:28\">Heb. 9:23–28</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,17,1", "leviticus,17,2" ],
+  "verses" : [ {
+    "verse" : "leviticus,17,1",
+    "text" : "The LORD said to Moses,"
+  }, {
+    "verse" : "leviticus,17,2",
+    "text" : "\"Speak to Aaron and his sons and to all the Israelites and say to them: 'This is what the LORD has commanded:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,17,1-leviticus,27,34",
     "id" : 186098,
@@ -33,7 +57,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 17-Lev 27\">17:1–27:34</a></b> In these chapters, the Lord’s demands for holiness clearly reach into every aspect of Israel’s life. In a discussion on topics as diverse as sexual behavior and the Year of Jubilee, capital crimes and the tabernacle loaves, the Lord teaches that Israel must reflect His holiness in their behavior.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,17,3" ],
+  "verses" : [ {
+    "verse" : "leviticus,17,3",
+    "text" : "Any Israelite who sacrifices an ox, a lamb or a goat in the camp or outside of it"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,17,3-leviticus,17,8",
     "id" : 186099,
@@ -41,7 +68,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 17:3-Lev 17:8\">17:3–8</a></b> In the wilderness period animals could be killed only at the tabernacle, even for ordinary meals. This was to prevent secret sacrifices to idols (<a class=\"bibleref\" href=\"/passage/?search=Lev 17:7\">v. 7</a>). After entering Canaan this rule was relaxed (<a class=\"bibleref\" href=\"/passage/?search=Deut 12:15-Deut 12:16\">Deut. 12:15–16</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,17,4", "leviticus,17,5", "leviticus,17,6", "leviticus,17,7", "leviticus,17,8", "leviticus,17,9", "leviticus,17,10" ],
+  "verses" : [ {
+    "verse" : "leviticus,17,4",
+    "text" : "instead of bringing it to the entrance to the Tent of Meeting to present it as an offering to the LORD in front of the tabernacle of the LORD -that man shall be considered guilty of bloodshed; he has shed blood and must be cut off from his people."
+  }, {
+    "verse" : "leviticus,17,5",
+    "text" : "This is so the Israelites will bring to the LORD the sacrifices they are now making in the open fields. They must bring them to the priest, that is, to the LORD, at the entrance to the Tent of Meeting and sacrifice them as fellowship offerings."
+  }, {
+    "verse" : "leviticus,17,6",
+    "text" : "The priest is to sprinkle the blood against the altar of the LORD at the entrance to the Tent of Meeting and burn the fat as an aroma pleasing to the LORD."
+  }, {
+    "verse" : "leviticus,17,7",
+    "text" : "They must no longer offer any of their sacrifices to the goat idols to whom they prostitute themselves. This is to be a lasting ordinance for them and for the generations to come.'"
+  }, {
+    "verse" : "leviticus,17,8",
+    "text" : "\"Say to them: 'Any Israelite or any alien living among them who offers a burnt offering or sacrifice"
+  }, {
+    "verse" : "leviticus,17,9",
+    "text" : "and does not bring it to the entrance to the Tent of Meeting to sacrifice it to the LORD -that man must be cut off from his people."
+  }, {
+    "verse" : "leviticus,17,10",
+    "text" : "\"'Any Israelite or any alien living among them who eats any blood-I will set my face against that person who eats blood and will cut him off from his people."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,17,4",
     "id" : 186100,
@@ -49,7 +97,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 17:4\">17:4</a></b> <b>has shed blood.</b> Or, has committed a transgression as grievous as any involving bloodshed.</p><p><b>cut off.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Lev 7:20\">7:20</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,17,11", "leviticus,17,12", "leviticus,17,13", "leviticus,17,14", "leviticus,17,15", "leviticus,17,16" ],
+  "verses" : [ {
+    "verse" : "leviticus,17,11",
+    "text" : "For the life of a creature is in the blood, and I have given it to you to make atonement for yourselves on the altar; it is the blood that makes atonement for one's life."
+  }, {
+    "verse" : "leviticus,17,12",
+    "text" : "Therefore I say to the Israelites, \"None of you may eat blood, nor may an alien living among you eat blood.\""
+  }, {
+    "verse" : "leviticus,17,13",
+    "text" : "\"'Any Israelite or any alien living among you who hunts any animal or bird that may be eaten must drain out the blood and cover it with earth,"
+  }, {
+    "verse" : "leviticus,17,14",
+    "text" : "because the life of every creature is its blood. That is why I have said to the Israelites, \"You must not eat the blood of any creature, because the life of every creature is its blood; anyone who eats it must be cut off.\""
+  }, {
+    "verse" : "leviticus,17,15",
+    "text" : "\"'Anyone, whether native-born or alien, who eats anything found dead or torn by wild animals must wash his clothes and bathe with water, and he will be ceremonially unclean till evening; then he will be clean."
+  }, {
+    "verse" : "leviticus,17,16",
+    "text" : "But if he does not wash his clothes and bathe himself, he will be held responsible.'\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,17,11",
     "id" : 186101,
@@ -57,7 +123,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 17:11\">17:11</a></b> One of the most important theological statements in Leviticus. Life is sacred because it belongs to God. As a mark of respect for life and for its Creator, no Israelite could eat meat with blood in it “for the life of the flesh is in the blood” (cf. <a class=\"bibleref\" href=\"/passage/?search=Gen 9:4-Gen 9:6\">Gen. 9:4–6</a>). A second reason is that it is the blood that makes “atonement for your souls.” The blood of animals shed in sacrifice took the place of, and symbolically redeemed, the life of the worshiper. Because animal blood was the sign of salvation, man must not consume it. These ideas are both assumed and transformed in the New Testament. Christ’s shed blood actually atoned for sin (<a class=\"bibleref\" href=\"/passage/?search=Heb 9:14\">Heb. 9:14</a>, <a class=\"bibleref\" href=\"/passage/?search=Heb 9:22\">22</a>; <a class=\"bibleref\" href=\"/passage/?search=1John 1:7\">1 John 1:7</a>), and those who spiritually drink that blood have eternal life (<a class=\"bibleref\" href=\"/passage/?search=John 6:54\">John 6:54</a>).</p><p><b>have given it for you.</b> The sacrificial system of the Old Testament was God’s gracious gift to His people. In anticipation of the final and perfect blood sacrifice offered by Christ, God Himself ordained the procedures whereby His righteous wrath might be averted and His people reconciled to Him.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,18,1", "leviticus,18,2", "leviticus,18,3", "leviticus,18,4", "leviticus,18,5", "leviticus,18,6", "leviticus,18,7" ],
+  "verses" : [ {
+    "verse" : "leviticus,18,1",
+    "text" : "The LORD said to Moses,"
+  }, {
+    "verse" : "leviticus,18,2",
+    "text" : "\"Speak to the Israelites and say to them: 'I am the LORD your God."
+  }, {
+    "verse" : "leviticus,18,3",
+    "text" : "You must not do as they do in Egypt, where you used to live, and you must not do as they do in the land of Canaan, where I am bringing you. Do not follow their practices."
+  }, {
+    "verse" : "leviticus,18,4",
+    "text" : "You must obey my laws and be careful to follow my decrees. I am the LORD your God."
+  }, {
+    "verse" : "leviticus,18,5",
+    "text" : "Keep my decrees and laws, for the man who obeys them will live by them. I am the LORD."
+  }, {
+    "verse" : "leviticus,18,6",
+    "text" : "\"'No one is to approach any close relative to have sexual relations. I am the LORD."
+  }, {
+    "verse" : "leviticus,18,7",
+    "text" : "\"'Do not dishonor your father by having sexual relations with your mother. She is your mother; do not have relations with her."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,18,1-leviticus,18,30",
     "id" : 186102,
@@ -65,7 +152,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 18\">18:1–30</a></b> Moses instructs Israel concerning unlawful practices linked to sex and family, including incest (vv. 6–20), child sacrifice (v. 21), homosexuality (v. 22), and bestiality (v. 23). Israel’s neighbors were much less restrained in their sexual attitudes and behavior (v. 3). They permitted closer intermarriage than allowed here; they allowed homosexuality (cf. v. 22), and even some types of bestiality (cf. v. 23). The laws in this chapter presuppose that an Israelite would normally marry another Israelite. However, unions between blood relatives of the first degree (brother-sister, father-daughter) and the second degree (father-granddaughter, nephew-aunt) were prohibited. Marriage between close relatives by marriage was also banned.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,18,8" ],
+  "verses" : [ {
+    "verse" : "leviticus,18,8",
+    "text" : "\"'Do not have sexual relations with your father's wife; that would dishonor your father."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,18,8",
     "id" : 186103,
@@ -73,7 +163,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 18:8\">18:8</a></b> <b>your father’s wife.</b> Not one’s own mother (cf. <a class=\"bibleref\" href=\"/passage/?search=Lev 18:7\">v. 7</a>), but the father’s second wife (cf. <a class=\"bibleref\" href=\"/passage/?search=1Cor 5:1\">1 Cor. 5:1</a>). The phrase “it is your father’s nakedness” recalls the teaching in <a class=\"bibleref\" href=\"/passage/?search=Gen 2:24\">Gen. 2:24</a> that the married couple “become one flesh.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,18,9", "leviticus,18,10" ],
+  "verses" : [ {
+    "verse" : "leviticus,18,9",
+    "text" : "\"'Do not have sexual relations with your sister, either your father's daughter or your mother's daughter, whether she was born in the same home or elsewhere."
+  }, {
+    "verse" : "leviticus,18,10",
+    "text" : "\"'Do not have sexual relations with your son's daughter or your daughter's daughter; that would dishonor you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,18,9",
     "id" : 186104,
@@ -81,7 +177,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 18:9\">18:9</a></b> <b>your sister.</b> A full sister or half sister.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,18,11", "leviticus,18,12", "leviticus,18,13", "leviticus,18,14", "leviticus,18,15" ],
+  "verses" : [ {
+    "verse" : "leviticus,18,11",
+    "text" : "\"'Do not have sexual relations with the daughter of your father's wife, born to your father; she is your sister."
+  }, {
+    "verse" : "leviticus,18,12",
+    "text" : "\"'Do not have sexual relations with your father's sister; she is your father's close relative."
+  }, {
+    "verse" : "leviticus,18,13",
+    "text" : "\"'Do not have sexual relations with your mother's sister, because she is your mother's close relative."
+  }, {
+    "verse" : "leviticus,18,14",
+    "text" : "\"'Do not dishonor your father's brother by approaching his wife to have sexual relations; she is your aunt."
+  }, {
+    "verse" : "leviticus,18,15",
+    "text" : "\"'Do not have sexual relations with your daughter-in-law. She is your son's wife; do not have relations with her."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,18,11",
     "id" : 186105,
@@ -89,7 +200,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 18:11\">18:11</a></b> <b>your sister.</b> A stepsister.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,18,16" ],
+  "verses" : [ {
+    "verse" : "leviticus,18,16",
+    "text" : "\"'Do not have sexual relations with your brother's wife; that would dishonor your brother."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,18,16",
     "id" : 186106,
@@ -97,7 +211,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 18:16\">18:16</a></b> The law of levirate marriage (<a class=\"bibleref\" href=\"/passage/?search=Deut 25:5\">Deut. 25:5</a> note) encouraged a man to marry his widowed sister-in-law if her first marriage was childless. This provision shows the importance of preserving the family inheritance by perpetuating the family line in Old Testament society (<a class=\"bibleref\" href=\"/passage/?search=Num 27:1-Num 27:11\">Num. 27:1–11</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,18,17" ],
+  "verses" : [ {
+    "verse" : "leviticus,18,17",
+    "text" : "\"'Do not have sexual relations with both a woman and her daughter. Do not have sexual relations with either her son's daughter or her daughter's daughter; they are her close relatives. That is wickedness."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,18,17",
     "id" : 186107,
@@ -105,7 +222,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 18:17\">18:17</a></b> <b>her daughter.</b> The daughter of the woman would be the man’s step-daughter or step-granddaughter.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,18,18" ],
+  "verses" : [ {
+    "verse" : "leviticus,18,18",
+    "text" : "\"'Do not take your wife's sister as a rival wife and have sexual relations with her while your wife is living."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,18,18",
     "id" : 186108,
@@ -113,7 +233,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 18:18\">18:18</a></b> The sad example of Jacob’s marriage to Leah and Rachel illustrates the compassionate wisdom of this law (<a class=\"bibleref\" href=\"/passage/?search=Gen 29:23-Gen 30:24\">Gen. 29:23–30:24</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,18,19", "leviticus,18,20" ],
+  "verses" : [ {
+    "verse" : "leviticus,18,19",
+    "text" : "\"'Do not approach a woman to have sexual relations during the uncleanness of her monthly period."
+  }, {
+    "verse" : "leviticus,18,20",
+    "text" : "\"'Do not have sexual relations with your neighbor's wife and defile yourself with her."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,18,19",
     "id" : 186109,
@@ -121,7 +247,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 18:19\">18:19</a></b> See note on <a class=\"bibleref\" href=\"/passage/?search=Lev 15\">ch. 15</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,18,21", "leviticus,18,22", "leviticus,18,23", "leviticus,18,24" ],
+  "verses" : [ {
+    "verse" : "leviticus,18,21",
+    "text" : "\"'Do not give any of your children to be sacrificed to Molech, for you must not profane the name of your God. I am the LORD."
+  }, {
+    "verse" : "leviticus,18,22",
+    "text" : "\"'Do not lie with a man as one lies with a woman; that is detestable."
+  }, {
+    "verse" : "leviticus,18,23",
+    "text" : "\"'Do not have sexual relations with an animal and defile yourself with it. A woman must not present herself to an animal to have sexual relations with it; that is a perversion."
+  }, {
+    "verse" : "leviticus,18,24",
+    "text" : "\"'Do not defile yourselves in any of these ways, because this is how the nations that I am going to drive out before you became defiled."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,18,21",
     "id" : 186110,
@@ -129,7 +267,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 18:21\">18:21</a></b> <b>offer them to Molech.</b> The custom of sacrificing children was practiced among the ancient Phoenicians and pagan inhabitants of Canaan (<a class=\"bibleref\" href=\"/passage/?search=Deut 12:31\">Deut. 12:31</a> note). The cult of Molech, a god of the Ammonites, was a temptation to the Israelites (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 11:7\">1 Kin. 11:7</a>; <a class=\"bibleref\" href=\"/passage/?search=2Kgs 23:10\">2 Kin. 23:10</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,18,25", "leviticus,18,26", "leviticus,18,27", "leviticus,18,28" ],
+  "verses" : [ {
+    "verse" : "leviticus,18,25",
+    "text" : "Even the land was defiled; so I punished it for its sin, and the land vomited out its inhabitants."
+  }, {
+    "verse" : "leviticus,18,26",
+    "text" : "But you must keep my decrees and my laws. The native-born and the aliens living among you must not do any of these detestable things,"
+  }, {
+    "verse" : "leviticus,18,27",
+    "text" : "for all these things were done by the people who lived in the land before you, and the land became defiled."
+  }, {
+    "verse" : "leviticus,18,28",
+    "text" : "And if you defile the land, it will vomit you out as it vomited out the nations that were before you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,18,25",
     "id" : 186111,
@@ -137,7 +287,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 18:25\">18:25</a></b> <b>the land became unclean.</b> Uncleanness and sin were contagious: all and everything that came in contact with it was infected, including the sanctuary (<a class=\"bibleref\" href=\"/passage/?search=Lev 16:16\">16:16</a> note) and the land.</p><p><b>vomited.</b> This personification of the land underscores the poisonous contagion of uncleanness and sin.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,18,29", "leviticus,18,30" ],
+  "verses" : [ {
+    "verse" : "leviticus,18,29",
+    "text" : "\"'Everyone who does any of these detestable things-such persons must be cut off from their people."
+  }, {
+    "verse" : "leviticus,18,30",
+    "text" : "Keep my requirements and do not follow any of the detestable customs that were practiced before you came and do not defile yourselves with them. I am the LORD your God.'\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,18,29",
     "id" : 186112,

@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "2chronicles,35,1", "2chronicles,35,2" ],
+  "verses" : [ {
+    "verse" : "2chronicles,35,1",
+    "text" : "Josiah celebrated the Passover to the LORD in Jerusalem, and the Passover lamb was slaughtered on the fourteenth day of the first month."
+  }, {
+    "verse" : "2chronicles,35,2",
+    "text" : "He appointed the priests to their duties and encouraged them in the service of the LORD's temple."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,34,1-2chronicles,36,1",
     "id" : 189546,
@@ -17,7 +23,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 35:1\">35:1</a></b> <b>Passover.</b> The Passover celebrated in Josiah’s eighteenth year is mentioned briefly in <a class=\"bibleref\" href=\"/passage/?search=2Kgs 23:21-2Kgs 23:23\">2 Kin. 23:21–23</a>, but described here in detail. Like Hezekiah before him (30:1 note), Josiah enthusiastically observed this national celebration in the temple at Jerusalem (see also <a class=\"bibleref\" href=\"/passage/?search=Ezra 6:19-Ezra 6:22\">Ezra 6:19–22</a>).</p><p><b>first month.</b> See note 30:2.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,35,3" ],
+  "verses" : [ {
+    "verse" : "2chronicles,35,3",
+    "text" : "He said to the Levites, who instructed all Israel and who had been consecrated to the LORD: \"Put the sacred ark in the temple that Solomon son of David king of Israel built. It is not to be carried about on your shoulders. Now serve the LORD your God and his people Israel."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,35,3",
     "id" : 189555,
@@ -25,7 +34,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 35:3\">35:3</a></b> <b>all Israel.</b> This includes people from the northern and southern kingdoms. Like Hezekiah, Josiah presided over a reunion of the people (<a class=\"bibleref\" href=\"/passage/?search=2Chr 30:1\">30:1</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,35,4", "2chronicles,35,5" ],
+  "verses" : [ {
+    "verse" : "2chronicles,35,4",
+    "text" : "Prepare yourselves by families in your divisions, according to the directions written by David king of Israel and by his son Solomon."
+  }, {
+    "verse" : "2chronicles,35,5",
+    "text" : "\"Stand in the holy place with a group of Levites for each subdivision of the families of your fellow countrymen, the lay people."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,35,4",
     "id" : 189556,
@@ -33,7 +48,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 35:4\">35:4</a></b> <b>the writing of David . . . and . . . Solomon.</b> Josiah’s celebration could stand as an example to future generations because it was conducted according to the recognized standards of David and Solomon.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,35,6" ],
+  "verses" : [ {
+    "verse" : "2chronicles,35,6",
+    "text" : "Slaughter the Passover lambs, consecrate yourselves and prepare the lambs for your fellow countrymen, doing what the LORD commanded through Moses.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,35,6",
     "id" : 189557,
@@ -41,7 +59,40 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 35:6\">35:6</a></b> <b>the word of the <span class=\"small-caps\">Lord</span> by Moses.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Chr 16:40\">1 Chr. 16:40</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,35,7", "2chronicles,35,8", "2chronicles,35,9", "2chronicles,35,10", "2chronicles,35,11", "2chronicles,35,12", "2chronicles,35,13", "2chronicles,35,14", "2chronicles,35,15", "2chronicles,35,16", "2chronicles,35,17" ],
+  "verses" : [ {
+    "verse" : "2chronicles,35,7",
+    "text" : "Josiah provided for all the lay people who were there a total of thirty thousand sheep and goats for the Passover offerings, and also three thousand cattle-all from the king's own possessions."
+  }, {
+    "verse" : "2chronicles,35,8",
+    "text" : "His officials also contributed voluntarily to the people and the priests and Levites. Hilkiah, Zechariah and Jehiel, the administrators of God's temple, gave the priests twenty-six hundred Passover offerings and three hundred cattle."
+  }, {
+    "verse" : "2chronicles,35,9",
+    "text" : "Also Conaniah along with Shemaiah and Nethanel, his brothers, and Hashabiah, Jeiel and Jozabad, the leaders of the Levites, provided five thousand Passover offerings and five hundred head of cattle for the Levites."
+  }, {
+    "verse" : "2chronicles,35,10",
+    "text" : "The service was arranged and the priests stood in their places with the Levites in their divisions as the king had ordered."
+  }, {
+    "verse" : "2chronicles,35,11",
+    "text" : "The Passover lambs were slaughtered, and the priests sprinkled the blood handed to them, while the Levites skinned the animals."
+  }, {
+    "verse" : "2chronicles,35,12",
+    "text" : "They set aside the burnt offerings to give them to the subdivisions of the families of the people to offer to the LORD, as is written in the Book of Moses. They did the same with the cattle."
+  }, {
+    "verse" : "2chronicles,35,13",
+    "text" : "They roasted the Passover animals over the fire as prescribed, and boiled the holy offerings in pots, caldrons and pans and served them quickly to all the people."
+  }, {
+    "verse" : "2chronicles,35,14",
+    "text" : "After this, they made preparations for themselves and for the priests, because the priests, the descendants of Aaron, were sacrificing the burnt offerings and the fat portions until nightfall. So the Levites made preparations for themselves and for the Aaronic priests."
+  }, {
+    "verse" : "2chronicles,35,15",
+    "text" : "The musicians, the descendants of Asaph, were in the places prescribed by David, Asaph, Heman and Jeduthun the king's seer. The gatekeepers at each gate did not need to leave their posts, because their fellow Levites made the preparations for them."
+  }, {
+    "verse" : "2chronicles,35,16",
+    "text" : "So at that time the entire service of the LORD was carried out for the celebration of the Passover and the offering of burnt offerings on the altar of the LORD, as King Josiah had ordered."
+  }, {
+    "verse" : "2chronicles,35,17",
+    "text" : "The Israelites who were present celebrated the Passover at that time and observed the Feast of Unleavened Bread for seven days."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,35,7-2chronicles,35,8",
     "id" : 189558,
@@ -49,7 +100,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 35:7\">35:7</a>, <a class=\"bibleref\" href=\"/passage/?search=2Chr 35:8\">8</a></b> Josiah followed a pattern similar to David (<a class=\"bibleref\" href=\"/passage/?search=1Chr 29:3\">1 Chr. 29:3</a> note) and Hezekiah (30:24 note). His own contributions were followed by enthusiastic contributions from others.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,35,18", "2chronicles,35,19" ],
+  "verses" : [ {
+    "verse" : "2chronicles,35,18",
+    "text" : "The Passover had not been observed like this in Israel since the days of the prophet Samuel; and none of the kings of Israel had ever celebrated such a Passover as did Josiah, with the priests, the Levites and all Judah and Israel who were there with the people of Jerusalem."
+  }, {
+    "verse" : "2chronicles,35,19",
+    "text" : "This Passover was celebrated in the eighteenth year of Josiah's reign."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,35,18",
     "id" : 189559,
@@ -57,7 +114,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 35:18\">35:18</a></b> <b>No Passover like it . . . since the days of Samuel.</b> The writer makes a similar observation about Hezekiah’s Passover (<a class=\"bibleref\" href=\"/passage/?search=2Chr 30:26\">30:26</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,35,20" ],
+  "verses" : [ {
+    "verse" : "2chronicles,35,20",
+    "text" : "After all this, when Josiah had set the temple in order, Neco king of Egypt went up to fight at Carchemish on the Euphrates, and Josiah marched out to meet him in battle."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,35,20",
     "id" : 189560,
@@ -65,7 +125,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 35:20\">35:20</a></b> Even a king who “had prepared the temple” would suffer divine retribution if he ignored the word of God. Josiah fell in battle because he refused to obey the divinely directed words of Pharaoh Neco (<a class=\"bibleref\" href=\"/passage/?search=2Chr 35:22\">v. 22</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,35,21" ],
+  "verses" : [ {
+    "verse" : "2chronicles,35,21",
+    "text" : "But Neco sent messengers to him, saying, \"What quarrel is there between you and me, O king of Judah? It is not you I am attacking at this time, but the house with which I am at war. God has told me to hurry; so stop opposing God, who is with me, or he will destroy you.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,35,21",
     "id" : 189561,
@@ -73,7 +136,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 35:21\">35:21</a></b> <b>house with which I am at war.</b> It is not clear why Josiah wanted to impede the progress of Pharaoh Neco. He may have been entangled in an alliance with Neco’s enemies (cf. <a class=\"bibleref\" href=\"/passage/?search=2Kgs 23:29\">2 Kin. 23:29</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,35,22", "2chronicles,35,23" ],
+  "verses" : [ {
+    "verse" : "2chronicles,35,22",
+    "text" : "Josiah, however, would not turn away from him, but disguised himself to engage him in battle. He would not listen to what Neco had said at God's command but went to fight him on the plain of Megiddo."
+  }, {
+    "verse" : "2chronicles,35,23",
+    "text" : "Archers shot King Josiah, and he told his officers, \"Take me away; I am badly wounded.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,35,22",
     "id" : 189562,
@@ -81,7 +150,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 35:22\">35:22</a></b> <b>from the mouth of God.</b> In some way God had conveyed His purposes to the foreign king, as He had to Ahimelech through a dream (<a class=\"bibleref\" href=\"/passage/?search=Gen 20:3\">Gen. 20:3</a>), but Josiah would not listen.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,35,24" ],
+  "verses" : [ {
+    "verse" : "2chronicles,35,24",
+    "text" : "So they took him out of his chariot, put him in the other chariot he had and brought him to Jerusalem, where he died. He was buried in the tombs of his fathers, and all Judah and Jerusalem mourned for him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,35,24",
     "id" : 189563,
@@ -89,7 +161,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 35:24\">35:24</a></b> <b>Jerusalem mourned.</b> Despite his final weakness, Josiah was an honorable king of Judah (<a class=\"bibleref\" href=\"/passage/?search=2Chr 21:19\">21:19</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,35,25", "2chronicles,35,26" ],
+  "verses" : [ {
+    "verse" : "2chronicles,35,25",
+    "text" : "Jeremiah composed laments for Josiah, and to this day all the men and women singers commemorate Josiah in the laments. These became a tradition in Israel and are written in the Laments."
+  }, {
+    "verse" : "2chronicles,35,26",
+    "text" : "The other events of Josiah's reign and his acts of devotion, according to what is written in the Law of the LORD -"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,35,25",
     "id" : 189564,
@@ -97,7 +175,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 35:25\">35:25</a></b> <b>Jeremiah also uttered a lament.</b> This passage has been taken to show that Jeremiah wrote the Book of Lamentations, but the identification is uncertain.</p><p><b>to this day.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Chr 4:41\">1 Chr. 4:41</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,35,27", "2chronicles,36,1" ],
+  "verses" : [ {
+    "verse" : "2chronicles,35,27",
+    "text" : "all the events, from beginning to end, are written in the book of the kings of Israel and Judah."
+  }, {
+    "verse" : "2chronicles,36,1",
+    "text" : "And the people of the land took Jehoahaz son of Josiah and made him king in Jerusalem in place of his father."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,35,27",
     "id" : 189565,
@@ -105,7 +189,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 35:27\">35:27</a></b> <b>the Book of the Kings.</b> See the introduction to 1 Chronicles.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,36,2" ],
+  "verses" : [ {
+    "verse" : "2chronicles,36,2",
+    "text" : "Jehoahaz was twenty-three years old when he became king, and he reigned in Jerusalem three months."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,36,2-2chronicles,36,14",
     "id" : 189566,
@@ -118,7 +205,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 36:2\">36:2</a></b> <b>Jehoahaz.</b> Reigned for three months in 609 <span class=\"small-caps\">b.c.</span></p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,36,3" ],
+  "verses" : [ {
+    "verse" : "2chronicles,36,3",
+    "text" : "The king of Egypt dethroned him in Jerusalem and imposed on Judah a levy of a hundred talents of silver and a talent of gold."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,36,3",
     "id" : 189568,
@@ -126,7 +216,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 36:3\">36:3</a></b> <b>king of Egypt.</b> After Josiah’s defeat by Neco (609 <span class=\"small-caps\">b.c.</span>), Egypt dominated Judah.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,36,4" ],
+  "verses" : [ {
+    "verse" : "2chronicles,36,4",
+    "text" : "The king of Egypt made Eliakim, a brother of Jehoahaz, king over Judah and Jerusalem and changed Eliakim's name to Jehoiakim. But Neco took Eliakim's brother Jehoahaz and carried him off to Egypt."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,36,4",
     "id" : 189569,
@@ -134,7 +227,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 36:4\">36:4</a></b> <b>changed his name.</b> To change another king’s name demonstrated political dominance.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,36,5" ],
+  "verses" : [ {
+    "verse" : "2chronicles,36,5",
+    "text" : "Jehoiakim was twenty-five years old when he became king, and he reigned in Jerusalem eleven years. He did evil in the eyes of the LORD his God."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,36,5-2chronicles,36,8",
     "id" : 189570,
@@ -147,7 +243,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 36:5\">36:5</a></b> <b>Jehoiakim.</b> Reigned 609–598 <span class=\"small-caps\">b.c.</span></p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,36,6", "2chronicles,36,7", "2chronicles,36,8" ],
+  "verses" : [ {
+    "verse" : "2chronicles,36,6",
+    "text" : "Nebuchadnezzar king of Babylon attacked him and bound him with bronze shackles to take him to Babylon."
+  }, {
+    "verse" : "2chronicles,36,7",
+    "text" : "Nebuchadnezzar also took to Babylon articles from the temple of the LORD and put them in his temple there."
+  }, {
+    "verse" : "2chronicles,36,8",
+    "text" : "The other events of Jehoiakim's reign, the detestable things he did and all that was found against him, are written in the book of the kings of Israel and Judah. And Jehoiachin his son succeeded him as king."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,36,6",
     "id" : 189572,
@@ -155,7 +260,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 36:6\">36:6</a></b> <b>Nebuchadnezzar king of Babylon.</b> After Egypt was defeated by the Babylonians at Carchemish (605 <span class=\"small-caps\">b.c.</span>), Judah was subjected to Babylonian power.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,36,9", "2chronicles,36,10" ],
+  "verses" : [ {
+    "verse" : "2chronicles,36,9",
+    "text" : "Jehoiachin was eighteen years old when he became king, and he reigned in Jerusalem three months and ten days. He did evil in the eyes of the LORD."
+  }, {
+    "verse" : "2chronicles,36,10",
+    "text" : "In the spring, King Nebuchadnezzar sent for him and brought him to Babylon, together with articles of value from the temple of the LORD, and he made Jehoiachin's uncle, Zedekiah, king over Judah and Jerusalem."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,36,9",
     "id" : 189573,
@@ -163,7 +274,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 36:9\">36:9</a></b> <b>Jehoiachin.</b> Reigned for just over three months in 597 <span class=\"small-caps\">b.c.</span> This capture and release is reported in <a class=\"bibleref\" href=\"/passage/?search=2Kgs 24:8-2Kgs 24:12\">2 Kin. 24:8–12</a>; <a class=\"bibleref\" href=\"/passage/?search=2Kgs 25:27-2Kgs 25:30\">25:27–30</a>. Chronicles passes over his release from Babylon, electing instead to end with the edict of Cyrus permitting the exiles to return to Jerusalem.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,36,11", "2chronicles,36,12", "2chronicles,36,13" ],
+  "verses" : [ {
+    "verse" : "2chronicles,36,11",
+    "text" : "Zedekiah was twenty-one years old when he became king, and he reigned in Jerusalem eleven years."
+  }, {
+    "verse" : "2chronicles,36,12",
+    "text" : "He did evil in the eyes of the LORD his God and did not humble himself before Jeremiah the prophet, who spoke the word of the LORD."
+  }, {
+    "verse" : "2chronicles,36,13",
+    "text" : "He also rebelled against King Nebuchadnezzar, who had made him take an oath in God's name. He became stiff-necked and hardened his heart and would not turn to the LORD, the God of Israel."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,36,11",
     "id" : 189574,
@@ -171,7 +291,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 36:11\">36:11</a></b> <b>Zedekiah.</b> Reigned 597–586 <span class=\"small-caps\">b.c.</span> Zedekiah sought help from Egypt, but to no avail. The Babylonians laid siege to Jerusalem for two years and finally took the city in 586 <span class=\"small-caps\">b.c.</span></p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,36,14" ],
+  "verses" : [ {
+    "verse" : "2chronicles,36,14",
+    "text" : "Furthermore, all the leaders of the priests and the people became more and more unfaithful, following all the detestable practices of the nations and defiling the temple of the LORD, which he had consecrated in Jerusalem."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,36,14",
     "id" : 189575,
@@ -179,7 +302,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 36:14\">36:14</a></b> <b>All the officers.</b> Not only the kings, but the priests and the people also committed sins that subjected them to the retribution of exile in Babylonia.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,36,15" ],
+  "verses" : [ {
+    "verse" : "2chronicles,36,15",
+    "text" : "The LORD, the God of their fathers, sent word to them through his messengers again and again, because he had pity on his people and on his dwelling place."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,36,15",
     "id" : 189576,
@@ -187,7 +313,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 36:15\">36:15</a></b> <b>his messengers.</b> The warnings of prophets appear often in Chronicles (<a class=\"bibleref\" href=\"/passage/?search=2Chr 20:20\">20:20</a> note). Jeremiah was active during the reign of Zedekiah (<a class=\"bibleref\" href=\"/passage/?search=Jer 1\">Jer. 1</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 21\">21</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 34\">34</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 37\">37</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 38\">38</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 52\">52</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,36,16", "2chronicles,36,17", "2chronicles,36,18", "2chronicles,36,19", "2chronicles,36,20" ],
+  "verses" : [ {
+    "verse" : "2chronicles,36,16",
+    "text" : "But they mocked God's messengers, despised his words and scoffed at his prophets until the wrath of the LORD was aroused against his people and there was no remedy."
+  }, {
+    "verse" : "2chronicles,36,17",
+    "text" : "He brought up against them the king of the Babylonians, who killed their young men with the sword in the sanctuary, and spared neither young man nor young woman, old man or aged. God handed all of them over to Nebuchadnezzar."
+  }, {
+    "verse" : "2chronicles,36,18",
+    "text" : "He carried to Babylon all the articles from the temple of God, both large and small, and the treasures of the LORD's temple and the treasures of the king and his officials."
+  }, {
+    "verse" : "2chronicles,36,19",
+    "text" : "They set fire to God's temple and broke down the wall of Jerusalem; they burned all the palaces and destroyed everything of value there."
+  }, {
+    "verse" : "2chronicles,36,20",
+    "text" : "He carried into exile to Babylon the remnant, who escaped from the sword, and they became servants to him and his sons until the kingdom of Persia came to power."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,36,16",
     "id" : 189577,
@@ -195,7 +336,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 36:16\">36:16</a></b> <b>no remedy.</b> Compare <a class=\"bibleref\" href=\"/passage/?search=Heb 6:4-Heb 6:6\">Heb. 6:4–6</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,36,21" ],
+  "verses" : [ {
+    "verse" : "2chronicles,36,21",
+    "text" : "The land enjoyed its sabbath rests; all the time of its desolation it rested, until the seventy years were completed in fulfillment of the word of the LORD spoken by Jeremiah."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,36,21",
     "id" : 189578,
@@ -203,7 +347,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 36:21\">36:21</a></b> <b>land had enjoyed its Sabbaths.</b> This observation shows that God had His own purposes in allowing the Babylonian exile of the Jews. During it the land could enjoy the Sabbath rests it had been denied (<a class=\"bibleref\" href=\"/passage/?search=Lev 26:40-Lev 26:45\">Lev. 26:40–45</a>).</p><p><b>seventy years.</b> See <a class=\"bibleref\" href=\"/passage/?search=Jer 25:1-Jer 25:14\">Jer. 25:1–14</a> and <a class=\"bibleref\" href=\"/passage/?search=Dan 9\">Dan. 9</a>. Chronicles takes the end of the seventy years to be the first year of Cyrus (538 <span class=\"small-caps\">b.c.</span>). Perhaps the calculation is from the first deportation (605 or 604 <span class=\"small-caps\">b.c.</span>) under Jehoiakim. <a class=\"bibleref\" href=\"/passage/?search=Zech 1:12-Zech 1:17\">Zech. 1:12–17</a> may indicate that the seventy years was measured from the destruction of the temple in 586 <span class=\"small-caps\">b.c.</span> to its rededication in 516 <span class=\"small-caps\">b.c.</span></p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,36,22" ],
+  "verses" : [ {
+    "verse" : "2chronicles,36,22",
+    "text" : "In the first year of Cyrus king of Persia, in order to fulfill the word of the LORD spoken by Jeremiah, the LORD moved the heart of Cyrus king of Persia to make a proclamation throughout his realm and to put it in writing:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,36,22-2chronicles,36,23",
     "id" : 189579,
@@ -211,7 +358,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 36:22\">36:22</a>, <a class=\"bibleref\" href=\"/passage/?search=2Chr 36:23\">23</a></b> This passage is repeated with some variation in <a class=\"bibleref\" href=\"/passage/?search=Ezra 1:1-Ezra 1:4\">Ezra 1:1–4</a>. Cyrus exercised a liberal policy toward many people deported by the Babylonians. Israel’s release recalls Solomon’s prayer of dedication (6:36–39 note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,36,23" ],
+  "verses" : [ {
+    "verse" : "2chronicles,36,23",
+    "text" : "\"This is what Cyrus king of Persia says: \"'The LORD, the God of heaven, has given me all the kingdoms of the earth and he has appointed me to build a temple for him at Jerusalem in Judah. Anyone of his people among you-may the LORD his God be with him, and let him go up.'\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,36,23",
     "id" : 189580,

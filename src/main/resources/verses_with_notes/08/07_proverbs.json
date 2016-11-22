@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,20,26" ],
+  "verses" : [ {
+    "verse" : "proverbs,20,26",
+    "text" : "A wise king winnows out the wicked; he drives the threshing wheel over them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 20:26\">20:26</a></b> See <a class=\"bibleref\" href=\"/passage/?search=Prov 20:8\">v. 8</a> and note. The wise king has the ability to discern.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,20,27" ],
+  "verses" : [ {
+    "verse" : "proverbs,20,27",
+    "text" : "The lamp of the LORD searches the spirit of a man; it searches out his inmost being."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,20,27",
     "id" : 192115,

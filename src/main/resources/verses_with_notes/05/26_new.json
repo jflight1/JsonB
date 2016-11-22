@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "john,15,1" ],
+  "verses" : [ {
+    "verse" : "john,15,1",
+    "text" : "\"I am the true vine, and my Father is the gardener."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,13,1-john,17,26",
     "id" : 197170,
@@ -17,7 +20,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 15:1\">15:1</a></b> <b>I am the true vine.</b> As elsewhere in this Gospel, “true” means “genuine.” Jesus is the final, real “vine,” as compared to Israel, which was a type foreshadowing the reality. Israel is called God’s “vine” or “vineyard” in the Old Testament (<a class=\"bibleref\" href=\"/passage/?search=Ps 80:8-Ps 80:16\">Ps. 80:8–16</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 2:21\">Jer. 2:21</a>). Israel is judged for not bearing fruit, while Jesus is and does what the type signified. This is the last of the “I am” sayings in the Gospel (6:35 note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,15,2", "john,15,3" ],
+  "verses" : [ {
+    "verse" : "john,15,2",
+    "text" : "He cuts off every branch in me that bears no fruit, while every branch that does bear fruit he prunes so that it will be even more fruitful."
+  }, {
+    "verse" : "john,15,3",
+    "text" : "You are already clean because of the word I have spoken to you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,15,2",
     "id" : 197221,
@@ -25,7 +34,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 15:2\">15:2</a></b> <b>does not bear fruit.</b> No branch that is Christ’s can be wholly fruitless. But branches that belong to Christ will bear fruit, and undergo the pruning necessary to increase. The lack of fruit described in <a class=\"bibleref\" href=\"/passage/?search=Ps 80\">Ps. 80</a>, <a class=\"bibleref\" href=\"/passage/?search=Isa 5:1\">Is. 5:1</a>, and <a class=\"bibleref\" href=\"/passage/?search=Jer 2:21\">Jer. 2:21</a> is failure to be obedient to God. These Old Testament discussions of the vine and its fruit, combined with Christ’s command to love in this chapter, indicate that “fruit” refers to a Christ-like life produced by the Holy Spirit (<a class=\"bibleref\" href=\"/passage/?search=Gal 5:22\">Gal. 5:22</a>, <a class=\"bibleref\" href=\"/passage/?search=Gal 5:23\">23</a>), rather than to the number of people converted under a believer’s ministry.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,15,4" ],
+  "verses" : [ {
+    "verse" : "john,15,4",
+    "text" : "Remain in me, and I will remain in you. No branch can bear fruit by itself; it must remain in the vine. Neither can you bear fruit unless you remain in me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,15,4",
     "id" : 197222,
@@ -33,7 +45,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 15:4\">15:4</a></b> <b>Abide.</b> Jesus emphasizes permanence and steadfastness in His relationship with the disciples. “Abide” is repeated ten times in <a class=\"bibleref\" href=\"/passage/?search=John 15:4-John 15:10\">vv. 4–10</a>. The metaphor of the vine illustrates the point; it is only when nutrients flow freely to the branches that fruit can be borne.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,15,5" ],
+  "verses" : [ {
+    "verse" : "john,15,5",
+    "text" : "\"I am the vine; you are the branches. If a man remains in me and I in him, he will bear much fruit; apart from me you can do nothing."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,15,5",
     "id" : 197223,
@@ -41,7 +56,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 15:5\">15:5</a></b> <b>apart from me you can do nothing.</b> The total inability of the unregenerate sinner makes saving grace absolutely necessary for the beginning, the development, and the completion of salvation.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,15,6", "john,15,7" ],
+  "verses" : [ {
+    "verse" : "john,15,6",
+    "text" : "If anyone does not remain in me, he is like a branch that is thrown away and withers; such branches are picked up, thrown into the fire and burned."
+  }, {
+    "verse" : "john,15,7",
+    "text" : "If you remain in me and my words remain in you, ask whatever you wish, and it will be given you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,15,6",
     "id" : 197224,
@@ -49,7 +70,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 15:6\">15:6</a></b> <b>If anyone does not abide in me.</b> Those that do not remain show that they never had a saving relationship with Christ. Their destiny is described with the language of damnation (cf. <a class=\"bibleref\" href=\"/passage/?search=Matt 3:12\">Matt. 3:12</a>; <a class=\"bibleref\" href=\"/passage/?search=Matt 25:41\">25:41</a>; <a class=\"bibleref\" href=\"/passage/?search=Jude 1:7\">Jude 7</a>; <a class=\"bibleref\" href=\"/passage/?search=Rev 20:14\">Rev. 20:14</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,15,8", "john,15,9", "john,15,10" ],
+  "verses" : [ {
+    "verse" : "john,15,8",
+    "text" : "This is to my Father's glory, that you bear much fruit, showing yourselves to be my disciples."
+  }, {
+    "verse" : "john,15,9",
+    "text" : "\"As the Father has loved me, so have I loved you. Now remain in my love."
+  }, {
+    "verse" : "john,15,10",
+    "text" : "If you obey my commands, you will remain in my love, just as I have obeyed my Father's commands and remain in his love."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,15,8",
     "id" : 197225,
@@ -57,7 +87,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 15:8\">15:8</a></b> <b>so prove to be my disciples.</b> The works spoken of are not the ground of acceptance with God, but the result of a saving union with Christ received through grace, not merit.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,15,11" ],
+  "verses" : [ {
+    "verse" : "john,15,11",
+    "text" : "I have told you this so that my joy may be in you and that your joy may be complete."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,15,11",
     "id" : 197226,
@@ -65,7 +98,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 15:11\">15:11</a></b> <b>my joy.</b> Many imagine that obedience to Christ is burdensome because it requires sacrificial self-surrender and service (<a class=\"bibleref\" href=\"/passage/?search=Rom 12:1\">Rom. 12:1</a>, <a class=\"bibleref\" href=\"/passage/?search=Rom 12:2\">2</a>). Jesus teaches the opposite, associating obedience with joy.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,15,12" ],
+  "verses" : [ {
+    "verse" : "john,15,12",
+    "text" : "My command is this: Love each other as I have loved you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,15,12",
     "id" : 197227,
@@ -73,7 +109,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 15:12\">15:12</a></b> <b>my commandment.</b> See note <a class=\"bibleref\" href=\"/passage/?search=John 13:34\">13:34</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,15,13" ],
+  "verses" : [ {
+    "verse" : "john,15,13",
+    "text" : "Greater love has no one than this, that he lay down his life for his friends."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,15,13",
     "id" : 197228,
@@ -81,7 +120,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 15:13\">15:13</a></b> <b>lays down his life.</b> <a class=\"bibleref\" href=\"/passage/?search=Rom 5:7\">Rom. 5:7</a>, <a class=\"bibleref\" href=\"/passage/?search=Rom 5:8\">8</a> describes Christ’s amazing self-sacrifice, not for the righteous, but for sinners who are at enmity with God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,15,14" ],
+  "verses" : [ {
+    "verse" : "john,15,14",
+    "text" : "You are my friends if you do what I command."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,15,14",
     "id" : 197229,
@@ -89,7 +131,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 15:14\">15:14</a></b> <b>my friends.</b> The test of friendship with Christ is obedience.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,15,15" ],
+  "verses" : [ {
+    "verse" : "john,15,15",
+    "text" : "I no longer call you servants, because a servant does not know his master's business. Instead, I have called you friends, for everything that I learned from my Father I have made known to you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,15,15",
     "id" : 197230,
@@ -97,7 +142,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 15:15\">15:15</a></b> <b>No longer do I call you servants.</b> There is no previous record of Jesus Christ calling the disciples “servants,” except possibly <a class=\"bibleref\" href=\"/passage/?search=John 12:26\">12:26</a>; yet Jesus had a right to do this, as He had the right to be called “Lord” (<a class=\"bibleref\" href=\"/passage/?search=John 13:13\">13:13</a>). “Friend” suggests a close relation, and the language of brotherhood is closer still (<a class=\"bibleref\" href=\"/passage/?search=Heb 2:10\">Heb. 2:10</a>, <a class=\"bibleref\" href=\"/passage/?search=Heb 2:11\">11</a>).</p><p><b>all . . . I have made known.</b> Christ did not have a higher revelation reserved for an inner group; He revealed Himself to the disciples unstintingly.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,15,16" ],
+  "verses" : [ {
+    "verse" : "john,15,16",
+    "text" : "You did not choose me, but I chose you and appointed you to go and bear fruit--fruit that will last. Then the Father will give you whatever you ask in my name."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,15,16",
     "id" : 197231,
@@ -105,7 +153,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 15:16\">15:16</a></b> <b>You did not choose me, but I chose you.</b> Jesus does not mean that His disciples exercised no will of their own; they did choose to follow Him. Rather, He is indicating that the first initiative, the original and saving choice, was His. Had He not chosen them, they would not have chosen Him. The immediate reference is to service as apostles, but the principle applies to many other matters including election to salvation (<a class=\"bibleref\" href=\"/passage/?search=Eph 1:4\">Eph. 1:4</a>, <a class=\"bibleref\" href=\"/passage/?search=Eph 1:11\">11</a>).</p><p><b>appointed you.</b> This too emphasizes the sovereign activity of God exercised without violation of the human act of decision.</p><p><b>go.</b> This verb marks the direction of Christian service, like <a class=\"bibleref\" href=\"/passage/?search=Matt 28:19\">Matt. 28:19</a> and <a class=\"bibleref\" href=\"/passage/?search=Acts 1:8\">Acts 1:8</a>.</p><p><b>fruit.</b> The figure refers to individual sanctification (<a class=\"bibleref\" href=\"/passage/?search=Gal 5:22\">Gal. 5:22</a>, <a class=\"bibleref\" href=\"/passage/?search=Gal 5:23\">23</a>) and to effectiveness in evangelism (<a class=\"bibleref\" href=\"/passage/?search=Matt 13:3-Matt 13:8\">Matt. 13:3–8</a>; <a class=\"bibleref\" href=\"/passage/?search=Rom 1:13\">Rom. 1:13</a>).</p><p><b>fruit should abide.</b> A distinguishing characteristic of Christian service is that the results have eternal significance.</p><p><b>whatever you ask . . . give it to you.</b> Effective prayer is accompanied by obedience and identification with the will of God (14:13 note; <a class=\"bibleref\" href=\"/passage/?search=Ps 66:18\">Ps. 66:18</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,15,17" ],
+  "verses" : [ {
+    "verse" : "john,15,17",
+    "text" : "This is my command: Love each other."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,15,17",
     "id" : 197232,
@@ -113,7 +164,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 15:17\">15:17</a></b> <b>love one another.</b> Repeated for the third time in this episode (<a class=\"bibleref\" href=\"/passage/?search=John 15:12\">v. 12</a>; <a class=\"bibleref\" href=\"/passage/?search=John 13:34\">13:34</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,15,18", "john,15,19", "john,15,20", "john,15,21" ],
+  "verses" : [ {
+    "verse" : "john,15,18",
+    "text" : "\"If the world hates you, keep in mind that it hated me first."
+  }, {
+    "verse" : "john,15,19",
+    "text" : "If you belonged to the world, it would love you as its own. As it is, you do not belong to the world, but I have chosen you out of the world. That is why the world hates you."
+  }, {
+    "verse" : "john,15,20",
+    "text" : "Remember the words I spoke to you: 'No servant is greater than his master.' If they persecuted me, they will persecute you also. If they obeyed my teaching, they will obey yours also."
+  }, {
+    "verse" : "john,15,21",
+    "text" : "They will treat you this way because of my name, for they do not know the One who sent me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,15,18",
     "id" : 197233,
@@ -121,7 +184,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 15:18\">15:18</a></b> <b>the world.</b> The opposition between the world and God’s elect is stated in the strongest terms (<a class=\"bibleref\" href=\"/passage/?search=John 14:17\">14:17</a>). The world’s hatred is not due to what the disciples do wrong, but to what they do right.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,15,22", "john,15,23", "john,15,24" ],
+  "verses" : [ {
+    "verse" : "john,15,22",
+    "text" : "If I had not come and spoken to them, they would not be guilty of sin. Now, however, they have no excuse for their sin."
+  }, {
+    "verse" : "john,15,23",
+    "text" : "He who hates me hates my Father as well."
+  }, {
+    "verse" : "john,15,24",
+    "text" : "If I had not done among them what no one else did, they would not be guilty of sin. But now they have seen these miracles, and yet they have hated both me and my Father."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,15,22",
     "id" : 197234,
@@ -129,7 +201,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 15:22\">15:22</a></b> <b>they would not have been guilty of sin.</b> The sin here is the particular sin of hating Jesus and those who belong to Him; it is not sin in the general sense (<a class=\"bibleref\" href=\"/passage/?search=John 15:24\">v. 24</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,15,25" ],
+  "verses" : [ {
+    "verse" : "john,15,25",
+    "text" : "But this is to fulfill what is written in their Law: 'They hated me without reason.'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,15,25",
     "id" : 197235,
@@ -137,7 +212,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 15:25\">15:25</a></b> <b>in their Law.</b> Those who received the law are condemned by it. This quotation is from the Psalms; “law” refers to the Old Testament in general rather than just to the Pentateuch (<a class=\"bibleref\" href=\"/passage/?search=John 10:34\">10:34</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,15,26" ],
+  "verses" : [ {
+    "verse" : "john,15,26",
+    "text" : "\"When the Counselor comes, whom I will send to you from the Father, the Spirit of truth who goes out from the Father, he will testify about me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,15,26",
     "id" : 197236,
@@ -145,7 +223,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 15:26\">15:26</a></b> <b>the Helper.</b> See note <a class=\"bibleref\" href=\"/passage/?search=John 14:16\">14:16</a>.</p><p><b>send to you.</b> This refers to the work of the Holy Spirit in the plan of redemption, not His eternal relationships within the Godhead.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,15,27" ],
+  "verses" : [ {
+    "verse" : "john,15,27",
+    "text" : "And you also must testify, for you have been with me from the beginning."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,15,27",
     "id" : 197237,

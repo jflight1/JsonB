@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "judges,6,1" ],
+  "verses" : [ {
+    "verse" : "judges,6,1",
+    "text" : "Again the Israelites did evil in the eyes of the LORD, and for seven years he gave them into the hands of the Midianites."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,6,1-judges,8,32",
     "id" : 187080,
@@ -7,7 +10,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 6:1-Judg 8:32\">6:1–8:32</a></b> Gideon was the greatest of the judges. The following facts bear out this judgment. (a) His story is the longest in the book. (b) The Lord is more visibly active in his story than in any of the others. (c) The Angel of the Lord appeared to him, but to no other judge (<a class=\"bibleref\" href=\"/passage/?search=Judg 8:11-Judg 8:24\">vv. 11–24</a>). (d) Centuries later Isaiah remembers Gideon’s defeat of Midian as a significant victory (<a class=\"bibleref\" href=\"/passage/?search=Isa 9:4\">Is. 9:4</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 10:26\">10:26</a>). (e) He is listed first in Samuel’s list of deliverers (“Jerubbaal,” <a class=\"bibleref\" href=\"/passage/?search=1Sam 12:11\">1 Sam. 12:11</a>). (f) He is paralleled with Moses (6:11–24 note). (g) The people sought to make him king (8:22–23). (h) He lived like a king (8:26–27, 30, 32). Yet for all this, Gideon failed badly at one point. Gideon made a gold ephod that drew him and others into sin (8:27). In his greatness and in his deficiency, Gideon pointed to the need for a better deliverer, a king who would truly keep the covenant. In this way he points to Christ.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,6,2", "judges,6,3", "judges,6,4", "judges,6,5" ],
+  "verses" : [ {
+    "verse" : "judges,6,2",
+    "text" : "Because the power of Midian was so oppressive, the Israelites prepared shelters for themselves in mountain clefts, caves and strongholds."
+  }, {
+    "verse" : "judges,6,3",
+    "text" : "Whenever the Israelites planted their crops, the Midianites, Amalekites and other eastern peoples invaded the country."
+  }, {
+    "verse" : "judges,6,4",
+    "text" : "They camped on the land and ruined the crops all the way to Gaza and did not spare a living thing for Israel, neither sheep nor cattle nor donkeys."
+  }, {
+    "verse" : "judges,6,5",
+    "text" : "They came up with their livestock and their tents like swarms of locusts. It was impossible to count the men and their camels; they invaded the land to ravage it."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,6,2",
     "id" : 187081,
@@ -15,7 +30,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 6:2\">6:2</a></b> <b>Midian overpowered.</b> None of the other stories in Judges devotes such attention to the details of the oppression as this one. Homes, crops, and livestock were subject to the covenant curse (<a class=\"bibleref\" href=\"/passage/?search=Deut 28:30-Deut 28:33\">Deut. 28:30–33</a>, <a class=\"bibleref\" href=\"/passage/?search=Deut 28:38-Deut 28:42\">38–42</a>). The Midianite oppression was so great that Isaiah mentioned it centuries later (<a class=\"bibleref\" href=\"/passage/?search=Isa 9:4\">Is. 9:4</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 10:26\">10:26</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,6,6", "judges,6,7" ],
+  "verses" : [ {
+    "verse" : "judges,6,6",
+    "text" : "Midian so impoverished the Israelites that they cried out to the LORD for help."
+  }, {
+    "verse" : "judges,6,7",
+    "text" : "When the Israelites cried to the LORD because of Midian,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,6,6",
     "id" : 187082,
@@ -23,7 +44,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 6:6\">6:6</a></b> <b>was brought very low.</b> Lit. “made small.” The covenant curse was a reversal of God’s promise to Abraham (<a class=\"bibleref\" href=\"/passage/?search=Gen 15:5\">Gen. 15:5</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 22:17\">22:17</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 28:62\">Deut. 28:62</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 107:38-Ps 107:39\">Ps. 107:38–39</a>).</p><p><b>cried out.</b> See 2:19; 3:9.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,6,8", "judges,6,9", "judges,6,10" ],
+  "verses" : [ {
+    "verse" : "judges,6,8",
+    "text" : "he sent them a prophet, who said, \"This is what the LORD, the God of Israel, says: I brought you up out of Egypt, out of the land of slavery."
+  }, {
+    "verse" : "judges,6,9",
+    "text" : "I snatched you from the power of Egypt and from the hand of all your oppressors. I drove them from before you and gave you their land."
+  }, {
+    "verse" : "judges,6,10",
+    "text" : "I said to you, 'I am the LORD your God; do not worship the gods of the Amorites, in whose land you live.' But you have not listened to me.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,6,8",
     "id" : 187083,
@@ -36,7 +66,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 6:8\">6:8</a>, <a class=\"bibleref\" href=\"/passage/?search=Judg 6:9\">9</a> brought . . . delivered . . . drove them . . . gave you.</b> Remembering these saving actions of God is the first part of covenant keeping. In Israel religious apostasy was linked to forgetting God’s saving acts, and His law.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,6,11", "judges,6,12" ],
+  "verses" : [ {
+    "verse" : "judges,6,11",
+    "text" : "The angel of the LORD came and sat down under the oak in Ophrah that belonged to Joash the Abiezrite, where his son Gideon was threshing wheat in a winepress to keep it from the Midianites."
+  }, {
+    "verse" : "judges,6,12",
+    "text" : "When the angel of the LORD appeared to Gideon, he said, \"The LORD is with you, mighty warrior.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,6,11-judges,6,24",
     "id" : 187085,
@@ -49,7 +85,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 6:11\">6:11</a></b> <b>angel of the <span class=\"small-caps\">Lord</span> came.</b> See <a class=\"bibleref\" href=\"/passage/?search=Judg 2:1\">2:1</a>; <a class=\"bibleref\" href=\"/passage/?search=Judg 13:3\">13:3</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,6,13" ],
+  "verses" : [ {
+    "verse" : "judges,6,13",
+    "text" : "\"But sir,\" Gideon replied, \"if the LORD is with us, why has all this happened to us? Where are all his wonders that our fathers told us about when they said, 'Did not the LORD bring us up out of Egypt?' But now the LORD has abandoned us and put us into the hand of Midian.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,6,13",
     "id" : 187087,
@@ -57,7 +96,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 6:13\">6:13</a></b> <b>why.</b> This question is central to the Book of Judges. The Angel did not answer the question, since the prophet had already answered it (<a class=\"bibleref\" href=\"/passage/?search=Judg 6:8-Judg 6:10\">vv. 8–10</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 28:47-Deut 28:52\">Deut. 28:47–52</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 29:24-Deut 29:27\">29:24–27</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 31:17-Deut 31:18\">31:17–18</a>). Some of the psalms ask a similar question (<a class=\"bibleref\" href=\"/passage/?search=Ps 44:20\">Ps. 44:20</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 74:9-Ps 74:11\">74:9–11</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,6,14" ],
+  "verses" : [ {
+    "verse" : "judges,6,14",
+    "text" : "The LORD turned to him and said, \"Go in the strength you have and save Israel out of Midian's hand. Am I not sending you?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,6,14",
     "id" : 187088,
@@ -65,7 +107,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 6:14\">6:14</a></b> <b>Go in this might of yours.</b> See <a class=\"bibleref\" href=\"/passage/?search=Judg 6:34\">v. 34</a>; <a class=\"bibleref\" href=\"/passage/?search=Judg 7:2\">7:2</a>, <a class=\"bibleref\" href=\"/passage/?search=Judg 7:7\">7</a>. God would be his strength, though Gideon did not yet know it.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,6,15", "judges,6,16", "judges,6,17", "judges,6,18", "judges,6,19", "judges,6,20", "judges,6,21" ],
+  "verses" : [ {
+    "verse" : "judges,6,15",
+    "text" : "\"But Lord, \"Gideon asked, \"how can I save Israel? My clan is the weakest in Manasseh, and I am the least in my family.\""
+  }, {
+    "verse" : "judges,6,16",
+    "text" : "The LORD answered, \"I will be with you, and you will strike down all the Midianites together.\""
+  }, {
+    "verse" : "judges,6,17",
+    "text" : "Gideon replied, \"If now I have found favor in your eyes, give me a sign that it is really you talking to me."
+  }, {
+    "verse" : "judges,6,18",
+    "text" : "Please do not go away until I come back and bring my offering and set it before you.\" And the LORD said, \"I will wait until you return.\""
+  }, {
+    "verse" : "judges,6,19",
+    "text" : "Gideon went in, prepared a young goat, and from an ephah of flour he made bread without yeast. Putting the meat in a basket and its broth in a pot, he brought them out and offered them to him under the oak."
+  }, {
+    "verse" : "judges,6,20",
+    "text" : "The angel of God said to him, \"Take the meat and the unleavened bread, place them on this rock, and pour out the broth.\" And Gideon did so."
+  }, {
+    "verse" : "judges,6,21",
+    "text" : "With the tip of the staff that was in his hand, the angel of the LORD touched the meat and the unleavened bread. Fire flared from the rock, consuming the meat and the bread. And the angel of the LORD disappeared."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,6,15",
     "id" : 187089,
@@ -73,7 +136,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 6:15\">6:15</a></b> <b>weakest.</b> When asked about kingship, Saul used similar words (<a class=\"bibleref\" href=\"/passage/?search=1Sam 9:21\">1 Sam. 9:21</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,6,22", "judges,6,23", "judges,6,24" ],
+  "verses" : [ {
+    "verse" : "judges,6,22",
+    "text" : "When Gideon realized that it was the angel of the LORD, he exclaimed, \"Ah, Sovereign LORD! I have seen the angel of the LORD face to face!\""
+  }, {
+    "verse" : "judges,6,23",
+    "text" : "But the LORD said to him, \"Peace! Do not be afraid. You are not going to die.\""
+  }, {
+    "verse" : "judges,6,24",
+    "text" : "So Gideon built an altar to the LORD there and called it The LORD is Peace. To this day it stands in Ophrah of the Abiezrites."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,6,22",
     "id" : 187090,
@@ -81,7 +153,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 6:22\">6:22</a></b> <b>I have seen . . . face.</b> See <a class=\"bibleref\" href=\"/passage/?search=Judg 13:22\">13:22</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 5:24\">Deut. 5:24</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 6:5\">Is. 6:5</a>; <a class=\"bibleref\" href=\"/passage/?search=1Tim 6:16\">1 Tim. 6:16</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,6,25" ],
+  "verses" : [ {
+    "verse" : "judges,6,25",
+    "text" : "That same night the LORD said to him, \"Take the second bull from your father's herd, the one seven years old. Tear down your father's altar to Baal and cut down the Asherah pole beside it."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,6,25-judges,6,32",
     "id" : 187091,
@@ -94,7 +169,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 6:25\">6:25</a>, <a class=\"bibleref\" href=\"/passage/?search=Judg 6:26\">26</a> pull down the altar.</b> See <a class=\"bibleref\" href=\"/passage/?search=Deut 12:3\">Deut. 12:3</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,6,26", "judges,6,27", "judges,6,28", "judges,6,29", "judges,6,30" ],
+  "verses" : [ {
+    "verse" : "judges,6,26",
+    "text" : "Then build a proper kind of altar to the LORD your God on the top of this height. Using the wood of the Asherah pole that you cut down, offer the second bull as a burnt offering.\""
+  }, {
+    "verse" : "judges,6,27",
+    "text" : "So Gideon took ten of his servants and did as the LORD told him. But because he was afraid of his family and the men of the town, he did it at night rather than in the daytime."
+  }, {
+    "verse" : "judges,6,28",
+    "text" : "In the morning when the men of the town got up, there was Baal's altar, demolished, with the Asherah pole beside it cut down and the second bull sacrificed on the newly built altar!"
+  }, {
+    "verse" : "judges,6,29",
+    "text" : "They asked each other, \"Who did this?\" When they carefully investigated, they were told, \"Gideon son of Joash did it.\""
+  }, {
+    "verse" : "judges,6,30",
+    "text" : "The men of the town demanded of Joash, \"Bring out your son. He must die, because he has broken down Baal's altar and cut down the Asherah pole beside it.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,6,26",
     "id" : 187093,
@@ -102,7 +192,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 6:26\">6:26</a></b> <b>due order.</b> That is, according to the prescriptions of the Law of Moses.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,6,31", "judges,6,32" ],
+  "verses" : [ {
+    "verse" : "judges,6,31",
+    "text" : "But Joash replied to the hostile crowd around him, \"Are you going to plead Baal's cause? Are you trying to save him? Whoever fights for him shall be put to death by morning! If Baal really is a god, he can defend himself when someone breaks down his altar.\""
+  }, {
+    "verse" : "judges,6,32",
+    "text" : "So that day they called Gideon \"Jerub-Baal, \"saying, \"Let Baal contend with him,\" because he broke down Baal's altar."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,6,31",
     "id" : 187094,
@@ -110,7 +206,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 6:31\">6:31</a></b> <b>If he is a god.</b> See <a class=\"bibleref\" href=\"/passage/?search=Judg 10:14\">10:14</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,6,33" ],
+  "verses" : [ {
+    "verse" : "judges,6,33",
+    "text" : "Now all the Midianites, Amalekites and other eastern peoples joined forces and crossed over the Jordan and camped in the Valley of Jezreel."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,6,33-judges,6,40",
     "id" : 187095,
@@ -118,7 +217,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 6:33-Judg 6:40\">6:33–40</a></b> Gideon sought confidence through signs (<a class=\"bibleref\" href=\"/passage/?search=Judg 6:17\">v. 17</a>), which the Lord did not refuse to give him (cf. <a class=\"bibleref\" href=\"/passage/?search=Luke 1:18-Luke 1:20\">Luke 1:18–20</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,6,34", "judges,6,35" ],
+  "verses" : [ {
+    "verse" : "judges,6,34",
+    "text" : "Then the Spirit of the LORD came upon Gideon, and he blew a trumpet, summoning the Abiezrites to follow him."
+  }, {
+    "verse" : "judges,6,35",
+    "text" : "He sent messengers throughout Manasseh, calling them to arms, and also into Asher, Zebulun and Naphtali, so that they too went up to meet them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,6,34",
     "id" : 187096,
@@ -126,7 +231,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 6:34\">6:34</a></b> <b>Spirit of the <span class=\"small-caps\">Lord.</span></b> See <a class=\"bibleref\" href=\"/passage/?search=Judg 3:10\">3:10</a> and note; <a class=\"bibleref\" href=\"/passage/?search=Judg 11:29\">11:29</a>; <a class=\"bibleref\" href=\"/passage/?search=Judg 13:25\">13:25</a>; <a class=\"bibleref\" href=\"/passage/?search=Judg 14:6\">14:6</a>, <a class=\"bibleref\" href=\"/passage/?search=Judg 14:19\">19</a>; <a class=\"bibleref\" href=\"/passage/?search=Judg 15:14\">15:14</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,6,36", "judges,6,37", "judges,6,38", "judges,6,39", "judges,6,40" ],
+  "verses" : [ {
+    "verse" : "judges,6,36",
+    "text" : "Gideon said to God, \"If you will save Israel by my hand as you have promised-"
+  }, {
+    "verse" : "judges,6,37",
+    "text" : "look, I will place a wool fleece on the threshing floor. If there is dew only on the fleece and all the ground is dry, then I will know that you will save Israel by my hand, as you said.\""
+  }, {
+    "verse" : "judges,6,38",
+    "text" : "And that is what happened. Gideon rose early the next day; he squeezed the fleece and wrung out the dew-a bowlful of water."
+  }, {
+    "verse" : "judges,6,39",
+    "text" : "Then Gideon said to God, \"Do not be angry with me. Let me make just one more request. Allow me one more test with the fleece. This time make the fleece dry and the ground covered with dew.\""
+  }, {
+    "verse" : "judges,6,40",
+    "text" : "That night God did so. Only the fleece was dry; all the ground was covered with dew."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,6,36",
     "id" : 187097,

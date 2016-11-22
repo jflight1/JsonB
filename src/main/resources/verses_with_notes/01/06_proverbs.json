@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "proverbs,1,29", "proverbs,1,30" ],
+  "verses" : [ {
+    "verse" : "proverbs,1,29",
+    "text" : "Since they hated knowledge and did not choose to fear the LORD,"
+  }, {
+    "verse" : "proverbs,1,30",
+    "text" : "since they would not accept my advice and spurned my rebuke,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,1,29",
     "id" : 191661,
@@ -7,7 +13,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 1:29\">1:29</a></b> <b>knowledge.</b> This word is a synonym for wisdom, and is explained here by the phrase parallel with it, “the fear of the <span class=\"small-caps\">Lord</span>.” Wisdom comes from above (<a class=\"bibleref\" href=\"/passage/?search=Jas 3:17\">James 3:17</a>), as God’s gift in redemptive revelation. This is true even when it must be desired and strived for (2:4–6; <a class=\"bibleref\" href=\"/passage/?search=Heb 5:7\">Heb. 5:7</a>, <a class=\"bibleref\" href=\"/passage/?search=Heb 5:8\">8</a>; <a class=\"bibleref\" href=\"/passage/?search=Jas 1:5\">James 1:5</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,1,31" ],
+  "verses" : [ {
+    "verse" : "proverbs,1,31",
+    "text" : "they will eat the fruit of their ways and be filled with the fruit of their schemes."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,1,31",
     "id" : 191662,
@@ -15,7 +24,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 1:31\">1:31</a></b> <b>fruit.</b> The relationship between deed and outcome is observable in natural cause and effect. Here the image is not one of pleasure after a full meal, but disgust at being glutted.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,1,32" ],
+  "verses" : [ {
+    "verse" : "proverbs,1,32",
+    "text" : "For the waywardness of the simple will kill them, and the complacency of fools will destroy them;"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,1,32",
     "id" : 191663,
@@ -23,7 +35,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 1:32\">1:32</a></b> <b>turning away.</b> Indifference or willful neglect.</p><p><b>complacency of fools.</b> The ignorant self-satisfaction of the willfully unteachable, who see no need to learn anything from anyone.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,1,33" ],
+  "verses" : [ {
+    "verse" : "proverbs,1,33",
+    "text" : "but whoever listens to me will live in safety and be at ease, without fear of harm.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,1,33",
     "id" : 191664,

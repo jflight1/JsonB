@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,16,8" ],
+  "verses" : [ {
+    "verse" : "proverbs,16,8",
+    "text" : "Better a little with righteousness than much gain with injustice."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 16:8\">16:8</a></b> See <a class=\"bibleref\" href=\"/passage/?search=Prov 15:16\">15:16</a>, <a class=\"bibleref\" href=\"/passage/?search=Prov 15:17\">17</a> and notes.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,16,9" ],
+  "verses" : [ {
+    "verse" : "proverbs,16,9",
+    "text" : "In his heart a man plans his course, but the LORD determines his steps."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,16,9",
     "id" : 192009,

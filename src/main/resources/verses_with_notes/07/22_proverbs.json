@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,19,24" ],
+  "verses" : [ {
+    "verse" : "proverbs,19,24",
+    "text" : "The sluggard buries his hand in the dish; he will not even bring it back to his mouth!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 19:24\">19:24</a></b> The proverb is a humorous comment on the sluggard (<a class=\"bibleref\" href=\"/passage/?search=Prov 6:6\">6:6</a> note). The picture of a person too lazy to feed himself reflects the situation of <a class=\"bibleref\" href=\"/passage/?search=Prov 6:10\">6:10</a>, <a class=\"bibleref\" href=\"/passage/?search=Prov 6:11\">11</a>. Such a one does not have the will for self-preservation.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,19,25" ],
+  "verses" : [ {
+    "verse" : "proverbs,19,25",
+    "text" : "Flog a mocker, and the simple will learn prudence; rebuke a discerning man, and he will gain knowledge."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,19,25",
     "id" : 192086,

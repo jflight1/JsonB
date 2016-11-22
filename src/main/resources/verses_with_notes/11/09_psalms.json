@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "psalms,107,1", "psalms,107,2" ],
+  "verses" : [ {
+    "verse" : "psalms,107,1",
+    "text" : "Give thanks to the LORD, for he is good; his love endures forever."
+  }, {
+    "verse" : "psalms,107,2",
+    "text" : "Let the redeemed of the LORD say this- those he redeemed from the hand of the foe,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,107,1-psalms,107,43",
     "id" : 191214,
@@ -12,7 +18,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 107:1\">107:1</a></b> <b>he is good.</b> See <a class=\"bibleref\" href=\"/passage/?search=Ps 107:1\">vv. 1</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 107:8\">8</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 107:15\">15</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 107:21\">21</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 107:31\">31</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 107:43\">43</a>.</p><p><b>his steadfast love.</b> God’s covenant devotion, by which He binds Himself to His people.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,107,3" ],
+  "verses" : [ {
+    "verse" : "psalms,107,3",
+    "text" : "those he gathered from the lands, from east and west, from north and south."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,107,3",
     "id" : 191216,
@@ -20,7 +29,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 107:3\">107:3</a></b> <b>gathered.</b> The situation after the Babylonian exile seems to be in view here.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,107,4", "psalms,107,5" ],
+  "verses" : [ {
+    "verse" : "psalms,107,4",
+    "text" : "Some wandered in desert wastelands, finding no way to a city where they could settle."
+  }, {
+    "verse" : "psalms,107,5",
+    "text" : "They were hungry and thirsty, and their lives ebbed away."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,107,4-psalms,107,9",
     "id" : 191217,
@@ -28,7 +43,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 107:4-Ps 107:9\">107:4–9</a></b> God guides those wandering in the wilderness to a city.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,107,6", "psalms,107,7", "psalms,107,8", "psalms,107,9" ],
+  "verses" : [ {
+    "verse" : "psalms,107,6",
+    "text" : "Then they cried out to the LORD in their trouble, and he delivered them from their distress."
+  }, {
+    "verse" : "psalms,107,7",
+    "text" : "He led them by a straight way to a city where they could settle."
+  }, {
+    "verse" : "psalms,107,8",
+    "text" : "Let them give thanks to the LORD for his unfailing love and his wonderful deeds for men,"
+  }, {
+    "verse" : "psalms,107,9",
+    "text" : "for he satisfies the thirsty and fills the hungry with good things."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,107,6",
     "id" : 191218,
@@ -36,7 +63,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 107:6\">107:6</a></b> <b>they cried . . . he delivered them.</b> This section is the first of four that illustrate God’s readiness to answer the prayers of His people.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,107,10", "psalms,107,11" ],
+  "verses" : [ {
+    "verse" : "psalms,107,10",
+    "text" : "Some sat in darkness and the deepest gloom, prisoners suffering in iron chains,"
+  }, {
+    "verse" : "psalms,107,11",
+    "text" : "for they had rebelled against the words of God and despised the counsel of the Most High."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,107,10-psalms,107,16",
     "id" : 191219,
@@ -44,7 +77,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 107:10-Ps 107:16\">107:10–16</a></b> God delivers His imprisoned people to freedom.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,107,12" ],
+  "verses" : [ {
+    "verse" : "psalms,107,12",
+    "text" : "So he subjected them to bitter labor; they stumbled, and there was no one to help."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,107,12",
     "id" : 191220,
@@ -52,7 +88,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 107:12\">107:12</a></b> <b>he bowed their hearts down.</b> God chastises His wayward people in order to elicit their repentance. See <a class=\"bibleref\" href=\"/passage/?search=Heb 12:1-Heb 12:13\">Heb. 12:1–13</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,107,13", "psalms,107,14", "psalms,107,15", "psalms,107,16" ],
+  "verses" : [ {
+    "verse" : "psalms,107,13",
+    "text" : "Then they cried to the LORD in their trouble, and he saved them from their distress."
+  }, {
+    "verse" : "psalms,107,14",
+    "text" : "He brought them out of darkness and the deepest gloom and broke away their chains."
+  }, {
+    "verse" : "psalms,107,15",
+    "text" : "Let them give thanks to the LORD for his unfailing love and his wonderful deeds for men,"
+  }, {
+    "verse" : "psalms,107,16",
+    "text" : "for he breaks down gates of bronze and cuts through bars of iron."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,107,13",
     "id" : 191221,
@@ -60,7 +108,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 107:13\">107:13</a></b> <b>they cried to the <span class=\"small-caps\">Lord</span> . . . he delivered them.</b> See <a class=\"bibleref\" href=\"/passage/?search=Ps 107:6\">v. 6</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,107,17" ],
+  "verses" : [ {
+    "verse" : "psalms,107,17",
+    "text" : "Some became fools through their rebellious ways and suffered affliction because of their iniquities."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,107,17-psalms,107,22",
     "id" : 191222,
@@ -73,7 +124,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 107:17\">107:17</a></b> <b>fools.</b> Not because they were without natural intelligence, but because they refused to face the reality that the Lord is God. “Foolishness” is an ethical-spiritual category, not an academic one.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,107,18", "psalms,107,19" ],
+  "verses" : [ {
+    "verse" : "psalms,107,18",
+    "text" : "They loathed all food and drew near the gates of death."
+  }, {
+    "verse" : "psalms,107,19",
+    "text" : "Then they cried to the LORD in their trouble, and he saved them from their distress."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,107,18",
     "id" : 191224,
@@ -81,7 +138,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 107:18\">107:18</a></b> <b>loathed any kind of food.</b> It seems that a physical malady, some kind of sickness, is in view here.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,107,20", "psalms,107,21" ],
+  "verses" : [ {
+    "verse" : "psalms,107,20",
+    "text" : "He sent forth his word and healed them; he rescued them from the grave."
+  }, {
+    "verse" : "psalms,107,21",
+    "text" : "Let them give thanks to the LORD for his unfailing love and his wonderful deeds for men."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,107,20",
     "id" : 191225,
@@ -89,7 +152,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 107:20\">107:20</a></b> <b>his word.</b> We learn as early as the creation account (<a class=\"bibleref\" href=\"/passage/?search=Gen 1:3\">Gen. 1:3</a>) that God’s word is powerful and effective.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,107,22" ],
+  "verses" : [ {
+    "verse" : "psalms,107,22",
+    "text" : "Let them sacrifice thank offerings and tell of his works with songs of joy."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,107,22",
     "id" : 191226,
@@ -97,7 +163,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 107:22\">107:22</a></b> <b>sacrifices of thanksgiving.</b> This verse points to public worship in the temple.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,107,23" ],
+  "verses" : [ {
+    "verse" : "psalms,107,23",
+    "text" : "Others went out on the sea in ships; they were merchants on the mighty waters."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,107,23-psalms,107,32",
     "id" : 191227,
@@ -105,7 +174,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 107:23-Ps 107:32\">107:23–32</a></b> God rescues those in trouble on the seas.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,107,24", "psalms,107,25" ],
+  "verses" : [ {
+    "verse" : "psalms,107,24",
+    "text" : "They saw the works of the LORD, his wonderful deeds in the deep."
+  }, {
+    "verse" : "psalms,107,25",
+    "text" : "For he spoke and stirred up a tempest that lifted high the waves."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,107,24",
     "id" : 191228,
@@ -113,7 +188,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 107:24\">107:24</a></b> <b>the deeds of the <span class=\"small-caps\">Lord.</span></b> The mystery, power, and beauty of the sea, with everything that lives in it, testifies eloquently to God’s wisdom (<a class=\"bibleref\" href=\"/passage/?search=Gen 1:9\">Gen. 1:9</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 1:10\">10</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 1:21\">21</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,107,26", "psalms,107,27" ],
+  "verses" : [ {
+    "verse" : "psalms,107,26",
+    "text" : "They mounted up to the heavens and went down to the depths; in their peril their courage melted away."
+  }, {
+    "verse" : "psalms,107,27",
+    "text" : "They reeled and staggered like drunken men; they were at their wits' end."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,107,26",
     "id" : 191229,
@@ -121,7 +202,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 107:26\">107:26</a></b> <b>They mounted up . . . went down.</b> The ship as it rises and falls on the waves.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,107,28" ],
+  "verses" : [ {
+    "verse" : "psalms,107,28",
+    "text" : "Then they cried out to the LORD in their trouble, and he brought them out of their distress."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,107,28",
     "id" : 191230,
@@ -129,7 +213,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 107:28\">107:28</a></b> <b>they cried to the <span class=\"small-caps\">Lord</span> . . . he delivered them.</b> See <a class=\"bibleref\" href=\"/passage/?search=Ps 107:6\">vv. 6</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 107:13\">13</a>, and <a class=\"bibleref\" href=\"/passage/?search=Ps 107:19\">19</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,107,29", "psalms,107,30", "psalms,107,31", "psalms,107,32" ],
+  "verses" : [ {
+    "verse" : "psalms,107,29",
+    "text" : "He stilled the storm to a whisper; the waves of the sea were hushed."
+  }, {
+    "verse" : "psalms,107,30",
+    "text" : "They were glad when it grew calm, and he guided them to their desired haven."
+  }, {
+    "verse" : "psalms,107,31",
+    "text" : "Let them give thanks to the LORD for his unfailing love and his wonderful deeds for men."
+  }, {
+    "verse" : "psalms,107,32",
+    "text" : "Let them exalt him in the assembly of the people and praise him in the council of the elders."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,107,29",
     "id" : 191231,
@@ -137,7 +233,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 107:29\">107:29</a></b> <b>He made the storm be still.</b> God shows His divine power and might by controlling the chaotic sea. See notes <a class=\"bibleref\" href=\"/passage/?search=Ps 18:4\">Ps. 18:4</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 18:15\">15</a>. Christ demonstrated His power from on high when He stilled the waters (<a class=\"bibleref\" href=\"/passage/?search=Mark 4:35-Mark 4:41\">Mark 4:35–41</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,107,33" ],
+  "verses" : [ {
+    "verse" : "psalms,107,33",
+    "text" : "He turned rivers into a desert, flowing springs into thirsty ground,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,107,33-psalms,107,38",
     "id" : 191232,
@@ -145,7 +244,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 107:33-Ps 107:38\">107:33–38</a></b> God turns fertility into waste, and waste into fertility. He controls all things.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,107,34", "psalms,107,35" ],
+  "verses" : [ {
+    "verse" : "psalms,107,34",
+    "text" : "and fruitful land into a salt waste, because of the wickedness of those who lived there."
+  }, {
+    "verse" : "psalms,107,35",
+    "text" : "He turned the desert into pools of water and the parched ground into flowing springs;"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,107,34",
     "id" : 191233,
@@ -153,7 +258,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 107:34\">107:34</a></b> <b>because of the evil.</b> God does not arbitrarily bring destruction upon His people. Here the reason is identified as the people’s sin. A historical example of this verse may be found in <a class=\"bibleref\" href=\"/passage/?search=1Kgs 17\">1 Kin. 17</a>, where God determined to withhold rain and dew from Israel because Ahab and Jezebel had turned the nation toward Baal.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,107,36", "psalms,107,37", "psalms,107,38" ],
+  "verses" : [ {
+    "verse" : "psalms,107,36",
+    "text" : "there he brought the hungry to live, and they founded a city where they could settle."
+  }, {
+    "verse" : "psalms,107,37",
+    "text" : "They sowed fields and planted vineyards that yielded a fruitful harvest;"
+  }, {
+    "verse" : "psalms,107,38",
+    "text" : "he blessed them, and their numbers greatly increased, and he did not let their herds diminish."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,107,36",
     "id" : 191234,
@@ -161,7 +275,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 107:36\">107:36</a></b> <b>establish a city.</b> The ultimate reference is to the conquest in which God gave the land of Canaan to Israel. They passed from the hard conditions of the wilderness wanderings into the pleasant land of Palestine.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,107,39" ],
+  "verses" : [ {
+    "verse" : "psalms,107,39",
+    "text" : "Then their numbers decreased, and they were humbled by oppression, calamity and sorrow;"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,107,39-psalms,107,42",
     "id" : 191235,
@@ -169,7 +286,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 107:39-Ps 107:42\">107:39–42</a></b> God punishes and blesses His people.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,107,40", "psalms,107,41", "psalms,107,42", "psalms,107,43" ],
+  "verses" : [ {
+    "verse" : "psalms,107,40",
+    "text" : "he who pours contempt on nobles made them wander in a trackless waste."
+  }, {
+    "verse" : "psalms,107,41",
+    "text" : "But he lifted the needy out of their affliction and increased their families like flocks."
+  }, {
+    "verse" : "psalms,107,42",
+    "text" : "The upright see and rejoice, but all the wicked shut their mouths."
+  }, {
+    "verse" : "psalms,107,43",
+    "text" : "Whoever is wise, let him heed these things and consider the great love of the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,107,40",
     "id" : 191236,

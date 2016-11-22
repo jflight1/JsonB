@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "proverbs,16,12", "proverbs,16,13" ],
+  "verses" : [ {
+    "verse" : "proverbs,16,12",
+    "text" : "Kings detest wrongdoing, for a throne is established through righteousness."
+  }, {
+    "verse" : "proverbs,16,13",
+    "text" : "Kings take pleasure in honest lips; they value a man who speaks the truth."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "proverbs,14,30", "proverbs,14,31" ],
+  "verses" : [ {
+    "verse" : "proverbs,14,30",
+    "text" : "A heart at peace gives life to the body, but envy rots the bones."
+  }, {
+    "verse" : "proverbs,14,31",
+    "text" : "He who oppresses the poor shows contempt for their Maker, but whoever is kind to the needy honors God."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "ezekiel,16,42", "ezekiel,16,43" ],
+  "verses" : [ {
+    "verse" : "ezekiel,16,42",
+    "text" : "Then my wrath against you will subside and my jealous anger will turn away from you; I will be calm and no longer angry."
+  }, {
+    "verse" : "ezekiel,16,43",
+    "text" : "\"'Because you did not remember the days of your youth but enraged me with all these things, I will surely bring down on your head what you have done, declares the Sovereign LORD. Did you not add lewdness to all your other detestable practices?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,16,1-ezekiel,16,63",
     "id" : 194253,
@@ -7,7 +13,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 16\">16:1–63</a></b> Ezekiel tells the story of an unwanted child, her marriage, and infidelity. Hosea used marriage as an analogy of the covenant relationship between God and Israel (<a class=\"bibleref\" href=\"/passage/?search=Hos 1-Hos 3\">Hos. 1–3</a>; see also <a class=\"bibleref\" href=\"/passage/?search=Eph 5:22-Eph 5:33\">Eph. 5:22–33</a>; <a class=\"bibleref\" href=\"/passage/?search=Rev 19:7\">Rev. 19:7</a>; <a class=\"bibleref\" href=\"/passage/?search=Rev 21:2\">21:2</a>, <a class=\"bibleref\" href=\"/passage/?search=Rev 21:9\">9</a>). Ezekiel’s speech appears to have a judicial setting; he recounts God’s charge against the nation from its earliest days to his own time.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,16,44" ],
+  "verses" : [ {
+    "verse" : "ezekiel,16,44",
+    "text" : "\"'Everyone who quotes proverbs will quote this proverb about you: \"Like mother, like daughter.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,16,44",
     "id" : 194265,
@@ -15,7 +24,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 16:44\">16:44</a></b> <b>proverbs.</b> Ezekiel more than once refers to popular proverbs (<a class=\"bibleref\" href=\"/passage/?search=Ezek 12:21-Ezek 12:28\">12:21–28</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 12:18\">18</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,16,45", "ezekiel,16,46", "ezekiel,16,47", "ezekiel,16,48" ],
+  "verses" : [ {
+    "verse" : "ezekiel,16,45",
+    "text" : "You are a true daughter of your mother, who despised her husband and her children; and you are a true sister of your sisters, who despised their husbands and their children. Your mother was a Hittite and your father an Amorite."
+  }, {
+    "verse" : "ezekiel,16,46",
+    "text" : "Your older sister was Samaria, who lived to the north of you with her daughters; and your younger sister, who lived to the south of you with her daughters, was Sodom."
+  }, {
+    "verse" : "ezekiel,16,47",
+    "text" : "You not only walked in their ways and copied their detestable practices, but in all your ways you soon became more depraved than they."
+  }, {
+    "verse" : "ezekiel,16,48",
+    "text" : "As surely as I live, declares the Sovereign LORD, your sister Sodom and her daughters never did what you and your daughters have done."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,16,45",
     "id" : 194266,
@@ -23,7 +44,40 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 16:45\">16:45</a></b> <b>Hittite . . . Amorite.</b> The moral depravity of the Hittites and Amorites is assumed; cf. <a class=\"bibleref\" href=\"/passage/?search=Ezek 16:3\">v. 3</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,16,49", "ezekiel,16,50", "ezekiel,16,51", "ezekiel,16,52", "ezekiel,16,53", "ezekiel,16,54", "ezekiel,16,55", "ezekiel,16,56", "ezekiel,16,57", "ezekiel,16,58", "ezekiel,16,59" ],
+  "verses" : [ {
+    "verse" : "ezekiel,16,49",
+    "text" : "\"'Now this was the sin of your sister Sodom: She and her daughters were arrogant, overfed and unconcerned; they did not help the poor and needy."
+  }, {
+    "verse" : "ezekiel,16,50",
+    "text" : "They were haughty and did detestable things before me. Therefore I did away with them as you have seen."
+  }, {
+    "verse" : "ezekiel,16,51",
+    "text" : "Samaria did not commit half the sins you did. You have done more detestable things than they, and have made your sisters seem righteous by all these things you have done."
+  }, {
+    "verse" : "ezekiel,16,52",
+    "text" : "Bear your disgrace, for you have furnished some justification for your sisters. Because your sins were more vile than theirs, they appear more righteous than you. So then, be ashamed and bear your disgrace, for you have made your sisters appear righteous."
+  }, {
+    "verse" : "ezekiel,16,53",
+    "text" : "\"'However, I will restore the fortunes of Sodom and her daughters and of Samaria and her daughters, and your fortunes along with them,"
+  }, {
+    "verse" : "ezekiel,16,54",
+    "text" : "so that you may bear your disgrace and be ashamed of all you have done in giving them comfort."
+  }, {
+    "verse" : "ezekiel,16,55",
+    "text" : "And your sisters, Sodom with her daughters and Samaria with her daughters, will return to what they were before; and you and your daughters will return to what you were before."
+  }, {
+    "verse" : "ezekiel,16,56",
+    "text" : "You would not even mention your sister Sodom in the day of your pride,"
+  }, {
+    "verse" : "ezekiel,16,57",
+    "text" : "before your wickedness was uncovered. Even so, you are now scorned by the daughters of Edom and all her neighbors and the daughters of the Philistines-all those around you who despise you."
+  }, {
+    "verse" : "ezekiel,16,58",
+    "text" : "You will bear the consequences of your lewdness and your detestable practices, declares the LORD."
+  }, {
+    "verse" : "ezekiel,16,59",
+    "text" : "\"'This is what the Sovereign LORD says: I will deal with you as you deserve, because you have despised my oath by breaking the covenant."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,16,49",
     "id" : 194267,
@@ -31,7 +85,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 16:49\">16:49</a></b> <b>Sodom.</b> Readers of the Bible often think of the sins of Sodom as mainly sexual (<a class=\"bibleref\" href=\"/passage/?search=Gen 19:5-Gen 19:9\">Gen. 19:5–9</a>), but Ezekiel indicts the city for materialism and neglect of the poor and needy. Jesus made a similar comparison with Capernaum in <a class=\"bibleref\" href=\"/passage/?search=Matt 11:23\">Matt. 11:23</a>, <a class=\"bibleref\" href=\"/passage/?search=Matt 11:24\">24</a>. The sins of Jerusalem exceeded those of her sisters, the nearby cities.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,16,60", "ezekiel,16,61", "ezekiel,16,62", "ezekiel,16,63" ],
+  "verses" : [ {
+    "verse" : "ezekiel,16,60",
+    "text" : "Yet I will remember the covenant I made with you in the days of your youth, and I will establish an everlasting covenant with you."
+  }, {
+    "verse" : "ezekiel,16,61",
+    "text" : "Then you will remember your ways and be ashamed when you receive your sisters, both those who are older than you and those who are younger. I will give them to you as daughters, but not on the basis of my covenant with you."
+  }, {
+    "verse" : "ezekiel,16,62",
+    "text" : "So I will establish my covenant with you, and you will know that I am the LORD."
+  }, {
+    "verse" : "ezekiel,16,63",
+    "text" : "Then, when I make atonement for you for all you have done, you will remember and be ashamed and never again open your mouth because of your humiliation, declares the Sovereign LORD.'\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,16,60",
     "id" : 194268,
@@ -39,7 +105,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 16:60\">16:60</a></b> <b>everlasting covenant.</b> Jerusalem would once again have primacy over her sisters, but not on the basis of the previous covenant relationship between God and the city. There will be a new covenant, a new relationship between God and the city in the future. God Himself would atone for her sins.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,17,1", "ezekiel,17,2" ],
+  "verses" : [ {
+    "verse" : "ezekiel,17,1",
+    "text" : "The word of the LORD came to me:"
+  }, {
+    "verse" : "ezekiel,17,2",
+    "text" : "\"Son of man, set forth an allegory and tell the house of Israel a parable."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,17,1-ezekiel,17,24",
     "id" : 194269,
@@ -47,7 +119,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 17\">17:1–24</a></b> This oracle has no date, but probably came between the dates given in <a class=\"bibleref\" href=\"/passage/?search=Ezek 8:1\">8:1</a> and <a class=\"bibleref\" href=\"/passage/?search=Ezek 20:1\">20:1</a>, the sixth and seventh years of the exile of Jehoiachin (592–590 <span class=\"small-caps\">b.c.</span>). Nebuchadnezzar laid siege to Jerusalem in 588 <span class=\"small-caps\">b.c.</span> and removed Zedekiah from the throne in 586 <span class=\"small-caps\">b.c.</span> (<a class=\"bibleref\" href=\"/passage/?search=Ezek 20:20\">v. 20</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,17,3" ],
+  "verses" : [ {
+    "verse" : "ezekiel,17,3",
+    "text" : "Say to them, 'This is what the Sovereign LORD says: A great eagle with powerful wings, long feathers and full plumage of varied colors came to Lebanon. Taking hold of the top of a cedar,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,17,3",
     "id" : 194270,
@@ -55,7 +130,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 17:3\">17:3</a></b> <b>eagle.</b> Ezekiel propounds an allegory. The great eagle is the imperial might of Babylon, represented by Nebuchadnezzar.</p><p><b>cedar.</b> The lofty cedar represents the kingdom of Judah and the dynasty of David, that had endured by this time over three hundred years.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,17,4", "ezekiel,17,5" ],
+  "verses" : [ {
+    "verse" : "ezekiel,17,4",
+    "text" : "he broke off its topmost shoot and carried it away to a land of merchants, where he planted it in a city of traders."
+  }, {
+    "verse" : "ezekiel,17,5",
+    "text" : "\"'He took some of the seed of your land and put it in fertile soil. He planted it like a willow by abundant water,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,17,4",
     "id" : 194271,
@@ -63,7 +144,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 17:4\">17:4</a></b> <b>topmost of its young twigs.</b> The removal of the topmost twig refers to the exile and captivity of Jehoiachin in Babylon. The exiles continued to regard Jehoiachin as the legitimate king of Judah.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,17,6" ],
+  "verses" : [ {
+    "verse" : "ezekiel,17,6",
+    "text" : "and it sprouted and became a low, spreading vine. Its branches turned toward him, but its roots remained under it. So it became a vine and produced branches and put out leafy boughs."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,17,6",
     "id" : 194272,
@@ -71,7 +155,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 17:6\">17:6</a></b> <b>vine.</b> Nebuchadnezzar replaced the cedar with the far more humble and lowly vine, a reference to his installation of Zedekiah on the throne in Jerusalem after deporting Jehoiachin (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 24:15-2Kgs 24:17\">2 Kin. 24:15–17</a>). Nebuchadnezzar had done much for Zedekiah, just as the vine had fertile soil, abundant water, and prospered.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,17,7", "ezekiel,17,8", "ezekiel,17,9" ],
+  "verses" : [ {
+    "verse" : "ezekiel,17,7",
+    "text" : "\"'But there was another great eagle with powerful wings and full plumage. The vine now sent out its roots toward him from the plot where it was planted and stretched out its branches to him for water."
+  }, {
+    "verse" : "ezekiel,17,8",
+    "text" : "It had been planted in good soil by abundant water so that it would produce branches, bear fruit and become a splendid vine.'"
+  }, {
+    "verse" : "ezekiel,17,9",
+    "text" : "\"Say to them, 'This is what the Sovereign LORD says: Will it thrive? Will it not be uprooted and stripped of its fruit so that it withers? All its new growth will wither. It will not take a strong arm or many people to pull it up by the roots."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,17,7",
     "id" : 194273,
@@ -79,7 +172,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 17:7\">17:7</a></b> <b>another great eagle.</b> The turning of the vine toward another great eagle represents Zedekiah’s shift in allegiance from Nebuchadnezzar to Egypt (<a class=\"bibleref\" href=\"/passage/?search=Ezek 17:15-Ezek 17:17\">vv. 15–17</a>), with the result that the vine itself would be uprooted and destroyed.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,17,10", "ezekiel,17,11", "ezekiel,17,12", "ezekiel,17,13", "ezekiel,17,14" ],
+  "verses" : [ {
+    "verse" : "ezekiel,17,10",
+    "text" : "Even if it is transplanted, will it thrive? Will it not wither completely when the east wind strikes it-wither away in the plot where it grew?'\""
+  }, {
+    "verse" : "ezekiel,17,11",
+    "text" : "Then the word of the LORD came to me:"
+  }, {
+    "verse" : "ezekiel,17,12",
+    "text" : "\"Say to this rebellious house, 'Do you not know what these things mean?' Say to them: 'The king of Babylon went to Jerusalem and carried off her king and her nobles, bringing them back with him to Babylon."
+  }, {
+    "verse" : "ezekiel,17,13",
+    "text" : "Then he took a member of the royal family and made a treaty with him, putting him under oath. He also carried away the leading men of the land,"
+  }, {
+    "verse" : "ezekiel,17,14",
+    "text" : "so that the kingdom would be brought low, unable to rise again, surviving only by keeping his treaty."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,17,10",
     "id" : 194274,
@@ -87,7 +195,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 17:10\">17:10</a></b> <b>east wind.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Ezek 19:12\">19:12</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,17,15", "ezekiel,17,16", "ezekiel,17,17", "ezekiel,17,18", "ezekiel,17,19" ],
+  "verses" : [ {
+    "verse" : "ezekiel,17,15",
+    "text" : "But the king rebelled against him by sending his envoys to Egypt to get horses and a large army. Will he succeed? Will he who does such things escape? Will he break the treaty and yet escape?"
+  }, {
+    "verse" : "ezekiel,17,16",
+    "text" : "\"'As surely as I live, declares the Sovereign LORD, he shall die in Babylon, in the land of the king who put him on the throne, whose oath he despised and whose treaty he broke."
+  }, {
+    "verse" : "ezekiel,17,17",
+    "text" : "Pharaoh with his mighty army and great horde will be of no help to him in war, when ramps are built and siege works erected to destroy many lives."
+  }, {
+    "verse" : "ezekiel,17,18",
+    "text" : "He despised the oath by breaking the covenant. Because he had given his hand in pledge and yet did all these things, he shall not escape."
+  }, {
+    "verse" : "ezekiel,17,19",
+    "text" : "\"'Therefore this is what the Sovereign LORD says: As surely as I live, I will bring down on his head my oath that he despised and my covenant that he broke."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,17,15",
     "id" : 194275,
@@ -95,7 +218,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 17:15\">17:15</a></b> <b>Egypt.</b> Although the Old Testament histories do not mention Zedekiah’s appeal to Egypt for help, Jeremiah does mention it (<a class=\"bibleref\" href=\"/passage/?search=Jer 37:5-Jer 37:11\">Jer. 37:5–11</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 44:30\">44:30</a>). One of the Lachish letters, written on broken pottery in the last days of the kingdom of Judah, reports that a commander of the army went down to Egypt, perhaps to ask for help. See 16:26; 29:6, 7; 30:20–26.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,17,20", "ezekiel,17,21" ],
+  "verses" : [ {
+    "verse" : "ezekiel,17,20",
+    "text" : "I will spread my net for him, and he will be caught in my snare. I will bring him to Babylon and execute judgment upon him there because he was unfaithful to me."
+  }, {
+    "verse" : "ezekiel,17,21",
+    "text" : "All his fleeing troops will fall by the sword, and the survivors will be scattered to the winds. Then you will know that I the LORD have spoken."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,17,20-ezekiel,17,21",
     "id" : 194276,
@@ -103,7 +232,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 17:20\">17:20</a>, <a class=\"bibleref\" href=\"/passage/?search=Ezek 17:21\">21</a></b> See <a class=\"bibleref\" href=\"/passage/?search=2Kgs 25:4-2Kgs 25:7\">2 Kin. 25:4–7</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,17,22" ],
+  "verses" : [ {
+    "verse" : "ezekiel,17,22",
+    "text" : "\"'This is what the Sovereign LORD says: I myself will take a shoot from the very top of a cedar and plant it; I will break off a tender sprig from its topmost shoots and plant it on a high and lofty mountain."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,17,22",
     "id" : 194277,
@@ -111,7 +243,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 17:22\">17:22</a></b> <b>twigs.</b> The Bible often uses a branch or tree as a symbol of royalty (<a class=\"bibleref\" href=\"/passage/?search=Dan 4:9-Dan 4:12\">Dan. 4:9–12</a>, <a class=\"bibleref\" href=\"/passage/?search=Dan 4:19-Dan 4:22\">19–22</a>), particularly as a figure of the Messiah. The messianic Branch belongs to the house of David (<a class=\"bibleref\" href=\"/passage/?search=Isa 4:2\">Is. 4:2</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 11:1\">11:1</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 53:2\">53:2</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 60:21\">60:21</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 23:5\">Jer. 23:5</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 33:15\">33:15</a>; <a class=\"bibleref\" href=\"/passage/?search=Zech 6:12\">Zech. 6:12</a>). Ezekiel announces that someday God would take a descendant of Jehoiachin (cf. vv. 3, 4 and 12, 13) and restore him to kingship in Judah.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,17,23", "ezekiel,17,24" ],
+  "verses" : [ {
+    "verse" : "ezekiel,17,23",
+    "text" : "On the mountain heights of Israel I will plant it; it will produce branches and bear fruit and become a splendid cedar. Birds of every kind will nest in it; they will find shelter in the shade of its branches."
+  }, {
+    "verse" : "ezekiel,17,24",
+    "text" : "All the trees of the field will know that I the LORD bring down the tall tree and make the low tree grow tall. I dry up the green tree and make the dry tree flourish. \"'I the LORD have spoken, and I will do it.'\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,17,23",
     "id" : 194278,

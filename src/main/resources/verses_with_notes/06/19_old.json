@@ -1,5 +1,14 @@
 [ {
-  "singleVerses" : [ "1kings,20,1", "1kings,20,2", "1kings,20,3" ],
+  "verses" : [ {
+    "verse" : "1kings,20,1",
+    "text" : "Now Ben-Hadad king of Aram mustered his entire army. Accompanied by thirty-two kings with their horses and chariots, he went up and besieged Samaria and attacked it."
+  }, {
+    "verse" : "1kings,20,2",
+    "text" : "He sent messengers into the city to Ahab king of Israel, saying, \"This is what Ben-Hadad says:"
+  }, {
+    "verse" : "1kings,20,3",
+    "text" : "'Your silver and gold are mine, and the best of your wives and children are mine.'\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,20,1",
     "id" : 188459,
@@ -7,7 +16,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 20:1\">20:1</a></b> <b>Ben-hadad the king of Syria.</b> This is probably Ben-hadad II, grandson of the Ben-hadad mentioned in <a class=\"bibleref\" href=\"/passage/?search=1Kgs 15:18-1Kgs 15:20\">15:18–20</a>.</p><p><b>Thirty-two kings.</b> Ben-hadad II assembled a coalition of thirty-two kings of client city-states and tribal chieftains to campaign against Ahab.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,20,4", "1kings,20,5", "1kings,20,6", "1kings,20,7", "1kings,20,8" ],
+  "verses" : [ {
+    "verse" : "1kings,20,4",
+    "text" : "The king of Israel answered, \"Just as you say, my lord the king. I and all I have are yours.\""
+  }, {
+    "verse" : "1kings,20,5",
+    "text" : "The messengers came again and said, \"This is what Ben-Hadad says: 'I sent to demand your silver and gold, your wives and your children."
+  }, {
+    "verse" : "1kings,20,6",
+    "text" : "But about this time tomorrow I am going to send my officials to search your palace and the houses of your officials. They will seize everything you value and carry it away.'\""
+  }, {
+    "verse" : "1kings,20,7",
+    "text" : "The king of Israel summoned all the elders of the land and said to them, \"See how this man is looking for trouble! When he sent for my wives and my children, my silver and my gold, I did not refuse him.\""
+  }, {
+    "verse" : "1kings,20,8",
+    "text" : "The elders and the people all answered, \"Don't listen to him or agree to his demands.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,20,4",
     "id" : 188460,
@@ -15,7 +39,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 20:4\">20:4</a></b> <b>my lord, O king.</b> Ahab addresses Ben-hadad as an inferior to a superior. Ahab hoped that by surrendering he could preserve his own life and prevent his city from being destroyed.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,20,9" ],
+  "verses" : [ {
+    "verse" : "1kings,20,9",
+    "text" : "So he replied to Ben-Hadad's messengers, \"Tell my lord the king, 'Your servant will do all you demanded the first time, but this demand I cannot meet.'\" They left and took the answer back to Ben-Hadad."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,20,9",
     "id" : 188461,
@@ -23,7 +50,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 20:9\">20:9</a></b> <b>this thing I cannot do.</b> In his surrender (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 20:4\">v. 4</a>) Ahab did not contemplate actually handing over women and children, at least not those in his own palace and retinue.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,20,10" ],
+  "verses" : [ {
+    "verse" : "1kings,20,10",
+    "text" : "Then Ben-Hadad sent another message to Ahab: \"May the gods deal with me, be it ever so severely, if enough dust remains in Samaria to give each of my men a handful.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,20,10",
     "id" : 188462,
@@ -31,7 +61,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 20:10\">20:10</a></b> <b>The gods do so to me.</b> Enraged at Ahab’s refusal, Ben-hadad promises to reduce Samaria to a heap of dust.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,20,11", "1kings,20,12" ],
+  "verses" : [ {
+    "verse" : "1kings,20,11",
+    "text" : "The king of Israel answered, \"Tell him: 'One who puts on his armor should not boast like one who takes it off.'\""
+  }, {
+    "verse" : "1kings,20,12",
+    "text" : "Ben-Hadad heard this message while he and the kings were drinking in their tents, and he ordered his men: \"Prepare to attack.\" So they prepared to attack the city."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,20,11",
     "id" : 188463,
@@ -39,7 +75,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 20:11\">20:11</a></b> <b>him who straps on his armor.</b> Ahab responds with a proverb that it is foolish to boast about winning before the fight has begun.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,20,13", "1kings,20,14", "1kings,20,15" ],
+  "verses" : [ {
+    "verse" : "1kings,20,13",
+    "text" : "Meanwhile a prophet came to Ahab king of Israel and announced, \"This is what the LORD says: 'Do you see this vast army? I will give it into your hand today, and then you will know that I am the LORD.'\""
+  }, {
+    "verse" : "1kings,20,14",
+    "text" : "\"But who will do this?\" asked Ahab. The prophet replied, \"This is what the LORD says: 'The young officers of the provincial commanders will do it.' And who will start the battle?\" he asked. The prophet answered, \"You will.\""
+  }, {
+    "verse" : "1kings,20,15",
+    "text" : "So Ahab summoned the young officers of the provincial commanders, 232 men. Then he assembled the rest of the Israelites, 7,000 in all."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,20,13",
     "id" : 188464,
@@ -47,7 +92,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 20:13\">20:13</a></b> <b>I will give it into your hand this day.</b> This is the form of assurance given before battles when the Lord is about to fight on Israel’s side (<a class=\"bibleref\" href=\"/passage/?search=Josh 6:2\">Josh. 6:2</a>, <a class=\"bibleref\" href=\"/passage/?search=Josh 6:16\">16</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 8:1\">8:1</a>, <a class=\"bibleref\" href=\"/passage/?search=Josh 8:18\">18</a>; <a class=\"bibleref\" href=\"/passage/?search=Judg 7:2\">Judg. 7:2</a>; <a class=\"bibleref\" href=\"/passage/?search=Judg 18:10\">18:10</a>; <a class=\"bibleref\" href=\"/passage/?search=2Chr 13:16\">2 Chr. 13:16</a>; <a class=\"bibleref\" href=\"/passage/?search=2Chr 16:8\">16:8</a>). God defends the cause of His people against oppressors and enemies (<a class=\"bibleref\" href=\"/passage/?search=Exod 15:1-Exod 15:21\">Ex. 15:1–21</a>; <a class=\"bibleref\" href=\"/passage/?search=Judg 5\">Judg. 5</a>; <a class=\"bibleref\" href=\"/passage/?search=Hab 3:3-Hab 3:19\">Hab. 3:3–19</a>; <a class=\"bibleref\" href=\"/passage/?search=Rev 18\">Rev. 18</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,20,16", "1kings,20,17", "1kings,20,18", "1kings,20,19", "1kings,20,20", "1kings,20,21", "1kings,20,22" ],
+  "verses" : [ {
+    "verse" : "1kings,20,16",
+    "text" : "They set out at noon while Ben-Hadad and the 32 kings allied with him were in their tents getting drunk."
+  }, {
+    "verse" : "1kings,20,17",
+    "text" : "The young officers of the provincial commanders went out first. Now Ben-Hadad had dispatched scouts, who reported, \"Men are advancing from Samaria.\""
+  }, {
+    "verse" : "1kings,20,18",
+    "text" : "He said, \"If they have come out for peace, take them alive; if they have come out for war, take them alive.\""
+  }, {
+    "verse" : "1kings,20,19",
+    "text" : "The young officers of the provincial commanders marched out of the city with the army behind them"
+  }, {
+    "verse" : "1kings,20,20",
+    "text" : "and each one struck down his opponent. At that, the Arameans fled, with the Israelites in pursuit. But Ben-Hadad king of Aram escaped on horseback with some of his horsemen."
+  }, {
+    "verse" : "1kings,20,21",
+    "text" : "The king of Israel advanced and overpowered the horses and chariots and inflicted heavy losses on the Arameans."
+  }, {
+    "verse" : "1kings,20,22",
+    "text" : "Afterward, the prophet came to the king of Israel and said, \"Strengthen your position and see what must be done, because next spring the king of Aram will attack you again.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,20,16",
     "id" : 188465,
@@ -55,7 +121,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 20:16\">20:16</a></b> <b>drinking himself drunk.</b> The thirty-two kings were over-confident and callous about their responsibilities.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,20,23" ],
+  "verses" : [ {
+    "verse" : "1kings,20,23",
+    "text" : "Meanwhile, the officials of the king of Aram advised him, \"Their gods are gods of the hills. That is why they were too strong for us. But if we fight them on the plains, surely we will be stronger than they."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,20,23",
     "id" : 188466,
@@ -63,7 +132,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 20:23\">20:23</a></b> <b>Their gods are gods of the hills.</b> Both Samaria and Jerusalem in the central hill country. In the polytheistic conceptions of the time, each god had specific zones of influence and strengths.</p><p><b>fight against them in the plain.</b> It was understood that wars were fought not only by armies but also by their gods, and the Syrians wanted to fight in the plains where they thought Yahweh would be outside his sphere of influence and hence in a weak position.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,20,24", "1kings,20,25" ],
+  "verses" : [ {
+    "verse" : "1kings,20,24",
+    "text" : "Do this: Remove all the kings from their commands and replace them with other officers."
+  }, {
+    "verse" : "1kings,20,25",
+    "text" : "You must also raise an army like the one you lost-horse for horse and chariot for chariot-so we can fight Israel on the plains. Then surely we will be stronger than they.\" He agreed with them and acted accordingly."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,20,24",
     "id" : 188467,
@@ -71,7 +146,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 20:24\">20:24</a></b> <b>remove the kings.</b> The kings had been getting drunk (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 20:12\">vv. 12</a>, <a class=\"bibleref\" href=\"/passage/?search=1Kgs 20:16\">16</a>) and it would be wise to replace them with fighting men.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,20,26", "1kings,20,27", "1kings,20,28", "1kings,20,29", "1kings,20,30" ],
+  "verses" : [ {
+    "verse" : "1kings,20,26",
+    "text" : "The next spring Ben-Hadad mustered the Arameans and went up to Aphek to fight against Israel."
+  }, {
+    "verse" : "1kings,20,27",
+    "text" : "When the Israelites were also mustered and given provisions, they marched out to meet them. The Israelites camped opposite them like two small flocks of goats, while the Arameans covered the countryside."
+  }, {
+    "verse" : "1kings,20,28",
+    "text" : "The man of God came up and told the king of Israel, \"This is what the LORD says: 'Because the Arameans think the LORD is a god of the hills and not a god of the valleys, I will deliver this vast army into your hands, and you will know that I am the LORD.'\""
+  }, {
+    "verse" : "1kings,20,29",
+    "text" : "For seven days they camped opposite each other, and on the seventh day the battle was joined. The Israelites inflicted a hundred thousand casualties on the Aramean foot soldiers in one day."
+  }, {
+    "verse" : "1kings,20,30",
+    "text" : "The rest of them escaped to the city of Aphek, where the wall collapsed on twenty-seven thousand of them. And Ben-Hadad fled to the city and hid in an inner room."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,20,26",
     "id" : 188468,
@@ -79,7 +169,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 20:26\">20:26</a></b> <b>Aphek.</b> About four miles east of the Sea of Chinneroth (Galilee).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,20,31" ],
+  "verses" : [ {
+    "verse" : "1kings,20,31",
+    "text" : "His officials said to him, \"Look, we have heard that the kings of the house of Israel are merciful. Let us go to the king of Israel with sackcloth around our waists and ropes around our heads. Perhaps he will spare your life.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,20,31",
     "id" : 188469,
@@ -87,7 +180,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 20:31\">20:31</a></b> <b>the kings of . . . Israel are merciful.</b> Certain powers in the Near East, such as Assyria, were brutal toward the vanquished.</p><p><b>sackcloth . . . ropes.</b> The Syrians were dramatizing their humility and submission to the Israelites.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,20,32", "1kings,20,33" ],
+  "verses" : [ {
+    "verse" : "1kings,20,32",
+    "text" : "Wearing sackcloth around their waists and ropes around their heads, they went to the king of Israel and said, \"Your servant Ben-Hadad says: 'Please let me live.'\" The king answered, \"Is he still alive? He is my brother.\""
+  }, {
+    "verse" : "1kings,20,33",
+    "text" : "The men took this as a good sign and were quick to pick up his word. \"Yes, your brother Ben-Hadad!\" they said. \"Go and get him,\" the king said. When Ben-Hadad came out, Ahab had him come up into his chariot."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,20,32",
     "id" : 188470,
@@ -95,7 +194,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 20:32\">20:32</a></b> <b>Your servant.</b> Earlier, Ahab had addressed Ben-hadad as a superior (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 20:4\">vv. 4</a>, <a class=\"bibleref\" href=\"/passage/?search=1Kgs 20:9\">9</a>); now the tables are turned.</p><p><b>He is my brother.</b> Ahab’s surprising response depicts Ben-hadad as an equal in a treaty relationship (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 9:13\">9:13</a>), a concession Ben-hadad’s men were quick to exploit (v. 33).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,20,34" ],
+  "verses" : [ {
+    "verse" : "1kings,20,34",
+    "text" : "\"I will return the cities my father took from your father,\" Ben-Hadad offered. \"You may set up your own market areas in Damascus, as my father did in Samaria.\" Ahab said, \"On the basis of a treaty I will set you free.\" So he made a treaty with him, and let him go."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,20,34",
     "id" : 188471,
@@ -103,7 +205,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 20:34\">20:34</a></b> <b>you may establish bazaars.</b> International trade could bring substantial income (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 10:23-1Kgs 10:29\">10:23–29</a>), and the guarantee of a market in another country would afford a distinct economic advantage for the merchants of Israel.</p><p><b>these terms.</b> The two kings formalize their negotiations by ratifying a covenant or treaty.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,20,35" ],
+  "verses" : [ {
+    "verse" : "1kings,20,35",
+    "text" : "By the word of the LORD one of the sons of the prophets said to his companion, \"Strike me with your weapon,\" but the man refused."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,20,35",
     "id" : 188472,
@@ -111,7 +216,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 20:35\">20:35</a></b> <b>sons of the prophets.</b> This designation does not mean physical children, but members of a prophetic guild or association. Elijah and Elisha were probably leaders of such groups (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 2:3\">2 Kin. 2:3</a>, <a class=\"bibleref\" href=\"/passage/?search=2Kgs 2:15\">15</a>; <a class=\"bibleref\" href=\"/passage/?search=2Kgs 4:1\">4:1</a>, <a class=\"bibleref\" href=\"/passage/?search=2Kgs 4:38\">38</a>; <a class=\"bibleref\" href=\"/passage/?search=2Kgs 6:1\">6:1</a>; <a class=\"bibleref\" href=\"/passage/?search=2Kgs 9:1\">9:1</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,20,36", "1kings,20,37", "1kings,20,38" ],
+  "verses" : [ {
+    "verse" : "1kings,20,36",
+    "text" : "So the prophet said, \"Because you have not obeyed the LORD, as soon as you leave me a lion will kill you.\" And after the man went away, a lion found him and killed him."
+  }, {
+    "verse" : "1kings,20,37",
+    "text" : "The prophet found another man and said, \"Strike me, please.\" So the man struck him and wounded him."
+  }, {
+    "verse" : "1kings,20,38",
+    "text" : "Then the prophet went and stood by the road waiting for the king. He disguised himself with his headband down over his eyes."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,20,36",
     "id" : 188473,
@@ -119,7 +233,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 20:36\">20:36</a></b> <b>Because you have not obeyed the . . . <span class=\"small-caps\">Lord</span>.</b> This highly unusual incident needs to be understood in the context of the previous story in which Ahab did not obey the dictates of holy war. Aware of Ahab’s treaty with Ben-hadad II, the prophet is dramatizing the consequences of refusing to heed the word of God.</p><p><b>a lion shall strike you.</b> The old prophet from Bethel uttered a similar decree of judgment against the man of God from Judah (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 13:20-1Kgs 13:25\">13:20–25</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,20,39" ],
+  "verses" : [ {
+    "verse" : "1kings,20,39",
+    "text" : "As the king passed by, the prophet called out to him, \"Your servant went into the thick of the battle, and someone came to me with a captive and said, 'Guard this man. If he is missing, it will be your life for his life, or you must pay a talent of silver.'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,20,39",
     "id" : 188474,
@@ -127,7 +244,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 20:39\">20:39 a</a></b> <b>talent of silver.</b> This was a huge quantity (about 75 pounds), more than a common soldier could afford.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,20,40", "1kings,20,41" ],
+  "verses" : [ {
+    "verse" : "1kings,20,40",
+    "text" : "While your servant was busy here and there, the man disappeared.That is your sentence,\" the king of Israel said. \"You have pronounced it yourself.\""
+  }, {
+    "verse" : "1kings,20,41",
+    "text" : "Then the prophet quickly removed the headband from his eyes, and the king of Israel recognized him as one of the prophets."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,20,40",
     "id" : 188475,
@@ -135,7 +258,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 20:40\">20:40</a></b> <b>So shall your judgment be.</b> Ahab shows no mercy, and so passes judgment on himself (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 20:42\">v. 42</a>; <a class=\"bibleref\" href=\"/passage/?search=2Sam 12:7\">2 Sam. 12:7</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,20,42", "1kings,20,43" ],
+  "verses" : [ {
+    "verse" : "1kings,20,42",
+    "text" : "He said to the king, \"This is what the LORD says: 'You have set free a man I had determined should die. Therefore it is your life for his life, your people for his people.'\""
+  }, {
+    "verse" : "1kings,20,43",
+    "text" : "Sullen and angry, the king of Israel went to his palace in Samaria."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,20,42",
     "id" : 188476,
@@ -143,7 +272,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 20:42\">20:42</a></b> <b>whom I had devoted to destruction.</b> See <a class=\"bibleref\" href=\"/passage/?search=Lev 27:28\">Lev. 27:28</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 6:17\">Josh. 6:17</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 7:1\">7:1</a>, <a class=\"bibleref\" href=\"/passage/?search=Josh 7:20-Josh 7:26\">20–26</a>. The wars were campaigns fought and won by God Himself, using the Israelites as His agents. In fighting these wars Israel was to conduct itself in a prescribed manner, observing stipulations of holy conduct. Ahab was willing to accept divine victory, but he violated the rules for the holy war by making a treaty with Ben-hadad and yoking Israel to a foreign power (<a class=\"bibleref\" href=\"/passage/?search=Deut 7:1-Deut 7:6\">Deut. 7:1–6</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 20:16-Deut 20:18\">20:16–18</a>).</p><p><b>your life shall be for his life, and your people for his people.</b> Even though each person is responsible for his own conduct before God, the actions of each person inevitably affect the lives of others for good or ill.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,21,1" ],
+  "verses" : [ {
+    "verse" : "1kings,21,1",
+    "text" : "Some time later there was an incident involving a vineyard belonging to Naboth the Jezreelite. The vineyard was in Jezreel, close to the palace of Ahab king of Samaria."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,21,1",
     "id" : 188477,
@@ -151,7 +283,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 21:1\">21:1</a></b> <b>Jezreel.</b> About twenty-four miles north of Samaria. Ahab maintained a palace here in addition to one in the capital (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 18:45\">18:45</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,21,2" ],
+  "verses" : [ {
+    "verse" : "1kings,21,2",
+    "text" : "Ahab said to Naboth, \"Let me have your vineyard to use for a vegetable garden, since it is close to my palace. In exchange I will give you a better vineyard or, if you prefer, I will pay you whatever it is worth.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,21,2",
     "id" : 188478,
@@ -159,7 +294,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 21:2\">21:2</a></b> <b>Give me your vineyard.</b> In Canaanite nations a king could seize property and personal belongings at pleasure, because in theory all the property was owned by the royal family and only entrusted to their subjects. In Israel, God owned the land (<a class=\"bibleref\" href=\"/passage/?search=Exod 19:3-Exod 19:8\">Ex. 19:3–8</a>; <a class=\"bibleref\" href=\"/passage/?search=Lev 25:23\">Lev. 25:23</a>) and the people held it as His stewards (<a class=\"bibleref\" href=\"/passage/?search=Num 14:8\">Num. 14:8</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 35:34\">35:34</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 1:8\">Deut. 1:8</a>). The powers of an Israelite monarch were limited in contrast to the powers of a Canaanite king (<a class=\"bibleref\" href=\"/passage/?search=Deut 17:14-Deut 17:20\">Deut. 17:14–20</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 8:9-1Sam 8:19\">1 Sam. 8:9–19</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 10:25\">10:25</a>). When Ahab wanted his neighbor’s vineyard, his thought was to negotiate a purchase (cf. 16:24).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,21,3", "1kings,21,4", "1kings,21,5", "1kings,21,6", "1kings,21,7" ],
+  "verses" : [ {
+    "verse" : "1kings,21,3",
+    "text" : "But Naboth replied, \"The LORD forbid that I should give you the inheritance of my fathers.\""
+  }, {
+    "verse" : "1kings,21,4",
+    "text" : "So Ahab went home, sullen and angry because Naboth the Jezreelite had said, \"I will not give you the inheritance of my fathers.\" He lay on his bed sulking and refused to eat."
+  }, {
+    "verse" : "1kings,21,5",
+    "text" : "His wife Jezebel came in and asked him, \"Why are you so sullen? Why won't you eat?\""
+  }, {
+    "verse" : "1kings,21,6",
+    "text" : "He answered her, \"Because I said to Naboth the Jezreelite, 'Sell me your vineyard; or if you prefer, I will give you another vineyard in its place.' But he said, 'I will not give you my vineyard.'\""
+  }, {
+    "verse" : "1kings,21,7",
+    "text" : "Jezebel his wife said, \"Is this how you act as king over Israel? Get up and eat! Cheer up. I'll get you the vineyard of Naboth the Jezreelite.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,21,3",
     "id" : 188479,
@@ -167,7 +317,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 21:3\">21:3</a></b> <b>The <span class=\"small-caps\">Lord</span> forbid.</b> Naboth’s reaction was quick, because his land was a sacred inheritance from the Lord. When the land was distributed following the conquest (<a class=\"bibleref\" href=\"/passage/?search=Josh 13-Josh 21\">Josh. 13–21</a>), each family received its own inheritance as a divine gift and a trust. Since Naboth’s vineyard was his portion of his family’s inheritance, to sell it would mean cutting off his own descendants (<a class=\"bibleref\" href=\"/passage/?search=Lev 25:23\">Lev. 25:23</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 27:1-Num 27:11\">Num. 27:1–11</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 36:1-Num 36:12\">36:1–12</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,21,8" ],
+  "verses" : [ {
+    "verse" : "1kings,21,8",
+    "text" : "So she wrote letters in Ahab's name, placed his seal on them, and sent them to the elders and nobles who lived in Naboth's city with him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,21,8",
     "id" : 188480,
@@ -175,7 +328,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 21:8\">21:8</a></b> <b>she wrote letters . . . to the elders and the leaders.</b> Jezebel used the royal power to have Naboth falsely accused and executed.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,21,9" ],
+  "verses" : [ {
+    "verse" : "1kings,21,9",
+    "text" : "In those letters she wrote: \"Proclaim a day of fasting and seat Naboth in a prominent place among the people."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,21,9",
     "id" : 188481,
@@ -183,7 +339,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 21:9\">21:9</a></b> <b>Proclaim a fast.</b> Jezebel, with Ahab’s complicity, fosters apprehensiveness among the town’s inhabitants, because fasting was a characteristic response to a crisis or major transgression (<a class=\"bibleref\" href=\"/passage/?search=Judg 20:26\">Judg. 20:26</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 7:5\">1 Sam. 7:5</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 7:6\">6</a>; <a class=\"bibleref\" href=\"/passage/?search=2Chr 20:3\">2 Chr. 20:3</a>; <a class=\"bibleref\" href=\"/passage/?search=Jonah 3:5\">Jon. 3:5</a>, <a class=\"bibleref\" href=\"/passage/?search=Jonah 3:7-Jonah 3:9\">7–9</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,21,10", "1kings,21,11", "1kings,21,12" ],
+  "verses" : [ {
+    "verse" : "1kings,21,10",
+    "text" : "But seat two scoundrels opposite him and have them testify that he has cursed both God and the king. Then take him out and stone him to death.\""
+  }, {
+    "verse" : "1kings,21,11",
+    "text" : "So the elders and nobles who lived in Naboth's city did as Jezebel directed in the letters she had written to them."
+  }, {
+    "verse" : "1kings,21,12",
+    "text" : "They proclaimed a fast and seated Naboth in a prominent place among the people."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,21,10",
     "id" : 188482,
@@ -191,7 +356,40 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 21:10\">21:10</a></b> <b>two worthless men.</b> The law of Israel stipulated that at least two witnesses were required to convict a person of a capital offense (<a class=\"bibleref\" href=\"/passage/?search=Num 35:30\">Num. 35:30</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 17:5\">Deut. 17:5</a>, <a class=\"bibleref\" href=\"/passage/?search=Deut 17:6\">6</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 19:15\">19:15</a>).</p><p><b>cursed God and the king.</b> The penalty for cursing God was death (<a class=\"bibleref\" href=\"/passage/?search=Exod 22:28\">Ex. 22:28</a>; <a class=\"bibleref\" href=\"/passage/?search=Lev 24:10-Lev 24:16\">Lev. 24:10–16</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,21,13", "1kings,21,14", "1kings,21,15", "1kings,21,16", "1kings,21,17", "1kings,21,18", "1kings,21,19", "1kings,21,20", "1kings,21,21", "1kings,21,22", "1kings,21,23" ],
+  "verses" : [ {
+    "verse" : "1kings,21,13",
+    "text" : "Then two scoundrels came and sat opposite him and brought charges against Naboth before the people, saying, \"Naboth has cursed both God and the king.\" So they took him outside the city and stoned him to death."
+  }, {
+    "verse" : "1kings,21,14",
+    "text" : "Then they sent word to Jezebel: \"Naboth has been stoned and is dead.\""
+  }, {
+    "verse" : "1kings,21,15",
+    "text" : "As soon as Jezebel heard that Naboth had been stoned to death, she said to Ahab, \"Get up and take possession of the vineyard of Naboth the Jezreelite that he refused to sell you. He is no longer alive, but dead.\""
+  }, {
+    "verse" : "1kings,21,16",
+    "text" : "When Ahab heard that Naboth was dead, he got up and went down to take possession of Naboth's vineyard."
+  }, {
+    "verse" : "1kings,21,17",
+    "text" : "Then the word of the LORD came to Elijah the Tishbite:"
+  }, {
+    "verse" : "1kings,21,18",
+    "text" : "\"Go down to meet Ahab king of Israel, who rules in Samaria. He is now in Naboth's vineyard, where he has gone to take possession of it."
+  }, {
+    "verse" : "1kings,21,19",
+    "text" : "Say to him, 'This is what the LORD says: Have you not murdered a man and seized his property?' Then say to him, 'This is what the LORD says: In the place where dogs licked up Naboth's blood, dogs will lick up your blood-yes, yours!'\""
+  }, {
+    "verse" : "1kings,21,20",
+    "text" : "Ahab said to Elijah, \"So you have found me, my enemy!I have found you,\" he answered, \"because you have sold yourself to do evil in the eyes of the LORD."
+  }, {
+    "verse" : "1kings,21,21",
+    "text" : "'I am going to bring disaster on you. I will consume your descendants and cut off from Ahab every last male in Israel-slave or free."
+  }, {
+    "verse" : "1kings,21,22",
+    "text" : "I will make your house like that of Jeroboam son of Nebat and that of Baasha son of Ahijah, because you have provoked me to anger and have caused Israel to sin.'"
+  }, {
+    "verse" : "1kings,21,23",
+    "text" : "\"And also concerning Jezebel the LORD says: 'Dogs will devour Jezebel by the wall of Jezreel.'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,21,13",
     "id" : 188483,
@@ -199,7 +397,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 21:13\">21:13</a></b> <b>outside the city.</b> In accordance with the Law, the murderers avoided ritual impurity (<a class=\"bibleref\" href=\"/passage/?search=Lev 24:14\">Lev. 24:14</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 15:35\">Num. 15:35</a>, <a class=\"bibleref\" href=\"/passage/?search=Num 15:36\">36</a>). <a class=\"bibleref\" href=\"/passage/?search=2Kgs 9:26\">Second Kings 9:26</a> adds that Naboth’s sons were also killed, eliminating any possible heirs.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,21,24" ],
+  "verses" : [ {
+    "verse" : "1kings,21,24",
+    "text" : "\"Dogs will eat those belonging to Ahab who die in the city, and the birds of the air will feed on those who die in the country.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,21,24",
     "id" : 188484,
@@ -207,7 +408,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 21:24\">21:24</a></b> <b>dogs . . . birds of the heavens shall eat.</b> See <a class=\"bibleref\" href=\"/passage/?search=1Kgs 14:11\">14:11</a> and note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,21,25" ],
+  "verses" : [ {
+    "verse" : "1kings,21,25",
+    "text" : "(There was never a man like Ahab, who sold himself to do evil in the eyes of the LORD, urged on by Jezebel his wife."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,21,25",
     "id" : 188485,
@@ -215,7 +419,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 21:25\">21:25</a></b> <b>There was none . . . like Ahab.</b> See <a class=\"bibleref\" href=\"/passage/?search=1Kgs 16:30-1Kgs 16:33\">16:30–33</a> and notes.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,21,26" ],
+  "verses" : [ {
+    "verse" : "1kings,21,26",
+    "text" : "He behaved in the vilest manner by going after idols, like the Amorites the LORD drove out before Israel.)"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,21,26",
     "id" : 188486,
@@ -223,7 +430,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 21:26\">21:26</a></b> <b>Amorites.</b> The word here refers to the pre-Israelite inhabitants of Canaan (<a class=\"bibleref\" href=\"/passage/?search=Gen 15:16\">Gen. 15:16</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 1:7\">Deut. 1:7</a>; <a class=\"bibleref\" href=\"/passage/?search=2Sam 21:2\">2 Sam. 21:2</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,21,27", "1kings,21,28" ],
+  "verses" : [ {
+    "verse" : "1kings,21,27",
+    "text" : "When Ahab heard these words, he tore his clothes, put on sackcloth and fasted. He lay in sackcloth and went around meekly."
+  }, {
+    "verse" : "1kings,21,28",
+    "text" : "Then the word of the LORD came to Elijah the Tishbite:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,21,27",
     "id" : 188487,
@@ -231,7 +444,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 21:27\">21:27</a></b> <b>tore his clothes and put sackcloth on.</b> God’s judgment, uttered through Elijah, changes Ahab’s attitude. Tearing clothes and wearing sackcloth were marks of mourning and repentance (<a class=\"bibleref\" href=\"/passage/?search=Gen 37:34\">Gen. 37:34</a>; <a class=\"bibleref\" href=\"/passage/?search=2Sam 3:31\">2 Sam. 3:31</a>; <a class=\"bibleref\" href=\"/passage/?search=2Kgs 6:30\">2 Kin. 6:30</a>; <a class=\"bibleref\" href=\"/passage/?search=Lam 2:10\">Lam. 2:10</a>; <a class=\"bibleref\" href=\"/passage/?search=Joel 1:13\">Joel 1:13</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,21,29" ],
+  "verses" : [ {
+    "verse" : "1kings,21,29",
+    "text" : "\"Have you noticed how Ahab has humbled himself before me? Because he has humbled himself, I will not bring this disaster in his day, but I will bring it on his house in the days of his son.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,21,29",
     "id" : 188488,

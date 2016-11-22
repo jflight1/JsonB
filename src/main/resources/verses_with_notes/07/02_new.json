@@ -1,8 +1,26 @@
 [ {
-  "singleVerses" : [ "acts,21,18", "acts,21,19" ],
+  "verses" : [ {
+    "verse" : "acts,21,18",
+    "text" : "The next day Paul and the rest of us went to see James, and all the elders were present."
+  }, {
+    "verse" : "acts,21,19",
+    "text" : "Paul greeted them and reported in detail what God had done among the Gentiles through his ministry."
+  } ],
   "rsbNotes" : [ ]
 }, {
-  "singleVerses" : [ "acts,21,20", "acts,21,21", "acts,21,22", "acts,21,23" ],
+  "verses" : [ {
+    "verse" : "acts,21,20",
+    "text" : "When they heard this, they praised God. Then they said to Paul: \"You see, brother, how many thousands of Jews have believed, and all of them are zealous for the law."
+  }, {
+    "verse" : "acts,21,21",
+    "text" : "They have been informed that you teach all the Jews who live among the Gentiles to turn away from Moses, telling them not to circumcise their children or live according to our customs."
+  }, {
+    "verse" : "acts,21,22",
+    "text" : "What shall we do? They will certainly hear that you have come,"
+  }, {
+    "verse" : "acts,21,23",
+    "text" : "so do what we tell you. There are four men with us who have made a vow."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,21,20",
     "id" : 197632,
@@ -10,7 +28,46 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 21:20\">21:20</a></b> <b>zealous for the law.</b> Thousands of Jewish Christians in Jerusalem strictly observed the Mosaic law. While many of these no doubt resented the fact that Gentile Christians were not required to observe the ceremonial law of Moses (<a class=\"bibleref\" href=\"/passage/?search=Acts 21:25\">v. 25</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 15:1-Acts 15:31\">15:1–31</a>), the charge here was that Paul was encouraging Jews to forsake the law as well (<a class=\"bibleref\" href=\"/passage/?search=Acts 15:21\">v. 21</a>). Such a charge may have been prompted by reports that Paul himself did not follow the Jewish ceremonial law when in Gentile company. Though Paul had no objection to Jews following their ancestral customs, he opposed any attempt to make such observance in some way necessary for salvation (<a class=\"bibleref\" href=\"/passage/?search=Rom 14:1-Rom 14:8\">Rom. 14:1–8</a>; <a class=\"bibleref\" href=\"/passage/?search=Gal 5:2-Gal 5:6\">Gal. 5:2–6</a>). Always careful to avoid giving unnecessary offense, Paul’s flexibility in such matters shows that the interests of the gospel were always foremost in his mind (<a class=\"bibleref\" href=\"/passage/?search=1Cor 9:19-1Cor 9:23\">1 Cor. 9:19–23</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,21,24", "acts,21,25", "acts,21,26", "acts,21,27", "acts,21,28", "acts,21,29", "acts,21,30", "acts,21,31", "acts,21,32", "acts,21,33", "acts,21,34", "acts,21,35", "acts,21,36" ],
+  "verses" : [ {
+    "verse" : "acts,21,24",
+    "text" : "Take these men, join in their purification rites and pay their expenses, so that they can have their heads shaved. Then everybody will know there is no truth in these reports about you, but that you yourself are living in obedience to the law."
+  }, {
+    "verse" : "acts,21,25",
+    "text" : "As for the Gentile believers, we have written to them our decision that they should abstain from food sacrificed to idols, from blood, from the meat of strangled animals and from sexual immorality.\""
+  }, {
+    "verse" : "acts,21,26",
+    "text" : "The next day Paul took the men and purified himself along with them. Then he went to the temple to give notice of the date when the days of purification would end and the offering would be made for each of them."
+  }, {
+    "verse" : "acts,21,27",
+    "text" : "When the seven days were nearly over, some Jews from the province of Asia saw Paul at the temple. They stirred up the whole crowd and seized him,"
+  }, {
+    "verse" : "acts,21,28",
+    "text" : "shouting, \"Men of Israel, help us! This is the man who teaches all men everywhere against our people and our law and this place. And besides, he has brought Greeks into the temple area and defiled this holy place.\""
+  }, {
+    "verse" : "acts,21,29",
+    "text" : "(They had previously seen Trophimus the Ephesian in the city with Paul and assumed that Paul had brought him into the temple area.)"
+  }, {
+    "verse" : "acts,21,30",
+    "text" : "The whole city was aroused, and the people came running from all directions. Seizing Paul, they dragged him from the temple, and immediately the gates were shut."
+  }, {
+    "verse" : "acts,21,31",
+    "text" : "While they were trying to kill him, news reached the commander of the Roman troops that the whole city of Jerusalem was in an uproar."
+  }, {
+    "verse" : "acts,21,32",
+    "text" : "He at once took some officers and soldiers and ran down to the crowd. When the rioters saw the commander and his soldiers, they stopped beating Paul."
+  }, {
+    "verse" : "acts,21,33",
+    "text" : "The commander came up and arrested him and ordered him to be bound with two chains. Then he asked who he was and what he had done."
+  }, {
+    "verse" : "acts,21,34",
+    "text" : "Some in the crowd shouted one thing and some another, and since the commander could not get at the truth because of the uproar, he ordered that Paul be taken into the barracks."
+  }, {
+    "verse" : "acts,21,35",
+    "text" : "When Paul reached the steps, the violence of the mob was so great he had to be carried by the soldiers."
+  }, {
+    "verse" : "acts,21,36",
+    "text" : "The crowd that followed kept shouting, \"Away with him!\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,21,24",
     "id" : 197633,

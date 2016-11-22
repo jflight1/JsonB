@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,22,5" ],
+  "verses" : [ {
+    "verse" : "proverbs,22,5",
+    "text" : "In the paths of the wicked lie thorns and snares, but he who guards his soul stays far from them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 22:5\">22:5</a></b> <b>Thorns and snares.</b> These are metaphors for the misfortunes of life that stem from a breakdown of the true life-giving order (cf. <a class=\"bibleref\" href=\"/passage/?search=Prov 15:19\">15:19</a>).</p><p><b>guards his soul.</b> That is, by establishing his life on the wisdom of God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,22,6" ],
+  "verses" : [ {
+    "verse" : "proverbs,22,6",
+    "text" : "Train a child in the way he should go, and when he is old he will not turn from it."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,22,6",
     "id" : 192151,

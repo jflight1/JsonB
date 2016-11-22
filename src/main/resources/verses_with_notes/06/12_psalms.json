@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "psalms,130,1", "psalms,130,2" ],
+  "verses" : [ {
+    "verse" : "psalms,130,1",
+    "text" : "Out of the depths I cry to you, O LORD;"
+  }, {
+    "verse" : "psalms,130,2",
+    "text" : "O Lord, hear my voice. Let your ears be attentive to my cry for mercy."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,130,1-psalms,130,8",
     "id" : 191461,
@@ -12,7 +18,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 130:1\">130:1</a></b> <b>Out of the depths.</b> The allusion is to the deep waters of sorrow that overwhelm the psalmist (<a class=\"bibleref\" href=\"/passage/?search=Ps 18:14\">18:14</a> and notes).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,130,3" ],
+  "verses" : [ {
+    "verse" : "psalms,130,3",
+    "text" : "If you, O LORD, kept a record of sins, O Lord, who could stand?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,130,3",
     "id" : 191463,
@@ -20,7 +29,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 130:3\">130:3</a></b> <b>who could stand.</b> The psalmist is well aware that there is no one without sin (<a class=\"bibleref\" href=\"/passage/?search=Ps 53:1-Ps 53:3\">Ps. 53:1–3</a>; <a class=\"bibleref\" href=\"/passage/?search=Rom 3:9-Rom 3:20\">Rom. 3:9–20</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,130,4", "psalms,130,5" ],
+  "verses" : [ {
+    "verse" : "psalms,130,4",
+    "text" : "But with you there is forgiveness; therefore you are feared."
+  }, {
+    "verse" : "psalms,130,5",
+    "text" : "I wait for the LORD, my soul waits, and in his word I put my hope."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,130,4",
     "id" : 191464,
@@ -28,7 +43,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 130:4\">130:4</a></b> <b>there is forgiveness.</b> See <a class=\"bibleref\" href=\"/passage/?search=Ps 103:3\">103:3</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 34:7\">Ex. 34:7</a>; <a class=\"bibleref\" href=\"/passage/?search=Luke 7:49\">Luke 7:49</a>; <a class=\"bibleref\" href=\"/passage/?search=Eph 2:4\">Eph. 2:4</a>, <a class=\"bibleref\" href=\"/passage/?search=Eph 2:5\">5</a>. The perception of God’s mercy helps the heart to rightly cultivate the fear of the Lord.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,130,6" ],
+  "verses" : [ {
+    "verse" : "psalms,130,6",
+    "text" : "My soul waits for the Lord more than watchmen wait for the morning, more than watchmen wait for the morning."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,130,6",
     "id" : 191465,
@@ -36,7 +54,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 130:6\">130:6</a></b> <b>watchmen for the morning.</b> The phrase expresses not only the intense yearning of the poet, but also the certainty of his hope.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,130,7", "psalms,130,8" ],
+  "verses" : [ {
+    "verse" : "psalms,130,7",
+    "text" : "O Israel, put your hope in the LORD, for with the LORD is unfailing love and with him is full redemption."
+  }, {
+    "verse" : "psalms,130,8",
+    "text" : "He himself will redeem Israel from all their sins."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,130,7",
     "id" : 191466,

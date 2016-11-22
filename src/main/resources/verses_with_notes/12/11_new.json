@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "revelation,2,18", "revelation,2,19" ],
+  "verses" : [ {
+    "verse" : "revelation,2,18",
+    "text" : "\"To the angel of the church in Thyatira write: These are the words of the Son of God, whose eyes are like blazing fire and whose feet are like burnished bronze."
+  }, {
+    "verse" : "revelation,2,19",
+    "text" : "I know your deeds, your love and faith, your service and perseverance, and that you are now doing more than you did at first."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "revelation,2,1-revelation,3,22",
     "id" : 199637,
@@ -12,7 +18,49 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rev 2:18\">2:18</a></b> <b>burnished bronze.</b> Thyatira had a famous guild of bronze workers.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "revelation,2,20", "revelation,2,21", "revelation,2,22", "revelation,2,23", "revelation,2,24", "revelation,2,25", "revelation,2,26", "revelation,2,27", "revelation,2,28", "revelation,2,29", "revelation,3,1", "revelation,3,2", "revelation,3,3", "revelation,3,4" ],
+  "verses" : [ {
+    "verse" : "revelation,2,20",
+    "text" : "Nevertheless, I have this against you: You tolerate that woman Jezebel, who calls herself a prophetess. By her teaching she misleads my servants into sexual immorality and the eating of food sacrificed to idols."
+  }, {
+    "verse" : "revelation,2,21",
+    "text" : "I have given her time to repent of her immorality, but she is unwilling."
+  }, {
+    "verse" : "revelation,2,22",
+    "text" : "So I will cast her on a bed of suffering, and I will make those who commit adultery with her suffer intensely, unless they repent of her ways."
+  }, {
+    "verse" : "revelation,2,23",
+    "text" : "I will strike her children dead. Then all the churches will know that I am he who searches hearts and minds, and I will repay each of you according to your deeds."
+  }, {
+    "verse" : "revelation,2,24",
+    "text" : "Now I say to the rest of you in Thyatira, to you who do not hold to her teaching and have not learned Satan's so-called deep secrets (I will not impose any other burden on you):"
+  }, {
+    "verse" : "revelation,2,25",
+    "text" : "Only hold on to what you have until I come."
+  }, {
+    "verse" : "revelation,2,26",
+    "text" : "To him who overcomes and does my will to the end, I will give authority over the nations--"
+  }, {
+    "verse" : "revelation,2,27",
+    "text" : "'He will rule them with an iron scepter; he will dash them to pieces like pottery'--"
+  }, {
+    "verse" : "revelation,2,28",
+    "text" : "just as I have received authority from my Father. I will also give him the morning star."
+  }, {
+    "verse" : "revelation,2,29",
+    "text" : "He who has an ear, let him hear what the Spirit says to the churches."
+  }, {
+    "verse" : "revelation,3,1",
+    "text" : "\"To the angel of the church in Sardis write: These are the words of him who holds the seven spirits of God and the seven stars. I know your deeds; you have a reputation of being alive, but you are dead."
+  }, {
+    "verse" : "revelation,3,2",
+    "text" : "Wake up! Strengthen what remains and is about to die, for I have not found your deeds complete in the sight of my God."
+  }, {
+    "verse" : "revelation,3,3",
+    "text" : "Remember, therefore, what you have received and heard; obey it, and repent. But if you do not wake up, I will come like a thief, and you will not know at what time I will come to you."
+  }, {
+    "verse" : "revelation,3,4",
+    "text" : "Yet you have a few people in Sardis who have not soiled their clothes. They will walk with me, dressed in white, for they are worthy."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "revelation,2,20",
     "id" : 199648,
@@ -20,7 +68,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rev 2:20\">2:20</a></b> <b>Jezebel.</b> See <a class=\"bibleref\" href=\"/passage/?search=1Kgs 16:31\">1 Kin. 16:31</a>; <a class=\"bibleref\" href=\"/passage/?search=1Kgs 19:1\">19:1</a>, <a class=\"bibleref\" href=\"/passage/?search=1Kgs 19:2\">2</a>; <a class=\"bibleref\" href=\"/passage/?search=1Kgs 21:5-1Kgs 21:26\">21:5–26</a>; <a class=\"bibleref\" href=\"/passage/?search=2Kgs 9:30-2Kgs 9:37\">2 Kin. 9:30–37</a>. The woman at Thyatira is called Jezebel because, like the Old Testament figure, she seduced people to sexual immorality and idolatry, two major forms of indulgence in pagan Asia Minor. See notes 14:8 and 17:1–19:10.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "revelation,3,5", "revelation,3,6" ],
+  "verses" : [ {
+    "verse" : "revelation,3,5",
+    "text" : "He who overcomes will, like them, be dressed in white. I will never blot out his name from the book of life, but will acknowledge his name before my Father and his angels."
+  }, {
+    "verse" : "revelation,3,6",
+    "text" : "He who has an ear, let him hear what the Spirit says to the churches."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "revelation,3,5",
     "id" : 199649,

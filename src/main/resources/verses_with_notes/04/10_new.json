@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "luke,13,22" ],
+  "verses" : [ {
+    "verse" : "luke,13,22",
+    "text" : "Then Jesus went through the towns and villages, teaching as he made his way to Jerusalem."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,13,22",
     "id" : 196622,
@@ -7,7 +10,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 13:22\">13:22</a></b> See note <a class=\"bibleref\" href=\"/passage/?search=Luke 9:51\">9:51</a>. Luke presents Jesus making unhurried progress toward Jerusalem where the climax would be reached. On the way He continued to serve the people.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,13,23" ],
+  "verses" : [ {
+    "verse" : "luke,13,23",
+    "text" : "Someone asked him, \"Lord, are only a few people going to be saved?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,13,23",
     "id" : 196623,
@@ -15,7 +21,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 13:23\">13:23</a></b> <b>few.</b> The Jews generally agreed that all Israel (except for a few especially sinful people) would be in the number of the saved.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,13,24" ],
+  "verses" : [ {
+    "verse" : "luke,13,24",
+    "text" : "He said to them, \"Make every effort to enter through the narrow door, because many, I tell you, will try to enter and will not be able to."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,13,24",
     "id" : 196624,
@@ -23,7 +32,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 13:24\">13:24</a></b> <b>Strive.</b> This does not mean that salvation is by works; it is a strong way of saying that people must be in earnest about salvation.</p><p><b>narrow door.</b> Jesus does not say what the narrow gate is, but clearly He is speaking of the way into salvation.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,13,25" ],
+  "verses" : [ {
+    "verse" : "luke,13,25",
+    "text" : "Once the owner of the house gets up and closes the door, you will stand outside knocking and pleading, 'Sir, open the door for us.'\"But he will answer, 'I don't know you or where you come from.'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,13,25",
     "id" : 196625,
@@ -31,7 +43,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 13:25\">13:25</a></b> <b>shut the door.</b> There is a limit to the offer of salvation; it must be accepted while the offer is present.</p><p><b>I do not know where you come from.</b> See <a class=\"bibleref\" href=\"/passage/?search=Matt 7:23\">Matt. 7:23</a>; <a class=\"bibleref\" href=\"/passage/?search=Matt 25:12\">25:12</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,13,26", "luke,13,27" ],
+  "verses" : [ {
+    "verse" : "luke,13,26",
+    "text" : "\"Then you will say, 'We ate and drank with you, and you taught in our streets.'"
+  }, {
+    "verse" : "luke,13,27",
+    "text" : "\"But he will reply, 'I don't know you or where you come from. Away from me, all you evildoers!'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,13,26-luke,13,27",
     "id" : 196626,
@@ -39,7 +57,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 13:26\">13:26</a>, <a class=\"bibleref\" href=\"/passage/?search=Luke 13:27\">27</a></b> To have had social fellowship with Jesus and to have heard His teaching were not enough.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,13,28" ],
+  "verses" : [ {
+    "verse" : "luke,13,28",
+    "text" : "\"There will be weeping there, and gnashing of teeth, when you see Abraham, Isaac and Jacob and all the prophets in the kingdom of God, but you yourselves thrown out."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,13,28",
     "id" : 196627,
@@ -47,7 +68,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 13:28\">13:28</a></b> <b>weeping and gnashing.</b> There will be weeping in grief and gnashing of teeth in anger as they see the great ones with whom they had always classed themselves in bliss, while they themselves are thrown out.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,13,29", "luke,13,30" ],
+  "verses" : [ {
+    "verse" : "luke,13,29",
+    "text" : "People will come from east and west and north and south, and will take their places at the feast in the kingdom of God."
+  }, {
+    "verse" : "luke,13,30",
+    "text" : "Indeed there are those who are last who will be first, and first who will be last.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,13,29",
     "id" : 196628,
@@ -55,7 +82,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 13:29\">13:29</a></b> <b>east . . . south.</b> The saved will be people from all over the world.</p><p><b>recline.</b> This imagery of the messianic banquet describes the great joy there will be in the kingdom (<a class=\"bibleref\" href=\"/passage/?search=Luke 14:15\">14:15</a>; <a class=\"bibleref\" href=\"/passage/?search=Rev 19:9\">Rev. 19:9</a>). There will be a complete reversal of many ideas strongly held among humankind (v. 30).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,13,31" ],
+  "verses" : [ {
+    "verse" : "luke,13,31",
+    "text" : "At that time some Pharisees came to Jesus and said to him, \"Leave this place and go somewhere else. Herod wants to kill you.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,13,31",
     "id" : 196629,
@@ -63,7 +93,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 13:31\">13:31</a></b> <b>Get away from here.</b> Jesus may have been in Perea where Herod ruled. The Pharisees preferred to see Him in Judea where they had more influence.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,13,32" ],
+  "verses" : [ {
+    "verse" : "luke,13,32",
+    "text" : "He replied, \"Go tell that fox, 'I will drive out demons and heal people today and tomorrow, and on the third day I will reach my goal.'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,13,32",
     "id" : 196630,
@@ -71,7 +104,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 13:32\">13:32</a></b> <b>that fox.</b> The Jews used the metaphor of a “fox” to mean worthless and sly. Jesus is unmoved by Herod’s threats and says He will continue with His ministry. There is a limit to His time as the reference to the third day shows.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,13,33" ],
+  "verses" : [ {
+    "verse" : "luke,13,33",
+    "text" : "In any case, I must keep going today and tomorrow and the next day--for surely no prophet can die outside Jerusalem!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,13,33",
     "id" : 196631,
@@ -79,7 +115,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 13:33\">13:33</a></b> <b>must.</b> There was a compelling divine necessity to what Jesus was doing. Notice also the further reference to the certainty that Jerusalem was the place where He would die (cf. <a class=\"bibleref\" href=\"/passage/?search=Luke 9:31\">9:31</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,13,34" ],
+  "verses" : [ {
+    "verse" : "luke,13,34",
+    "text" : "\"O Jerusalem, Jerusalem, you who kill the prophets and stone those sent to you, how often I have longed to gather your children together, as a hen gathers her chicks under her wings, but you were not willing!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,13,34-luke,13,35",
     "id" : 196632,
@@ -92,7 +131,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 13:34\">13:34</a></b> <b>How often.</b> Jesus must have been in Jerusalem more often than the Synoptic Gospels explicitly report; the Gospel of John records several visits.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,13,35" ],
+  "verses" : [ {
+    "verse" : "luke,13,35",
+    "text" : "Look, your house is left to you desolate. I tell you, you will not see me again until you say, 'Blessed is he who comes in the name of the Lord.'\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,13,35",
     "id" : 196634,
@@ -100,7 +142,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 13:35\">13:35</a></b> <b>your house.</b> This may mean the temple or the city as a whole.</p><p><b>forsaken.</b> The inevitable result of faithlessness.</p><p><b>until you say.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Matt 23:39\">Matt. 23:39</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,14,1" ],
+  "verses" : [ {
+    "verse" : "luke,14,1",
+    "text" : "One Sabbath, when Jesus went to eat in the house of a prominent Pharisee, he was being carefully watched."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,14,1",
     "id" : 196635,
@@ -108,7 +153,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 14:1\">14:1</a></b> <b>watching him carefully.</b> Evidently to detect any violation of Sabbath observance.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,14,2" ],
+  "verses" : [ {
+    "verse" : "luke,14,2",
+    "text" : "There in front of him was a man suffering from dropsy."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,14,2",
     "id" : 196636,
@@ -116,7 +164,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 14:2\">14:2</a></b> <b>dropsy.</b> A disease in which fluid collected in the cavities of the body (mentioned only here in the New Testament).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,14,3", "luke,14,4" ],
+  "verses" : [ {
+    "verse" : "luke,14,3",
+    "text" : "Jesus asked the Pharisees and experts in the law, \"Is it lawful to heal on the Sabbath or not?\""
+  }, {
+    "verse" : "luke,14,4",
+    "text" : "But they remained silent. So taking hold of the man, he healed him and sent him away."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,14,3",
     "id" : 196637,
@@ -124,7 +178,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 14:3\">14:3</a></b> <b>Is it lawful.</b> The law of Moses did not forbid healing on the Sabbath, but the “traditions of the elders” (<a class=\"bibleref\" href=\"/passage/?search=Mark 2:16\">Mark 2:16</a> note) did prohibit medical treatment unless the condition was life threatening.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,14,5", "luke,14,6" ],
+  "verses" : [ {
+    "verse" : "luke,14,5",
+    "text" : "Then he asked them, \"If one of you has a son or an ox that falls into a well on the Sabbath day, will you not immediately pull him out?\""
+  }, {
+    "verse" : "luke,14,6",
+    "text" : "And they had nothing to say."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,14,5",
     "id" : 196638,

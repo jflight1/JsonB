@@ -1,5 +1,14 @@
 [ {
-  "singleVerses" : [ "proverbs,30,29", "proverbs,30,30", "proverbs,30,31" ],
+  "verses" : [ {
+    "verse" : "proverbs,30,29",
+    "text" : "\"There are three things that are stately in their stride, four that move with stately bearing:"
+  }, {
+    "verse" : "proverbs,30,30",
+    "text" : "a lion, mighty among beasts, who retreats before nothing;"
+  }, {
+    "verse" : "proverbs,30,31",
+    "text" : "a strutting rooster, a he-goat, and a king with his army around him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,30,15-proverbs,30,31",
     "id" : 192347,

@@ -1,8 +1,20 @@
 [ {
-  "singleVerses" : [ "luke,23,13", "luke,23,14", "luke,23,15" ],
+  "verses" : [ {
+    "verse" : "luke,23,13",
+    "text" : "Pilate called together the chief priests, the rulers and the people,"
+  }, {
+    "verse" : "luke,23,14",
+    "text" : "and said to them, \"You brought me this man as one who was inciting the people to rebellion. I have examined him in your presence and have found no basis for your charges against him."
+  }, {
+    "verse" : "luke,23,15",
+    "text" : "Neither has Herod, for he sent him back to us; as you can see, he has done nothing to deserve death."
+  } ],
   "rsbNotes" : [ ]
 }, {
-  "singleVerses" : [ "luke,23,16" ],
+  "verses" : [ {
+    "verse" : "luke,23,16",
+    "text" : "Therefore, I will punish him and then release him.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,23,16",
     "id" : 196820,
@@ -10,7 +22,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 23:16\">23:16</a></b> <b>I will . . . release him.</b> Under Roman law a person might be beaten and warned to be more careful in the future. Pilate was evidently hoping that this would placate the Jews and enable him to release One he knew was innocent.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,23,17" ],
+  "verses" : [ {
+    "verse" : "luke,23,17",
+    "text" : "See Footnote"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,23,17",
     "id" : 196821,
@@ -18,7 +33,31 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 23:17\">23:17</a></b> The custom of releasing a prisoner at Passover is not attested outside the Gospels, but this sort of thing was widely done at this time and there is nothing improbable about it.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,23,18", "luke,23,19", "luke,23,20", "luke,23,21", "luke,23,22", "luke,23,23", "luke,23,24", "luke,23,25" ],
+  "verses" : [ {
+    "verse" : "luke,23,18",
+    "text" : "With one voice they cried out, \"Away with this man! Release Barabbas to us!\""
+  }, {
+    "verse" : "luke,23,19",
+    "text" : "(Barabbas had been thrown into prison for an insurrection in the city, and for murder.)"
+  }, {
+    "verse" : "luke,23,20",
+    "text" : "Wanting to release Jesus, Pilate appealed to them again."
+  }, {
+    "verse" : "luke,23,21",
+    "text" : "But they kept shouting, \"Crucify him! Crucify him!\""
+  }, {
+    "verse" : "luke,23,22",
+    "text" : "For the third time he spoke to them: \"Why? What crime has this man committed? I have found in him no grounds for the death penalty. Therefore I will have him punished and then release him.\""
+  }, {
+    "verse" : "luke,23,23",
+    "text" : "But with loud shouts they insistently demanded that he be crucified, and their shouts prevailed."
+  }, {
+    "verse" : "luke,23,24",
+    "text" : "So Pilate decided to grant their demand."
+  }, {
+    "verse" : "luke,23,25",
+    "text" : "He released the man who had been thrown into prison for insurrection and murder, the one they asked for, and surrendered Jesus to their will."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,23,18",
     "id" : 196822,
@@ -26,7 +65,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 23:18\">23:18</a></b> <b>Barabbas.</b> The crowds clamored for Barabbas, a man otherwise unknown. His name means “son of the father,” and Luke reports that his crimes were insurrection and murder.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,23,26" ],
+  "verses" : [ {
+    "verse" : "luke,23,26",
+    "text" : "As they led him away, they seized Simon from Cyrene, who was on his way in from the country, and put the cross on him and made him carry it behind Jesus."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,23,26",
     "id" : 196823,
@@ -34,7 +76,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 23:26\">23:26</a></b> <b>Simon of Cyrene.</b> It was customary for the condemned to carry the horizontal crossbeam to the site of the crucifixion. Jesus started to carry His cross (<a class=\"bibleref\" href=\"/passage/?search=John 19:17\">John 19:17</a>), but He would have been weakened by the heavy scourging that usually preceded crucifixion (<a class=\"bibleref\" href=\"/passage/?search=Mark 15:15\">Mark 15:15</a>). The soldiers conscripted a passer-by named Simon from Cyrene in North Africa. His sons apparently were known in the church (<a class=\"bibleref\" href=\"/passage/?search=Mark 15:21\">Mark 15:21</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,23,27" ],
+  "verses" : [ {
+    "verse" : "luke,23,27",
+    "text" : "A large number of people followed him, including women who mourned and wailed for him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,23,27-luke,23,31",
     "id" : 196824,
@@ -42,7 +87,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 23:27-Luke 23:31\">23:27–31</a></b> Only Luke records this incident. There must have been many supporters of Jesus in Jerusalem; only a comparatively small number could crowd around the judgment hall where the opposition was concentrated.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,23,28", "luke,23,29", "luke,23,30" ],
+  "verses" : [ {
+    "verse" : "luke,23,28",
+    "text" : "Jesus turned and said to them, \"Daughters of Jerusalem, do not weep for me; weep for yourselves and for your children."
+  }, {
+    "verse" : "luke,23,29",
+    "text" : "For the time will come when you will say, 'Blessed are the barren women, the wombs that never bore and the breasts that never nursed!'"
+  }, {
+    "verse" : "luke,23,30",
+    "text" : "Then \"'they will say to the mountains, \"Fall on us!\" and to the hills, \"Cover us!\"'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,23,28",
     "id" : 196825,
@@ -50,7 +104,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 23:28\">23:28</a></b> <b>Daughters of Jerusalem.</b> These were local people, not pilgrims from Galilee. Jesus is concerned for them, not Himself, and turns their attention to the terrible troubles that would come upon the land (<a class=\"bibleref\" href=\"/passage/?search=Luke 21:20-Luke 21:24\">21:20–24</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,23,31", "luke,23,32" ],
+  "verses" : [ {
+    "verse" : "luke,23,31",
+    "text" : "For if men do these things when the tree is green, what will happen when it is dry?\""
+  }, {
+    "verse" : "luke,23,32",
+    "text" : "Two other men, both criminals, were also led out with him to be executed."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,23,31",
     "id" : 196826,
@@ -58,7 +118,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 23:31\">23:31</a></b> Evidently a proverbial saying, possibly meaning that if Jesus (who was innocent) was crucified, what would happen to the Jews (who were guilty)?</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,23,33" ],
+  "verses" : [ {
+    "verse" : "luke,23,33",
+    "text" : "When they came to the place called the Skull, there they crucified him, along with the criminals--one on his right, the other on his left."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,23,33",
     "id" : 196827,
@@ -66,7 +129,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 23:33\">23:33</a></b> <b>The Skull.</b> From the Latin word <i>calvaria,</i> “a skull.” All four Gospels say that Jesus was crucified between two criminals; in His death He “was numbered with the transgressors” (<a class=\"bibleref\" href=\"/passage/?search=Isa 53:12\">Is. 53:12</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,23,34" ],
+  "verses" : [ {
+    "verse" : "luke,23,34",
+    "text" : "Jesus said, \"Father, forgive them, for they do not know what they are doing.\" And they divided up his clothes by casting lots."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,23,34",
     "id" : 196828,
@@ -74,7 +140,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 23:34\">23:34</a></b> <b>them.</b> Both Jews and Romans.</p><p><b>his garments.</b> The clothing of a crucified person was given to those who carried out the execution. In this way they fulfilled <a class=\"bibleref\" href=\"/passage/?search=Ps 22:18\">Ps. 22:18</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,23,35", "luke,23,36", "luke,23,37", "luke,23,38", "luke,23,39", "luke,23,40", "luke,23,41" ],
+  "verses" : [ {
+    "verse" : "luke,23,35",
+    "text" : "The people stood watching, and the rulers even sneered at him. They said, \"He saved others; let him save himself if he is the Christ of God, the Chosen One.\""
+  }, {
+    "verse" : "luke,23,36",
+    "text" : "The soldiers also came up and mocked him. They offered him wine vinegar"
+  }, {
+    "verse" : "luke,23,37",
+    "text" : "and said, \"If you are the king of the Jews, save yourself.\""
+  }, {
+    "verse" : "luke,23,38",
+    "text" : "There was a written notice above him, which read:|sc THIS IS THE KING OF THE JEWS."
+  }, {
+    "verse" : "luke,23,39",
+    "text" : "One of the criminals who hung there hurled insults at him: \"Aren't you the Christ? Save yourself and us!\""
+  }, {
+    "verse" : "luke,23,40",
+    "text" : "But the other criminal rebuked him. \"Don't you fear God,\" he said, \"since you are under the same sentence?"
+  }, {
+    "verse" : "luke,23,41",
+    "text" : "We are punished justly, for we are getting what our deeds deserve. But this man has done nothing wrong.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,23,35",
     "id" : 196829,
@@ -82,7 +169,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 23:35\">23:35</a></b> The rulers, not the people, were sneering. They speak of “the Christ” and the “Chosen One,” although Jesus seems not to have used either title much.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,23,42" ],
+  "verses" : [ {
+    "verse" : "luke,23,42",
+    "text" : "Then he said, \"Jesus, remember me when you come into your kingdom. \""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,23,42",
     "id" : 196830,
@@ -90,7 +180,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 23:42\">23:42</a></b> <b>into your kingdom.</b> This request indicates some measure of trust. The man was confident that Jesus was not about to be annihilated in death but was going to a heavenly kingdom.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,23,43" ],
+  "verses" : [ {
+    "verse" : "luke,23,43",
+    "text" : "Jesus answered him, \"I tell you the truth, today you will be with me in paradise.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,23,43",
     "id" : 196831,

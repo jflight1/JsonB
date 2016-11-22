@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,63,1" ],
+  "verses" : [ {
+    "verse" : "psalms,63,1",
+    "text" : "O God, you are my God, earnestly I seek you; my soul thirsts for you, my body longs for you, in a dry and weary land where there is no water."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,63,1-psalms,63,11",
     "id" : 190748,
@@ -17,7 +20,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 63:1\">63:1</a></b> <b>thirsts.</b> Cf. <a class=\"bibleref\" href=\"/passage/?search=Ps 42\">Ps. 42</a>.</p><p><b>my flesh.</b> The Book of Psalms permits no false spiritualization. The whole person yearns for God, not merely a non-physical aspect of the person.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,63,2" ],
+  "verses" : [ {
+    "verse" : "psalms,63,2",
+    "text" : "I have seen you in the sanctuary and beheld your power and your glory."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,63,2",
     "id" : 190751,
@@ -25,7 +31,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 63:2\">63:2</a></b> <b>in the sanctuary.</b> The psalmist remembers the place of God’s appointment, and the vision of God’s “power” and “glory” entrusted to him there.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,63,3", "psalms,63,4" ],
+  "verses" : [ {
+    "verse" : "psalms,63,3",
+    "text" : "Because your love is better than life, my lips will glorify you."
+  }, {
+    "verse" : "psalms,63,4",
+    "text" : "I will praise you as long as I live, and in your name I will lift up my hands."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,63,3",
     "id" : 190752,
@@ -33,7 +45,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 63:3\">63:3</a></b> <b>your steadfast love.</b> That is, the unchanging love God shows toward those joined to Him by His covenant.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,63,5" ],
+  "verses" : [ {
+    "verse" : "psalms,63,5",
+    "text" : "My soul will be satisfied as with the richest of foods; with singing lips my mouth will praise you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,63,5",
     "id" : 190753,
@@ -41,7 +56,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 63:5\">63:5</a></b> <b>will be satisfied.</b> Only in praise to God, in intimate communion with Him, will the psalmist feel spiritually content.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,63,6" ],
+  "verses" : [ {
+    "verse" : "psalms,63,6",
+    "text" : "On my bed I remember you; I think of you through the watches of the night."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,63,6",
     "id" : 190754,
@@ -49,7 +67,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 63:6\">63:6</a></b> <b>watches of the night.</b> The psalmist has confidence in the Lord when he is most vulnerable to fear and attack.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,63,7" ],
+  "verses" : [ {
+    "verse" : "psalms,63,7",
+    "text" : "Because you are my help, I sing in the shadow of your wings."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,63,7",
     "id" : 190755,
@@ -57,7 +78,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 63:7\">63:7</a></b> <b>your wings.</b> God may be compared to a mother bird who protects her young, but see second note on <a class=\"bibleref\" href=\"/passage/?search=Ps 61:4\">61:4</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,63,8" ],
+  "verses" : [ {
+    "verse" : "psalms,63,8",
+    "text" : "My soul clings to you; your right hand upholds me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,63,8",
     "id" : 190756,
@@ -65,7 +89,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 63:8\">63:8</a></b> <b>My soul clings to you.</b> Though far removed from the sanctuary, the place where he has experienced God’s presence, the psalmist still enjoys intimate communion with Him. Clinging to the Lord means finding in Him one’s only hope (<a class=\"bibleref\" href=\"/passage/?search=Deut 10:20\">Deut. 10:20</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 11:22\">11:22</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,63,9", "psalms,63,10" ],
+  "verses" : [ {
+    "verse" : "psalms,63,9",
+    "text" : "They who seek my life will be destroyed; they will go down to the depths of the earth."
+  }, {
+    "verse" : "psalms,63,10",
+    "text" : "They will be given over to the sword and become food for jackals."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,63,9",
     "id" : 190757,
@@ -73,7 +103,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 63:9\">63:9</a></b> <b>seek to destroy my life.</b> This verse is the first indication of distress or danger in the poem of the psalmist’s distress.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,63,11" ],
+  "verses" : [ {
+    "verse" : "psalms,63,11",
+    "text" : "But the king will rejoice in God; all who swear by God's name will praise him, while the mouths of liars will be silenced."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,63,11",
     "id" : 190758,

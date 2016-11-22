@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "proverbs,10,24", "proverbs,10,25" ],
+  "verses" : [ {
+    "verse" : "proverbs,10,24",
+    "text" : "What the wicked dreads will overtake him; what the righteous desire will be granted."
+  }, {
+    "verse" : "proverbs,10,25",
+    "text" : "When the storm has swept by, the wicked are gone, but the righteous stand firm forever."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

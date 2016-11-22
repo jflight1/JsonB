@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,106,32" ],
+  "verses" : [ {
+    "verse" : "psalms,106,32",
+    "text" : "By the waters of Meribah they angered the LORD, and trouble came to Moses because of them;"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,106,1-psalms,106,48",
     "id" : 191194,
@@ -12,7 +15,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 106:32\">106:32</a></b> <b>waters of Meribah.</b> See <a class=\"bibleref\" href=\"/passage/?search=Num 20:1-Num 20:13\">Num. 20:1–13</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,106,33", "psalms,106,34", "psalms,106,35", "psalms,106,36" ],
+  "verses" : [ {
+    "verse" : "psalms,106,33",
+    "text" : "for they rebelled against the Spirit of God, and rash words came from Moses' lips."
+  }, {
+    "verse" : "psalms,106,34",
+    "text" : "They did not destroy the peoples as the LORD had commanded them,"
+  }, {
+    "verse" : "psalms,106,35",
+    "text" : "but they mingled with the nations and adopted their customs."
+  }, {
+    "verse" : "psalms,106,36",
+    "text" : "They worshiped their idols, which became a snare to them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,106,33",
     "id" : 191210,
@@ -20,7 +35,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 106:33\">106:33</a></b> <b>they made his spirit bitter.</b> By not trusting God to provide for their survival in the wilderness.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,106,37", "psalms,106,38" ],
+  "verses" : [ {
+    "verse" : "psalms,106,37",
+    "text" : "They sacrificed their sons and their daughters to demons."
+  }, {
+    "verse" : "psalms,106,38",
+    "text" : "They shed innocent blood, the blood of their sons and daughters, whom they sacrificed to the idols of Canaan, and the land was desecrated by their blood."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,106,37",
     "id" : 191211,
@@ -28,7 +49,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 106:37\">106:37</a></b> <b>to the demons.</b> The spiritual reality behind the lifeless idols is demonic, a world of hostility to the one God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,106,39", "psalms,106,40", "psalms,106,41", "psalms,106,42", "psalms,106,43", "psalms,106,44" ],
+  "verses" : [ {
+    "verse" : "psalms,106,39",
+    "text" : "They defiled themselves by what they did; by their deeds they prostituted themselves."
+  }, {
+    "verse" : "psalms,106,40",
+    "text" : "Therefore the LORD was angry with his people and abhorred his inheritance."
+  }, {
+    "verse" : "psalms,106,41",
+    "text" : "He handed them over to the nations, and their foes ruled over them."
+  }, {
+    "verse" : "psalms,106,42",
+    "text" : "Their enemies oppressed them and subjected them to their power."
+  }, {
+    "verse" : "psalms,106,43",
+    "text" : "Many times he delivered them, but they were bent on rebellion and they wasted away in their sin."
+  }, {
+    "verse" : "psalms,106,44",
+    "text" : "But he took note of their distress when he heard their cry;"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,106,39",
     "id" : 191212,
@@ -36,7 +75,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 106:39\">106:39</a></b> <b>they . . . played the whore.</b> Joining themselves to a false god is spiritual adultery.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,106,45", "psalms,106,46", "psalms,106,47", "psalms,106,48" ],
+  "verses" : [ {
+    "verse" : "psalms,106,45",
+    "text" : "for their sake he remembered his covenant and out of his great love he relented."
+  }, {
+    "verse" : "psalms,106,46",
+    "text" : "He caused them to be pitied by all who held them captive."
+  }, {
+    "verse" : "psalms,106,47",
+    "text" : "Save us, O LORD our God, and gather us from the nations, that we may give thanks to your holy name and glory in your praise."
+  }, {
+    "verse" : "psalms,106,48",
+    "text" : "Praise be to the LORD, the God of Israel, from everlasting to everlasting. Let all the people say, \"Amen!\" Praise the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,106,45",
     "id" : 191213,

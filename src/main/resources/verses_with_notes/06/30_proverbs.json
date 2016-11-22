@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,18,6" ],
+  "verses" : [ {
+    "verse" : "proverbs,18,6",
+    "text" : "A fool's lips bring him strife, and his mouth invites a beating."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 18:6\">18:6</a>, <a class=\"bibleref\" href=\"/passage/?search=Prov 18:7\">7</a></b> See <a class=\"bibleref\" href=\"/passage/?search=Prov 6:2\">6:2</a>; <a class=\"bibleref\" href=\"/passage/?search=Prov 10:11\">10:11</a>, <a class=\"bibleref\" href=\"/passage/?search=Prov 10:14\">14</a>; <a class=\"bibleref\" href=\"/passage/?search=Prov 13:3\">13:3</a>; <a class=\"bibleref\" href=\"/passage/?search=Prov 14:3\">14:3</a> and notes.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,18,7" ],
+  "verses" : [ {
+    "verse" : "proverbs,18,7",
+    "text" : "A fool's mouth is his undoing, and his lips are a snare to his soul."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,18,7",
     "id" : 192051,

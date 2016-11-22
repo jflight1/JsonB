@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "judges,19,1" ],
+  "verses" : [ {
+    "verse" : "judges,19,1",
+    "text" : "In those days Israel had no king. Now a Levite who lived in a remote area in the hill country of Ephraim took a concubine from Bethlehem in Judah."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,19,1-judges,21,25",
     "id" : 187227,
@@ -12,7 +15,31 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 19:1\">19:1</a></b> <b>Levite.</b> This man was from the tribe that served the Lord as His priests.</p><p><b>concubine.</b> A concubine was usually a slave and had a lower legal status than a wife ( <a class=\"bibleref\" href=\"/passage/?search=Judg 8:31\">8:31</a>; <a class=\"bibleref\" href=\"/passage/?search=Judg 9:18\">9:18</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,19,2", "judges,19,3", "judges,19,4", "judges,19,5", "judges,19,6", "judges,19,7", "judges,19,8", "judges,19,9" ],
+  "verses" : [ {
+    "verse" : "judges,19,2",
+    "text" : "But she was unfaithful to him. She left him and went back to her father's house in Bethlehem, Judah. After she had been there four months,"
+  }, {
+    "verse" : "judges,19,3",
+    "text" : "her husband went to her to persuade her to return. He had with him his servant and two donkeys. She took him into her father's house, and when her father saw him, he gladly welcomed him."
+  }, {
+    "verse" : "judges,19,4",
+    "text" : "His father-in-law, the girl's father, prevailed upon him to stay; so he remained with him three days, eating and drinking, and sleeping there."
+  }, {
+    "verse" : "judges,19,5",
+    "text" : "On the fourth day they got up early and he prepared to leave, but the girl's father said to his son-in-law, \"Refresh yourself with something to eat; then you can go.\""
+  }, {
+    "verse" : "judges,19,6",
+    "text" : "So the two of them sat down to eat and drink together. Afterward the girl's father said, \"Please stay tonight and enjoy yourself.\""
+  }, {
+    "verse" : "judges,19,7",
+    "text" : "And when the man got up to go, his father-in-law persuaded him, so he stayed there that night."
+  }, {
+    "verse" : "judges,19,8",
+    "text" : "On the morning of the fifth day, when he rose to go, the girl's father said, \"Refresh yourself. Wait till afternoon!\" So the two of them ate together."
+  }, {
+    "verse" : "judges,19,9",
+    "text" : "Then when the man, with his concubine and his servant, got up to leave, his father-in-law, the girl's father, said, \"Now look, it's almost evening. Spend the night here; the day is nearly over. Stay and enjoy yourself. Early tomorrow morning you can get up and be on your way home.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,19,2",
     "id" : 187229,
@@ -20,7 +47,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 19:2\">19:2</a></b> <b>unfaithful.</b> The law demanded the stoning of adulterers (<a class=\"bibleref\" href=\"/passage/?search=Deut 22:22\">Deut. 22:22</a>), but the people were not following the law (17:6; 21:25).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,19,10", "judges,19,11" ],
+  "verses" : [ {
+    "verse" : "judges,19,10",
+    "text" : "But, unwilling to stay another night, the man left and went toward Jebus (that is, Jerusalem), with his two saddled donkeys and his concubine."
+  }, {
+    "verse" : "judges,19,11",
+    "text" : "When they were near Jebus and the day was almost gone, the servant said to his master, \"Come, let's stop at this city of the Jebusites and spend the night.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,19,10",
     "id" : 187230,
@@ -28,7 +61,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 19:10\">19:10</a></b> <b>Jebus . . . Jerusalem.</b> See <a class=\"bibleref\" href=\"/passage/?search=Judg 1:21\">1:21</a> and note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,19,12", "judges,19,13" ],
+  "verses" : [ {
+    "verse" : "judges,19,12",
+    "text" : "His master replied, \"No. We won't go into an alien city, whose people are not Israelites. We will go on to Gibeah.\""
+  }, {
+    "verse" : "judges,19,13",
+    "text" : "He added, \"Come, let's try to reach Gibeah or Ramah and spend the night in one of those places.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,19,12",
     "id" : 187231,
@@ -36,7 +75,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 19:12\">19:12</a></b> <b>We will not turn aside.</b> Ironically, they refuse to lodge with foreigners, only to find that their fellow Israelites are no better than Sodom and Gomorrah (<a class=\"bibleref\" href=\"/passage/?search=Judg 19-Judg 21\">19:1–21:25</a> note).</p><p><b>Gibeah.</b> When the Book of Judges was written, Gibeah would have been well known as the home town of Saul (<a class=\"bibleref\" href=\"/passage/?search=Judg 19-Judg 21\">19:1–21:25</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,19,14" ],
+  "verses" : [ {
+    "verse" : "judges,19,14",
+    "text" : "So they went on, and the sun set as they neared Gibeah in Benjamin."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,19,14-judges,20,48",
     "id" : 187232,
@@ -44,7 +86,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 19:14-Judg 20:48\">19:14–20:48</a></b> The story of what happened to the Levite in Gibeah is similar to the story of Sodom and Gomorrah (<a class=\"bibleref\" href=\"/passage/?search=Gen 19:1-Gen 19:13\">Gen. 19:1–13</a>). Gibeah’s sin was like that of Sodom and Gomorrah, and the Benjaminites were destroyed by the <span class=\"small-caps\">Lord</span>’s permission and assistance (20:18, 28, 35). Saul was from Benjamin, and it would not have helped him or his descendants for these events to be remembered.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,19,15" ],
+  "verses" : [ {
+    "verse" : "judges,19,15",
+    "text" : "There they stopped to spend the night. They went and sat in the city square, but no one took them into his home for the night."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,19,15",
     "id" : 187233,
@@ -52,7 +97,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 19:15\">19:15</a></b> <b>sat down in the open square.</b> In this manner the travelers advertised their need for hospitality (<a class=\"bibleref\" href=\"/passage/?search=Judg 19:16-Judg 19:20\">vv. 16–20</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,19,16", "judges,19,17" ],
+  "verses" : [ {
+    "verse" : "judges,19,16",
+    "text" : "That evening an old man from the hill country of Ephraim, who was living in Gibeah (the men of the place were Benjamites), came in from his work in the fields."
+  }, {
+    "verse" : "judges,19,17",
+    "text" : "When he looked and saw the traveler in the city square, the old man asked, \"Where are you going? Where did you come from?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,19,16",
     "id" : 187234,
@@ -60,7 +111,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 19:16\">19:16</a></b> <b>an old man . . . of Ephraim.</b> It took another “foreigner” from another generation to show hospitality.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,19,18", "judges,19,19", "judges,19,20", "judges,19,21" ],
+  "verses" : [ {
+    "verse" : "judges,19,18",
+    "text" : "He answered, \"We are on our way from Bethlehem in Judah to a remote area in the hill country of Ephraim where I live. I have been to Bethlehem in Judah and now I am going to the house of the LORD. No one has taken me into his house."
+  }, {
+    "verse" : "judges,19,19",
+    "text" : "We have both straw and fodder for our donkeys and bread and wine for ourselves your servants-me, your maidservant, and the young man with us. We don't need anything.\""
+  }, {
+    "verse" : "judges,19,20",
+    "text" : "\"You are welcome at my house,\" the old man said. \"Let me supply whatever you need. Only don't spend the night in the square.\""
+  }, {
+    "verse" : "judges,19,21",
+    "text" : "So he took him into his house and fed his donkeys. After they had washed their feet, they had something to eat and drink."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,19,18",
     "id" : 187235,
@@ -68,7 +131,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 19:18\">19:18</a></b> <b>to the house of the Lord.</b> That is, to the tabernacle in Shiloh (<a class=\"bibleref\" href=\"/passage/?search=Judg 18:31\">18:31</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,19,22" ],
+  "verses" : [ {
+    "verse" : "judges,19,22",
+    "text" : "While they were enjoying themselves, some of the wicked men of the city surrounded the house. Pounding on the door, they shouted to the old man who owned the house, \"Bring out the man who came to your house so we can have sex with him.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,19,22",
     "id" : 187236,
@@ -76,7 +142,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 19:22\">19:22</a></b> <b>Bring out the man.</b> See <a class=\"bibleref\" href=\"/passage/?search=Gen 19:5\">Gen. 19:5</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,19,23" ],
+  "verses" : [ {
+    "verse" : "judges,19,23",
+    "text" : "The owner of the house went outside and said to them, \"No, my friends, don't be so vile. Since this man is my guest, don't do this disgraceful thing."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,19,23",
     "id" : 187237,
@@ -84,7 +153,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 19:23\">19:23</a></b> <b>do not do this vile thing.</b> Whatever else may be said, according to the customs of hospitality the host cannot contemplate surrendering his guest to violence. In the law, the sexual act contemplated is described as “an abomination” (<a class=\"bibleref\" href=\"/passage/?search=Lev 18:22\">Lev. 18:22</a>; <a class=\"bibleref\" href=\"/passage/?search=Lev 20:13\">20:13</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,19,24", "judges,19,25", "judges,19,26", "judges,19,27" ],
+  "verses" : [ {
+    "verse" : "judges,19,24",
+    "text" : "Look, here is my virgin daughter, and his concubine. I will bring them out to you now, and you can use them and do to them whatever you wish. But to this man, don't do such a disgraceful thing.\""
+  }, {
+    "verse" : "judges,19,25",
+    "text" : "But the men would not listen to him. So the man took his concubine and sent her outside to them, and they raped her and abused her throughout the night, and at dawn they let her go."
+  }, {
+    "verse" : "judges,19,26",
+    "text" : "At daybreak the woman went back to the house where her master was staying, fell down at the door and lay there until daylight."
+  }, {
+    "verse" : "judges,19,27",
+    "text" : "When her master got up in the morning and opened the door of the house and stepped out to continue on his way, there lay his concubine, fallen in the doorway of the house, with her hands on the threshold."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,19,24",
     "id" : 187238,
@@ -92,7 +173,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 19:24\">19:24</a></b> <b>my virgin daughter.</b> As Lot offered his daughters to protect his guests (<a class=\"bibleref\" href=\"/passage/?search=Gen 19:8\">Gen. 19:8</a>), the host offers his daughter to protect the Levite. The author does not comment on the morality of this offer, but the whole story is presented as a final illustration of the evil consequences of forsaking God’s rule and doing what is right in one’s own eyes.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,19,28" ],
+  "verses" : [ {
+    "verse" : "judges,19,28",
+    "text" : "He said to her, \"Get up; let's go.\" But there was no answer. Then the man put her on his donkey and set out for home."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,19,28",
     "id" : 187239,
@@ -100,7 +184,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 19:28\">19:28</a></b> <b>But there was no answer.</b> She was dead.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,19,29" ],
+  "verses" : [ {
+    "verse" : "judges,19,29",
+    "text" : "When he reached home, he took a knife and cut up his concubine, limb by limb, into twelve parts and sent them into all the areas of Israel."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,19,29",
     "id" : 187240,
@@ -108,7 +195,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 19:29\">19:29</a></b> <b>twelve pieces.</b> The original audience of Judges would have been well aware of how Saul later cut up oxen into twelve parts in order to summon Israel to fight against the Ammonites (<a class=\"bibleref\" href=\"/passage/?search=1Sam 11:6-1Sam 11:8\">1 Sam. 11:6–8</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,19,30" ],
+  "verses" : [ {
+    "verse" : "judges,19,30",
+    "text" : "Everyone who saw it said, \"Such a thing has never been seen or done, not since the day the Israelites came up out of Egypt. Think about it! Consider it! Tell us what to do!\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,19,30",
     "id" : 187241,
@@ -116,7 +206,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 19:30\">19:30</a></b> <b>Such a thing.</b> This would be the grotesque use of the woman’s body.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,20,1" ],
+  "verses" : [ {
+    "verse" : "judges,20,1",
+    "text" : "Then all the Israelites from Dan to Beersheba and from the land of Gilead came out as one man and assembled before the LORD in Mizpah."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,20,1-judges,20,48",
     "id" : 187242,
@@ -129,7 +222,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 20:1\">20:1</a></b> <b>from Dan to Beersheba.</b> The extreme north and south of Israel.</p><p><b>assembled as one man.</b> For the first time Israel was united, but the purpose was to wage war against their brothers.</p><p><b>to the <span class=\"small-caps\">Lord</span> at Mizpah.</b> See <a class=\"bibleref\" href=\"/passage/?search=Judg 11:11\">11:11</a> note. Saul was later made king at Mizpah.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,20,2", "judges,20,3", "judges,20,4" ],
+  "verses" : [ {
+    "verse" : "judges,20,2",
+    "text" : "The leaders of all the people of the tribes of Israel took their places in the assembly of the people of God, four hundred thousand soldiers armed with swords."
+  }, {
+    "verse" : "judges,20,3",
+    "text" : "(The Benjamites heard that the Israelites had gone up to Mizpah.) Then the Israelites said, \"Tell us how this awful thing happened.\""
+  }, {
+    "verse" : "judges,20,4",
+    "text" : "So the Levite, the husband of the murdered woman, said, \"I and my concubine came to Gibeah in Benjamin to spend the night."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,20,2",
     "id" : 187244,
@@ -137,7 +239,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 20:2\">20:2</a></b> <b>in the assembly of the people of God.</b> After the repeated cycles of sin, judgment, and deliverance, it is an evidence of God’s mercy that Israel was still called His people.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,20,5", "judges,20,6", "judges,20,7" ],
+  "verses" : [ {
+    "verse" : "judges,20,5",
+    "text" : "During the night the men of Gibeah came after me and surrounded the house, intending to kill me. They raped my concubine, and she died."
+  }, {
+    "verse" : "judges,20,6",
+    "text" : "I took my concubine, cut her into pieces and sent one piece to each region of Israel's inheritance, because they committed this lewd and disgraceful act in Israel."
+  }, {
+    "verse" : "judges,20,7",
+    "text" : "Now, all you Israelites, speak up and give your verdict.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,20,5",
     "id" : 187245,
@@ -145,7 +256,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 20:5\">20:5</a></b> <b>they violated my concubine.</b> The Levite omits the details of how the concubine had been offered (<a class=\"bibleref\" href=\"/passage/?search=Judg 19:23-Judg 19:24\">19:23–24</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,20,8", "judges,20,9", "judges,20,10", "judges,20,11", "judges,20,12" ],
+  "verses" : [ {
+    "verse" : "judges,20,8",
+    "text" : "All the people rose as one man, saying, \"None of us will go home. No, not one of us will return to his house."
+  }, {
+    "verse" : "judges,20,9",
+    "text" : "But now this is what we'll do to Gibeah: We'll go up against it as the lot directs."
+  }, {
+    "verse" : "judges,20,10",
+    "text" : "We'll take ten men out of every hundred from all the tribes of Israel, and a hundred from a thousand, and a thousand from ten thousand, to get provisions for the army. Then, when the army arrives at Gibeah in Benjamin, it can give them what they deserve for all this vileness done in Israel.\""
+  }, {
+    "verse" : "judges,20,11",
+    "text" : "So all the men of Israel got together and united as one man against the city."
+  }, {
+    "verse" : "judges,20,12",
+    "text" : "The tribes of Israel sent men throughout the tribe of Benjamin, saying, \"What about this awful crime that was committed among you?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,20,8",
     "id" : 187246,
@@ -153,7 +279,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 20:8\">20:8</a></b> <b>as one man.</b> See <a class=\"bibleref\" href=\"/passage/?search=Judg 20:1\">vv. 1</a>, <a class=\"bibleref\" href=\"/passage/?search=Judg 20:11\">11</a>, and <a class=\"bibleref\" href=\"/passage/?search=Judg 20\">20:1–48</a> note. The Israelites took an oath to see this through to the end.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,20,13", "judges,20,14", "judges,20,15" ],
+  "verses" : [ {
+    "verse" : "judges,20,13",
+    "text" : "Now surrender those wicked men of Gibeah so that we may put them to death and purge the evil from Israel.\" But the Benjamites would not listen to their fellow Israelites."
+  }, {
+    "verse" : "judges,20,14",
+    "text" : "From their towns they came together at Gibeah to fight against the Israelites."
+  }, {
+    "verse" : "judges,20,15",
+    "text" : "At once the Benjamites mobilized twenty-six thousand swordsmen from their towns, in addition to seven hundred chosen men from those living in Gibeah."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,20,13",
     "id" : 187247,
@@ -161,7 +296,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 20:13\">20:13</a></b> <b>purge evil.</b> The Israelites did not see the evil that pervaded their community.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,20,16", "judges,20,17" ],
+  "verses" : [ {
+    "verse" : "judges,20,16",
+    "text" : "Among all these soldiers there were seven hundred chosen men who were left-handed, each of whom could sling a stone at a hair and not miss."
+  }, {
+    "verse" : "judges,20,17",
+    "text" : "Israel, apart from Benjamin, mustered four hundred thousand swordsmen, all of them fighting men."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,20,16",
     "id" : 187248,
@@ -169,7 +310,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 20:16\">20:16</a></b> <b>were left-handed.</b> See <a class=\"bibleref\" href=\"/passage/?search=Judg 3:15\">3:15</a> note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,20,18", "judges,20,19", "judges,20,20", "judges,20,21", "judges,20,22" ],
+  "verses" : [ {
+    "verse" : "judges,20,18",
+    "text" : "The Israelites went up to Bethel and inquired of God. They said, \"Who of us shall go first to fight against the Benjamites?\" The LORD replied, \"Judah shall go first.\""
+  }, {
+    "verse" : "judges,20,19",
+    "text" : "The next morning the Israelites got up and pitched camp near Gibeah."
+  }, {
+    "verse" : "judges,20,20",
+    "text" : "The men of Israel went out to fight the Benjamites and took up battle positions against them at Gibeah."
+  }, {
+    "verse" : "judges,20,21",
+    "text" : "The Benjamites came out of Gibeah and cut down twenty-two thousand Israelites on the battlefield that day."
+  }, {
+    "verse" : "judges,20,22",
+    "text" : "But the men of Israel encouraged one another and again took up their positions where they had stationed themselves the first day."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,20,18",
     "id" : 187249,
@@ -177,7 +333,82 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 20:18\">20:18</a></b> <b>to Bethel.</b> The ark of the Lord and the priest with the ephod were at Bethel at this time (<a class=\"bibleref\" href=\"/passage/?search=Judg 20:27\">v. 27</a>).</p><p><b>Who shall go up first.</b> This is the same language that is used at the beginning of Judges, where the question to be decided was who should lead against the Canaanites (<a class=\"bibleref\" href=\"/passage/?search=Judg 1:1\">1:1</a>).</p><p><b>Judah.</b> The Lord gave the same answer as in <a class=\"bibleref\" href=\"/passage/?search=Judg 1:2\">1:2</a>, but in a different situation.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,20,23", "judges,20,24", "judges,20,25", "judges,20,26", "judges,20,27", "judges,20,28", "judges,20,29", "judges,20,30", "judges,20,31", "judges,20,32", "judges,20,33", "judges,20,34", "judges,20,35", "judges,20,36", "judges,20,37", "judges,20,38", "judges,20,39", "judges,20,40", "judges,20,41", "judges,20,42", "judges,20,43", "judges,20,44", "judges,20,45", "judges,20,46", "judges,20,47" ],
+  "verses" : [ {
+    "verse" : "judges,20,23",
+    "text" : "The Israelites went up and wept before the LORD until evening, and they inquired of the LORD. They said, \"Shall we go up again to battle against the Benjamites, our brothers?\" The LORD answered, \"Go up against them.\""
+  }, {
+    "verse" : "judges,20,24",
+    "text" : "Then the Israelites drew near to Benjamin the second day."
+  }, {
+    "verse" : "judges,20,25",
+    "text" : "This time, when the Benjamites came out from Gibeah to oppose them, they cut down another eighteen thousand Israelites, all of them armed with swords."
+  }, {
+    "verse" : "judges,20,26",
+    "text" : "Then the Israelites, all the people, went up to Bethel, and there they sat weeping before the LORD. They fasted that day until evening and presented burnt offerings and fellowship offerings to the LORD."
+  }, {
+    "verse" : "judges,20,27",
+    "text" : "And the Israelites inquired of the LORD. (In those days the ark of the covenant of God was there,"
+  }, {
+    "verse" : "judges,20,28",
+    "text" : "with Phinehas son of Eleazar, the son of Aaron, ministering before it.) They asked, \"Shall we go up again to battle with Benjamin our brother, or not?\" The LORD responded, \"Go, for tomorrow I will give them into your hands.\""
+  }, {
+    "verse" : "judges,20,29",
+    "text" : "Then Israel set an ambush around Gibeah."
+  }, {
+    "verse" : "judges,20,30",
+    "text" : "They went up against the Benjamites on the third day and took up positions against Gibeah as they had done before."
+  }, {
+    "verse" : "judges,20,31",
+    "text" : "The Benjamites came out to meet them and were drawn away from the city. They began to inflict casualties on the Israelites as before, so that about thirty men fell in the open field and on the roads-the one leading to Bethel and the other to Gibeah."
+  }, {
+    "verse" : "judges,20,32",
+    "text" : "While the Benjamites were saying, \"We are defeating them as before,\" the Israelites were saying, \"Let's retreat and draw them away from the city to the roads.\""
+  }, {
+    "verse" : "judges,20,33",
+    "text" : "All the men of Israel moved from their places and took up positions at Baal Tamar, and the Israelite ambush charged out of its place on the west of Gibeah."
+  }, {
+    "verse" : "judges,20,34",
+    "text" : "Then ten thousand of Israel's finest men made a frontal attack on Gibeah. The fighting was so heavy that the Benjamites did not realize how near disaster was."
+  }, {
+    "verse" : "judges,20,35",
+    "text" : "The LORD defeated Benjamin before Israel, and on that day the Israelites struck down 25,100 Benjamites, all armed with swords."
+  }, {
+    "verse" : "judges,20,36",
+    "text" : "Then the Benjamites saw that they were beaten. Now the men of Israel had given way before Benjamin, because they relied on the ambush they had set near Gibeah."
+  }, {
+    "verse" : "judges,20,37",
+    "text" : "The men who had been in ambush made a sudden dash into Gibeah, spread out and put the whole city to the sword."
+  }, {
+    "verse" : "judges,20,38",
+    "text" : "The men of Israel had arranged with the ambush that they should send up a great cloud of smoke from the city,"
+  }, {
+    "verse" : "judges,20,39",
+    "text" : "and then the men of Israel would turn in the battle. The Benjamites had begun to inflict casualties on the men of Israel (about thirty), and they said, \"We are defeating them as in the first battle.\""
+  }, {
+    "verse" : "judges,20,40",
+    "text" : "But when the column of smoke began to rise from the city, the Benjamites turned and saw the smoke of the whole city going up into the sky."
+  }, {
+    "verse" : "judges,20,41",
+    "text" : "Then the men of Israel turned on them, and the men of Benjamin were terrified, because they realized that disaster had come upon them."
+  }, {
+    "verse" : "judges,20,42",
+    "text" : "So they fled before the Israelites in the direction of the desert, but they could not escape the battle. And the men of Israel who came out of the towns cut them down there."
+  }, {
+    "verse" : "judges,20,43",
+    "text" : "They surrounded the Benjamites, chased them and easily overran them in the vicinity of Gibeah on the east."
+  }, {
+    "verse" : "judges,20,44",
+    "text" : "Eighteen thousand Benjamites fell, all of them valiant fighters."
+  }, {
+    "verse" : "judges,20,45",
+    "text" : "As they turned and fled toward the desert to the rock of Rimmon, the Israelites cut down five thousand men along the roads. They kept pressing after the Benjamites as far as Gidom and struck down two thousand more."
+  }, {
+    "verse" : "judges,20,46",
+    "text" : "On that day twenty-five thousand Benjamite swordsmen fell, all of them valiant fighters."
+  }, {
+    "verse" : "judges,20,47",
+    "text" : "But six hundred men turned and fled into the desert to the rock of Rimmon, where they stayed four months."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,20,23",
     "id" : 187250,
@@ -185,7 +416,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 20:23\">20:23</a></b> <b>inquired of the <span class=\"small-caps\">Lord</span>.</b> See <a class=\"bibleref\" href=\"/passage/?search=Judg 20:18\">vv. 18</a>, <a class=\"bibleref\" href=\"/passage/?search=Judg 20:27-Judg 20:28\">27–28</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=1Sam 28:6\">1 Sam. 28:6</a>.</p><p><b>our brothers, the people of Benjamin.</b> Note how the Israelites now add the word “brothers” to their inquiry (v. 18).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,20,48" ],
+  "verses" : [ {
+    "verse" : "judges,20,48",
+    "text" : "The men of Israel went back to Benjamin and put all the towns to the sword, including the animals and everything else they found. All the towns they came across they set on fire."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,20,48",
     "id" : 187251,

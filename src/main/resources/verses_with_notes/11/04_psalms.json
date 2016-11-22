@@ -1,5 +1,26 @@
 [ {
-  "singleVerses" : [ "psalms,105,16", "psalms,105,17", "psalms,105,18", "psalms,105,19", "psalms,105,20", "psalms,105,21", "psalms,105,22" ],
+  "verses" : [ {
+    "verse" : "psalms,105,16",
+    "text" : "He called down famine on the land and destroyed all their supplies of food;"
+  }, {
+    "verse" : "psalms,105,17",
+    "text" : "and he sent a man before them- Joseph, sold as a slave."
+  }, {
+    "verse" : "psalms,105,18",
+    "text" : "They bruised his feet with shackles, his neck was put in irons,"
+  }, {
+    "verse" : "psalms,105,19",
+    "text" : "till what he foretold came to pass, till the word of the LORD proved him true."
+  }, {
+    "verse" : "psalms,105,20",
+    "text" : "The king sent and released him, the ruler of peoples set him free."
+  }, {
+    "verse" : "psalms,105,21",
+    "text" : "He made him master of his household, ruler over all he possessed,"
+  }, {
+    "verse" : "psalms,105,22",
+    "text" : "to instruct his princes as he pleased and teach his elders wisdom."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,105,1-psalms,105,45",
     "id" : 191172,
@@ -17,7 +38,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 105:16\">105:16</a></b> <b>he summoned.</b> God directed the events in Egypt so that when famine threatened that country Joseph was in power and able to save many people (<a class=\"bibleref\" href=\"/passage/?search=Gen 50:20\">Gen. 50:20</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,105,23", "psalms,105,24", "psalms,105,25", "psalms,105,26", "psalms,105,27" ],
+  "verses" : [ {
+    "verse" : "psalms,105,23",
+    "text" : "Then Israel entered Egypt; Jacob lived as an alien in the land of Ham."
+  }, {
+    "verse" : "psalms,105,24",
+    "text" : "The LORD made his people very fruitful; he made them too numerous for their foes,"
+  }, {
+    "verse" : "psalms,105,25",
+    "text" : "whose hearts he turned to hate his people, to conspire against his servants."
+  }, {
+    "verse" : "psalms,105,26",
+    "text" : "He sent Moses his servant, and Aaron, whom he had chosen."
+  }, {
+    "verse" : "psalms,105,27",
+    "text" : "They performed his miraculous signs among them, his wonders in the land of Ham."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,105,23",
     "id" : 191185,
@@ -25,7 +61,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 105:23\">105:23</a></b> <b>Israel came to Egypt.</b> See <a class=\"bibleref\" href=\"/passage/?search=Gen 46\">Gen. 46</a>.</p><p><b>the land of Ham.</b> Another name for Egypt.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,105,28", "psalms,105,29", "psalms,105,30" ],
+  "verses" : [ {
+    "verse" : "psalms,105,28",
+    "text" : "He sent darkness and made the land dark- for had they not rebelled against his words?"
+  }, {
+    "verse" : "psalms,105,29",
+    "text" : "He turned their waters into blood, causing their fish to die."
+  }, {
+    "verse" : "psalms,105,30",
+    "text" : "Their land teemed with frogs, which went up into the bedrooms of their rulers."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,105,28",
     "id" : 191186,
@@ -33,7 +78,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 105:28\">105:28</a></b> <b>He sent darkness.</b> The psalmist emphasizes the ninth plague by naming it first.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,105,31" ],
+  "verses" : [ {
+    "verse" : "psalms,105,31",
+    "text" : "He spoke, and there came swarms of flies, and gnats throughout their country."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,105,31",
     "id" : 191187,
@@ -41,7 +89,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 105:31\">105:31</a></b> <b>flies, and gnats.</b> These are the third and fourth plagues in reverse order of their actual occurrence in Egypt.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,105,32", "psalms,105,33", "psalms,105,34", "psalms,105,35" ],
+  "verses" : [ {
+    "verse" : "psalms,105,32",
+    "text" : "He turned their rain into hail, with lightning throughout their land;"
+  }, {
+    "verse" : "psalms,105,33",
+    "text" : "he struck down their vines and fig trees and shattered the trees of their country."
+  }, {
+    "verse" : "psalms,105,34",
+    "text" : "He spoke, and the locusts came, grasshoppers without number;"
+  }, {
+    "verse" : "psalms,105,35",
+    "text" : "they ate up every green thing in their land, ate up the produce of their soil."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,105,32",
     "id" : 191188,
@@ -49,7 +109,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 105:32\">105:32</a></b> <b>hail.</b> The fifth and sixth plagues are unmentioned by the psalmist. The plague of hail was the seventh.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,105,36" ],
+  "verses" : [ {
+    "verse" : "psalms,105,36",
+    "text" : "Then he struck down all the firstborn in their land, the firstfruits of all their manhood."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,105,36",
     "id" : 191189,

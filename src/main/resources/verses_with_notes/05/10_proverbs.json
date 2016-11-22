@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,14,34" ],
+  "verses" : [ {
+    "verse" : "proverbs,14,34",
+    "text" : "Righteousness exalts a nation, but sin is a disgrace to any people."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 14:34\">14:34</a></b> <b>exalts.</b> Either morally, or as a consequence of divine material blessings (<a class=\"bibleref\" href=\"/passage/?search=Deut 28:1-Deut 28:14\">Deut. 28:1–14</a>; <a class=\"bibleref\" href=\"/passage/?search=1Kgs 4:20-1Kgs 4:28\">1 Kin. 4:20–28</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,14,35" ],
+  "verses" : [ {
+    "verse" : "proverbs,14,35",
+    "text" : "A king delights in a wise servant, but a shameful servant incurs his wrath."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,14,35",
     "id" : 191973,

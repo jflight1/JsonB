@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "matthew,5,1", "matthew,5,2" ],
+  "verses" : [ {
+    "verse" : "matthew,5,1",
+    "text" : "Now when he saw the crowds, he went up on a mountainside and sat down. His disciples came to him,"
+  }, {
+    "verse" : "matthew,5,2",
+    "text" : "and he began to teach them saying:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,5,1-matthew,7,29",
     "id" : 195644,
@@ -12,7 +18,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 5:1\">5:1</a></b> <b>went up on the mountain.</b> The content of this sermon is similar to the sermon on the plain recorded in <a class=\"bibleref\" href=\"/passage/?search=Luke 6\">Luke 6</a>.</p><p><b>sat down.</b> It was customary for teachers to sit while teaching (<a class=\"bibleref\" href=\"/passage/?search=Luke 4:20\">Luke 4:20</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,5,3" ],
+  "verses" : [ {
+    "verse" : "matthew,5,3",
+    "text" : "\"Blessed are the poor in spirit, for theirs is the kingdom of heaven."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,5,3",
     "id" : 195646,
@@ -20,7 +29,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 5:3\">5:3</a></b> <b>Blessed.</b> This means more than the emotional state represented by the word “happy.” It includes spiritual well-being, having the approval of God, and thus a happier destiny (<a class=\"bibleref\" href=\"/passage/?search=Ps 1\">Ps. 1</a>).</p><p><b>poor in spirit.</b> Those with the greater spiritual need are more likely to perceive their need and depend on God alone and not their own goodness. Paul notes the same principle in <a class=\"bibleref\" href=\"/passage/?search=Rom 9:30\">Rom. 9:30</a>, <a class=\"bibleref\" href=\"/passage/?search=Rom 9:31\">31</a>. The parallel in <a class=\"bibleref\" href=\"/passage/?search=Luke 6:20\">Luke 6:20</a> omits “in spirit.” This has led many to suppose Jesus primarily spoke of the materially poor. Material poverty and recognition of spiritual need often go together (<a class=\"bibleref\" href=\"/passage/?search=Ps 9:18\">Ps. 9:18</a> note), but the two kinds of poverty are not identical.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,5,4" ],
+  "verses" : [ {
+    "verse" : "matthew,5,4",
+    "text" : "Blessed are those who mourn, for they will be comforted."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,5,4",
     "id" : 195647,
@@ -28,7 +40,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 5:4\">5:4</a></b> <b>those who mourn.</b> The context indicates that these are mourning over sin and evil, especially their own, and over the failure of mankind to give proper glory to God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,5,5" ],
+  "verses" : [ {
+    "verse" : "matthew,5,5",
+    "text" : "Blessed are the meek, for they will inherit the earth."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,5,5",
     "id" : 195648,
@@ -36,7 +51,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 5:5\">5:5</a></b> <b>the meek.</b> This beatitude resembles and is perhaps based on <a class=\"bibleref\" href=\"/passage/?search=Ps 37:11\">Ps. 37:11</a>. The meekness in view is spiritual meekness, an attitude of humility and submission to God. Our pattern for meekness is Jesus (the same Greek word is translated “gentle” in 11:29), who submits to the will of His Father.</p><p><b>inherit the earth.</b> The ultimate fulfillment of the promise to Abraham, whom Paul calls “heir of the world” (<a class=\"bibleref\" href=\"/passage/?search=Rom 4:13\">Rom. 4:13</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Heb 11:16\">Heb. 11:16</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,5,6", "matthew,5,7" ],
+  "verses" : [ {
+    "verse" : "matthew,5,6",
+    "text" : "Blessed are those who hunger and thirst for righteousness, for they will be filled."
+  }, {
+    "verse" : "matthew,5,7",
+    "text" : "Blessed are the merciful, for they will be shown mercy."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,5,6",
     "id" : 195649,
@@ -44,7 +65,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 5:6\">5:6</a></b> <b>hunger . . . for righteousness.</b> Those who seek God’s righteousness receive what they desire, not those who are confident of their own righteousness.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,5,8" ],
+  "verses" : [ {
+    "verse" : "matthew,5,8",
+    "text" : "Blessed are the pure in heart, for they will see God."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,5,8",
     "id" : 195650,
@@ -52,7 +76,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 5:8\">5:8</a></b> <b>they shall see God.</b> Because God is a spirit, His divine essence is invisible (<a class=\"bibleref\" href=\"/passage/?search=Col 1:15\">Col. 1:15</a>; <a class=\"bibleref\" href=\"/passage/?search=1Tim 1:17\">1 Tim. 1:17</a>; <a class=\"bibleref\" href=\"/passage/?search=1Tim 6:16\">6:16</a>). Nevertheless, believers will “see” God through the insight of faith, and Jesus assured His disciples that in seeing Him they had “seen the Father” (<a class=\"bibleref\" href=\"/passage/?search=John 14:9\">John 14:9</a>). In the glorified state, God’s children will “see him as he is” (<a class=\"bibleref\" href=\"/passage/?search=1John 3:2\">1 John 3:2</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,5,9", "matthew,5,10", "matthew,5,11", "matthew,5,12" ],
+  "verses" : [ {
+    "verse" : "matthew,5,9",
+    "text" : "Blessed are the peacemakers, for they will be called sons of God."
+  }, {
+    "verse" : "matthew,5,10",
+    "text" : "Blessed are those who are persecuted because of righteousness, for theirs is the kingdom of heaven."
+  }, {
+    "verse" : "matthew,5,11",
+    "text" : "\"Blessed are you when people insult you, persecute you and falsely say all kinds of evil against you because of me."
+  }, {
+    "verse" : "matthew,5,12",
+    "text" : "Rejoice and be glad, because great is your reward in heaven, for in the same way they persecuted the prophets who were before you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,5,9",
     "id" : 195651,
@@ -60,7 +96,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 5:9\">5:9</a></b> <b>peacemakers.</b> Spiritual peace, not the cessation of physical violence between nations, is in view. Although the term is usually understood to mean those who help others find peace with God, this peace can also be understood as those who have made their own peace with God and are called His children. The principle is extended in <a class=\"bibleref\" href=\"/passage/?search=Matt 5:44\">vv. 44</a>, <a class=\"bibleref\" href=\"/passage/?search=Matt 5:45\">45</a>—the children of God make peace, even with their enemies.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,5,13" ],
+  "verses" : [ {
+    "verse" : "matthew,5,13",
+    "text" : "\"You are the salt of the earth. But if the salt loses its saltiness, how can it be made salty again? It is no longer good for anything, except to be thrown out and trampled by men."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,5,13",
     "id" : 195652,
@@ -68,7 +107,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 5:13\">5:13</a></b> <b>salt.</b> The primary value of salt was not as a flavoring but as a preservative. Disciples are to hinder the world’s corruption. The salt deposits along the Dead Sea contain not just sodium chloride but a variety of other minerals as well. This salt can become good for nothing when the rain washes out its saltiness over the years. See “Christians in the World” at <a class=\"bibleref\" href=\"/passage/?search=Col 2:20\">Col. 2:20</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,5,14", "matthew,5,15" ],
+  "verses" : [ {
+    "verse" : "matthew,5,14",
+    "text" : "\"You are the light of the world. A city on a hill cannot be hidden."
+  }, {
+    "verse" : "matthew,5,15",
+    "text" : "Neither do people light a lamp and put it under a bowl. Instead they put it on its stand, and it gives light to everyone in the house."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,5,14",
     "id" : 195653,
@@ -76,7 +121,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 5:14\">5:14</a></b> See <a class=\"bibleref\" href=\"/passage/?search=Isa 60:1-Isa 60:3\">Is. 60:1–3</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,5,16" ],
+  "verses" : [ {
+    "verse" : "matthew,5,16",
+    "text" : "In the same way, let your light shine before men, that they may see your good deeds and praise your Father in heaven."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,5,16",
     "id" : 195654,
@@ -84,7 +132,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 5:16\">5:16</a></b> See “The Mission of the Church in the World” at <a class=\"bibleref\" href=\"/passage/?search=John 20:21\">John 20:21</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,5,17" ],
+  "verses" : [ {
+    "verse" : "matthew,5,17",
+    "text" : "\"Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfill them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,5,17",
     "id" : 195655,
@@ -92,7 +143,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 5:17\">5:17</a></b> <b>Law or the Prophets.</b> A way of referring to the whole Old Testament.</p><p><b>not come to abolish.</b> The correctives of <a class=\"bibleref\" href=\"/passage/?search=Matt 5:21-Matt 5:48\">vv. 21–48</a> should be read in the light of this opening remark. In fulfilling the law, Jesus does not alter, replace, or nullify the former commands; rather, He establishes their true intent and purpose in His teaching and accomplishes them in His obedient life. The Law, as well as the Prophets, points forward to Christ. See “The Law of God” at <a class=\"bibleref\" href=\"/passage/?search=Exod 20:1\">Ex. 20:1</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,5,18", "matthew,5,19" ],
+  "verses" : [ {
+    "verse" : "matthew,5,18",
+    "text" : "I tell you the truth, until heaven and earth disappear, not the smallest letter, not the least stroke of a pen, will by any means disappear from the Law until everything is accomplished."
+  }, {
+    "verse" : "matthew,5,19",
+    "text" : "Anyone who breaks one of the least of these commandments and teaches others to do the same will be called least in the kingdom of heaven, but whoever practices and teaches these commands will be called great in the kingdom of heaven."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,5,18",
     "id" : 195656,
@@ -100,7 +157,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 5:18\">5:18</a></b> <b>iota.</b> A tiny extension on certain letters in the Hebrew alphabet.</p><p><b>until all is accomplished.</b> The full manifestation of God’s kingdom (<a class=\"bibleref\" href=\"/passage/?search=Matt 24\">chs. 24</a>; <a class=\"bibleref\" href=\"/passage/?search=Matt 25\">25</a>) for which believers are to pray (<a class=\"bibleref\" href=\"/passage/?search=Matt 6:10\">6:10</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,5,20" ],
+  "verses" : [ {
+    "verse" : "matthew,5,20",
+    "text" : "For I tell you that unless your righteousness surpasses that of the Pharisees and the teachers of the law, you will certainly not enter the kingdom of heaven."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,5,20",
     "id" : 195657,
@@ -108,7 +168,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 5:20\">5:20</a></b> <b>unless your righteousness exceeds.</b> Jesus did not criticize the Pharisees for their strict observance of the law but for their emphasis on outward conformity to it without a proper inner attitude (<a class=\"bibleref\" href=\"/passage/?search=Matt 23\">ch. 23</a>). By focusing on externals they avoided the real intent of the law and so obscured its real demands. The Qumran texts refer to the Pharisees as “seekers after smooth things” because they accommodated and compromised the law to fit the realities of life. Such accommodation removed awareness of the need for grace and dependence on God. In the following verses, Jesus restores the true nature of God’s law as demanding total and radical holiness. Jesus demands a deeper obedience, not disregard of God’s commands.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,5,21" ],
+  "verses" : [ {
+    "verse" : "matthew,5,21",
+    "text" : "\"You have heard that it was said to the people long ago, 'Do not murder, and anyone who murders will be subject to judgment.'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,5,21",
     "id" : 195658,
@@ -116,7 +179,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 5:21\">5:21</a></b> <b>You have heard that it was said.</b> Not the teaching of God’s law itself, with its promises, but the teaching of the law by scribes and Pharisees (see note on <a class=\"bibleref\" href=\"/passage/?search=Matt 5:43\">v. 43</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,5,22", "matthew,5,23", "matthew,5,24" ],
+  "verses" : [ {
+    "verse" : "matthew,5,22",
+    "text" : "But I tell you that anyone who is angry with his brother will be subject to judgment. Again, anyone who says to his brother, 'Raca, 'is answerable to the Sanhedrin. But anyone who says, 'You fool!' will be in danger of the fire of hell."
+  }, {
+    "verse" : "matthew,5,23",
+    "text" : "\"Therefore, if you are offering your gift at the altar and there remember that your brother has something against you,"
+  }, {
+    "verse" : "matthew,5,24",
+    "text" : "leave your gift there in front of the altar. First go and be reconciled to your brother; then come and offer your gift."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,5,22",
     "id" : 195659,
@@ -124,7 +196,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 5:22\">5:22</a></b> <b>You fool.</b> Apparently Jewish law had sanctions against the specific insult <i>Raca,</i> but Jesus shows that any verbal abuse makes one liable to eternal damnation.</p><p><b>hell.</b> This is <i>Gehenna,</i> the “valley of Hinnom,” a trash dump outside Jerusalem where fires burned constantly. It was notorious as the location of human sacrifices by fire during the reigns of Ahaz and Manasseh (<a class=\"bibleref\" href=\"/passage/?search=2Chr 28:3\">2 Chr. 28:3</a>; <a class=\"bibleref\" href=\"/passage/?search=2Chr 33:6\">33:6</a>). Jeremiah called it the “Valley of Slaughter” a symbol of God’s fearful judgment (<a class=\"bibleref\" href=\"/passage/?search=Jer 7:32\">Jer. 7:32</a>). See “Hell” at <a class=\"bibleref\" href=\"/passage/?search=Mark 9:43\">Mark 9:43</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,5,25", "matthew,5,26" ],
+  "verses" : [ {
+    "verse" : "matthew,5,25",
+    "text" : "\"Settle matters quickly with your adversary who is taking you to court. Do it while you are still with him on the way, or he may hand you over to the judge, and the judge may hand you over to the officer, and you may be thrown into prison."
+  }, {
+    "verse" : "matthew,5,26",
+    "text" : "I tell you the truth, you will not get out until you have paid the last penny."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,5,25",
     "id" : 195660,

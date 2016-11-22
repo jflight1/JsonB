@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "matthew,27,32", "matthew,27,33" ],
+  "verses" : [ {
+    "verse" : "matthew,27,32",
+    "text" : "As they were going out, they met a man from Cyrene, named Simon, and they forced him to carry the cross."
+  }, {
+    "verse" : "matthew,27,33",
+    "text" : "They came to a place called Golgotha (which means The Place of the Skull)."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,27,32-matthew,27,37",
     "id" : 195938,
@@ -7,7 +13,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 27:32-Matt 27:37\">27:32–37</a></b> Crucifixion was a slow and agonizing death. Nails were probably driven through the wrists rather than the palms. The weight of the suspended body made breathing difficult and painful. Involuntary efforts by the legs to ease the pressure greatly increased pain in the feet. This ordeal continued until the exhausted victim could no longer breathe; this might take several days.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,27,34" ],
+  "verses" : [ {
+    "verse" : "matthew,27,34",
+    "text" : "There they offered Jesus wine to drink, mixed with gall; but after tasting it, he refused to drink it."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,27,34",
     "id" : 195939,
@@ -15,7 +24,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 27:34\">27:34</a></b> <b>gall.</b> Any of several bitter herbs; Mark mentions myrrh. Commentators often note that myrrh mixed with wine is a painkiller. But the offer of galled wine was probably not a gesture of compassion but of mockery, as in <a class=\"bibleref\" href=\"/passage/?search=Ps 69:21\">Ps. 69:21</a>. Jesus’ thirst would have been great, but the gall made the wine undrinkable.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,27,35", "matthew,27,36" ],
+  "verses" : [ {
+    "verse" : "matthew,27,35",
+    "text" : "When they had crucified him, they divided up his clothes by casting lots."
+  }, {
+    "verse" : "matthew,27,36",
+    "text" : "And sitting down, they kept watch over him there."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,27,35",
     "id" : 195940,
@@ -23,7 +38,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 27:35\">27:35</a></b> <b>divided His garments.</b> This action fulfilled <a class=\"bibleref\" href=\"/passage/?search=Ps 22:18\">Ps. 22:18</a>, as is made explicit in <a class=\"bibleref\" href=\"/passage/?search=John 19:23\">John 19:23</a>, <a class=\"bibleref\" href=\"/passage/?search=John 19:24\">24</a>. The events surrounding the crucifixion of Jesus include numerous fulfillments of <a class=\"bibleref\" href=\"/passage/?search=Ps 22\">Ps. 22</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,27,37" ],
+  "verses" : [ {
+    "verse" : "matthew,27,37",
+    "text" : "Above his head they placed the written charge against him: THIS IS JESUS, THE KING OF THE JEWS."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,27,37",
     "id" : 195941,
@@ -31,7 +49,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 27:37\">27:37</a></b> <b>the King of the Jews.</b> The placard at the head of the cross specified the crime. Pilate was insulting the Jewish leaders, but the irony of its truth was apparent to the early church.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,27,38", "matthew,27,39" ],
+  "verses" : [ {
+    "verse" : "matthew,27,38",
+    "text" : "Two robbers were crucified with him, one on his right and one on his left."
+  }, {
+    "verse" : "matthew,27,39",
+    "text" : "Those who passed by hurled insults at him, shaking their heads"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,27,38",
     "id" : 195942,
@@ -39,7 +63,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 27:38\">27:38</a></b> The term translated “robbers” is the word Josephus uses for rebels. Robbers were not ordinarily crucified. Perhaps these two were cohorts of Barabbas (<a class=\"bibleref\" href=\"/passage/?search=Mark 15:7\">Mark 15:7</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,27,40", "matthew,27,41", "matthew,27,42", "matthew,27,43", "matthew,27,44" ],
+  "verses" : [ {
+    "verse" : "matthew,27,40",
+    "text" : "and saying, \"You who are going to destroy the temple and build it in three days, save yourself! Come down from the cross, if you are the Son of God!\""
+  }, {
+    "verse" : "matthew,27,41",
+    "text" : "In the same way the chief priests, the teachers of the law and the elders mocked him."
+  }, {
+    "verse" : "matthew,27,42",
+    "text" : "\"He saved others,\" they said, \"but he can't save himself! He's the King of Israel! Let him come down now from the cross, and we will believe in him."
+  }, {
+    "verse" : "matthew,27,43",
+    "text" : "He trusts in God. Let God rescue him now if he wants him, for he said, 'I am the Son of God.'\""
+  }, {
+    "verse" : "matthew,27,44",
+    "text" : "In the same way the robbers who were crucified with him also heaped insults on him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,27,40",
     "id" : 195943,
@@ -47,7 +86,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 27:40\">27:40</a></b> Again note the irony. Jesus <i>was</i> going to return after three days, and “rebuild” the temple of His body. Precisely because He was the Son of God, He would not come down from the cross.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,27,45" ],
+  "verses" : [ {
+    "verse" : "matthew,27,45",
+    "text" : "From the sixth hour until the ninth hour darkness came over all the land."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,27,45",
     "id" : 195944,
@@ -55,7 +97,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 27:45\">27:45</a></b> <b>from the sixth hour . . . until the ninth hour.</b> From noon to 3:00 <span class=\"small-caps\">p.m.</span></p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,27,46", "matthew,27,47" ],
+  "verses" : [ {
+    "verse" : "matthew,27,46",
+    "text" : "About the ninth hour Jesus cried out in a loud voice, \"Eloi, Eloi, lama sabachthani?\"--which means, \"My God, my God, why have you forsaken me?\""
+  }, {
+    "verse" : "matthew,27,47",
+    "text" : "When some of those standing there heard this, they said, \"He's calling Elijah.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,27,46",
     "id" : 195945,
@@ -63,7 +111,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 27:46\">27:46</a></b> <b>why have you forsaken me.</b> Jesus’ desolate cry is a fulfillment of <a class=\"bibleref\" href=\"/passage/?search=Ps 22:1\">Ps. 22:1</a> showing the depth of His distress as He suffers separation from His Father. Later the apostles realized that Jesus was enduring the dreadful wrath of God’s judgment on sin. This was all the more agonizing to One whose relationship with the Father was perfect in love. The cry is Aramaic, except the Hebrew “Eli.” Mark gives the Aramaic “Eloi.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,27,48", "matthew,27,49", "matthew,27,50" ],
+  "verses" : [ {
+    "verse" : "matthew,27,48",
+    "text" : "Immediately one of them ran and got a sponge. He filled it with wine vinegar, put it on a stick, and offered it to Jesus to drink."
+  }, {
+    "verse" : "matthew,27,49",
+    "text" : "The rest said, \"Now leave him alone. Let's see if Elijah comes to save him.\""
+  }, {
+    "verse" : "matthew,27,50",
+    "text" : "And when Jesus had cried out again in a loud voice, he gave up his spirit."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,27,48-matthew,27,49",
     "id" : 195946,
@@ -71,7 +128,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 27:48\">27:48</a>, <a class=\"bibleref\" href=\"/passage/?search=Matt 27:49\">49</a></b> The fulfillment of <a class=\"bibleref\" href=\"/passage/?search=Ps 69:21\">Ps. 69:21</a> (v. 34 note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,27,51" ],
+  "verses" : [ {
+    "verse" : "matthew,27,51",
+    "text" : "At that moment the curtain of the temple was torn in two from top to bottom. The earth shook and the rocks split."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,27,51",
     "id" : 195947,
@@ -79,7 +139,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 27:51\">27:51</a></b> <b>curtain . . . was torn.</b> The veil of the temple was the curtain separating the Most Holy Place from the rest of the sanctuary. It symbolized the unapproachability of God (<a class=\"bibleref\" href=\"/passage/?search=Heb 9:8\">Heb. 9:8</a>). Jesus’ death was His sacrifice at the heavenly altar (<a class=\"bibleref\" href=\"/passage/?search=Heb 9:12\">Heb. 9:12</a>, <a class=\"bibleref\" href=\"/passage/?search=Heb 9:24\">24</a>, <a class=\"bibleref\" href=\"/passage/?search=Heb 9:25\">25</a>), which opened the way to God (<a class=\"bibleref\" href=\"/passage/?search=Heb 10:19\">Heb. 10:19</a>, <a class=\"bibleref\" href=\"/passage/?search=Heb 10:20\">20</a>), removing the veil. Heaven had been opened through the royal priesthood of Christ (<a class=\"bibleref\" href=\"/passage/?search=1Pet 2:9\">1 Pet. 2:9</a>).</p><p><b>from top to bottom.</b> Implying a divine action.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,27,52", "matthew,27,53" ],
+  "verses" : [ {
+    "verse" : "matthew,27,52",
+    "text" : "The tombs broke open and the bodies of many holy people who had died were raised to life."
+  }, {
+    "verse" : "matthew,27,53",
+    "text" : "They came out of the tombs, and after Jesus' resurrection they went into the holy city and appeared to many people."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,27,52",
     "id" : 195948,
@@ -87,7 +153,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 27:52\">27:52</a></b> <b>were raised.</b> The resurrection of the “many . . . saints,” although mentioned here to show the connection with the rending of the veil, occurred after Jesus’ resurrection. This resurrection was a partial, symbolic fulfillment of <a class=\"bibleref\" href=\"/passage/?search=Dan 12:2\">Dan. 12:2</a>. There is no way of knowing who these people were, or whether they died again or were translated directly to heaven.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,27,54", "matthew,27,55", "matthew,27,56" ],
+  "verses" : [ {
+    "verse" : "matthew,27,54",
+    "text" : "When the centurion and those with him who were guarding Jesus saw the earthquake and all that had happened, they were terrified, and exclaimed, \"Surely he was the Son of God!\""
+  }, {
+    "verse" : "matthew,27,55",
+    "text" : "Many women were there, watching from a distance. They had followed Jesus from Galilee to care for his needs."
+  }, {
+    "verse" : "matthew,27,56",
+    "text" : "Among them were Mary Magdalene, Mary the mother of James and Joses, and the mother of Zebedee's sons."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,27,54",
     "id" : 195949,
@@ -95,7 +170,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 27:54\">27:54</a></b> <b>Truly this was the Son of God.</b> Although they may not have understood fully the phrase they used (<a class=\"bibleref\" href=\"/passage/?search=Matt 16:16\">16:16</a>; <a class=\"bibleref\" href=\"/passage/?search=Mark 15:39\">Mark 15:39</a> and notes), the soldiers made an appropriate confession while the natural heirs of the covenant were deriding their Messiah.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,27,57", "matthew,27,58", "matthew,27,59", "matthew,27,60", "matthew,27,61" ],
+  "verses" : [ {
+    "verse" : "matthew,27,57",
+    "text" : "As evening approached, there came a rich man from Arimathea, named Joseph, who had himself become a disciple of Jesus."
+  }, {
+    "verse" : "matthew,27,58",
+    "text" : "Going to Pilate, he asked for Jesus' body, and Pilate ordered that it be given to him."
+  }, {
+    "verse" : "matthew,27,59",
+    "text" : "Joseph took the body, wrapped it in a clean linen cloth,"
+  }, {
+    "verse" : "matthew,27,60",
+    "text" : "and placed it in his own new tomb that he had cut out of the rock. He rolled a big stone in front of the entrance to the tomb and went away."
+  }, {
+    "verse" : "matthew,27,61",
+    "text" : "Mary Magdalene and the other Mary were sitting there opposite the tomb."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,27,57",
     "id" : 195950,
@@ -103,7 +193,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 27:57\">27:57 a</a></b> <b>rich man.</b> Joseph’s gift of a tomb completes Jesus’ fulfillment of <a class=\"bibleref\" href=\"/passage/?search=Isa 53:9\">Is. 53:9</a>. See note <a class=\"bibleref\" href=\"/passage/?search=Luke 23:50\">Luke 23:50</a>, <a class=\"bibleref\" href=\"/passage/?search=Luke 23:51\">51</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,27,62", "matthew,27,63", "matthew,27,64", "matthew,27,65", "matthew,27,66" ],
+  "verses" : [ {
+    "verse" : "matthew,27,62",
+    "text" : "The next day, the one after Preparation Day, the chief priests and the Pharisees went to Pilate."
+  }, {
+    "verse" : "matthew,27,63",
+    "text" : "\"Sir,\" they said, \"we remember that while he was still alive that deceiver said, 'After three days I will rise again.'"
+  }, {
+    "verse" : "matthew,27,64",
+    "text" : "So give the order for the tomb to be made secure until the third day. Otherwise, his disciples may come and steal the body and tell the people that he has been raised from the dead. This last deception will be worse than the first.\""
+  }, {
+    "verse" : "matthew,27,65",
+    "text" : "\"Take a guard,\" Pilate answered. \"Go, make the tomb as secure as you know how.\""
+  }, {
+    "verse" : "matthew,27,66",
+    "text" : "So they went and made the tomb secure by putting a seal on the stone and posting the guard."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,27,62-matthew,27,66",
     "id" : 195951,

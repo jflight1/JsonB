@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,85,1" ],
+  "verses" : [ {
+    "verse" : "psalms,85,1",
+    "text" : "You showed favor to your land, O LORD; you restored the fortunes of Jacob."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,85,1",
     "id" : 190980,
@@ -7,7 +10,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 85:1\">85:1</a></b> <b>favorable to your land.</b> A number of occasions in biblical history are illustrative for the psalm. Perhaps most appropriate, though the psalm could have already been in existence for many years, was Judah’s return from Babylonian captivity in the sixth century <span class=\"small-caps\">b.c.</span></p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,85,2", "psalms,85,3", "psalms,85,4", "psalms,85,5", "psalms,85,6", "psalms,85,7" ],
+  "verses" : [ {
+    "verse" : "psalms,85,2",
+    "text" : "You forgave the iniquity of your people and covered all their sins. Selah"
+  }, {
+    "verse" : "psalms,85,3",
+    "text" : "You set aside all your wrath and turned from your fierce anger."
+  }, {
+    "verse" : "psalms,85,4",
+    "text" : "Restore us again, O God our Savior, and put away your displeasure toward us."
+  }, {
+    "verse" : "psalms,85,5",
+    "text" : "Will you be angry with us forever? Will you prolong your anger through all generations?"
+  }, {
+    "verse" : "psalms,85,6",
+    "text" : "Will you not revive us again, that your people may rejoice in you?"
+  }, {
+    "verse" : "psalms,85,7",
+    "text" : "Show us your unfailing love, O LORD, and grant us your salvation."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,85,2",
     "id" : 190981,
@@ -15,7 +36,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 85:2\">85:2</a></b> <b>forgave the iniquity.</b> The people’s misfortunes came from their sin before God. Forgiveness of sins means that God’s wrath will be stilled. The necessary repentance is also the gift of God’s grace.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,85,8", "psalms,85,9" ],
+  "verses" : [ {
+    "verse" : "psalms,85,8",
+    "text" : "I will listen to what God the LORD will say; he promises peace to his people, his saints- but let them not return to folly."
+  }, {
+    "verse" : "psalms,85,9",
+    "text" : "Surely his salvation is near those who fear him, that his glory may dwell in our land."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,85,8",
     "id" : 190982,
@@ -23,7 +50,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 85:8\">85:8</a></b> <b>me.</b> The community has been speaking as a unit up to this point (“us”), but now an individual steps forward. Whoever he is (priest or prophet), he speaks on behalf of God.</p><p><b>he will speak peace.</b> The word for “peace” (Hebrew <i>shalom</i>) indicates health and wholeness, and like “steadfast love,” (<a class=\"bibleref\" href=\"/passage/?search=Ps 85:7\">v. 7</a>) is a word intimately associated with the covenant. God promises the restoration of intimate relationship with His people.</p><p><b>his saints.</b> This word is formed from the same root as “steadfast love” (<a class=\"bibleref\" href=\"/passage/?search=Ps 85:7\">v. 7</a>), and denotes those who are the objects of God’s covenant love.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,85,10" ],
+  "verses" : [ {
+    "verse" : "psalms,85,10",
+    "text" : "Love and faithfulness meet together; righteousness and peace kiss each other."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,85,10",
     "id" : 190983,
@@ -31,7 +61,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 85:10\">85:10</a></b> <b>meet . . . kiss each other.</b> This verse has long been interpreted to refer to the reconciliation that Jesus Christ effected between God’s justice, that cannot tolerate sin, and His mercy, that does not rejoice in the death of the wicked (<a class=\"bibleref\" href=\"/passage/?search=Ezek 33:11\">Ezek. 33:11</a>; <a class=\"bibleref\" href=\"/passage/?search=2Pet 3:9\">2 Pet. 3:9</a>). Justice and mercy came together in the cross of Christ. See “God Is Light: Divine Holiness and Justice” at <a class=\"bibleref\" href=\"/passage/?search=Lev 11:44\">Lev. 11:44</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,85,11" ],
+  "verses" : [ {
+    "verse" : "psalms,85,11",
+    "text" : "Faithfulness springs forth from the earth, and righteousness looks down from heaven."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,85,11",
     "id" : 190984,
@@ -39,7 +72,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 85:11\">85:11</a></b> <b>up from the ground . . . down from the sky.</b> The future restored relationship with God will join God’s blessing from heaven with the faithfulness of His people on earth.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,85,12" ],
+  "verses" : [ {
+    "verse" : "psalms,85,12",
+    "text" : "The LORD will indeed give what is good, and our land will yield its harvest."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,85,12",
     "id" : 190985,
@@ -47,7 +83,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 85:12\">85:12</a></b> <b>yield its increase.</b> Fertility of land in an arid climate is an indication of God’s care and love for His people.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,85,13" ],
+  "verses" : [ {
+    "verse" : "psalms,85,13",
+    "text" : "Righteousness goes before him and prepares the way for his steps."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,85,13",
     "id" : 190986,

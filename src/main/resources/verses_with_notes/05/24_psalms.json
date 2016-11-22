@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,119,17" ],
+  "verses" : [ {
+    "verse" : "psalms,119,17",
+    "text" : "Do good to your servant, and I will live; I will obey your word."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,119,1-psalms,119,176",
     "id" : 191337,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 119:17\">119:17</a></b> <b>that I may live.</b> The psalmist’s life depends on grace.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,119,18" ],
+  "verses" : [ {
+    "verse" : "psalms,119,18",
+    "text" : "Open my eyes that I may see wonderful things in your law."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,119,18",
     "id" : 191349,
@@ -20,7 +26,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 119:18\">119:18</a></b> <b>Open my eyes.</b> We need God’s grace to illumine His word. He must guide our understanding.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,119,19", "psalms,119,20", "psalms,119,21" ],
+  "verses" : [ {
+    "verse" : "psalms,119,19",
+    "text" : "I am a stranger on earth; do not hide your commands from me."
+  }, {
+    "verse" : "psalms,119,20",
+    "text" : "My soul is consumed with longing for your laws at all times."
+  }, {
+    "verse" : "psalms,119,21",
+    "text" : "You rebuke the arrogant, who are cursed and who stray from your commands."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,119,19",
     "id" : 191350,
@@ -28,7 +43,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 119:19\">119:19</a></b> <b>sojourner.</b> See <a class=\"bibleref\" href=\"/passage/?search=Heb 11:13\">Heb. 11:13</a>. His true home is not on the earth, but with God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,119,22" ],
+  "verses" : [ {
+    "verse" : "psalms,119,22",
+    "text" : "Remove from me scorn and contempt, for I keep your statutes."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,119,22",
     "id" : 191351,
@@ -36,7 +54,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 119:22\">119:22</a></b> <b>Take away from me.</b> The psalm goes beyond praise of the law to petition for God’s grace in distress.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,119,23", "psalms,119,24", "psalms,119,25", "psalms,119,26", "psalms,119,27", "psalms,119,28" ],
+  "verses" : [ {
+    "verse" : "psalms,119,23",
+    "text" : "Though rulers sit together and slander me, your servant will meditate on your decrees."
+  }, {
+    "verse" : "psalms,119,24",
+    "text" : "Your statutes are my delight; they are my counselors."
+  }, {
+    "verse" : "psalms,119,25",
+    "text" : "I am laid low in the dust; preserve my life according to your word."
+  }, {
+    "verse" : "psalms,119,26",
+    "text" : "I recounted my ways and you answered me; teach me your decrees."
+  }, {
+    "verse" : "psalms,119,27",
+    "text" : "Let me understand the teaching of your precepts; then I will meditate on your wonders."
+  }, {
+    "verse" : "psalms,119,28",
+    "text" : "My soul is weary with sorrow; strengthen me according to your word."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,119,23",
     "id" : 191352,
@@ -44,7 +80,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 119:23\">119:23</a></b> <b>princes sit plotting against me.</b> Perhaps indicating the royal status of the psalmist.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,119,29", "psalms,119,30", "psalms,119,31", "psalms,119,32" ],
+  "verses" : [ {
+    "verse" : "psalms,119,29",
+    "text" : "Keep me from deceitful ways; be gracious to me through your law."
+  }, {
+    "verse" : "psalms,119,30",
+    "text" : "I have chosen the way of truth; I have set my heart on your laws."
+  }, {
+    "verse" : "psalms,119,31",
+    "text" : "I hold fast to your statutes, O LORD; do not let me be put to shame."
+  }, {
+    "verse" : "psalms,119,32",
+    "text" : "I run in the path of your commands, for you have set my heart free."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,119,29",
     "id" : 191353,

@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "psalms,22,1", "psalms,22,2" ],
+  "verses" : [ {
+    "verse" : "psalms,22,1",
+    "text" : "My God, my God, why have you forsaken me? Why are you so far from saving me, so far from the words of my groaning?"
+  }, {
+    "verse" : "psalms,22,2",
+    "text" : "O my God, I cry out by day, but you do not answer, by night, and am not silent."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,22,1-psalms,22,31",
     "id" : 190372,
@@ -12,7 +18,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 22:1\">22:1</a></b> <b>why have you forsaken me.</b> The psalmist cries in anguish the “why?” of the righteous sufferer. Where is the presence God has promised (<a class=\"bibleref\" href=\"/passage/?search=Josh 1:5\">Josh. 1:5</a>)? The cry is taken up by Jesus, who knew the reality of a total abandonment that was only partial with David. In the place of David and all the people of God, Jesus bore the dreadful curse that sin deserves.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,22,3" ],
+  "verses" : [ {
+    "verse" : "psalms,22,3",
+    "text" : "Yet you are enthroned as the Holy One; you are the praise of Israel."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,22,3",
     "id" : 190374,
@@ -20,7 +29,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 22:3\">22:3</a></b> <b>enthroned on the praises.</b> God’s kingship exists before any human acclamation, but His reign becomes manifest to worshipers through their praises.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,22,4", "psalms,22,5", "psalms,22,6" ],
+  "verses" : [ {
+    "verse" : "psalms,22,4",
+    "text" : "In you our fathers put their trust; they trusted and you delivered them."
+  }, {
+    "verse" : "psalms,22,5",
+    "text" : "They cried to you and were saved; in you they trusted and were not disappointed."
+  }, {
+    "verse" : "psalms,22,6",
+    "text" : "But I am a worm and not a man, scorned by men and despised by the people."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,22,4-psalms,22,5",
     "id" : 190375,
@@ -28,7 +46,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 22:4\">22:4</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 22:5\">5</a> our fathers.</b> David could think of the time that Abraham was delivered from the five kings (<a class=\"bibleref\" href=\"/passage/?search=Gen 14\">Gen. 14</a>), Joseph from the Egyptian prison (<a class=\"bibleref\" href=\"/passage/?search=Gen 41\">Gen. 41</a>), and most of all Moses and Israel from the land of Egypt (<a class=\"bibleref\" href=\"/passage/?search=Exod 1-Exod 15\">Ex. 1–15</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,22,7", "psalms,22,8" ],
+  "verses" : [ {
+    "verse" : "psalms,22,7",
+    "text" : "All who see me mock me; they hurl insults, shaking their heads:"
+  }, {
+    "verse" : "psalms,22,8",
+    "text" : "\"He trusts in the LORD; let the LORD rescue him. Let him deliver him, since he delights in him.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,22,7",
     "id" : 190376,
@@ -36,7 +60,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 22:7\">22:7</a></b> <b>mock.</b> His enemies ridicule his trust in God. This experience is alluded to in <a class=\"bibleref\" href=\"/passage/?search=Matt 27:41-Matt 27:44\">Matt. 27:41–44</a>, as Christ had to endure the ridicule of hypocritical priests and criminals.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,22,9", "psalms,22,10", "psalms,22,11" ],
+  "verses" : [ {
+    "verse" : "psalms,22,9",
+    "text" : "Yet you brought me out of the womb; you made me trust in you even at my mother's breast."
+  }, {
+    "verse" : "psalms,22,10",
+    "text" : "From birth I was cast upon you; from my mother's womb you have been my God."
+  }, {
+    "verse" : "psalms,22,11",
+    "text" : "Do not be far from me, for trouble is near and there is no one to help."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,22,9",
     "id" : 190377,
@@ -44,7 +77,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 22:9\">22:9</a></b> <b>from the womb.</b> He affirms a long-standing trust in God’s ability to save him. He has had confidence in God as far back as he can remember.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,22,12" ],
+  "verses" : [ {
+    "verse" : "psalms,22,12",
+    "text" : "Many bulls surround me; strong bulls of Bashan encircle me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,22,12",
     "id" : 190378,
@@ -52,7 +88,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 22:12\">22:12</a></b> <b>bulls of Bashan.</b> These bulls were noted for their power and size (<a class=\"bibleref\" href=\"/passage/?search=Amos 4:1\">Amos 4:1</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,22,13" ],
+  "verses" : [ {
+    "verse" : "psalms,22,13",
+    "text" : "Roaring lions tearing their prey open their mouths wide against me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,22,13",
     "id" : 190379,
@@ -60,7 +99,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 22:13\">22:13</a></b> <b>roaring lion.</b> Often representing power, ferocity, and ruthlessness in the Bible and the ancient Near East (Nah. 2:14; <a class=\"bibleref\" href=\"/passage/?search=Zeph 3:3\">Zeph. 3:3</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,22,14", "psalms,22,15" ],
+  "verses" : [ {
+    "verse" : "psalms,22,14",
+    "text" : "I am poured out like water, and all my bones are out of joint. My heart has turned to wax; it has melted away within me."
+  }, {
+    "verse" : "psalms,22,15",
+    "text" : "My strength is dried up like a potsherd, and my tongue sticks to the roof of my mouth; you lay me in the dust of death."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,22,14",
     "id" : 190380,
@@ -68,7 +113,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 22:14\">22:14</a></b> <b>my bones . . . my heart.</b> Outward attack is matched by inward agony. The figures, as used by David, reflect the inward turmoil induced by the encircling threat of his enemies. As fulfilled in Christ, the prophetic words describe the agony of the crucified One.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,22,16", "psalms,22,17", "psalms,22,18" ],
+  "verses" : [ {
+    "verse" : "psalms,22,16",
+    "text" : "Dogs have surrounded me; a band of evil men has encircled me, they have pierced my hands and my feet."
+  }, {
+    "verse" : "psalms,22,17",
+    "text" : "I can count all my bones; people stare and gloat over me."
+  }, {
+    "verse" : "psalms,22,18",
+    "text" : "They divide my garments among them and cast lots for my clothing."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,22,16",
     "id" : 190381,

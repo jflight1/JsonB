@@ -1,5 +1,29 @@
 [ {
-  "singleVerses" : [ "genesis,24,52", "genesis,24,53", "genesis,24,54", "genesis,24,55", "genesis,24,56", "genesis,24,57", "genesis,24,58", "genesis,24,59" ],
+  "verses" : [ {
+    "verse" : "genesis,24,52",
+    "text" : "When Abraham's servant heard what they said, he bowed down to the ground before the LORD."
+  }, {
+    "verse" : "genesis,24,53",
+    "text" : "Then the servant brought out gold and silver jewelry and articles of clothing and gave them to Rebekah; he also gave costly gifts to her brother and to her mother."
+  }, {
+    "verse" : "genesis,24,54",
+    "text" : "Then he and the men who were with him ate and drank and spent the night there. When they got up the next morning, he said, \"Send me on my way to my master.\""
+  }, {
+    "verse" : "genesis,24,55",
+    "text" : "But her brother and her mother replied, \"Let the girl remain with us ten days or so; then you may go.\""
+  }, {
+    "verse" : "genesis,24,56",
+    "text" : "But he said to them, \"Do not detain me, now that the LORD has granted success to my journey. Send me on my way so I may go to my master.\""
+  }, {
+    "verse" : "genesis,24,57",
+    "text" : "Then they said, \"Let's call the girl and ask her about it.\""
+  }, {
+    "verse" : "genesis,24,58",
+    "text" : "So they called Rebekah and asked her, \"Will you go with this man?I will go,\" she said."
+  }, {
+    "verse" : "genesis,24,59",
+    "text" : "So they sent their sister Rebekah on her way, along with her nurse and Abraham's servant and his men."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,22,20-genesis,25,11",
     "id" : 185124,
@@ -7,7 +31,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 22:20-Gen 25:11\">22:20–25:11</a></b> This final section of the account of Terah provides a transition from the patriarchal headship of Abraham to that of Isaac (<a class=\"bibleref\" href=\"/passage/?search=Gen 2:4\">2:4</a> note; Introduction: Outline). It narrates Sarah’s death (<a class=\"bibleref\" href=\"/passage/?search=Gen 23\">ch. 23</a>), Isaac’s marriage to Rebekah (<a class=\"bibleref\" href=\"/passage/?search=Gen 24\">ch. 24</a>), the dismissal of Abraham’s other children, leaving Isaac as the sole heir (<a class=\"bibleref\" href=\"/passage/?search=Gen 25:1-Gen 25:6\">25:1–6</a>), and Abraham’s death (<a class=\"bibleref\" href=\"/passage/?search=Gen 25:7-Gen 25:11\">25:7–11</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,24,60", "genesis,24,61", "genesis,24,62", "genesis,24,63" ],
+  "verses" : [ {
+    "verse" : "genesis,24,60",
+    "text" : "And they blessed Rebekah and said to her, \"Our sister, may you increase to thousands upon thousands; may your offspring possess the gates of their enemies.\""
+  }, {
+    "verse" : "genesis,24,61",
+    "text" : "Then Rebekah and her maids got ready and mounted their camels and went back with the man. So the servant took Rebekah and left."
+  }, {
+    "verse" : "genesis,24,62",
+    "text" : "Now Isaac had come from Beer Lahai Roi, for he was living in the Negev."
+  }, {
+    "verse" : "genesis,24,63",
+    "text" : "He went out to the field one evening to meditate, and as he looked up, he saw camels approaching."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,24,60",
     "id" : 185149,
@@ -15,7 +51,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 24:60\">24:60</a></b> <b>thousands of ten thousands . . . possess the gate.</b> See <a class=\"bibleref\" href=\"/passage/?search=Gen 13:16\">13:16</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 15:5\">15:5</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 22:17\">22:17</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,24,64", "genesis,24,65" ],
+  "verses" : [ {
+    "verse" : "genesis,24,64",
+    "text" : "Rebekah also looked up and saw Isaac. She got down from her camel"
+  }, {
+    "verse" : "genesis,24,65",
+    "text" : "and asked the servant, \"Who is that man in the field coming to meet us?He is my master,\" the servant answered. So she took her veil and covered herself."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,24,64-genesis,24,65",
     "id" : 185150,
@@ -23,7 +65,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 24:64\">24:64</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 24:65\">65</a></b> Rebekah dismounted as a sign of respect for her new husband (cf. <a class=\"bibleref\" href=\"/passage/?search=1Sam 25:23\">1 Sam. 25:23</a>). The customary bridal veil shielded the bride’s face from the husband until the consummation of the marriage (cf. <a class=\"bibleref\" href=\"/passage/?search=Song 4:1\">Song 4:1</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,24,66" ],
+  "verses" : [ {
+    "verse" : "genesis,24,66",
+    "text" : "Then the servant told Isaac all he had done."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,24,66",
     "id" : 185151,
@@ -31,7 +76,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 24:66\">24:66</a></b> <b>told Isaac.</b> Abraham lived another 35 years after Isaac’s marriage (<a class=\"bibleref\" href=\"/passage/?search=Gen 21:5\">21:5</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 25:7\">25:7</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 25:9\">9</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 25:20\">20</a>). As the attention shifts to Isaac, the narrative omits the servant’s report to Abraham and goes directly to the future patriarch.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,24,67" ],
+  "verses" : [ {
+    "verse" : "genesis,24,67",
+    "text" : "Isaac brought her into the tent of his mother Sarah, and he married Rebekah. So she became his wife, and he loved her; and Isaac was comforted after his mother's death."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,24,67",
     "id" : 185152,
@@ -39,7 +87,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 24:67\">24:67</a></b> <b>brought . . . took . . . loved her.</b> God granted complete success to the journey. In obedience to God both Isaac and Rebekah found fulfillment.</p><p><b>the tent of Sarah.</b> Rebekah replaced Sarah as matriarch of the family.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,25,1" ],
+  "verses" : [ {
+    "verse" : "genesis,25,1",
+    "text" : "Abraham took another wife, whose name was Keturah."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,25,1-genesis,25,18",
     "id" : 185153,
@@ -52,7 +103,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 25:1\">25:1</a></b> <b>took another wife.</b> Keturah was a concubine (<a class=\"bibleref\" href=\"/passage/?search=Gen 25:6\">v. 6</a>; <a class=\"bibleref\" href=\"/passage/?search=1Chr 1:32\">1 Chr. 1:32</a>). No attempt is made to date this secondary offspring of Abraham.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,25,2", "genesis,25,3", "genesis,25,4" ],
+  "verses" : [ {
+    "verse" : "genesis,25,2",
+    "text" : "She bore him Zimran, Jokshan, Medan, Midian, Ishbak and Shuah."
+  }, {
+    "verse" : "genesis,25,3",
+    "text" : "Jokshan was the father of Sheba and Dedan; the descendants of Dedan were the Asshurites, the Letushites and the Leummites."
+  }, {
+    "verse" : "genesis,25,4",
+    "text" : "The sons of Midian were Ephah, Epher, Hanoch, Abida and Eldaah. All these were descendants of Keturah."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,25,2-genesis,25,4",
     "id" : 185155,
@@ -60,7 +120,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 25:2-Gen 25:4\">25:2–4</a></b> Some of these names are associated with Syria and Arabia.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,25,5" ],
+  "verses" : [ {
+    "verse" : "genesis,25,5",
+    "text" : "Abraham left everything he owned to Isaac."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,25,5",
     "id" : 185156,
@@ -68,7 +131,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 25:5\">25:5</a></b> <b>gave all he had to Isaac.</b> See <a class=\"bibleref\" href=\"/passage/?search=Gen 24:36\">24:36</a>. Abraham dispossessed his children by Keturah as he had dispossessed Ishmael, the son of Hagar (<a class=\"bibleref\" href=\"/passage/?search=Gen 21:10\">21:10</a> and note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,25,6", "genesis,25,7" ],
+  "verses" : [ {
+    "verse" : "genesis,25,6",
+    "text" : "But while he was still living, he gave gifts to the sons of his concubines and sent them away from his son Isaac to the land of the east."
+  }, {
+    "verse" : "genesis,25,7",
+    "text" : "Altogether, Abraham lived a hundred and seventy-five years."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,25,6",
     "id" : 185157,
@@ -76,7 +145,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 25:6\">25:6</a></b> <b>while he was still living.</b> Abraham himself legally secured Isaac’s inheritance in the land.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,25,8" ],
+  "verses" : [ {
+    "verse" : "genesis,25,8",
+    "text" : "Then Abraham breathed his last and died at a good old age, an old man and full of years; and he was gathered to his people."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,25,8",
     "id" : 185158,
@@ -84,7 +156,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 25:8\">25:8</a></b> <b>died.</b> Abraham died in faith, seeing the promises afar off (<a class=\"bibleref\" href=\"/passage/?search=Heb 11:13-Heb 11:16\">Heb. 11:13–16</a>).</p><p><b>in a good old age.</b> In fulfillment of the divine promise in 15:15.</p><p><b>was gathered to his people.</b> A Hebrew idiom meaning that the deceased had entered the realm of death to join his ancestors (v. 17; 35:29; 49:29, 33; <a class=\"bibleref\" href=\"/passage/?search=Deut 32:50\">Deut. 32:50</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,25,9", "genesis,25,10", "genesis,25,11" ],
+  "verses" : [ {
+    "verse" : "genesis,25,9",
+    "text" : "His sons Isaac and Ishmael buried him in the cave of Machpelah near Mamre, in the field of Ephron son of Zohar the Hittite,"
+  }, {
+    "verse" : "genesis,25,10",
+    "text" : "the field Abraham had bought from the Hittites. There Abraham was buried with his wife Sarah."
+  }, {
+    "verse" : "genesis,25,11",
+    "text" : "After Abraham's death, God blessed his son Isaac, who then lived near Beer Lahai Roi."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,25,9",
     "id" : 185159,
@@ -92,7 +173,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 25:9\">25:9</a></b> <b>in the cave.</b> See <a class=\"bibleref\" href=\"/passage/?search=Gen 23\">ch. 23</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 35:27-Gen 35:29\">35:27–29</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 49:29-Gen 49:32\">49:29–32</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,25,12" ],
+  "verses" : [ {
+    "verse" : "genesis,25,12",
+    "text" : "This is the account of Abraham's son Ishmael, whom Sarah's maidservant, Hagar the Egyptian, bore to Abraham."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,25,12-genesis,25,18",
     "id" : 185160,
@@ -105,7 +189,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 25:12\">25:12</a></b> <b>These are the generations.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Gen 2:4\">2:4</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,25,13", "genesis,25,14", "genesis,25,15" ],
+  "verses" : [ {
+    "verse" : "genesis,25,13",
+    "text" : "These are the names of the sons of Ishmael, listed in the order of their birth: Nebaioth the firstborn of Ishmael, Kedar, Adbeel, Mibsam,"
+  }, {
+    "verse" : "genesis,25,14",
+    "text" : "Mishma, Dumah, Massa,"
+  }, {
+    "verse" : "genesis,25,15",
+    "text" : "Hadad, Tema, Jetur, Naphish and Kedemah."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,25,13-genesis,25,15",
     "id" : 185162,
@@ -113,7 +206,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 25:13-Gen 25:15\">25:13–15</a></b> Some of these names are Arabic, and others are attested in extrabiblical texts as northwest Arabian tribes.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,25,16", "genesis,25,17" ],
+  "verses" : [ {
+    "verse" : "genesis,25,16",
+    "text" : "These were the sons of Ishmael, and these are the names of the twelve tribal rulers according to their settlements and camps."
+  }, {
+    "verse" : "genesis,25,17",
+    "text" : "Altogether, Ishmael lived a hundred and thirty-seven years. He breathed his last and died, and he was gathered to his people."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,25,16",
     "id" : 185163,
@@ -121,7 +220,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 25:16\">25:16</a></b> <b>twelve princes.</b> See <a class=\"bibleref\" href=\"/passage/?search=Gen 17:20\">17:20</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,25,18" ],
+  "verses" : [ {
+    "verse" : "genesis,25,18",
+    "text" : "His descendants settled in the area from Havilah to Shur, near the border of Egypt, as you go toward Asshur. And they lived in hostility toward all their brothers."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,25,18",
     "id" : 185164,
@@ -129,7 +231,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 25:18\">25:18</a></b> <b>settled over against all his kinsmen.</b> The Hebrew of this phrase is difficult to render. It could also mean that he died in the presence of all his brethren.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,25,19" ],
+  "verses" : [ {
+    "verse" : "genesis,25,19",
+    "text" : "This is the account of Abraham's son Isaac. Abraham became the father of Isaac,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,25,19-genesis,35,29",
     "id" : 185165,
@@ -147,7 +252,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 25:19\">25:19</a></b> <b>the generations of Isaac.</b> Or, “the account of Isaac” (<a class=\"bibleref\" href=\"/passage/?search=Gen 2:4\">2:4</a> note). This account (<a class=\"bibleref\" href=\"/passage/?search=Gen 25:19-Gen 35:29\">25:19–35:29</a>) covers the period from Isaac’s marriage to his death. Much of the story, however, features Jacob (Introduction: Outline). After Isaac tries to thwart God’s blessing on Jacob (<a class=\"bibleref\" href=\"/passage/?search=Gen 27\">ch. 27</a>), he is not heard from again until his death (<a class=\"bibleref\" href=\"/passage/?search=Gen 35:27-Gen 35:29\">35:27–29</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,25,20" ],
+  "verses" : [ {
+    "verse" : "genesis,25,20",
+    "text" : "and Isaac was forty years old when he married Rebekah daughter of Bethuel the Aramean from Paddan Aram and sister of Laban the Aramean."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,25,20",
     "id" : 185168,
@@ -155,7 +263,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 25:20\">25:20</a></b> <b>Paddan-aram.</b> The region surrounding the city of Haran in northern Mesopotamia (<a class=\"bibleref\" href=\"/passage/?search=Gen 24:10\">24:10</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 28:2\">28:2</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,25,21", "genesis,25,22" ],
+  "verses" : [ {
+    "verse" : "genesis,25,21",
+    "text" : "Isaac prayed to the LORD on behalf of his wife, because she was barren. The LORD answered his prayer, and his wife Rebekah became pregnant."
+  }, {
+    "verse" : "genesis,25,22",
+    "text" : "The babies jostled each other within her, and she said, \"Why is this happening to me?\" So she went to inquire of the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,25,21",
     "id" : 185169,
@@ -163,7 +277,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 25:21\">25:21</a></b> <b>prayed . . . barren.</b> The next generation also had to learn that the seed of promise is a gift of God’s grace (<a class=\"bibleref\" href=\"/passage/?search=Gen 11:30\">11:30</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 17:15\">17:15</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 17:16\">16</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 18:1-Gen 18:15\">18:1–15</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 21:1-Gen 21:7\">21:1–7</a>), and sovereignly chosen by Him (<a class=\"bibleref\" href=\"/passage/?search=Gen 21:23\">v. 23</a>). Both Isaac’s wife and offspring were secured through prayer (<a class=\"bibleref\" href=\"/passage/?search=Gen 24:12\">24:12</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,25,23", "genesis,25,24" ],
+  "verses" : [ {
+    "verse" : "genesis,25,23",
+    "text" : "The LORD said to her, \"Two nations are in your womb, and two peoples from within you will be separated; one people will be stronger than the other, and the older will serve the younger.\""
+  }, {
+    "verse" : "genesis,25,24",
+    "text" : "When the time came for her to give birth, there were twin boys in her womb."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,25,23",
     "id" : 185170,
@@ -171,7 +291,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 25:23\">25:23</a></b> <b>the <span class=\"small-caps\">Lord</span> said.</b> God often displayed His sovereign control through prophecies given on the threshold of new historical eras: Adam and Eve (<a class=\"bibleref\" href=\"/passage/?search=Gen 3:15\">3:15</a>); Noah’s descendants (<a class=\"bibleref\" href=\"/passage/?search=Gen 9:25-Gen 9:27\">9:25–27</a>); Abraham (<a class=\"bibleref\" href=\"/passage/?search=Gen 12:1-Gen 12:3\">12:1–3</a>); Jacob and Esau (<a class=\"bibleref\" href=\"/passage/?search=Gen 27:27-Gen 27:29\">27:27–29</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 27:39\">39</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 27:40\">40</a>); and Joseph and his brothers (<a class=\"bibleref\" href=\"/passage/?search=Gen 37:1-Gen 37:11\">37:1–11</a>). See Introduction: Characteristics and Themes.</p><p><b>older shall serve the younger.</b> Jacob owed his supremacy to sovereign election, not natural rights (cf. <a class=\"bibleref\" href=\"/passage/?search=Deut 21:15-Deut 21:17\">Deut. 21:15–17</a>). The prophecy found fulfillment as Esau’s descendants, the Edomites, were often subjugated by Israel, and at last were included in the Jewish state during the intertestamental period (<a class=\"bibleref\" href=\"/passage/?search=1Sam 14:47\">1 Sam. 14:47</a>; <a class=\"bibleref\" href=\"/passage/?search=2Sam 8:13\">2 Sam. 8:13</a>, <a class=\"bibleref\" href=\"/passage/?search=2Sam 8:14\">14</a>; <a class=\"bibleref\" href=\"/passage/?search=2Kgs 14:7\">2 Kin. 14:7</a>).</p><p>God’s choice of Jacob (the younger) over Esau (the older) is a paradigmatic example of divine sovereign election (<a class=\"bibleref\" href=\"/passage/?search=Rom 9:9-Rom 9:13\">Rom. 9:9–13</a>, <a class=\"bibleref\" href=\"/passage/?search=Rom 9:18-Rom 9:23\">18–23</a>). God deals justly with all, but He has mercy on some (<a class=\"bibleref\" href=\"/passage/?search=Matt 20:1-Matt 20:16\">Matt. 20:1–16</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,25,25" ],
+  "verses" : [ {
+    "verse" : "genesis,25,25",
+    "text" : "The first to come out was red, and his whole body was like a hairy garment; so they named him Esau."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,25,25",
     "id" : 185171,
@@ -179,7 +302,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 25:25\">25:25</a></b> <b>hairy.</b> The Hebrew word sounds like “Seir,” where Esau later lived (<a class=\"bibleref\" href=\"/passage/?search=Gen 36:8\">36:8</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,25,26" ],
+  "verses" : [ {
+    "verse" : "genesis,25,26",
+    "text" : "After this, his brother came out, with his hand grasping Esau's heel; so he was named Jacob. Isaac was sixty years old when Rebekah gave birth to them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,25,26",
     "id" : 185172,
@@ -187,7 +313,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 25:26\">25:26</a></b> <b>Jacob.</b> See text note. Though destined to supplant his brother, Jacob tarnished his name to mean “deceitful” through cunning efforts to gain his brother’s privilege (<a class=\"bibleref\" href=\"/passage/?search=Gen 25:29-Gen 25:34\">25:29–34</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 27:1-Gen 27:40\">27:1–40</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,25,27" ],
+  "verses" : [ {
+    "verse" : "genesis,25,27",
+    "text" : "The boys grew up, and Esau became a skillful hunter, a man of the open country, while Jacob was a quiet man, staying among the tents."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,25,27-genesis,25,34",
     "id" : 185173,
@@ -200,7 +329,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 25:27\">25:27</a></b> <b>quiet.</b> The Hebrew here suggests a civilized man.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,25,28", "genesis,25,29" ],
+  "verses" : [ {
+    "verse" : "genesis,25,28",
+    "text" : "Isaac, who had a taste for wild game, loved Esau, but Rebekah loved Jacob."
+  }, {
+    "verse" : "genesis,25,29",
+    "text" : "Once when Jacob was cooking some stew, Esau came in from the open country, famished."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,25,28",
     "id" : 185175,
@@ -208,7 +343,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 25:28\">25:28</a></b> <b>Isaac loved . . . Rebekah loved.</b> Parental favoritism further set the family at loggerheads. God’s sovereign choice had to prevail over Isaac’s appetite (<a class=\"bibleref\" href=\"/passage/?search=Gen 27:18-Gen 27:27\">27:18–27</a>), for Isaac had the legal authority to pass on the family’s inheritance and blessing (<a class=\"bibleref\" href=\"/passage/?search=Gen 24:36\">24:36</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 25:5\">25:5</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,25,30" ],
+  "verses" : [ {
+    "verse" : "genesis,25,30",
+    "text" : "He said to Jacob, \"Quick, let me have some of that red stew! I'm famished!\" (That is why he was also called Edom. )"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,25,30",
     "id" : 185176,
@@ -216,7 +354,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 25:30\">25:30</a></b> <b>Let me eat.</b> The Hebrew indicates the impulsive and hurried request of one who lived for the moment. Esau’s impulsiveness is further revealed in <a class=\"bibleref\" href=\"/passage/?search=Gen 25:32\">v. 32</a>.</p><p><b>that red stew.</b> Lit. “the red stuff, that red stuff.” Esau’s clumsy repetition of the Hebrew word for “red” (’<i>adom</i>) recalls <a class=\"bibleref\" href=\"/passage/?search=Gen 25:25\">v. 25</a>, and explains the name by which his descendants were known (Hebrew ’<i>edom</i>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,25,31", "genesis,25,32", "genesis,25,33" ],
+  "verses" : [ {
+    "verse" : "genesis,25,31",
+    "text" : "Jacob replied, \"First sell me your birthright.\""
+  }, {
+    "verse" : "genesis,25,32",
+    "text" : "\"Look, I am about to die,\" Esau said. \"What good is the birthright to me?\""
+  }, {
+    "verse" : "genesis,25,33",
+    "text" : "But Jacob said, \"Swear to me first.\" So he swore an oath to him, selling his birthright to Jacob."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,25,31",
     "id" : 185177,
@@ -224,7 +371,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 25:31\">25:31</a></b> <b>Sell me.</b> Jacob took advantage of his brother’s weakness. His behavior contrasts sharply with Abraham’s treatment of Lot (<a class=\"bibleref\" href=\"/passage/?search=Gen 13:8\">13:8</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 13:9\">9</a>) and will be corrected (<a class=\"bibleref\" href=\"/passage/?search=Gen 33:1-Gen 33:17\">33:1–17</a>).</p><p><b>birthright.</b> The firstborn had the right to be the principal heir of the family’s fortunes (<a class=\"bibleref\" href=\"/passage/?search=Gen 27:33\">27:33</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 21:17\">Deut. 21:17</a>; <a class=\"bibleref\" href=\"/passage/?search=1Chr 5:1\">1 Chr. 5:1</a>, <a class=\"bibleref\" href=\"/passage/?search=1Chr 5:2\">2</a>). In the covenant family, this fortune included the substance of the Abrahamic blessing of offspring and land (12:2, 3, 7).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,25,34" ],
+  "verses" : [ {
+    "verse" : "genesis,25,34",
+    "text" : "Then Jacob gave Esau some bread and some lentil stew. He ate and drank, and then got up and left. So Esau despised his birthright."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,25,34",
     "id" : 185178,
@@ -232,7 +382,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 25:34\">25:34</a></b> <b>ate and drank and rose and went his way.</b> The staccato style of the Hebrew narrative implies that Esau himself was as crude and unreflective as his speech.</p><p><b>despised his birthright.</b> By despising his birthright, Esau held God’s promises in contempt (<a class=\"bibleref\" href=\"/passage/?search=Heb 12:16\">Heb. 12:16</a>, <a class=\"bibleref\" href=\"/passage/?search=Heb 12:17\">17</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,26,1" ],
+  "verses" : [ {
+    "verse" : "genesis,26,1",
+    "text" : "Now there was a famine in the land-besides the earlier famine of Abraham's time-and Isaac went to Abimelech king of the Philistines in Gerar."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,26,1-genesis,26,33",
     "id" : 185179,
@@ -240,7 +393,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 26:1-Gen 26:33\">26:1–33</a></b> After the introduction to the account of Isaac (<a class=\"bibleref\" href=\"/passage/?search=Gen 25:19-Gen 25:34\">25:19–34</a>), Isaac is linked with the covenant promises (<a class=\"bibleref\" href=\"/passage/?search=Gen 26\">ch. 26</a>). There are two revelations of covenantal promises (vv. 2–6, <a class=\"bibleref\" href=\"/passage/?search=Gen 26:24\">24</a>). Also, the extensive parallels between Isaac’s experience in <a class=\"bibleref\" href=\"/passage/?search=Gen 26\">ch. 26</a> and Abraham’s in <a class=\"bibleref\" href=\"/passage/?search=Gen 12\">chs. 12</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 13\">13</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 20\">20</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 21\">21</a>—famine (v. 1; cf. <a class=\"bibleref\" href=\"/passage/?search=Gen 12:10\">12:10</a>), deception involving the marital status of the matriarch (<a class=\"bibleref\" href=\"/passage/?search=Gen 12:7\">v. 7</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Gen 12:13\">12:13</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 20:2\">20:2</a>), material prosperity (<a class=\"bibleref\" href=\"/passage/?search=Gen 20:13\">vv. 13</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 20:14\">14</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Gen 12:16\">12:16</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 13:6\">13:6</a>), conflict over land (vv. 20, 21; cf. <a class=\"bibleref\" href=\"/passage/?search=Gen 13:7\">13:7</a>), and the covenant with the Philistines at Beersheba (vv. 26–33; cf. <a class=\"bibleref\" href=\"/passage/?search=Gen 21:22-Gen 21:34\">21:22–34</a>)—are included to show that Isaac was indeed the recipient of the covenant promises made to Abraham. Although they remained sojourners (<a class=\"bibleref\" href=\"/passage/?search=Gen 21:3\">v. 3</a> note), the patriarchs had a foretaste of life in the land.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,26,2" ],
+  "verses" : [ {
+    "verse" : "genesis,26,2",
+    "text" : "The LORD appeared to Isaac and said, \"Do not go down to Egypt; live in the land where I tell you to live."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,26,2-genesis,26,6",
     "id" : 185180,
@@ -248,7 +404,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 26:2-Gen 26:6\">26:2–6</a></b> The form and content of the Lord’s command and promise to Isaac, and Isaac’s obedience, are linked with Abraham (<a class=\"bibleref\" href=\"/passage/?search=Gen 12:1-Gen 12:4\">12:1–4</a> and notes).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,26,3" ],
+  "verses" : [ {
+    "verse" : "genesis,26,3",
+    "text" : "Stay in this land for a while, and I will be with you and will bless you. For to you and your descendants I will give all these lands and will confirm the oath I swore to your father Abraham."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,26,3",
     "id" : 185181,
@@ -256,7 +415,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 26:3\">26:3</a></b> <b>Sojourn in this land.</b> The Hebrew word translated “sojourn” indicates a resident alien (<a class=\"bibleref\" href=\"/passage/?search=Gen 21:34\">21:34</a> note; <a class=\"bibleref\" href=\"/passage/?search=Heb 11:9\">Heb. 11:9</a>, <a class=\"bibleref\" href=\"/passage/?search=Heb 11:13\">13</a>). Isaac is to remain there as a “stranger” who does not yet have the land in possession.</p><p><b>bless.</b> See note 12:2.</p><p><b>give all these lands.</b> See note 13:15.</p><p><b>establish the oath.</b> See 15:18; 17:21; and especially 22:16–18 and notes. The promise to Abraham is secure, but Isaac’s participation in the covenant blessings requires his obedience.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,26,4" ],
+  "verses" : [ {
+    "verse" : "genesis,26,4",
+    "text" : "I will make your descendants as numerous as the stars in the sky and will give them all these lands, and through your offspring all nations on earth will be blessed,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,26,4",
     "id" : 185182,
@@ -264,7 +426,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 26:4\">26:4</a></b> <b>stars of heaven.</b> See <a class=\"bibleref\" href=\"/passage/?search=Gen 15:5\">15:5</a>.</p><p><b>offspring.</b> See notes <a class=\"bibleref\" href=\"/passage/?search=Gen 12:3\">12:3</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 12:7\">7</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,26,5" ],
+  "verses" : [ {
+    "verse" : "genesis,26,5",
+    "text" : "because Abraham obeyed me and kept my requirements, my commands, my decrees and my laws.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,26,5",
     "id" : 185183,
@@ -272,7 +437,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 26:5\">26:5</a></b> <b>because.</b> See <a class=\"bibleref\" href=\"/passage/?search=Gen 22:18\">22:18</a>; notes on <a class=\"bibleref\" href=\"/passage/?search=Gen 17:2\">17:2</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 18:19\">18:19</a>.</p><p><b>my charge, my commandments, my statutes . . . laws.</b> Abraham’s obedience is described in terms that recall Israel’s requirement to keep the law of Moses (cf. <a class=\"bibleref\" href=\"/passage/?search=Deut 11:1\">Deut. 11:1</a>). Abraham is a type of Christ, who by His obedience fulfilled the righteous requirements of the law and secured its blessings for His seed (<a class=\"bibleref\" href=\"/passage/?search=Matt 5:17\">Matt. 5:17</a>, <a class=\"bibleref\" href=\"/passage/?search=Matt 5:18\">18</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,26,6" ],
+  "verses" : [ {
+    "verse" : "genesis,26,6",
+    "text" : "So Isaac stayed in Gerar."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,26,6",
     "id" : 185184,
@@ -280,7 +448,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 26:6\">26:6</a></b> <b>So Isaac settled.</b> Like his father Abraham, Isaac responds obediently to God’s promise (<a class=\"bibleref\" href=\"/passage/?search=Gen 12:4\">12:4</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 17:23\">17:23</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 22:3\">22:3</a> and notes).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,26,7" ],
+  "verses" : [ {
+    "verse" : "genesis,26,7",
+    "text" : "When the men of that place asked him about his wife, he said, \"She is my sister,\" because he was afraid to say, \"She is my wife.\" He thought, \"The men of this place might kill me on account of Rebekah, because she is beautiful.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,26,7-genesis,26,11",
     "id" : 185185,
@@ -293,7 +464,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 26:7\">26:7</a></b> <b>sister.</b> See <a class=\"bibleref\" href=\"/passage/?search=Gen 12:13\">12:13</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 20:2\">20:2</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,26,8" ],
+  "verses" : [ {
+    "verse" : "genesis,26,8",
+    "text" : "When Isaac had been there a long time, Abimelech king of the Philistines looked down from a window and saw Isaac caressing his wife Rebekah."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,26,8",
     "id" : 185187,
@@ -301,7 +475,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 26:8\">26:8</a></b> <b>looked out of a window.</b> Whereas Abraham was spared by a special revelation to Abimelech (<a class=\"bibleref\" href=\"/passage/?search=Gen 20:3\">20:3</a>), Isaac is spared by providence.</p><p><b>laughing with.</b> The Hebrew here means “play” and is from the same Hebrew root as the name Isaac.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,26,9" ],
+  "verses" : [ {
+    "verse" : "genesis,26,9",
+    "text" : "So Abimelech summoned Isaac and said, \"She is really your wife! Why did you say, 'She is my sister'?\" Isaac answered him, \"Because I thought I might lose my life on account of her.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,26,9",
     "id" : 185188,
@@ -309,7 +486,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 26:9\">26:9</a></b> <b>Abimelech.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Gen 20:2\">20:2</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,26,10", "genesis,26,11" ],
+  "verses" : [ {
+    "verse" : "genesis,26,10",
+    "text" : "Then Abimelech said, \"What is this you have done to us? One of the men might well have slept with your wife, and you would have brought guilt upon us.\""
+  }, {
+    "verse" : "genesis,26,11",
+    "text" : "So Abimelech gave orders to all the people: \"Anyone who molests this man or his wife shall surely be put to death.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,26,10",
     "id" : 185189,
@@ -317,7 +500,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 26:10\">26:10</a></b> <b>brought guilt.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Gen 20:9\">20:9</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,26,12", "genesis,26,13", "genesis,26,14" ],
+  "verses" : [ {
+    "verse" : "genesis,26,12",
+    "text" : "Isaac planted crops in that land and the same year reaped a hundredfold, because the LORD blessed him."
+  }, {
+    "verse" : "genesis,26,13",
+    "text" : "The man became rich, and his wealth continued to grow until he became very wealthy."
+  }, {
+    "verse" : "genesis,26,14",
+    "text" : "He had so many flocks and herds and servants that the Philistines envied him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,26,12",
     "id" : 185190,
@@ -325,7 +517,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 26:12\">26:12</a></b> <b>sowed.</b> Isaac became more stationary than his nomadic father. His success depended on rain from heaven.</p><p><b>hundredfold.</b> His obedience during the famine was rewarded (<a class=\"bibleref\" href=\"/passage/?search=Gen 26:2-Gen 26:6\">vv. 2–6</a>). God’s blessing is as evident upon Isaac, the chosen successor to God’s promises, as upon his father Abraham (<a class=\"bibleref\" href=\"/passage/?search=Gen 21:22\">21:22</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,26,15" ],
+  "verses" : [ {
+    "verse" : "genesis,26,15",
+    "text" : "So all the wells that his father's servants had dug in the time of his father Abraham, the Philistines stopped up, filling them with earth."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,26,15",
     "id" : 185191,
@@ -333,7 +528,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 26:15\">26:15</a></b> <b>Philistines had stopped . . . wells.</b> With Abraham gone, the Philistines effectively negated their non-aggression pact (<a class=\"bibleref\" href=\"/passage/?search=Gen 21:22-Gen 21:34\">21:22–34</a> note). They had no genuine faith in Abraham’s God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,26,16" ],
+  "verses" : [ {
+    "verse" : "genesis,26,16",
+    "text" : "Then Abimelech said to Isaac, \"Move away from us; you have become too powerful for us.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,26,16",
     "id" : 185192,

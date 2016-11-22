@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,15,1" ],
+  "verses" : [ {
+    "verse" : "psalms,15,1",
+    "text" : "LORD, who may dwell in your sanctuary? Who may live on your holy hill?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,15,1-psalms,15,5",
     "id" : 190298,
@@ -12,7 +15,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 15:1\">15:1</a></b> <b>tent.</b> Before the temple was built, the symbol of God’s dwelling with His people was a tent.</p><p><b>holy hill.</b> Mount Zion, where the temple was located.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,15,2", "psalms,15,3" ],
+  "verses" : [ {
+    "verse" : "psalms,15,2",
+    "text" : "He whose walk is blameless and who does what is righteous, who speaks the truth from his heart"
+  }, {
+    "verse" : "psalms,15,3",
+    "text" : "and has no slander on his tongue, who does his neighbor no wrong and casts no slur on his fellowman,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,15,2-psalms,15,5",
     "id" : 190300,
@@ -20,7 +29,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 15:2-Ps 15:5\">15:2–5</a></b> The ten requirements for entrance are ethical, not formal or liturgical.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,15,4" ],
+  "verses" : [ {
+    "verse" : "psalms,15,4",
+    "text" : "who despises a vile man but honors those who fear the LORD, who keeps his oath even when it hurts,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,15,4",
     "id" : 190301,
@@ -28,7 +40,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 15:4\">15:4</a></b> <b>to his own hurt.</b> Alternatively, “and does not falter.” The point is the same: when he promises, the righteous person fulfills his word.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,15,5" ],
+  "verses" : [ {
+    "verse" : "psalms,15,5",
+    "text" : "who lends his money without usury and does not accept a bribe against the innocent. He who does these things will never be shaken."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,15,5",
     "id" : 190302,

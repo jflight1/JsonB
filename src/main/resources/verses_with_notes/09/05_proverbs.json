@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "proverbs,22,20", "proverbs,22,21" ],
+  "verses" : [ {
+    "verse" : "proverbs,22,20",
+    "text" : "Have I not written thirty sayings for you, sayings of counsel and knowledge,"
+  }, {
+    "verse" : "proverbs,22,21",
+    "text" : "teaching you true and reliable words, so that you can give sound answers to him who sent you?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,22,17-proverbs,24,22",
     "id" : 192162,

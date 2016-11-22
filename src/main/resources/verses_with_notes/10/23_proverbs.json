@@ -1,8 +1,17 @@
 [ {
-  "singleVerses" : [ "proverbs,26,3" ],
+  "verses" : [ {
+    "verse" : "proverbs,26,3",
+    "text" : "A whip for the horse, a halter for the donkey, and a rod for the backs of fools!"
+  } ],
   "rsbNotes" : [ ]
 }, {
-  "singleVerses" : [ "proverbs,26,4", "proverbs,26,5" ],
+  "verses" : [ {
+    "verse" : "proverbs,26,4",
+    "text" : "Do not answer a fool according to his folly, or you will be like him yourself."
+  }, {
+    "verse" : "proverbs,26,5",
+    "text" : "Answer a fool according to his folly, or he will be wise in his own eyes."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,26,4-proverbs,26,5",
     "id" : 192251,

@@ -1,5 +1,14 @@
 [ {
-  "singleVerses" : [ "psalms,119,49", "psalms,119,50", "psalms,119,51" ],
+  "verses" : [ {
+    "verse" : "psalms,119,49",
+    "text" : "Remember your word to your servant, for you have given me hope."
+  }, {
+    "verse" : "psalms,119,50",
+    "text" : "My comfort in my suffering is this: Your promise preserves my life."
+  }, {
+    "verse" : "psalms,119,51",
+    "text" : "The arrogant mock me without restraint, but I do not turn from your law."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,119,1-psalms,119,176",
     "id" : 191337,
@@ -12,7 +21,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 119:49\">119:49</a></b> <b>Remember.</b> See <a class=\"bibleref\" href=\"/passage/?search=Ps 44:1\">Ps. 44:1</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,119,52", "psalms,119,53" ],
+  "verses" : [ {
+    "verse" : "psalms,119,52",
+    "text" : "I remember your ancient laws, O LORD, and I find comfort in them."
+  }, {
+    "verse" : "psalms,119,53",
+    "text" : "Indignation grips me because of the wicked, who have forsaken your law."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,119,52",
     "id" : 191362,
@@ -20,7 +35,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 119:52\">119:52</a></b> <b>your rules from of old.</b> Given through Moses and contained in the books of Exodus, Leviticus, and Deuteronomy.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,119,54" ],
+  "verses" : [ {
+    "verse" : "psalms,119,54",
+    "text" : "Your decrees are the theme of my song wherever I lodge."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,119,54",
     "id" : 191363,
@@ -28,7 +46,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 119:54\">119:54</a></b> <b>Your statutes . . . my songs.</b> The law was not simply a matter of obedience for the psalmist, but of worship.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,119,55", "psalms,119,56" ],
+  "verses" : [ {
+    "verse" : "psalms,119,55",
+    "text" : "In the night I remember your name, O LORD, and I will keep your law."
+  }, {
+    "verse" : "psalms,119,56",
+    "text" : "This has been my practice: I obey your precepts."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,119,55",
     "id" : 191364,
@@ -36,7 +60,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 119:55\">119:55</a></b> <b>name.</b> See <a class=\"bibleref\" href=\"/passage/?search=Ps 8:1\">Ps. 8:1</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,119,57", "psalms,119,58", "psalms,119,59", "psalms,119,60", "psalms,119,61", "psalms,119,62" ],
+  "verses" : [ {
+    "verse" : "psalms,119,57",
+    "text" : "You are my portion, O LORD; I have promised to obey your words."
+  }, {
+    "verse" : "psalms,119,58",
+    "text" : "I have sought your face with all my heart; be gracious to me according to your promise."
+  }, {
+    "verse" : "psalms,119,59",
+    "text" : "I have considered my ways and have turned my steps to your statutes."
+  }, {
+    "verse" : "psalms,119,60",
+    "text" : "I will hasten and not delay to obey your commands."
+  }, {
+    "verse" : "psalms,119,61",
+    "text" : "Though the wicked bind me with ropes, I will not forget your law."
+  }, {
+    "verse" : "psalms,119,62",
+    "text" : "At midnight I rise to give you thanks for your righteous laws."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,119,57",
     "id" : 191365,
@@ -44,7 +86,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 119:57\">119:57</a></b> <b>my portion.</b> The poet’s portion is not an inheritance in the land, but the Lord Himself (<a class=\"bibleref\" href=\"/passage/?search=Num 18:20\">Num. 18:20</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,119,63", "psalms,119,64" ],
+  "verses" : [ {
+    "verse" : "psalms,119,63",
+    "text" : "I am a friend to all who fear you, to all who follow your precepts."
+  }, {
+    "verse" : "psalms,119,64",
+    "text" : "The earth is filled with your love, O LORD; teach me your decrees."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,119,63",
     "id" : 191366,

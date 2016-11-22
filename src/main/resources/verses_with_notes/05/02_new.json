@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "john,2,1", "john,2,2" ],
+  "verses" : [ {
+    "verse" : "john,2,1",
+    "text" : "On the third day a wedding took place at Cana in Galilee. Jesus' mother was there,"
+  }, {
+    "verse" : "john,2,2",
+    "text" : "and Jesus and his disciples had also been invited to the wedding."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,2,1-john,2,11",
     "id" : 196899,
@@ -7,7 +13,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 2:1-John 2:11\">2:1–11</a></b> Jesus’ first sign: turning water into wine at Cana. This miracle signifies the transformation of the old order (symbolized by the stone water jars used for ceremonial washing, <a class=\"bibleref\" href=\"/passage/?search=John 2:6\">v. 6</a>) into the new (the wine standing for eternal life in God’s kingdom) through Jesus Christ (cf. <a class=\"bibleref\" href=\"/passage/?search=2Cor 5:17\">2 Cor. 5:17</a>). See <a class=\"bibleref\" href=\"/passage/?search=Isa 25:6-Isa 25:9\">Is. 25:6–9</a> for the background image of salvation as a banquet.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,2,3" ],
+  "verses" : [ {
+    "verse" : "john,2,3",
+    "text" : "When the wine was gone, Jesus' mother said to him, \"They have no more wine.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,2,3",
     "id" : 196900,
@@ -15,7 +24,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 2:3\">2:3</a></b> <b>wine.</b> This is the normal term employed in the New Testament for the fermented drink. Paul uses it when he says, “do not get drunk with wine” (<a class=\"bibleref\" href=\"/passage/?search=Eph 5:18\">Eph. 5:18</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,2,4", "john,2,5", "john,2,6", "john,2,7", "john,2,8", "john,2,9", "john,2,10" ],
+  "verses" : [ {
+    "verse" : "john,2,4",
+    "text" : "\"Dear woman, why do you involve me?\" Jesus replied, \"My time has not yet come.\""
+  }, {
+    "verse" : "john,2,5",
+    "text" : "His mother said to the servants, \"Do whatever he tells you.\""
+  }, {
+    "verse" : "john,2,6",
+    "text" : "Nearby stood six stone water jars, the kind used by the Jews for ceremonial washing, each holding from twenty to thirty gallons."
+  }, {
+    "verse" : "john,2,7",
+    "text" : "Jesus said to the servants, \"Fill the jars with water\"; so they filled them to the brim."
+  }, {
+    "verse" : "john,2,8",
+    "text" : "Then he told them, \"Now draw some out and take it to the master of the banquet.\""
+  }, {
+    "verse" : "john,2,9",
+    "text" : "They did so, and the master of the banquet tasted the water that had been turned into wine. He did not realize where it had come from, though the servants who had drawn the water knew. Then he called the bridegroom aside"
+  }, {
+    "verse" : "john,2,10",
+    "text" : "and said, \"Everyone brings out the choice wine first and then the cheaper wine after the guests have had too much to drink; but you have saved the best till now.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,2,4",
     "id" : 196901,
@@ -23,7 +53,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 2:4\">2:4</a></b> <b>Woman.</b> This is a respectful way of addressing a woman within that culture and is the way Jesus normally addresses women (<a class=\"bibleref\" href=\"/passage/?search=John 4:21\">4:21</a>; <a class=\"bibleref\" href=\"/passage/?search=John 8:10\">8:10</a>).</p><p><b>what does this have to do with me.</b> Jesus answers Mary’s request, not because she is His mother, but as part of His work as the Messiah. This indicates that Mary’s special role as Jesus’ mother gives her no authority to intervene in Christ’s messianic career—a strong argument against offering prayer to Mary.</p><p><b>My hour.</b> Usually Jesus’ “hour” refers to the time of His suffering and death (<a class=\"bibleref\" href=\"/passage/?search=John 12:27\">12:27</a>). Here Jesus is asserting that He and not Mary must determine the timetable of His earthly ministry.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,2,11" ],
+  "verses" : [ {
+    "verse" : "john,2,11",
+    "text" : "This, the first of his miraculous signs, Jesus performed in Cana of Galilee. He thus revealed his glory, and his disciples put their faith in him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,2,11",
     "id" : 196902,
@@ -31,7 +64,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 2:11\">2:11</a></b> <b>manifested his glory.</b> The theme of Christ’s glory had already been introduced (<a class=\"bibleref\" href=\"/passage/?search=John 1:14\">1:14</a> note). In the Old Testament, God manifested His glory in a variety of miraculous events, and John’s comment indicates that he wants his readers to recognize Jesus’ deity.</p><p><b>And his disciples believed in him.</b> See also <a class=\"bibleref\" href=\"/passage/?search=John 1:23\">v. 23</a> and <a class=\"bibleref\" href=\"/passage/?search=John 20:31\">20:31</a>, where John’s purpose for writing the book is disclosed.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,2,12", "john,2,13", "john,2,14" ],
+  "verses" : [ {
+    "verse" : "john,2,12",
+    "text" : "After this he went down to Capernaum with his mother and brothers and his disciples. There they stayed for a few days."
+  }, {
+    "verse" : "john,2,13",
+    "text" : "When it was almost time for the Jewish Passover, Jesus went up to Jerusalem."
+  }, {
+    "verse" : "john,2,14",
+    "text" : "In the temple courts he found men selling cattle, sheep and doves, and others sitting at tables exchanging money."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,2,12-john,2,23",
     "id" : 196903,
@@ -44,7 +86,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 2:12\">2:12</a></b> <b>his brothers.</b> See <a class=\"bibleref\" href=\"/passage/?search=Matt 12:46\">Matt. 12:46</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,2,15", "john,2,16", "john,2,17", "john,2,18", "john,2,19" ],
+  "verses" : [ {
+    "verse" : "john,2,15",
+    "text" : "So he made a whip out of cords, and drove all from the temple area, both sheep and cattle; he scattered the coins of the money changers and overturned their tables."
+  }, {
+    "verse" : "john,2,16",
+    "text" : "To those who sold doves he said, \"Get these out of here! How dare you turn my Father's house into a market!\""
+  }, {
+    "verse" : "john,2,17",
+    "text" : "His disciples remembered that it is written: \"Zeal for your house will consume me.\""
+  }, {
+    "verse" : "john,2,18",
+    "text" : "Then the Jews demanded of him, \"What miraculous sign can you show us to prove your authority to do all this?\""
+  }, {
+    "verse" : "john,2,19",
+    "text" : "Jesus answered them, \"Destroy this temple, and I will raise it again in three days.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,2,15",
     "id" : 196905,
@@ -52,7 +109,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 2:15\">2:15 a</a></b> <b>whip of cords.</b> Jesus fulfills the prophecy of <a class=\"bibleref\" href=\"/passage/?search=Mal 3:1-Mal 3:4\">Mal. 3:1–4</a>. He comes suddenly to the temple and purifies the sons of Levi, as a demonstration of His zeal for God and for keeping God’s ordinances holy.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,2,20", "john,2,21" ],
+  "verses" : [ {
+    "verse" : "john,2,20",
+    "text" : "The Jews replied, \"It has taken forty-six years to build this temple, and you are going to raise it in three days?\""
+  }, {
+    "verse" : "john,2,21",
+    "text" : "But the temple he had spoken of was his body."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,2,20",
     "id" : 196906,
@@ -60,7 +123,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 2:20\">2:20</a></b> <b>forty-six years.</b> The sentence itself does not indicate whether the temple was finished or was still under construction after these years of building. The first century Jewish historian Josephus (<i>Antiquities,</i> 15.380) says that the temple was begun in the eighteenth year of Herod the Great (around 19 <span class=\"small-caps\">b.c.</span>) and was not completed until the reign of Herod Agrippa (<span class=\"small-caps\">a.d.</span> 63), indicating that construction was still continuing in Jesus’ time.</p><p><b>will you raise it up in three days.</b> The Jews (and the disciples, <a class=\"bibleref\" href=\"/passage/?search=John 2:22\">v. 22</a>) misunderstand Jesus’ ambiguous statement. Such initial misunderstanding is common in John’s Gospel (e.g., <a class=\"bibleref\" href=\"/passage/?search=John 3:4\">3:4</a>; <a class=\"bibleref\" href=\"/passage/?search=John 6:52\">6:52</a>). Those who “receive” Jesus (<a class=\"bibleref\" href=\"/passage/?search=John 1:12\">1:12</a>) are led on to full understanding, but those who reject Him remain at the level of complete misunderstanding (<a class=\"bibleref\" href=\"/passage/?search=John 1:5\">1:5</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,2,22" ],
+  "verses" : [ {
+    "verse" : "john,2,22",
+    "text" : "After he was raised from the dead, his disciples recalled what he had said. Then they believed the Scripture and the words that Jesus had spoken."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,2,22",
     "id" : 196907,
@@ -68,7 +134,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 2:22\">2:22</a></b> <b>his disciples remembered.</b> During His final instruction of the disciples before His arrest, Jesus promised that what He had taught them would be brought to their remembrance by the Holy Spirit (<a class=\"bibleref\" href=\"/passage/?search=John 14:25\">14:25</a>, <a class=\"bibleref\" href=\"/passage/?search=John 14:26\">26</a>). The ability to predict events otherwise unknowable is evidence of divine authority. This applies to the prophecies of the Old Testament and to the predictions made by Jesus, especially about His resurrection.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,2,23" ],
+  "verses" : [ {
+    "verse" : "john,2,23",
+    "text" : "Now while he was in Jerusalem at the Passover Feast, many people saw the miraculous signs he was doing and believed in his name."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,2,23",
     "id" : 196908,
@@ -76,7 +145,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 2:23\">2:23</a></b> <b>believed in his name.</b> In biblical times the “name” summed up a person’s character, activity, and place in God’s purpose. The faith of those mentioned here remained superficial, however, because they came to it only because “they saw the signs” (see Introduction: Interpretive Difficulties). For that reason, Jesus “did not entrust himself to them” (<a class=\"bibleref\" href=\"/passage/?search=John 2:24\">v. 24</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,2,24", "john,2,25" ],
+  "verses" : [ {
+    "verse" : "john,2,24",
+    "text" : "But Jesus would not entrust himself to them, for he knew all men."
+  }, {
+    "verse" : "john,2,25",
+    "text" : "He did not need man's testimony about man, for he knew what was in a man."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,2,24-john,2,25",
     "id" : 196909,

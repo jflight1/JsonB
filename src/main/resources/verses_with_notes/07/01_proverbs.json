@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,18,8" ],
+  "verses" : [ {
+    "verse" : "proverbs,18,8",
+    "text" : "The words of a gossip are like choice morsels; they go down to a man's inmost parts."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

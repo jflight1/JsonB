@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,19,4" ],
+  "verses" : [ {
+    "verse" : "proverbs,19,4",
+    "text" : "Wealth brings many friends, but a poor man's friend deserts him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 19:4\">19:4</a></b> A common fact of life, stated without moral judgment (<a class=\"bibleref\" href=\"/passage/?search=Prov 19:6\">vv. 6</a>, <a class=\"bibleref\" href=\"/passage/?search=Prov 19:7\">7</a>; <a class=\"bibleref\" href=\"/passage/?search=Prov 18:23\">18:23</a>), although the sinful partiality is obvious (<a class=\"bibleref\" href=\"/passage/?search=Jas 2:1-Jas 2:4\">James 2:1–4</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,19,5" ],
+  "verses" : [ {
+    "verse" : "proverbs,19,5",
+    "text" : "A false witness will not go unpunished, and he who pours out lies will not go free."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,19,5",
     "id" : 192070,

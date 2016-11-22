@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,21,23" ],
+  "verses" : [ {
+    "verse" : "proverbs,21,23",
+    "text" : "He who guards his mouth and his tongue keeps himself from calamity."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 21:23\">21:23</a></b> See <a class=\"bibleref\" href=\"/passage/?search=Prov 13:3\">13:3</a>; <a class=\"bibleref\" href=\"/passage/?search=Prov 15:23\">15:23</a>; <a class=\"bibleref\" href=\"/passage/?search=Prov 18:13\">18:13</a> and notes.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,21,24" ],
+  "verses" : [ {
+    "verse" : "proverbs,21,24",
+    "text" : "The proud and arrogant man-\"Mocker\" is his name; he behaves with overweening pride."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,21,24",
     "id" : 192138,

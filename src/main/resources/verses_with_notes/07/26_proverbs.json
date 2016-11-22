@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,20,2" ],
+  "verses" : [ {
+    "verse" : "proverbs,20,2",
+    "text" : "A king's wrath is like the roar of a lion; he who angers him forfeits his life."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 20:2\">20:2</a></b> See <a class=\"bibleref\" href=\"/passage/?search=Prov 16:14\">16:14</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,20,3" ],
+  "verses" : [ {
+    "verse" : "proverbs,20,3",
+    "text" : "It is to a man's honor to avoid strife, but every fool is quick to quarrel."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,20,3",
     "id" : 192092,

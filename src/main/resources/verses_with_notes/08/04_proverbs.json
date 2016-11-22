@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,20,20" ],
+  "verses" : [ {
+    "verse" : "proverbs,20,20",
+    "text" : "If a man curses his father or mother, his lamp will be snuffed out in pitch darkness."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 20:20\">20:20</a></b> <b>his lamp will be put out.</b> See <a class=\"bibleref\" href=\"/passage/?search=Prov 13:9\">13:9</a> and note. Death will come, either by society executing the law, by divine retribution, or by indirect consequences of such enormous sin.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,20,21" ],
+  "verses" : [ {
+    "verse" : "proverbs,20,21",
+    "text" : "An inheritance quickly gained at the beginning will not be blessed at the end."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,20,21",
     "id" : 192109,

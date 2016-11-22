@@ -1,8 +1,65 @@
 [ {
-  "singleVerses" : [ "matthew,21,23", "matthew,21,24", "matthew,21,25", "matthew,21,26", "matthew,21,27", "matthew,21,28", "matthew,21,29", "matthew,21,30", "matthew,21,31", "matthew,21,32" ],
+  "verses" : [ {
+    "verse" : "matthew,21,23",
+    "text" : "Jesus entered the temple courts, and, while he was teaching, the chief priests and the elders of the people came to him. \"By what authority are you doing these things?\" they asked. \"And who gave you this authority?\""
+  }, {
+    "verse" : "matthew,21,24",
+    "text" : "Jesus replied, \"I will also ask you one question. If you answer me, I will tell you by what authority I am doing these things."
+  }, {
+    "verse" : "matthew,21,25",
+    "text" : "John's baptism--where did it come from? Was it from heaven, or from men?\""
+  }, {
+    "verse" : "matthew,21,26",
+    "text" : "They discussed it among themselves and said, \"If we say, 'From heaven,' he will ask, 'Then why didn't you believe him?' But if we say, 'From men'--we are afraid of the people, for they all hold that John was a prophet.\""
+  }, {
+    "verse" : "matthew,21,27",
+    "text" : "So they answered Jesus, \"We don't know.\" Then he said, \"Neither will I tell you by what authority I am doing these things."
+  }, {
+    "verse" : "matthew,21,28",
+    "text" : "\"What do you think? There was a man who had two sons. He went to the first and said, 'Son, go and work today in the vineyard.'"
+  }, {
+    "verse" : "matthew,21,29",
+    "text" : "\"'I will not,' he answered, but later he changed his mind and went."
+  }, {
+    "verse" : "matthew,21,30",
+    "text" : "\"Then the father went to the other son and said the same thing. He answered, 'I will, sir,' but he did not go."
+  }, {
+    "verse" : "matthew,21,31",
+    "text" : "\"Which of the two did what his father wanted?The first,\" they answered."
+  }, {
+    "verse" : "matthew,21,32",
+    "text" : "Jesus said to them, \"I tell you the truth, the tax collectors and the prostitutes are entering the kingdom of God ahead of you. For John came to you to show you the way of righteousness, and you did not believe him, but the tax collectors and the prostitutes did. And even after you saw this, you did not repent and believe him."
+  } ],
   "rsbNotes" : [ ]
 }, {
-  "singleVerses" : [ "matthew,21,33", "matthew,21,34", "matthew,21,35", "matthew,21,36", "matthew,21,37", "matthew,21,38", "matthew,21,39", "matthew,21,40", "matthew,21,41" ],
+  "verses" : [ {
+    "verse" : "matthew,21,33",
+    "text" : "\"Listen to another parable: There was a landowner who planted a vineyard. He put a wall around it, dug a winepress in it and built a watchtower. Then he rented the vineyard to some farmers and went away on a journey."
+  }, {
+    "verse" : "matthew,21,34",
+    "text" : "When the harvest time approached, he sent his servants to the tenants to collect his fruit."
+  }, {
+    "verse" : "matthew,21,35",
+    "text" : "\"The tenants seized his servants; they beat one, killed another, and stoned a third."
+  }, {
+    "verse" : "matthew,21,36",
+    "text" : "Then he sent other servants to them, more than the first time, and the tenants treated them the same way."
+  }, {
+    "verse" : "matthew,21,37",
+    "text" : "Last of all, he sent his son to them. 'They will respect my son,' he said."
+  }, {
+    "verse" : "matthew,21,38",
+    "text" : "\"But when the tenants saw the son, they said to each other, 'This is the heir. Come, let's kill him and take his inheritance.'"
+  }, {
+    "verse" : "matthew,21,39",
+    "text" : "So they took him and threw him out of the vineyard and killed him."
+  }, {
+    "verse" : "matthew,21,40",
+    "text" : "\"Therefore, when the owner of the vineyard comes, what will he do to those tenants?\""
+  }, {
+    "verse" : "matthew,21,41",
+    "text" : "\"He will bring those wretches to a wretched end,\" they replied, \"and he will rent the vineyard to other tenants, who will give him his share of the crop at harvest time.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,21,33-matthew,21,46",
     "id" : 195863,
@@ -10,7 +67,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 21:33-Matt 21:46\">21:33–46</a></b> This parable is based on <a class=\"bibleref\" href=\"/passage/?search=Isa 5:1\">Is. 5:1</a>, <a class=\"bibleref\" href=\"/passage/?search=Isa 5:2\">2</a> and possibly also <a class=\"bibleref\" href=\"/passage/?search=Ps 80:8-Ps 80:18\">Ps. 80:8–18</a>. The meaning is clear: the landowner is God, the vineyard is the kingdom of God (v. 43), the servants are the prophets, the son is Jesus, the tenants are the Jews who oppose Jesus, the killing of the son is the Crucifixion, and the removal of the tenants is the transferral of the kingdom to a new people of God that includes Gentiles.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,21,42", "matthew,21,43" ],
+  "verses" : [ {
+    "verse" : "matthew,21,42",
+    "text" : "Jesus said to them, \"Have you never read in the Scriptures: \"'The stone the builders rejected has become the capstone; the Lord has done this, and it is marvelous in our eyes'?"
+  }, {
+    "verse" : "matthew,21,43",
+    "text" : "\"Therefore I tell you that the kingdom of God will be taken away from you and given to a people who will produce its fruit."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,21,42",
     "id" : 195864,
@@ -18,7 +81,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 21:42\">21:42</a></b> In response to the challenge to His authority (<a class=\"bibleref\" href=\"/passage/?search=Matt 21:23\">v. 23</a>), Jesus quotes <a class=\"bibleref\" href=\"/passage/?search=Ps 118:22\">Ps. 118:22</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 118:23\">23</a> as evidence that His authority is given by God rather than derived from human institutions.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,21,44", "matthew,21,45", "matthew,21,46" ],
+  "verses" : [ {
+    "verse" : "matthew,21,44",
+    "text" : "He who falls on this stone will be broken to pieces, but he on whom it falls will be crushed.\""
+  }, {
+    "verse" : "matthew,21,45",
+    "text" : "When the chief priests and the Pharisees heard Jesus' parables, they knew he was talking about them."
+  }, {
+    "verse" : "matthew,21,46",
+    "text" : "They looked for a way to arrest him, but they were afraid of the crowd because the people held that he was a prophet."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,21,44",
     "id" : 195865,

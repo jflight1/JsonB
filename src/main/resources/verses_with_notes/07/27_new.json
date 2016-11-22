@@ -1,5 +1,17 @@
 [ {
-  "singleVerses" : [ "romans,10,14", "romans,10,15", "romans,10,16", "romans,10,17" ],
+  "verses" : [ {
+    "verse" : "romans,10,14",
+    "text" : "How, then, can they call on the one they have not believed in? And how can they believe in the one of whom they have not heard? And how can they hear without someone preaching to them?"
+  }, {
+    "verse" : "romans,10,15",
+    "text" : "And how can they preach unless they are sent? As it is written, \"How beautiful are the feet of those who bring good news!\""
+  }, {
+    "verse" : "romans,10,16",
+    "text" : "But not all the Israelites accepted the good news. For Isaiah says, \"Lord, who has believed our message?\""
+  }, {
+    "verse" : "romans,10,17",
+    "text" : "Consequently, faith comes from hearing the message, and the message is heard through the word of Christ."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,10,14-romans,10,15",
     "id" : 197861,
@@ -12,7 +24,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 10:14\">10:14</a></b> <b>him in whom.</b> Lit. “Him whom,” an indication that for Paul, Christ Himself is the one true preacher of the gospel (cf. <a class=\"bibleref\" href=\"/passage/?search=Eph 2:17\">Eph. 2:17</a>; <a class=\"bibleref\" href=\"/passage/?search=John 10:16\">John 10:16</a>). The ministry of preaching Christ is therefore one of great honor, hence the quotation from <a class=\"bibleref\" href=\"/passage/?search=Isa 52:7\">Is. 52:7</a> (<a class=\"bibleref\" href=\"/passage/?search=2Cor 5:18-2Cor 5:20\">2 Cor. 5:18–20</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,10,18" ],
+  "verses" : [ {
+    "verse" : "romans,10,18",
+    "text" : "But I ask: Did they not hear? Of course they did: \"Their voice has gone out into all the earth, their words to the ends of the world.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,10,18",
     "id" : 197863,
@@ -20,7 +35,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 10:18\">10:18</a></b> <b>Their voice has gone out to all the earth.</b> The immediate context of the citation from <a class=\"bibleref\" href=\"/passage/?search=Ps 19:4\">Ps. 19:4</a> is that of God’s general revelation (<a class=\"bibleref\" href=\"/passage/?search=Ps 19:1-Ps 19:3\">Ps. 19:1–3</a>). Paul’s use of it to prove from Scripture that Israel has heard the message of God implies that his quotation of this section of the psalm carries with it the teaching of the entire psalm, which speaks of both general revelation in nature and special revelation in His word. The latter takes place in the context of the former. The underlying logic may be: If those without special revelation have “heard” the message of God’s glory in creation, how much more have those who received special revelation heard that message.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,10,19", "romans,10,20", "romans,10,21" ],
+  "verses" : [ {
+    "verse" : "romans,10,19",
+    "text" : "Again I ask: Did Israel not understand? First, Moses says, \"I will make you envious by those who are not a nation; I will make you angry by a nation that has no understanding.\""
+  }, {
+    "verse" : "romans,10,20",
+    "text" : "And Isaiah boldly says, \"I was found by those who did not seek me; I revealed myself to those who did not ask for me.\""
+  }, {
+    "verse" : "romans,10,21",
+    "text" : "But concerning Israel he says, \"All day long I have held out my hands to a disobedient and obstinate people.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,10,19-romans,10,21",
     "id" : 197864,
@@ -28,7 +52,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 10:19-Rom 10:21\">10:19–21</a></b> The failure of the Jews cannot be excused because they did not hear the message, or because they could not understand it. Moses and Isaiah contrast God’s own people with those who lack understanding (<a class=\"bibleref\" href=\"/passage/?search=Deut 32:21\">Deut. 32:21</a>), and with those who were not God-seekers but who were brought to know Him (<a class=\"bibleref\" href=\"/passage/?search=Isa 65:1\">Is. 65:1</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,11,1" ],
+  "verses" : [ {
+    "verse" : "romans,11,1",
+    "text" : "I ask then: Did God reject his people? By no means! I am an Israelite myself, a descendant of Abraham, from the tribe of Benjamin."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,11,1-romans,11,10",
     "id" : 197865,
@@ -41,7 +68,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 11:1\">11:1</a></b> <b>has God rejected.</b> The verb conveys the sense of vigorous pushing away from Himself. The form of the question in Greek anticipates a negative answer.</p><p><b>I myself am an Israelite.</b> See <a class=\"bibleref\" href=\"/passage/?search=Phil 3:5\">Phil. 3:5</a>, <a class=\"bibleref\" href=\"/passage/?search=Phil 3:6\">6</a>. Paul’s impeccable lineage is traced back to Abraham, the great patriarch, but also to Benjamin, the only son of Jacob to be born in Israel. It was the tribe in whose territory Jerusalem was and also the tribe of Saul, the first king.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,11,2", "romans,11,3", "romans,11,4" ],
+  "verses" : [ {
+    "verse" : "romans,11,2",
+    "text" : "God did not reject his people, whom he foreknew. Don't you know what the Scripture says in the passage about Elijah--how he appealed to God against Israel:"
+  }, {
+    "verse" : "romans,11,3",
+    "text" : "\"Lord, they have killed your prophets and torn down your altars; I am the only one left, and they are trying to kill me\"?"
+  }, {
+    "verse" : "romans,11,4",
+    "text" : "And what was God's answer to him? \"I have reserved for myself seven thousand who have not bowed the knee to Baal.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,11,2",
     "id" : 197867,
@@ -49,7 +85,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 11:2\">11:2</a></b> <b>whom he foreknew.</b> Paul hints that God’s special love and gracious choice of them makes it unthinkable that He should finally reject them as a people, even though they have now rejected Him by rejecting Christ.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,11,5" ],
+  "verses" : [ {
+    "verse" : "romans,11,5",
+    "text" : "So too, at the present time there is a remnant chosen by grace."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,11,5",
     "id" : 197868,
@@ -57,7 +96,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 11:5\">11:5 a</a></b> <b>remnant, chosen by grace.</b> In Elijah’s time there was wholesale apostasy, and yet the presence of a remnant of the faithful indicated that God had not fully and finally rejected His people. Paul’s thinking about the remnant is rooted in the teaching of Isaiah, whose son Shear-jashub’s name means “a remnant shall return” (<a class=\"bibleref\" href=\"/passage/?search=Isa 7:3\">Is. 7:3</a> and text note; cf. 9:27; <a class=\"bibleref\" href=\"/passage/?search=Isa 1:9\">Is. 1:9</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 6:13\">6:13</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 10:20-Isa 10:22\">10:20–22</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 11:11-Isa 11:16\">11:11–16</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,11,6", "romans,11,7" ],
+  "verses" : [ {
+    "verse" : "romans,11,6",
+    "text" : "And if by grace, then it is no longer by works; if it were, grace would no longer be grace."
+  }, {
+    "verse" : "romans,11,7",
+    "text" : "What then? What Israel sought so earnestly it did not obtain, but the elect did. The others were hardened,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,11,6",
     "id" : 197869,
@@ -65,7 +110,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 11:6\">11:6</a></b> <b>But if it is by grace, it is no longer on the basis of works.</b> Again the way of grace is contrasted with works of the law (<a class=\"bibleref\" href=\"/passage/?search=Rom 3:20\">3:20</a>, <a class=\"bibleref\" href=\"/passage/?search=Rom 3:27\">27</a>, <a class=\"bibleref\" href=\"/passage/?search=Rom 3:28\">28</a>; <a class=\"bibleref\" href=\"/passage/?search=Rom 4:2\">4:2</a>, <a class=\"bibleref\" href=\"/passage/?search=Rom 4:6\">6</a>; <a class=\"bibleref\" href=\"/passage/?search=Rom 9:12\">9:12</a>, <a class=\"bibleref\" href=\"/passage/?search=Rom 9:32\">32</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,11,8", "romans,11,9", "romans,11,10" ],
+  "verses" : [ {
+    "verse" : "romans,11,8",
+    "text" : "as it is written: \"God gave them a spirit of stupor, eyes so that they could not see and ears so that they could not hear, to this very day.\""
+  }, {
+    "verse" : "romans,11,9",
+    "text" : "And David says: \"May their table become a snare and a trap, a stumbling block and a retribution for them."
+  }, {
+    "verse" : "romans,11,10",
+    "text" : "May their eyes be darkened so they cannot see, and their backs be bent forever.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,11,8-romans,11,10",
     "id" : 197870,
@@ -73,7 +127,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 11:8-Rom 11:10\">11:8–10</a></b> The passages cited (<a class=\"bibleref\" href=\"/passage/?search=Deut 29:4\">Deut. 29:4</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 29:10\">Is. 29:10</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 69:22\">Ps. 69:22</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 69:23\">23</a>) describe a biblical pattern of divine activity in the judicial hardening of hearts—a pattern Paul sees repeated in his own day.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,11,11" ],
+  "verses" : [ {
+    "verse" : "romans,11,11",
+    "text" : "Again I ask: Did they stumble so as to fall beyond recovery? Not at all! Rather, because of their transgression, salvation has come to the Gentiles to make Israel envious."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,11,11-romans,11,24",
     "id" : 197871,
@@ -86,7 +143,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 11:11\">11:11</a></b> <b>did they stumble in order that they might fall.</b> Once again the form of Paul’s question anticipates (and receives) a negative answer. The Jews’ rejection of Christ is not irreversible. Paul sees a divine pattern and purpose behind the unbelief of which the Jews are guilty. The pattern of his thought in <a class=\"bibleref\" href=\"/passage/?search=Rom 11:11\">v. 11</a>, therefore, is as follows: (a) the transgression of the Jews has led to the justification of the Gentiles; (b) the salvation of the Gentiles will cause the Jews to envy; (c) the envy of the Jews will draw them to the same salvation as the Gentiles.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,11,12" ],
+  "verses" : [ {
+    "verse" : "romans,11,12",
+    "text" : "But if their transgression means riches for the world, and their loss means riches for the Gentiles, how much greater riches will their fullness bring!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,11,12",
     "id" : 197873,

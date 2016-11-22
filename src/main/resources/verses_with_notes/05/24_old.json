@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "2samuel,4,1" ],
+  "verses" : [ {
+    "verse" : "2samuel,4,1",
+    "text" : "When Ish-Bosheth son of Saul heard that Abner had died in Hebron, he lost courage, and all Israel became alarmed."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,4,1",
     "id" : 187775,
@@ -7,7 +10,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 4:1\">4:1</a></b> <b>Abner had died.</b> The death of Abner affected Ish-bosheth and “all Israel” the same way, but for different reasons. Ish-bosheth’s “courage failed” because he knew that Abner’s death meant the loss of the backbone of his government. Israel, on the other hand, “was dismayed” by what may have appeared as a rejection of their friendly overture to David (<a class=\"bibleref\" href=\"/passage/?search=2Sam 3:17-2Sam 3:21\">3:17–21</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,4,2" ],
+  "verses" : [ {
+    "verse" : "2samuel,4,2",
+    "text" : "Now Saul's son had two men who were leaders of raiding bands. One was named Baanah and the other Recab; they were sons of Rimmon the Beerothite from the tribe of Benjamin-Beeroth is considered part of Benjamin,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,4,2",
     "id" : 187776,
@@ -15,7 +21,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 4:2\">4:2</a></b> <b>part of Benjamin.</b> The Benjaminite origin of Ish-bosheth’s assassins is stressed (two verses are dedicated to establishing it), perhaps to show that disenchantment with the house of Saul extended even into his own tribe.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,4,3" ],
+  "verses" : [ {
+    "verse" : "2samuel,4,3",
+    "text" : "because the people of Beeroth fled to Gittaim and have lived there as aliens to this day."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,4,3",
     "id" : 187777,
@@ -23,7 +32,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 4:3\">4:3</a></b> <b>the Beerothites fled to Gittaim.</b> Although Beeroth was one of the four major cities of the Gibeonites (an Amorite people who duped Joshua into making a peace treaty with them; <a class=\"bibleref\" href=\"/passage/?search=Josh 9:17\">Josh. 9:17</a>), <a class=\"bibleref\" href=\"/passage/?search=Josh 18:25\">Josh. 18:25</a> indicates that the town was allotted to Benjamin. King Saul had attempted to annihilate the Gibeonites (21:1, 2), and this aggression may explain the flight of the Beerothites to Gittaim.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,4,4", "2samuel,4,5", "2samuel,4,6", "2samuel,4,7", "2samuel,4,8" ],
+  "verses" : [ {
+    "verse" : "2samuel,4,4",
+    "text" : "(Jonathan son of Saul had a son who was lame in both feet. He was five years old when the news about Saul and Jonathan came from Jezreel. His nurse picked him up and fled, but as she hurried to leave, he fell and became crippled. His name was Mephibosheth.)"
+  }, {
+    "verse" : "2samuel,4,5",
+    "text" : "Now Recab and Baanah, the sons of Rimmon the Beerothite, set out for the house of Ish-Bosheth, and they arrived there in the heat of the day while he was taking his noonday rest."
+  }, {
+    "verse" : "2samuel,4,6",
+    "text" : "They went into the inner part of the house as if to get some wheat, and they stabbed him in the stomach. Then Recab and his brother Baanah slipped away."
+  }, {
+    "verse" : "2samuel,4,7",
+    "text" : "They had gone into the house while he was lying on the bed in his bedroom. After they stabbed and killed him, they cut off his head. Taking it with them, they traveled all night by way of the Arabah."
+  }, {
+    "verse" : "2samuel,4,8",
+    "text" : "They brought the head of Ish-Bosheth to David at Hebron and said to the king, \"Here is the head of Ish-Bosheth son of Saul, your enemy, who tried to take your life. This day the LORD has avenged my lord the king against Saul and his offspring.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,4,4",
     "id" : 187778,
@@ -31,7 +55,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 4:4\">4:4</a></b> <b>news about Saul and Jonathan.</b> That is, of their deaths (<a class=\"bibleref\" href=\"/passage/?search=1Sam 31\">1 Sam. 31</a>).</p><p><b>Mephibosheth.</b> Mephibosheth will appear again in 9:6–13; 16:1–4; 19:24–30; 21:7 (21:8 mentions a different Mephibosheth).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,4,9", "2samuel,4,10", "2samuel,4,11" ],
+  "verses" : [ {
+    "verse" : "2samuel,4,9",
+    "text" : "David answered Recab and his brother Baanah, the sons of Rimmon the Beerothite, \"As surely as the LORD lives, who has delivered me out of all trouble,"
+  }, {
+    "verse" : "2samuel,4,10",
+    "text" : "when a man told me, 'Saul is dead,' and thought he was bringing good news, I seized him and put him to death in Ziklag. That was the reward I gave him for his news!"
+  }, {
+    "verse" : "2samuel,4,11",
+    "text" : "How much more-when wicked men have killed an innocent man in his own house and on his own bed-should I not now demand his blood from your hand and rid the earth of you!\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,4,9",
     "id" : 187779,
@@ -39,7 +72,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 4:9\">4:9</a></b> <b>who has redeemed my life out of every adversity.</b> Whereas Rechab and Baanah have tried to portray themselves as agents of the Lord’s judgment against Saul (<a class=\"bibleref\" href=\"/passage/?search=2Sam 4:8\">v. 8</a>), David’s response makes clear that with the Lord as his deliverer David has no need of human assistance.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,4,12" ],
+  "verses" : [ {
+    "verse" : "2samuel,4,12",
+    "text" : "So David gave an order to his men, and they killed them. They cut off their hands and feet and hung the bodies by the pool in Hebron. But they took the head of Ish-Bosheth and buried it in Abner's tomb at Hebron."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,4,12",
     "id" : 187780,
@@ -47,7 +83,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 4:12\">4:12</a></b> <b>And David commanded.</b> David shows none of the hesitation to act in this instance that he had shown in the case of Joab (<a class=\"bibleref\" href=\"/passage/?search=2Sam 3:29\">3:29</a> note).</p><p><b>cut off their hands and feet.</b> Mutilation of this sort was not uncommon in the ancient Near East.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,5,1" ],
+  "verses" : [ {
+    "verse" : "2samuel,5,1",
+    "text" : "All the tribes of Israel came to David at Hebron and said, \"We are your own flesh and blood."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,5,1",
     "id" : 187781,
@@ -55,7 +94,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 5:1\">5:1</a></b> <b>all the tribes of Israel.</b> That is, their leaders; cf. “all the elders” in <a class=\"bibleref\" href=\"/passage/?search=2Sam 5:3\">v. 3</a>. It has been suggested that the Hebrew word here translated “tribes” may also mean ‘‘rulers.”</p><p><b>your bone and flesh.</b> This is an expression of kinship (<a class=\"bibleref\" href=\"/passage/?search=2Sam 19:12-2Sam 19:13\">19:12–13</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 29:14\">Gen. 29:14</a>; <a class=\"bibleref\" href=\"/passage/?search=Judg 9:2\">Judg. 9:2</a>) and the first of three reasons given by the Israelites in vv. 1, 2 for wanting to make David king.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,5,2" ],
+  "verses" : [ {
+    "verse" : "2samuel,5,2",
+    "text" : "In the past, while Saul was king over us, you were the one who led Israel on their military campaigns. And the LORD said to you, 'You will shepherd my people Israel, and you will become their ruler.'\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,5,2",
     "id" : 187782,
@@ -63,7 +105,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 5:2\">5:2</a></b> <b>led out and brought in Israel.</b> An idiom for leading military campaigns (<a class=\"bibleref\" href=\"/passage/?search=1Sam 18:13\">1 Sam. 18:13</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 18:16\">16</a>). The second reason for wanting to make David king was his military success (<a class=\"bibleref\" href=\"/passage/?search=1Sam 17:32\">1 Sam. 17:32</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 17:45-1Sam 17:47\">45–47</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 18:7\">18:7</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 25:28\">25:28</a>).</p><p><b>the <span class=\"small-caps\">Lord</span> said to you.</b> The third reason is David’s divine appointment (<a class=\"bibleref\" href=\"/passage/?search=1Sam 16:1\">1 Sam. 16:1</a> note).</p><p><b>shepherd.</b> This designation is often used metaphorically in the Bible, either for God (<a class=\"bibleref\" href=\"/passage/?search=Gen 49:24\">Gen. 49:24</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 23:1\">Ps. 23:1</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 80:1\">80:1</a>; etc.), for His Son Jesus (<a class=\"bibleref\" href=\"/passage/?search=John 10:11\">John 10:11</a>; <a class=\"bibleref\" href=\"/passage/?search=Heb 13:20\">Heb. 13:20</a>; <a class=\"bibleref\" href=\"/passage/?search=1Pet 5:4\">1 Pet. 5:4</a>; <a class=\"bibleref\" href=\"/passage/?search=Rev 7:17\">Rev. 7:17</a>; etc.), or for divinely appointed human leaders (7:7; <a class=\"bibleref\" href=\"/passage/?search=Num 27:15-Num 27:17\">Num. 27:15–17</a>; etc.). The image is one of intimate, caring leadership (v. 12 note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,5,3" ],
+  "verses" : [ {
+    "verse" : "2samuel,5,3",
+    "text" : "When all the elders of Israel had come to King David at Hebron, the king made a compact with them at Hebron before the LORD, and they anointed David king over Israel."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,5,3",
     "id" : 187783,
@@ -71,7 +116,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 5:3\">5:3</a></b> <b>King David made a covenant.</b> See <a class=\"bibleref\" href=\"/passage/?search=2Sam 3:21\">3:21</a>. The covenant establishing David’s rule over the northern tribes likely consisted of regulations for the kingship (cf. <a class=\"bibleref\" href=\"/passage/?search=1Sam 10:25\">1 Sam. 10:25</a>), including their rights and responsibilities to one another and to the Lord (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 11:17\">2 Kin. 11:17</a>). That this covenant did not end the sense of separate identity felt by Israel and Judah is evident in the revolt of Sheba (20:1) and particularly in the dissolution of the united kingdom under Rehoboam (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 12:16\">1 Kin. 12:16</a>).</p><p><b>they anointed David.</b> See note 2:4.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,5,4", "2samuel,5,5" ],
+  "verses" : [ {
+    "verse" : "2samuel,5,4",
+    "text" : "David was thirty years old when he became king, and he reigned forty years."
+  }, {
+    "verse" : "2samuel,5,5",
+    "text" : "In Hebron he reigned over Judah seven years and six months, and in Jerusalem he reigned over all Israel and Judah thirty-three years."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,5,4-2samuel,5,5",
     "id" : 187784,
@@ -79,7 +130,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 5:4\">5:4</a>, <a class=\"bibleref\" href=\"/passage/?search=2Sam 5:5\">5</a></b> In the Old Testament, a stereotyped formula often introduces the account of a king’s official tenure in office (e.g., <a class=\"bibleref\" href=\"/passage/?search=1Sam 13:1\">1 Sam. 13:1</a>; <a class=\"bibleref\" href=\"/passage/?search=2Sam 2:10\">2 Sam. 2:10</a>; <a class=\"bibleref\" href=\"/passage/?search=1Kgs 14:21\">1 Kin. 14:21</a>; <a class=\"bibleref\" href=\"/passage/?search=1Kgs 22:42\">22:42</a>; etc.). In this case it appropriately marks David’s assumption of power over all Israel.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,5,6" ],
+  "verses" : [ {
+    "verse" : "2samuel,5,6",
+    "text" : "The king and his men marched to Jerusalem to attack the Jebusites, who lived there. The Jebusites said to David, \"You will not get in here; even the blind and the lame can ward you off.\" They thought, \"David cannot get in here.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,5,6",
     "id" : 187785,
@@ -87,7 +141,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 5:6\">5:6</a></b> <b>Jerusalem.</b> A city of great antiquity (occupied as early as the third millennium <span class=\"small-caps\">b.c.</span>), Jerusalem was in Benjamin, near the northern border of Judah. The city had earlier been conquered by Judah (<a class=\"bibleref\" href=\"/passage/?search=Judg 1:8\">Judg. 1:8</a>), but neither Judah nor Benjamin had been successful in permanently dislodging its Jebusite inhabitants (<a class=\"bibleref\" href=\"/passage/?search=Josh 15:63\">Josh. 15:63</a>; <a class=\"bibleref\" href=\"/passage/?search=Judg 1:21\">Judg. 1:21</a>). David may well have thought that Jerusalem’s strategic location and relatively independent status made the city well suited to the establishment of a national capital that would not imply favoritism to any particular region.</p><p><b>Jebusites . . . said to David.</b> The Jebusites’ taunt, whether suggestive of overconfidence or simply of a determination to fight to the last man (even be he blind or lame), reflects the hostility between the Jebusites and David (see v. 8; <a class=\"bibleref\" href=\"/passage/?search=1Sam 17:54\">1 Sam. 17:54</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,5,7", "2samuel,5,8", "2samuel,5,9" ],
+  "verses" : [ {
+    "verse" : "2samuel,5,7",
+    "text" : "Nevertheless, David captured the fortress of Zion, the City of David."
+  }, {
+    "verse" : "2samuel,5,8",
+    "text" : "On that day, David said, \"Anyone who conquers the Jebusites will have to use the water shaft to reach those 'lame and blind' who are David's enemies. \"That is why they say, \"The 'blind and lame' will not enter the palace.\""
+  }, {
+    "verse" : "2samuel,5,9",
+    "text" : "David then took up residence in the fortress and called it the City of David. He built up the area around it, from the supporting terraces inward."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,5,7",
     "id" : 187786,
@@ -95,7 +158,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 5:7\">5:7</a></b> <b>stronghold of Zion.</b> This marks the first occurrence of “Zion” in the Bible and the only one in Samuel. The name originally designated a fortified mound located at the southern end of the Ophel ridge. Eventually the name came to be used in an extended sense for all of Jerusalem (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 19:21\">2 Kin. 19:21</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 2:3\">Is. 2:3</a>) and even for the entire nation of Israel (<a class=\"bibleref\" href=\"/passage/?search=Ps 149:2\">Ps. 149:2</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 46:13\">Is. 46:13</a>). The name occurs frequently in Israel’s poetic and prophetic literature, where it is often presented as the place of God’s mighty acts of salvation and judgment (e.g., <a class=\"bibleref\" href=\"/passage/?search=Ps 14:7\">Ps. 14:7</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 4:4\">Is. 4:4</a>; <a class=\"bibleref\" href=\"/passage/?search=Lam 4:11\">Lam. 4:11</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,5,10" ],
+  "verses" : [ {
+    "verse" : "2samuel,5,10",
+    "text" : "And he became more and more powerful, because the LORD God Almighty was with him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,5,10",
     "id" : 187787,
@@ -103,7 +169,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 5:10\">5:10</a></b> <b>became greater.</b> Just as <a class=\"bibleref\" href=\"/passage/?search=2Sam 3\">chs. 3</a> and <a class=\"bibleref\" href=\"/passage/?search=2Sam 4\">4</a> detail how “the house of Saul became weaker and weaker” (<a class=\"bibleref\" href=\"/passage/?search=2Sam 3:1\">3:1</a>; <a class=\"bibleref\" href=\"/passage/?search=2Sam 3:2-2Sam 3:11\">3:2–11</a> note), so <a class=\"bibleref\" href=\"/passage/?search=2Sam 5-2Sam 10\">chs. 5–10</a> show David growing “stronger and stronger” (<a class=\"bibleref\" href=\"/passage/?search=2Sam 3:1\">3:1</a>). The fundamental reason for David’s success is that the Lord was with him (see note <a class=\"bibleref\" href=\"/passage/?search=1Sam 16:18\">1 Sam. 16:18</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,5,11" ],
+  "verses" : [ {
+    "verse" : "2samuel,5,11",
+    "text" : "Now Hiram king of Tyre sent messengers to David, along with cedar logs and carpenters and stonemasons, and they built a palace for David."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,5,11",
     "id" : 187788,
@@ -111,7 +180,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 5:11\">5:11</a></b> <b>Hiram king of Tyre.</b> Tyre was a Phoenician port city about thirty-five miles north of Mount Carmel and twenty-five miles south of Sidon. Hiram’s generosity to David may have been motivated by the impressiveness of David’s recent accomplishments, but it also involved an element of self-interest. Tyre needed the inland trade routes now controlled by David and the agricultural produce of central Palestine (cf. <a class=\"bibleref\" href=\"/passage/?search=Ezra 3:7\">Ezra 3:7</a>). Hiram’s friendship with Israel continued well into Solomon’s reign (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 5:1-1Kgs 5:12\">1 Kin. 5:1–12</a>; <a class=\"bibleref\" href=\"/passage/?search=1Kgs 9:11\">9:11</a>; etc.).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,5,12" ],
+  "verses" : [ {
+    "verse" : "2samuel,5,12",
+    "text" : "And David knew that the LORD had established him as king over Israel and had exalted his kingdom for the sake of his people Israel."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,5,12",
     "id" : 187789,
@@ -119,7 +191,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 5:12\">5:12</a></b> <b>the <span class=\"small-caps\">Lord</span> had established him king.</b> See note on <a class=\"bibleref\" href=\"/passage/?search=2Sam 5:10\">v. 10</a>.</p><p><b>for the sake of his people Israel.</b> David understands not only that his kingship is dependent entirely upon God, but also that it is intended for the benefit of God’s people (<a class=\"bibleref\" href=\"/passage/?search=2Sam 5:2\">v. 2</a>; <a class=\"bibleref\" href=\"/passage/?search=2Sam 8:15\">8:15</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,5,13", "2samuel,5,14", "2samuel,5,15", "2samuel,5,16" ],
+  "verses" : [ {
+    "verse" : "2samuel,5,13",
+    "text" : "After he left Hebron, David took more concubines and wives in Jerusalem, and more sons and daughters were born to him."
+  }, {
+    "verse" : "2samuel,5,14",
+    "text" : "These are the names of the children born to him there: Shammua, Shobab, Nathan, Solomon,"
+  }, {
+    "verse" : "2samuel,5,15",
+    "text" : "Ibhar, Elishua, Nepheg, Japhia,"
+  }, {
+    "verse" : "2samuel,5,16",
+    "text" : "Elishama, Eliada and Eliphelet."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,5,13-2samuel,5,16",
     "id" : 187790,
@@ -127,7 +211,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 5:13-2Sam 5:16\">5:13–16</a></b> See <a class=\"bibleref\" href=\"/passage/?search=2Sam 3:2\">3:2</a> note, and the slightly longer list in <a class=\"bibleref\" href=\"/passage/?search=1Chr 14:3-1Chr 14:7\">1 Chr. 14:3–7</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,5,17" ],
+  "verses" : [ {
+    "verse" : "2samuel,5,17",
+    "text" : "When the Philistines heard that David had been anointed king over Israel, they went up in full force to search for him, but David heard about it and went down to the stronghold."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,5,17",
     "id" : 187791,
@@ -135,7 +222,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 5:17\">5:17</a></b> <b>When the Philistines heard.</b> While David’s reign over Judah had not been contested by the Philistines, the extension of his domain to the northern tribes posed a threat to Philistine interests that they could not ignore.</p><p><b>stronghold.</b> See <a class=\"bibleref\" href=\"/passage/?search=1Sam 23:14\">1 Sam. 23:14</a> note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,5,18" ],
+  "verses" : [ {
+    "verse" : "2samuel,5,18",
+    "text" : "Now the Philistines had come and spread out in the Valley of Rephaim;"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,5,18",
     "id" : 187792,
@@ -143,7 +233,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 5:18\">5:18</a></b> <b>Valley of Rephaim.</b> This valley begins a few miles southwest of Jerusalem and descends in a westward direction toward Philistine territory (<a class=\"bibleref\" href=\"/passage/?search=2Sam 21:16\">21:16</a> note; <a class=\"bibleref\" href=\"/passage/?search=2Sam 23:13\">23:13</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 15:8\">Josh. 15:8</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 18:16\">18:16</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,5,19" ],
+  "verses" : [ {
+    "verse" : "2samuel,5,19",
+    "text" : "so David inquired of the LORD, \"Shall I go and attack the Philistines? Will you hand them over to me?\" The LORD answered him, \"Go, for I will surely hand the Philistines over to you.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,5,19",
     "id" : 187793,
@@ -151,7 +244,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 5:19\">5:19</a></b> <b>David inquired of the <span class=\"small-caps\">Lord.</span></b> See note <a class=\"bibleref\" href=\"/passage/?search=2Sam 2:1\">2:1</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,5,20" ],
+  "verses" : [ {
+    "verse" : "2samuel,5,20",
+    "text" : "So David went to Baal Perazim, and there he defeated them. He said, \"As waters break out, the LORD has broken out against my enemies before me.\" So that place was called Baal Perazim."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,5,20",
     "id" : 187794,
@@ -159,7 +255,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 5:20\">5:20</a></b> <b>Baal-perazim.</b> Baal-perazim has been identified with a site three miles southwest of Jerusalem.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,5,21", "2samuel,5,22", "2samuel,5,23" ],
+  "verses" : [ {
+    "verse" : "2samuel,5,21",
+    "text" : "The Philistines abandoned their idols there, and David and his men carried them off."
+  }, {
+    "verse" : "2samuel,5,22",
+    "text" : "Once more the Philistines came up and spread out in the Valley of Rephaim;"
+  }, {
+    "verse" : "2samuel,5,23",
+    "text" : "so David inquired of the LORD, and he answered, \"Do not go straight up, but circle around behind them and attack them in front of the balsam trees."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,5,21",
     "id" : 187795,
@@ -167,7 +272,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 5:21\">5:21</a></b> <b>left their idols.</b> David inflicts on the Philistines a loss similar to what Israel suffered with the capture of the ark in <a class=\"bibleref\" href=\"/passage/?search=1Sam 4\">1 Sam. 4</a>.</p><p><b>carried them away.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Sam 5:2\">1 Sam. 5:2</a>; <a class=\"bibleref\" href=\"/passage/?search=1Chr 14:12\">1 Chr. 14:12</a> says that David burned them.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,5,24" ],
+  "verses" : [ {
+    "verse" : "2samuel,5,24",
+    "text" : "As soon as you hear the sound of marching in the tops of the balsam trees, move quickly, because that will mean the LORD has gone out in front of you to strike the Philistine army.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,5,24",
     "id" : 187796,
@@ -175,7 +283,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 5:24\">5:24</a></b> <b>the <span class=\"small-caps\">Lord</span> has gone out before you.</b> The Lord is a warrior (<a class=\"bibleref\" href=\"/passage/?search=Exod 15:3\">Ex. 15:3</a>) who goes before His people to fight for them (<a class=\"bibleref\" href=\"/passage/?search=Exod 14:14\">Ex. 14:14</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 1:30\">Deut. 1:30</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,5,25", "2samuel,6,1" ],
+  "verses" : [ {
+    "verse" : "2samuel,5,25",
+    "text" : "So David did as the LORD commanded him, and he struck down the Philistines all the way from Gibeon to Gezer."
+  }, {
+    "verse" : "2samuel,6,1",
+    "text" : "David again brought together out of Israel chosen men, thirty thousand in all."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,5,25",
     "id" : 187797,
@@ -183,7 +297,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 5:25\">5:25</a></b> <b>from Geba to Gezer.</b> David’s rout of the Philistines was far more decisive than Jonathan’s (<a class=\"bibleref\" href=\"/passage/?search=1Sam 14:31\">1 Sam. 14:31</a>). Defeating the Philistines in particular (8:1) was of special significance (3:18; 19:9; <a class=\"bibleref\" href=\"/passage/?search=1Chr 14:17\">1 Chr. 14:17</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=1Sam 9:16\">1 Sam 9:16</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,6,2" ],
+  "verses" : [ {
+    "verse" : "2samuel,6,2",
+    "text" : "He and all his men set out from Baalah of Judah to bring up from there the ark of God, which is called by the Name, the name of the LORD Almighty, who is enthroned between the cherubim that are on the ark."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,6,2",
     "id" : 187798,
@@ -191,7 +308,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 6:2\">6:2</a></b> <b>Baale-judah.</b> See note on <a class=\"bibleref\" href=\"/passage/?search=1Sam 6:21\">1 Sam. 6:21</a>.</p><p><b>ark of God.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Sam 3:3\">1 Sam. 3:3</a>.</p><p><b>the name.</b> See <a class=\"bibleref\" href=\"/passage/?search=1Sam 17:45\">1 Sam. 17:45</a> and note; cf. <a class=\"bibleref\" href=\"/passage/?search=Deut 12:5\">Deut. 12:5</a>, <a class=\"bibleref\" href=\"/passage/?search=Deut 12:11\">11</a>, <a class=\"bibleref\" href=\"/passage/?search=Deut 12:21\">21</a>.</p><p><b><span class=\"small-caps\">Lord</span> of hosts.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Sam 1:3\">1 Sam. 1:3</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,6,3", "2samuel,6,4", "2samuel,6,5", "2samuel,6,6" ],
+  "verses" : [ {
+    "verse" : "2samuel,6,3",
+    "text" : "They set the ark of God on a new cart and brought it from the house of Abinadab, which was on the hill. Uzzah and Ahio, sons of Abinadab, were guiding the new cart"
+  }, {
+    "verse" : "2samuel,6,4",
+    "text" : "with the ark of God on it, and Ahio was walking in front of it."
+  }, {
+    "verse" : "2samuel,6,5",
+    "text" : "David and the whole house of Israel were celebrating with all their might before the LORD, with songs and with harps, lyres, tambourines, sistrums and cymbals."
+  }, {
+    "verse" : "2samuel,6,6",
+    "text" : "When they came to the threshing floor of Nacon, Uzzah reached out and took hold of the ark of God, because the oxen stumbled."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,6,3",
     "id" : 187799,
@@ -199,7 +328,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 6:3\">6:3</a></b> <b>new cart.</b> This mode of transporting the ark recalls the Philistine precedent set in <a class=\"bibleref\" href=\"/passage/?search=1Sam 6:7\">1 Sam. 6:7</a> but neglects the divine directive that the ark, equipped with rings and poles (<a class=\"bibleref\" href=\"/passage/?search=Exod 25:12-Exod 25:14\">Ex. 25:12–14</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 37:5\">37:5</a>), is to be carried on the shoulders of priests (<a class=\"bibleref\" href=\"/passage/?search=Num 4:15\">Num. 4:15</a>, <a class=\"bibleref\" href=\"/passage/?search=Num 4:19\">19</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 7:9\">7:9</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 10:8\">Deut. 10:8</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 3:8\">Josh. 3:8</a>; etc.).</p><p><b>house of Abinadab.</b> See <a class=\"bibleref\" href=\"/passage/?search=1Sam 7:1\">1 Sam. 7:1</a>.</p><p><b>Uzzah and Ahio.</b> While attempts have been made to identify Uzzah with Eleazar in <a class=\"bibleref\" href=\"/passage/?search=1Sam 7:1\">1 Sam. 7:1</a>, it is more likely that the two sons mentioned here were brothers of Eleazar, or possibly even grandsons of Abinadab. The Hebrew word “son” can also mean “descendant.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,6,7" ],
+  "verses" : [ {
+    "verse" : "2samuel,6,7",
+    "text" : "The LORD's anger burned against Uzzah because of his irreverent act; therefore God struck him down and he died there beside the ark of God."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,6,7",
     "id" : 187800,
@@ -207,7 +339,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 6:7\">6:7</a></b> <b>because of his error.</b> The Hebrew here is difficult, but compare the explanation given in <a class=\"bibleref\" href=\"/passage/?search=1Chr 13:10\">1 Chr. 13:10</a>, “because he put out his hand to the ark.” It may be that the punishment relates not only to Uzzah’s touching the ark, but, more importantly, to the irregular way the ark was being carried (v. 3 note; <a class=\"bibleref\" href=\"/passage/?search=1Chr 15:13-1Chr 15:15\">1 Chr. 15:13–15</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,6,8", "2samuel,6,9" ],
+  "verses" : [ {
+    "verse" : "2samuel,6,8",
+    "text" : "Then David was angry because the LORD's wrath had broken out against Uzzah, and to this day that place is called Perez Uzzah."
+  }, {
+    "verse" : "2samuel,6,9",
+    "text" : "David was afraid of the LORD that day and said, \"How can the ark of the LORD ever come to me?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,6,8",
     "id" : 187801,
@@ -215,7 +353,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 6:8\">6:8</a></b> <b>David was angry.</b> The reader is not told whether the main cause of David’s anger was Uzzah’s death, Uzzah’s recklessness, or his own cavalier handling of the ark.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,6,10", "2samuel,6,11", "2samuel,6,12" ],
+  "verses" : [ {
+    "verse" : "2samuel,6,10",
+    "text" : "He was not willing to take the ark of the LORD to be with him in the City of David. Instead, he took it aside to the house of Obed-Edom the Gittite."
+  }, {
+    "verse" : "2samuel,6,11",
+    "text" : "The ark of the LORD remained in the house of Obed-Edom the Gittite for three months, and the LORD blessed him and his entire household."
+  }, {
+    "verse" : "2samuel,6,12",
+    "text" : "Now King David was told, \"The LORD has blessed the household of Obed-Edom and everything he has, because of the ark of God.\" So David went down and brought up the ark of God from the house of Obed-Edom to the City of David with rejoicing."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,6,10",
     "id" : 187802,
@@ -223,7 +370,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 6:10\">6:10</a></b> <b>Obed-edom the Gittite.</b> That is, a man of Gath. Whether the reference is to the Philistine city of Gath (<a class=\"bibleref\" href=\"/passage/?search=1Sam 4:1\">1 Sam. 4:1</a> note; 5:8 note) or to Gath Rimmon (a Levitical city in Dan or Manasseh; <a class=\"bibleref\" href=\"/passage/?search=Josh 21:23-Josh 21:25\">Josh. 21:23–25</a>) is uncertain. Obed-edom is frequently referred to as a Levite in Chronicles (e.g., <a class=\"bibleref\" href=\"/passage/?search=1Chr 15:17-1Chr 15:25\">1 Chr. 15:17–25</a>; <a class=\"bibleref\" href=\"/passage/?search=1Chr 16:5\">16:5</a>, <a class=\"bibleref\" href=\"/passage/?search=1Chr 16:38\">38</a>; <a class=\"bibleref\" href=\"/passage/?search=1Chr 26:4\">26:4</a>, <a class=\"bibleref\" href=\"/passage/?search=1Chr 26:5\">5</a>, <a class=\"bibleref\" href=\"/passage/?search=1Chr 26:8\">8</a>, <a class=\"bibleref\" href=\"/passage/?search=1Chr 26:15\">15</a>; <a class=\"bibleref\" href=\"/passage/?search=2Chr 25:24\">2 Chr. 25:24</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,6,13" ],
+  "verses" : [ {
+    "verse" : "2samuel,6,13",
+    "text" : "When those who were carrying the ark of the LORD had taken six steps, he sacrificed a bull and a fattened calf."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,6,13",
     "id" : 187803,
@@ -231,7 +381,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 6:13\">6:13</a></b> <b>bore the ark.</b> This time the ark is transported according to the Mosaic legislation (<a class=\"bibleref\" href=\"/passage/?search=2Sam 6:3\">vv. 3</a>, <a class=\"bibleref\" href=\"/passage/?search=2Sam 6:7\">7</a> and notes).</p><p><b>he sacrificed.</b> David’s sacrifice is perhaps a symbol of thanksgiving and intercession—thanksgiving that the procession has begun with God’s blessing, and intercession that it may so continue.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,6,14", "2samuel,6,15" ],
+  "verses" : [ {
+    "verse" : "2samuel,6,14",
+    "text" : "David, wearing a linen ephod, danced before the LORD with all his might,"
+  }, {
+    "verse" : "2samuel,6,15",
+    "text" : "while he and the entire house of Israel brought up the ark of the LORD with shouts and the sound of trumpets."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,6,14",
     "id" : 187804,
@@ -239,7 +395,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 6:14\">6:14</a></b> <b>linen ephod.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Sam 2:18\">1 Sam. 2:18</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,6,16" ],
+  "verses" : [ {
+    "verse" : "2samuel,6,16",
+    "text" : "As the ark of the LORD was entering the City of David, Michal daughter of Saul watched from a window. And when she saw King David leaping and dancing before the LORD, she despised him in her heart."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,6,16",
     "id" : 187805,
@@ -247,7 +406,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 6:16\">6:16</a></b> <b>she despised him.</b> Suggestions about the cause of Michal’s displeasure are given only later, in <a class=\"bibleref\" href=\"/passage/?search=2Sam 6:20-2Sam 6:22\">vv. 20–22</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,6,17", "2samuel,6,18", "2samuel,6,19" ],
+  "verses" : [ {
+    "verse" : "2samuel,6,17",
+    "text" : "They brought the ark of the LORD and set it in its place inside the tent that David had pitched for it, and David sacrificed burnt offerings and fellowship offerings before the LORD."
+  }, {
+    "verse" : "2samuel,6,18",
+    "text" : "After he had finished sacrificing the burnt offerings and fellowship offerings, he blessed the people in the name of the LORD Almighty."
+  }, {
+    "verse" : "2samuel,6,19",
+    "text" : "Then he gave a loaf of bread, a cake of dates and a cake of raisins to each person in the whole crowd of Israelites, both men and women. And all the people went to their homes."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,6,17",
     "id" : 187806,
@@ -255,7 +423,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 6:17\">6:17</a></b> <b>burnt offerings and peace offerings.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Sam 10:8\">1 Sam. 10:8</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,6,20" ],
+  "verses" : [ {
+    "verse" : "2samuel,6,20",
+    "text" : "When David returned home to bless his household, Michal daughter of Saul came out to meet him and said, \"How the king of Israel has distinguished himself today, disrobing in the sight of the slave girls of his servants as any vulgar fellow would!\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,6,20",
     "id" : 187807,
@@ -263,7 +434,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 6:20\">6:20</a></b> <b>How the king of Israel honored himself today.</b> Michal’s comment is heavy with sarcasm. She mentions his being king, his immodesty, and his other women. Her jealousy may have been aroused because her father had been displaced by David.</p><p><b>uncovering.</b> David had taken off his robes and had worn only a linen ephod (<a class=\"bibleref\" href=\"/passage/?search=2Sam 6:14\">v. 14</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,6,21" ],
+  "verses" : [ {
+    "verse" : "2samuel,6,21",
+    "text" : "David said to Michal, \"It was before the LORD, who chose me rather than your father or anyone from his house when he appointed me ruler over the LORD's people Israel-I will celebrate before the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,6,21",
     "id" : 187808,
@@ -271,7 +445,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 6:21\">6:21</a></b> <b>It was before the <span class=\"small-caps\">Lord</span>.</b> David will not accept Michal’s indictment. It was not before the “female servants” (that is, for their eyes) but “before the <span class=\"small-caps\">Lord</span>” that he celebrated. David pointedly mentions that the Lord displaced Saul and chose him instead.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,6,22" ],
+  "verses" : [ {
+    "verse" : "2samuel,6,22",
+    "text" : "I will become even more undignified than this, and I will be humiliated in my own eyes. But by these slave girls you spoke of, I will be held in honor.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,6,22",
     "id" : 187809,
@@ -279,7 +456,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 6:22\">6:22</a></b> <b>I will make myself yet more contemptible than this.</b> Or, “I will humble myself even more than this.” Unlike Eli and his sons (<a class=\"bibleref\" href=\"/passage/?search=1Sam 2:29\">1 Sam. 2:29</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 2:30\">30</a> and notes), and Michal’s own father Saul (<a class=\"bibleref\" href=\"/passage/?search=1Sam 15:12\">1 Sam. 15:12</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 15:30\">30</a> and notes), David is willing to be abased that the Lord may receive the honor due Him.</p><p><b>by them I shall be held in honor.</b> David replies that he has no reason to feel embarrassed before the maids. Michal’s displeasure in him is wrong.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,6,23" ],
+  "verses" : [ {
+    "verse" : "2samuel,6,23",
+    "text" : "And Michal daughter of Saul had no children to the day of her death."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,6,23",
     "id" : 187810,

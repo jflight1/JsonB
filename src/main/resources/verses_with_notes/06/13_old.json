@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "1kings,11,1" ],
+  "verses" : [ {
+    "verse" : "1kings,11,1",
+    "text" : "King Solomon, however, loved many foreign women besides Pharaoh's daughter-Moabites, Ammonites, Edomites, Sidonians and Hittites."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,11,1",
     "id" : 188279,
@@ -7,7 +10,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 11:1\">11:1</a></b> <b>loved many foreign women.</b> Whereas in the first part of his reign, “Solomon loved the <span class=\"small-caps\">Lord</span>, walking in the statutes of David his father” (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 3:3\">3:3</a>), he later “loved many foreign women.” Diplomatic marriages between the dynasties of various kingdoms were common in the ancient Near East as a means of ratifying treaties, but the multiplication of royal wives is forbidden in <a class=\"bibleref\" href=\"/passage/?search=Deut 17:17\">Deut. 17:17</a>. Moreover, there were prohibitions against marrying foreign wives in the land Israel was to possess (<a class=\"bibleref\" href=\"/passage/?search=Exod 34:16\">Ex. 34:16</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 7:1-Deut 7:4\">Deut. 7:1–4</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 23:12\">Josh. 23:12</a>, <a class=\"bibleref\" href=\"/passage/?search=Josh 23:13\">13</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,11,2", "1kings,11,3" ],
+  "verses" : [ {
+    "verse" : "1kings,11,2",
+    "text" : "They were from nations about which the LORD had told the Israelites, \"You must not intermarry with them, because they will surely turn your hearts after their gods.\" Nevertheless, Solomon held fast to them in love."
+  }, {
+    "verse" : "1kings,11,3",
+    "text" : "He had seven hundred wives of royal birth and three hundred concubines, and his wives led him astray."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,11,2",
     "id" : 188280,
@@ -15,7 +24,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 11:2\">11:2</a></b> <b>turn away your heart.</b> The phrase alludes to the warning of <a class=\"bibleref\" href=\"/passage/?search=Deut 7:4\">Deut. 7:4</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,11,4" ],
+  "verses" : [ {
+    "verse" : "1kings,11,4",
+    "text" : "As Solomon grew old, his wives turned his heart after other gods, and his heart was not fully devoted to the LORD his God, as the heart of David his father had been."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,11,4",
     "id" : 188281,
@@ -23,7 +35,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 11:4\">11:4</a></b> <b>as was the heart of David his father.</b> David is consistently presented as a model king (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 3:14\">3:14</a>; <a class=\"bibleref\" href=\"/passage/?search=1Kgs 9:4\">9:4</a>; <a class=\"bibleref\" href=\"/passage/?search=1Kgs 14:8\">14:8</a>; <a class=\"bibleref\" href=\"/passage/?search=1Kgs 15:3\">15:3</a>; <a class=\"bibleref\" href=\"/passage/?search=2Kgs 8:19\">2 Kin. 8:19</a>; <a class=\"bibleref\" href=\"/passage/?search=2Kgs 22:2\">22:2</a>). He was not without sins (<a class=\"bibleref\" href=\"/passage/?search=2Sam 11\">2 Sam. 11</a>; <a class=\"bibleref\" href=\"/passage/?search=2Sam 12\">12</a>; <a class=\"bibleref\" href=\"/passage/?search=2Sam 24:1-2Sam 24:15\">24:1–15</a>; <a class=\"bibleref\" href=\"/passage/?search=1Kgs 15:5\">1 Kin. 15:5</a>), but when he sinned, his repentance was exemplary (<a class=\"bibleref\" href=\"/passage/?search=2Sam 12:16\">2 Sam. 12:16</a>, <a class=\"bibleref\" href=\"/passage/?search=2Sam 12:17\">17</a>; <a class=\"bibleref\" href=\"/passage/?search=2Sam 24:10-2Sam 24:17\">24:10–17</a>). David’s devotion to God was unparalleled.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,11,5" ],
+  "verses" : [ {
+    "verse" : "1kings,11,5",
+    "text" : "He followed Ashtoreth the goddess of the Sidonians, and Molech the detestable god of the Ammonites."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,11,5",
     "id" : 188282,
@@ -31,7 +46,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 11:5\">11:5</a></b> <b>Ashtoreth.</b> The Phoenician goddess of love and fertility, called Astarte by the Greeks (cf. <a class=\"bibleref\" href=\"/passage/?search=Judg 2:13\">Judg. 2:13</a>; <a class=\"bibleref\" href=\"/passage/?search=2Kgs 23:13\">2 Kin. 23:13</a>).</p><p><b>Milcom.</b> Or Molech. He was the national god of the Ammonites.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,11,6" ],
+  "verses" : [ {
+    "verse" : "1kings,11,6",
+    "text" : "So Solomon did evil in the eyes of the LORD; he did not follow the LORD completely, as David his father had done."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,11,6",
     "id" : 188283,
@@ -39,7 +57,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 11:6\">11:6</a></b> <b>Solomon did what was evil.</b> Solomon’s many sins violated fundamental principles of Israelite religion: multiplying wives (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 11:1\">v. 1</a> note), worshiping other gods (<a class=\"bibleref\" href=\"/passage/?search=Exod 20:3\">Ex. 20:3</a>, <a class=\"bibleref\" href=\"/passage/?search=Exod 20:5\">5</a>), and building sanctuaries for the foreign gods (vv. 7, 8; <a class=\"bibleref\" href=\"/passage/?search=Exod 20:4\">Ex. 20:4</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,11,7", "1kings,11,8", "1kings,11,9" ],
+  "verses" : [ {
+    "verse" : "1kings,11,7",
+    "text" : "On a hill east of Jerusalem, Solomon built a high place for Chemosh the detestable god of Moab, and for Molech the detestable god of the Ammonites."
+  }, {
+    "verse" : "1kings,11,8",
+    "text" : "He did the same for all his foreign wives, who burned incense and offered sacrifices to their gods."
+  }, {
+    "verse" : "1kings,11,9",
+    "text" : "The LORD became angry with Solomon because his heart had turned away from the LORD, the God of Israel, who had appeared to him twice."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,11,7",
     "id" : 188284,
@@ -47,7 +74,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 11:7\">11:7</a></b> <b>Chemosh.</b> He was the national god of the Moabites (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 3:26\">2 Kin. 3:26</a>, <a class=\"bibleref\" href=\"/passage/?search=2Kgs 3:27\">27</a>). See “Syncretism and Idolatry” at <a class=\"bibleref\" href=\"/passage/?search=Hos 2:13\">Hos. 2:13</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,11,10" ],
+  "verses" : [ {
+    "verse" : "1kings,11,10",
+    "text" : "Although he had forbidden Solomon to follow other gods, Solomon did not keep the LORD's command."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,11,10",
     "id" : 188285,
@@ -55,7 +85,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 11:10\">11:10</a></b> <b>after other gods.</b> See <a class=\"bibleref\" href=\"/passage/?search=1Kgs 3:14\">3:14</a>; <a class=\"bibleref\" href=\"/passage/?search=1Kgs 9:6-1Kgs 9:9\">9:6–9</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,11,11" ],
+  "verses" : [ {
+    "verse" : "1kings,11,11",
+    "text" : "So the LORD said to Solomon, \"Since this is your attitude and you have not kept my covenant and my decrees, which I commanded you, I will most certainly tear the kingdom away from you and give it to one of your subordinates."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,11,11",
     "id" : 188286,
@@ -63,7 +96,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 11:11\">11:11</a></b> <b>tear the kingdom from you.</b> See <a class=\"bibleref\" href=\"/passage/?search=1Kgs 11:29-1Kgs 11:39\">vv. 29–39</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,11,12" ],
+  "verses" : [ {
+    "verse" : "1kings,11,12",
+    "text" : "Nevertheless, for the sake of David your father, I will not do it during your lifetime. I will tear it out of the hand of your son."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,11,12",
     "id" : 188287,
@@ -71,7 +107,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 11:12\">11:12</a></b> <b>I will not do it in your days.</b> God’s great love for David causes Him to temper His judgment on Solomon in two respects: first, God postpones the division until the reign of Solomon’s son; and second, God does not remove the entire kingdom from the Davidic dynasty (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 11:13\">v. 13</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,11,13", "1kings,11,14" ],
+  "verses" : [ {
+    "verse" : "1kings,11,13",
+    "text" : "Yet I will not tear the whole kingdom from him, but will give him one tribe for the sake of David my servant and for the sake of Jerusalem, which I have chosen.\""
+  }, {
+    "verse" : "1kings,11,14",
+    "text" : "Then the LORD raised up against Solomon an adversary, Hadad the Edomite, from the royal line of Edom."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,11,13",
     "id" : 188288,
@@ -79,7 +121,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 11:13\">11:13</a></b> <b>one tribe.</b> This probably refers to Judah (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 12:20\">12:20</a>; <a class=\"bibleref\" href=\"/passage/?search=2Kgs 17:18\">2 Kin. 17:18</a>). If Judah is already understood without being mentioned, another tribe is meant, such as Benjamin (12:21) or Simeon.</p><p><b>for the sake of Jerusalem.</b> Jerusalem was God’s chosen city, the site of Israel’s central sanctuary anticipated in <a class=\"bibleref\" href=\"/passage/?search=Deut 12\">Deut. 12</a> and constructed by Solomon. Jerusalem is a central symbol of God’s love for His people and the communion between God and His people throughout the Bible (<a class=\"bibleref\" href=\"/passage/?search=Ps 68:29\">Ps. 68:29</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 122:2-Ps 122:6\">122:2–6</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 135:21\">135:21</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 137:5-Ps 137:7\">137:5–7</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 62:1\">Is. 62:1</a>; <a class=\"bibleref\" href=\"/passage/?search=Dan 9:25\">Dan. 9:25</a>; <a class=\"bibleref\" href=\"/passage/?search=Rev 3:12\">Rev. 3:12</a>; <a class=\"bibleref\" href=\"/passage/?search=Rev 21:2\">21:2</a>, <a class=\"bibleref\" href=\"/passage/?search=Rev 21:10\">10</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,11,15", "1kings,11,16", "1kings,11,17" ],
+  "verses" : [ {
+    "verse" : "1kings,11,15",
+    "text" : "Earlier when David was fighting with Edom, Joab the commander of the army, who had gone up to bury the dead, had struck down all the men in Edom."
+  }, {
+    "verse" : "1kings,11,16",
+    "text" : "Joab and all the Israelites stayed there for six months, until they had destroyed all the men in Edom."
+  }, {
+    "verse" : "1kings,11,17",
+    "text" : "But Hadad, still only a boy, fled to Egypt with some Edomite officials who had served his father."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,11,15",
     "id" : 188289,
@@ -87,7 +138,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 11:15\">11:15</a></b> <b>when David was in Edom.</b> See <a class=\"bibleref\" href=\"/passage/?search=2Sam 8:14\">2 Sam. 8:14</a>. An earlier victory by Joab is reversed, as Hadad returns from exile in Egypt and successfully rebels against Solomon (v. 25).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,11,18", "1kings,11,19", "1kings,11,20", "1kings,11,21" ],
+  "verses" : [ {
+    "verse" : "1kings,11,18",
+    "text" : "They set out from Midian and went to Paran. Then taking men from Paran with them, they went to Egypt, to Pharaoh king of Egypt, who gave Hadad a house and land and provided him with food."
+  }, {
+    "verse" : "1kings,11,19",
+    "text" : "Pharaoh was so pleased with Hadad that he gave him a sister of his own wife, Queen Tahpenes, in marriage."
+  }, {
+    "verse" : "1kings,11,20",
+    "text" : "The sister of Tahpenes bore him a son named Genubath, whom Tahpenes brought up in the royal palace. There Genubath lived with Pharaoh's own children."
+  }, {
+    "verse" : "1kings,11,21",
+    "text" : "While he was in Egypt, Hadad heard that David rested with his fathers and that Joab the commander of the army was also dead. Then Hadad said to Pharaoh, \"Let me go, that I may return to my own country.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,11,18",
     "id" : 188290,
@@ -95,7 +158,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 11:18\">11:18</a></b> <b>from Midian.</b> The Midianites lived east of Moab and Edom.</p><p><b>Paran.</b> This area was in the Sinai peninsula southeast of Kadesh.</p><p><b>gave him a house.</b> Taking notice of the emerging power of David, Pharaoh was ready to shelter David’s foes in the hope that one day they would curtail Israel’s power (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 11:21\">v. 21</a>). Ancient treaties forbid providing asylum to political rebels.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,11,22" ],
+  "verses" : [ {
+    "verse" : "1kings,11,22",
+    "text" : "\"What have you lacked here that you want to go back to your own country?\" Pharaoh asked. \"Nothing,\" Hadad replied, \"but do let me go!\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,11,22",
     "id" : 188291,
@@ -103,7 +169,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 11:22\">11:22</a></b> <b>Only let me depart.</b> Following David’s death, Hadad wanted to return to his own land, despite the Pharaoh’s objections, probably because he wanted to liberate it from Israelite domination (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 11:25\">v. 25</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,11,23" ],
+  "verses" : [ {
+    "verse" : "1kings,11,23",
+    "text" : "And God raised up against Solomon another adversary, Rezon son of Eliada, who had fled from his master, Hadadezer king of Zobah."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,11,23",
     "id" : 188292,
@@ -111,7 +180,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 11:23\">11:23</a></b> <b>adversary.</b> Formerly Solomon could boast that in his reign there was “neither adversary nor misfortune” (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 5:4\">5:4</a>), but now God afflicted him with a succession of enemies.</p><p><b>Hadadezer king of Zobah.</b> On David’s conquest of Hadadezer and Syria, see <a class=\"bibleref\" href=\"/passage/?search=2Sam 8:3-2Sam 8:6\">2 Sam. 8:3–6</a>; <a class=\"bibleref\" href=\"/passage/?search=2Sam 10:15-2Sam 10:19\">10:15–19</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,11,24", "1kings,11,25" ],
+  "verses" : [ {
+    "verse" : "1kings,11,24",
+    "text" : "He gathered men around him and became the leader of a band of rebels when David destroyed the forces of Zobah; the rebels went to Damascus, where they settled and took control."
+  }, {
+    "verse" : "1kings,11,25",
+    "text" : "Rezon was Israel's adversary as long as Solomon lived, adding to the trouble caused by Hadad. So Rezon ruled in Aram and was hostile toward Israel."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,11,24",
     "id" : 188293,
@@ -119,7 +194,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 11:24\">11:24</a></b> <b>king in Damascus.</b> From his base in Damascus, Rezon persistently caused trouble for Solomon.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,11,26" ],
+  "verses" : [ {
+    "verse" : "1kings,11,26",
+    "text" : "Also, Jeroboam son of Nebat rebelled against the king. He was one of Solomon's officials, an Ephraimite from Zeredah, and his mother was a widow named Zeruah."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,11,26-1kings,11,43",
     "id" : 188294,
@@ -132,7 +210,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 11:26\">11:26</a></b> <b>Jeroboam the son of Nebat . . . against the king.</b> Whereas Hadad and Rezon are external enemies raised up by God, Jeroboam, an Ephraimite, is an internal foe.</p><p><b>Zeredah.</b> Twenty-one miles east of Joppa in the territory of Ephraim.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,11,27" ],
+  "verses" : [ {
+    "verse" : "1kings,11,27",
+    "text" : "Here is the account of how he rebelled against the king: Solomon had built the supporting terraces and had filled in the gap in the wall of the city of David his father."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,11,27",
     "id" : 188296,
@@ -140,7 +221,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 11:27\">11:27</a></b> <b>the Millo.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Kgs 9:15\">9:15</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,11,28" ],
+  "verses" : [ {
+    "verse" : "1kings,11,28",
+    "text" : "Now Jeroboam was a man of standing, and when Solomon saw how well the young man did his work, he put him in charge of the whole labor force of the house of Joseph."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,11,28",
     "id" : 188297,
@@ -148,7 +232,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 11:28\">11:28</a></b> <b>over all the forced labor of the house of Joseph.</b> Jeroboam was in charge of the laborers Solomon drafted from the tribes of Ephraim and Manasseh (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 5:13-1Kgs 5:16\">5:13–16</a>), and was well aware of the resentment these tribes felt toward Solomon (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 12:4\">12:4</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,11,29" ],
+  "verses" : [ {
+    "verse" : "1kings,11,29",
+    "text" : "About that time Jeroboam was going out of Jerusalem, and Ahijah the prophet of Shiloh met him on the way, wearing a new cloak. The two of them were alone out in the country,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,11,29",
     "id" : 188298,
@@ -156,7 +243,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 11:29\">11:29</a></b> <b>Shilonite.</b> Shiloh was in Ephraim, about twelve miles east of Zeredah.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,11,30" ],
+  "verses" : [ {
+    "verse" : "1kings,11,30",
+    "text" : "and Ahijah took hold of the new cloak he was wearing and tore it into twelve pieces."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,11,30",
     "id" : 188299,
@@ -164,7 +254,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 11:30\">11:30</a></b> <b>tore it into twelve pieces.</b> Ahijah performs a symbolic action, that is, he acts out a parable. Such colorful actions dramatize the reality of the spoken word and God’s intervention in history (cf. <a class=\"bibleref\" href=\"/passage/?search=1Kgs 22:11\">22:11</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 20\">Is. 20</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 13:1-Jer 13:11\">Jer. 13:1–11</a>). In this case, the torn pieces of Ahijah’s robe illustrate the impending division of the kingdom.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,11,31" ],
+  "verses" : [ {
+    "verse" : "1kings,11,31",
+    "text" : "Then he said to Jeroboam, \"Take ten pieces for yourself, for this is what the LORD, the God of Israel, says: 'See, I am going to tear the kingdom out of Solomon's hand and give you ten tribes."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,11,31",
     "id" : 188300,
@@ -172,7 +265,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 11:31\">11:31</a></b> <b>Take for yourself ten pieces.</b> On behalf of the Lord, Ahijah summons Jeroboam to take ten of the twelve pieces, symbolizing the ten northern tribes over which Jeroboam will shortly become king. As with the earlier rebellions of Hadad and Rezon, Jeroboam’s insurrection is a divine judgment against Solomon.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,11,32", "1kings,11,33" ],
+  "verses" : [ {
+    "verse" : "1kings,11,32",
+    "text" : "But for the sake of my servant David and the city of Jerusalem, which I have chosen out of all the tribes of Israel, he will have one tribe."
+  }, {
+    "verse" : "1kings,11,33",
+    "text" : "I will do this because they have forsaken me and worshiped Ashtoreth the goddess of the Sidonians, Chemosh the god of the Moabites, and Molech the god of the Ammonites, and have not walked in my ways, nor done what is right in my eyes, nor kept my statutes and laws as David, Solomon's father, did."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,11,32",
     "id" : 188301,
@@ -180,7 +279,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 11:32\">11:32</a></b> <b>one tribe.</b> See note on <a class=\"bibleref\" href=\"/passage/?search=1Kgs 11:13\">v. 13</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,11,34" ],
+  "verses" : [ {
+    "verse" : "1kings,11,34",
+    "text" : "\"'But I will not take the whole kingdom out of Solomon's hand; I have made him ruler all the days of his life for the sake of David my servant, whom I chose and who observed my commands and statutes."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,11,34",
     "id" : 188302,
@@ -188,7 +290,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 11:34\">11:34</a></b> <b>I will make him ruler.</b> See note on <a class=\"bibleref\" href=\"/passage/?search=1Kgs 11:12\">v. 12</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,11,35" ],
+  "verses" : [ {
+    "verse" : "1kings,11,35",
+    "text" : "I will take the kingdom from his son's hands and give you ten tribes."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,11,35",
     "id" : 188303,
@@ -196,7 +301,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 11:35\">11:35</a></b> <b>out of his son’s hand.</b> That is, from Solomon’s successor, Rehoboam (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 12:1-1Kgs 12:24\">12:1–24</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,11,36" ],
+  "verses" : [ {
+    "verse" : "1kings,11,36",
+    "text" : "I will give one tribe to his son so that David my servant may always have a lamp before me in Jerusalem, the city where I chose to put my Name."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,11,36",
     "id" : 188304,
@@ -204,7 +312,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 11:36\">11:36</a></b> <b>that David my servant may always have a lamp.</b> The metaphor of a lamp signifies the permanence of the Davidic dynasty in the city of Jerusalem (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 15:4\">15:4</a>; <a class=\"bibleref\" href=\"/passage/?search=2Sam 21:17\">2 Sam. 21:17</a>; <a class=\"bibleref\" href=\"/passage/?search=2Kgs 8:19\">2 Kin. 8:19</a>; <a class=\"bibleref\" href=\"/passage/?search=2Chr 21:7\">2 Chr. 21:7</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 132:17\">Ps. 132:17</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,11,37" ],
+  "verses" : [ {
+    "verse" : "1kings,11,37",
+    "text" : "However, as for you, I will take you, and you will rule over all that your heart desires; you will be king over Israel."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,11,37",
     "id" : 188305,
@@ -212,7 +323,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 11:37\">11:37</a></b> <b>over all that your soul desires.</b> A similar promise is given to David (<a class=\"bibleref\" href=\"/passage/?search=2Sam 3:21\">2 Sam. 3:21</a>).</p><p><b>king over Israel.</b> That is, over the ten northern tribes. During the period of the divided kingdom, the term “Israel” most often designates these ten tribes. “Judah” denotes the domain still ruled by David’s descendants.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,11,38" ],
+  "verses" : [ {
+    "verse" : "1kings,11,38",
+    "text" : "If you do whatever I command you and walk in my ways and do what is right in my eyes by keeping my statutes and commands, as David my servant did, I will be with you. I will build you a dynasty as enduring as the one I built for David and will give Israel to you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,11,38",
     "id" : 188306,
@@ -220,7 +334,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 11:38\">11:38</a></b> <b>listen to all that I command you.</b> Jeroboam will be subject to the same covenantal stipulations that were operative for Saul, David, and Solomon (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 2:3\">2:3</a>, <a class=\"bibleref\" href=\"/passage/?search=1Kgs 2:4\">4</a> and notes).</p><p><b>I will be with you.</b> These words are an assurance of God’s presence and sustenance (<a class=\"bibleref\" href=\"/passage/?search=Deut 31:8\">Deut. 31:8</a>; <a class=\"bibleref\" href=\"/passage/?search=Judg 2:18\">Judg. 2:18</a>; <a class=\"bibleref\" href=\"/passage/?search=Judg 6:12\">6:12</a>, <a class=\"bibleref\" href=\"/passage/?search=Judg 6:16\">16</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 3:19\">1 Sam. 3:19</a>; <a class=\"bibleref\" href=\"/passage/?search=2Sam 5:10\">2 Sam. 5:10</a>; <a class=\"bibleref\" href=\"/passage/?search=2Sam 7:9\">7:9</a>). Ahijah hopes that Jeroboam will be more loyal to the covenant than Solomon.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,11,39" ],
+  "verses" : [ {
+    "verse" : "1kings,11,39",
+    "text" : "I will humble David's descendants because of this, but not forever.'\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,11,39",
     "id" : 188307,
@@ -228,7 +345,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 11:39\">11:39</a></b> <b>but not forever.</b> This phrase looks forward to a restoration of Davidic power. Such a restoration was attempted by Josiah of Judah, but he could not complete it (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 22\">2 Kin. 22</a>; <a class=\"bibleref\" href=\"/passage/?search=2Kgs 23\">23</a>). The prophets also look for a renewal of Davidic rule (<a class=\"bibleref\" href=\"/passage/?search=Jer 30:9\">Jer. 30:9</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 34:23\">Ezek. 34:23</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 37:15-Ezek 37:28\">37:15–28</a>; <a class=\"bibleref\" href=\"/passage/?search=Hos 3:5\">Hos. 3:5</a>; <a class=\"bibleref\" href=\"/passage/?search=Amos 9:11\">Amos 9:11</a>). These hopes are fulfilled in Jesus Christ, the Messiah (<a class=\"bibleref\" href=\"/passage/?search=Matt 1:1\">Matt. 1:1</a>; <a class=\"bibleref\" href=\"/passage/?search=Mark 1:1\">Mark 1:1</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,11,40" ],
+  "verses" : [ {
+    "verse" : "1kings,11,40",
+    "text" : "Solomon tried to kill Jeroboam, but Jeroboam fled to Egypt, to Shishak the king, and stayed there until Solomon's death."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,11,40",
     "id" : 188308,
@@ -236,7 +356,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 11:40\">11:40</a></b> <b>Shishak.</b> Shishak was the first king over the twenty-second dynasty and ruled from 945–924 <span class=\"small-caps\">b.c.</span> (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 14:25\">14:25</a>, <a class=\"bibleref\" href=\"/passage/?search=1Kgs 14:26\">26</a>). Solomon was married to a daughter of a pharaoh from the twenty-first dynasty (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 3:1\">3:1</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,11,41" ],
+  "verses" : [ {
+    "verse" : "1kings,11,41",
+    "text" : "As for the other events of Solomon's reign-all he did and the wisdom he displayed-are they not written in the book of the annals of Solomon?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,11,41",
     "id" : 188309,
@@ -244,7 +367,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 11:41\">11:41</a></b> <b>the Book of the Acts of Solomon.</b> One of the sources (no longer in existence) used by the writer of 1 and 2 Kings. Other official sources are mentioned in <a class=\"bibleref\" href=\"/passage/?search=1Kgs 14:19\">14:19</a> and <a class=\"bibleref\" href=\"/passage/?search=1Kgs 14:29\">29</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,11,42", "1kings,11,43" ],
+  "verses" : [ {
+    "verse" : "1kings,11,42",
+    "text" : "Solomon reigned in Jerusalem over all Israel forty years."
+  }, {
+    "verse" : "1kings,11,43",
+    "text" : "Then he rested with his fathers and was buried in the city of David his father. And Rehoboam his son succeeded him as king."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,11,42",
     "id" : 188310,
@@ -252,7 +381,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 11:42\">11:42</a></b> <b>forty years.</b> Approximately 970–930 <span class=\"small-caps\">b.c.</span></p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,12,1" ],
+  "verses" : [ {
+    "verse" : "1kings,12,1",
+    "text" : "Rehoboam went to Shechem, for all the Israelites had gone there to make him king."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,12,1-1kings,12,24",
     "id" : 188311,
@@ -265,7 +397,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 12:1\">12:1</a></b> <b>Shechem.</b> This major Israelite center associated with the renewal of the covenant with the Lord (<a class=\"bibleref\" href=\"/passage/?search=Josh 24\">Josh. 24:1–33</a>) was in northern Ephraim, thirty miles north of Jerusalem.</p><p><b>to make him king.</b> Rehoboam traveled to Shechem to be made king by acclamation (see <a class=\"bibleref\" href=\"/passage/?search=1Sam 11:15\">1 Sam. 11:15</a> and the covenant the northern tribes made with David in <a class=\"bibleref\" href=\"/passage/?search=2Sam 5:1-2Sam 5:3\">2 Sam. 5:1–3</a>). As it turned out, the northern tribes did not accept Rehoboam.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,12,2", "1kings,12,3" ],
+  "verses" : [ {
+    "verse" : "1kings,12,2",
+    "text" : "When Jeroboam son of Nebat heard this (he was still in Egypt, where he had fled from King Solomon), he returned from Egypt."
+  }, {
+    "verse" : "1kings,12,3",
+    "text" : "So they sent for Jeroboam, and he and the whole assembly of Israel went to Rehoboam and said to him:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,12,2",
     "id" : 188313,
@@ -273,7 +411,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 12:2\">12:2</a></b> <b>as soon as Jeroboam . . . heard of it.</b> That is, about the death of Solomon (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 11:43\">11:43</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,12,4", "1kings,12,5" ],
+  "verses" : [ {
+    "verse" : "1kings,12,4",
+    "text" : "\"Your father put a heavy yoke on us, but now lighten the harsh labor and the heavy yoke he put on us, and we will serve you.\""
+  }, {
+    "verse" : "1kings,12,5",
+    "text" : "Rehoboam answered, \"Go away for three days and then come back to me.\" So the people went away."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,12,4",
     "id" : 188314,
@@ -281,7 +425,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 12:4\">12:4</a></b> <b>Your father made our yoke heavy.</b> The expression “yoke” is characteristically used for the oppression of the Israelites by foreign rulers (<a class=\"bibleref\" href=\"/passage/?search=Lev 26:13\">Lev. 26:13</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 28:48\">Deut. 28:48</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 9:4\">Is. 9:4</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 10:27\">10:27</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 14:25\">14:25</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 27:8\">Jer. 27:8</a>, <a class=\"bibleref\" href=\"/passage/?search=Jer 27:11\">11</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 34:27\">Ezek. 34:27</a>). Its use here is an indictment of Solomon for imposing harsh labor on his own people (5:13; 9:22; 11:28 and notes).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,12,6" ],
+  "verses" : [ {
+    "verse" : "1kings,12,6",
+    "text" : "Then King Rehoboam consulted the elders who had served his father Solomon during his lifetime. \"How would you advise me to answer these people?\" he asked."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,12,6",
     "id" : 188315,
@@ -289,7 +436,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 12:6\">12:6</a></b> <b>the old men.</b> These older and experienced advisers were well acquainted with the traditions of Israel and understood how the monarchy affected the lives of ordinary Israelites.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,12,7" ],
+  "verses" : [ {
+    "verse" : "1kings,12,7",
+    "text" : "They replied, \"If today you will be a servant to these people and serve them and give them a favorable answer, they will always be your servants.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,12,7",
     "id" : 188316,
@@ -297,7 +447,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 12:7\">12:7</a></b> <b>If you will be a servant.</b> Though entrusted with power, the Israelite king was to establish justice and so serve both God and His people (<a class=\"bibleref\" href=\"/passage/?search=Deut 17:14-Deut 17:20\">Deut. 17:14–20</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 72\">Ps. 72</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,12,8", "1kings,12,9" ],
+  "verses" : [ {
+    "verse" : "1kings,12,8",
+    "text" : "But Rehoboam rejected the advice the elders gave him and consulted the young men who had grown up with him and were serving him."
+  }, {
+    "verse" : "1kings,12,9",
+    "text" : "He asked them, \"What is your advice? How should we answer these people who say to me, 'Lighten the yoke your father put on us'?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,12,8",
     "id" : 188317,
@@ -305,7 +461,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 12:8\">12:8</a></b> <b>the young men.</b> These young advisers, like Rehoboam himself, had grown up in the royal court. Apparently they thought that Rehoboam’s privileges were inalienable like those of an oriental monarch.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,12,10", "1kings,12,11", "1kings,12,12", "1kings,12,13", "1kings,12,14" ],
+  "verses" : [ {
+    "verse" : "1kings,12,10",
+    "text" : "The young men who had grown up with him replied, \"Tell these people who have said to you, 'Your father put a heavy yoke on us, but make our yoke lighter'-tell them, 'My little finger is thicker than my father's waist."
+  }, {
+    "verse" : "1kings,12,11",
+    "text" : "My father laid on you a heavy yoke; I will make it even heavier. My father scourged you with whips; I will scourge you with scorpions.'\""
+  }, {
+    "verse" : "1kings,12,12",
+    "text" : "Three days later Jeroboam and all the people returned to Rehoboam, as the king had said, \"Come back to me in three days.\""
+  }, {
+    "verse" : "1kings,12,13",
+    "text" : "The king answered the people harshly. Rejecting the advice given him by the elders,"
+  }, {
+    "verse" : "1kings,12,14",
+    "text" : "he followed the advice of the young men and said, \"My father made your yoke heavy; I will make it even heavier. My father scourged you with whips; I will scourge you with scorpions.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,12,10",
     "id" : 188318,
@@ -313,7 +484,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 12:10\">12:10</a></b> <b>My little finger is thicker than my father’s thighs.</b> These words are an arrogant and unwise boast about how much more oppressive Rehoboam’s yoke will be than his father’s (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 12:11\">v. 11</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,12,15" ],
+  "verses" : [ {
+    "verse" : "1kings,12,15",
+    "text" : "So the king did not listen to the people, for this turn of events was from the LORD, to fulfill the word the LORD had spoken to Jeroboam son of Nebat through Ahijah the Shilonite."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,12,15",
     "id" : 188319,
@@ -321,7 +495,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 12:15\">12:15</a></b> <b>by the <span class=\"small-caps\">Lord</span>.</b> The writer does not mention God’s agency in order to excuse Rehoboam’s foolishness. God is using Rehoboam’s misguided actions as an instrument for fulfilling Ahijah’s prophecy (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 11:31-1Kgs 11:39\">11:31–39</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,12,16" ],
+  "verses" : [ {
+    "verse" : "1kings,12,16",
+    "text" : "When all Israel saw that the king refused to listen to them, they answered the king: \"What share do we have in David, what part in Jesse's son? To your tents, O Israel! Look after your own house, O David!\" So the Israelites went home."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,12,16",
     "id" : 188320,
@@ -329,7 +506,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 12:16\">12:16</a></b> <b>Look now to your own house, David.</b> The northern tribes secede from Judah and from the authority of David’s descendants. For an identical taunt against David himself, see <a class=\"bibleref\" href=\"/passage/?search=2Sam 20:1\">2 Sam. 20:1</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,12,17" ],
+  "verses" : [ {
+    "verse" : "1kings,12,17",
+    "text" : "But as for the Israelites who were living in the towns of Judah, Rehoboam still ruled over them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,12,17",
     "id" : 188321,
@@ -337,7 +517,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 12:17\">12:17</a></b> <b>people of Israel.</b> That is, members of the northern tribes who had settled in the south.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,12,18" ],
+  "verses" : [ {
+    "verse" : "1kings,12,18",
+    "text" : "King Rehoboam sent out Adoniram, who was in charge of forced labor, but all Israel stoned him to death. King Rehoboam, however, managed to get into his chariot and escape to Jerusalem."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,12,18",
     "id" : 188322,
@@ -345,7 +528,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 12:18\">12:18</a></b> <b>Adoram.</b> Rehoboam unwisely sent out the chief of forced labor to quell the uprising (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 4:6\">4:6</a>; <a class=\"bibleref\" href=\"/passage/?search=1Kgs 5:14\">5:14</a>, where the name is spelled “Adoniram”).</p><p><b>all Israel.</b> That is, representatives of the northern tribes (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 12:1\">12:1</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,12,19" ],
+  "verses" : [ {
+    "verse" : "1kings,12,19",
+    "text" : "So Israel has been in rebellion against the house of David to this day."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,12,19",
     "id" : 188323,

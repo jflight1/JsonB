@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,1,24" ],
+  "verses" : [ {
+    "verse" : "proverbs,1,24",
+    "text" : "But since you rejected me when I called and no one gave heed when I stretched out my hand,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,1,24",
     "id" : 191658,
@@ -7,7 +10,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 1:24\">1:24</a></b> <b>you refused.</b> The rejection of wisdom’s evangel has its parallels in the rejection of God’s grace by Israel.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,1,25", "proverbs,1,26", "proverbs,1,27" ],
+  "verses" : [ {
+    "verse" : "proverbs,1,25",
+    "text" : "since you ignored all my advice and would not accept my rebuke,"
+  }, {
+    "verse" : "proverbs,1,26",
+    "text" : "I in turn will laugh at your disaster; I will mock when calamity overtakes you-"
+  }, {
+    "verse" : "proverbs,1,27",
+    "text" : "when calamity overtakes you like a storm, when disaster sweeps over you like a whirlwind, when distress and trouble overwhelm you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,1,25",
     "id" : 191659,
@@ -15,7 +27,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 1:25\">1:25</a></b> <b>counsel.</b> Here wisdom speaks with full authority. As God’s counsel, her counsel and advice is not open to debate (<a class=\"bibleref\" href=\"/passage/?search=Prov 2:6\">2:6</a>; <a class=\"bibleref\" href=\"/passage/?search=Prov 8:14\">8:14</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,1,28" ],
+  "verses" : [ {
+    "verse" : "proverbs,1,28",
+    "text" : "\"Then they will call to me but I will not answer; they will look for me but will not find me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,1,28",
     "id" : 191660,

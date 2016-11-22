@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,13,7" ],
+  "verses" : [ {
+    "verse" : "proverbs,13,7",
+    "text" : "One man pretends to be rich, yet has nothing; another pretends to be poor, yet has great wealth."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 13:7\">13:7</a></b> <b>pretends to be.</b> Though the disparity of possessions is noted, the point of the proverb seems to be the similarity of pretense. Each misrepresents the facts about himself.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,13,8" ],
+  "verses" : [ {
+    "verse" : "proverbs,13,8",
+    "text" : "A man's riches may ransom his life, but a poor man hears no threat."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,13,8",
     "id" : 191929,

@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,117,1" ],
+  "verses" : [ {
+    "verse" : "psalms,117,1",
+    "text" : "Praise the LORD, all you nations; extol him, all you peoples."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,117,1-psalms,117,2",
     "id" : 191320,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 117:1\">117:1</a></b> <b>all nations.</b> The call to praise goes beyond Israel to all nations.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,117,2" ],
+  "verses" : [ {
+    "verse" : "psalms,117,2",
+    "text" : "For great is his love toward us, and the faithfulness of the LORD endures forever. Praise the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,117,2",
     "id" : 191322,

@@ -1,8 +1,14 @@
 [ {
-  "singleVerses" : [ "luke,7,36" ],
+  "verses" : [ {
+    "verse" : "luke,7,36",
+    "text" : "Now one of the Pharisees invited Jesus to have dinner with him, so he went to the Pharisee's house and reclined at the table."
+  } ],
   "rsbNotes" : [ ]
 }, {
-  "singleVerses" : [ "luke,7,37" ],
+  "verses" : [ {
+    "verse" : "luke,7,37",
+    "text" : "When a woman who had lived a sinful life in that town learned that Jesus was eating at the Pharisee's house, she brought an alabaster jar of perfume,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,7,37-luke,7,38",
     "id" : 196469,
@@ -15,7 +21,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 7:37\">7:37</a></b> <b>alabaster.</b> A translucent stone used to make containers for costly perfumes.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,7,38" ],
+  "verses" : [ {
+    "verse" : "luke,7,38",
+    "text" : "and as she stood behind him at his feet weeping, she began to wet his feet with her tears. Then she wiped them with her hair, kissed them and poured perfume on them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,7,38",
     "id" : 196471,
@@ -23,7 +32,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 7:38\">7:38</a></b> <b>weeping.</b> The woman’s tears and her anointing of Jesus’ feet demonstrated penitence and humility.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,7,39", "luke,7,40", "luke,7,41", "luke,7,42", "luke,7,43" ],
+  "verses" : [ {
+    "verse" : "luke,7,39",
+    "text" : "When the Pharisee who had invited him saw this, he said to himself, \"If this man were a prophet, he would know who is touching him and what kind of woman she is--that she is a sinner.\""
+  }, {
+    "verse" : "luke,7,40",
+    "text" : "Jesus answered him, \"Simon, I have something to tell you.Tell me, teacher,\" he said."
+  }, {
+    "verse" : "luke,7,41",
+    "text" : "\"Two men owed money to a certain moneylender. One owed him five hundred denarii, and the other fifty."
+  }, {
+    "verse" : "luke,7,42",
+    "text" : "Neither of them had the money to pay him back, so he canceled the debts of both. Now which of them will love him more?\""
+  }, {
+    "verse" : "luke,7,43",
+    "text" : "Simon replied, \"I suppose the one who had the bigger debt canceled.You have judged correctly,\" Jesus said."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,7,39",
     "id" : 196472,
@@ -31,7 +55,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 7:39\">7:39</a></b> <b>this man . . . would have known.</b> A Pharisee would have no contact with sinful people, and was sure that no prophet would have such contact either. As Jesus did not dismiss the woman, Simon thought that He either did not know that she was sinful or did not care. In either case, in Simon’s view Jesus could not be a prophet.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,7,44", "luke,7,45", "luke,7,46" ],
+  "verses" : [ {
+    "verse" : "luke,7,44",
+    "text" : "Then he turned toward the woman and said to Simon, \"Do you see this woman? I came into your house. You did not give me any water for my feet, but she wet my feet with her tears and wiped them with her hair."
+  }, {
+    "verse" : "luke,7,45",
+    "text" : "You did not give me a kiss, but this woman, from the time I entered, has not stopped kissing my feet."
+  }, {
+    "verse" : "luke,7,46",
+    "text" : "You did not put oil on my head, but she has poured perfume on my feet."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,7,44-luke,7,46",
     "id" : 196473,
@@ -39,7 +72,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 7:44-Luke 7:46\">7:44–46</a></b> Simon had omitted the courtesies normally given to guests. But the woman made up for this.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,7,47" ],
+  "verses" : [ {
+    "verse" : "luke,7,47",
+    "text" : "Therefore, I tell you, her many sins have been forgiven--for she loved much. But he who has been forgiven little loves little.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,7,47",
     "id" : 196474,
@@ -47,7 +83,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 7:47\">7:47</a></b> <b>for.</b> The woman was forgiven because of faith (<a class=\"bibleref\" href=\"/passage/?search=Luke 7:50\">v. 50</a>). Her love showed that she understood what God’s forgiveness meant for her.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,7,48", "luke,7,49", "luke,7,50", "luke,8,1" ],
+  "verses" : [ {
+    "verse" : "luke,7,48",
+    "text" : "Then Jesus said to her, \"Your sins are forgiven.\""
+  }, {
+    "verse" : "luke,7,49",
+    "text" : "The other guests began to say among themselves, \"Who is this who even forgives sins?\""
+  }, {
+    "verse" : "luke,7,50",
+    "text" : "Jesus said to the woman, \"Your faith has saved you; go in peace.\""
+  }, {
+    "verse" : "luke,8,1",
+    "text" : "After this, Jesus traveled about from one town and village to another, proclaiming the good news of the kingdom of God. The Twelve were with him,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,7,48-luke,7,50",
     "id" : 196475,
@@ -55,7 +103,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 7:48-Luke 7:50\">7:48–50</a></b> Again Jesus authoritatively declares sins to be forgiven, an act that arouses comment (cf. <a class=\"bibleref\" href=\"/passage/?search=Luke 5:20\">5:20</a>, <a class=\"bibleref\" href=\"/passage/?search=Luke 5:21\">21</a>). But His concern is for the woman.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,8,2" ],
+  "verses" : [ {
+    "verse" : "luke,8,2",
+    "text" : "and also some women who had been cured of evil spirits and diseases: Mary (called Magdalene) from whom seven demons had come out;"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,8,2",
     "id" : 196476,
@@ -63,7 +114,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 8:2\">8:2</a></b> Rabbis refused to teach women, so Jesus’ acceptance of them into His group of followers was unusual.</p><p><b>Magdalene.</b> From the town of Magdala.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,8,3" ],
+  "verses" : [ {
+    "verse" : "luke,8,3",
+    "text" : "Joanna the wife of Cuza, the manager of Herod's household; Susanna; and many others. These women were helping to support them out of their own means."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,8,3",
     "id" : 196477,

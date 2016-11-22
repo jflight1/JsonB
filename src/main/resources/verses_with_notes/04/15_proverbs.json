@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,13,5" ],
+  "verses" : [ {
+    "verse" : "proverbs,13,5",
+    "text" : "The righteous hate what is false, but the wicked bring shame and disgrace."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 13:5\">13:5</a></b> <b>righteous.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Prov 8:18\">8:18</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,13,6" ],
+  "verses" : [ {
+    "verse" : "proverbs,13,6",
+    "text" : "Righteousness guards the man of integrity, but wickedness overthrows the sinner."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,13,6",
     "id" : 191927,

@@ -1,5 +1,17 @@
 [ {
-  "singleVerses" : [ "matthew,9,18", "matthew,9,19", "matthew,9,20", "matthew,9,21" ],
+  "verses" : [ {
+    "verse" : "matthew,9,18",
+    "text" : "While he was saying this, a ruler came and knelt before him and said, \"My daughter has just died. But come and put your hand on her, and she will live.\""
+  }, {
+    "verse" : "matthew,9,19",
+    "text" : "Jesus got up and went with him, and so did his disciples."
+  }, {
+    "verse" : "matthew,9,20",
+    "text" : "Just then a woman who had been subject to bleeding for twelve years came up behind him and touched the edge of his cloak."
+  }, {
+    "verse" : "matthew,9,21",
+    "text" : "She said to herself, \"If I only touch his cloak, I will be healed.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,8,1-matthew,9,38",
     "id" : 195692,
@@ -12,7 +24,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 9:18-Matt 9:25\">9:18–25</a></b> As usual, Matthew has a more condensed form of this story than Mark and Luke. Both the story of the ruler’s daughter and the story of the woman with a hemorrhage illustrate the relation between the work of Jesus and the role of faith in the kingdom. The same point appears in the following accounts of the blind man and the mute demoniac. These works (raising the dead, healing the sick, etc.) are in response to faith, not because faith causes them, but because without faith in the King Himself they are not signs of the kingdom but only unaccountable events with no special meaning.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,9,22" ],
+  "verses" : [ {
+    "verse" : "matthew,9,22",
+    "text" : "Jesus turned and saw her. \"Take heart, daughter,\" he said, \"your faith has healed you.\" And the woman was healed from that moment."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,9,22",
     "id" : 195714,
@@ -20,7 +35,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 9:22\">9:22</a></b> <b>your faith has made you well.</b> Her faith made her well because the blessings of the kingdom come to those who look to Jesus for the solution to their problems, not because of any power of faith in itself.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,9,23" ],
+  "verses" : [ {
+    "verse" : "matthew,9,23",
+    "text" : "When Jesus entered the ruler's house and saw the flute players and the noisy crowd,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,9,23",
     "id" : 195715,
@@ -28,7 +46,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 9:23\">9:23</a></b> <b>flute players and the crowd.</b> Professional mourners and others who helped the bereaved express their grief.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,9,24", "matthew,9,25", "matthew,9,26" ],
+  "verses" : [ {
+    "verse" : "matthew,9,24",
+    "text" : "he said, \"Go away. The girl is not dead but asleep.\" But they laughed at him."
+  }, {
+    "verse" : "matthew,9,25",
+    "text" : "After the crowd had been put outside, he went in and took the girl by the hand, and she got up."
+  }, {
+    "verse" : "matthew,9,26",
+    "text" : "News of this spread through all that region."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,9,24",
     "id" : 195716,
@@ -36,7 +63,31 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 9:24\">9:24</a></b> <b>not dead but sleeping.</b> Jesus was prophesying that He would raise her up from death (<a class=\"bibleref\" href=\"/passage/?search=John 11:11-John 11:14\">John 11:11–14</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,9,27", "matthew,9,28", "matthew,9,29", "matthew,9,30", "matthew,9,31", "matthew,9,32", "matthew,9,33", "matthew,9,34" ],
+  "verses" : [ {
+    "verse" : "matthew,9,27",
+    "text" : "As Jesus went on from there, two blind men followed him, calling out, \"Have mercy on us, Son of David!\""
+  }, {
+    "verse" : "matthew,9,28",
+    "text" : "When he had gone indoors, the blind men came to him, and he asked them, \"Do you believe that I am able to do this?Yes, Lord,\" they replied."
+  }, {
+    "verse" : "matthew,9,29",
+    "text" : "Then he touched their eyes and said, \"According to your faith will it be done to you\";"
+  }, {
+    "verse" : "matthew,9,30",
+    "text" : "and their sight was restored. Jesus warned them sternly, \"See that no one knows about this.\""
+  }, {
+    "verse" : "matthew,9,31",
+    "text" : "But they went out and spread the news about him all over that region."
+  }, {
+    "verse" : "matthew,9,32",
+    "text" : "While they were going out, a man who was demon-possessed and could not talk was brought to Jesus."
+  }, {
+    "verse" : "matthew,9,33",
+    "text" : "And when the demon was driven out, the man who had been mute spoke. The crowd was amazed and said, \"Nothing like this has ever been seen in Israel.\""
+  }, {
+    "verse" : "matthew,9,34",
+    "text" : "But the Pharisees said, \"It is by the prince of demons that he drives out demons.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,9,27-matthew,9,31",
     "id" : 195717,
@@ -44,7 +95,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 9:27-Matt 9:31\">9:27–31</a></b> The healing of two blind men related here is similar to the account in <a class=\"bibleref\" href=\"/passage/?search=Matt 20:29-Matt 20:34\">20:29–34</a>, as well as to the healing of Bartimaeus narrated in <a class=\"bibleref\" href=\"/passage/?search=Mark 10:46-Mark 10:52\">Mark 10:46–52</a> (cf. <a class=\"bibleref\" href=\"/passage/?search=Luke 18:35-Luke 18:43\">Luke 18:35–43</a>). Both Bartimaeus and the blind men in <a class=\"bibleref\" href=\"/passage/?search=Matt 9\">Matthew 9</a> and <a class=\"bibleref\" href=\"/passage/?search=Matt 20\">20</a> express their faith by calling Jesus “Son of David,” a messianic title. The similarities have suggested to some that both accounts in Matthew are based on the healing of Bartimaeus, but there are sufficient differences at least between the two accounts in Matthew as to indicate separate incidents.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,9,35", "matthew,9,36" ],
+  "verses" : [ {
+    "verse" : "matthew,9,35",
+    "text" : "Jesus went through all the towns and villages, teaching in their synagogues, preaching the good news of the kingdom and healing every disease and sickness."
+  }, {
+    "verse" : "matthew,9,36",
+    "text" : "When he saw the crowds, he had compassion on them, because they were harassed and helpless, like sheep without a shepherd."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,9,35-matthew,9,38",
     "id" : 195718,
@@ -52,7 +109,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 9:35-Matt 9:38\">9:35–38</a></b> This paragraph summarizes the activity of Jesus in <a class=\"bibleref\" href=\"/passage/?search=Matt 5-Matt 9\">chs. 5–9</a> (teaching, preaching, healing) and introduces the mission discourse of <a class=\"bibleref\" href=\"/passage/?search=Matt 10\">ch. 10</a>. The background is <a class=\"bibleref\" href=\"/passage/?search=Ezek 34:5\">Ezek. 34:5</a>, <a class=\"bibleref\" href=\"/passage/?search=Ezek 34:6\">6</a>. Jesus is the true Shepherd who is concerned for His sheep (<a class=\"bibleref\" href=\"/passage/?search=John 10\">John 10</a>), and He is identified with the “Lord <span class=\"small-caps\">God</span>” of <a class=\"bibleref\" href=\"/passage/?search=Ezek 34:11-Ezek 34:16\">Ezek. 34:11–16</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,9,37", "matthew,9,38" ],
+  "verses" : [ {
+    "verse" : "matthew,9,37",
+    "text" : "Then he said to his disciples, \"The harvest is plentiful but the workers are few."
+  }, {
+    "verse" : "matthew,9,38",
+    "text" : "Ask the Lord of the harvest, therefore, to send out workers into his harvest field.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,9,37",
     "id" : 195719,

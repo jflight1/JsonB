@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "1corinthians,15,1" ],
+  "verses" : [ {
+    "verse" : "1corinthians,15,1",
+    "text" : "Now, brothers, I want to remind you of the gospel I preached to you, which you received and on which you have taken your stand."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1corinthians,15,1",
     "id" : 198150,
@@ -7,7 +10,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Cor 15:1\">15:1</a></b> With this verse, Paul shifts to a new topic of great concern to him—the integrity of the gospel message as it focuses on the doctrine of the Resurrection.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1corinthians,15,2" ],
+  "verses" : [ {
+    "verse" : "1corinthians,15,2",
+    "text" : "By this gospel you are saved, if you hold firmly to the word I preached to you. Otherwise, you have believed in vain."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1corinthians,15,2",
     "id" : 198151,
@@ -15,7 +21,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Cor 15:2\">15:2</a></b> <b>if you hold fast.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Cor 9:27\">9:27</a>.</p><p><b>believed in vain.</b> Denying the resurrection of Christ makes our faith useless (<a class=\"bibleref\" href=\"/passage/?search=1Cor 9:14\">v. 14</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1corinthians,15,3", "1corinthians,15,4" ],
+  "verses" : [ {
+    "verse" : "1corinthians,15,3",
+    "text" : "For what I received I passed on to you as of first importance: that Christ died for our sins according to the Scriptures,"
+  }, {
+    "verse" : "1corinthians,15,4",
+    "text" : "that he was buried, that he was raised on the third day according to the Scriptures,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1corinthians,15,3-1corinthians,15,5",
     "id" : 198152,
@@ -23,7 +35,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Cor 15:3-1Cor 15:5\">15:3–5</a></b> These verses give the essence not only of Paul’s preaching but of the early church’s teaching as a whole (“what I also received”): Christ’s vicarious death and His resurrection as the fulfillment of the Old Testament message.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1corinthians,15,5", "1corinthians,15,6" ],
+  "verses" : [ {
+    "verse" : "1corinthians,15,5",
+    "text" : "and that he appeared to Peter, and then to the Twelve."
+  }, {
+    "verse" : "1corinthians,15,6",
+    "text" : "After that, he appeared to more than five hundred of the brothers at the same time, most of whom are still living, though some have fallen asleep."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1corinthians,15,5-1corinthians,15,8",
     "id" : 198153,
@@ -31,7 +49,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Cor 15:5-1Cor 15:8\">15:5–8</a></b> The fourfold repetition of “he appeared” indicates Paul’s emphasis in this passage—the eyewitness proof that Christ was raised from the dead. Most of those who witnessed the resurrection appearances were still living at the time Paul wrote this letter, so it was possible for anyone to check the facts. Particularly significant is the reference to “more than five hundred brothers at one time,” for it shows that the appearances cannot be explained away as mere personal hallucinations.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1corinthians,15,7" ],
+  "verses" : [ {
+    "verse" : "1corinthians,15,7",
+    "text" : "Then he appeared to James, then to all the apostles,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1corinthians,15,7",
     "id" : 198154,
@@ -39,7 +60,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Cor 15:7\">15:7</a></b> <b>James.</b> This is not John’s brother, the apostle executed by Herod Agrippa (<a class=\"bibleref\" href=\"/passage/?search=Acts 12:2\">Acts 12:2</a>), but the half brother of Jesus (<a class=\"bibleref\" href=\"/passage/?search=John 7:5\">John 7:5</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 12:17\">Acts 12:17</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 15:13\">15:13</a>; <a class=\"bibleref\" href=\"/passage/?search=Gal 1:19\">Gal. 1:19</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1corinthians,15,8", "1corinthians,15,9" ],
+  "verses" : [ {
+    "verse" : "1corinthians,15,8",
+    "text" : "and last of all he appeared to me also, as to one abnormally born."
+  }, {
+    "verse" : "1corinthians,15,9",
+    "text" : "For I am the least of the apostles and do not even deserve to be called an apostle, because I persecuted the church of God."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1corinthians,15,8",
     "id" : 198155,
@@ -47,7 +74,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Cor 15:8\">15:8</a></b> <b>as to one untimely born.</b> This self-deprecating remark may be an ironic criticism of the Corinthians who held Paul in low esteem (<a class=\"bibleref\" href=\"/passage/?search=1Cor 2:1\">2:1</a> note). What the apostle means is suggested by the phrase “last of all.” The appearances of the risen Lord had ceased, and Paul was a persecutor of the church when he received his calling to be an apostle (<a class=\"bibleref\" href=\"/passage/?search=Gal 1:13\">Gal. 1:13</a>, <a class=\"bibleref\" href=\"/passage/?search=Gal 1:23\">23</a>; <a class=\"bibleref\" href=\"/passage/?search=Phil 3:6\">Phil. 3:6</a>; <a class=\"bibleref\" href=\"/passage/?search=1Tim 1:13-1Tim 1:16\">1 Tim. 1:13–16</a>). Although Paul had not been with Jesus during His earthly ministry, he was granted the privilege of seeing Jesus risen from the dead, and was commissioned as an apostle with a special ministry to the Gentiles (<a class=\"bibleref\" href=\"/passage/?search=Acts 9:3-Acts 9:5\">Acts 9:3–5</a>, <a class=\"bibleref\" href=\"/passage/?search=Acts 9:15\">15</a>; <a class=\"bibleref\" href=\"/passage/?search=Gal 1:15\">Gal. 1:15</a>, <a class=\"bibleref\" href=\"/passage/?search=Gal 1:16\">16</a>). What Paul says strongly suggests that the apostolic office was a unique, foundational gift to the church (<a class=\"bibleref\" href=\"/passage/?search=Eph 2:20\">Eph. 2:20</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1corinthians,15,10", "1corinthians,15,11" ],
+  "verses" : [ {
+    "verse" : "1corinthians,15,10",
+    "text" : "But by the grace of God I am what I am, and his grace to me was not without effect. No, I worked harder than all of them--yet not I, but the grace of God that was with me."
+  }, {
+    "verse" : "1corinthians,15,11",
+    "text" : "Whether, then, it was I or they, this is what we preach, and this is what you believed."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1corinthians,15,10",
     "id" : 198156,
@@ -55,7 +88,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Cor 15:10\">15:10</a></b> <b>the grace of God.</b> Having freely admitted the abnormal and undeserving character of his experience, Paul moves on to stress that his past life is no reason to reject his message. Where sin abounds, God’s effectual grace abounds all the more (<a class=\"bibleref\" href=\"/passage/?search=Rom 5:20\">Rom. 5:20</a>); where we are weak, God’s grace is strong (<a class=\"bibleref\" href=\"/passage/?search=2Cor 12:9\">2 Cor. 12:9</a>, <a class=\"bibleref\" href=\"/passage/?search=2Cor 12:10\">10</a>). Divine grace did not make Paul lazy, but caused him to labor “harder” than anyone else.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1corinthians,15,12", "1corinthians,15,13" ],
+  "verses" : [ {
+    "verse" : "1corinthians,15,12",
+    "text" : "But if it is preached that Christ has been raised from the dead, how can some of you say that there is no resurrection of the dead?"
+  }, {
+    "verse" : "1corinthians,15,13",
+    "text" : "If there is no resurrection of the dead, then not even Christ has been raised."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1corinthians,15,12",
     "id" : 198157,
@@ -63,7 +102,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Cor 15:12\">15:12</a></b> <b>there is no resurrection.</b> Paul finally addresses the problem that needs correction. Some of the Corinthians, perhaps without denying that Jesus had been raised, were questioning the doctrine of the resurrection because of their unbiblical understanding of the human body (<a class=\"bibleref\" href=\"/passage/?search=1Cor 15:35\">v. 35</a> note). Paul needed to show them that the resurrection of Jesus cannot be separated from the resurrection of those who are His (<a class=\"bibleref\" href=\"/passage/?search=1Cor 15:20-1Cor 15:23\">vv. 20–23</a>). If their resurrection is not true, neither is His. But to deny, even by implication, that Jesus’ body was raised from the tomb destroys the message of the gospel.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1corinthians,15,14", "1corinthians,15,15", "1corinthians,15,16", "1corinthians,15,17", "1corinthians,15,18" ],
+  "verses" : [ {
+    "verse" : "1corinthians,15,14",
+    "text" : "And if Christ has not been raised, our preaching is useless and so is your faith."
+  }, {
+    "verse" : "1corinthians,15,15",
+    "text" : "More than that, we are then found to be false witnesses about God, for we have testified about God that he raised Christ from the dead. But he did not raise him if in fact the dead are not raised."
+  }, {
+    "verse" : "1corinthians,15,16",
+    "text" : "For if the dead are not raised, then Christ has not been raised either."
+  }, {
+    "verse" : "1corinthians,15,17",
+    "text" : "And if Christ has not been raised, your faith is futile; you are still in your sins."
+  }, {
+    "verse" : "1corinthians,15,18",
+    "text" : "Then those also who have fallen asleep in Christ are lost."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1corinthians,15,14",
     "id" : 198158,
@@ -71,7 +125,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Cor 15:14\">15:14</a></b> <b>our preaching is in vain and your faith is in vain.</b> Cf. <a class=\"bibleref\" href=\"/passage/?search=1Cor 15:17\">v. 17</a>. The truth of the Christian message is tied to the historical reality of Christ’s death and exaltation. The apostle cannot conceive of his message having any spiritual value if its historical foundation does not exist.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1corinthians,15,19" ],
+  "verses" : [ {
+    "verse" : "1corinthians,15,19",
+    "text" : "If only for this life we have hope in Christ, we are to be pitied more than all men."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1corinthians,15,19",
     "id" : 198159,
@@ -79,7 +136,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Cor 15:19\">15:19</a></b> <b>we are . . . most to be pitied.</b> Though Paul would not deny that in the spiritual sense Christians enjoy a better present life than non-Christians, this verse emphasizes the greatness of what God has promised for the life to come. Our hope of salvation is so glorious that if we were still in our sins and lost (<a class=\"bibleref\" href=\"/passage/?search=1Cor 15:17\">vv. 17</a>, <a class=\"bibleref\" href=\"/passage/?search=1Cor 15:18\">18</a>), we would have experienced the greatest and cruelest of all deceptions (<a class=\"bibleref\" href=\"/passage/?search=1Cor 15:31\">vv. 31</a>, <a class=\"bibleref\" href=\"/passage/?search=1Cor 15:32\">32</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1corinthians,15,20" ],
+  "verses" : [ {
+    "verse" : "1corinthians,15,20",
+    "text" : "But Christ has indeed been raised from the dead, the firstfruits of those who have fallen asleep."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1corinthians,15,20",
     "id" : 198160,
@@ -87,7 +147,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Cor 15:20\">15:20</a></b> <b>the firstfruits.</b> At harvesttime the Israelites were required to bring an offering from the first part of the crop (<a class=\"bibleref\" href=\"/passage/?search=Lev 23:10\">Lev. 23:10</a>). This offering was a token of the whole harvest, that all belonged to God. Jesus is called the “firstfruits” because His resurrection and the resurrection of believers are closely related events. Jesus was “the first to rise from the dead” (<a class=\"bibleref\" href=\"/passage/?search=Acts 26:23\">Acts 26:23</a>), rising as our representative. His resurrection caused us to be raised spiritually (<a class=\"bibleref\" href=\"/passage/?search=Rom 6:4\">Rom. 6:4</a>; <a class=\"bibleref\" href=\"/passage/?search=Eph 2:6\">Eph. 2:6</a>), and at the same time guarantees that we will be raised bodily. Another use of the metaphor is found in <a class=\"bibleref\" href=\"/passage/?search=Rom 8:23\">Rom. 8:23</a> (cf. also <a class=\"bibleref\" href=\"/passage/?search=2Cor 1:22\">2 Cor. 1:22</a>; <a class=\"bibleref\" href=\"/passage/?search=2Cor 5:5\">5:5</a>; <a class=\"bibleref\" href=\"/passage/?search=Eph 1:14\">Eph. 1:14</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1corinthians,15,21" ],
+  "verses" : [ {
+    "verse" : "1corinthians,15,21",
+    "text" : "For since death came through a man, the resurrection of the dead comes also through a man."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1corinthians,15,21",
     "id" : 198161,
@@ -95,7 +158,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Cor 15:21\">15:21</a></b> This passage succinctly states one of Paul’s most profound teachings—our twofold solidarity with the first man, Adam, and with the last man, Christ. By virtue of our humanity, we are united with Adam in our present natural existence, in sin, and in death; by virtue of our faith, we are united with Christ in spiritual existence, in righteousness, and in the life to come (<a class=\"bibleref\" href=\"/passage/?search=1Cor 15:45-1Cor 15:49\">vv. 45–49</a>; <a class=\"bibleref\" href=\"/passage/?search=Rom 5:17-Rom 5:19\">Rom. 5:17–19</a>). See theological note “Resurrection and Glorification” on the next page.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1corinthians,15,22", "1corinthians,15,23" ],
+  "verses" : [ {
+    "verse" : "1corinthians,15,22",
+    "text" : "For as in Adam all die, so in Christ all will be made alive."
+  }, {
+    "verse" : "1corinthians,15,23",
+    "text" : "But each in his own turn: Christ, the firstfruits; then, when he comes, those who belong to him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1corinthians,15,22",
     "id" : 198162,
@@ -103,7 +172,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Cor 15:22\">15:22</a></b> <b>in Adam all die.</b> See “The Fall” at <a class=\"bibleref\" href=\"/passage/?search=Gen 3:6\">Gen. 3:6</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1corinthians,15,24", "1corinthians,15,25", "1corinthians,15,26", "1corinthians,15,27", "1corinthians,15,28" ],
+  "verses" : [ {
+    "verse" : "1corinthians,15,24",
+    "text" : "Then the end will come, when he hands over the kingdom to God the Father after he has destroyed all dominion, authority and power."
+  }, {
+    "verse" : "1corinthians,15,25",
+    "text" : "For he must reign until he has put all his enemies under his feet."
+  }, {
+    "verse" : "1corinthians,15,26",
+    "text" : "The last enemy to be destroyed is death."
+  }, {
+    "verse" : "1corinthians,15,27",
+    "text" : "For he \"has put everything under his feet.\" Now when it says that \"everything\" has been put under him, it is clear that this does not include God himself, who put everything under Christ."
+  }, {
+    "verse" : "1corinthians,15,28",
+    "text" : "When he has done this, then the Son himself will be made subject to him who put everything under him, so that God may be all in all."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1corinthians,15,24-1corinthians,15,28",
     "id" : 198163,

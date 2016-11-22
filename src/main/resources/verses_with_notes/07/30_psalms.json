@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,23,1" ],
+  "verses" : [ {
+    "verse" : "psalms,23,1",
+    "text" : "The LORD is my shepherd, I shall not be in want."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,23,1-psalms,23,6",
     "id" : 190390,
@@ -12,7 +15,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 23:1\">23:1</a></b> <b>shepherd.</b> The image of God as shepherd is inexhaustibly rich. The shepherd stays with the flock (<a class=\"bibleref\" href=\"/passage/?search=Isa 40:11\">Is. 40:11</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 63:9-Isa 63:12\">63:9–12</a>). His sheep are totally dependent upon him for food, water, and protection from wild animals. In the New Testament, Jesus is revealed as the shepherd of His people (<a class=\"bibleref\" href=\"/passage/?search=John 10:11\">John 10:11</a>, <a class=\"bibleref\" href=\"/passage/?search=John 10:14\">14</a>), fulfilling the prophecy that God will come to shepherd His people (<a class=\"bibleref\" href=\"/passage/?search=Ezek 34:7-Ezek 34:16\">Ezek. 34:7–16</a>, <a class=\"bibleref\" href=\"/passage/?search=Ezek 34:23\">23</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,23,2", "psalms,23,3" ],
+  "verses" : [ {
+    "verse" : "psalms,23,2",
+    "text" : "He makes me lie down in green pastures, he leads me beside quiet waters,"
+  }, {
+    "verse" : "psalms,23,3",
+    "text" : "he restores my soul. He guides me in paths of righteousness for his name's sake."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,23,2-psalms,23,3",
     "id" : 190392,
@@ -20,7 +29,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 23:2\">23:2</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 23:3\">3</a> makes me lie down . . . leads me . . . restores . . . leads me.</b> These verses extend the metaphor of the shepherd’s care for the sheep. The Lord lovingly cares for His people.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,23,4" ],
+  "verses" : [ {
+    "verse" : "psalms,23,4",
+    "text" : "Even though I walk through the valley of the shadow of death, I will fear no evil, for you are with me; your rod and your staff, they comfort me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,23,4",
     "id" : 190393,
@@ -28,7 +40,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 23:4\">23:4</a></b> <b>valley of the shadow of death.</b> See <a class=\"bibleref\" href=\"/passage/?search=Job 10:21\">Job 10:21</a>, <a class=\"bibleref\" href=\"/passage/?search=Job 10:22\">22</a>.</p><p><b>rod . . . staff.</b> The rod was used to fight wild animals and the staff to direct the flock.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,23,5" ],
+  "verses" : [ {
+    "verse" : "psalms,23,5",
+    "text" : "You prepare a table before me in the presence of my enemies. You anoint my head with oil; my cup overflows."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,23,5-psalms,23,6",
     "id" : 190394,
@@ -41,7 +56,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 23:5\">23:5</a></b> <b>table.</b> The image shifts to that of a banquet, a victory celebration.</p><p><b>anoint.</b> Guests were anointed at feasts (<a class=\"bibleref\" href=\"/passage/?search=Ps 104:15\">Ps. 104:15</a>; <a class=\"bibleref\" href=\"/passage/?search=Luke 7:46\">Luke 7:46</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,23,6" ],
+  "verses" : [ {
+    "verse" : "psalms,23,6",
+    "text" : "Surely goodness and love will follow me all the days of my life, and I will dwell in the house of the LORD forever."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,23,6",
     "id" : 190396,

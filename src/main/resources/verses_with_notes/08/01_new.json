@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "romans,15,1" ],
+  "verses" : [ {
+    "verse" : "romans,15,1",
+    "text" : "We who are strong ought to bear with the failings of the weak and not to please ourselves."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,14,13-romans,15,4",
     "id" : 197924,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 15:1-Rom 15:4\">15:1–4</a></b> <b>We who are strong have an obligation to bear with the failings of the weak.</b> Paul considers himself one of the “strong.” He sees the misinformed conscience of the “weak” as real weakness, yet he emphasizes the responsibility of the “strong” to support the “weak.” He does not encourage feelings of pride, or flaunting one’s freedom in matters offensive to the weak.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,15,2" ],
+  "verses" : [ {
+    "verse" : "romans,15,2",
+    "text" : "Each of us should please his neighbor for his good, to build him up."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,15,2",
     "id" : 197931,
@@ -20,7 +26,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 15:2\">15:2</a></b> See <a class=\"bibleref\" href=\"/passage/?search=Rom 14:19\">14:19</a>; <a class=\"bibleref\" href=\"/passage/?search=1Cor 8:1\">1 Cor. 8:1</a>; <a class=\"bibleref\" href=\"/passage/?search=1Cor 10:23\">10:23</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,15,3" ],
+  "verses" : [ {
+    "verse" : "romans,15,3",
+    "text" : "For even Christ did not please himself but, as it is written: \"The insults of those who insult you have fallen on me.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,15,3",
     "id" : 197932,
@@ -28,7 +37,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 15:3\">15:3</a></b> Paul quotes from <a class=\"bibleref\" href=\"/passage/?search=Ps 69:9\">Ps. 69:9</a>, one of the most frequently quoted psalms in the New Testament. The willingness of the Messiah to deny Himself and suffer for the benefit of others should serve as an example to the Christians in Rome.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,15,4", "romans,15,5" ],
+  "verses" : [ {
+    "verse" : "romans,15,4",
+    "text" : "For everything that was written in the past was written to teach us, so that through endurance and the encouragement of the Scriptures we might have hope."
+  }, {
+    "verse" : "romans,15,5",
+    "text" : "May the God who gives endurance and encouragement give you a spirit of unity among yourselves as you follow Christ Jesus,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,15,4",
     "id" : 197933,
@@ -36,7 +51,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 15:4\">15:4</a></b> <b>written for our instruction.</b> It is basic New Testament teaching that the Old Testament Scriptures were written by divine inspiration for the benefit of Christians (<a class=\"bibleref\" href=\"/passage/?search=1Cor 10:11\">1 Cor. 10:11</a>; <a class=\"bibleref\" href=\"/passage/?search=2Tim 3:15-2Tim 3:17\">2 Tim. 3:15–17</a>; <a class=\"bibleref\" href=\"/passage/?search=1Pet 1:10-1Pet 1:12\">1 Pet. 1:10–12</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,15,6", "romans,15,7" ],
+  "verses" : [ {
+    "verse" : "romans,15,6",
+    "text" : "so that with one heart and mouth you may glorify the God and Father of our Lord Jesus Christ."
+  }, {
+    "verse" : "romans,15,7",
+    "text" : "Accept one another, then, just as Christ accepted you, in order to bring praise to God."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,15,6",
     "id" : 197934,
@@ -44,7 +65,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 15:6\">15:6</a></b> <b>with one voice.</b> See <a class=\"bibleref\" href=\"/passage/?search=Rom 10:9\">10:9</a>, <a class=\"bibleref\" href=\"/passage/?search=Rom 10:10\">10</a>. Unity in the church is essential if God is to be glorified. Paul has demonstrated that humanity, which has fallen short of God’s glory, is restored to it in Christ’s reconciling work (<a class=\"bibleref\" href=\"/passage/?search=Rom 1:21\">1:21</a>, <a class=\"bibleref\" href=\"/passage/?search=Rom 1:23\">23</a>; <a class=\"bibleref\" href=\"/passage/?search=Rom 3:23\">3:23</a>; <a class=\"bibleref\" href=\"/passage/?search=Rom 5:2\">5:2</a>, <a class=\"bibleref\" href=\"/passage/?search=Rom 5:11\">11</a>; <a class=\"bibleref\" href=\"/passage/?search=Rom 8:17\">8:17</a>, <a class=\"bibleref\" href=\"/passage/?search=Rom 8:30\">30</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,15,8", "romans,15,9", "romans,15,10", "romans,15,11", "romans,15,12" ],
+  "verses" : [ {
+    "verse" : "romans,15,8",
+    "text" : "For I tell you that Christ has become a servant of the Jews on behalf of God's truth, to confirm the promises made to the patriarchs"
+  }, {
+    "verse" : "romans,15,9",
+    "text" : "so that the Gentiles may glorify God for his mercy, as it is written: \"Therefore I will praise you among the Gentiles; I will sing hymns to your name.\""
+  }, {
+    "verse" : "romans,15,10",
+    "text" : "Again, it says, \"Rejoice, O Gentiles, with his people.\""
+  }, {
+    "verse" : "romans,15,11",
+    "text" : "And again, \"Praise the Lord, all you Gentiles, and sing praises to him, all you peoples.\""
+  }, {
+    "verse" : "romans,15,12",
+    "text" : "And again, Isaiah says, \"The Root of Jesse will spring up, one who will arise to rule over the nations; the Gentiles will hope in him.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,15,8",
     "id" : 197935,
@@ -52,7 +88,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 15:8\">15:8</a></b> <b>Christ . . . a servant to the circumcised.</b> The mutual acceptance of believers is rooted in Christ’s humility (<a class=\"bibleref\" href=\"/passage/?search=Mark 10:45\">Mark 10:45</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,15,13" ],
+  "verses" : [ {
+    "verse" : "romans,15,13",
+    "text" : "May the God of hope fill you with all joy and peace as you trust in him, so that you may overflow with hope by the power of the Holy Spirit."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,15,13",
     "id" : 197936,
@@ -60,7 +99,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 15:13\">15:13</a></b> See “Hope” at <a class=\"bibleref\" href=\"/passage/?search=Heb 6:18\">Heb. 6:18</a>. What was described as the effect of Scripture in v. 4 (having hope) is now attributed to the work of the Holy Spirit. Paul here follows a pattern evident throughout the New Testament in which God’s saving acts are attributed to God’s Word as well as to the work of the Holy Spirit (e.g., regeneration, <a class=\"bibleref\" href=\"/passage/?search=1Pet 1:23\">1 Pet. 1:23</a>; sanctification, <a class=\"bibleref\" href=\"/passage/?search=John 17:17\">John 17:17</a>; salvation, <a class=\"bibleref\" href=\"/passage/?search=Rom 1:16\">Rom. 1:16</a>; searching the heart, <a class=\"bibleref\" href=\"/passage/?search=Heb 4:12\">Heb. 4:12</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,15,14", "romans,15,15" ],
+  "verses" : [ {
+    "verse" : "romans,15,14",
+    "text" : "I myself am convinced, my brothers, that you yourselves are full of goodness, complete in knowledge and competent to instruct one another."
+  }, {
+    "verse" : "romans,15,15",
+    "text" : "I have written you quite boldly on some points, as if to remind you of them again, because of the grace God gave me"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,15,14-romans,15,22",
     "id" : 197937,
@@ -73,7 +118,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 15:14\">15:14</a></b> <b>my brothers.</b> A further indication of deeply felt emotion (<a class=\"bibleref\" href=\"/passage/?search=Rom 1:13\">1:13</a>; <a class=\"bibleref\" href=\"/passage/?search=Rom 7:1\">7:1</a>, <a class=\"bibleref\" href=\"/passage/?search=Rom 7:4\">4</a>; <a class=\"bibleref\" href=\"/passage/?search=Rom 11:25\">11:25</a>; <a class=\"bibleref\" href=\"/passage/?search=Rom 12:1\">12:1</a>). Paul graciously assures the Romans that his lengthy exposition of the gospel is not intended to raise doubts about their spiritual understanding. Their knowledge of the gospel and ability to apply it practically in mutual admonition (“able to instruct one another”; cf. <a class=\"bibleref\" href=\"/passage/?search=Col 3:16\">Col. 3:16</a>) is not in question.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,15,16" ],
+  "verses" : [ {
+    "verse" : "romans,15,16",
+    "text" : "to be a minister of Christ Jesus to the Gentiles with the priestly duty of proclaiming the gospel of God, so that the Gentiles might become an offering acceptable to God, sanctified by the Holy Spirit."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,15,16",
     "id" : 197939,
@@ -81,7 +129,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 15:16\">15:16</a></b> <b>priestly service of the gospel of God.</b> Paul sees the preaching of the gospel as the means by which the Gentiles will be brought to God as a sacrificial thank-offering (<a class=\"bibleref\" href=\"/passage/?search=Rom 12:1\">12:1</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,15,17", "romans,15,18" ],
+  "verses" : [ {
+    "verse" : "romans,15,17",
+    "text" : "Therefore I glory in Christ Jesus in my service to God."
+  }, {
+    "verse" : "romans,15,18",
+    "text" : "I will not venture to speak of anything except what Christ has accomplished through me in leading the Gentiles to obey God by what I have said and done--"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,15,17-romans,15,20",
     "id" : 197940,
@@ -89,7 +143,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 15:17-Rom 15:20\">15:17–20</a></b> Paul describes his ministry very naturally in Trinitarian terms (God the Father, <a class=\"bibleref\" href=\"/passage/?search=Rom 15:17\">vv. 17</a>, <a class=\"bibleref\" href=\"/passage/?search=Rom 15:18\">18</a>; the <a class=\"bibleref\" href=\"/passage/?search=Song 1:17\">Son, vv. 17–20</a>; the Spirit, v. 19; cf. v. 16).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,15,19", "romans,15,20", "romans,15,21", "romans,15,22" ],
+  "verses" : [ {
+    "verse" : "romans,15,19",
+    "text" : "by the power of signs and miracles, through the power of the Spirit. So from Jerusalem all the way around to Illyricum, I have fully proclaimed the gospel of Christ."
+  }, {
+    "verse" : "romans,15,20",
+    "text" : "It has always been my ambition to preach the gospel where Christ was not known, so that I would not be building on someone else's foundation."
+  }, {
+    "verse" : "romans,15,21",
+    "text" : "Rather, as it is written: \"Those who were not told about him will see, and those who have not heard will understand.\""
+  }, {
+    "verse" : "romans,15,22",
+    "text" : "This is why I have often been hindered from coming to you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,15,19",
     "id" : 197941,

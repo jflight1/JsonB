@@ -1,5 +1,35 @@
 [ {
-  "singleVerses" : [ "numbers,10,1", "numbers,10,2", "numbers,10,3", "numbers,10,4", "numbers,10,5", "numbers,10,6", "numbers,10,7", "numbers,10,8", "numbers,10,9", "numbers,10,10" ],
+  "verses" : [ {
+    "verse" : "numbers,10,1",
+    "text" : "The LORD said to Moses:"
+  }, {
+    "verse" : "numbers,10,2",
+    "text" : "\"Make two trumpets of hammered silver, and use them for calling the community together and for having the camps set out."
+  }, {
+    "verse" : "numbers,10,3",
+    "text" : "When both are sounded, the whole community is to assemble before you at the entrance to the Tent of Meeting."
+  }, {
+    "verse" : "numbers,10,4",
+    "text" : "If only one is sounded, the leaders-the heads of the clans of Israel-are to assemble before you."
+  }, {
+    "verse" : "numbers,10,5",
+    "text" : "When a trumpet blast is sounded, the tribes camping on the east are to set out."
+  }, {
+    "verse" : "numbers,10,6",
+    "text" : "At the sounding of a second blast, the camps on the south are to set out. The blast will be the signal for setting out."
+  }, {
+    "verse" : "numbers,10,7",
+    "text" : "To gather the assembly, blow the trumpets, but not with the same signal."
+  }, {
+    "verse" : "numbers,10,8",
+    "text" : "\"The sons of Aaron, the priests, are to blow the trumpets. This is to be a lasting ordinance for you and the generations to come."
+  }, {
+    "verse" : "numbers,10,9",
+    "text" : "When you go into battle in your own land against an enemy who is oppressing you, sound a blast on the trumpets. Then you will be remembered by the LORD your God and rescued from your enemies."
+  }, {
+    "verse" : "numbers,10,10",
+    "text" : "Also at your times of rejoicing-your appointed feasts and New Moon festivals-you are to sound the trumpets over your burnt offerings and fellowship offerings, and they will be a memorial for you before your God. I am the LORD your God.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,1,1-numbers,10,10",
     "id" : 186171,
@@ -12,7 +42,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Num 9:15-Num 10:6\">9:15–10:6</a></b> Two kinds of guidance were arranged for the march: supernatural guidance by the cloud (<a class=\"bibleref\" href=\"/passage/?search=Num 9:15-Num 9:23\">9:15–23</a>) and orders from Moses given by trumpet (<a class=\"bibleref\" href=\"/passage/?search=Num 10:1-Num 10:6\">10:1–6</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "numbers,10,11", "numbers,10,12", "numbers,10,13" ],
+  "verses" : [ {
+    "verse" : "numbers,10,11",
+    "text" : "On the twentieth day of the second month of the second year, the cloud lifted from above the tabernacle of the Testimony."
+  }, {
+    "verse" : "numbers,10,12",
+    "text" : "Then the Israelites set out from the Desert of Sinai and traveled from place to place until the cloud came to rest in the Desert of Paran."
+  }, {
+    "verse" : "numbers,10,13",
+    "text" : "They set out, this first time, at the LORD's command through Moses."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,10,11-numbers,22,1",
     "id" : 186203,
@@ -25,7 +64,52 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Num 10:11\">10:11</a></b> <b>year . . . month . . . day.</b> Almost fourteen months after the Exodus from Egypt and eleven months after the arrival at Sinai (<a class=\"bibleref\" href=\"/passage/?search=Exod 19:1\">Ex. 19:1</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "numbers,10,14", "numbers,10,15", "numbers,10,16", "numbers,10,17", "numbers,10,18", "numbers,10,19", "numbers,10,20", "numbers,10,21", "numbers,10,22", "numbers,10,23", "numbers,10,24", "numbers,10,25", "numbers,10,26", "numbers,10,27", "numbers,10,28" ],
+  "verses" : [ {
+    "verse" : "numbers,10,14",
+    "text" : "The divisions of the camp of Judah went first, under their standard. Nahshon son of Amminadab was in command."
+  }, {
+    "verse" : "numbers,10,15",
+    "text" : "Nethanel son of Zuar was over the division of the tribe of Issachar,"
+  }, {
+    "verse" : "numbers,10,16",
+    "text" : "and Eliab son of Helon was over the division of the tribe of Zebulun."
+  }, {
+    "verse" : "numbers,10,17",
+    "text" : "Then the tabernacle was taken down, and the Gershonites and Merarites, who carried it, set out."
+  }, {
+    "verse" : "numbers,10,18",
+    "text" : "The divisions of the camp of Reuben went next, under their standard. Elizur son of Shedeur was in command."
+  }, {
+    "verse" : "numbers,10,19",
+    "text" : "Shelumiel son of Zurishaddai was over the division of the tribe of Simeon,"
+  }, {
+    "verse" : "numbers,10,20",
+    "text" : "and Eliasaph son of Deuel was over the division of the tribe of Gad."
+  }, {
+    "verse" : "numbers,10,21",
+    "text" : "Then the Kohathites set out, carrying the holy things. The tabernacle was to be set up before they arrived."
+  }, {
+    "verse" : "numbers,10,22",
+    "text" : "The divisions of the camp of Ephraim went next, under their standard. Elishama son of Ammihud was in command."
+  }, {
+    "verse" : "numbers,10,23",
+    "text" : "Gamaliel son of Pedahzur was over the division of the tribe of Manasseh,"
+  }, {
+    "verse" : "numbers,10,24",
+    "text" : "and Abidan son of Gideoni was over the division of the tribe of Benjamin."
+  }, {
+    "verse" : "numbers,10,25",
+    "text" : "Finally, as the rear guard for all the units, the divisions of the camp of Dan set out, under their standard. Ahiezer son of Ammishaddai was in command."
+  }, {
+    "verse" : "numbers,10,26",
+    "text" : "Pagiel son of Ocran was over the division of the tribe of Asher,"
+  }, {
+    "verse" : "numbers,10,27",
+    "text" : "and Ahira son of Enan was over the division of the tribe of Naphtali."
+  }, {
+    "verse" : "numbers,10,28",
+    "text" : "This was the order of march for the Israelite divisions as they set out."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,10,14-numbers,10,28",
     "id" : 186205,
@@ -33,7 +117,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Num 10:14-Num 10:28\">10:14–28</a></b> The order of march follows the prescription of <a class=\"bibleref\" href=\"/passage/?search=Num 2\">ch. 2</a>, though more detail about the Levites is given here (vv. 17, <a class=\"bibleref\" href=\"/passage/?search=Num 2:21\">21</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "numbers,10,29", "numbers,10,30", "numbers,10,31", "numbers,10,32", "numbers,10,33", "numbers,10,34" ],
+  "verses" : [ {
+    "verse" : "numbers,10,29",
+    "text" : "Now Moses said to Hobab son of Reuel the Midianite, Moses' father-in-law, \"We are setting out for the place about which the LORD said, 'I will give it to you.' Come with us and we will treat you well, for the LORD has promised good things to Israel.\""
+  }, {
+    "verse" : "numbers,10,30",
+    "text" : "He answered, \"No, I will not go; I am going back to my own land and my own people.\""
+  }, {
+    "verse" : "numbers,10,31",
+    "text" : "But Moses said, \"Please do not leave us. You know where we should camp in the desert, and you can be our eyes."
+  }, {
+    "verse" : "numbers,10,32",
+    "text" : "If you come with us, we will share with you whatever good things the LORD gives us.\""
+  }, {
+    "verse" : "numbers,10,33",
+    "text" : "So they set out from the mountain of the LORD and traveled for three days. The ark of the covenant of the LORD went before them during those three days to find them a place to rest."
+  }, {
+    "verse" : "numbers,10,34",
+    "text" : "The cloud of the LORD was over them by day when they set out from the camp."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,10,29",
     "id" : 186206,
@@ -41,7 +143,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Num 10:29\">10:29</a></b> <b>Hobab.</b> Yet another element of guidance is found. Moses asked his Midianite brother-in-law, a man familiar with the wilderness, for assistance (<a class=\"bibleref\" href=\"/passage/?search=Exod 2:16-Exod 3:1\">Ex. 2:16–3:1</a>; <a class=\"bibleref\" href=\"/passage/?search=Judg 1:16\">Judg. 1:16</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "numbers,10,35", "numbers,10,36", "numbers,11,1", "numbers,11,2", "numbers,11,3" ],
+  "verses" : [ {
+    "verse" : "numbers,10,35",
+    "text" : "Whenever the ark set out, Moses said, \"Rise up, O LORD! May your enemies be scattered; may your foes flee before you.\""
+  }, {
+    "verse" : "numbers,10,36",
+    "text" : "Whenever it came to rest, he said, \"Return, O LORD, to the countless thousands of Israel.\""
+  }, {
+    "verse" : "numbers,11,1",
+    "text" : "Now the people complained about their hardships in the hearing of the LORD, and when he heard them his anger was aroused. Then fire from the LORD burned among them and consumed some of the outskirts of the camp."
+  }, {
+    "verse" : "numbers,11,2",
+    "text" : "When the people cried out to Moses, he prayed to the LORD and the fire died down."
+  }, {
+    "verse" : "numbers,11,3",
+    "text" : "So that place was called Taberah, because fire from the LORD had burned among them. Quail From the LORD"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,10,35-numbers,10,36",
     "id" : 186207,
@@ -49,7 +166,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Num 10:35-Num 10:36\">10:35–36</a></b> Moses was intensely conscious of God’s mighty presence with His people. These prayers honor the Lord as the divine Warrior who goes before the host of the people (<a class=\"bibleref\" href=\"/passage/?search=Num 10:35\">v. 35</a>), and as the source of divine protection for the camp (<a class=\"bibleref\" href=\"/passage/?search=Num 10:36\">v. 36</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "numbers,11,4", "numbers,11,5", "numbers,11,6" ],
+  "verses" : [ {
+    "verse" : "numbers,11,4",
+    "text" : "The rabble with them began to crave other food, and again the Israelites started wailing and said, \"If only we had meat to eat!"
+  }, {
+    "verse" : "numbers,11,5",
+    "text" : "We remember the fish we ate in Egypt at no cost-also the cucumbers, melons, leeks, onions and garlic."
+  }, {
+    "verse" : "numbers,11,6",
+    "text" : "But now we have lost our appetite; we never see anything but this manna!\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,11,4",
     "id" : 186208,
@@ -57,7 +183,58 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Num 11:4\">11:4</a></b> <b>the rabble.</b> These were non-Israelites who came out from Egypt with the Israelites (<a class=\"bibleref\" href=\"/passage/?search=Exod 12:38\">Ex. 12:38</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "numbers,11,7", "numbers,11,8", "numbers,11,9", "numbers,11,10", "numbers,11,11", "numbers,11,12", "numbers,11,13", "numbers,11,14", "numbers,11,15", "numbers,11,16", "numbers,11,17", "numbers,11,18", "numbers,11,19", "numbers,11,20", "numbers,11,21", "numbers,11,22", "numbers,11,23" ],
+  "verses" : [ {
+    "verse" : "numbers,11,7",
+    "text" : "The manna was like coriander seed and looked like resin."
+  }, {
+    "verse" : "numbers,11,8",
+    "text" : "The people went around gathering it, and then ground it in a handmill or crushed it in a mortar. They cooked it in a pot or made it into cakes. And it tasted like something made with olive oil."
+  }, {
+    "verse" : "numbers,11,9",
+    "text" : "When the dew settled on the camp at night, the manna also came down."
+  }, {
+    "verse" : "numbers,11,10",
+    "text" : "Moses heard the people of every family wailing, each at the entrance to his tent. The LORD became exceedingly angry, and Moses was troubled."
+  }, {
+    "verse" : "numbers,11,11",
+    "text" : "He asked the LORD, \"Why have you brought this trouble on your servant? What have I done to displease you that you put the burden of all these people on me?"
+  }, {
+    "verse" : "numbers,11,12",
+    "text" : "Did I conceive all these people? Did I give them birth? Why do you tell me to carry them in my arms, as a nurse carries an infant, to the land you promised on oath to their forefathers?"
+  }, {
+    "verse" : "numbers,11,13",
+    "text" : "Where can I get meat for all these people? They keep wailing to me, 'Give us meat to eat!'"
+  }, {
+    "verse" : "numbers,11,14",
+    "text" : "I cannot carry all these people by myself; the burden is too heavy for me."
+  }, {
+    "verse" : "numbers,11,15",
+    "text" : "If this is how you are going to treat me, put me to death right now-if I have found favor in your eyes-and do not let me face my own ruin.\""
+  }, {
+    "verse" : "numbers,11,16",
+    "text" : "The LORD said to Moses: \"Bring me seventy of Israel's elders who are known to you as leaders and officials among the people. Have them come to the Tent of Meeting, that they may stand there with you."
+  }, {
+    "verse" : "numbers,11,17",
+    "text" : "I will come down and speak with you there, and I will take of the Spirit that is on you and put the Spirit on them. They will help you carry the burden of the people so that you will not have to carry it alone."
+  }, {
+    "verse" : "numbers,11,18",
+    "text" : "\"Tell the people: 'Consecrate yourselves in preparation for tomorrow, when you will eat meat. The LORD heard you when you wailed, \"If only we had meat to eat! We were better off in Egypt!\" Now the LORD will give you meat, and you will eat it."
+  }, {
+    "verse" : "numbers,11,19",
+    "text" : "You will not eat it for just one day, or two days, or five, ten or twenty days,"
+  }, {
+    "verse" : "numbers,11,20",
+    "text" : "but for a whole month-until it comes out of your nostrils and you loathe it-because you have rejected the LORD, who is among you, and have wailed before him, saying, \"Why did we ever leave Egypt?\"'\""
+  }, {
+    "verse" : "numbers,11,21",
+    "text" : "But Moses said, \"Here I am among six hundred thousand men on foot, and you say, 'I will give them meat to eat for a whole month!'"
+  }, {
+    "verse" : "numbers,11,22",
+    "text" : "Would they have enough if flocks and herds were slaughtered for them? Would they have enough if all the fish in the sea were caught for them?\""
+  }, {
+    "verse" : "numbers,11,23",
+    "text" : "The LORD answered Moses, \"Is the LORD's arm too short? You will now see whether or not what I say will come true for you.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,11,7",
     "id" : 186209,

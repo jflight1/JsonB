@@ -1,8 +1,14 @@
 [ {
-  "singleVerses" : [ "luke,11,37" ],
+  "verses" : [ {
+    "verse" : "luke,11,37",
+    "text" : "When Jesus had finished speaking, a Pharisee invited him to eat with him; so he went in and reclined at the table."
+  } ],
   "rsbNotes" : [ ]
 }, {
-  "singleVerses" : [ "luke,11,38" ],
+  "verses" : [ {
+    "verse" : "luke,11,38",
+    "text" : "But the Pharisee, noticing that Jesus did not first wash before the meal, was surprised."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,11,38",
     "id" : 196578,
@@ -10,7 +16,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 11:38\">11:38</a></b> <b>wash before dinner.</b> Such washing was not for reasons of hygiene, but ceremonial purity. The hands made contact with all sorts of things, some of which may have been ritually defiling. Scrupulous Jews purified themselves by washing their hands before eating so that defiled hands would not contaminate their food.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,11,39", "luke,11,40", "luke,11,41" ],
+  "verses" : [ {
+    "verse" : "luke,11,39",
+    "text" : "Then the Lord said to him, \"Now then, you Pharisees clean the outside of the cup and dish, but inside you are full of greed and wickedness."
+  }, {
+    "verse" : "luke,11,40",
+    "text" : "You foolish people! Did not the one who made the outside make the inside also?"
+  }, {
+    "verse" : "luke,11,41",
+    "text" : "But give what is inside the dish to the poor, and everything will be clean for you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,11,39-luke,11,40",
     "id" : 196579,
@@ -18,7 +33,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 11:39\">11:39</a>, <a class=\"bibleref\" href=\"/passage/?search=Luke 11:40\">40</a></b> Pharisees were scrupulous about the rules for outward ceremonial cleanness. Yet people could keep them all and still be defiled inwardly.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,11,42" ],
+  "verses" : [ {
+    "verse" : "luke,11,42",
+    "text" : "\"Woe to you Pharisees, because you give God a tenth of your mint, rue and all other kinds of garden herbs, but you neglect justice and the love of God. You should have practiced the latter without leaving the former undone."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,11,42",
     "id" : 196580,
@@ -26,7 +44,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 11:42\">11:42</a></b> <b>woe.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Luke 6:24-Luke 6:26\">6:24–26</a>.</p><p><b>tithe.</b> Tithing was intended as a joyful and thankful offering expressing love for God, but the Pharisees, by counting up stalks of mint and the like, had turned it into a burdensome duty.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,11,43" ],
+  "verses" : [ {
+    "verse" : "luke,11,43",
+    "text" : "\"Woe to you Pharisees, because you love the most important seats in the synagogues and greetings in the marketplaces."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,11,43",
     "id" : 196581,
@@ -34,7 +55,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 11:43\">11:43</a></b> <b>greetings.</b> Elaborate salutations that showed the recipients to be important people.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,11,44" ],
+  "verses" : [ {
+    "verse" : "luke,11,44",
+    "text" : "\"Woe to you, because you are like unmarked graves, which men walk over without knowing it.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,11,44",
     "id" : 196582,
@@ -42,7 +66,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 11:44\">11:44</a></b> <b>unmarked graves.</b> Touching a grave made a person ceremonially defiled (<a class=\"bibleref\" href=\"/passage/?search=Num 19:16\">Num. 19:16</a>), so graves were whitewashed to warn people. An unmarked grave was a hidden source of ritual impurity.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,11,45" ],
+  "verses" : [ {
+    "verse" : "luke,11,45",
+    "text" : "One of the experts in the law answered him, \"Teacher, when you say these things, you insult us also.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,11,45",
     "id" : 196583,
@@ -50,7 +77,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 11:45\">11:45</a></b> <b>lawyers.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Luke 10:25\">10:25</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,11,46" ],
+  "verses" : [ {
+    "verse" : "luke,11,46",
+    "text" : "Jesus replied, \"And you experts in the law, woe to you, because you load people down with burdens they can hardly carry, and you yourselves will not lift one finger to help them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,11,46",
     "id" : 196584,
@@ -58,7 +88,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 11:46\">11:46</a></b> <b>burdens hard to bear.</b> The legal experts added to the law many regulations meant to ensure that the law itself would not be broken, but which imposed a heavy burden.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,11,47", "luke,11,48" ],
+  "verses" : [ {
+    "verse" : "luke,11,47",
+    "text" : "\"Woe to you, because you build tombs for the prophets, and it was your forefathers who killed them."
+  }, {
+    "verse" : "luke,11,48",
+    "text" : "So you testify that you approve of what your forefathers did; they killed the prophets, and you build their tombs."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,11,47",
     "id" : 196585,
@@ -66,7 +102,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 11:47\">11:47</a></b> <b>tombs of the prophets.</b> They saw themselves as honoring those great men of God, but building tombs could not hide their complicity with those who killed them (<a class=\"bibleref\" href=\"/passage/?search=Luke 11:48\">v. 48</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,11,49" ],
+  "verses" : [ {
+    "verse" : "luke,11,49",
+    "text" : "Because of this, God in his wisdom said, 'I will send them prophets and apostles, some of whom they will kill and others they will persecute.'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,11,49",
     "id" : 196586,
@@ -74,7 +113,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 11:49\">11:49</a></b> <b>I will send . . . persecute.</b> The source of the quotation has not been discovered. Jesus Himself may be saying that this is the way God’s wisdom works out.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,11,50", "luke,11,51" ],
+  "verses" : [ {
+    "verse" : "luke,11,50",
+    "text" : "Therefore this generation will be held responsible for the blood of all the prophets that has been shed since the beginning of the world,"
+  }, {
+    "verse" : "luke,11,51",
+    "text" : "from the blood of Abel to the blood of Zechariah, who was killed between the altar and the sanctuary. Yes, I tell you, this generation will be held responsible for it all."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,11,50-luke,11,51",
     "id" : 196587,
@@ -82,7 +127,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 11:50\">11:50</a>, <a class=\"bibleref\" href=\"/passage/?search=Luke 11:51\">51</a></b> Jesus’ own generation was guilty, for in rejecting Jesus it rejected the prophets who had spoken of Him. Thus, these people shared in the guilt for the deaths of righteous men. Abel was the first person murdered (<a class=\"bibleref\" href=\"/passage/?search=Gen 4:8\">Gen. 4:8</a>), and Zechariah’s murder may be the last in the Old Testament (<a class=\"bibleref\" href=\"/passage/?search=2Chr 24:21-2Chr 24:22\">2 Chr. 24:21–22</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Matt 23:35\">Matt. 23:35</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,11,52", "luke,11,53", "luke,11,54" ],
+  "verses" : [ {
+    "verse" : "luke,11,52",
+    "text" : "\"Woe to you experts in the law, because you have taken away the key to knowledge. You yourselves have not entered, and you have hindered those who were entering.\""
+  }, {
+    "verse" : "luke,11,53",
+    "text" : "When Jesus left there, the Pharisees and the teachers of the law began to oppose him fiercely and to besiege him with questions,"
+  }, {
+    "verse" : "luke,11,54",
+    "text" : "waiting to catch him in something he might say."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,11,52",
     "id" : 196588,
@@ -90,7 +144,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 11:52\">11:52</a></b> <b>taken away the key of knowledge.</b> Through their traditional interpretation of the law, the “lawyers” had made it impossible for ordinary people to understand the true meaning of the law. The Pharisees and lawyers themselves also used their traditions to evade the demands of the law (cf. <a class=\"bibleref\" href=\"/passage/?search=Mark 7:5-Mark 7:13\">Mark 7:5–13</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,12,1" ],
+  "verses" : [ {
+    "verse" : "luke,12,1",
+    "text" : "Meanwhile, when a crowd of many thousands had gathered, so that they were trampling on one another, Jesus began to speak first to his disciples, saying: \"Be on your guard against the yeast of the Pharisees, which is hypocrisy."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,12,1",
     "id" : 196589,
@@ -98,7 +155,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 12:1\">12:1</a></b> <b>thousands.</b> The word strictly means “ten thousands” but was used generally of any large number. Jesus’ teaching was addressed primarily to His disciples, though the crowds would also have heard and profited.</p><p><b>leaven.</b> People were familiar with the way a little leaven slowly permeates and transforms a large mass of dough. Jesus elsewhere uses the figure of leaven to illustrate the hidden working of God’s kingdom (<a class=\"bibleref\" href=\"/passage/?search=Luke 13:21\">13:21</a>), but here it describes the negative influence of the Pharisees (<a class=\"bibleref\" href=\"/passage/?search=Mark 8:15\">Mark 8:15</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,12,2" ],
+  "verses" : [ {
+    "verse" : "luke,12,2",
+    "text" : "There is nothing concealed that will not be disclosed, or hidden that will not be made known."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,12,2-luke,12,3",
     "id" : 196590,
@@ -106,7 +166,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 12:2\">12:2</a>, <a class=\"bibleref\" href=\"/passage/?search=Luke 12:3\">3</a></b> On Judgment Day everything will be brought into the open; all hypocrisy will be unmasked.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,12,3", "luke,12,4" ],
+  "verses" : [ {
+    "verse" : "luke,12,3",
+    "text" : "What you have said in the dark will be heard in the daylight, and what you have whispered in the ear in the inner rooms will be proclaimed from the roofs."
+  }, {
+    "verse" : "luke,12,4",
+    "text" : "\"I tell you, my friends, do not be afraid of those who kill the body and after that can do no more."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,12,3",
     "id" : 196591,
@@ -114,7 +180,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 12:3\">12:3</a></b> <b>private rooms.</b> Mud brick walls could be dug through, so storerooms where valuables could be kept were well away from outside walls (and therefore secret).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,12,5" ],
+  "verses" : [ {
+    "verse" : "luke,12,5",
+    "text" : "But I will show you whom you should fear: Fear him who, after the killing of the body, has power to throw you into hell. Yes, I tell you, fear him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,12,5",
     "id" : 196592,
@@ -122,7 +191,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 12:5\">12:5</a></b> <b>authority to cast into hell.</b> Only God has this power. The word translated “hell” here is <i>Gehenna,</i> the place of final punishment (not <i>Hades,</i> a general word for the place of all the dead). <i>Gehenna</i> derives from Hebrew words meaning “valley of Hinnom,” located outside Jerusalem (<a class=\"bibleref\" href=\"/passage/?search=Matt 5:22\">Matt. 5:22</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,12,6", "luke,12,7" ],
+  "verses" : [ {
+    "verse" : "luke,12,6",
+    "text" : "Are not five sparrows sold for two pennies? Yet not one of them is forgotten by God."
+  }, {
+    "verse" : "luke,12,7",
+    "text" : "Indeed, the very hairs of your head are all numbered. Don't be afraid; you are worth more than many sparrows."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,12,6",
     "id" : 196593,

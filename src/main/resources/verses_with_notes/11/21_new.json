@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "james,5,1" ],
+  "verses" : [ {
+    "verse" : "james,5,1",
+    "text" : "Now listen, you rich people, weep and wail because of the misery that is coming upon you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "james,5,1",
     "id" : 199369,
@@ -7,7 +10,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jas 5:1\">5:1</a></b> <b>rich.</b> The Bible nowhere condemns wealth itself. It is often viewed as the blessing of God (<a class=\"bibleref\" href=\"/passage/?search=Prov 10:22\">Prov. 10:22</a>). However, the rich, as a social class, are often guilty of exploiting and oppressing the poor. God reserves severe judgment for this (<a class=\"bibleref\" href=\"/passage/?search=Luke 6:24\">Luke 6:24</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "james,5,2", "james,5,3" ],
+  "verses" : [ {
+    "verse" : "james,5,2",
+    "text" : "Your wealth has rotted, and moths have eaten your clothes."
+  }, {
+    "verse" : "james,5,3",
+    "text" : "Your gold and silver are corroded. Their corrosion will testify against you and eat your flesh like fire. You have hoarded wealth in the last days."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "james,5,2-james,5,3",
     "id" : 199370,
@@ -15,7 +24,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jas 5:2\">5:2</a>, <a class=\"bibleref\" href=\"/passage/?search=Jas 5:3\">3</a> rotted . . . moth-eaten . . . corroded.</b> Earthly treasures are subject to decay and eventually perish. James echoes the teaching of Jesus (<a class=\"bibleref\" href=\"/passage/?search=Matt 6:20\">Matt. 6:20</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "james,5,4" ],
+  "verses" : [ {
+    "verse" : "james,5,4",
+    "text" : "Look! The wages you failed to pay the workmen who mowed your fields are crying out against you. The cries of the harvesters have reached the ears of the Lord Almighty."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "james,5,4",
     "id" : 199371,
@@ -23,7 +35,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jas 5:4\">5:4</a></b> <b>wages . . . you kept back.</b> This is a violation of the law of God. Wages are not only to be paid, they are to be paid on time (<a class=\"bibleref\" href=\"/passage/?search=Lev 19:13\">Lev. 19:13</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 24:14\">Deut. 24:14</a>, <a class=\"bibleref\" href=\"/passage/?search=Deut 24:15\">15</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "james,5,5" ],
+  "verses" : [ {
+    "verse" : "james,5,5",
+    "text" : "You have lived on earth in luxury and self-indulgence. You have fattened yourselves in the day of slaughter."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "james,5,5",
     "id" : 199372,
@@ -31,7 +46,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jas 5:5\">5:5</a></b> <b>fattened your hearts.</b> Like animals fattened for slaughter, the rich are unaware of the disaster awaiting them.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "james,5,6" ],
+  "verses" : [ {
+    "verse" : "james,5,6",
+    "text" : "You have condemned and murdered innocent men, who were not opposing you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "james,5,6",
     "id" : 199373,
@@ -39,7 +57,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jas 5:6\">5:6</a></b> <b>condemned . . . murdered.</b> The unjust use of power often causes the death of innocent people. The verse could also be understood figuratively, since to rob people of their wages and livelihood is to commit a kind of murder against them.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "james,5,7", "james,5,8" ],
+  "verses" : [ {
+    "verse" : "james,5,7",
+    "text" : "Be patient, then, brothers, until the Lord's coming. See how the farmer waits for the land to yield its valuable crop and how patient he is for the autumn and spring rains."
+  }, {
+    "verse" : "james,5,8",
+    "text" : "You too, be patient and stand firm, because the Lord's coming is near."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "james,5,7",
     "id" : 199374,
@@ -47,7 +71,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jas 5:7\">5:7</a></b> <b>patient.</b> The saints require patience as they await God’s promised vindication of His people. God promises justice to correct prevailing forms of injustice in this world (<a class=\"bibleref\" href=\"/passage/?search=Luke 18:1-Luke 18:8\">Luke 18:1–8</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "james,5,9", "james,5,10", "james,5,11" ],
+  "verses" : [ {
+    "verse" : "james,5,9",
+    "text" : "Don't grumble against each other, brothers, or you will be judged. The Judge is standing at the door!"
+  }, {
+    "verse" : "james,5,10",
+    "text" : "Brothers, as an example of patience in the face of suffering, take the prophets who spoke in the name of the Lord."
+  }, {
+    "verse" : "james,5,11",
+    "text" : "As you know, we consider blessed those who have persevered. You have heard of Job's perseverance and have seen what the Lord finally brought about. The Lord is full of compassion and mercy."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "james,5,9",
     "id" : 199375,
@@ -55,7 +88,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jas 5:9\">5:9</a></b> <b>Judge is standing at the door.</b> This verse reflects the urgent sense of the nearness of Christ’s coming. James is echoing the New Testament hope of the return of Jesus who comes at the end of the age. James may also be thinking of the radical nearness of judgment facing every person whose life will soon be over and who will stand before the judgment of God. See <a class=\"bibleref\" href=\"/passage/?search=Jas 5:3\">v. 3</a> where James mentions the “last days.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "james,5,12" ],
+  "verses" : [ {
+    "verse" : "james,5,12",
+    "text" : "Above all, my brothers, do not swear--not by heaven or by earth or by anything else. Let your \"Yes\" be yes, and your \"No,\" no, or you will be condemned."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "james,5,12",
     "id" : 199376,
@@ -63,7 +99,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jas 5:12\">5:12</a></b> <b>above all.</b> This emphatic exhortation signals a weighty priority for godliness. To exalt refraining from false oaths and vows to a high level of priority may seem strange to some, but is consistent with the biblical concern for covenant-keeping and the sanctity of the faith.</p><p><b>do not swear.</b> This is not a prohibition against cursing or the use of vulgarity. It concerns taking oaths by appealing to objects as witnesses (which in biblical terms is a form of idolatry). Only God has the power to be an omnipresent, omniscient witness to oaths and vows. Just and godly vows are not prohibited because they form a vital part of all covenants.</p><p><b>“yes” be yes.</b> The Christian is expected to be a person whose word can be trusted. James’s teaching here echoes that of Jesus in the Sermon on the Mount (<a class=\"bibleref\" href=\"/passage/?search=Matt 5:34-Matt 5:37\">Matt. 5:34–37</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "james,5,13" ],
+  "verses" : [ {
+    "verse" : "james,5,13",
+    "text" : "Is any one of you in trouble? He should pray. Is anyone happy? Let him sing songs of praise."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "james,5,13",
     "id" : 199377,
@@ -71,7 +110,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jas 5:13\">5:13</a></b> <b>Let him sing praise.</b> See “Music in the Church” at <a class=\"bibleref\" href=\"/passage/?search=Col 3:16\">Col. 3:16</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "james,5,14" ],
+  "verses" : [ {
+    "verse" : "james,5,14",
+    "text" : "Is any one of you sick? He should call the elders of the church to pray over him and anoint him with oil in the name of the Lord."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "james,5,14",
     "id" : 199378,
@@ -79,7 +121,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jas 5:14\">5:14</a></b> <b>elders.</b> See <a class=\"bibleref\" href=\"/passage/?search=Acts 14:23\">Acts 14:23</a>; <a class=\"bibleref\" href=\"/passage/?search=Titus 1:5\">Titus 1:5</a>.</p><p><b>anointing him with oil.</b> Olive oil was commonly used in medicine in the ancient world (<a class=\"bibleref\" href=\"/passage/?search=Mark 6:13\">Mark 6:13</a>; <a class=\"bibleref\" href=\"/passage/?search=Luke 10:34\">Luke 10:34</a>). The oil may also have a symbolic reference to the healing power of God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "james,5,15" ],
+  "verses" : [ {
+    "verse" : "james,5,15",
+    "text" : "And the prayer offered in faith will make the sick person well; the Lord will raise him up. If he has sinned, he will be forgiven."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "james,5,15",
     "id" : 199379,
@@ -87,7 +132,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jas 5:15\">5:15</a></b> <b>prayer of faith.</b> There is no special “prayer of faith” that has healing power. The power of trusting and faithful prayer is accented here; the Christian community should be devoutly engaged in intercessory prayer for the sick. This verse is the classic proof text for the institution of the Roman Catholic sacrament of extreme unction. Extreme unction is a healing rite that has come to be thought of primarily as the “last rites” in preparation for death.</p><p><b>committed sins.</b> Sin and illness are not unrelated. Forgiveness is therapeutic to the body as well as to the soul.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "james,5,16" ],
+  "verses" : [ {
+    "verse" : "james,5,16",
+    "text" : "Therefore confess your sins to each other and pray for each other so that you may be healed. The prayer of a righteous man is powerful and effective."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "james,5,16",
     "id" : 199380,
@@ -95,7 +143,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jas 5:16\">5:16</a></b> <b>confess your sins.</b> Though confession to a priest is not required by Scripture, confession to God and to one another is. Overreaction against the Roman Catholic sacrament of penance may lead to a neglect of authentic godly confession.</p><p><b>righteous person.</b> A godly person who prays in faith is a just or righteous person.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "james,5,17", "james,5,18" ],
+  "verses" : [ {
+    "verse" : "james,5,17",
+    "text" : "Elijah was a man just like us. He prayed earnestly that it would not rain, and it did not rain on the land for three and a half years."
+  }, {
+    "verse" : "james,5,18",
+    "text" : "Again he prayed, and the heavens gave rain, and the earth produced its crops."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "james,5,17",
     "id" : 199381,
@@ -103,7 +157,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jas 5:17\">5:17</a></b> <b>Elijah.</b> Though Elijah held the special office of Old Testament prophet, he shares a common humanity with all believers. His effectual prayer life is a model for the saints.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "james,5,19" ],
+  "verses" : [ {
+    "verse" : "james,5,19",
+    "text" : "My brothers, if one of you should wander from the truth and someone should bring him back,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "james,5,19",
     "id" : 199382,
@@ -111,7 +168,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jas 5:19\">5:19</a></b> <b>wanders from the truth.</b> To stray into sinful patterns.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "james,5,20" ],
+  "verses" : [ {
+    "verse" : "james,5,20",
+    "text" : "remember this: Whoever turns a sinner from the error of his way will save him from death and cover over a multitude of sins."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "james,5,20",
     "id" : 199383,

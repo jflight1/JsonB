@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,56,1" ],
+  "verses" : [ {
+    "verse" : "psalms,56,1",
+    "text" : "Be merciful to me, O God, for men hotly pursue me; all day long they press their attack."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,56,1",
     "id" : 190690,
@@ -7,7 +10,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 56:1\">56:title</a></b> The title is difficult to fit into David’s life as it is known from the historical books. The closest parallel is <a class=\"bibleref\" href=\"/passage/?search=1Sam 21:10-1Sam 21:15\">1 Sam. 21:10–15</a>, when David was feigning madness before the king of Gath in order to escape him.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,56,2", "psalms,56,3", "psalms,56,4" ],
+  "verses" : [ {
+    "verse" : "psalms,56,2",
+    "text" : "My slanderers pursue me all day long; many are attacking me in their pride."
+  }, {
+    "verse" : "psalms,56,3",
+    "text" : "When I am afraid, I will trust in you."
+  }, {
+    "verse" : "psalms,56,4",
+    "text" : "In God, whose word I praise, in God I trust; I will not be afraid. What can mortal man do to me?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,56,2",
     "id" : 190691,
@@ -15,7 +27,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 56:2\">56:2</a></b> <b>trample on me.</b> The enemies, like ruthless animals, treat the psalmist as their prey.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,56,5", "psalms,56,6" ],
+  "verses" : [ {
+    "verse" : "psalms,56,5",
+    "text" : "All day long they twist my words; they are always plotting to harm me."
+  }, {
+    "verse" : "psalms,56,6",
+    "text" : "They conspire, they lurk, they watch my steps, eager to take my life."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,56,5",
     "id" : 190692,
@@ -23,7 +41,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 56:5\">56:5</a></b> <b>injure my cause.</b> They change the meanings of his words (see text note) to put him in a bad light.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,56,7" ],
+  "verses" : [ {
+    "verse" : "psalms,56,7",
+    "text" : "On no account let them escape; in your anger, O God, bring down the nations."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,56,7",
     "id" : 190693,
@@ -31,7 +52,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 56:7\">56:7</a></b> <b>cast down the peoples.</b> The parallelism of this verse suggests that the enemies are the foreign nations that surround Israel.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,56,8" ],
+  "verses" : [ {
+    "verse" : "psalms,56,8",
+    "text" : "Record my lament; list my tears on your scroll - are they not in your record?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,56,8",
     "id" : 190694,
@@ -39,7 +63,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 56:8\">56:8</a></b> <b>kept count.</b> The psalmist is calling upon God to hear and remember his prayer.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,56,9", "psalms,56,10", "psalms,56,11" ],
+  "verses" : [ {
+    "verse" : "psalms,56,9",
+    "text" : "Then my enemies will turn back when I call for help. By this I will know that God is for me."
+  }, {
+    "verse" : "psalms,56,10",
+    "text" : "In God, whose word I praise, in the LORD, whose word I praise-"
+  }, {
+    "verse" : "psalms,56,11",
+    "text" : "in God I trust; I will not be afraid. What can man do to me?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,56,9",
     "id" : 190695,
@@ -47,7 +80,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 56:9\">56:9</a></b> <b>This I know.</b> The psalmist remembers God’s covenant promises, such as <a class=\"bibleref\" href=\"/passage/?search=Deut 28:7\">Deut. 28:7</a>, a promise that God will scatter the enemies of His people.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,56,12", "psalms,56,13" ],
+  "verses" : [ {
+    "verse" : "psalms,56,12",
+    "text" : "I am under vows to you, O God; I will present my thank offerings to you."
+  }, {
+    "verse" : "psalms,56,13",
+    "text" : "For you have delivered me from death and my feet from stumbling, that I may walk before God in the light of life."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,56,12",
     "id" : 190696,

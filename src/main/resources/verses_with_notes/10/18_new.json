@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "1timothy,3,1" ],
+  "verses" : [ {
+    "verse" : "1timothy,3,1",
+    "text" : "Here is a trustworthy saying: If anyone sets his heart on being an overseer, he desires a noble task."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1timothy,3,1-1timothy,3,13",
     "id" : 198838,
@@ -12,7 +15,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Tim 3:1\">3:1</a></b> <b>The saying is trustworthy.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Tim 1:15\">1:15</a>. The use of this expression here reflects the importance Paul attaches to the task of the overseer.</p><p><b>overseer.</b> One of a group of individuals charged with the general care of the church (<a class=\"bibleref\" href=\"/passage/?search=1Tim 1:5\">v. 5</a>; <a class=\"bibleref\" href=\"/passage/?search=Phil 1:1\">Phil. 1:1</a>). The word is used interchangeably with “elder” (<a class=\"bibleref\" href=\"/passage/?search=Acts 20:17\">Acts 20:17</a>, <a class=\"bibleref\" href=\"/passage/?search=Acts 20:28\">28</a>; <a class=\"bibleref\" href=\"/passage/?search=Titus 1:5-Titus 1:7\">Titus 1:5–7</a>). See “Pastors and Pastoral Care” at <a class=\"bibleref\" href=\"/passage/?search=1Pet 5:2\">1 Pet. 5:2</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1timothy,3,2", "1timothy,3,3", "1timothy,3,4" ],
+  "verses" : [ {
+    "verse" : "1timothy,3,2",
+    "text" : "Now the overseer must be above reproach, the husband of but one wife, temperate, self-controlled, respectable, hospitable, able to teach,"
+  }, {
+    "verse" : "1timothy,3,3",
+    "text" : "not given to drunkenness, not violent but gentle, not quarrelsome, not a lover of money."
+  }, {
+    "verse" : "1timothy,3,4",
+    "text" : "He must manage his own family well and see that his children obey him with proper respect."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1timothy,3,2",
     "id" : 198840,
@@ -20,7 +32,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Tim 3:2\">3:2</a></b> <b>above reproach.</b> A general heading to the qualifications for overseer or elder. This expression does not mean “without sin,” which would disqualify everyone, but “above scandalous reproach.” Paul’s overriding concern is that overseers (elders) have a good standing among non-Christians (<a class=\"bibleref\" href=\"/passage/?search=1Tim 3:7\">v. 7</a>). On the qualifications for overseers (elders), see <a class=\"bibleref\" href=\"/passage/?search=Titus 1:6-Titus 1:9\">Titus 1:6–9</a>.</p><p><b>the husband of one wife.</b> This difficult expression (v. 12; <a class=\"bibleref\" href=\"/passage/?search=Titus 1:6\">Titus 1:6</a>; cf. 5:9) has been understood to prohibit polygamy, remarriage after a divorce, or marital infidelity. Given the widespread immorality in the Greco-Roman world, the last would seem to fit Paul’s focus the best.</p><p><b>able to teach.</b> To mention the teaching aspect of the overseer’s (elder’s) task is important, given the problem at Ephesus (5:17).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1timothy,3,5" ],
+  "verses" : [ {
+    "verse" : "1timothy,3,5",
+    "text" : "(If anyone does not know how to manage his own family, how can he take care of God's church?)"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1timothy,3,5",
     "id" : 198841,
@@ -28,7 +43,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Tim 3:5\">3:5</a></b> <b>care for God’s church.</b> A general statement of the overseer’s (elder’s) responsibility.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1timothy,3,6", "1timothy,3,7" ],
+  "verses" : [ {
+    "verse" : "1timothy,3,6",
+    "text" : "He must not be a recent convert, or he may become conceited and fall under the same judgment as the devil."
+  }, {
+    "verse" : "1timothy,3,7",
+    "text" : "He must also have a good reputation with outsiders, so that he will not fall into disgrace and into the devil's trap."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1timothy,3,6",
     "id" : 198842,
@@ -36,7 +57,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Tim 3:6\">3:6</a></b> <b>not be a recent convert, or he may become puffed up with conceit.</b> For a Christian to move too quickly into this position could be an occasion for pride.</p><p><b>fall into the condemnation of the devil.</b> Paul does not view lightly the fall of those holding this office, perhaps because some overseers had become involved in the false teaching (<a class=\"bibleref\" href=\"/passage/?search=1Tim 3:1\">v. 1</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1timothy,3,8" ],
+  "verses" : [ {
+    "verse" : "1timothy,3,8",
+    "text" : "Deacons, likewise, are to be men worthy of respect, sincere, not indulging in much wine, and not pursuing dishonest gain."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1timothy,3,8",
     "id" : 198843,
@@ -44,7 +68,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Tim 3:8\">3:8</a></b> <b>Deacons.</b> Deacons are officers in the church alongside overseers or elders (cf. <a class=\"bibleref\" href=\"/passage/?search=Phil 1:1\">Phil. 1:1</a>). The precise tasks of the deacon are not spelled out in this passage. The church has usually viewed the ministry in terms of the role of the seven chosen to help the apostles in <a class=\"bibleref\" href=\"/passage/?search=Acts 6:1-Acts 6:6\">Acts 6:1–6</a>, although “deacon” is not used in regard to the seven in that passage.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1timothy,3,9" ],
+  "verses" : [ {
+    "verse" : "1timothy,3,9",
+    "text" : "They must keep hold of the deep truths of the faith with a clear conscience."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1timothy,3,9",
     "id" : 198844,
@@ -52,7 +79,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Tim 3:9\">3:9</a></b> <b>the mystery.</b> A term used elsewhere by Paul to refer to the revealed truth of the gospel (<a class=\"bibleref\" href=\"/passage/?search=1Tim 3:16\">v. 16</a>; <a class=\"bibleref\" href=\"/passage/?search=Rom 16:25\">Rom. 16:25</a>, <a class=\"bibleref\" href=\"/passage/?search=Rom 16:26\">26</a>; <a class=\"bibleref\" href=\"/passage/?search=1Cor 2:7\">1 Cor. 2:7</a>; <a class=\"bibleref\" href=\"/passage/?search=1Cor 4:1\">4:1</a>; <a class=\"bibleref\" href=\"/passage/?search=Eph 1:9\">Eph. 1:9</a>; <a class=\"bibleref\" href=\"/passage/?search=Eph 3:3-Eph 3:9\">3:3–9</a>; <a class=\"bibleref\" href=\"/passage/?search=Eph 6:19\">6:19</a>; <a class=\"bibleref\" href=\"/passage/?search=Col 1:26\">Col. 1:26</a>, <a class=\"bibleref\" href=\"/passage/?search=Col 1:27\">27</a>; <a class=\"bibleref\" href=\"/passage/?search=Col 2:2\">2:2</a>; <a class=\"bibleref\" href=\"/passage/?search=Col 4:3\">4:3</a>). Perhaps some of the deacons at Ephesus had been taken in by the false teaching.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1timothy,3,10" ],
+  "verses" : [ {
+    "verse" : "1timothy,3,10",
+    "text" : "They must first be tested; and then if there is nothing against them, let them serve as deacons."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1timothy,3,10",
     "id" : 198845,
@@ -60,7 +90,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Tim 3:10\">3:10</a></b> <b>be tested first.</b> This is probably not a reference to a specific testing period, but rather a careful examination of their conduct and their commitment to sound teaching.</p><p><b>prove themselves blameless.</b> Paul uses the same Greek word in regard to overseers in <a class=\"bibleref\" href=\"/passage/?search=Titus 1:6\">Titus 1:6</a>, <a class=\"bibleref\" href=\"/passage/?search=Titus 1:7\">7</a>; his requirement that overseers be “above reproach” in v. 2 (note) uses a Greek synonym.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1timothy,3,11" ],
+  "verses" : [ {
+    "verse" : "1timothy,3,11",
+    "text" : "In the same way, their wives are to be women worthy of respect, not malicious talkers but temperate and trustworthy in everything."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1timothy,3,11",
     "id" : 198846,
@@ -68,7 +101,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Tim 3:11\">3:11</a></b> <b>Their wives.</b> Lit. “women.” This verse abruptly interrupts the section on deacons. Its meaning is contested. The “women” are probably either the wives of the deacons or themselves deacons. The abruptness of the insertion probably reflects Paul’s concern that women, in particular, have not fared well at the hands of the false teachers (<a class=\"bibleref\" href=\"/passage/?search=1Tim 2:14\">2:14</a>; <a class=\"bibleref\" href=\"/passage/?search=1Tim 5:15\">5:15</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1timothy,3,12", "1timothy,3,13" ],
+  "verses" : [ {
+    "verse" : "1timothy,3,12",
+    "text" : "A deacon must be the husband of but one wife and must manage his children and his household well."
+  }, {
+    "verse" : "1timothy,3,13",
+    "text" : "Those who have served well gain an excellent standing and great assurance in their faith in Christ Jesus."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1timothy,3,12",
     "id" : 198847,
@@ -76,7 +115,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Tim 3:12\">3:12</a></b> <b>the husband of one wife.</b> See note on <a class=\"bibleref\" href=\"/passage/?search=1Tim 3:2\">v. 2</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1timothy,3,14" ],
+  "verses" : [ {
+    "verse" : "1timothy,3,14",
+    "text" : "Although I hope to come to you soon, I am writing you these instructions so that,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1timothy,3,14-1timothy,3,16",
     "id" : 198848,
@@ -84,7 +126,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Tim 3:14-1Tim 3:16\">3:14–16</a></b> Having provided Timothy with specific instructions on prayer, worship, and church offices, Paul now states his reason for writing the letter (Introduction: Date and Occasion). He discusses the nature of the church and offers a poetic meditation on the work of Christ.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1timothy,3,15" ],
+  "verses" : [ {
+    "verse" : "1timothy,3,15",
+    "text" : "if I am delayed, you will know how people ought to conduct themselves in God's household, which is the church of the living God, the pillar and foundation of the truth."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1timothy,3,15",
     "id" : 198849,
@@ -92,7 +137,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Tim 3:15\">3:15</a></b> <b>pillar and buttress.</b> Both terms have the connotation of providing support. Paul’s intent is to emphasize, over against the false teachers, that the truth of the gospel is found in and sustained by God’s church (<a class=\"bibleref\" href=\"/passage/?search=2Tim 2:19\">2 Tim. 2:19</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1timothy,3,16" ],
+  "verses" : [ {
+    "verse" : "1timothy,3,16",
+    "text" : "Beyond all question, the mystery of godliness is great: He appeared in a body, was vindicated by the Spirit, was seen by angels, was preached among the nations, was believed on in the world, was taken up in glory."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1timothy,3,16",
     "id" : 198850,

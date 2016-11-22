@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "matthew,9,1" ],
+  "verses" : [ {
+    "verse" : "matthew,9,1",
+    "text" : "Jesus stepped into a boat, crossed over and came to his own town."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,8,1-matthew,9,38",
     "id" : 195692,
@@ -7,7 +10,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 8-Matt 9\">8:1–9:38</a></b> The order of the miracles and events in these chapters differs from that found in Mark and Luke. Probably Matthew arranged them according to topic rather than chronology.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,9,2", "matthew,9,3", "matthew,9,4" ],
+  "verses" : [ {
+    "verse" : "matthew,9,2",
+    "text" : "Some men brought to him a paralytic, lying on a mat. When Jesus saw their faith, he said to the paralytic, \"Take heart, son; your sins are forgiven.\""
+  }, {
+    "verse" : "matthew,9,3",
+    "text" : "At this, some of the teachers of the law said to themselves, \"This fellow is blaspheming!\""
+  }, {
+    "verse" : "matthew,9,4",
+    "text" : "Knowing their thoughts, Jesus said, \"Why do you entertain evil thoughts in your hearts?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,9,2",
     "id" : 195707,
@@ -15,7 +27,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 9:2\">9:2</a></b> <b>your sins are forgiven.</b> Forgiveness is the prerogative of the one who has been offended, and for Jesus to forgive sins was to claim divine authority (<a class=\"bibleref\" href=\"/passage/?search=Isa 43:25\">Is. 43:25</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,9,5", "matthew,9,6", "matthew,9,7", "matthew,9,8", "matthew,9,9", "matthew,9,10" ],
+  "verses" : [ {
+    "verse" : "matthew,9,5",
+    "text" : "Which is easier: to say, 'Your sins are forgiven,' or to say, 'Get up and walk'?"
+  }, {
+    "verse" : "matthew,9,6",
+    "text" : "But so that you may know that the Son of Man has authority on earth to forgive sins....\" Then he said to the paralytic, \"Get up, take your mat and go home.\""
+  }, {
+    "verse" : "matthew,9,7",
+    "text" : "And the man got up and went home."
+  }, {
+    "verse" : "matthew,9,8",
+    "text" : "When the crowd saw this, they were filled with awe; and they praised God, who had given such authority to men."
+  }, {
+    "verse" : "matthew,9,9",
+    "text" : "As Jesus went on from there, he saw a man named Matthew sitting at the tax collector's booth. \"Follow me,\" he told him, and Matthew got up and followed him."
+  }, {
+    "verse" : "matthew,9,10",
+    "text" : "While Jesus was having dinner at Matthew's house, many tax collectors and \"sinners\" came and ate with him and his disciples."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,9,5",
     "id" : 195708,
@@ -23,7 +53,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 9:5\">9:5</a></b> <b>which is easier.</b> Ultimately, forgiving sins is more difficult than performing a miracle, as the scribes would know since they recognized that only God can forgive sins. But the forgiveness of sins cannot be seen by observers. Jesus performs the lesser deed to prove the greater.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,9,11", "matthew,9,12", "matthew,9,13" ],
+  "verses" : [ {
+    "verse" : "matthew,9,11",
+    "text" : "When the Pharisees saw this, they asked his disciples, \"Why does your teacher eat with tax collectors and 'sinners'?\""
+  }, {
+    "verse" : "matthew,9,12",
+    "text" : "On hearing this, Jesus said, \"It is not the healthy who need a doctor, but the sick."
+  }, {
+    "verse" : "matthew,9,13",
+    "text" : "But go and learn what this means: 'I desire mercy, not sacrifice.' For I have not come to call the righteous, but sinners.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,9,11",
     "id" : 195709,
@@ -31,7 +70,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 9:11\">9:11</a></b> Just as Jesus was not defiled by contact with lepers, so He was not defiled by contact with sinners. He is the Physician who heals spiritual as well as physical sickness. Those who thought they were well were puzzled by Jesus’ activities and found Him offensive.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,9,14" ],
+  "verses" : [ {
+    "verse" : "matthew,9,14",
+    "text" : "Then John's disciples came and asked him, \"How is it that we and the Pharisees fast, but your disciples do not fast?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,9,14",
     "id" : 195710,
@@ -39,7 +81,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 9:14\">9:14</a></b> <b>disciples of John.</b> Although Luke notes that Pharisees asked about fasting, Mark includes both John’s disciples and Pharisees among those who raised the question.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,9,15", "matthew,9,16" ],
+  "verses" : [ {
+    "verse" : "matthew,9,15",
+    "text" : "Jesus answered, \"How can the guests of the bridegroom mourn while he is with them? The time will come when the bridegroom will be taken from them; then they will fast."
+  }, {
+    "verse" : "matthew,9,16",
+    "text" : "\"No one sews a patch of unshrunk cloth on an old garment, for the patch will pull away from the garment, making the tear worse."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,9,15",
     "id" : 195711,
@@ -47,7 +95,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 9:15\">9:15</a></b> <b>then they will fast.</b> Jesus explained that because He was present as the Messiah, His disciples did not need to fast. Jesus recognizes a future time when the bridegroom will not be with them. This points out that, from the earliest stages of His ministry, Jesus anticipated a time between His initial coming in redemption and His final coming in the Judgment.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,9,17" ],
+  "verses" : [ {
+    "verse" : "matthew,9,17",
+    "text" : "Neither do men pour new wine into old wineskins. If they do, the skins will burst, the wine will run out and the wineskins will be ruined. No, they pour new wine into new wineskins, and both are preserved.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,9,17",
     "id" : 195712,

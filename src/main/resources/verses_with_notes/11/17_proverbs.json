@@ -1,5 +1,20 @@
 [ {
-  "singleVerses" : [ "proverbs,27,23", "proverbs,27,24", "proverbs,27,25", "proverbs,27,26", "proverbs,27,27" ],
+  "verses" : [ {
+    "verse" : "proverbs,27,23",
+    "text" : "Be sure you know the condition of your flocks, give careful attention to your herds;"
+  }, {
+    "verse" : "proverbs,27,24",
+    "text" : "for riches do not endure forever, and a crown is not secure for all generations."
+  }, {
+    "verse" : "proverbs,27,25",
+    "text" : "When the hay is removed and new growth appears and the grass from the hills is gathered in,"
+  }, {
+    "verse" : "proverbs,27,26",
+    "text" : "the lambs will provide you with clothing, and the goats with the price of a field."
+  }, {
+    "verse" : "proverbs,27,27",
+    "text" : "You will have plenty of goats' milk to feed you and your family and to nourish your servant girls."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,27,23-proverbs,27,27",
     "id" : 192289,

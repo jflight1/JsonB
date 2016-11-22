@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,28,12" ],
+  "verses" : [ {
+    "verse" : "proverbs,28,12",
+    "text" : "When the righteous triumph, there is great elation; but when the wicked rise to power, men go into hiding."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,28,1-proverbs,28,28",
     "id" : 192290,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 28:12\">28:12</a></b> Righteousness leads to social order and happiness, while unrighteousness destroys and alienates (<a class=\"bibleref\" href=\"/passage/?search=Prov 28:28\">v. 28</a> and <a class=\"bibleref\" href=\"/passage/?search=Prov 29:2\">29:2</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,28,13" ],
+  "verses" : [ {
+    "verse" : "proverbs,28,13",
+    "text" : "He who conceals his sins does not prosper, but whoever confesses and renounces them finds mercy."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,28,13",
     "id" : 192302,

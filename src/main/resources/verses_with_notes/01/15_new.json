@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "matthew,10,24" ],
+  "verses" : [ {
+    "verse" : "matthew,10,24",
+    "text" : "\"A student is not above his teacher, nor a servant above his master."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,10,5-matthew,11,1",
     "id" : 195722,
@@ -7,7 +10,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 10:5-Matt 11:1\">10:5–11:1</a></b> This section contains several lines of teaching regarding the Christian mission that are found in different places in the other Gospels. This does not mean Matthew invented the occasion. Matthew presents the teaching of Jesus in five major discourses, and he may have brought in relevant material delivered on other occasions. Particularly <a class=\"bibleref\" href=\"/passage/?search=Matt 10:17-Matt 10:22\">10:17–22</a>, which envisions a world mission and being “dragged before governors and kings” (<a class=\"bibleref\" href=\"/passage/?search=Matt 10:18\">v. 18</a>), seems to go beyond <a class=\"bibleref\" href=\"/passage/?search=Matt 10:5\">v. 5</a>, that restricts the mission to Israel. Nevertheless, the future mission of the disciples to the whole world (<a class=\"bibleref\" href=\"/passage/?search=Matt 28:18-Matt 28:20\">28:18–20</a>) is linked to this early experience of preaching to Israel, and Matthew’s grouping of the material is appropriate.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,10,25" ],
+  "verses" : [ {
+    "verse" : "matthew,10,25",
+    "text" : "It is enough for the student to be like his teacher, and the servant like his master. If the head of the house has been called Beelzebub, how much more the members of his household!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,10,25",
     "id" : 195730,
@@ -15,7 +21,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 10:25\">10:25</a></b> <b>Beelzebul.</b> Greek <i>beelzeboul</i>, a transliteration of a Hebrew or Aramaic name for the prince of demons (<a class=\"bibleref\" href=\"/passage/?search=Matt 12:24-Matt 12:27\">12:24–27</a>). The name probably means “lord of heaven,” and appears in the Old Testament in the intentionally distorted form Baal-zebub (“lord of the flies”) as a name for the god of Ekron (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 1:2\">2 Kin. 1:2</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,10,26", "matthew,10,27" ],
+  "verses" : [ {
+    "verse" : "matthew,10,26",
+    "text" : "\"So do not be afraid of them. There is nothing concealed that will not be disclosed, or hidden that will not be made known."
+  }, {
+    "verse" : "matthew,10,27",
+    "text" : "What I tell you in the dark, speak in the daylight; what is whispered in your ear, proclaim from the roofs."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,10,26-matthew,10,31",
     "id" : 195731,
@@ -23,7 +35,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 10:26-Matt 10:31\">10:26–31</a></b> This injunction to fear God and not people is perhaps a development of <a class=\"bibleref\" href=\"/passage/?search=Isa 8:12\">Is. 8:12</a>, <a class=\"bibleref\" href=\"/passage/?search=Isa 8:13\">13</a>. It is supported by three arguments: first, the acts of the wicked will be shown for what they are; second, although people can kill the body, God can punish soul and body; and third, God orders everything, down to the fall of a sparrow and the number of hairs on the head. The Bible consistently teaches that fear and reverence are appropriate responses to God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,10,28", "matthew,10,29", "matthew,10,30", "matthew,10,31", "matthew,10,32", "matthew,10,33", "matthew,10,34" ],
+  "verses" : [ {
+    "verse" : "matthew,10,28",
+    "text" : "Do not be afraid of those who kill the body but cannot kill the soul. Rather, be afraid of the One who can destroy both soul and body in hell."
+  }, {
+    "verse" : "matthew,10,29",
+    "text" : "Are not two sparrows sold for a penny? Yet not one of them will fall to the ground apart from the will of your Father."
+  }, {
+    "verse" : "matthew,10,30",
+    "text" : "And even the very hairs of your head are all numbered."
+  }, {
+    "verse" : "matthew,10,31",
+    "text" : "So don't be afraid; you are worth more than many sparrows."
+  }, {
+    "verse" : "matthew,10,32",
+    "text" : "\"Whoever acknowledges me before men, I will also acknowledge him before my Father in heaven."
+  }, {
+    "verse" : "matthew,10,33",
+    "text" : "But whoever disowns me before men, I will disown him before my Father in heaven."
+  }, {
+    "verse" : "matthew,10,34",
+    "text" : "\"Do not suppose that I have come to bring peace to the earth. I did not come to bring peace, but a sword."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,10,28",
     "id" : 195732,
@@ -31,7 +64,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 10:28\">10:28</a></b> <b>hell.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Matt 5:22\">5:22</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,10,35", "matthew,10,36", "matthew,10,37" ],
+  "verses" : [ {
+    "verse" : "matthew,10,35",
+    "text" : "For I have come to turn \"'a man against his father, a daughter against her mother, a daughter-in-law against her mother-in-law--"
+  }, {
+    "verse" : "matthew,10,36",
+    "text" : "a man's enemies will be the members of his own household.'"
+  }, {
+    "verse" : "matthew,10,37",
+    "text" : "\"Anyone who loves his father or mother more than me is not worthy of me; anyone who loves his son or daughter more than me is not worthy of me;"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,10,35",
     "id" : 195733,
@@ -39,7 +81,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 10:35\">10:35 a</a></b> <b>man against his father.</b> <a class=\"bibleref\" href=\"/passage/?search=Mic 7:6\">Mic. 7:6</a> addresses the rebelliousness and strife characteristic of Israel during the time of Ahaz. Just as Israel’s history foreshadows Jesus’ history (2:15 note), its turmoil and strife foreshadow the strife that results from the coming of the Messiah, even to the division of families. Although coming to Christ brings peace to the heart (11:29), embracing the gospel also makes life more difficult in some respects, because Jesus demands allegiance that takes priority over the natural ties of life (vv. 37–39).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,10,38", "matthew,10,39", "matthew,10,40" ],
+  "verses" : [ {
+    "verse" : "matthew,10,38",
+    "text" : "and anyone who does not take his cross and follow me is not worthy of me."
+  }, {
+    "verse" : "matthew,10,39",
+    "text" : "Whoever finds his life will lose it, and whoever loses his life for my sake will find it."
+  }, {
+    "verse" : "matthew,10,40",
+    "text" : "\"He who receives you receives me, and he who receives me receives the one who sent me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,10,38",
     "id" : 195734,
@@ -47,7 +98,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 10:38\">10:38</a></b> <b>take his cross.</b> This is to obey and identify with Jesus even unto death, not simply to bear some particular burden imposed by the Lord.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,10,41" ],
+  "verses" : [ {
+    "verse" : "matthew,10,41",
+    "text" : "Anyone who receives a prophet because he is a prophet will receive a prophet's reward, and anyone who receives a righteous man because he is a righteous man will receive a righteous man's reward."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,10,41",
     "id" : 195735,
@@ -55,7 +109,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 10:41\">10:41</a></b> <b>prophet . . . righteous person.</b> This verse emphasizes the principle that receiving those who are emissaries of another is equivalent to receiving the person who sent them (<a class=\"bibleref\" href=\"/passage/?search=Matt 10:40\">v. 40</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,10,42", "matthew,11,1" ],
+  "verses" : [ {
+    "verse" : "matthew,10,42",
+    "text" : "And if anyone gives even a cup of cold water to one of these little ones because he is my disciple, I tell you the truth, he will certainly not lose his reward.\""
+  }, {
+    "verse" : "matthew,11,1",
+    "text" : "After Jesus had finished instructing his twelve disciples, he went on from there to teach and preach in the towns of Galilee."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,10,42",
     "id" : 195736,
@@ -63,7 +123,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 10:42\">10:42</a></b> <b>little ones.</b> While not excluding children, this phrase refers to all Jesus’ disciples, who are to be like little children (<a class=\"bibleref\" href=\"/passage/?search=Matt 18:1-Matt 18:6\">18:1–6</a>, <a class=\"bibleref\" href=\"/passage/?search=Matt 18:10\">10</a>, <a class=\"bibleref\" href=\"/passage/?search=Matt 18:14\">14</a>). Jesus’ remark about reward underscores the importance of accepting and assisting even those believers who seem insignificant (<a class=\"bibleref\" href=\"/passage/?search=Matt 25:40\">25:40</a>, <a class=\"bibleref\" href=\"/passage/?search=Matt 25:45\">45</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,11,2", "matthew,11,3" ],
+  "verses" : [ {
+    "verse" : "matthew,11,2",
+    "text" : "When John heard in prison what Christ was doing, he sent his disciples"
+  }, {
+    "verse" : "matthew,11,3",
+    "text" : "to ask him, \"Are you the one who was to come, or should we expect someone else?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,11,2",
     "id" : 195737,
@@ -71,7 +137,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 11:2\">11:2</a></b> <b>the deeds of the Christ.</b> Since Matthew seldom uses “Christ” as a name for Jesus, this phrase probably means “when John heard in prison about the messianic deeds.” John the Baptist had predicted that the Coming One would bring judgment, chopping down the trees of wickedness (<a class=\"bibleref\" href=\"/passage/?search=Matt 3:10\">3:10</a>, <a class=\"bibleref\" href=\"/passage/?search=Matt 3:12\">12</a>). But Jesus allowed His own forerunner to be imprisoned by the wicked Herod.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,11,4", "matthew,11,5", "matthew,11,6" ],
+  "verses" : [ {
+    "verse" : "matthew,11,4",
+    "text" : "Jesus replied, \"Go back and report to John what you hear and see:"
+  }, {
+    "verse" : "matthew,11,5",
+    "text" : "The blind receive sight, the lame walk, those who have leprosy are cured, the deaf hear, the dead are raised, and the good news is preached to the poor."
+  }, {
+    "verse" : "matthew,11,6",
+    "text" : "Blessed is the man who does not fall away on account of me.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,11,4-matthew,11,6",
     "id" : 195738,

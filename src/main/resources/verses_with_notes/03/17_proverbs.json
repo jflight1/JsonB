@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,11,15" ],
+  "verses" : [ {
+    "verse" : "proverbs,11,15",
+    "text" : "He who puts up security for another will surely suffer, but whoever refuses to strike hands in pledge is safe."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

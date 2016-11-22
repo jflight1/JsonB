@@ -1,5 +1,17 @@
 [ {
-  "singleVerses" : [ "zechariah,14,1", "zechariah,14,2", "zechariah,14,3", "zechariah,14,4" ],
+  "verses" : [ {
+    "verse" : "zechariah,14,1",
+    "text" : "A day of the LORD is coming when your plunder will be divided among you."
+  }, {
+    "verse" : "zechariah,14,2",
+    "text" : "I will gather all the nations to Jerusalem to fight against it; the city will be captured, the houses ransacked, and the women raped. Half of the city will go into exile, but the rest of the people will not be taken from the city."
+  }, {
+    "verse" : "zechariah,14,3",
+    "text" : "Then the LORD will go out and fight against those nations, as he fights in the day of battle."
+  }, {
+    "verse" : "zechariah,14,4",
+    "text" : "On that day his feet will stand on the Mount of Olives, east of Jerusalem, and the Mount of Olives will be split in two from east to west, forming a great valley, with half of the mountain moving north and half moving south."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "zechariah,12,1-zechariah,14,21",
     "id" : 195541,
@@ -12,7 +24,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Zech 14:1\">14:1 a</a></b> <b>day is coming for the <span class=\"small-caps\">Lord</span>.</b> The Old Testament prophets proclaimed a “day of the Lord” for judgment and deliverance, both of which are present in this passage (Introduction to Zephaniah: Characteristics and Themes).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "zechariah,14,5", "zechariah,14,6" ],
+  "verses" : [ {
+    "verse" : "zechariah,14,5",
+    "text" : "You will flee by my mountain valley, for it will extend to Azel. You will flee as you fled from the earthquake in the days of Uzziah king of Judah. Then the LORD my God will come, and all the holy ones with him."
+  }, {
+    "verse" : "zechariah,14,6",
+    "text" : "On that day there will be no light, no cold or frost."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "zechariah,14,5",
     "id" : 195555,
@@ -20,7 +38,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Zech 14:5\">14:5</a></b> <b>Azal.</b> Clearly a place close to Jerusalem; its precise location is unknown.</p><p><b>holy ones.</b> An expression found also in the New Testament (<a class=\"bibleref\" href=\"/passage/?search=Jude 1:14\">Jude 14</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Matt 25:31\">Matt. 25:31</a>). These are God’s chosen servants, the angelic host (perhaps humans as well), coming to Jerusalem to liberate it from pagan aggressors. This day of battle ushers in the eternal bliss of God’s special presence among His people.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "zechariah,14,7" ],
+  "verses" : [ {
+    "verse" : "zechariah,14,7",
+    "text" : "It will be a unique day, without daytime or nighttime-a day known to the LORD. When evening comes, there will be light."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "zechariah,14,7",
     "id" : 195556,
@@ -28,7 +49,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Zech 14:7\">14:7 a</a></b> <b>unique day . . . there shall be light.</b> God Himself will be the light of the city (<a class=\"bibleref\" href=\"/passage/?search=Isa 60:19\">Is. 60:19</a>, <a class=\"bibleref\" href=\"/passage/?search=Isa 60:20\">20</a>; <a class=\"bibleref\" href=\"/passage/?search=Rev 21:25\">Rev. 21:25</a>; <a class=\"bibleref\" href=\"/passage/?search=Rev 22:5\">22:5</a>). Natural light from the heavenly bodies will have ceased (v. 6).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "zechariah,14,8" ],
+  "verses" : [ {
+    "verse" : "zechariah,14,8",
+    "text" : "On that day living water will flow out from Jerusalem, half to the eastern sea and half to the western sea, in summer and in winter."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "zechariah,14,8",
     "id" : 195557,
@@ -36,7 +60,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Zech 14:8\">14:8</a></b> <b>living waters . . . from Jerusalem.</b> As the result of the Lord’s presence, a refreshing stream of running water brings healing to those who seek refuge in the Lord. Such water symbolizes the blessings of salvation (<a class=\"bibleref\" href=\"/passage/?search=Isa 55:1-Isa 55:5\">Is. 55:1–5</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 47:1-Ezek 47:12\">Ezek. 47:1–12</a>; <a class=\"bibleref\" href=\"/passage/?search=John 4:10-John 4:14\">John 4:10–14</a>). Believers in Jesus receive the living water only He can give (<a class=\"bibleref\" href=\"/passage/?search=John 7:37-John 7:39\">John 7:37–39</a>; <a class=\"bibleref\" href=\"/passage/?search=Rev 22:1\">Rev. 22:1</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "zechariah,14,9" ],
+  "verses" : [ {
+    "verse" : "zechariah,14,9",
+    "text" : "The LORD will be king over the whole earth. On that day there will be one LORD, and his name the only name."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "zechariah,14,9",
     "id" : 195558,
@@ -44,7 +71,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Zech 14:9\">14:9</a></b> <b>king over all the earth.</b> With the final victory, God’s sovereignty over all is manifested.</p><p><b>the <span class=\"small-caps\">Lord</span> will be one and his name one.</b> These words clearly draw on <a class=\"bibleref\" href=\"/passage/?search=Deut 6:4\">Deut. 6:4</a>, Israel’s foundational confession (<a class=\"bibleref\" href=\"/passage/?search=Mark 12:29\">Mark 12:29</a> note). Only on this day of victory will the full meaning of this confession be understood.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "zechariah,14,10", "zechariah,14,11" ],
+  "verses" : [ {
+    "verse" : "zechariah,14,10",
+    "text" : "The whole land, from Geba to Rimmon, south of Jerusalem, will become like the Arabah. But Jerusalem will be raised up and remain in its place, from the Benjamin Gate to the site of the First Gate, to the Corner Gate, and from the Tower of Hananel to the royal winepresses."
+  }, {
+    "verse" : "zechariah,14,11",
+    "text" : "It will be inhabited; never again will it be destroyed. Jerusalem will be secure."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "zechariah,14,10",
     "id" : 195559,
@@ -52,7 +85,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Zech 14:10\">14:10</a></b> This extensive geographical description is designed to stress that the whole land of God’s people will be claimed by God Himself.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "zechariah,14,12", "zechariah,14,13", "zechariah,14,14" ],
+  "verses" : [ {
+    "verse" : "zechariah,14,12",
+    "text" : "This is the plague with which the LORD will strike all the nations that fought against Jerusalem: Their flesh will rot while they are still standing on their feet, their eyes will rot in their sockets, and their tongues will rot in their mouths."
+  }, {
+    "verse" : "zechariah,14,13",
+    "text" : "On that day men will be stricken by the LORD with great panic. Each man will seize the hand of another, and they will attack each other."
+  }, {
+    "verse" : "zechariah,14,14",
+    "text" : "Judah too will fight at Jerusalem. The wealth of all the surrounding nations will be collected-great quantities of gold and silver and clothing."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "zechariah,14,12",
     "id" : 195560,
@@ -60,7 +102,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Zech 14:12\">14:12</a></b> <b>plague.</b> This fearful plague recalls the plagues on Egypt (<a class=\"bibleref\" href=\"/passage/?search=Exod 7-Exod 12\">Ex. 7–12</a>), as well as the covenant curses proclaimed by God upon disobedience (<a class=\"bibleref\" href=\"/passage/?search=Lev 26:16\">Lev. 26:16</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 28:22\">Deut. 28:22</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "zechariah,14,15" ],
+  "verses" : [ {
+    "verse" : "zechariah,14,15",
+    "text" : "A similar plague will strike the horses and mules, the camels and donkeys, and all the animals in those camps."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "zechariah,14,15",
     "id" : 195561,
@@ -68,7 +113,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Zech 14:15\">14:15</a></b> <b>like this plague.</b> The plague will extend even to the animals belonging to the heathen enemies of God. Zechariah is emphasizing that the destruction of God’s enemies will be final and complete. Even now Christians enjoy victory in faith (<a class=\"bibleref\" href=\"/passage/?search=1John 5:4\">1 John 5:4</a>) and await the final subjugation of God’s enemies by Christ (<a class=\"bibleref\" href=\"/passage/?search=1Cor 15:24-1Cor 15:28\">1 Cor. 15:24–28</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "zechariah,14,16", "zechariah,14,17", "zechariah,14,18", "zechariah,14,19" ],
+  "verses" : [ {
+    "verse" : "zechariah,14,16",
+    "text" : "Then the survivors from all the nations that have attacked Jerusalem will go up year after year to worship the King, the LORD Almighty, and to celebrate the Feast of Tabernacles."
+  }, {
+    "verse" : "zechariah,14,17",
+    "text" : "If any of the peoples of the earth do not go up to Jerusalem to worship the King, the LORD Almighty, they will have no rain."
+  }, {
+    "verse" : "zechariah,14,18",
+    "text" : "If the Egyptian people do not go up and take part, they will have no rain. The LORD will bring on them the plague he inflicts on the nations that do not go up to celebrate the Feast of Tabernacles."
+  }, {
+    "verse" : "zechariah,14,19",
+    "text" : "This will be the punishment of Egypt and the punishment of all the nations that do not go up to celebrate the Feast of Tabernacles."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "zechariah,14,16-zechariah,14,20",
     "id" : 195562,
@@ -81,7 +138,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Zech 14:16\">14:16</a></b> <b>everyone who survives.</b> The people in the pagan nations are not all destroyed. Some are converted and come to worship the true and living God in Jerusalem (<a class=\"bibleref\" href=\"/passage/?search=Zech 6:15\">6:15</a>; <a class=\"bibleref\" href=\"/passage/?search=Zech 8:23\">8:23</a> and notes).</p><p><b>Feast of Booths.</b> The worship of the Gentiles is expressed in terms of this feast because it was one of joy and thankfulness to God for His blessings (<a class=\"bibleref\" href=\"/passage/?search=Lev 23:33-Lev 23:36\">Lev. 23:33–36</a>, <a class=\"bibleref\" href=\"/passage/?search=Lev 23:39-Lev 23:43\">39–43</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 29:12-Num 29:34\">Num. 29:12–34</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 16:13-Deut 16:15\">Deut. 16:13–15</a>). The feast occurred during the fall harvest season and therefore could symbolize the ingathering of the Gentiles.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "zechariah,14,20", "zechariah,14,21" ],
+  "verses" : [ {
+    "verse" : "zechariah,14,20",
+    "text" : "On that dayHOLY TO THE LORD will be inscribed on the bells of the horses, and the cooking pots in the LORD's house will be like the sacred bowls in front of the altar."
+  }, {
+    "verse" : "zechariah,14,21",
+    "text" : "Every pot in Jerusalem and Judah will be holy to the LORD Almighty, and all who come to sacrifice will take some of the pots and cook in them. And on that day there will no longer be a Canaanite in the house of the LORD Almighty."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "zechariah,14,20",
     "id" : 195564,

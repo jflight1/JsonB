@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "proverbs,30,18", "proverbs,30,19" ],
+  "verses" : [ {
+    "verse" : "proverbs,30,18",
+    "text" : "\"There are three things that are too amazing for me, four that I do not understand:"
+  }, {
+    "verse" : "proverbs,30,19",
+    "text" : "the way of an eagle in the sky, the way of a snake on a rock, the way of a ship on the high seas, and the way of a man with a maiden."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,30,15-proverbs,30,31",
     "id" : 192347,
@@ -12,7 +18,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 30:18\">30:18</a>, <a class=\"bibleref\" href=\"/passage/?search=Prov 30:19\">19</a></b> The four ways cannot be understood, either because they leave no traces or because they are so easily, yet mysteriously, mastered. Some suggest that the emphasis is on the fourth way, human sexual relations, of which the other three may be metaphors.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,30,20" ],
+  "verses" : [ {
+    "verse" : "proverbs,30,20",
+    "text" : "\"This is the way of an adulteress: She eats and wipes her mouth and says, 'I've done nothing wrong.'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,30,20",
     "id" : 192351,

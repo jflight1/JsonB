@@ -1,8 +1,59 @@
 [ {
-  "singleVerses" : [ "acts,13,16", "acts,13,17", "acts,13,18", "acts,13,19" ],
+  "verses" : [ {
+    "verse" : "acts,13,16",
+    "text" : "Standing up, Paul motioned with his hand and said: \"Men of Israel and you Gentiles who worship God, listen to me!"
+  }, {
+    "verse" : "acts,13,17",
+    "text" : "The God of the people of Israel chose our fathers; he made the people prosper during their stay in Egypt, with mighty power he led them out of that country,"
+  }, {
+    "verse" : "acts,13,18",
+    "text" : "he endured their conduct for about forty years in the desert,"
+  }, {
+    "verse" : "acts,13,19",
+    "text" : "he overthrew seven nations in Canaan and gave their land to his people as their inheritance."
+  } ],
   "rsbNotes" : [ ]
 }, {
-  "singleVerses" : [ "acts,13,20", "acts,13,21", "acts,13,22", "acts,13,23", "acts,13,24", "acts,13,25", "acts,13,26", "acts,13,27", "acts,13,28", "acts,13,29", "acts,13,30", "acts,13,31", "acts,13,32" ],
+  "verses" : [ {
+    "verse" : "acts,13,20",
+    "text" : "All this took about 450 years."
+  }, {
+    "verse" : "acts,13,21",
+    "text" : "\"After this, God gave them judges until the time of Samuel the prophet. Then the people asked for a king, and he gave them Saul son of Kish, of the tribe of Benjamin, who ruled forty years."
+  }, {
+    "verse" : "acts,13,22",
+    "text" : "After removing Saul, he made David their king. He testified concerning him: 'I have found David son of Jesse a man after my own heart; he will do everything I want him to do.'"
+  }, {
+    "verse" : "acts,13,23",
+    "text" : "\"From this man's descendants God has brought to Israel the Savior Jesus, as he promised."
+  }, {
+    "verse" : "acts,13,24",
+    "text" : "Before the coming of Jesus, John preached repentance and baptism to all the people of Israel."
+  }, {
+    "verse" : "acts,13,25",
+    "text" : "As John was completing his work, he said: 'Who do you think I am? I am not that one. No, but he is coming after me, whose sandals I am not worthy to untie.'"
+  }, {
+    "verse" : "acts,13,26",
+    "text" : "\"Brothers, children of Abraham, and you God-fearing Gentiles, it is to us that this message of salvation has been sent."
+  }, {
+    "verse" : "acts,13,27",
+    "text" : "The people of Jerusalem and their rulers did not recognize Jesus, yet in condemning him they fulfilled the words of the prophets that are read every Sabbath."
+  }, {
+    "verse" : "acts,13,28",
+    "text" : "Though they found no proper ground for a death sentence, they asked Pilate to have him executed."
+  }, {
+    "verse" : "acts,13,29",
+    "text" : "When they had carried out all that was written about him, they took him down from the tree and laid him in a tomb."
+  }, {
+    "verse" : "acts,13,30",
+    "text" : "But God raised him from the dead,"
+  }, {
+    "verse" : "acts,13,31",
+    "text" : "and for many days he was seen by those who had traveled with him from Galilee to Jerusalem. They are now his witnesses to our people."
+  }, {
+    "verse" : "acts,13,32",
+    "text" : "\"We tell you the good news: What God promised our fathers"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,13,20",
     "id" : 197519,
@@ -10,7 +61,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 13:20\">13:20</a></b> <b>about 450 years.</b> About four hundred years plus the forty years in the wilderness and the period of Joshua’s conquest (<a class=\"bibleref\" href=\"/passage/?search=Acts 7:6\">7:6</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,13,33" ],
+  "verses" : [ {
+    "verse" : "acts,13,33",
+    "text" : "he has fulfilled for us, their children, by raising up Jesus. As it is written in the second Psalm: \"'You are my Son; today I have become your Father. '"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,13,33",
     "id" : 197520,
@@ -18,7 +72,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 13:33\">13:33</a></b> <b>You are my Son, today I have begotten you.</b> That is, today in raising You from the dead, I am declaring that You are My Son and I am Your Father (<a class=\"bibleref\" href=\"/passage/?search=Heb 1:5\">Heb. 1:5</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,13,34", "acts,13,35", "acts,13,36", "acts,13,37", "acts,13,38" ],
+  "verses" : [ {
+    "verse" : "acts,13,34",
+    "text" : "The fact that God raised him from the dead, never to decay, is stated in these words: \"'I will give you the holy and sure blessings promised to David.'"
+  }, {
+    "verse" : "acts,13,35",
+    "text" : "So it is stated elsewhere: \"'You will not let your Holy One see decay.'"
+  }, {
+    "verse" : "acts,13,36",
+    "text" : "\"For when David had served God's purpose in his own generation, he fell asleep; he was buried with his fathers and his body decayed."
+  }, {
+    "verse" : "acts,13,37",
+    "text" : "But the one whom God raised from the dead did not see decay."
+  }, {
+    "verse" : "acts,13,38",
+    "text" : "\"Therefore, my brothers, I want you to know that through Jesus the forgiveness of sins is proclaimed to you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,13,34",
     "id" : 197521,
@@ -26,7 +95,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 13:34\">13:34</a></b> <b>no more to return to corruption.</b> That is, never to die again.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,13,39", "acts,13,40", "acts,13,41" ],
+  "verses" : [ {
+    "verse" : "acts,13,39",
+    "text" : "Through him everyone who believes is justified from everything you could not be justified from by the law of Moses."
+  }, {
+    "verse" : "acts,13,40",
+    "text" : "Take care that what the prophets have said does not happen to you:"
+  }, {
+    "verse" : "acts,13,41",
+    "text" : "\"'Look, you scoffers, wonder and perish, for I am going to do something in your days that you would never believe, even if someone told you.'\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,13,39",
     "id" : 197522,

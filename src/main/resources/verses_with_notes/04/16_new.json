@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "luke,18,1", "luke,18,2" ],
+  "verses" : [ {
+    "verse" : "luke,18,1",
+    "text" : "Then Jesus told his disciples a parable to show them that they should always pray and not give up."
+  }, {
+    "verse" : "luke,18,2",
+    "text" : "He said: \"In a certain town there was a judge who neither feared God nor cared about men."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,18,1-luke,18,8",
     "id" : 196694,
@@ -7,7 +13,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 18:1-Luke 18:8\">18:1–8</a></b> The preceding verses (<a class=\"bibleref\" href=\"/passage/?search=Luke 17:22-Luke 17:37\">17:22–37</a>) and the reference to the Second Coming in <a class=\"bibleref\" href=\"/passage/?search=Luke 17:8\">v. 8</a> indicate that persistence in prayer for the coming of Christ and His final triumph over evil, even when that coming is seemingly delayed, is particularly in view (<a class=\"bibleref\" href=\"/passage/?search=1Cor 16:22\">1 Cor. 16:22</a>; <a class=\"bibleref\" href=\"/passage/?search=Rev 22:20\">Rev. 22:20</a>). On the general principle concerning the importance of continued prayer in all matters, see 11:5–8 and notes.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,18,3", "luke,18,4" ],
+  "verses" : [ {
+    "verse" : "luke,18,3",
+    "text" : "And there was a widow in that town who kept coming to him with the plea, 'Grant me justice against my adversary.'"
+  }, {
+    "verse" : "luke,18,4",
+    "text" : "\"For some time he refused. But finally he said to himself, 'Even though I don't fear God or care about men,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,18,3",
     "id" : 196695,
@@ -15,7 +27,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 18:3\">18:3</a></b> The widow was a helpless person with nothing but right on her side. She wanted justice, not revenge.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,18,5", "luke,18,6" ],
+  "verses" : [ {
+    "verse" : "luke,18,5",
+    "text" : "yet because this widow keeps bothering me, I will see that she gets justice, so that she won't eventually wear me out with her coming!'\""
+  }, {
+    "verse" : "luke,18,6",
+    "text" : "And the Lord said, \"Listen to what the unjust judge says."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,18,5",
     "id" : 196696,
@@ -23,7 +41,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 18:5\">18:5</a></b> <b>beat me down.</b> A picturesque expression, lit. “give me a black eye.” The judge may be afraid that the woman will ruin his reputation by making him seem unable to help his clients, and compelling them to beg at his door.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,18,7" ],
+  "verses" : [ {
+    "verse" : "luke,18,7",
+    "text" : "And will not God bring about justice for his chosen ones, who cry out to him day and night? Will he keep putting them off?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,18,7",
     "id" : 196697,
@@ -31,7 +52,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 18:7\">18:7</a></b> If even an “unrighteous” judge (<a class=\"bibleref\" href=\"/passage/?search=Luke 18:6\">v. 6</a>) will do what is right, how much more God?</p><p><b>delay long.</b> God will not keep putting them off like the judge in this parable; any delay will have a reason.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,18,8", "luke,18,9" ],
+  "verses" : [ {
+    "verse" : "luke,18,8",
+    "text" : "I tell you, he will see that they get justice, and quickly. However, when the Son of Man comes, will he find faith on the earth?\""
+  }, {
+    "verse" : "luke,18,9",
+    "text" : "To some who were confident of their own righteousness and looked down on everybody else, Jesus told this parable:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,18,8",
     "id" : 196698,
@@ -39,7 +66,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 18:8\">18:8</a></b> <b>speedily.</b> This is in God’s time (<a class=\"bibleref\" href=\"/passage/?search=2Pet 3:8\">2 Pet. 3:8</a>), not ours.</p><p><b>will he find faith.</b> This does not mean that there will be no believers, but that faith will not be characteristic of all.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,18,10" ],
+  "verses" : [ {
+    "verse" : "luke,18,10",
+    "text" : "\"Two men went up to the temple to pray, one a Pharisee and the other a tax collector."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,18,10",
     "id" : 196699,
@@ -47,7 +77,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 18:10\">18:10</a></b> Private prayer could be offered in the temple at any time of day, not only in formal services.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,18,11" ],
+  "verses" : [ {
+    "verse" : "luke,18,11",
+    "text" : "The Pharisee stood up and prayed about himself: 'God, I thank you that I am not like other men--robbers, evildoers, adulterers--or even like this tax collector."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,18,11",
     "id" : 196700,
@@ -55,7 +88,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 18:11\">18:11</a></b> <b>standing.</b> A common posture for prayer.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,18,12" ],
+  "verses" : [ {
+    "verse" : "luke,18,12",
+    "text" : "I fast twice a week and give a tenth of all I get.'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,18,12",
     "id" : 196701,
@@ -63,7 +99,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 18:12\">18:12</a></b> <b>fast twice a week.</b> The only fast prescribed in the law of Moses was on the Day of Atonement (<a class=\"bibleref\" href=\"/passage/?search=Lev 16:29-Lev 16:31\">Lev. 16:29–31</a>; <a class=\"bibleref\" href=\"/passage/?search=Lev 23:27\">23:27</a>), though voluntary fasting could accompany prayer (<a class=\"bibleref\" href=\"/passage/?search=Ps 35:13\">Ps. 35:13</a>), penitence (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 21:27\">1 Kin. 21:27</a>), and mourning (<a class=\"bibleref\" href=\"/passage/?search=2Sam 1:12\">2 Sam. 1:12</a>). By the time of Christ, Jewish oral tradition had increased the number of fasts expected of the pious. Fasting can be a useful religious exercise (5:33–35; <a class=\"bibleref\" href=\"/passage/?search=Acts 13:2\">Acts 13:2</a>, <a class=\"bibleref\" href=\"/passage/?search=Acts 13:3\">3</a>), but Jesus roundly condemned the practice when it was seen as a way of meriting God’s favor (vv. 11, 12) or when it became an ostentatious display (<a class=\"bibleref\" href=\"/passage/?search=Matt 6:16-Matt 6:18\">Matt. 6:16–18</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Isa 58:1-Isa 58:6\">Is. 58:1–6</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,18,13" ],
+  "verses" : [ {
+    "verse" : "luke,18,13",
+    "text" : "\"But the tax collector stood at a distance. He would not even look up to heaven, but beat his breast and said, 'God, have mercy on me, a sinner.'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,18,13",
     "id" : 196702,
@@ -71,7 +110,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 18:13\">18:13</a></b> <b>lift up his eyes to heaven.</b> Looking upward was usual while praying, but this man was too conscious of unworthiness to do this. He simply asked for mercy as he acknowledged his sin.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,18,14", "luke,18,15", "luke,18,16", "luke,18,17" ],
+  "verses" : [ {
+    "verse" : "luke,18,14",
+    "text" : "\"I tell you that this man, rather than the other, went home justified before God. For everyone who exalts himself will be humbled, and he who humbles himself will be exalted.\""
+  }, {
+    "verse" : "luke,18,15",
+    "text" : "People were also bringing babies to Jesus to have him touch them. When the disciples saw this, they rebuked them."
+  }, {
+    "verse" : "luke,18,16",
+    "text" : "But Jesus called the children to him and said, \"Let the little children come to me, and do not hinder them, for the kingdom of God belongs to such as these."
+  }, {
+    "verse" : "luke,18,17",
+    "text" : "I tell you the truth, anyone who will not receive the kingdom of God like a little child will never enter it.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,18,14",
     "id" : 196703,

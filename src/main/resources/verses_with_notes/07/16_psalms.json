@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,12,1" ],
+  "verses" : [ {
+    "verse" : "psalms,12,1",
+    "text" : "Help, LORD, for the godly are no more; the faithful have vanished from among men."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,12,1",
     "id" : 190285,
@@ -7,7 +10,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 12:1\">12:1</a></b> <b>the godly one is gone.</b> Like Elijah in <a class=\"bibleref\" href=\"/passage/?search=1Kgs 19:14\">1 Kin. 19:14</a>, the psalmist feels alone in his devotion to the Lord.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,12,2" ],
+  "verses" : [ {
+    "verse" : "psalms,12,2",
+    "text" : "Everyone lies to his neighbor; their flattering lips speak with deception."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,12,2",
     "id" : 190286,
@@ -15,7 +21,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 12:2\">12:2</a></b> <b>Everyone utters lies.</b> Lit. “they speak lies,” or “emptiness,” including outright falsehoods, but also insincere and irresponsible talk, which cheapens and corrodes all human communication.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,12,3", "psalms,12,4" ],
+  "verses" : [ {
+    "verse" : "psalms,12,3",
+    "text" : "May the LORD cut off all flattering lips and every boastful tongue"
+  }, {
+    "verse" : "psalms,12,4",
+    "text" : "that says, \"We will triumph with our tongues; we own our lips -who is our master?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,12,3",
     "id" : 190287,
@@ -23,7 +35,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 12:3\">12:3</a></b> <b>cut off.</b> To be “cut off” usually means to be excluded from the community, but occasionally may mean death.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,12,5", "psalms,12,6", "psalms,12,7", "psalms,12,8" ],
+  "verses" : [ {
+    "verse" : "psalms,12,5",
+    "text" : "\"Because of the oppression of the weak and the groaning of the needy, I will now arise,\" says the LORD. \"I will protect them from those who malign them.\""
+  }, {
+    "verse" : "psalms,12,6",
+    "text" : "And the words of the LORD are flawless, like silver refined in a furnace of clay, purified seven times."
+  }, {
+    "verse" : "psalms,12,7",
+    "text" : "O LORD, you will keep us safe and protect us from such people forever."
+  }, {
+    "verse" : "psalms,12,8",
+    "text" : "The wicked freely strut about when what is vile is honored among men."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,12,5",
     "id" : 190288,

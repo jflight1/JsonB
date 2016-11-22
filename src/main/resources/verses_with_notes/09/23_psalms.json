@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,67,1" ],
+  "verses" : [ {
+    "verse" : "psalms,67,1",
+    "text" : "May God be gracious to us and bless us and make his face shine upon us, Selah"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,67,1-psalms,67,7",
     "id" : 190784,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 67:1\">67:1</a></b> <b>make his face to shine upon us.</b> The psalmist picks up the standard priestly blessing found in <a class=\"bibleref\" href=\"/passage/?search=Num 6:25\">Num. 6:25</a>. The thing promised in the blessing is that God will be present.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,67,2" ],
+  "verses" : [ {
+    "verse" : "psalms,67,2",
+    "text" : "that your ways may be known on earth, your salvation among all nations."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,67,2",
     "id" : 190786,
@@ -20,7 +26,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 67:2\">67:2</a></b> <b>all nations.</b> God is sovereign over all, not merely of a particular country.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,67,3", "psalms,67,4", "psalms,67,5" ],
+  "verses" : [ {
+    "verse" : "psalms,67,3",
+    "text" : "May the peoples praise you, O God; may all the peoples praise you."
+  }, {
+    "verse" : "psalms,67,4",
+    "text" : "May the nations be glad and sing for joy, for you rule the peoples justly and guide the nations of the earth. Selah"
+  }, {
+    "verse" : "psalms,67,5",
+    "text" : "May the peoples praise you, O God; may all the peoples praise you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,67,3",
     "id" : 190787,
@@ -28,7 +43,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 67:3\">67:3</a></b> <b>Let the peoples.</b> The psalmist’s desire to see peoples from many different nations praise the Lord was begun in a new way when the crucifixion and resurrection of Christ broke down “the dividing wall of hostility” (<a class=\"bibleref\" href=\"/passage/?search=Eph 2:14\">Eph. 2:14</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,67,6", "psalms,67,7" ],
+  "verses" : [ {
+    "verse" : "psalms,67,6",
+    "text" : "Then the land will yield its harvest, and God, our God, will bless us."
+  }, {
+    "verse" : "psalms,67,7",
+    "text" : "God will bless us, and all the ends of the earth will fear him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,67,6",
     "id" : 190788,

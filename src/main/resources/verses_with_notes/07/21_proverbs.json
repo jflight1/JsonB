@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,19,22" ],
+  "verses" : [ {
+    "verse" : "proverbs,19,22",
+    "text" : "What a man desires is unfailing love; better to be poor than a liar."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 19:22\">19:22</a></b> <b>steadfast love.</b> Or, “loyalty.”</p><p><b>better than a liar.</b> A loyal friend, though poor, is better than a treacherous friend.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,19,23" ],
+  "verses" : [ {
+    "verse" : "proverbs,19,23",
+    "text" : "The fear of the LORD leads to life: Then one rests content, untouched by trouble."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,19,23",
     "id" : 192084,

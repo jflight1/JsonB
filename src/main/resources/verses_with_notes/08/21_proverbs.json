@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,21,25" ],
+  "verses" : [ {
+    "verse" : "proverbs,21,25",
+    "text" : "The sluggard's craving will be the death of him, because his hands refuse to work."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 21:25\">21:25</a></b> <b>desire.</b> This desire does not connect him to the real world where work would bring its rewards (<a class=\"bibleref\" href=\"/passage/?search=Prov 13:4\">13:4</a>; <a class=\"bibleref\" href=\"/passage/?search=Prov 19:24\">19:24</a> and notes).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,21,26" ],
+  "verses" : [ {
+    "verse" : "proverbs,21,26",
+    "text" : "All day long he craves for more, but the righteous give without sparing."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,21,26",
     "id" : 192140,

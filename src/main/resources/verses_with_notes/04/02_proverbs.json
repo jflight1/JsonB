@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,12,11" ],
+  "verses" : [ {
+    "verse" : "proverbs,12,11",
+    "text" : "He who works his land will have abundant food, but he who chases fantasies lacks judgment."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "jeremiah,1,1" ],
+  "verses" : [ {
+    "verse" : "jeremiah,1,1",
+    "text" : "The words of Jeremiah son of Hilkiah, one of the priests at Anathoth in the territory of Benjamin."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,1,1-jeremiah,1,19",
     "id" : 193518,
@@ -17,7 +20,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 1:1\">1:1</a></b> <b>priests who were in Anathoth.</b> Anathoth was a priestly city from early times (<a class=\"bibleref\" href=\"/passage/?search=Josh 21:17\">Josh. 21:17</a>, <a class=\"bibleref\" href=\"/passage/?search=Josh 21:18\">18</a>); cf. 11:21–23. Jeremiah was both a prophet and a priest.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,1,2", "jeremiah,1,3", "jeremiah,1,4" ],
+  "verses" : [ {
+    "verse" : "jeremiah,1,2",
+    "text" : "The word of the LORD came to him in the thirteenth year of the reign of Josiah son of Amon king of Judah,"
+  }, {
+    "verse" : "jeremiah,1,3",
+    "text" : "and through the reign of Jehoiakim son of Josiah king of Judah, down to the fifth month of the eleventh year of Zedekiah son of Josiah king of Judah, when the people of Jerusalem went into exile."
+  }, {
+    "verse" : "jeremiah,1,4",
+    "text" : "The word of the LORD came to me, saying,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,1,2",
     "id" : 193521,
@@ -25,7 +37,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 1:2\">1:2</a></b> <b>to whom the word of the <span class=\"small-caps\">Lord</span> came.</b> This phrase often opens prophetic books (cf. <a class=\"bibleref\" href=\"/passage/?search=Hos 1:1\">Hos. 1:1</a>; <a class=\"bibleref\" href=\"/passage/?search=Joel 1:1\">Joel 1:1</a>; <a class=\"bibleref\" href=\"/passage/?search=Mic 1:1\">Mic. 1:1</a>). Jeremiah’s recorded words, therefore, are God’s words.</p><p><b>Josiah.</b> He was a godly king who undertook a major religious reform beginning in 628 <span class=\"small-caps\">b.c.</span> (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 22\">2 Kin. 22</a>; <a class=\"bibleref\" href=\"/passage/?search=2Kgs 23\">23</a>; <a class=\"bibleref\" href=\"/passage/?search=2Chr 34\">2 Chr. 34</a>; <a class=\"bibleref\" href=\"/passage/?search=2Chr 35\">35</a>); Jeremiah approves of him (22:15, 16), though he makes few specific references to the reform.</p><p><b>thirteenth year.</b> That is, 626 <span class=\"small-caps\">b.c.</span></p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,1,5" ],
+  "verses" : [ {
+    "verse" : "jeremiah,1,5",
+    "text" : "\"Before I formed you in the womb I knew you, before you were born I set you apart; I appointed you as a prophet to the nations.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,1,5",
     "id" : 193522,
@@ -33,7 +48,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 1:5\">1:5</a></b> <b>I formed you . . . knew you.</b> God’s creation and election of Jeremiah belong together (for the verb “know” in the sense of “choose,” see <a class=\"bibleref\" href=\"/passage/?search=Gen 18:19\">Gen. 18:19</a>; <a class=\"bibleref\" href=\"/passage/?search=Amos 3:2\">Amos 3:2</a>). This setting apart before birth is the ground of Jeremiah’s prophetic standing. Compare also Moses, whose birth narrative (<a class=\"bibleref\" href=\"/passage/?search=Exod 2\">Ex. 2</a>) has the same meaning, and Paul (<a class=\"bibleref\" href=\"/passage/?search=Gal 1:15\">Gal. 1:15</a>).</p><p><b>to the nations.</b> Jeremiah’s message is chiefly for Judah, but he has words of judgment for other nations as well (25:8–37; 46–51).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,1,6", "jeremiah,1,7" ],
+  "verses" : [ {
+    "verse" : "jeremiah,1,6",
+    "text" : "\"Ah, Sovereign LORD,\" I said, \"I do not know how to speak; I am only a child.\""
+  }, {
+    "verse" : "jeremiah,1,7",
+    "text" : "But the LORD said to me, \"Do not say, 'I am only a child.' You must go to everyone I send you to and say whatever I command you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,1,6",
     "id" : 193523,
@@ -41,7 +62,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 1:6\">1:6</a></b> <b>I do not know how to speak.</b> Moses made a similar protest (<a class=\"bibleref\" href=\"/passage/?search=Exod 4:10\">Ex. 4:10</a>).</p><p><b>youth.</b> This denotes a disqualifying immaturity (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 3:7\">1 Kin. 3:7</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,1,8" ],
+  "verses" : [ {
+    "verse" : "jeremiah,1,8",
+    "text" : "Do not be afraid of them, for I am with you and will rescue you,\" declares the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,1,8",
     "id" : 193524,
@@ -49,7 +73,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 1:8\">1:8</a></b> <b>Do not be afraid.</b> The reassurance necessarily recurs (<a class=\"bibleref\" href=\"/passage/?search=Jer 10:5\">10:5</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 30:10\">30:10</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Isa 43:1\">Is. 43:1</a>; <a class=\"bibleref\" href=\"/passage/?search=Luke 12:32\">Luke 12:32</a>).</p><p><b>I am with you.</b> These words are the Lord’s essential promise to His people (<a class=\"bibleref\" href=\"/passage/?search=Exod 3:12\">Ex. 3:12</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 7:14\">Is. 7:14</a>; <a class=\"bibleref\" href=\"/passage/?search=Matt 1:23\">Matt. 1:23</a>; <a class=\"bibleref\" href=\"/passage/?search=Matt 28:20\">28:20</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,1,9" ],
+  "verses" : [ {
+    "verse" : "jeremiah,1,9",
+    "text" : "Then the LORD reached out his hand and touched my mouth and said to me, \"Now, I have put my words in your mouth."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,1,9",
     "id" : 193525,
@@ -57,7 +84,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 1:9\">1:9</a></b> <b>touched my mouth.</b> This indicates that Jeremiah was consecrated to speak the Lord’s words (<a class=\"bibleref\" href=\"/passage/?search=Isa 6:7\">Is. 6:7</a>).</p><p><b>words in your mouth.</b> See <a class=\"bibleref\" href=\"/passage/?search=Exod 4:15\">Ex. 4:15</a>; <a class=\"bibleref\" href=\"/passage/?search=2Pet 1:21\">2 Pet. 1:21</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,1,10" ],
+  "verses" : [ {
+    "verse" : "jeremiah,1,10",
+    "text" : "See, today I appoint you over nations and kingdoms to uproot and tear down, to destroy and overthrow, to build and to plant.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,1,10",
     "id" : 193526,
@@ -65,7 +95,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 1:10\">1:10</a></b> <b>pluck up . . . plant.</b> The images stress Jeremiah’s message of destruction, while also foreshadowing the Lord’s reconstruction. The narrative of his call prepares for the prophet’s ministry in all its variety. God’s word accomplishes God’s purposes (<a class=\"bibleref\" href=\"/passage/?search=Isa 55:11\">Is. 55:11</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,1,11", "jeremiah,1,12" ],
+  "verses" : [ {
+    "verse" : "jeremiah,1,11",
+    "text" : "The word of the LORD came to me: \"What do you see, Jeremiah?I see the branch of an almond tree,\" I replied."
+  }, {
+    "verse" : "jeremiah,1,12",
+    "text" : "The LORD said to me, \"You have seen correctly, for I am watching to see that my word is fulfilled.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,1,11",
     "id" : 193527,
@@ -73,7 +109,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 1:11\">1:11</a></b> <b>word.</b> The term can also designate revelatory visions (<a class=\"bibleref\" href=\"/passage/?search=Amos 7:8\">Amos 7:8</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,1,13" ],
+  "verses" : [ {
+    "verse" : "jeremiah,1,13",
+    "text" : "The word of the LORD came to me again: \"What do you see?I see a boiling pot, tilting away from the north,\" I answered."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,1,13-jeremiah,1,14",
     "id" : 193528,
@@ -81,7 +120,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 1:13\">1:13</a>, <a class=\"bibleref\" href=\"/passage/?search=Jer 1:14\">14</a> boiling . . . let loose.</b> The second vision, like the first, affirms the inevitability of the imminent judgment on Judah. Jeremiah must himself believe the message in order to proclaim it.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,1,14", "jeremiah,1,15" ],
+  "verses" : [ {
+    "verse" : "jeremiah,1,14",
+    "text" : "The LORD said to me, \"From the north disaster will be poured out on all who live in the land."
+  }, {
+    "verse" : "jeremiah,1,15",
+    "text" : "I am about to summon all the peoples of the northern kingdoms,\" declares the LORD. \"Their kings will come and set up their thrones in the entrance of the gates of Jerusalem; they will come against all her surrounding walls and against all the towns of Judah."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,1,14",
     "id" : 193529,
@@ -89,7 +134,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 1:14\">1:14</a></b> <b>north.</b> Though Babylon lay to the east, their route of march would bring them from the north.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,1,16" ],
+  "verses" : [ {
+    "verse" : "jeremiah,1,16",
+    "text" : "I will pronounce my judgments on my people because of their wickedness in forsaking me, in burning incense to other gods and in worshiping what their hands have made."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,1,16",
     "id" : 193530,
@@ -97,7 +145,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 1:16\">1:16</a></b> <b>judgments.</b> Judgment is a work of God, in relation to His covenant people (<a class=\"bibleref\" href=\"/passage/?search=Jer 11:2\">11:2</a>), in which He implements the curses of the covenant (<a class=\"bibleref\" href=\"/passage/?search=Deut 28:15-Deut 28:68\">Deut. 28:15–68</a>).</p><p><b>forsaking me . . . other gods.</b> Judah’s basic sin is apostasy; the central issue in the book is faithfulness to God.</p><p><b>made offerings.</b> See note 11:13.</p><p><b>works of their own hands.</b> Ironic polemic (<a class=\"bibleref\" href=\"/passage/?search=Isa 46:6\">Is. 46:6</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,1,17" ],
+  "verses" : [ {
+    "verse" : "jeremiah,1,17",
+    "text" : "\"Get yourself ready! Stand up and say to them whatever I command you. Do not be terrified by them, or I will terrify you before them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,1,17",
     "id" : 193531,
@@ -105,7 +156,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 1:17\">1:17</a></b> <b>dress yourself.</b> Lit. “gird up your loin,” adjust the robe in preparation for battle or other activities (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 18:46\">1 Kin. 18:46</a>; <a class=\"bibleref\" href=\"/passage/?search=1Pet 1:13\">1 Pet. 1:13</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,1,18", "jeremiah,1,19" ],
+  "verses" : [ {
+    "verse" : "jeremiah,1,18",
+    "text" : "Today I have made you a fortified city, an iron pillar and a bronze wall to stand against the whole land-against the kings of Judah, its officials, its priests and the people of the land."
+  }, {
+    "verse" : "jeremiah,1,19",
+    "text" : "They will fight against you but will not overcome you, for I am with you and will rescue you,\" declares the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,1,18",
     "id" : 193532,
@@ -113,7 +170,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 1:18\">1:18</a></b> <b>kings . . . land.</b> Jeremiah’s accusation will embrace the whole society of Judah, from greatest to least.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,2,1" ],
+  "verses" : [ {
+    "verse" : "jeremiah,2,1",
+    "text" : "The word of the LORD came to me:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,2,1-jeremiah,6,30",
     "id" : 193533,
@@ -121,7 +181,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 2-Jer 6\">2:1–6:30</a></b> Jeremiah uses a number of vivid images (such as comparing Judah to a wild donkey and a prostitute) to indict Judah for unfaithfulness to God (<a class=\"bibleref\" href=\"/passage/?search=Jer 2:1-Jer 3:5\">2:1–3:5</a>) and to warn of certain judgment if the nation will not repent and return to God (<a class=\"bibleref\" href=\"/passage/?search=Jer 3:6-Jer 6:30\">3:6–6:30</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,2,2" ],
+  "verses" : [ {
+    "verse" : "jeremiah,2,2",
+    "text" : "\"Go and proclaim in the hearing of Jerusalem: \"'I remember the devotion of your youth, how as a bride you loved me and followed me through the desert, through a land not sown."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,2,2",
     "id" : 193534,
@@ -129,7 +192,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 2:2\">2:2</a></b> <b>Jerusalem.</b> In Hebrew cities are personified as feminine (<a class=\"bibleref\" href=\"/passage/?search=Jer 7:29\">7:29</a> note).</p><p><b>devotion.</b> On the Hebrew word (<i>h.esed</i>), see <a class=\"bibleref\" href=\"/passage/?search=Ps 36:5\">Ps. 36:5</a> note.</p><p><b>youth . . . bride.</b> Israel’s early relationship with the Lord in the wilderness after the exodus from Egypt is remembered as pure and devoted, like a bride’s with her groom. See <a class=\"bibleref\" href=\"/passage/?search=Hos 2:14-Hos 2:16\">Hos. 2:14–16</a> for a similar image.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,2,3", "jeremiah,2,4", "jeremiah,2,5", "jeremiah,2,6" ],
+  "verses" : [ {
+    "verse" : "jeremiah,2,3",
+    "text" : "Israel was holy to the LORD, the firstfruits of his harvest; all who devoured her were held guilty, and disaster overtook them,'\" declares the LORD."
+  }, {
+    "verse" : "jeremiah,2,4",
+    "text" : "Hear the word of the LORD, O house of Jacob, all you clans of the house of Israel."
+  }, {
+    "verse" : "jeremiah,2,5",
+    "text" : "This is what the LORD says: \"What fault did your fathers find in me, that they strayed so far from me? They followed worthless idols and became worthless themselves."
+  }, {
+    "verse" : "jeremiah,2,6",
+    "text" : "They did not ask, 'Where is the LORD, who brought us up out of Egypt and led us through the barren wilderness, through a land of deserts and rifts, a land of drought and darkness, a land where no one travels and no one lives?'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,2,3",
     "id" : 193535,
@@ -137,7 +212,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 2:3\">2:3</a></b> <b>holy . . . firstfruits.</b> These terms are drawn from the life of worship. As holy, Israel was dedicated to the Lord (<a class=\"bibleref\" href=\"/passage/?search=Ezek 22:26\">Ezek. 22:26</a>); a “firstfruit” is something belonging specifically to the Lord (<a class=\"bibleref\" href=\"/passage/?search=Deut 26:2\">Deut. 26:2</a>; <a class=\"bibleref\" href=\"/passage/?search=Hos 9:10\">Hos. 9:10</a>).</p><p><b>incurred guilt.</b> The offense resulted from unauthorized handling of holy things.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,2,7" ],
+  "verses" : [ {
+    "verse" : "jeremiah,2,7",
+    "text" : "I brought you into a fertile land to eat its fruit and rich produce. But you came and defiled my land and made my inheritance detestable."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,2,7",
     "id" : 193536,
@@ -145,7 +223,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 2:7\">2:7</a></b> <b>defiled my land . . . my heritage.</b> See <a class=\"bibleref\" href=\"/passage/?search=Deut 21:23\">Deut. 21:23</a>. God’s holy people (<a class=\"bibleref\" href=\"/passage/?search=Deut 7:6\">Deut. 7:6</a>) dwell in the land He gave them for a heritage. The land can be defiled, or in religious terms be made “unclean,” by sin, because it remains God’s possession. See <a class=\"bibleref\" href=\"/passage/?search=Lev 25:23\">Lev. 25:23</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,2,8" ],
+  "verses" : [ {
+    "verse" : "jeremiah,2,8",
+    "text" : "The priests did not ask, 'Where is the LORD?' Those who deal with the law did not know me; the leaders rebelled against me. The prophets prophesied by Baal, following worthless idols."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,2,8",
     "id" : 193537,
@@ -153,7 +234,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 2:8\">2:8</a></b> <b>priests.</b> These may also be “those who handle the law,” (cf. <a class=\"bibleref\" href=\"/passage/?search=Jer 18:18\">18:18</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 31:9\">Deut. 31:9</a>), or the latter may be a scribal group (8:8).</p><p><b>shepherds.</b> A figure often used for rulers (23:1–4).</p><p><b>prophets.</b> These prophets were an official group that Jeremiah frequently opposes for their apostasy (23:9–40; 28).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,2,9" ],
+  "verses" : [ {
+    "verse" : "jeremiah,2,9",
+    "text" : "\"Therefore I bring charges against you again,\" declares the LORD. \"And I will bring charges against your children's children."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,2,9",
     "id" : 193538,
@@ -161,7 +245,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 2:9\">2:9</a></b> <b>I still contend with you.</b> The courtroom metaphor is resumed (<a class=\"bibleref\" href=\"/passage/?search=Jer 2:5\">v. 5</a>; <a class=\"bibleref\" href=\"/passage/?search=Hos 4:1\">Hos. 4:1</a>; <a class=\"bibleref\" href=\"/passage/?search=Mic 6:1\">Mic. 6:1</a>, <a class=\"bibleref\" href=\"/passage/?search=Mic 6:2\">2</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,2,10", "jeremiah,2,11" ],
+  "verses" : [ {
+    "verse" : "jeremiah,2,10",
+    "text" : "Cross over to the coasts of Kittim and look, send to Kedar and observe closely; see if there has ever been anything like this:"
+  }, {
+    "verse" : "jeremiah,2,11",
+    "text" : "Has a nation ever changed its gods? (Yet they are not gods at all.) But my people have exchanged their Glory for worthless idols."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,2,10",
     "id" : 193539,
@@ -169,7 +259,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 2:10\">2:10</a></b> <b>Cyprus . . . Kedar.</b> These locations represent west and east respectively. The appeal takes its meaning from the special position of Israel, namely their covenant with the Lord, and Jeremiah’s assertion that the nation’s gods are impotent.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,2,12" ],
+  "verses" : [ {
+    "verse" : "jeremiah,2,12",
+    "text" : "Be appalled at this, O heavens, and shudder with great horror,\" declares the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,2,12",
     "id" : 193540,
@@ -177,7 +270,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 2:12\">2:12</a></b> <b>O heavens.</b> See also <a class=\"bibleref\" href=\"/passage/?search=Isa 1:2\">Is. 1:2</a>. Heaven and earth serve as witnesses of the covenant (<a class=\"bibleref\" href=\"/passage/?search=Deut 30:19\">Deut. 30:19</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 31:28\">31:28</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 32:1\">32:1</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,2,13", "jeremiah,2,14" ],
+  "verses" : [ {
+    "verse" : "jeremiah,2,13",
+    "text" : "\"My people have committed two sins: They have forsaken me, the spring of living water, and have dug their own cisterns, broken cisterns that cannot hold water."
+  }, {
+    "verse" : "jeremiah,2,14",
+    "text" : "Is Israel a servant, a slave by birth? Why then has he become plunder?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,2,13",
     "id" : 193541,
@@ -185,7 +284,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 2:13\">2:13</a></b> <b>two evils.</b> Jeremiah stresses the seriousness of Judah’s sin.</p><p><b>waters.</b> God alone provides life-giving water (<a class=\"bibleref\" href=\"/passage/?search=Isa 55:1\">Is. 55:1</a>; <a class=\"bibleref\" href=\"/passage/?search=John 4:10\">John 4:10</a>, <a class=\"bibleref\" href=\"/passage/?search=John 7:37-John 7:39\">7:37–39</a>).</p><p><b>broken cisterns.</b> The gods they took for themselves were useless, empty.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,2,15" ],
+  "verses" : [ {
+    "verse" : "jeremiah,2,15",
+    "text" : "Lions have roared; they have growled at him. They have laid waste his land; his towns are burned and deserted."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,2,15",
     "id" : 193542,
@@ -193,7 +295,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 2:15\">2:15</a></b> <b>lions.</b> These are Israel’s enemies (<a class=\"bibleref\" href=\"/passage/?search=Jer 4:7\">4:7</a>), announcing desolation.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,2,16", "jeremiah,2,17" ],
+  "verses" : [ {
+    "verse" : "jeremiah,2,16",
+    "text" : "Also, the men of Memphis and Tahpanhes have shaved the crown of your head."
+  }, {
+    "verse" : "jeremiah,2,17",
+    "text" : "Have you not brought this on yourselves by forsaking the LORD your God when he led you in the way?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,2,16",
     "id" : 193543,
@@ -201,7 +309,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 2:16\">2:16</a></b> <b>Memphis . . . Tahpanhes.</b> Egyptian cities. Egypt and Babylon fought over who would own Israel, 609 to 605 <span class=\"small-caps\">b.c.</span></p><p><b>crown.</b> Possibly, a reference to Josiah, who was killed by Pharaoh Neco at the battle of Megiddo in 609 <span class=\"small-caps\">b.c.</span> (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 23:29\">2 Kin. 23:29</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,2,18", "jeremiah,2,19" ],
+  "verses" : [ {
+    "verse" : "jeremiah,2,18",
+    "text" : "Now why go to Egypt to drink water from the Shihor? And why go to Assyria to drink water from the River?"
+  }, {
+    "verse" : "jeremiah,2,19",
+    "text" : "Your wickedness will punish you; your backsliding will rebuke you. Consider then and realize how evil and bitter it is for you when you forsake the LORD your God and have no awe of me,\" declares the Lord, the LORD Almighty."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,2,18",
     "id" : 193544,
@@ -209,7 +323,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 2:18\">2:18</a></b> <b>Egypt . . . Assyria.</b> One of Israel’s and Judah’s besetting sins was to seek help from political alliances, rather than the Lord (<a class=\"bibleref\" href=\"/passage/?search=Hos 12:1\">Hos. 12:1</a>).</p><p><b>waters.</b> Note the boasts of the Assyrian field commander to be a more reliable provider of basic needs than the Lord (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 18:31\">2 Kin. 18:31</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,2,20" ],
+  "verses" : [ {
+    "verse" : "jeremiah,2,20",
+    "text" : "\"Long ago you broke off your yoke and tore off your bonds; you said, 'I will not serve you!' Indeed, on every high hill and under every spreading tree you lay down as a prostitute."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,2,20",
     "id" : 193545,
@@ -217,7 +334,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 2:20\">2:20</a></b> <b>high hill . . . green tree.</b> See <a class=\"bibleref\" href=\"/passage/?search=Deut 12:2\">Deut. 12:2</a>; <a class=\"bibleref\" href=\"/passage/?search=1Kgs 14:23\">1 Kin. 14:23</a>. These were typical sites of shrines to the gods of Canaan.</p><p><b>whore.</b> Judah is portrayed as a harlot, unfaithful to the Lord (<a class=\"bibleref\" href=\"/passage/?search=Ezek 23:1-Ezek 23:8\">Ezek. 23:1–8</a>; <a class=\"bibleref\" href=\"/passage/?search=Hos 3\">Hos. 3:1–5</a>; <a class=\"bibleref\" href=\"/passage/?search=Hos 4:10-Hos 4:14\">4:10–14</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,2,21" ],
+  "verses" : [ {
+    "verse" : "jeremiah,2,21",
+    "text" : "I had planted you like a choice vine of sound and reliable stock. How then did you turn against me into a corrupt, wild vine?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,2,21",
     "id" : 193546,
@@ -225,7 +345,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 2:21\">2:21</a></b> <b>choice vine . . . wild vine.</b> The “vine” metaphor is frequently used for Israel (<a class=\"bibleref\" href=\"/passage/?search=Jer 12:10\">12:10</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 80:8-Ps 80:16\">Ps. 80:8–16</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 5:1-Isa 5:7\">Is. 5:1–7</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 17:1-Ezek 17:10\">Ezek. 17:1–10</a>). Jesus Christ is the true vine, and those who abide in Him are the branches (<a class=\"bibleref\" href=\"/passage/?search=John 15:1-John 15:8\">John 15:1–8</a>).</p><p><b>wild.</b> Lit. “foreign.” Foreignness here connotes pagan religious practices.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,2,22" ],
+  "verses" : [ {
+    "verse" : "jeremiah,2,22",
+    "text" : "Although you wash yourself with soda and use an abundance of soap, the stain of your guilt is still before me,\" declares the Sovereign LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,2,22",
     "id" : 193547,
@@ -233,7 +356,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 2:22\">2:22</a></b> <b>wash.</b> Sin is only effectively washed away when there is repentance toward the Lord Himself as the One who cleanses, through the blood of the everlasting covenant (<a class=\"bibleref\" href=\"/passage/?search=Isa 53:4-Isa 53:6\">Is. 53:4–6</a>; <a class=\"bibleref\" href=\"/passage/?search=Heb 9:11-Heb 9:15\">Heb. 9:11–15</a>; <a class=\"bibleref\" href=\"/passage/?search=Heb 13:20\">13:20</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,2,23" ],
+  "verses" : [ {
+    "verse" : "jeremiah,2,23",
+    "text" : "\"How can you say, 'I am not defiled; I have not run after the Baals'? See how you behaved in the valley; consider what you have done. You are a swift she-camel running here and there,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,2,23",
     "id" : 193548,
@@ -241,7 +367,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 2:23\">2:23</a></b> <b>the valley.</b> Probably this refers to the Hinnom Valley, immediately south of Jerusalem, where abominable worship practices occurred (<a class=\"bibleref\" href=\"/passage/?search=Jer 7:31\">7:31</a>).</p><p><b>young camel.</b> Characteristically irresolute, ready to follow any fresh impulse.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,2,24", "jeremiah,2,25", "jeremiah,2,26", "jeremiah,2,27" ],
+  "verses" : [ {
+    "verse" : "jeremiah,2,24",
+    "text" : "a wild donkey accustomed to the desert, sniffing the wind in her craving- in her heat who can restrain her? Any males that pursue her need not tire themselves; at mating time they will find her."
+  }, {
+    "verse" : "jeremiah,2,25",
+    "text" : "Do not run until your feet are bare and your throat is dry. But you said, 'It's no use! I love foreign gods, and I must go after them.'"
+  }, {
+    "verse" : "jeremiah,2,26",
+    "text" : "\"As a thief is disgraced when he is caught, so the house of Israel is disgraced- they, their kings and their officials, their priests and their prophets."
+  }, {
+    "verse" : "jeremiah,2,27",
+    "text" : "They say to wood, 'You are my father,' and to stone, 'You gave me birth.' They have turned their backs to me and not their faces; yet when they are in trouble, they say, 'Come and save us!'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,2,24",
     "id" : 193549,
@@ -249,7 +387,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 2:24\">2:24</a></b> <b>wild donkey . . . heat.</b> This metaphor is a picture of lust.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,2,28", "jeremiah,2,29", "jeremiah,2,30" ],
+  "verses" : [ {
+    "verse" : "jeremiah,2,28",
+    "text" : "Where then are the gods you made for yourselves? Let them come if they can save you when you are in trouble! For you have as many gods as you have towns, O Judah."
+  }, {
+    "verse" : "jeremiah,2,29",
+    "text" : "\"Why do you bring charges against me? You have all rebelled against me,\" declares the LORD."
+  }, {
+    "verse" : "jeremiah,2,30",
+    "text" : "\"In vain I punished your people; they did not respond to correction. Your sword has devoured your prophets like a ravening lion."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,2,28",
     "id" : 193550,

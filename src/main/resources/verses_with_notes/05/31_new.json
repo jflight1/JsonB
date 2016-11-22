@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "john,19,23", "john,19,24" ],
+  "verses" : [ {
+    "verse" : "john,19,23",
+    "text" : "When the soldiers crucified Jesus, they took his clothes, dividing them into four shares, one for each of them, with the undergarment remaining. This garment was seamless, woven in one piece from top to bottom."
+  }, {
+    "verse" : "john,19,24",
+    "text" : "\"Let's not tear it,\" they said to one another. \"Let's decide by lot who will get it.\" This happened that the scripture might be fulfilled which said, \"They divided my garments among them and cast lots for my clothing.\" So this is what the soldiers did."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,19,23",
     "id" : 197309,
@@ -7,7 +13,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 19:23\">19:23</a></b> <b>tunic.</b> Such tunics were not uncommon in the ancient world. The point is not the tunic’s value, but the depth of Jesus’ humiliation, from whom everything was taken as He offered Himself. It is also the fulfillment of <a class=\"bibleref\" href=\"/passage/?search=Ps 22:18\">Ps. 22:18</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,19,25" ],
+  "verses" : [ {
+    "verse" : "john,19,25",
+    "text" : "Near the cross of Jesus stood his mother, his mother's sister, Mary the wife of Clopas, and Mary Magdalene."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,19,25",
     "id" : 197310,
@@ -15,7 +24,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 19:25\">19:25</a></b> <b>by the cross.</b> “Clopas” may be the same as “Cleopas,” mentioned in <a class=\"bibleref\" href=\"/passage/?search=Luke 24:18\">Luke 24:18</a>. The courage of the four women is noteworthy. Some are present again at Jesus’ burial (<a class=\"bibleref\" href=\"/passage/?search=Matt 27:61\">Matt. 27:61</a>; <a class=\"bibleref\" href=\"/passage/?search=Mark 15:47\">Mark 15:47</a>) and at the Resurrection (20:1–18; <a class=\"bibleref\" href=\"/passage/?search=Matt 28:1\">Matt. 28:1</a>; <a class=\"bibleref\" href=\"/passage/?search=Mark 16:1\">Mark 16:1</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,19,26", "john,19,27" ],
+  "verses" : [ {
+    "verse" : "john,19,26",
+    "text" : "When Jesus saw his mother there, and the disciple whom he loved standing nearby, he said to his mother, \"Dear woman, here is your son,\""
+  }, {
+    "verse" : "john,19,27",
+    "text" : "and to the disciple, \"Here is your mother.\" From that time on, this disciple took her into his home."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,19,26",
     "id" : 197311,
@@ -23,7 +38,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 19:26\">19:26</a></b> <b>Woman, behold your son.</b> “Woman” is not a harsh form of address in Aramaic (<a class=\"bibleref\" href=\"/passage/?search=John 2:4\">2:4</a> note). Even in the midst of dying on the cross as the Mediator of the new covenant, Jesus fulfills his duty as the Son of Mary in a splendid example of obedience to the letter and spirit of the fifth commandment. In a time of intense physical pain and mental anguish, the Lord thought of others, as is shown in the first statements from the cross (<a class=\"bibleref\" href=\"/passage/?search=Luke 23:34\">Luke 23:34</a>, <a class=\"bibleref\" href=\"/passage/?search=Luke 23:43\">43</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,19,28", "john,19,29", "john,19,30" ],
+  "verses" : [ {
+    "verse" : "john,19,28",
+    "text" : "Later, knowing that all was now completed, and so that the Scripture would be fulfilled, Jesus said, \"I am thirsty.\""
+  }, {
+    "verse" : "john,19,29",
+    "text" : "A jar of wine vinegar was there, so they soaked a sponge in it, put the sponge on a stalk of the hyssop plant, and lifted it to Jesus' lips."
+  }, {
+    "verse" : "john,19,30",
+    "text" : "When he had received the drink, Jesus said, \"It is finished.\" With that, he bowed his head and gave up his spirit."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,19,28-john,19,30",
     "id" : 197312,
@@ -31,7 +55,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 19:28-John 19:30\">19:28–30</a></b> <b>all . . . finished.</b> The worst ordeal, that of bearing in the place of His people the wrath of God against sin (<a class=\"bibleref\" href=\"/passage/?search=Matt 27:46\">Matt. 27:46</a>; <a class=\"bibleref\" href=\"/passage/?search=Mark 15:34\">Mark 15:34</a>), appears to be over.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,19,31", "john,19,32", "john,19,33" ],
+  "verses" : [ {
+    "verse" : "john,19,31",
+    "text" : "Now it was the day of Preparation, and the next day was to be a special Sabbath. Because the Jews did not want the bodies left on the crosses during the Sabbath, they asked Pilate to have the legs broken and the bodies taken down."
+  }, {
+    "verse" : "john,19,32",
+    "text" : "The soldiers therefore came and broke the legs of the first man who had been crucified with Jesus, and then those of the other."
+  }, {
+    "verse" : "john,19,33",
+    "text" : "But when they came to Jesus and found that he was already dead, they did not break his legs."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,19,31",
     "id" : 197313,
@@ -39,7 +72,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 19:31\">19:31</a></b> <b>day of Preparation.</b> See note on <a class=\"bibleref\" href=\"/passage/?search=John 19:14\">v. 14</a>.</p><p><b>bodies would not remain on the cross.</b> This would ceremonially defile the land (<a class=\"bibleref\" href=\"/passage/?search=Deut 21:23\">Deut. 21:23</a>). It is a starkly revealing example of their depraved insensitivity that they joined forces to commit murder and at the same time were so punctilious about enforcing the ceremonial law.</p><p><b>legs . . . broken.</b> Breathing was so difficult in crucifixion that if the legs could not help by lifting the torso, a person would quickly die.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,19,34", "john,19,35", "john,19,36", "john,19,37" ],
+  "verses" : [ {
+    "verse" : "john,19,34",
+    "text" : "Instead, one of the soldiers pierced Jesus' side with a spear, bringing a sudden flow of blood and water."
+  }, {
+    "verse" : "john,19,35",
+    "text" : "The man who saw it has given testimony, and his testimony is true. He knows that he tells the truth, and he testifies so that you also may believe."
+  }, {
+    "verse" : "john,19,36",
+    "text" : "These things happened so that the scripture would be fulfilled: \"Not one of his bones will be broken,\""
+  }, {
+    "verse" : "john,19,37",
+    "text" : "and, as another scripture says, \"They will look on the one they have pierced.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,19,34",
     "id" : 197314,
@@ -47,7 +92,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 19:34\">19:34</a></b> <b>pierced his side with a spear.</b> This act proves that Jesus was not in a coma but was dead, as shown by the burial preparations (<a class=\"bibleref\" href=\"/passage/?search=John 19:39\">vv. 39</a>, <a class=\"bibleref\" href=\"/passage/?search=John 19:40\">40</a>) and the specification of a particular tomb (<a class=\"bibleref\" href=\"/passage/?search=John 19:41\">v. 41</a>). Both the preserving of His bones (<a class=\"bibleref\" href=\"/passage/?search=John 19:33\">v. 33</a>) and the piercing of His side fulfill Old Testament Scripture (<a class=\"bibleref\" href=\"/passage/?search=John 19:36\">vv. 36</a>, <a class=\"bibleref\" href=\"/passage/?search=John 19:37\">37</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 34:20\">Ps. 34:20</a>; <a class=\"bibleref\" href=\"/passage/?search=Zech 12:10\">Zech. 12:10</a>).</p><p><b>blood and water.</b> John emphasizes this physical evidence that Jesus was a real human being and that He was dead. It has been suggested that rupture of the heart caused by extreme agony is indicated, but more recent medical research has shown that such trauma occurs only when the heart is already damaged by disease. Others see a symbolic significance linked with <a class=\"bibleref\" href=\"/passage/?search=1John 5:6-1John 5:8\">1 John 5:6–8</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,19,38", "john,19,39", "john,19,40", "john,19,41", "john,19,42" ],
+  "verses" : [ {
+    "verse" : "john,19,38",
+    "text" : "Later, Joseph of Arimathea asked Pilate for the body of Jesus. Now Joseph was a disciple of Jesus, but secretly because he feared the Jews. With Pilate's permission, he came and took the body away."
+  }, {
+    "verse" : "john,19,39",
+    "text" : "He was accompanied by Nicodemus, the man who earlier had visited Jesus at night. Nicodemus brought a mixture of myrrh and aloes, about seventy-five pounds."
+  }, {
+    "verse" : "john,19,40",
+    "text" : "Taking Jesus' body, the two of them wrapped it, with the spices, in strips of linen. This was in accordance with Jewish burial customs."
+  }, {
+    "verse" : "john,19,41",
+    "text" : "At the place where Jesus was crucified, there was a garden, and in the garden a new tomb, in which no one had ever been laid."
+  }, {
+    "verse" : "john,19,42",
+    "text" : "Because it was the Jewish day of Preparation and since the tomb was nearby, they laid Jesus there."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,19,38",
     "id" : 197315,

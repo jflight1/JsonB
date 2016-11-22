@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "1samuel,20,1" ],
+  "verses" : [ {
+    "verse" : "1samuel,20,1",
+    "text" : "Then David fled from Naioth at Ramah and went to Jonathan and asked, \"What have I done? What is my crime? How have I wronged your father, that he is trying to take my life?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,16,1-1samuel,31,13",
     "id" : 187527,
@@ -12,7 +15,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 20:1\">20:1</a></b> <b>Naioth.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Sam 19:18\">19:18</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,20,2", "1samuel,20,3", "1samuel,20,4" ],
+  "verses" : [ {
+    "verse" : "1samuel,20,2",
+    "text" : "\"Never!\" Jonathan replied. \"You are not going to die! Look, my father doesn't do anything, great or small, without confiding in me. Why would he hide this from me? It's not so!\""
+  }, {
+    "verse" : "1samuel,20,3",
+    "text" : "But David took an oath and said, \"Your father knows very well that I have found favor in your eyes, and he has said to himself, 'Jonathan must not know this or he will be grieved.' Yet as surely as the LORD lives and as you live, there is only a step between me and death.\""
+  }, {
+    "verse" : "1samuel,20,4",
+    "text" : "Jonathan said to David, \"Whatever you want me to do, I'll do for you.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,20,2",
     "id" : 187586,
@@ -20,7 +32,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 20:2\">20:2</a></b> <b>Far from it.</b> Apparently Jonathan is unaware of the most recent attempts on David’s life (<a class=\"bibleref\" href=\"/passage/?search=1Sam 19:9-1Sam 19:24\">19:9–24</a>) and assumes that the oath of <a class=\"bibleref\" href=\"/passage/?search=1Sam 19:6\">19:6</a> still stands.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,20,5" ],
+  "verses" : [ {
+    "verse" : "1samuel,20,5",
+    "text" : "So David said, \"Look, tomorrow is the New Moon festival, and I am supposed to dine with the king; but let me go and hide in the field until the evening of the day after tomorrow."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,20,5",
     "id" : 187587,
@@ -28,7 +43,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 20:5\">20:5</a></b> <b>the new moon.</b> This festival was a time of rejoicing at the beginning of each month. It was marked by the sounding of trumpets (<a class=\"bibleref\" href=\"/passage/?search=Num 10:10\">Num. 10:10</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 81:3\">Ps. 81:3</a>) and special sacrifices (<a class=\"bibleref\" href=\"/passage/?search=Num 28:11-Num 28:15\">Num. 28:11–15</a>). The festival is often mentioned in conjunction with the Sabbath (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 4:23\">2 Kin. 4:23</a>; <a class=\"bibleref\" href=\"/passage/?search=1Chr 23:31\">1 Chr. 23:31</a>; <a class=\"bibleref\" href=\"/passage/?search=Neh 10:33\">Neh. 10:33</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 66:23\">Is. 66:23</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 46:3\">Ezek. 46:3</a>) and may have been subject to similar regulations (<a class=\"bibleref\" href=\"/passage/?search=Amos 8:5\">Amos 8:5</a>). The new moon celebration is mentioned once in the New Testament (<a class=\"bibleref\" href=\"/passage/?search=Col 2:16\">Col. 2:16</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,20,6" ],
+  "verses" : [ {
+    "verse" : "1samuel,20,6",
+    "text" : "If your father misses me at all, tell him, 'David earnestly asked my permission to hurry to Bethlehem, his hometown, because an annual sacrifice is being made there for his whole clan.'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,20,6",
     "id" : 187588,
@@ -36,7 +54,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 20:6\">20:6</a></b> <b>then say.</b> Jonathan goes along with David’s pretext in <a class=\"bibleref\" href=\"/passage/?search=1Sam 20:28\">vv. 28</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 20:29\">29</a>. In evaluating the ethics of such actions, one might compare the Lord’s instructions to Samuel in <a class=\"bibleref\" href=\"/passage/?search=1Sam 16:2\">16:2</a> (note), although in that context the excuse was a half-truth and not an outright untruth, as it seems to be here.</p><p><b>Bethlehem.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Sam 16:1\">16:1</a>.</p><p><b>yearly sacrifice.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Sam 1:3\">1:3</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=1Sam 1:21\">1:21</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,20,7" ],
+  "verses" : [ {
+    "verse" : "1samuel,20,7",
+    "text" : "If he says, 'Very well,' then your servant is safe. But if he loses his temper, you can be sure that he is determined to harm me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,20,7",
     "id" : 187589,
@@ -44,7 +65,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 20:7\">20:7</a></b> <b>your servant.</b> This address expresses humility and deference (<a class=\"bibleref\" href=\"/passage/?search=1Sam 1:11\">1:11</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 1:16\">16</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 3:10\">3:10</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 17:32\">17:32</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 22:15\">22:15</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 23:10\">23:10</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 25:24\">25:24</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,20,8", "1samuel,20,9", "1samuel,20,10", "1samuel,20,11", "1samuel,20,12" ],
+  "verses" : [ {
+    "verse" : "1samuel,20,8",
+    "text" : "As for you, show kindness to your servant, for you have brought him into a covenant with you before the LORD. If I am guilty, then kill me yourself! Why hand me over to your father?\""
+  }, {
+    "verse" : "1samuel,20,9",
+    "text" : "\"Never!\" Jonathan said. \"If I had the least inkling that my father was determined to harm you, wouldn't I tell you?\""
+  }, {
+    "verse" : "1samuel,20,10",
+    "text" : "David asked, \"Who will tell me if your father answers you harshly?\""
+  }, {
+    "verse" : "1samuel,20,11",
+    "text" : "\"Come,\" Jonathan said, \"let's go out into the field.\" So they went there together."
+  }, {
+    "verse" : "1samuel,20,12",
+    "text" : "Then Jonathan said to David: \"By the LORD, the God of Israel, I will surely sound out my father by this time the day after tomorrow! If he is favorably disposed toward you, will I not send you word and let you know?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,20,8",
     "id" : 187590,
@@ -52,7 +88,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 20:8\">20:8</a></b> <b>covenant.</b> See <a class=\"bibleref\" href=\"/passage/?search=1Sam 18:3\">18:3</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 18:4\">4</a> and notes. Pledges of friendship and loyalty are reiterated in <a class=\"bibleref\" href=\"/passage/?search=1Sam 18:13-1Sam 18:17\">vv. 13–17</a>, 42.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,20,13", "1samuel,20,14" ],
+  "verses" : [ {
+    "verse" : "1samuel,20,13",
+    "text" : "But if my father is inclined to harm you, may the LORD deal with me, be it ever so severely, if I do not let you know and send you away safely. May the LORD be with you as he has been with my father."
+  }, {
+    "verse" : "1samuel,20,14",
+    "text" : "But show me unfailing kindness like that of the LORD as long as I live, so that I may not be killed,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,20,13",
     "id" : 187591,
@@ -60,7 +102,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 20:13\">20:13</a></b> <b>the <span class=\"small-caps\">Lord</span> be with you, as he has been with my father.</b> This single reference to the Lord as being “with Saul” should be understood as referring to the kingship. Recognizing that David is now God’s chosen king (<a class=\"bibleref\" href=\"/passage/?search=1Sam 18:4\">18:4</a> note; <a class=\"bibleref\" href=\"/passage/?search=1Sam 23:17\">23:17</a> and note), Jonathan gives him allegiance over and above his allegiance to his own father (<a class=\"bibleref\" href=\"/passage/?search=1Sam 23:16\">v. 16</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,20,15" ],
+  "verses" : [ {
+    "verse" : "1samuel,20,15",
+    "text" : "and do not ever cut off your kindness from my family-not even when the LORD has cut off every one of David's enemies from the face of the earth.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,20,15",
     "id" : 187592,
@@ -68,7 +113,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 20:15\">20:15</a></b> <b>do not cut off your steadfast love.</b> For the fulfillment of this request, see <a class=\"bibleref\" href=\"/passage/?search=2Sam 9:1-2Sam 9:8\">2 Sam. 9:1–8</a>; <a class=\"bibleref\" href=\"/passage/?search=2Sam 21:7\">21:7</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,20,16" ],
+  "verses" : [ {
+    "verse" : "1samuel,20,16",
+    "text" : "So Jonathan made a covenant with the house of David, saying, \"May the LORD call David's enemies to account.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,20,16",
     "id" : 187593,
@@ -76,7 +124,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 20:16\">20:16</a></b> <b>David’s enemies.</b> See note on <a class=\"bibleref\" href=\"/passage/?search=1Sam 20:13\">v. 13</a>. Since it is David himself who will be accountable to keep covenant with Jonathan, “enemies” is probably a euphemistic reference to Saul, Jonathan’s father (cf. <a class=\"bibleref\" href=\"/passage/?search=1Sam 25:22\">25:22</a>; <a class=\"bibleref\" href=\"/passage/?search=2Sam 12:14\">2 Sam. 12:14</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,20,17" ],
+  "verses" : [ {
+    "verse" : "1samuel,20,17",
+    "text" : "And Jonathan had David reaffirm his oath out of love for him, because he loved him as he loved himself."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,20,17",
     "id" : 187594,
@@ -84,7 +135,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 20:17\">20:17</a></b> <b>swear.</b> See note on <a class=\"bibleref\" href=\"/passage/?search=1Sam 20:8\">v. 8</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,20,18" ],
+  "verses" : [ {
+    "verse" : "1samuel,20,18",
+    "text" : "Then Jonathan said to David: \"Tomorrow is the New Moon festival. You will be missed, because your seat will be empty."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,20,18",
     "id" : 187595,
@@ -92,7 +146,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 20:18\">20:18</a></b> <b>new moon.</b> See note on <a class=\"bibleref\" href=\"/passage/?search=1Sam 20:5\">v. 5</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,20,19", "1samuel,20,20", "1samuel,20,21", "1samuel,20,22" ],
+  "verses" : [ {
+    "verse" : "1samuel,20,19",
+    "text" : "The day after tomorrow, toward evening, go to the place where you hid when this trouble began, and wait by the stone Ezel."
+  }, {
+    "verse" : "1samuel,20,20",
+    "text" : "I will shoot three arrows to the side of it, as though I were shooting at a target."
+  }, {
+    "verse" : "1samuel,20,21",
+    "text" : "Then I will send a boy and say, 'Go, find the arrows.' If I say to him, 'Look, the arrows are on this side of you; bring them here,' then come, because, as surely as the LORD lives, you are safe; there is no danger."
+  }, {
+    "verse" : "1samuel,20,22",
+    "text" : "But if I say to the boy, 'Look, the arrows are beyond you,' then you must go, because the LORD has sent you away."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,20,19",
     "id" : 187596,
@@ -100,7 +166,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 20:19\">20:19</a></b> <b>the stone heap.</b> The site is otherwise unknown. The Hebrew may mean something like “Departure Stone.” The stone was possibly a familiar landmark on the way out of town; for other such landmarks mentioned in <a class=\"bibleref\" href=\"/passage/?search=1Sam 19:22\">Samuel, see 19:22</a>; <a class=\"bibleref\" href=\"/passage/?search=2Sam 20:8\">2 Sam. 20:8</a> and notes.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,20,23" ],
+  "verses" : [ {
+    "verse" : "1samuel,20,23",
+    "text" : "And about the matter you and I discussed-remember, the LORD is witness between you and me forever.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,20,23",
     "id" : 187597,
@@ -108,7 +177,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 20:23\">20:23</a></b> <b><span class=\"small-caps\">Lord</span> is between you and me.</b> See <a class=\"bibleref\" href=\"/passage/?search=Gen 31:50\">Gen. 31:50</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 31:53\">53</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,20,24" ],
+  "verses" : [ {
+    "verse" : "1samuel,20,24",
+    "text" : "So David hid in the field, and when the New Moon festival came, the king sat down to eat."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,20,24",
     "id" : 187598,
@@ -116,7 +188,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 20:24\">20:24</a></b> <b>new moon.</b> See note on <a class=\"bibleref\" href=\"/passage/?search=1Sam 20:5\">v. 5</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,20,25" ],
+  "verses" : [ {
+    "verse" : "1samuel,20,25",
+    "text" : "He sat in his customary place by the wall, opposite Jonathan, and Abner sat next to Saul, but David's place was empty."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,20,25",
     "id" : 187599,
@@ -124,7 +199,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 20:25\">20:25</a></b> <b>Abner.</b> He was Saul’s relative and military commander (<a class=\"bibleref\" href=\"/passage/?search=1Sam 14:50\">14:50</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,20,26", "1samuel,20,27" ],
+  "verses" : [ {
+    "verse" : "1samuel,20,26",
+    "text" : "Saul said nothing that day, for he thought, \"Something must have happened to David to make him ceremonially unclean-surely he is unclean.\""
+  }, {
+    "verse" : "1samuel,20,27",
+    "text" : "But the next day, the second day of the month, David's place was empty again. Then Saul said to his son Jonathan, \"Why hasn't the son of Jesse come to the meal, either yesterday or today?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,20,26",
     "id" : 187600,
@@ -132,7 +213,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 20:26\">20:26</a></b> <b>not clean.</b> See especially <a class=\"bibleref\" href=\"/passage/?search=Lev 7:19-Lev 7:21\">Lev. 7:19–21</a>. Laws of cleanliness are covered most fully in <a class=\"bibleref\" href=\"/passage/?search=Lev 11-Lev 15\">Lev. 11–15</a>, though references to “clean” and “unclean” are frequent throughout the Pentateuch (<a class=\"bibleref\" href=\"/passage/?search=Gen 7:2\">Gen. 7:2</a>; <a class=\"bibleref\" href=\"/passage/?search=Lev 5:2\">Lev. 5:2</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 5:2\">Num. 5:2</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 14:3-Deut 14:21\">Deut. 14:3–21</a>; etc.). The point is not physical but ritual or religious uncleanness.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,20,28", "1samuel,20,29" ],
+  "verses" : [ {
+    "verse" : "1samuel,20,28",
+    "text" : "Jonathan answered, \"David earnestly asked me for permission to go to Bethlehem."
+  }, {
+    "verse" : "1samuel,20,29",
+    "text" : "He said, 'Let me go, because our family is observing a sacrifice in the town and my brother has ordered me to be there. If I have found favor in your eyes, let me get away to see my brothers.' That is why he has not come to the king's table.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,20,28-1samuel,20,29",
     "id" : 187601,
@@ -140,7 +227,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 20:28\">20:28</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 20:29\">29</a></b> See note on <a class=\"bibleref\" href=\"/passage/?search=1Sam 20:6\">v. 6</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,20,30" ],
+  "verses" : [ {
+    "verse" : "1samuel,20,30",
+    "text" : "Saul's anger flared up at Jonathan and he said to him, \"You son of a perverse and rebellious woman! Don't I know that you have sided with the son of Jesse to your own shame and to the shame of the mother who bore you?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,20,30",
     "id" : 187602,
@@ -148,7 +238,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 20:30\">20:30</a></b> <b>son of a perverse, rebellious woman.</b> As in similar modern expressions, the insult is meant for Jonathan and not necessarily his mother.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,20,31", "1samuel,20,32" ],
+  "verses" : [ {
+    "verse" : "1samuel,20,31",
+    "text" : "As long as the son of Jesse lives on this earth, neither you nor your kingdom will be established. Now send and bring him to me, for he must die!\""
+  }, {
+    "verse" : "1samuel,20,32",
+    "text" : "\"Why should he be put to death? What has he done?\" Jonathan asked his father."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,20,31",
     "id" : 187603,
@@ -156,7 +252,34 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 20:31\">20:31</a></b> <b>neither you nor your kingdom shall be established.</b> Despite Samuel’s words in <a class=\"bibleref\" href=\"/passage/?search=1Sam 13:14\">13:14</a>, Saul still clings to hope for his dynasty (cf. <a class=\"bibleref\" href=\"/passage/?search=1Sam 18:8\">18:8</a> note). Contrast Jonathan’s ready acceptance of the Lord’s will (<a class=\"bibleref\" href=\"/passage/?search=1Sam 18:13\">v. 13</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 18:4\">18:4</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 23:17\">23:17</a> and notes). It may be inferred from Saul’s words that Jonathan was his firstborn and thus in line for the throne.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,20,33", "1samuel,20,34", "1samuel,20,35", "1samuel,20,36", "1samuel,20,37", "1samuel,20,38", "1samuel,20,39", "1samuel,20,40", "1samuel,20,41" ],
+  "verses" : [ {
+    "verse" : "1samuel,20,33",
+    "text" : "But Saul hurled his spear at him to kill him. Then Jonathan knew that his father intended to kill David."
+  }, {
+    "verse" : "1samuel,20,34",
+    "text" : "Jonathan got up from the table in fierce anger; on that second day of the month he did not eat, because he was grieved at his father's shameful treatment of David."
+  }, {
+    "verse" : "1samuel,20,35",
+    "text" : "In the morning Jonathan went out to the field for his meeting with David. He had a small boy with him,"
+  }, {
+    "verse" : "1samuel,20,36",
+    "text" : "and he said to the boy, \"Run and find the arrows I shoot.\" As the boy ran, he shot an arrow beyond him."
+  }, {
+    "verse" : "1samuel,20,37",
+    "text" : "When the boy came to the place where Jonathan's arrow had fallen, Jonathan called out after him, \"Isn't the arrow beyond you?\""
+  }, {
+    "verse" : "1samuel,20,38",
+    "text" : "Then he shouted, \"Hurry! Go quickly! Don't stop!\" The boy picked up the arrow and returned to his master."
+  }, {
+    "verse" : "1samuel,20,39",
+    "text" : "(The boy knew nothing of all this; only Jonathan and David knew.)"
+  }, {
+    "verse" : "1samuel,20,40",
+    "text" : "Then Jonathan gave his weapons to the boy and said, \"Go, carry them back to town.\""
+  }, {
+    "verse" : "1samuel,20,41",
+    "text" : "After the boy had gone, David got up from the south side of the stone and bowed down before Jonathan three times, with his face to the ground. Then they kissed each other and wept together-but David wept the most."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,20,33",
     "id" : 187604,
@@ -164,7 +287,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 20:33\">20:33</a></b> <b>Saul hurled his spear at him.</b> Saul’s and Jonathan’s opposite reactions to David have driven a wedge between them. Saul’s attempt on Jonathan’s life matches his earlier attempts on David’s (<a class=\"bibleref\" href=\"/passage/?search=1Sam 18:11\">18:11</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 19:10\">19:10</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,20,42" ],
+  "verses" : [ {
+    "verse" : "1samuel,20,42",
+    "text" : "Jonathan said to David, \"Go in peace, for we have sworn friendship with each other in the name of the LORD, saying, 'The LORD is witness between you and me, and between your descendants and my descendants forever.'\" Then David left, and Jonathan went back to the town."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,20,42",
     "id" : 187605,
@@ -172,7 +298,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 20:42\">20:42</a></b> <b>sworn.</b> See note on <a class=\"bibleref\" href=\"/passage/?search=1Sam 20:8\">v. 8</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,21,1" ],
+  "verses" : [ {
+    "verse" : "1samuel,21,1",
+    "text" : "David went to Nob, to Ahimelech the priest. Ahimelech trembled when he met him, and asked, \"Why are you alone? Why is no one with you?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,21,1",
     "id" : 187606,
@@ -180,7 +309,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 21:1\">21:1</a></b> <b>Nob.</b> Probably located less than two miles northeast of Jerusalem (<a class=\"bibleref\" href=\"/passage/?search=Isa 10:32\">Is. 10:32</a>), Nob became “the city of the priests” (22:19) sometime after the disaster that came upon Shiloh (1:3 note; 2:32 note) at the hands of the Philistines (4:1–11).</p><p><b>Ahimelech.</b> Either Ahijah’s brother or simply another name for Ahijah (14:3), Ahimelech occupies the position of high priest once held by his great-grandfather Eli (1:9). See also <a class=\"bibleref\" href=\"/passage/?search=Mark 2:26\">Mark 2:26</a> and note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,21,2", "1samuel,21,3" ],
+  "verses" : [ {
+    "verse" : "1samuel,21,2",
+    "text" : "David answered Ahimelech the priest, \"The king charged me with a certain matter and said to me, 'No one is to know anything about your mission and your instructions.' As for my men, I have told them to meet me at a certain place."
+  }, {
+    "verse" : "1samuel,21,3",
+    "text" : "Now then, what do you have on hand? Give me five loaves of bread, or whatever you can find.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,21,2",
     "id" : 187607,
@@ -188,7 +323,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 21:2\">21:2</a></b> <b>king has charged me.</b> Having employed a pretext to good advantage not long before (<a class=\"bibleref\" href=\"/passage/?search=1Sam 20:6\">20:6</a> note), David does so again, with disastrous results for Ahimelech and the priests at Nob (<a class=\"bibleref\" href=\"/passage/?search=1Sam 22:6-1Sam 22:19\">22:6–19</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,21,4", "1samuel,21,5" ],
+  "verses" : [ {
+    "verse" : "1samuel,21,4",
+    "text" : "But the priest answered David, \"I don't have any ordinary bread on hand; however, there is some consecrated bread here-provided the men have kept themselves from women.\""
+  }, {
+    "verse" : "1samuel,21,5",
+    "text" : "David replied, \"Indeed women have been kept from us, as usual whenever I set out. The men's things are holy even on missions that are not holy. How much more so today!\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,21,4",
     "id" : 187608,
@@ -196,7 +337,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 21:4\">21:4</a></b> <b>holy bread.</b> That is, “the showbread” (<a class=\"bibleref\" href=\"/passage/?search=1Sam 21:6\">v. 6</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 25:30\">Ex. 25:30</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 35:13\">35:13</a>; <a class=\"bibleref\" href=\"/passage/?search=Lev 24:5-Lev 24:9\">Lev. 24:5–9</a>; <a class=\"bibleref\" href=\"/passage/?search=1Chr 9:32\">1 Chr. 9:32</a>). See Jesus’ reference to this episode in <a class=\"bibleref\" href=\"/passage/?search=Matt 12:3\">Matt. 12:3</a>, <a class=\"bibleref\" href=\"/passage/?search=Matt 12:4\">4</a>; <a class=\"bibleref\" href=\"/passage/?search=Mark 2:25\">Mark 2:25</a>, <a class=\"bibleref\" href=\"/passage/?search=Mark 2:26\">26</a>; <a class=\"bibleref\" href=\"/passage/?search=Luke 6:3\">Luke 6:3</a>, <a class=\"bibleref\" href=\"/passage/?search=Luke 6:4\">4</a>.</p><p><b>kept themselves from women.</b> Ritual cleanliness was a part of consecration prior to battle or other important occasions (<a class=\"bibleref\" href=\"/passage/?search=Exod 19:15\">Ex. 19:15</a>; <a class=\"bibleref\" href=\"/passage/?search=Lev 15:18\">Lev. 15:18</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 23:9-Deut 23:14\">Deut. 23:9–14</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 3:5\">Josh. 3:5</a>; <a class=\"bibleref\" href=\"/passage/?search=2Sam 11:11-2Sam 11:12\">2 Sam. 11:11–12</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,21,6" ],
+  "verses" : [ {
+    "verse" : "1samuel,21,6",
+    "text" : "So the priest gave him the consecrated bread, since there was no bread there except the bread of the Presence that had been removed from before the LORD and replaced by hot bread on the day it was taken away."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,21,6",
     "id" : 187609,
@@ -204,7 +348,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 21:6\">21:6</a></b> <b>bread of the Presence.</b> See <a class=\"bibleref\" href=\"/passage/?search=1Sam 21:4\">v. 4</a> and note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,21,7", "1samuel,21,8" ],
+  "verses" : [ {
+    "verse" : "1samuel,21,7",
+    "text" : "Now one of Saul's servants was there that day, detained before the LORD; he was Doeg the Edomite, Saul's head shepherd."
+  }, {
+    "verse" : "1samuel,21,8",
+    "text" : "David asked Ahimelech, \"Don't you have a spear or a sword here? I haven't brought my sword or any other weapon, because the king's business was urgent.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,21,7",
     "id" : 187610,
@@ -212,7 +362,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 21:7\">21:7</a></b> <b>Doeg the Edomite.</b> The presence of Doeg at these transactions arouses apprehensions in the reader as it did in David (<a class=\"bibleref\" href=\"/passage/?search=1Sam 22:22\">22:22</a>). These apprehensions prove well founded as the narrative progresses (<a class=\"bibleref\" href=\"/passage/?search=1Sam 22:9\">22:9</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 22:10\">10</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 22:18\">18</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 22:19\">19</a>). Doeg is also mentioned in the title of <a class=\"bibleref\" href=\"/passage/?search=Ps 52\">Ps. 52</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,21,9" ],
+  "verses" : [ {
+    "verse" : "1samuel,21,9",
+    "text" : "The priest replied, \"The sword of Goliath the Philistine, whom you killed in the Valley of Elah, is here; it is wrapped in a cloth behind the ephod. If you want it, take it; there is no sword here but that one.\" David said, \"There is none like it; give it to me.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,21,9",
     "id" : 187611,
@@ -220,7 +373,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 21:9\">21:9</a></b> <b>sword of Goliath.</b> See <a class=\"bibleref\" href=\"/passage/?search=1Sam 17:51\">17:51</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 17:54\">54</a>.</p><p><b>ephod.</b> See <a class=\"bibleref\" href=\"/passage/?search=1Sam 2:28\">2:28</a> note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,21,10" ],
+  "verses" : [ {
+    "verse" : "1samuel,21,10",
+    "text" : "That day David fled from Saul and went to Achish king of Gath."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,21,10",
     "id" : 187612,
@@ -228,7 +384,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 21:10\">21:10</a></b> <b>Achish.</b> See <a class=\"bibleref\" href=\"/passage/?search=1Sam 27:2-1Sam 27:12\">27:2–12</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 29\">29:1–11</a>; title to <a class=\"bibleref\" href=\"/passage/?search=Ps 34\">Ps. 34</a>, where “Abimelech” may be a name for Philistine kings.</p><p><b>Gath.</b> See notes 4:1; 5:8.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,21,11", "1samuel,21,12", "1samuel,21,13", "1samuel,21,14", "1samuel,21,15" ],
+  "verses" : [ {
+    "verse" : "1samuel,21,11",
+    "text" : "But the servants of Achish said to him, \"Isn't this David, the king of the land? Isn't he the one they sing about in their dances: \"'Saul has slain his thousands, and David his tens of thousands'?\""
+  }, {
+    "verse" : "1samuel,21,12",
+    "text" : "David took these words to heart and was very much afraid of Achish king of Gath."
+  }, {
+    "verse" : "1samuel,21,13",
+    "text" : "So he pretended to be insane in their presence; and while he was in their hands he acted like a madman, making marks on the doors of the gate and letting saliva run down his beard."
+  }, {
+    "verse" : "1samuel,21,14",
+    "text" : "Achish said to his servants, \"Look at the man! He is insane! Why bring him to me?"
+  }, {
+    "verse" : "1samuel,21,15",
+    "text" : "Am I so short of madmen that you have to bring this fellow here to carry on like this in front of me? Must this man come into my house?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,21,11",
     "id" : 187613,

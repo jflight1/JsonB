@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "proverbs,25,18", "proverbs,25,19" ],
+  "verses" : [ {
+    "verse" : "proverbs,25,18",
+    "text" : "Like a club or a sword or a sharp arrow is the man who gives false testimony against his neighbor."
+  }, {
+    "verse" : "proverbs,25,19",
+    "text" : "Like a bad tooth or a lame foot is reliance on the unfaithful in times of trouble."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,25,18",
     "id" : 192241,

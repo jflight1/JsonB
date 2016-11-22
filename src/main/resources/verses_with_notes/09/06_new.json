@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "2corinthians,8,16" ],
+  "verses" : [ {
+    "verse" : "2corinthians,8,16",
+    "text" : "I thank God, who put into the heart of Titus the same concern I have for you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2corinthians,8,1-2corinthians,9,15",
     "id" : 198301,
@@ -7,7 +10,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Cor 8-2Cor 9\">8:1–9:15</a></b> This section concerns the collection of money for poor Christians in Jerusalem (cf. <a class=\"bibleref\" href=\"/passage/?search=Acts 19:21\">Acts 19:21</a>, <a class=\"bibleref\" href=\"/passage/?search=Acts 19:22\">22</a>; <a class=\"bibleref\" href=\"/passage/?search=Rom 15:25-Rom 15:28\">Rom. 15:25–28</a>; <a class=\"bibleref\" href=\"/passage/?search=1Cor 16:1-1Cor 16:4\">1 Cor. 16:1–4</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2corinthians,8,17" ],
+  "verses" : [ {
+    "verse" : "2corinthians,8,17",
+    "text" : "For Titus not only welcomed our appeal, but he is coming to you with much enthusiasm and on his own initiative."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2corinthians,8,17",
     "id" : 198313,
@@ -15,7 +21,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Cor 8:17\">8:17</a></b> Paul is sending Titus back to Corinth ahead of him.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2corinthians,8,18" ],
+  "verses" : [ {
+    "verse" : "2corinthians,8,18",
+    "text" : "And we are sending along with him the brother who is praised by all the churches for his service to the gospel."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2corinthians,8,18",
     "id" : 198314,
@@ -23,7 +32,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Cor 8:18\">8:18</a></b> <b>the brother.</b> No name is given. Luke is a frequent suggestion.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2corinthians,8,19" ],
+  "verses" : [ {
+    "verse" : "2corinthians,8,19",
+    "text" : "What is more, he was chosen by the churches to accompany us as we carry the offering, which we administer in order to honor the Lord himself and to show our eagerness to help."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2corinthians,8,19",
     "id" : 198315,
@@ -31,7 +43,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Cor 8:19\">8:19</a></b> <b>appointed by the churches.</b> There was some congregational role in selecting representatives to accompany Paul.</p><p><b>for the glory of the Lord himself.</b> Giving money and administering it well is not mundane or unspiritual, but in itself honors the Lord.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2corinthians,8,20", "2corinthians,8,21" ],
+  "verses" : [ {
+    "verse" : "2corinthians,8,20",
+    "text" : "We want to avoid any criticism of the way we administer this liberal gift."
+  }, {
+    "verse" : "2corinthians,8,21",
+    "text" : "For we are taking pains to do what is right, not only in the eyes of the Lord but also in the eyes of men."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2corinthians,8,20-2corinthians,8,21",
     "id" : 198316,
@@ -39,7 +57,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Cor 8:20\">8:20</a>, <a class=\"bibleref\" href=\"/passage/?search=2Cor 8:21\">21</a></b> Paul would not have misused any part of the gift sent to Jerusalem. He insisted that trusted representatives from several churches accompany him (<a class=\"bibleref\" href=\"/passage/?search=Acts 20:4\">Acts 20:4</a>) so as to avoid even the suspicion of wrongdoing. On this passage Calvin comments that “nothing more certainly invites slanderous attacks than to be handling public money.” Moreover, the representatives would have been a sort of bodyguard for someone carrying valuables.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2corinthians,8,22", "2corinthians,8,23", "2corinthians,8,24" ],
+  "verses" : [ {
+    "verse" : "2corinthians,8,22",
+    "text" : "In addition, we are sending with them our brother who has often proved to us in many ways that he is zealous, and now even more so because of his great confidence in you."
+  }, {
+    "verse" : "2corinthians,8,23",
+    "text" : "As for Titus, he is my partner and fellow worker among you; as for our brothers, they are representatives of the churches and an honor to Christ."
+  }, {
+    "verse" : "2corinthians,8,24",
+    "text" : "Therefore show these men the proof of your love and the reason for our pride in you, so that the churches can see it."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2corinthians,8,22",
     "id" : 198317,

@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,27,12" ],
+  "verses" : [ {
+    "verse" : "proverbs,27,12",
+    "text" : "The prudent see danger and take refuge, but the simple keep going and suffer for it."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,27,12",
     "id" : 192280,

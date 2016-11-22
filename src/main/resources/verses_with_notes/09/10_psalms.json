@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "psalms,54,1", "psalms,54,2" ],
+  "verses" : [ {
+    "verse" : "psalms,54,1",
+    "text" : "Save me, O God, by your name; vindicate me by your might."
+  }, {
+    "verse" : "psalms,54,2",
+    "text" : "Hear my prayer, O God; listen to the words of my mouth."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,54,1",
     "id" : 190671,
@@ -12,7 +18,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 54:1\">54:1</a></b> <b>vindicate me.</b> The word identifies his complaint as a judicial one. David had been unjustly betrayed by the Ziphites, his countrymen from Judah.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,54,3", "psalms,54,4", "psalms,54,5" ],
+  "verses" : [ {
+    "verse" : "psalms,54,3",
+    "text" : "Strangers are attacking me; ruthless men seek my life- men without regard for God. Selah"
+  }, {
+    "verse" : "psalms,54,4",
+    "text" : "Surely God is my help; the Lord is the one who sustains me."
+  }, {
+    "verse" : "psalms,54,5",
+    "text" : "Let evil recoil on those who slander me; in your faithfulness destroy them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,54,3",
     "id" : 190673,
@@ -20,7 +35,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 54:3\">54:3</a></b> <b>strangers.</b> Though they are countrymen, he does not know them personally.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,54,6", "psalms,54,7" ],
+  "verses" : [ {
+    "verse" : "psalms,54,6",
+    "text" : "I will sacrifice a freewill offering to you; I will praise your name, O LORD, for it is good."
+  }, {
+    "verse" : "psalms,54,7",
+    "text" : "For he has delivered me from all my troubles, and my eyes have looked in triumph on my foes."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,54,6-psalms,54,7",
     "id" : 190674,

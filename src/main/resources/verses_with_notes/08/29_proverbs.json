@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,22,8" ],
+  "verses" : [ {
+    "verse" : "proverbs,22,8",
+    "text" : "He who sows wickedness reaps trouble, and the rod of his fury will be destroyed."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 22:8\">22:8</a></b> Folly transgresses the divine order, inviting the punishments of sorrow and dissolution (<a class=\"bibleref\" href=\"/passage/?search=Hos 8:7\">Hos. 8:7</a>; <a class=\"bibleref\" href=\"/passage/?search=Gal 6:7-Gal 6:9\">Gal. 6:7–9</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,22,9" ],
+  "verses" : [ {
+    "verse" : "proverbs,22,9",
+    "text" : "A generous man will himself be blessed, for he shares his food with the poor."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,22,9",
     "id" : 192154,

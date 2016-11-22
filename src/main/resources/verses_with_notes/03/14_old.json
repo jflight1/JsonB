@@ -1,5 +1,14 @@
 [ {
-  "singleVerses" : [ "numbers,21,1", "numbers,21,2", "numbers,21,3" ],
+  "verses" : [ {
+    "verse" : "numbers,21,1",
+    "text" : "When the Canaanite king of Arad, who lived in the Negev, heard that Israel was coming along the road to Atharim, he attacked the Israelites and captured some of them."
+  }, {
+    "verse" : "numbers,21,2",
+    "text" : "Then Israel made this vow to the LORD: \"If you will deliver these people into our hands, we will totally destroy their cities.\""
+  }, {
+    "verse" : "numbers,21,3",
+    "text" : "The LORD listened to Israel's plea and gave the Canaanites over to them. They completely destroyed them and their towns; so the place was named Hormah."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,10,11-numbers,22,1",
     "id" : 186203,
@@ -12,7 +21,37 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Num 21:1-Num 21:3\">21:1–3</a></b> The Israelites’ first victory against the Canaanites was over Arad at Hormah, where Israel had suffered stinging defeat many years before (<a class=\"bibleref\" href=\"/passage/?search=Num 14:45\">14:45</a>). This victory marks a shift in focus from the Exodus generation condemned to die in the wilderness (<a class=\"bibleref\" href=\"/passage/?search=Num 14:29-Num 14:35\">14:29–35</a>) to the generation born in the wilderness.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "numbers,21,4", "numbers,21,5", "numbers,21,6", "numbers,21,7", "numbers,21,8", "numbers,21,9", "numbers,21,10", "numbers,21,11", "numbers,21,12", "numbers,21,13" ],
+  "verses" : [ {
+    "verse" : "numbers,21,4",
+    "text" : "They traveled from Mount Hor along the route to the Red Sea, to go around Edom. But the people grew impatient on the way;"
+  }, {
+    "verse" : "numbers,21,5",
+    "text" : "they spoke against God and against Moses, and said, \"Why have you brought us up out of Egypt to die in the desert? There is no bread! There is no water! And we detest this miserable food!\""
+  }, {
+    "verse" : "numbers,21,6",
+    "text" : "Then the LORD sent venomous snakes among them; they bit the people and many Israelites died."
+  }, {
+    "verse" : "numbers,21,7",
+    "text" : "The people came to Moses and said, \"We sinned when we spoke against the LORD and against you. Pray that the LORD will take the snakes away from us.\" So Moses prayed for the people."
+  }, {
+    "verse" : "numbers,21,8",
+    "text" : "The LORD said to Moses, \"Make a snake and put it up on a pole; anyone who is bitten can look at it and live.\""
+  }, {
+    "verse" : "numbers,21,9",
+    "text" : "So Moses made a bronze snake and put it up on a pole. Then when anyone was bitten by a snake and looked at the bronze snake, he lived."
+  }, {
+    "verse" : "numbers,21,10",
+    "text" : "The Israelites moved on and camped at Oboth."
+  }, {
+    "verse" : "numbers,21,11",
+    "text" : "Then they set out from Oboth and camped in Iye Abarim, in the desert that faces Moab toward the sunrise."
+  }, {
+    "verse" : "numbers,21,12",
+    "text" : "From there they moved on and camped in the Zered Valley."
+  }, {
+    "verse" : "numbers,21,13",
+    "text" : "They set out from there and camped alongside the Arnon, which is in the desert extending into Amorite territory. The Arnon is the border of Moab, between Moab and the Amorites."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,21,4-numbers,21,9",
     "id" : 186264,
@@ -20,7 +59,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Num 21:4-Num 21:9\">21:4–9</a></b> This event typifies both the sacrifice of Christ and the faith of His people. Just as the bronze representation of the poisonous serpent was lifted up, so Christ, as one born “in the likeness of sinful flesh” (<a class=\"bibleref\" href=\"/passage/?search=Rom 8:3\">Rom. 8:3</a>), was lifted up (<a class=\"bibleref\" href=\"/passage/?search=John 3:14\">John 3:14</a>). The afflicted Israelites had no other means of rescue than to look at the bronze snake, just as sinners have no hope for salvation except faith in the crucified Christ (<a class=\"bibleref\" href=\"/passage/?search=John 3:15\">John 3:15</a>, <a class=\"bibleref\" href=\"/passage/?search=John 3:16\">16</a>). Unfortunately, this bronze serpent later became the object of idolatrous worship (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 18:4\">2 Kin. 18:4</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "numbers,21,14", "numbers,21,15", "numbers,21,16", "numbers,21,17", "numbers,21,18", "numbers,21,19", "numbers,21,20" ],
+  "verses" : [ {
+    "verse" : "numbers,21,14",
+    "text" : "That is why the Book of the Wars of the LORD says: \"...Waheb in Suphah and the ravines, the Arnon"
+  }, {
+    "verse" : "numbers,21,15",
+    "text" : "and the slopes of the ravines that lead to the site of Ar and lie along the border of Moab.\""
+  }, {
+    "verse" : "numbers,21,16",
+    "text" : "From there they continued on to Beer, the well where the LORD said to Moses, \"Gather the people together and I will give them water.\""
+  }, {
+    "verse" : "numbers,21,17",
+    "text" : "Then Israel sang this song: \"Spring up, O well! Sing about it,"
+  }, {
+    "verse" : "numbers,21,18",
+    "text" : "about the well that the princes dug, that the nobles of the people sank- the nobles with scepters and staffs.\" Then they went from the desert to Mattanah,"
+  }, {
+    "verse" : "numbers,21,19",
+    "text" : "from Mattanah to Nahaliel, from Nahaliel to Bamoth,"
+  }, {
+    "verse" : "numbers,21,20",
+    "text" : "and from Bamoth to the valley in Moab where the top of Pisgah overlooks the wasteland."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,21,14",
     "id" : 186265,
@@ -28,7 +88,43 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Num 21:14\">21:14</a></b> <b>the Book of the Wars of the <span class=\"small-caps\">Lord</span>.</b> This is the only biblical reference to an uninspired book of victory songs that was apparently current in the land of Israel at the time of David or before. A similar work, the Book of Jashar, is quoted in <a class=\"bibleref\" href=\"/passage/?search=Josh 10:12\">Josh. 10:12</a>, <a class=\"bibleref\" href=\"/passage/?search=Josh 10:13\">13</a> and <a class=\"bibleref\" href=\"/passage/?search=2Sam 1:19-2Sam 1:27\">2 Sam. 1:19–27</a>.</p><p><b>Arnon.</b> This perennial stream flowed into the Dead Sea from the east, through a deep ravine. It formed the border between the territory of Moab and the Amorite kingdom of Sihon (21:21–31).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "numbers,21,21", "numbers,21,22", "numbers,21,23", "numbers,21,24", "numbers,21,25", "numbers,21,26", "numbers,21,27", "numbers,21,28", "numbers,21,29", "numbers,21,30", "numbers,21,31", "numbers,21,32" ],
+  "verses" : [ {
+    "verse" : "numbers,21,21",
+    "text" : "Israel sent messengers to say to Sihon king of the Amorites:"
+  }, {
+    "verse" : "numbers,21,22",
+    "text" : "\"Let us pass through your country. We will not turn aside into any field or vineyard, or drink water from any well. We will travel along the king's highway until we have passed through your territory.\""
+  }, {
+    "verse" : "numbers,21,23",
+    "text" : "But Sihon would not let Israel pass through his territory. He mustered his entire army and marched out into the desert against Israel. When he reached Jahaz, he fought with Israel."
+  }, {
+    "verse" : "numbers,21,24",
+    "text" : "Israel, however, put him to the sword and took over his land from the Arnon to the Jabbok, but only as far as the Ammonites, because their border was fortified."
+  }, {
+    "verse" : "numbers,21,25",
+    "text" : "Israel captured all the cities of the Amorites and occupied them, including Heshbon and all its surrounding settlements."
+  }, {
+    "verse" : "numbers,21,26",
+    "text" : "Heshbon was the city of Sihon king of the Amorites, who had fought against the former king of Moab and had taken from him all his land as far as the Arnon."
+  }, {
+    "verse" : "numbers,21,27",
+    "text" : "That is why the poets say: \"Come to Heshbon and let it be rebuilt; let Sihon's city be restored."
+  }, {
+    "verse" : "numbers,21,28",
+    "text" : "\"Fire went out from Heshbon, a blaze from the city of Sihon. It consumed Ar of Moab, the citizens of Arnon's heights."
+  }, {
+    "verse" : "numbers,21,29",
+    "text" : "Woe to you, O Moab! You are destroyed, O people of Chemosh! He has given up his sons as fugitives and his daughters as captives to Sihon king of the Amorites."
+  }, {
+    "verse" : "numbers,21,30",
+    "text" : "\"But we have overthrown them; Heshbon is destroyed all the way to Dibon. We have demolished them as far as Nophah, which extends to Medeba.\""
+  }, {
+    "verse" : "numbers,21,31",
+    "text" : "So Israel settled in the land of the Amorites."
+  }, {
+    "verse" : "numbers,21,32",
+    "text" : "After Moses had sent spies to Jazer, the Israelites captured its surrounding settlements and drove out the Amorites who were there."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,21,21-numbers,21,35",
     "id" : 186266,
@@ -36,7 +132,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Num 21:21-Num 21:35\">21:21–35</a></b> Moses narrates Israel’s conquest of Heshbon and Bashan. Both of these kingdoms were in eastern Palestine, across the Jordan from Canaan (the Transjordan).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "numbers,21,33", "numbers,21,34", "numbers,21,35" ],
+  "verses" : [ {
+    "verse" : "numbers,21,33",
+    "text" : "Then they turned and went up along the road toward Bashan, and Og king of Bashan and his whole army marched out to meet them in battle at Edrei."
+  }, {
+    "verse" : "numbers,21,34",
+    "text" : "The LORD said to Moses, \"Do not be afraid of him, for I have handed him over to you, with his whole army and his land. Do to him what you did to Sihon king of the Amorites, who reigned in Heshbon.\""
+  }, {
+    "verse" : "numbers,21,35",
+    "text" : "So they struck him down, together with his sons and his whole army, leaving them no survivors. And they took possession of his land."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,21,33",
     "id" : 186267,
@@ -44,7 +149,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Num 21:33\">21:33</a></b> <b>Bashan.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Deut 3:1\">Deut. 3:1</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "numbers,22,1" ],
+  "verses" : [ {
+    "verse" : "numbers,22,1",
+    "text" : "Then the Israelites traveled to the plains of Moab and camped along the Jordan across from Jericho."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,22,1",
     "id" : 186268,
@@ -52,7 +160,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Num 22:1\">22:1</a></b> After the conquest of Heshbon in the southern Transjordan (<a class=\"bibleref\" href=\"/passage/?search=Num 21:21-Num 21:26\">21:21–26</a>) and Bashan in the north (<a class=\"bibleref\" href=\"/passage/?search=Num 21:33-Num 21:35\">21:33–35</a>), the Israelites returned south to the area across the Jordan from Jericho and north of the territory of Moab.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "numbers,22,2", "numbers,22,3" ],
+  "verses" : [ {
+    "verse" : "numbers,22,2",
+    "text" : "Now Balak son of Zippor saw all that Israel had done to the Amorites,"
+  }, {
+    "verse" : "numbers,22,3",
+    "text" : "and Moab was terrified because there were so many people. Indeed, Moab was filled with dread because of the Israelites."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,22,2-numbers,24,25",
     "id" : 186269,
@@ -60,7 +174,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Num 22:2-Num 24:25\">22:2–24:25</a></b> Though the narrative itself has considerable literary charm (<a class=\"bibleref\" href=\"/passage/?search=Num 22:28\">22:28</a> note), the Balaam incident must also be viewed within the context of God’s covenant relationship with His people. In the vivid portrayal of divine opposition to those who curse His people, God’s faithfulness to the covenant promises made to Abraham is demonstrated (<a class=\"bibleref\" href=\"/passage/?search=Gen 12:3\">Gen. 12:3</a> and note). Ironically, the Lord also used the pagan prophet Balaam, who had been hired by the Moabite king to curse God’s people, to bless them instead, and to prophesy the coming of a royal Star out of Jacob—the Messiah Himself—who would triumph over Israel’s enemies (24:17–19).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "numbers,22,4" ],
+  "verses" : [ {
+    "verse" : "numbers,22,4",
+    "text" : "The Moabites said to the elders of Midian, \"This horde is going to lick up everything around us, as an ox licks up the grass of the field.\" So Balak son of Zippor, who was king of Moab at that time,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,22,4",
     "id" : 186270,
@@ -68,7 +185,55 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Num 22:4\">22:4</a></b> <b>Moab.</b> The Moabites were descendants of Lot’s incestuous relationship with his daughter (<a class=\"bibleref\" href=\"/passage/?search=Gen 19:37\">Gen. 19:37</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 19:38\">38</a> note). The Moabites were asking the Midianites to help them resist the Israelite invaders.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "numbers,22,5", "numbers,22,6", "numbers,22,7", "numbers,22,8", "numbers,22,9", "numbers,22,10", "numbers,22,11", "numbers,22,12", "numbers,22,13", "numbers,22,14", "numbers,22,15", "numbers,22,16", "numbers,22,17", "numbers,22,18", "numbers,22,19", "numbers,22,20" ],
+  "verses" : [ {
+    "verse" : "numbers,22,5",
+    "text" : "sent messengers to summon Balaam son of Beor, who was at Pethor, near the River, in his native land. Balak said: \"A people has come out of Egypt; they cover the face of the land and have settled next to me."
+  }, {
+    "verse" : "numbers,22,6",
+    "text" : "Now come and put a curse on these people, because they are too powerful for me. Perhaps then I will be able to defeat them and drive them out of the country. For I know that those you bless are blessed, and those you curse are cursed.\""
+  }, {
+    "verse" : "numbers,22,7",
+    "text" : "The elders of Moab and Midian left, taking with them the fee for divination. When they came to Balaam, they told him what Balak had said."
+  }, {
+    "verse" : "numbers,22,8",
+    "text" : "\"Spend the night here,\" Balaam said to them, \"and I will bring you back the answer the LORD gives me.\" So the Moabite princes stayed with him."
+  }, {
+    "verse" : "numbers,22,9",
+    "text" : "God came to Balaam and asked, \"Who are these men with you?\""
+  }, {
+    "verse" : "numbers,22,10",
+    "text" : "Balaam said to God, \"Balak son of Zippor, king of Moab, sent me this message:"
+  }, {
+    "verse" : "numbers,22,11",
+    "text" : "'A people that has come out of Egypt covers the face of the land. Now come and put a curse on them for me. Perhaps then I will be able to fight them and drive them away.'\""
+  }, {
+    "verse" : "numbers,22,12",
+    "text" : "But God said to Balaam, \"Do not go with them. You must not put a curse on those people, because they are blessed.\""
+  }, {
+    "verse" : "numbers,22,13",
+    "text" : "The next morning Balaam got up and said to Balak's princes, \"Go back to your own country, for the LORD has refused to let me go with you.\""
+  }, {
+    "verse" : "numbers,22,14",
+    "text" : "So the Moabite princes returned to Balak and said, \"Balaam refused to come with us.\""
+  }, {
+    "verse" : "numbers,22,15",
+    "text" : "Then Balak sent other princes, more numerous and more distinguished than the first."
+  }, {
+    "verse" : "numbers,22,16",
+    "text" : "They came to Balaam and said: \"This is what Balak son of Zippor says: Do not let anything keep you from coming to me,"
+  }, {
+    "verse" : "numbers,22,17",
+    "text" : "because I will reward you handsomely and do whatever you say. Come and put a curse on these people for me.\""
+  }, {
+    "verse" : "numbers,22,18",
+    "text" : "But Balaam answered them, \"Even if Balak gave me his palace filled with silver and gold, I could not do anything great or small to go beyond the command of the LORD my God."
+  }, {
+    "verse" : "numbers,22,19",
+    "text" : "Now stay here tonight as the others did, and I will find out what else the LORD will tell me.\""
+  }, {
+    "verse" : "numbers,22,20",
+    "text" : "That night God came to Balaam and said, \"Since these men have come to summon you, go with them, but do only what I tell you.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,22,5",
     "id" : 186271,

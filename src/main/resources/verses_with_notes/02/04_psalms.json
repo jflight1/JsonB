@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,28,1" ],
+  "verses" : [ {
+    "verse" : "psalms,28,1",
+    "text" : "To you I call, O LORD my Rock; do not turn a deaf ear to me. For if you remain silent, I will be like those who have gone down to the pit."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,28,1",
     "id" : 190425,
@@ -7,7 +10,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 28:1\">28:1</a></b> <b>my rock.</b> Using this familiar name the psalmist remembers God as his source of protection and strength (<a class=\"bibleref\" href=\"/passage/?search=Deut 32:4\">Deut. 32:4</a>, <a class=\"bibleref\" href=\"/passage/?search=Deut 32:18\">18</a>, <a class=\"bibleref\" href=\"/passage/?search=Deut 32:31\">31</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 78:35\">Ps. 78:35</a>).</p><p><b>go down to the pit.</b> That is, to die. The pit stands for Sheol, the grave (6:5 note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,28,2" ],
+  "verses" : [ {
+    "verse" : "psalms,28,2",
+    "text" : "Hear my cry for mercy as I call to you for help, as I lift up my hands toward your Most Holy Place."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,28,2",
     "id" : 190426,
@@ -15,7 +21,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 28:2\">28:2</a></b> <b>holy sanctuary.</b> The Most Holy Place, the inner room in the tabernacle or temple where the ark of the covenant stood.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,28,3" ],
+  "verses" : [ {
+    "verse" : "psalms,28,3",
+    "text" : "Do not drag me away with the wicked, with those who do evil, who speak cordially with their neighbors but harbor malice in their hearts."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,28,3",
     "id" : 190427,
@@ -23,7 +32,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 28:3\">28:3</a></b> <b>speak peace.</b> The psalmist knows the hypocrisy of his enemies.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,28,4" ],
+  "verses" : [ {
+    "verse" : "psalms,28,4",
+    "text" : "Repay them for their deeds and for their evil work; repay them for what their hands have done and bring back upon them what they deserve."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,28,4",
     "id" : 190428,
@@ -31,7 +43,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 28:4\">28:4</a></b> <b>render them.</b> An imprecation, that is, a prayer that God would punish the enemy.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,28,5", "psalms,28,6", "psalms,28,7", "psalms,28,8" ],
+  "verses" : [ {
+    "verse" : "psalms,28,5",
+    "text" : "Since they show no regard for the works of the LORD and what his hands have done, he will tear them down and never build them up again."
+  }, {
+    "verse" : "psalms,28,6",
+    "text" : "Praise be to the LORD, for he has heard my cry for mercy."
+  }, {
+    "verse" : "psalms,28,7",
+    "text" : "The LORD is my strength and my shield; my heart trusts in him, and I am helped. My heart leaps for joy and I will give thanks to him in song."
+  }, {
+    "verse" : "psalms,28,8",
+    "text" : "The LORD is the strength of his people, a fortress of salvation for his anointed one."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,28,5",
     "id" : 190429,
@@ -39,7 +63,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 28:5\">28:5</a></b> <b>he will tear them down.</b> The previous verse appealed for judgment and this one pronounces it.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,28,9" ],
+  "verses" : [ {
+    "verse" : "psalms,28,9",
+    "text" : "Save your people and bless your inheritance; be their shepherd and carry them forever."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,28,9",
     "id" : 190430,

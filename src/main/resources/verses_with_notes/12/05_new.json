@@ -1,8 +1,23 @@
 [ {
-  "singleVerses" : [ "1john,5,1", "1john,5,2", "1john,5,3" ],
+  "verses" : [ {
+    "verse" : "1john,5,1",
+    "text" : "Everyone who believes that Jesus is the Christ is born of God, and everyone who loves the father loves his child as well."
+  }, {
+    "verse" : "1john,5,2",
+    "text" : "This is how we know that we love the children of God: by loving God and carrying out his commands."
+  }, {
+    "verse" : "1john,5,3",
+    "text" : "This is love for God: to obey his commands. And his commands are not burdensome,"
+  } ],
   "rsbNotes" : [ ]
 }, {
-  "singleVerses" : [ "1john,5,4", "1john,5,5" ],
+  "verses" : [ {
+    "verse" : "1john,5,4",
+    "text" : "for everyone born of God overcomes the world. This is the victory that has overcome the world, even our faith."
+  }, {
+    "verse" : "1john,5,5",
+    "text" : "Who is it that overcomes the world? Only he who believes that Jesus is the Son of God."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1john,5,4",
     "id" : 199561,
@@ -10,7 +25,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1John 5:4\">5:4</a></b> <b>overcomes the world.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1John 2:13\">2:13</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1john,5,6" ],
+  "verses" : [ {
+    "verse" : "1john,5,6",
+    "text" : "This is the one who came by water and blood--Jesus Christ. He did not come by water only, but by water and blood. And it is the Spirit who testifies, because the Spirit is the truth."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1john,5,6",
     "id" : 199562,
@@ -18,7 +36,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1John 5:6\">5:6</a></b> <b>by water and blood.</b> Some suggest that the water refers to the baptism of Jesus and the blood to the Crucifixion. This is unlikely, since John in his Gospel does not directly recount the baptism of Jesus. Others suggest that “water and blood” refers to the two sacraments, baptism and the Lord’s Supper. This is also unlikely, since John does not recount the institution of the sacraments in his Gospel. The difficult saying of this verse probably reflects <a class=\"bibleref\" href=\"/passage/?search=John 19:34\">John 19:34</a>. In John’s Gospel, the testimony God bears to Jesus His Son is a key theme. The blood and water that flowed from Jesus after His death attested to the reality of His death; the wound in Jesus’ side later confirmed the reality of His bodily resurrection (<a class=\"bibleref\" href=\"/passage/?search=John 20:20\">John 20:20</a>, <a class=\"bibleref\" href=\"/passage/?search=John 20:25-John 20:27\">25–27</a>). Both the death and the resurrection were denied by the docetists, who denied the humanity of Christ (4:2).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1john,5,7", "1john,5,8" ],
+  "verses" : [ {
+    "verse" : "1john,5,7",
+    "text" : "For there are three that testify:"
+  }, {
+    "verse" : "1john,5,8",
+    "text" : "the Spirit, the water and the blood; and the three are in agreement."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1john,5,7",
     "id" : 199563,
@@ -26,7 +50,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1John 5:7\">5:7</a></b> <b>three that testify.</b> See “One and Three: The Trinity” at <a class=\"bibleref\" href=\"/passage/?search=Isa 44:6\">Is. 44:6</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1john,5,9", "1john,5,10" ],
+  "verses" : [ {
+    "verse" : "1john,5,9",
+    "text" : "We accept man's testimony, but God's testimony is greater because it is the testimony of God, which he has given about his Son."
+  }, {
+    "verse" : "1john,5,10",
+    "text" : "Anyone who believes in the Son of God has this testimony in his heart. Anyone who does not believe God has made him out to be a liar, because he has not believed the testimony God has given about his Son."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1john,5,9",
     "id" : 199564,
@@ -34,7 +64,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1John 5:9\">5:9</a></b> <b>the testimony of God is greater.</b> By appealing directly to God as witness, John, like Jesus, overrules all human dispute (<a class=\"bibleref\" href=\"/passage/?search=John 5:31-John 5:39\">John 5:31–39</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1john,5,11", "1john,5,12" ],
+  "verses" : [ {
+    "verse" : "1john,5,11",
+    "text" : "And this is the testimony: God has given us eternal life, and this life is in his Son."
+  }, {
+    "verse" : "1john,5,12",
+    "text" : "He who has the Son has life; he who does not have the Son of God does not have life."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1john,5,11",
     "id" : 199565,
@@ -42,7 +78,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1John 5:11\">5:11</a></b> <b>eternal life . . . in his Son.</b> This is the cardinal truth of the Christian message.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1john,5,13", "1john,5,14", "1john,5,15" ],
+  "verses" : [ {
+    "verse" : "1john,5,13",
+    "text" : "I write these things to you who believe in the name of the Son of God so that you may know that you have eternal life."
+  }, {
+    "verse" : "1john,5,14",
+    "text" : "This is the confidence we have in approaching God: that if we ask anything according to his will, he hears us."
+  }, {
+    "verse" : "1john,5,15",
+    "text" : "And if we know that he hears us--whatever we ask--we know that we have what we asked of him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1john,5,13",
     "id" : 199566,
@@ -50,7 +95,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1John 5:13\">5:13</a></b> John’s Gospel was written to move readers to faith in Jesus that they might receive eternal life (<a class=\"bibleref\" href=\"/passage/?search=John 20:31\">John 20:31</a>). This letter was written to assure those who have believed that they actually possess the priceless gift.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1john,5,16", "1john,5,17" ],
+  "verses" : [ {
+    "verse" : "1john,5,16",
+    "text" : "If anyone sees his brother commit a sin that does not lead to death, he should pray and God will give him life. I refer to those whose sin does not lead to death. There is a sin that leads to death. I am not saying that he should pray about that."
+  }, {
+    "verse" : "1john,5,17",
+    "text" : "All wrongdoing is sin, and there is sin that does not lead to death."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1john,5,16",
     "id" : 199567,
@@ -58,7 +109,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1John 5:16\">5:16</a></b> <b>sin that leads to death.</b> Some connect this sin with the unforgivable sin mentioned in <a class=\"bibleref\" href=\"/passage/?search=Matt 12:31\">Matt. 12:31</a>, <a class=\"bibleref\" href=\"/passage/?search=Matt 12:32\">32</a>; <a class=\"bibleref\" href=\"/passage/?search=Mark 3:28-Mark 3:30\">Mark 3:28–30</a>; <a class=\"bibleref\" href=\"/passage/?search=Luke 12:8-Luke 12:10\">Luke 12:8–10</a>. More likely, John is referring to a stubborn refusal to accept the message of the gospel (1:10 note; <a class=\"bibleref\" href=\"/passage/?search=John 8:24\">John 8:24</a>). See “The Unpardonable Sin” at <a class=\"bibleref\" href=\"/passage/?search=Mark 3:29\">Mark 3:29</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1john,5,18" ],
+  "verses" : [ {
+    "verse" : "1john,5,18",
+    "text" : "We know that anyone born of God does not continue to sin; the one who was born of God keeps him safe, and the evil one cannot harm him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1john,5,18",
     "id" : 199568,
@@ -66,7 +120,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1John 5:18\">5:18</a></b> <b>does not keep on sinning.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1John 3:6\">3:6</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1john,5,19" ],
+  "verses" : [ {
+    "verse" : "1john,5,19",
+    "text" : "We know that we are children of God, and that the whole world is under the control of the evil one."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1john,5,19",
     "id" : 199569,
@@ -74,7 +131,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1John 5:19\">5:19</a></b> <b>the power of the evil one.</b> No one can escape the devil’s net of temptation, sin, and condemnation without divine help. But neither can people escape their responsibility by trying to blame another agent, even the devil, for their own condition (<a class=\"bibleref\" href=\"/passage/?search=Gen 3:12\">Gen. 3:12</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 3:13\">13</a>). Paradoxically, enslavement to sin is voluntary (<a class=\"bibleref\" href=\"/passage/?search=Jas 1:13-Jas 1:15\">James 1:13–15</a>). Only the Son of God can break this bondage and replace it with a life of forgiveness, gratitude, and obedience (3:8).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1john,5,20", "1john,5,21" ],
+  "verses" : [ {
+    "verse" : "1john,5,20",
+    "text" : "We know also that the Son of God has come and has given us understanding, so that we may know him who is true. And we are in him who is true--even in his Son Jesus Christ. He is the true God and eternal life."
+  }, {
+    "verse" : "1john,5,21",
+    "text" : "Dear children, keep yourselves from idols."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1john,5,20",
     "id" : 199570,

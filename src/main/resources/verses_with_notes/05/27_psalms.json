@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "psalms,119,65", "psalms,119,66" ],
+  "verses" : [ {
+    "verse" : "psalms,119,65",
+    "text" : "Do good to your servant according to your word, O LORD."
+  }, {
+    "verse" : "psalms,119,66",
+    "text" : "Teach me knowledge and good judgment, for I believe in your commands."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,119,1-psalms,119,176",
     "id" : 191337,
@@ -12,7 +18,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 119:65-Ps 119:72\">119:65–72</a></b> The psalmist found that affliction brought him back from wandering away from God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,119,67", "psalms,119,68", "psalms,119,69" ],
+  "verses" : [ {
+    "verse" : "psalms,119,67",
+    "text" : "Before I was afflicted I went astray, but now I obey your word."
+  }, {
+    "verse" : "psalms,119,68",
+    "text" : "You are good, and what you do is good; teach me your decrees."
+  }, {
+    "verse" : "psalms,119,69",
+    "text" : "Though the arrogant have smeared me with lies, I keep your precepts with all my heart."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,119,67",
     "id" : 191368,
@@ -20,7 +35,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 119:67\">119:67</a></b> <b>I went astray.</b> God uses distress and suffering in our lives to bring us back to Him (<a class=\"bibleref\" href=\"/passage/?search=Ps 31\">Ps. 31</a>; <a class=\"bibleref\" href=\"/passage/?search=Heb 12:1-Heb 12:13\">Heb. 12:1–13</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,119,70" ],
+  "verses" : [ {
+    "verse" : "psalms,119,70",
+    "text" : "Their hearts are callous and unfeeling, but I delight in your law."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,119,70",
     "id" : 191369,
@@ -28,7 +46,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 119:70\">119:70</a></b> <b>like fat.</b> Cf. <a class=\"bibleref\" href=\"/passage/?search=1Tim 4:2\">1 Tim. 4:2</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,119,71", "psalms,119,72", "psalms,119,73" ],
+  "verses" : [ {
+    "verse" : "psalms,119,71",
+    "text" : "It was good for me to be afflicted so that I might learn your decrees."
+  }, {
+    "verse" : "psalms,119,72",
+    "text" : "The law from your mouth is more precious to me than thousands of pieces of silver and gold."
+  }, {
+    "verse" : "psalms,119,73",
+    "text" : "Your hands made me and formed me; give me understanding to learn your commands."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,119,71",
     "id" : 191370,
@@ -36,7 +63,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 119:71\">119:71</a></b> <b>It is good for me . . . afflicted.</b> In retrospect the writer is thankful for his suffering because it has led to a new intimacy with the Lord.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,119,74" ],
+  "verses" : [ {
+    "verse" : "psalms,119,74",
+    "text" : "May those who fear you rejoice when they see me, for I have put my hope in your word."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,119,74",
     "id" : 191371,
@@ -44,7 +74,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 119:74\">119:74</a></b> <b>shall see me.</b> As others who share the psalmist’s deep commitment to the Lord see his happiness, they will be encouraged.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,119,75", "psalms,119,76", "psalms,119,77", "psalms,119,78", "psalms,119,79", "psalms,119,80" ],
+  "verses" : [ {
+    "verse" : "psalms,119,75",
+    "text" : "I know, O LORD, that your laws are righteous, and in faithfulness you have afflicted me."
+  }, {
+    "verse" : "psalms,119,76",
+    "text" : "May your unfailing love be my comfort, according to your promise to your servant."
+  }, {
+    "verse" : "psalms,119,77",
+    "text" : "Let your compassion come to me that I may live, for your law is my delight."
+  }, {
+    "verse" : "psalms,119,78",
+    "text" : "May the arrogant be put to shame for wronging me without cause; but I will meditate on your precepts."
+  }, {
+    "verse" : "psalms,119,79",
+    "text" : "May those who fear you turn to me, those who understand your statutes."
+  }, {
+    "verse" : "psalms,119,80",
+    "text" : "May my heart be blameless toward your decrees, that I may not be put to shame."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,119,75",
     "id" : 191372,

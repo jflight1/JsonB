@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,18,22" ],
+  "verses" : [ {
+    "verse" : "proverbs,18,22",
+    "text" : "He who finds a wife finds what is good and receives favor from the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

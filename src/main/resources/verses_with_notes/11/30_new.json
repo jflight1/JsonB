@@ -1,5 +1,17 @@
 [ {
-  "singleVerses" : [ "1john,1,1", "1john,1,2", "1john,1,3", "1john,1,4" ],
+  "verses" : [ {
+    "verse" : "1john,1,1",
+    "text" : "That which was from the beginning, which we have heard, which we have seen with our eyes, which we have looked at and our hands have touched--this we proclaim concerning the Word of life."
+  }, {
+    "verse" : "1john,1,2",
+    "text" : "The life appeared; we have seen it and testify to it, and we proclaim to you the eternal life, which was with the Father and has appeared to us."
+  }, {
+    "verse" : "1john,1,3",
+    "text" : "We proclaim to you what we have seen and heard, so that you also may have fellowship with us. And our fellowship is with the Father and with his Son, Jesus Christ."
+  }, {
+    "verse" : "1john,1,4",
+    "text" : "We write this to make our joy complete."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1john,1,1-1john,1,4",
     "id" : 199506,
@@ -12,7 +24,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1John 1:1\">1:1</a></b> <b>the beginning.</b> This verse echoes <a class=\"bibleref\" href=\"/passage/?search=John 1:1\">John 1:1</a>, as that verse in turn echoes <a class=\"bibleref\" href=\"/passage/?search=Gen 1:1\">Gen. 1:1</a>. The two New Testament verses highlight the Incarnation as an event as significant as creation itself.</p><p><b>heard . . . seen . . . looked upon . . . touched.</b> These vivid verbs defend the reality of the human nature of Christ against the docetic speculation that is later rejected explicitly (2:22; 4:2, 3; Introduction: Date and Occasion).</p><p><b>the word of life.</b> The subject of John’s proclamation is Jesus, the incarnate Word (<a class=\"bibleref\" href=\"/passage/?search=John 1:1-John 1:14\">John 1:1–14</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1john,1,5", "1john,1,6" ],
+  "verses" : [ {
+    "verse" : "1john,1,5",
+    "text" : "This is the message we have heard from him and declare to you: God is light; in him there is no darkness at all."
+  }, {
+    "verse" : "1john,1,6",
+    "text" : "If we claim to have fellowship with him yet walk in the darkness, we lie and do not live by the truth."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1john,1,5-1john,1,10",
     "id" : 199508,
@@ -25,7 +43,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1John 1:5\">1:5</a></b> <b>God is light.</b> This description of God emphasizes His attributes of moral purity and omniscience, reinforcing John’s focus on our need to confess sin.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1john,1,7", "1john,1,8" ],
+  "verses" : [ {
+    "verse" : "1john,1,7",
+    "text" : "But if we walk in the light, as he is in the light, we have fellowship with one another, and the blood of Jesus, his Son, purifies us from all sin."
+  }, {
+    "verse" : "1john,1,8",
+    "text" : "If we claim to be without sin, we deceive ourselves and the truth is not in us."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1john,1,7",
     "id" : 199510,
@@ -33,7 +57,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1John 1:7\">1:7</a></b> <b>the blood of Jesus his Son.</b> As <a class=\"bibleref\" href=\"/passage/?search=Heb 9:22\">Heb. 9:22</a> indicates, “without the shedding of blood there is no forgiveness.” The shedding of the blood of Christ was a voluntary substitutionary sacrifice of infinite value for the elect; it paid in full God’s penalty for sin (<a class=\"bibleref\" href=\"/passage/?search=Heb 9:27\">Heb. 9:27</a>, <a class=\"bibleref\" href=\"/passage/?search=Heb 9:28\">28</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1john,1,9" ],
+  "verses" : [ {
+    "verse" : "1john,1,9",
+    "text" : "If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1john,1,9",
     "id" : 199511,
@@ -41,7 +68,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1John 1:9\">1:9</a></b> <b>If we confess our sins.</b> God’s forgiveness is given as soon as we admit our need of it, not on the basis of any acts we have done to earn it, but solely because of His grace. The free gift of forgiveness carries with it purification from unrighteousness. God accepts us as righteous because He imputes to us the righteousness of Christ. That is, the very righteousness of Christ our sin-bearer is reckoned to our account.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1john,1,10" ],
+  "verses" : [ {
+    "verse" : "1john,1,10",
+    "text" : "If we claim we have not sinned, we make him out to be a liar and his word has no place in our lives."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1john,1,10",
     "id" : 199512,

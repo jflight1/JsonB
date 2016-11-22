@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "psalms,9,1", "psalms,9,2" ],
+  "verses" : [ {
+    "verse" : "psalms,9,1",
+    "text" : "I will praise you, O LORD, with all my heart; I will tell of all your wonders."
+  }, {
+    "verse" : "psalms,9,2",
+    "text" : "I will be glad and rejoice in you; I will sing praise to your name, O Most High."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,9,1-psalms,9,20",
     "id" : 190253,
@@ -12,7 +18,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 9:1\">9:1</a></b> <b>wonderful deeds.</b> The Hebrew word refers to the great acts of God, His intervention in human affairs, as at the Exodus from Egypt.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,9,3" ],
+  "verses" : [ {
+    "verse" : "psalms,9,3",
+    "text" : "My enemies turn back; they stumble and perish before you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,9,3",
     "id" : 190255,
@@ -20,7 +29,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 9:3\">9:3</a></b> <b>When my enemies turn back.</b> This is a statement of future hope, not past reality.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,9,4" ],
+  "verses" : [ {
+    "verse" : "psalms,9,4",
+    "text" : "For you have upheld my right and my cause; you have sat on your throne, judging righteously."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,9,4",
     "id" : 190256,
@@ -28,7 +40,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 9:4\">9:4</a></b> <b>throne, giving righteous judgment.</b> The psalmist is not confident in himself, but in God’s character as the righteous Judge.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,9,5", "psalms,9,6", "psalms,9,7", "psalms,9,8", "psalms,9,9", "psalms,9,10" ],
+  "verses" : [ {
+    "verse" : "psalms,9,5",
+    "text" : "You have rebuked the nations and destroyed the wicked; you have blotted out their name for ever and ever."
+  }, {
+    "verse" : "psalms,9,6",
+    "text" : "Endless ruin has overtaken the enemy, you have uprooted their cities; even the memory of them has perished."
+  }, {
+    "verse" : "psalms,9,7",
+    "text" : "The LORD reigns forever; he has established his throne for judgment."
+  }, {
+    "verse" : "psalms,9,8",
+    "text" : "He will judge the world in righteousness; he will govern the peoples with justice."
+  }, {
+    "verse" : "psalms,9,9",
+    "text" : "The LORD is a refuge for the oppressed, a stronghold in times of trouble."
+  }, {
+    "verse" : "psalms,9,10",
+    "text" : "Those who know your name will trust in you, for you, LORD, have never forsaken those who seek you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,9,5",
     "id" : 190257,
@@ -36,7 +66,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 9:5\">9:5</a></b> <b>blotted out their name.</b> To be remembered no more, contrasted with God’s name (<a class=\"bibleref\" href=\"/passage/?search=Ps 9:2\">v. 2</a>), which will be praised forever.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,9,11" ],
+  "verses" : [ {
+    "verse" : "psalms,9,11",
+    "text" : "Sing praises to the LORD, enthroned in Zion; proclaim among the nations what he has done."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,9,11",
     "id" : 190258,
@@ -44,7 +77,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 9:11\">9:11</a></b> <b>enthroned in Zion.</b> See <a class=\"bibleref\" href=\"/passage/?search=Ps 2:6\">2:6</a> note. The afflicted should know that God is present with them in the world.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,9,12" ],
+  "verses" : [ {
+    "verse" : "psalms,9,12",
+    "text" : "For he who avenges blood remembers; he does not ignore the cry of the afflicted."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,9,12",
     "id" : 190259,

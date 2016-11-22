@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "acts,18,1" ],
+  "verses" : [ {
+    "verse" : "acts,18,1",
+    "text" : "After this, Paul left Athens and went to Corinth."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,18,1",
     "id" : 197581,
@@ -7,7 +10,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 18:1\">18:1</a></b> <b>Corinth.</b> Since 27 <span class=\"small-caps\">b.c.</span>, this city had been the capital of the Roman province of Achaia. It was fifty miles southwest of Athens, near the isthmus that joins Attica and the Peloponnesus. Corinth was large and prosperous in the eighth to sixth centuries <span class=\"small-caps\">b.c.</span>, but it declined and was captured in 338 <span class=\"small-caps\">b.c.</span> by Philip II of Macedon. In 196 <span class=\"small-caps\">b.c.</span>, it was taken by the Romans. They sacked it in 146 <span class=\"small-caps\">b.c.</span> in punishment for a revolt, but it was restored by Julius Caesar as a Roman colony in 44 <span class=\"small-caps\">b.c.</span> In New Testament times Corinth had over 200,000 inhabitants, including Greeks, freedmen from Italy, Roman army veterans, businessmen, government officials, people from the Near East, a large number of Jews, and many slaves. Corinth was thoroughly pagan and immoral. The city was filled with pagan temples and on the south there was a high acropolis with a temple of Aphrodite. From the fifth century <span class=\"small-caps\">b.c.</span>, the expression “to Corinthianize” meant to be sexually immoral.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,18,2", "acts,18,3", "acts,18,4", "acts,18,5" ],
+  "verses" : [ {
+    "verse" : "acts,18,2",
+    "text" : "There he met a Jew named Aquila, a native of Pontus, who had recently come from Italy with his wife Priscilla, because Claudius had ordered all the Jews to leave Rome. Paul went to see them,"
+  }, {
+    "verse" : "acts,18,3",
+    "text" : "and because he was a tentmaker as they were, he stayed and worked with them."
+  }, {
+    "verse" : "acts,18,4",
+    "text" : "Every Sabbath he reasoned in the synagogue, trying to persuade Jews and Greeks."
+  }, {
+    "verse" : "acts,18,5",
+    "text" : "When Silas and Timothy came from Macedonia, Paul devoted himself exclusively to preaching, testifying to the Jews that Jesus was the Christ."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,18,2",
     "id" : 197582,
@@ -15,7 +30,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 18:2\">18:2</a></b> <b>Aquila, a native of Pontus . . . Priscilla.</b> Pontus was on the north coast of Asia Minor (modern Turkey). Priscilla is frequently listed before her husband (<a class=\"bibleref\" href=\"/passage/?search=Acts 18:18\">vv. 18</a>, <a class=\"bibleref\" href=\"/passage/?search=Acts 18:19\">19</a>, <a class=\"bibleref\" href=\"/passage/?search=Acts 18:26\">26</a>; <a class=\"bibleref\" href=\"/passage/?search=Rom 16:3\">Rom. 16:3</a>; <a class=\"bibleref\" href=\"/passage/?search=2Tim 4:19\">2 Tim. 4:19</a>). She may have had higher social status or have been more prominent in their tent-making business.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,18,6" ],
+  "verses" : [ {
+    "verse" : "acts,18,6",
+    "text" : "But when the Jews opposed Paul and became abusive, he shook out his clothes in protest and said to them, \"Your blood be on your own heads! I am clear of my responsibility. From now on I will go to the Gentiles.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,18,6",
     "id" : 197583,
@@ -23,7 +41,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 18:6\">18:6</a></b> <b>Your blood be on your own heads.</b> They were responsible for their own sins.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,18,7" ],
+  "verses" : [ {
+    "verse" : "acts,18,7",
+    "text" : "Then Paul left the synagogue and went next door to the house of Titius Justus, a worshiper of God."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,18,7",
     "id" : 197584,
@@ -31,7 +52,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 18:7\">18:7</a></b> <b>house of . . . Justus.</b> The first home of the Corinthian church. Titius Justus was a Gentile adherent to the faith at the synagogue, and a Roman citizen. He could have belonged to one of the families Julius Caesar sent to colonize Corinth. He may have been the Gaius of <a class=\"bibleref\" href=\"/passage/?search=Rom 16:23\">Rom. 16:23</a>, who was baptized by Paul (<a class=\"bibleref\" href=\"/passage/?search=1Cor 1:14\">1 Cor. 1:14</a>); Gaius could have been a third name standing before Titius Justus.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,18,8", "acts,18,9" ],
+  "verses" : [ {
+    "verse" : "acts,18,8",
+    "text" : "Crispus, the synagogue ruler, and his entire household believed in the Lord; and many of the Corinthians who heard him believed and were baptized."
+  }, {
+    "verse" : "acts,18,9",
+    "text" : "One night the Lord spoke to Paul in a vision: \"Do not be afraid; keep on speaking, do not be silent."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,18,8",
     "id" : 197585,
@@ -39,7 +66,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 18:8\">18:8</a></b> <b>Crispus, the ruler of the synagogue.</b> As synagogue ruler, Crispus was in charge of the physical arrangements for the synagogue services. It is this Crispus (and presumably his household) whom Paul baptized (<a class=\"bibleref\" href=\"/passage/?search=1Cor 1:14\">1 Cor. 1:14</a>).</p><p><b>his entire household.</b> See 16:15 and note; 16:31–33.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,18,10", "acts,18,11" ],
+  "verses" : [ {
+    "verse" : "acts,18,10",
+    "text" : "For I am with you, and no one is going to attack and harm you, because I have many people in this city.\""
+  }, {
+    "verse" : "acts,18,11",
+    "text" : "So Paul stayed for a year and a half, teaching them the word of God."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,18,10",
     "id" : 197586,
@@ -47,7 +80,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 18:10\">18:10</a></b> <b>I have many in this city.</b> Jesus promises that Paul’s labors in Corinth will be fruitful because God’s own people (those God has appointed to eternal life, <a class=\"bibleref\" href=\"/passage/?search=Acts 13:48\">13:48</a>) live in that city. Even though the elect Corinthians had not yet believed the gospel, and some had not even heard it, they nevertheless were known to God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,18,12" ],
+  "verses" : [ {
+    "verse" : "acts,18,12",
+    "text" : "While Gallio was proconsul of Achaia, the Jews made a united attack on Paul and brought him into court."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,18,12",
     "id" : 197587,
@@ -55,7 +91,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 18:12\">18:12</a></b> <b>when Gallio was proconsul of Achaia.</b> Luke’s identification of the administrative head of this senatorial province as a proconsul is correct. An inscription found at Delphi, Greece, identifies Gallio as the proconsul in <span class=\"small-caps\">a.d.</span> 52.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,18,13", "acts,18,14", "acts,18,15", "acts,18,16", "acts,18,17" ],
+  "verses" : [ {
+    "verse" : "acts,18,13",
+    "text" : "\"This man,\" they charged, \"is persuading the people to worship God in ways contrary to the law.\""
+  }, {
+    "verse" : "acts,18,14",
+    "text" : "Just as Paul was about to speak, Gallio said to the Jews, \"If you Jews were making a complaint about some misdemeanor or serious crime, it would be reasonable for me to listen to you."
+  }, {
+    "verse" : "acts,18,15",
+    "text" : "But since it involves questions about words and names and your own law--settle the matter yourselves. I will not be a judge of such things.\""
+  }, {
+    "verse" : "acts,18,16",
+    "text" : "So he had them ejected from the court."
+  }, {
+    "verse" : "acts,18,17",
+    "text" : "Then they all turned on Sosthenes the synagogue ruler and beat him in front of the court. But Gallio showed no concern whatever."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,18,13",
     "id" : 197588,
@@ -63,7 +114,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 18:13\">18:13</a></b> <b>contrary to the law.</b> That is, contrary to the Roman law forbidding the practice of religions not legally recognized by Rome. Judaism was legally recognized, and Christianity as an offshoot of Judaism was also a legal religion (<i>religio licita</i>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,18,18", "acts,18,19", "acts,18,20", "acts,18,21", "acts,18,22" ],
+  "verses" : [ {
+    "verse" : "acts,18,18",
+    "text" : "Paul stayed on in Corinth for some time. Then he left the brothers and sailed for Syria, accompanied by Priscilla and Aquila. Before he sailed, he had his hair cut off at Cenchrea because of a vow he had taken."
+  }, {
+    "verse" : "acts,18,19",
+    "text" : "They arrived at Ephesus, where Paul left Priscilla and Aquila. He himself went into the synagogue and reasoned with the Jews."
+  }, {
+    "verse" : "acts,18,20",
+    "text" : "When they asked him to spend more time with them, he declined."
+  }, {
+    "verse" : "acts,18,21",
+    "text" : "But as he left, he promised, \"I will come back if it is God's will.\" Then he set sail from Ephesus."
+  }, {
+    "verse" : "acts,18,22",
+    "text" : "When he landed at Caesarea, he went up and greeted the church and then went down to Antioch."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,18,18",
     "id" : 197589,

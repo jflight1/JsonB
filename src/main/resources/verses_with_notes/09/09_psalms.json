@@ -1,5 +1,17 @@
 [ {
-  "singleVerses" : [ "psalms,53,1", "psalms,53,2", "psalms,53,3", "psalms,53,4" ],
+  "verses" : [ {
+    "verse" : "psalms,53,1",
+    "text" : "The fool says in his heart, \"There is no God.\" They are corrupt, and their ways are vile; there is no one who does good."
+  }, {
+    "verse" : "psalms,53,2",
+    "text" : "God looks down from heaven on the sons of men to see if there are any who understand, any who seek God."
+  }, {
+    "verse" : "psalms,53,3",
+    "text" : "Everyone has turned away, they have together become corrupt; there is no one who does good, not even one."
+  }, {
+    "verse" : "psalms,53,4",
+    "text" : "Will the evildoers never learn- those who devour my people as men eat bread and who do not call on God?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,53,1-psalms,53,6",
     "id" : 190667,
@@ -12,7 +24,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 53:1-Ps 53:4\">53:1–4</a></b> See notes <a class=\"bibleref\" href=\"/passage/?search=Ps 14:1-Ps 14:4\">Ps. 14:1–4</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,53,5" ],
+  "verses" : [ {
+    "verse" : "psalms,53,5",
+    "text" : "There they were, overwhelmed with dread, where there was nothing to dread. God scattered the bones of those who attacked you; you put them to shame, for God despised them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,53,5",
     "id" : 190669,
@@ -20,7 +35,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 53:5\">53:5</a></b> <b>scatters the bones.</b> In the Old Testament God often fights for His people against their flesh-and-blood enemies. With New Testament revelation the underlying spiritual conflict to save His people from sin becomes the dominant theme, although the real conflict has been at this level from the beginning (<a class=\"bibleref\" href=\"/passage/?search=Gen 3:4\">Gen. 3:4</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 3:5\">5</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,53,6" ],
+  "verses" : [ {
+    "verse" : "psalms,53,6",
+    "text" : "Oh, that salvation for Israel would come out of Zion! When God restores the fortunes of his people, let Jacob rejoice and Israel be glad!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,53,6",
     "id" : 190670,

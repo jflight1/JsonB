@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,17,16" ],
+  "verses" : [ {
+    "verse" : "proverbs,17,16",
+    "text" : "Of what use is money in the hand of a fool, since he has no desire to get wisdom?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

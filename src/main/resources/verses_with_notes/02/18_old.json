@@ -1,5 +1,26 @@
 [ {
-  "singleVerses" : [ "leviticus,6,1", "leviticus,6,2", "leviticus,6,3", "leviticus,6,4", "leviticus,6,5", "leviticus,6,6", "leviticus,6,7" ],
+  "verses" : [ {
+    "verse" : "leviticus,6,1",
+    "text" : "The LORD said to Moses:"
+  }, {
+    "verse" : "leviticus,6,2",
+    "text" : "\"If anyone sins and is unfaithful to the LORD by deceiving his neighbor about something entrusted to him or left in his care or stolen, or if he cheats him,"
+  }, {
+    "verse" : "leviticus,6,3",
+    "text" : "or if he finds lost property and lies about it, or if he swears falsely, or if he commits any such sin that people may do-"
+  }, {
+    "verse" : "leviticus,6,4",
+    "text" : "when he thus sins and becomes guilty, he must return what he has stolen or taken by extortion, or what was entrusted to him, or the lost property he found,"
+  }, {
+    "verse" : "leviticus,6,5",
+    "text" : "or whatever it was he swore falsely about. He must make restitution in full, add a fifth of the value to it and give it all to the owner on the day he presents his guilt offering."
+  }, {
+    "verse" : "leviticus,6,6",
+    "text" : "And as a penalty he must bring to the priest, that is, to the LORD, his guilt offering, a ram from the flock, one without defect and of the proper value."
+  }, {
+    "verse" : "leviticus,6,7",
+    "text" : "In this way the priest will make atonement for him before the LORD, and he will be forgiven for any of these things he did that made him guilty.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,5,14-leviticus,6,7",
     "id" : 186034,
@@ -12,7 +33,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 6:1-Lev 6:7\">6:1–7</a></b> Trespasses against a neighbor require restoration of the loss plus “a fifth” (<a class=\"bibleref\" href=\"/passage/?search=Lev 6:5\">v. 5</a>), and the offering of sacrifice to God (cf. <a class=\"bibleref\" href=\"/passage/?search=Matt 5:24\">Matt. 5:24</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,6,8" ],
+  "verses" : [ {
+    "verse" : "leviticus,6,8",
+    "text" : "The LORD said to Moses:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,6,8-leviticus,7,36",
     "id" : 186038,
@@ -20,7 +44,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 6:8-Lev 7:36\">6:8–7:36</a></b> Having addressed the laity concerning the laws of sacrifice, Moses now addresses the priests, especially about their entitlement to a share in the sacrifices.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,6,9" ],
+  "verses" : [ {
+    "verse" : "leviticus,6,9",
+    "text" : "\"Give Aaron and his sons this command: 'These are the regulations for the burnt offering: The burnt offering is to remain on the altar hearth throughout the night, till morning, and the fire must be kept burning on the altar."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,6,9",
     "id" : 186039,
@@ -28,7 +55,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 6:9\">6:9</a></b> <b>burnt offering.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Lev 1:3-Lev 1:17\">1:3–17</a>. Christ, the High Priest of the new covenant, offered the final burnt offering in His body: He was wholly consecrated to God, suffering death for sin and bringing about the believer’s death to sin (<a class=\"bibleref\" href=\"/passage/?search=Rom 6:2-Rom 6:7\">Rom. 6:2–7</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,6,10", "leviticus,6,11" ],
+  "verses" : [ {
+    "verse" : "leviticus,6,10",
+    "text" : "The priest shall then put on his linen clothes, with linen undergarments next to his body, and shall remove the ashes of the burnt offering that the fire has consumed on the altar and place them beside the altar."
+  }, {
+    "verse" : "leviticus,6,11",
+    "text" : "Then he is to take off these clothes and put on others, and carry the ashes outside the camp to a place that is ceremonially clean."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,6,10",
     "id" : 186040,
@@ -36,7 +69,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 6:10\">6:10</a></b> <b>linen garment.</b> Being white, this apparel probably symbolized purity. These garments were to cover their private parts (<a class=\"bibleref\" href=\"/passage/?search=Exod 20:26\">Ex. 20:26</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 28:42\">28:42</a> note; cf. <a class=\"bibleref\" href=\"/passage/?search=Gen 3:7\">Gen. 3:7</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 3:21\">21</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,6,12", "leviticus,6,13" ],
+  "verses" : [ {
+    "verse" : "leviticus,6,12",
+    "text" : "The fire on the altar must be kept burning; it must not go out. Every morning the priest is to add firewood and arrange the burnt offering on the fire and burn the fat of the fellowship offerings on it."
+  }, {
+    "verse" : "leviticus,6,13",
+    "text" : "The fire must be kept burning on the altar continuously; it must not go out."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,6,12",
     "id" : 186041,
@@ -44,7 +83,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 6:12\">6:12</a></b> <b>fire . . . shall be kept burning.</b> This action was perhaps prescribed as a reminder of God’s continual presence and the people’s need for continual atonement. The first burnt offering at the tabernacle was consumed by fire from God Himself (<a class=\"bibleref\" href=\"/passage/?search=Lev 9:24\">9:24</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,6,14", "leviticus,6,15", "leviticus,6,16", "leviticus,6,17" ],
+  "verses" : [ {
+    "verse" : "leviticus,6,14",
+    "text" : "\"'These are the regulations for the grain offering: Aaron's sons are to bring it before the LORD, in front of the altar."
+  }, {
+    "verse" : "leviticus,6,15",
+    "text" : "The priest is to take a handful of fine flour and oil, together with all the incense on the grain offering, and burn the memorial portion on the altar as an aroma pleasing to the LORD."
+  }, {
+    "verse" : "leviticus,6,16",
+    "text" : "Aaron and his sons shall eat the rest of it, but it is to be eaten without yeast in a holy place; they are to eat it in the courtyard of the Tent of Meeting."
+  }, {
+    "verse" : "leviticus,6,17",
+    "text" : "It must not be baked with yeast; I have given it as their share of the offerings made to me by fire. Like the sin offering and the guilt offering, it is most holy."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,6,14",
     "id" : 186042,
@@ -52,7 +103,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 6:14\">6:14</a></b> <b>grain offering.</b> See <a class=\"bibleref\" href=\"/passage/?search=Lev 2\">ch. 2</a>. As the grain offering represented the fruits of obedience, it foreshadowed Christ’s life of perfect obedience and thanksgiving to God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,6,18" ],
+  "verses" : [ {
+    "verse" : "leviticus,6,18",
+    "text" : "Any male descendant of Aaron may eat it. It is his regular share of the offerings made to the LORD by fire for the generations to come. Whatever touches them will become holy. '\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,6,18",
     "id" : 186043,
@@ -60,7 +114,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 6:18\">6:18</a></b> <b>shall become holy.</b> This is a warning to laity not to touch food consecrated to God in sacrifice. Contact with the sacred food would render a person ritually holy (<a class=\"bibleref\" href=\"/passage/?search=Lev 6:27\">v. 27</a> text note; <a class=\"bibleref\" href=\"/passage/?search=Exod 29:37\">Ex. 29:37</a>). Those who incurred such holiness probably were temporarily placed under restrictions like those governing the activity of priests (21:1–8).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,6,19", "leviticus,6,20", "leviticus,6,21" ],
+  "verses" : [ {
+    "verse" : "leviticus,6,19",
+    "text" : "The LORD also said to Moses,"
+  }, {
+    "verse" : "leviticus,6,20",
+    "text" : "\"This is the offering Aaron and his sons are to bring to the LORD on the day he is anointed: a tenth of an ephah of fine flour as a regular grain offering, half of it in the morning and half in the evening."
+  }, {
+    "verse" : "leviticus,6,21",
+    "text" : "Prepare it with oil on a griddle; bring it well-mixed and present the grain offering broken in pieces as an aroma pleasing to the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,6,19-leviticus,6,23",
     "id" : 186044,
@@ -68,7 +131,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 6:19-Lev 6:23\">6:19–23</a></b> The priest’s grain offering, mentioned here for the first time, had to be offered daily (<a class=\"bibleref\" href=\"/passage/?search=Lev 6:20\">6:20</a>). Unlike these daily sacrifices, Christ our great High Priest offered Himself “once for all” (<a class=\"bibleref\" href=\"/passage/?search=Heb 7:27\">Heb. 7:27</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,6,22", "leviticus,6,23" ],
+  "verses" : [ {
+    "verse" : "leviticus,6,22",
+    "text" : "The son who is to succeed him as anointed priest shall prepare it. It is the LORD's regular share and is to be burned completely."
+  }, {
+    "verse" : "leviticus,6,23",
+    "text" : "Every grain offering of a priest shall be burned completely; it must not be eaten.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,6,22",
     "id" : 186045,
@@ -76,7 +145,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 6:22\">6:22</a></b> <b>priest . . . who is anointed.</b> The high priest.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,6,24", "leviticus,6,25", "leviticus,6,26", "leviticus,6,27", "leviticus,6,28", "leviticus,6,29", "leviticus,6,30" ],
+  "verses" : [ {
+    "verse" : "leviticus,6,24",
+    "text" : "The LORD said to Moses,"
+  }, {
+    "verse" : "leviticus,6,25",
+    "text" : "\"Say to Aaron and his sons: 'These are the regulations for the sin offering: The sin offering is to be slaughtered before the LORD in the place the burnt offering is slaughtered; it is most holy."
+  }, {
+    "verse" : "leviticus,6,26",
+    "text" : "The priest who offers it shall eat it; it is to be eaten in a holy place, in the courtyard of the Tent of Meeting."
+  }, {
+    "verse" : "leviticus,6,27",
+    "text" : "Whatever touches any of the flesh will become holy, and if any of the blood is spattered on a garment, you must wash it in a holy place."
+  }, {
+    "verse" : "leviticus,6,28",
+    "text" : "The clay pot the meat is cooked in must be broken; but if it is cooked in a bronze pot, the pot is to be scoured and rinsed with water."
+  }, {
+    "verse" : "leviticus,6,29",
+    "text" : "Any male in a priest's family may eat it; it is most holy."
+  }, {
+    "verse" : "leviticus,6,30",
+    "text" : "But any sin offering whose blood is brought into the Tent of Meeting to make atonement in the Holy Place must not be eaten; it must be burned."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,6,24-leviticus,6,30",
     "id" : 186046,
@@ -84,7 +174,37 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 6:24-Lev 6:30\">6:24–30</a></b> <b>sin offering.</b> See <a class=\"bibleref\" href=\"/passage/?search=Lev 4:1-Lev 5:13\">4:1–5:13</a>. Christ, the new covenant High Priest, offered the final sin offering, as He bore the punishment for the believer’s sins (<a class=\"bibleref\" href=\"/passage/?search=1Pet 2:24\">1 Pet. 2:24</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 53:5\">Is. 53:5</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,7,1", "leviticus,7,2", "leviticus,7,3", "leviticus,7,4", "leviticus,7,5", "leviticus,7,6", "leviticus,7,7", "leviticus,7,8", "leviticus,7,9", "leviticus,7,10" ],
+  "verses" : [ {
+    "verse" : "leviticus,7,1",
+    "text" : "\"'These are the regulations for the guilt offering, which is most holy:"
+  }, {
+    "verse" : "leviticus,7,2",
+    "text" : "The guilt offering is to be slaughtered in the place where the burnt offering is slaughtered, and its blood is to be sprinkled against the altar on all sides."
+  }, {
+    "verse" : "leviticus,7,3",
+    "text" : "All its fat shall be offered: the fat tail and the fat that covers the inner parts,"
+  }, {
+    "verse" : "leviticus,7,4",
+    "text" : "both kidneys with the fat on them near the loins, and the covering of the liver, which is to be removed with the kidneys."
+  }, {
+    "verse" : "leviticus,7,5",
+    "text" : "The priest shall burn them on the altar as an offering made to the LORD by fire. It is a guilt offering."
+  }, {
+    "verse" : "leviticus,7,6",
+    "text" : "Any male in a priest's family may eat it, but it must be eaten in a holy place; it is most holy."
+  }, {
+    "verse" : "leviticus,7,7",
+    "text" : "\"'The same law applies to both the sin offering and the guilt offering: They belong to the priest who makes atonement with them."
+  }, {
+    "verse" : "leviticus,7,8",
+    "text" : "The priest who offers a burnt offering for anyone may keep its hide for himself."
+  }, {
+    "verse" : "leviticus,7,9",
+    "text" : "Every grain offering baked in an oven or cooked in a pan or on a griddle belongs to the priest who offers it,"
+  }, {
+    "verse" : "leviticus,7,10",
+    "text" : "and every grain offering, whether mixed with oil or dry, belongs equally to all the sons of Aaron."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,7,1-leviticus,7,10",
     "id" : 186047,
@@ -92,7 +212,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 7:1-Lev 7:10\">7:1–10</a></b> <b>guilt offering.</b> See <a class=\"bibleref\" href=\"/passage/?search=Lev 5:14-Lev 6:7\">5:14–6:7</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,7,11" ],
+  "verses" : [ {
+    "verse" : "leviticus,7,11",
+    "text" : "\"'These are the regulations for the fellowship offering a person may present to the LORD:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,7,11-leviticus,7,36",
     "id" : 186048,
@@ -100,7 +223,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 7:11-Lev 7:36\">7:11–36</a></b> <b>peace offerings.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Lev 3:1\">3:1</a>. Here rules are given about the grain offerings that must accompany peace offerings, and how the meat must be eaten (<a class=\"bibleref\" href=\"/passage/?search=Lev 3:15\">vv. 15</a>, <a class=\"bibleref\" href=\"/passage/?search=Lev 3:16\">16</a>). Christ now spiritually offers believers His flesh to eat (<a class=\"bibleref\" href=\"/passage/?search=John 6:54-John 6:58\">John 6:54–58</a>). In His flesh and blood believers find eternal life and have communion with the Father. Through that communion, believers are transformed more and more into Christ’s image (<a class=\"bibleref\" href=\"/passage/?search=2Cor 3:18\">2 Cor. 3:18</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,7,12", "leviticus,7,13", "leviticus,7,14", "leviticus,7,15" ],
+  "verses" : [ {
+    "verse" : "leviticus,7,12",
+    "text" : "\"'If he offers it as an expression of thankfulness, then along with this thank offering he is to offer cakes of bread made without yeast and mixed with oil, wafers made without yeast and spread with oil, and cakes of fine flour well-kneaded and mixed with oil."
+  }, {
+    "verse" : "leviticus,7,13",
+    "text" : "Along with his fellowship offering of thanksgiving he is to present an offering with cakes of bread made with yeast."
+  }, {
+    "verse" : "leviticus,7,14",
+    "text" : "He is to bring one of each kind as an offering, a contribution to the LORD; it belongs to the priest who sprinkles the blood of the fellowship offerings."
+  }, {
+    "verse" : "leviticus,7,15",
+    "text" : "The meat of his fellowship offering of thanksgiving must be eaten on the day it is offered; he must leave none of it till morning."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,7,12",
     "id" : 186049,
@@ -108,7 +243,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 7:12\">7:12</a></b> <b>thanksgiving sacrifice.</b> The Hebrew word here translated “thanksgiving” can also mean “confession” (of sin or of faith in response to God’s goodness and mercy). The sacrifice served to underline prayers for forgiveness and healing or as an expression of gratitude for prayers answered.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,7,16", "leviticus,7,17", "leviticus,7,18", "leviticus,7,19" ],
+  "verses" : [ {
+    "verse" : "leviticus,7,16",
+    "text" : "\"'If, however, his offering is the result of a vow or is a freewill offering, the sacrifice shall be eaten on the day he offers it, but anything left over may be eaten on the next day."
+  }, {
+    "verse" : "leviticus,7,17",
+    "text" : "Any meat of the sacrifice left over till the third day must be burned up."
+  }, {
+    "verse" : "leviticus,7,18",
+    "text" : "If any meat of the fellowship offering is eaten on the third day, it will not be accepted. It will not be credited to the one who offered it, for it is impure; the person who eats any of it will be held responsible."
+  }, {
+    "verse" : "leviticus,7,19",
+    "text" : "\"'Meat that touches anything ceremonially unclean must not be eaten; it must be burned up. As for other meat, anyone ceremonially clean may eat it."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,7,16",
     "id" : 186050,
@@ -116,7 +263,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 7:16\">7:16</a></b> <b>vow.</b> People in dire straits might make vows promising something to God if He would answer their prayers (<a class=\"bibleref\" href=\"/passage/?search=Gen 28:20-Gen 28:22\">Gen. 28:20–22</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 1:11\">1 Sam. 1:11</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 2:21\">2:21</a>). Such vows were usually accompanied by a peace offering when first made and then again when fulfilled.</p><p><b>freewill offering.</b> This spontaneous offering showed gratitude to God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,7,20", "leviticus,7,21", "leviticus,7,22", "leviticus,7,23", "leviticus,7,24" ],
+  "verses" : [ {
+    "verse" : "leviticus,7,20",
+    "text" : "But if anyone who is unclean eats any meat of the fellowship offering belonging to the LORD, that person must be cut off from his people."
+  }, {
+    "verse" : "leviticus,7,21",
+    "text" : "If anyone touches something unclean-whether human uncleanness or an unclean animal or any unclean, detestable thing-and then eats any of the meat of the fellowship offering belonging to the LORD, that person must be cut off from his people.'\""
+  }, {
+    "verse" : "leviticus,7,22",
+    "text" : "The LORD said to Moses,"
+  }, {
+    "verse" : "leviticus,7,23",
+    "text" : "\"Say to the Israelites: 'Do not eat any of the fat of cattle, sheep or goats."
+  }, {
+    "verse" : "leviticus,7,24",
+    "text" : "The fat of an animal found dead or torn by wild animals may be used for any other purpose, but you must not eat it."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,7,20",
     "id" : 186051,
@@ -124,7 +286,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 7:20\">7:20</a></b> <b>uncleanness.</b> See note on <a class=\"bibleref\" href=\"/passage/?search=Lev 11-Lev 16\">chs. 11–16</a>.</p><p><b>be cut off.</b> This language is a general expression for coming under God’s curse, the exact meaning of which is determined by the context of Scripture. It may mean the penalty of execution (e.g., <a class=\"bibleref\" href=\"/passage/?search=Exod 31:14-Exod 31:15\">Ex. 31:14–15</a>) or of death without children (18:14, 29; cf. 20:20). In any event, God put the offender to death, with or without human agency.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,7,25" ],
+  "verses" : [ {
+    "verse" : "leviticus,7,25",
+    "text" : "Anyone who eats the fat of an animal from which an offering by fire may be made to the LORD must be cut off from his people."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,7,25",
     "id" : 186052,
@@ -132,7 +297,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 7:25\">7:25</a></b> <b>fat.</b> See <a class=\"bibleref\" href=\"/passage/?search=Lev 3:3\">3:3</a>, <a class=\"bibleref\" href=\"/passage/?search=Lev 3:17\">17</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,7,26", "leviticus,7,27" ],
+  "verses" : [ {
+    "verse" : "leviticus,7,26",
+    "text" : "And wherever you live, you must not eat the blood of any bird or animal."
+  }, {
+    "verse" : "leviticus,7,27",
+    "text" : "If anyone eats blood, that person must be cut off from his people.'\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,7,26",
     "id" : 186053,

@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,11,28" ],
+  "verses" : [ {
+    "verse" : "proverbs,11,28",
+    "text" : "Whoever trusts in his riches will fall, but the righteous will thrive like a green leaf."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

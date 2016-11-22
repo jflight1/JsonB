@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,68,1" ],
+  "verses" : [ {
+    "verse" : "psalms,68,1",
+    "text" : "May God arise, may his enemies be scattered; may his foes flee before him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,68,1-psalms,68,35",
     "id" : 190789,
@@ -12,7 +15,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 68:1\">68:1</a></b> <b>God shall arise.</b> See <a class=\"bibleref\" href=\"/passage/?search=Num 10:35\">Num. 10:35</a>. These were the first words Moses spoke each day before Israel marched during the wilderness period. As he spoke, the ark of the covenant would be raised to lead the procession.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,68,2", "psalms,68,3", "psalms,68,4" ],
+  "verses" : [ {
+    "verse" : "psalms,68,2",
+    "text" : "As smoke is blown away by the wind, may you blow them away; as wax melts before the fire, may the wicked perish before God."
+  }, {
+    "verse" : "psalms,68,3",
+    "text" : "But may the righteous be glad and rejoice before God; may they be happy and joyful."
+  }, {
+    "verse" : "psalms,68,4",
+    "text" : "Sing to God, sing praise to his name, extol him who rides on the clouds - his name is the LORD - and rejoice before him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,68,2",
     "id" : 190791,
@@ -20,7 +32,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 68:2\">68:2</a></b> <b>smoke . . . wax.</b> The two images call on God to deal with the enemy quickly.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,68,5" ],
+  "verses" : [ {
+    "verse" : "psalms,68,5",
+    "text" : "A father to the fatherless, a defender of widows, is God in his holy dwelling."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,68,5",
     "id" : 190792,
@@ -28,7 +43,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 68:5\">68:5</a></b> <b>fatherless . . . widows.</b> Widows and orphans were particularly vulnerable in ancient society. God commanded Israel to care for them (<a class=\"bibleref\" href=\"/passage/?search=Exod 22:22\">Ex. 22:22</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 10:18\">Deut. 10:18</a>; <a class=\"bibleref\" href=\"/passage/?search=Ruth 4:14\">Ruth 4:14</a>, <a class=\"bibleref\" href=\"/passage/?search=Ruth 4:15\">15</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,68,6" ],
+  "verses" : [ {
+    "verse" : "psalms,68,6",
+    "text" : "God sets the lonely in families, he leads forth the prisoners with singing; but the rebellious live in a sun-scorched land."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,68,6",
     "id" : 190793,
@@ -36,7 +54,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 68:6\">68:6</a></b> <b>the solitary.</b> Since the family was the center of Israelite society, those outside of its structure were alone and often needy.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,68,7" ],
+  "verses" : [ {
+    "verse" : "psalms,68,7",
+    "text" : "When you went out before your people, O God, when you marched through the wasteland, Selah"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,68,7",
     "id" : 190794,
@@ -44,7 +65,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 68:7\">68:7</a></b> <b>through the wilderness.</b> The reference is to the forty years of wilderness wanderings.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,68,8" ],
+  "verses" : [ {
+    "verse" : "psalms,68,8",
+    "text" : "the earth shook, the heavens poured down rain, before God, the One of Sinai, before God, the God of Israel."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,68,8",
     "id" : 190795,
@@ -52,7 +76,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 68:8\">68:8</a></b> <b>the earth quaked.</b> God made the earth shake at Sinai (<a class=\"bibleref\" href=\"/passage/?search=Exod 19:18\">Ex. 19:18</a>, <a class=\"bibleref\" href=\"/passage/?search=Exod 19:19\">19</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,68,9", "psalms,68,10" ],
+  "verses" : [ {
+    "verse" : "psalms,68,9",
+    "text" : "You gave abundant showers, O God; you refreshed your weary inheritance."
+  }, {
+    "verse" : "psalms,68,10",
+    "text" : "Your people settled in it, and from your bounty, O God, you provided for the poor."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,68,9",
     "id" : 190796,
@@ -60,7 +90,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 68:9\">68:9</a></b> <b>Rain in abundance.</b> An essential blessing in a land not known for rainfall. Long droughts had devastating effects (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 17-1Kgs 19\">1 Kin. 17–19</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,68,11" ],
+  "verses" : [ {
+    "verse" : "psalms,68,11",
+    "text" : "The Lord announced the word, and great was the company of those who proclaimed it:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,68,11",
     "id" : 190797,
@@ -68,7 +101,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 68:11\">68:11</a></b> <b>great host.</b> The word is a military term.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,68,12", "psalms,68,13", "psalms,68,14", "psalms,68,15" ],
+  "verses" : [ {
+    "verse" : "psalms,68,12",
+    "text" : "\"Kings and armies flee in haste; in the camps men divide the plunder."
+  }, {
+    "verse" : "psalms,68,13",
+    "text" : "Even while you sleep among the campfires, the wings of my dove are sheathed with silver, its feathers with shining gold.\""
+  }, {
+    "verse" : "psalms,68,14",
+    "text" : "When the Almighty scattered the kings in the land, it was like snow fallen on Zalmon."
+  }, {
+    "verse" : "psalms,68,15",
+    "text" : "The mountains of Bashan are majestic mountains; rugged are the mountains of Bashan."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,68,12",
     "id" : 190798,
@@ -76,7 +121,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 68:12\">68:12</a></b> <b>divide the spoil.</b> See <a class=\"bibleref\" href=\"/passage/?search=Judg 5:30\">Judg. 5:30</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,68,16", "psalms,68,17" ],
+  "verses" : [ {
+    "verse" : "psalms,68,16",
+    "text" : "Why gaze in envy, O rugged mountains, at the mountain where God chooses to reign, where the LORD himself will dwell forever?"
+  }, {
+    "verse" : "psalms,68,17",
+    "text" : "The chariots of God are tens of thousands and thousands of thousands; the Lord has come from Sinai into his sanctuary."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,68,16",
     "id" : 190799,
@@ -84,7 +135,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 68:16\">68:16</a></b> <b>the mount that God desired for his abode.</b> Though the Bashan mountains are physically majestic, far more imposing than Zion, the latter is surpassing because Zion’s majesty is spiritual, not physical.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,68,18" ],
+  "verses" : [ {
+    "verse" : "psalms,68,18",
+    "text" : "When you ascended on high, you led captives in your train; you received gifts from men, even from the rebellious- that you, O LORD God, might dwell there."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,68,18",
     "id" : 190800,

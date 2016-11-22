@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,7,1" ],
+  "verses" : [ {
+    "verse" : "proverbs,7,1",
+    "text" : "My son, keep my words and store up my commands within you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,7,1-proverbs,7,27",
     "id" : 191775,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 7:1\">7:1</a></b> <b>commandments.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Prov 3:1\">3:1</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,7,2" ],
+  "verses" : [ {
+    "verse" : "proverbs,7,2",
+    "text" : "Keep my commands and you will live; guard my teachings as the apple of your eye."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,7,2",
     "id" : 191777,
@@ -20,7 +26,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 7:2\">7:2</a></b> <b>live.</b> See notes <a class=\"bibleref\" href=\"/passage/?search=Prov 2:18\">2:18</a> and <a class=\"bibleref\" href=\"/passage/?search=Prov 3:2\">3:2</a>.</p><p><b>apple of your eye.</b> Lit. “the little man of your eye,” a reference to the pupil, in which the image of the observer is reflected. The pupil admits light to the eye and must be protected from all harm (cf. <a class=\"bibleref\" href=\"/passage/?search=Deut 32:10\">Deut. 32:10</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 17:8\">Ps. 17:8</a>; <a class=\"bibleref\" href=\"/passage/?search=Zech 2:8\">Zech. 2:8</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,7,3" ],
+  "verses" : [ {
+    "verse" : "proverbs,7,3",
+    "text" : "Bind them on your fingers; write them on the tablet of your heart."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,7,3",
     "id" : 191778,
@@ -28,7 +37,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 7:3\">7:3</a></b> See <a class=\"bibleref\" href=\"/passage/?search=Prov 3:3\">3:3</a> and notes. The procedures outlined in <a class=\"bibleref\" href=\"/passage/?search=Prov 3:1-Prov 3:3\">vv. 1–3</a> are an aspect of wisdom’s method. The traditions are handed down in order to mold life and character.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,7,4", "proverbs,7,5" ],
+  "verses" : [ {
+    "verse" : "proverbs,7,4",
+    "text" : "Say to wisdom, \"You are my sister,\" and call understanding your kinsman;"
+  }, {
+    "verse" : "proverbs,7,5",
+    "text" : "they will keep you from the adulteress, from the wayward wife with her seductive words."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,7,4",
     "id" : 191779,

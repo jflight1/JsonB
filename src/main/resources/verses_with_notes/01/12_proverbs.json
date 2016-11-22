@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "proverbs,3,9", "proverbs,3,10" ],
+  "verses" : [ {
+    "verse" : "proverbs,3,9",
+    "text" : "Honor the LORD with your wealth, with the firstfruits of all your crops;"
+  }, {
+    "verse" : "proverbs,3,10",
+    "text" : "then your barns will be filled to overflowing, and your vats will brim over with new wine."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,3,1-proverbs,3,12",
     "id" : 191681,

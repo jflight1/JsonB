@@ -1,8 +1,32 @@
 [ {
-  "singleVerses" : [ "luke,14,7", "luke,14,8", "luke,14,9" ],
+  "verses" : [ {
+    "verse" : "luke,14,7",
+    "text" : "When he noticed how the guests picked the places of honor at the table, he told them this parable:"
+  }, {
+    "verse" : "luke,14,8",
+    "text" : "\"When someone invites you to a wedding feast, do not take the place of honor, for a person more distinguished than you may have been invited."
+  }, {
+    "verse" : "luke,14,9",
+    "text" : "If so, the host who invited both of you will come and say to you, 'Give this man your seat.' Then, humiliated, you will have to take the least important place."
+  } ],
   "rsbNotes" : [ ]
 }, {
-  "singleVerses" : [ "luke,14,10", "luke,14,11", "luke,14,12", "luke,14,13", "luke,14,14" ],
+  "verses" : [ {
+    "verse" : "luke,14,10",
+    "text" : "But when you are invited, take the lowest place, so that when your host comes, he will say to you, 'Friend, move up to a better place.' Then you will be honored in the presence of all your fellow guests."
+  }, {
+    "verse" : "luke,14,11",
+    "text" : "For everyone who exalts himself will be humbled, and he who humbles himself will be exalted.\""
+  }, {
+    "verse" : "luke,14,12",
+    "text" : "Then Jesus said to his host, \"When you give a luncheon or dinner, do not invite your friends, your brothers or relatives, or your rich neighbors; if you do, they may invite you back and so you will be repaid."
+  }, {
+    "verse" : "luke,14,13",
+    "text" : "But when you give a banquet, invite the poor, the crippled, the lame, the blind,"
+  }, {
+    "verse" : "luke,14,14",
+    "text" : "and you will be blessed. Although they cannot repay you, you will be repaid at the resurrection of the righteous.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,14,10",
     "id" : 196639,
@@ -10,7 +34,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 14:10\">14:10</a></b> Jesus is not giving worldly advice but advocating genuine humility, as <a class=\"bibleref\" href=\"/passage/?search=Luke 14:11\">v. 11</a> shows (cf. <a class=\"bibleref\" href=\"/passage/?search=Luke 18:14\">18:14</a>; <a class=\"bibleref\" href=\"/passage/?search=Matt 23:12\">Matt. 23:12</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,14,15" ],
+  "verses" : [ {
+    "verse" : "luke,14,15",
+    "text" : "When one of those at the table with him heard this, he said to Jesus, \"Blessed is the man who will eat at the feast in the kingdom of God.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,14,15",
     "id" : 196640,
@@ -18,7 +45,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 14:15\">14:15</a></b> <b>Blessed is everyone who.</b> A pious and conventional utterance, perhaps meant to change the subject.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,14,16", "luke,14,17" ],
+  "verses" : [ {
+    "verse" : "luke,14,16",
+    "text" : "Jesus replied: \"A certain man was preparing a great banquet and invited many guests."
+  }, {
+    "verse" : "luke,14,17",
+    "text" : "At the time of the banquet he sent his servant to tell those who had been invited, 'Come, for everything is now ready.'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,14,16-luke,14,17",
     "id" : 196641,
@@ -26,7 +59,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 14:16\">14:16</a>, <a class=\"bibleref\" href=\"/passage/?search=Luke 14:17\">17</a></b> Evidently those invited accepted the invitation; none is said to have declined. A second invitation when all was ready was customary (cf. <a class=\"bibleref\" href=\"/passage/?search=Esth 5:8\">Esth. 5:8</a>; <a class=\"bibleref\" href=\"/passage/?search=Esth 6:14\">6:14</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,14,18", "luke,14,19", "luke,14,20" ],
+  "verses" : [ {
+    "verse" : "luke,14,18",
+    "text" : "\"But they all alike began to make excuses. The first said, 'I have just bought a field, and I must go and see it. Please excuse me.'"
+  }, {
+    "verse" : "luke,14,19",
+    "text" : "\"Another said, 'I have just bought five yoke of oxen, and I'm on my way to try them out. Please excuse me.'"
+  }, {
+    "verse" : "luke,14,20",
+    "text" : "\"Still another said, 'I just got married, so I can't come.'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,14,18-luke,14,20",
     "id" : 196642,
@@ -34,7 +76,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 14:18-Luke 14:20\">14:18–20</a></b> The excuses are transparently dishonest. No one buys a field or oxen without prior inspection, and if anyone did there was no hurry—the field and the oxen would be there tomorrow. The man who had married might cite <a class=\"bibleref\" href=\"/passage/?search=Deut 24:5\">Deut. 24:5</a>, but that freed a man from military service, not social contacts.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,14,21", "luke,14,22", "luke,14,23", "luke,14,24", "luke,14,25" ],
+  "verses" : [ {
+    "verse" : "luke,14,21",
+    "text" : "\"The servant came back and reported this to his master. Then the owner of the house became angry and ordered his servant, 'Go out quickly into the streets and alleys of the town and bring in the poor, the crippled, the blind and the lame.'"
+  }, {
+    "verse" : "luke,14,22",
+    "text" : "\"'Sir,' the servant said, 'what you ordered has been done, but there is still room.'"
+  }, {
+    "verse" : "luke,14,23",
+    "text" : "\"Then the master told his servant, 'Go out to the roads and country lanes and make them come in, so that my house will be full."
+  }, {
+    "verse" : "luke,14,24",
+    "text" : "I tell you, not one of those men who were invited will get a taste of my banquet.'\""
+  }, {
+    "verse" : "luke,14,25",
+    "text" : "Large crowds were traveling with Jesus, and turning to them he said:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,14,21-luke,14,24",
     "id" : 196643,
@@ -42,7 +99,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 14:21-Luke 14:24\">14:21–24</a></b> This parable is a prophecy of the extension of the gospel to those the Pharisees thought unworthy. The “poor and crippled and blind and lame” (<a class=\"bibleref\" href=\"/passage/?search=Luke 14:21\">v. 21</a>) represent the despised Jews who were not able to observe the traditional laws of ritual purity (sometimes called “the people of the land”), while those outside the city along the “highways and hedges” (<a class=\"bibleref\" href=\"/passage/?search=Luke 14:23\">v. 23</a>) represent the Gentiles. The parable concludes with a warning to the elite of Israel who reject the Messiah that they will not be given a second chance.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,14,26" ],
+  "verses" : [ {
+    "verse" : "luke,14,26",
+    "text" : "\"If anyone comes to me and does not hate his father and mother, his wife and children, his brothers and sisters--yes, even his own life--he cannot be my disciple."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,14,26",
     "id" : 196644,
@@ -50,7 +110,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 14:26\">14:26</a></b> <b>hate.</b> This means to love less (cf. <a class=\"bibleref\" href=\"/passage/?search=Gen 29:31\">Gen. 29:31</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 29:33\">33</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 21:15-Deut 21:17\">Deut. 21:15–17</a>, where “unloved” translates a word meaning “hated”). Discipleship means loving the Master so much that all other loves are hatred by comparison.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,14,27" ],
+  "verses" : [ {
+    "verse" : "luke,14,27",
+    "text" : "And anyone who does not carry his cross and follow me cannot be my disciple."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,14,27",
     "id" : 196645,
@@ -58,7 +121,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 14:27\">14:27</a></b> <b>bear his own cross.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Luke 9:23-Luke 9:25\">9:23–25</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,14,28", "luke,14,29", "luke,14,30", "luke,14,31", "luke,14,32", "luke,14,33" ],
+  "verses" : [ {
+    "verse" : "luke,14,28",
+    "text" : "\"Suppose one of you wants to build a tower. Will he not first sit down and estimate the cost to see if he has enough money to complete it?"
+  }, {
+    "verse" : "luke,14,29",
+    "text" : "For if he lays the foundation and is not able to finish it, everyone who sees it will ridicule him,"
+  }, {
+    "verse" : "luke,14,30",
+    "text" : "saying, 'This fellow began to build and was not able to finish.'"
+  }, {
+    "verse" : "luke,14,31",
+    "text" : "\"Or suppose a king is about to go to war against another king. Will he not first sit down and consider whether he is able with ten thousand men to oppose the one coming against him with twenty thousand?"
+  }, {
+    "verse" : "luke,14,32",
+    "text" : "If he is not able, he will send a delegation while the other is still a long way off and will ask for terms of peace."
+  }, {
+    "verse" : "luke,14,33",
+    "text" : "In the same way, any of you who does not give up everything he has cannot be my disciple."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,14,28",
     "id" : 196646,
@@ -66,7 +147,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 14:28\">14:28</a></b> Calculating the cost is important before undertaking any serious project. The “tower” could be a watchtower or a farm building. That one must “sit down” points to a careful and unhurried process.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,14,34", "luke,14,35" ],
+  "verses" : [ {
+    "verse" : "luke,14,34",
+    "text" : "\"Salt is good, but if it loses its saltiness, how can it be made salty again?"
+  }, {
+    "verse" : "luke,14,35",
+    "text" : "It is fit neither for the soil nor for the manure pile; it is thrown out. \"He who has ears to hear, let him hear.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,14,34",
     "id" : 196647,

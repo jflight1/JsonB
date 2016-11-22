@@ -1,8 +1,20 @@
 [ {
-  "singleVerses" : [ "1corinthians,3,5" ],
+  "verses" : [ {
+    "verse" : "1corinthians,3,5",
+    "text" : "What, after all, is Apollos? And what is Paul? Only servants, through whom you came to believe--as the Lord has assigned to each his task."
+  } ],
   "rsbNotes" : [ ]
 }, {
-  "singleVerses" : [ "1corinthians,3,6", "1corinthians,3,7", "1corinthians,3,8" ],
+  "verses" : [ {
+    "verse" : "1corinthians,3,6",
+    "text" : "I planted the seed, Apollos watered it, but God made it grow."
+  }, {
+    "verse" : "1corinthians,3,7",
+    "text" : "So neither he who plants nor he who waters is anything, but only God, who makes things grow."
+  }, {
+    "verse" : "1corinthians,3,8",
+    "text" : "The man who plants and the man who waters have one purpose, and each will be rewarded according to his own labor."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1corinthians,3,6",
     "id" : 198003,
@@ -10,7 +22,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Cor 3:6\">3:6</a></b> <b>I planted.</b> Paul’s aim was to preach the gospel in places where the message of Christ had not been heard (<a class=\"bibleref\" href=\"/passage/?search=Rom 15:20\">Rom. 15:20</a>).</p><p><b>Apollos.</b> See note 1:12.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1corinthians,3,9" ],
+  "verses" : [ {
+    "verse" : "1corinthians,3,9",
+    "text" : "For we are God's fellow workers; you are God's field, God's building."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1corinthians,3,9",
     "id" : 198004,
@@ -18,7 +33,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Cor 3:9\">3:9</a></b> <b>God’s fellow workers.</b> Paul may mean either that Christian workers are co-laborers with God or that Christians who are co-laborers with one another belong to God. Paul’s point is clear from the context: God alone is responsible for the success of Christian ministry.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1corinthians,3,10", "1corinthians,3,11" ],
+  "verses" : [ {
+    "verse" : "1corinthians,3,10",
+    "text" : "By the grace God has given me, I laid a foundation as an expert builder, and someone else is building on it. But each one should be careful how he builds."
+  }, {
+    "verse" : "1corinthians,3,11",
+    "text" : "For no one can lay any foundation other than the one already laid, which is Jesus Christ."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1corinthians,3,10",
     "id" : 198005,
@@ -26,7 +47,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Cor 3:10\">3:10</a></b> <b>skilled.</b> A clear allusion to the previous discussion of true wisdom (<a class=\"bibleref\" href=\"/passage/?search=1Cor 1:17\">1:17</a>; <a class=\"bibleref\" href=\"/passage/?search=1Cor 2:9\">2:9</a>, <a class=\"bibleref\" href=\"/passage/?search=1Cor 2:10\">10</a> notes).</p><p><b>foundation.</b> As one called to proclaim the gospel where it was not known (<a class=\"bibleref\" href=\"/passage/?search=1Cor 2:6\">v. 6</a> note), Paul had resolved to preach nothing but Christ crucified (<a class=\"bibleref\" href=\"/passage/?search=1Cor 2:2\">2:2</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1corinthians,3,12", "1corinthians,3,13", "1corinthians,3,14", "1corinthians,3,15" ],
+  "verses" : [ {
+    "verse" : "1corinthians,3,12",
+    "text" : "If any man builds on this foundation using gold, silver, costly stones, wood, hay or straw,"
+  }, {
+    "verse" : "1corinthians,3,13",
+    "text" : "his work will be shown for what it is, because the Day will bring it to light. It will be revealed with fire, and the fire will test the quality of each man's work."
+  }, {
+    "verse" : "1corinthians,3,14",
+    "text" : "If what he has built survives, he will receive his reward."
+  }, {
+    "verse" : "1corinthians,3,15",
+    "text" : "If it is burned up, he will suffer loss; he himself will be saved, but only as one escaping through the flames."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1corinthians,3,12-1corinthians,3,15",
     "id" : 198006,
@@ -34,7 +67,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Cor 3:12-1Cor 3:15\">3:12–15</a></b> These verses address the evaluation of Christian ministry. Some who were seeking to build God’s building in Corinth, but who depend on human wisdom, were using perishable materials (“wood, hay, straw”) that will not survive the judgment of God’s fire, while the builders themselves will barely escape destruction. Paul warns the church that they, like Solomon’s temple (<a class=\"bibleref\" href=\"/passage/?search=1Chr 22:14-1Chr 22:16\">1 Chr. 22:14–16</a>), should be built up with what is lasting. See “The Final Judgment” at <a class=\"bibleref\" href=\"/passage/?search=Matt 25:41\">Matt. 25:41</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1corinthians,3,16" ],
+  "verses" : [ {
+    "verse" : "1corinthians,3,16",
+    "text" : "Don't you know that you yourselves are God's temple and that God's Spirit lives in you?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1corinthians,3,16",
     "id" : 198007,
@@ -42,7 +78,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Cor 3:16\">3:16</a></b> <b>God’s temple.</b> God signified His presence in the temple by filling it with the cloud of His glory (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 8:10\">1 Kin. 8:10</a>, <a class=\"bibleref\" href=\"/passage/?search=1Kgs 8:11\">11</a>). Now He lives in His people by filling them with the Holy Spirit. Paul’s focus here is on God’s people as a corporate whole; in 6:19 the emphasis shifts to the individual Christian’s body.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1corinthians,3,17" ],
+  "verses" : [ {
+    "verse" : "1corinthians,3,17",
+    "text" : "If anyone destroys God's temple, God will destroy him; for God's temple is sacred, and you are that temple."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1corinthians,3,17",
     "id" : 198008,
@@ -50,7 +89,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Cor 3:17\">3:17</a></b> <b>God will destroy him.</b> Paul leaves open the possibility that some of the Christian builders in Corinth are not only using perishable material but are actively destroying God’s work. They will not be spared at the Judgment.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1corinthians,3,18", "1corinthians,3,19", "1corinthians,3,20" ],
+  "verses" : [ {
+    "verse" : "1corinthians,3,18",
+    "text" : "Do not deceive yourselves. If any one of you thinks he is wise by the standards of this age, he should become a \"fool\" so that he may become wise."
+  }, {
+    "verse" : "1corinthians,3,19",
+    "text" : "For the wisdom of this world is foolishness in God's sight. As it is written: \"He catches the wise in their craftiness\";"
+  }, {
+    "verse" : "1corinthians,3,20",
+    "text" : "and again, \"The Lord knows that the thoughts of the wise are futile.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1corinthians,3,18-1corinthians,3,20",
     "id" : 198009,
@@ -58,7 +106,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Cor 3:18-1Cor 3:20\">3:18–20</a></b> Here the apostle returns more directly to the contrast between human and divine wisdom (<a class=\"bibleref\" href=\"/passage/?search=1Cor 3:10\">v. 10</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1corinthians,3,21", "1corinthians,3,22", "1corinthians,3,23" ],
+  "verses" : [ {
+    "verse" : "1corinthians,3,21",
+    "text" : "So then, no more boasting about men! All things are yours,"
+  }, {
+    "verse" : "1corinthians,3,22",
+    "text" : "whether Paul or Apollos or Cephas or the world or life or death or the present or the future--all are yours,"
+  }, {
+    "verse" : "1corinthians,3,23",
+    "text" : "and you are of Christ, and Christ is of God."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1corinthians,3,21",
     "id" : 198010,

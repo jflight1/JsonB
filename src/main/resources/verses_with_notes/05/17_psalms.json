@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "psalms,113,1", "psalms,113,2" ],
+  "verses" : [ {
+    "verse" : "psalms,113,1",
+    "text" : "Praise the LORD. Praise, O servants of the LORD, praise the name of the LORD."
+  }, {
+    "verse" : "psalms,113,2",
+    "text" : "Let the name of the LORD be praised, both now and forevermore."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,113,1-psalms,113,9",
     "id" : 191283,
@@ -12,7 +18,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 113:1\">113:1</a></b> <b>O servants of the <span class=\"small-caps\">Lord.</span></b> A priest leads the faithful in worship.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,113,3" ],
+  "verses" : [ {
+    "verse" : "psalms,113,3",
+    "text" : "From the rising of the sun to the place where it sets, the name of the LORD is to be praised."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,113,3",
     "id" : 191285,
@@ -20,7 +29,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 113:3\">113:3</a></b> <b>From the rising of the sun to its setting.</b> That is, from east to west, everywhere.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,113,4" ],
+  "verses" : [ {
+    "verse" : "psalms,113,4",
+    "text" : "The LORD is exalted over all the nations, his glory above the heavens."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,113,4",
     "id" : 191286,
@@ -28,7 +40,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 113:4\">113:4</a></b> <b>high above all nations.</b> In the ancient Near East each nation had its imagined national gods. Only the God of Israel could proclaim Himself the true God of all nations.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,113,5" ],
+  "verses" : [ {
+    "verse" : "psalms,113,5",
+    "text" : "Who is like the LORD our God, the One who sits enthroned on high,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,113,5",
     "id" : 191287,
@@ -36,7 +51,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 113:5\">113:5</a></b> <b>Who is like.</b> Yahweh is incomparable.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,113,6", "psalms,113,7", "psalms,113,8", "psalms,113,9" ],
+  "verses" : [ {
+    "verse" : "psalms,113,6",
+    "text" : "who stoops down to look on the heavens and the earth?"
+  }, {
+    "verse" : "psalms,113,7",
+    "text" : "He raises the poor from the dust and lifts the needy from the ash heap;"
+  }, {
+    "verse" : "psalms,113,8",
+    "text" : "he seats them with princes, with the princes of their people."
+  }, {
+    "verse" : "psalms,113,9",
+    "text" : "He settles the barren woman in her home as a happy mother of children. Praise the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,113,6",
     "id" : 191288,
@@ -44,7 +71,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 113:6\">113:6</a></b> <b>who looks far down.</b> Part of God’s greatness is His condescension, as at Bethlehem (<a class=\"bibleref\" href=\"/passage/?search=Luke 2:4-Luke 2:7\">Luke 2:4–7</a>; <a class=\"bibleref\" href=\"/passage/?search=Phil 2:5-Phil 2:11\">Phil. 2:5–11</a>).</p><p><b>on the heavens.</b> Often the heavens are spoken of as the dwelling place of God, but strictly speaking, God’s infinite transcendence is such that even the heavens are unable to contain Him (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 8:27\">1 Kin. 8:27</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,114,1" ],
+  "verses" : [ {
+    "verse" : "psalms,114,1",
+    "text" : "When Israel came out of Egypt, the house of Jacob from a people of foreign tongue,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,114,1-psalms,114,8",
     "id" : 191289,
@@ -57,7 +87,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 114:1\">114:1</a></b> <b>went out from Egypt.</b> The Exodus was the most tremendous display of God’s redemptive power during the Old Testament period. It was constantly remembered and became a source of encouragement for later generations, including Christians who perceive themselves as “strangers and exiles” in search of their true “homeland” (<a class=\"bibleref\" href=\"/passage/?search=Heb 11:13\">Heb. 11:13</a>, <a class=\"bibleref\" href=\"/passage/?search=Heb 11:14\">14</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,114,2" ],
+  "verses" : [ {
+    "verse" : "psalms,114,2",
+    "text" : "Judah became God's sanctuary, Israel his dominion."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,114,2",
     "id" : 191291,
@@ -65,7 +98,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 114:2\">114:2</a></b> <b>his sanctuary.</b> The people and their country were God’s sanctuary because God chose to be present with them. The tabernacle, and then the temple, were symbols of His presence.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,114,3" ],
+  "verses" : [ {
+    "verse" : "psalms,114,3",
+    "text" : "The sea looked and fled, the Jordan turned back;"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,114,3",
     "id" : 191292,
@@ -73,7 +109,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 114:3\">114:3</a></b> <b>The sea looked.</b> The Red Sea is personified (<a class=\"bibleref\" href=\"/passage/?search=Exod 14\">Ex. 14</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 15\">15</a>), poetically describing the crossing of the sea as a conflict between it and the Lord.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,114,4" ],
+  "verses" : [ {
+    "verse" : "psalms,114,4",
+    "text" : "the mountains skipped like rams, the hills like lambs."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,114,4",
     "id" : 191293,
@@ -81,7 +120,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 114:4\">114:4</a></b> <b>The mountains.</b> The mountains were symbols of power, firmness, and endurance (<a class=\"bibleref\" href=\"/passage/?search=Ps 46\">Ps. 46</a>). God’s appearance shakes them like frightened rams.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,114,5", "psalms,114,6" ],
+  "verses" : [ {
+    "verse" : "psalms,114,5",
+    "text" : "Why was it, O sea, that you fled, O Jordan, that you turned back,"
+  }, {
+    "verse" : "psalms,114,6",
+    "text" : "you mountains, that you skipped like rams, you hills, like lambs?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,114,5",
     "id" : 191294,
@@ -89,7 +134,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 114:5\">114:5</a></b> <b>What ails you.</b> The psalmist questions the poetically personified sea and mountains making explicit what was implicit in the first two stanzas of the poem.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,114,7" ],
+  "verses" : [ {
+    "verse" : "psalms,114,7",
+    "text" : "Tremble, O earth, at the presence of the Lord, at the presence of the God of Jacob,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,114,7",
     "id" : 191295,
@@ -97,7 +145,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 114:7\">114:7</a></b> <b>Tremble.</b> When God comes in judgment and with power, the inhabitants of the earth should fear because they will be objects of His judgment. Nothing can stand in His way.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,114,8" ],
+  "verses" : [ {
+    "verse" : "psalms,114,8",
+    "text" : "who turned the rock into a pool, the hard rock into springs of water."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,114,8",
     "id" : 191296,

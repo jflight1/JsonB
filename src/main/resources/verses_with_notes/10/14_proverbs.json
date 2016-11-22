@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,25,15" ],
+  "verses" : [ {
+    "verse" : "proverbs,25,15",
+    "text" : "Through patience a ruler can be persuaded, and a gentle tongue can break a bone."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,25,15",
     "id" : 192239,

@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,12,5" ],
+  "verses" : [ {
+    "verse" : "proverbs,12,5",
+    "text" : "The plans of the righteous are just, but the advice of the wicked is deceitful."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 12:5\">12:5</a></b> The character of a person establishes principles for action. There is an implicit warning against trusting people on the basis of appearances.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,12,6" ],
+  "verses" : [ {
+    "verse" : "proverbs,12,6",
+    "text" : "The words of the wicked lie in wait for blood, but the speech of the upright rescues them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,12,6",
     "id" : 191902,
@@ -20,7 +26,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 12:6\">12:6</a></b> See <a class=\"bibleref\" href=\"/passage/?search=Prov 1:11\">1:11</a>. This verse stresses the power of words for good or evil.</p><p><b>delivers them.</b> That is, they will rescue the victims of the wicked.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,12,7" ],
+  "verses" : [ {
+    "verse" : "proverbs,12,7",
+    "text" : "Wicked men are overthrown and are no more, but the house of the righteous stands firm."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,12,7",
     "id" : 191903,

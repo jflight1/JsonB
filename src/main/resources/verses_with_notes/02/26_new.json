@@ -1,5 +1,14 @@
 [ {
-  "singleVerses" : [ "mark,8,11", "mark,8,12", "mark,8,13" ],
+  "verses" : [ {
+    "verse" : "mark,8,11",
+    "text" : "The Pharisees came and began to question Jesus. To test him, they asked him for a sign from heaven."
+  }, {
+    "verse" : "mark,8,12",
+    "text" : "He sighed deeply and said, \"Why does this generation ask for a miraculous sign? I tell you the truth, no sign will be given to it.\""
+  }, {
+    "verse" : "mark,8,13",
+    "text" : "Then he left them, got back into the boat and crossed to the other side."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,8,11",
     "id" : 196104,
@@ -7,7 +16,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 8:11\">8:11</a></b> <b>Pharisees.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Mark 2:16\">2:16</a>.</p><p><b>sign from heaven.</b> Jesus does not perform signs on demand, especially not for those “testing” Him (cf. <a class=\"bibleref\" href=\"/passage/?search=Mark 1:13\">1:13</a>; <a class=\"bibleref\" href=\"/passage/?search=Matt 4:1-Matt 4:11\">Matt. 4:1–11</a>, where the same Greek verb is translated “tempting”). The Pharisees wanted a sign to confirm that Jesus was the political messiah they were expecting (v. 15 note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,8,14" ],
+  "verses" : [ {
+    "verse" : "mark,8,14",
+    "text" : "The disciples had forgotten to bring bread, except for one loaf they had with them in the boat."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,8,14",
     "id" : 196105,
@@ -15,7 +27,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 8:14\">8:14</a></b> <b>one loaf.</b> This narrative detail ties this passage and the two feeding miracles together.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,8,15", "mark,8,16" ],
+  "verses" : [ {
+    "verse" : "mark,8,15",
+    "text" : "\"Be careful,\" Jesus warned them. \"Watch out for the yeast of the Pharisees and that of Herod.\""
+  }, {
+    "verse" : "mark,8,16",
+    "text" : "They discussed this with one another and said, \"It is because we have no bread.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,8,15",
     "id" : 196106,
@@ -23,7 +41,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 8:15\">8:15</a></b> <b>leaven of the Pharisees and . . . Herod.</b> Jesus uses an everyday ingredient of bread as a metaphor (<a class=\"bibleref\" href=\"/passage/?search=Luke 12:1\">Luke 12:1</a> note). What seems like an innocent, indeed legitimate request for a sign (on Herod’s desire for miracles, see <a class=\"bibleref\" href=\"/passage/?search=Luke 23:8\">Luke 23:8</a>) is actually a rejection of His ministry and all His previous signs. Jesus is warning His disciples against superficial conceptions of His role and preparing them for His teaching concerning the true meaning of His coming and of His cross (vv. 27, 31). Such teaching remained incomprehensible to many Jews (<a class=\"bibleref\" href=\"/passage/?search=1Cor 1:22\">1 Cor. 1:22</a>, <a class=\"bibleref\" href=\"/passage/?search=1Cor 1:23\">23</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,8,17", "mark,8,18", "mark,8,19", "mark,8,20" ],
+  "verses" : [ {
+    "verse" : "mark,8,17",
+    "text" : "Aware of their discussion, Jesus asked them: \"Why are you talking about having no bread? Do you still not see or understand? Are your hearts hardened?"
+  }, {
+    "verse" : "mark,8,18",
+    "text" : "Do you have eyes but fail to see, and ears but fail to hear? And don't you remember?"
+  }, {
+    "verse" : "mark,8,19",
+    "text" : "When I broke the five loaves for the five thousand, how many basketfuls of pieces did you pick up?Twelve,\" they replied."
+  }, {
+    "verse" : "mark,8,20",
+    "text" : "\"And when I broke the seven loaves for the four thousand, how many basketfuls of pieces did you pick up?\" They answered, \"Seven.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,8,17",
     "id" : 196107,
@@ -31,7 +61,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 8:17\">8:17</a></b> <b>no bread.</b> The disciples’ thoughts are still dominated by material concerns, leaving them blind to the true vocation of their master and open to being tempted by the “leaven” of the Pharisees.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,8,21" ],
+  "verses" : [ {
+    "verse" : "mark,8,21",
+    "text" : "He said to them, \"Do you still not understand?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,8,21",
     "id" : 196108,
@@ -39,7 +72,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 8:21\">8:21</a></b> <b>Do you not yet understand.</b> Here Jesus’ role in teaching and training the Twelve comes into the foreground of the narrative (<a class=\"bibleref\" href=\"/passage/?search=Mark 3:14\">3:14</a> note). His question to them is a reproach for failing to realize that the Lord who miraculously provided for five thousand and four thousand men with their families is capable of taking care of twelve men’s physical needs. Indeed, they should know that Jesus is worthy of their total faith in all that He will reveal to them in the days to come.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,8,22" ],
+  "verses" : [ {
+    "verse" : "mark,8,22",
+    "text" : "They came to Bethsaida, and some people brought a blind man and begged Jesus to touch him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,8,22",
     "id" : 196109,
@@ -47,7 +83,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 8:22\">8:22</a></b> <b>Bethsaida.</b> A fishing town on the northern shore of the Sea of Galilee and home of Philip, Andrew, and Peter.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,8,23" ],
+  "verses" : [ {
+    "verse" : "mark,8,23",
+    "text" : "He took the blind man by the hand and led him outside the village. When he had spit on the man's eyes and put his hands on him, Jesus asked, \"Do you see anything?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,8,23",
     "id" : 196110,
@@ -55,7 +94,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 8:23\">8:23</a></b> <b>spit on his eyes.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Mark 7:33\">7:33</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,8,24", "mark,8,25" ],
+  "verses" : [ {
+    "verse" : "mark,8,24",
+    "text" : "He looked up and said, \"I see people; they look like trees walking around.\""
+  }, {
+    "verse" : "mark,8,25",
+    "text" : "Once more Jesus put his hands on the man's eyes. Then his eyes were opened, his sight was restored, and he saw everything clearly."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,8,24",
     "id" : 196111,
@@ -63,7 +108,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 8:24\">8:24</a></b> <b>trees, walking.</b> The restoration of sight in this case is gradual.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,8,26" ],
+  "verses" : [ {
+    "verse" : "mark,8,26",
+    "text" : "Jesus sent him home, saying, \"Don't go into the village. \""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,8,26",
     "id" : 196112,
@@ -71,7 +119,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 8:26\">8:26</a></b> <b>Do not even enter the village.</b> Jesus had led him out of the town (<a class=\"bibleref\" href=\"/passage/?search=Mark 8:23\">v. 23</a>), so it is likely that the message of this miracle was intended for His disciples. They must realize that Jesus is gradually healing their spiritual sight. While in <a class=\"bibleref\" href=\"/passage/?search=Mark 8:21\">v. 21</a> they still do not understand who Jesus is, they too, like the blind man (<a class=\"bibleref\" href=\"/passage/?search=Mark 8:25\">v. 25</a>), are about to see “clearly” the mystery of His person (<a class=\"bibleref\" href=\"/passage/?search=Mark 8:27-Mark 8:30\">vv. 27–30</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,8,27", "mark,8,28" ],
+  "verses" : [ {
+    "verse" : "mark,8,27",
+    "text" : "Jesus and his disciples went on to the villages around Caesarea Philippi. On the way he asked them, \"Who do people say I am?\""
+  }, {
+    "verse" : "mark,8,28",
+    "text" : "They replied, \"Some say John the Baptist; others say Elijah; and still others, one of the prophets.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,8,27",
     "id" : 196113,
@@ -79,7 +133,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 8:27\">8:27</a></b> <b>Caesarea Philippi.</b> A town at the foot of Mount Hermon and close to the source of the Jordan river. Herod the Great built a marble temple to Caesar Augustus there, and his son Philip changed the town’s name from Paneas to Caesarea. To distinguish it from the other Caesarea, the well-known Mediterranean port, it was known as Philip’s Caesarea.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,8,29" ],
+  "verses" : [ {
+    "verse" : "mark,8,29",
+    "text" : "\"But what about you?\" he asked. \"Who do you say I am?\" Peter answered, \"You are the Christ. \""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,8,29",
     "id" : 196114,
@@ -87,7 +144,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 8:29\">8:29</a></b> <b>But who do you say that I am.</b> Again the preeminence of the Twelve in the revelation of the person of Jesus is emphasized (<a class=\"bibleref\" href=\"/passage/?search=Mark 8:21\">v. 21</a>; <a class=\"bibleref\" href=\"/passage/?search=Mark 3:14\">3:14</a>). Jesus dismisses what people say (<a class=\"bibleref\" href=\"/passage/?search=Mark 3:27\">v. 27</a>), but retains as divinely revealed truth the confession of the Twelve (<a class=\"bibleref\" href=\"/passage/?search=Matt 16:16\">Matt. 16:16</a>, <a class=\"bibleref\" href=\"/passage/?search=Matt 16:17\">17</a> and notes).</p><p><b>the Christ.</b> Lit. “the anointed One” (<a class=\"bibleref\" href=\"/passage/?search=1Sam 2:10\">1 Sam. 2:10</a>; <a class=\"bibleref\" href=\"/passage/?search=Matt 1:1\">Matt. 1:1</a> and notes). This is the first time in Mark’s narrative that the name “Christ” appears (it does appear in the title at 1:1). Peter’s confession (as spokesperson for the Twelve), along with the Transfiguration that follows (9:2–13), are a high point in the revelation of Jesus’ person and a turning point in His earthly ministry. From now on His teaching will concentrate on His impending death, and He will soon begin to travel to Jerusalem.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,8,30" ],
+  "verses" : [ {
+    "verse" : "mark,8,30",
+    "text" : "Jesus warned them not to tell anyone about him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,8,30",
     "id" : 196115,
@@ -95,7 +155,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 8:30\">8:30</a></b> <b>tell no one.</b> See notes <a class=\"bibleref\" href=\"/passage/?search=Mark 1:34\">1:34</a>; <a class=\"bibleref\" href=\"/passage/?search=Mark 5:19\">5:19</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Mark 9:9\">9:9</a>. Strangely, at this high point of revelation comes the order to keep it secret. But with hindsight the reason is clear. Jesus will not allow political notions of messiahship to compromise His true calling to be the suffering Messiah whose essentially moral and spiritual work of redemption will be total.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,8,31" ],
+  "verses" : [ {
+    "verse" : "mark,8,31",
+    "text" : "He then began to teach them that the Son of Man must suffer many things and be rejected by the elders, chief priests and teachers of the law, and that he must be killed and after three days rise again."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,8,31-mark,10,52",
     "id" : 196116,
@@ -108,7 +171,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 8:31\">8:31</a></b> <b>Son of Man.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Mark 2:10\">2:10</a>.</p><p><b>must.</b> Behind this small word is all the weight of scriptural prophecy and divinely ordained necessity (<a class=\"bibleref\" href=\"/passage/?search=Mark 9:31\">9:31</a>; <a class=\"bibleref\" href=\"/passage/?search=Luke 22:37\">Luke 22:37</a>; <a class=\"bibleref\" href=\"/passage/?search=Luke 24:7\">24:7</a>, <a class=\"bibleref\" href=\"/passage/?search=Luke 24:26\">26</a>, <a class=\"bibleref\" href=\"/passage/?search=Luke 24:44\">44</a>). Jesus’ predictions concerning His death and resurrection come out of His understanding of the Old Testament Scriptures.</p><p><b>suffer many things.</b> The prediction of the suffering Messiah comes particularly from <a class=\"bibleref\" href=\"/passage/?search=Isa 52:13-Isa 53:12\">Is. 52:13–53:12</a>. See also <a class=\"bibleref\" href=\"/passage/?search=Zech 9:9\">Zech. 9:9</a>; <a class=\"bibleref\" href=\"/passage/?search=Zech 12:10\">12:10</a>; <a class=\"bibleref\" href=\"/passage/?search=Zech 13:7\">13:7</a>; and the Old Testament generally for the theme of the righteous sufferer.</p><p><b>elders.</b> Lay members of the Sanhedrin, the court that governed Jewish affairs. The court was composed of elders, chief priests, and teachers of the law (the scribes).</p><p><b>chief priests.</b> Jesus predicts that the wealthy high-priestly families who were affiliated with the Sadducees will be involved in His death.</p><p><b>after three days.</b> See <a class=\"bibleref\" href=\"/passage/?search=Hos 6:2\">Hos. 6:2</a>. This is also a conventional expression for a short period.</p><p><b>rise again.</b> See <a class=\"bibleref\" href=\"/passage/?search=Isa 52:13\">Is. 52:13</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 53:10\">53:10</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Ps 110:1\">Ps. 110:1</a>; <a class=\"bibleref\" href=\"/passage/?search=Dan 7:13\">Dan. 7:13</a>, <a class=\"bibleref\" href=\"/passage/?search=Dan 7:14\">14</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,8,32" ],
+  "verses" : [ {
+    "verse" : "mark,8,32",
+    "text" : "He spoke plainly about this, and Peter took him aside and began to rebuke him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,8,32",
     "id" : 196118,
@@ -116,7 +182,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 8:32\">8:32</a></b> <b>he said this plainly.</b> In contrast to His public teaching in parables (<a class=\"bibleref\" href=\"/passage/?search=Mark 4:10\">4:10</a>, <a class=\"bibleref\" href=\"/passage/?search=Mark 4:11\">11</a>), the Twelve privately receive plain instruction (cf. <a class=\"bibleref\" href=\"/passage/?search=John 16:25\">John 16:25</a>, <a class=\"bibleref\" href=\"/passage/?search=John 16:29\">29</a>). Jesus’ clear, private teaching will become the basis of His disciples’ public preaching after Easter (<a class=\"bibleref\" href=\"/passage/?search=Acts 2:29\">Acts 2:29</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 4:13\">4:13</a>, <a class=\"bibleref\" href=\"/passage/?search=Acts 4:29\">29</a>, <a class=\"bibleref\" href=\"/passage/?search=Acts 4:31\">31</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 28:31\">28:31</a>).</p><p><b>Peter . . . began to rebuke him.</b> When even Peter, leader among the Twelve, fails to accept that the Messiah must suffer, one can appreciate the wisdom of Jesus’ secrecy regarding His messianic office. Note Paul’s remark that for many “the word of the cross is folly” (<a class=\"bibleref\" href=\"/passage/?search=1Cor 1:18\">1 Cor. 1:18</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Gal 3:13\">Gal. 3:13</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,8,33" ],
+  "verses" : [ {
+    "verse" : "mark,8,33",
+    "text" : "But when Jesus turned and looked at his disciples, he rebuked Peter. \"Get behind me, Satan!\" he said. \"You do not have in mind the things of God, but the things of men.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,8,33",
     "id" : 196119,
@@ -124,7 +193,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 8:33\">8:33</a></b> <b>Get behind me, Satan.</b> Satan is now at work even among Jesus’ own disciples, not only in Judas but even in Peter, whose intervention would have annulled the plan of redemption and accomplished Satan’s goal.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,8,34", "mark,8,35", "mark,8,36" ],
+  "verses" : [ {
+    "verse" : "mark,8,34",
+    "text" : "Then he called the crowd to him along with his disciples and said: \"If anyone would come after me, he must deny himself and take up his cross and follow me."
+  }, {
+    "verse" : "mark,8,35",
+    "text" : "For whoever wants to save his life will lose it, but whoever loses his life for me and for the gospel will save it."
+  }, {
+    "verse" : "mark,8,36",
+    "text" : "What good is it for a man to gain the whole world, yet forfeit his soul?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,8,34",
     "id" : 196120,
@@ -132,7 +210,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 8:34\">8:34</a></b> <b>take up his cross.</b> Condemned prisoners were generally made to carry the crossbar of their cross to the site of execution (cf. <a class=\"bibleref\" href=\"/passage/?search=Mark 15:21\">15:21</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,8,37" ],
+  "verses" : [ {
+    "verse" : "mark,8,37",
+    "text" : "Or what can a man give in exchange for his soul?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,8,37",
     "id" : 196121,
@@ -140,7 +221,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 8:37\">8:37</a></b> <b>in return for his life.</b> No monetary or material value can be placed on this (<a class=\"bibleref\" href=\"/passage/?search=Ps 49:7-Ps 49:9\">Ps. 49:7–9</a>, to which Jesus is perhaps alluding).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,8,38" ],
+  "verses" : [ {
+    "verse" : "mark,8,38",
+    "text" : "If anyone is ashamed of me and my words in this adulterous and sinful generation, the Son of Man will be ashamed of him when he comes in his Father's glory with the holy angels.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,8,38",
     "id" : 196122,

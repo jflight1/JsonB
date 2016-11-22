@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "john,20,1" ],
+  "verses" : [ {
+    "verse" : "john,20,1",
+    "text" : "Early on the first day of the week, while it was still dark, Mary Magdalene went to the tomb and saw that the stone had been removed from the entrance."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,20,1-john,20,31",
     "id" : 197316,
@@ -7,7 +10,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 20\">20:1–31</a></b> The four Gospels have accounts of several resurrection appearances; together with <a class=\"bibleref\" href=\"/passage/?search=Acts 1:3-Acts 1:8\">Acts 1:3–8</a> and <a class=\"bibleref\" href=\"/passage/?search=1Cor 15:5-1Cor 15:8\">1 Cor. 15:5–8</a>, there are twelve appearances, the first six in Jerusalem, four in Galilee, one on the Mount of Olives, and one on the road to Damascus.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,20,2", "john,20,3", "john,20,4" ],
+  "verses" : [ {
+    "verse" : "john,20,2",
+    "text" : "So she came running to Simon Peter and the other disciple, the one Jesus loved, and said, \"They have taken the Lord out of the tomb, and we don't know where they have put him!\""
+  }, {
+    "verse" : "john,20,3",
+    "text" : "So Peter and the other disciple started for the tomb."
+  }, {
+    "verse" : "john,20,4",
+    "text" : "Both were running, but the other disciple outran Peter and reached the tomb first."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,20,2",
     "id" : 197317,
@@ -15,7 +27,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 20:2\">20:2</a></b> <b>Peter . . . the other disciple.</b> Peter and John. See note <a class=\"bibleref\" href=\"/passage/?search=John 13:23\">13:23</a>.</p><p><b>we do not know.</b> “We” indicates that several women were there, as recorded by the other Gospels. They were the same women who stood at the foot of the Cross, perhaps with the exception of Mary, Jesus’ mother, who is not mentioned.</p><p><b>where they have laid him.</b> Neither Mary nor the disciples were expecting the Resurrection, in spite of what Jesus had told them (cf. <a class=\"bibleref\" href=\"/passage/?search=John 13:9\">v. 9</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,20,5", "john,20,6", "john,20,7", "john,20,8" ],
+  "verses" : [ {
+    "verse" : "john,20,5",
+    "text" : "He bent over and looked in at the strips of linen lying there but did not go in."
+  }, {
+    "verse" : "john,20,6",
+    "text" : "Then Simon Peter, who was behind him, arrived and went into the tomb. He saw the strips of linen lying there,"
+  }, {
+    "verse" : "john,20,7",
+    "text" : "as well as the burial cloth that had been around Jesus' head. The cloth was folded up by itself, separate from the linen."
+  }, {
+    "verse" : "john,20,8",
+    "text" : "Finally the other disciple, who had reached the tomb first, also went inside. He saw and believed."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,20,5-john,20,8",
     "id" : 197318,
@@ -23,7 +47,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 20:5-John 20:8\">20:5–8</a></b> <b>he saw the linen cloths.</b> John took the first cursory look and saw that only the burial clothes were there. Peter and John then made a closer inspection. The graveclothes were in good order (<a class=\"bibleref\" href=\"/passage/?search=John 20:7\">v. 7</a>). If someone had violated the tomb and removed the corpse, the linen cloths would not have been so well arranged, and the handkerchief would not likely have been folded.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,20,9", "john,20,10", "john,20,11" ],
+  "verses" : [ {
+    "verse" : "john,20,9",
+    "text" : "(They still did not understand from Scripture that Jesus had to rise from the dead.)"
+  }, {
+    "verse" : "john,20,10",
+    "text" : "Then the disciples went back to their homes,"
+  }, {
+    "verse" : "john,20,11",
+    "text" : "but Mary stood outside the tomb crying. As she wept, she bent over to look into the tomb"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,20,9",
     "id" : 197319,
@@ -31,7 +64,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 20:9\">20:9</a></b> <b>they did not understand the Scripture.</b> Later, as a result of Jesus’ instruction, they understood His resurrection as a necessary fulfillment of prophecy (<a class=\"bibleref\" href=\"/passage/?search=Luke 24:26\">Luke 24:26</a>, <a class=\"bibleref\" href=\"/passage/?search=Luke 24:27\">27</a>, <a class=\"bibleref\" href=\"/passage/?search=Luke 24:44-Luke 24:47\">44–47</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 2:25-Acts 2:32\">Acts 2:25–32</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 13:35-Acts 13:37\">13:35–37</a>). Clearly the disciples did not expect a resurrection, or try to invent one in order to fit their own religious view. See “The Resurrection of Jesus” at <a class=\"bibleref\" href=\"/passage/?search=Luke 24:2\">Luke 24:2</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,20,12", "john,20,13" ],
+  "verses" : [ {
+    "verse" : "john,20,12",
+    "text" : "and saw two angels in white, seated where Jesus' body had been, one at the head and the other at the foot."
+  }, {
+    "verse" : "john,20,13",
+    "text" : "They asked her, \"Woman, why are you crying?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,20,12",
     "id" : 197320,
@@ -39,7 +78,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 20:12\">20:12</a></b> <b>two angels in white.</b> <a class=\"bibleref\" href=\"/passage/?search=Matt 28:2\">Matt. 28:2</a> records “an angel”; <a class=\"bibleref\" href=\"/passage/?search=Mark 16:5\">Mark 16:5</a> “a young man”; and <a class=\"bibleref\" href=\"/passage/?search=Luke 24:4\">Luke 24:4</a> “two men” (called “a vision of angels” in <a class=\"bibleref\" href=\"/passage/?search=Luke 24:23\">Luke 24:23</a>). There is no necessary contradiction since the angels must have appeared in human form and one of them may be singled out, perhaps because he was the speaker. What Mary saw may also differ from what the other women saw since she remained alone at the tomb after Peter and John had left.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,20,14", "john,20,15" ],
+  "verses" : [ {
+    "verse" : "john,20,14",
+    "text" : "\"They have taken my Lord away,\" she said, \"and I don't know where they have put him.\" At this, she turned around and saw Jesus standing there, but she did not realize that it was Jesus."
+  }, {
+    "verse" : "john,20,15",
+    "text" : "\"Woman,\" he said, \"why are you crying? Who is it you are looking for?\" Thinking he was the gardener, she said, \"Sir, if you have carried him away, tell me where you have put him, and I will get him.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,20,14",
     "id" : 197321,
@@ -47,7 +92,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 20:14\">20:14</a></b> <b>she . . . saw Jesus standing.</b> Matthew reveals that Jesus had already appeared once to the group of women on their way to Jerusalem to tell the news about the empty tomb (<a class=\"bibleref\" href=\"/passage/?search=Matt 28:8-Matt 28:10\">Matt. 28:8–10</a>).</p><p><b>did not know that it was Jesus.</b> Jesus was often not immediately recognized after His resurrection (v. 20; 21:4). On some occasions this may have been due to skepticism or grief; in Luke it is sometimes due to supernatural hindrance (<a class=\"bibleref\" href=\"/passage/?search=Luke 24:16\">Luke 24:16</a>, <a class=\"bibleref\" href=\"/passage/?search=Luke 24:31\">31</a>). In addition, the resurrection involves a change in appearance (<a class=\"bibleref\" href=\"/passage/?search=1Cor 15:35-1Cor 15:49\">1 Cor. 15:35–49</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,20,16" ],
+  "verses" : [ {
+    "verse" : "john,20,16",
+    "text" : "Jesus said to her, \"Mary.\" She turned toward him and cried out in Aramaic, \"Rabboni!\" (which means Teacher)."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,20,16",
     "id" : 197322,
@@ -55,7 +103,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 20:16\">20:16</a></b> <b>Rabboni.</b> The voice of Jesus calling “Mary” revealed clearly who He was. “Rabboni” is a lengthened form of “Rabbi,” occurring one other time in the New Testament (<a class=\"bibleref\" href=\"/passage/?search=Mark 10:51\">Mark 10:51</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,20,17", "john,20,18" ],
+  "verses" : [ {
+    "verse" : "john,20,17",
+    "text" : "Jesus said, \"Do not hold on to me, for I have not yet returned to the Father. Go instead to my brothers and tell them, 'I am returning to my Father and your Father, to my God and your God.'\""
+  }, {
+    "verse" : "john,20,18",
+    "text" : "Mary Magdalene went to the disciples with the news: \"I have seen the Lord!\" And she told them that he had said these things to her."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,20,17",
     "id" : 197323,
@@ -63,7 +117,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 20:17\">20:17</a></b> <b>Do not cling to me.</b> There is no impropriety in touching the resurrection body; in <a class=\"bibleref\" href=\"/passage/?search=John 20:27\">v. 27</a> Jesus tells Thomas to touch Him (see also <a class=\"bibleref\" href=\"/passage/?search=Matt 28:9\">Matt. 28:9</a>). Jesus reminds Mary that He is not merely recovered but resurrected. She need not “cling to” Jesus as an earthly being who has been healed; rather, she should recognize Him as One whose resurrection marks Him as Lord and Christ. The kind of relationship that had been enjoyed by His friends up to now cannot continue unchanged. There is a continuing intimacy to be sure, but not of the former kind. There is no reason to suppose that Jesus ascended to the Father between His encounters with Mary and Thomas. See “The Ascension of Jesus” at <a class=\"bibleref\" href=\"/passage/?search=Luke 24:51\">Luke 24:51</a>.</p><p><b>my brothers.</b> Jesus’ disciples; the same language is used in <a class=\"bibleref\" href=\"/passage/?search=Matt 28:10\">Matt. 28:10</a>.</p><p><b>my Father and your Father, to my God and your God.</b> Jesus distinguishes pointedly His unique Sonship from the sonship of the disciples. Jesus’ relation to the Godhead is different from that of redeemed humans; He is the Lord from heaven (1:18; 3:13, 31).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,20,19" ],
+  "verses" : [ {
+    "verse" : "john,20,19",
+    "text" : "On the evening of that first day of the week, when the disciples were together, with the doors locked for fear of the Jews, Jesus came and stood among them and said, \"Peace be with you!\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,20,19",
     "id" : 197324,
@@ -71,7 +128,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 20:19\">20:19</a></b> <b>the doors being locked.</b> The impression is that the risen Jesus passed through the closed doors (also <a class=\"bibleref\" href=\"/passage/?search=John 20:26\">v. 26</a>), not that they were opened in some way (compare <a class=\"bibleref\" href=\"/passage/?search=Acts 12:10\">Acts 12:10</a>). This shows the transformation involved in the resurrection of the body (<a class=\"bibleref\" href=\"/passage/?search=1Cor 15:35-1Cor 15:49\">1 Cor. 15:35–49</a>).</p><p><b>the disciples.</b> Probably includes more than the ten apostles (twelve minus Judas and Thomas). In <a class=\"bibleref\" href=\"/passage/?search=Acts 1:14\">Acts 1:14</a>, the women, Jesus’ mother and brothers, and probably others (<a class=\"bibleref\" href=\"/passage/?search=Acts 1:23\">Acts 1:23</a>) were together in the upper room after Jesus’ ascension.</p><p><b>Peace be with you.</b> Everyday words but a most welcome greeting, since they might have expected a rebuke for having abandoned Jesus at the time of His arrest.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,20,20" ],
+  "verses" : [ {
+    "verse" : "john,20,20",
+    "text" : "After he said this, he showed them his hands and side. The disciples were overjoyed when they saw the Lord."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,20,20",
     "id" : 197325,
@@ -79,7 +139,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 20:20\">20:20</a></b> <b>his hands and his side.</b> The marks of His wounds would identify Jesus, and also prove that He was not a ghost.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,20,21" ],
+  "verses" : [ {
+    "verse" : "john,20,21",
+    "text" : "Again Jesus said, \"Peace be with you! As the Father has sent me, I am sending you.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,20,21",
     "id" : 197326,
@@ -87,7 +150,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 20:21\">20:21</a></b> <b>As the Father has sent me, even so I am sending you.</b> This is a brief statement of the commission Jesus gave His disciples. A fuller statement is found in <a class=\"bibleref\" href=\"/passage/?search=Matt 28:18-Matt 28:20\">Matt. 28:18–20</a> and in <a class=\"bibleref\" href=\"/passage/?search=Luke 24:44-Luke 24:53\">Luke 24:44–53</a>. Jesus is the supreme example for evangelism and missions. See theological note “The Mission of the Church in the World.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,20,22" ],
+  "verses" : [ {
+    "verse" : "john,20,22",
+    "text" : "And with that he breathed on them and said, \"Receive the Holy Spirit."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,20,22",
     "id" : 197327,
@@ -95,7 +161,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 20:22\">20:22</a></b> <b>Receive the Holy Spirit.</b> The gift is essential for the performance of the task given the disciples. This occasion is a foreshadowing of the fullness of the Spirit to be bestowed on the church at Pentecost.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,20,23", "john,20,24", "john,20,25", "john,20,26", "john,20,27" ],
+  "verses" : [ {
+    "verse" : "john,20,23",
+    "text" : "If you forgive anyone his sins, they are forgiven; if you do not forgive them, they are not forgiven.\""
+  }, {
+    "verse" : "john,20,24",
+    "text" : "Now Thomas (called Didymus), one of the Twelve, was not with the disciples when Jesus came."
+  }, {
+    "verse" : "john,20,25",
+    "text" : "So the other disciples told him, \"We have seen the Lord!\" But he said to them, \"Unless I see the nail marks in his hands and put my finger where the nails were, and put my hand into his side, I will not believe it.\""
+  }, {
+    "verse" : "john,20,26",
+    "text" : "A week later his disciples were in the house again, and Thomas was with them. Though the doors were locked, Jesus came and stood among them and said, \"Peace be with you!\""
+  }, {
+    "verse" : "john,20,27",
+    "text" : "Then he said to Thomas, \"Put your finger here; see my hands. Reach out your hand and put it into my side. Stop doubting and believe.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,20,23",
     "id" : 197328,
@@ -103,7 +184,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 20:23\">20:23</a></b> <b>If you forgive the sins of anyone.</b> The apostles, as the founders of the church and acting for it, receive the authority to declare God’s judgment on sins. Fundamentally, this declaration is made in the preaching of the gospel. See “Church Discipline and Excommunication” at <a class=\"bibleref\" href=\"/passage/?search=Matt 18:15\">Matt. 18:15</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,20,28" ],
+  "verses" : [ {
+    "verse" : "john,20,28",
+    "text" : "Thomas said to him, \"My Lord and my God!\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,20,28",
     "id" : 197329,
@@ -111,7 +195,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 20:28\">20:28</a></b> <b>My Lord and my God.</b> This is probably the clearest and simplest confession of the deity of Christ to be found in the New Testament. The two highest words, “Lord” (used in the Greek translation of the Old Testament for the divine name “Yahweh”), and “God,” are used together and addressed to Jesus in recognition of His glory. Jesus accepts this worship without hesitation. This is in sharp contrast to the angels who were mistakenly worshiped in <a class=\"bibleref\" href=\"/passage/?search=Rev 19:10\">Rev. 19:10</a>; <a class=\"bibleref\" href=\"/passage/?search=Rev 22:9\">22:9</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,20,29" ],
+  "verses" : [ {
+    "verse" : "john,20,29",
+    "text" : "Then Jesus told him, \"Because you have seen me, you have believed; blessed are those who have not seen and yet have believed.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,20,29",
     "id" : 197330,
@@ -119,7 +206,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 20:29\">20:29</a></b> <b>Blessed are those who have not seen.</b> While commending Thomas’s faith, Jesus blesses those who will come to believe through the witness of the disciples (<a class=\"bibleref\" href=\"/passage/?search=John 17:20\">17:20</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=1Pet 1:8\">1 Pet. 1:8</a>, <a class=\"bibleref\" href=\"/passage/?search=1Pet 1:9\">9</a>). This blessing introduces the reason for the writing of the Gospel (vv. 30, 31).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,20,30" ],
+  "verses" : [ {
+    "verse" : "john,20,30",
+    "text" : "Jesus did many other miraculous signs in the presence of his disciples, which are not recorded in this book."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,20,30",
     "id" : 197331,
@@ -127,7 +217,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 20:30\">20:30</a></b> <b>many other signs.</b> None of the Gospels is an attempt to give a complete or a strictly chronological record, such as a modern biography (cf. <a class=\"bibleref\" href=\"/passage/?search=John 21:25\">21:25</a>). See Introduction to Matthew: Interpretive Difficulties.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,20,31" ],
+  "verses" : [ {
+    "verse" : "john,20,31",
+    "text" : "But these are written that you may believe that Jesus is the Christ, the Son of God, and that by believing you may have life in his name."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,20,31",
     "id" : 197332,

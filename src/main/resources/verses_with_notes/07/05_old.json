@@ -1,5 +1,14 @@
 [ {
-  "singleVerses" : [ "1chronicles,1,1", "1chronicles,1,2", "1chronicles,1,3" ],
+  "verses" : [ {
+    "verse" : "1chronicles,1,1",
+    "text" : "Adam, Seth, Enosh,"
+  }, {
+    "verse" : "1chronicles,1,2",
+    "text" : "Kenan, Mahalalel, Jared,"
+  }, {
+    "verse" : "1chronicles,1,3",
+    "text" : "Enoch, Methuselah, Lamech, Noah."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,1,1-1chronicles,9,34",
     "id" : 188934,
@@ -7,7 +16,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 1:1-1Chr 9:34\">1:1–9:34</a></b> The writer establishes the election and arrangement of the people of God from the beginning of history until the return of Judah from the Babylonian exile of the sixth century <span class=\"small-caps\">b.c.</span> This election is the basis of the privileges and responsibilities of the readers as the continuing people of God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,1,4" ],
+  "verses" : [ {
+    "verse" : "1chronicles,1,4",
+    "text" : "The sons of Noah: Shem, Ham and Japheth. The Japhethites"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,1,4-1chronicles,1,27",
     "id" : 188935,
@@ -15,7 +27,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 1:4-1Chr 1:27\">1:4–27</a></b> Beginning with Noah, the account shows how God chose some nations over others. The sons of Noah are treated separately: Japheth (<a class=\"bibleref\" href=\"/passage/?search=1Chr 1:5-1Chr 1:7\">1:5–7</a>), Ham (<a class=\"bibleref\" href=\"/passage/?search=1Chr 1:8-1Chr 1:16\">1:8–16</a>), and Shem (<a class=\"bibleref\" href=\"/passage/?search=1Chr 1:17-1Chr 1:27\">1:17–27</a>). Relying selectively on <a class=\"bibleref\" href=\"/passage/?search=Gen 10\">Gen. 10:1–32</a> (<a class=\"bibleref\" href=\"/passage/?search=Gen 10\">Gen. 10</a> note), the Chronicler places the chosen line last. From the descendants of Noah, the Shemites (Semitic peoples) alone were in special covenant relationship with God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,1,5", "1chronicles,1,6", "1chronicles,1,7" ],
+  "verses" : [ {
+    "verse" : "1chronicles,1,5",
+    "text" : "The sons of Japheth: Gomer, Magog, Madai, Javan, Tubal, Meshech and Tiras."
+  }, {
+    "verse" : "1chronicles,1,6",
+    "text" : "The sons of Gomer: Ashkenaz, Riphath and Togarmah."
+  }, {
+    "verse" : "1chronicles,1,7",
+    "text" : "The sons of Javan: Elishah, Tarshish, the Kittim and the Rodanim. The Hamites"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,1,5",
     "id" : 188936,
@@ -23,7 +44,34 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 1:5\">1:5</a></b> <b>sons.</b> In ancient Near Eastern genealogies, the terms “sons” and “fathers” are often used literally. But they may be used more loosely, referring to relatively distant family relations or other social or geographical connections. Here “sons” points to cultural and geographical relationships. Compare the geographical focus of <a class=\"bibleref\" href=\"/passage/?search=1Chr 2:42-1Chr 2:55\">2:42–55</a>; <a class=\"bibleref\" href=\"/passage/?search=1Chr 4:1-1Chr 4:23\">4:1–23</a>; 28:43; <a class=\"bibleref\" href=\"/passage/?search=1Chr 6:54-1Chr 6:81\">6:54–81</a>; <a class=\"bibleref\" href=\"/passage/?search=1Chr 7:20-1Chr 7:29\">7:20–29</a>; <a class=\"bibleref\" href=\"/passage/?search=1Chr 9:2\">9:2</a>; <a class=\"bibleref\" href=\"/passage/?search=1Chr 11:10-1Chr 11:47\">11:10–47</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,1,8", "1chronicles,1,9", "1chronicles,1,10", "1chronicles,1,11", "1chronicles,1,12", "1chronicles,1,13", "1chronicles,1,14", "1chronicles,1,15", "1chronicles,1,16" ],
+  "verses" : [ {
+    "verse" : "1chronicles,1,8",
+    "text" : "The sons of Ham: Cush, Mizraim, Put and Canaan."
+  }, {
+    "verse" : "1chronicles,1,9",
+    "text" : "The sons of Cush: Seba, Havilah, Sabta, Raamah and Sabteca. The sons of Raamah: Sheba and Dedan."
+  }, {
+    "verse" : "1chronicles,1,10",
+    "text" : "Cush was the father of Nimrod, who grew to be a mighty warrior on earth."
+  }, {
+    "verse" : "1chronicles,1,11",
+    "text" : "Mizraim was the father of the Ludites, Anamites, Lehabites, Naphtuhites,"
+  }, {
+    "verse" : "1chronicles,1,12",
+    "text" : "Pathrusites, Casluhites (from whom the Philistines came) and Caphtorites."
+  }, {
+    "verse" : "1chronicles,1,13",
+    "text" : "Canaan was the father of Sidon his firstborn, and of the Hittites,"
+  }, {
+    "verse" : "1chronicles,1,14",
+    "text" : "Jebusites, Amorites, Girgashites,"
+  }, {
+    "verse" : "1chronicles,1,15",
+    "text" : "Hivites, Arkites, Sinites,"
+  }, {
+    "verse" : "1chronicles,1,16",
+    "text" : "Arvadites, Zemarites and Hamathites. The Semites"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,1,8",
     "id" : 188937,
@@ -31,7 +79,40 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 1:8\">1:8</a></b> <b>sons of Ham.</b> More attention is given to the Hamites than the Japhethites because Israel had more dealings with them. The list begins with all four sons of Ham, but records only the descendants of Cush, Egypt, and Canaan. “Cush” is the Hebrew for “Ethiopia,” meaning the remote areas south of Egypt.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,1,17", "1chronicles,1,18", "1chronicles,1,19", "1chronicles,1,20", "1chronicles,1,21", "1chronicles,1,22", "1chronicles,1,23", "1chronicles,1,24", "1chronicles,1,25", "1chronicles,1,26", "1chronicles,1,27" ],
+  "verses" : [ {
+    "verse" : "1chronicles,1,17",
+    "text" : "The sons of Shem: Elam, Asshur, Arphaxad, Lud and Aram. The sons of Aram: Uz, Hul, Gether and Meshech."
+  }, {
+    "verse" : "1chronicles,1,18",
+    "text" : "Arphaxad was the father of Shelah, and Shelah the father of Eber."
+  }, {
+    "verse" : "1chronicles,1,19",
+    "text" : "Two sons were born to Eber: One was named Peleg, because in his time the earth was divided; his brother was named Joktan."
+  }, {
+    "verse" : "1chronicles,1,20",
+    "text" : "Joktan was the father of Almodad, Sheleph, Hazarmaveth, Jerah,"
+  }, {
+    "verse" : "1chronicles,1,21",
+    "text" : "Hadoram, Uzal, Diklah,"
+  }, {
+    "verse" : "1chronicles,1,22",
+    "text" : "Obal, Abimael, Sheba,"
+  }, {
+    "verse" : "1chronicles,1,23",
+    "text" : "Ophir, Havilah and Jobab. All these were sons of Joktan."
+  }, {
+    "verse" : "1chronicles,1,24",
+    "text" : "Shem, Arphaxad, Shelah,"
+  }, {
+    "verse" : "1chronicles,1,25",
+    "text" : "Eber, Peleg, Reu,"
+  }, {
+    "verse" : "1chronicles,1,26",
+    "text" : "Serug, Nahor, Terah"
+  }, {
+    "verse" : "1chronicles,1,27",
+    "text" : "and Abram (that is, Abraham)."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,1,17",
     "id" : 188938,
@@ -39,7 +120,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 1:17\">1:17</a></b> <b>sons of Shem.</b> Divine election narrows within the Shemites to Abraham’s family. The writer follows <a class=\"bibleref\" href=\"/passage/?search=Gen 10:21-Gen 10:31\">Gen. 10:21–31</a> closely and adds a brief summary of <a class=\"bibleref\" href=\"/passage/?search=Gen 11:10-Gen 11:27\">Gen. 11:10–27</a> to extend the genealogy to Abraham.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,1,28", "1chronicles,1,29", "1chronicles,1,30" ],
+  "verses" : [ {
+    "verse" : "1chronicles,1,28",
+    "text" : "The sons of Abraham: Isaac and Ishmael. Descendants of Hagar"
+  }, {
+    "verse" : "1chronicles,1,29",
+    "text" : "These were their descendants: Nebaioth the firstborn of Ishmael, Kedar, Adbeel, Mibsam,"
+  }, {
+    "verse" : "1chronicles,1,30",
+    "text" : "Mishma, Dumah, Massa, Hadad, Tema,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,1,28",
     "id" : 188939,
@@ -47,7 +137,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 1:28\">1:28</a></b> <b>Abraham.</b> The plan of sovereign election is shown in the descendants of Abraham. As before, the writer deals first with those not chosen (<a class=\"bibleref\" href=\"/passage/?search=1Chr 1:29-1Chr 1:33\">1:29–33</a>) and then with the chosen line in Isaac (<a class=\"bibleref\" href=\"/passage/?search=1Chr 1:34-1Chr 2:2\">1:34–2:2</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,1,31" ],
+  "verses" : [ {
+    "verse" : "1chronicles,1,31",
+    "text" : "Jetur, Naphish and Kedemah. These were the sons of Ishmael. Descendants of Keturah"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,1,31",
     "id" : 188940,
@@ -55,7 +148,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 1:31\">1:31</a></b> <b>sons of Ishmael.</b> Following Genesis, the account distinguishes Ishmael’s descendants from the covenant line.</p><p><b>Ishmael.</b> He was promised great blessings from God (<a class=\"bibleref\" href=\"/passage/?search=Gen 16:11\">Gen. 16:11</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 16:12\">12</a>), but he was not the heir of the covenant of grace God made with Abraham (<a class=\"bibleref\" href=\"/passage/?search=Gen 17:18-Gen 17:21\">Gen. 17:18–21</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,1,32", "1chronicles,1,33" ],
+  "verses" : [ {
+    "verse" : "1chronicles,1,32",
+    "text" : "The sons born to Keturah, Abraham's concubine: Zimran, Jokshan, Medan, Midian, Ishbak and Shuah. The sons of Jokshan: Sheba and Dedan."
+  }, {
+    "verse" : "1chronicles,1,33",
+    "text" : "The sons of Midian: Ephah, Epher, Hanoch, Abida and Eldaah. All these were descendants of Keturah. Descendants of Sarah"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,1,32",
     "id" : 188941,
@@ -63,7 +162,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 1:32\">1:32</a></b> <b>sons of Keturah.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Gen 25:1-Gen 25:4\">Gen. 25:1–4</a>. Abraham’s descendants through Keturah were not from the line of promise in Isaac.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,1,34" ],
+  "verses" : [ {
+    "verse" : "1chronicles,1,34",
+    "text" : "Abraham was the father of Isaac. The sons of Isaac: Esau and Israel."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,1,34",
     "id" : 188942,
@@ -71,7 +173,67 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 1:34\">1:34</a></b> <b>sons of Isaac.</b> That is, Esau and Jacob. See <a class=\"bibleref\" href=\"/passage/?search=Gen 25:27-Gen 25:34\">Gen. 25:27–34</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 27:1-Gen 27:40\">27:1–40</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,1,35", "1chronicles,1,36", "1chronicles,1,37", "1chronicles,1,38", "1chronicles,1,39", "1chronicles,1,40", "1chronicles,1,41", "1chronicles,1,42", "1chronicles,1,43", "1chronicles,1,44", "1chronicles,1,45", "1chronicles,1,46", "1chronicles,1,47", "1chronicles,1,48", "1chronicles,1,49", "1chronicles,1,50", "1chronicles,1,51", "1chronicles,1,52", "1chronicles,1,53", "1chronicles,1,54" ],
+  "verses" : [ {
+    "verse" : "1chronicles,1,35",
+    "text" : "The sons of Esau: Eliphaz, Reuel, Jeush, Jalam and Korah."
+  }, {
+    "verse" : "1chronicles,1,36",
+    "text" : "The sons of Eliphaz: Teman, Omar, Zepho, Gatam and Kenaz; by Timna: Amalek."
+  }, {
+    "verse" : "1chronicles,1,37",
+    "text" : "The sons of Reuel: Nahath, Zerah, Shammah and Mizzah. The People of Seir in Edom"
+  }, {
+    "verse" : "1chronicles,1,38",
+    "text" : "The sons of Seir: Lotan, Shobal, Zibeon, Anah, Dishon, Ezer and Dishan."
+  }, {
+    "verse" : "1chronicles,1,39",
+    "text" : "The sons of Lotan: Hori and Homam. Timna was Lotan's sister."
+  }, {
+    "verse" : "1chronicles,1,40",
+    "text" : "The sons of Shobal: Alvan, Manahath, Ebal, Shepho and Onam. The sons of Zibeon: Aiah and Anah."
+  }, {
+    "verse" : "1chronicles,1,41",
+    "text" : "The son of Anah: Dishon. The sons of Dishon: Hemdan, Eshban, Ithran and Keran."
+  }, {
+    "verse" : "1chronicles,1,42",
+    "text" : "The sons of Ezer: Bilhan, Zaavan and Akan. The sons of Dishan: Uz and Aran. The Rulers of Edom"
+  }, {
+    "verse" : "1chronicles,1,43",
+    "text" : "These were the kings who reigned in Edom before any Israelite king reigned: Bela son of Beor, whose city was named Dinhabah."
+  }, {
+    "verse" : "1chronicles,1,44",
+    "text" : "When Bela died, Jobab son of Zerah from Bozrah succeeded him as king."
+  }, {
+    "verse" : "1chronicles,1,45",
+    "text" : "When Jobab died, Husham from the land of the Temanites succeeded him as king."
+  }, {
+    "verse" : "1chronicles,1,46",
+    "text" : "When Husham died, Hadad son of Bedad, who defeated Midian in the country of Moab, succeeded him as king. His city was named Avith."
+  }, {
+    "verse" : "1chronicles,1,47",
+    "text" : "When Hadad died, Samlah from Masrekah succeeded him as king."
+  }, {
+    "verse" : "1chronicles,1,48",
+    "text" : "When Samlah died, Shaul from Rehoboth on the river succeeded him as king."
+  }, {
+    "verse" : "1chronicles,1,49",
+    "text" : "When Shaul died, Baal-Hanan son of Acbor succeeded him as king."
+  }, {
+    "verse" : "1chronicles,1,50",
+    "text" : "When Baal-Hanan died, Hadad succeeded him as king. His city was named Pau, and his wife's name was Mehetabel daughter of Matred, the daughter of Me-Zahab."
+  }, {
+    "verse" : "1chronicles,1,51",
+    "text" : "Hadad also died. The chiefs of Edom were: Timna, Alvah, Jetheth,"
+  }, {
+    "verse" : "1chronicles,1,52",
+    "text" : "Oholibamah, Elah, Pinon,"
+  }, {
+    "verse" : "1chronicles,1,53",
+    "text" : "Kenaz, Teman, Mibzar,"
+  }, {
+    "verse" : "1chronicles,1,54",
+    "text" : "Magdiel and Iram. These were the chiefs of Edom."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,1,35",
     "id" : 188943,
@@ -79,7 +241,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 1:35\">1:35</a></b> <b>sons of Esau.</b> See <a class=\"bibleref\" href=\"/passage/?search=Gen 36:10-Gen 36:43\">Gen. 36:10–43</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,2,1", "1chronicles,2,2" ],
+  "verses" : [ {
+    "verse" : "1chronicles,2,1",
+    "text" : "These were the sons of Israel: Reuben, Simeon, Levi, Judah, Issachar, Zebulun,"
+  }, {
+    "verse" : "1chronicles,2,2",
+    "text" : "Dan, Joseph, Benjamin, Naphtali, Gad and Asher."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,2,1",
     "id" : 188944,
@@ -87,7 +255,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 2:1\">2:1</a></b> <b>sons of Israel.</b> This list follows <a class=\"bibleref\" href=\"/passage/?search=Gen 35:23-Gen 35:26\">Gen. 35:23–26</a> except for the position of Dan.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,2,3", "1chronicles,2,4", "1chronicles,2,5" ],
+  "verses" : [ {
+    "verse" : "1chronicles,2,3",
+    "text" : "The sons of Judah: Er, Onan and Shelah. These three were born to him by a Canaanite woman, the daughter of Shua. Er, Judah's firstborn, was wicked in the LORD's sight; so the LORD put him to death."
+  }, {
+    "verse" : "1chronicles,2,4",
+    "text" : "Tamar, Judah's daughter-in-law, bore him Perez and Zerah. Judah had five sons in all."
+  }, {
+    "verse" : "1chronicles,2,5",
+    "text" : "The sons of Perez: Hezron and Hamul."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,2,3-1chronicles,9,1",
     "id" : 188945,
@@ -105,7 +282,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 2:3-1Chr 2:9\">2:3–9</a></b> <b>sons of Judah.</b> These were Er, Onan, Shelah (by a Canaanite woman, <a class=\"bibleref\" href=\"/passage/?search=Gen 38:2\">Gen. 38:2</a>), Perez, and Zerah (by Tamar, Judah’s daughter-in-law, <a class=\"bibleref\" href=\"/passage/?search=Gen 38:11-Gen 38:30\">Gen. 38:11–30</a>). Perez and Hezron were ancestors of David.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,2,6" ],
+  "verses" : [ {
+    "verse" : "1chronicles,2,6",
+    "text" : "The sons of Zerah: Zimri, Ethan, Heman, Calcol and Darda -five in all."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,2,6",
     "id" : 188948,
@@ -113,7 +293,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 2:6\">2:6</a></b> <b>Ethan, Heman, Calcol, and Dara.</b> These are traditional wise men compared with Solomon in <a class=\"bibleref\" href=\"/passage/?search=1Kgs 4:31\">1 Kin. 4:31</a>. Ethan and Heman probably should be distinguished from David’s musicians having the same names (15:19 and <a class=\"bibleref\" href=\"/passage/?search=Ps 88\">Ps. 88</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 89\">89</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,2,7", "1chronicles,2,8", "1chronicles,2,9" ],
+  "verses" : [ {
+    "verse" : "1chronicles,2,7",
+    "text" : "The son of Carmi: Achar, who brought trouble on Israel by violating the ban on taking devoted things."
+  }, {
+    "verse" : "1chronicles,2,8",
+    "text" : "The son of Ethan: Azariah."
+  }, {
+    "verse" : "1chronicles,2,9",
+    "text" : "The sons born to Hezron were: Jerahmeel, Ram and Caleb. From Ram Son of Hezron"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,2,7",
     "id" : 188949,
@@ -121,7 +310,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 2:7\">2:7</a></b> <b>Carmi.</b> A son of Zimri, who is mentioned in <a class=\"bibleref\" href=\"/passage/?search=1Chr 2:6\">2:6</a> (<a class=\"bibleref\" href=\"/passage/?search=Josh 7:1\">Josh. 7:1</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,2,10", "1chronicles,2,11", "1chronicles,2,12", "1chronicles,2,13", "1chronicles,2,14" ],
+  "verses" : [ {
+    "verse" : "1chronicles,2,10",
+    "text" : "Ram was the father of Amminadab, and Amminadab the father of Nahshon, the leader of the people of Judah."
+  }, {
+    "verse" : "1chronicles,2,11",
+    "text" : "Nahshon was the father of Salmon, Salmon the father of Boaz,"
+  }, {
+    "verse" : "1chronicles,2,12",
+    "text" : "Boaz the father of Obed and Obed the father of Jesse."
+  }, {
+    "verse" : "1chronicles,2,13",
+    "text" : "Jesse was the father of Eliab his firstborn; the second son was Abinadab, the third Shimea,"
+  }, {
+    "verse" : "1chronicles,2,14",
+    "text" : "the fourth Nethanel, the fifth Raddai,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,2,10",
     "id" : 188950,
@@ -129,7 +333,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 2:10\">2:10</a></b> <b>Ram.</b> Departing from the order of Hezron’s sons presented in <a class=\"bibleref\" href=\"/passage/?search=1Chr 2:9\">2:9</a>, Ram is placed first, as part of the line of David (<a class=\"bibleref\" href=\"/passage/?search=1Chr 2:3-1Chr 4:23\">2:3–4:23</a> note). This genealogical information is probably from the Book of Ruth (<a class=\"bibleref\" href=\"/passage/?search=Ruth 4:18-Ruth 4:22\">Ruth 4:18–22</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,2,15", "1chronicles,2,16", "1chronicles,2,17" ],
+  "verses" : [ {
+    "verse" : "1chronicles,2,15",
+    "text" : "the sixth Ozem and the seventh David."
+  }, {
+    "verse" : "1chronicles,2,16",
+    "text" : "Their sisters were Zeruiah and Abigail. Zeruiah's three sons were Abishai, Joab and Asahel."
+  }, {
+    "verse" : "1chronicles,2,17",
+    "text" : "Abigail was the mother of Amasa, whose father was Jether the Ishmaelite. Caleb Son of Hezron"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,2,15",
     "id" : 188951,

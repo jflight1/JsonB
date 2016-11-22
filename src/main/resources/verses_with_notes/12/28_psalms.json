@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,147,1" ],
+  "verses" : [ {
+    "verse" : "psalms,147,1",
+    "text" : "Praise the LORD. How good it is to sing praises to our God, how pleasant and fitting to praise him!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,147,1-psalms,147,20",
     "id" : 191603,
@@ -12,7 +15,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 147:1\">147:1</a></b> <b>it is good.</b> In this way the poet encourages the congregation to praise the Lord.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,147,2", "psalms,147,3" ],
+  "verses" : [ {
+    "verse" : "psalms,147,2",
+    "text" : "The LORD builds up Jerusalem; he gathers the exiles of Israel."
+  }, {
+    "verse" : "psalms,147,3",
+    "text" : "He heals the brokenhearted and binds up their wounds."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,147,2",
     "id" : 191605,
@@ -20,7 +29,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 147:2\">147:2</a></b> <b>gathers the outcasts.</b> See introduction to this psalm. This verse probably refers to the return of Judeans to the Promised Land following Cyrus’s decree (<a class=\"bibleref\" href=\"/passage/?search=2Chr 36:22\">2 Chr. 36:22</a>, <a class=\"bibleref\" href=\"/passage/?search=2Chr 36:23\">23</a>) that ended the Babylonian exile.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,147,4" ],
+  "verses" : [ {
+    "verse" : "psalms,147,4",
+    "text" : "He determines the number of the stars and calls them each by name."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,147,4",
     "id" : 191606,
@@ -28,7 +40,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 147:4\">147:4</a></b> <b>the number of the stars.</b> The number of stars seems infinite. Cf. <a class=\"bibleref\" href=\"/passage/?search=Gen 15:5\">Gen. 15:5</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,147,5", "psalms,147,6", "psalms,147,7" ],
+  "verses" : [ {
+    "verse" : "psalms,147,5",
+    "text" : "Great is our Lord and mighty in power; his understanding has no limit."
+  }, {
+    "verse" : "psalms,147,6",
+    "text" : "The LORD sustains the humble but casts the wicked to the ground."
+  }, {
+    "verse" : "psalms,147,7",
+    "text" : "Sing to the LORD with thanksgiving; make music to our God on the harp."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,147,5",
     "id" : 191607,
@@ -36,7 +57,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 147:5\">147:5</a></b> <b>his understanding is beyond measure.</b> God is above and beyond human intelligence. There is no scale that can measure infinity.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,147,8", "psalms,147,9" ],
+  "verses" : [ {
+    "verse" : "psalms,147,8",
+    "text" : "He covers the sky with clouds; he supplies the earth with rain and makes grass grow on the hills."
+  }, {
+    "verse" : "psalms,147,9",
+    "text" : "He provides food for the cattle and for the young ravens when they call."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,147,8-psalms,147,9",
     "id" : 191608,
@@ -44,7 +71,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 147:8\">147:8</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 147:9\">9</a> clouds . . . rain . . . grass . . . food.</b> God regulates all the processes that provide food for His creatures.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,147,10" ],
+  "verses" : [ {
+    "verse" : "psalms,147,10",
+    "text" : "His pleasure is not in the strength of the horse, nor his delight in the legs of a man;"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,147,10",
     "id" : 191609,
@@ -52,7 +82,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 147:10\">147:10</a></b> <b>the legs of a man.</b> God does not judge people by their physical strength or appearance, but according to their heart’s attitude toward Him (<a class=\"bibleref\" href=\"/passage/?search=1Sam 16:7\">1 Sam. 16:7</a>). Strong legs, like good horses, were important for soldiers.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,147,11", "psalms,147,12" ],
+  "verses" : [ {
+    "verse" : "psalms,147,11",
+    "text" : "the LORD delights in those who fear him, who put their hope in his unfailing love."
+  }, {
+    "verse" : "psalms,147,12",
+    "text" : "Extol the LORD, O Jerusalem; praise your God, O Zion,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,147,11",
     "id" : 191610,
@@ -60,7 +96,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 147:11\">147:11</a></b> <b>who fear him.</b> See notes <a class=\"bibleref\" href=\"/passage/?search=Ps 34:7\">Ps. 34:7</a> and <a class=\"bibleref\" href=\"/passage/?search=Ps 36:1\">36:1</a>.</p><p><b>steadfast love.</b> God’s covenant love for His people.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,147,13" ],
+  "verses" : [ {
+    "verse" : "psalms,147,13",
+    "text" : "for he strengthens the bars of your gates and blesses your people within you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,147,13",
     "id" : 191611,
@@ -68,7 +107,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 147:13\">147:13</a></b> <b>the bars of your gates.</b> The gates provide security for the city; note what happens when they are weak (<a class=\"bibleref\" href=\"/passage/?search=Nah 3:13\">Nah. 3:13</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,147,14" ],
+  "verses" : [ {
+    "verse" : "psalms,147,14",
+    "text" : "He grants peace to your borders and satisfies you with the finest of wheat."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,147,14",
     "id" : 191612,
@@ -76,7 +118,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 147:14\">147:14</a></b> <b>the finest of the wheat.</b> Representative of fertility and provision.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,147,15", "psalms,147,16", "psalms,147,17", "psalms,147,18" ],
+  "verses" : [ {
+    "verse" : "psalms,147,15",
+    "text" : "He sends his command to the earth; his word runs swiftly."
+  }, {
+    "verse" : "psalms,147,16",
+    "text" : "He spreads the snow like wool and scatters the frost like ashes."
+  }, {
+    "verse" : "psalms,147,17",
+    "text" : "He hurls down his hail like pebbles. Who can withstand his icy blast?"
+  }, {
+    "verse" : "psalms,147,18",
+    "text" : "He sends his word and melts them; he stirs up his breezes, and the waters flow."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,147,15",
     "id" : 191613,
@@ -84,7 +138,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 147:15\">147:15</a></b> <b>his word runs swiftly.</b> It accomplishes its purpose quickly.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,147,19" ],
+  "verses" : [ {
+    "verse" : "psalms,147,19",
+    "text" : "He has revealed his word to Jacob, his laws and decrees to Israel."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,147,19",
     "id" : 191614,
@@ -92,7 +149,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 147:19\">147:19</a></b> <b>his statutes and rules.</b> He guides Israel in the proper way of corporate behavior.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,147,20" ],
+  "verses" : [ {
+    "verse" : "psalms,147,20",
+    "text" : "He has done this for no other nation; they do not know his laws. Praise the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,147,20",
     "id" : 191615,

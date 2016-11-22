@@ -1,5 +1,17 @@
 [ {
-  "singleVerses" : [ "john,6,22", "john,6,23", "john,6,24", "john,6,25" ],
+  "verses" : [ {
+    "verse" : "john,6,22",
+    "text" : "The next day the crowd that had stayed on the opposite shore of the lake realized that only one boat had been there, and that Jesus had not entered it with his disciples, but that they had gone away alone."
+  }, {
+    "verse" : "john,6,23",
+    "text" : "Then some boats from Tiberias landed near the place where the people had eaten the bread after the Lord had given thanks."
+  }, {
+    "verse" : "john,6,24",
+    "text" : "Once the crowd realized that neither Jesus nor his disciples were there, they got into the boats and went to Capernaum in search of Jesus."
+  }, {
+    "verse" : "john,6,25",
+    "text" : "When they found him on the other side of the lake, they asked him, \"Rabbi, when did you get here?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,6,1-john,6,71",
     "id" : 196974,
@@ -7,7 +19,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 6\">6:1–71</a></b> This chapter is a major turning point in <a class=\"bibleref\" href=\"/passage/?search=John 2-John 12\">chs. 2–12</a>. It reveals the identity of Jesus as One sent from the Father (vv. 38, <a class=\"bibleref\" href=\"/passage/?search=John 12:44\">44</a>, <a class=\"bibleref\" href=\"/passage/?search=John 12:46\">46</a>, <a class=\"bibleref\" href=\"/passage/?search=John 12:50\">50</a>, 51, 57); it graphically distinguishes belief and unbelief through the illustration of eating Jesus’ flesh and blood (vv. 53–58); and it chronicles the growing rejection, motivated by unbelief, that confronted Jesus (<a class=\"bibleref\" href=\"/passage/?search=John 12:41\">vv. 41</a>, <a class=\"bibleref\" href=\"/passage/?search=John 12:42\">42</a>, 60–66). The signs in this chapter call to mind corresponding saving events in the history of Israel. They indicate that Jesus fulfills the typology of the Passover, the Exodus, and the provision of food in the wilderness.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,6,26" ],
+  "verses" : [ {
+    "verse" : "john,6,26",
+    "text" : "Jesus answered, \"I tell you the truth, you are looking for me, not because you saw miraculous signs but because you ate the loaves and had your fill."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,6,26",
     "id" : 196987,
@@ -15,7 +30,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 6:26\">6:26</a></b> <b>not because you saw signs.</b> Although they saw the miracle of the loaves and fishes, they did not recognize it as a sign identifying Jesus as the Messiah. It was merely as an opportunity for a meal to them.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,6,27", "john,6,28", "john,6,29", "john,6,30" ],
+  "verses" : [ {
+    "verse" : "john,6,27",
+    "text" : "Do not work for food that spoils, but for food that endures to eternal life, which the Son of Man will give you. On him God the Father has placed his seal of approval.\""
+  }, {
+    "verse" : "john,6,28",
+    "text" : "Then they asked him, \"What must we do to do the works God requires?\""
+  }, {
+    "verse" : "john,6,29",
+    "text" : "Jesus answered, \"The work of God is this: to believe in the one he has sent.\""
+  }, {
+    "verse" : "john,6,30",
+    "text" : "So they asked him, \"What miraculous sign then will you give that we may see it and believe you? What will you do?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,6,27",
     "id" : 196988,
@@ -23,7 +50,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 6:27\">6:27</a></b> Jesus points to the spiritual meaning of the miracle, which is to set God’s seal of approval on His ministry and to identify Him as the Son of Man, the promised Messiah.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,6,31" ],
+  "verses" : [ {
+    "verse" : "john,6,31",
+    "text" : "Our forefathers ate the manna in the desert; as it is written: 'He gave them bread from heaven to eat.'\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,6,31",
     "id" : 196989,
@@ -31,7 +61,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 6:31\">6:31</a></b> They expected that the coming of the Messiah would be marked by a miracle as great as or greater than the giving of the manna in the desert.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,6,32" ],
+  "verses" : [ {
+    "verse" : "john,6,32",
+    "text" : "Jesus said to them, \"I tell you the truth, it is not Moses who has given you the bread from heaven, but it is my Father who gives you the true bread from heaven."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,6,32",
     "id" : 196990,
@@ -39,7 +72,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 6:32\">6:32</a></b> <b>the true bread from heaven.</b> The word “true” has a special meaning. Jesus refers to what is everlasting, as opposed to something merely representative. The bread God provided through Moses (<a class=\"bibleref\" href=\"/passage/?search=Exod 16\">Ex. 16</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 11\">Num. 11</a>) was only material and temporary, not spiritual and eternal. See note at 4:24.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,6,33" ],
+  "verses" : [ {
+    "verse" : "john,6,33",
+    "text" : "For the bread of God is he who comes down from heaven and gives life to the world.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,6,33",
     "id" : 196991,
@@ -47,7 +83,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 6:33\">6:33</a></b> <b>he who comes down from heaven.</b> This is Jesus Christ, whose incarnation is described as “coming down” (<a class=\"bibleref\" href=\"/passage/?search=John 6:38\">vv. 38</a>, <a class=\"bibleref\" href=\"/passage/?search=John 6:41\">41</a>, <a class=\"bibleref\" href=\"/passage/?search=John 6:42\">42</a>, <a class=\"bibleref\" href=\"/passage/?search=John 6:50\">50</a>, <a class=\"bibleref\" href=\"/passage/?search=John 6:51\">51</a>, <a class=\"bibleref\" href=\"/passage/?search=John 6:58\">58</a>; <a class=\"bibleref\" href=\"/passage/?search=John 3:13\">3:13</a>, <a class=\"bibleref\" href=\"/passage/?search=John 3:31\">31</a>; <a class=\"bibleref\" href=\"/passage/?search=Eph 4:9-Eph 4:10\">Eph. 4:9–10</a>).</p><p><b>gives life to the world.</b> Christ provides eternal life to those who are dead in trespasses and sins (<a class=\"bibleref\" href=\"/passage/?search=Eph 2:1\">Eph. 2:1</a>). They are chosen not only from the Jews but from the whole world. Jesus does not here teach universal salvation, but the universal relevance and appeal of His saving work (3:16 note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,6,34" ],
+  "verses" : [ {
+    "verse" : "john,6,34",
+    "text" : "\"Sir,\" they said, \"from now on give us this bread.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,6,34",
     "id" : 196992,
@@ -55,7 +94,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 6:34\">6:34</a></b> <b>give us this bread.</b> They misinterpreted Jesus’ statement by taking it on a purely physical level, as Nicodemus (<a class=\"bibleref\" href=\"/passage/?search=John 3:4\">3:4</a>) and the Samaritan woman (<a class=\"bibleref\" href=\"/passage/?search=John 4:15\">4:15</a>) had done.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,6,35", "john,6,36" ],
+  "verses" : [ {
+    "verse" : "john,6,35",
+    "text" : "Then Jesus declared, \"I am the bread of life. He who comes to me will never go hungry, and he who believes in me will never be thirsty."
+  }, {
+    "verse" : "john,6,36",
+    "text" : "But as I told you, you have seen me and still you do not believe."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,6,35",
     "id" : 196993,
@@ -63,7 +108,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 6:35\">6:35</a></b> <b>I am the bread of life.</b> This is the first of seven such “I am” sayings in this Gospel (<a class=\"bibleref\" href=\"/passage/?search=John 8:12\">8:12</a>; <a class=\"bibleref\" href=\"/passage/?search=John 9:5\">9:5</a>; <a class=\"bibleref\" href=\"/passage/?search=John 10:7\">10:7</a>, <a class=\"bibleref\" href=\"/passage/?search=John 10:9\">9</a>, <a class=\"bibleref\" href=\"/passage/?search=John 10:11\">11</a>, <a class=\"bibleref\" href=\"/passage/?search=John 10:14\">14</a>; <a class=\"bibleref\" href=\"/passage/?search=John 11:25\">11:25</a>; <a class=\"bibleref\" href=\"/passage/?search=John 14:6\">14:6</a>; <a class=\"bibleref\" href=\"/passage/?search=John 15:1\">15:1</a>, <a class=\"bibleref\" href=\"/passage/?search=John 15:5\">5</a>). The expression looks back to <a class=\"bibleref\" href=\"/passage/?search=Exod 3:14\">Ex. 3:14</a> and is an implicit claim to deity (8:58, 59 and notes).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,6,37" ],
+  "verses" : [ {
+    "verse" : "john,6,37",
+    "text" : "All that the Father gives me will come to me, and whoever comes to me I will never drive away."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,6,37",
     "id" : 196994,
@@ -71,7 +119,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 6:37\">6:37</a></b> <b>All that the Father gives me.</b> God leads to faith all whom He plans to redeem. The redemption of the elect is certain. The Son promises acceptance to anyone who truly believes.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,6,38" ],
+  "verses" : [ {
+    "verse" : "john,6,38",
+    "text" : "For I have come down from heaven not to do my will but to do the will of him who sent me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,6,38",
     "id" : 196995,
@@ -79,7 +130,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 6:38\">6:38</a></b> <b>not to do my own will.</b> The will of the Son and the will of the Father agree; there is no competition or disagreement. Jesus’ submission to the Father shows this agreement.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,6,39", "john,6,40" ],
+  "verses" : [ {
+    "verse" : "john,6,39",
+    "text" : "And this is the will of him who sent me, that I shall lose none of all that he has given me, but raise them up at the last day."
+  }, {
+    "verse" : "john,6,40",
+    "text" : "For my Father's will is that everyone who looks to the Son and believes in him shall have eternal life, and I will raise him up at the last day.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,6,39",
     "id" : 196996,
@@ -87,7 +144,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 6:39\">6:39</a></b> <b>lose nothing . . . but raise.</b> The Father’s will is more than that Jesus should make an offer to lost sinners. He will at last raise up all who are given Him by the Father and lose not one from that group. God graciously perseveres with true believers, ensuring their final salvation. See “Perseverance of the Saints” at <a class=\"bibleref\" href=\"/passage/?search=Rom 8:30\">Rom. 8:30</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,6,41", "john,6,42" ],
+  "verses" : [ {
+    "verse" : "john,6,41",
+    "text" : "At this the Jews began to grumble about him because he said, \"I am the bread that came down from heaven.\""
+  }, {
+    "verse" : "john,6,42",
+    "text" : "They said, \"Is this not Jesus, the son of Joseph, whose father and mother we know? How can he now say, 'I came down from heaven'?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,6,41",
     "id" : 196997,

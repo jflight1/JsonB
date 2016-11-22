@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,23,12" ],
+  "verses" : [ {
+    "verse" : "proverbs,23,12",
+    "text" : "Apply your heart to instruction and your ears to words of knowledge."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,22,17-proverbs,24,22",
     "id" : 192162,

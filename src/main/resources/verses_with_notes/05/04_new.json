@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "john,3,22", "john,3,23" ],
+  "verses" : [ {
+    "verse" : "john,3,22",
+    "text" : "After this, Jesus and his disciples went out into the Judean countryside, where he spent some time with them, and baptized."
+  }, {
+    "verse" : "john,3,23",
+    "text" : "Now John also was baptizing at Aenon near Salim, because there was plenty of water, and people were constantly coming to be baptized."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,3,22-john,3,36",
     "id" : 196923,
@@ -7,7 +13,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 3:22-John 3:36\">3:22–36</a></b> There are three sections here. In <a class=\"bibleref\" href=\"/passage/?search=John 3:22-John 3:24\">vv. 22–24</a> we are told that Jesus and His disciples went into Judea, where John was. In <a class=\"bibleref\" href=\"/passage/?search=John 3:25-John 3:30\">vv. 25–30</a> the Baptist affirms once more that his entire role is to prepare for Christ. Verses 31–36 appear to be a continuation of the Baptist’s words, or possibly a comment by the Gospel writer.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,3,24", "john,3,25" ],
+  "verses" : [ {
+    "verse" : "john,3,24",
+    "text" : "(This was before John was put in prison.)"
+  }, {
+    "verse" : "john,3,25",
+    "text" : "An argument developed between some of John's disciples and a certain Jew over the matter of ceremonial washing."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,3,24",
     "id" : 196924,
@@ -15,7 +27,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 3:24\">3:24</a></b> <b>John . . . not yet . . . in prison.</b> See <a class=\"bibleref\" href=\"/passage/?search=Matt 14:3-Matt 14:12\">Matt. 14:3–12</a>; <a class=\"bibleref\" href=\"/passage/?search=Mark 6:17-Mark 6:29\">Mark 6:17–29</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,3,26" ],
+  "verses" : [ {
+    "verse" : "john,3,26",
+    "text" : "They came to John and said to him, \"Rabbi, that man who was with you on the other side of the Jordan--the one you testified about--well, he is baptizing, and everyone is going to him.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,3,26",
     "id" : 196925,
@@ -23,7 +38,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 3:26\">3:26</a></b> <b>baptizing.</b> See “Baptism” at <a class=\"bibleref\" href=\"/passage/?search=Rom 6:3\">Rom. 6:3</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,3,27", "john,3,28", "john,3,29", "john,3,30" ],
+  "verses" : [ {
+    "verse" : "john,3,27",
+    "text" : "To this John replied, \"A man can receive only what is given him from heaven."
+  }, {
+    "verse" : "john,3,28",
+    "text" : "You yourselves can testify that I said, 'I am not the Christ but am sent ahead of him.'"
+  }, {
+    "verse" : "john,3,29",
+    "text" : "The bride belongs to the bridegroom. The friend who attends the bridegroom waits and listens for him, and is full of joy when he hears the bridegroom's voice. That joy is mine, and it is now complete."
+  }, {
+    "verse" : "john,3,30",
+    "text" : "He must become greater; I must become less."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,3,27",
     "id" : 196926,
@@ -31,7 +58,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 3:27\">3:27</a></b> <b>A person cannot receive.</b> God is the Author of all that we receive (<a class=\"bibleref\" href=\"/passage/?search=1Cor 4:7\">1 Cor. 4:7</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,3,31" ],
+  "verses" : [ {
+    "verse" : "john,3,31",
+    "text" : "\"The one who comes from above is above all; the one who is from the earth belongs to the earth, and speaks as one from the earth. The one who comes from heaven is above all."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,3,31",
     "id" : 196927,
@@ -39,7 +69,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 3:31\">3:31</a></b> <b>He who comes from above.</b> Jesus is distinguished from all other humans who are “of the earth” (<a class=\"bibleref\" href=\"/passage/?search=John 3:13\">v. 13</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,3,32" ],
+  "verses" : [ {
+    "verse" : "john,3,32",
+    "text" : "He testifies to what he has seen and heard, but no one accepts his testimony."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,3,32",
     "id" : 196928,
@@ -47,7 +80,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 3:32\">3:32</a></b> <b>no one receives his testimony.</b> John repeats the idea of <a class=\"bibleref\" href=\"/passage/?search=John 1:10\">1:10</a>, <a class=\"bibleref\" href=\"/passage/?search=John 1:11\">11</a>, that neither His own nation nor the world at large was ready to receive Christ. The barrier is the sin and blindness that God alone can penetrate (<a class=\"bibleref\" href=\"/passage/?search=John 1:3\">v. 3</a>; <a class=\"bibleref\" href=\"/passage/?search=John 1:5\">1:5</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,3,33" ],
+  "verses" : [ {
+    "verse" : "john,3,33",
+    "text" : "The man who has accepted it has certified that God is truthful."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,3,33",
     "id" : 196929,
@@ -55,7 +91,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 3:33\">3:33</a></b> <b>Whoever receives.</b> The world refused the light, but John immediately mentions those who are coming to the light, especially himself as the first exponent of the truth. John’s preaching is the culmination of the Old Testament and the beginning of the New (<a class=\"bibleref\" href=\"/passage/?search=John 1:15\">1:15</a>; <a class=\"bibleref\" href=\"/passage/?search=Matt 11:11\">Matt. 11:11</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,3,34" ],
+  "verses" : [ {
+    "verse" : "john,3,34",
+    "text" : "For the one whom God has sent speaks the words of God, for God gives the Spirit without limit."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,3,34",
     "id" : 196930,
@@ -63,7 +102,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 3:34\">3:34</a></b> <b>for he gives the Spirit without measure.</b> These words could certainly apply to the Spirit-empowered earthly ministry of Jesus (<a class=\"bibleref\" href=\"/passage/?search=Luke 3:22\">Luke 3:22</a>; <a class=\"bibleref\" href=\"/passage/?search=Luke 4:1\">4:1</a>). But it is also possible that they refer to the fullness of the Spirit that Jesus gives to those who serve Him, and some ancient and modern commentators have understood the text this way. Later, Jesus is the agent who sends the Spirit (15:26).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,3,35", "john,3,36" ],
+  "verses" : [ {
+    "verse" : "john,3,35",
+    "text" : "The Father loves the Son and has placed everything in his hands."
+  }, {
+    "verse" : "john,3,36",
+    "text" : "Whoever believes in the Son has eternal life, but whoever rejects the Son will not see life, for God's wrath remains on him.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,3,35",
     "id" : 196931,
@@ -71,7 +116,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 3:35\">3:35</a></b> <b>The Father loves the Son.</b> See <a class=\"bibleref\" href=\"/passage/?search=John 5:20\">5:20</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,4,1", "john,4,2", "john,4,3" ],
+  "verses" : [ {
+    "verse" : "john,4,1",
+    "text" : "The Pharisees heard that Jesus was gaining and baptizing more disciples than John,"
+  }, {
+    "verse" : "john,4,2",
+    "text" : "although in fact it was not Jesus who baptized, but his disciples."
+  }, {
+    "verse" : "john,4,3",
+    "text" : "When the Lord learned of this, he left Judea and went back once more to Galilee."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,4,1-john,4,42",
     "id" : 196932,

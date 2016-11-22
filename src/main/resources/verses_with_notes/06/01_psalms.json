@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,119,153" ],
+  "verses" : [ {
+    "verse" : "psalms,119,153",
+    "text" : "Look upon my suffering and deliver me, for I have not forgotten your law."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,119,1-psalms,119,176",
     "id" : 191337,
@@ -12,7 +15,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 119:153\">119:153</a></b> <b>for I do not forget your law.</b> The psalmist expects that God will bless him because he is obedient. Such an attitude could be presumptuous, a sin the Book of Job guards against, but it could also arise from faith.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,119,154", "psalms,119,155" ],
+  "verses" : [ {
+    "verse" : "psalms,119,154",
+    "text" : "Defend my cause and redeem me; preserve my life according to your promise."
+  }, {
+    "verse" : "psalms,119,155",
+    "text" : "Salvation is far from the wicked, for they do not seek out your decrees."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,119,154",
     "id" : 191403,
@@ -20,7 +29,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 119:154\">119:154</a></b> <b>Plead my cause.</b> This phrase comes from the courtroom. The psalmist asks the Lord to intercede for him before his enemies.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,119,156", "psalms,119,157", "psalms,119,158", "psalms,119,159", "psalms,119,160" ],
+  "verses" : [ {
+    "verse" : "psalms,119,156",
+    "text" : "Your compassion is great, O LORD; preserve my life according to your laws."
+  }, {
+    "verse" : "psalms,119,157",
+    "text" : "Many are the foes who persecute me, but I have not turned from your statutes."
+  }, {
+    "verse" : "psalms,119,158",
+    "text" : "I look on the faithless with loathing, for they do not obey your word."
+  }, {
+    "verse" : "psalms,119,159",
+    "text" : "See how I love your precepts; preserve my life, O LORD, according to your love."
+  }, {
+    "verse" : "psalms,119,160",
+    "text" : "All your words are true; all your righteous laws are eternal."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,119,156",
     "id" : 191404,
@@ -28,7 +52,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 119:156\">119:156</a></b> <b>Great is your mercy.</b> See <a class=\"bibleref\" href=\"/passage/?search=Lam 3:23\">Lam. 3:23</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,119,161", "psalms,119,162", "psalms,119,163", "psalms,119,164", "psalms,119,165", "psalms,119,166" ],
+  "verses" : [ {
+    "verse" : "psalms,119,161",
+    "text" : "Rulers persecute me without cause, but my heart trembles at your word."
+  }, {
+    "verse" : "psalms,119,162",
+    "text" : "I rejoice in your promise like one who finds great spoil."
+  }, {
+    "verse" : "psalms,119,163",
+    "text" : "I hate and abhor falsehood but I love your law."
+  }, {
+    "verse" : "psalms,119,164",
+    "text" : "Seven times a day I praise you for your righteous laws."
+  }, {
+    "verse" : "psalms,119,165",
+    "text" : "Great peace have they who love your law, and nothing can make them stumble."
+  }, {
+    "verse" : "psalms,119,166",
+    "text" : "I wait for your salvation, O LORD, and I follow your commands."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,119,161",
     "id" : 191405,
@@ -36,7 +78,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 119:161\">119:161</a></b> <b>Princes persecute me.</b> The opposition of princes indicate that the psalmist is probably a powerful person, perhaps the king of Israel.</p><p><b>without cause.</b> See <a class=\"bibleref\" href=\"/passage/?search=Ps 38:19\">Ps. 38:19</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,119,167", "psalms,119,168" ],
+  "verses" : [ {
+    "verse" : "psalms,119,167",
+    "text" : "I obey your statutes, for I love them greatly."
+  }, {
+    "verse" : "psalms,119,168",
+    "text" : "I obey your precepts and your statutes, for all my ways are known to you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,119,167",
     "id" : 191406,
@@ -44,7 +92,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 119:167\">119:167</a></b> <b>I love them exceedingly.</b> Obedience is not an onerous task for the psalmist; he follows God’s law because he wants to.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,119,169" ],
+  "verses" : [ {
+    "verse" : "psalms,119,169",
+    "text" : "May my cry come before you, O LORD; give me understanding according to your word."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,119,169",
     "id" : 191407,
@@ -52,7 +103,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 119:169\">119:169</a></b> <b>give me understanding.</b> This line sums up one of the major themes of the psalm: the desire for insight into God’s will so that the writer may act in obedience.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,119,170", "psalms,119,171", "psalms,119,172", "psalms,119,173", "psalms,119,174" ],
+  "verses" : [ {
+    "verse" : "psalms,119,170",
+    "text" : "May my supplication come before you; deliver me according to your promise."
+  }, {
+    "verse" : "psalms,119,171",
+    "text" : "May my lips overflow with praise, for you teach me your decrees."
+  }, {
+    "verse" : "psalms,119,172",
+    "text" : "May my tongue sing of your word, for all your commands are righteous."
+  }, {
+    "verse" : "psalms,119,173",
+    "text" : "May your hand be ready to help me, for I have chosen your precepts."
+  }, {
+    "verse" : "psalms,119,174",
+    "text" : "I long for your salvation, O LORD, and your law is my delight."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,119,170",
     "id" : 191408,
@@ -60,7 +126,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 119:170\">119:170</a></b> <b>deliver me.</b> Another major theme of the psalm is summed up: the psalmist’s need for deliverance.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,119,175" ],
+  "verses" : [ {
+    "verse" : "psalms,119,175",
+    "text" : "Let me live that I may praise you, and may your laws sustain me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,119,175",
     "id" : 191409,
@@ -68,7 +137,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 119:175\">119:175</a></b> <b>Let my soul live.</b> Once again, an indication that the poet was in the midst of trouble at the time he composed his song.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,119,176" ],
+  "verses" : [ {
+    "verse" : "psalms,119,176",
+    "text" : "I have strayed like a lost sheep. Seek your servant, for I have not forgotten your commands."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,119,176",
     "id" : 191410,

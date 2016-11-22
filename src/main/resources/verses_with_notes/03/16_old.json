@@ -1,5 +1,14 @@
 [ {
-  "singleVerses" : [ "numbers,24,1", "numbers,24,2", "numbers,24,3" ],
+  "verses" : [ {
+    "verse" : "numbers,24,1",
+    "text" : "Now when Balaam saw that it pleased the LORD to bless Israel, he did not resort to sorcery as at other times, but turned his face toward the desert."
+  }, {
+    "verse" : "numbers,24,2",
+    "text" : "When Balaam looked out and saw Israel encamped tribe by tribe, the Spirit of God came upon him"
+  }, {
+    "verse" : "numbers,24,3",
+    "text" : "and he uttered his oracle: \"The oracle of Balaam son of Beor, the oracle of one whose eye sees clearly,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,22,2-numbers,24,25",
     "id" : 186269,
@@ -12,7 +21,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Num 24:1-Num 24:9\">24:1–9</a></b> Balaam’s third oracle pictures the blessings that God plans for Israel, ending with a curse from the Abrahamic promise against those who curse her (<a class=\"bibleref\" href=\"/passage/?search=Num 24:9\">v. 9</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 12:3\">Gen. 12:3</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "numbers,24,4", "numbers,24,5", "numbers,24,6" ],
+  "verses" : [ {
+    "verse" : "numbers,24,4",
+    "text" : "the oracle of one who hears the words of God, who sees a vision from the Almighty, who falls prostrate, and whose eyes are opened:"
+  }, {
+    "verse" : "numbers,24,5",
+    "text" : "\"How beautiful are your tents, O Jacob, your dwelling places, O Israel!"
+  }, {
+    "verse" : "numbers,24,6",
+    "text" : "\"Like valleys they spread out, like gardens beside a river, like aloes planted by the LORD, like cedars beside the waters."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,24,4",
     "id" : 186280,
@@ -20,7 +38,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Num 24:4\">24:4</a></b> <b>the vision of the Almighty.</b> The word translated “Almighty” (also in <a class=\"bibleref\" href=\"/passage/?search=Num 24:16\">v. 16</a>) is the Hebrew word <i>shaddai,</i> a divine name associated with the patriarchal narratives (<a class=\"bibleref\" href=\"/passage/?search=Gen 17:1\">Gen. 17:1</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 28:3\">28:3</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 35:11\">35:11</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 43:14\">43:14</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 48:3\">48:3</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 49:25\">49:25</a>) that also occurs frequently in Job.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "numbers,24,7", "numbers,24,8", "numbers,24,9" ],
+  "verses" : [ {
+    "verse" : "numbers,24,7",
+    "text" : "Water will flow from their buckets; their seed will have abundant water. \"Their king will be greater than Agag; their kingdom will be exalted."
+  }, {
+    "verse" : "numbers,24,8",
+    "text" : "\"God brought them out of Egypt; they have the strength of a wild ox. They devour hostile nations and break their bones in pieces; with their arrows they pierce them."
+  }, {
+    "verse" : "numbers,24,9",
+    "text" : "Like a lion they crouch and lie down, like a lioness-who dares to rouse them? \"May those who bless you be blessed and those who curse you be cursed!\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,24,7",
     "id" : 186281,
@@ -28,7 +55,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Num 24:7\">24:7</a></b> <b>Agag.</b> <a class=\"bibleref\" href=\"/passage/?search=1Sam 15:32\">1 Samuel 15:32</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 15:33\">33</a> recounts the death of an Amalekite king who bore this name. Here Balaam may refer to an earlier prominent king of the Amalekites bearing the same personal name. It is also possible that “Agag” was a title, just as the title “Pharaoh” was used by many Egyptian rulers.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "numbers,24,10", "numbers,24,11", "numbers,24,12", "numbers,24,13", "numbers,24,14" ],
+  "verses" : [ {
+    "verse" : "numbers,24,10",
+    "text" : "Then Balak's anger burned against Balaam. He struck his hands together and said to him, \"I summoned you to curse my enemies, but you have blessed them these three times."
+  }, {
+    "verse" : "numbers,24,11",
+    "text" : "Now leave at once and go home! I said I would reward you handsomely, but the LORD has kept you from being rewarded.\""
+  }, {
+    "verse" : "numbers,24,12",
+    "text" : "Balaam answered Balak, \"Did I not tell the messengers you sent me,"
+  }, {
+    "verse" : "numbers,24,13",
+    "text" : "'Even if Balak gave me his palace filled with silver and gold, I could not do anything of my own accord, good or bad, to go beyond the command of the LORD -and I must say only what the LORD says'?"
+  }, {
+    "verse" : "numbers,24,14",
+    "text" : "Now I am going back to my people, but come, let me warn you of what this people will do to your people in days to come.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,24,10-numbers,24,11",
     "id" : 186282,
@@ -36,7 +78,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Num 24:10\">24:10</a>, <a class=\"bibleref\" href=\"/passage/?search=Num 24:11\">11</a></b> Balak refuses to pay the hired prophet his “wages of unrighteousness”—the “honor” he was expecting (<a class=\"bibleref\" href=\"/passage/?search=Num 22:7\">22:7</a>; <a class=\"bibleref\" href=\"/passage/?search=2Pet 2:15\">2 Pet. 2:15</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "numbers,24,15", "numbers,24,16", "numbers,24,17", "numbers,24,18", "numbers,24,19" ],
+  "verses" : [ {
+    "verse" : "numbers,24,15",
+    "text" : "Then he uttered his oracle: \"The oracle of Balaam son of Beor, the oracle of one whose eye sees clearly,"
+  }, {
+    "verse" : "numbers,24,16",
+    "text" : "the oracle of one who hears the words of God, who has knowledge from the Most High, who sees a vision from the Almighty, who falls prostrate, and whose eyes are opened:"
+  }, {
+    "verse" : "numbers,24,17",
+    "text" : "\"I see him, but not now; I behold him, but not near. A star will come out of Jacob; a scepter will rise out of Israel. He will crush the foreheads of Moab, the skulls of all the sons of Sheth."
+  }, {
+    "verse" : "numbers,24,18",
+    "text" : "Edom will be conquered; Seir, his enemy, will be conquered, but Israel will grow strong."
+  }, {
+    "verse" : "numbers,24,19",
+    "text" : "A ruler will come out of Jacob and destroy the survivors of the city.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,24,15-numbers,24,19",
     "id" : 186283,
@@ -44,7 +101,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Num 24:15-Num 24:19\">24:15–19</a></b> In his fourth oracle, Balaam predicts the future advent of a royal conqueror who would triumph over Moab and Edom. An initial fulfillment of these predictions is found in <a class=\"bibleref\" href=\"/passage/?search=2Sam 8:2-2Sam 8:14\">2 Sam. 8:2–14</a>, which describes David’s victory over the Moabites and Edomites. But his accomplishments prefigure the greater conquests of Christ (e.g., <a class=\"bibleref\" href=\"/passage/?search=Col 2:15\">Col. 2:15</a>; <a class=\"bibleref\" href=\"/passage/?search=1Cor 15:25\">1 Cor. 15:25</a>, <a class=\"bibleref\" href=\"/passage/?search=1Cor 15:26\">26</a>; <a class=\"bibleref\" href=\"/passage/?search=Rev 20:10\">Rev. 20:10</a>, <a class=\"bibleref\" href=\"/passage/?search=Rev 20:14\">14</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "numbers,24,20" ],
+  "verses" : [ {
+    "verse" : "numbers,24,20",
+    "text" : "Then Balaam saw Amalek and uttered his oracle: \"Amalek was first among the nations, but he will come to ruin at last.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,24,20-numbers,24,25",
     "id" : 186284,
@@ -57,7 +117,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Num 24:20\">24:20</a></b> <b>Amalek.</b> See notes <a class=\"bibleref\" href=\"/passage/?search=Exod 17:8\">Ex. 17:8</a>, <a class=\"bibleref\" href=\"/passage/?search=Exod 17:16\">16</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "numbers,24,21" ],
+  "verses" : [ {
+    "verse" : "numbers,24,21",
+    "text" : "Then he saw the Kenites and uttered his oracle: \"Your dwelling place is secure, your nest is set in a rock;"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,24,21",
     "id" : 186286,
@@ -65,7 +128,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Num 24:21\">24:21</a></b> <b>Kenite.</b> A nomadic tribe of metalworkers found in Palestine from the Patriarchal period onward (<a class=\"bibleref\" href=\"/passage/?search=Gen 15:19\">Gen. 15:19</a>). Moses’ father-in-law is identified as both a Midianite and a Kenite (<a class=\"bibleref\" href=\"/passage/?search=Exod 2:16\">Ex. 2:16</a>; <a class=\"bibleref\" href=\"/passage/?search=Judg 1:16\">Judg. 1:16</a>). The Rechabites of <a class=\"bibleref\" href=\"/passage/?search=Jer 35\">Jer. 35</a> are thought to be descendants of the Kenites (<a class=\"bibleref\" href=\"/passage/?search=1Chr 2:55\">1 Chr. 2:55</a>; <a class=\"bibleref\" href=\"/passage/?search=Neh 3:14\">Neh. 3:14</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "numbers,24,22", "numbers,24,23" ],
+  "verses" : [ {
+    "verse" : "numbers,24,22",
+    "text" : "yet you Kenites will be destroyed when Asshur takes you captive.\""
+  }, {
+    "verse" : "numbers,24,23",
+    "text" : "Then he uttered his oracle: \"Ah, who can live when God does this?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,24,22",
     "id" : 186287,
@@ -73,7 +142,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Num 24:22\">24:22</a></b> <b>Asshur.</b> The Assyrians of northern Mesopotamia were already an important military power, but their greatest conquests would be made centuries later (cf. <a class=\"bibleref\" href=\"/passage/?search=Isa 36\">Is. 36</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "numbers,24,24", "numbers,24,25" ],
+  "verses" : [ {
+    "verse" : "numbers,24,24",
+    "text" : "Ships will come from the shores of Kittim; they will subdue Asshur and Eber, but they too will come to ruin.\""
+  }, {
+    "verse" : "numbers,24,25",
+    "text" : "Then Balaam got up and returned home and Balak went his own way."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,24,24",
     "id" : 186288,
@@ -81,7 +156,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Num 24:24\">24:24</a></b> <b>Kittim.</b> The Hebrew name for Cyprus came to represent the Mediterranean region to the west of Palestine. In <a class=\"bibleref\" href=\"/passage/?search=Dan 11:30\">Dan. 11:30</a>, this word is used to predict the effects of Roman naval power.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "numbers,25,1", "numbers,25,2" ],
+  "verses" : [ {
+    "verse" : "numbers,25,1",
+    "text" : "While Israel was staying in Shittim, the men began to indulge in sexual immorality with Moabite women,"
+  }, {
+    "verse" : "numbers,25,2",
+    "text" : "who invited them to the sacrifices to their gods. The people ate and bowed down before these gods."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,25,1-numbers,25,3",
     "id" : 186289,
@@ -94,7 +175,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Num 25:1\">25:1</a></b> <b>Shittim.</b> This Hebrew word identifies the region across the Jordan from Jericho (cf. <a class=\"bibleref\" href=\"/passage/?search=Josh 2:1\">Josh. 2:1</a>). Here worship of the local fertility god was joined with ritual prostitution (vv. 1–3, 6).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "numbers,25,3" ],
+  "verses" : [ {
+    "verse" : "numbers,25,3",
+    "text" : "So Israel joined in worshiping the Baal of Peor. And the LORD's anger burned against them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,25,3",
     "id" : 186291,
@@ -102,7 +186,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Num 25:3\">25:3</a></b> <b>yoked himself to Baal of Peor.</b> In gross defiance of the covenant between the Lord and Israel, the Israelites yoked themselves to the false god through their idolatrous worship.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "numbers,25,4", "numbers,25,5", "numbers,25,6", "numbers,25,7", "numbers,25,8", "numbers,25,9", "numbers,25,10" ],
+  "verses" : [ {
+    "verse" : "numbers,25,4",
+    "text" : "The LORD said to Moses, \"Take all the leaders of these people, kill them and expose them in broad daylight before the LORD, so that the LORD's fierce anger may turn away from Israel.\""
+  }, {
+    "verse" : "numbers,25,5",
+    "text" : "So Moses said to Israel's judges, \"Each of you must put to death those of your men who have joined in worshiping the Baal of Peor.\""
+  }, {
+    "verse" : "numbers,25,6",
+    "text" : "Then an Israelite man brought to his family a Midianite woman right before the eyes of Moses and the whole assembly of Israel while they were weeping at the entrance to the Tent of Meeting."
+  }, {
+    "verse" : "numbers,25,7",
+    "text" : "When Phinehas son of Eleazar, the son of Aaron, the priest, saw this, he left the assembly, took a spear in his hand"
+  }, {
+    "verse" : "numbers,25,8",
+    "text" : "and followed the Israelite into the tent. He drove the spear through both of them-through the Israelite and into the woman's body. Then the plague against the Israelites was stopped;"
+  }, {
+    "verse" : "numbers,25,9",
+    "text" : "but those who died in the plague numbered 24,000."
+  }, {
+    "verse" : "numbers,25,10",
+    "text" : "The LORD said to Moses,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,25,4",
     "id" : 186292,
@@ -110,7 +215,31 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Num 25:4\">25:4</a></b> <b>hang them.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Deut 21:22\">Deut. 21:22</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "numbers,25,11", "numbers,25,12", "numbers,25,13", "numbers,25,14", "numbers,25,15", "numbers,25,16", "numbers,25,17", "numbers,25,18" ],
+  "verses" : [ {
+    "verse" : "numbers,25,11",
+    "text" : "\"Phinehas son of Eleazar, the son of Aaron, the priest, has turned my anger away from the Israelites; for he was as zealous as I am for my honor among them, so that in my zeal I did not put an end to them."
+  }, {
+    "verse" : "numbers,25,12",
+    "text" : "Therefore tell him I am making my covenant of peace with him."
+  }, {
+    "verse" : "numbers,25,13",
+    "text" : "He and his descendants will have a covenant of a lasting priesthood, because he was zealous for the honor of his God and made atonement for the Israelites.\""
+  }, {
+    "verse" : "numbers,25,14",
+    "text" : "The name of the Israelite who was killed with the Midianite woman was Zimri son of Salu, the leader of a Simeonite family."
+  }, {
+    "verse" : "numbers,25,15",
+    "text" : "And the name of the Midianite woman who was put to death was Cozbi daughter of Zur, a tribal chief of a Midianite family."
+  }, {
+    "verse" : "numbers,25,16",
+    "text" : "The LORD said to Moses,"
+  }, {
+    "verse" : "numbers,25,17",
+    "text" : "\"Treat the Midianites as enemies and kill them,"
+  }, {
+    "verse" : "numbers,25,18",
+    "text" : "because they treated you as enemies when they deceived you in the affair of Peor and their sister Cozbi, the daughter of a Midianite leader, the woman who was killed when the plague came as a result of Peor.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,25,11",
     "id" : 186293,

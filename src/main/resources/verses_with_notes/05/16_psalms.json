@@ -1,5 +1,14 @@
 [ {
-  "singleVerses" : [ "psalms,112,1", "psalms,112,2", "psalms,112,3" ],
+  "verses" : [ {
+    "verse" : "psalms,112,1",
+    "text" : "Praise the LORD. Blessed is the man who fears the LORD, who finds great delight in his commands."
+  }, {
+    "verse" : "psalms,112,2",
+    "text" : "His children will be mighty in the land; the generation of the upright will be blessed."
+  }, {
+    "verse" : "psalms,112,3",
+    "text" : "Wealth and riches are in his house, and his righteousness endures forever."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,112,1-psalms,112,10",
     "id" : 191278,
@@ -12,7 +21,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 112:1\">112:1</a></b> <b>in his commandments.</b> The righteous person receives the law as a testimony of God; they are a joy, to be kept in love and gratitude for His great salvation.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,112,4", "psalms,112,5", "psalms,112,6" ],
+  "verses" : [ {
+    "verse" : "psalms,112,4",
+    "text" : "Even in darkness light dawns for the upright, for the gracious and compassionate and righteous man."
+  }, {
+    "verse" : "psalms,112,5",
+    "text" : "Good will come to him who is generous and lends freely, who conducts his affairs with justice."
+  }, {
+    "verse" : "psalms,112,6",
+    "text" : "Surely he will never be shaken; a righteous man will be remembered forever."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,112,4",
     "id" : 191280,
@@ -20,7 +38,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 112:4\">112:4</a></b> <b>in the darkness.</b> Darkness is a metaphor for troubled times. The psalmist knows that there are hard times, but he also knows that “for those who love God all things work together for good” (<a class=\"bibleref\" href=\"/passage/?search=Rom 8:28\">Rom. 8:28</a>).</p><p><b>gracious, merciful, and righteous.</b> The godly man reflects the attributes of his Lord; see 111:4.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,112,7", "psalms,112,8" ],
+  "verses" : [ {
+    "verse" : "psalms,112,7",
+    "text" : "He will have no fear of bad news; his heart is steadfast, trusting in the LORD."
+  }, {
+    "verse" : "psalms,112,8",
+    "text" : "His heart is secure, he will have no fear; in the end he will look in triumph on his foes."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,112,7",
     "id" : 191281,
@@ -28,7 +52,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 112:7\">112:7</a></b> <b>not afraid of bad news.</b> The righteous man does not fear trouble or distress, because he knows that God is able to bring him through it.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,112,9", "psalms,112,10" ],
+  "verses" : [ {
+    "verse" : "psalms,112,9",
+    "text" : "He has scattered abroad his gifts to the poor, his righteousness endures forever; his horn will be lifted high in honor."
+  }, {
+    "verse" : "psalms,112,10",
+    "text" : "The wicked man will see and be vexed, he will gnash his teeth and waste away; the longings of the wicked will come to nothing."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,112,9",
     "id" : 191282,

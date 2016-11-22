@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "psalms,78,56", "psalms,78,57" ],
+  "verses" : [ {
+    "verse" : "psalms,78,56",
+    "text" : "But they put God to the test and rebelled against the Most High; they did not keep his statutes."
+  }, {
+    "verse" : "psalms,78,57",
+    "text" : "Like their fathers they were disloyal and faithless, as unreliable as a faulty bow."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,78,54-psalms,78,64",
     "id" : 190920,
@@ -12,7 +18,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 78:56\">78:56</a></b> <b>tested and rebelled against the Most High God.</b> They did not keep His law in the desert, nor did they keep it in the Promised Land. See <a class=\"bibleref\" href=\"/passage/?search=Judg 2:10-Judg 2:15\">Judg. 2:10–15</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,78,58", "psalms,78,59" ],
+  "verses" : [ {
+    "verse" : "psalms,78,58",
+    "text" : "They angered him with their high places; they aroused his jealousy with their idols."
+  }, {
+    "verse" : "psalms,78,59",
+    "text" : "When God heard them, he was very angry; he rejected Israel completely."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,78,58",
     "id" : 190923,
@@ -20,7 +32,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 78:58\">78:58</a></b> <b>with their idols.</b> The height of their rebellion was to worship false gods.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,78,60" ],
+  "verses" : [ {
+    "verse" : "psalms,78,60",
+    "text" : "He abandoned the tabernacle of Shiloh, the tent he had set up among men."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,78,60",
     "id" : 190924,
@@ -28,7 +43,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 78:60\">78:60</a></b> <b>dwelling at Shiloh.</b> Soon after entering the Promised Land, the tabernacle was set up in Shiloh (<a class=\"bibleref\" href=\"/passage/?search=Josh 18:1\">Josh. 18:1</a>), twenty miles northeast of Jerusalem, in the tribal territory of Ephraim.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,78,61", "psalms,78,62", "psalms,78,63", "psalms,78,64" ],
+  "verses" : [ {
+    "verse" : "psalms,78,61",
+    "text" : "He sent the ark of his might into captivity, his splendor into the hands of the enemy."
+  }, {
+    "verse" : "psalms,78,62",
+    "text" : "He gave his people over to the sword; he was very angry with his inheritance."
+  }, {
+    "verse" : "psalms,78,63",
+    "text" : "Fire consumed their young men, and their maidens had no wedding songs;"
+  }, {
+    "verse" : "psalms,78,64",
+    "text" : "their priests were put to the sword, and their widows could not weep."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,78,61",
     "id" : 190925,

@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,10,23" ],
+  "verses" : [ {
+    "verse" : "proverbs,10,23",
+    "text" : "A fool finds pleasure in evil conduct, but a man of understanding delights in wisdom."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

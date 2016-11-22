@@ -1,5 +1,20 @@
 [ {
-  "singleVerses" : [ "2samuel,23,24", "2samuel,23,25", "2samuel,23,26", "2samuel,23,27", "2samuel,23,28" ],
+  "verses" : [ {
+    "verse" : "2samuel,23,24",
+    "text" : "Among the Thirty were: Asahel the brother of Joab, Elhanan son of Dodo from Bethlehem,"
+  }, {
+    "verse" : "2samuel,23,25",
+    "text" : "Shammah the Harodite, Elika the Harodite,"
+  }, {
+    "verse" : "2samuel,23,26",
+    "text" : "Helez the Paltite, Ira son of Ikkesh from Tekoa,"
+  }, {
+    "verse" : "2samuel,23,27",
+    "text" : "Abiezer from Anathoth, Mebunnai the Hushathite,"
+  }, {
+    "verse" : "2samuel,23,28",
+    "text" : "Zalmon the Ahohite, Maharai the Netophathite,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,23,8-2samuel,23,39",
     "id" : 188064,
@@ -12,7 +27,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 23:24\">23:24</a></b> <b>Asahel.</b> See note <a class=\"bibleref\" href=\"/passage/?search=2Sam 2:18\">2:18</a>.</p><p><b>the thirty.</b> “Thirty” may be a round number. Not surprisingly, more of David’s men are from the tribe of Judah than from any other.</p><p><b>Elhanan.</b> He is not necessarily the same Elhanan as in <a class=\"bibleref\" href=\"/passage/?search=2Sam 21:19\">21:19</a> (note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,23,29" ],
+  "verses" : [ {
+    "verse" : "2samuel,23,29",
+    "text" : "Heled son of Baanah the Netophathite, Ithai son of Ribai from Gibeah in Benjamin,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,23,29",
     "id" : 188075,
@@ -20,7 +38,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 23:29\">23:29</a></b> <b>Gibeah of the people of Benjamin.</b> David received support even from Saul’s hometown (<a class=\"bibleref\" href=\"/passage/?search=1Sam 10:26\">1 Sam. 10:26</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 11:4\">11:4</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,23,30", "2samuel,23,31", "2samuel,23,32", "2samuel,23,33" ],
+  "verses" : [ {
+    "verse" : "2samuel,23,30",
+    "text" : "Benaiah the Pirathonite, Hiddai from the ravines of Gaash,"
+  }, {
+    "verse" : "2samuel,23,31",
+    "text" : "Abi-Albon the Arbathite, Azmaveth the Barhumite,"
+  }, {
+    "verse" : "2samuel,23,32",
+    "text" : "Eliahba the Shaalbonite, the sons of Jashen, Jonathan"
+  }, {
+    "verse" : "2samuel,23,33",
+    "text" : "son of Shammah the Hararite, Ahiam son of Sharar the Hararite,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,23,30",
     "id" : 188076,
@@ -28,7 +58,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 23:30\">23:30</a></b> <b>Benaiah.</b> Not the same as Benaiah in <a class=\"bibleref\" href=\"/passage/?search=2Sam 23:20-2Sam 23:23\">vv. 20–23</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,23,34", "2samuel,23,35" ],
+  "verses" : [ {
+    "verse" : "2samuel,23,34",
+    "text" : "Eliphelet son of Ahasbai the Maacathite, Eliam son of Ahithophel the Gilonite,"
+  }, {
+    "verse" : "2samuel,23,35",
+    "text" : "Hezro the Carmelite, Paarai the Arbite,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,23,34",
     "id" : 188077,
@@ -36,7 +72,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 23:34\">23:34</a></b> <b>Eliam the son of Ahithophel.</b> See note <a class=\"bibleref\" href=\"/passage/?search=2Sam 11:3\">11:3</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,23,36" ],
+  "verses" : [ {
+    "verse" : "2samuel,23,36",
+    "text" : "Igal son of Nathan from Zobah, the son of Hagri,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,23,36",
     "id" : 188078,
@@ -44,7 +83,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 23:36\">23:36</a></b> <b>Zobah.</b> See note <a class=\"bibleref\" href=\"/passage/?search=2Sam 8:3\">8:3</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,23,37", "2samuel,23,38" ],
+  "verses" : [ {
+    "verse" : "2samuel,23,37",
+    "text" : "Zelek the Ammonite, Naharai the Beerothite, the armor-bearer of Joab son of Zeruiah,"
+  }, {
+    "verse" : "2samuel,23,38",
+    "text" : "Ira the Ithrite, Gareb the Ithrite"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,23,37",
     "id" : 188079,
@@ -52,7 +97,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 23:37\">23:37</a></b> <b>Beeroth.</b> See note <a class=\"bibleref\" href=\"/passage/?search=2Sam 4:3\">4:3</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,23,39" ],
+  "verses" : [ {
+    "verse" : "2samuel,23,39",
+    "text" : "and Uriah the Hittite. There were thirty-seven in all."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,23,39",
     "id" : 188080,
@@ -60,7 +108,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 23:39\">23:39</a></b> <b>Uriah the Hittite.</b> By concluding the list of David’s mighty men with Uriah, the victim of David’s great sin in <a class=\"bibleref\" href=\"/passage/?search=2Sam 11\">ch. 11</a>, the chapter ends with a poignant reminder that David was, like all men, a sinner and in need of God’s forgiveness (<a class=\"bibleref\" href=\"/passage/?search=2Sam 12\">ch. 12</a>). This theme is continued in the next chapter.</p><p><b>thirty-seven in all.</b> See note on vv. 8–39.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,24,1" ],
+  "verses" : [ {
+    "verse" : "2samuel,24,1",
+    "text" : "Again the anger of the LORD burned against Israel, and he incited David against them, saying, \"Go and take a census of Israel and Judah.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,24,1-2samuel,24,25",
     "id" : 188081,
@@ -73,7 +124,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 24:1\">24:1</a></b> <b>Again.</b> If a specific occasion is in view, a probable one is the famine of <a class=\"bibleref\" href=\"/passage/?search=2Sam 21:1\">21:1</a>.</p><p><b>he incited David.</b> The antecedent of “he” is the Lord (cf. <a class=\"bibleref\" href=\"/passage/?search=1Sam 26:19\">1 Sam. 26:19</a>). According to <a class=\"bibleref\" href=\"/passage/?search=1Chr 21:1\">1 Chr. 21:1</a>, however, it was Satan who moved David. At issue here is the mystery of the presence and practice of evil. The Scripture is clear that God is not the author of evil (<a class=\"bibleref\" href=\"/passage/?search=Jas 1:13-Jas 1:15\">James 1:13–15</a>), but it also teaches that the wicked acts of men and of Satan do not fall outside God’s sovereign determination (<a class=\"bibleref\" href=\"/passage/?search=Exod 4:21\">Ex. 4:21</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 2:25\">1 Sam. 2:25</a> and note; <a class=\"bibleref\" href=\"/passage/?search=1Kgs 22:20-1Kgs 22:23\">1 Kin. 22:20–23</a>; <a class=\"bibleref\" href=\"/passage/?search=Job 1:12\">Job 1:12</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 14:9\">Ezek. 14:9</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 4:27\">Acts 4:27</a>, <a class=\"bibleref\" href=\"/passage/?search=Acts 4:28\">28</a>). Satan is a creature, absolutely subordinate to the sovereignty of God. Satan’s activities and desires cannot create a space that is free from God’s control or that escapes God’s purposes.</p><p><b>number Israel and Judah.</b> Taking a census does not appear to have been wrong in itself (<a class=\"bibleref\" href=\"/passage/?search=Num 1:1\">Num. 1:1</a>, <a class=\"bibleref\" href=\"/passage/?search=Num 1:2\">2</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 4:1\">4:1</a>, <a class=\"bibleref\" href=\"/passage/?search=Num 4:2\">2</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 26:1-Num 26:4\">26:1–4</a>), but see <a class=\"bibleref\" href=\"/passage/?search=Exod 30:11\">Ex. 30:11</a>, <a class=\"bibleref\" href=\"/passage/?search=Exod 30:12\">12</a>. This act of census may have pointed to a lack of trust in David’s heart, or even to a desire to gain control of God’s providence by making an inventory of His apparent resources. That the report (v. 9) emphasizes military strength may suggest that David wanted to take more territory than what the Lord had granted him.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,24,2" ],
+  "verses" : [ {
+    "verse" : "2samuel,24,2",
+    "text" : "So the king said to Joab and the army commanders with him, \"Go throughout the tribes of Israel from Dan to Beersheba and enroll the fighting men, so that I may know how many there are.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,24,2",
     "id" : 188083,
@@ -81,7 +135,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 24:2\">24:2</a></b> <b>from Dan to Beersheba.</b> A proverbial expression for all the land.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,24,3", "2samuel,24,4" ],
+  "verses" : [ {
+    "verse" : "2samuel,24,3",
+    "text" : "But Joab replied to the king, \"May the LORD your God multiply the troops a hundred times over, and may the eyes of my lord the king see it. But why does my lord the king want to do such a thing?\""
+  }, {
+    "verse" : "2samuel,24,4",
+    "text" : "The king's word, however, overruled Joab and the army commanders; so they left the presence of the king to enroll the fighting men of Israel."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,24,3",
     "id" : 188084,
@@ -89,7 +149,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 24:3\">24:3</a></b> <b>but why.</b> The reason for Joab’s reluctance is not stated. It could as easily have been political as religious, since the people might have taken a census as a sign that David planned to raise taxes or to draft more soldiers.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,24,5", "2samuel,24,6", "2samuel,24,7" ],
+  "verses" : [ {
+    "verse" : "2samuel,24,5",
+    "text" : "After crossing the Jordan, they camped near Aroer, south of the town in the gorge, and then went through Gad and on to Jazer."
+  }, {
+    "verse" : "2samuel,24,6",
+    "text" : "They went to Gilead and the region of Tahtim Hodshi, and on to Dan Jaan and around toward Sidon."
+  }, {
+    "verse" : "2samuel,24,7",
+    "text" : "Then they went toward the fortress of Tyre and all the towns of the Hivites and Canaanites. Finally, they went on to Beersheba in the Negev of Judah."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,24,5-2samuel,24,7",
     "id" : 188085,
@@ -97,7 +166,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 24:5-2Sam 24:7\">24:5–7</a></b> These verses indicate that the census was begun in the south, east of the Jordan River, and continued in a counterclockwise direction through the the land, finally arriving in Beersheba.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,24,8", "2samuel,24,9" ],
+  "verses" : [ {
+    "verse" : "2samuel,24,8",
+    "text" : "After they had gone through the entire land, they came back to Jerusalem at the end of nine months and twenty days."
+  }, {
+    "verse" : "2samuel,24,9",
+    "text" : "Joab reported the number of the fighting men to the king: In Israel there were eight hundred thousand able-bodied men who could handle a sword, and in Judah five hundred thousand."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,24,8",
     "id" : 188086,
@@ -105,7 +180,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 24:8\">24:8</a></b> <b>nine months and twenty days.</b> Most of this time was needed for taking the census; the travel itself could have been accomplished in a matter of weeks.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,24,10", "2samuel,24,11" ],
+  "verses" : [ {
+    "verse" : "2samuel,24,10",
+    "text" : "David was conscience-stricken after he had counted the fighting men, and he said to the LORD, \"I have sinned greatly in what I have done. Now, O LORD, I beg you, take away the guilt of your servant. I have done a very foolish thing.\""
+  }, {
+    "verse" : "2samuel,24,11",
+    "text" : "Before David got up the next morning, the word of the LORD had come to Gad the prophet, David's seer:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,24,10",
     "id" : 188087,
@@ -113,7 +194,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 24:10\">24:10</a></b> <b>take away the iniquity.</b> David’s plea for forgiveness may have been granted by God before the arrival of Gad (<a class=\"bibleref\" href=\"/passage/?search=2Sam 24:11-2Sam 24:13\">vv. 11–13</a>). Nevertheless, as in the case of David’s sin against Uriah and Bathsheba, forgiveness does not mean that sin will have no further consequences (<a class=\"bibleref\" href=\"/passage/?search=2Sam 24:13\">v. 13</a>; <a class=\"bibleref\" href=\"/passage/?search=2Sam 12:13\">12:13</a>, <a class=\"bibleref\" href=\"/passage/?search=2Sam 12:14\">14</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,24,12" ],
+  "verses" : [ {
+    "verse" : "2samuel,24,12",
+    "text" : "\"Go and tell David, 'This is what the LORD says: I am giving you three options. Choose one of them for me to carry out against you.'\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,24,12",
     "id" : 188088,
@@ -121,7 +205,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 24:12\">24:12</a></b> <b>Go and say to David.</b> The Lord sends Gad to confront David, as He had earlier sent the prophet Nathan (<a class=\"bibleref\" href=\"/passage/?search=2Sam 12:1\">12:1</a> and note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,24,13" ],
+  "verses" : [ {
+    "verse" : "2samuel,24,13",
+    "text" : "So Gad went to David and said to him, \"Shall there come upon you three years of famine in your land? Or three months of fleeing from your enemies while they pursue you? Or three days of plague in your land? Now then, think it over and decide how I should answer the one who sent me.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,24,13",
     "id" : 188089,
@@ -129,7 +216,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 24:13\">24:13</a></b> <b>famine . . . foes . . . pestilence.</b> Implicit in the threat of pursuit by “foes” is loss of life by the sword, as <a class=\"bibleref\" href=\"/passage/?search=1Chr 21:12\">1 Chr. 21:12</a> makes explicit. Famine, sword, and plague are the Old Testament’s triad of woes regularly threatened for obdurate covenant-breaking (<a class=\"bibleref\" href=\"/passage/?search=Lev 26:23-Lev 26:26\">Lev. 26:23–26</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 28:21-Deut 28:26\">Deut. 28:21–26</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 32:24\">32:24</a>, <a class=\"bibleref\" href=\"/passage/?search=Deut 32:25\">25</a>; <a class=\"bibleref\" href=\"/passage/?search=1Kgs 8:37\">1 Kin. 8:37</a>; <a class=\"bibleref\" href=\"/passage/?search=2Chr 20:9\">2 Chr. 20:9</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 51:19\">Is. 51:19</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 14:12\">Jer. 14:12</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 6:11\">Ezek. 6:11</a>, <a class=\"bibleref\" href=\"/passage/?search=Ezek 6:12\">12</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,24,14" ],
+  "verses" : [ {
+    "verse" : "2samuel,24,14",
+    "text" : "David said to Gad, \"I am in deep distress. Let us fall into the hands of the LORD, for his mercy is great; but do not let me fall into the hands of men.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,24,14",
     "id" : 188090,
@@ -137,7 +227,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 24:14\">24:14</a></b> <b>Let us fall into the hand of the <span class=\"small-caps\">Lord.</span></b> Technically, this would allow either the first or third option, that is, famine or plague. The inference is sometimes made that David’s choice is selfish, but all three options, including flight before enemies, would have cost lives (<a class=\"bibleref\" href=\"/passage/?search=2Sam 24:13\">v. 13</a> note). David’s motivation is entirely different, for he had learned that the Lord’s mercy is great (<a class=\"bibleref\" href=\"/passage/?search=2Sam 24:16\">v. 16</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Exod 34:6\">Ex. 34:6</a>, <a class=\"bibleref\" href=\"/passage/?search=Exod 34:7\">7</a>; <a class=\"bibleref\" href=\"/passage/?search=Neh 9:17\">Neh. 9:17</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 30:5\">Ps. 30:5</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 86:14-Ps 86:16\">86:14–16</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 103:8-Ps 103:10\">103:8–10</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 54:7\">Is. 54:7</a>, <a class=\"bibleref\" href=\"/passage/?search=Isa 54:8\">8</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 60:10\">60:10</a>; <a class=\"bibleref\" href=\"/passage/?search=Hos 11:8\">Hos. 11:8</a>, <a class=\"bibleref\" href=\"/passage/?search=Hos 11:9\">9</a>; <a class=\"bibleref\" href=\"/passage/?search=Joel 2:13\">Joel 2:13</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,24,15" ],
+  "verses" : [ {
+    "verse" : "2samuel,24,15",
+    "text" : "So the LORD sent a plague on Israel from that morning until the end of the time designated, and seventy thousand of the people from Dan to Beersheba died."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,24,15",
     "id" : 188091,
@@ -145,7 +238,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 24:15\">24:15</a></b> <b>Dan to Beersheba.</b> See <a class=\"bibleref\" href=\"/passage/?search=2Sam 24:2\">v. 2</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,24,16" ],
+  "verses" : [ {
+    "verse" : "2samuel,24,16",
+    "text" : "When the angel stretched out his hand to destroy Jerusalem, the LORD was grieved because of the calamity and said to the angel who was afflicting the people, \"Enough! Withdraw your hand.\" The angel of the LORD was then at the threshing floor of Araunah the Jebusite."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,24,16",
     "id" : 188092,
@@ -153,7 +249,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 24:16\">24:16</a></b> <b>angel of the <span class=\"small-caps\">Lord.</span></b> See note <a class=\"bibleref\" href=\"/passage/?search=Gen 16:7\">Gen. 16:7</a>. On the Lord’s angels as agents of judgment, see <a class=\"bibleref\" href=\"/passage/?search=Exod 33:2\">Ex. 33:2</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 35:5\">Ps. 35:5</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 35:6\">6</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 78:49\">78:49</a>; <a class=\"bibleref\" href=\"/passage/?search=Matt 13:41\">Matt. 13:41</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 12:23\">Acts 12:23</a>.</p><p><b>threshing floor of Araunah.</b> See note 24:1–25.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,24,17", "2samuel,24,18", "2samuel,24,19", "2samuel,24,20", "2samuel,24,21" ],
+  "verses" : [ {
+    "verse" : "2samuel,24,17",
+    "text" : "When David saw the angel who was striking down the people, he said to the LORD, \"I am the one who has sinned and done wrong. These are but sheep. What have they done? Let your hand fall upon me and my family.\""
+  }, {
+    "verse" : "2samuel,24,18",
+    "text" : "On that day Gad went to David and said to him, \"Go up and build an altar to the LORD on the threshing floor of Araunah the Jebusite.\""
+  }, {
+    "verse" : "2samuel,24,19",
+    "text" : "So David went up, as the LORD had commanded through Gad."
+  }, {
+    "verse" : "2samuel,24,20",
+    "text" : "When Araunah looked and saw the king and his men coming toward him, he went out and bowed down before the king with his face to the ground."
+  }, {
+    "verse" : "2samuel,24,21",
+    "text" : "Araunah said, \"Why has my lord the king come to his servant?To buy your threshing floor,\" David answered, \"so I can build an altar to the LORD, that the plague on the people may be stopped.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,24,17",
     "id" : 188093,
@@ -161,7 +272,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 24:17\">24:17</a></b> <b>let your hand be against me.</b> The heart of David, like the heart of God (<a class=\"bibleref\" href=\"/passage/?search=2Sam 24:16\">v. 16</a>), is grieved by the suffering he sees among his people, his “sheep.” As their shepherd-king, he is moved to compassion and, not knowing that God in His mercy has already stayed His hand (<a class=\"bibleref\" href=\"/passage/?search=2Sam 24:16\">vv. 16</a>, <a class=\"bibleref\" href=\"/passage/?search=2Sam 24:21\">21</a>), asks that the hand of judgment fall upon him alone. David deserved punishment for his sin, and the people were innocent. David’s offer as a guilty person to suffer in the place of innocent “sheep” is not a very close analogy of Christ’s death for the sake of His sheep (<a class=\"bibleref\" href=\"/passage/?search=John 10:11\">John 10:11</a>), although the language is similar. Christ was innocent and died for the guilty.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,24,22", "2samuel,24,23" ],
+  "verses" : [ {
+    "verse" : "2samuel,24,22",
+    "text" : "Araunah said to David, \"Let my lord the king take whatever pleases him and offer it up. Here are oxen for the burnt offering, and here are threshing sledges and ox yokes for the wood."
+  }, {
+    "verse" : "2samuel,24,23",
+    "text" : "O king, Araunah gives all this to the king.\" Araunah also said to him, \"May the LORD your God accept you.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,24,22",
     "id" : 188094,
@@ -169,7 +286,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 24:22\">24:22</a></b> <b>burnt offering.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Sam 10:8\">1 Sam. 10:8</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,24,24" ],
+  "verses" : [ {
+    "verse" : "2samuel,24,24",
+    "text" : "But the king replied to Araunah, \"No, I insist on paying you for it. I will not sacrifice to the LORD my God burnt offerings that cost me nothing.\" So David bought the threshing floor and the oxen and paid fifty shekels of silver for them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,24,24",
     "id" : 188095,
@@ -177,7 +297,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Sam 24:24\">24:24</a></b> <b>I will not offer burnt offerings to the <span class=\"small-caps\">Lord</span> my God that cost me nothing.</b> While God’s grace and forgiveness are free, David understands that proper worship of God is never to be cheap or careless (cf. <a class=\"bibleref\" href=\"/passage/?search=Mal 1:6-Mal 1:14\">Mal. 1:6–14</a>; <a class=\"bibleref\" href=\"/passage/?search=2Cor 8:1-2Cor 8:5\">2 Cor. 8:1–5</a>). The consistent testimony of Scripture is that God deserves our best, the “firstfruits” (<a class=\"bibleref\" href=\"/passage/?search=Num 18:12\">Num. 18:12</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 18:3-Deut 18:5\">Deut. 18:3–5</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 26:10\">26:10</a>; <a class=\"bibleref\" href=\"/passage/?search=Neh 12:44\">Neh. 12:44</a>; <a class=\"bibleref\" href=\"/passage/?search=Prov 3:9\">Prov. 3:9</a>).</p><p><b>fifty shekels of silver.</b> <a class=\"bibleref\" href=\"/passage/?search=1Chr 21:25\">1 Chr. 21:25</a> records a much larger sum of six hundred shekels of gold, possibly referring to a larger transaction of which the fifty shekels was a part.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2samuel,24,25" ],
+  "verses" : [ {
+    "verse" : "2samuel,24,25",
+    "text" : "David built an altar to the LORD there and sacrificed burnt offerings and fellowship offerings. Then the LORD answered prayer in behalf of the land, and the plague on Israel was stopped."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2samuel,24,25",
     "id" : 188096,

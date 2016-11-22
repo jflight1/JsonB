@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,26,13" ],
+  "verses" : [ {
+    "verse" : "proverbs,26,13",
+    "text" : "The sluggard says, \"There is a lion in the road, a fierce lion roaming the streets!\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,26,13-proverbs,26,16",
     "id" : 192258,
@@ -12,7 +15,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 26:13\">26:13</a></b> See <a class=\"bibleref\" href=\"/passage/?search=Prov 22:13\">22:13</a> and note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,26,14", "proverbs,26,15" ],
+  "verses" : [ {
+    "verse" : "proverbs,26,14",
+    "text" : "As a door turns on its hinges, so a sluggard turns on his bed."
+  }, {
+    "verse" : "proverbs,26,15",
+    "text" : "The sluggard buries his hand in the dish; he is too lazy to bring it back to his mouth."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,26,14",
     "id" : 192260,
@@ -20,7 +29,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 26:14\">26:14</a></b> Just like a door on its hinges, so lazy persons turn restlessly on their beds.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,26,16" ],
+  "verses" : [ {
+    "verse" : "proverbs,26,16",
+    "text" : "The sluggard is wiser in his own eyes than seven men who answer discreetly."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,26,16",
     "id" : 192261,

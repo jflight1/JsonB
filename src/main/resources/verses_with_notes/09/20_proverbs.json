@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,23,23" ],
+  "verses" : [ {
+    "verse" : "proverbs,23,23",
+    "text" : "Buy the truth and do not sell it; get wisdom, discipline and understanding."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,22,17-proverbs,24,22",
     "id" : 192162,

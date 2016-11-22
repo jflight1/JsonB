@@ -1,8 +1,17 @@
 [ {
-  "singleVerses" : [ "matthew,10,1" ],
+  "verses" : [ {
+    "verse" : "matthew,10,1",
+    "text" : "He called his twelve disciples to him and gave them authority to drive out evil spirits and to heal every disease and sickness."
+  } ],
   "rsbNotes" : [ ]
 }, {
-  "singleVerses" : [ "matthew,10,2", "matthew,10,3" ],
+  "verses" : [ {
+    "verse" : "matthew,10,2",
+    "text" : "These are the names of the twelve apostles: first, Simon (who is called Peter) and his brother Andrew; James son of Zebedee, and his brother John;"
+  }, {
+    "verse" : "matthew,10,3",
+    "text" : "Philip and Bartholomew; Thomas and Matthew the tax collector; James son of Alphaeus, and Thaddaeus;"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,10,2",
     "id" : 195720,
@@ -10,7 +19,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 10:2\">10:2</a></b> <b>apostles.</b> The Greek word <i>apostolos</i> designates an authorized representative or emissary whose word has the authority of the sender (see <a class=\"bibleref\" href=\"/passage/?search=2Cor 8:23\">2 Cor. 8:23</a> where it is translated “messengers,” and <a class=\"bibleref\" href=\"/passage/?search=2Cor 1:1\">2 Cor. 1:1</a> note). Here the Twelve receive authority to do exactly what Jesus was doing (vv. 7, 8).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,10,4" ],
+  "verses" : [ {
+    "verse" : "matthew,10,4",
+    "text" : "Simon the Zealot and Judas Iscariot, who betrayed him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,10,4",
     "id" : 195721,
@@ -18,7 +30,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 10:4\">10:4</a></b> <b>Simon the Cananaean.</b> A member of a revolutionary movement (“Simon . . . called the Zealot,” <a class=\"bibleref\" href=\"/passage/?search=Luke 6:15\">Luke 6:15</a>). According to Josephus, the Zealots were a political party whose religious enthusiasm led them to advocate armed rebellion against Rome. Simon may have been associated with this movement previously and continued to be called “the Cananaean” or “Zealot” to distinguish him from Simon Peter.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,10,5", "matthew,10,6" ],
+  "verses" : [ {
+    "verse" : "matthew,10,5",
+    "text" : "These twelve Jesus sent out with the following instructions: \"Do not go among the Gentiles or enter any town of the Samaritans."
+  }, {
+    "verse" : "matthew,10,6",
+    "text" : "Go rather to the lost sheep of Israel."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,10,5-matthew,11,1",
     "id" : 195722,
@@ -31,7 +49,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 10:5\">10:5</a></b> <b>Go nowhere.</b> Although Jesus has already responded to Gentile faith (<a class=\"bibleref\" href=\"/passage/?search=Matt 8:10\">8:10</a>), the focus of this first mission of the disciples, like that of Jesus before His passion and resurrection (<a class=\"bibleref\" href=\"/passage/?search=Matt 15:24\">15:24</a>), was to the natural heirs of the kingdom. Jesus does not prohibit preaching to Gentiles encountered during the mission to Israel, but He did not send the disciples at this point into Gentile areas.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,10,7" ],
+  "verses" : [ {
+    "verse" : "matthew,10,7",
+    "text" : "As you go, preach this message: 'The kingdom of heaven is near.'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,10,7-matthew,10,8",
     "id" : 195724,
@@ -39,7 +60,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 10:7\">10:7</a>, <a class=\"bibleref\" href=\"/passage/?search=Matt 10:8\">8</a> proclaim . . . Heal . . . raise.</b> The same signs of the kingdom that Jesus performed in <a class=\"bibleref\" href=\"/passage/?search=Matt 8\">chs. 8</a> and <a class=\"bibleref\" href=\"/passage/?search=Matt 9\">9</a> will be done by His disciples.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,10,8", "matthew,10,9", "matthew,10,10", "matthew,10,11", "matthew,10,12", "matthew,10,13" ],
+  "verses" : [ {
+    "verse" : "matthew,10,8",
+    "text" : "Heal the sick, raise the dead, cleanse those who have leprosy, drive out demons. Freely you have received, freely give."
+  }, {
+    "verse" : "matthew,10,9",
+    "text" : "Do not take along any gold or silver or copper in your belts;"
+  }, {
+    "verse" : "matthew,10,10",
+    "text" : "take no bag for the journey, or extra tunic, or sandals or a staff; for the worker is worth his keep."
+  }, {
+    "verse" : "matthew,10,11",
+    "text" : "\"Whatever town or village you enter, search for some worthy person there and stay at his house until you leave."
+  }, {
+    "verse" : "matthew,10,12",
+    "text" : "As you enter the home, give it your greeting."
+  }, {
+    "verse" : "matthew,10,13",
+    "text" : "If the home is deserving, let your peace rest on it; if it is not, let your peace return to you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,10,8",
     "id" : 195725,
@@ -47,7 +86,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 10:8\">10:8</a></b> <b>give without pay.</b> The kingdom was given to the disciples freely; to peddle the message would insult God and obscure the nature of the gospel as a free gift. Nevertheless they will be sustained; they do not need extra travel money and provisions (<a class=\"bibleref\" href=\"/passage/?search=Matt 10:9\">vv. 9</a>, <a class=\"bibleref\" href=\"/passage/?search=Matt 10:10\">10</a>). This is a model for Christian life in general.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,10,14", "matthew,10,15", "matthew,10,16" ],
+  "verses" : [ {
+    "verse" : "matthew,10,14",
+    "text" : "If anyone will not welcome you or listen to your words, shake the dust off your feet when you leave that home or town."
+  }, {
+    "verse" : "matthew,10,15",
+    "text" : "I tell you the truth, it will be more bearable for Sodom and Gomorrah on the day of judgment than for that town."
+  }, {
+    "verse" : "matthew,10,16",
+    "text" : "I am sending you out like sheep among wolves. Therefore be as shrewd as snakes and as innocent as doves."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,10,14-matthew,10,15",
     "id" : 195726,
@@ -55,7 +103,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 10:14\">10:14</a>, <a class=\"bibleref\" href=\"/passage/?search=Matt 10:15\">15</a> shake off the dust from your feet.</b> That is, the dust on one’s garment kicked up by the feet. Jews sometimes shook the dust off their clothing when returning from Gentile lands as a sign of contempt; Jesus uses it here as a sign of judgment. A town that did not receive the disciples did not receive Jesus, and became spiritually “pagan” and as subject to judgment as Sodom and Gomorrah (<a class=\"bibleref\" href=\"/passage/?search=Acts 13:51\">Acts 13:51</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,10,17", "matthew,10,18", "matthew,10,19", "matthew,10,20", "matthew,10,21" ],
+  "verses" : [ {
+    "verse" : "matthew,10,17",
+    "text" : "\"Be on your guard against men; they will hand you over to the local councils and flog you in their synagogues."
+  }, {
+    "verse" : "matthew,10,18",
+    "text" : "On my account you will be brought before governors and kings as witnesses to them and to the Gentiles."
+  }, {
+    "verse" : "matthew,10,19",
+    "text" : "But when they arrest you, do not worry about what to say or how to say it. At that time you will be given what to say,"
+  }, {
+    "verse" : "matthew,10,20",
+    "text" : "for it will not be you speaking, but the Spirit of your Father speaking through you."
+  }, {
+    "verse" : "matthew,10,21",
+    "text" : "\"Brother will betray brother to death, and a father his child; children will rebel against their parents and have them put to death."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,10,17-matthew,10,20",
     "id" : 195727,
@@ -63,7 +126,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 10:17-Matt 10:20\">10:17–20</a></b> These verses anticipate a later, more extensive mission than the immediate occasion of <a class=\"bibleref\" href=\"/passage/?search=Matt 10:5\">v. 5</a> (<a class=\"bibleref\" href=\"/passage/?search=Matt 10:5-Matt 11:1\">10:5–11:1</a> note). Persecution will occur at the hands of both Jewish (<a class=\"bibleref\" href=\"/passage/?search=Matt 11:17\">v. 17</a>) and Gentile (<a class=\"bibleref\" href=\"/passage/?search=Matt 11:18\">v. 18</a>) authorities. But disciples are not to respond to this as pagans do, by hiring professional orators to defend them in court. The Holy Spirit will provide their defense (<a class=\"bibleref\" href=\"/passage/?search=Acts 4:8\">Acts 4:8</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,10,22" ],
+  "verses" : [ {
+    "verse" : "matthew,10,22",
+    "text" : "All men will hate you because of me, but he who stands firm to the end will be saved."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,10,22",
     "id" : 195728,
@@ -71,7 +137,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 10:22\">10:22</a></b> <b>all.</b> Every sort of people. The allusion is to <a class=\"bibleref\" href=\"/passage/?search=Mic 7:6\">Mic. 7:6</a>, which Jesus later quotes (v. 35).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,10,23" ],
+  "verses" : [ {
+    "verse" : "matthew,10,23",
+    "text" : "When you are persecuted in one place, flee to another. I tell you the truth, you will not finish going through the cities of Israel before the Son of Man comes."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,10,23",
     "id" : 195729,

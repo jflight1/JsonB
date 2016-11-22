@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "1samuel,15,1" ],
+  "verses" : [ {
+    "verse" : "1samuel,15,1",
+    "text" : "Samuel said to Saul, \"I am the one the LORD sent to anoint you king over his people Israel; so listen now to the message from the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,15,1",
     "id" : 187503,
@@ -7,7 +10,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 15:1\">15:1</a></b> <b>The <span class=\"small-caps\">Lord</span> sent me to anoint you.</b> Samuel mentions his role in anointing Saul to set the context for his continuing service as mediator of God’s orders to Saul (<a class=\"bibleref\" href=\"/passage/?search=1Sam 10:1\">10:1</a> note).</p><p><b>listen to the words of the <span class=\"small-caps\">Lord</span>.</b> The Hebrew word translated “listen” is repeated several times in this chapter, underscoring the central theme of obedience (“listen,” “hear,” “obey,” and “voice,” “bleating,” “lowing” in <a class=\"bibleref\" href=\"/passage/?search=1Sam 10:1\">vv. 1</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 10:14\">14</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 10:19\">19</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 10:20\">20</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 10:22\">22</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 10:24\">24</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,15,2" ],
+  "verses" : [ {
+    "verse" : "1samuel,15,2",
+    "text" : "This is what the LORD Almighty says: 'I will punish the Amalekites for what they did to Israel when they waylaid them as they came up from Egypt."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,15,2",
     "id" : 187504,
@@ -15,7 +21,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 15:2\">15:2</a></b> <b>Amalek.</b> Descendants of Esau (according to <a class=\"bibleref\" href=\"/passage/?search=Gen 36:12\">Gen. 36:12</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 36:16\">16</a>), the Amalekites were a nomadic desert people who lived in southern Judah and beyond, toward Egypt. They fought frequently with the Israelites.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,15,3" ],
+  "verses" : [ {
+    "verse" : "1samuel,15,3",
+    "text" : "Now go, attack the Amalekites and totally destroy everything that belongs to them. Do not spare them; put to death men and women, children and infants, cattle and sheep, camels and donkeys.'\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,15,3",
     "id" : 187505,
@@ -23,7 +32,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 15:3\">15:3</a></b> <b>devote to destruction.</b> Lit. “place them under the ban.” This meant to devote persons or things completely to the Lord. In war it usually required the total destruction of properties and execution of people. The inclusion of animals in this verse is especially striking. The ban was an element of “holy war” and could not be decreed by anyone but God.</p><p><b>man and woman, child and infant.</b> See <a class=\"bibleref\" href=\"/passage/?search=1Sam 22:19\">22:19</a> and note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,15,4", "1samuel,15,5" ],
+  "verses" : [ {
+    "verse" : "1samuel,15,4",
+    "text" : "So Saul summoned the men and mustered them at Telaim-two hundred thousand foot soldiers and ten thousand men from Judah."
+  }, {
+    "verse" : "1samuel,15,5",
+    "text" : "Saul went to the city of Amalek and set an ambush in the ravine."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,15,4",
     "id" : 187506,
@@ -31,7 +46,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 15:4\">15:4</a></b> <b>Telaim.</b> This is probably the Telem listed in <a class=\"bibleref\" href=\"/passage/?search=Josh 15:24\">Josh. 15:24</a> as one of the cities of Judah. The Septuagint (early Greek translation of the Old Testament) has Gilgal instead, which some have suggested was the site of Samuel’s instructions to Saul (vv. 1–3).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,15,6" ],
+  "verses" : [ {
+    "verse" : "1samuel,15,6",
+    "text" : "Then he said to the Kenites, \"Go away, leave the Amalekites so that I do not destroy you along with them; for you showed kindness to all the Israelites when they came up out of Egypt.\" So the Kenites moved away from the Amalekites."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,15,6",
     "id" : 187507,
@@ -39,7 +57,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 15:6\">15:6</a></b> <b>For you showed kindness.</b> Perhaps an allusion to the kindness of Moses’ Kenite father-in-law (<a class=\"bibleref\" href=\"/passage/?search=Judg 1:16\">Judg. 1:16</a>) recorded in <a class=\"bibleref\" href=\"/passage/?search=Exod 18\">Ex. 18</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,15,7" ],
+  "verses" : [ {
+    "verse" : "1samuel,15,7",
+    "text" : "Then Saul attacked the Amalekites all the way from Havilah to Shur, to the east of Egypt."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,15,7",
     "id" : 187508,
@@ -47,7 +68,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 15:7\">15:7</a></b> <b>from Havilah . . . Shur.</b> See <a class=\"bibleref\" href=\"/passage/?search=Gen 25:18\">Gen. 25:18</a>. Shur is mentioned in 27:8 as lying at the frontiers of the territory of the Amalekites, near the eastern border of Egypt. The location of Havilah remains uncertain, but the general sense of the reference is that Saul’s victory was extensive.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,15,8" ],
+  "verses" : [ {
+    "verse" : "1samuel,15,8",
+    "text" : "He took Agag king of the Amalekites alive, and all his people he totally destroyed with the sword."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,15,8",
     "id" : 187509,
@@ -55,7 +79,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 15:8\">15:8</a></b> <b>Agag.</b> This is either a personal name or a title, like “Pharaoh”; see <a class=\"bibleref\" href=\"/passage/?search=Num 24:7\">Num. 24:7</a>; “Agagite” in <a class=\"bibleref\" href=\"/passage/?search=Esth 3:1\">Esth. 3:1</a>.</p><p><b>all the people.</b> This is not “all” without exception, but all who fell into Saul’s hands (there are later references to Amalekites in 27:8; 30:1, 18). For this limited sense of “all,” cf. 13:7; 31:6.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,15,9", "1samuel,15,10", "1samuel,15,11" ],
+  "verses" : [ {
+    "verse" : "1samuel,15,9",
+    "text" : "But Saul and the army spared Agag and the best of the sheep and cattle, the fat calves and lambs-everything that was good. These they were unwilling to destroy completely, but everything that was despised and weak they totally destroyed."
+  }, {
+    "verse" : "1samuel,15,10",
+    "text" : "Then the word of the LORD came to Samuel:"
+  }, {
+    "verse" : "1samuel,15,11",
+    "text" : "\"I am grieved that I have made Saul king, because he has turned away from me and has not carried out my instructions.\" Samuel was troubled, and he cried out to the LORD all that night."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,15,9",
     "id" : 187510,
@@ -63,7 +96,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 15:9\">15:9</a></b> <b>Saul and the people spared.</b> They went against the Lord’s command (<a class=\"bibleref\" href=\"/passage/?search=1Sam 15:3\">v. 3</a>). A desire to profit from the victory may underlie the unwillingness to destroy anything that was good. Achan kept back goods that were devoted to destruction, apparently because he was greedy (<a class=\"bibleref\" href=\"/passage/?search=Josh 7:1\">Josh. 7:1</a>). The reader is not told Saul’s motive for sparing Agag, whether political, like Ahab’s mercy to Ben-hadad (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 20:30-1Kgs 20:34\">1 Kin. 20:30–34</a>), or pride, a desire to parade his captive as a trophy of war. Saul did set up a victory monument “for himself” (v. 12).</p><p><b>turned back.</b> This is a serious indictment in view of 12:14, where obedience and following the Lord are named as the essential requirements for a successful reign.</p><p><b>Samuel was angry.</b> The same Hebrew expression is used in 18:8 and <a class=\"bibleref\" href=\"/passage/?search=2Sam 6:8\">2 Sam. 6:8</a>.</p><p><b>he cried to the <span class=\"small-caps\">Lord</span> all night.</b> Clearly Samuel takes no pleasure in Saul’s rejection (v. 35; 16:1).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,15,12", "1samuel,15,13" ],
+  "verses" : [ {
+    "verse" : "1samuel,15,12",
+    "text" : "Early in the morning Samuel got up and went to meet Saul, but he was told, \"Saul has gone to Carmel. There he has set up a monument in his own honor and has turned and gone on down to Gilgal.\""
+  }, {
+    "verse" : "1samuel,15,13",
+    "text" : "When Samuel reached him, Saul said, \"The LORD bless you! I have carried out the LORD's instructions.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,15,12",
     "id" : 187511,
@@ -71,7 +110,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 15:12\">15:12</a></b> <b>Carmel.</b> About seven miles south of Hebron (<a class=\"bibleref\" href=\"/passage/?search=1Sam 25:2\">25:2</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 15:55\">Josh. 15:55</a>). This is not the Mount Carmel in the north.</p><p><b>monument for himself.</b> The closest parallel is in <a class=\"bibleref\" href=\"/passage/?search=2Sam 18:18\">2 Sam. 18:18</a>, where Absalom erects a pillar “for himself” to commemorate his name.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,15,14" ],
+  "verses" : [ {
+    "verse" : "1samuel,15,14",
+    "text" : "But Samuel said, \"What then is this bleating of sheep in my ears? What is this lowing of cattle that I hear?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,15,14-1samuel,15,23",
     "id" : 187512,
@@ -79,7 +121,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 15:14-1Sam 15:23\">15:14–23</a></b> These verses display the standard features of a prophetic judgment speech to an individual (<a class=\"bibleref\" href=\"/passage/?search=1Sam 2:27-1Sam 2:36\">2:27–36</a> note), but in this instance the accused, Saul, vigorously contests the charges.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,15,15", "1samuel,15,16" ],
+  "verses" : [ {
+    "verse" : "1samuel,15,15",
+    "text" : "Saul answered, \"The soldiers brought them from the Amalekites; they spared the best of the sheep and cattle to sacrifice to the LORD your God, but we totally destroyed the rest.\""
+  }, {
+    "verse" : "1samuel,15,16",
+    "text" : "\"Stop!\" Samuel said to Saul. \"Let me tell you what the LORD said to me last night.Tell me,\" Saul replied."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,15,15",
     "id" : 187513,
@@ -87,7 +135,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 15:15\">15:15</a></b> <b>They have brought them . . . to sacrifice.</b> In response to Samuel’s accusation Saul offers two excuses: First, the people are responsible and not he; second, the animals will be killed as sacrifices. Samuel will answer these excuses.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,15,17", "1samuel,15,18" ],
+  "verses" : [ {
+    "verse" : "1samuel,15,17",
+    "text" : "Samuel said, \"Although you were once small in your own eyes, did you not become the head of the tribes of Israel? The LORD anointed you king over Israel."
+  }, {
+    "verse" : "1samuel,15,18",
+    "text" : "And he sent you on a mission, saying, 'Go and completely destroy those wicked people, the Amalekites; make war on them until you have wiped them out.'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,15,17",
     "id" : 187514,
@@ -95,7 +149,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 15:17\">15:17</a></b> <b>little in your own eyes.</b> Whatever ideas Saul had about his role as king, Samuel rejects his attempt to avoid personal responsibility for what had happened.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,15,19" ],
+  "verses" : [ {
+    "verse" : "1samuel,15,19",
+    "text" : "Why did you not obey the LORD? Why did you pounce on the plunder and do evil in the eyes of the LORD?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,15,19",
     "id" : 187515,
@@ -103,7 +160,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 15:19\">15:19</a></b> <b>pounce on the spoil.</b> Samuel rejects Saul’s claim that the animals were spared because they were needed for sacrifice. On the verb translated “pounce,” see <a class=\"bibleref\" href=\"/passage/?search=1Sam 25:14\">25:14</a> note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,15,20", "1samuel,15,21" ],
+  "verses" : [ {
+    "verse" : "1samuel,15,20",
+    "text" : "\"But I did obey the LORD,\" Saul said. \"I went on the mission the LORD assigned me. I completely destroyed the Amalekites and brought back Agag their king."
+  }, {
+    "verse" : "1samuel,15,21",
+    "text" : "The soldiers took sheep and cattle from the plunder, the best of what was devoted to God, in order to sacrifice them to the LORD your God at Gilgal.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,15,20-1samuel,15,21",
     "id" : 187516,
@@ -111,7 +174,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 15:20\">15:20</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 15:21\">21</a></b> Ignoring Samuel’s refusal to accept his excuses, Saul repeats them adamantly.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,15,22" ],
+  "verses" : [ {
+    "verse" : "1samuel,15,22",
+    "text" : "But Samuel replied: \"Does the LORD delight in burnt offerings and sacrifices as much as in obeying the voice of the LORD? To obey is better than sacrifice, and to heed is better than the fat of rams."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,15,22-1samuel,15,23",
     "id" : 187517,
@@ -124,7 +190,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 15:22\">15:22</a></b> <b>burnt offerings.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Sam 10:8\">10:8</a>.</p><p><b>to obey is better than sacrifice.</b> Although Samuel clearly disbelieves Saul’s excuse (<a class=\"bibleref\" href=\"/passage/?search=1Sam 10:19\">v. 19</a> note), he accepts it for the sake of argument, and makes the point that ritual performance is worthless when not accompanied by a sincere and submissive spirit. For similar denunciations of empty ritual by Israel’s later prophets, see <a class=\"bibleref\" href=\"/passage/?search=Isa 1:10-Isa 1:17\">Is. 1:10–17</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 6:19\">Jer. 6:19</a>, <a class=\"bibleref\" href=\"/passage/?search=Jer 6:20\">20</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 7:21-Jer 7:26\">7:21–26</a>; <a class=\"bibleref\" href=\"/passage/?search=Hos 6:6\">Hos. 6:6</a>; <a class=\"bibleref\" href=\"/passage/?search=Amos 5:21-Amos 5:24\">Amos 5:21–24</a>; <a class=\"bibleref\" href=\"/passage/?search=Mic 6:6-Mic 6:8\">Mic. 6:6–8</a>; also <a class=\"bibleref\" href=\"/passage/?search=Ps 51:16\">Ps. 51:16</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 51:17\">17</a>; <a class=\"bibleref\" href=\"/passage/?search=Prov 15:8\">Prov. 15:8</a>; <a class=\"bibleref\" href=\"/passage/?search=Prov 21:3\">21:3</a>, <a class=\"bibleref\" href=\"/passage/?search=Prov 21:27\">27</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,15,23" ],
+  "verses" : [ {
+    "verse" : "1samuel,15,23",
+    "text" : "For rebellion is like the sin of divination, and arrogance like the evil of idolatry. Because you have rejected the word of the LORD, he has rejected you as king.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,15,23",
     "id" : 187519,
@@ -132,7 +201,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 15:23\">15:23</a></b> <b>rebellion . . . divination . . . idolatry.</b> Witchcraft and idolatry were especially serious sins.</p><p><b>Because you have rejected . . . he has also rejected.</b> As Samuel comes to the announcement of judgment upon Saul, he expresses it in a manner that makes plain the justice of God’s verdict. Offense and punishment correspond (<a class=\"bibleref\" href=\"/passage/?search=1Sam 2:27-1Sam 2:36\">2:27–36</a> note). While Saul’s failure in <a class=\"bibleref\" href=\"/passage/?search=1Sam 13\">ch. 13</a> meant the end of any hopes for his dynasty (<a class=\"bibleref\" href=\"/passage/?search=1Sam 13:14\">13:14</a>), his disobedience in the present context means the end of his personal right to be king. The next chapter recounts the anointing of David and the departure of the Spirit of the Lord from Saul (<a class=\"bibleref\" href=\"/passage/?search=1Sam 16:13\">16:13</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 16:14\">14</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,15,24", "1samuel,15,25" ],
+  "verses" : [ {
+    "verse" : "1samuel,15,24",
+    "text" : "Then Saul said to Samuel, \"I have sinned. I violated the LORD's command and your instructions. I was afraid of the people and so I gave in to them."
+  }, {
+    "verse" : "1samuel,15,25",
+    "text" : "Now I beg you, forgive my sin and come back with me, so that I may worship the LORD.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,15,24-1samuel,15,25",
     "id" : 187520,
@@ -140,7 +215,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 15:24\">15:24</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 15:25\">25</a></b> At last Saul begins to accept responsibility (“I have sinned”), though he still blames the people for initiating the unfortunate events (“I feared the people and obeyed their voice”). On the surface, Saul’s confession sounds adequate, but against the background of Samuel’s warnings in <a class=\"bibleref\" href=\"/passage/?search=1Sam 12:14\">12:14</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 12:15\">15</a>, his admissions lead not so much to a possibility that there will be reconciliation as to the certainty that he will be “swept away” (<a class=\"bibleref\" href=\"/passage/?search=1Sam 12:25\">12:25</a>). Saul will offer a second, more candid confession in v. 30.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,15,26", "1samuel,15,27" ],
+  "verses" : [ {
+    "verse" : "1samuel,15,26",
+    "text" : "But Samuel said to him, \"I will not go back with you. You have rejected the word of the LORD, and the LORD has rejected you as king over Israel!\""
+  }, {
+    "verse" : "1samuel,15,27",
+    "text" : "As Samuel turned to leave, Saul caught hold of the hem of his robe, and it tore."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,15,26",
     "id" : 187521,
@@ -148,7 +229,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 15:26\">15:26</a></b> <b>I will not return with you.</b> Samuel’s refusal to return with Saul suggests Samuel is not satisfied with the sincerity of the confession as a whole (<a class=\"bibleref\" href=\"/passage/?search=1Sam 15:30\">v. 30</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,15,28" ],
+  "verses" : [ {
+    "verse" : "1samuel,15,28",
+    "text" : "Samuel said to him, \"The LORD has torn the kingdom of Israel from you today and has given it to one of your neighbors-to one better than you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,15,28",
     "id" : 187522,
@@ -156,7 +240,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 15:28\">15:28</a></b> <b>torn the kingdom.</b> Samuel seizes upon the tearing of the robe as a fitting symbol of the Lord’s having “torn the kingdom” from Saul (cf. <a class=\"bibleref\" href=\"/passage/?search=1Sam 24:4\">24:4</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 24:5\">5</a>; <a class=\"bibleref\" href=\"/passage/?search=1Kgs 11:29-1Kgs 11:33\">1 Kin. 11:29–33</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,15,29" ],
+  "verses" : [ {
+    "verse" : "1samuel,15,29",
+    "text" : "He who is the Glory of Israel does not lie or change his mind; for he is not a man, that he should change his mind.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,15,29",
     "id" : 187523,
@@ -164,7 +251,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 15:29\">15:29</a></b> <b>will not lie or have regret.</b> Saul’s rejection is final, and no attempt to mitigate its consequences will avail. There is no contradiction between this statement and the notices in <a class=\"bibleref\" href=\"/passage/?search=1Sam 15:11\">vv. 11</a> and <a class=\"bibleref\" href=\"/passage/?search=1Sam 15:35\">35</a> that the Lord “regretted” having made Saul king. As in <a class=\"bibleref\" href=\"/passage/?search=Num 23:19\">Num. 23:19</a>, the point is that when the Lord makes a pronouncement intended to be final, He cannot be talked out of it.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,15,30" ],
+  "verses" : [ {
+    "verse" : "1samuel,15,30",
+    "text" : "Saul replied, \"I have sinned. But please honor me before the elders of my people and before Israel; come back with me, so that I may worship the LORD your God.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,15,30",
     "id" : 187524,
@@ -172,7 +262,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 15:30\">15:30</a></b> <b>honor me.</b> Saul’s real concern becomes clear in this his second confession (cf. <a class=\"bibleref\" href=\"/passage/?search=1Sam 15:24\">vv. 24</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 15:25\">25</a> and note). As Samuel seems already to suspect (<a class=\"bibleref\" href=\"/passage/?search=1Sam 15:26\">v. 26</a> note), Saul is less concerned with being reconciled to the Lord than with finding honor before the elders of “my people.” In return for this honor, Saul offers to do obeisance before the Lord “your” God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,15,31", "1samuel,15,32", "1samuel,15,33", "1samuel,15,34" ],
+  "verses" : [ {
+    "verse" : "1samuel,15,31",
+    "text" : "So Samuel went back with Saul, and Saul worshiped the LORD."
+  }, {
+    "verse" : "1samuel,15,32",
+    "text" : "Then Samuel said, \"Bring me Agag king of the Amalekites.\" Agag came to him confidently, thinking, \"Surely the bitterness of death is past.\""
+  }, {
+    "verse" : "1samuel,15,33",
+    "text" : "But Samuel said, \"As your sword has made women childless, so will your mother be childless among women.\" And Samuel put Agag to death before the LORD at Gilgal."
+  }, {
+    "verse" : "1samuel,15,34",
+    "text" : "Then Samuel left for Ramah, but Saul went up to his home in Gibeah of Saul."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,15,31",
     "id" : 187525,
@@ -180,7 +282,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 15:31\">15:31</a></b> <b>Samuel turned back.</b> Several reasons for Samuel’s reversal of his earlier decision (<a class=\"bibleref\" href=\"/passage/?search=1Sam 15:26\">v. 26</a>) may be suggested: (a) Saul has at last issued a candid confession; (b) there is no danger after <a class=\"bibleref\" href=\"/passage/?search=1Sam 15:28\">vv. 28</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 15:29\">29</a> that Saul might interpret Samuel’s actions as a retraction of his judgment; (c) Samuel must still deal with Agag.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,15,35" ],
+  "verses" : [ {
+    "verse" : "1samuel,15,35",
+    "text" : "Until the day Samuel died, he did not go to see Saul again, though Samuel mourned for him. And the LORD was grieved that he had made Saul king over Israel."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,15,35",
     "id" : 187526,
@@ -188,7 +293,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 15:35\">15:35</a></b> <b>Samuel grieved over Saul.</b> See note on <a class=\"bibleref\" href=\"/passage/?search=1Sam 15:11\">v. 11</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,16,1" ],
+  "verses" : [ {
+    "verse" : "1samuel,16,1",
+    "text" : "The LORD said to Samuel, \"How long will you mourn for Saul, since I have rejected him as king over Israel? Fill your horn with oil and be on your way; I am sending you to Jesse of Bethlehem. I have chosen one of his sons to be king.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,16,1-1samuel,31,13",
     "id" : 187527,
@@ -201,7 +309,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 16:1\">16:1</a></b> <b>Bethlehemite.</b> First mentioned in <a class=\"bibleref\" href=\"/passage/?search=Gen 35:19\">Gen. 35:19</a>, Bethlehem is David’s hometown (17:12, 15). On the significance of this site for the Messiah (“the anointed one”), see <a class=\"bibleref\" href=\"/passage/?search=Mic 5:2\">Mic. 5:2</a>; <a class=\"bibleref\" href=\"/passage/?search=Matt 2:5\">Matt. 2:5</a>, <a class=\"bibleref\" href=\"/passage/?search=Matt 2:6\">6</a>; <a class=\"bibleref\" href=\"/passage/?search=John 7:42\">John 7:42</a>.</p><p><b>I have provided for myself.</b> The selection of a king for “myself” (the Lord), contrasts with the choice of a king for “them” (the people) in 8:22 (8:18; 12:13).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,16,2" ],
+  "verses" : [ {
+    "verse" : "1samuel,16,2",
+    "text" : "But Samuel said, \"How can I go? Saul will hear about it and kill me.\" The LORD said, \"Take a heifer with you and say, 'I have come to sacrifice to the LORD.'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,16,2",
     "id" : 187529,
@@ -209,7 +320,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 16:2\">16:2</a></b> <b>I have come to sacrifice.</b> While true insofar as it goes, this statement does not disclose the real reason for Samuel’s journey to Bethlehem (<a class=\"bibleref\" href=\"/passage/?search=1Sam 16:1\">v. 1</a>). There may well be an ironic tone in the Lord’s instruction to Samuel, coming as it does on the heels of Saul’s claim to have spared animals only “to sacrifice” them (<a class=\"bibleref\" href=\"/passage/?search=1Sam 15:15\">15:15</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 15:21\">21</a>). Cases of deception like this one must be weighed in their particular circumstances (<a class=\"bibleref\" href=\"/passage/?search=1Sam 20:6\">20:6</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 21:2\">21:2</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 27:10\">27:10</a>; <a class=\"bibleref\" href=\"/passage/?search=2Sam 16:17-2Sam 16:19\">2 Sam. 16:17–19</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 2:4\">Josh. 2:4</a> and notes).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,16,3" ],
+  "verses" : [ {
+    "verse" : "1samuel,16,3",
+    "text" : "Invite Jesse to the sacrifice, and I will show you what to do. You are to anoint for me the one I indicate.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,16,3",
     "id" : 187530,
@@ -217,7 +331,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 16:3\">16:3</a></b> <b>anoint.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Sam 2:10\">2:10</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,16,4", "1samuel,16,5", "1samuel,16,6" ],
+  "verses" : [ {
+    "verse" : "1samuel,16,4",
+    "text" : "Samuel did what the LORD said. When he arrived at Bethlehem, the elders of the town trembled when they met him. They asked, \"Do you come in peace?\""
+  }, {
+    "verse" : "1samuel,16,5",
+    "text" : "Samuel replied, \"Yes, in peace; I have come to sacrifice to the LORD. Consecrate yourselves and come to the sacrifice with me.\" Then he consecrated Jesse and his sons and invited them to the sacrifice."
+  }, {
+    "verse" : "1samuel,16,6",
+    "text" : "When they arrived, Samuel saw Eliab and thought, \"Surely the LORD's anointed stands here before the LORD.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,16,4",
     "id" : 187531,
@@ -225,7 +348,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 16:4\">16:4</a></b> <b>the elders of the city . . . trembling.</b> See the similar response of Ahimelech upon David’s arrival alone in Nob (<a class=\"bibleref\" href=\"/passage/?search=1Sam 21:1\">21:1</a>). No reason is given for the elders’ trembling. It probably has to do with Samuel’s prophetic function as an instrument of God’s judgment.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,16,7", "1samuel,16,8", "1samuel,16,9", "1samuel,16,10", "1samuel,16,11", "1samuel,16,12" ],
+  "verses" : [ {
+    "verse" : "1samuel,16,7",
+    "text" : "But the LORD said to Samuel, \"Do not consider his appearance or his height, for I have rejected him. The LORD does not look at the things man looks at. Man looks at the outward appearance, but the LORD looks at the heart.\""
+  }, {
+    "verse" : "1samuel,16,8",
+    "text" : "Then Jesse called Abinadab and had him pass in front of Samuel. But Samuel said, \"The LORD has not chosen this one either.\""
+  }, {
+    "verse" : "1samuel,16,9",
+    "text" : "Jesse then had Shammah pass by, but Samuel said, \"Nor has the LORD chosen this one.\""
+  }, {
+    "verse" : "1samuel,16,10",
+    "text" : "Jesse had seven of his sons pass before Samuel, but Samuel said to him, \"The LORD has not chosen these.\""
+  }, {
+    "verse" : "1samuel,16,11",
+    "text" : "So he asked Jesse, \"Are these all the sons you have?There is still the youngest,\" Jesse answered, \"but he is tending the sheep.\" Samuel said, \"Send for him; we will not sit down until he arrives.\""
+  }, {
+    "verse" : "1samuel,16,12",
+    "text" : "So he sent and had him brought in. He was ruddy, with a fine appearance and handsome features. Then the LORD said, \"Rise and anoint him; he is the one.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,16,7",
     "id" : 187532,
@@ -233,7 +374,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 16:7\">16:7</a></b> <b>stature, because I have rejected him.</b> The reference to “stature” as a false measure of an individual’s qualification to be king, along with the notice that this son of Jesse is “rejected,” is reminiscent of Saul, who was notable for his height (<a class=\"bibleref\" href=\"/passage/?search=1Sam 9:2\">9:2</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 10:23\">10:23</a>) but was rejected (<a class=\"bibleref\" href=\"/passage/?search=1Sam 15:23\">15:23</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 15:26\">26</a>).</p><p><b>the <span class=\"small-caps\">Lord</span> looks on the heart.</b> It is an axiom that God’s standards are inward, not outward (<a class=\"bibleref\" href=\"/passage/?search=1Sam 13:14\">13:14</a> note; <a class=\"bibleref\" href=\"/passage/?search=Rom 2:28\">Rom. 2:28</a>, <a class=\"bibleref\" href=\"/passage/?search=Rom 2:29\">29</a>). See “God Sees and Knows: Divine Omniscience” at <a class=\"bibleref\" href=\"/passage/?search=Prov 15:3\">Prov. 15:3</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,16,13" ],
+  "verses" : [ {
+    "verse" : "1samuel,16,13",
+    "text" : "So Samuel took the horn of oil and anointed him in the presence of his brothers, and from that day on the Spirit of the LORD came upon David in power. Samuel then went to Ramah."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,16,13",
     "id" : 187533,
@@ -241,7 +385,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 16:13\">16:13</a></b> <b>in the midst of his brothers.</b> It is likely that the elders also witnessed David’s being anointed (<a class=\"bibleref\" href=\"/passage/?search=1Sam 16:4\">vv. 4</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 16:5\">5</a>). The emphasis on the brothers being present at the event may shed light on Eliab’s behavior in <a class=\"bibleref\" href=\"/passage/?search=1Sam 17:28\">17:28</a>.</p><p><b>Spirit of the <span class=\"small-caps\">Lord</span> rushed upon David.</b> See notes <a class=\"bibleref\" href=\"/passage/?search=1Sam 10:6\">10:6</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 11:6\">11:6</a>. David’s endowment with the Spirit “from that day forward” sets him apart from Saul (and also Samson) upon whom the Spirit descended only sporadically.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,16,14", "1samuel,16,15", "1samuel,16,16", "1samuel,16,17" ],
+  "verses" : [ {
+    "verse" : "1samuel,16,14",
+    "text" : "Now the Spirit of the LORD had departed from Saul, and an evil spirit from the LORD tormented him."
+  }, {
+    "verse" : "1samuel,16,15",
+    "text" : "Saul's attendants said to him, \"See, an evil spirit from God is tormenting you."
+  }, {
+    "verse" : "1samuel,16,16",
+    "text" : "Let our lord command his servants here to search for someone who can play the harp. He will play when the evil spirit from God comes upon you, and you will feel better.\""
+  }, {
+    "verse" : "1samuel,16,17",
+    "text" : "So Saul said to his attendants, \"Find someone who plays well and bring him to me.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,16,14",
     "id" : 187534,
@@ -249,7 +405,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 16:14\">16:14</a></b> <b>Spirit of the <span class=\"small-caps\">Lord</span> departed from Saul.</b> The empowering and validating presence of God’s Spirit must have been removed from Saul at his definitive rejection as king in <a class=\"bibleref\" href=\"/passage/?search=1Sam 15\">ch. 15</a> (cf. also v. 1).</p><p><b>evil spirit.</b> Cf. <a class=\"bibleref\" href=\"/passage/?search=1Kgs 22:21-1Kgs 22:23\">1 Kin. 22:21–23</a>. The Hebrew word may describe something that is troubling, annoying, or harmful.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,16,18" ],
+  "verses" : [ {
+    "verse" : "1samuel,16,18",
+    "text" : "One of the servants answered, \"I have seen a son of Jesse of Bethlehem who knows how to play the harp. He is a brave man and a warrior. He speaks well and is a fine-looking man. And the LORD is with him.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,16,18",
     "id" : 187535,
@@ -257,7 +416,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 16:18\">16:18</a></b> <b>man of war.</b> This speech may seem to conflict with Saul’s statement in <a class=\"bibleref\" href=\"/passage/?search=1Sam 17:33\">17:33</a> that David, who is but a youth, will be no match for Goliath. In response one can say that the servant’s recommendation of David is doubtless exaggerated, like a modern letter of reference. Saul for his part was comparing David to Goliath and was reluctant to take the risk of sending anyone against the Philistine giant.</p><p><b>the <span class=\"small-caps\">Lord</span> is with him.</b> This fact more than any human quality will account for David’s persistent, if circuitous, rise to power, while Saul’s increasing recognition that David is preferred to him will play no small part in his own psychological disintegration (<a class=\"bibleref\" href=\"/passage/?search=1Sam 3:19\">3:19</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 17:37\">17:37</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 18:12\">18:12</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 18:28\">28</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 18:29\">29</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 20:13\">20:13</a>; <a class=\"bibleref\" href=\"/passage/?search=2Sam 7:9\">2 Sam. 7:9</a> and notes).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,16,19", "1samuel,16,20" ],
+  "verses" : [ {
+    "verse" : "1samuel,16,19",
+    "text" : "Then Saul sent messengers to Jesse and said, \"Send me your son David, who is with the sheep.\""
+  }, {
+    "verse" : "1samuel,16,20",
+    "text" : "So Jesse took a donkey loaded with bread, a skin of wine and a young goat and sent them with his son David to Saul."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,16,19",
     "id" : 187536,
@@ -265,7 +430,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 16:19\">16:19</a></b> <b>Send me David your son, who is with the sheep.</b> Saul unwittingly invites his eventual replacement to enter his court. David’s rise to power is providentially directed, and is not the result of human effort or grasping for power.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,16,21", "1samuel,16,22", "1samuel,16,23" ],
+  "verses" : [ {
+    "verse" : "1samuel,16,21",
+    "text" : "David came to Saul and entered his service. Saul liked him very much, and David became one of his armor-bearers."
+  }, {
+    "verse" : "1samuel,16,22",
+    "text" : "Then Saul sent word to Jesse, saying, \"Allow David to remain in my service, for I am pleased with him.\""
+  }, {
+    "verse" : "1samuel,16,23",
+    "text" : "Whenever the spirit from God came upon Saul, David would take his harp and play. Then relief would come to Saul; he would feel better, and the evil spirit would leave him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,16,21",
     "id" : 187537,

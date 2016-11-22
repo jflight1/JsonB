@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,16,6" ],
+  "verses" : [ {
+    "verse" : "proverbs,16,6",
+    "text" : "Through love and faithfulness sin is atoned for; through the fear of the LORD a man avoids evil."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 16:6\">16:6</a></b> <b>steadfast love and faithfulness.</b> The phrase summarizes the attitude of the wise to the Lord (<a class=\"bibleref\" href=\"/passage/?search=Prov 3:3\">3:3</a>; <a class=\"bibleref\" href=\"/passage/?search=Prov 14:22\">14:22</a>; <a class=\"bibleref\" href=\"/passage/?search=Prov 20:28\">20:28</a>). The saying is a rebuke to formal religion without true faith.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,16,7" ],
+  "verses" : [ {
+    "verse" : "proverbs,16,7",
+    "text" : "When a man's ways are pleasing to the LORD, he makes even his enemies live at peace with him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,16,7",
     "id" : 192007,

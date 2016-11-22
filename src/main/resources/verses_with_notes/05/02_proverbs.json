@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,14,17" ],
+  "verses" : [ {
+    "verse" : "proverbs,14,17",
+    "text" : "A quick-tempered man does foolish things, and a crafty man is hated."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 14:17\">14:17</a></b> <b>quick temper.</b> See <a class=\"bibleref\" href=\"/passage/?search=Prov 14:29\">v. 29</a>; <a class=\"bibleref\" href=\"/passage/?search=Prov 16:32\">16:32</a>; <a class=\"bibleref\" href=\"/passage/?search=Prov 19:11\">19:11</a> and notes.</p><p><b>of evil devices.</b> The Hebrew word usually signifies “discretion,” a positive virtue (<a class=\"bibleref\" href=\"/passage/?search=Prov 1:4\">1:4</a>; <a class=\"bibleref\" href=\"/passage/?search=Prov 2:11\">2:11</a>; <a class=\"bibleref\" href=\"/passage/?search=Prov 3:21\">3:21</a>; <a class=\"bibleref\" href=\"/passage/?search=Prov 5:2\">5:2</a>; <a class=\"bibleref\" href=\"/passage/?search=Prov 8:12\">8:12</a>). A following line of opposite meaning (antithetic parallelism), as found in most of the proverbs in this chapter, would suggest the opposite of quick-tempered.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,14,18" ],
+  "verses" : [ {
+    "verse" : "proverbs,14,18",
+    "text" : "The simple inherit folly, but the prudent are crowned with knowledge."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,14,18",
     "id" : 191958,
@@ -20,7 +26,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 14:18\">14:18</a></b> <b>knowledge.</b> See <a class=\"bibleref\" href=\"/passage/?search=Prov 1:7\">1:7</a> and note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,14,19" ],
+  "verses" : [ {
+    "verse" : "proverbs,14,19",
+    "text" : "Evil men will bow down in the presence of the good, and the wicked at the gates of the righteous."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,14,19",
     "id" : 191959,

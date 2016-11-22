@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,11,14" ],
+  "verses" : [ {
+    "verse" : "proverbs,11,14",
+    "text" : "For lack of guidance a nation falls, but many advisers make victory sure."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

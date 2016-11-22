@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "psalms,25,16", "psalms,25,17" ],
+  "verses" : [ {
+    "verse" : "psalms,25,16",
+    "text" : "Turn to me and be gracious to me, for I am lonely and afflicted."
+  }, {
+    "verse" : "psalms,25,17",
+    "text" : "The troubles of my heart have multiplied; free me from my anguish."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,25,1-psalms,25,22",
     "id" : 190403,
@@ -7,7 +13,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 25\">Ps. 25</a></b> This acrostic psalm is primarily the lament of an individual (vv. 16–21), but the last verse applies it to the community. Covenantal (v. 10) and wisdom (vv. 4, <a class=\"bibleref\" href=\"/passage/?search=Ps 25:5\">5</a>) language pervade the poem.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,25,18", "psalms,25,19", "psalms,25,20", "psalms,25,21", "psalms,25,22" ],
+  "verses" : [ {
+    "verse" : "psalms,25,18",
+    "text" : "Look upon my affliction and my distress and take away all my sins."
+  }, {
+    "verse" : "psalms,25,19",
+    "text" : "See how my enemies have increased and how fiercely they hate me!"
+  }, {
+    "verse" : "psalms,25,20",
+    "text" : "Guard my life and rescue me; let me not be put to shame, for I take refuge in you."
+  }, {
+    "verse" : "psalms,25,21",
+    "text" : "May integrity and uprightness protect me, because my hope is in you."
+  }, {
+    "verse" : "psalms,25,22",
+    "text" : "Redeem Israel, O God, from all their troubles!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,25,18-psalms,25,19",
     "id" : 190410,

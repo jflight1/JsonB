@@ -1,8 +1,44 @@
 [ {
-  "singleVerses" : [ "acts,23,11", "acts,23,12", "acts,23,13", "acts,23,14", "acts,23,15" ],
+  "verses" : [ {
+    "verse" : "acts,23,11",
+    "text" : "The following night the Lord stood near Paul and said, \"Take courage! As you have testified about me in Jerusalem, so you must also testify in Rome.\""
+  }, {
+    "verse" : "acts,23,12",
+    "text" : "The next morning the Jews formed a conspiracy and bound themselves with an oath not to eat or drink until they had killed Paul."
+  }, {
+    "verse" : "acts,23,13",
+    "text" : "More than forty men were involved in this plot."
+  }, {
+    "verse" : "acts,23,14",
+    "text" : "They went to the chief priests and elders and said, \"We have taken a solemn oath not to eat anything until we have killed Paul."
+  }, {
+    "verse" : "acts,23,15",
+    "text" : "Now then, you and the Sanhedrin petition the commander to bring him before you on the pretext of wanting more accurate information about his case. We are ready to kill him before he gets here.\""
+  } ],
   "rsbNotes" : [ ]
 }, {
-  "singleVerses" : [ "acts,23,16", "acts,23,17", "acts,23,18", "acts,23,19", "acts,23,20", "acts,23,21", "acts,23,22" ],
+  "verses" : [ {
+    "verse" : "acts,23,16",
+    "text" : "But when the son of Paul's sister heard of this plot, he went into the barracks and told Paul."
+  }, {
+    "verse" : "acts,23,17",
+    "text" : "Then Paul called one of the centurions and said, \"Take this young man to the commander; he has something to tell him.\""
+  }, {
+    "verse" : "acts,23,18",
+    "text" : "So he took him to the commander. The centurion said, \"Paul, the prisoner, sent for me and asked me to bring this young man to you because he has something to tell you.\""
+  }, {
+    "verse" : "acts,23,19",
+    "text" : "The commander took the young man by the hand, drew him aside and asked, \"What is it you want to tell me?\""
+  }, {
+    "verse" : "acts,23,20",
+    "text" : "He said: \"The Jews have agreed to ask you to bring Paul before the Sanhedrin tomorrow on the pretext of wanting more accurate information about him."
+  }, {
+    "verse" : "acts,23,21",
+    "text" : "Don't give in to them, because more than forty of them are waiting in ambush for him. They have taken an oath not to eat or drink until they have killed him. They are ready now, waiting for your consent to their request.\""
+  }, {
+    "verse" : "acts,23,22",
+    "text" : "The commander dismissed the young man and cautioned him, \"Don't tell anyone that you have reported this to me.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,23,16",
     "id" : 197647,
@@ -10,7 +46,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 23:16\">23:16</a></b> <b>the son of Paul’s sister.</b> Evidently some members of Paul’s family were in Jerusalem.</p><p><b>told Paul.</b> Prisoners received their necessary supplies from relatives and friends who regularly visited them.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,23,23", "acts,23,24", "acts,23,25" ],
+  "verses" : [ {
+    "verse" : "acts,23,23",
+    "text" : "Then he called two of his centurions and ordered them, \"Get ready a detachment of two hundred soldiers, seventy horsemen and two hundred spearmen to go to Caesarea at nine tonight."
+  }, {
+    "verse" : "acts,23,24",
+    "text" : "Provide mounts for Paul so that he may be taken safely to Governor Felix.\""
+  }, {
+    "verse" : "acts,23,25",
+    "text" : "He wrote a letter as follows:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,23,23-acts,23,24",
     "id" : 197648,
@@ -18,7 +63,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 23:23\">23:23</a>, <a class=\"bibleref\" href=\"/passage/?search=Acts 23:24\">24</a></b> Heavily equipped infantry and cavalry delivered Paul safely to Felix, the procurator of the imperial province of Judea. The official provincial headquarters was at Caesarea.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,23,26", "acts,23,27", "acts,23,28", "acts,23,29", "acts,23,30" ],
+  "verses" : [ {
+    "verse" : "acts,23,26",
+    "text" : "Claudius Lysias, To His Excellency, Governor Felix: Greetings."
+  }, {
+    "verse" : "acts,23,27",
+    "text" : "This man was seized by the Jews and they were about to kill him, but I came with my troops and rescued him, for I had learned that he is a Roman citizen."
+  }, {
+    "verse" : "acts,23,28",
+    "text" : "I wanted to know why they were accusing him, so I brought him to their Sanhedrin."
+  }, {
+    "verse" : "acts,23,29",
+    "text" : "I found that the accusation had to do with questions about their law, but there was no charge against him that deserved death or imprisonment."
+  }, {
+    "verse" : "acts,23,30",
+    "text" : "When I was informed of a plot to be carried out against the man, I sent him to you at once. I also ordered his accusers to present to you their case against him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,23,26",
     "id" : 197649,
@@ -26,7 +86,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 23:26\">23:26</a></b> <b>governor Felix.</b> Felix was a former slave, and as a freedman had ascended to an influential position in the Roman government. In <span class=\"small-caps\">a.d.</span> 52, the emperor Claudius sent him as governor to Caesarea. Felix was addressed as “most excellent Felix” (<a class=\"bibleref\" href=\"/passage/?search=Acts 24:2\">24:2</a>) during his eight-year administration. The Roman historian Tacitus said that Felix “occupied the office of a king while having the mind of a slave, saturated with cruelty and lust” (<i>History</i> 5.9).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,23,31", "acts,23,32", "acts,23,33", "acts,23,34" ],
+  "verses" : [ {
+    "verse" : "acts,23,31",
+    "text" : "So the soldiers, carrying out their orders, took Paul with them during the night and brought him as far as Antipatris."
+  }, {
+    "verse" : "acts,23,32",
+    "text" : "The next day they let the cavalry go on with him, while they returned to the barracks."
+  }, {
+    "verse" : "acts,23,33",
+    "text" : "When the cavalry arrived in Caesarea, they delivered the letter to the governor and handed Paul over to him."
+  }, {
+    "verse" : "acts,23,34",
+    "text" : "The governor read the letter and asked what province he was from. Learning that he was from Cilicia,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,23,31",
     "id" : 197650,
@@ -34,7 +106,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 23:31\">23:31</a></b> <b>Antipatris.</b> A town built by Herod the Great in honor of his father, Antipater, about thirty miles northwest of Jerusalem.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,23,35" ],
+  "verses" : [ {
+    "verse" : "acts,23,35",
+    "text" : "he said, \"I will hear your case when your accusers get here.\" Then he ordered that Paul be kept under guard in Herod's palace."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,23,35",
     "id" : 197651,

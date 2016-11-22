@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,20,16" ],
+  "verses" : [ {
+    "verse" : "proverbs,20,16",
+    "text" : "Take the garment of one who puts up security for a stranger; hold it in pledge if he does it for a wayward woman."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 20:16\">20:16</a></b> <b>Take a man’s garment.</b> The garment is security taken for a loan (<a class=\"bibleref\" href=\"/passage/?search=Deut 24:6\">Deut. 24:6</a> note). The verse is probably a warning to be careful with money in dealing with people who take risks or who are unreliable.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,20,17" ],
+  "verses" : [ {
+    "verse" : "proverbs,20,17",
+    "text" : "Food gained by fraud tastes sweet to a man, but he ends up with a mouth full of gravel."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,20,17",
     "id" : 192106,
@@ -20,7 +26,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 20:17\">20:17</a></b> <b>Bread.</b> This is a metaphor for wealth, which, when pursued dishonestly does not satisfy.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,20,18" ],
+  "verses" : [ {
+    "verse" : "proverbs,20,18",
+    "text" : "Make plans by seeking advice; if you wage war, obtain guidance."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,20,18",
     "id" : 192107,

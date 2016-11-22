@@ -1,5 +1,14 @@
 [ {
-  "singleVerses" : [ "ephesians,4,1", "ephesians,4,2", "ephesians,4,3" ],
+  "verses" : [ {
+    "verse" : "ephesians,4,1",
+    "text" : "As a prisoner for the Lord, then, I urge you to live a life worthy of the calling you have received."
+  }, {
+    "verse" : "ephesians,4,2",
+    "text" : "Be completely humble and gentle; be patient, bearing with one another in love."
+  }, {
+    "verse" : "ephesians,4,3",
+    "text" : "Make every effort to keep the unity of the Spirit through the bond of peace."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ephesians,4,1",
     "id" : 198526,
@@ -7,7 +16,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eph 4:1\">4:1</a></b> <b>walk.</b> Throughout the second half of this letter, Paul unfolds the “walk,” or life of good works, first mentioned in <a class=\"bibleref\" href=\"/passage/?search=Eph 2:10\">2:10</a>. This figure of speech for moral conduct is common in Scripture.</p><p><b>calling.</b> Paul earlier spoke of a hope to which believers are called (<a class=\"bibleref\" href=\"/passage/?search=Eph 1:18\">1:18</a>; <a class=\"bibleref\" href=\"/passage/?search=Eph 4:4\">4:4</a>); now he focuses on the life to which they are called. He has already provided strong indications of its shape and significance (<a class=\"bibleref\" href=\"/passage/?search=Eph 1:4\">1:4</a>; <a class=\"bibleref\" href=\"/passage/?search=Eph 2:10\">2:10</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ephesians,4,4", "ephesians,4,5", "ephesians,4,6" ],
+  "verses" : [ {
+    "verse" : "ephesians,4,4",
+    "text" : "There is one body and one Spirit--just as you were called to one hope when you were called--"
+  }, {
+    "verse" : "ephesians,4,5",
+    "text" : "one Lord, one faith, one baptism;"
+  }, {
+    "verse" : "ephesians,4,6",
+    "text" : "one God and Father of all, who is over all and through all and in all."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ephesians,4,4-ephesians,4,6",
     "id" : 198527,
@@ -15,7 +33,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eph 4:4-Eph 4:6\">4:4–6</a></b> <b>one.</b> This word is repeated seven times in <a class=\"bibleref\" href=\"/passage/?search=Eph 4:4-Eph 4:6\">vv. 4–6</a>—three times for Persons of the Godhead, and four times for aspects of His salvation.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ephesians,4,7" ],
+  "verses" : [ {
+    "verse" : "ephesians,4,7",
+    "text" : "But to each one of us grace has been given as Christ apportioned it."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ephesians,4,7",
     "id" : 198528,
@@ -23,7 +44,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eph 4:7\">4:7</a></b> <b>But grace was given to each one of us.</b> All Christians share the grace of salvation through faith (<a class=\"bibleref\" href=\"/passage/?search=Eph 2:5\">2:5</a>, <a class=\"bibleref\" href=\"/passage/?search=Eph 2:8\">8</a>). Each Christian is also given some particular gift of grace to benefit the church (Paul speaks of his own in <a class=\"bibleref\" href=\"/passage/?search=Eph 3:2\">3:2</a>, <a class=\"bibleref\" href=\"/passage/?search=Eph 3:8\">8</a>). See theological note “Gifts and Ministries.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ephesians,4,8" ],
+  "verses" : [ {
+    "verse" : "ephesians,4,8",
+    "text" : "This is why it says: \"When he ascended on high, he led captives in his train and gave gifts to men.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ephesians,4,8",
     "id" : 198529,
@@ -31,7 +55,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eph 4:8\">4:8</a></b> <a class=\"bibleref\" href=\"/passage/?search=Ps 68\">Ps. 68</a> celebrates God’s triumphant march from Mount Sinai in the wilderness to Mount Zion in Jerusalem and His enthronement there. Paul regards this as prefiguring Christ’s victorious ascent into heaven.</p><p><b>captives.</b> The spiritual forces of darkness were defeated at the Cross (<a class=\"bibleref\" href=\"/passage/?search=Col 2:15\">Col. 2:15</a> and note). While <a class=\"bibleref\" href=\"/passage/?search=Ps 68:18\">Ps. 68:18</a> describes the victorious Lord receiving gifts from men, Paul pictures Christ as sharing His tribute with men. Paul may have thought of this psalm because it was associated with Pentecost. This was the day the ascended Christ poured out the Spirit on the church (<a class=\"bibleref\" href=\"/passage/?search=Acts 2:32\">Acts 2:32</a>, <a class=\"bibleref\" href=\"/passage/?search=Acts 2:33\">33</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ephesians,4,9", "ephesians,4,10" ],
+  "verses" : [ {
+    "verse" : "ephesians,4,9",
+    "text" : "(What does \"he ascended\" mean except that he also descended to the lower, earthly regions?"
+  }, {
+    "verse" : "ephesians,4,10",
+    "text" : "He who descended is the very one who ascended higher than all the heavens, in order to fill the whole universe.)"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ephesians,4,9",
     "id" : 198530,
@@ -39,7 +69,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eph 4:9\">4:9</a></b> Christ came to the exalted position He now enjoys through humiliation. His incarnation was His taking on a human nature here in “the lower parts of the earth”; cf. <a class=\"bibleref\" href=\"/passage/?search=Eph 1:20-Eph 1:23\">1:20–23</a>; <a class=\"bibleref\" href=\"/passage/?search=Phil 2:1-Phil 2:11\">Phil. 2:1–11</a>. This pattern of service is to be imitated by believers.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ephesians,4,11" ],
+  "verses" : [ {
+    "verse" : "ephesians,4,11",
+    "text" : "It was he who gave some to be apostles, some to be prophets, some to be evangelists, and some to be pastors and teachers,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ephesians,4,11",
     "id" : 198531,
@@ -47,7 +80,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eph 4:11\">4:11</a></b> <b>apostles.</b> In a restricted sense, those who had been with Jesus and witnessed His resurrection (or received a special revelation of the risen Jesus) and who had been commissioned by Jesus to be founders of the church (<a class=\"bibleref\" href=\"/passage/?search=Acts 1:21\">Acts 1:21</a>, <a class=\"bibleref\" href=\"/passage/?search=Acts 1:22\">22</a>; <a class=\"bibleref\" href=\"/passage/?search=1Cor 15:1-1Cor 15:9\">1 Cor. 15:1–9</a>). The word was also used in a broader sense of people sent out as delegates of particular churches (<a class=\"bibleref\" href=\"/passage/?search=2Cor 8:23\">2 Cor. 8:23</a>; <a class=\"bibleref\" href=\"/passage/?search=Phil 2:25\">Phil. 2:25</a>), though these do not appear to be the ones Paul has in mind in this passage. See <a class=\"bibleref\" href=\"/passage/?search=2Cor 1:1\">2 Cor. 1:1</a> note.</p><p><b>prophets.</b> The New Testament prophets conveyed special revelation to the early church. Their functions included prediction, exhortation, encouragement, warning, and explanation (<a class=\"bibleref\" href=\"/passage/?search=Acts 15:32\">Acts 15:32</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 21:9-Acts 21:11\">21:9–11</a>; <a class=\"bibleref\" href=\"/passage/?search=1Cor 14:3\">1 Cor. 14:3</a>). The teaching of the New Testament prophets and apostles laid the foundation of the church (2:20), and certain aspects of their work related to that unique task have been discontinued.</p><p><b>evangelists.</b> People especially gifted to proclaim the gospel (<a class=\"bibleref\" href=\"/passage/?search=Acts 21:8\">Acts 21:8</a>; <a class=\"bibleref\" href=\"/passage/?search=1Cor 1:17\">1 Cor. 1:17</a>).</p><p><b>pastors and teachers.</b> The two words go together to refer to a single set of individuals who both shepherd and instruct God’s flock. See “Pastors and Pastoral Care”at <a class=\"bibleref\" href=\"/passage/?search=1Pet 5:2\">1 Pet. 5:2</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ephesians,4,12", "ephesians,4,13", "ephesians,4,14", "ephesians,4,15" ],
+  "verses" : [ {
+    "verse" : "ephesians,4,12",
+    "text" : "to prepare God's people for works of service, so that the body of Christ may be built up"
+  }, {
+    "verse" : "ephesians,4,13",
+    "text" : "until we all reach unity in the faith and in the knowledge of the Son of God and become mature, attaining to the whole measure of the fullness of Christ."
+  }, {
+    "verse" : "ephesians,4,14",
+    "text" : "Then we will no longer be infants, tossed back and forth by the waves, and blown here and there by every wind of teaching and by the cunning and craftiness of men in their deceitful scheming."
+  }, {
+    "verse" : "ephesians,4,15",
+    "text" : "Instead, speaking the truth in love, we will in all things grow up into him who is the Head, that is, Christ."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ephesians,4,12-ephesians,4,13",
     "id" : 198532,
@@ -55,7 +100,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eph 4:12\">4:12</a>, <a class=\"bibleref\" href=\"/passage/?search=Eph 4:13\">13</a></b> It is not primarily those mentioned in <a class=\"bibleref\" href=\"/passage/?search=Eph 4:11\">v. 11</a> who do the work of the ministry; it is the people they equip. Effective teachers help each believer to find their own way of benefiting the rest of the church.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ephesians,4,16" ],
+  "verses" : [ {
+    "verse" : "ephesians,4,16",
+    "text" : "From him the whole body, joined and held together by every supporting ligament, grows and builds itself up in love, as each part does its work."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ephesians,4,16",
     "id" : 198533,

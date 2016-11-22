@@ -1,5 +1,17 @@
 [ {
-  "singleVerses" : [ "genesis,26,17", "genesis,26,18", "genesis,26,19", "genesis,26,20" ],
+  "verses" : [ {
+    "verse" : "genesis,26,17",
+    "text" : "So Isaac moved away from there and encamped in the Valley of Gerar and settled there."
+  }, {
+    "verse" : "genesis,26,18",
+    "text" : "Isaac reopened the wells that had been dug in the time of his father Abraham, which the Philistines had stopped up after Abraham died, and he gave them the same names his father had given them."
+  }, {
+    "verse" : "genesis,26,19",
+    "text" : "Isaac's servants dug in the valley and discovered a well of fresh water there."
+  }, {
+    "verse" : "genesis,26,20",
+    "text" : "But the herdsmen of Gerar quarreled with Isaac's herdsmen and said, \"The water is ours!\" So he named the well Esek, because they disputed with him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,25,19-genesis,35,29",
     "id" : 185165,
@@ -17,7 +29,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 26:17-Gen 26:22\">26:17–22</a></b> The wealthy Isaac retreated from the fertile land into the Valley of Gerar, depending on wells originally dug by Abraham (<a class=\"bibleref\" href=\"/passage/?search=Gen 26:18\">v. 18</a>). None of the patriarchs rashly risked war for the Promised Land. They trusted God to give their descendants the land at the right time (<a class=\"bibleref\" href=\"/passage/?search=Gen 15:13\">15:13</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 15:14\">14</a>). The names of the wells commemorate God’s provision and protection.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,26,21" ],
+  "verses" : [ {
+    "verse" : "genesis,26,21",
+    "text" : "Then they dug another well, but they quarreled over that one also; so he named it Sitnah."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,26,21",
     "id" : 185194,
@@ -25,7 +40,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 26:21\">26:21</a></b> <b>Sitnah.</b> See text note. This word is from the same Hebrew root as the name “Satan.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,26,22" ],
+  "verses" : [ {
+    "verse" : "genesis,26,22",
+    "text" : "He moved on from there and dug another well, and no one quarreled over it. He named it Rehoboth, saying, \"Now the LORD has given us room and we will flourish in the land.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,26,22",
     "id" : 185195,
@@ -33,7 +51,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 26:22\">26:22</a></b> <b>the <span class=\"small-caps\">Lord</span> has made room for us.</b> God’s protection of Isaac during this rivalry over wells recalls His reward to Abraham during the controversy with Lot (<a class=\"bibleref\" href=\"/passage/?search=Gen 13:6-Gen 13:18\">13:6–18</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,26,23" ],
+  "verses" : [ {
+    "verse" : "genesis,26,23",
+    "text" : "From there he went up to Beersheba."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,26,23",
     "id" : 185196,
@@ -41,7 +62,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 26:23\">26:23</a></b> <b>Beersheba.</b> The site of the original non-aggression pact with the Philistines (<a class=\"bibleref\" href=\"/passage/?search=Gen 21:32\">21:32</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,26,24" ],
+  "verses" : [ {
+    "verse" : "genesis,26,24",
+    "text" : "That night the LORD appeared to him and said, \"I am the God of your father Abraham. Do not be afraid, for I am with you; I will bless you and will increase the number of your descendants for the sake of my servant Abraham.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,26,24",
     "id" : 185197,
@@ -49,7 +73,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 26:24\">26:24</a></b> The form and content of God’s blessing to Isaac again underscores the theme of continuity with the Abrahamic covenant promises (<a class=\"bibleref\" href=\"/passage/?search=Gen 26:2-Gen 26:5\">vv. 2–5</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 15:1\">15:1</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 17:7\">17:7</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,26,25" ],
+  "verses" : [ {
+    "verse" : "genesis,26,25",
+    "text" : "Isaac built an altar there and called on the name of the LORD. There he pitched his tent, and there his servants dug a well."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,26,25",
     "id" : 185198,
@@ -57,7 +84,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 26:25\">26:25</a></b> <b>built an altar.</b> Like his father, Isaac built an altar in response to God’s revelation (<a class=\"bibleref\" href=\"/passage/?search=Gen 12:7\">12:7</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 12:8\">8</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,26,26", "genesis,26,27" ],
+  "verses" : [ {
+    "verse" : "genesis,26,26",
+    "text" : "Meanwhile, Abimelech had come to him from Gerar, with Ahuzzath his personal adviser and Phicol the commander of his forces."
+  }, {
+    "verse" : "genesis,26,27",
+    "text" : "Isaac asked them, \"Why have you come to me, since you were hostile to me and sent me away?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,26,26",
     "id" : 185199,
@@ -65,7 +98,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 26:26\">26:26</a></b> <b>Abimelech.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Gen 20:2\">20:2</a>.</p><p><b>Phichol.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Gen 21:22\">21:22</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,26,28", "genesis,26,29", "genesis,26,30", "genesis,26,31", "genesis,26,32" ],
+  "verses" : [ {
+    "verse" : "genesis,26,28",
+    "text" : "They answered, \"We saw clearly that the LORD was with you; so we said, 'There ought to be a sworn agreement between us'-between us and you. Let us make a treaty with you"
+  }, {
+    "verse" : "genesis,26,29",
+    "text" : "that you will do us no harm, just as we did not molest you but always treated you well and sent you away in peace. And now you are blessed by the LORD.\""
+  }, {
+    "verse" : "genesis,26,30",
+    "text" : "Isaac then made a feast for them, and they ate and drank."
+  }, {
+    "verse" : "genesis,26,31",
+    "text" : "Early the next morning the men swore an oath to each other. Then Isaac sent them on their way, and they left him in peace."
+  }, {
+    "verse" : "genesis,26,32",
+    "text" : "That day Isaac's servants came and told him about the well they had dug. They said, \"We've found water!\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,26,28",
     "id" : 185200,
@@ -73,7 +121,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 26:28\">26:28</a></b> <b>We see plainly . . . <span class=\"small-caps\">Lord</span> has been with you.</b> Their statement bore unintended witness to the Lord’s promise in <a class=\"bibleref\" href=\"/passage/?search=Gen 26:3-Gen 26:4\">vv. 3–4</a> (<a class=\"bibleref\" href=\"/passage/?search=Gen 21:22\">21:22</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=1Kgs 10:9\">1 Kin. 10:9</a>).</p><p><b>a sworn pact . . . a covenant.</b> See 21:23 and notes.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,26,33" ],
+  "verses" : [ {
+    "verse" : "genesis,26,33",
+    "text" : "He called it Shibah, and to this day the name of the town has been Beersheba."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,26,33",
     "id" : 185201,
@@ -81,7 +132,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 26:33\">26:33</a></b> <b>name of the city is Beersheba.</b> The Lord’s protection of Abraham at Beersheba is now extended to Isaac (<a class=\"bibleref\" href=\"/passage/?search=Gen 21:32\">21:32</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,26,34", "genesis,26,35", "genesis,27,1", "genesis,27,2", "genesis,27,3" ],
+  "verses" : [ {
+    "verse" : "genesis,26,34",
+    "text" : "When Esau was forty years old, he married Judith daughter of Beeri the Hittite, and also Basemath daughter of Elon the Hittite."
+  }, {
+    "verse" : "genesis,26,35",
+    "text" : "They were a source of grief to Isaac and Rebekah."
+  }, {
+    "verse" : "genesis,27,1",
+    "text" : "When Isaac was old and his eyes were so weak that he could no longer see, he called for Esau his older son and said to him, \"My son.Here I am,\" he answered."
+  }, {
+    "verse" : "genesis,27,2",
+    "text" : "Isaac said, \"I am now an old man and don't know the day of my death."
+  }, {
+    "verse" : "genesis,27,3",
+    "text" : "Now then, get your weapons-your quiver and bow-and go out to the open country to hunt some wild game for me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,26,34-genesis,27,46",
     "id" : 185202,
@@ -99,7 +165,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 26:34\">26:34</a></b> <b>Hittite.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Gen 10:15\">10:15</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,27,4" ],
+  "verses" : [ {
+    "verse" : "genesis,27,4",
+    "text" : "Prepare me the kind of tasty food I like and bring it to me to eat, so that I may give you my blessing before I die.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,27,4",
     "id" : 185205,
@@ -107,7 +176,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 27:4\">27:4</a></b> <b>delicious food, such as I love.</b> Isaac’s sensuality was at the root of this conflict (<a class=\"bibleref\" href=\"/passage/?search=Gen 27:18-Gen 27:27\">vv. 18–27</a> note; <a class=\"bibleref\" href=\"/passage/?search=Gen 25:27\">25:27</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 25:28\">28</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,27,5", "genesis,27,6" ],
+  "verses" : [ {
+    "verse" : "genesis,27,5",
+    "text" : "Now Rebekah was listening as Isaac spoke to his son Esau. When Esau left for the open country to hunt game and bring it back,"
+  }, {
+    "verse" : "genesis,27,6",
+    "text" : "Rebekah said to her son Jacob, \"Look, I overheard your father say to your brother Esau,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,27,5-genesis,27,17",
     "id" : 185206,
@@ -120,7 +195,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 27:5\">27:5</a></b> <b>Rebekah was listening.</b> Isaac neither provided spiritual leadership in the home nor listened to his wife’s counsel—factors that strongly contributed to his family difficulties. Isaac’s behavior contrasts with that of Abraham (<a class=\"bibleref\" href=\"/passage/?search=Gen 21:8-Gen 21:14\">21:8–14</a>).</p><p><b>Esau went.</b> Though birthright and blessing were not identical, they were related because both pertained to the inheritance. Esau reneged on the oath he had made with Jacob (<a class=\"bibleref\" href=\"/passage/?search=Gen 25:33\">25:33</a>), but the original act of unbelief in selling his inheritance was decisive (<a class=\"bibleref\" href=\"/passage/?search=Heb 12:16\">Heb. 12:16</a>, <a class=\"bibleref\" href=\"/passage/?search=Heb 12:17\">17</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,27,7", "genesis,27,8", "genesis,27,9", "genesis,27,10" ],
+  "verses" : [ {
+    "verse" : "genesis,27,7",
+    "text" : "'Bring me some game and prepare me some tasty food to eat, so that I may give you my blessing in the presence of the LORD before I die.'"
+  }, {
+    "verse" : "genesis,27,8",
+    "text" : "Now, my son, listen carefully and do what I tell you:"
+  }, {
+    "verse" : "genesis,27,9",
+    "text" : "Go out to the flock and bring me two choice young goats, so I can prepare some tasty food for your father, just the way he likes it."
+  }, {
+    "verse" : "genesis,27,10",
+    "text" : "Then take it to your father to eat, so that he may give you his blessing before he dies.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,27,7",
     "id" : 185208,
@@ -128,7 +215,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 27:7\">27:7</a></b> <b>bless you.</b> In patriarchal times, a solemn family blessing was given at departures (<a class=\"bibleref\" href=\"/passage/?search=Gen 24:60\">24:60</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 28:1-Gen 28:5\">28:1–5</a>) or when death was imminent. It could be given to only one person and could not be altered. The patriarchal blessings of Abraham, Isaac, and Jacob had spiritual significance because the Lord used the social customs of those times to communicate His sovereign purposes. While God initially mediated His covenant blessing through the patriarchs, after the Mosaic law was given, God’s blessing was mediated to all His people through the priest (<a class=\"bibleref\" href=\"/passage/?search=Num 6:22-Num 6:27\">Num. 6:22–27</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,27,11", "genesis,27,12", "genesis,27,13", "genesis,27,14" ],
+  "verses" : [ {
+    "verse" : "genesis,27,11",
+    "text" : "Jacob said to Rebekah his mother, \"But my brother Esau is a hairy man, and I'm a man with smooth skin."
+  }, {
+    "verse" : "genesis,27,12",
+    "text" : "What if my father touches me? I would appear to be tricking him and would bring down a curse on myself rather than a blessing.\""
+  }, {
+    "verse" : "genesis,27,13",
+    "text" : "His mother said to him, \"My son, let the curse fall on me. Just do what I say; go and get them for me.\""
+  }, {
+    "verse" : "genesis,27,14",
+    "text" : "So he went and got them and brought them to his mother, and she prepared some tasty food, just the way his father liked it."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,27,11-genesis,27,12",
     "id" : 185209,
@@ -136,7 +235,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 27:11\">27:11</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 27:12\">12</a></b> Jacob had no qualms about the morality of the plan, only about its feasibility.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,27,15", "genesis,27,16", "genesis,27,17" ],
+  "verses" : [ {
+    "verse" : "genesis,27,15",
+    "text" : "Then Rebekah took the best clothes of Esau her older son, which she had in the house, and put them on her younger son Jacob."
+  }, {
+    "verse" : "genesis,27,16",
+    "text" : "She also covered his hands and the smooth part of his neck with the goatskins."
+  }, {
+    "verse" : "genesis,27,17",
+    "text" : "Then she handed to her son Jacob the tasty food and the bread she had made."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,27,15",
     "id" : 185210,
@@ -144,7 +252,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 27:15\">27:15</a></b> <b>garments.</b> Jacob too was later deceived by clothing (<a class=\"bibleref\" href=\"/passage/?search=Gen 37:31-Gen 37:33\">37:31–33</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,27,18", "genesis,27,19" ],
+  "verses" : [ {
+    "verse" : "genesis,27,18",
+    "text" : "He went to his father and said, \"My father.Yes, my son,\" he answered. \"Who is it?\""
+  }, {
+    "verse" : "genesis,27,19",
+    "text" : "Jacob said to his father, \"I am Esau your firstborn. I have done as you told me. Please sit up and eat some of my game so that you may give me your blessing.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,27,18-genesis,27,27",
     "id" : 185211,
@@ -152,7 +266,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 27:18-Gen 27:27\">27:18–27</a></b> Isaac failed because he depended on his fallible senses—touch (<a class=\"bibleref\" href=\"/passage/?search=Gen 27:22\">v. 22</a>), taste (<a class=\"bibleref\" href=\"/passage/?search=Gen 27:25\">v. 25</a>), and smell (<a class=\"bibleref\" href=\"/passage/?search=Gen 27:27\">v. 27</a>)—rather than upon spiritual understanding (<a class=\"bibleref\" href=\"/passage/?search=Gen 27:4\">v. 4</a> note; cf. <a class=\"bibleref\" href=\"/passage/?search=Gen 13:8-Gen 13:17\">13:8–17</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,27,20", "genesis,27,21", "genesis,27,22", "genesis,27,23", "genesis,27,24", "genesis,27,25" ],
+  "verses" : [ {
+    "verse" : "genesis,27,20",
+    "text" : "Isaac asked his son, \"How did you find it so quickly, my son?The LORD your God gave me success,\" he replied."
+  }, {
+    "verse" : "genesis,27,21",
+    "text" : "Then Isaac said to Jacob, \"Come near so I can touch you, my son, to know whether you really are my son Esau or not.\""
+  }, {
+    "verse" : "genesis,27,22",
+    "text" : "Jacob went close to his father Isaac, who touched him and said, \"The voice is the voice of Jacob, but the hands are the hands of Esau.\""
+  }, {
+    "verse" : "genesis,27,23",
+    "text" : "He did not recognize him, for his hands were hairy like those of his brother Esau; so he blessed him."
+  }, {
+    "verse" : "genesis,27,24",
+    "text" : "\"Are you really my son Esau?\" he asked. \"I am,\" he replied."
+  }, {
+    "verse" : "genesis,27,25",
+    "text" : "Then he said, \"My son, bring me some of your game to eat, so that I may give you my blessing.\" Jacob brought it to him and he ate; and he brought some wine and he drank."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,27,20",
     "id" : 185212,
@@ -160,7 +292,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 27:20\">27:20</a></b> <b>the <span class=\"small-caps\">Lord</span> your God.</b> Jacob compounded his guilt by taking the Lord’s name in vain (<a class=\"bibleref\" href=\"/passage/?search=Exod 20:7\">Ex. 20:7</a> note). Here Jacob regards the Lord as the God of his father. Later the Lord will reveal Himself as the God of Jacob (28:13–15, 20–22; 33:20 text note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,27,26", "genesis,27,27" ],
+  "verses" : [ {
+    "verse" : "genesis,27,26",
+    "text" : "Then his father Isaac said to him, \"Come here, my son, and kiss me.\""
+  }, {
+    "verse" : "genesis,27,27",
+    "text" : "So he went to him and kissed him. When Isaac caught the smell of his clothes, he blessed him and said, \"Ah, the smell of my son is like the smell of a field that the LORD has blessed."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,27,26",
     "id" : 185213,
@@ -168,7 +306,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 27:26\">27:26</a></b> <b>kiss.</b> This physical contact was part of the blessing ritual (<a class=\"bibleref\" href=\"/passage/?search=Gen 48:1\">48:1</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,27,28" ],
+  "verses" : [ {
+    "verse" : "genesis,27,28",
+    "text" : "May God give you of heaven's dew and of earth's richness- an abundance of grain and new wine."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,27,28-genesis,27,29",
     "id" : 185214,
@@ -181,7 +322,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 27:28\">27:28</a></b> <b>dew . . . fatness . . . plenty.</b> These terms anticipate the blessing on the nation of Israel when settled in the Promised Land (<a class=\"bibleref\" href=\"/passage/?search=Deut 7:13\">Deut. 7:13</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 33:28\">33:28</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,27,29", "genesis,27,30", "genesis,27,31", "genesis,27,32", "genesis,27,33" ],
+  "verses" : [ {
+    "verse" : "genesis,27,29",
+    "text" : "May nations serve you and peoples bow down to you. Be lord over your brothers, and may the sons of your mother bow down to you. May those who curse you be cursed and those who bless you be blessed.\""
+  }, {
+    "verse" : "genesis,27,30",
+    "text" : "After Isaac finished blessing him and Jacob had scarcely left his father's presence, his brother Esau came in from hunting."
+  }, {
+    "verse" : "genesis,27,31",
+    "text" : "He too prepared some tasty food and brought it to his father. Then he said to him, \"My father, sit up and eat some of my game, so that you may give me your blessing.\""
+  }, {
+    "verse" : "genesis,27,32",
+    "text" : "His father Isaac asked him, \"Who are you?I am your son,\" he answered, \"your firstborn, Esau.\""
+  }, {
+    "verse" : "genesis,27,33",
+    "text" : "Isaac trembled violently and said, \"Who was it, then, that hunted game and brought it to me? I ate it just before you came and I blessed him-and indeed he will be blessed!\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,27,29",
     "id" : 185216,
@@ -189,7 +345,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 27:29\">27:29</a></b> <b>Cursed be everyone who curses.</b> See <a class=\"bibleref\" href=\"/passage/?search=Gen 12:3\">12:3</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,27,34", "genesis,27,35" ],
+  "verses" : [ {
+    "verse" : "genesis,27,34",
+    "text" : "When Esau heard his father's words, he burst out with a loud and bitter cry and said to his father, \"Bless me-me too, my father!\""
+  }, {
+    "verse" : "genesis,27,35",
+    "text" : "But he said, \"Your brother came deceitfully and took your blessing.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,27,34",
     "id" : 185217,
@@ -197,7 +359,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 27:34\">27:34</a></b> <b>great and bitter cry.</b> See <a class=\"bibleref\" href=\"/passage/?search=Heb 12:16\">Heb. 12:16</a>, <a class=\"bibleref\" href=\"/passage/?search=Heb 12:17\">17</a> and notes.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,27,36" ],
+  "verses" : [ {
+    "verse" : "genesis,27,36",
+    "text" : "Esau said, \"Isn't he rightly named Jacob? He has deceived me these two times: He took my birthright, and now he's taken my blessing!\" Then he asked, \"Haven't you reserved any blessing for me?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,27,36",
     "id" : 185218,
@@ -205,7 +370,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 27:36\">27:36</a></b> <b>Jacob.</b> See text note; note on <a class=\"bibleref\" href=\"/passage/?search=Gen 25:26\">25:26</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,27,37", "genesis,27,38" ],
+  "verses" : [ {
+    "verse" : "genesis,27,37",
+    "text" : "Isaac answered Esau, \"I have made him lord over you and have made all his relatives his servants, and I have sustained him with grain and new wine. So what can I possibly do for you, my son?\""
+  }, {
+    "verse" : "genesis,27,38",
+    "text" : "Esau said to his father, \"Do you have only one blessing, my father? Bless me too, my father!\" Then Esau wept aloud."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,27,37",
     "id" : 185219,
@@ -213,7 +384,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 27:37\">27:37</a></b> <b>What then can I do for you.</b> Though Isaac knew God had elected Jacob, he had intended to give everything to Esau (<a class=\"bibleref\" href=\"/passage/?search=Gen 26:34-Gen 27:46\">26:34–27:46</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,27,39" ],
+  "verses" : [ {
+    "verse" : "genesis,27,39",
+    "text" : "His father Isaac answered him, \"Your dwelling will be away from the earth's richness, away from the dew of heaven above."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,27,39",
     "id" : 185220,
@@ -221,7 +395,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 27:39\">27:39</a></b> <b>from the fatness . . . from the dew.</b> The Hebrew wording is similar to Jacob’s blessing, but with a very different meaning. While God was to give to Jacob “of the dew” and “of the fatness” (<a class=\"bibleref\" href=\"/passage/?search=Gen 27:28\">v. 28</a>), Esau was to dwell “from” (lit. “away from”) “the fatness of the earth” and away from “the dew of heaven.” This blessing found fulfillment as Esau’s descendants, the Edomites, settled in the arid region south of the Dead Sea. Esau inherited an anti-blessing: he was denied the earth’s fertility and dominion over his brother (cf. <a class=\"bibleref\" href=\"/passage/?search=Gen 27:28\">vv. 28</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 27:29\">29</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,27,40", "genesis,27,41", "genesis,27,42", "genesis,27,43", "genesis,27,44" ],
+  "verses" : [ {
+    "verse" : "genesis,27,40",
+    "text" : "You will live by the sword and you will serve your brother. But when you grow restless, you will throw his yoke from off your neck.\""
+  }, {
+    "verse" : "genesis,27,41",
+    "text" : "Esau held a grudge against Jacob because of the blessing his father had given him. He said to himself, \"The days of mourning for my father are near; then I will kill my brother Jacob.\""
+  }, {
+    "verse" : "genesis,27,42",
+    "text" : "When Rebekah was told what her older son Esau had said, she sent for her younger son Jacob and said to him, \"Your brother Esau is consoling himself with the thought of killing you."
+  }, {
+    "verse" : "genesis,27,43",
+    "text" : "Now then, my son, do what I say: Flee at once to my brother Laban in Haran."
+  }, {
+    "verse" : "genesis,27,44",
+    "text" : "Stay with him for a while until your brother's fury subsides."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,27,40",
     "id" : 185221,
@@ -229,7 +418,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 27:40\">27:40</a></b> <b>break his yoke.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Gen 25:23\">25:23</a>. From time to time Edom was able to break free of Israelite domination (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 8:20-2Kgs 8:22\">2 Kin. 8:20–22</a>). In addition, Herod the Great was a descendant of Esau.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,27,45" ],
+  "verses" : [ {
+    "verse" : "genesis,27,45",
+    "text" : "When your brother is no longer angry with you and forgets what you did to him, I'll send word for you to come back from there. Why should I lose both of you in one day?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,27,45",
     "id" : 185222,
@@ -237,7 +429,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 27:45\">27:45</a></b> <b>I will send.</b> Jacob was to be absent for twenty years (<a class=\"bibleref\" href=\"/passage/?search=Gen 31:38\">31:38</a>); Rebekah never saw her son again (<a class=\"bibleref\" href=\"/passage/?search=Gen 35:8\">35:8</a> note).</p><p><b>bereft of you both in one day.</b> Both would be lost if Jacob was killed by his brother Esau, and Esau then by an avenger of blood (<a class=\"bibleref\" href=\"/passage/?search=Gen 9:6\">9:6</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 35:19-Num 35:21\">Num. 35:19–21</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,27,46" ],
+  "verses" : [ {
+    "verse" : "genesis,27,46",
+    "text" : "Then Rebekah said to Isaac, \"I'm disgusted with living because of these Hittite women. If Jacob takes a wife from among the women of this land, from Hittite women like these, my life will not be worth living.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,27,46",
     "id" : 185223,

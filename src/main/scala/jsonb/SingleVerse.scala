@@ -33,8 +33,9 @@ case class SingleVerse(book: Book, chapter: Int, verse: Int)
 
 
   lazy val nivVerse: NivVerse = {
-    book.nivBook.chapters(chapter - 1).verses(verse - 1)
+    book.nivBook.chapter(chapter).verse(verse)
   }
+
 
 
   def <(that: SingleVerse) =

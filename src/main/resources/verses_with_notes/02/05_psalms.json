@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,29,1" ],
+  "verses" : [ {
+    "verse" : "psalms,29,1",
+    "text" : "Ascribe to the LORD, O mighty ones, ascribe to the LORD glory and strength."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,29,1-psalms,29,11",
     "id" : 190431,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 29:1\">29:1</a></b> <b>heavenly beings.</b> Lit. “sons of gods” (see text note). This phrase is used in the religious texts of the Canaanites and refers to the gods of their pantheon. In the Bible it would refer to spiritual beings such as the cherubim and the angels.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,29,2" ],
+  "verses" : [ {
+    "verse" : "psalms,29,2",
+    "text" : "Ascribe to the LORD the glory due his name; worship the LORD in the splendor of his holiness."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,29,2",
     "id" : 190433,
@@ -20,7 +26,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 29:2\">29:2</a></b> <b>name.</b> This is His reputation achieved through His acts in history.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,29,3", "psalms,29,4", "psalms,29,5" ],
+  "verses" : [ {
+    "verse" : "psalms,29,3",
+    "text" : "The voice of the LORD is over the waters; the God of glory thunders, the LORD thunders over the mighty waters."
+  }, {
+    "verse" : "psalms,29,4",
+    "text" : "The voice of the LORD is powerful; the voice of the LORD is majestic."
+  }, {
+    "verse" : "psalms,29,5",
+    "text" : "The voice of the LORD breaks the cedars; the LORD breaks in pieces the cedars of Lebanon."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,29,3-psalms,29,9",
     "id" : 190434,
@@ -33,7 +48,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 29:3\">29:3</a></b> <b>voice of the <span class=\"small-caps\">Lord.</span></b> Thunder.</p><p><b>waters . . . many waters.</b> In the religions of the Near East, as in the Bible, the sea represents forces of chaos and evil. See <a class=\"bibleref\" href=\"/passage/?search=Ps 18:4\">18:4</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 46:2\">46:2</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 69:1\">69:1</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 69:2\">2</a> and notes.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,29,6", "psalms,29,7" ],
+  "verses" : [ {
+    "verse" : "psalms,29,6",
+    "text" : "He makes Lebanon skip like a calf, Sirion like a young wild ox."
+  }, {
+    "verse" : "psalms,29,7",
+    "text" : "The voice of the LORD strikes with flashes of lightning."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,29,6",
     "id" : 190436,
@@ -41,7 +62,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 29:6\">29:6</a></b> <b>Lebanon . . . Sirion.</b> These are regions of mountains that will shake before the power of God. See <a class=\"bibleref\" href=\"/passage/?search=Ps 46:2\">Ps. 46:2</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,29,8", "psalms,29,9" ],
+  "verses" : [ {
+    "verse" : "psalms,29,8",
+    "text" : "The voice of the LORD shakes the desert; the LORD shakes the Desert of Kadesh."
+  }, {
+    "verse" : "psalms,29,9",
+    "text" : "The voice of the LORD twists the oaks and strips the forests bare. And in his temple all cry, \"Glory!\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,29,8",
     "id" : 190437,
@@ -49,7 +76,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 29:8\">29:8</a></b> <b>wilderness of Kadesh.</b> This could be translated (lit.) “holy desert.” Its location is uncertain.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,29,10", "psalms,29,11" ],
+  "verses" : [ {
+    "verse" : "psalms,29,10",
+    "text" : "The LORD sits enthroned over the flood; the LORD is enthroned as King forever."
+  }, {
+    "verse" : "psalms,29,11",
+    "text" : "The LORD gives strength to his people; the LORD blesses his people with peace."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,29,10",
     "id" : 190438,

@@ -1,5 +1,23 @@
 [ {
-  "singleVerses" : [ "psalms,119,113", "psalms,119,114", "psalms,119,115", "psalms,119,116", "psalms,119,117", "psalms,119,118" ],
+  "verses" : [ {
+    "verse" : "psalms,119,113",
+    "text" : "I hate double-minded men, but I love your law."
+  }, {
+    "verse" : "psalms,119,114",
+    "text" : "You are my refuge and my shield; I have put my hope in your word."
+  }, {
+    "verse" : "psalms,119,115",
+    "text" : "Away from me, you evildoers, that I may keep the commands of my God!"
+  }, {
+    "verse" : "psalms,119,116",
+    "text" : "Sustain me according to your promise, and I will live; do not let my hopes be dashed."
+  }, {
+    "verse" : "psalms,119,117",
+    "text" : "Uphold me, and I will be delivered; I will always have regard for your decrees."
+  }, {
+    "verse" : "psalms,119,118",
+    "text" : "You reject all who stray from your decrees, for their deceitfulness is in vain."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,119,1-psalms,119,176",
     "id" : 191337,
@@ -12,7 +30,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 119:113\">119:113</a></b> <b>double-minded.</b> The poet is of a single mind; he loves God and His law. Consequently, he is stable, unlike the double-minded man (<a class=\"bibleref\" href=\"/passage/?search=Jas 1:8\">James 1:8</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,119,119" ],
+  "verses" : [ {
+    "verse" : "psalms,119,119",
+    "text" : "All the wicked of the earth you discard like dross; therefore I love your statutes."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,119,119",
     "id" : 191387,
@@ -20,7 +41,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 119:119\">119:119</a></b> <b>dross.</b> The waste that results when metal is smelted. When the wicked are similarly cast off, the righteous remain as refined silver. Cf. <a class=\"bibleref\" href=\"/passage/?search=Prov 25:3-Prov 25:5\">Prov. 25:3–5</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 1:22\">Is. 1:22</a>, <a class=\"bibleref\" href=\"/passage/?search=Isa 1:25\">25</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,119,120", "psalms,119,121", "psalms,119,122" ],
+  "verses" : [ {
+    "verse" : "psalms,119,120",
+    "text" : "My flesh trembles in fear of you; I stand in awe of your laws."
+  }, {
+    "verse" : "psalms,119,121",
+    "text" : "I have done what is righteous and just; do not leave me to my oppressors."
+  }, {
+    "verse" : "psalms,119,122",
+    "text" : "Ensure your servant's well-being; let not the arrogant oppress me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,119,120",
     "id" : 191388,
@@ -28,7 +58,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 119:120\">119:120</a></b> The fear of the Lord is vividly described.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,119,123" ],
+  "verses" : [ {
+    "verse" : "psalms,119,123",
+    "text" : "My eyes fail, looking for your salvation, looking for your righteous promise."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,119,123",
     "id" : 191389,
@@ -36,7 +69,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 119:123\">119:123</a></b> <b>My eyes long.</b> See <a class=\"bibleref\" href=\"/passage/?search=Ps 119:82\">v. 82</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,119,124", "psalms,119,125" ],
+  "verses" : [ {
+    "verse" : "psalms,119,124",
+    "text" : "Deal with your servant according to your love and teach me your decrees."
+  }, {
+    "verse" : "psalms,119,125",
+    "text" : "I am your servant; give me discernment that I may understand your statutes."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,119,124",
     "id" : 191390,
@@ -44,7 +83,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 119:124\">119:124</a></b> <b>according to your steadfast love.</b> The devotion that God shows toward His covenant people, demonstrating His mercy and compassion.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,119,126", "psalms,119,127", "psalms,119,128" ],
+  "verses" : [ {
+    "verse" : "psalms,119,126",
+    "text" : "It is time for you to act, O LORD; your law is being broken."
+  }, {
+    "verse" : "psalms,119,127",
+    "text" : "Because I love your commands more than gold, more than pure gold,"
+  }, {
+    "verse" : "psalms,119,128",
+    "text" : "and because I consider all your precepts right, I hate every wrong path."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,119,126",
     "id" : 191391,

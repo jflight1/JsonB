@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,20,19" ],
+  "verses" : [ {
+    "verse" : "proverbs,20,19",
+    "text" : "A gossip betrays a confidence; so avoid a man who talks too much."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

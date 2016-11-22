@@ -1,8 +1,20 @@
 [ {
-  "singleVerses" : [ "mark,5,21" ],
+  "verses" : [ {
+    "verse" : "mark,5,21",
+    "text" : "When Jesus had again crossed over by boat to the other side of the lake, a large crowd gathered around him while he was by the lake."
+  } ],
   "rsbNotes" : [ ]
 }, {
-  "singleVerses" : [ "mark,5,22", "mark,5,23", "mark,5,24" ],
+  "verses" : [ {
+    "verse" : "mark,5,22",
+    "text" : "Then one of the synagogue rulers, named Jairus, came there. Seeing Jesus, he fell at his feet"
+  }, {
+    "verse" : "mark,5,23",
+    "text" : "and pleaded earnestly with him, \"My little daughter is dying. Please come and put your hands on her so that she will be healed and live.\""
+  }, {
+    "verse" : "mark,5,24",
+    "text" : "So Jesus went with him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,5,22",
     "id" : 196052,
@@ -10,7 +22,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 5:22\">5:22</a></b> <b>rulers of the synagogue.</b> Though he was a layman, a ruler’s responsibilities were socially and religiously important, including not only the upkeep of the building but also the proper conduct of the service and the choice of Torah readings.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,5,25", "mark,5,26", "mark,5,27", "mark,5,28" ],
+  "verses" : [ {
+    "verse" : "mark,5,25",
+    "text" : "A large crowd followed and pressed around him. And a woman was there who had been subject to bleeding for twelve years."
+  }, {
+    "verse" : "mark,5,26",
+    "text" : "She had suffered a great deal under the care of many doctors and had spent all she had, yet instead of getting better she grew worse."
+  }, {
+    "verse" : "mark,5,27",
+    "text" : "When she heard about Jesus, she came up behind him in the crowd and touched his cloak,"
+  }, {
+    "verse" : "mark,5,28",
+    "text" : "because she thought, \"If I just touch his clothes, I will be healed.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,5,25",
     "id" : 196053,
@@ -18,7 +42,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 5:25\">5:25</a></b> <b>discharge of blood.</b> The woman’s condition was not only physically debilitating, but it disqualified her from marriage (<a class=\"bibleref\" href=\"/passage/?search=Lev 20:18\">Lev. 20:18</a>) as well as religious life in general (<a class=\"bibleref\" href=\"/passage/?search=Lev 15:25-Lev 15:33\">Lev. 15:25–33</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,5,29" ],
+  "verses" : [ {
+    "verse" : "mark,5,29",
+    "text" : "Immediately her bleeding stopped and she felt in her body that she was freed from her suffering."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,5,29",
     "id" : 196054,
@@ -26,7 +53,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 5:29\">5:29</a></b> <b>immediately.</b> See <a class=\"bibleref\" href=\"/passage/?search=Mark 1:10\">1:10</a> note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,5,30", "mark,5,31" ],
+  "verses" : [ {
+    "verse" : "mark,5,30",
+    "text" : "At once Jesus realized that power had gone out from him. He turned around in the crowd and asked, \"Who touched my clothes?\""
+  }, {
+    "verse" : "mark,5,31",
+    "text" : "\"You see the people crowding against you,\" his disciples answered, \"and yet you can ask, 'Who touched me?'\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,5,30",
     "id" : 196055,
@@ -34,7 +67,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 5:30\">5:30</a></b> <b>Who touched my garments.</b> The touch of faith is felt by Jesus, even though in such a dense crowd many people were touching Him. The phrase “power had gone out from him” occurs only here.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,5,32", "mark,5,33", "mark,5,34", "mark,5,35", "mark,5,36" ],
+  "verses" : [ {
+    "verse" : "mark,5,32",
+    "text" : "But Jesus kept looking around to see who had done it."
+  }, {
+    "verse" : "mark,5,33",
+    "text" : "Then the woman, knowing what had happened to her, came and fell at his feet and, trembling with fear, told him the whole truth."
+  }, {
+    "verse" : "mark,5,34",
+    "text" : "He said to her, \"Daughter, your faith has healed you. Go in peace and be freed from your suffering.\""
+  }, {
+    "verse" : "mark,5,35",
+    "text" : "While Jesus was still speaking, some men came from the house of Jairus, the synagogue ruler. \"Your daughter is dead,\" they said. \"Why bother the teacher any more?\""
+  }, {
+    "verse" : "mark,5,36",
+    "text" : "Ignoring what they said, Jesus told the synagogue ruler, \"Don't be afraid; just believe.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,5,32",
     "id" : 196056,
@@ -42,7 +90,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 5:32\">5:32</a></b> <b>he looked around.</b> For a woman who has been a social outcast for many years, the healing is only complete when Jesus has publicly identified her, commends her faith, and declares to all that she is healed (<a class=\"bibleref\" href=\"/passage/?search=Mark 5:34\">v. 34</a>) and cleansed.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,5,37" ],
+  "verses" : [ {
+    "verse" : "mark,5,37",
+    "text" : "He did not let anyone follow him except Peter, James and John the brother of James."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,5,37",
     "id" : 196057,
@@ -50,7 +101,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 5:37\">5:37</a></b> <b>Peter and James and John.</b> Jesus built around Himself a hierarchy of closeness. There are numerous disciples (<a class=\"bibleref\" href=\"/passage/?search=Mark 4:10\">4:10</a>) from whom twelve are appointed apostles (<a class=\"bibleref\" href=\"/passage/?search=Mark 3:13-Mark 3:19\">3:13–19</a>), and within the Twelve some (Peter, James, John, and sometimes Andrew) enjoy Jesus’ fullest intimacy, most notably at the Transfiguration (<a class=\"bibleref\" href=\"/passage/?search=Mark 9:2-Mark 9:13\">9:2–13</a>) and in Gethsemane (<a class=\"bibleref\" href=\"/passage/?search=Mark 14:32\">14:32</a>, <a class=\"bibleref\" href=\"/passage/?search=Mark 14:33\">33</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,5,38", "mark,5,39" ],
+  "verses" : [ {
+    "verse" : "mark,5,38",
+    "text" : "When they came to the home of the synagogue ruler, Jesus saw a commotion, with people crying and wailing loudly."
+  }, {
+    "verse" : "mark,5,39",
+    "text" : "He went in and said to them, \"Why all this commotion and wailing? The child is not dead but asleep.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,5,38",
     "id" : 196058,
@@ -58,7 +115,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 5:38\">5:38</a></b> <b>wailing.</b> In the Middle Eastern cultures, wailing is a customary expression of grief, sometimes calling for professional mourners.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,5,40" ],
+  "verses" : [ {
+    "verse" : "mark,5,40",
+    "text" : "But they laughed at him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,5,40",
     "id" : 196059,
@@ -66,7 +126,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 5:40\">5:40</a></b> <b>put them all outside.</b> Jesus is not interested in a grand spectacle of healing. Rather, He is concerned for the suffering of the girl, the faith of her parents, and the ultimate goal of His mission (<a class=\"bibleref\" href=\"/passage/?search=Mark 5:43\">v. 43</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,5,41", "mark,5,42" ],
+  "verses" : [ {
+    "verse" : "mark,5,41",
+    "text" : "After he put them all out, he took the child's father and mother and the disciples who were with him, and went in where the child was. He took her by the hand and said to her, \"Talitha koum!\" (which means, \"Little girl, I say to you, get up!\" )."
+  }, {
+    "verse" : "mark,5,42",
+    "text" : "Immediately the girl stood up and walked around (she was twelve years old). At this they were completely astonished."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,5,41",
     "id" : 196060,
@@ -74,7 +140,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 5:41\">5:41</a></b> <b>Talitha cumi.</b> Aramaic was the popular language spoken in Palestine. Mark gives the translation for other Aramaic terms (<a class=\"bibleref\" href=\"/passage/?search=Mark 3:17\">3:17</a>; <a class=\"bibleref\" href=\"/passage/?search=Mark 7:11\">7:11</a>, <a class=\"bibleref\" href=\"/passage/?search=Mark 7:34\">34</a>; <a class=\"bibleref\" href=\"/passage/?search=Mark 10:46\">10:46</a>; <a class=\"bibleref\" href=\"/passage/?search=Mark 14:36\">14:36</a>) in order to clarify his narrative for those unfamiliar with that language.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,5,43" ],
+  "verses" : [ {
+    "verse" : "mark,5,43",
+    "text" : "He gave strict orders not to let anyone know about this, and told them to give her something to eat."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,5,43",
     "id" : 196061,

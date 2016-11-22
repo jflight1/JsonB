@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,22,14" ],
+  "verses" : [ {
+    "verse" : "proverbs,22,14",
+    "text" : "The mouth of an adulteress is a deep pit; he who is under the LORD's wrath will fall into it."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

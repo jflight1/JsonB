@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,137,1" ],
+  "verses" : [ {
+    "verse" : "psalms,137,1",
+    "text" : "By the rivers of Babylon we sat and wept when we remembered Zion."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,137,1-psalms,137,9",
     "id" : 191513,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 137:1\">137:1</a></b> <b>the waters of Babylon.</b> The Tigris and Euphrates as well as numerous canals flowed near Babylon, far from Zion and the temple.</p><p><b>we sat down and wept.</b> These words express the deep despair caused by deportation and exile.</p><p><b>Zion.</b> See <a class=\"bibleref\" href=\"/passage/?search=Ps 2:6\">Ps. 2:6</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 50:2\">50:2</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 65:1\">65:1</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 74:2\">74:2</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 128:5\">128:5</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 129:5\">129:5</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,137,2" ],
+  "verses" : [ {
+    "verse" : "psalms,137,2",
+    "text" : "There on the poplars we hung our harps,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,137,2",
     "id" : 191515,
@@ -20,7 +26,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 137:2\">137:2</a></b> <b>lyres.</b> Instruments of joy. After a victory Israel responded with songs (<a class=\"bibleref\" href=\"/passage/?search=Exod 15\">Ex. 15</a>; <a class=\"bibleref\" href=\"/passage/?search=Judg 5\">Judg. 5</a>). In defeat, the music ceases and there is silence (<a class=\"bibleref\" href=\"/passage/?search=Isa 24:8\">Is. 24:8</a>, <a class=\"bibleref\" href=\"/passage/?search=Isa 24:9\">9</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,137,3", "psalms,137,4" ],
+  "verses" : [ {
+    "verse" : "psalms,137,3",
+    "text" : "for there our captors asked us for songs, our tormentors demanded songs of joy; they said, \"Sing us one of the songs of Zion!\""
+  }, {
+    "verse" : "psalms,137,4",
+    "text" : "How can we sing the songs of the LORD while in a foreign land?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,137,3",
     "id" : 191516,
@@ -28,7 +40,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 137:3\">137:3</a></b> <b>our captors.</b> The Babylonians.</p><p><b>one of the songs of Zion.</b> These are songs such as <a class=\"bibleref\" href=\"/passage/?search=Ps 46\">Ps. 46</a> and <a class=\"bibleref\" href=\"/passage/?search=Ps 48\">48</a>, about the greatness of Zion and Jerusalem. With Jerusalem destroyed, the Babylonians ridiculed their captives.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,137,5" ],
+  "verses" : [ {
+    "verse" : "psalms,137,5",
+    "text" : "If I forget you, O Jerusalem, may my right hand forget its skill."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,137,5",
     "id" : 191517,
@@ -36,7 +51,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 137:5\">137:5</a></b> <b>my right hand forget.</b> How to play the harp. If he cannot sing of Jerusalem, he will not sing at all.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,137,6" ],
+  "verses" : [ {
+    "verse" : "psalms,137,6",
+    "text" : "May my tongue cling to the roof of my mouth if I do not remember you, if I do not consider Jerusalem my highest joy."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,137,6",
     "id" : 191518,
@@ -44,7 +62,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 137:6\">137:6</a></b> <b>my highest joy.</b> Now that Christ has come, there are no special holy places, but during the period of the Psalms there was but one—Zion. Jerusalem symbolically represented the City of God, composed of all believers (<a class=\"bibleref\" href=\"/passage/?search=Gal 4:26\">Gal. 4:26</a>; <a class=\"bibleref\" href=\"/passage/?search=Rev 21:9-Rev 21:27\">Rev. 21:9–27</a>). For the exiles, not only religious but political and cultural feelings were evoked by thoughts of their homeland.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,137,7" ],
+  "verses" : [ {
+    "verse" : "psalms,137,7",
+    "text" : "Remember, O LORD, what the Edomites did on the day Jerusalem fell. \"Tear it down,\" they cried, \"tear it down to its foundations!\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,137,7",
     "id" : 191519,
@@ -52,7 +73,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 137:7\">137:7</a></b> <b>Remember . . . the Edomites.</b> Obadiah testifies to the callousness and hostility of the Edomites when Jerusalem fell to the Babylonians.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,137,8" ],
+  "verses" : [ {
+    "verse" : "psalms,137,8",
+    "text" : "O Daughter of Babylon, doomed to destruction, happy is he who repays you for what you have done to us-"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,137,8",
     "id" : 191520,
@@ -60,7 +84,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 137:8\">137:8</a></b> <b>daughter of Babylon.</b> A personification of the nation of Babylon.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,137,9" ],
+  "verses" : [ {
+    "verse" : "psalms,137,9",
+    "text" : "he who seizes your infants and dashes them against the rocks."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,137,9",
     "id" : 191521,

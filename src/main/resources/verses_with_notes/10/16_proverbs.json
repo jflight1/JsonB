@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,25,17" ],
+  "verses" : [ {
+    "verse" : "proverbs,25,17",
+    "text" : "Seldom set foot in your neighbor's house- too much of you, and he will hate you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,25,16-proverbs,25,17",
     "id" : 192240,

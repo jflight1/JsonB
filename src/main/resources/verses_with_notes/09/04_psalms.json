@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,48,1" ],
+  "verses" : [ {
+    "verse" : "psalms,48,1",
+    "text" : "Great is the LORD, and most worthy of praise, in the city of our God, his holy mountain."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,48,1-psalms,48,14",
     "id" : 190606,
@@ -12,7 +15,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 48:1\">48:1</a></b> <b>His holy mountain.</b> Mount Zion, the location of the temple in Jerusalem. See “The Greatness of God” at <a class=\"bibleref\" href=\"/passage/?search=1Chr 29:11\">1 Chr. 29:11</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,48,2", "psalms,48,3" ],
+  "verses" : [ {
+    "verse" : "psalms,48,2",
+    "text" : "It is beautiful in its loftiness, the joy of the whole earth. Like the utmost heights of Zaphon is Mount Zion, the city of the Great King."
+  }, {
+    "verse" : "psalms,48,3",
+    "text" : "God is in her citadels; he has shown himself to be her fortress."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,48,2",
     "id" : 190608,
@@ -20,7 +29,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 48:2\">48:2</a></b> <b>joy of all the earth.</b> Although the nations did not acknowledge Him, God is King of the universe and not only of Israel.</p><p><b>the far north.</b> Lit. “beyond Zaphon.” This is not a reference to Jerusalem but to a mountain often described in Canaanite texts as the dwelling place of their gods (<a class=\"bibleref\" href=\"/passage/?search=Isa 14:13\">Is. 14:13</a> and notes). Yahweh is described with terms used by the neighboring religions to show that all praise really belongs to the true God. Praise to other gods is in vain because they do not exist (<a class=\"bibleref\" href=\"/passage/?search=Isa 44:6\">Is. 44:6</a>; <a class=\"bibleref\" href=\"/passage/?search=1Cor 8:4\">1 Cor. 8:4</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,48,4" ],
+  "verses" : [ {
+    "verse" : "psalms,48,4",
+    "text" : "When the kings joined forces, when they advanced together,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,48,4",
     "id" : 190609,
@@ -28,7 +40,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 48:4\">48:4</a></b> <b>the kings assembled.</b> The language is similar to <a class=\"bibleref\" href=\"/passage/?search=Ps 2:1-Ps 2:3\">Ps. 2:1–3</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,48,5", "psalms,48,6" ],
+  "verses" : [ {
+    "verse" : "psalms,48,5",
+    "text" : "they saw her and were astounded; they fled in terror."
+  }, {
+    "verse" : "psalms,48,6",
+    "text" : "Trembling seized them there, pain like that of a woman in labor."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,48,5",
     "id" : 190610,
@@ -36,7 +54,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 48:5\">48:5</a></b> <b>were in panic.</b> Their fear is due to God’s power, which He exercised in Jerusalem, because He had chosen that city as His dwelling place.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,48,7" ],
+  "verses" : [ {
+    "verse" : "psalms,48,7",
+    "text" : "You destroyed them like ships of Tarshish shattered by an east wind."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,48,7",
     "id" : 190611,
@@ -44,7 +65,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 48:7\">48:7</a></b> <b>ships of Tarshish.</b> Seagoing merchant ships.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,48,8" ],
+  "verses" : [ {
+    "verse" : "psalms,48,8",
+    "text" : "As we have heard, so have we seen in the city of the LORD Almighty, in the city of our God: God makes her secure forever. Selah"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,48,8",
     "id" : 190612,
@@ -52,7 +76,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 48:8\">48:8</a></b> <b><span class=\"small-caps\">Lord</span> of hosts.</b> A military title identifying God as the One who leads His heavenly army into battle for the protection of His people.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,48,9", "psalms,48,10", "psalms,48,11", "psalms,48,12", "psalms,48,13" ],
+  "verses" : [ {
+    "verse" : "psalms,48,9",
+    "text" : "Within your temple, O God, we meditate on your unfailing love."
+  }, {
+    "verse" : "psalms,48,10",
+    "text" : "Like your name, O God, your praise reaches to the ends of the earth; your right hand is filled with righteousness."
+  }, {
+    "verse" : "psalms,48,11",
+    "text" : "Mount Zion rejoices, the villages of Judah are glad because of your judgments."
+  }, {
+    "verse" : "psalms,48,12",
+    "text" : "Walk about Zion, go around her, count her towers,"
+  }, {
+    "verse" : "psalms,48,13",
+    "text" : "consider well her ramparts, view her citadels, that you may tell of them to the next generation."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,48,9",
     "id" : 190613,
@@ -60,7 +99,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 48:9\">48:9</a></b> <b>steadfast love.</b> Specifically, God’s love for those in covenant relationship with Him.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,48,14" ],
+  "verses" : [ {
+    "verse" : "psalms,48,14",
+    "text" : "For this God is our God for ever and ever; he will be our guide even to the end."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,48,14",
     "id" : 190614,

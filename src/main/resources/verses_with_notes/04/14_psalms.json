@@ -1,5 +1,17 @@
 [ {
-  "singleVerses" : [ "psalms,83,1", "psalms,83,2", "psalms,83,3", "psalms,83,4" ],
+  "verses" : [ {
+    "verse" : "psalms,83,1",
+    "text" : "O God, do not keep silent; be not quiet, O God, be not still."
+  }, {
+    "verse" : "psalms,83,2",
+    "text" : "See how your enemies are astir, how your foes rear their heads."
+  }, {
+    "verse" : "psalms,83,3",
+    "text" : "With cunning they conspire against your people; they plot against those you cherish."
+  }, {
+    "verse" : "psalms,83,4",
+    "text" : "\"Come,\" they say, \"let us destroy them as a nation, that the name of Israel be remembered no more.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,83,1-psalms,83,18",
     "id" : 190960,
@@ -12,7 +24,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 83:1\">83:1</a></b> <b>do not keep silence; do not hold your peace.</b> The heart of the covenant is the promise that God will be present with His people. To the psalmist’s eyes God is absent from His people if they are defeated before the enemy.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,83,5", "psalms,83,6", "psalms,83,7" ],
+  "verses" : [ {
+    "verse" : "psalms,83,5",
+    "text" : "With one mind they plot together; they form an alliance against you-"
+  }, {
+    "verse" : "psalms,83,6",
+    "text" : "the tents of Edom and the Ishmaelites, of Moab and the Hagrites,"
+  }, {
+    "verse" : "psalms,83,7",
+    "text" : "Gebal, Ammon and Amalek, Philistia, with the people of Tyre."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,83,5",
     "id" : 190962,
@@ -20,7 +41,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 83:5\">83:5</a></b> <b>they.</b> The nations involved in the plot against Israel are listed in <a class=\"bibleref\" href=\"/passage/?search=Ps 83:6-Ps 83:8\">vv. 6–8</a>. Attempts have been made to identify the historical situation behind the psalm, but no time period is known in which all of these enemies were actively hostile toward Israel at the same time. The closest is Jehoshaphat’s war recorded in <a class=\"bibleref\" href=\"/passage/?search=2Chr 20\">2 Chr. 20</a>, but there is no mention of Assyria there.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,83,8" ],
+  "verses" : [ {
+    "verse" : "psalms,83,8",
+    "text" : "Even Assyria has joined them to lend strength to the descendants of Lot. Selah"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,83,8",
     "id" : 190963,
@@ -28,7 +52,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 83:8\">83:8</a></b> <b>children.</b> That is, Moab and Ammon (<a class=\"bibleref\" href=\"/passage/?search=Gen 19:30-Gen 19:38\">Gen. 19:30–38</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,83,9", "psalms,83,10" ],
+  "verses" : [ {
+    "verse" : "psalms,83,9",
+    "text" : "Do to them as you did to Midian, as you did to Sisera and Jabin at the river Kishon,"
+  }, {
+    "verse" : "psalms,83,10",
+    "text" : "who perished at Endor and became like refuse on the ground."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,83,9",
     "id" : 190964,
@@ -36,7 +66,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 83:9\">83:9</a></b> <b>Midian.</b> God enabled Gideon to destroy the Midianites (<a class=\"bibleref\" href=\"/passage/?search=Judg 7\">Judg. 7</a>).</p><p><b>Sisera . . . Jabin.</b> Jabin was a king of Canaan and Sisera was his general early in the period of the judges. God delivered the Israelites from them through the work of Deborah (<a class=\"bibleref\" href=\"/passage/?search=Judg 4\">Judg. 4</a>; <a class=\"bibleref\" href=\"/passage/?search=Judg 5\">5</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,83,11" ],
+  "verses" : [ {
+    "verse" : "psalms,83,11",
+    "text" : "Make their nobles like Oreb and Zeeb, all their princes like Zebah and Zalmunna,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,83,11",
     "id" : 190965,
@@ -44,7 +77,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 83:11\">83:11</a></b> <b>Oreb . . . Zeeb.</b> Two leaders who were destroyed by Ephraimites during Gideon’s battle against the Midianites (<a class=\"bibleref\" href=\"/passage/?search=Judg 7:25-Judg 8:3\">Judg. 7:25–8:3</a>).</p><p><b>Zebah and Zalmunna.</b> Midianite kings who were captured and executed by Gideon (<a class=\"bibleref\" href=\"/passage/?search=Judg 8:4-Judg 8:21\">Judg. 8:4–21</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,83,12", "psalms,83,13", "psalms,83,14" ],
+  "verses" : [ {
+    "verse" : "psalms,83,12",
+    "text" : "who said, \"Let us take possession of the pasturelands of God.\""
+  }, {
+    "verse" : "psalms,83,13",
+    "text" : "Make them like tumbleweed, O my God, like chaff before the wind."
+  }, {
+    "verse" : "psalms,83,14",
+    "text" : "As fire consumes the forest or a flame sets the mountains ablaze,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,83,12",
     "id" : 190966,
@@ -52,7 +94,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 83:12\">83:12</a></b> <b>the pastures of God.</b> The land of Israel, where the Shepherd-God settled His sheep, the people of Israel. The quote is ascribed to Israel’s enemies in order to highlight the blasphemous nature of their plots against Israel.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,83,15" ],
+  "verses" : [ {
+    "verse" : "psalms,83,15",
+    "text" : "so pursue them with your tempest and terrify them with your storm."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,83,15",
     "id" : 190967,
@@ -60,7 +105,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 83:15\">83:15</a></b> <b>your tempest . . . your hurricane.</b> God’s wrath is often compared to a violent storm (<a class=\"bibleref\" href=\"/passage/?search=Ps 18:7-Ps 18:15\">Ps. 18:7–15</a>; <a class=\"bibleref\" href=\"/passage/?search=Nah 1:3\">Nah. 1:3</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,83,16", "psalms,83,17" ],
+  "verses" : [ {
+    "verse" : "psalms,83,16",
+    "text" : "Cover their faces with shame so that men will seek your name, O LORD."
+  }, {
+    "verse" : "psalms,83,17",
+    "text" : "May they ever be ashamed and dismayed; may they perish in disgrace."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,83,16",
     "id" : 190968,
@@ -68,7 +119,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 83:16\">83:16</a></b> <b>seek your name.</b> The psalm supplies a redemptive reason behind the judgment. As God judges the wickedness of the attackers, they will see their folly and turn to Him.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,83,18" ],
+  "verses" : [ {
+    "verse" : "psalms,83,18",
+    "text" : "Let them know that you, whose name is the LORD - that you alone are the Most High over all the earth."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,83,18",
     "id" : 190969,

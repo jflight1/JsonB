@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,17,6" ],
+  "verses" : [ {
+    "verse" : "proverbs,17,6",
+    "text" : "Children's children are a crown to the aged, and parents are the pride of their children."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

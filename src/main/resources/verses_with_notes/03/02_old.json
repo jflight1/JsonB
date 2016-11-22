@@ -1,5 +1,32 @@
 [ {
-  "singleVerses" : [ "leviticus,25,47", "leviticus,25,48", "leviticus,25,49", "leviticus,25,50", "leviticus,25,51", "leviticus,25,52", "leviticus,25,53", "leviticus,25,54", "leviticus,25,55" ],
+  "verses" : [ {
+    "verse" : "leviticus,25,47",
+    "text" : "\"'If an alien or a temporary resident among you becomes rich and one of your countrymen becomes poor and sells himself to the alien living among you or to a member of the alien's clan,"
+  }, {
+    "verse" : "leviticus,25,48",
+    "text" : "he retains the right of redemption after he has sold himself. One of his relatives may redeem him:"
+  }, {
+    "verse" : "leviticus,25,49",
+    "text" : "An uncle or a cousin or any blood relative in his clan may redeem him. Or if he prospers, he may redeem himself."
+  }, {
+    "verse" : "leviticus,25,50",
+    "text" : "He and his buyer are to count the time from the year he sold himself up to the Year of Jubilee. The price for his release is to be based on the rate paid to a hired man for that number of years."
+  }, {
+    "verse" : "leviticus,25,51",
+    "text" : "If many years remain, he must pay for his redemption a larger share of the price paid for him."
+  }, {
+    "verse" : "leviticus,25,52",
+    "text" : "If only a few years remain until the Year of Jubilee, he is to compute that and pay for his redemption accordingly."
+  }, {
+    "verse" : "leviticus,25,53",
+    "text" : "He is to be treated as a man hired from year to year; you must see to it that his owner does not rule over him ruthlessly."
+  }, {
+    "verse" : "leviticus,25,54",
+    "text" : "\"'Even if he is not redeemed in any of these ways, he and his children are to be released in the Year of Jubilee,"
+  }, {
+    "verse" : "leviticus,25,55",
+    "text" : "for the Israelites belong to me as servants. They are my servants, whom I brought out of Egypt. I am the LORD your God."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,17,1-leviticus,27,34",
     "id" : 186098,
@@ -12,7 +39,37 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 25\">25:1–55</a></b> The Lord demonstrates His ownership of the Promised Land through laws preventing the exploitation of the land and its tenants (v. 23 note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,26,1", "leviticus,26,2", "leviticus,26,3", "leviticus,26,4", "leviticus,26,5", "leviticus,26,6", "leviticus,26,7", "leviticus,26,8", "leviticus,26,9", "leviticus,26,10" ],
+  "verses" : [ {
+    "verse" : "leviticus,26,1",
+    "text" : "\"'Do not make idols or set up an image or a sacred stone for yourselves, and do not place a carved stone in your land to bow down before it. I am the LORD your God."
+  }, {
+    "verse" : "leviticus,26,2",
+    "text" : "\"'Observe my Sabbaths and have reverence for my sanctuary. I am the LORD."
+  }, {
+    "verse" : "leviticus,26,3",
+    "text" : "\"'If you follow my decrees and are careful to obey my commands,"
+  }, {
+    "verse" : "leviticus,26,4",
+    "text" : "I will send you rain in its season, and the ground will yield its crops and the trees of the field their fruit."
+  }, {
+    "verse" : "leviticus,26,5",
+    "text" : "Your threshing will continue until grape harvest and the grape harvest will continue until planting, and you will eat all the food you want and live in safety in your land."
+  }, {
+    "verse" : "leviticus,26,6",
+    "text" : "\"'I will grant peace in the land, and you will lie down and no one will make you afraid. I will remove savage beasts from the land, and the sword will not pass through your country."
+  }, {
+    "verse" : "leviticus,26,7",
+    "text" : "You will pursue your enemies, and they will fall by the sword before you."
+  }, {
+    "verse" : "leviticus,26,8",
+    "text" : "Five of you will chase a hundred, and a hundred of you will chase ten thousand, and your enemies will fall by the sword before you."
+  }, {
+    "verse" : "leviticus,26,9",
+    "text" : "\"'I will look on you with favor and make you fruitful and increase your numbers, and I will keep my covenant with you."
+  }, {
+    "verse" : "leviticus,26,10",
+    "text" : "You will still be eating last year's harvest when you will have to move it out to make room for the new."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,26,1-leviticus,26,46",
     "id" : 186159,
@@ -20,7 +77,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 26\">26:1–46</a></b> The Lord’s instruction to the Israelites culminates in promises of blessings for obedience (vv. 3–13) and of curses for disobedience (vv. 14–39).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,26,11", "leviticus,26,12", "leviticus,26,13" ],
+  "verses" : [ {
+    "verse" : "leviticus,26,11",
+    "text" : "I will put my dwelling place among you, and I will not abhor you."
+  }, {
+    "verse" : "leviticus,26,12",
+    "text" : "I will walk among you and be your God, and you will be my people."
+  }, {
+    "verse" : "leviticus,26,13",
+    "text" : "I am the LORD your God, who brought you out of Egypt so that you would no longer be slaves to the Egyptians; I broke the bars of your yoke and enabled you to walk with heads held high."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,26,11",
     "id" : 186160,
@@ -28,7 +94,85 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 26:11\">26:11</a></b> Israel’s obedience to the covenant requirements would be rewarded with blessing (<a class=\"bibleref\" href=\"/passage/?search=Exod 20:12\">Ex. 20:12</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 28:1-Deut 28:14\">Deut. 28:1–14</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Matt 6:4\">Matt. 6:4</a>), culminating in the greatest of all blessings—the presence of God with His people (<a class=\"bibleref\" href=\"/passage/?search=Exod 29:42-Exod 29:46\">Ex. 29:42–46</a> and note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,26,14", "leviticus,26,15", "leviticus,26,16", "leviticus,26,17", "leviticus,26,18", "leviticus,26,19", "leviticus,26,20", "leviticus,26,21", "leviticus,26,22", "leviticus,26,23", "leviticus,26,24", "leviticus,26,25", "leviticus,26,26", "leviticus,26,27", "leviticus,26,28", "leviticus,26,29", "leviticus,26,30", "leviticus,26,31", "leviticus,26,32", "leviticus,26,33", "leviticus,26,34", "leviticus,26,35", "leviticus,26,36", "leviticus,26,37", "leviticus,26,38", "leviticus,26,39" ],
+  "verses" : [ {
+    "verse" : "leviticus,26,14",
+    "text" : "\"'But if you will not listen to me and carry out all these commands,"
+  }, {
+    "verse" : "leviticus,26,15",
+    "text" : "and if you reject my decrees and abhor my laws and fail to carry out all my commands and so violate my covenant,"
+  }, {
+    "verse" : "leviticus,26,16",
+    "text" : "then I will do this to you: I will bring upon you sudden terror, wasting diseases and fever that will destroy your sight and drain away your life. You will plant seed in vain, because your enemies will eat it."
+  }, {
+    "verse" : "leviticus,26,17",
+    "text" : "I will set my face against you so that you will be defeated by your enemies; those who hate you will rule over you, and you will flee even when no one is pursuing you."
+  }, {
+    "verse" : "leviticus,26,18",
+    "text" : "\"'If after all this you will not listen to me, I will punish you for your sins seven times over."
+  }, {
+    "verse" : "leviticus,26,19",
+    "text" : "I will break down your stubborn pride and make the sky above you like iron and the ground beneath you like bronze."
+  }, {
+    "verse" : "leviticus,26,20",
+    "text" : "Your strength will be spent in vain, because your soil will not yield its crops, nor will the trees of the land yield their fruit."
+  }, {
+    "verse" : "leviticus,26,21",
+    "text" : "\"'If you remain hostile toward me and refuse to listen to me, I will multiply your afflictions seven times over, as your sins deserve."
+  }, {
+    "verse" : "leviticus,26,22",
+    "text" : "I will send wild animals against you, and they will rob you of your children, destroy your cattle and make you so few in number that your roads will be deserted."
+  }, {
+    "verse" : "leviticus,26,23",
+    "text" : "\"'If in spite of these things you do not accept my correction but continue to be hostile toward me,"
+  }, {
+    "verse" : "leviticus,26,24",
+    "text" : "I myself will be hostile toward you and will afflict you for your sins seven times over."
+  }, {
+    "verse" : "leviticus,26,25",
+    "text" : "And I will bring the sword upon you to avenge the breaking of the covenant. When you withdraw into your cities, I will send a plague among you, and you will be given into enemy hands."
+  }, {
+    "verse" : "leviticus,26,26",
+    "text" : "When I cut off your supply of bread, ten women will be able to bake your bread in one oven, and they will dole out the bread by weight. You will eat, but you will not be satisfied."
+  }, {
+    "verse" : "leviticus,26,27",
+    "text" : "\"'If in spite of this you still do not listen to me but continue to be hostile toward me,"
+  }, {
+    "verse" : "leviticus,26,28",
+    "text" : "then in my anger I will be hostile toward you, and I myself will punish you for your sins seven times over."
+  }, {
+    "verse" : "leviticus,26,29",
+    "text" : "You will eat the flesh of your sons and the flesh of your daughters."
+  }, {
+    "verse" : "leviticus,26,30",
+    "text" : "I will destroy your high places, cut down your incense altars and pile your dead bodies on the lifeless forms of your idols, and I will abhor you."
+  }, {
+    "verse" : "leviticus,26,31",
+    "text" : "I will turn your cities into ruins and lay waste your sanctuaries, and I will take no delight in the pleasing aroma of your offerings."
+  }, {
+    "verse" : "leviticus,26,32",
+    "text" : "I will lay waste the land, so that your enemies who live there will be appalled."
+  }, {
+    "verse" : "leviticus,26,33",
+    "text" : "I will scatter you among the nations and will draw out my sword and pursue you. Your land will be laid waste, and your cities will lie in ruins."
+  }, {
+    "verse" : "leviticus,26,34",
+    "text" : "Then the land will enjoy its sabbath years all the time that it lies desolate and you are in the country of your enemies; then the land will rest and enjoy its sabbaths."
+  }, {
+    "verse" : "leviticus,26,35",
+    "text" : "All the time that it lies desolate, the land will have the rest it did not have during the sabbaths you lived in it."
+  }, {
+    "verse" : "leviticus,26,36",
+    "text" : "\"'As for those of you who are left, I will make their hearts so fearful in the lands of their enemies that the sound of a windblown leaf will put them to flight. They will run as though fleeing from the sword, and they will fall, even though no one is pursuing them."
+  }, {
+    "verse" : "leviticus,26,37",
+    "text" : "They will stumble over one another as though fleeing from the sword, even though no one is pursuing them. So you will not be able to stand before your enemies."
+  }, {
+    "verse" : "leviticus,26,38",
+    "text" : "You will perish among the nations; the land of your enemies will devour you."
+  }, {
+    "verse" : "leviticus,26,39",
+    "text" : "Those of you who are left will waste away in the lands of their enemies because of their sins; also because of their fathers' sins they will waste away."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,26,14-leviticus,26,39",
     "id" : 186161,
@@ -36,7 +180,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 26:14-Lev 26:39\">26:14–39</a></b> Disobedience to God brings suffering (<a class=\"bibleref\" href=\"/passage/?search=Exod 20:7\">Ex. 20:7</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 28:15-Deut 28:68\">Deut. 28:15–68</a>). Many prophetic passages echo <a class=\"bibleref\" href=\"/passage/?search=Lev 26\">Lev. 26</a> and <a class=\"bibleref\" href=\"/passage/?search=Deut 28\">Deut. 28</a>, as the prophets argued that the people were suffering, or were about to suffer, God’s anger for their sins.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,26,40", "leviticus,26,41", "leviticus,26,42", "leviticus,26,43", "leviticus,26,44", "leviticus,26,45" ],
+  "verses" : [ {
+    "verse" : "leviticus,26,40",
+    "text" : "\"'But if they will confess their sins and the sins of their fathers-their treachery against me and their hostility toward me,"
+  }, {
+    "verse" : "leviticus,26,41",
+    "text" : "which made me hostile toward them so that I sent them into the land of their enemies-then when their uncircumcised hearts are humbled and they pay for their sin,"
+  }, {
+    "verse" : "leviticus,26,42",
+    "text" : "I will remember my covenant with Jacob and my covenant with Isaac and my covenant with Abraham, and I will remember the land."
+  }, {
+    "verse" : "leviticus,26,43",
+    "text" : "For the land will be deserted by them and will enjoy its sabbaths while it lies desolate without them. They will pay for their sins because they rejected my laws and abhorred my decrees."
+  }, {
+    "verse" : "leviticus,26,44",
+    "text" : "Yet in spite of this, when they are in the land of their enemies, I will not reject them or abhor them so as to destroy them completely, breaking my covenant with them. I am the LORD their God."
+  }, {
+    "verse" : "leviticus,26,45",
+    "text" : "But for their sake I will remember the covenant with their ancestors whom I brought out of Egypt in the sight of the nations to be their God. I am the LORD.'\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,26,40",
     "id" : 186162,
@@ -44,7 +206,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 26:40\">26:40</a></b> Even in judgment there was always hope (<a class=\"bibleref\" href=\"/passage/?search=Deut 30:1-Deut 30:10\">Deut. 30:1–10</a>). Punishment did not mean an end to the covenant (vv. 44, 45; <a class=\"bibleref\" href=\"/passage/?search=Gen 17:2\">Gen. 17:2</a> note; <a class=\"bibleref\" href=\"/passage/?search=Rom 11:1-Rom 11:29\">Rom. 11:1–29</a>). God’s judgments on His people proved He still cared about them (<a class=\"bibleref\" href=\"/passage/?search=Heb 12:5\">Heb. 12:5</a>, <a class=\"bibleref\" href=\"/passage/?search=Heb 12:6\">6</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,26,46" ],
+  "verses" : [ {
+    "verse" : "leviticus,26,46",
+    "text" : "These are the decrees, the laws and the regulations that the LORD established on Mount Sinai between himself and the Israelites through Moses."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,26,46",
     "id" : 186163,
@@ -52,7 +217,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 26:46\">26:46</a></b> A summary conclusion to the legal material in <a class=\"bibleref\" href=\"/passage/?search=Lev 1-Lev 26\">chs. 1–26</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,27,1" ],
+  "verses" : [ {
+    "verse" : "leviticus,27,1",
+    "text" : "The LORD said to Moses,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,27,1-leviticus,27,34",
     "id" : 186164,
@@ -60,7 +228,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 27\">27:1–34</a></b> The final chapter of divine instruction to Israel deals with gifts promised to God, probably by Israelites in dire distress when they made a vow. Later, they might wish to take back the property vowed. The provisions of this chapter showed when and how this could be done.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,27,2", "leviticus,27,3", "leviticus,27,4", "leviticus,27,5", "leviticus,27,6", "leviticus,27,7", "leviticus,27,8" ],
+  "verses" : [ {
+    "verse" : "leviticus,27,2",
+    "text" : "\"Speak to the Israelites and say to them: 'If anyone makes a special vow to dedicate persons to the LORD by giving equivalent values,"
+  }, {
+    "verse" : "leviticus,27,3",
+    "text" : "set the value of a male between the ages of twenty and sixty at fifty shekels of silver, according to the sanctuary shekel;"
+  }, {
+    "verse" : "leviticus,27,4",
+    "text" : "and if it is a female, set her value at thirty shekels."
+  }, {
+    "verse" : "leviticus,27,5",
+    "text" : "If it is a person between the ages of five and twenty, set the value of a male at twenty shekels and of a female at ten shekels."
+  }, {
+    "verse" : "leviticus,27,6",
+    "text" : "If it is a person between one month and five years, set the value of a male at five shekels of silver and that of a female at three shekels of silver."
+  }, {
+    "verse" : "leviticus,27,7",
+    "text" : "If it is a person sixty years old or more, set the value of a male at fifteen shekels and of a female at ten shekels."
+  }, {
+    "verse" : "leviticus,27,8",
+    "text" : "If anyone making the vow is too poor to pay the specified amount, he is to present the person to the priest, who will set the value for him according to what the man making the vow can afford."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,27,2",
     "id" : 186165,
@@ -68,7 +257,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 27:2\">27:2</a></b> <b>persons.</b> It was possible to offer oneself or a member of one’s family to the full-time service of God in the temple (<a class=\"bibleref\" href=\"/passage/?search=1Sam 1:11\">1 Sam. 1:11</a>). But only Levites could serve God in this way; other vowed persons had to be redeemed according to the tariff described in vv. 3–8.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,27,9", "leviticus,27,10" ],
+  "verses" : [ {
+    "verse" : "leviticus,27,9",
+    "text" : "\"'If what he vowed is an animal that is acceptable as an offering to the LORD, such an animal given to the LORD becomes holy."
+  }, {
+    "verse" : "leviticus,27,10",
+    "text" : "He must not exchange it or substitute a good one for a bad one, or a bad one for a good one; if he should substitute one animal for another, both it and the substitute become holy."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,27,9-leviticus,27,10",
     "id" : 186166,
@@ -76,7 +271,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 27:9-Lev 27:10\">27:9–10</a></b> Sacrificial animals could not be withdrawn once vowed.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,27,11", "leviticus,27,12", "leviticus,27,13" ],
+  "verses" : [ {
+    "verse" : "leviticus,27,11",
+    "text" : "If what he vowed is a ceremonially unclean animal-one that is not acceptable as an offering to the LORD -the animal must be presented to the priest,"
+  }, {
+    "verse" : "leviticus,27,12",
+    "text" : "who will judge its quality as good or bad. Whatever value the priest then sets, that is what it will be."
+  }, {
+    "verse" : "leviticus,27,13",
+    "text" : "If the owner wishes to redeem the animal, he must add a fifth to its value."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,27,11-leviticus,27,13",
     "id" : 186167,

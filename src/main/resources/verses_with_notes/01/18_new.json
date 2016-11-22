@@ -1,8 +1,29 @@
 [ {
-  "singleVerses" : [ "matthew,12,22", "matthew,12,23" ],
+  "verses" : [ {
+    "verse" : "matthew,12,22",
+    "text" : "Then they brought him a demon-possessed man who was blind and mute, and Jesus healed him, so that he could both talk and see."
+  }, {
+    "verse" : "matthew,12,23",
+    "text" : "All the people were astonished and said, \"Could this be the Son of David?\""
+  } ],
   "rsbNotes" : [ ]
 }, {
-  "singleVerses" : [ "matthew,12,24", "matthew,12,25", "matthew,12,26", "matthew,12,27", "matthew,12,28" ],
+  "verses" : [ {
+    "verse" : "matthew,12,24",
+    "text" : "But when the Pharisees heard this, they said, \"It is only by Beelzebub, the prince of demons, that this fellow drives out demons.\""
+  }, {
+    "verse" : "matthew,12,25",
+    "text" : "Jesus knew their thoughts and said to them, \"Every kingdom divided against itself will be ruined, and every city or household divided against itself will not stand."
+  }, {
+    "verse" : "matthew,12,26",
+    "text" : "If Satan drives out Satan, he is divided against himself. How then can his kingdom stand?"
+  }, {
+    "verse" : "matthew,12,27",
+    "text" : "And if I drive out demons by Beelzebub, by whom do your people drive them out? So then, they will be your judges."
+  }, {
+    "verse" : "matthew,12,28",
+    "text" : "But if I drive out demons by the Spirit of God, then the kingdom of God has come upon you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,12,24",
     "id" : 195755,
@@ -10,7 +31,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 12:24\">12:24</a></b> <b>Beelzebul.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Matt 10:25\">10:25</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,12,29", "matthew,12,30" ],
+  "verses" : [ {
+    "verse" : "matthew,12,29",
+    "text" : "\"Or again, how can anyone enter a strong man's house and carry off his possessions unless he first ties up the strong man? Then he can rob his house."
+  }, {
+    "verse" : "matthew,12,30",
+    "text" : "\"He who is not with me is against me, and he who does not gather with me scatters."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,12,29",
     "id" : 195756,
@@ -18,7 +45,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 12:29\">12:29</a></b> <b>binds the strong man.</b> By His victory over Satan in the wilderness (<a class=\"bibleref\" href=\"/passage/?search=Matt 4:10\">4:10</a> note) and exorcism of demons, Jesus demonstrated that He had bound the “strong man” and that Satan was powerless to prevent the coming of the kingdom. The binding of Satan was a symbol of the messianic age in Jewish apocalyptic literature (see also <a class=\"bibleref\" href=\"/passage/?search=Rev 20:2\">Rev. 20:2</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,12,31", "matthew,12,32", "matthew,12,33", "matthew,12,34", "matthew,12,35" ],
+  "verses" : [ {
+    "verse" : "matthew,12,31",
+    "text" : "And so I tell you, every sin and blasphemy will be forgiven men, but the blasphemy against the Spirit will not be forgiven."
+  }, {
+    "verse" : "matthew,12,32",
+    "text" : "Anyone who speaks a word against the Son of Man will be forgiven, but anyone who speaks against the Holy Spirit will not be forgiven, either in this age or in the age to come."
+  }, {
+    "verse" : "matthew,12,33",
+    "text" : "\"Make a tree good and its fruit will be good, or make a tree bad and its fruit will be bad, for a tree is recognized by its fruit."
+  }, {
+    "verse" : "matthew,12,34",
+    "text" : "You brood of vipers, how can you who are evil say anything good? For out of the overflow of the heart the mouth speaks."
+  }, {
+    "verse" : "matthew,12,35",
+    "text" : "The good man brings good things out of the good stored up in him, and the evil man brings evil things out of the evil stored up in him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,12,31-matthew,12,32",
     "id" : 195757,
@@ -26,7 +68,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 12:31\">12:31</a>, <a class=\"bibleref\" href=\"/passage/?search=Matt 12:32\">32</a></b> Speaking against the Spirit, calling the work of the Spirit the work of Satan, involves an explicit, willful, and decisive rejection of the very Power that can bring about repentance. The notion of the “unforgivable sin” has caused needless anxiety. Anyone who has been convicted of sin by the Spirit (<a class=\"bibleref\" href=\"/passage/?search=John 16:8\">John 16:8</a>) and now believes the truth cannot possibly have committed it. See “The Unpardonable Sin” at <a class=\"bibleref\" href=\"/passage/?search=Mark 3:29\">Mark 3:29</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,12,36", "matthew,12,37" ],
+  "verses" : [ {
+    "verse" : "matthew,12,36",
+    "text" : "But I tell you that men will have to give account on the day of judgment for every careless word they have spoken."
+  }, {
+    "verse" : "matthew,12,37",
+    "text" : "For by your words you will be acquitted, and by your words you will be condemned.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,12,36-matthew,12,37",
     "id" : 195758,
@@ -34,7 +82,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 12:36\">12:36</a>, <a class=\"bibleref\" href=\"/passage/?search=Matt 12:37\">37</a></b> Jesus indicates that words, even carelessly spoken words, are eternally important. In the Bible verbal sins such as lies, gossip, or insults are condemned as severely as adultery and murder (<a class=\"bibleref\" href=\"/passage/?search=Matt 5:22\">5:22</a>, <a class=\"bibleref\" href=\"/passage/?search=Matt 5:37\">37</a>; <a class=\"bibleref\" href=\"/passage/?search=2Cor 12:20\">2 Cor. 12:20</a>; <a class=\"bibleref\" href=\"/passage/?search=1Tim 1:10\">1 Tim. 1:10</a>; <a class=\"bibleref\" href=\"/passage/?search=Jas 3:6\">James 3:6</a>; <a class=\"bibleref\" href=\"/passage/?search=Rev 21:8\">Rev. 21:8</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,12,38" ],
+  "verses" : [ {
+    "verse" : "matthew,12,38",
+    "text" : "Then some of the Pharisees and teachers of the law said to him, \"Teacher, we want to see a miraculous sign from you.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,12,38",
     "id" : 195759,
@@ -42,7 +93,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 12:38\">12:38</a></b> <b>sign.</b> That they should ask for a sign is incredible in the light of what they had already seen. Jesus does not do miracles on demand.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,12,39" ],
+  "verses" : [ {
+    "verse" : "matthew,12,39",
+    "text" : "He answered, \"A wicked and adulterous generation asks for a miraculous sign! But none will be given it except the sign of the prophet Jonah."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,12,39",
     "id" : 195760,
@@ -50,7 +104,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 12:39\">12:39</a></b> <b>sign of . . . Jonah.</b> Jonah was as good as dead and then restored to life again, and the Son of Man’s rising from the dead (<a class=\"bibleref\" href=\"/passage/?search=Matt 12:40\">v. 40</a>) is the greatest sign of all that the kingdom has come.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,12,40", "matthew,12,41", "matthew,12,42" ],
+  "verses" : [ {
+    "verse" : "matthew,12,40",
+    "text" : "For as Jonah was three days and three nights in the belly of a huge fish, so the Son of Man will be three days and three nights in the heart of the earth."
+  }, {
+    "verse" : "matthew,12,41",
+    "text" : "The men of Nineveh will stand up at the judgment with this generation and condemn it; for they repented at the preaching of Jonah, and now one greater than Jonah is here."
+  }, {
+    "verse" : "matthew,12,42",
+    "text" : "The Queen of the South will rise at the judgment with this generation and condemn it; for she came from the ends of the earth to listen to Solomon's wisdom, and now one greater than Solomon is here."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,12,40",
     "id" : 195761,
@@ -58,7 +121,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 12:40\">12:40</a></b> <b>three days and three nights.</b> An emphatic way of saying “three days.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,12,43", "matthew,12,44", "matthew,12,45" ],
+  "verses" : [ {
+    "verse" : "matthew,12,43",
+    "text" : "\"When an evil spirit comes out of a man, it goes through arid places seeking rest and does not find it."
+  }, {
+    "verse" : "matthew,12,44",
+    "text" : "Then it says, 'I will return to the house I left.' When it arrives, it finds the house unoccupied, swept clean and put in order."
+  }, {
+    "verse" : "matthew,12,45",
+    "text" : "Then it goes and takes with it seven other spirits more wicked than itself, and they go in and live there. And the final condition of that man is worse than the first. That is how it will be with this wicked generation.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,12,43-matthew,12,45",
     "id" : 195762,

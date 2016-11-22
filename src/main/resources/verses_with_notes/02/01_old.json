@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "exodus,13,17" ],
+  "verses" : [ {
+    "verse" : "exodus,13,17",
+    "text" : "When Pharaoh let the people go, God did not lead them on the road through the Philistine country, though that was shorter. For God said, \"If they face war, they might change their minds and return to Egypt.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,13,17",
     "id" : 185705,
@@ -7,7 +10,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 13:17\">13:17</a></b> <b>way . . . of the Philistines.</b> The strongly fortified caravan route that ran parallel to the Mediterranean coast (Introduction: Interpretive Difficulties). The Philistines were not in Palestine in considerable numbers until the twelfth century, but undoubtedly there were coastal pockets of Philistine (Minoan) trading colonies there earlier.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,13,18" ],
+  "verses" : [ {
+    "verse" : "exodus,13,18",
+    "text" : "So God led the people around by the desert road toward the Red Sea. The Israelites went up out of Egypt armed for battle."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,13,18",
     "id" : 185706,
@@ -15,7 +21,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 13:18\">13:18</a></b> <b>Red Sea.</b> The Hebrew term (<i>yam suph</i>) is used to designate the Gulf of Aqaba (<a class=\"bibleref\" href=\"/passage/?search=Exod 23:31\">23:31</a>), the Gulf of Suez (<a class=\"bibleref\" href=\"/passage/?search=Exod 10:19\">10:19</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 33:10\">Num. 33:10</a>), as well as the body of water crossed in the Exodus. Scholars suggest that the term may mean “sea of reeds” or “sea of the end.” The “Red Sea” of the Exodus was probably one of the Bitter Lakes north of the Gulf of Suez. Perhaps it was the southern extension of the present Lake Menzaleh. Archaeological evidence suggests that the Bitter Lakes were at one time joined to the Gulf of Suez, and that shallows existed in them.</p><p><b>equipped for battle.</b> Israel went out in military formation, disciplined and prepared (12:37 note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,13,19" ],
+  "verses" : [ {
+    "verse" : "exodus,13,19",
+    "text" : "Moses took the bones of Joseph with him because Joseph had made the sons of Israel swear an oath. He had said, \"God will surely come to your aid, and then you must carry my bones up with you from this place.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,13,19",
     "id" : 185707,
@@ -23,7 +32,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 13:19\">13:19</a></b> <b>bones of Joseph.</b> See <a class=\"bibleref\" href=\"/passage/?search=Gen 50:25\">Gen. 50:25</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 24:32\">Josh. 24:32</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,13,20" ],
+  "verses" : [ {
+    "verse" : "exodus,13,20",
+    "text" : "After leaving Succoth they camped at Etham on the edge of the desert."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,13,20",
     "id" : 185708,
@@ -31,7 +43,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 13:20\">13:20</a></b> <b>Etham.</b> Israel camped on the edge of the wilderness near what may have been an Egyptian fortress at Etham (since the name seems Egyptian) where they understandably turned back (<a class=\"bibleref\" href=\"/passage/?search=Exod 14:2\">14:2</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,13,21", "exodus,13,22", "exodus,14,1" ],
+  "verses" : [ {
+    "verse" : "exodus,13,21",
+    "text" : "By day the LORD went ahead of them in a pillar of cloud to guide them on their way and by night in a pillar of fire to give them light, so that they could travel by day or night."
+  }, {
+    "verse" : "exodus,13,22",
+    "text" : "Neither the pillar of cloud by day nor the pillar of fire by night left its place in front of the people."
+  }, {
+    "verse" : "exodus,14,1",
+    "text" : "Then the LORD said to Moses,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,13,21",
     "id" : 185709,
@@ -39,7 +60,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 13:21\">13:21</a></b> <b>cloud . . . fire.</b> Customary symbols of the immediate presence of God (<a class=\"bibleref\" href=\"/passage/?search=Exod 3:2\">3:2</a> note; <a class=\"bibleref\" href=\"/passage/?search=Exod 33:9-Exod 33:10\">33:9–10</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 40:34-Exod 40:38\">40:34–38</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 9:15-Num 9:22\">Num. 9:15–22</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 11:25\">11:25</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 99:7\">Ps. 99:7</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 105:39\">105:39</a>). God is not only present; He guides Israel day and night by His presence.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,14,2", "exodus,14,3" ],
+  "verses" : [ {
+    "verse" : "exodus,14,2",
+    "text" : "\"Tell the Israelites to turn back and encamp near Pi Hahiroth, between Migdol and the sea. They are to encamp by the sea, directly opposite Baal Zephon."
+  }, {
+    "verse" : "exodus,14,3",
+    "text" : "Pharaoh will think, 'The Israelites are wandering around the land in confusion, hemmed in by the desert.'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,14,2",
     "id" : 185710,
@@ -47,7 +74,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 14:2\">14:2</a></b> <b>Pi-hahiroth.</b> By divine command, Israel turned back and camped at Pi-hahiroth, reputedly in the vicinity of Rameses (Qantir). This invited Pharaoh’s pursuit (<a class=\"bibleref\" href=\"/passage/?search=Exod 14:4\">v. 4</a> note).</p><p><b>Migdol.</b> A general word for “fortification”; its location is presently unknown.</p><p><b>Baal-zephon.</b> This site (“Baal of the North”) was reputed to be in the vicinity of Tahpanhes, near Lake Menzaleh, about twenty miles east of Rameses.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,14,4", "exodus,14,5" ],
+  "verses" : [ {
+    "verse" : "exodus,14,4",
+    "text" : "And I will harden Pharaoh's heart, and he will pursue them. But I will gain glory for myself through Pharaoh and all his army, and the Egyptians will know that I am the LORD.\" So the Israelites did this."
+  }, {
+    "verse" : "exodus,14,5",
+    "text" : "When the king of Egypt was told that the people had fled, Pharaoh and his officials changed their minds about them and said, \"What have we done? We have let the Israelites go and have lost their services!\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,14,4",
     "id" : 185711,
@@ -55,7 +88,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 14:4\">14:4</a></b> Pharaoh’s pursuit of his escaping slaves takes place under God’s sovereign direction.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,14,6", "exodus,14,7", "exodus,14,8", "exodus,14,9", "exodus,14,10" ],
+  "verses" : [ {
+    "verse" : "exodus,14,6",
+    "text" : "So he had his chariot made ready and took his army with him."
+  }, {
+    "verse" : "exodus,14,7",
+    "text" : "He took six hundred of the best chariots, along with all the other chariots of Egypt, with officers over all of them."
+  }, {
+    "verse" : "exodus,14,8",
+    "text" : "The LORD hardened the heart of Pharaoh king of Egypt, so that he pursued the Israelites, who were marching out boldly."
+  }, {
+    "verse" : "exodus,14,9",
+    "text" : "The Egyptians-all Pharaoh's horses and chariots, horsemen and troops-pursued the Israelites and overtook them as they camped by the sea near Pi Hahiroth, opposite Baal Zephon."
+  }, {
+    "verse" : "exodus,14,10",
+    "text" : "As Pharaoh approached, the Israelites looked up, and there were the Egyptians, marching after them. They were terrified and cried out to the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,14,6",
     "id" : 185712,
@@ -63,7 +111,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 14:6\">14:6</a></b> <b>made ready his chariot.</b> Pharaoh was in earnest since his elite chariot force was deployed. The horse and chariot seem to have been introduced into Egypt by the Hyksos (c. 1700 <span class=\"small-caps\">b.c.</span>). The Egyptian chariot carried three men.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,14,11", "exodus,14,12" ],
+  "verses" : [ {
+    "verse" : "exodus,14,11",
+    "text" : "They said to Moses, \"Was it because there were no graves in Egypt that you brought us to the desert to die? What have you done to us by bringing us out of Egypt?"
+  }, {
+    "verse" : "exodus,14,12",
+    "text" : "Didn't we say to you in Egypt, 'Leave us alone; let us serve the Egyptians'? It would have been better for us to serve the Egyptians than to die in the desert!\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,14,11",
     "id" : 185713,
@@ -71,7 +125,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 14:11\">14:11</a></b> <b>They said to Moses.</b> Israel’s rebellious complaints against God’s leading are a continuing theme in Exodus (<a class=\"bibleref\" href=\"/passage/?search=Exod 5:21\">5:21</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 15:24\">15:24</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 16:3\">16:3</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 17:2\">17:2</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 32:1\">32:1</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,14,13" ],
+  "verses" : [ {
+    "verse" : "exodus,14,13",
+    "text" : "Moses answered the people, \"Do not be afraid. Stand firm and you will see the deliverance the LORD will bring you today. The Egyptians you see today you will never see again."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,14,13",
     "id" : 185714,
@@ -79,7 +136,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 14:13\">14:13</a></b> <b>Fear not.</b> At the crucial point of Israel’s deliverance they must see that their salvation is entirely God’s work. His judgments on Egypt, His hardening of Pharaoh’s heart, His leading Israel to this hopeless impasse, pinned between Pharaoh’s chariots and the sea—all prepare for the climactic display of His saving power. The Lord will fight for them; they need only be still. He will gain the glory (<a class=\"bibleref\" href=\"/passage/?search=Exod 14:18\">14:18</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,14,14" ],
+  "verses" : [ {
+    "verse" : "exodus,14,14",
+    "text" : "The LORD will fight for you; you need only to be still.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,14,14",
     "id" : 185715,
@@ -87,7 +147,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 14:14\">14:14</a></b> <b>The <span class=\"small-caps\">Lord</span> will fight.</b> This phrase indicates the origin of the theme of the Lord as “divine Warrior,” celebrated in <a class=\"bibleref\" href=\"/passage/?search=Exod 15\">ch. 15</a>. War in the ancient world was viewed as a sacred undertaking in which the honor of the deity was at stake. In Israel, God was the “God of the armies of Israel” (<a class=\"bibleref\" href=\"/passage/?search=1Sam 17:45\">1 Sam. 17:45</a>), but also the “Lord of Hosts” (i.e., the Lord of the armies of heaven, the architect of Israel’s victories and the inflicter of Israel’s defeats). An early account of Israel’s conquests under the Lord’s leadership was called “the Book of the Wars of the <span class=\"small-caps\">Lord</span>” (<a class=\"bibleref\" href=\"/passage/?search=Num 21:14\">Num. 21:14</a>). The theology of Holy War, which arose as a result, finds expression throughout both the Old and New Testament.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,14,15" ],
+  "verses" : [ {
+    "verse" : "exodus,14,15",
+    "text" : "Then the LORD said to Moses, \"Why are you crying out to me? Tell the Israelites to move on."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,14,15",
     "id" : 185716,
@@ -95,7 +158,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 14:15\">14:15</a></b> <b>cry.</b> A prayer of Moses is to be understood.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,14,16", "exodus,14,17", "exodus,14,18" ],
+  "verses" : [ {
+    "verse" : "exodus,14,16",
+    "text" : "Raise your staff and stretch out your hand over the sea to divide the water so that the Israelites can go through the sea on dry ground."
+  }, {
+    "verse" : "exodus,14,17",
+    "text" : "I will harden the hearts of the Egyptians so that they will go in after them. And I will gain glory through Pharaoh and all his army, through his chariots and his horsemen."
+  }, {
+    "verse" : "exodus,14,18",
+    "text" : "The Egyptians will know that I am the LORD when I gain glory through Pharaoh, his chariots and his horsemen.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,14,16",
     "id" : 185717,
@@ -103,7 +175,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 14:16\">14:16</a></b> <b>Lift up your staff.</b> The rod of Moses, used in bringing God’s judgments on Egypt, will now bring salvation to His people.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,14,19", "exodus,14,20" ],
+  "verses" : [ {
+    "verse" : "exodus,14,19",
+    "text" : "Then the angel of God, who had been traveling in front of Israel's army, withdrew and went behind them. The pillar of cloud also moved from in front and stood behind them,"
+  }, {
+    "verse" : "exodus,14,20",
+    "text" : "coming between the armies of Egypt and Israel. Throughout the night the cloud brought darkness to the one side and light to the other side; so neither went near the other all night long."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,14,19",
     "id" : 185718,
@@ -111,7 +189,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 14:19\">14:19</a></b> <b>angel . . . cloud.</b> The Angel of the Lord is identified with God’s own presence in the cloud (<a class=\"bibleref\" href=\"/passage/?search=Exod 23:20-Exod 23:22\">23:20–22</a>). See note <a class=\"bibleref\" href=\"/passage/?search=Gen 16:7\">Gen. 16:7</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,14,21", "exodus,14,22", "exodus,14,23" ],
+  "verses" : [ {
+    "verse" : "exodus,14,21",
+    "text" : "Then Moses stretched out his hand over the sea, and all that night the LORD drove the sea back with a strong east wind and turned it into dry land. The waters were divided,"
+  }, {
+    "verse" : "exodus,14,22",
+    "text" : "and the Israelites went through the sea on dry ground, with a wall of water on their right and on their left."
+  }, {
+    "verse" : "exodus,14,23",
+    "text" : "The Egyptians pursued them, and all Pharaoh's horses and chariots and horsemen followed them into the sea."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,14,21",
     "id" : 185719,
@@ -119,7 +206,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 14:21\">14:21</a></b> <b>east wind.</b> God sends the wind to accomplish His purpose, but further supernatural power was needed to maintain the water on either side of the escape route, then return it with sufficient force to destroy Pharaoh’s army.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,14,24" ],
+  "verses" : [ {
+    "verse" : "exodus,14,24",
+    "text" : "During the last watch of the night the LORD looked down from the pillar of fire and cloud at the Egyptian army and threw it into confusion."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,14,24",
     "id" : 185720,
@@ -127,7 +217,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 14:24\">14:24</a></b> <b>morning watch.</b> The night was divided into three watches of four hours, the last of which (the morning watch) was from 2:00 to 6:00 <span class=\"small-caps\">a.m.</span>, often the time for surprise attack (<a class=\"bibleref\" href=\"/passage/?search=1Sam 11:11\">1 Sam. 11:11</a>). The Lord Himself threw the Egyptian army into confusion.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,14,25", "exodus,14,26" ],
+  "verses" : [ {
+    "verse" : "exodus,14,25",
+    "text" : "He made the wheels of their chariots come off so that they had difficulty driving. And the Egyptians said, \"Let's get away from the Israelites! The LORD is fighting for them against Egypt.\""
+  }, {
+    "verse" : "exodus,14,26",
+    "text" : "Then the LORD said to Moses, \"Stretch out your hand over the sea so that the waters may flow back over the Egyptians and their chariots and horsemen.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,14,25",
     "id" : 185721,
@@ -135,7 +231,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 14:25\">14:25</a></b> <b>The <span class=\"small-caps\">Lord</span> fights.</b> Egypt recognized the victory as God’s (cf. <a class=\"bibleref\" href=\"/passage/?search=Exod 14:14\">v. 14</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,14,27", "exodus,14,28", "exodus,14,29" ],
+  "verses" : [ {
+    "verse" : "exodus,14,27",
+    "text" : "Moses stretched out his hand over the sea, and at daybreak the sea went back to its place. The Egyptians were fleeing toward it, and the LORD swept them into the sea."
+  }, {
+    "verse" : "exodus,14,28",
+    "text" : "The water flowed back and covered the chariots and horsemen-the entire army of Pharaoh that had followed the Israelites into the sea. Not one of them survived."
+  }, {
+    "verse" : "exodus,14,29",
+    "text" : "But the Israelites went through the sea on dry ground, with a wall of water on their right and on their left."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,14,27",
     "id" : 185722,
@@ -143,7 +248,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 14:27\">14:27</a></b> The outstretched hand and staff of Moses are the instruments of destruction for the pursuing army, and bring about Israel’s deliverance.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,14,30" ],
+  "verses" : [ {
+    "verse" : "exodus,14,30",
+    "text" : "That day the LORD saved Israel from the hands of the Egyptians, and Israel saw the Egyptians lying dead on the shore."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,14,30",
     "id" : 185723,
@@ -151,7 +259,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 14:30\">14:30</a></b> <b>the <span class=\"small-caps\">Lord</span> saved Israel.</b> Verses 30, 31 summarize God’s saving deed and its effect on Israel.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,14,31" ],
+  "verses" : [ {
+    "verse" : "exodus,14,31",
+    "text" : "And when the Israelites saw the great power the LORD displayed against the Egyptians, the people feared the LORD and put their trust in him and in Moses his servant."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,14,31",
     "id" : 185724,
@@ -159,7 +270,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 14:31\">14:31</a></b> <b>feared . . . believed in the <span class=\"small-caps\">Lord</span></b><span class=\"small-caps\"></span> <b>and in his servant Moses.</b> At this point, Israel is a community that professes faith. Later, in the wilderness, they will apostatize and come under God’s wrath (<a class=\"bibleref\" href=\"/passage/?search=Num 14\">Num. 14</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 95\">Ps. 95</a>). The church, as a professing community, should avoid this example (<a class=\"bibleref\" href=\"/passage/?search=Heb 3\">Heb. 3</a>; <a class=\"bibleref\" href=\"/passage/?search=Heb 4\">4</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,15,1", "exodus,15,2" ],
+  "verses" : [ {
+    "verse" : "exodus,15,1",
+    "text" : "Then Moses and the Israelites sang this song to the LORD: \"I will sing to the LORD, for he is highly exalted. The horse and its rider he has hurled into the sea."
+  }, {
+    "verse" : "exodus,15,2",
+    "text" : "The LORD is my strength and my song; he has become my salvation. He is my God, and I will praise him, my father's God, and I will exalt him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,15,1-exodus,15,21",
     "id" : 185725,
@@ -172,7 +289,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 15:1\">15:1</a></b> <b>I will sing.</b> The Lord has shown His glory as He promised, and it is the privilege of His people, led by His servant Moses, to praise the God of their salvation. This Song of Moses becomes Israel’s song as well. It is echoed elsewhere in the Old Testament (<a class=\"bibleref\" href=\"/passage/?search=Ps 118:14\">Ps. 118:14</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 12:2\">Is. 12:2</a>), and is sung by the saints in <a class=\"bibleref\" href=\"/passage/?search=Rev 15:3\">Rev. 15:3</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,15,3", "exodus,15,4" ],
+  "verses" : [ {
+    "verse" : "exodus,15,3",
+    "text" : "The LORD is a warrior; the LORD is his name."
+  }, {
+    "verse" : "exodus,15,4",
+    "text" : "Pharaoh's chariots and his army he has hurled into the sea. The best of Pharaoh's officers are drowned in the Red Sea."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,15,3",
     "id" : 185727,
@@ -180,7 +303,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 15:3\">15:3</a></b> The theme of Yahweh as the Divine Warrior is emphasized. See <a class=\"bibleref\" href=\"/passage/?search=Isa 59:16-Isa 59:18\">Is. 59:16–18</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,15,5" ],
+  "verses" : [ {
+    "verse" : "exodus,15,5",
+    "text" : "The deep waters have covered them; they sank to the depths like a stone."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,15,5",
     "id" : 185728,
@@ -188,7 +314,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 15:5\">15:5</a></b> <b>floods.</b> The chaotic waters of the deep, ordered by God at creation (<a class=\"bibleref\" href=\"/passage/?search=Gen 1:2\">Gen. 1:2</a>), are unleashed by God on the enemy.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,15,6", "exodus,15,7" ],
+  "verses" : [ {
+    "verse" : "exodus,15,6",
+    "text" : "\"Your right hand, O LORD, was majestic in power. Your right hand, O LORD, shattered the enemy."
+  }, {
+    "verse" : "exodus,15,7",
+    "text" : "In the greatness of your majesty you threw down those who opposed you. You unleashed your burning anger; it consumed them like stubble."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,15,6",
     "id" : 185729,
@@ -196,7 +328,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 15:6\">15:6</a></b> <b>Your right hand.</b> A symbol of power. In Canaanite art the god Baal was sometimes depicted with mace upheld in the right hand. Here, the symbol of divine power was the outstretched hand of Moses holding the rod of the Lord.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,15,8" ],
+  "verses" : [ {
+    "verse" : "exodus,15,8",
+    "text" : "By the blast of your nostrils the waters piled up. The surging waters stood firm like a wall; the deep waters congealed in the heart of the sea."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,15,8",
     "id" : 185730,
@@ -204,7 +339,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 15:8\">15:8</a></b> <b>floods stood up.</b> Through the threatening waters of death God brought His people to Himself. The waters were an instrument of judgment for Egypt, and a means of deliverance for Israel. Paul, with some support from Jewish tradition, understood the Red Sea crossing as Israel’s “baptism” (<a class=\"bibleref\" href=\"/passage/?search=1Cor 10:2\">1 Cor. 10:2</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=1Pet 3:21\">1 Pet. 3:21</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,15,9", "exodus,15,10" ],
+  "verses" : [ {
+    "verse" : "exodus,15,9",
+    "text" : "\"The enemy boasted, 'I will pursue, I will overtake them. I will divide the spoils; I will gorge myself on them. I will draw my sword and my hand will destroy them.'"
+  }, {
+    "verse" : "exodus,15,10",
+    "text" : "But you blew with your breath, and the sea covered them. They sank like lead in the mighty waters."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,15,9",
     "id" : 185731,
@@ -212,7 +353,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 15:9\">15:9</a></b> <b>I . . . I . . . I . . . I.</b> The staccato repetition of these first person claims reveals an arrogance that is soon silenced.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,15,11" ],
+  "verses" : [ {
+    "verse" : "exodus,15,11",
+    "text" : "\"Who among the gods is like you, O LORD? Who is like you- majestic in holiness, awesome in glory, working wonders?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,15,11",
     "id" : 185732,
@@ -220,7 +364,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 15:11\">15:11</a></b> <b>Who is like you.</b> The comparison is rhetorical in this threefold presentation of God’s nature and power.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,15,12" ],
+  "verses" : [ {
+    "verse" : "exodus,15,12",
+    "text" : "You stretched out your right hand and the earth swallowed them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,15,12",
     "id" : 185733,
@@ -228,7 +375,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 15:12\">15:12</a></b> <b>earth swallowed them.</b> An expression for their reception into the underworld, thought to be the abode of the dead (<a class=\"bibleref\" href=\"/passage/?search=Ps 63:9\">Ps. 63:9</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 71:20\">71:20</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,15,13" ],
+  "verses" : [ {
+    "verse" : "exodus,15,13",
+    "text" : "\"In your unfailing love you will lead the people you have redeemed. In your strength you will guide them to your holy dwelling."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,15,13",
     "id" : 185734,
@@ -236,7 +386,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 15:13\">15:13</a></b> <b>steadfast love.</b> This translates the Hebrew word <i>hesed,</i> the precise sense of which is difficult to render in English. Here it refers to God’s loyalty and devotion to His people, a loyalty created by the bond of God’s covenant with His people. Though we might expect it to be used for the devotion of God’s people to Him, its overwhelming use is as a description of God’s devotion to His people. Since God reveals Himself in devotion to His own, there is no stronger term to express the free and faithful grace of His love (<a class=\"bibleref\" href=\"/passage/?search=Exod 34:6\">34:6</a>, “abounding in steadfast love”; <a class=\"bibleref\" href=\"/passage/?search=Ps 136\">Ps. 136</a>, “his steadfast love endures forever”). God’s abiding covenant love and mercy find particular illustration in the Book of Hosea (<a class=\"bibleref\" href=\"/passage/?search=Hos 2:19\">Hos. 2:19</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,15,14", "exodus,15,15", "exodus,15,16" ],
+  "verses" : [ {
+    "verse" : "exodus,15,14",
+    "text" : "The nations will hear and tremble; anguish will grip the people of Philistia."
+  }, {
+    "verse" : "exodus,15,15",
+    "text" : "The chiefs of Edom will be terrified, the leaders of Moab will be seized with trembling, the people of Canaan will melt away;"
+  }, {
+    "verse" : "exodus,15,16",
+    "text" : "terror and dread will fall upon them. By the power of your arm they will be as still as a stone- until your people pass by, O LORD, until the people you bought pass by."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,15,14",
     "id" : 185735,
@@ -244,7 +403,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 15:14\">15:14</a></b> <b>tremble.</b> The extraordinary, divinely induced fear of the inhabitants of Canaan is here depicted (<a class=\"bibleref\" href=\"/passage/?search=Deut 2:25\">Deut. 2:25</a> note). The peoples are mentioned in the approximate order they were encountered by Israel during the journey to the Promised Land.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,15,17" ],
+  "verses" : [ {
+    "verse" : "exodus,15,17",
+    "text" : "You will bring them in and plant them on the mountain of your inheritance- the place, O LORD, you made for your dwelling, the sanctuary, O Lord, your hands established."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,15,17",
     "id" : 185736,
@@ -252,7 +414,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 15:17\">15:17</a></b> A brief summary of the aims of the Exodus. The purpose was the settlement of Israel as God’s special people in the Promised Land, the sanctuary of God’s dwelling.</p><p><b>your own mountain.</b> The point of contact between heaven and earth will be here. Deities in the ancient world were thought to inhabit mountains, and Israel took over this concept poetically. Here the whole of Palestine is viewed as the place of revelation (<a class=\"bibleref\" href=\"/passage/?search=Deut 3:25\">Deut. 3:25</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 78:54\">Ps. 78:54</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 11:9\">Is. 11:9</a>).</p><p><b>sanctuary.</b> The land would become such by God’s indwelling presence, reminding readers that the goal of the Exodus was the worship of God in the land. Apart from God’s gracious presence, there was no point in going to the land (33:15).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,15,18" ],
+  "verses" : [ {
+    "verse" : "exodus,15,18",
+    "text" : "The LORD will reign for ever and ever.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,15,18",
     "id" : 185737,

@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "isaiah,1,1" ],
+  "verses" : [ {
+    "verse" : "isaiah,1,1",
+    "text" : "The vision concerning Judah and Jerusalem that Isaiah son of Amoz saw during the reigns of Uzziah, Jotham, Ahaz and Hezekiah, kings of Judah."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,1,1",
     "id" : 192571,
@@ -7,7 +10,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 1:1\">1:1</a></b> <b>vision . . . Isaiah.</b> The superscription refers to the entire Book of Isaiah. “Vision” means that the book is a revelation from God.</p><p><b>Isaiah.</b> “The Lord saves.”</p><p><b>kings of Judah.</b> See Introduction: Date and Occasion.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,1,2", "isaiah,1,3" ],
+  "verses" : [ {
+    "verse" : "isaiah,1,2",
+    "text" : "Hear, O heavens! Listen, O earth! For the LORD has spoken: \"I reared children and brought them up, but they have rebelled against me."
+  }, {
+    "verse" : "isaiah,1,3",
+    "text" : "The ox knows his master, the donkey his owner's manger, but Israel does not know, my people do not understand.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,1,2",
     "id" : 192572,
@@ -15,7 +24,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 1:2\">1:2</a></b> <b>heavens . . . earth.</b> The whole of creation will bear witness against Israel that the Lord had warned them they would be judged if they broke their covenant with Him (<a class=\"bibleref\" href=\"/passage/?search=Deut 30:19\">Deut. 30:19</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 32:1\">32:1</a>).</p><p><b><span class=\"small-caps\">Lord.</span></b> This name signifies the personal revelation of God to Israel and His solemn promise to be their God (<a class=\"bibleref\" href=\"/passage/?search=Exod 3:15\">Ex. 3:15</a>).</p><p><b>Children.</b> They were children by creation, by election, and by covenant (45:11; 49:7; 64:8; <a class=\"bibleref\" href=\"/passage/?search=Deut 32:6\">Deut. 32:6</a>, <a class=\"bibleref\" href=\"/passage/?search=Deut 32:18\">18</a>; <a class=\"bibleref\" href=\"/passage/?search=Mal 2:10\">Mal. 2:10</a>).</p><p><b>rebelled.</b> Rebellion is willful transgression against the Lord’s sovereign and gracious rule (1:28; 43:27; 48:8; 59:13).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,1,4" ],
+  "verses" : [ {
+    "verse" : "isaiah,1,4",
+    "text" : "Ah, sinful nation, a people loaded with guilt, a brood of evildoers, children given to corruption! They have forsaken the LORD; they have spurned the Holy One of Israel and turned their backs on him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,1,4",
     "id" : 192573,
@@ -23,7 +35,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 1:4\">1:4</a></b> <b>Ah.</b> This is an emphatic particle used in contexts of lament (<a class=\"bibleref\" href=\"/passage/?search=Isa 1:4\">1:4</a>), but more often in threats (“woe,” <a class=\"bibleref\" href=\"/passage/?search=Isa 3:9\">3:9</a>, <a class=\"bibleref\" href=\"/passage/?search=Isa 3:11\">11</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 5:11\">5:11</a>, <a class=\"bibleref\" href=\"/passage/?search=Isa 5:18\">18</a>, <a class=\"bibleref\" href=\"/passage/?search=Isa 5:20\">20</a>, <a class=\"bibleref\" href=\"/passage/?search=Isa 5:21\">21</a>). The staccato lament decries the folly and evil of God’s children.</p><p><b>the Holy One of Israel.</b> With his special designation for the Lord, Isaiah calls attention to the unique and awe-inspiring splendor of the Lord. The phrase occurs twenty-six times in Isaiah (e.g., <a class=\"bibleref\" href=\"/passage/?search=Isa 5:19\">5:19</a>, <a class=\"bibleref\" href=\"/passage/?search=Isa 5:24\">24</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 41:14\">41:14</a>, <a class=\"bibleref\" href=\"/passage/?search=Isa 41:16\">16</a>, <a class=\"bibleref\" href=\"/passage/?search=Isa 41:20\">20</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 60:9\">60:9</a>, <a class=\"bibleref\" href=\"/passage/?search=Isa 60:14\">14</a>). See also “the Holy One of Jacob” (<a class=\"bibleref\" href=\"/passage/?search=Isa 29:23\">29:23</a>), “Holy One” (<a class=\"bibleref\" href=\"/passage/?search=Isa 10:17\">10:17</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 40:25\">40:25</a>), and “your Holy One” (<a class=\"bibleref\" href=\"/passage/?search=Isa 43:15\">43:15</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,1,5", "isaiah,1,6", "isaiah,1,7" ],
+  "verses" : [ {
+    "verse" : "isaiah,1,5",
+    "text" : "Why should you be beaten anymore? Why do you persist in rebellion? Your whole head is injured, your whole heart afflicted."
+  }, {
+    "verse" : "isaiah,1,6",
+    "text" : "From the sole of your foot to the top of your head there is no soundness- only wounds and welts and open sores, not cleansed or bandaged or soothed with oil."
+  }, {
+    "verse" : "isaiah,1,7",
+    "text" : "Your country is desolate, your cities burned with fire; your fields are being stripped by foreigners right before you, laid waste as when overthrown by strangers."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,1,5",
     "id" : 192574,
@@ -36,7 +57,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 1:5\">1:5</a>, <a class=\"bibleref\" href=\"/passage/?search=Isa 1:6\">6</a> struck . . . wounds.</b> The people were unable to recover from God’s chastisement. The imagery of the suffering nation has its counterpart in the suffering of God’s Servant (<a class=\"bibleref\" href=\"/passage/?search=Isa 53:4\">53:4</a>, <a class=\"bibleref\" href=\"/passage/?search=Isa 53:5\">5</a>), who endured the judgment of God in His own body vicariously (that is, as a substitute for others).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,1,8" ],
+  "verses" : [ {
+    "verse" : "isaiah,1,8",
+    "text" : "The Daughter of Zion is left like a shelter in a vineyard, like a hut in a field of melons, like a city under siege."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,1,8",
     "id" : 192576,
@@ -44,7 +68,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 1:8\">1:8</a></b> <b>daughter of Zion.</b> This Hebrew idiom is a personification of Jerusalem. Zion was the hill captured by David (<a class=\"bibleref\" href=\"/passage/?search=2Sam 5:7\">2 Sam. 5:7</a>), but the term often stands for all of Jerusalem or even all of Judah and Israel.</p><p><b>booth.</b> A temporary shelter used by watchmen during harvest. See 4:6 note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,1,9", "isaiah,1,10" ],
+  "verses" : [ {
+    "verse" : "isaiah,1,9",
+    "text" : "Unless the LORD Almighty had left us some survivors, we would have become like Sodom, we would have been like Gomorrah."
+  }, {
+    "verse" : "isaiah,1,10",
+    "text" : "Hear the word of the LORD, you rulers of Sodom; listen to the law of our God, you people of Gomorrah!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,1,9",
     "id" : 192577,
@@ -52,7 +82,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 1:9\">1:9</a></b> <b><span class=\"small-caps\">Lord</span> of hosts.</b> This designation of God presents Him as a divine warrior (<a class=\"bibleref\" href=\"/passage/?search=Isa 13:4\">13:4</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 30:27\">30:27</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 40:10\">40:10</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 42:13\">42:13</a>, <a class=\"bibleref\" href=\"/passage/?search=Isa 42:25\">25</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 59:17\">59:17</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 66:15\">66:15</a>, <a class=\"bibleref\" href=\"/passage/?search=Isa 66:16\">16</a>), the commander over all troops whether in heaven or on earth. Israel’s survival ultimately is not due to the enemy’s weakness, but to God’s sovereign power.</p><p><b>a few survivors.</b> The Lord will not overturn His promise. Even in the midst of judgment He will preserve a remnant. Paul quotes this verse in <a class=\"bibleref\" href=\"/passage/?search=Rom 9:29\">Rom. 9:29</a>, presenting the idea of a remnant taken out of a larger group as an expression of the electing grace of God. In <a class=\"bibleref\" href=\"/passage/?search=Rom 9:27\">Rom. 9:27</a> he quotes from Isaiah’s teaching about the remnant at 10:20–23. See also <a class=\"bibleref\" href=\"/passage/?search=Isa 4:3\">Is. 4:3</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 7:3\">7:3</a> and note; 11:11, 12, 16; 28:5; 37:31, 32; 46:3.</p><p><b>Sodom . . . Gomorrah.</b> God’s people have become like the wicked inhabitants of Canaan, whose cities were destroyed (1:10; <a class=\"bibleref\" href=\"/passage/?search=Gen 18:20\">Gen. 18:20</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 18:21\">21</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 19:24\">19:24</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 19:25\">25</a>). The fate of Sodom and Gomorrah typifies the terrible judgment of God on the kingdoms of this world (3:9; 13:19; <a class=\"bibleref\" href=\"/passage/?search=Luke 17:28\">Luke 17:28</a>, <a class=\"bibleref\" href=\"/passage/?search=Luke 17:29\">29</a>; <a class=\"bibleref\" href=\"/passage/?search=2Pet 2:6-2Pet 2:10\">2 Pet. 2:6–10</a>; <a class=\"bibleref\" href=\"/passage/?search=Jude 1:7\">Jude 7</a>; <a class=\"bibleref\" href=\"/passage/?search=Rev 11:8\">Rev. 11:8</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,1,11", "isaiah,1,12", "isaiah,1,13", "isaiah,1,14", "isaiah,1,15", "isaiah,1,16" ],
+  "verses" : [ {
+    "verse" : "isaiah,1,11",
+    "text" : "\"The multitude of your sacrifices- what are they to me?\" says the LORD. \"I have more than enough of burnt offerings, of rams and the fat of fattened animals; I have no pleasure in the blood of bulls and lambs and goats."
+  }, {
+    "verse" : "isaiah,1,12",
+    "text" : "When you come to appear before me, who has asked this of you, this trampling of my courts?"
+  }, {
+    "verse" : "isaiah,1,13",
+    "text" : "Stop bringing meaningless offerings! Your incense is detestable to me. New Moons, Sabbaths and convocations- I cannot bear your evil assemblies."
+  }, {
+    "verse" : "isaiah,1,14",
+    "text" : "Your New Moon festivals and your appointed feasts my soul hates. They have become a burden to me; I am weary of bearing them."
+  }, {
+    "verse" : "isaiah,1,15",
+    "text" : "When you spread out your hands in prayer, I will hide my eyes from you; even if you offer many prayers, I will not listen. Your hands are full of blood;"
+  }, {
+    "verse" : "isaiah,1,16",
+    "text" : "wash and make yourselves clean. Take your evil deeds out of my sight! Stop doing wrong,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,1,11",
     "id" : 192578,
@@ -60,7 +108,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 1:11\">1:11</a></b> <b>sacrifices.</b> These were the central visible observances of Old Testament religion. Although God had ordered them to be performed, they were of no value without obedience from the heart (<a class=\"bibleref\" href=\"/passage/?search=Isa 1:16\">vv. 16</a>, <a class=\"bibleref\" href=\"/passage/?search=Isa 1:17\">17</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 15:22\">1 Sam. 15:22</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 15:23\">23</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 51:16\">Ps. 51:16</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 51:17\">17</a>; <a class=\"bibleref\" href=\"/passage/?search=Mic 6:6-Mic 6:8\">Mic. 6:6–8</a>; <a class=\"bibleref\" href=\"/passage/?search=Matt 23:23\">Matt. 23:23</a>).</p><p><b>do not delight.</b> The Lord’s distaste for sacrifices offered by those who do evil (v. 16) is expressed with increasing sharpness: “I cannot endure” (v. 13); “my soul hates” (v. 14).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,1,17" ],
+  "verses" : [ {
+    "verse" : "isaiah,1,17",
+    "text" : "learn to do right! Seek justice, encourage the oppressed. Defend the cause of the fatherless, plead the case of the widow."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,1,17",
     "id" : 192579,
@@ -68,7 +119,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 1:17\">1:17</a></b> <b>the fatherless . . . the widow’s cause.</b> Concern for the needy is a practical demonstration of true godliness (<a class=\"bibleref\" href=\"/passage/?search=Isa 1:23\">v. 23</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 58:7\">58:7</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 9:18\">Ps. 9:18</a> note; <a class=\"bibleref\" href=\"/passage/?search=Jer 22:16\">Jer. 22:16</a>; <a class=\"bibleref\" href=\"/passage/?search=Jas 1:27\">James 1:27</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,1,18" ],
+  "verses" : [ {
+    "verse" : "isaiah,1,18",
+    "text" : "\"Come now, let us reason together,\" says the LORD. \"Though your sins are like scarlet, they shall be as white as snow; though they are red as crimson, they shall be like wool."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,1,18",
     "id" : 192580,
@@ -76,7 +130,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 1:18\">1:18</a></b> <b>scarlet.</b> The color depicts hands “full of blood” (<a class=\"bibleref\" href=\"/passage/?search=Isa 1:15\">v. 15</a>).</p><p><b>white as snow.</b> God can take away the stain of sin without compromising His righteousness because Jesus Christ bore God’s punishment for sinners (<a class=\"bibleref\" href=\"/passage/?search=Isa 53:4-Isa 53:6\">53:4–6</a>; <a class=\"bibleref\" href=\"/passage/?search=Rom 3:21-Rom 3:26\">Rom. 3:21–26</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,1,19", "isaiah,1,20" ],
+  "verses" : [ {
+    "verse" : "isaiah,1,19",
+    "text" : "If you are willing and obedient, you will eat the best from the land;"
+  }, {
+    "verse" : "isaiah,1,20",
+    "text" : "but if you resist and rebel, you will be devoured by the sword.\" For the mouth of the LORD has spoken."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,1,19-isaiah,1,20",
     "id" : 192581,
@@ -84,7 +144,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 1:19\">1:19</a>, <a class=\"bibleref\" href=\"/passage/?search=Isa 1:20\">20</a></b> The gospel is a two-edged sword: eternal life (<a class=\"bibleref\" href=\"/passage/?search=Isa 1:19\">v. 19</a>) or eternal death (<a class=\"bibleref\" href=\"/passage/?search=Isa 1:20\">v. 20</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 66:24\">66:24</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,1,21" ],
+  "verses" : [ {
+    "verse" : "isaiah,1,21",
+    "text" : "See how the faithful city has become a harlot! She once was full of justice; righteousness used to dwell in her- but now murderers!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,1,21",
     "id" : 192582,
@@ -92,7 +155,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 1:21\">1:21</a></b> <b>faithful.</b> Godliness is demonstrated by perseverance, stability, and consistency in doing God’s will. Through the purifying process, the Lord will renew a remnant who will again constitute a “faithful city” (<a class=\"bibleref\" href=\"/passage/?search=Isa 1:26\">v. 26</a>), because He is faithful (<a class=\"bibleref\" href=\"/passage/?search=Isa 49:7\">49:7</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 55:3\">55:3</a>).</p><p><b>whore.</b> A “whore” in religion is an idolater, someone who has forsaken God to serve idols (<a class=\"bibleref\" href=\"/passage/?search=Jer 2:20\">Jer. 2:20</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 3:1\">3:1</a>; <a class=\"bibleref\" href=\"/passage/?search=Hos 2:2\">Hos. 2:2</a>; <a class=\"bibleref\" href=\"/passage/?search=Hos 3:1\">3:1</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 16:23-Ezek 16:30\">Ezek. 16:23–30</a>). The sins listed (vv. 21–23) are all evidence that God’s people had forsaken Him.</p><p><b>justice . . . Righteousness.</b> Justice means right relations between people. It is violated by murder, rebellion, stealing, and bribery (vv. 21–23). True justice will defend the cause of orphans and widows as much as the cause of those who can pay bribes and give rewards. The enemies of justice may even pass laws that facilitate their wrongdoing (10:1). Despite all such obstacles, God promises to restore righteousness to the earth (v. 26; 32:1; 33:5, 6; 42:1–4).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,1,22" ],
+  "verses" : [ {
+    "verse" : "isaiah,1,22",
+    "text" : "Your silver has become dross, your choice wine is diluted with water."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,1,22",
     "id" : 192583,
@@ -100,7 +166,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 1:22\">1:22</a></b> <b>silver . . . wine.</b> These are figures for Jerusalem’s unjust rulers (<a class=\"bibleref\" href=\"/passage/?search=Isa 1:23\">v. 23</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,1,23" ],
+  "verses" : [ {
+    "verse" : "isaiah,1,23",
+    "text" : "Your rulers are rebels, companions of thieves; they all love bribes and chase after gifts. They do not defend the cause of the fatherless; the widow's case does not come before them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,1,23",
     "id" : 192584,
@@ -108,7 +177,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 1:23\">1:23</a></b> <b>bribe.</b> The practice of bribery is strongly condemned in God’s law, since it fosters injustice and discrimination (cf. <a class=\"bibleref\" href=\"/passage/?search=Isa 5:23\">Is. 5:23</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 23:8\">Ex. 23:8</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 16:19\">Deut. 16:19</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,1,24", "isaiah,1,25" ],
+  "verses" : [ {
+    "verse" : "isaiah,1,24",
+    "text" : "Therefore the Lord, the LORD Almighty, the Mighty One of Israel, declares: \"Ah, I will get relief from my foes and avenge myself on my enemies."
+  }, {
+    "verse" : "isaiah,1,25",
+    "text" : "I will turn my hand against you; I will thoroughly purge away your dross and remove all your impurities."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,1,24",
     "id" : 192585,
@@ -116,7 +191,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 1:24\">1:24</a></b> <b>the Lord.</b> That is, the Master. God, the Sovereign, will restore justice by removing His enemies, the unrighteous leaders of Jerusalem.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,1,26" ],
+  "verses" : [ {
+    "verse" : "isaiah,1,26",
+    "text" : "I will restore your judges as in days of old, your counselors as at the beginning. Afterward you will be called the City of Righteousness, the Faithful City.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,1,26",
     "id" : 192586,
@@ -124,7 +202,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 1:26\">1:26</a></b> <b>as at the first.</b> The new age will be a restoration, bringing miraculous continuation and renewal to the covenant community. Leadership and people will live in harmony with God’s will (<a class=\"bibleref\" href=\"/passage/?search=Isa 24:23\">24:23</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 32:1\">32:1</a>).</p><p><b>city of righteousness.</b> The new community is composed of men and women who practice righteousness and demonstrate a commitment to God and to other human beings (<a class=\"bibleref\" href=\"/passage/?search=Isa 1:21\">1:21</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,1,27", "isaiah,1,28" ],
+  "verses" : [ {
+    "verse" : "isaiah,1,27",
+    "text" : "Zion will be redeemed with justice, her penitent ones with righteousness."
+  }, {
+    "verse" : "isaiah,1,28",
+    "text" : "But rebels and sinners will both be broken, and those who forsake the LORD will perish."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,1,27",
     "id" : 192587,
@@ -132,7 +216,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 1:27\">1:27</a></b> <b>redeemed.</b> The term means “ransomed,” transferred or freed from ownership by another through the payment of a price. The penitent, who turn their backs on idolatry and injustice, find freedom from Satan, sin, and death through the righteousness of Christ imputed to them and applied to their hearts by the Holy Spirit.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,1,29" ],
+  "verses" : [ {
+    "verse" : "isaiah,1,29",
+    "text" : "\"You will be ashamed because of the sacred oaks in which you have delighted; you will be disgraced because of the gardens that you have chosen."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,1,29",
     "id" : 192588,
@@ -140,7 +227,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 1:29\">1:29</a></b> <b>ashamed . . . blush.</b> What people hold in honor will be exposed as worthless. Sinners will see how wrong they have been when they come to ruin (<a class=\"bibleref\" href=\"/passage/?search=Isa 26:11\">26:11</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 44:9\">44:9</a>, <a class=\"bibleref\" href=\"/passage/?search=Isa 44:11\">11</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 65:13\">65:13</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 66:5\">66:5</a>).</p><p><b>oaks . . . gardens.</b> These were places of fertility rites and pagan worship that the people had chosen in preference to serving God (<a class=\"bibleref\" href=\"/passage/?search=Isa 65:3\">65:3</a> and note; <a class=\"bibleref\" href=\"/passage/?search=Isa 66:17\">66:17</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,1,30" ],
+  "verses" : [ {
+    "verse" : "isaiah,1,30",
+    "text" : "You will be like an oak with fading leaves, like a garden without water."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,1,30",
     "id" : 192589,
@@ -148,7 +238,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 1:30\">1:30</a></b> <b>without water.</b> Drought and fire are metaphors for judgment. Water in Isaiah signifies free, gracious, and bountiful salvation (<a class=\"bibleref\" href=\"/passage/?search=Isa 11:9\">11:9</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 32:2\">32:2</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 41:18\">41:18</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 55:1\">55:1</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 58:11\">58:11</a>). The absence of water signifies separation from God’s blessings (<a class=\"bibleref\" href=\"/passage/?search=Isa 3:1\">3:1</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 50:2\">50:2</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,1,31", "isaiah,2,1" ],
+  "verses" : [ {
+    "verse" : "isaiah,1,31",
+    "text" : "The mighty man will become tinder and his work a spark; both will burn together, with no one to quench the fire.\""
+  }, {
+    "verse" : "isaiah,2,1",
+    "text" : "This is what Isaiah son of Amoz saw concerning Judah and Jerusalem:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,1,31",
     "id" : 192590,
@@ -156,7 +252,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 1:31\">1:31</a></b> <b>burn.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Isa 4:4\">4:4</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,2,2" ],
+  "verses" : [ {
+    "verse" : "isaiah,2,2",
+    "text" : "In the last days the mountain of the LORD's temple will be established as chief among the mountains; it will be raised above the hills, and all nations will stream to it."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,2,2",
     "id" : 192591,
@@ -164,7 +263,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 2:2\">2:2</a></b> <b>in the latter days.</b> This reference to “the latter days” is indefinite and may include a lengthy process of fulfillment, including the reigns of Hezekiah and Josiah, the period of restoration after the Exile, the First Advent of our Lord, the present age, and the glorious consummation (<a class=\"bibleref\" href=\"/passage/?search=Jer 23:20\">Jer. 23:20</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 30:24\">30:24</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 38:8\">Ezek. 38:8</a>, <a class=\"bibleref\" href=\"/passage/?search=Ezek 38:16\">16</a>; <a class=\"bibleref\" href=\"/passage/?search=Hos 3:5\">Hos. 3:5</a>). The term designates a new epoch that for the prophet lies in the hidden future. The new epoch alters history in every dimension and is the goal toward which events are striving. The apostle Peter relates this time to the new age begun at Pentecost by using the phrase for an introduction to his citation of <a class=\"bibleref\" href=\"/passage/?search=Joel 2:28-Joel 2:32\">Joel 2:28–32</a> (<a class=\"bibleref\" href=\"/passage/?search=Acts 2:17\">Acts 2:17</a>).</p><p><b>mountain.</b> The prophet spoke of the temple mount as a metaphor for the Lord’s kingdom that will be exalted above all other kingdoms (cf. 11:9; 65:25; 66:20). Mount Zion and the temple on it were symbols of heaven and the heavenly sanctuary (<a class=\"bibleref\" href=\"/passage/?search=Heb 9:24\">Heb. 9:24</a>). These earthly representations have passed away (<a class=\"bibleref\" href=\"/passage/?search=Heb 8:13\">Heb. 8:13</a>); through the priesthood of the ascended Lord, the church comes directly to the heavenly reality (<a class=\"bibleref\" href=\"/passage/?search=Heb 12:22-Heb 12:24\">Heb. 12:22–24</a>).</p><p><b>highest of the mountains.</b> Pagans worshiped their gods at mountain shrines. Israel’s God, who is worshiped on Mount Zion, will establish Himself in the eyes of all races and nations as the only true and living God, even as He is worshiped today.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,2,3" ],
+  "verses" : [ {
+    "verse" : "isaiah,2,3",
+    "text" : "Many peoples will come and say, \"Come, let us go up to the mountain of the LORD, to the house of the God of Jacob. He will teach us his ways, so that we may walk in his paths.\" The law will go out from Zion, the word of the LORD from Jerusalem."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,2,3",
     "id" : 192592,
@@ -172,7 +274,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 2:3\">2:3</a></b> <b>let us go.</b> They encourage one another to worship God from regenerate hearts (<a class=\"bibleref\" href=\"/passage/?search=John 3:3-John 3:8\">John 3:3–8</a>).</p><p><b>out of Zion.</b> The prophet proclaims the new era in which Jews and Gentiles will serve one King (11:10–12; 27:13; 56:3–8; 66:19–23). Zion, or Jerusalem, stands for God’s throne (1:8 note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,2,4" ],
+  "verses" : [ {
+    "verse" : "isaiah,2,4",
+    "text" : "He will judge between the nations and will settle disputes for many peoples. They will beat their swords into plowshares and their spears into pruning hooks. Nation will not take up sword against nation, nor will they train for war anymore."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,2,4",
     "id" : 192593,
@@ -180,7 +285,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 2:4\">2:4</a></b> <b>swords into plowshares.</b> Compare <a class=\"bibleref\" href=\"/passage/?search=Joel 3:10\">Joel 3:10</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,2,5" ],
+  "verses" : [ {
+    "verse" : "isaiah,2,5",
+    "text" : "Come, O house of Jacob, let us walk in the light of the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,2,5",
     "id" : 192594,
@@ -188,7 +296,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 2:5\">2:5</a></b> <b>light.</b> Light stands for God’s blessings, presence, and revelation (<a class=\"bibleref\" href=\"/passage/?search=Isa 9:2\">9:2</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 30:26\">30:26</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 42:6\">42:6</a>, <a class=\"bibleref\" href=\"/passage/?search=Isa 42:16\">16</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 60:1-Isa 60:3\">60:1–3</a>). The Lord is the light in blessing and in judgment (<a class=\"bibleref\" href=\"/passage/?search=Isa 10:17\">10:17</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 60:19\">60:19</a>, <a class=\"bibleref\" href=\"/passage/?search=Isa 60:20\">20</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=John 1:4\">John 1:4</a>; <a class=\"bibleref\" href=\"/passage/?search=John 8:12\">8:12</a>). People who exchange His light for the darkness of their corrupt minds (5:20; 8:20), will experience His judgment and live in the darkness of separation from God (5:30; 13:10; 59:9; cf. <a class=\"bibleref\" href=\"/passage/?search=John 3:19\">John 3:19</a>, <a class=\"bibleref\" href=\"/passage/?search=John 3:20\">20</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,2,6" ],
+  "verses" : [ {
+    "verse" : "isaiah,2,6",
+    "text" : "You have abandoned your people, the house of Jacob. They are full of superstitions from the East; they practice divination like the Philistines and clasp hands with pagans."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,2,6-isaiah,2,9",
     "id" : 192595,
@@ -201,7 +312,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 2:6\">2:6</a></b> <b>things from the east . . . Philistines.</b> This refers to the pagan cultures on either side of Judah; Philistia was to the west. The law condemns all forms of magic and divination (<a class=\"bibleref\" href=\"/passage/?search=Lev 19:26\">Lev. 19:26</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 18:10\">Deut. 18:10</a>, <a class=\"bibleref\" href=\"/passage/?search=Deut 18:11\">11</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,2,7", "isaiah,2,8", "isaiah,2,9" ],
+  "verses" : [ {
+    "verse" : "isaiah,2,7",
+    "text" : "Their land is full of silver and gold; there is no end to their treasures. Their land is full of horses; there is no end to their chariots."
+  }, {
+    "verse" : "isaiah,2,8",
+    "text" : "Their land is full of idols; they bow down to the work of their hands, to what their fingers have made."
+  }, {
+    "verse" : "isaiah,2,9",
+    "text" : "So man will be brought low and mankind humbled- do not forgive them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,2,7",
     "id" : 192597,
@@ -209,7 +329,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 2:7\">2:7</a></b> <b>horses . . . chariots.</b> They relied on their own strength (<a class=\"bibleref\" href=\"/passage/?search=Isa 30:16\">30:16</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 31:1\">31:1</a>, <a class=\"bibleref\" href=\"/passage/?search=Isa 31:3\">3</a>), rather than on the Lord (<a class=\"bibleref\" href=\"/passage/?search=Ps 20:7\">Ps. 20:7</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,2,10" ],
+  "verses" : [ {
+    "verse" : "isaiah,2,10",
+    "text" : "Go into the rocks, hide in the ground from dread of the LORD and the splendor of his majesty!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,2,10",
     "id" : 192598,
@@ -217,7 +340,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 2:10\">2:10</a></b> <b>rock.</b> At God’s judgment people may seek shelter, but no one can hide from Him (<a class=\"bibleref\" href=\"/passage/?search=Rev 6:16\">Rev. 6:16</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,2,11", "isaiah,2,12" ],
+  "verses" : [ {
+    "verse" : "isaiah,2,11",
+    "text" : "The eyes of the arrogant man will be humbled and the pride of men brought low; the LORD alone will be exalted in that day."
+  }, {
+    "verse" : "isaiah,2,12",
+    "text" : "The LORD Almighty has a day in store for all the proud and lofty, for all that is exalted (and they will be humbled),"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,2,11",
     "id" : 192599,
@@ -225,7 +354,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 2:11\">2:11</a></b> <b>in that day.</b> The day of the Lord brings judgment on the godless, but blessing and salvation to the godly (<a class=\"bibleref\" href=\"/passage/?search=Joel 2:31\">Joel 2:31</a>; <a class=\"bibleref\" href=\"/passage/?search=Zeph 1:7\">Zeph. 1:7</a>; <a class=\"bibleref\" href=\"/passage/?search=Zeph 2:13-Zeph 2:15\">2:13–18</a>). Isaiah’s reference encompasses historical events (the fall of Israel, Assyria, Judah) and the coming judgment and salvation (3:7; 7:18–25; 11:10, 11; 24:21; 27:1).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,2,13", "isaiah,2,14", "isaiah,2,15" ],
+  "verses" : [ {
+    "verse" : "isaiah,2,13",
+    "text" : "for all the cedars of Lebanon, tall and lofty, and all the oaks of Bashan,"
+  }, {
+    "verse" : "isaiah,2,14",
+    "text" : "for all the towering mountains and all the high hills,"
+  }, {
+    "verse" : "isaiah,2,15",
+    "text" : "for every lofty tower and every fortified wall,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,2,13",
     "id" : 192600,
@@ -233,7 +371,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 2:13\">2:13</a></b> <b>cedars of Lebanon . . . oaks of Bashan.</b> These were large, impressive trees with valuable wood (<a class=\"bibleref\" href=\"/passage/?search=Ezek 27:5\">Ezek. 27:5</a>, <a class=\"bibleref\" href=\"/passage/?search=Ezek 27:6\">6</a>). Like the forests of the American Northwest, they symbolized the permanence and splendor of nature. But even they were subject to God’s judgment.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,2,16" ],
+  "verses" : [ {
+    "verse" : "isaiah,2,16",
+    "text" : "for every trading ship and every stately vessel."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,2,16",
     "id" : 192601,
@@ -241,7 +382,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 2:16\">2:16</a></b> <b>ships . . . craft.</b> These symbolize pride at being first in trade and commerce (<a class=\"bibleref\" href=\"/passage/?search=Isa 23:1\">23:1</a>, <a class=\"bibleref\" href=\"/passage/?search=Isa 23:8\">8</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,2,17", "isaiah,2,18", "isaiah,2,19", "isaiah,2,20", "isaiah,2,21" ],
+  "verses" : [ {
+    "verse" : "isaiah,2,17",
+    "text" : "The arrogance of man will be brought low and the pride of men humbled; the LORD alone will be exalted in that day,"
+  }, {
+    "verse" : "isaiah,2,18",
+    "text" : "and the idols will totally disappear."
+  }, {
+    "verse" : "isaiah,2,19",
+    "text" : "Men will flee to caves in the rocks and to holes in the ground from dread of the LORD and the splendor of his majesty, when he rises to shake the earth."
+  }, {
+    "verse" : "isaiah,2,20",
+    "text" : "In that day men will throw away to the rodents and bats their idols of silver and idols of gold, which they made to worship."
+  }, {
+    "verse" : "isaiah,2,21",
+    "text" : "They will flee to caverns in the rocks and to the overhanging crags from dread of the LORD and the splendor of his majesty, when he rises to shake the earth."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,2,17",
     "id" : 192602,
@@ -249,7 +405,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Isa 2:17\">2:17</a></b> <b>in that day.</b> See <a class=\"bibleref\" href=\"/passage/?search=Isa 2:11\">2:11</a> note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "isaiah,2,22" ],
+  "verses" : [ {
+    "verse" : "isaiah,2,22",
+    "text" : "Stop trusting in man, who has but a breath in his nostrils. Of what account is he?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "isaiah,2,22",
     "id" : 192603,

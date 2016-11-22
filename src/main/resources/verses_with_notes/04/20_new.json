@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "luke,20,1" ],
+  "verses" : [ {
+    "verse" : "luke,20,1",
+    "text" : "One day as he was teaching the people in the temple courts and preaching the gospel, the chief priests and the teachers of the law, together with the elders, came up to him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,20,1",
     "id" : 196738,
@@ -7,7 +10,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 20:1\">20:1</a></b> <b>preaching the gospel.</b> Jesus was bringing God’s good news at the very time His enemies were plotting against Him.</p><p><b>chief priests . . . scribes . . . elders.</b> This appears to be a delegation from the Sanhedrin.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,20,2" ],
+  "verses" : [ {
+    "verse" : "luke,20,2",
+    "text" : "\"Tell us by what authority you are doing these things,\" they said. \"Who gave you this authority?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,20,2",
     "id" : 196739,
@@ -15,7 +21,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 20:2\">20:2</a></b> <b>these things.</b> Things such as driving the traders out of the temple.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,20,3", "luke,20,4" ],
+  "verses" : [ {
+    "verse" : "luke,20,3",
+    "text" : "He replied, \"I will also ask you a question. Tell me,"
+  }, {
+    "verse" : "luke,20,4",
+    "text" : "John's baptism--was it from heaven, or from men?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,20,3-luke,20,4",
     "id" : 196740,
@@ -23,7 +35,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 20:3\">20:3</a>, <a class=\"bibleref\" href=\"/passage/?search=Luke 20:4\">4</a></b> Jesus was not avoiding their question. John had testified that Jesus was the Messiah. If they answered Jesus’ question, they would have the answer to their own.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,20,5", "luke,20,6" ],
+  "verses" : [ {
+    "verse" : "luke,20,5",
+    "text" : "They discussed it among themselves and said, \"If we say, 'From heaven,' he will ask, 'Why didn't you believe him?'"
+  }, {
+    "verse" : "luke,20,6",
+    "text" : "But if we say, 'From men,' all the people will stone us, because they are persuaded that John was a prophet.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,20,5-luke,20,6",
     "id" : 196741,
@@ -31,7 +49,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 20:5\">20:5</a>, <a class=\"bibleref\" href=\"/passage/?search=Luke 20:6\">6</a></b> Notice that they were not concerned with the truth, but with the consequences of their possible answers.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,20,7", "luke,20,8" ],
+  "verses" : [ {
+    "verse" : "luke,20,7",
+    "text" : "So they answered, \"We don't know where it was from.\""
+  }, {
+    "verse" : "luke,20,8",
+    "text" : "Jesus said, \"Neither will I tell you by what authority I am doing these things.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,20,7-luke,20,8",
     "id" : 196742,
@@ -39,7 +63,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 20:7\">20:7</a>, <a class=\"bibleref\" href=\"/passage/?search=Luke 20:8\">8</a></b> Jesus will not talk about authority to men who refuse to reply to an important religious question, the answer to which they already know.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,20,9", "luke,20,10", "luke,20,11", "luke,20,12" ],
+  "verses" : [ {
+    "verse" : "luke,20,9",
+    "text" : "He went on to tell the people this parable: \"A man planted a vineyard, rented it to some farmers and went away for a long time."
+  }, {
+    "verse" : "luke,20,10",
+    "text" : "At harvest time he sent a servant to the tenants so they would give him some of the fruit of the vineyard. But the tenants beat him and sent him away empty-handed."
+  }, {
+    "verse" : "luke,20,11",
+    "text" : "He sent another servant, but that one also they beat and treated shamefully and sent away empty-handed."
+  }, {
+    "verse" : "luke,20,12",
+    "text" : "He sent still a third, and they wounded him and threw him out."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,20,9-luke,20,12",
     "id" : 196743,
@@ -47,7 +83,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 20:9-Luke 20:12\">20:9–12</a></b> The tenants are a vivid picture of the nation that persistently rejected the messengers of God who were sent to call them to repentance.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,20,13" ],
+  "verses" : [ {
+    "verse" : "luke,20,13",
+    "text" : "\"Then the owner of the vineyard said, 'What shall I do? I will send my son, whom I love; perhaps they will respect him.'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,20,13",
     "id" : 196744,
@@ -55,7 +94,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 20:13\">20:13</a></b> Normally a landowner confronted with persistent refusal to pay and with abuse of his messengers would have taken strong measures. But just as this landowner keeps giving the tenants the opportunity for repentance, so God continues to reach out to sinners.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,20,14", "luke,20,15", "luke,20,16" ],
+  "verses" : [ {
+    "verse" : "luke,20,14",
+    "text" : "\"But when the tenants saw him, they talked the matter over. 'This is the heir,' they said. 'Let's kill him, and the inheritance will be ours.'"
+  }, {
+    "verse" : "luke,20,15",
+    "text" : "So they threw him out of the vineyard and killed him."
+  }, {
+    "verse" : "luke,20,16",
+    "text" : "\"What then will the owner of the vineyard do to them? He will come and kill those tenants and give the vineyard to others.\" When the people heard this, they said, \"May this never be!\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,20,14",
     "id" : 196745,
@@ -63,7 +111,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 20:14\">20:14</a></b> <b>This is the heir.</b> The tenants had refused to acknowledge an owner by paying rent, and they apparently reasoned that with the heir out of the way, they could establish their own title to the land. Jesus is making the point that the nation had behaved outrageously toward God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,20,17", "luke,20,18" ],
+  "verses" : [ {
+    "verse" : "luke,20,17",
+    "text" : "Jesus looked directly at them and asked, \"Then what is the meaning of that which is written: \"'The stone the builders rejected has become the capstone '?"
+  }, {
+    "verse" : "luke,20,18",
+    "text" : "Everyone who falls on that stone will be broken to pieces, but he on whom it falls will be crushed.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,20,17",
     "id" : 196746,
@@ -71,7 +125,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 20:17\">20:17</a></b> Jesus quotes <a class=\"bibleref\" href=\"/passage/?search=Ps 118:22\">Ps. 118:22</a>, which points to a complete reversal of accepted values.</p><p><b>cornerstone.</b> Lit. “the head of the corner.” It may be a large stone in the foundation, laid at the corner and determining the position of two walls. Or it may be the stone at the top of the corner binding the building together.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,20,19" ],
+  "verses" : [ {
+    "verse" : "luke,20,19",
+    "text" : "The teachers of the law and the chief priests looked for a way to arrest him immediately, because they knew he had spoken this parable against them. But they were afraid of the people."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,20,19",
     "id" : 196747,
@@ -79,7 +136,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 20:19\">20:19</a></b> The religious teachers were hostile to Jesus but could find no legal way of harming him.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,20,20" ],
+  "verses" : [ {
+    "verse" : "luke,20,20",
+    "text" : "Keeping a close watch on him, they sent spies, who pretended to be honest. They hoped to catch Jesus in something he said so that they might hand him over to the power and authority of the governor."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,20,20",
     "id" : 196748,
@@ -87,7 +147,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 20:20\">20:20</a></b> <b>the governor.</b> Clearly the “spies” hoped Jesus would say something that would make the Romans arrest Him.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,20,21" ],
+  "verses" : [ {
+    "verse" : "luke,20,21",
+    "text" : "So the spies questioned him: \"Teacher, we know that you speak and teach what is right, and that you do not show partiality but teach the way of God in accordance with the truth."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,20,21",
     "id" : 196749,
@@ -95,7 +158,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 20:21\">20:21</a></b> The flattering approach was doubtless meant to put Jesus off guard.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,20,22", "luke,20,23" ],
+  "verses" : [ {
+    "verse" : "luke,20,22",
+    "text" : "Is it right for us to pay taxes to Caesar or not?\""
+  }, {
+    "verse" : "luke,20,23",
+    "text" : "He saw through their duplicity and said to them,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,20,22",
     "id" : 196750,
@@ -103,7 +172,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 20:22\">20:22</a></b> <b>Is it lawful.</b> This means “Is it in accordance with God’s law?” (it was required by Roman law). From the point of view of the questioners the answer had to put Jesus at odds with either the Romans or the Jews, who resented the taxes.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,20,24", "luke,20,25", "luke,20,26" ],
+  "verses" : [ {
+    "verse" : "luke,20,24",
+    "text" : "\"Show me a denarius. Whose portrait and inscription are on it?\""
+  }, {
+    "verse" : "luke,20,25",
+    "text" : "\"Caesar's,\" they replied. He said to them, \"Then give to Caesar what is Caesar's, and to God what is God's.\""
+  }, {
+    "verse" : "luke,20,26",
+    "text" : "They were unable to trap him in what he had said there in public. And astonished by his answer, they became silent."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,20,24",
     "id" : 196751,

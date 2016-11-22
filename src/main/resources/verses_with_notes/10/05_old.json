@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "jeremiah,4,19", "jeremiah,4,20" ],
+  "verses" : [ {
+    "verse" : "jeremiah,4,19",
+    "text" : "Oh, my anguish, my anguish! I writhe in pain. Oh, the agony of my heart! My heart pounds within me, I cannot keep silent. For I have heard the sound of the trumpet; I have heard the battle cry."
+  }, {
+    "verse" : "jeremiah,4,20",
+    "text" : "Disaster follows disaster; the whole land lies in ruins. In an instant my tents are destroyed, my shelter in a moment."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,2,1-jeremiah,6,30",
     "id" : 193533,
@@ -7,7 +13,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 2-Jer 6\">2:1–6:30</a></b> Jeremiah uses a number of vivid images (such as comparing Judah to a wild donkey and a prostitute) to indict Judah for unfaithfulness to God (<a class=\"bibleref\" href=\"/passage/?search=Jer 2:1-Jer 3:5\">2:1–3:5</a>) and to warn of certain judgment if the nation will not repent and return to God (<a class=\"bibleref\" href=\"/passage/?search=Jer 3:6-Jer 6:30\">3:6–6:30</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,4,21" ],
+  "verses" : [ {
+    "verse" : "jeremiah,4,21",
+    "text" : "How long must I see the battle standard and hear the sound of the trumpet?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,4,21",
     "id" : 193573,
@@ -15,7 +24,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 4:21\">4:21</a></b> <b>How long.</b> This cry is common in psalms of lament (e.g., <a class=\"bibleref\" href=\"/passage/?search=Ps 13:1\">Ps. 13:1</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,4,22" ],
+  "verses" : [ {
+    "verse" : "jeremiah,4,22",
+    "text" : "\"My people are fools; they do not know me. They are senseless children; they have no understanding. They are skilled in doing evil; they know not how to do good.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,4,22",
     "id" : 193574,
@@ -23,7 +35,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 4:22\">4:22</a></b> <b>wise.</b> Original wickedness is strengthened by habit and practice (<a class=\"bibleref\" href=\"/passage/?search=Jer 9:5\">9:5</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,4,23", "jeremiah,4,24" ],
+  "verses" : [ {
+    "verse" : "jeremiah,4,23",
+    "text" : "I looked at the earth, and it was formless and empty; and at the heavens, and their light was gone."
+  }, {
+    "verse" : "jeremiah,4,24",
+    "text" : "I looked at the mountains, and they were quaking; all the hills were swaying."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,4,23",
     "id" : 193575,
@@ -31,7 +49,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 4:23\">4:23</a></b> <b>without form and void . . . heavens . . . had no light.</b> Compare <a class=\"bibleref\" href=\"/passage/?search=Gen 1:2\">Gen. 1:2</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 1:14\">14</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 1:15\">15</a>. Creation itself is undone by His judgment.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,4,25" ],
+  "verses" : [ {
+    "verse" : "jeremiah,4,25",
+    "text" : "I looked, and there were no people; every bird in the sky had flown away."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,4,25",
     "id" : 193576,
@@ -39,7 +60,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 4:25\">4:25</a></b> <b>no man.</b> The same phrase is used in <a class=\"bibleref\" href=\"/passage/?search=Gen 2:5\">Gen. 2:5</a>. Again creation is returned to its original chaos.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,4,26", "jeremiah,4,27", "jeremiah,4,28", "jeremiah,4,29" ],
+  "verses" : [ {
+    "verse" : "jeremiah,4,26",
+    "text" : "I looked, and the fruitful land was a desert; all its towns lay in ruins before the LORD, before his fierce anger."
+  }, {
+    "verse" : "jeremiah,4,27",
+    "text" : "This is what the LORD says: \"The whole land will be ruined, though I will not destroy it completely."
+  }, {
+    "verse" : "jeremiah,4,28",
+    "text" : "Therefore the earth will mourn and the heavens above grow dark, because I have spoken and will not relent, I have decided and will not turn back.\""
+  }, {
+    "verse" : "jeremiah,4,29",
+    "text" : "At the sound of horsemen and archers every town takes to flight. Some go into the thickets; some climb up among the rocks. All the towns are deserted; no one lives in them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,4,26",
     "id" : 193577,
@@ -47,7 +80,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 4:26\">4:26</a></b> <b>fruitful land . . . a desert.</b> Covenant blessings are now reversed (<a class=\"bibleref\" href=\"/passage/?search=Deut 8:7-Deut 8:16\">Deut. 8:7–16</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,4,30" ],
+  "verses" : [ {
+    "verse" : "jeremiah,4,30",
+    "text" : "What are you doing, O devastated one? Why dress yourself in scarlet and put on jewels of gold? Why shade your eyes with paint? You adorn yourself in vain. Your lovers despise you; they seek your life."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,4,30",
     "id" : 193578,
@@ -55,7 +91,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 4:30\">4:30</a></b> <b>adorn yourself . . . paint.</b> A vivid repetition of the harlot metaphor.</p><p><b>lovers . . . seek your life.</b> These lines express the ironic truth of Judah’s self-deception.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,4,31" ],
+  "verses" : [ {
+    "verse" : "jeremiah,4,31",
+    "text" : "I hear a cry as of a woman in labor, a groan as of one bearing her first child- the cry of the Daughter of Zion gasping for breath, stretching out her hands and saying, \"Alas! I am fainting; my life is given over to murderers.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,4,31",
     "id" : 193579,
@@ -63,7 +102,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 4:31\">4:31</a></b> <b>daughter of Zion.</b> Jerusalem is personified (<a class=\"bibleref\" href=\"/passage/?search=Lam 1:6\">Lam. 1:6</a> note).</p><p><b>Woe . . . murderers.</b> We hear her pathetic dying breath.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,5,1", "jeremiah,5,2" ],
+  "verses" : [ {
+    "verse" : "jeremiah,5,1",
+    "text" : "\"Go up and down the streets of Jerusalem, look around and consider, search through her squares. If you can find but one person who deals honestly and seeks the truth, I will forgive this city."
+  }, {
+    "verse" : "jeremiah,5,2",
+    "text" : "Although they say, 'As surely as the LORD lives,' still they are swearing falsely.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,5,1",
     "id" : 193580,
@@ -71,7 +116,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 5:1\">5:1</a></b> <b>if you can find . . . pardon her.</b> This search is an allusion to Abraham’s prayer for Sodom (<a class=\"bibleref\" href=\"/passage/?search=Gen 18:22-Gen 18:32\">Gen. 18:22–32</a>) and an implicit answer to Jeremiah’s prayer for the city (later forbidden; 7:16). But the city is totally corrupt.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,5,3", "jeremiah,5,4", "jeremiah,5,5" ],
+  "verses" : [ {
+    "verse" : "jeremiah,5,3",
+    "text" : "O LORD, do not your eyes look for truth? You struck them, but they felt no pain; you crushed them, but they refused correction. They made their faces harder than stone and refused to repent."
+  }, {
+    "verse" : "jeremiah,5,4",
+    "text" : "I thought, \"These are only the poor; they are foolish, for they do not know the way of the LORD, the requirements of their God."
+  }, {
+    "verse" : "jeremiah,5,5",
+    "text" : "So I will go to the leaders and speak to them; surely they know the way of the LORD, the requirements of their God.\" But with one accord they too had broken off the yoke and torn off the bonds."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,5,3",
     "id" : 193581,
@@ -79,7 +133,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 5:3\">5:3</a></b> <b>made their faces harder than rock.</b> The people’s determination not to repent is the chief frustration of the prophet (cf. <a class=\"bibleref\" href=\"/passage/?search=Ezek 3:7-Ezek 3:9\">Ezek. 3:7–9</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,5,6" ],
+  "verses" : [ {
+    "verse" : "jeremiah,5,6",
+    "text" : "Therefore a lion from the forest will attack them, a wolf from the desert will ravage them, a leopard will lie in wait near their towns to tear to pieces any who venture out, for their rebellion is great and their backslidings many."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,5,6",
     "id" : 193582,
@@ -87,7 +144,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 5:6\">5:6</a></b> <b>lion . . . wolf . . . leopard.</b> Such breach of God’s covenant brings the covenant curses on the people (<a class=\"bibleref\" href=\"/passage/?search=Lev 26:22\">Lev. 26:22</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,5,7" ],
+  "verses" : [ {
+    "verse" : "jeremiah,5,7",
+    "text" : "\"Why should I forgive you? Your children have forsaken me and sworn by gods that are not gods. I supplied all their needs, yet they committed adultery and thronged to the houses of prostitutes."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,5,7",
     "id" : 193583,
@@ -95,7 +155,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 5:7\">5:7</a></b> <b>I fed them . . . adultery.</b> The motive for following false gods was the delusion that the gods of the land of Canaan had the power to make it fertile. The Lord claims the land’s fertility as His own sphere (<a class=\"bibleref\" href=\"/passage/?search=Hos 2:8\">Hos. 2:8</a>, <a class=\"bibleref\" href=\"/passage/?search=Hos 2:9\">9</a> notes).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,5,8" ],
+  "verses" : [ {
+    "verse" : "jeremiah,5,8",
+    "text" : "They are well-fed, lusty stallions, each neighing for another man's wife."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,5,8",
     "id" : 193584,
@@ -103,7 +166,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 5:8\">5:8</a></b> <b>lusty stallions . . . neighing.</b> Religious prostitution slips over into actual adultery. See a similar description in <a class=\"bibleref\" href=\"/passage/?search=Jer 2:23\">2:23</a>, <a class=\"bibleref\" href=\"/passage/?search=Jer 2:24\">24</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,5,9" ],
+  "verses" : [ {
+    "verse" : "jeremiah,5,9",
+    "text" : "Should I not punish them for this?\" declares the LORD. \"Should I not avenge myself on such a nation as this?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,5,9",
     "id" : 193585,
@@ -111,7 +177,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 5:9\">5:9</a></b> <b>Shall I not.</b> Again the courtroom metaphor is used; an appeal to witnesses is implied. The Lord’s justice must be accomplished.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,5,10", "jeremiah,5,11" ],
+  "verses" : [ {
+    "verse" : "jeremiah,5,10",
+    "text" : "\"Go through her vineyards and ravage them, but do not destroy them completely. Strip off her branches, for these people do not belong to the LORD."
+  }, {
+    "verse" : "jeremiah,5,11",
+    "text" : "The house of Israel and the house of Judah have been utterly unfaithful to me,\" declares the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,5,10",
     "id" : 193586,
@@ -119,7 +191,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 5:10\">5:10</a></b> <b>not a full end.</b> This hint that punishment will not be final is one of several such clues in the early part of the book (<a class=\"bibleref\" href=\"/passage/?search=Jer 12:14-Jer 12:17\">12:14–17</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 16:14\">16:14</a>, <a class=\"bibleref\" href=\"/passage/?search=Jer 16:15\">15</a>; and <a class=\"bibleref\" href=\"/passage/?search=Jer 23:3\">23:3</a> note).</p><p><b>are not the <span class=\"small-caps\">Lord</span>’s.</b> In the same breath Judah’s covenant status is annulled (<a class=\"bibleref\" href=\"/passage/?search=Hos 1:9\">Hos. 1:9</a> note). The apparently irreconcilable needs of judgment and salvation are both evident here.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,5,12" ],
+  "verses" : [ {
+    "verse" : "jeremiah,5,12",
+    "text" : "They have lied about the LORD; they said, \"He will do nothing! No harm will come to us; we will never see sword or famine."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,5,12",
     "id" : 193587,
@@ -127,7 +202,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 5:12\">5:12</a></b> <b>They have spoken falsely.</b> Wrong belief about God is related to every kind of untruth (<a class=\"bibleref\" href=\"/passage/?search=Jer 9:3-Jer 9:6\">9:3–6</a>).</p><p><b>He will do nothing . . . famine.</b> These words summarize the message of the false prophets. See <a class=\"bibleref\" href=\"/passage/?search=Jer 28:2-Jer 28:4\">28:2–4</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,5,13", "jeremiah,5,14", "jeremiah,5,15", "jeremiah,5,16" ],
+  "verses" : [ {
+    "verse" : "jeremiah,5,13",
+    "text" : "The prophets are but wind and the word is not in them; so let what they say be done to them.\""
+  }, {
+    "verse" : "jeremiah,5,14",
+    "text" : "Therefore this is what the LORD God Almighty says: \"Because the people have spoken these words, I will make my words in your mouth a fire and these people the wood it consumes."
+  }, {
+    "verse" : "jeremiah,5,15",
+    "text" : "O house of Israel,\" declares the LORD, \"I am bringing a distant nation against you- an ancient and enduring nation, a people whose language you do not know, whose speech you do not understand."
+  }, {
+    "verse" : "jeremiah,5,16",
+    "text" : "Their quivers are like an open grave; all of them are mighty warriors."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,5,13",
     "id" : 193588,
@@ -135,7 +222,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 5:13\">5:13</a></b> <b>wind.</b> Jeremiah counters that those false prophets who claim to have the Spirit (Hebrew <i>ruah</i>) are but wind (also <i>ruah</i>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,5,17", "jeremiah,5,18", "jeremiah,5,19", "jeremiah,5,20" ],
+  "verses" : [ {
+    "verse" : "jeremiah,5,17",
+    "text" : "They will devour your harvests and food, devour your sons and daughters; they will devour your flocks and herds, devour your vines and fig trees. With the sword they will destroy the fortified cities in which you trust."
+  }, {
+    "verse" : "jeremiah,5,18",
+    "text" : "\"Yet even in those days,\" declares the LORD, \"I will not destroy you completely."
+  }, {
+    "verse" : "jeremiah,5,19",
+    "text" : "And when the people ask, 'Why has the LORD our God done all this to us?' you will tell them, 'As you have forsaken me and served foreign gods in your own land, so now you will serve foreigners in a land not your own.'"
+  }, {
+    "verse" : "jeremiah,5,20",
+    "text" : "\"Announce this to the house of Jacob and proclaim it in Judah:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,5,17",
     "id" : 193589,
@@ -143,7 +242,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 5:17\">5:17</a></b> <b>eat . . . eat . . . eat . . . eat.</b> That Judah’s enemies will consume the bounty of the land is a reversal of covenant blessing. See <a class=\"bibleref\" href=\"/passage/?search=Deut 7:13\">Deut. 7:13</a> for the promise of the very things now to be lost.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,5,21" ],
+  "verses" : [ {
+    "verse" : "jeremiah,5,21",
+    "text" : "Hear this, you foolish and senseless people, who have eyes but do not see, who have ears but do not hear:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,5,21",
     "id" : 193590,
@@ -151,7 +253,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 5:21\">5:21</a></b> <b>foolish.</b> See <a class=\"bibleref\" href=\"/passage/?search=Prov 1:7\">Prov. 1:7</a>.</p><p><b>who have eyes . . . hear not.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Isa 6:10\">Is. 6:10</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,5,22", "jeremiah,5,23", "jeremiah,5,24", "jeremiah,5,25" ],
+  "verses" : [ {
+    "verse" : "jeremiah,5,22",
+    "text" : "Should you not fear me?\" declares the LORD. \"Should you not tremble in my presence? I made the sand a boundary for the sea, an everlasting barrier it cannot cross. The waves may roll, but they cannot prevail; they may roar, but they cannot cross it."
+  }, {
+    "verse" : "jeremiah,5,23",
+    "text" : "But these people have stubborn and rebellious hearts; they have turned aside and gone away."
+  }, {
+    "verse" : "jeremiah,5,24",
+    "text" : "They do not say to themselves, 'Let us fear the LORD our God, who gives autumn and spring rains in season, who assures us of the regular weeks of harvest.'"
+  }, {
+    "verse" : "jeremiah,5,25",
+    "text" : "Your wrongdoings have kept these away; your sins have deprived you of good."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,5,22",
     "id" : 193591,
@@ -159,7 +273,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 5:22\">5:22</a></b> <b>Do you not fear.</b> Jeremiah argues from God’s power in creation (<a class=\"bibleref\" href=\"/passage/?search=Job 38-Job 41\">Job 38–41</a>; <a class=\"bibleref\" href=\"/passage/?search=Rom 1:18-Rom 1:20\">Rom. 1:18–20</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,5,26" ],
+  "verses" : [ {
+    "verse" : "jeremiah,5,26",
+    "text" : "\"Among my people are wicked men who lie in wait like men who snare birds and like those who set traps to catch men."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,5,26",
     "id" : 193592,
@@ -167,7 +284,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 5:26\">5:26</a></b> <b>wicked men . . . catch men.</b> The nature of wickedness is to entice even the innocent into it. <a class=\"bibleref\" href=\"/passage/?search=Prov 2:12-Prov 2:19\">Prov. 2:12–19</a> describes its blandishments.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,5,27", "jeremiah,5,28", "jeremiah,5,29", "jeremiah,5,30", "jeremiah,5,31" ],
+  "verses" : [ {
+    "verse" : "jeremiah,5,27",
+    "text" : "Like cages full of birds, their houses are full of deceit; they have become rich and powerful"
+  }, {
+    "verse" : "jeremiah,5,28",
+    "text" : "and have grown fat and sleek. Their evil deeds have no limit; they do not plead the case of the fatherless to win it, they do not defend the rights of the poor."
+  }, {
+    "verse" : "jeremiah,5,29",
+    "text" : "Should I not punish them for this?\" declares the LORD. \"Should I not avenge myself on such a nation as this?"
+  }, {
+    "verse" : "jeremiah,5,30",
+    "text" : "\"A horrible and shocking thing has happened in the land:"
+  }, {
+    "verse" : "jeremiah,5,31",
+    "text" : "The prophets prophesy lies, the priests rule by their own authority, and my people love it this way. But what will you do in the end?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,5,27-jeremiah,5,28",
     "id" : 193593,
@@ -175,7 +307,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 5:27\">5:27</a>, <a class=\"bibleref\" href=\"/passage/?search=Jer 5:28\">28</a> become great and rich.</b> Jeremiah moves from specifically religious sins to social evils, for the two are closely related.</p><p><b>fat . . . sleek.</b> This description symbolizes self-centered wealth, cf. <a class=\"bibleref\" href=\"/passage/?search=Ps 73:7\">Ps. 73:7</a>.</p><p><b>fatherless . . . needy.</b> <a class=\"bibleref\" href=\"/passage/?search=Ps 9:18\">Ps. 9:18</a> note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,6,1" ],
+  "verses" : [ {
+    "verse" : "jeremiah,6,1",
+    "text" : "\"Flee for safety, people of Benjamin! Flee from Jerusalem! Sound the trumpet in Tekoa! Raise the signal over Beth Hakkerem! For disaster looms out of the north, even terrible destruction."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,6,1",
     "id" : 193594,
@@ -183,7 +318,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 6:1\">6:1</a></b> <b>Benjamin.</b> This territory bordering Jerusalem to the north was part of the southern kingdom of Judah.</p><p><b>Tekoa.</b> A city in Judah, the home of Amos (<a class=\"bibleref\" href=\"/passage/?search=Amos 1:1\">Amos 1:1</a>).</p><p><b>Beth-haccherem.</b> An unknown location in Judah.</p><p><b>north.</b> See note 1:14.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,6,2" ],
+  "verses" : [ {
+    "verse" : "jeremiah,6,2",
+    "text" : "I will destroy the Daughter of Zion, so beautiful and delicate."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,6,2",
     "id" : 193595,
@@ -191,7 +329,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 6:2\">6:2</a></b> <b>lovely . . . daughter of Zion.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Jer 2:2\">2:2</a>. Though a personification of Jerusalem (<a class=\"bibleref\" href=\"/passage/?search=Jer 4:31\">4:31</a> note), the simile has in mind the city’s refined women (<a class=\"bibleref\" href=\"/passage/?search=Isa 3:16-Isa 3:26\">Is. 3:16–26</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,6,3" ],
+  "verses" : [ {
+    "verse" : "jeremiah,6,3",
+    "text" : "Shepherds with their flocks will come against her; they will pitch their tents around her, each tending his own portion.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,6,3",
     "id" : 193596,
@@ -199,7 +340,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 6:3\">6:3</a></b> <b>Shepherds with their flocks.</b> These “shepherds” are enemy officers with their troops, taking possession of the land (cf. <a class=\"bibleref\" href=\"/passage/?search=Jer 4:15\">4:15</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,6,4", "jeremiah,6,5" ],
+  "verses" : [ {
+    "verse" : "jeremiah,6,4",
+    "text" : "\"Prepare for battle against her! Arise, let us attack at noon! But, alas, the daylight is fading, and the shadows of evening grow long."
+  }, {
+    "verse" : "jeremiah,6,5",
+    "text" : "So arise, let us attack at night and destroy her fortresses!\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,6,4-jeremiah,6,5",
     "id" : 193597,
@@ -207,7 +354,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 6:4\">6:4</a>, <a class=\"bibleref\" href=\"/passage/?search=Jer 6:5\">5</a> at noon . . . by night.</b> These are unusual times to attack: the enemy’s strength is such that he is free to attack whenever he likes.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,6,6" ],
+  "verses" : [ {
+    "verse" : "jeremiah,6,6",
+    "text" : "This is what the LORD Almighty says: \"Cut down the trees and build siege ramps against Jerusalem. This city must be punished; it is filled with oppression."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,6,6",
     "id" : 193598,
@@ -215,7 +365,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 6:6\">6:6</a></b> A new oracle is addressed to the Babylonians, the Lord’s instrument of judgment.</p><p><b>oppression.</b> The rich and powerful of Jerusalem have oppressed their own people.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,6,7", "jeremiah,6,8" ],
+  "verses" : [ {
+    "verse" : "jeremiah,6,7",
+    "text" : "As a well pours out its water, so she pours out her wickedness. Violence and destruction resound in her; her sickness and wounds are ever before me."
+  }, {
+    "verse" : "jeremiah,6,8",
+    "text" : "Take warning, O Jerusalem, or I will turn away from you and make your land desolate so no one can live in it.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,6,7",
     "id" : 193599,
@@ -223,7 +379,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 6:7\">6:7 a</a></b> <b>well . . . evil.</b> Judah cannot help pouring out her wickedness, because that is her true nature (cf. <a class=\"bibleref\" href=\"/passage/?search=Matt 7:16\">Matt. 7:16</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,6,9", "jeremiah,6,10", "jeremiah,6,11", "jeremiah,6,12", "jeremiah,6,13" ],
+  "verses" : [ {
+    "verse" : "jeremiah,6,9",
+    "text" : "This is what the LORD Almighty says: \"Let them glean the remnant of Israel as thoroughly as a vine; pass your hand over the branches again, like one gathering grapes.\""
+  }, {
+    "verse" : "jeremiah,6,10",
+    "text" : "To whom can I speak and give warning? Who will listen to me? Their ears are closed so they cannot hear. The word of the LORD is offensive to them; they find no pleasure in it."
+  }, {
+    "verse" : "jeremiah,6,11",
+    "text" : "But I am full of the wrath of the LORD, and I cannot hold it in. \"Pour it out on the children in the street and on the young men gathered together; both husband and wife will be caught in it, and the old, those weighed down with years."
+  }, {
+    "verse" : "jeremiah,6,12",
+    "text" : "Their houses will be turned over to others, together with their fields and their wives, when I stretch out my hand against those who live in the land,\" declares the LORD."
+  }, {
+    "verse" : "jeremiah,6,13",
+    "text" : "\"From the least to the greatest, all are greedy for gain; prophets and priests alike, all practice deceit."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,6,9",
     "id" : 193600,
@@ -231,7 +402,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 6:9\">6:9</a></b> <b>glean thoroughly . . . the remnant.</b> Farmers were not supposed to glean everything, but to leave something behind for the poor (<a class=\"bibleref\" href=\"/passage/?search=Deut 24:19-Deut 24:22\">Deut. 24:19–22</a>); Babylon, however, may “glean” Judah completely (contrast 5:10). The Lord has deeper purposes behind the permission He gives (23:3 note). The curse was not absolute, for God did spare a remnant to fulfill His covenant of redemption (Introduction: Characteristics and Themes). See note 11:23.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,6,14", "jeremiah,6,15" ],
+  "verses" : [ {
+    "verse" : "jeremiah,6,14",
+    "text" : "They dress the wound of my people as though it were not serious. 'Peace, peace,' they say, when there is no peace."
+  }, {
+    "verse" : "jeremiah,6,15",
+    "text" : "Are they ashamed of their loathsome conduct? No, they have no shame at all; they do not even know how to blush. So they will fall among the fallen; they will be brought down when I punish them,\" says the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,6,14",
     "id" : 193601,

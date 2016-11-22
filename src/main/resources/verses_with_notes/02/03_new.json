@@ -1,8 +1,26 @@
 [ {
-  "singleVerses" : [ "matthew,22,34", "matthew,22,35", "matthew,22,36" ],
+  "verses" : [ {
+    "verse" : "matthew,22,34",
+    "text" : "Hearing that Jesus had silenced the Sadducees, the Pharisees got together."
+  }, {
+    "verse" : "matthew,22,35",
+    "text" : "One of them, an expert in the law, tested him with this question:"
+  }, {
+    "verse" : "matthew,22,36",
+    "text" : "\"Teacher, which is the greatest commandment in the Law?\""
+  } ],
   "rsbNotes" : [ ]
 }, {
-  "singleVerses" : [ "matthew,22,37", "matthew,22,38", "matthew,22,39" ],
+  "verses" : [ {
+    "verse" : "matthew,22,37",
+    "text" : "Jesus replied: \"'Love the Lord your God with all your heart and with all your soul and with all your mind.'"
+  }, {
+    "verse" : "matthew,22,38",
+    "text" : "This is the first and greatest commandment."
+  }, {
+    "verse" : "matthew,22,39",
+    "text" : "And the second is like it: 'Love your neighbor as yourself.'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,22,37",
     "id" : 195872,
@@ -10,7 +28,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 22:37\">22:37</a></b> <b>shall love.</b> See “Love” at <a class=\"bibleref\" href=\"/passage/?search=1Cor 13:13\">1 Cor. 13:13</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,22,40", "matthew,22,41" ],
+  "verses" : [ {
+    "verse" : "matthew,22,40",
+    "text" : "All the Law and the Prophets hang on these two commandments.\""
+  }, {
+    "verse" : "matthew,22,41",
+    "text" : "While the Pharisees were gathered together, Jesus asked them,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,22,40",
     "id" : 195873,
@@ -18,7 +42,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 22:40\">22:40</a></b> <b>all the Law and the Prophets.</b> A way of referring to the entire Old Testament. Love fulfills the law because it sums up God’s commandments and motivates obedience to them (<a class=\"bibleref\" href=\"/passage/?search=Rom 13:8-Rom 13:10\">Rom. 13:8–10</a>; <a class=\"bibleref\" href=\"/passage/?search=1Cor 13\">1 Cor. 13</a>). It does not dissolve God’s norms for conduct, but illumines and deepens them (5:17; <a class=\"bibleref\" href=\"/passage/?search=Rom 8:4\">Rom. 8:4</a>). See “The Law of God” at <a class=\"bibleref\" href=\"/passage/?search=Exod 20:1\">Ex. 20:1</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,22,42", "matthew,22,43", "matthew,22,44", "matthew,22,45", "matthew,22,46" ],
+  "verses" : [ {
+    "verse" : "matthew,22,42",
+    "text" : "\"What do you think about the Christ? Whose son is he?The son of David,\" they replied."
+  }, {
+    "verse" : "matthew,22,43",
+    "text" : "He said to them, \"How is it then that David, speaking by the Spirit, calls him 'Lord'? For he says,"
+  }, {
+    "verse" : "matthew,22,44",
+    "text" : "\"'The Lord said to my Lord: \"Sit at my right hand until I put your enemies under your feet.\"'"
+  }, {
+    "verse" : "matthew,22,45",
+    "text" : "If then David calls him 'Lord,' how can he be his son?\""
+  }, {
+    "verse" : "matthew,22,46",
+    "text" : "No one could say a word in reply, and from that day on no one dared to ask him any more questions."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,22,42",
     "id" : 195874,
@@ -26,7 +65,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 22:42\">22:42</a></b> <b>What do you think.</b> The Pharisees had tested Jesus; now Jesus tests them. He focuses on the crucial issue—the identity of the Messiah (Christ)—and His quotation from <a class=\"bibleref\" href=\"/passage/?search=Ps 110\">Ps. 110</a> shows that the common view of the Messiah was too limited.</p><p><b>Christ.</b> See note 1:1.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,23,1" ],
+  "verses" : [ {
+    "verse" : "matthew,23,1",
+    "text" : "Then Jesus said to the crowds and to his disciples:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,23,1-matthew,23,39",
     "id" : 195875,
@@ -34,7 +76,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 23\">23:1–39</a></b> Some regard this chapter as another discourse (making six discourses rather than five; Introduction: Characteristics and Themes), or as part of the eschatological discourse in <a class=\"bibleref\" href=\"/passage/?search=Matt 24\">chs. 24</a>; <a class=\"bibleref\" href=\"/passage/?search=Matt 25\">25</a>. However, it is not concluded by the phrase that closes the other discourses (“when Jesus had finished all these sayings”). It continues Jesus’ prophetic activity of delivering oracles of woe to the unfaithful leaders of Israel (vv. 13–36 note). It is related to the following discourse in that it provides the reason for the doom of Jerusalem, announced in the language of Old Testament prophecy.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,23,2", "matthew,23,3" ],
+  "verses" : [ {
+    "verse" : "matthew,23,2",
+    "text" : "\"The teachers of the law and the Pharisees sit in Moses' seat."
+  }, {
+    "verse" : "matthew,23,3",
+    "text" : "So you must obey them and do everything they tell you. But do not do what they do, for they do not practice what they preach."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,23,2",
     "id" : 195876,
@@ -42,7 +90,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 23:2\">23:2</a></b> <b>sit on Moses’ seat.</b> Though Jesus elsewhere condemns the scribes and Pharisees for adding human tradition to the law and for evading the spirit of the law (<a class=\"bibleref\" href=\"/passage/?search=Matt 23:13-Matt 23:32\">vv. 13–32</a>; <a class=\"bibleref\" href=\"/passage/?search=Matt 15:1-Matt 15:9\">15:1–9</a>), here He recognizes the legitimate teaching office that they occupied (<a class=\"bibleref\" href=\"/passage/?search=Deut 17:8-Deut 17:13\">Deut. 17:8–13</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,23,4" ],
+  "verses" : [ {
+    "verse" : "matthew,23,4",
+    "text" : "They tie up heavy loads and put them on men's shoulders, but they themselves are not willing to lift a finger to move them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,23,4",
     "id" : 195877,
@@ -50,7 +101,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 23:4\">23:4</a></b> See theological note “Legalism.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,23,5", "matthew,23,6", "matthew,23,7" ],
+  "verses" : [ {
+    "verse" : "matthew,23,5",
+    "text" : "\"Everything they do is done for men to see: They make their phylacteries wide and the tassels on their garments long;"
+  }, {
+    "verse" : "matthew,23,6",
+    "text" : "they love the place of honor at banquets and the most important seats in the synagogues;"
+  }, {
+    "verse" : "matthew,23,7",
+    "text" : "they love to be greeted in the marketplaces and to have men call them 'Rabbi.'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,23,5",
     "id" : 195878,
@@ -58,7 +118,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 23:5\">23:5</a></b> <b>phylacteries.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Exod 13:9\">Ex. 13:9</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,23,8", "matthew,23,9", "matthew,23,10", "matthew,23,11", "matthew,23,12" ],
+  "verses" : [ {
+    "verse" : "matthew,23,8",
+    "text" : "\"But you are not to be called 'Rabbi,' for you have only one Master and you are all brothers."
+  }, {
+    "verse" : "matthew,23,9",
+    "text" : "And do not call anyone on earth 'father,' for you have one Father, and he is in heaven."
+  }, {
+    "verse" : "matthew,23,10",
+    "text" : "Nor are you to be called 'teacher,' for you have one Teacher, the Christ."
+  }, {
+    "verse" : "matthew,23,11",
+    "text" : "The greatest among you will be your servant."
+  }, {
+    "verse" : "matthew,23,12",
+    "text" : "For whoever exalts himself will be humbled, and whoever humbles himself will be exalted."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,23,8-matthew,23,10",
     "id" : 195879,

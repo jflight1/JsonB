@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,17,26" ],
+  "verses" : [ {
+    "verse" : "proverbs,17,26",
+    "text" : "It is not good to punish an innocent man, or to flog officials for their integrity."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

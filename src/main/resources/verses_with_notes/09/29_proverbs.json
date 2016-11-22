@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,24,9" ],
+  "verses" : [ {
+    "verse" : "proverbs,24,9",
+    "text" : "The schemes of folly are sin, and men detest a mocker."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,22,17-proverbs,24,22",
     "id" : 192162,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 24:9\">24:9</a></b> <b>The devising of folly is sin.</b> See <a class=\"bibleref\" href=\"/passage/?search=Prov 24:2\">v. 2</a> and note. Folly is not lack of intellect, but active rebellion against truth and the order derived from it.</p><p><b>an abomination to mankind.</b> See <a class=\"bibleref\" href=\"/passage/?search=Prov 24:8\">v. 8</a> and note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,24,10" ],
+  "verses" : [ {
+    "verse" : "proverbs,24,10",
+    "text" : "If you falter in times of trouble, how small is your strength!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,24,10",
     "id" : 192211,

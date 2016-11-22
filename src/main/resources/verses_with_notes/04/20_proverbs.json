@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,13,15" ],
+  "verses" : [ {
+    "verse" : "proverbs,13,15",
+    "text" : "Good understanding wins favor, but the way of the unfaithful is hard."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 13:15\">13:15</a></b> <b>treacherous.</b> See <a class=\"bibleref\" href=\"/passage/?search=Prov 13:2\">v. 2</a> and note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,13,16" ],
+  "verses" : [ {
+    "verse" : "proverbs,13,16",
+    "text" : "Every prudent man acts out of knowledge, but a fool exposes his folly."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,13,16",
     "id" : 191935,

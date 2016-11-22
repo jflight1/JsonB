@@ -1,8 +1,17 @@
 [ {
-  "singleVerses" : [ "1kings,18,1", "1kings,18,2" ],
+  "verses" : [ {
+    "verse" : "1kings,18,1",
+    "text" : "After a long time, in the third year, the word of the LORD came to Elijah: \"Go and present yourself to Ahab, and I will send rain on the land.\""
+  }, {
+    "verse" : "1kings,18,2",
+    "text" : "So Elijah went to present himself to Ahab. Now the famine was severe in Samaria,"
+  } ],
   "rsbNotes" : [ ]
 }, {
-  "singleVerses" : [ "1kings,18,3" ],
+  "verses" : [ {
+    "verse" : "1kings,18,3",
+    "text" : "and Ahab had summoned Obadiah, who was in charge of his palace. (Obadiah was a devout believer in the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,18,3",
     "id" : 188429,
@@ -10,7 +19,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 18:3\">18:3</a></b> <b>over the household.</b> This was an important position in the royal administration (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 4:6\">4:6</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,18,4" ],
+  "verses" : [ {
+    "verse" : "1kings,18,4",
+    "text" : "While Jezebel was killing off the LORD's prophets, Obadiah had taken a hundred prophets and hidden them in two caves, fifty in each, and had supplied them with food and water.)"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,18,4",
     "id" : 188430,
@@ -18,7 +30,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 18:4\">18:4</a></b> <b>Jezebel cut off the prophets of the <span class=\"small-caps\">Lord</span>.</b> Not content to promote her native religion, Jezebel persecuted followers of the Lord and murdered His prophets.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,18,5", "1kings,18,6", "1kings,18,7", "1kings,18,8", "1kings,18,9", "1kings,18,10", "1kings,18,11" ],
+  "verses" : [ {
+    "verse" : "1kings,18,5",
+    "text" : "Ahab had said to Obadiah, \"Go through the land to all the springs and valleys. Maybe we can find some grass to keep the horses and mules alive so we will not have to kill any of our animals.\""
+  }, {
+    "verse" : "1kings,18,6",
+    "text" : "So they divided the land they were to cover, Ahab going in one direction and Obadiah in another."
+  }, {
+    "verse" : "1kings,18,7",
+    "text" : "As Obadiah was walking along, Elijah met him. Obadiah recognized him, bowed down to the ground, and said, \"Is it really you, my lord Elijah?\""
+  }, {
+    "verse" : "1kings,18,8",
+    "text" : "\"Yes,\" he replied. \"Go tell your master, 'Elijah is here.'\""
+  }, {
+    "verse" : "1kings,18,9",
+    "text" : "\"What have I done wrong,\" asked Obadiah, \"that you are handing your servant over to Ahab to be put to death?"
+  }, {
+    "verse" : "1kings,18,10",
+    "text" : "As surely as the LORD your God lives, there is not a nation or kingdom where my master has not sent someone to look for you. And whenever a nation or kingdom claimed you were not there, he made them swear they could not find you."
+  }, {
+    "verse" : "1kings,18,11",
+    "text" : "But now you tell me to go to my master and say, 'Elijah is here.'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,18,5",
     "id" : 188431,
@@ -26,7 +59,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 18:5\">18:5</a></b> <b>horses and mules.</b> The drought threatened Ahab’s government because the army depended on these animals, for example, in the chariot forces. Ahab’s reaction to the drought was practical, to find water, and did not reach the heart of the issue: who is sovereign over nature and life.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,18,12", "1kings,18,13", "1kings,18,14", "1kings,18,15", "1kings,18,16" ],
+  "verses" : [ {
+    "verse" : "1kings,18,12",
+    "text" : "I don't know where the Spirit of the LORD may carry you when I leave you. If I go and tell Ahab and he doesn't find you, he will kill me. Yet I your servant have worshiped the LORD since my youth."
+  }, {
+    "verse" : "1kings,18,13",
+    "text" : "Haven't you heard, my lord, what I did while Jezebel was killing the prophets of the LORD? I hid a hundred of the LORD's prophets in two caves, fifty in each, and supplied them with food and water."
+  }, {
+    "verse" : "1kings,18,14",
+    "text" : "And now you tell me to go to my master and say, 'Elijah is here.' He will kill me!\""
+  }, {
+    "verse" : "1kings,18,15",
+    "text" : "Elijah said, \"As the LORD Almighty lives, whom I serve, I will surely present myself to Ahab today.\""
+  }, {
+    "verse" : "1kings,18,16",
+    "text" : "So Obadiah went to meet Ahab and told him, and Ahab went to meet Elijah."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,18,12",
     "id" : 188432,
@@ -34,7 +82,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 18:12\">18:12</a></b> <b>the Spirit of the <span class=\"small-caps\">Lord</span> will carry you.</b> Earlier Elijah had disappeared across the Jordan only to emerge in Zarephath.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,18,17" ],
+  "verses" : [ {
+    "verse" : "1kings,18,17",
+    "text" : "When he saw Elijah, he said to him, \"Is that you, you troubler of Israel?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,18,17",
     "id" : 188433,
@@ -42,7 +93,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 18:17\">18:17</a></b> <b>you troubler of Israel.</b> Ahab views Elijah as a troublemaker, a threat to the normal functioning of society. His understanding is shallow.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,18,18" ],
+  "verses" : [ {
+    "verse" : "1kings,18,18",
+    "text" : "\"I have not made trouble for Israel,\" Elijah replied. \"But you and your father's family have. You have abandoned the LORD's commands and have followed the Baals."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,18,18",
     "id" : 188434,
@@ -50,7 +104,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 18:18\">18:18</a></b> <b>the Baals.</b> These were local manifestations of the god Baal.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,18,19", "1kings,18,20", "1kings,18,21", "1kings,18,22", "1kings,18,23" ],
+  "verses" : [ {
+    "verse" : "1kings,18,19",
+    "text" : "Now summon the people from all over Israel to meet me on Mount Carmel. And bring the four hundred and fifty prophets of Baal and the four hundred prophets of Asherah, who eat at Jezebel's table.\""
+  }, {
+    "verse" : "1kings,18,20",
+    "text" : "So Ahab sent word throughout all Israel and assembled the prophets on Mount Carmel."
+  }, {
+    "verse" : "1kings,18,21",
+    "text" : "Elijah went before the people and said, \"How long will you waver between two opinions? If the LORD is God, follow him; but if Baal is God, follow him.\" But the people said nothing."
+  }, {
+    "verse" : "1kings,18,22",
+    "text" : "Then Elijah said to them, \"I am the only one of the LORD's prophets left, but Baal has four hundred and fifty prophets."
+  }, {
+    "verse" : "1kings,18,23",
+    "text" : "Get two bulls for us. Let them choose one for themselves, and let them cut it into pieces and put it on the wood but not set fire to it. I will prepare the other bull and put it on the wood but not set fire to it."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,18,19",
     "id" : 188435,
@@ -58,7 +127,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 18:19\">18:19</a></b> <b>Mount Carmel.</b> This mountain juts out along the Mediterranean coast due west of the Sea of Chinneroth (Galilee). Because it was near the Phoenician cities, the influence of Baal religion was probably strong.</p><p><b>Asherah.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Kgs 14:15\">14:15</a>.</p><p><b>who eat at Jezebel’s table.</b> These prophets are supported by the state (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 2:7\">2:7</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,18,24", "1kings,18,25" ],
+  "verses" : [ {
+    "verse" : "1kings,18,24",
+    "text" : "Then you call on the name of your god, and I will call on the name of the LORD. The god who answers by fire-he is God.\" Then all the people said, \"What you say is good.\""
+  }, {
+    "verse" : "1kings,18,25",
+    "text" : "Elijah said to the prophets of Baal, \"Choose one of the bulls and prepare it first, since there are so many of you. Call on the name of your god, but do not light the fire.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,18,24",
     "id" : 188436,
@@ -66,7 +141,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 18:24\">18:24</a></b> <b>the God who answers by fire.</b> Since Baal’s followers believed that Baal controlled thunder, lightning, and storms, Elijah’s challenge struck at the core of his alleged power (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 16:31\">16:31</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,18,26" ],
+  "verses" : [ {
+    "verse" : "1kings,18,26",
+    "text" : "So they took the bull given them and prepared it. Then they called on the name of Baal from morning till noon. \"O Baal, answer us!\" they shouted. But there was no response; no one answered. And they danced around the altar they had made."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,18,26",
     "id" : 188437,
@@ -74,7 +152,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 18:26\">18:26</a></b> <b>they limped around the altar.</b> The Baal prophets engaged in a ritual dance to arouse the unresponsive Baal.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,18,27" ],
+  "verses" : [ {
+    "verse" : "1kings,18,27",
+    "text" : "At noon Elijah began to taunt them. \"Shout louder!\" he said. \"Surely he is a god! Perhaps he is deep in thought, or busy, or traveling. Maybe he is sleeping and must be awakened.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,18,27",
     "id" : 188438,
@@ -82,7 +163,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 18:27\">18:27</a></b> <b>Cry aloud.</b> Myths of Baal portray him traveling, fighting war, visiting the underworld, and even dying and coming back to life. Elijah knows these beliefs and plays on them when he taunts Baal’s followers.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,18,28" ],
+  "verses" : [ {
+    "verse" : "1kings,18,28",
+    "text" : "So they shouted louder and slashed themselves with swords and spears, as was their custom, until their blood flowed."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,18,28",
     "id" : 188439,
@@ -90,7 +174,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 18:28\">18:28</a></b> <b>after their custom.</b> They cut themselves to provoke Baal. Self-laceration was prohibited in Old Testament law (<a class=\"bibleref\" href=\"/passage/?search=Lev 19:28\">Lev. 19:28</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 14:1\">Deut. 14:1</a>), but nevertheless was practiced by some (<a class=\"bibleref\" href=\"/passage/?search=Jer 41:5\">Jer. 41:5</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 47:5\">47:5</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,18,29", "1kings,18,30" ],
+  "verses" : [ {
+    "verse" : "1kings,18,29",
+    "text" : "Midday passed, and they continued their frantic prophesying until the time for the evening sacrifice. But there was no response, no one answered, no one paid attention."
+  }, {
+    "verse" : "1kings,18,30",
+    "text" : "Then Elijah said to all the people, \"Come here to me.\" They came to him, and he repaired the altar of the LORD, which was in ruins."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,18,29",
     "id" : 188440,
@@ -98,7 +188,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 18:29\">18:29</a></b> <b>they raved on.</b> This description probably indicates a trance or ecstatic state.</p><p><b>the time of the offering of the oblation.</b> That is, around 3:00 <span class=\"small-caps\">p.m.</span> (<a class=\"bibleref\" href=\"/passage/?search=Exod 29:38-Exod 29:41\">Ex. 29:38–41</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 28:3-Num 28:8\">Num. 28:3–8</a>; <a class=\"bibleref\" href=\"/passage/?search=2Kgs 16:15\">2 Kin. 16:15</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 3:1\">Acts 3:1</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,18,31", "1kings,18,32", "1kings,18,33", "1kings,18,34", "1kings,18,35" ],
+  "verses" : [ {
+    "verse" : "1kings,18,31",
+    "text" : "Elijah took twelve stones, one for each of the tribes descended from Jacob, to whom the word of the LORD had come, saying, \"Your name shall be Israel.\""
+  }, {
+    "verse" : "1kings,18,32",
+    "text" : "With the stones he built an altar in the name of the LORD, and he dug a trench around it large enough to hold two seahs of seed."
+  }, {
+    "verse" : "1kings,18,33",
+    "text" : "He arranged the wood, cut the bull into pieces and laid it on the wood. Then he said to them, \"Fill four large jars with water and pour it on the offering and on the wood.\""
+  }, {
+    "verse" : "1kings,18,34",
+    "text" : "\"Do it again,\" he said, and they did it again. \"Do it a third time,\" he ordered, and they did it the third time."
+  }, {
+    "verse" : "1kings,18,35",
+    "text" : "The water ran down around the altar and even filled the trench."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,18,31",
     "id" : 188441,
@@ -106,7 +211,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 18:31\">18:31</a></b> <b>twelve stones.</b> Elijah emphasizes the oneness of the people, despite the division of the kingdom. In this way he also underscores that the contest at Mount Carmel is not significant for the northern tribes only, but for the southern tribes as well (<a class=\"bibleref\" href=\"/passage/?search=Exod 20:25\">Ex. 20:25</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 24:4\">24:4</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 4\">Josh. 4</a>).</p><p><b>Israel shall be your name.</b> The words are a quotation of <a class=\"bibleref\" href=\"/passage/?search=Gen 35:10\">Gen. 35:10</a>, where God affirmed the special name He had earlier given Jacob.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,18,36" ],
+  "verses" : [ {
+    "verse" : "1kings,18,36",
+    "text" : "At the time of sacrifice, the prophet Elijah stepped forward and prayed: \"O LORD, God of Abraham, Isaac and Israel, let it be known today that you are God in Israel and that I am your servant and have done all these things at your command."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,18,36",
     "id" : 188442,
@@ -114,7 +222,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 18:36\">18:36</a></b> <b>Elijah . . . came near and said.</b> In contrast to the elaborate and frantic activities of the Baal prophets, Elijah’s prayer is simple and direct.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,18,37", "1kings,18,38", "1kings,18,39" ],
+  "verses" : [ {
+    "verse" : "1kings,18,37",
+    "text" : "Answer me, O LORD, answer me, so these people will know that you, O LORD, are God, and that you are turning their hearts back again.\""
+  }, {
+    "verse" : "1kings,18,38",
+    "text" : "Then the fire of the LORD fell and burned up the sacrifice, the wood, the stones and the soil, and also licked up the water in the trench."
+  }, {
+    "verse" : "1kings,18,39",
+    "text" : "When all the people saw this, they fell prostrate and cried, \"The LORD -he is God! The LORD -he is God!\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,18,37",
     "id" : 188443,
@@ -122,7 +239,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 18:37\">18:37</a></b> <b>you have turned their hearts back.</b> The human act of repentance is not possible without divine grace.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,18,40" ],
+  "verses" : [ {
+    "verse" : "1kings,18,40",
+    "text" : "Then Elijah commanded them, \"Seize the prophets of Baal. Don't let anyone get away!\" They seized them, and Elijah had them brought down to the Kishon Valley and slaughtered there."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,18,40",
     "id" : 188444,
@@ -130,7 +250,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 18:40\">18:40</a></b> <b>brook Kishon.</b> This brook runs toward the north in the plain below Mount Carmel.</p><p><b>slaughtered them there.</b> Israel was a theocracy, a society founded by and constituted under God. <a class=\"bibleref\" href=\"/passage/?search=Deut 13:1-Deut 13:5\">Deut. 13:1–5</a> mandates the death of false prophets; <a class=\"bibleref\" href=\"/passage/?search=Deut 13:13-Deut 13:18\">Deut. 13:13–18</a> and <a class=\"bibleref\" href=\"/passage/?search=Deut 17:2-Deut 17:7\">17:2–7</a> prescribe death to anyone embracing idolatry or inciting others to it.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,18,41", "1kings,18,42", "1kings,18,43", "1kings,18,44" ],
+  "verses" : [ {
+    "verse" : "1kings,18,41",
+    "text" : "And Elijah said to Ahab, \"Go, eat and drink, for there is the sound of a heavy rain.\""
+  }, {
+    "verse" : "1kings,18,42",
+    "text" : "So Ahab went off to eat and drink, but Elijah climbed to the top of Carmel, bent down to the ground and put his face between his knees."
+  }, {
+    "verse" : "1kings,18,43",
+    "text" : "\"Go and look toward the sea,\" he told his servant. And he went up and looked. \"There is nothing there,\" he said. Seven times Elijah said, \"Go back.\""
+  }, {
+    "verse" : "1kings,18,44",
+    "text" : "The seventh time the servant reported, \"A cloud as small as a man's hand is rising from the sea.\" So Elijah said, \"Go and tell Ahab, 'Hitch up your chariot and go down before the rain stops you.'\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,18,41",
     "id" : 188445,
@@ -138,7 +270,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Kgs 18:41\">18:41</a></b> <b>eat and drink.</b> Ahab’s austerity can end, because the famine will soon be over (cf. <a class=\"bibleref\" href=\"/passage/?search=Jas 5:17\">James 5:17</a>, <a class=\"bibleref\" href=\"/passage/?search=Jas 5:18\">18</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1kings,18,45", "1kings,18,46" ],
+  "verses" : [ {
+    "verse" : "1kings,18,45",
+    "text" : "Meanwhile, the sky grew black with clouds, the wind rose, a heavy rain came on and Ahab rode off to Jezreel."
+  }, {
+    "verse" : "1kings,18,46",
+    "text" : "The power of the LORD came upon Elijah and, tucking his cloak into his belt, he ran ahead of Ahab all the way to Jezreel."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1kings,18,45",
     "id" : 188446,

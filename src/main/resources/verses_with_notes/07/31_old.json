@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "2chronicles,29,1", "2chronicles,29,2" ],
+  "verses" : [ {
+    "verse" : "2chronicles,29,1",
+    "text" : "Hezekiah was twenty-five years old when he became king, and he reigned in Jerusalem twenty-nine years. His mother's name was Abijah daughter of Zechariah."
+  }, {
+    "verse" : "2chronicles,29,2",
+    "text" : "He did what was right in the eyes of the LORD, just as his father David had done."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,29,1",
     "id" : 189487,
@@ -7,7 +13,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 29:1\">29:1</a></b> <b>Hezekiah.</b> The reign of Hezekiah (716–687 <span class=\"small-caps\">b.c.</span>) begins a new era in the history of Israel and Judah. The northern kingdom had been destroyed by the Assyrians and only Judah remained. Hezekiah brought together representatives from both kingdoms to form a single, reunited kingdom with one king and one temple in Jerusalem. The writer of Chronicles devotes more attention to Hezekiah than any other king except David and Solomon. He uses material from <a class=\"bibleref\" href=\"/passage/?search=2Kgs 18-2Kgs 20\">2 Kin. 18–20</a>, but he supplements it broadly, including an extensive account of Hezekiah’s temple reforms and Passover celebration (29:3–31:1). Hezekiah’s reign appears as a return to the glory of Solomon’s kingdom.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,29,3" ],
+  "verses" : [ {
+    "verse" : "2chronicles,29,3",
+    "text" : "In the first month of the first year of his reign, he opened the doors of the temple of the LORD and repaired them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,29,3",
     "id" : 189488,
@@ -15,7 +24,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 29:3\">29:3</a></b> <b>opened the doors . . . and repaired them.</b> Hezekiah overturns the actions of his father Ahaz (<a class=\"bibleref\" href=\"/passage/?search=2Chr 28:25\">28:25</a> note) and restores the gold ornamentation stripped from the temple doors (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 16:8\">2 Kin. 16:8</a>, <a class=\"bibleref\" href=\"/passage/?search=2Kgs 16:9\">9</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,29,4", "2chronicles,29,5", "2chronicles,29,6" ],
+  "verses" : [ {
+    "verse" : "2chronicles,29,4",
+    "text" : "He brought in the priests and the Levites, assembled them in the square on the east side"
+  }, {
+    "verse" : "2chronicles,29,5",
+    "text" : "and said: \"Listen to me, Levites! Consecrate yourselves now and consecrate the temple of the LORD, the God of your fathers. Remove all defilement from the sanctuary."
+  }, {
+    "verse" : "2chronicles,29,6",
+    "text" : "Our fathers were unfaithful; they did evil in the eyes of the LORD our God and forsook him. They turned their faces away from the LORD's dwelling place and turned their backs on him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,29,4",
     "id" : 189489,
@@ -28,7 +46,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 29:4-2Chr 29:11\">29:4–11</a></b> Hezekiah’s speech stands in contrast with Abijah’s earlier assessments (<a class=\"bibleref\" href=\"/passage/?search=2Chr 13:6-2Chr 13:12\">13:6–12</a> notes). Judah is no longer different from Israel; both have forsaken God. Judah must repent as well.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,29,7" ],
+  "verses" : [ {
+    "verse" : "2chronicles,29,7",
+    "text" : "They also shut the doors of the portico and put out the lamps. They did not burn incense or present any burnt offerings at the sanctuary to the God of Israel."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,29,7",
     "id" : 189491,
@@ -36,7 +57,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 29:7\">29:7</a></b> <b>shut the doors.</b> As Ahaz did (<a class=\"bibleref\" href=\"/passage/?search=2Chr 28:24\">28:24</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,29,8" ],
+  "verses" : [ {
+    "verse" : "2chronicles,29,8",
+    "text" : "Therefore, the anger of the LORD has fallen on Judah and Jerusalem; he has made them an object of dread and horror and scorn, as you can see with your own eyes."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,29,8",
     "id" : 189492,
@@ -44,7 +68,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 29:8\">29:8</a></b> <b>on Judah and Jerusalem.</b> Hezekiah asserts that Judah and Jerusalem were under the curse of God for their neglect of the temple.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,29,9" ],
+  "verses" : [ {
+    "verse" : "2chronicles,29,9",
+    "text" : "This is why our fathers have fallen by the sword and why our sons and daughters and our wives are in captivity."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,29,9",
     "id" : 189493,
@@ -52,7 +79,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 29:9\">29:9</a></b> <b>in captivity.</b> During the reign of Ahaz, many people from Judah were taken into exile by the Syrians (<a class=\"bibleref\" href=\"/passage/?search=2Chr 28:5-2Chr 28:8\">28:5–8</a>) and Edomites (<a class=\"bibleref\" href=\"/passage/?search=2Chr 28:17\">28:17</a>). These events foreshadowed the Babylonian captivity to come (<a class=\"bibleref\" href=\"/passage/?search=2Chr 36:15-2Chr 36:23\">36:15–23</a>), making the reign of Hezekiah a persuasive example for restoration after exile.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,29,10", "2chronicles,29,11" ],
+  "verses" : [ {
+    "verse" : "2chronicles,29,10",
+    "text" : "Now I intend to make a covenant with the LORD, the God of Israel, so that his fierce anger will turn away from us."
+  }, {
+    "verse" : "2chronicles,29,11",
+    "text" : "My sons, do not be negligent now, for the LORD has chosen you to stand before him and serve him, to minister before him and to burn incense.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,29,10",
     "id" : 189494,
@@ -60,7 +93,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 29:10\">29:10</a></b> <b>in my heart.</b> The anger of God turned Hezekiah toward Him in repentance, not away from Him in fear.</p><p><b>make a covenant.</b> See note <a class=\"bibleref\" href=\"/passage/?search=2Chr 15:12\">15:12</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,29,12" ],
+  "verses" : [ {
+    "verse" : "2chronicles,29,12",
+    "text" : "Then these Levites set to work: from the Kohathites, Mahath son of Amasai and Joel son of Azariah; from the Merarites, Kish son of Abdi and Azariah son of Jehallelel; from the Gershonites, Joah son of Zimmah and Eden son of Joah;"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,29,12-2chronicles,29,14",
     "id" : 189495,
@@ -68,7 +104,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 29:12-2Chr 29:14\">29:12–14</a></b> The historian mentions representatives of the three divisions of the tribe of Levi (<a class=\"bibleref\" href=\"/passage/?search=2Chr 29:12\">v. 12</a>) and the three families of singers (<a class=\"bibleref\" href=\"/passage/?search=2Chr 29:13\">vv. 13</a>, <a class=\"bibleref\" href=\"/passage/?search=2Chr 29:14\">14</a>). Hezekiah’s reforms were widely supported by the Levites and in accordance with the order established under David and Solomon (<a class=\"bibleref\" href=\"/passage/?search=1Chr 6:1\">1 Chr. 6:1</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,29,13", "2chronicles,29,14", "2chronicles,29,15" ],
+  "verses" : [ {
+    "verse" : "2chronicles,29,13",
+    "text" : "from the descendants of Elizaphan, Shimri and Jeiel; from the descendants of Asaph, Zechariah and Mattaniah;"
+  }, {
+    "verse" : "2chronicles,29,14",
+    "text" : "from the descendants of Heman, Jehiel and Shimei; from the descendants of Jeduthun, Shemaiah and Uzziel."
+  }, {
+    "verse" : "2chronicles,29,15",
+    "text" : "When they had assembled their brothers and consecrated themselves, they went in to purify the temple of the LORD, as the king had ordered, following the word of the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,29,13",
     "id" : 189496,
@@ -76,7 +121,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 29:13\">29:13</a></b> <b>Elizaphan.</b> A prominent leader of the Kohathites (<a class=\"bibleref\" href=\"/passage/?search=Num 3:30\">Num. 3:30</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,29,16", "2chronicles,29,17", "2chronicles,29,18", "2chronicles,29,19" ],
+  "verses" : [ {
+    "verse" : "2chronicles,29,16",
+    "text" : "The priests went into the sanctuary of the LORD to purify it. They brought out to the courtyard of the LORD's temple everything unclean that they found in the temple of the LORD. The Levites took it and carried it out to the Kidron Valley."
+  }, {
+    "verse" : "2chronicles,29,17",
+    "text" : "They began the consecration on the first day of the first month, and by the eighth day of the month they reached the portico of the LORD. For eight more days they consecrated the temple of the LORD itself, finishing on the sixteenth day of the first month."
+  }, {
+    "verse" : "2chronicles,29,18",
+    "text" : "Then they went in to King Hezekiah and reported: \"We have purified the entire temple of the LORD, the altar of burnt offering with all its utensils, and the table for setting out the consecrated bread, with all its articles."
+  }, {
+    "verse" : "2chronicles,29,19",
+    "text" : "We have prepared and consecrated all the articles that King Ahaz removed in his unfaithfulness while he was king. They are now in front of the LORD's altar.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,29,16",
     "id" : 189497,
@@ -84,7 +141,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 29:16\">29:16</a></b> <b>priests went into the inner part.</b> The historian offers these details to demonstrate that Hezekiah’s renovation strictly accorded with Mosaic legislation.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,29,20" ],
+  "verses" : [ {
+    "verse" : "2chronicles,29,20",
+    "text" : "Early the next morning King Hezekiah gathered the city officials together and went up to the temple of the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,29,20-2chronicles,29,36",
     "id" : 189498,
@@ -92,7 +152,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 29:20-2Chr 29:36\">29:20–36</a></b> Hezekiah’s dedication of the temple is reported in three parts: sacrifices brought by the leaders (<a class=\"bibleref\" href=\"/passage/?search=2Chr 29:20-2Chr 29:24\">vv. 20–24</a>), arrangement of music (<a class=\"bibleref\" href=\"/passage/?search=2Chr 29:25-2Chr 29:30\">vv. 25–30</a>), and sacrifices brought by the people (<a class=\"bibleref\" href=\"/passage/?search=2Chr 29:31-2Chr 29:36\">vv. 31–36</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,29,21", "2chronicles,29,22", "2chronicles,29,23" ],
+  "verses" : [ {
+    "verse" : "2chronicles,29,21",
+    "text" : "They brought seven bulls, seven rams, seven male lambs and seven male goats as a sin offering for the kingdom, for the sanctuary and for Judah. The king commanded the priests, the descendants of Aaron, to offer these on the altar of the LORD."
+  }, {
+    "verse" : "2chronicles,29,22",
+    "text" : "So they slaughtered the bulls, and the priests took the blood and sprinkled it on the altar; next they slaughtered the rams and sprinkled their blood on the altar; then they slaughtered the lambs and sprinkled their blood on the altar."
+  }, {
+    "verse" : "2chronicles,29,23",
+    "text" : "The goats for the sin offering were brought before the king and the assembly, and they laid their hands on them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,29,21",
     "id" : 189499,
@@ -100,7 +169,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 29:21\">29:21</a></b> <b>for the kingdom . . . sanctuary . . . Judah.</b> Sacrifices were made on behalf of the royal family, the priests and Levites, and the people. All three groups were involved in the apostasy under Ahaz (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 16\">2 Kin. 16</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,29,24" ],
+  "verses" : [ {
+    "verse" : "2chronicles,29,24",
+    "text" : "The priests then slaughtered the goats and presented their blood on the altar for a sin offering to atone for all Israel, because the king had ordered the burnt offering and the sin offering for all Israel."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,29,24",
     "id" : 189500,
@@ -108,7 +180,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 29:24\">29:24</a></b> <b>all Israel.</b> In connection with the reunited kingdom (<a class=\"bibleref\" href=\"/passage/?search=2Chr 29-2Chr 36\">chs. 29–36</a>), the expression “all Israel” (<a class=\"bibleref\" href=\"/passage/?search=2Chr 30:1\">30:1</a>; <a class=\"bibleref\" href=\"/passage/?search=2Chr 31:1\">31:1</a>; <a class=\"bibleref\" href=\"/passage/?search=2Chr 35:3\">35:3</a>) refers to both Judah together with the refugees from the northern tribes (<a class=\"bibleref\" href=\"/passage/?search=1Chr 11:1\">1 Chr. 11:1</a> note; <a class=\"bibleref\" href=\"/passage/?search=2Chr 10:1\">2 Chr. 10:1</a> note). Hezekiah ordered sacrifices to be offered, not for Judah only (v. 21), but for all the descendants of Israel. This desire to unite is clearly expressed in his arrangements for the Passover (30:1–6).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,29,25", "2chronicles,29,26", "2chronicles,29,27", "2chronicles,29,28", "2chronicles,29,29", "2chronicles,29,30", "2chronicles,29,31" ],
+  "verses" : [ {
+    "verse" : "2chronicles,29,25",
+    "text" : "He stationed the Levites in the temple of the LORD with cymbals, harps and lyres in the way prescribed by David and Gad the king's seer and Nathan the prophet; this was commanded by the LORD through his prophets."
+  }, {
+    "verse" : "2chronicles,29,26",
+    "text" : "So the Levites stood ready with David's instruments, and the priests with their trumpets."
+  }, {
+    "verse" : "2chronicles,29,27",
+    "text" : "Hezekiah gave the order to sacrifice the burnt offering on the altar. As the offering began, singing to the LORD began also, accompanied by trumpets and the instruments of David king of Israel."
+  }, {
+    "verse" : "2chronicles,29,28",
+    "text" : "The whole assembly bowed in worship, while the singers sang and the trumpeters played. All this continued until the sacrifice of the burnt offering was completed."
+  }, {
+    "verse" : "2chronicles,29,29",
+    "text" : "When the offerings were finished, the king and everyone present with him knelt down and worshiped."
+  }, {
+    "verse" : "2chronicles,29,30",
+    "text" : "King Hezekiah and his officials ordered the Levites to praise the LORD with the words of David and of Asaph the seer. So they sang praises with gladness and bowed their heads and worshiped."
+  }, {
+    "verse" : "2chronicles,29,31",
+    "text" : "Then Hezekiah said, \"You have now dedicated yourselves to the LORD. Come and bring sacrifices and thank offerings to the temple of the LORD.\" So the assembly brought sacrifices and thank offerings, and all whose hearts were willing brought burnt offerings."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,29,25",
     "id" : 189501,
@@ -116,7 +209,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 29:25\">29:25</a></b> <b>cymbals, harps, and lyres.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Chr 15:16\">1 Chr. 15:16</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,29,32", "2chronicles,29,33", "2chronicles,29,34", "2chronicles,29,35" ],
+  "verses" : [ {
+    "verse" : "2chronicles,29,32",
+    "text" : "The number of burnt offerings the assembly brought was seventy bulls, a hundred rams and two hundred male lambs-all of them for burnt offerings to the LORD."
+  }, {
+    "verse" : "2chronicles,29,33",
+    "text" : "The animals consecrated as sacrifices amounted to six hundred bulls and three thousand sheep and goats."
+  }, {
+    "verse" : "2chronicles,29,34",
+    "text" : "The priests, however, were too few to skin all the burnt offerings; so their kinsmen the Levites helped them until the task was finished and until other priests had been consecrated, for the Levites had been more conscientious in consecrating themselves than the priests had been."
+  }, {
+    "verse" : "2chronicles,29,35",
+    "text" : "There were burnt offerings in abundance, together with the fat of the fellowship offerings and the drink offerings that accompanied the burnt offerings. So the service of the temple of the LORD was reestablished."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,29,32-2chronicles,29,35",
     "id" : 189502,
@@ -124,7 +229,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 29:32-2Chr 29:35\">29:32–35</a></b> These sacrifices were fewer in number, but still a reminder of what Solomon had offered when the temple was dedicated (<a class=\"bibleref\" href=\"/passage/?search=2Chr 7:4-2Chr 7:6\">7:4–6</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,29,36" ],
+  "verses" : [ {
+    "verse" : "2chronicles,29,36",
+    "text" : "Hezekiah and all the people rejoiced at what God had brought about for his people, because it was done so quickly."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,29,36",
     "id" : 189503,

@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,9,13" ],
+  "verses" : [ {
+    "verse" : "proverbs,9,13",
+    "text" : "The woman Folly is loud; she is undisciplined and without knowledge."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,9,1-proverbs,9,18",
     "id" : 191822,
@@ -17,7 +20,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 9:13\">9:13</a></b> <b>loud.</b> See <a class=\"bibleref\" href=\"/passage/?search=Prov 7:11\">7:11</a>, <a class=\"bibleref\" href=\"/passage/?search=Prov 7:12\">12</a>.</p><p><b>seductive and knows nothing.</b> The sensuous appeal of folly contrasts with wisdom as the teacher.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,9,14" ],
+  "verses" : [ {
+    "verse" : "proverbs,9,14",
+    "text" : "She sits at the door of her house, on a seat at the highest point of the city,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,9,14",
     "id" : 191838,
@@ -25,7 +31,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 9:14\">9:14</a></b> <b>on the highest places of the town.</b> Folly counterfeits the actions of wisdom so as to appear wise (cf. <a class=\"bibleref\" href=\"/passage/?search=Prov 9:3\">v. 3</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,9,15", "proverbs,9,16" ],
+  "verses" : [ {
+    "verse" : "proverbs,9,15",
+    "text" : "calling out to those who pass by, who go straight on their way."
+  }, {
+    "verse" : "proverbs,9,16",
+    "text" : "\"Let all who are simple come in here!\" she says to those who lack judgment."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,9,15-proverbs,9,16",
     "id" : 191839,
@@ -33,7 +45,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 9:15\">9:15</a>, <a class=\"bibleref\" href=\"/passage/?search=Prov 9:16\">16</a></b> Folly’s entreaties further imitate those of wisdom (cf. <a class=\"bibleref\" href=\"/passage/?search=Prov 9:4\">v. 4</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,9,17" ],
+  "verses" : [ {
+    "verse" : "proverbs,9,17",
+    "text" : "\"Stolen water is sweet; food eaten in secret is delicious!\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,9,17",
     "id" : 191840,
@@ -41,7 +56,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 9:17\">9:17</a></b> <b>Stolen water</b>. Anything that is forbidden, especially illicit sex (<a class=\"bibleref\" href=\"/passage/?search=Prov 5:3\">5:3</a>, <a class=\"bibleref\" href=\"/passage/?search=Prov 5:15\">15</a>; <a class=\"bibleref\" href=\"/passage/?search=Prov 7:16-Prov 7:18\">7:16–18</a>).</p><p><b>bread eaten in secret.</b> Because it is stolen or forbidden. There is a perversity in human nature that is stirred up by prohibition and the law (<a class=\"bibleref\" href=\"/passage/?search=Rom 7:7-Rom 7:11\">Rom. 7:7–11</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,9,18" ],
+  "verses" : [ {
+    "verse" : "proverbs,9,18",
+    "text" : "But little do they know that the dead are there, that her guests are in the depths of the grave."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,9,18",
     "id" : 191841,

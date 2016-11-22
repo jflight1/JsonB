@@ -1,5 +1,29 @@
 [ {
-  "singleVerses" : [ "genesis,41,17", "genesis,41,18", "genesis,41,19", "genesis,41,20", "genesis,41,21", "genesis,41,22", "genesis,41,23", "genesis,41,24" ],
+  "verses" : [ {
+    "verse" : "genesis,41,17",
+    "text" : "Then Pharaoh said to Joseph, \"In my dream I was standing on the bank of the Nile,"
+  }, {
+    "verse" : "genesis,41,18",
+    "text" : "when out of the river there came up seven cows, fat and sleek, and they grazed among the reeds."
+  }, {
+    "verse" : "genesis,41,19",
+    "text" : "After them, seven other cows came up-scrawny and very ugly and lean. I had never seen such ugly cows in all the land of Egypt."
+  }, {
+    "verse" : "genesis,41,20",
+    "text" : "The lean, ugly cows ate up the seven fat cows that came up first."
+  }, {
+    "verse" : "genesis,41,21",
+    "text" : "But even after they ate them, no one could tell that they had done so; they looked just as ugly as before. Then I woke up."
+  }, {
+    "verse" : "genesis,41,22",
+    "text" : "\"In my dreams I also saw seven heads of grain, full and good, growing on a single stalk."
+  }, {
+    "verse" : "genesis,41,23",
+    "text" : "After them, seven other heads sprouted-withered and thin and scorched by the east wind."
+  }, {
+    "verse" : "genesis,41,24",
+    "text" : "The thin heads of grain swallowed up the seven good heads. I told this to the magicians, but none could explain it to me.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,37,2-genesis,50,26",
     "id" : 185362,
@@ -12,7 +36,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 41\">41:1–57</a></b> God exalted faithful Joseph over all Egypt by giving him supernatural wisdom: the ability to interpret dreams (v. 16) and skill in political economy and statesmanship (vv. 33, <a class=\"bibleref\" href=\"/passage/?search=Gen 41:38\">38</a>). Joseph prefigured Moses at the founding of Israel, and Daniel at the end of Israel’s monarchy. All three were oppressed captives who came to power in a hostile land by pitting God’s wisdom against the wise of this world, displaying the superiority of God’s wisdom and His rule over the nations. They prefigure Jesus Christ, the incarnate Wisdom of God (<a class=\"bibleref\" href=\"/passage/?search=1Cor 1:30\">1 Cor. 1:30</a>; <a class=\"bibleref\" href=\"/passage/?search=Col 2:3\">Col. 2:3</a>), who was raised from the dead to rule the world (<a class=\"bibleref\" href=\"/passage/?search=1Cor 1:18-1Cor 2:16\">1 Cor. 1:18–2:16</a>; <a class=\"bibleref\" href=\"/passage/?search=Rev 12:1-Rev 12:5\">Rev. 12:1–5</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,41,25", "genesis,41,26", "genesis,41,27", "genesis,41,28", "genesis,41,29", "genesis,41,30", "genesis,41,31" ],
+  "verses" : [ {
+    "verse" : "genesis,41,25",
+    "text" : "Then Joseph said to Pharaoh, \"The dreams of Pharaoh are one and the same. God has revealed to Pharaoh what he is about to do."
+  }, {
+    "verse" : "genesis,41,26",
+    "text" : "The seven good cows are seven years, and the seven good heads of grain are seven years; it is one and the same dream."
+  }, {
+    "verse" : "genesis,41,27",
+    "text" : "The seven lean, ugly cows that came up afterward are seven years, and so are the seven worthless heads of grain scorched by the east wind: They are seven years of famine."
+  }, {
+    "verse" : "genesis,41,28",
+    "text" : "\"It is just as I said to Pharaoh: God has shown Pharaoh what he is about to do."
+  }, {
+    "verse" : "genesis,41,29",
+    "text" : "Seven years of great abundance are coming throughout the land of Egypt,"
+  }, {
+    "verse" : "genesis,41,30",
+    "text" : "but seven years of famine will follow them. Then all the abundance in Egypt will be forgotten, and the famine will ravage the land."
+  }, {
+    "verse" : "genesis,41,31",
+    "text" : "The abundance in the land will not be remembered, because the famine that follows it will be so severe."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,41,25",
     "id" : 185417,
@@ -20,7 +65,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 41:25\">41:25</a></b> <b>God has revealed to Pharaoh.</b> Both the dream and its interpretation were from God (<a class=\"bibleref\" href=\"/passage/?search=Gen 40:8\">40:8</a> and note). Joseph was inspired by God; he did not act as a magician. Neither Pharaoh nor his officials were in control; God and His servant were in charge, as they would be centuries later in the time of Moses (<a class=\"bibleref\" href=\"/passage/?search=Exod 7:1-Exod 7:5\">Ex. 7:1–5</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,41,32", "genesis,41,33", "genesis,41,34", "genesis,41,35", "genesis,41,36", "genesis,41,37" ],
+  "verses" : [ {
+    "verse" : "genesis,41,32",
+    "text" : "The reason the dream was given to Pharaoh in two forms is that the matter has been firmly decided by God, and God will do it soon."
+  }, {
+    "verse" : "genesis,41,33",
+    "text" : "\"And now let Pharaoh look for a discerning and wise man and put him in charge of the land of Egypt."
+  }, {
+    "verse" : "genesis,41,34",
+    "text" : "Let Pharaoh appoint commissioners over the land to take a fifth of the harvest of Egypt during the seven years of abundance."
+  }, {
+    "verse" : "genesis,41,35",
+    "text" : "They should collect all the food of these good years that are coming and store up the grain under the authority of Pharaoh, to be kept in the cities for food."
+  }, {
+    "verse" : "genesis,41,36",
+    "text" : "This food should be held in reserve for the country, to be used during the seven years of famine that will come upon Egypt, so that the country may not be ruined by the famine.\""
+  }, {
+    "verse" : "genesis,41,37",
+    "text" : "The plan seemed good to Pharaoh and to all his officials."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,41,32",
     "id" : 185418,
@@ -28,7 +91,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 41:32\">41:32</a></b> <b>the doubling of Pharaoh’s dream.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Gen 37:9\">37:9</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,41,38" ],
+  "verses" : [ {
+    "verse" : "genesis,41,38",
+    "text" : "So Pharaoh asked them, \"Can we find anyone like this man, one in whom is the spirit of God?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,41,38",
     "id" : 185419,
@@ -36,7 +102,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 41:38\">41:38</a></b> <b>Spirit of God.</b> Joseph pointed to God’s action in giving the dream (<a class=\"bibleref\" href=\"/passage/?search=Gen 41:16\">v. 16</a>), and Pharaoh acknowledged God’s power at work in Joseph (<a class=\"bibleref\" href=\"/passage/?search=Gen 41\">41:1–57</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,41,39", "genesis,41,40" ],
+  "verses" : [ {
+    "verse" : "genesis,41,39",
+    "text" : "Then Pharaoh said to Joseph, \"Since God has made all this known to you, there is no one so discerning and wise as you."
+  }, {
+    "verse" : "genesis,41,40",
+    "text" : "You shall be in charge of my palace, and all my people are to submit to your orders. Only with respect to the throne will I be greater than you.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,41,39",
     "id" : 185420,
@@ -44,7 +116,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 41:39\">41:39</a></b> <b>none so discerning and wise as you.</b> Joseph had just defeated Egypt’s best wise men (cf. <a class=\"bibleref\" href=\"/passage/?search=Exod 8:18\">Ex. 8:18</a>; <a class=\"bibleref\" href=\"/passage/?search=Dan 2:10\">Dan. 2:10</a>, <a class=\"bibleref\" href=\"/passage/?search=Dan 2:27\">27</a>, <a class=\"bibleref\" href=\"/passage/?search=Dan 2:28\">28</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,41,41", "genesis,41,42", "genesis,41,43", "genesis,41,44" ],
+  "verses" : [ {
+    "verse" : "genesis,41,41",
+    "text" : "So Pharaoh said to Joseph, \"I hereby put you in charge of the whole land of Egypt.\""
+  }, {
+    "verse" : "genesis,41,42",
+    "text" : "Then Pharaoh took his signet ring from his finger and put it on Joseph's finger. He dressed him in robes of fine linen and put a gold chain around his neck."
+  }, {
+    "verse" : "genesis,41,43",
+    "text" : "He had him ride in a chariot as his second-in-command, and men shouted before him, \"Make way!\" Thus he put him in charge of the whole land of Egypt."
+  }, {
+    "verse" : "genesis,41,44",
+    "text" : "Then Pharaoh said to Joseph, \"I am Pharaoh, but without your word no one will lift hand or foot in all Egypt.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,41,41-genesis,41,46",
     "id" : 185421,
@@ -57,7 +141,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 41:41\">41:41</a></b> <b>set you over all the land.</b> Joseph, who had been faithful in little (<a class=\"bibleref\" href=\"/passage/?search=Gen 39:4\">39:4</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 39:22\">22</a>), was put in charge of much (cf. <a class=\"bibleref\" href=\"/passage/?search=Luke 16:10\">Luke 16:10</a>; <a class=\"bibleref\" href=\"/passage/?search=Luke 19:17\">19:17</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,41,45" ],
+  "verses" : [ {
+    "verse" : "genesis,41,45",
+    "text" : "Pharaoh gave Joseph the name Zaphenath-Paneah and gave him Asenath daughter of Potiphera, priest of On, to be his wife. And Joseph went throughout the land of Egypt."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,41,45",
     "id" : 185423,
@@ -65,7 +152,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 41:45\">41:45</a></b> <b>Zaphenath-paneah.</b> Joseph’s role in Egypt was like that of Daniel in Babylon: both accepted pagan names without embracing pagan religion (<a class=\"bibleref\" href=\"/passage/?search=Dan 1:7\">Dan. 1:7</a>).</p><p><b>Asenath.</b> Her name means “belongs to [the goddess] Neit.”</p><p><b>Potiphera.</b> Probably a variant spelling of Potiphar (37:36 note).</p><p><b>On.</b> Called Heliopolis in Greek, this city was a center for the worship of the sun god Ra (<a class=\"bibleref\" href=\"/passage/?search=Jer 43:13\">Jer. 43:13</a> text note); its high priest was one of the most prominent in ancient Egypt.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,41,46", "genesis,41,47", "genesis,41,48", "genesis,41,49", "genesis,41,50" ],
+  "verses" : [ {
+    "verse" : "genesis,41,46",
+    "text" : "Joseph was thirty years old when he entered the service of Pharaoh king of Egypt. And Joseph went out from Pharaoh's presence and traveled throughout Egypt."
+  }, {
+    "verse" : "genesis,41,47",
+    "text" : "During the seven years of abundance the land produced plentifully."
+  }, {
+    "verse" : "genesis,41,48",
+    "text" : "Joseph collected all the food produced in those seven years of abundance in Egypt and stored it in the cities. In each city he put the food grown in the fields surrounding it."
+  }, {
+    "verse" : "genesis,41,49",
+    "text" : "Joseph stored up huge quantities of grain, like the sand of the sea; it was so much that he stopped keeping records because it was beyond measure."
+  }, {
+    "verse" : "genesis,41,50",
+    "text" : "Before the years of famine came, two sons were born to Joseph by Asenath daughter of Potiphera, priest of On."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,41,46",
     "id" : 185424,
@@ -73,7 +175,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 41:46\">41:46</a></b> <b>thirty years.</b> Joseph had risen from slavery to become the king’s second-in-command in a mere thirteen years (<a class=\"bibleref\" href=\"/passage/?search=Gen 37:2\">37:2</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,41,51", "genesis,41,52", "genesis,41,53", "genesis,41,54", "genesis,41,55", "genesis,41,56" ],
+  "verses" : [ {
+    "verse" : "genesis,41,51",
+    "text" : "Joseph named his firstborn Manasseh and said, \"It is because God has made me forget all my trouble and all my father's household.\""
+  }, {
+    "verse" : "genesis,41,52",
+    "text" : "The second son he named Ephraim and said, \"It is because God has made me fruitful in the land of my suffering.\""
+  }, {
+    "verse" : "genesis,41,53",
+    "text" : "The seven years of abundance in Egypt came to an end,"
+  }, {
+    "verse" : "genesis,41,54",
+    "text" : "and the seven years of famine began, just as Joseph had said. There was famine in all the other lands, but in the whole land of Egypt there was food."
+  }, {
+    "verse" : "genesis,41,55",
+    "text" : "When all Egypt began to feel the famine, the people cried to Pharaoh for food. Then Pharaoh told all the Egyptians, \"Go to Joseph and do what he tells you.\""
+  }, {
+    "verse" : "genesis,41,56",
+    "text" : "When the famine had spread over the whole country, Joseph opened the storehouses and sold grain to the Egyptians, for the famine was severe throughout Egypt."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,41,51-genesis,41,52",
     "id" : 185425,
@@ -81,7 +201,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 41:51\">41:51</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 41:52\">52</a></b> See text notes. As the names of his sons indicate, Joseph was ever mindful of God’s hand upon him. The first commemorates God’s preservation through great hardship (<a class=\"bibleref\" href=\"/passage/?search=Gen 41:51\">v. 51</a>), the second memorializes the divine favor with echoes of the Abrahamic blessing (<a class=\"bibleref\" href=\"/passage/?search=Gen 41:52\">v. 52</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Gen 17:6\">17:6</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 17:20\">20</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 28:3\">28:3</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 48:4\">48:4</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Ps 105:23\">Ps. 105:23</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 105:24\">24</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,41,57" ],
+  "verses" : [ {
+    "verse" : "genesis,41,57",
+    "text" : "And all the countries came to Egypt to buy grain from Joseph, because the famine was severe in all the world."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,41,57",
     "id" : 185426,
@@ -89,7 +212,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 41:57\">41:57</a></b> <b>all the earth.</b> The temporal salvation (from starvation) of the known world depended on one descendant of the patriarchs (<a class=\"bibleref\" href=\"/passage/?search=Gen 12:3\">12:3</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 39:5\">39:5</a> and notes). In mediating this blessing, Joseph prefigures the work of Christ (<a class=\"bibleref\" href=\"/passage/?search=1John 2:2\">1 John 2:2</a>). See note 37:2–50:26.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,42,1", "genesis,42,2", "genesis,42,3" ],
+  "verses" : [ {
+    "verse" : "genesis,42,1",
+    "text" : "When Jacob learned that there was grain in Egypt, he said to his sons, \"Why do you just keep looking at each other?\""
+  }, {
+    "verse" : "genesis,42,2",
+    "text" : "He continued, \"I have heard that there is grain in Egypt. Go down there and buy some for us, so that we may live and not die.\""
+  }, {
+    "verse" : "genesis,42,3",
+    "text" : "Then ten of Joseph's brothers went down to buy grain from Egypt."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,42,1-genesis,42,38",
     "id" : 185427,
@@ -102,7 +234,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 42:1\">42:1</a></b> <b>grain for sale in Egypt.</b> See <a class=\"bibleref\" href=\"/passage/?search=Gen 12:10\">12:10</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 26:1\">26:1</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 26:2\">2</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,42,4", "genesis,42,5" ],
+  "verses" : [ {
+    "verse" : "genesis,42,4",
+    "text" : "But Jacob did not send Benjamin, Joseph's brother, with the others, because he was afraid that harm might come to him."
+  }, {
+    "verse" : "genesis,42,5",
+    "text" : "So Israel's sons were among those who went to buy grain, for the famine was in the land of Canaan also."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,42,4",
     "id" : 185429,
@@ -110,7 +248,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 42:4\">42:4</a></b> <b>did not send Benjamin.</b> Joseph’s full brother had taken his place in his father’s affections (<a class=\"bibleref\" href=\"/passage/?search=Gen 37:3\">37:3</a> and notes). The brothers’ treatment of him and of their father would indicate whether there had been a spiritual change in them.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,42,6" ],
+  "verses" : [ {
+    "verse" : "genesis,42,6",
+    "text" : "Now Joseph was the governor of the land, the one who sold grain to all its people. So when Joseph's brothers arrived, they bowed down to him with their faces to the ground."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,42,6",
     "id" : 185430,
@@ -118,7 +259,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 42:6\">42:6</a></b> <b>bowed.</b> To preserve their lives they unwittingly fulfilled Joseph’s dream (<a class=\"bibleref\" href=\"/passage/?search=Gen 37:5\">37:5</a> and note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,42,7" ],
+  "verses" : [ {
+    "verse" : "genesis,42,7",
+    "text" : "As soon as Joseph saw his brothers, he recognized them, but he pretended to be a stranger and spoke harshly to them. \"Where do you come from?\" he asked. \"From the land of Canaan,\" they replied, \"to buy food.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,42,7",
     "id" : 185431,
@@ -126,7 +270,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 42:7\">42:7</a></b> <b>like strangers . . . spoke roughly.</b> As the rest of the narrative shows, Joseph was acting to ascertain his brothers’ attitudes and to heal the breach between him and his brothers. A quick pardon would not have led to true repentance and spiritual healing within the family.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,42,8", "genesis,42,9", "genesis,42,10" ],
+  "verses" : [ {
+    "verse" : "genesis,42,8",
+    "text" : "Although Joseph recognized his brothers, they did not recognize him."
+  }, {
+    "verse" : "genesis,42,9",
+    "text" : "Then he remembered his dreams about them and said to them, \"You are spies! You have come to see where our land is unprotected.\""
+  }, {
+    "verse" : "genesis,42,10",
+    "text" : "\"No, my lord,\" they answered. \"Your servants have come to buy food."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,42,8",
     "id" : 185432,
@@ -134,7 +287,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 42:8\">42:8</a></b> <b>they did not recognize him.</b> Joseph had grown from a boy of seventeen to a man of almost forty (<a class=\"bibleref\" href=\"/passage/?search=Gen 41:46\">41:46</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 41:47\">47</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 41:54\">54</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 45:6\">45:6</a> note). He had the appearance of an august Egyptian official (<a class=\"bibleref\" href=\"/passage/?search=Gen 41:14\">41:14</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 41:41-Gen 41:43\">41–43</a>) and used an interpreter (<a class=\"bibleref\" href=\"/passage/?search=Gen 41:23\">v. 23</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,42,11" ],
+  "verses" : [ {
+    "verse" : "genesis,42,11",
+    "text" : "We are all the sons of one man. Your servants are honest men, not spies.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,42,11",
     "id" : 185433,
@@ -142,7 +298,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 42:11\">42:11</a></b> <b>sons of one man.</b> They were a family unit, not spies of a nation bent on war (cf. <a class=\"bibleref\" href=\"/passage/?search=Num 13:2\">Num. 13:2</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,42,12" ],
+  "verses" : [ {
+    "verse" : "genesis,42,12",
+    "text" : "\"No!\" he said to them. \"You have come to see where our land is unprotected.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,42,12",
     "id" : 185434,
@@ -150,7 +309,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 42:12\">42:12</a></b> <b>you have come to see.</b> This interrogation, with its repeated accusations (cf. <a class=\"bibleref\" href=\"/passage/?search=Gen 42:9\">v. 9</a>), was necessary for the ruse and to extract information out of them so that Joseph could take his next step (<a class=\"bibleref\" href=\"/passage/?search=Gen 43:7\">43:7</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,42,13", "genesis,42,14" ],
+  "verses" : [ {
+    "verse" : "genesis,42,13",
+    "text" : "But they replied, \"Your servants were twelve brothers, the sons of one man, who lives in the land of Canaan. The youngest is now with our father, and one is no more.\""
+  }, {
+    "verse" : "genesis,42,14",
+    "text" : "Joseph said to them, \"It is just as I told you: You are spies!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,42,13",
     "id" : 185435,
@@ -158,7 +323,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 42:13\">42:13</a></b> <b>they said.</b> The brothers no doubt thought the added details strengthened their credibility.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,42,15", "genesis,42,16", "genesis,42,17" ],
+  "verses" : [ {
+    "verse" : "genesis,42,15",
+    "text" : "And this is how you will be tested: As surely as Pharaoh lives, you will not leave this place unless your youngest brother comes here."
+  }, {
+    "verse" : "genesis,42,16",
+    "text" : "Send one of your number to get your brother; the rest of you will be kept in prison, so that your words may be tested to see if you are telling the truth. If you are not, then as surely as Pharaoh lives, you are spies!\""
+  }, {
+    "verse" : "genesis,42,17",
+    "text" : "And he put them all in custody for three days."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,42,15",
     "id" : 185436,

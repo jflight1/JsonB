@@ -1,5 +1,14 @@
 [ {
-  "singleVerses" : [ "psalms,109,1", "psalms,109,2", "psalms,109,3" ],
+  "verses" : [ {
+    "verse" : "psalms,109,1",
+    "text" : "O God, whom I praise, do not remain silent,"
+  }, {
+    "verse" : "psalms,109,2",
+    "text" : "for wicked and deceitful men have opened their mouths against me; they have spoken against me with lying tongues."
+  }, {
+    "verse" : "psalms,109,3",
+    "text" : "With words of hatred they surround me; they attack me without cause."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,109,1-psalms,109,31",
     "id" : 191248,
@@ -12,7 +21,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 109:1\">109:1</a></b> <b>Be not silent.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Ps 83:1\">Ps. 83:1</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,109,4" ],
+  "verses" : [ {
+    "verse" : "psalms,109,4",
+    "text" : "In return for my friendship they accuse me, but I am a man of prayer."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,109,4",
     "id" : 191250,
@@ -20,7 +32,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 109:4\">109:4</a></b> <b>they accuse me.</b> The legal language here and elsewhere in the psalm reveals that the psalmist is a defendant in a courtroom setting.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,109,5" ],
+  "verses" : [ {
+    "verse" : "psalms,109,5",
+    "text" : "They repay me evil for good, and hatred for my friendship."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,109,5",
     "id" : 191251,
@@ -28,7 +43,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 109:5\">109:5</a></b> <b>evil for good.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Ps 35:12\">Ps. 35:12</a>.</p><p><b>for my love.</b> What makes the writer’s plight so poignant is that his attackers were once friends but have turned treacherously against him.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,109,6", "psalms,109,7" ],
+  "verses" : [ {
+    "verse" : "psalms,109,6",
+    "text" : "Appoint an evil man to oppose him; let an accuser stand at his right hand."
+  }, {
+    "verse" : "psalms,109,7",
+    "text" : "When he is tried, let him be found guilty, and may his prayers condemn him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,109,6",
     "id" : 191252,
@@ -36,7 +57,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 109:6\">109:6 a</a></b> <b>wicked man . . . an accuser.</b> The penalty for accusing someone of a certain crime falsely was the penalty corresponding to that crime (<a class=\"bibleref\" href=\"/passage/?search=Deut 19:16-Deut 19:21\">Deut. 19:16–21</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,109,8" ],
+  "verses" : [ {
+    "verse" : "psalms,109,8",
+    "text" : "May his days be few; may another take his place of leadership."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,109,8",
     "id" : 191253,
@@ -44,7 +68,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 109:8\">109:8</a></b> <b>may another take his office.</b> As this accuser brought false charges against the psalmist, so Judas Iscariot sought Christ’s death by turning Him over to the Jewish authorities. Afterwards Judas killed himself in remorse. Peter understood that this psalm was about that situation and cited it as a replacement was sought for Judas among the disciples (<a class=\"bibleref\" href=\"/passage/?search=Acts 1:20\">Acts 1:20</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,109,9", "psalms,109,10", "psalms,109,11", "psalms,109,12" ],
+  "verses" : [ {
+    "verse" : "psalms,109,9",
+    "text" : "May his children be fatherless and his wife a widow."
+  }, {
+    "verse" : "psalms,109,10",
+    "text" : "May his children be wandering beggars; may they be driven from their ruined homes."
+  }, {
+    "verse" : "psalms,109,11",
+    "text" : "May a creditor seize all he has; may strangers plunder the fruits of his labor."
+  }, {
+    "verse" : "psalms,109,12",
+    "text" : "May no one extend kindness to him or take pity on his fatherless children."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,109,9",
     "id" : 191254,
@@ -52,7 +88,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 109:9\">109:9</a></b> <b>fatherless . . . widow.</b> Among people who depended heavily on their relatives for social support, this verse was a hard-hitting curse, calling for punishment on the accuser and on his family as well.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,109,13", "psalms,109,14", "psalms,109,15", "psalms,109,16" ],
+  "verses" : [ {
+    "verse" : "psalms,109,13",
+    "text" : "May his descendants be cut off, their names blotted out from the next generation."
+  }, {
+    "verse" : "psalms,109,14",
+    "text" : "May the iniquity of his fathers be remembered before the LORD; may the sin of his mother never be blotted out."
+  }, {
+    "verse" : "psalms,109,15",
+    "text" : "May their sins always remain before the LORD, that he may cut off the memory of them from the earth."
+  }, {
+    "verse" : "psalms,109,16",
+    "text" : "For he never thought of doing a kindness, but hounded to death the poor and the needy and the brokenhearted."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,109,13",
     "id" : 191255,
@@ -60,7 +108,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 109:13\">109:13</a></b> <b>his name be blotted out.</b> The curses focus on eradicating the accuser’s family line. To have descendants stretching into the distant future was considered extremely important in ancient Israel.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,109,17", "psalms,109,18", "psalms,109,19", "psalms,109,20" ],
+  "verses" : [ {
+    "verse" : "psalms,109,17",
+    "text" : "He loved to pronounce a curse- may it come on him; he found no pleasure in blessing- may it be far from him."
+  }, {
+    "verse" : "psalms,109,18",
+    "text" : "He wore cursing as his garment; it entered into his body like water, into his bones like oil."
+  }, {
+    "verse" : "psalms,109,19",
+    "text" : "May it be like a cloak wrapped about him, like a belt tied forever around him."
+  }, {
+    "verse" : "psalms,109,20",
+    "text" : "May this be the LORD's payment to my accusers, to those who speak evil of me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,109,17",
     "id" : 191256,
@@ -68,7 +128,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 109:17\">109:17</a></b> <b>let curses come upon him.</b> Once again the psalmist invokes the principle that the unrighteous will receive the penalty they are trying to call down upon another. See note on <a class=\"bibleref\" href=\"/passage/?search=Ps 109:6\">v. 6</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,109,21", "psalms,109,22", "psalms,109,23", "psalms,109,24" ],
+  "verses" : [ {
+    "verse" : "psalms,109,21",
+    "text" : "But you, O Sovereign LORD, deal well with me for your name's sake; out of the goodness of your love, deliver me."
+  }, {
+    "verse" : "psalms,109,22",
+    "text" : "For I am poor and needy, and my heart is wounded within me."
+  }, {
+    "verse" : "psalms,109,23",
+    "text" : "I fade away like an evening shadow; I am shaken off like a locust."
+  }, {
+    "verse" : "psalms,109,24",
+    "text" : "My knees give way from fasting; my body is thin and gaunt."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,109,21",
     "id" : 191257,
@@ -76,7 +148,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 109:21\">109:21</a></b> <b>for your name’s sake.</b> The psalmist appeals to God’s reputation (<a class=\"bibleref\" href=\"/passage/?search=Ps 8:1\">Ps. 8:1</a>). He belongs to God, and if he should die at the hand of the wicked, it will appear as if God can do nothing about evil.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,109,25" ],
+  "verses" : [ {
+    "verse" : "psalms,109,25",
+    "text" : "I am an object of scorn to my accusers; when they see me, they shake their heads."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,109,25",
     "id" : 191258,
@@ -84,7 +159,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 109:25\">109:25</a></b> <b>wag their heads.</b> In disgust.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,109,26", "psalms,109,27", "psalms,109,28", "psalms,109,29", "psalms,109,30" ],
+  "verses" : [ {
+    "verse" : "psalms,109,26",
+    "text" : "Help me, O LORD my God; save me in accordance with your love."
+  }, {
+    "verse" : "psalms,109,27",
+    "text" : "Let them know that it is your hand, that you, O LORD, have done it."
+  }, {
+    "verse" : "psalms,109,28",
+    "text" : "They may curse, but you will bless; when they attack they will be put to shame, but your servant will rejoice."
+  }, {
+    "verse" : "psalms,109,29",
+    "text" : "My accusers will be clothed with disgrace and wrapped in shame as in a cloak."
+  }, {
+    "verse" : "psalms,109,30",
+    "text" : "With my mouth I will greatly extol the LORD; in the great throng I will praise him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,109,26",
     "id" : 191259,
@@ -92,7 +182,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 109:26\">109:26</a></b> <b>according to your steadfast love.</b> The Hebrew word for “steadfast love” refers salvation to God’s covenant faithfulness.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,109,31" ],
+  "verses" : [ {
+    "verse" : "psalms,109,31",
+    "text" : "For he stands at the right hand of the needy one, to save his life from those who condemn him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,109,31",
     "id" : 191260,

@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "mark,7,24", "mark,7,25" ],
+  "verses" : [ {
+    "verse" : "mark,7,24",
+    "text" : "Jesus left that place and went to the vicinity of Tyre. He entered a house and did not want anyone to know it; yet he could not keep his presence secret."
+  }, {
+    "verse" : "mark,7,25",
+    "text" : "In fact, as soon as she heard about him, a woman whose little daughter was possessed by an evil spirit came and fell at his feet."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,7,24",
     "id" : 196092,
@@ -7,7 +13,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 7:24\">7:24</a></b> <b>Tyre.</b> Jesus moves north into a markedly Gentile region (cf. <a class=\"bibleref\" href=\"/passage/?search=Matt 11:21\">Matt. 11:21</a>, <a class=\"bibleref\" href=\"/passage/?search=Matt 11:22\">22</a>), to the vicinity of the ancient Phoenician port city of Tyre (in modern Lebanon).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,7,26" ],
+  "verses" : [ {
+    "verse" : "mark,7,26",
+    "text" : "The woman was a Greek, born in Syrian Phoenicia. She begged Jesus to drive the demon out of her daughter."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,7,26",
     "id" : 196093,
@@ -15,7 +24,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 7:26\">7:26</a></b> <b>Gentile.</b> She was of Syrian descent but spoke Greek.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,7,27", "mark,7,28", "mark,7,29", "mark,7,30" ],
+  "verses" : [ {
+    "verse" : "mark,7,27",
+    "text" : "\"First let the children eat all they want,\" he told her, \"for it is not right to take the children's bread and toss it to their dogs.\""
+  }, {
+    "verse" : "mark,7,28",
+    "text" : "\"Yes, Lord,\" she replied, \"but even the dogs under the table eat the children's crumbs.\""
+  }, {
+    "verse" : "mark,7,29",
+    "text" : "Then he told her, \"For such a reply, you may go; the demon has left your daughter.\""
+  }, {
+    "verse" : "mark,7,30",
+    "text" : "She went home and found her child lying on the bed, and the demon gone."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,7,27",
     "id" : 196094,
@@ -23,7 +44,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 7:27\">7:27</a></b> <b>first.</b> Though in Gentile territory, Jesus maintains the temporal priority of Israel (“the children”) in the divine plan of salvation, as Paul does later (<a class=\"bibleref\" href=\"/passage/?search=Rom 1:16\">Rom. 1:16</a>; <a class=\"bibleref\" href=\"/passage/?search=Rom 2:10\">2:10</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Acts 1:8\">Acts 1:8</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 13:46\">13:46</a>, <a class=\"bibleref\" href=\"/passage/?search=Acts 13:47\">47</a>).</p><p><b>dogs.</b> The term is certainly derogatory (<a class=\"bibleref\" href=\"/passage/?search=Matt 7:6\">Matt. 7:6</a>; <a class=\"bibleref\" href=\"/passage/?search=Phil 3:2\">Phil. 3:2</a>; <a class=\"bibleref\" href=\"/passage/?search=Rev 22:15\">Rev. 22:15</a>), though the Greek word includes the nuance “little dogs” or “pets.” It should be seen as an example of Jesus’ colorful imagery of table fellowship to explain the plan of salvation, namely, that “salvation is from the Jews” (<a class=\"bibleref\" href=\"/passage/?search=John 4:22\">John 4:22</a>). The woman takes it in this sense, as her reply indicates.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,7,31", "mark,7,32" ],
+  "verses" : [ {
+    "verse" : "mark,7,31",
+    "text" : "Then Jesus left the vicinity of Tyre and went through Sidon, down to the Sea of Galilee and into the region of the Decapolis."
+  }, {
+    "verse" : "mark,7,32",
+    "text" : "There some people brought to him a man who was deaf and could hardly talk, and they begged him to place his hand on the man."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,7,31",
     "id" : 196095,
@@ -31,7 +58,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 7:31\">7:31</a></b> <b>Decapolis.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Mark 5:1\">5:1</a>. Jesus remains in Gentile territory, first going north to Sidon and then southeast to the Decapolis.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,7,33" ],
+  "verses" : [ {
+    "verse" : "mark,7,33",
+    "text" : "After he took him aside, away from the crowd, Jesus put his fingers into the man's ears. Then he spit and touched the man's tongue."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,7,33",
     "id" : 196096,
@@ -39,7 +69,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 7:33\">7:33</a></b> <b>put his fingers into his ears.</b> These physical actions accompany the miracle of healing, but are not its cause.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,7,34" ],
+  "verses" : [ {
+    "verse" : "mark,7,34",
+    "text" : "He looked up to heaven and with a deep sigh said to him, \"Ephphatha!\" (which means, \"Be opened!\" )."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,7,34",
     "id" : 196097,
@@ -47,7 +80,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 7:34\">7:34</a></b> <b>Ephphatha.</b> An Aramaic word which Mark again translates for his Greek-speaking readers (<a class=\"bibleref\" href=\"/passage/?search=Mark 5:41\">5:41</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,7,35" ],
+  "verses" : [ {
+    "verse" : "mark,7,35",
+    "text" : "At this, the man's ears were opened, his tongue was loosened and he began to speak plainly."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,7,35",
     "id" : 196098,
@@ -55,7 +91,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 7:35\">7:35</a></b> <b>spoke plainly.</b> For a deaf person, clearly expressed spoken language must usually be learned over a period of time.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,7,36", "mark,7,37" ],
+  "verses" : [ {
+    "verse" : "mark,7,36",
+    "text" : "Jesus commanded them not to tell anyone. But the more he did so, the more they kept talking about it."
+  }, {
+    "verse" : "mark,7,37",
+    "text" : "People were overwhelmed with amazement. \"He has done everything well,\" they said. \"He even makes the deaf hear and the mute speak.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,7,36",
     "id" : 196099,
@@ -63,7 +105,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 7:36\">7:36</a></b> <b>tell no one.</b> Regarding Jesus’ command of secrecy, see notes <a class=\"bibleref\" href=\"/passage/?search=Mark 1:34\">1:34</a> and <a class=\"bibleref\" href=\"/passage/?search=Mark 5:19\">5:19</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,8,1" ],
+  "verses" : [ {
+    "verse" : "mark,8,1",
+    "text" : "During those days another large crowd gathered. Since they had nothing to eat, Jesus called his disciples to him and said,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,8,1-mark,8,10",
     "id" : 196100,
@@ -71,7 +116,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 8:1-Mark 8:10\">8:1–10</a></b> A second miraculous feeding. Jesus later points to deep theological significance in the two feedings (<a class=\"bibleref\" href=\"/passage/?search=Mark 8:18-Mark 8:21\">8:18–21</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,8,2", "mark,8,3" ],
+  "verses" : [ {
+    "verse" : "mark,8,2",
+    "text" : "\"I have compassion for these people; they have already been with me three days and have nothing to eat."
+  }, {
+    "verse" : "mark,8,3",
+    "text" : "If I send them home hungry, they will collapse on the way, because some of them have come a long distance.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,8,2",
     "id" : 196101,
@@ -79,7 +130,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 8:2\">8:2</a></b> <b>I have compassion.</b> Since this feeding probably took place in the Decapolis (<a class=\"bibleref\" href=\"/passage/?search=Mark 7:31\">7:31</a>), it is evident that Jesus extends His compassion from the lost sheep of the house of Israel (<a class=\"bibleref\" href=\"/passage/?search=Mark 6:34\">6:34</a>) to the Gentiles, as His healing of the Syrophoenician woman’s daughter (<a class=\"bibleref\" href=\"/passage/?search=Mark 7:24-Mark 7:30\">7:24–30</a>) and His ministry in Gentile territory (<a class=\"bibleref\" href=\"/passage/?search=Mark 7:31-Mark 7:37\">7:31–37</a>) would suggest. By His actions Jesus announces the world-wide mission of the future church.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,8,4", "mark,8,5", "mark,8,6", "mark,8,7", "mark,8,8", "mark,8,9" ],
+  "verses" : [ {
+    "verse" : "mark,8,4",
+    "text" : "His disciples answered, \"But where in this remote place can anyone get enough bread to feed them?\""
+  }, {
+    "verse" : "mark,8,5",
+    "text" : "\"How many loaves do you have?\" Jesus asked. \"Seven,\" they replied."
+  }, {
+    "verse" : "mark,8,6",
+    "text" : "He told the crowd to sit down on the ground. When he had taken the seven loaves and given thanks, he broke them and gave them to his disciples to set before the people, and they did so."
+  }, {
+    "verse" : "mark,8,7",
+    "text" : "They had a few small fish as well; he gave thanks for them also and told the disciples to distribute them."
+  }, {
+    "verse" : "mark,8,8",
+    "text" : "The people ate and were satisfied. Afterward the disciples picked up seven basketfuls of broken pieces that were left over."
+  }, {
+    "verse" : "mark,8,9",
+    "text" : "About four thousand men were present. And having sent them away,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,8,4",
     "id" : 196102,
@@ -87,7 +156,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 8:4\">8:4</a></b> <b>this desolate place.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Mark 1:4\">1:4</a>. The disciples’ question, in view of what Jesus had previously done in similar circumstances, justifies Jesus’ reproach in <a class=\"bibleref\" href=\"/passage/?search=Mark 1:17\">vv. 17</a>, <a class=\"bibleref\" href=\"/passage/?search=Mark 1:18\">18</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,8,10" ],
+  "verses" : [ {
+    "verse" : "mark,8,10",
+    "text" : "he got into the boat with his disciples and went to the region of Dalmanutha."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,8,10",
     "id" : 196103,

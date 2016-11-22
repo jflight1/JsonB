@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "1samuel,10,1" ],
+  "verses" : [ {
+    "verse" : "1samuel,10,1",
+    "text" : "Then Samuel took a flask of oil and poured it on Saul's head and kissed him, saying, \"Has not the LORD anointed you leader over his inheritance?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,10,1",
     "id" : 187429,
@@ -7,7 +10,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 10:1\">10:1</a></b> <b>anointed you to be prince.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Sam 9:16\">9:16</a>.</p><p><b>his heritage.</b> See <a class=\"bibleref\" href=\"/passage/?search=1Sam 9:16\">9:16</a> (“my people Israel”); <a class=\"bibleref\" href=\"/passage/?search=2Sam 20:19\">2 Sam. 20:19</a> and note; <a class=\"bibleref\" href=\"/passage/?search=Deut 32:9\">Deut. 32:9</a>. The Lord’s willingness to grant the people a human king does not mean that He forfeited His rule over His own people, Israel. The appointed king was always subordinate to God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,10,2", "1samuel,10,3", "1samuel,10,4" ],
+  "verses" : [ {
+    "verse" : "1samuel,10,2",
+    "text" : "When you leave me today, you will meet two men near Rachel's tomb, at Zelzah on the border of Benjamin. They will say to you, 'The donkeys you set out to look for have been found. And now your father has stopped thinking about them and is worried about you. He is asking, \"What shall I do about my son?\"'"
+  }, {
+    "verse" : "1samuel,10,3",
+    "text" : "\"Then you will go on from there until you reach the great tree of Tabor. Three men going up to God at Bethel will meet you there. One will be carrying three young goats, another three loaves of bread, and another a skin of wine."
+  }, {
+    "verse" : "1samuel,10,4",
+    "text" : "They will greet you and offer you two loaves of bread, which you will accept from them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,10,2-1samuel,10,6",
     "id" : 187430,
@@ -15,7 +27,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 10:2-1Sam 10:6\">10:2–6</a></b> Samuel’s words will be confirmed to Saul as the sequence of events comes to pass in the order foretold. Finally, Saul will come under the power of the Spirit (<a class=\"bibleref\" href=\"/passage/?search=1Sam 10:5\">vv. 5</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 10:6\">6</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,10,5" ],
+  "verses" : [ {
+    "verse" : "1samuel,10,5",
+    "text" : "\"After that you will go to Gibeah of God, where there is a Philistine outpost. As you approach the town, you will meet a procession of prophets coming down from the high place with lyres, tambourines, flutes and harps being played before them, and they will be prophesying."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,10,5",
     "id" : 187431,
@@ -23,7 +38,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 10:5\">10:5 a</a></b> <b>garrison of the Philistines.</b> The mention of a Philistine garrison foreshadows the task ahead for the one designated to deliver the people of God from the Philistines (<a class=\"bibleref\" href=\"/passage/?search=1Sam 9:16\">9:16</a>). On the stationing of garrisons in subject territories, see David’s practice in <a class=\"bibleref\" href=\"/passage/?search=2Sam 8:6\">2 Sam. 8:6</a>.</p><p><b>group of prophets.</b> Samuel is associated with a group of prophets in 19:20, where he is described as their leader. Note the similar association of Elisha with the “sons of the prophets” in <a class=\"bibleref\" href=\"/passage/?search=2Kgs 2\">2 Kin. 2</a>; <a class=\"bibleref\" href=\"/passage/?search=2Kgs 6:1\">6:1</a>; <a class=\"bibleref\" href=\"/passage/?search=2Kgs 9:1\">9:1</a>; etc. These prophetic guilds appear to have been made up of defenders of true religion in times of widespread apostasy and spiritual indifference.</p><p><b>prophesying.</b> Prophecy in the Old Testament is often, though not exclusively, associated with the giving of a message (see Aaron’s role as Moses’ “prophet” or spokesman in <a class=\"bibleref\" href=\"/passage/?search=Exod 7:1\">Ex. 7:1</a>; and compare <a class=\"bibleref\" href=\"/passage/?search=Ezek 21:9\">Ezek. 21:9</a>; <a class=\"bibleref\" href=\"/passage/?search=Amos 3:8\">Amos 3:8</a>). God’s prophets were His messengers (<a class=\"bibleref\" href=\"/passage/?search=2Sam 7:1-2Sam 7:5\">2 Sam. 7:1–5</a>; <a class=\"bibleref\" href=\"/passage/?search=2Sam 12:1\">12:1</a>; <a class=\"bibleref\" href=\"/passage/?search=2Sam 24:11-2Sam 24:12\">24:11–12</a>). In some places, prophecy is associated with music (<a class=\"bibleref\" href=\"/passage/?search=Exod 15:20\">Ex. 15:20</a>, <a class=\"bibleref\" href=\"/passage/?search=Exod 15:21\">21</a>; <a class=\"bibleref\" href=\"/passage/?search=1Chr 25:1\">1 Chr. 25:1</a>). The prophesying in view here seems to be praising God and exhorting the people with musical accompaniment.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,10,6" ],
+  "verses" : [ {
+    "verse" : "1samuel,10,6",
+    "text" : "The Spirit of the LORD will come upon you in power, and you will prophesy with them; and you will be changed into a different person."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,10,6",
     "id" : 187432,
@@ -31,7 +49,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 10:6\">10:6</a></b> <b>Spirit of the <span class=\"small-caps\">Lord</span> will rush upon you.</b> See <a class=\"bibleref\" href=\"/passage/?search=1Sam 10:10\">v. 10</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 11:6\">11:6</a> note. The activity of the Spirit with Samson is expressed in identical terms (<a class=\"bibleref\" href=\"/passage/?search=Judg 14:6\">Judg. 14:6</a>, <a class=\"bibleref\" href=\"/passage/?search=Judg 14:19\">19</a>; <a class=\"bibleref\" href=\"/passage/?search=Judg 15:14\">15:14</a>). Whereas the Spirit was ultimately withdrawn from Saul (cf. 16:14; 18:10), David’s endowment with the Spirit was permanent (16:13). Frequently in the Old Testament the bestowal of the Spirit is an empowerment by God of an individual for a particular task. Conversely, God can send a lying spirit (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 22:23\">1 Kin. 22:23</a>) or an evil (“distressing”) spirit (16:14–16, 23; 18:10; 19:9; <a class=\"bibleref\" href=\"/passage/?search=Judg 9:23\">Judg. 9:23</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,10,7" ],
+  "verses" : [ {
+    "verse" : "1samuel,10,7",
+    "text" : "Once these signs are fulfilled, do whatever your hand finds to do, for God is with you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,10,7",
     "id" : 187433,
@@ -39,7 +60,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 10:7\">10:7</a></b> <b>do what your hand finds to do.</b> In the light of Saul’s general commission to deliver Israel from the Philistines (<a class=\"bibleref\" href=\"/passage/?search=1Sam 9:16\">9:16</a>) and of Samuel’s specific mention of a visible symbol of Philistine domination at the site of the third and final sign (<a class=\"bibleref\" href=\"/passage/?search=1Sam 9:5\">v. 5</a>), Samuel’s words could be taken to imply that Saul should respond to his anointing by attacking the Philistine outpost. In the event, this possibility is not realized. Samuel’s words can also be interpreted as an encouragement for Saul to submit to the prophetic influence mentioned in <a class=\"bibleref\" href=\"/passage/?search=1Sam 9:6\">v. 6</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,10,8" ],
+  "verses" : [ {
+    "verse" : "1samuel,10,8",
+    "text" : "\"Go down ahead of me to Gilgal. I will surely come down to you to sacrifice burnt offerings and fellowship offerings, but you must wait seven days until I come to you and tell you what you are to do.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,10,8",
     "id" : 187434,
@@ -47,7 +71,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 10:8\">10:8</a></b> <b>go down before me to Gilgal.</b> When Saul has done what his “hand finds to do,” he is to meet Samuel in Gilgal, so the latter can offer sacrifices and give Saul further instructions.</p><p><b>burnt offerings.</b> A full description of the ritual of the burnt offering can be found in <a class=\"bibleref\" href=\"/passage/?search=Lev 1:3-Lev 1:17\">Lev. 1:3–17</a>. Burnt offerings are also mentioned in 6:14, 15; 7:9, 10; 13:9, 12; 15:22; <a class=\"bibleref\" href=\"/passage/?search=2Sam 6:17\">2 Sam. 6:17</a>, <a class=\"bibleref\" href=\"/passage/?search=2Sam 6:18\">18</a>; <a class=\"bibleref\" href=\"/passage/?search=2Sam 24:22-2Sam 24:25\">24:22–25</a>.</p><p><b>peace offerings.</b> The peace offering is described in <a class=\"bibleref\" href=\"/passage/?search=Lev 3\">Lev. 3</a> and is first mentioned in <a class=\"bibleref\" href=\"/passage/?search=Exod 20:24\">Ex. 20:24</a>. Other references in Samuel to peace offerings are 11:15; 13:9; <a class=\"bibleref\" href=\"/passage/?search=2Sam 6:17\">2 Sam. 6:17</a>, <a class=\"bibleref\" href=\"/passage/?search=2Sam 6:18\">18</a>; <a class=\"bibleref\" href=\"/passage/?search=2Sam 24:25\">24:25</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,10,9", "1samuel,10,10" ],
+  "verses" : [ {
+    "verse" : "1samuel,10,9",
+    "text" : "As Saul turned to leave Samuel, God changed Saul's heart, and all these signs were fulfilled that day."
+  }, {
+    "verse" : "1samuel,10,10",
+    "text" : "When they arrived at Gibeah, a procession of prophets met him; the Spirit of God came upon him in power, and he joined in their prophesying."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,10,9",
     "id" : 187435,
@@ -55,7 +85,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 10:9\">10:9</a></b> <b>God gave him another heart.</b> The language is similar to <a class=\"bibleref\" href=\"/passage/?search=Ezek 11:19\">Ezek. 11:19</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 36:26\">36:26</a>, if not <a class=\"bibleref\" href=\"/passage/?search=John 3:3\">John 3:3</a> (see also <a class=\"bibleref\" href=\"/passage/?search=Jer 31:31\">Jer. 31:31</a>). But it is difficult to say what Saul’s experience was precisely.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,10,11" ],
+  "verses" : [ {
+    "verse" : "1samuel,10,11",
+    "text" : "When all those who had formerly known him saw him prophesying with the prophets, they asked each other, \"What is this that has happened to the son of Kish? Is Saul also among the prophets?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,10,11",
     "id" : 187436,
@@ -63,7 +96,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 10:11\">10:11</a></b> <b>Is Saul also among the prophets.</b> Or, “Is even Saul among the prophets?” The proverb (<a class=\"bibleref\" href=\"/passage/?search=1Sam 10:12\">v. 12</a>) expresses surprise at something very improbable. The onlookers who knew Saul are surprised to find him associating with religious enthusiasts.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,10,12", "1samuel,10,13" ],
+  "verses" : [ {
+    "verse" : "1samuel,10,12",
+    "text" : "A man who lived there answered, \"And who is their father?\" So it became a saying: \"Is Saul also among the prophets?\""
+  }, {
+    "verse" : "1samuel,10,13",
+    "text" : "After Saul stopped prophesying, he went to the high place."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,10,12",
     "id" : 187437,
@@ -71,7 +110,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 10:12\">10:12</a></b> <b>who is their father.</b> Since leaders of prophetic guilds were sometimes called “father” (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 2:12\">2 Kin. 2:12</a>; <a class=\"bibleref\" href=\"/passage/?search=2Kgs 6:21\">6:21</a>), this question might be asking for the leader of this particular guild. If, on the other hand, the onlookers are contemptuous of prophecy, their surprise might be that a man like Saul, of good family and social standing, would associate with such “mad fellows” (cf. <a class=\"bibleref\" href=\"/passage/?search=2Kgs 9:11\">2 Kin. 9:11</a>), whose fathers were inferior to his. Still another possibility is that the question means that the “Father” or origin of the prophetic band does not follow normal rules, and Saul, unlikely as it may seem, has found a place with them. See “Prophets” at <a class=\"bibleref\" href=\"/passage/?search=Deut 18:18\">Deut. 18:18</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,10,14", "1samuel,10,15", "1samuel,10,16" ],
+  "verses" : [ {
+    "verse" : "1samuel,10,14",
+    "text" : "Now Saul's uncle asked him and his servant, \"Where have you been?Looking for the donkeys,\" he said. \"But when we saw they were not to be found, we went to Samuel.\""
+  }, {
+    "verse" : "1samuel,10,15",
+    "text" : "Saul's uncle said, \"Tell me what Samuel said to you.\""
+  }, {
+    "verse" : "1samuel,10,16",
+    "text" : "Saul replied, \"He assured us that the donkeys had been found.\" But he did not tell his uncle what Samuel had said about the kingship."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,10,14-1samuel,10,16",
     "id" : 187438,
@@ -79,7 +127,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 10:14-1Sam 10:16\">10:14–16</a></b> The significance of this conversation has long puzzled commentators. Some have understood Saul’s reluctance to mention the kingship (<a class=\"bibleref\" href=\"/passage/?search=1Sam 10:16\">v. 16</a>) as a sign of humility.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,10,17", "1samuel,10,18", "1samuel,10,19" ],
+  "verses" : [ {
+    "verse" : "1samuel,10,17",
+    "text" : "Samuel summoned the people of Israel to the LORD at Mizpah"
+  }, {
+    "verse" : "1samuel,10,18",
+    "text" : "and said to them, \"This is what the LORD, the God of Israel, says: 'I brought Israel up out of Egypt, and I delivered you from the power of Egypt and all the kingdoms that oppressed you.'"
+  }, {
+    "verse" : "1samuel,10,19",
+    "text" : "But you have now rejected your God, who saves you out of all your calamities and distresses. And you have said, 'No, set a king over us.' So now present yourselves before the LORD by your tribes and clans.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,10,17",
     "id" : 187439,
@@ -87,7 +144,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 10:17\">10:17</a></b> <b>Samuel called the people.</b> The Lord’s choice of Saul is now made public at Mizpah, apparently through casting a lot or using the Urim and Thummim (<a class=\"bibleref\" href=\"/passage/?search=1Sam 10:20\">v. 20</a> and note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,10,20", "1samuel,10,21" ],
+  "verses" : [ {
+    "verse" : "1samuel,10,20",
+    "text" : "When Samuel brought all the tribes of Israel near, the tribe of Benjamin was chosen."
+  }, {
+    "verse" : "1samuel,10,21",
+    "text" : "Then he brought forward the tribe of Benjamin, clan by clan, and Matri's clan was chosen. Finally Saul son of Kish was chosen. But when they looked for him, he was not to be found."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,10,20",
     "id" : 187440,
@@ -95,7 +158,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 10:20\">10:20</a></b> <b>Benjamin was taken.</b> Casting lots was probably the method of selection (cf. <a class=\"bibleref\" href=\"/passage/?search=Lev 16:8-Lev 16:10\">Lev. 16:8–10</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 26:55\">Num. 26:55</a>), and it may have involved the Urim and Thummim (2:28; <a class=\"bibleref\" href=\"/passage/?search=Exod 28:30\">Ex. 28:30</a> note; <a class=\"bibleref\" href=\"/passage/?search=Num 27:21\">Num. 27:21</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 33:8\">Deut. 33:8</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,10,22", "1samuel,10,23", "1samuel,10,24" ],
+  "verses" : [ {
+    "verse" : "1samuel,10,22",
+    "text" : "So they inquired further of the LORD, \"Has the man come here yet?\" And the LORD said, \"Yes, he has hidden himself among the baggage.\""
+  }, {
+    "verse" : "1samuel,10,23",
+    "text" : "They ran and brought him out, and as he stood among the people he was a head taller than any of the others."
+  }, {
+    "verse" : "1samuel,10,24",
+    "text" : "Samuel said to all the people, \"Do you see the man the LORD has chosen? There is no one like him among all the people.\" Then the people shouted, \"Long live the king!\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,10,22",
     "id" : 187441,
@@ -103,7 +175,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 10:22\">10:22</a></b> <b>hidden himself among the baggage.</b> The Lord singles out Saul even though he is not immediately present. Something similar occurs with David (<a class=\"bibleref\" href=\"/passage/?search=1Sam 16:11\">16:11</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,10,25", "1samuel,10,26" ],
+  "verses" : [ {
+    "verse" : "1samuel,10,25",
+    "text" : "Samuel explained to the people the regulations of the kingship. He wrote them down on a scroll and deposited it before the LORD. Then Samuel dismissed the people, each to his own home."
+  }, {
+    "verse" : "1samuel,10,26",
+    "text" : "Saul also went to his home in Gibeah, accompanied by valiant men whose hearts God had touched."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,10,25",
     "id" : 187442,
@@ -111,7 +189,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 10:25\">10:25</a></b> <b>rights and duties of the kingship.</b> A similar expression in <a class=\"bibleref\" href=\"/passage/?search=1Sam 8:9-1Sam 8:11\">8:9–11</a> refers to the negative consequences of having a king. Here it means the regulations that a king must follow (<a class=\"bibleref\" href=\"/passage/?search=Deut 17:14-Deut 17:20\">Deut. 17:14–20</a>; <a class=\"bibleref\" href=\"/passage/?search=2Kgs 11:12\">2 Kin. 11:12</a> note).</p><p><b>laid it up before the <span class=\"small-caps\">Lord</span>.</b> See <a class=\"bibleref\" href=\"/passage/?search=Deut 31:26\">Deut. 31:26</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 24:26\">Josh. 24:26</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,10,27" ],
+  "verses" : [ {
+    "verse" : "1samuel,10,27",
+    "text" : "But some troublemakers said, \"How can this fellow save us?\" They despised him and brought him no gifts. But Saul kept silent."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,10,27",
     "id" : 187443,
@@ -119,7 +200,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 10:27\">10:27</a></b> <b>How can this man save us.</b> Those who pose this question are “rebels” because they call into question the Lord’s process of selection.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,11,1" ],
+  "verses" : [ {
+    "verse" : "1samuel,11,1",
+    "text" : "Nahash the Ammonite went up and besieged Jabesh Gilead. And all the men of Jabesh said to him, \"Make a treaty with us, and we will be subject to you.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,11,1",
     "id" : 187444,
@@ -127,7 +211,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 11:1\">11:1</a></b> <b>Nahash the Ammonite.</b> Descended from Lot, the Ammonites were a Semitic people (<a class=\"bibleref\" href=\"/passage/?search=Gen 19:38\">Gen. 19:38</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 2:19\">Deut. 2:19</a>) whose kingdom was on the east side of the Jordan, south of the Jabbok River. While Ammon was sometimes on friendly terms with Israel (<a class=\"bibleref\" href=\"/passage/?search=2Sam 10:2\">2 Sam. 10:2</a>), the Ammonites often exerted pressure on Israel’s eastern border (<a class=\"bibleref\" href=\"/passage/?search=Judg 3:13\">Judg. 3:13</a>; <a class=\"bibleref\" href=\"/passage/?search=Judg 11:4-Judg 11:32\">11:4–32</a>), as the Philistines did on the west. According to the Dead Sea Scrolls and Josephus (<i>Antiquities</i> 6.5.1), the siege of Jabesh-gilead was part of a larger campaign by Nahash.</p><p><b>Jabesh-gilead.</b> A principal city in what was probably the territory of Gad, Jabesh-gilead was east of the Jordan River, twenty-two miles south of the Sea of Chinnereth (Galilee).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,11,2" ],
+  "verses" : [ {
+    "verse" : "1samuel,11,2",
+    "text" : "But Nahash the Ammonite replied, \"I will make a treaty with you only on the condition that I gouge out the right eye of every one of you and so bring disgrace on all Israel.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,11,2",
     "id" : 187445,
@@ -135,7 +222,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 11:2\">11:2</a></b> <b>gouge out all your right eyes.</b> While the stated reason for such treatment is to “bring disgrace on all Israel,” Josephus (<i>Antiquities</i> 6.5.1) remarks that the loss of the right eye would have made military service impossible, since the sight of the left eye would be hindered by the shield.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,11,3", "1samuel,11,4", "1samuel,11,5" ],
+  "verses" : [ {
+    "verse" : "1samuel,11,3",
+    "text" : "The elders of Jabesh said to him, \"Give us seven days so we can send messengers throughout Israel; if no one comes to rescue us, we will surrender to you.\""
+  }, {
+    "verse" : "1samuel,11,4",
+    "text" : "When the messengers came to Gibeah of Saul and reported these terms to the people, they all wept aloud."
+  }, {
+    "verse" : "1samuel,11,5",
+    "text" : "Just then Saul was returning from the fields, behind his oxen, and he asked, \"What is wrong with the people? Why are they weeping?\" Then they repeated to him what the men of Jabesh had said."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,11,3",
     "id" : 187446,
@@ -143,7 +239,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 11:3\">11:3</a></b> <b>we will give ourselves up to you.</b> While the elders of Jabesh clearly intend Nahash to understand their words as a surrender, the Hebrew verb employed is often used in the sense of soldiers “going out” to battle (<a class=\"bibleref\" href=\"/passage/?search=1Sam 8:20\">8:20</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 18:30\">18:30</a>; <a class=\"bibleref\" href=\"/passage/?search=2Sam 18:2-2Sam 18:4\">2 Sam. 18:2–4</a>, <a class=\"bibleref\" href=\"/passage/?search=2Sam 18:6\">6</a>). When in v. 10 the men of Jabesh again promise to give up to the Ammonites, it is with some irony, because the Ammonites are still thinking of “surrender,” but the townspeople are planning to fight.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,11,6" ],
+  "verses" : [ {
+    "verse" : "1samuel,11,6",
+    "text" : "When Saul heard their words, the Spirit of God came upon him in power, and he burned with anger."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,11,6",
     "id" : 187447,
@@ -151,7 +250,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 11:6\">11:6</a></b> <b>Spirit of God rushed upon Saul.</b> The phrase recalls the activity of the Spirit with Samson (<a class=\"bibleref\" href=\"/passage/?search=1Sam 10:6\">10:6</a> note), except that here (as in <a class=\"bibleref\" href=\"/passage/?search=1Sam 10:10\">10:10</a>) “God” is used in place of the personal name “<span class=\"small-caps\">Lord</span>.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,11,7" ],
+  "verses" : [ {
+    "verse" : "1samuel,11,7",
+    "text" : "He took a pair of oxen, cut them into pieces, and sent the pieces by messengers throughout Israel, proclaiming, \"This is what will be done to the oxen of anyone who does not follow Saul and Samuel.\" Then the terror of the LORD fell on the people, and they turned out as one man."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,11,7",
     "id" : 187448,
@@ -159,7 +261,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 11:7\">11:7</a></b> <b>cut them in pieces.</b> Saul’s action roughly parallels that of the Levite in <a class=\"bibleref\" href=\"/passage/?search=Judg 19\">Judg. 19</a>. The Levite’s sin was notorious and the comparison would not be at all complimentary.</p><p><b>and Samuel.</b> See notes 10:1, 7, 8.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,11,8", "1samuel,11,9" ],
+  "verses" : [ {
+    "verse" : "1samuel,11,8",
+    "text" : "When Saul mustered them at Bezek, the men of Israel numbered three hundred thousand and the men of Judah thirty thousand."
+  }, {
+    "verse" : "1samuel,11,9",
+    "text" : "They told the messengers who had come, \"Say to the men of Jabesh Gilead, 'By the time the sun is hot tomorrow, you will be delivered.'\" When the messengers went and reported this to the men of Jabesh, they were elated."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,11,8",
     "id" : 187449,
@@ -167,7 +275,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 11:8\">11:8</a></b> <b>Bezek.</b> Located nine miles west of the Jordan River, opposite Jabesh-gilead.</p><p><b>people of Israel . . . men of Judah.</b> Even before the division of the kingdom (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 12\">1 Kin. 12</a>), a distinction was often made between the northern and southern tribes (17:52; 18:16; <a class=\"bibleref\" href=\"/passage/?search=2Sam 2:10\">2 Sam. 2:10</a>; <a class=\"bibleref\" href=\"/passage/?search=2Sam 3:10\">3:10</a>; <a class=\"bibleref\" href=\"/passage/?search=2Sam 5:5\">5:5</a>; <a class=\"bibleref\" href=\"/passage/?search=2Sam 11:11\">11:11</a>; <a class=\"bibleref\" href=\"/passage/?search=2Sam 12:8\">12:8</a>; <a class=\"bibleref\" href=\"/passage/?search=2Sam 19:11\">19:11</a>, <a class=\"bibleref\" href=\"/passage/?search=2Sam 19:40-2Sam 19:43\">40–43</a>; <a class=\"bibleref\" href=\"/passage/?search=2Sam 20:2\">20:2</a>; <a class=\"bibleref\" href=\"/passage/?search=2Sam 21:2\">21:2</a>; <a class=\"bibleref\" href=\"/passage/?search=2Sam 24:1\">24:1</a>, <a class=\"bibleref\" href=\"/passage/?search=2Sam 24:9\">9</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,11,10" ],
+  "verses" : [ {
+    "verse" : "1samuel,11,10",
+    "text" : "They said to the Ammonites, \"Tomorrow we will surrender to you, and you can do to us whatever seems good to you.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,11,10",
     "id" : 187450,
@@ -175,7 +286,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 11:10\">11:10</a></b> <b>we will give ourselves up to you.</b> See note on <a class=\"bibleref\" href=\"/passage/?search=1Sam 11:3\">v. 3</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,11,11" ],
+  "verses" : [ {
+    "verse" : "1samuel,11,11",
+    "text" : "The next day Saul separated his men into three divisions; during the last watch of the night they broke into the camp of the Ammonites and slaughtered them until the heat of the day. Those who survived were scattered, so that no two of them were left together."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,11,11",
     "id" : 187451,
@@ -183,7 +297,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 11:11\">11:11</a></b> <b>three companies.</b> See <a class=\"bibleref\" href=\"/passage/?search=1Sam 13:17\">13:17</a>; <a class=\"bibleref\" href=\"/passage/?search=Judg 7:16\">Judg. 7:16</a>; <a class=\"bibleref\" href=\"/passage/?search=Judg 9:43\">9:43</a>; <a class=\"bibleref\" href=\"/passage/?search=2Sam 18:2\">2 Sam. 18:2</a>.</p><p><b>in the morning watch.</b> Between 2:00 and 6:00 <span class=\"small-caps\">a.m.</span>, taking advantage of the cover of darkness.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,11,12" ],
+  "verses" : [ {
+    "verse" : "1samuel,11,12",
+    "text" : "The people then said to Samuel, \"Who was it that asked, 'Shall Saul reign over us?' Bring these men to us and we will put them to death.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,11,12",
     "id" : 187452,
@@ -191,7 +308,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 11:12\">11:12</a></b> <b>Bring the men.</b> The reference includes, but may not be limited to, the “worthless fellows” of <a class=\"bibleref\" href=\"/passage/?search=1Sam 10:27\">10:27</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,11,13" ],
+  "verses" : [ {
+    "verse" : "1samuel,11,13",
+    "text" : "But Saul said, \"No one shall be put to death today, for this day the LORD has rescued Israel.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,11,13",
     "id" : 187453,
@@ -199,7 +319,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 11:13\">11:13</a></b> <b>the <span class=\"small-caps\">Lord</span> has worked salvation in Israel.</b> Saul interrupts a question directed to Samuel with a confession that marks a high point in his own life. His amnesty or pardon of those “worthless fellows” (<a class=\"bibleref\" href=\"/passage/?search=1Sam 10:27\">10:27</a>) who rejected him can possibly be compared to his reluctance to kill Agag and the flocks of Amalek (<a class=\"bibleref\" href=\"/passage/?search=1Sam 15:9\">15:9</a>), if it is thought of as a failure to carry out the harsher aspects of a divine commission.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,11,14" ],
+  "verses" : [ {
+    "verse" : "1samuel,11,14",
+    "text" : "Then Samuel said to the people, \"Come, let us go to Gilgal and there reaffirm the kingship.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,11,14",
     "id" : 187454,
@@ -207,7 +330,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 11:14\">11:14</a></b> <b>let us go to Gilgal and there renew the kingdom.</b> On one level it is the process of Saul’s accession to the throne that can now be resumed (<a class=\"bibleref\" href=\"/passage/?search=1Sam 11:15\">v. 15</a> note), but on a deeper level it is the continued reign of the Lord that must be renewed (<a class=\"bibleref\" href=\"/passage/?search=1Sam 12\">ch. 12</a>).</p><p><b>Gilgal.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Sam 13:4\">13:4</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,11,15" ],
+  "verses" : [ {
+    "verse" : "1samuel,11,15",
+    "text" : "So all the people went to Gilgal and confirmed Saul as king in the presence of the LORD. There they sacrificed fellowship offerings before the LORD, and Saul and all the Israelites held a great celebration."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,11,15",
     "id" : 187455,

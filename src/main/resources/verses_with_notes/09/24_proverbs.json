@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,24,1" ],
+  "verses" : [ {
+    "verse" : "proverbs,24,1",
+    "text" : "Do not envy wicked men, do not desire their company;"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,22,17-proverbs,24,22",
     "id" : 192162,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 24:1\">24:1</a>, <a class=\"bibleref\" href=\"/passage/?search=Prov 24:2\">2</a></b> See <a class=\"bibleref\" href=\"/passage/?search=Prov 24:19\">v. 19</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,24,2" ],
+  "verses" : [ {
+    "verse" : "proverbs,24,2",
+    "text" : "for their hearts plot violence, and their lips talk about making trouble."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,24,2",
     "id" : 192203,

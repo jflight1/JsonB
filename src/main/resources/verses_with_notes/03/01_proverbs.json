@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,10,20" ],
+  "verses" : [ {
+    "verse" : "proverbs,10,20",
+    "text" : "The tongue of the righteous is choice silver, but the heart of the wicked is of little value."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -17,7 +20,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 10:20\">10:20</a></b> <b>heart.</b> Here the word is parallel with tongue. The mind, will, and inner character of the wicked are the source of futile words (<a class=\"bibleref\" href=\"/passage/?search=Matt 15:18\">Matt. 15:18</a>, <a class=\"bibleref\" href=\"/passage/?search=Matt 15:19\">19</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,10,21" ],
+  "verses" : [ {
+    "verse" : "proverbs,10,21",
+    "text" : "The lips of the righteous nourish many, but fools die for lack of judgment."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,21",
     "id" : 191862,

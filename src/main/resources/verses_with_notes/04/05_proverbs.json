@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,12,18" ],
+  "verses" : [ {
+    "verse" : "proverbs,12,18",
+    "text" : "Reckless words pierce like a sword, but the tongue of the wise brings healing."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

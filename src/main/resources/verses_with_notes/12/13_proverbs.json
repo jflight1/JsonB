@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "proverbs,29,24", "proverbs,29,25" ],
+  "verses" : [ {
+    "verse" : "proverbs,29,24",
+    "text" : "The accomplice of a thief is his own enemy; he is put under oath and dare not testify."
+  }, {
+    "verse" : "proverbs,29,25",
+    "text" : "Fear of man will prove to be a snare, but whoever trusts in the LORD is kept safe."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,29,24",
     "id" : 192334,

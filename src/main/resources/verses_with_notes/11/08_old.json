@@ -1,5 +1,20 @@
 [ {
-  "singleVerses" : [ "ezekiel,18,1", "ezekiel,18,2", "ezekiel,18,3", "ezekiel,18,4", "ezekiel,18,5" ],
+  "verses" : [ {
+    "verse" : "ezekiel,18,1",
+    "text" : "The word of the LORD came to me:"
+  }, {
+    "verse" : "ezekiel,18,2",
+    "text" : "\"What do you people mean by quoting this proverb about the land of Israel: \"'The fathers eat sour grapes, and the children's teeth are set on edge'?"
+  }, {
+    "verse" : "ezekiel,18,3",
+    "text" : "\"As surely as I live, declares the Sovereign LORD, you will no longer quote this proverb in Israel."
+  }, {
+    "verse" : "ezekiel,18,4",
+    "text" : "For every living soul belongs to me, the father as well as the son-both alike belong to me. The soul who sins is the one who will die."
+  }, {
+    "verse" : "ezekiel,18,5",
+    "text" : "\"Suppose there is a righteous man who does what is just and right."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,18,1-ezekiel,18,32",
     "id" : 194279,
@@ -7,7 +22,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 18\">18:1–32</a></b> The Exile was not the result of the sins of a single generation. Rather, the continued disobedience of Israel through many generations, “since the day their fathers came out of Egypt, even to this day” (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 21:15\">2 Kin. 21:15</a>), finally brought judgment on Judah. The cumulative guilt of the nation was being judged by God in the events that led up to the destruction of Jerusalem. The response of the exiles was to question the justice of God. The popular proverb (v. 2; cf. <a class=\"bibleref\" href=\"/passage/?search=Jer 31:29\">Jer. 31:29</a>) in effect said, “It’s not our fault—we are being punished for what we did not do. Our fathers sinned, and we are the ones who are paying the price.” Ezekiel replies by emphasizing that God responds according to the acts of each individual and generation. The exiles cannot evade their guilt; they were suffering for their own sins as well.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,18,6" ],
+  "verses" : [ {
+    "verse" : "ezekiel,18,6",
+    "text" : "He does not eat at the mountain shrines or look to the idols of the house of Israel. He does not defile his neighbor's wife or lie with a woman during her period."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,18,6",
     "id" : 194280,
@@ -15,7 +33,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 18:6\">18:6</a></b> <b>not eat.</b> Eating at the mountain shrines would refer to sacrificial meals at the high places (<a class=\"bibleref\" href=\"/passage/?search=Ezek 6:13\">6:13</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 20:28\">20:28</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 22:9\">22:9</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Exod 32:5\">Ex. 32:5</a>, <a class=\"bibleref\" href=\"/passage/?search=Exod 32:6\">6</a>).</p><p><b>impurity.</b> The law prohibited sexual intercourse during a woman’s period (22:10; <a class=\"bibleref\" href=\"/passage/?search=Lev 15:16-Lev 15:33\">Lev. 15:16–33</a>; <a class=\"bibleref\" href=\"/passage/?search=Lev 18:19\">18:19</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,18,7", "ezekiel,18,8", "ezekiel,18,9" ],
+  "verses" : [ {
+    "verse" : "ezekiel,18,7",
+    "text" : "He does not oppress anyone, but returns what he took in pledge for a loan. He does not commit robbery but gives his food to the hungry and provides clothing for the naked."
+  }, {
+    "verse" : "ezekiel,18,8",
+    "text" : "He does not lend at usury or take excessive interest. He withholds his hand from doing wrong and judges fairly between man and man."
+  }, {
+    "verse" : "ezekiel,18,9",
+    "text" : "He follows my decrees and faithfully keeps my laws. That man is righteous; he will surely live, declares the Sovereign LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,18,7",
     "id" : 194281,
@@ -23,7 +50,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 18:7\">18:7</a></b> <b>pledge.</b> See <a class=\"bibleref\" href=\"/passage/?search=Ezek 18:12\">vv. 12</a>, <a class=\"bibleref\" href=\"/passage/?search=Ezek 18:16\">16</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 22:26\">Ex. 22:26</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 24:10-Deut 24:13\">Deut. 24:10–13</a>, <a class=\"bibleref\" href=\"/passage/?search=Deut 24:17\">17</a>; <a class=\"bibleref\" href=\"/passage/?search=Prov 20:16\">Prov. 20:16</a>; <a class=\"bibleref\" href=\"/passage/?search=Amos 2:8\">Amos 2:8</a>. An ostracon (a piece of broken pottery with writing on it) of the late seventh century <span class=\"small-caps\">b.c.</span> records the complaint of a field worker to a village official that his employer had taken his garment and kept it.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,18,10", "ezekiel,18,11", "ezekiel,18,12", "ezekiel,18,13" ],
+  "verses" : [ {
+    "verse" : "ezekiel,18,10",
+    "text" : "\"Suppose he has a violent son, who sheds blood or does any of these other things"
+  }, {
+    "verse" : "ezekiel,18,11",
+    "text" : "(though the father has done none of them): \"He eats at the mountain shrines. He defiles his neighbor's wife."
+  }, {
+    "verse" : "ezekiel,18,12",
+    "text" : "He oppresses the poor and needy. He commits robbery. He does not return what he took in pledge. He looks to the idols. He does detestable things."
+  }, {
+    "verse" : "ezekiel,18,13",
+    "text" : "He lends at usury and takes excessive interest. Will such a man live? He will not! Because he has done all these detestable things, he will surely be put to death and his blood will be on his own head."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,18,10",
     "id" : 194282,
@@ -31,7 +70,37 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 18:10\">18:10 a</a></b> <b>son who is violent.</b> Having a righteous father did not mean the unrighteous son would escape punishment for his sin.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,18,14", "ezekiel,18,15", "ezekiel,18,16", "ezekiel,18,17", "ezekiel,18,18", "ezekiel,18,19", "ezekiel,18,20", "ezekiel,18,21", "ezekiel,18,22", "ezekiel,18,23" ],
+  "verses" : [ {
+    "verse" : "ezekiel,18,14",
+    "text" : "\"But suppose this son has a son who sees all the sins his father commits, and though he sees them, he does not do such things:"
+  }, {
+    "verse" : "ezekiel,18,15",
+    "text" : "\"He does not eat at the mountain shrines or look to the idols of the house of Israel. He does not defile his neighbor's wife."
+  }, {
+    "verse" : "ezekiel,18,16",
+    "text" : "He does not oppress anyone or require a pledge for a loan. He does not commit robbery but gives his food to the hungry and provides clothing for the naked."
+  }, {
+    "verse" : "ezekiel,18,17",
+    "text" : "He withholds his hand from sin and takes no usury or excessive interest. He keeps my laws and follows my decrees. He will not die for his father's sin; he will surely live."
+  }, {
+    "verse" : "ezekiel,18,18",
+    "text" : "But his father will die for his own sin, because he practiced extortion, robbed his brother and did what was wrong among his people."
+  }, {
+    "verse" : "ezekiel,18,19",
+    "text" : "\"Yet you ask, 'Why does the son not share the guilt of his father?' Since the son has done what is just and right and has been careful to keep all my decrees, he will surely live."
+  }, {
+    "verse" : "ezekiel,18,20",
+    "text" : "The soul who sins is the one who will die. The son will not share the guilt of the father, nor will the father share the guilt of the son. The righteousness of the righteous man will be credited to him, and the wickedness of the wicked will be charged against him."
+  }, {
+    "verse" : "ezekiel,18,21",
+    "text" : "\"But if a wicked man turns away from all the sins he has committed and keeps all my decrees and does what is just and right, he will surely live; he will not die."
+  }, {
+    "verse" : "ezekiel,18,22",
+    "text" : "None of the offenses he has committed will be remembered against him. Because of the righteous things he has done, he will live."
+  }, {
+    "verse" : "ezekiel,18,23",
+    "text" : "Do I take any pleasure in the death of the wicked? declares the Sovereign LORD. Rather, am I not pleased when they turn from their ways and live?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,18,14",
     "id" : 194283,
@@ -39,7 +108,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 18:14\">18:14</a></b> <b>his father.</b> Conversely, having an unrighteous father would not bring judgment on a righteous son (<a class=\"bibleref\" href=\"/passage/?search=Ezek 18:10\">v. 10</a> note; <a class=\"bibleref\" href=\"/passage/?search=Deut 24:16\">Deut. 24:16</a>; <a class=\"bibleref\" href=\"/passage/?search=2Kgs 14:6\">2 Kin. 14:6</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,18,24", "ezekiel,18,25", "ezekiel,18,26", "ezekiel,18,27", "ezekiel,18,28", "ezekiel,18,29" ],
+  "verses" : [ {
+    "verse" : "ezekiel,18,24",
+    "text" : "\"But if a righteous man turns from his righteousness and commits sin and does the same detestable things the wicked man does, will he live? None of the righteous things he has done will be remembered. Because of the unfaithfulness he is guilty of and because of the sins he has committed, he will die."
+  }, {
+    "verse" : "ezekiel,18,25",
+    "text" : "\"Yet you say, 'The way of the Lord is not just.' Hear, O house of Israel: Is my way unjust? Is it not your ways that are unjust?"
+  }, {
+    "verse" : "ezekiel,18,26",
+    "text" : "If a righteous man turns from his righteousness and commits sin, he will die for it; because of the sin he has committed he will die."
+  }, {
+    "verse" : "ezekiel,18,27",
+    "text" : "But if a wicked man turns away from the wickedness he has committed and does what is just and right, he will save his life."
+  }, {
+    "verse" : "ezekiel,18,28",
+    "text" : "Because he considers all the offenses he has committed and turns away from them, he will surely live; he will not die."
+  }, {
+    "verse" : "ezekiel,18,29",
+    "text" : "Yet the house of Israel says, 'The way of the Lord is not just.' Are my ways unjust, O house of Israel? Is it not your ways that are unjust?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,18,24",
     "id" : 194284,
@@ -47,7 +134,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 18:24\">18:24</a></b> <b>does injustice.</b> God will not allow Himself to be merely an escape hatch in times of trouble; He cannot be looked to as Savior without also being received as Lord.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,18,30" ],
+  "verses" : [ {
+    "verse" : "ezekiel,18,30",
+    "text" : "\"Therefore, O house of Israel, I will judge you, each one according to his ways, declares the Sovereign LORD. Repent! Turn away from all your offenses; then sin will not be your downfall."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,18,30-ezekiel,18,32",
     "id" : 194285,
@@ -55,7 +145,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 18:30-Ezek 18:32\">18:30–32</a></b> This is a summary statement. Sin can never be taken lightly in one’s relationship with God. Yet within the solemn warnings about the gravity of sin and the threat it represents, there remains the assurance that God does not desire or delight in the death of the wicked (<a class=\"bibleref\" href=\"/passage/?search=2Pet 3:9\">2 Pet. 3:9</a>). Repentance is the way to life (<a class=\"bibleref\" href=\"/passage/?search=2Chr 6:37-2Chr 6:39\">2 Chr. 6:37–39</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 30:15\">Is. 30:15</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 59:20\">59:20</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 18:8\">Jer. 18:8</a>; <a class=\"bibleref\" href=\"/passage/?search=Matt 4:17\">Matt. 4:17</a>; <a class=\"bibleref\" href=\"/passage/?search=Mark 1:4\">Mark 1:4</a>, <a class=\"bibleref\" href=\"/passage/?search=Mark 1:15\">15</a>; <a class=\"bibleref\" href=\"/passage/?search=Luke 13:3\">Luke 13:3</a>, <a class=\"bibleref\" href=\"/passage/?search=Luke 13:5\">5</a>; <a class=\"bibleref\" href=\"/passage/?search=Luke 15:7\">15:7</a>, <a class=\"bibleref\" href=\"/passage/?search=Luke 15:10\">10</a>; <a class=\"bibleref\" href=\"/passage/?search=Luke 24:47\">24:47</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 3:19\">Acts 3:19</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 17:30\">17:30</a>; <a class=\"bibleref\" href=\"/passage/?search=2Cor 7:10\">2 Cor. 7:10</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,18,31", "ezekiel,18,32" ],
+  "verses" : [ {
+    "verse" : "ezekiel,18,31",
+    "text" : "Rid yourselves of all the offenses you have committed, and get a new heart and a new spirit. Why will you die, O house of Israel?"
+  }, {
+    "verse" : "ezekiel,18,32",
+    "text" : "For I take no pleasure in the death of anyone, declares the Sovereign LORD. Repent and live!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,18,31",
     "id" : 194286,
@@ -63,7 +159,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 18:31\">18:31</a></b> <b>make yourselves a new heart and a new spirit.</b> As Ezekiel himself recognized, the new heart and spirit were the gift of God (<a class=\"bibleref\" href=\"/passage/?search=Ezek 36:26\">36:26</a>) and not the product of human effort (cf. <a class=\"bibleref\" href=\"/passage/?search=Eph 2:8\">Eph. 2:8</a>, <a class=\"bibleref\" href=\"/passage/?search=Eph 2:9\">9</a>). Ezekiel exhorts his audience to seek these not through their own merit but by repentance (v. 32).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,19,1" ],
+  "verses" : [ {
+    "verse" : "ezekiel,19,1",
+    "text" : "\"Take up a lament concerning the princes of Israel"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,19,1-ezekiel,19,14",
     "id" : 194287,
@@ -71,7 +170,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 19\">19:1–14</a></b> Ezekiel presents another allegory in the kind of Hebrew poetry ordinarily used for funeral dirges and laments. This kind of poetry in Hebrew has a particular meter that Ezekiel’s audience would recognize. The same rhythm is used in <a class=\"bibleref\" href=\"/passage/?search=Ezek 26:17\">26:17</a>, <a class=\"bibleref\" href=\"/passage/?search=Ezek 26:18\">18</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 27:12-Ezek 27:19\">27:12–19</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 28:12-Ezek 28:19\">28:12–19</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 32:2-Ezek 32:8\">32:2–8</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,19,2", "ezekiel,19,3" ],
+  "verses" : [ {
+    "verse" : "ezekiel,19,2",
+    "text" : "and say: \"'What a lioness was your mother among the lions! She lay down among the young lions and reared her cubs."
+  }, {
+    "verse" : "ezekiel,19,3",
+    "text" : "She brought up one of her cubs, and he became a strong lion. He learned to tear the prey and he devoured men."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,19,2",
     "id" : 194288,
@@ -79,7 +184,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 19:2\">19:2</a></b> <b>lioness.</b> The lioness represents the nation of Israel or the city of Jerusalem, which produced these cubs, or kings; for the image of Jerusalem as a mother, see <a class=\"bibleref\" href=\"/passage/?search=Ps 87:5\">Ps. 87:5</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 50:1\">Is. 50:1</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 54:1\">54:1</a>; <a class=\"bibleref\" href=\"/passage/?search=Gal 4:26\">Gal. 4:26</a>, <a class=\"bibleref\" href=\"/passage/?search=Gal 4:27\">27</a>. The lion as an image is frequently associated with Davidic kingship (<a class=\"bibleref\" href=\"/passage/?search=Gen 49:9\">Gen. 49:9</a>; <a class=\"bibleref\" href=\"/passage/?search=Mic 5:8\">Mic. 5:8</a>). The New Testament looks for “the Lion of the tribe of Judah” to reestablish the kingdom of God (<a class=\"bibleref\" href=\"/passage/?search=Rev 5:5\">Rev. 5:5</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,19,4" ],
+  "verses" : [ {
+    "verse" : "ezekiel,19,4",
+    "text" : "The nations heard about him, and he was trapped in their pit. They led him with hooks to the land of Egypt."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,19,4",
     "id" : 194289,
@@ -87,7 +195,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 19:4\">19:4</a></b> <b>Egypt.</b> Jehoahaz reigned for only three months before he was taken to Egypt as a captive of Pharaoh Neco in 609 <span class=\"small-caps\">b.c.</span> (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 23:31-2Kgs 23:34\">2 Kin. 23:31–34</a>; <a class=\"bibleref\" href=\"/passage/?search=2Chr 36:2-2Chr 36:4\">2 Chr. 36:2–4</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,19,5", "ezekiel,19,6", "ezekiel,19,7", "ezekiel,19,8" ],
+  "verses" : [ {
+    "verse" : "ezekiel,19,5",
+    "text" : "\"'When she saw her hope unfulfilled, her expectation gone, she took another of her cubs and made him a strong lion."
+  }, {
+    "verse" : "ezekiel,19,6",
+    "text" : "He prowled among the lions, for he was now a strong lion. He learned to tear the prey and he devoured men."
+  }, {
+    "verse" : "ezekiel,19,7",
+    "text" : "He broke down their strongholds and devastated their towns. The land and all who were in it were terrified by his roaring."
+  }, {
+    "verse" : "ezekiel,19,8",
+    "text" : "Then the nations came against him, those from regions round about. They spread their net for him, and he was trapped in their pit."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,19,5",
     "id" : 194290,
@@ -95,7 +215,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 19:5\">19:5</a></b> <b>another.</b> Ezekiel omits any description of the reign of Jehoiakim and proceeds to his son Jehoiachin. Second Kings does not mention any exile for Jehoiakim (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 23:36-2Kgs 24:7\">2 Kin. 23:36–24:7</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=2Chr 36:5-2Chr 36:8\">2 Chr. 36:5–8</a>); he apparently died in Jerusalem.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,19,9", "ezekiel,19,10", "ezekiel,19,11" ],
+  "verses" : [ {
+    "verse" : "ezekiel,19,9",
+    "text" : "With hooks they pulled him into a cage and brought him to the king of Babylon. They put him in prison, so his roar was heard no longer on the mountains of Israel."
+  }, {
+    "verse" : "ezekiel,19,10",
+    "text" : "\"'Your mother was like a vine in your vineyard planted by the water; it was fruitful and full of branches because of abundant water."
+  }, {
+    "verse" : "ezekiel,19,11",
+    "text" : "Its branches were strong, fit for a ruler's scepter. It towered high above the thick foliage, conspicuous for its height and for its many branches."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,19,9",
     "id" : 194291,
@@ -103,7 +232,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 19:9\">19:9</a></b> <b>Babylon.</b> Jehoiakim had rebelled against Nebuchadnezzar, and the wrath of the Babylonian king was directed against his son Jehoiachin. Ezekiel describes his deportation to Babylon in 597 <span class=\"small-caps\">b.c.</span> (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 24:8-2Kgs 24:16\">2 Kin. 24:8–16</a>; <a class=\"bibleref\" href=\"/passage/?search=2Chr 36:9\">2 Chr. 36:9</a>, <a class=\"bibleref\" href=\"/passage/?search=2Chr 36:10\">10</a>). Jehoiachin was imprisoned until the reign of Evil-merodach (562–560 <span class=\"small-caps\">b.c.</span>; <a class=\"bibleref\" href=\"/passage/?search=2Kgs 25:27-2Kgs 25:30\">2 Kin. 25:27–30</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,19,12", "ezekiel,19,13" ],
+  "verses" : [ {
+    "verse" : "ezekiel,19,12",
+    "text" : "But it was uprooted in fury and thrown to the ground. The east wind made it shrivel, it was stripped of its fruit; its strong branches withered and fire consumed them."
+  }, {
+    "verse" : "ezekiel,19,13",
+    "text" : "Now it is planted in the desert, in a dry and thirsty land."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,19,12",
     "id" : 194292,
@@ -111,7 +246,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ezek 19:12\">19:12</a></b> <b>east wind.</b> This is just as in <a class=\"bibleref\" href=\"/passage/?search=Ezek 17:9\">17:9</a>, <a class=\"bibleref\" href=\"/passage/?search=Ezek 17:10\">10</a>. The east wind is an instrument of Yahweh’s will (<a class=\"bibleref\" href=\"/passage/?search=Exod 10:13\">Ex. 10:13</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 14:21\">14:21</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 78:26\">Ps. 78:26</a>; <a class=\"bibleref\" href=\"/passage/?search=Hos 13:15\">Hos. 13:15</a>; <a class=\"bibleref\" href=\"/passage/?search=Jonah 4:8\">Jon. 4:8</a>). The east wind brought the desert heat and would wither the vine.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ezekiel,19,14" ],
+  "verses" : [ {
+    "verse" : "ezekiel,19,14",
+    "text" : "Fire spread from one of its main branches and consumed its fruit. No strong branch is left on it fit for a ruler's scepter.' This is a lament and is to be used as a lament.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ezekiel,19,14",
     "id" : 194293,

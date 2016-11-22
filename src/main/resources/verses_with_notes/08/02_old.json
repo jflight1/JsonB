@@ -1,5 +1,23 @@
 [ {
-  "singleVerses" : [ "2chronicles,32,1", "2chronicles,32,2", "2chronicles,32,3", "2chronicles,32,4", "2chronicles,32,5", "2chronicles,32,6" ],
+  "verses" : [ {
+    "verse" : "2chronicles,32,1",
+    "text" : "After all that Hezekiah had so faithfully done, Sennacherib king of Assyria came and invaded Judah. He laid siege to the fortified cities, thinking to conquer them for himself."
+  }, {
+    "verse" : "2chronicles,32,2",
+    "text" : "When Hezekiah saw that Sennacherib had come and that he intended to make war on Jerusalem,"
+  }, {
+    "verse" : "2chronicles,32,3",
+    "text" : "he consulted with his officials and military staff about blocking off the water from the springs outside the city, and they helped him."
+  }, {
+    "verse" : "2chronicles,32,4",
+    "text" : "A large force of men assembled, and they blocked all the springs and the stream that flowed through the land. \"Why should the kings of Assyria come and find plenty of water?\" they said."
+  }, {
+    "verse" : "2chronicles,32,5",
+    "text" : "Then he worked hard repairing all the broken sections of the wall and building towers on it. He built another wall outside that one and reinforced the supporting terraces of the City of David. He also made large numbers of weapons and shields."
+  }, {
+    "verse" : "2chronicles,32,6",
+    "text" : "He appointed military officers over the people and assembled them before him in the square at the city gate and encouraged them with these words:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,32,1-2chronicles,32,23",
     "id" : 189520,
@@ -7,7 +25,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 32:1-2Chr 32:23\">32:1–23</a></b> In Kings the account of Sennacherib’s invasion is the most prominent episode of Hezekiah’s reign (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 18:17-2Kgs 19:37\">2 Kin. 18:17–19:37</a>). Chronicles gives a shorter account, using it to illustrate the divine blessing granted because of fidelity, trust, and prayer.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,32,7", "2chronicles,32,8" ],
+  "verses" : [ {
+    "verse" : "2chronicles,32,7",
+    "text" : "\"Be strong and courageous. Do not be afraid or discouraged because of the king of Assyria and the vast army with him, for there is a greater power with us than with him."
+  }, {
+    "verse" : "2chronicles,32,8",
+    "text" : "With him is only the arm of flesh, but with us is the LORD our God to help us and to fight our battles.\" And the people gained confidence from what Hezekiah the king of Judah said."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,32,7-2chronicles,32,8",
     "id" : 189521,
@@ -15,7 +39,40 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 32:7\">32:7</a>, <a class=\"bibleref\" href=\"/passage/?search=2Chr 32:8\">8</a></b> Hezekiah’s speech demonstrated his full reliance on divine power to overcome his great enemy.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,32,9", "2chronicles,32,10", "2chronicles,32,11", "2chronicles,32,12", "2chronicles,32,13", "2chronicles,32,14", "2chronicles,32,15", "2chronicles,32,16", "2chronicles,32,17", "2chronicles,32,18", "2chronicles,32,19" ],
+  "verses" : [ {
+    "verse" : "2chronicles,32,9",
+    "text" : "Later, when Sennacherib king of Assyria and all his forces were laying siege to Lachish, he sent his officers to Jerusalem with this message for Hezekiah king of Judah and for all the people of Judah who were there:"
+  }, {
+    "verse" : "2chronicles,32,10",
+    "text" : "\"This is what Sennacherib king of Assyria says: On what are you basing your confidence, that you remain in Jerusalem under siege?"
+  }, {
+    "verse" : "2chronicles,32,11",
+    "text" : "When Hezekiah says, 'The LORD our God will save us from the hand of the king of Assyria,' he is misleading you, to let you die of hunger and thirst."
+  }, {
+    "verse" : "2chronicles,32,12",
+    "text" : "Did not Hezekiah himself remove this god's high places and altars, saying to Judah and Jerusalem, 'You must worship before one altar and burn sacrifices on it'?"
+  }, {
+    "verse" : "2chronicles,32,13",
+    "text" : "\"Do you not know what I and my fathers have done to all the peoples of the other lands? Were the gods of those nations ever able to deliver their land from my hand?"
+  }, {
+    "verse" : "2chronicles,32,14",
+    "text" : "Who of all the gods of these nations that my fathers destroyed has been able to save his people from me? How then can your god deliver you from my hand?"
+  }, {
+    "verse" : "2chronicles,32,15",
+    "text" : "Now do not let Hezekiah deceive you and mislead you like this. Do not believe him, for no god of any nation or kingdom has been able to deliver his people from my hand or the hand of my fathers. How much less will your god deliver you from my hand!\""
+  }, {
+    "verse" : "2chronicles,32,16",
+    "text" : "Sennacherib's officers spoke further against the LORD God and against his servant Hezekiah."
+  }, {
+    "verse" : "2chronicles,32,17",
+    "text" : "The king also wrote letters insulting the LORD, the God of Israel, and saying this against him: \"Just as the gods of the peoples of the other lands did not rescue their people from my hand, so the god of Hezekiah will not rescue his people from my hand.\""
+  }, {
+    "verse" : "2chronicles,32,18",
+    "text" : "Then they called out in Hebrew to the people of Jerusalem who were on the wall, to terrify them and make them afraid in order to capture the city."
+  }, {
+    "verse" : "2chronicles,32,19",
+    "text" : "They spoke about the God of Jerusalem as they did about the gods of the other peoples of the world-the work of men's hands."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,32,9",
     "id" : 189522,
@@ -23,7 +80,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 32:9\">32:9</a></b> The writer of Chronicles does not repeat what 2 Kings says about Hezekiah’s payment of tribute to Sennacherib from the treasures of the temple, or the Assyrian’s charge that Hezekiah had an alliance with Egypt (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 18:14-2Kgs 18:27\">2 Kin. 18:14–27</a>). He emphasizes Hezekiah’s virtues.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,32,20", "2chronicles,32,21", "2chronicles,32,22", "2chronicles,32,23" ],
+  "verses" : [ {
+    "verse" : "2chronicles,32,20",
+    "text" : "King Hezekiah and the prophet Isaiah son of Amoz cried out in prayer to heaven about this."
+  }, {
+    "verse" : "2chronicles,32,21",
+    "text" : "And the LORD sent an angel, who annihilated all the fighting men and the leaders and officers in the camp of the Assyrian king. So he withdrew to his own land in disgrace. And when he went into the temple of his god, some of his sons cut him down with the sword."
+  }, {
+    "verse" : "2chronicles,32,22",
+    "text" : "So the LORD saved Hezekiah and the people of Jerusalem from the hand of Sennacherib king of Assyria and from the hand of all others. He took care of them on every side."
+  }, {
+    "verse" : "2chronicles,32,23",
+    "text" : "Many brought offerings to Jerusalem for the LORD and valuable gifts for Hezekiah king of Judah. From then on he was highly regarded by all the nations."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,32,20",
     "id" : 189523,
@@ -31,7 +100,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 32:20\">32:20</a></b> <b>Hezekiah . . . Isaiah . . . prayed.</b> There is a more detailed account of these events in <a class=\"bibleref\" href=\"/passage/?search=2Kgs 19:1-2Kgs 19:34\">2 Kin. 19:1–34</a>. On the value of prayer in battle, see 6:34 note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,32,24" ],
+  "verses" : [ {
+    "verse" : "2chronicles,32,24",
+    "text" : "In those days Hezekiah became ill and was at the point of death. He prayed to the LORD, who answered him and gave him a miraculous sign."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,32,24-2chronicles,32,26",
     "id" : 189524,
@@ -39,7 +111,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 32:24-2Chr 32:26\">32:24–26</a></b> There is a fuller account of this illness and prayer in <a class=\"bibleref\" href=\"/passage/?search=2Kgs 20:1-2Kgs 20:11\">2 Kin. 20:1–11</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,32,25", "2chronicles,32,26" ],
+  "verses" : [ {
+    "verse" : "2chronicles,32,25",
+    "text" : "But Hezekiah's heart was proud and he did not respond to the kindness shown him; therefore the LORD's wrath was on him and on Judah and Jerusalem."
+  }, {
+    "verse" : "2chronicles,32,26",
+    "text" : "Then Hezekiah repented of the pride of his heart, as did the people of Jerusalem; therefore the LORD's wrath did not come upon them during the days of Hezekiah."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,32,25",
     "id" : 189525,
@@ -47,7 +125,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 32:25\">32:25</a></b> <b>heart was proud.</b> See note <a class=\"bibleref\" href=\"/passage/?search=2Chr 26:16\">26:16</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,32,27", "2chronicles,32,28", "2chronicles,32,29", "2chronicles,32,30" ],
+  "verses" : [ {
+    "verse" : "2chronicles,32,27",
+    "text" : "Hezekiah had very great riches and honor, and he made treasuries for his silver and gold and for his precious stones, spices, shields and all kinds of valuables."
+  }, {
+    "verse" : "2chronicles,32,28",
+    "text" : "He also made buildings to store the harvest of grain, new wine and oil; and he made stalls for various kinds of cattle, and pens for the flocks."
+  }, {
+    "verse" : "2chronicles,32,29",
+    "text" : "He built villages and acquired great numbers of flocks and herds, for God had given him very great riches."
+  }, {
+    "verse" : "2chronicles,32,30",
+    "text" : "It was Hezekiah who blocked the upper outlet of the Gihon spring and channeled the water down to the west side of the City of David. He succeeded in everything he undertook."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,32,27-2chronicles,32,29",
     "id" : 189526,
@@ -55,7 +145,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 32:27-2Chr 32:29\">32:27–29</a></b> <b>very great riches.</b> Hezekiah’s wealth recalls the wealth of Solomon’s kingdom (<a class=\"bibleref\" href=\"/passage/?search=2Chr 1\">ch. 1</a>; <a class=\"bibleref\" href=\"/passage/?search=2Chr 9:13-2Chr 9:28\">9:13–28</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,32,31" ],
+  "verses" : [ {
+    "verse" : "2chronicles,32,31",
+    "text" : "But when envoys were sent by the rulers of Babylon to ask him about the miraculous sign that had occurred in the land, God left him to test him and to know everything that was in his heart."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,32,31",
     "id" : 189527,
@@ -63,7 +156,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 32:31\">32:31</a></b> The historian abbreviates the record of <a class=\"bibleref\" href=\"/passage/?search=2Kgs 20:12-2Kgs 20:19\">2 Kin. 20:12–19</a> (cf. <a class=\"bibleref\" href=\"/passage/?search=Isa 39\">Is. 39</a>) in which Isaiah told Hezekiah that his treasures would be taken to Babylon. The author, apparently assuming that his readers are familiar with the account in Kings, leaves out Isaiah’s harsh rebuke.</p><p><b>envoys . . . of Babylon.</b> The Babylonian ambassadors came to investigate reports of Hezekiah’s “sign” (v. 24; cf. <a class=\"bibleref\" href=\"/passage/?search=2Kgs 20:8-2Kgs 20:11\">2 Kin. 20:8–11</a>). Apparently, they desired a military alliance with Hezekiah against Assyria.</p><p><b>to test him.</b> Hezekiah was tested to see whether he would form an alliance with Babylon against Assyria. As the Book of Kings reports, Hezekiah failed the test (<a class=\"bibleref\" href=\"/passage/?search=2Kgs 20:12-2Kgs 20:19\">2 Kin. 20:12–19</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,32,32", "2chronicles,32,33" ],
+  "verses" : [ {
+    "verse" : "2chronicles,32,32",
+    "text" : "The other events of Hezekiah's reign and his acts of devotion are written in the vision of the prophet Isaiah son of Amoz in the book of the kings of Judah and Israel."
+  }, {
+    "verse" : "2chronicles,32,33",
+    "text" : "Hezekiah rested with his fathers and was buried on the hill where the tombs of David's descendants are. All Judah and the people of Jerusalem honored him when he died. And Manasseh his son succeeded him as king."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,32,32",
     "id" : 189528,
@@ -71,7 +170,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 32:32\">32:32</a></b> <b>written in the vision of Isaiah the prophet.</b> The historian may be referring to the canonical Book of Isaiah (called a “vision,” <a class=\"bibleref\" href=\"/passage/?search=Isa 1:1\">Is. 1:1</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,33,1" ],
+  "verses" : [ {
+    "verse" : "2chronicles,33,1",
+    "text" : "Manasseh was twelve years old when he became king, and he reigned in Jerusalem fifty-five years."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,33,1-2chronicles,33,20",
     "id" : 189529,
@@ -84,7 +186,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 33:1\">33:1</a></b> <b>Manasseh . . . fifty-five years.</b> Manasseh reigned 696–642 <span class=\"small-caps\">b.c.</span>, the longest reign of any king in Judah.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,33,2", "2chronicles,33,3" ],
+  "verses" : [ {
+    "verse" : "2chronicles,33,2",
+    "text" : "He did evil in the eyes of the LORD, following the detestable practices of the nations the LORD had driven out before the Israelites."
+  }, {
+    "verse" : "2chronicles,33,3",
+    "text" : "He rebuilt the high places his father Hezekiah had demolished; he also erected altars to the Baals and made Asherah poles. He bowed down to all the starry hosts and worshiped them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,33,2",
     "id" : 189531,
@@ -92,7 +200,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 33:2\">33:2</a></b> <b>abominations of the nations.</b> Note the repetition of this theme in <a class=\"bibleref\" href=\"/passage/?search=2Chr 33:9\">v. 9</a>. See the similar evaluation of Ahaz (<a class=\"bibleref\" href=\"/passage/?search=2Chr 28:3\">28:3</a>). Manasseh’s sins were so great that he deserved destruction as much as the Canaanites whom God destroyed during the conquest (<a class=\"bibleref\" href=\"/passage/?search=Gen 15:16\">Gen. 15:16</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,33,4", "2chronicles,33,5" ],
+  "verses" : [ {
+    "verse" : "2chronicles,33,4",
+    "text" : "He built altars in the temple of the LORD, of which the LORD had said, \"My Name will remain in Jerusalem forever.\""
+  }, {
+    "verse" : "2chronicles,33,5",
+    "text" : "In both courts of the temple of the LORD, he built altars to all the starry hosts."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,33,4",
     "id" : 189532,
@@ -100,7 +214,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 33:4\">33:4</a></b> <b>my name.</b> See <a class=\"bibleref\" href=\"/passage/?search=2Chr 33:7\">v. 7</a> and note on <a class=\"bibleref\" href=\"/passage/?search=1Chr 13:6\">1 Chr. 13:6</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,33,6", "2chronicles,33,7" ],
+  "verses" : [ {
+    "verse" : "2chronicles,33,6",
+    "text" : "He sacrificed his sons in the fire in the Valley of Ben Hinnom, practiced sorcery, divination and witchcraft, and consulted mediums and spiritists. He did much evil in the eyes of the LORD, provoking him to anger."
+  }, {
+    "verse" : "2chronicles,33,7",
+    "text" : "He took the carved image he had made and put it in God's temple, of which God had said to David and to his son Solomon, \"In this temple and in Jerusalem, which I have chosen out of all the tribes of Israel, I will put my Name forever."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,33,6",
     "id" : 189533,
@@ -108,7 +228,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 33:6\">33:6</a></b> <b>he burned his sons as an offering.</b> This is another terrible similarity between Manasseh and Ahaz (<a class=\"bibleref\" href=\"/passage/?search=2Chr 28:3\">28:3</a> note; <a class=\"bibleref\" href=\"/passage/?search=2Chr 33:2\">33:2</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,33,8", "2chronicles,33,9" ],
+  "verses" : [ {
+    "verse" : "2chronicles,33,8",
+    "text" : "I will not again make the feet of the Israelites leave the land I assigned to your forefathers, if only they will be careful to do everything I commanded them concerning all the laws, decrees and ordinances given through Moses.\""
+  }, {
+    "verse" : "2chronicles,33,9",
+    "text" : "But Manasseh led Judah and the people of Jerusalem astray, so that they did more evil than the nations the LORD had destroyed before the Israelites."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,33,8",
     "id" : 189534,
@@ -116,7 +242,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 33:8\">33:8</a></b> <b>Moses.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Chr 16:40\">1 Chr. 16:40</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,33,10" ],
+  "verses" : [ {
+    "verse" : "2chronicles,33,10",
+    "text" : "The LORD spoke to Manasseh and his people, but they paid no attention."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,33,10",
     "id" : 189535,
@@ -124,7 +253,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 33:10\">33:10</a></b> <b>The <span class=\"small-caps\">Lord</span> spoke.</b> The historian abbreviates the fuller description in <a class=\"bibleref\" href=\"/passage/?search=2Kgs 21:10-2Kgs 21:15\">2 Kin. 21:10–15</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,33,11" ],
+  "verses" : [ {
+    "verse" : "2chronicles,33,11",
+    "text" : "So the LORD brought against them the army commanders of the king of Assyria, who took Manasseh prisoner, put a hook in his nose, bound him with bronze shackles and took him to Babylon."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,33,11-2chronicles,33,13",
     "id" : 189536,
@@ -137,7 +269,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=2Chr 33:11\">33:11</a></b> <b>the king of Assyria.</b> Either Esarhaddon (681–669 <span class=\"small-caps\">b.c.</span>) or Ashurbanipal (669–627 <span class=\"small-caps\">b.c.</span>).</p><p><b>to Babylon.</b> It is possible that Manasseh was involved in the rebellion (652–648 <span class=\"small-caps\">b.c.</span>) of Shamash-Shum-Ukin of Babylon against the Assyrian king, Ashurbanipal. Manasseh’s captivity in Babylon and his return to the Promised Land might remind the readers of their own deportation to Babylon and their recent restoration.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "2chronicles,33,12", "2chronicles,33,13" ],
+  "verses" : [ {
+    "verse" : "2chronicles,33,12",
+    "text" : "In his distress he sought the favor of the LORD his God and humbled himself greatly before the God of his fathers."
+  }, {
+    "verse" : "2chronicles,33,13",
+    "text" : "And when he prayed to him, the LORD was moved by his entreaty and listened to his plea; so he brought him back to Jerusalem and to his kingdom. Then Manasseh knew that the LORD is God."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "2chronicles,33,12-2chronicles,33,13",
     "id" : 189538,

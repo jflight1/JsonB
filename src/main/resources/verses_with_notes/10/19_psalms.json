@@ -1,5 +1,17 @@
 [ {
-  "singleVerses" : [ "psalms,89,1", "psalms,89,2", "psalms,89,3", "psalms,89,4" ],
+  "verses" : [ {
+    "verse" : "psalms,89,1",
+    "text" : "I will sing of the LORD's great love forever; with my mouth I will make your faithfulness known through all generations."
+  }, {
+    "verse" : "psalms,89,2",
+    "text" : "I will declare that your love stands firm forever, that you established your faithfulness in heaven itself."
+  }, {
+    "verse" : "psalms,89,3",
+    "text" : "You said, \"I have made a covenant with my chosen one, I have sworn to David my servant,"
+  }, {
+    "verse" : "psalms,89,4",
+    "text" : "'I will establish your line forever and make your throne firm through all generations.'\" Selah"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,89,1-psalms,89,52",
     "id" : 191011,
@@ -12,7 +24,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 89:1\">89:1</a></b> <b>steadfast love.</b> The wonders of God’s devotion to His people in the love of His covenant with them.</p><p><b>faithfulness.</b> God is not fickle or capricious, but will keep the promises He makes. Hope in the fulfillment of God’s promise to David is what will motivate the lament at the end of the psalm (<a class=\"bibleref\" href=\"/passage/?search=Ps 89:38-Ps 89:51\">vv. 38–51</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,89,5" ],
+  "verses" : [ {
+    "verse" : "psalms,89,5",
+    "text" : "The heavens praise your wonders, O LORD, your faithfulness too, in the assembly of the holy ones."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,89,5",
     "id" : 191013,
@@ -20,7 +35,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 89:5\">89:5</a></b> <b>heavens.</b> The heavens are here personified; the reference is to the beings in heaven, such as the cherubim and the angels. God is so great that even these powerful spiritual entities fall to their knees in adoration.</p><p><b>assembly.</b> The angels and other spiritual beings in heaven are God’s divine assembly through whom He works His will.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,89,6", "psalms,89,7", "psalms,89,8", "psalms,89,9" ],
+  "verses" : [ {
+    "verse" : "psalms,89,6",
+    "text" : "For who in the skies above can compare with the LORD? Who is like the LORD among the heavenly beings?"
+  }, {
+    "verse" : "psalms,89,7",
+    "text" : "In the council of the holy ones God is greatly feared; he is more awesome than all who surround him."
+  }, {
+    "verse" : "psalms,89,8",
+    "text" : "O LORD God Almighty, who is like you? You are mighty, O LORD, and your faithfulness surrounds you."
+  }, {
+    "verse" : "psalms,89,9",
+    "text" : "You rule over the surging sea; when its waves mount up, you still them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,89,6",
     "id" : 191014,
@@ -28,7 +55,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 89:6\">89:6</a></b> <b>in the skies.</b> Having mentioned spiritual beings, the psalmist is quick to point out the uniqueness of God. The writings of the Canaanites and Mesopotamians also mention an “assembly of the holy ones,” but this was an assembly made up of different gods. The God of Israel is not the best of such gods but wholly different from them. The Old Testament expresses His transcendence in numerous places (<a class=\"bibleref\" href=\"/passage/?search=Isa 44:6\">Is. 44:6</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,89,10" ],
+  "verses" : [ {
+    "verse" : "psalms,89,10",
+    "text" : "You crushed Rahab like one of the slain; with your strong arm you scattered your enemies."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,89,10",
     "id" : 191015,
@@ -36,7 +66,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 89:10\">89:10</a></b> <b>Rahab.</b> Like Leviathan, Rahab is here a sea monster of Near Eastern mythology, standing for forces of evil and chaos (<a class=\"bibleref\" href=\"/passage/?search=Job 9:13\">Job 9:13</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 29:3\">Ezek. 29:3</a> and note). Frequently the name Rahab is applied to Egypt (<a class=\"bibleref\" href=\"/passage/?search=Ps 87:4\">Ps. 87:4</a> and note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,89,11" ],
+  "verses" : [ {
+    "verse" : "psalms,89,11",
+    "text" : "The heavens are yours, and yours also the earth; you founded the world and all that is in it."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,89,11",
     "id" : 191016,
@@ -44,7 +77,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 89:11\">89:11</a></b> <b>you have founded them.</b> Unlike the heathen gods, the Lord is the Creator of the world.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,89,12", "psalms,89,13" ],
+  "verses" : [ {
+    "verse" : "psalms,89,12",
+    "text" : "You created the north and the south; Tabor and Hermon sing for joy at your name."
+  }, {
+    "verse" : "psalms,89,13",
+    "text" : "Your arm is endued with power; your hand is strong, your right hand exalted."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,89,12",
     "id" : 191017,

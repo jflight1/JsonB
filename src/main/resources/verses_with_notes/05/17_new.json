@@ -1,8 +1,14 @@
 [ {
-  "singleVerses" : [ "john,9,1" ],
+  "verses" : [ {
+    "verse" : "john,9,1",
+    "text" : "As he went along, he saw a man blind from birth."
+  } ],
   "rsbNotes" : [ ]
 }, {
-  "singleVerses" : [ "john,9,2" ],
+  "verses" : [ {
+    "verse" : "john,9,2",
+    "text" : "His disciples asked him, \"Rabbi, who sinned, this man or his parents, that he was born blind?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,9,2",
     "id" : 197070,
@@ -10,7 +16,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 9:2\">9:2</a></b> <b>who sinned.</b> Many Jews, like Job’s friends, believed that every temporal misfortune was God’s punishment for some specific sin. With a congenital affliction the explanation could be that the sin had been committed in the womb, or by the parents whose sinful act victimized their child. Jesus dismisses these as improper explanations (<a class=\"bibleref\" href=\"/passage/?search=John 9:3\">v. 3</a>), but this is not to say that certain trials are not the God-ordained punishment for certain sins (e.g., the life of David after His adultery and murder, <a class=\"bibleref\" href=\"/passage/?search=2Sam 12-2Sam 21\">2 Sam. 12–21</a>). Neither does Jesus here dismiss the biblical doctrine of original sin (<a class=\"bibleref\" href=\"/passage/?search=Rom 5:12-Rom 5:21\">Rom. 5:12–21</a>), which teaches that all suffering is the consequence of our corporate sin and rebellion in Adam. But it is unwise and uncharitable to judge that the sufferings of others are specifically punitive (<a class=\"bibleref\" href=\"/passage/?search=Matt 7:1\">Matt. 7:1</a>). The question put to Jesus presents a false dilemma. Only two possibilities were given as reasons for the man’s affliction, his own sin or the sin of his parents. Jesus offers a third option (v. 3).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,9,3", "john,9,4", "john,9,5" ],
+  "verses" : [ {
+    "verse" : "john,9,3",
+    "text" : "\"Neither this man nor his parents sinned,\" said Jesus, \"but this happened so that the work of God might be displayed in his life."
+  }, {
+    "verse" : "john,9,4",
+    "text" : "As long as it is day, we must do the work of him who sent me. Night is coming, when no one can work."
+  }, {
+    "verse" : "john,9,5",
+    "text" : "While I am in the world, I am the light of the world.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,9,3",
     "id" : 197071,
@@ -18,7 +33,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 9:3\">9:3</a></b> <b>that the works of God might be displayed.</b> Some of our sufferings, like the trials of Job, are for God’s glory, either through our resulting refinement or through a spectacular healing as in the present case. God’s purpose is not always presently known to us, but we have God’s assurance that His purpose is good (<a class=\"bibleref\" href=\"/passage/?search=Rom 8:28\">Rom. 8:28</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,9,6", "john,9,7", "john,9,8" ],
+  "verses" : [ {
+    "verse" : "john,9,6",
+    "text" : "Having said this, he spit on the ground, made some mud with the saliva, and put it on the man's eyes."
+  }, {
+    "verse" : "john,9,7",
+    "text" : "\"Go,\" he told him, \"wash in the Pool of Siloam\" (this word means Sent). So the man went and washed, and came home seeing."
+  }, {
+    "verse" : "john,9,8",
+    "text" : "His neighbors and those who had formerly seen him begging asked, \"Isn't this the same man who used to sit and beg?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,9,6",
     "id" : 197072,
@@ -26,7 +50,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 9:6\">9:6</a></b> <b>he spat on the ground.</b> In <a class=\"bibleref\" href=\"/passage/?search=Mark 8:23-Mark 8:25\">Mark 8:23–25</a>, Jesus also used saliva in the course of a healing. It was not a medical agent, but provided an opportunity for the man to show his faith by obeying Jesus’ command (v. 7).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,9,9", "john,9,10", "john,9,11" ],
+  "verses" : [ {
+    "verse" : "john,9,9",
+    "text" : "Some claimed that he was. Others said, \"No, he only looks like him.\" But he himself insisted, \"I am the man.\""
+  }, {
+    "verse" : "john,9,10",
+    "text" : "\"How then were your eyes opened?\" they demanded."
+  }, {
+    "verse" : "john,9,11",
+    "text" : "He replied, \"The man they call Jesus made some mud and put it on my eyes. He told me to go to Siloam and wash. So I went and washed, and then I could see.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,9,9",
     "id" : 197073,
@@ -34,7 +67,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 9:9\">9:9</a></b> <b>he is like him.</b> The miracle was so amazing that onlookers could not believe it was the same man.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,9,12", "john,9,13", "john,9,14", "john,9,15" ],
+  "verses" : [ {
+    "verse" : "john,9,12",
+    "text" : "\"Where is this man?\" they asked him. \"I don't know,\" he said."
+  }, {
+    "verse" : "john,9,13",
+    "text" : "They brought to the Pharisees the man who had been blind."
+  }, {
+    "verse" : "john,9,14",
+    "text" : "Now the day on which Jesus had made the mud and opened the man's eyes was a Sabbath."
+  }, {
+    "verse" : "john,9,15",
+    "text" : "Therefore the Pharisees also asked him how he had received his sight. \"He put mud on my eyes,\" the man replied, \"and I washed, and now I see.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,9,12",
     "id" : 197074,
@@ -42,7 +87,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 9:12\">9:12</a></b> <b>I do not know.</b> As the story develops, the healed man moves forward in the path of faith. Here, he does not know where Jesus is; later he asserts that Jesus is a prophet (<a class=\"bibleref\" href=\"/passage/?search=John 9:17\">v. 17</a>); later still he raises doubts about the accusation that Jesus is a sinner (<a class=\"bibleref\" href=\"/passage/?search=John 9:25\">v. 25</a>); and finally, after meeting Jesus again, he acknowledges that Jesus is the Son of God and worships Him (<a class=\"bibleref\" href=\"/passage/?search=John 9:35-John 9:38\">vv. 35–38</a>). These steps of faith illustrate what the author of the Gospel wants for his readers (<a class=\"bibleref\" href=\"/passage/?search=John 20:31\">20:31</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,9,16", "john,9,17" ],
+  "verses" : [ {
+    "verse" : "john,9,16",
+    "text" : "Some of the Pharisees said, \"This man is not from God, for he does not keep the Sabbath.\" But others asked, \"How can a sinner do such miraculous signs?\" So they were divided."
+  }, {
+    "verse" : "john,9,17",
+    "text" : "Finally they turned again to the blind man, \"What have you to say about him? It was your eyes he opened.\" The man replied, \"He is a prophet.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,9,16",
     "id" : 197075,
@@ -50,7 +101,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 9:16\">9:16</a></b> <b>Sabbath.</b> Instead of being grateful for this supernatural work of God’s grace, the Pharisees began to haggle about the observance of the Sabbath. Their concern was specifically about their traditional interpretation of what the fourth commandment required. Not one of the actions involved (spitting, applying mud, going as far as Siloam, washing one’s face, healing a blind man) was forbidden by the law. Rather than question their own understanding of the law, they rejected Jesus and His ministry.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,9,18", "john,9,19", "john,9,20", "john,9,21", "john,9,22", "john,9,23" ],
+  "verses" : [ {
+    "verse" : "john,9,18",
+    "text" : "The Jews still did not believe that he had been blind and had received his sight until they sent for the man's parents."
+  }, {
+    "verse" : "john,9,19",
+    "text" : "\"Is this your son?\" they asked. \"Is this the one you say was born blind? How is it that now he can see?\""
+  }, {
+    "verse" : "john,9,20",
+    "text" : "\"We know he is our son,\" the parents answered, \"and we know he was born blind."
+  }, {
+    "verse" : "john,9,21",
+    "text" : "But how he can see now, or who opened his eyes, we don't know. Ask him. He is of age; he will speak for himself.\""
+  }, {
+    "verse" : "john,9,22",
+    "text" : "His parents said this because they were afraid of the Jews, for already the Jews had decided that anyone who acknowledged that Jesus was the Christ would be put out of the synagogue."
+  }, {
+    "verse" : "john,9,23",
+    "text" : "That was why his parents said, \"He is of age; ask him.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,9,18-john,9,23",
     "id" : 197076,
@@ -58,7 +127,40 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 9:18-John 9:23\">9:18–23</a></b> An inquiry with the blind man’s parents establishes the reality of his blindness and the cure.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,9,24", "john,9,25", "john,9,26", "john,9,27", "john,9,28", "john,9,29", "john,9,30", "john,9,31", "john,9,32", "john,9,33", "john,9,34" ],
+  "verses" : [ {
+    "verse" : "john,9,24",
+    "text" : "A second time they summoned the man who had been blind. \"Give glory to God, \"they said. \"We know this man is a sinner.\""
+  }, {
+    "verse" : "john,9,25",
+    "text" : "He replied, \"Whether he is a sinner or not, I don't know. One thing I do know. I was blind but now I see!\""
+  }, {
+    "verse" : "john,9,26",
+    "text" : "Then they asked him, \"What did he do to you? How did he open your eyes?\""
+  }, {
+    "verse" : "john,9,27",
+    "text" : "He answered, \"I have told you already and you did not listen. Why do you want to hear it again? Do you want to become his disciples, too?\""
+  }, {
+    "verse" : "john,9,28",
+    "text" : "Then they hurled insults at him and said, \"You are this fellow's disciple! We are disciples of Moses!"
+  }, {
+    "verse" : "john,9,29",
+    "text" : "We know that God spoke to Moses, but as for this fellow, we don't even know where he comes from.\""
+  }, {
+    "verse" : "john,9,30",
+    "text" : "The man answered, \"Now that is remarkable! You don't know where he comes from, yet he opened my eyes."
+  }, {
+    "verse" : "john,9,31",
+    "text" : "We know that God does not listen to sinners. He listens to the godly man who does his will."
+  }, {
+    "verse" : "john,9,32",
+    "text" : "Nobody has ever heard of opening the eyes of a man born blind."
+  }, {
+    "verse" : "john,9,33",
+    "text" : "If this man were not from God, he could do nothing.\""
+  }, {
+    "verse" : "john,9,34",
+    "text" : "To this they replied, \"You were steeped in sin at birth; how dare you lecture us!\" And they threw him out."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,9,24-john,9,34",
     "id" : 197077,
@@ -66,7 +168,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 9:24-John 9:34\">9:24–34</a></b> A second investigation with the healed man brings no new facts to light, but the investigators’ position is hardened. The Pharisees call Jesus a “sinner” (<a class=\"bibleref\" href=\"/passage/?search=John 9:24\">v. 24</a>) whose origin is unknown (<a class=\"bibleref\" href=\"/passage/?search=John 9:29\">v. 29</a>), and they excommunicate the man whose replies only irritate them (<a class=\"bibleref\" href=\"/passage/?search=John 9:27\">vv. 27</a>, <a class=\"bibleref\" href=\"/passage/?search=John 9:30\">30</a>). His replies are to the point: The man born blind had been healed, and “God does not listen to sinners” (<a class=\"bibleref\" href=\"/passage/?search=John 9:31\">v. 31</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,9,35", "john,9,36", "john,9,37", "john,9,38" ],
+  "verses" : [ {
+    "verse" : "john,9,35",
+    "text" : "Jesus heard that they had thrown him out, and when he found him, he said, \"Do you believe in the Son of Man?\""
+  }, {
+    "verse" : "john,9,36",
+    "text" : "\"Who is he, sir?\" the man asked. \"Tell me so that I may believe in him.\""
+  }, {
+    "verse" : "john,9,37",
+    "text" : "Jesus said, \"You have now seen him; in fact, he is the one speaking with you.\""
+  }, {
+    "verse" : "john,9,38",
+    "text" : "Then the man said, \"Lord, I believe,\" and he worshiped him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,9,35-john,9,38",
     "id" : 197078,
@@ -74,7 +188,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 9:35-John 9:38\">9:35–38</a></b> In this second encounter with Jesus, the healed man’s faith moves from a general confidence in Jesus’ godly mission to a joyful acceptance of Him as the Messiah, worthy to be worshiped.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,9,39", "john,9,40" ],
+  "verses" : [ {
+    "verse" : "john,9,39",
+    "text" : "Jesus said, \"For judgment I have come into this world, so that the blind will see and those who see will become blind.\""
+  }, {
+    "verse" : "john,9,40",
+    "text" : "Some Pharisees who were with him heard him say this and asked, \"What? Are we blind too?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,9,39-john,9,41",
     "id" : 197079,
@@ -87,7 +207,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 9:39\">9:39</a></b> <b>For judgment I came.</b> The First Coming of Christ did not bring in the Last Judgment (<a class=\"bibleref\" href=\"/passage/?search=John 3:17\">3:17</a>; <a class=\"bibleref\" href=\"/passage/?search=John 12:47\">12:47</a>), but He confronted people with the obligation to decide for or against Him (<a class=\"bibleref\" href=\"/passage/?search=Matt 12:30\">Matt. 12:30</a>; <a class=\"bibleref\" href=\"/passage/?search=Luke 11:23\">Luke 11:23</a>). Until the Second Coming of Christ, this is still the age of redemption during which the blind are made to see, and those dead in trespasses and sins are raised to newness of life (<a class=\"bibleref\" href=\"/passage/?search=Eph 2:4\">Eph. 2:4</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,9,41" ],
+  "verses" : [ {
+    "verse" : "john,9,41",
+    "text" : "Jesus said, \"If you were blind, you would not be guilty of sin; but now that you claim you can see, your guilt remains."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,9,41",
     "id" : 197081,

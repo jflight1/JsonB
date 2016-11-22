@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "proverbs,17,12", "proverbs,17,13" ],
+  "verses" : [ {
+    "verse" : "proverbs,17,12",
+    "text" : "Better to meet a bear robbed of her cubs than a fool in his folly."
+  }, {
+    "verse" : "proverbs,17,13",
+    "text" : "If a man pays back evil for good, evil will never leave his house."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

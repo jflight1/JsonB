@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "mark,14,1" ],
+  "verses" : [ {
+    "verse" : "mark,14,1",
+    "text" : "Now the Passover and the Feast of Unleavened Bread were only two days away, and the chief priests and the teachers of the law were looking for some sly way to arrest Jesus and kill him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,14,1",
     "id" : 196242,
@@ -7,7 +10,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 14:1\">14:1</a></b> <b>It was now two days.</b> That is, “on the second (or ’next’) day”; compare <a class=\"bibleref\" href=\"/passage/?search=Mark 8:31\">8:31</a>. Mark appears to place the plotting of the chief priests and scribes on Wednesday of Passion Week.</p><p><b>the Passover.</b> The Passover was one of the most important of the Jewish feasts, since it celebrated the deliverance from Egypt when the angel of death “passed over” the homes of the people of Israel (<a class=\"bibleref\" href=\"/passage/?search=Exod 12:1-Exod 12:30\">Ex. 12:1–30</a>). At the time of Jesus, the Passover was celebrated on the fifteenth day of the first month of the Jewish calendar (Nisan,<i></i> which corresponds to the end of March and beginning of April). It was observed the last day before the first full moon after the spring equinox. From that day when the paschal lambs were killed and eaten, all leaven (symbolizing sin) was to be removed from the house, and only unleavened bread was to be eaten for seven days. This observance was known as the “Feast of Unleavened Bread” (14:12; <a class=\"bibleref\" href=\"/passage/?search=Exod 12:15-Exod 12:20\">Ex. 12:15–20</a>), and was closely associated with Passover.</p><p><b>chief priests.</b> See note 8:31.</p><p><b>scribes.</b> See note 7:1.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,14,2" ],
+  "verses" : [ {
+    "verse" : "mark,14,2",
+    "text" : "\"But not during the Feast,\" they said, \"or the people may riot.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,14,2",
     "id" : 196243,
@@ -15,7 +21,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 14:2\">14:2</a></b> <b>Not during the feast.</b> Being one of the Jewish pilgrimage feasts, the Passover drew enormous numbers of people to Jerusalem. Josephus estimated that the population of 50,000 increased to 3,000,000. Though his figures are generally considered greatly exaggerated (250,000 is more likely), there was a reason for the authorities’ fears.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,14,3", "mark,14,4", "mark,14,5" ],
+  "verses" : [ {
+    "verse" : "mark,14,3",
+    "text" : "While he was in Bethany, reclining at the table in the home of a man known as Simon the Leper, a woman came with an alabaster jar of very expensive perfume, made of pure nard. She broke the jar and poured the perfume on his head."
+  }, {
+    "verse" : "mark,14,4",
+    "text" : "Some of those present were saying indignantly to one another, \"Why this waste of perfume?"
+  }, {
+    "verse" : "mark,14,5",
+    "text" : "It could have been sold for more than a year's wages and the money given to the poor.\" And they rebuked her harshly."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,14,3",
     "id" : 196244,
@@ -23,7 +38,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 14:3\">14:3</a></b> <b>Bethany.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Mark 11:1\">11:1</a>.</p><p><b>Simon the leper.</b> No doubt no longer a leper, he may have been healed by Jesus. He was clearly an important member of the wider circle of disciples since Jesus chose to visit his house at this time.</p><p><b>reclining.</b> People reclined rather than sat at the table (<a class=\"bibleref\" href=\"/passage/?search=Luke 22:14\">Luke 22:14</a> note).</p><p><b>a woman.</b> According to <a class=\"bibleref\" href=\"/passage/?search=John 12:3\">John 12:3</a>, this woman was Mary, the sister of Lazarus and Martha. John also indicates that the meal occurred “six days before the Passover” (<a class=\"bibleref\" href=\"/passage/?search=John 12:1\">John 12:1</a>), before Jesus had entered Jerusalem. Mark may have placed the account here to more closely associate this pre-anointing for burial (v. 8 note) with the plot to kill Jesus (v. 1), and was subsequently followed by Matthew (<a class=\"bibleref\" href=\"/passage/?search=Matt 26:3-Matt 26:13\">Matt. 26:3–13</a>).</p><p><b>alabaster flask.</b> Alabaster is a type of gypsum, in its pure form white or translucent, found in limestone deposits in caves and at the exit of springs. It was often used for making ointment jars, and was considered a luxury item.</p><p><b>pure nard.</b> A rare perfume made from the root of a plant grown in the Himalayas. Its value of “three hundred denarii” (v. 5) was roughly equivalent to a year’s wages.</p><p><b>broke the flask.</b> To prevent loss, amounts suitable for a single application were sealed into flasks that were then broken at the neck at the time of use. According to <a class=\"bibleref\" href=\"/passage/?search=John 12:3\">John 12:3</a>, the flask contained twelve ounces of perfume.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,14,6", "mark,14,7" ],
+  "verses" : [ {
+    "verse" : "mark,14,6",
+    "text" : "\"Leave her alone,\" said Jesus. \"Why are you bothering her? She has done a beautiful thing to me."
+  }, {
+    "verse" : "mark,14,7",
+    "text" : "The poor you will always have with you, and you can help them any time you want. But you will not always have me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,14,6",
     "id" : 196245,
@@ -31,7 +52,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 14:6\">14:6 a</a></b> <b>beautiful thing.</b> Jesus approves of what others see as a waste, for by this gesture she shows the inestimable worth of Jesus, of His death (<a class=\"bibleref\" href=\"/passage/?search=Mark 14:8\">v. 8</a>), and of the profound communion that His sacrifice on the cross will establish. This gesture recalls the precious ointment poured over Aaron the high priest, which the psalmist compares to the priceless blessing of the fellowship of believers (<a class=\"bibleref\" href=\"/passage/?search=Ps 133\">Ps. 133</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,14,8", "mark,14,9" ],
+  "verses" : [ {
+    "verse" : "mark,14,8",
+    "text" : "She did what she could. She poured perfume on my body beforehand to prepare for my burial."
+  }, {
+    "verse" : "mark,14,9",
+    "text" : "I tell you the truth, wherever the gospel is preached throughout the world, what she has done will also be told, in memory of her.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,14,8",
     "id" : 196246,
@@ -39,7 +66,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 14:8\">14:8</a></b> <b>anointed my body beforehand for burial.</b> Jesus alludes to the anointing of dead bodies with spices and perfume that was widely practiced in Palestine at that time.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,14,10", "mark,14,11" ],
+  "verses" : [ {
+    "verse" : "mark,14,10",
+    "text" : "Then Judas Iscariot, one of the Twelve, went to the chief priests to betray Jesus to them."
+  }, {
+    "verse" : "mark,14,11",
+    "text" : "They were delighted to hear this and promised to give him money. So he watched for an opportunity to hand him over."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,14,10",
     "id" : 196247,
@@ -47,7 +80,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 14:10\">14:10</a></b> <b>Judas Iscariot.</b> Judas was to receive thirty silver coins (not even half the value of the perfume) for his betrayal of Jesus (<a class=\"bibleref\" href=\"/passage/?search=Mark 14:11\">v. 11</a>).</p><p><b>the twelve.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Mark 3:14\">3:14</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,14,12" ],
+  "verses" : [ {
+    "verse" : "mark,14,12",
+    "text" : "On the first day of the Feast of Unleavened Bread, when it was customary to sacrifice the Passover lamb, Jesus' disciples asked him, \"Where do you want us to go and make preparations for you to eat the Passover?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,14,12",
     "id" : 196248,
@@ -55,7 +91,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 14:12\">14:12</a></b> <b>Unleavened Bread.</b> This feast symbolized the removal of sin in the life of Israelite believers (<a class=\"bibleref\" href=\"/passage/?search=Exod 12:14-Exod 12:20\">Ex. 12:14–20</a>). The Passover meal fell on the first day of this feast (v. 1 note; <a class=\"bibleref\" href=\"/passage/?search=Exod 12:14\">Ex. 12:14</a>, <a class=\"bibleref\" href=\"/passage/?search=Exod 12:15\">15</a>), the fourteenth day after the beginning of the Jewish year (<a class=\"bibleref\" href=\"/passage/?search=Exod 12:6\">Ex. 12:6</a>).</p><p><b>sacrificed the Passover lamb.</b> Jesus died at Passover, the feast that celebrates how the blood of a lamb protected the Israelites in Egypt from God’s wrath. Jesus’ death shows the profound continuity in the divine plan of redemption (cf. <a class=\"bibleref\" href=\"/passage/?search=1Cor 5:7\">1 Cor. 5:7</a>). In the order of these feasts is affirmed the priority of God’s act of salvation (Passover and redemption) over against all our works of righteousness (Feast of Unleavened Bread and the believer’s putting away of sin).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,14,13", "mark,14,14", "mark,14,15", "mark,14,16" ],
+  "verses" : [ {
+    "verse" : "mark,14,13",
+    "text" : "So he sent two of his disciples, telling them, \"Go into the city, and a man carrying a jar of water will meet you. Follow him."
+  }, {
+    "verse" : "mark,14,14",
+    "text" : "Say to the owner of the house he enters, 'The Teacher asks: Where is my guest room, where I may eat the Passover with my disciples?'"
+  }, {
+    "verse" : "mark,14,15",
+    "text" : "He will show you a large upper room, furnished and ready. Make preparations for us there.\""
+  }, {
+    "verse" : "mark,14,16",
+    "text" : "The disciples left, went into the city and found things just as Jesus had told them. So they prepared the Passover."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,14,13",
     "id" : 196249,
@@ -63,7 +111,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 14:13\">14:13</a></b> <b>man carrying a jar of water.</b> Women usually carried water jars. For Jesus’ knowledge of future and distant events, see <a class=\"bibleref\" href=\"/passage/?search=Mark 11:1\">11:1</a>, <a class=\"bibleref\" href=\"/passage/?search=Mark 11:2\">2</a> and <a class=\"bibleref\" href=\"/passage/?search=John 1:48\">John 1:48</a>. Jesus could and did exercise on earth divine powers of knowledge (13:32 note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,14,17", "mark,14,18", "mark,14,19" ],
+  "verses" : [ {
+    "verse" : "mark,14,17",
+    "text" : "When evening came, Jesus arrived with the Twelve."
+  }, {
+    "verse" : "mark,14,18",
+    "text" : "While they were reclining at the table eating, he said, \"I tell you the truth, one of you will betray me--one who is eating with me.\""
+  }, {
+    "verse" : "mark,14,19",
+    "text" : "They were saddened, and one by one they said to him, \"Surely not I?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,14,17",
     "id" : 196250,
@@ -71,7 +128,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 14:17\">14:17</a></b> <b>with the twelve.</b> The Gospels record that those present at this high point in the ministry of Jesus were the twelve He had chosen at the beginning (cf. <a class=\"bibleref\" href=\"/passage/?search=Mark 3:14\">3:14</a>). According to <a class=\"bibleref\" href=\"/passage/?search=Luke 22:30\">Luke 22:30</a>, at this time Jesus announced their future ministry as judges of the new people of God. They were witnesses at the inauguration of the new covenant.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,14,20" ],
+  "verses" : [ {
+    "verse" : "mark,14,20",
+    "text" : "\"It is one of the Twelve,\" he replied, \"one who dips bread into the bowl with me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,14,20",
     "id" : 196251,
@@ -79,7 +139,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Mark 14:20\">14:20</a></b> <b>one of the twelve.</b> Jesus’ prediction of the betrayal comes from His intimate knowledge of Judas, and also from His understanding of the Scriptures (<a class=\"bibleref\" href=\"/passage/?search=Mark 14:21\">v. 21</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 41:9\">Ps. 41:9</a>).</p><p><b>dipping bread into the dish with me.</b> Bread or meat was dipped into a central bowl of sauce. The detail emphasizes the deep personal betrayal, since table fellowship was a token of genuine friendship (cf. 2:16).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "mark,14,21" ],
+  "verses" : [ {
+    "verse" : "mark,14,21",
+    "text" : "The Son of Man will go just as it is written about him. But woe to that man who betrays the Son of Man! It would be better for him if he had not been born.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "mark,14,21",
     "id" : 196252,

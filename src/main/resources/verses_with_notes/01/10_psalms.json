@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,9,13" ],
+  "verses" : [ {
+    "verse" : "psalms,9,13",
+    "text" : "O LORD, see how my enemies persecute me! Have mercy and lift me up from the gates of death,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,9,1-psalms,9,20",
     "id" : 190253,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 9:13\">9:13</a></b> <b>gates of death.</b> See <a class=\"bibleref\" href=\"/passage/?search=Prov 1:12\">Prov. 1:12</a> note. This verse is the first sign of the psalmist’s present distress.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,9,14" ],
+  "verses" : [ {
+    "verse" : "psalms,9,14",
+    "text" : "that I may declare your praises in the gates of the Daughter of Zion and there rejoice in your salvation."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,9,14",
     "id" : 190261,
@@ -20,7 +26,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 9:14\">9:14</a></b> <b>the gates of the daughter of Zion.</b> Contrasted with “gates of death” in the previous verse. The psalmist will praise God for answered prayer in the most public places in Jerusalem, the “daughter of Zion.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,9,15", "psalms,9,16" ],
+  "verses" : [ {
+    "verse" : "psalms,9,15",
+    "text" : "The nations have fallen into the pit they have dug; their feet are caught in the net they have hidden."
+  }, {
+    "verse" : "psalms,9,16",
+    "text" : "The LORD is known by his justice; the wicked are ensnared by the work of their hands. Higgaion. Selah"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,9,15",
     "id" : 190262,
@@ -28,7 +40,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 9:15\">9:15</a></b> <b>have sunk in the pit that they made.</b> See <a class=\"bibleref\" href=\"/passage/?search=Ps 7:14-Ps 7:16\">Ps. 7:14–16</a>. The wickedness of such enemies will come back to haunt them.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,9,17" ],
+  "verses" : [ {
+    "verse" : "psalms,9,17",
+    "text" : "The wicked return to the grave, all the nations that forget God."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,9,17",
     "id" : 190263,
@@ -36,7 +51,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 9:17\">9:17</a></b> <b>wicked.</b> Further defined in the second half of the verse as “all the nations that forget God.”</p><p><b>Sheol.</b> See <a class=\"bibleref\" href=\"/passage/?search=Prov 1:12\">Prov. 1:12</a> note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,9,18" ],
+  "verses" : [ {
+    "verse" : "psalms,9,18",
+    "text" : "But the needy will not always be forgotten, nor the hope of the afflicted ever perish."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,9,18",
     "id" : 190264,
@@ -44,7 +62,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 9:18\">9:18</a></b> <b>the needy . . . the poor.</b> The phrase “the poor and needy” (<a class=\"bibleref\" href=\"/passage/?search=Ps 35:10\">35:10</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 74:21\">74:21</a>; <a class=\"bibleref\" href=\"/passage/?search=Prov 31:9\">Prov. 31:9</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 18:12\">Ezek. 18:12</a>) is a fixed expression in the Old Testament, and the words also appear frequently in parallel (72:12; <a class=\"bibleref\" href=\"/passage/?search=Job 24:4\">Job 24:4</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 32:7\">Is. 32:7</a>; <a class=\"bibleref\" href=\"/passage/?search=Amos 8:4\">Amos 8:4</a>). The meaning is frequently literal poverty, but the words may also be used figuratively to express total dependence on God (40:17; 86:1; 109:22; also <a class=\"bibleref\" href=\"/passage/?search=Matt 5:3\">Matt. 5:3</a> and <a class=\"bibleref\" href=\"/passage/?search=Luke 6:20\">Luke 6:20</a>). Poverty is not itself meritorious, but God gives special attention to the cries of the oppressed (12:5; 72:4 note). Jeremiah equates bringing “justice and righteousness” to the “poor and needy” with knowing God (<a class=\"bibleref\" href=\"/passage/?search=Jer 22:15\">Jer. 22:15</a>, <a class=\"bibleref\" href=\"/passage/?search=Jer 22:16\">16</a>). This was an explicit responsibility of those in power.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,9,19", "psalms,9,20" ],
+  "verses" : [ {
+    "verse" : "psalms,9,19",
+    "text" : "Arise, O LORD, let not man triumph; let the nations be judged in your presence."
+  }, {
+    "verse" : "psalms,9,20",
+    "text" : "Strike them with terror, O LORD; let the nations know they are but men. Selah"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,9,19",
     "id" : 190265,

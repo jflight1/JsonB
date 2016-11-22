@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "proverbs,24,28", "proverbs,24,29" ],
+  "verses" : [ {
+    "verse" : "proverbs,24,28",
+    "text" : "Do not testify against your neighbor without cause, or use your lips to deceive."
+  }, {
+    "verse" : "proverbs,24,29",
+    "text" : "Do not say, \"I'll do to him as he has done to me; I'll pay that man back for what he did.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,24,28-proverbs,24,29",
     "id" : 192225,

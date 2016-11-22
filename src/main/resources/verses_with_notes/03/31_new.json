@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "luke,9,7" ],
+  "verses" : [ {
+    "verse" : "luke,9,7",
+    "text" : "Now Herod the tetrarch heard about all that was going on. And he was perplexed, because some were saying that John had been raised from the dead,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,9,7",
     "id" : 196509,
@@ -7,7 +10,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 9:7\">9:7</a></b> <b>Herod.</b> Herod Antipas, who ruled Galilee.</p><p><b>John had been raised from the dead.</b> This became Herod’s view (<a class=\"bibleref\" href=\"/passage/?search=Mark 6:16\">Mark 6:16</a>), but at this time he simply believed that John was dead; Herod himself had ordered him beheaded.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,9,8", "luke,9,9" ],
+  "verses" : [ {
+    "verse" : "luke,9,8",
+    "text" : "others that Elijah had appeared, and still others that one of the prophets of long ago had come back to life."
+  }, {
+    "verse" : "luke,9,9",
+    "text" : "But Herod said, \"I beheaded John. Who, then, is this I hear such things about?\" And he tried to see him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,9,8",
     "id" : 196510,
@@ -15,7 +24,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 9:8\">9:8</a></b> <b>Elijah.</b> See the prophecy of <a class=\"bibleref\" href=\"/passage/?search=Mal 4:5\">Mal. 4:5</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,9,10" ],
+  "verses" : [ {
+    "verse" : "luke,9,10",
+    "text" : "When the apostles returned, they reported to Jesus what they had done. Then he took them with him and they withdrew by themselves to a town called Bethsaida,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,9,10-luke,9,17",
     "id" : 196511,
@@ -28,7 +40,34 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 9:10\">9:10</a></b> <b>took them . . . apart.</b> They retired to a private place, evidently to report to Jesus and relax after the preaching tour.</p><p><b>Bethsaida.</b> This must mean in the vicinity of Bethsaida, for it was “a desolate place” (<a class=\"bibleref\" href=\"/passage/?search=Luke 9:12\">v. 12</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,9,11", "luke,9,12", "luke,9,13", "luke,9,14", "luke,9,15", "luke,9,16", "luke,9,17", "luke,9,18", "luke,9,19" ],
+  "verses" : [ {
+    "verse" : "luke,9,11",
+    "text" : "but the crowds learned about it and followed him. He welcomed them and spoke to them about the kingdom of God, and healed those who needed healing."
+  }, {
+    "verse" : "luke,9,12",
+    "text" : "Late in the afternoon the Twelve came to him and said, \"Send the crowd away so they can go to the surrounding villages and countryside and find food and lodging, because we are in a remote place here.\""
+  }, {
+    "verse" : "luke,9,13",
+    "text" : "He replied, \"You give them something to eat.\""
+  }, {
+    "verse" : "luke,9,14",
+    "text" : "They answered, \"We have only five loaves of bread and two fish--unless we go and buy food for all this crowd.\" (About five thousand men were there.)"
+  }, {
+    "verse" : "luke,9,15",
+    "text" : "But he said to his disciples, \"Have them sit down in groups of about fifty each.\" The disciples did so, and everybody sat down."
+  }, {
+    "verse" : "luke,9,16",
+    "text" : "Taking the five loaves and the two fish and looking up to heaven, he gave thanks and broke them. Then he gave them to the disciples to set before the people."
+  }, {
+    "verse" : "luke,9,17",
+    "text" : "They all ate and were satisfied, and the disciples picked up twelve basketfuls of broken pieces that were left over."
+  }, {
+    "verse" : "luke,9,18",
+    "text" : "Once when Jesus was praying in private and his disciples were with him, he asked them, \"Who do the crowds say I am?\""
+  }, {
+    "verse" : "luke,9,19",
+    "text" : "They replied, \"Some say John the Baptist; others say Elijah; and still others, that one of the prophets of long ago has come back to life.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,9,11",
     "id" : 196513,
@@ -36,7 +75,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 9:11\">9:11</a></b> <b>welcomed them.</b> This was a gracious act when Jesus was looking for time to rest.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,9,20" ],
+  "verses" : [ {
+    "verse" : "luke,9,20",
+    "text" : "\"But what about you?\" he asked. \"Who do you say I am?\" Peter answered, \"The Christ of God.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,9,20",
     "id" : 196514,
@@ -44,7 +86,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 9:20\">9:20</a></b> <b>who do you say.</b> This question distinguishes the disciples from the crowds; the word “you” is emphatic.</p><p><b>Christ.</b> This word means “anointed” (<a class=\"bibleref\" href=\"/passage/?search=1Sam 2:10\">1 Sam. 2:10</a>; <a class=\"bibleref\" href=\"/passage/?search=Matt 1:1\">Matt. 1:1</a> and notes); Christ is the One God has chosen above all others, the One who will bring salvation. Peter’s answer is more than a penetrating assessment; it is not a human discovery but a revelation from God (<a class=\"bibleref\" href=\"/passage/?search=Matt 16:17\">Matt. 16:17</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,9,21", "luke,9,22" ],
+  "verses" : [ {
+    "verse" : "luke,9,21",
+    "text" : "Jesus strictly warned them not to tell this to anyone."
+  }, {
+    "verse" : "luke,9,22",
+    "text" : "And he said, \"The Son of Man must suffer many things and be rejected by the elders, chief priests and teachers of the law, and he must be killed and on the third day be raised to life.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,9,21",
     "id" : 196515,
@@ -52,7 +100,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 9:21\">9:21</a></b> <b>strictly charged.</b> The disciples would almost certainly have been misunderstood if they had told anyone; people would have thought they were proclaiming a political deliverer. Jesus went on to explain the Messiah must suffer, be rejected, die, and be raised on the third day (<a class=\"bibleref\" href=\"/passage/?search=Luke 9:22\">v. 22</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,9,23", "luke,9,24", "luke,9,25", "luke,9,26" ],
+  "verses" : [ {
+    "verse" : "luke,9,23",
+    "text" : "Then he said to them all: \"If anyone would come after me, he must deny himself and take up his cross daily and follow me."
+  }, {
+    "verse" : "luke,9,24",
+    "text" : "For whoever wants to save his life will lose it, but whoever loses his life for me will save it."
+  }, {
+    "verse" : "luke,9,25",
+    "text" : "What good is it for a man to gain the whole world, and yet lose or forfeit his very self?"
+  }, {
+    "verse" : "luke,9,26",
+    "text" : "If anyone is ashamed of me and my words, the Son of Man will be ashamed of him when he comes in his glory and in the glory of the Father and of the holy angels."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,9,23-luke,9,25",
     "id" : 196516,
@@ -60,7 +120,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 9:23-Luke 9:25\">9:23–25</a></b> To take up the cross means to renounce selfish ambition; it is a death to a whole way of life.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,9,27" ],
+  "verses" : [ {
+    "verse" : "luke,9,27",
+    "text" : "I tell you the truth, some who are standing here will not taste death before they see the kingdom of God.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,9,27",
     "id" : 196517,

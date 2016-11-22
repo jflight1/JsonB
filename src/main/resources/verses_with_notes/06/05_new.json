@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "acts,3,1", "acts,3,2" ],
+  "verses" : [ {
+    "verse" : "acts,3,1",
+    "text" : "One day Peter and John were going up to the temple at the time of prayer--at three in the afternoon."
+  }, {
+    "verse" : "acts,3,2",
+    "text" : "Now a man crippled from birth was being carried to the temple gate called Beautiful, where he was put every day to beg from those going into the temple courts."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,3,1",
     "id" : 197387,
@@ -7,7 +13,31 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 3:1\">3:1</a></b> <b>the temple.</b> The temple courts, and particularly the part near the gate called Beautiful (<a class=\"bibleref\" href=\"/passage/?search=Acts 3:2\">v. 2</a>). This may have been the “Nicanor Gate” made of Corinthian bronze. Its exact location is uncertain.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,3,3", "acts,3,4", "acts,3,5", "acts,3,6", "acts,3,7", "acts,3,8", "acts,3,9", "acts,3,10" ],
+  "verses" : [ {
+    "verse" : "acts,3,3",
+    "text" : "When he saw Peter and John about to enter, he asked them for money."
+  }, {
+    "verse" : "acts,3,4",
+    "text" : "Peter looked straight at him, as did John. Then Peter said, \"Look at us!\""
+  }, {
+    "verse" : "acts,3,5",
+    "text" : "So the man gave them his attention, expecting to get something from them."
+  }, {
+    "verse" : "acts,3,6",
+    "text" : "Then Peter said, \"Silver or gold I do not have, but what I have I give you. In the name of Jesus Christ of Nazareth, walk.\""
+  }, {
+    "verse" : "acts,3,7",
+    "text" : "Taking him by the right hand, he helped him up, and instantly the man's feet and ankles became strong."
+  }, {
+    "verse" : "acts,3,8",
+    "text" : "He jumped to his feet and began to walk. Then he went with them into the temple courts, walking and jumping, and praising God."
+  }, {
+    "verse" : "acts,3,9",
+    "text" : "When all the people saw him walking and praising God,"
+  }, {
+    "verse" : "acts,3,10",
+    "text" : "they recognized him as the same man who used to sit begging at the temple gate called Beautiful, and they were filled with wonder and amazement at what had happened to him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,3,3",
     "id" : 197388,
@@ -15,7 +45,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 3:3\">3:3</a></b> <b>into the temple.</b> As Jews, Peter and John could walk through the Court of Women into the Court of Israel, but non-Jews would be restricted to the Court of the Gentiles.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,3,11", "acts,3,12" ],
+  "verses" : [ {
+    "verse" : "acts,3,11",
+    "text" : "While the beggar held on to Peter and John, all the people were astonished and came running to them in the place called Solomon's Colonnade."
+  }, {
+    "verse" : "acts,3,12",
+    "text" : "When Peter saw this, he said to them: \"Men of Israel, why does this surprise you? Why do you stare at us as if by our own power or godliness we had made this man walk?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,3,11",
     "id" : 197389,
@@ -23,7 +59,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 3:11\">3:11</a></b> <b>the portico called Solomon’s.</b> A porch built by Herod the Great along the east side of the temple platform. Jesus taught here on occasion (<a class=\"bibleref\" href=\"/passage/?search=John 10:22\">John 10:22</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,3,13" ],
+  "verses" : [ {
+    "verse" : "acts,3,13",
+    "text" : "The God of Abraham, Isaac and Jacob, the God of our fathers, has glorified his servant Jesus. You handed him over to be killed, and you disowned him before Pilate, though he had decided to let him go."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,3,13",
     "id" : 197390,
@@ -31,7 +70,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 3:13\">3:13</a></b> <b>The God of Abraham, the God of Isaac, and the God of Jacob.</b> Appeal to the patriarchs was important in the sermons of Christ’s servants (<a class=\"bibleref\" href=\"/passage/?search=Acts 7:32\">7:32</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 13:17\">13:17</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,3,14", "acts,3,15", "acts,3,16", "acts,3,17" ],
+  "verses" : [ {
+    "verse" : "acts,3,14",
+    "text" : "You disowned the Holy and Righteous One and asked that a murderer be released to you."
+  }, {
+    "verse" : "acts,3,15",
+    "text" : "You killed the author of life, but God raised him from the dead. We are witnesses of this."
+  }, {
+    "verse" : "acts,3,16",
+    "text" : "By faith in the name of Jesus, this man whom you see and know was made strong. It is Jesus' name and the faith that comes through him that has given this complete healing to him, as you can all see."
+  }, {
+    "verse" : "acts,3,17",
+    "text" : "\"Now, brothers, I know that you acted in ignorance, as did your leaders."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,3,14",
     "id" : 197391,
@@ -39,7 +90,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 3:14\">3:14</a></b> <b>denied the Holy and Righteous One.</b> The phrase “the Holy,” referring to God, appears a number of times in the Old Testament. The phrase “the Holy One of Israel” occurs in <a class=\"bibleref\" href=\"/passage/?search=Isa 1:4\">Is. 1:4</a> and <a class=\"bibleref\" href=\"/passage/?search=Isa 5:24\">5:24</a> (cf. <a class=\"bibleref\" href=\"/passage/?search=Luke 1:35\">Luke 1:35</a>). Isaiah also speaks of God as “the Righteous One” (<a class=\"bibleref\" href=\"/passage/?search=Isa 24:16\">Is. 24:16</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Acts 7:52\">Acts 7:52</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 22:14\">22:14</a>). In applying this description to Jesus, Peter indicates the deity of Christ.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,3,18" ],
+  "verses" : [ {
+    "verse" : "acts,3,18",
+    "text" : "But this is how God fulfilled what he had foretold through all the prophets, saying that his Christ would suffer."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,3,18",
     "id" : 197392,
@@ -47,7 +101,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 3:18\">3:18</a></b> <b>foretold by the mouth of all the prophets.</b> See <a class=\"bibleref\" href=\"/passage/?search=Luke 24:26\">Luke 24:26</a>, <a class=\"bibleref\" href=\"/passage/?search=Luke 24:27\">27</a>, <a class=\"bibleref\" href=\"/passage/?search=Luke 24:44-Luke 24:47\">44–47</a>. Peter could also have cited such passages as <a class=\"bibleref\" href=\"/passage/?search=Deut 18:15\">Deut. 18:15</a> (quoted in v. 22); <a class=\"bibleref\" href=\"/passage/?search=Isa 53\">Is. 53</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 2\">Ps. 2</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 16:8-Ps 16:11\">16:8–11</a>; 22 (cf. <a class=\"bibleref\" href=\"/passage/?search=1Pet 1:10\">1 Pet. 1:10</a>, <a class=\"bibleref\" href=\"/passage/?search=1Pet 1:11\">11</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,3,19" ],
+  "verses" : [ {
+    "verse" : "acts,3,19",
+    "text" : "Repent, then, and turn to God, so that your sins may be wiped out, that times of refreshing may come from the Lord,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,3,19",
     "id" : 197393,
@@ -55,7 +112,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 3:19\">3:19</a></b> <b>Repent . . . turn.</b> Peter’s sermon illustrates the two sides of repentance, that is, turning aside in sorrow from sin, and turning to God in faith. The call to repentance and faith is a necessary element of the apostolic preaching (<a class=\"bibleref\" href=\"/passage/?search=Acts 2:38\">2:38</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 17:30\">17:30</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 20:21\">20:21</a>).</p><p><b>sins . . . blotted out.</b> In the order of the gospel, repentance and faith receive from God forgiveness and removal of sins.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,3,20", "acts,3,21", "acts,3,22", "acts,3,23", "acts,3,24" ],
+  "verses" : [ {
+    "verse" : "acts,3,20",
+    "text" : "and that he may send the Christ, who has been appointed for you--even Jesus."
+  }, {
+    "verse" : "acts,3,21",
+    "text" : "He must remain in heaven until the time comes for God to restore everything, as he promised long ago through his holy prophets."
+  }, {
+    "verse" : "acts,3,22",
+    "text" : "For Moses said, 'The Lord your God will raise up for you a prophet like me from among your own people; you must listen to everything he tells you."
+  }, {
+    "verse" : "acts,3,23",
+    "text" : "Anyone who does not listen to him will be completely cut off from among his people.'"
+  }, {
+    "verse" : "acts,3,24",
+    "text" : "\"Indeed, all the prophets from Samuel on, as many as have spoken, have foretold these days."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,3,20",
     "id" : 197394,
@@ -63,7 +135,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Acts 3:20\">3:20</a></b> <b>times of refreshing.</b> This phrase, like “restoring all the things” (<a class=\"bibleref\" href=\"/passage/?search=Acts 3:21\">v. 21</a>), seems to refer to the Second Coming of the Messiah.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "acts,3,25", "acts,3,26" ],
+  "verses" : [ {
+    "verse" : "acts,3,25",
+    "text" : "And you are heirs of the prophets and of the covenant God made with your fathers. He said to Abraham, 'Through your offspring all peoples on earth will be blessed.'"
+  }, {
+    "verse" : "acts,3,26",
+    "text" : "When God raised up his servant, he sent him first to you to bless you by turning each of you from your wicked ways.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "acts,3,25",
     "id" : 197395,

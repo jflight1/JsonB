@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "song,1,1" ],
+  "verses" : [ {
+    "verse" : "song,1,1",
+    "text" : "Solomon's Song of Songs."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "song,1,1",
     "id" : 192492,
@@ -7,7 +10,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Song 1:1\">1:1</a></b> See Introduction: Author; Title.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "song,1,2", "song,1,3" ],
+  "verses" : [ {
+    "verse" : "song,1,2",
+    "text" : "Let him kiss me with the kisses of his mouth- for your love is more delightful than wine."
+  }, {
+    "verse" : "song,1,3",
+    "text" : "Pleasing is the fragrance of your perfumes; your name is like perfume poured out. No wonder the maidens love you!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "song,1,2-song,1,4",
     "id" : 192493,
@@ -15,7 +24,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Song 1:2-Song 1:4\">1:2–4</a></b> Third person expressions in <a class=\"bibleref\" href=\"/passage/?search=Song 1:2\">1:2</a> and <a class=\"bibleref\" href=\"/passage/?search=Song 1:4\">1:4</a> (“Let him kiss me . . . The king has brought me”) open and close the paragraph, which is otherwise in the second person (“your love . . . your name”). The girl oscillates between thinking about her absent lover and addressing him as though he were present.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "song,1,4" ],
+  "verses" : [ {
+    "verse" : "song,1,4",
+    "text" : "Take me away with you-let us hurry! Let the king bring me into his chambers. We rejoice and delight in you; we will praise your love more than wine. How right they are to adore you!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "song,1,4",
     "id" : 192494,
@@ -23,7 +35,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Song 1:4\">1:4</a></b> <b>The king has brought me.</b> This is the first of five occurrences of the word “king” (<a class=\"bibleref\" href=\"/passage/?search=Song 1:4\">1:4</a>, <a class=\"bibleref\" href=\"/passage/?search=Song 1:12\">12</a>; <a class=\"bibleref\" href=\"/passage/?search=Song 3:9\">3:9</a>, <a class=\"bibleref\" href=\"/passage/?search=Song 3:11\">11</a>; <a class=\"bibleref\" href=\"/passage/?search=Song 7:5\">7:5</a>). Here in <a class=\"bibleref\" href=\"/passage/?search=Song 7:4\">v. 4</a> there are two possibilities: either the king is Solomon, who has tried unsuccessfully to win the girl’s affections, or he is her lover, whom she romantically fantasizes as her king. The latter interpretation is to be preferred (see Introduction: Characteristics and Themes). The paragraph ends, as it began, with the girl referring to her absent lover in the third person (<a class=\"bibleref\" href=\"/passage/?search=Song 7:2-Song 7:4\">vv. 2–4</a> note).</p><p><b>We will exult and rejoice in you.</b> The “daughters of Jerusalem” (<a class=\"bibleref\" href=\"/passage/?search=Song 7:5\">v. 5</a>) agree with the girl that the love of her lover is better than wine (<a class=\"bibleref\" href=\"/passage/?search=Song 7:2\">v. 2</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "song,1,5", "song,1,6" ],
+  "verses" : [ {
+    "verse" : "song,1,5",
+    "text" : "Dark am I, yet lovely, O daughters of Jerusalem, dark like the tents of Kedar, like the tent curtains of Solomon."
+  }, {
+    "verse" : "song,1,6",
+    "text" : "Do not stare at me because I am dark, because I am darkened by the sun. My mother's sons were angry with me and made me take care of the vineyards; my own vineyard I have neglected."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "song,1,5-song,1,6",
     "id" : 192495,
@@ -31,7 +49,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Song 1:5\">1:5</a>, <a class=\"bibleref\" href=\"/passage/?search=Song 1:6\">6</a></b> The girl responds to criticism of her complexion (<a class=\"bibleref\" href=\"/passage/?search=Song 1:5\">v. 5</a>, “I am very dark”) by the daughters of Jerusalem (<a class=\"bibleref\" href=\"/passage/?search=Song 5:10-Song 5:16\">5:10–16</a> note). She is deeply tanned because her brothers have made her work in the vineyards, and consequently she has not been able to care properly for her “own vineyard” (her body, <a class=\"bibleref\" href=\"/passage/?search=Song 5:6\">v. 6</a>).</p><p><b>tents of Kedar.</b> The Bedouin tribes living on the edge of the deserts east of Israel made their tents of dark goat hair.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "song,1,7" ],
+  "verses" : [ {
+    "verse" : "song,1,7",
+    "text" : "Tell me, you whom I love, where you graze your flock and where you rest your sheep at midday. Why should I be like a veiled woman beside the flocks of your friends?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "song,1,7",
     "id" : 192496,
@@ -39,7 +60,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Song 1:7\">1:7</a></b> <b>like one who veils herself.</b> The word “veils” has the same negative connotations here as it does in <a class=\"bibleref\" href=\"/passage/?search=Gen 38:14\">Gen. 38:14</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 38:15\">15</a>. The girl does not want to be mistaken for a prostitute.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "song,1,8" ],
+  "verses" : [ {
+    "verse" : "song,1,8",
+    "text" : "If you do not know, most beautiful of women, follow the tracks of the sheep and graze your young goats by the tents of the shepherds."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "song,1,8",
     "id" : 192497,
@@ -47,7 +71,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Song 1:8\">1:8</a></b> <b>most beautiful among women.</b> Elsewhere in the Song this form of address is used only by the daughters of Jerusalem (<a class=\"bibleref\" href=\"/passage/?search=Song 5:9\">5:9</a>; <a class=\"bibleref\" href=\"/passage/?search=Song 6:1\">6:1</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "song,1,9", "song,1,10" ],
+  "verses" : [ {
+    "verse" : "song,1,9",
+    "text" : "I liken you, my darling, to a mare harnessed to one of the chariots of Pharaoh."
+  }, {
+    "verse" : "song,1,10",
+    "text" : "Your cheeks are beautiful with earrings, your neck with strings of jewels."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "song,1,9",
     "id" : 192498,
@@ -55,7 +85,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Song 1:9\">1:9 a</a></b> <b>mare among Pharaoh’s chariots.</b> Solomon began his reign by making a marriage alliance with Pharaoh (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 3:1\">1 Kin. 3:1</a>). He also traded in horses from Egypt (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 10:28\">1 Kin. 10:28</a>), and Pharaoh’s chariots with their twin stallions would be well-known and much admired in Israel. What is envisaged here would have been exceptional: a bejewelled mare among the stallions, causing wonder and excitement.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "song,1,11" ],
+  "verses" : [ {
+    "verse" : "song,1,11",
+    "text" : "We will make you earrings of gold, studded with silver."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "song,1,11",
     "id" : 192499,
@@ -63,7 +96,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Song 1:11\">1:11</a></b> <b>We.</b> In <a class=\"bibleref\" href=\"/passage/?search=Song 1:4\">v. 4</a> the “daughters of Jerusalem” echo the girl’s praise of her lover; here they respond similarly to his praise of her. The plural subject “we” goes against taking this verse as a speech of the girl’s lover using courtly language. The so-called “royal we” is not used in ancient Near Eastern literature.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "song,1,12", "song,1,13" ],
+  "verses" : [ {
+    "verse" : "song,1,12",
+    "text" : "While the king was at his table, my perfume spread its fragrance."
+  }, {
+    "verse" : "song,1,13",
+    "text" : "My lover is to me a sachet of myrrh resting between my breasts."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "song,1,12",
     "id" : 192500,
@@ -71,7 +110,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Song 1:12\">1:12</a></b> <b>the king.</b> The girl’s lover is again presented as a king, as indicated by the following verse.</p><p><b>on his couch.</b> The Hebrew here is an unusual expression, lit. “in his surroundings.” The surroundings are not a couch, but grass and trees (<a class=\"bibleref\" href=\"/passage/?search=Song 1:16\">vv. 16</a>, <a class=\"bibleref\" href=\"/passage/?search=Song 1:17\">17</a>). The girl is thinking of the times she and her lover spend alone in the woods.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "song,1,14" ],
+  "verses" : [ {
+    "verse" : "song,1,14",
+    "text" : "My lover is to me a cluster of henna blossoms from the vineyards of En Gedi."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "song,1,14",
     "id" : 192501,
@@ -79,7 +121,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Song 1:14\">1:14</a></b> <b>Engedi.</b> This lush oasis is halfway down the western shore of the Dead Sea.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "song,1,15", "song,1,16", "song,1,17" ],
+  "verses" : [ {
+    "verse" : "song,1,15",
+    "text" : "How beautiful you are, my darling! Oh, how beautiful! Your eyes are doves."
+  }, {
+    "verse" : "song,1,16",
+    "text" : "How handsome you are, my lover! Oh, how charming! And our bed is verdant."
+  }, {
+    "verse" : "song,1,17",
+    "text" : "The beams of our house are cedars; our rafters are firs."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "song,1,15",
     "id" : 192502,
@@ -87,7 +138,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Song 1:15\">1:15</a></b> <b>your eyes are doves.</b> The point of the comparison is not stated. Perhaps it is the gentleness of her gaze. The girl returns the compliment indirectly in <a class=\"bibleref\" href=\"/passage/?search=Song 5:12\">5:12</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "song,2,1", "song,2,2", "song,2,3" ],
+  "verses" : [ {
+    "verse" : "song,2,1",
+    "text" : "I am a rose of Sharon, a lily of the valleys."
+  }, {
+    "verse" : "song,2,2",
+    "text" : "Like a lily among thorns is my darling among the maidens."
+  }, {
+    "verse" : "song,2,3",
+    "text" : "Like an apple tree among the trees of the forest is my lover among the young men. I delight to sit in his shade, and his fruit is sweet to my taste."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "song,2,1",
     "id" : 192503,
@@ -95,7 +155,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Song 2:1\">2:1</a></b> <b>rose.</b> The Hebrew indicates a plant of the bulb family, like a crocus or daffodil (text note).</p><p><b>Sharon.</b> This plain extends south from Mount Carmel along the Mediterranean coast. In this verse the girl modestly compares herself to some familiar wildflowers.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "song,2,4" ],
+  "verses" : [ {
+    "verse" : "song,2,4",
+    "text" : "He has taken me to the banquet hall, and his banner over me is love."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "song,2,4",
     "id" : 192504,
@@ -103,7 +166,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Song 2:4\">2:4</a></b> <b>banqueting house.</b> Lit. “house of wine” (text note). The setting is outdoors (<a class=\"bibleref\" href=\"/passage/?search=Song 1:12\">1:12</a> note). The lovers’ “house” to this point has been the forest (<a class=\"bibleref\" href=\"/passage/?search=Song 1:16\">1:16</a>, <a class=\"bibleref\" href=\"/passage/?search=Song 1:17\">17</a>). Now they move to a different “house,” namely, the young man’s vineyard, his “house” of wine. The expression continues the royal imagery of <a class=\"bibleref\" href=\"/passage/?search=Song 1:4\">1:4</a>, <a class=\"bibleref\" href=\"/passage/?search=Song 1:12\">12</a> (the shepherd is a king), and the comparison of love and wine in <a class=\"bibleref\" href=\"/passage/?search=Song 1:2\">1:2</a>.</p><p><b>his banner.</b> Banners commonly adorned royal banquet halls, but this banquet hall, or “house of wine,” is different. It has only one banner, love, and that is also the only “wine” that will be consumed at the banquet.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "song,2,5", "song,2,6" ],
+  "verses" : [ {
+    "verse" : "song,2,5",
+    "text" : "Strengthen me with raisins, refresh me with apples, for I am faint with love."
+  }, {
+    "verse" : "song,2,6",
+    "text" : "His left arm is under my head, and his right arm embraces me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "song,2,5",
     "id" : 192505,
@@ -111,7 +180,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Song 2:5\">2:5</a></b> <b>raisins . . . apples.</b> Raisins or “raisin cakes” are associated elsewhere in the Old Testament with religious rites, sometimes even in a pagan context (<a class=\"bibleref\" href=\"/passage/?search=2Sam 6:19\">2 Sam. 6:19</a>; <a class=\"bibleref\" href=\"/passage/?search=Hos 3:1\">Hos. 3:1</a>). This has led some commentators to suppose that the Song of Solomon originated as the script of a pagan fertility rite involving ritual sex (cf. <a class=\"bibleref\" href=\"/passage/?search=Hos 4:11-Hos 4:14\">Hos. 4:11–14</a>). But the lovemaking in the Song has no obvious religious dimension. The raisins here, like the apples, are simple aphrodisiacs. The girl calls for raisins and apples to renew her strength.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "song,2,7" ],
+  "verses" : [ {
+    "verse" : "song,2,7",
+    "text" : "Daughters of Jerusalem, I charge you by the gazelles and by the does of the field: Do not arouse or awaken love until it so desires."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "song,2,7",
     "id" : 192506,
@@ -119,7 +191,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Song 2:7\">2:7</a></b> For comments on this refrain, which occurs also at <a class=\"bibleref\" href=\"/passage/?search=Song 3:5\">3:5</a> and <a class=\"bibleref\" href=\"/passage/?search=Song 8:4\">8:4</a>, see Introduction: Characteristics and Themes. Here the refrain is a reminder that the lovemaking so far has been imagined rather than actual, despite the vivid language.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "song,2,8", "song,2,9", "song,2,10", "song,2,11", "song,2,12", "song,2,13" ],
+  "verses" : [ {
+    "verse" : "song,2,8",
+    "text" : "Listen! My lover! Look! Here he comes, leaping across the mountains, bounding over the hills."
+  }, {
+    "verse" : "song,2,9",
+    "text" : "My lover is like a gazelle or a young stag. Look! There he stands behind our wall, gazing through the windows, peering through the lattice."
+  }, {
+    "verse" : "song,2,10",
+    "text" : "My lover spoke and said to me, \"Arise, my darling, my beautiful one, and come with me."
+  }, {
+    "verse" : "song,2,11",
+    "text" : "See! The winter is past; the rains are over and gone."
+  }, {
+    "verse" : "song,2,12",
+    "text" : "Flowers appear on the earth; the season of singing has come, the cooing of doves is heard in our land."
+  }, {
+    "verse" : "song,2,13",
+    "text" : "The fig tree forms its early fruit; the blossoming vines spread their fragrance. Arise, come, my darling; my beautiful one, come with me.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "song,2,8-song,2,17",
     "id" : 192507,
@@ -127,7 +217,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Song 2:8-Song 2:17\">2:8–17</a></b> The image of the shepherd-lover as a gazelle or a young stag on the hills introduces and concludes this section, another imagined rendezvous between the two lovers. After her brief address to the daughters of Jerusalem in <a class=\"bibleref\" href=\"/passage/?search=Song 2:7\">v. 7</a>, the girl has returned to her musings.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "song,2,14" ],
+  "verses" : [ {
+    "verse" : "song,2,14",
+    "text" : "My dove in the clefts of the rock, in the hiding places on the mountainside, show me your face, let me hear your voice; for your voice is sweet, and your face is lovely."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "song,2,14",
     "id" : 192508,
@@ -135,7 +228,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Song 2:14\">2:14</a></b> <b>let me see your face.</b> The switch to the feminine form of the possessive pronoun “your” suggests that this verse and the following one should be assigned to the shepherd, “<span class=\"small-caps\">He</span>.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "song,2,15" ],
+  "verses" : [ {
+    "verse" : "song,2,15",
+    "text" : "Catch for us the foxes, the little foxes that ruin the vineyards, our vineyards that are in bloom."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "song,2,15",
     "id" : 192509,
@@ -143,7 +239,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Song 2:15\">2:15</a></b> <b>the little foxes that spoil the vineyards.</b> The foxes are the one negative element in the otherwise ideal spring setting of <a class=\"bibleref\" href=\"/passage/?search=Song 2:10-Song 2:15\">vv. 10–15</a>. The imperative with no specific subject is like a passive (“May the foxes be caught”), and the whole verse is a wish by the lovers that nothing should be allowed to interfere with their lovemaking.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "song,2,16" ],
+  "verses" : [ {
+    "verse" : "song,2,16",
+    "text" : "My lover is mine and I am his; he browses among the lilies."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "song,2,16",
     "id" : 192510,
@@ -151,7 +250,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Song 2:16\">2:16</a></b> <b>he grazes among the lilies.</b> In view of the context, this is most likely a metaphor for lovemaking. See note on <a class=\"bibleref\" href=\"/passage/?search=Song 2:15\">v. 15</a> and <a class=\"bibleref\" href=\"/passage/?search=Song 6:2\">6:2</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "song,2,17" ],
+  "verses" : [ {
+    "verse" : "song,2,17",
+    "text" : "Until the day breaks and the shadows flee, turn, my lover, and be like a gazelle or like a young stag on the rugged hills."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "song,2,17",
     "id" : 192511,
@@ -159,7 +261,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Song 2:17\">2:17</a></b> <b>Until the day breathes and the shadows flee.</b> Traditionally, these lines have been taken with what follows, but they may make better sense if read with <a class=\"bibleref\" href=\"/passage/?search=Song 2:16\">v. 16</a>. The lovers have been together through the night, and when day breaks they must part. The young man’s return to the hills marks the end of the unit that opened in <a class=\"bibleref\" href=\"/passage/?search=Song 2:8\">v. 8</a> (see <a class=\"bibleref\" href=\"/passage/?search=Song 2:8-Song 2:17\">2:8–17</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "song,3,1" ],
+  "verses" : [ {
+    "verse" : "song,3,1",
+    "text" : "All night long on my bed I looked for the one my heart loves; I looked for him but did not find him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "song,3,1",
     "id" : 192512,
@@ -167,7 +272,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Song 3:1\">3:1</a></b> <b>On my bed by night.</b> The girl is not yet with her lover, but alone on her bed, imagining various encounters with him. A more explicit indication that she is dreaming is given in <a class=\"bibleref\" href=\"/passage/?search=Song 5:2\">5:2</a>. It is not clear where the dream begins or ends, but it is certainly a major feature of the book (Introduction: Characteristics and Themes).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "song,3,2", "song,3,3" ],
+  "verses" : [ {
+    "verse" : "song,3,2",
+    "text" : "I will get up now and go about the city, through its streets and squares; I will search for the one my heart loves. So I looked for him but did not find him."
+  }, {
+    "verse" : "song,3,3",
+    "text" : "The watchmen found me as they made their rounds in the city. \"Have you seen the one my heart loves?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "song,3,2-song,3,4",
     "id" : 192513,
@@ -175,7 +286,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Song 3:2-Song 3:4\">3:2–4</a></b> This search for her lover either follows the girl’s night of dreaming, or is itself one of her dreams. The presence of watchmen patrolling the city streets indicates that it is night, and that this is probably a dream. The parallel in <a class=\"bibleref\" href=\"/passage/?search=Song 5:2-Song 5:8\">5:2–8</a> is a dream (<a class=\"bibleref\" href=\"/passage/?search=Song 5:2\">5:2</a>). Both dreams have a nightmarish quality, the one in <a class=\"bibleref\" href=\"/passage/?search=Song 5\">ch. 5</a> more obviously than this one (see especially <a class=\"bibleref\" href=\"/passage/?search=Song 5:7\">5:7</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "song,3,4" ],
+  "verses" : [ {
+    "verse" : "song,3,4",
+    "text" : "Scarcely had I passed them when I found the one my heart loves. I held him and would not let him go till I had brought him to my mother's house, to the room of the one who conceived me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "song,3,4",
     "id" : 192514,
@@ -183,7 +297,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Song 3:4\">3:4</a></b> <b>my mother’s house.</b> This is presumably where the unmarried girl lies sleeping (<a class=\"bibleref\" href=\"/passage/?search=Song 3:1\">v. 1</a>). In her dream she brings her beloved home.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "song,3,5" ],
+  "verses" : [ {
+    "verse" : "song,3,5",
+    "text" : "Daughters of Jerusalem, I charge you by the gazelles and by the does of the field: Do not arouse or awaken love until it so desires."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "song,3,5",
     "id" : 192515,
@@ -191,7 +308,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Song 3:5\">3:5</a></b> This second occurrence of the refrain confirms that the lovemaking at this stage is imagined rather than real. The consummation remains future (<a class=\"bibleref\" href=\"/passage/?search=Song 2:7\">2:7</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "song,3,6", "song,3,7" ],
+  "verses" : [ {
+    "verse" : "song,3,6",
+    "text" : "Who is this coming up from the desert like a column of smoke, perfumed with myrrh and incense made from all the spices of the merchant?"
+  }, {
+    "verse" : "song,3,7",
+    "text" : "Look! It is Solomon's carriage, escorted by sixty warriors, the noblest of Israel,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "song,3,6-song,3,11",
     "id" : 192516,
@@ -199,7 +322,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Song 3:6-Song 3:11\">3:6–11</a></b> Placed as it is between the two indications that the girl is at home in bed (<a class=\"bibleref\" href=\"/passage/?search=Song 3:1\">3:1</a>; <a class=\"bibleref\" href=\"/passage/?search=Song 5:2\">5:2</a>), this wedding scene is best taken as part of her dreaming. Nightmare gives way to fantasy. She dreams of her wedding day, transformed into a royal occasion, with her lover as a king, the magnificent Solomon. It is not the first time she has pictured her lover as a king (<a class=\"bibleref\" href=\"/passage/?search=Song 1:4\">1:4</a>, <a class=\"bibleref\" href=\"/passage/?search=Song 1:12\">12</a>; <a class=\"bibleref\" href=\"/passage/?search=Song 2:4\">2:4</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "song,3,8", "song,3,9", "song,3,10" ],
+  "verses" : [ {
+    "verse" : "song,3,8",
+    "text" : "all of them wearing the sword, all experienced in battle, each with his sword at his side, prepared for the terrors of the night."
+  }, {
+    "verse" : "song,3,9",
+    "text" : "King Solomon made for himself the carriage; he made it of wood from Lebanon."
+  }, {
+    "verse" : "song,3,10",
+    "text" : "Its posts he made of silver, its base of gold. Its seat was upholstered with purple, its interior lovingly inlaid by the daughters of Jerusalem."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "song,3,8",
     "id" : 192517,
@@ -207,7 +339,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Song 3:8\">3:8</a></b> <b>against terror by night.</b> Solomon’s men would form a bodyguard for protection from marauders, especially as weddings were celebrated at nightfall. But the verse has a double reference. There is also the “night” introduced in <a class=\"bibleref\" href=\"/passage/?search=Song 3:1\">3:1</a>, which was spoiled by the girl’s own “terror by night.” These fears are banished, at least for a time, by the splendid vision of Solomon with his fighting men (<a class=\"bibleref\" href=\"/passage/?search=Song 3:2-Song 3:4\">vv. 2–4</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "song,3,11" ],
+  "verses" : [ {
+    "verse" : "song,3,11",
+    "text" : "Come out, you daughters of Zion, and look at King Solomon wearing the crown, the crown with which his mother crowned him on the day of his wedding, the day his heart rejoiced."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "song,3,11",
     "id" : 192518,
@@ -215,7 +350,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Song 3:11\">3:11</a></b> <b>Zion.</b> An alternative name for Jerusalem (e.g., <a class=\"bibleref\" href=\"/passage/?search=Isa 40:9\">Is. 40:9</a>).</p><p><b>the crown.</b> This is not the king’s crown, but the sort of crown worn by brides and grooms at Jewish weddings. The custom was abandoned by the Jews in their sorrow caused by the tragic war with Rome and the loss of Jerusalem (<span class=\"small-caps\">a.d.</span> 70). A rabbinic proverb states that “a bridegroom resembles a king.”</p><p><b>his mother.</b> The family structure reflected in the Song appears to be matriarchal (1:6; 3:4; 6:9; 8:1, 2, 5). There is no reference to a father, and within the relationship between the lovers there appears to be mutuality. But there are nonetheless elements of male dominance in the Song, notably the roles played by the girl’s brothers (1:6; 8:8, 9) and the watchmen (5:7).</p><p><b>the day of his wedding.</b> The real Solomon had many weddings (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 11:3\">1 Kin. 11:3</a>). The one day in view here is a romantic ideal (vv. 6–11 note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "song,4,1", "song,4,2", "song,4,3" ],
+  "verses" : [ {
+    "verse" : "song,4,1",
+    "text" : "How beautiful you are, my darling! Oh, how beautiful! Your eyes behind your veil are doves. Your hair is like a flock of goats descending from Mount Gilead."
+  }, {
+    "verse" : "song,4,2",
+    "text" : "Your teeth are like a flock of sheep just shorn, coming up from the washing. Each has its twin; not one of them is alone."
+  }, {
+    "verse" : "song,4,3",
+    "text" : "Your lips are like a scarlet ribbon; your mouth is lovely. Your temples behind your veil are like the halves of a pomegranate."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "song,4,1-song,5,1",
     "id" : 192519,
@@ -228,7 +372,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Song 4:1\">4:1</a></b> <b>Gilead.</b> A high plateau east of the Jordan River.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "song,4,4", "song,4,5" ],
+  "verses" : [ {
+    "verse" : "song,4,4",
+    "text" : "Your neck is like the tower of David, built with elegance; on it hang a thousand shields, all of them shields of warriors."
+  }, {
+    "verse" : "song,4,5",
+    "text" : "Your two breasts are like two fawns, like twin fawns of a gazelle that browse among the lilies."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "song,4,4",
     "id" : 192521,
@@ -236,7 +386,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Song 4:4\">4:4</a></b> <b>the tower of David.</b> The location of this tower is unknown. It is not the present-day tower of David just inside the Jaffa gate of Jerusalem, since that tower is no older than the time of Herod the Great. The girl’s neck is adorned with jewelry as the famous tower was adorned with shields.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "song,4,6", "song,4,7" ],
+  "verses" : [ {
+    "verse" : "song,4,6",
+    "text" : "Until the day breaks and the shadows flee, I will go to the mountain of myrrh and to the hill of incense."
+  }, {
+    "verse" : "song,4,7",
+    "text" : "All beautiful you are, my darling; there is no flaw in you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "song,4,6",
     "id" : 192522,
@@ -244,7 +400,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Song 4:6\">4:6</a></b> <b>Until the day breathes.</b> The time when the lovers must part is approaching (<a class=\"bibleref\" href=\"/passage/?search=Song 2:17\">2:17</a> note).</p><p><b>the mountain of myrrh . . . the hill of frankincense.</b> Frankincense, like myrrh, was an imported aromatic spice (cf. <a class=\"bibleref\" href=\"/passage/?search=Matt 2:11\">Matt. 2:11</a>). Despite the exotic language, the reference is probably to the local hill country, fragrant with spring blossoms (cf. 1:13–17).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "song,4,8" ],
+  "verses" : [ {
+    "verse" : "song,4,8",
+    "text" : "Come with me from Lebanon, my bride, come with me from Lebanon. Descend from the crest of Amana, from the top of Senir, the summit of Hermon, from the lions' dens and the mountain haunts of the leopards."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "song,4,8",
     "id" : 192523,
@@ -252,7 +411,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Song 4:8\">4:8</a></b> <b>Lebanon . . . Amana . . . Senir . . . Hermon.</b> All these sites are in the remote north of Palestine. We are not meant to think of the girl as living on the summit of Mount Hermon. Rather, the place names are symbols of the inaccessibility that the wooing is meant to overcome.</p><p><b>my bride.</b> The word is not used literally, but as a term of affection, in anticipation of marriage.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "song,4,9" ],
+  "verses" : [ {
+    "verse" : "song,4,9",
+    "text" : "You have stolen my heart, my sister, my bride; you have stolen my heart with one glance of your eyes, with one jewel of your necklace."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "song,4,9",
     "id" : 192524,
@@ -260,7 +422,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Song 4:9\">4:9</a></b> <b>my sister.</b> In ancient Near Eastern languages “sister” is commonly used by lovers as a term of endearment. It expresses a closeness between persons who are not members of the same family.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "song,4,10", "song,4,11" ],
+  "verses" : [ {
+    "verse" : "song,4,10",
+    "text" : "How delightful is your love, my sister, my bride! How much more pleasing is your love than wine, and the fragrance of your perfume than any spice!"
+  }, {
+    "verse" : "song,4,11",
+    "text" : "Your lips drop sweetness as the honeycomb, my bride; milk and honey are under your tongue. The fragrance of your garments is like that of Lebanon."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "song,4,10",
     "id" : 192525,
@@ -268,7 +436,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Song 4:10\">4:10</a></b> <b>better . . . than wine.</b> The compliment of <a class=\"bibleref\" href=\"/passage/?search=Song 1:2\">1:2</a> is returned.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "song,4,12" ],
+  "verses" : [ {
+    "verse" : "song,4,12",
+    "text" : "You are a garden locked up, my sister, my bride; you are a spring enclosed, a sealed fountain."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "song,4,12",
     "id" : 192526,
@@ -276,7 +447,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Song 4:12\">4:12</a></b> <b>A garden locked . . . a spring locked.</b> These are images of virginity.</p><p><b>spring . . . fountain.</b> Her beloved longs for her as a thirsty traveller longs for refreshing water (<a class=\"bibleref\" href=\"/passage/?search=Prov 5:15-Prov 5:20\">Prov. 5:15–20</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "song,4,13", "song,4,14" ],
+  "verses" : [ {
+    "verse" : "song,4,13",
+    "text" : "Your plants are an orchard of pomegranates with choice fruits, with henna and nard,"
+  }, {
+    "verse" : "song,4,14",
+    "text" : "nard and saffron, calamus and cinnamon, with every kind of incense tree, with myrrh and aloes and all the finest spices."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "song,4,13-song,4,14",
     "id" : 192527,
@@ -284,7 +461,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Song 4:13\">4:13</a>, <a class=\"bibleref\" href=\"/passage/?search=Song 4:14\">14</a> Your shoots.</b> The image of the enclosed garden is further developed (<a class=\"bibleref\" href=\"/passage/?search=Song 4:12\">v. 12</a> note). “Shoots” alludes to the anticipated delights of lovemaking.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "song,4,15" ],
+  "verses" : [ {
+    "verse" : "song,4,15",
+    "text" : "You are a garden fountain, a well of flowing water streaming down from Lebanon."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "song,4,15",
     "id" : 192528,
@@ -292,7 +472,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Song 4:15\">4:15 a</a></b> <b>well of living water.</b> This image expresses how the young man would like his lover to be: no longer a sealed fountain (<a class=\"bibleref\" href=\"/passage/?search=Song 4:12\">v. 12</a> and note). There is an implicit invitation to sexual surrender.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "song,4,16" ],
+  "verses" : [ {
+    "verse" : "song,4,16",
+    "text" : "Awake, north wind, and come, south wind! Blow on my garden, that its fragrance may spread abroad. Let my lover come into his garden and taste its choice fruits."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "song,4,16",
     "id" : 192529,

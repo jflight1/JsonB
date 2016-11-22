@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "ecclesiastes,1,1" ],
+  "verses" : [ {
+    "verse" : "ecclesiastes,1,1",
+    "text" : "The words of the Teacher, son of David, king in Jerusalem:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ecclesiastes,1,1",
     "id" : 192379,
@@ -7,7 +10,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eccl 1:1\">1:1</a></b> <b>Preacher.</b> The Hebrew emphasizes Solomon’s function as convener of the covenant community to witness and to celebrate the glory of the King of heaven that fills His earthly temple (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 8\">1 Kin. 8</a>). Solomon’s words are directed to God’s people, not to agnostics.</p><p><b>son of David.</b> See Introduction: Author.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ecclesiastes,1,2" ],
+  "verses" : [ {
+    "verse" : "ecclesiastes,1,2",
+    "text" : "\"Meaningless! Meaningless!\" says the Teacher. \"Utterly meaningless! Everything is meaningless.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ecclesiastes,1,2",
     "id" : 192380,
@@ -15,7 +21,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eccl 1:2\">1:2</a></b> <b>Vanity.</b> The Hebrew word means “breath” or “vapor,” and hence what is “insubstantial,” “useless,” or “futile.” Human death makes the deeds and desires of people who build earthly culture (“under the sun”) useless.</p><p><b>All.</b> This word is qualified by the phrase “under the sun” (<a class=\"bibleref\" href=\"/passage/?search=Eccl 1:3\">v. 3</a>) and means everything people experience with their senses (<a class=\"bibleref\" href=\"/passage/?search=Eccl 1:8\">v. 8</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ecclesiastes,1,3" ],
+  "verses" : [ {
+    "verse" : "ecclesiastes,1,3",
+    "text" : "What does man gain from all his labor at which he toils under the sun?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ecclesiastes,1,3-ecclesiastes,1,11",
     "id" : 192381,
@@ -33,7 +42,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eccl 1:3\">1:3</a></b> <b>gain.</b> The idea that life’s labor is unprofitable, presented here as a rhetorical question, is stated directly in <a class=\"bibleref\" href=\"/passage/?search=Eccl 2:11\">2:11</a>.</p><p><b>under the sun.</b> This phrase is synonymous with “under heaven” and “on earth.” Paul’s equivalent is “the present evil age” (<a class=\"bibleref\" href=\"/passage/?search=Gal 1:4\">Gal. 1:4</a>). The energies poured into earthly kingdoms are often of no value to the kingdom of heaven (<a class=\"bibleref\" href=\"/passage/?search=Mark 8:36\">Mark 8:36</a>). By contrast, the work of the Lord is not in vain (<a class=\"bibleref\" href=\"/passage/?search=John 6:27-John 6:29\">John 6:27–29</a>; <a class=\"bibleref\" href=\"/passage/?search=1Cor 15:58\">1 Cor. 15:58</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ecclesiastes,1,4", "ecclesiastes,1,5" ],
+  "verses" : [ {
+    "verse" : "ecclesiastes,1,4",
+    "text" : "Generations come and generations go, but the earth remains forever."
+  }, {
+    "verse" : "ecclesiastes,1,5",
+    "text" : "The sun rises and the sun sets, and hurries back to where it rises."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ecclesiastes,1,4",
     "id" : 192384,
@@ -41,7 +56,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eccl 1:4\">1:4</a></b> <b>goes . . . comes.</b> People are constantly starting over (like the sun in <a class=\"bibleref\" href=\"/passage/?search=Eccl 1:5\">v. 5</a>), while by contrast the earth (to which every person returns) abides.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ecclesiastes,1,6" ],
+  "verses" : [ {
+    "verse" : "ecclesiastes,1,6",
+    "text" : "The wind blows to the south and turns to the north; round and round it goes, ever returning on its course."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ecclesiastes,1,6",
     "id" : 192385,
@@ -49,7 +67,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eccl 1:6\">1:6</a></b> <b>around and around.</b> This phrase is the focal point of the poem in <a class=\"bibleref\" href=\"/passage/?search=Eccl 1:4-Eccl 1:8\">1:4–8</a>, an image for Solomon’s recurrent refrain “striving after wind.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ecclesiastes,1,7", "ecclesiastes,1,8" ],
+  "verses" : [ {
+    "verse" : "ecclesiastes,1,7",
+    "text" : "All streams flow into the sea, yet the sea is never full. To the place the streams come from, there they return again."
+  }, {
+    "verse" : "ecclesiastes,1,8",
+    "text" : "All things are wearisome, more than one can say. The eye never has enough of seeing, nor the ear its fill of hearing."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ecclesiastes,1,7",
     "id" : 192386,
@@ -57,7 +81,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eccl 1:7\">1:7</a></b> <b>is not full.</b> People’s experiences commonly never fill or satisfy them, just as waters never fill the sea.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ecclesiastes,1,9", "ecclesiastes,1,10", "ecclesiastes,1,11" ],
+  "verses" : [ {
+    "verse" : "ecclesiastes,1,9",
+    "text" : "What has been will be again, what has been done will be done again; there is nothing new under the sun."
+  }, {
+    "verse" : "ecclesiastes,1,10",
+    "text" : "Is there anything of which one can say, \"Look! This is something new\"? It was here already, long ago; it was here before our time."
+  }, {
+    "verse" : "ecclesiastes,1,11",
+    "text" : "There is no remembrance of men of old, and even those who are yet to come will not be remembered by those who follow."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ecclesiastes,1,9-ecclesiastes,1,11",
     "id" : 192387,
@@ -65,7 +98,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eccl 1:9-Eccl 1:11\">1:9–11</a></b> Cultural endeavors cannot reverse the futile process of repeating what has already been done, for all die and their works are forgotten.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ecclesiastes,1,12" ],
+  "verses" : [ {
+    "verse" : "ecclesiastes,1,12",
+    "text" : "I, the Teacher, was king over Israel in Jerusalem."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ecclesiastes,1,12-ecclesiastes,1,15",
     "id" : 192388,
@@ -78,7 +114,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eccl 1:12\">1:12</a></b> <b>king . . . in Jerusalem.</b> See Introduction: Author.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ecclesiastes,1,13" ],
+  "verses" : [ {
+    "verse" : "ecclesiastes,1,13",
+    "text" : "I devoted myself to study and to explore by wisdom all that is done under heaven. What a heavy burden God has laid on men!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ecclesiastes,1,13",
     "id" : 192390,
@@ -91,7 +130,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eccl 1:13\">1:13</a>, <a class=\"bibleref\" href=\"/passage/?search=Eccl 1:14\">14</a> under heaven . . . under the sun.</b> See <a class=\"bibleref\" href=\"/passage/?search=Eccl 1:3\">1:3</a> note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ecclesiastes,1,14" ],
+  "verses" : [ {
+    "verse" : "ecclesiastes,1,14",
+    "text" : "I have seen all the things that are done under the sun; all of them are meaningless, a chasing after the wind."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ecclesiastes,1,14",
     "id" : 192392,
@@ -99,7 +141,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eccl 1:14\">1:14</a></b> <b>I have seen everything.</b> Solomon had an accurate perspective on the present, because of God’s gift (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 3\">1 Kin. 3</a>), as well as on the past, because he meditated on God’s revealed Word.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ecclesiastes,1,15" ],
+  "verses" : [ {
+    "verse" : "ecclesiastes,1,15",
+    "text" : "What is twisted cannot be straightened; what is lacking cannot be counted."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ecclesiastes,1,15",
     "id" : 192393,
@@ -107,7 +152,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eccl 1:15\">1:15</a></b> <b>crooked . . . lacking.</b> This is the result not only of human evil, but also of the divine curse (<a class=\"bibleref\" href=\"/passage/?search=Eccl 7:13\">7:13</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 3:16-Gen 3:19\">Gen. 3:16–19</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ecclesiastes,1,16", "ecclesiastes,1,17", "ecclesiastes,1,18" ],
+  "verses" : [ {
+    "verse" : "ecclesiastes,1,16",
+    "text" : "I thought to myself, \"Look, I have grown and increased in wisdom more than anyone who has ruled over Jerusalem before me; I have experienced much of wisdom and knowledge.\""
+  }, {
+    "verse" : "ecclesiastes,1,17",
+    "text" : "Then I applied myself to the understanding of wisdom, and also of madness and folly, but I learned that this, too, is a chasing after the wind."
+  }, {
+    "verse" : "ecclesiastes,1,18",
+    "text" : "For with much wisdom comes much sorrow; the more knowledge, the more grief."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ecclesiastes,1,16",
     "id" : 192394,
@@ -115,7 +169,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eccl 1:16\">1:16</a></b> <b>wisdom.</b> An increase in true wisdom heightens one’s sensitivity to the unhappy effects of sin, not all of which are immediately visible.</p><p><b>all who were over Jerusalem.</b> From Solomon’s perspective these would refer to ancient pre-Israelite kings (<a class=\"bibleref\" href=\"/passage/?search=Gen 14:18\">Gen. 14:18</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 10:1\">Josh. 10:1</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ecclesiastes,2,1", "ecclesiastes,2,2" ],
+  "verses" : [ {
+    "verse" : "ecclesiastes,2,1",
+    "text" : "I thought in my heart, \"Come now, I will test you with pleasure to find out what is good.\" But that also proved to be meaningless."
+  }, {
+    "verse" : "ecclesiastes,2,2",
+    "text" : "\"Laughter,\" I said, \"is foolish. And what does pleasure accomplish?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ecclesiastes,2,1-ecclesiastes,2,11",
     "id" : 192395,
@@ -128,7 +188,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eccl 2:1\">2:1</a></b> <b>pleasure.</b> A reference to self-indulgence.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ecclesiastes,2,3" ],
+  "verses" : [ {
+    "verse" : "ecclesiastes,2,3",
+    "text" : "I tried cheering myself with wine, and embracing folly-my mind still guiding me with wisdom. I wanted to see what was worthwhile for men to do under heaven during the few days of their lives."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ecclesiastes,2,3",
     "id" : 192397,
@@ -136,7 +199,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eccl 2:3\">2:3</a></b> <b>my heart still guiding me.</b> See <a class=\"bibleref\" href=\"/passage/?search=Eccl 2:9\">v. 9</a>. To determine what was good for people to do, Solomon investigated life without forgetting the protective guidance of God’s word.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ecclesiastes,2,4", "ecclesiastes,2,5", "ecclesiastes,2,6", "ecclesiastes,2,7", "ecclesiastes,2,8", "ecclesiastes,2,9" ],
+  "verses" : [ {
+    "verse" : "ecclesiastes,2,4",
+    "text" : "I undertook great projects: I built houses for myself and planted vineyards."
+  }, {
+    "verse" : "ecclesiastes,2,5",
+    "text" : "I made gardens and parks and planted all kinds of fruit trees in them."
+  }, {
+    "verse" : "ecclesiastes,2,6",
+    "text" : "I made reservoirs to water groves of flourishing trees."
+  }, {
+    "verse" : "ecclesiastes,2,7",
+    "text" : "I bought male and female slaves and had other slaves who were born in my house. I also owned more herds and flocks than anyone in Jerusalem before me."
+  }, {
+    "verse" : "ecclesiastes,2,8",
+    "text" : "I amassed silver and gold for myself, and the treasure of kings and provinces. I acquired men and women singers, and a harem as well-the delights of the heart of man."
+  }, {
+    "verse" : "ecclesiastes,2,9",
+    "text" : "I became greater by far than anyone in Jerusalem before me. In all this my wisdom stayed with me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ecclesiastes,2,4-ecclesiastes,2,9",
     "id" : 192398,
@@ -144,7 +225,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eccl 2:4-Eccl 2:9\">2:4–9</a></b> <b>great . . . surpassed.</b> The world’s wealth flowed into Jerusalem for Solomon’s disposition.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ecclesiastes,2,10", "ecclesiastes,2,11" ],
+  "verses" : [ {
+    "verse" : "ecclesiastes,2,10",
+    "text" : "I denied myself nothing my eyes desired; I refused my heart no pleasure. My heart took delight in all my work, and this was the reward for all my labor."
+  }, {
+    "verse" : "ecclesiastes,2,11",
+    "text" : "Yet when I surveyed all that my hands had done and what I had toiled to achieve, everything was meaningless, a chasing after the wind; nothing was gained under the sun."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ecclesiastes,2,10-ecclesiastes,2,11",
     "id" : 192399,
@@ -152,7 +239,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eccl 2:10\">2:10</a>, <a class=\"bibleref\" href=\"/passage/?search=Eccl 2:11\">11</a> found pleasure . . . reward . . . under the sun.</b> Solomon experienced joy in doing work, but failed to achieve the satisfaction of producing anything of final heavenly value.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ecclesiastes,2,12", "ecclesiastes,2,13", "ecclesiastes,2,14" ],
+  "verses" : [ {
+    "verse" : "ecclesiastes,2,12",
+    "text" : "Then I turned my thoughts to consider wisdom, and also madness and folly. What more can the king's successor do than what has already been done?"
+  }, {
+    "verse" : "ecclesiastes,2,13",
+    "text" : "I saw that wisdom is better than folly, just as light is better than darkness."
+  }, {
+    "verse" : "ecclesiastes,2,14",
+    "text" : "The wise man has eyes in his head, while the fool walks in the darkness; but I came to realize that the same fate overtakes them both."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ecclesiastes,2,12-ecclesiastes,2,17",
     "id" : 192400,
@@ -165,7 +261,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eccl 2:12\">2:12</a>, <a class=\"bibleref\" href=\"/passage/?search=Eccl 2:13\">13</a> wisdom.</b> Not secular wisdom or shrewdness, but unmatched, God-given wisdom.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ecclesiastes,2,15", "ecclesiastes,2,16" ],
+  "verses" : [ {
+    "verse" : "ecclesiastes,2,15",
+    "text" : "Then I thought in my heart, \"The fate of the fool will overtake me also. What then do I gain by being wise?\" I said in my heart, \"This too is meaningless.\""
+  }, {
+    "verse" : "ecclesiastes,2,16",
+    "text" : "For the wise man, like the fool, will not be long remembered; in days to come both will be forgotten. Like the fool, the wise man too must die!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ecclesiastes,2,15",
     "id" : 192402,
@@ -173,7 +275,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eccl 2:15\">2:15</a></b> <b>wise.</b> Wisdom’s value appears to be compromised because it cannot keep the wise any more than the fool from the abyss of death.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ecclesiastes,2,17" ],
+  "verses" : [ {
+    "verse" : "ecclesiastes,2,17",
+    "text" : "So I hated life, because the work that is done under the sun was grievous to me. All of it is meaningless, a chasing after the wind."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ecclesiastes,2,17",
     "id" : 192403,
@@ -181,7 +286,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eccl 2:17\">2:17</a></b> <b>hated.</b> Concluding that the curse of death erases the profit of wise labor, Solomon comes to hate life in this present evil age.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ecclesiastes,2,18", "ecclesiastes,2,19", "ecclesiastes,2,20", "ecclesiastes,2,21", "ecclesiastes,2,22" ],
+  "verses" : [ {
+    "verse" : "ecclesiastes,2,18",
+    "text" : "I hated all the things I had toiled for under the sun, because I must leave them to the one who comes after me."
+  }, {
+    "verse" : "ecclesiastes,2,19",
+    "text" : "And who knows whether he will be a wise man or a fool? Yet he will have control over all the work into which I have poured my effort and skill under the sun. This too is meaningless."
+  }, {
+    "verse" : "ecclesiastes,2,20",
+    "text" : "So my heart began to despair over all my toilsome labor under the sun."
+  }, {
+    "verse" : "ecclesiastes,2,21",
+    "text" : "For a man may do his work with wisdom, knowledge and skill, and then he must leave all he owns to someone who has not worked for it. This too is meaningless and a great misfortune."
+  }, {
+    "verse" : "ecclesiastes,2,22",
+    "text" : "What does a man get for all the toil and anxious striving with which he labors under the sun?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ecclesiastes,2,18-ecclesiastes,2,26",
     "id" : 192404,
@@ -189,7 +309,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eccl 2:18-Eccl 2:26\">2:18–26</a></b> Solomon reflects on the frustrations associated with work. Death takes labor’s profit from its producer. The situation is made harder to bear by not knowing whether in the future the property will be dissipated by a fool (<a class=\"bibleref\" href=\"/passage/?search=Eccl 2:18\">vv. 18</a>, <a class=\"bibleref\" href=\"/passage/?search=Eccl 2:19\">19</a>) or given to an heir who will not appreciate it (<a class=\"bibleref\" href=\"/passage/?search=Eccl 2:20\">vv. 20</a>, <a class=\"bibleref\" href=\"/passage/?search=Eccl 2:21\">21</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ecclesiastes,2,23" ],
+  "verses" : [ {
+    "verse" : "ecclesiastes,2,23",
+    "text" : "All his days his work is pain and grief; even at night his mind does not rest. This too is meaningless."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ecclesiastes,2,23",
     "id" : 192405,
@@ -197,7 +320,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eccl 2:23\">2:23</a></b> <b>does not rest.</b> The ever-present, painful burdens of life undermine even the legitimate pleasures of work (<a class=\"bibleref\" href=\"/passage/?search=Eccl 2:10\">v. 10</a>) and can deprive the laborer of sleep.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ecclesiastes,2,24", "ecclesiastes,2,25" ],
+  "verses" : [ {
+    "verse" : "ecclesiastes,2,24",
+    "text" : "A man can do nothing better than to eat and drink and find satisfaction in his work. This too, I see, is from the hand of God,"
+  }, {
+    "verse" : "ecclesiastes,2,25",
+    "text" : "for without him, who can eat or find enjoyment?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ecclesiastes,2,24",
     "id" : 192406,
@@ -205,7 +334,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eccl 2:24\">2:24</a></b> <b>better.</b> In his conclusion about what is good (<a class=\"bibleref\" href=\"/passage/?search=Eccl 2:3\">v. 3</a>) Solomon observes that the common pleasures of life and work are also from God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ecclesiastes,2,26" ],
+  "verses" : [ {
+    "verse" : "ecclesiastes,2,26",
+    "text" : "To the man who pleases him, God gives wisdom, knowledge and happiness, but to the sinner he gives the task of gathering and storing up wealth to hand it over to the one who pleases God. This too is meaningless, a chasing after the wind."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ecclesiastes,2,26",
     "id" : 192407,
@@ -213,7 +345,37 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eccl 2:26\">2:26</a></b> <b>to the one who pleases him . . . sinner.</b> However great the temporary prosperity of the wicked, it is the righteous “who please God” who are at last the beneficiaries of God’s blessings.</p><p><b>vanity.</b> The point seems to be the futility of the work of one person being transferred to another, as in <a class=\"bibleref\" href=\"/passage/?search=Eccl 2:20\">vv. 20</a>, <a class=\"bibleref\" href=\"/passage/?search=Eccl 2:21\">21</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ecclesiastes,3,1", "ecclesiastes,3,2", "ecclesiastes,3,3", "ecclesiastes,3,4", "ecclesiastes,3,5", "ecclesiastes,3,6", "ecclesiastes,3,7", "ecclesiastes,3,8", "ecclesiastes,3,9", "ecclesiastes,3,10" ],
+  "verses" : [ {
+    "verse" : "ecclesiastes,3,1",
+    "text" : "There is a time for everything, and a season for every activity under heaven:"
+  }, {
+    "verse" : "ecclesiastes,3,2",
+    "text" : "a time to be born and a time to die, a time to plant and a time to uproot,"
+  }, {
+    "verse" : "ecclesiastes,3,3",
+    "text" : "a time to kill and a time to heal, a time to tear down and a time to build,"
+  }, {
+    "verse" : "ecclesiastes,3,4",
+    "text" : "a time to weep and a time to laugh, a time to mourn and a time to dance,"
+  }, {
+    "verse" : "ecclesiastes,3,5",
+    "text" : "a time to scatter stones and a time to gather them, a time to embrace and a time to refrain,"
+  }, {
+    "verse" : "ecclesiastes,3,6",
+    "text" : "a time to search and a time to give up, a time to keep and a time to throw away,"
+  }, {
+    "verse" : "ecclesiastes,3,7",
+    "text" : "a time to tear and a time to mend, a time to be silent and a time to speak,"
+  }, {
+    "verse" : "ecclesiastes,3,8",
+    "text" : "a time to love and a time to hate, a time for war and a time for peace."
+  }, {
+    "verse" : "ecclesiastes,3,9",
+    "text" : "What does the worker gain from his toil?"
+  }, {
+    "verse" : "ecclesiastes,3,10",
+    "text" : "I have seen the burden God has laid on men."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ecclesiastes,3,1",
     "id" : 192408,
@@ -221,7 +383,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eccl 3:1\">3:1</a></b> <b>time.</b> The truly wise know that all their “times” are in God’s hand (<a class=\"bibleref\" href=\"/passage/?search=Ps 31:15\">Ps. 31:15</a>) and that there is an appropriate time for every human activity.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ecclesiastes,3,11" ],
+  "verses" : [ {
+    "verse" : "ecclesiastes,3,11",
+    "text" : "He has made everything beautiful in its time. He has also set eternity in the hearts of men; yet they cannot fathom what God has done from beginning to end."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ecclesiastes,3,11",
     "id" : 192409,
@@ -229,7 +394,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eccl 3:11\">3:11</a></b> <b>eternity.</b> This is the Hebrew term translated “forever” in <a class=\"bibleref\" href=\"/passage/?search=Eccl 3:14\">v. 14</a> and explained in <a class=\"bibleref\" href=\"/passage/?search=Eccl 3:11\">v. 11</a> as “from the beginning to the end.” The heart knows that history is not meaningless, but is frustrated in its efforts to discern the pattern of events.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ecclesiastes,3,12", "ecclesiastes,3,13" ],
+  "verses" : [ {
+    "verse" : "ecclesiastes,3,12",
+    "text" : "I know that there is nothing better for men than to be happy and do good while they live."
+  }, {
+    "verse" : "ecclesiastes,3,13",
+    "text" : "That everyone may eat and drink, and find satisfaction in all his toil-this is the gift of God."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ecclesiastes,3,12",
     "id" : 192410,
@@ -237,7 +408,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eccl 3:12\">3:12</a></b> <b>nothing better.</b> The author’s major application is his repeated advice (<a class=\"bibleref\" href=\"/passage/?search=Eccl 2:24-Eccl 2:26\">2:24–26</a>; <a class=\"bibleref\" href=\"/passage/?search=Eccl 3:12\">3:12</a>, <a class=\"bibleref\" href=\"/passage/?search=Eccl 3:22\">22</a>; <a class=\"bibleref\" href=\"/passage/?search=Eccl 5:18-Eccl 5:20\">5:18–20</a>; <a class=\"bibleref\" href=\"/passage/?search=Eccl 8:15\">8:15</a>) and command (<a class=\"bibleref\" href=\"/passage/?search=Eccl 9:7-Eccl 9:10\">9:7–10</a>) to be content with what God has ordained for one’s life (<a class=\"bibleref\" href=\"/passage/?search=1Cor 7:20\">1 Cor. 7:20</a>; <a class=\"bibleref\" href=\"/passage/?search=1Tim 6:8\">1 Tim. 6:8</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ecclesiastes,3,14" ],
+  "verses" : [ {
+    "verse" : "ecclesiastes,3,14",
+    "text" : "I know that everything God does will endure forever; nothing can be added to it and nothing taken from it. God does it so that men will revere him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ecclesiastes,3,14",
     "id" : 192411,
@@ -245,7 +419,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eccl 3:14\">3:14</a></b> <b>fear.</b> The term means to give God the honor corresponding to what He is (<a class=\"bibleref\" href=\"/passage/?search=Exod 34:8\">Ex. 34:8</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 6:5\">Is. 6:5</a>; <a class=\"bibleref\" href=\"/passage/?search=Luke 5:8\">Luke 5:8</a>; <a class=\"bibleref\" href=\"/passage/?search=Rev 1:17\">Rev. 1:17</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ecclesiastes,3,15", "ecclesiastes,3,16" ],
+  "verses" : [ {
+    "verse" : "ecclesiastes,3,15",
+    "text" : "Whatever is has already been, and what will be has been before; and God will call the past to account."
+  }, {
+    "verse" : "ecclesiastes,3,16",
+    "text" : "And I saw something else under the sun: In the place of judgment-wickedness was there, in the place of justice-wickedness was there."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ecclesiastes,3,15-ecclesiastes,3,21",
     "id" : 192412,
@@ -253,7 +433,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eccl 3:15-Eccl 3:21\">3:15–21</a></b> God the Judge is in view.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ecclesiastes,3,17", "ecclesiastes,3,18", "ecclesiastes,3,19", "ecclesiastes,3,20" ],
+  "verses" : [ {
+    "verse" : "ecclesiastes,3,17",
+    "text" : "I thought in my heart, \"God will bring to judgment both the righteous and the wicked, for there will be a time for every activity, a time for every deed.\""
+  }, {
+    "verse" : "ecclesiastes,3,18",
+    "text" : "I also thought, \"As for men, God tests them so that they may see that they are like the animals."
+  }, {
+    "verse" : "ecclesiastes,3,19",
+    "text" : "Man's fate is like that of the animals; the same fate awaits them both: As one dies, so dies the other. All have the same breath; man has no advantage over the animal. Everything is meaningless."
+  }, {
+    "verse" : "ecclesiastes,3,20",
+    "text" : "All go to the same place; all come from dust, and to dust all return."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ecclesiastes,3,17",
     "id" : 192413,
@@ -261,7 +453,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eccl 3:17\">3:17</a></b> <b>the righteous and the wicked.</b> As punishment for sin, people, like animals (<a class=\"bibleref\" href=\"/passage/?search=Eccl 3:18-Eccl 3:20\">vv. 18–20</a>), must die (<a class=\"bibleref\" href=\"/passage/?search=Gen 3:19\">Gen. 3:19</a>). Nevertheless the distinction between the righteous and the wicked is not removed by death, but will be revealed at God’s judgment.</p><p><b>time.</b> God ordains whatever occurs on earth (vv. 1–8). He has also appointed a day for judging the deeds of all (the “day of the <span class=\"small-caps\">Lord</span>”; <a class=\"bibleref\" href=\"/passage/?search=Joel 3\">Joel 3</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ecclesiastes,3,21", "ecclesiastes,3,22" ],
+  "verses" : [ {
+    "verse" : "ecclesiastes,3,21",
+    "text" : "Who knows if the spirit of man rises upward and if the spirit of the animal goes down into the earth?\""
+  }, {
+    "verse" : "ecclesiastes,3,22",
+    "text" : "So I saw that there is nothing better for a man than to enjoy his work, because that is his lot. For who can bring him to see what will happen after him?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ecclesiastes,3,21",
     "id" : 192414,

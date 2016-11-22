@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "psalms,88,1", "psalms,88,2" ],
+  "verses" : [ {
+    "verse" : "psalms,88,1",
+    "text" : "O LORD, the God who saves me, day and night I cry out before you."
+  }, {
+    "verse" : "psalms,88,2",
+    "text" : "May my prayer come before you; turn your ear to my cry."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,88,1-psalms,88,18",
     "id" : 191003,
@@ -7,7 +13,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 88\">Ps. 88</a></b> This psalm is the most depressed of all the laments in the Psalter. The writer’s distress can be heard from beginning to end, because his pain has lasted from his youth (v. 15) until the present. Most laments turn to confidence and praise at the end, but in this one the only glimmer of hope is that the psalmist is concerned to pray at all. He refers to God as “my salvation” (v. 1). A Christian is not, as such, free from the suffering of this world. Contrariwise, the Christian lot commonly is suffering and pain. We cannot hope to escape all suffering, but we find solace in the suffering and resurrection of Christ (<a class=\"bibleref\" href=\"/passage/?search=Phil 3:10\">Phil. 3:10</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,88,3", "psalms,88,4" ],
+  "verses" : [ {
+    "verse" : "psalms,88,3",
+    "text" : "For my soul is full of trouble and my life draws near the grave."
+  }, {
+    "verse" : "psalms,88,4",
+    "text" : "I am counted among those who go down to the pit; I am like a man without strength."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,88,3",
     "id" : 191004,
@@ -15,7 +27,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 88:3\">88:3</a></b> <b>Sheol.</b> See <a class=\"bibleref\" href=\"/passage/?search=Ps 6:5\">6:5</a> note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,88,5", "psalms,88,6", "psalms,88,7" ],
+  "verses" : [ {
+    "verse" : "psalms,88,5",
+    "text" : "I am set apart with the dead, like the slain who lie in the grave, whom you remember no more, who are cut off from your care."
+  }, {
+    "verse" : "psalms,88,6",
+    "text" : "You have put me in the lowest pit, in the darkest depths."
+  }, {
+    "verse" : "psalms,88,7",
+    "text" : "Your wrath lies heavily upon me; you have overwhelmed me with all your waves. Selah"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,88,5",
     "id" : 191005,
@@ -23,7 +44,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 88:5\">88:5</a></b> <b>set loose among the dead.</b> His condition is so bad that people treat him as if he were already dead.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,88,8" ],
+  "verses" : [ {
+    "verse" : "psalms,88,8",
+    "text" : "You have taken from me my closest friends and have made me repulsive to them. I am confined and cannot escape;"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,88,8",
     "id" : 191006,
@@ -31,7 +55,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 88:8\">88:8 a</a></b> <b>horror.</b> The psalmist’s unhappiness is reminiscent of the suffering of Job.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,88,9" ],
+  "verses" : [ {
+    "verse" : "psalms,88,9",
+    "text" : "my eyes are dim with grief. I call to you, O LORD, every day; I spread out my hands to you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,88,9",
     "id" : 191007,
@@ -39,7 +66,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 88:9\">88:9</a></b> <b>spread out my hands.</b> An attitude of prayer. Though God afflicts him, or perhaps, because God afflicts him, the psalmist knows there is only one refuge for him—God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,88,10", "psalms,88,11", "psalms,88,12", "psalms,88,13", "psalms,88,14", "psalms,88,15", "psalms,88,16" ],
+  "verses" : [ {
+    "verse" : "psalms,88,10",
+    "text" : "Do you show your wonders to the dead? Do those who are dead rise up and praise you? Selah"
+  }, {
+    "verse" : "psalms,88,11",
+    "text" : "Is your love declared in the grave, your faithfulness in Destruction?"
+  }, {
+    "verse" : "psalms,88,12",
+    "text" : "Are your wonders known in the place of darkness, or your righteous deeds in the land of oblivion?"
+  }, {
+    "verse" : "psalms,88,13",
+    "text" : "But I cry to you for help, O LORD; in the morning my prayer comes before you."
+  }, {
+    "verse" : "psalms,88,14",
+    "text" : "Why, O LORD, do you reject me and hide your face from me?"
+  }, {
+    "verse" : "psalms,88,15",
+    "text" : "From my youth I have been afflicted and close to death; I have suffered your terrors and am in despair."
+  }, {
+    "verse" : "psalms,88,16",
+    "text" : "Your wrath has swept over me; your terrors have destroyed me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,88,10",
     "id" : 191008,
@@ -47,7 +95,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 88:10\">88:10</a></b> <b>work wonders for the dead.</b> See <a class=\"bibleref\" href=\"/passage/?search=Ps 6:5\">6:5</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 30:9\">30:9</a> and notes.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,88,17" ],
+  "verses" : [ {
+    "verse" : "psalms,88,17",
+    "text" : "All day long they surround me like a flood; they have completely engulfed me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,88,17",
     "id" : 191009,
@@ -55,7 +106,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 88:17\">88:17</a></b> <b>like a flood.</b> For water as a figure of trouble, see notes <a class=\"bibleref\" href=\"/passage/?search=Ps 18:4\">18:4</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 18:15\">15</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,88,18" ],
+  "verses" : [ {
+    "verse" : "psalms,88,18",
+    "text" : "You have taken my companions and loved ones from me; the darkness is my closest friend."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,88,18",
     "id" : 191010,

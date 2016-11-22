@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "john,5,24", "john,5,25" ],
+  "verses" : [ {
+    "verse" : "john,5,24",
+    "text" : "\"I tell you the truth, whoever hears my word and believes him who sent me has eternal life and will not be condemned; he has crossed over from death to life."
+  }, {
+    "verse" : "john,5,25",
+    "text" : "I tell you the truth, a time is coming and has now come when the dead will hear the voice of the Son of God and those who hear will live."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,5,17-john,5,47",
     "id" : 196958,
@@ -12,7 +18,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 5:24\">5:24</a></b> <b>eternal life.</b> Salvation is not only an object of hope for the future, but a present reality for the believer; such a one “has passed from death to life” (cf. <a class=\"bibleref\" href=\"/passage/?search=John 6:47\">6:47</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,5,26", "john,5,27", "john,5,28" ],
+  "verses" : [ {
+    "verse" : "john,5,26",
+    "text" : "For as the Father has life in himself, so he has granted the Son to have life in himself."
+  }, {
+    "verse" : "john,5,27",
+    "text" : "And he has given him authority to judge because he is the Son of Man."
+  }, {
+    "verse" : "john,5,28",
+    "text" : "\"Do not be amazed at this, for a time is coming when all who are in their graves will hear his voice"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,5,26",
     "id" : 196966,
@@ -20,7 +35,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 5:26\">5:26</a></b> <b>life in himself.</b> See “The Self-existence of God” at <a class=\"bibleref\" href=\"/passage/?search=Ps 90:2\">Ps. 90:2</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,5,29", "john,5,30" ],
+  "verses" : [ {
+    "verse" : "john,5,29",
+    "text" : "and come out--those who have done good will rise to live, and those who have done evil will rise to be condemned."
+  }, {
+    "verse" : "john,5,30",
+    "text" : "By myself I can do nothing; I judge only as I hear, and my judgment is just, for I seek not to please myself but him who sent me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,5,29",
     "id" : 196967,
@@ -28,7 +49,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 5:29\">5:29</a></b> <b>resurrection.</b> See “Resurrection and Glorification” at <a class=\"bibleref\" href=\"/passage/?search=1Cor 15:21\">1 Cor. 15:21</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,5,31", "john,5,32", "john,5,33", "john,5,34", "john,5,35" ],
+  "verses" : [ {
+    "verse" : "john,5,31",
+    "text" : "\"If I testify about myself, my testimony is not valid."
+  }, {
+    "verse" : "john,5,32",
+    "text" : "There is another who testifies in my favor, and I know that his testimony about me is valid."
+  }, {
+    "verse" : "john,5,33",
+    "text" : "\"You have sent to John and he has testified to the truth."
+  }, {
+    "verse" : "john,5,34",
+    "text" : "Not that I accept human testimony; but I mention it that you may be saved."
+  }, {
+    "verse" : "john,5,35",
+    "text" : "John was a lamp that burned and gave light, and you chose for a time to enjoy his light."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,5,31-john,5,47",
     "id" : 196968,
@@ -41,7 +77,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 5:31\">5:31</a></b> <b>my testimony is not deemed true.</b> Jesus’ testimony would not be false even if He alone spoke it. By “not true,” He means not permitted in court according to the Mosaic law (<a class=\"bibleref\" href=\"/passage/?search=Deut 17:6\">Deut. 17:6</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 19:15\">19:15</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,5,36" ],
+  "verses" : [ {
+    "verse" : "john,5,36",
+    "text" : "\"I have testimony weightier than that of John. For the very work that the Father has given me to finish, and which I am doing, testifies that the Father has sent me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,5,36",
     "id" : 196970,
@@ -49,7 +88,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 5:36\">5:36</a></b> <b>the very works that I am doing.</b> This is the principle acknowledged by Nicodemus (<a class=\"bibleref\" href=\"/passage/?search=John 3:2\">3:2</a>). The power given by God to work miracles is a sign of His approval (<a class=\"bibleref\" href=\"/passage/?search=John 10:25\">10:25</a>, <a class=\"bibleref\" href=\"/passage/?search=John 10:38\">38</a>), although not every wonderful work is a miracle in this sense (<a class=\"bibleref\" href=\"/passage/?search=Exod 7:11\">Ex. 7:11</a>, <a class=\"bibleref\" href=\"/passage/?search=Exod 7:12\">12</a>; <a class=\"bibleref\" href=\"/passage/?search=Matt 7:22\">Matt. 7:22</a>, <a class=\"bibleref\" href=\"/passage/?search=Matt 7:23\">23</a>; <a class=\"bibleref\" href=\"/passage/?search=Matt 24:24\">24:24</a>; <a class=\"bibleref\" href=\"/passage/?search=Rev 13:13\">Rev. 13:13</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,5,37", "john,5,38" ],
+  "verses" : [ {
+    "verse" : "john,5,37",
+    "text" : "And the Father who sent me has himself testified concerning me. You have never heard his voice nor seen his form,"
+  }, {
+    "verse" : "john,5,38",
+    "text" : "nor does his word dwell in you, for you do not believe the one he sent."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,5,37-john,5,38",
     "id" : 196971,
@@ -57,7 +102,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 5:37\">5:37</a>, <a class=\"bibleref\" href=\"/passage/?search=John 5:38\">38</a> His voice . . . his word.</b> These terms probably refer to Scripture, which is God’s “voice” and “word,” but which the unbelievers did not receive.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,5,39", "john,5,40", "john,5,41", "john,5,42", "john,5,43", "john,5,44" ],
+  "verses" : [ {
+    "verse" : "john,5,39",
+    "text" : "You diligently study the Scriptures because you think that by them you possess eternal life. These are the Scriptures that testify about me,"
+  }, {
+    "verse" : "john,5,40",
+    "text" : "yet you refuse to come to me to have life."
+  }, {
+    "verse" : "john,5,41",
+    "text" : "\"I do not accept praise from men,"
+  }, {
+    "verse" : "john,5,42",
+    "text" : "but I know you. I know that you do not have the love of God in your hearts."
+  }, {
+    "verse" : "john,5,43",
+    "text" : "I have come in my Father's name, and you do not accept me; but if someone else comes in his own name, you will accept him."
+  }, {
+    "verse" : "john,5,44",
+    "text" : "How can you believe if you accept praise from one another, yet make no effort to obtain the praise that comes from the only God?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,5,39",
     "id" : 196972,
@@ -65,7 +128,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 5:39\">5:39</a></b> <b>the Scriptures . . . bear witness about me.</b> Jesus agrees that the Old Testament leads to eternal life (cf. <a class=\"bibleref\" href=\"/passage/?search=2Tim 3:15\">2 Tim. 3:15</a>), while going on to reveal that this life is in Him, the Author of eternal life. The searching of those who refuse to find Christ in the Scriptures is futile, because it lacks the enlightenment of the Spirit (<a class=\"bibleref\" href=\"/passage/?search=2Cor 3:6\">2 Cor. 3:6</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,5,45", "john,5,46", "john,5,47" ],
+  "verses" : [ {
+    "verse" : "john,5,45",
+    "text" : "\"But do not think I will accuse you before the Father. Your accuser is Moses, on whom your hopes are set."
+  }, {
+    "verse" : "john,5,46",
+    "text" : "If you believed Moses, you would believe me, for he wrote about me."
+  }, {
+    "verse" : "john,5,47",
+    "text" : "But since you do not believe what he wrote, how are you going to believe what I say?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,5,45",
     "id" : 196973,

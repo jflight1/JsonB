@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "proverbs,10,31", "proverbs,10,32" ],
+  "verses" : [ {
+    "verse" : "proverbs,10,31",
+    "text" : "The mouth of the righteous brings forth wisdom, but a perverse tongue will be cut out."
+  }, {
+    "verse" : "proverbs,10,32",
+    "text" : "The lips of the righteous know what is fitting, but the mouth of the wicked only what is perverse."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

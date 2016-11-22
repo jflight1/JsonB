@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,11,8" ],
+  "verses" : [ {
+    "verse" : "proverbs,11,8",
+    "text" : "The righteous man is rescued from trouble, and it comes on the wicked instead."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

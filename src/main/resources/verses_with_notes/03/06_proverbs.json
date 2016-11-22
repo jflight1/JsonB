@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "proverbs,10,27", "proverbs,10,28" ],
+  "verses" : [ {
+    "verse" : "proverbs,10,27",
+    "text" : "The fear of the LORD adds length to life, but the years of the wicked are cut short."
+  }, {
+    "verse" : "proverbs,10,28",
+    "text" : "The prospect of the righteous is joy, but the hopes of the wicked come to nothing."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

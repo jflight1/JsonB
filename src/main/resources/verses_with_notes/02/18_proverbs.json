@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,10,3" ],
+  "verses" : [ {
+    "verse" : "proverbs,10,3",
+    "text" : "The LORD does not let the righteous go hungry but he thwarts the craving of the wicked."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -17,7 +20,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 10:3\">10:3</a></b> <b>does not let . . . go hungry.</b> There is a correlation between righteousness and life both in the covenant promises of God and in general life experience. The suffering of the righteous is not in view, however (cf. <a class=\"bibleref\" href=\"/passage/?search=Prov 1:19\">1:19</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,10,4" ],
+  "verses" : [ {
+    "verse" : "proverbs,10,4",
+    "text" : "Lazy hands make a man poor, but diligent hands bring wealth."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,4-proverbs,10,5",
     "id" : 191847,

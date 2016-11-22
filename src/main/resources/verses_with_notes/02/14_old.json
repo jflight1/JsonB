@@ -1,5 +1,164 @@
 [ {
-  "singleVerses" : [ "exodus,37,1", "exodus,37,2", "exodus,37,3", "exodus,37,4", "exodus,37,5", "exodus,37,6", "exodus,37,7", "exodus,37,8", "exodus,37,9", "exodus,37,10", "exodus,37,11", "exodus,37,12", "exodus,37,13", "exodus,37,14", "exodus,37,15", "exodus,37,16", "exodus,37,17", "exodus,37,18", "exodus,37,19", "exodus,37,20", "exodus,37,21", "exodus,37,22", "exodus,37,23", "exodus,37,24", "exodus,37,25", "exodus,37,26", "exodus,37,27", "exodus,37,28", "exodus,37,29", "exodus,38,1", "exodus,38,2", "exodus,38,3", "exodus,38,4", "exodus,38,5", "exodus,38,6", "exodus,38,7", "exodus,38,8", "exodus,38,9", "exodus,38,10", "exodus,38,11", "exodus,38,12", "exodus,38,13", "exodus,38,14", "exodus,38,15", "exodus,38,16", "exodus,38,17", "exodus,38,18", "exodus,38,19", "exodus,38,20", "exodus,38,21", "exodus,38,22", "exodus,38,23", "exodus,38,24" ],
+  "verses" : [ {
+    "verse" : "exodus,37,1",
+    "text" : "Bezalel made the ark of acacia wood-two and a half cubits long, a cubit and a half wide, and a cubit and a half high."
+  }, {
+    "verse" : "exodus,37,2",
+    "text" : "He overlaid it with pure gold, both inside and out, and made a gold molding around it."
+  }, {
+    "verse" : "exodus,37,3",
+    "text" : "He cast four gold rings for it and fastened them to its four feet, with two rings on one side and two rings on the other."
+  }, {
+    "verse" : "exodus,37,4",
+    "text" : "Then he made poles of acacia wood and overlaid them with gold."
+  }, {
+    "verse" : "exodus,37,5",
+    "text" : "And he inserted the poles into the rings on the sides of the ark to carry it."
+  }, {
+    "verse" : "exodus,37,6",
+    "text" : "He made the atonement cover of pure gold-two and a half cubits long and a cubit and a half wide."
+  }, {
+    "verse" : "exodus,37,7",
+    "text" : "Then he made two cherubim out of hammered gold at the ends of the cover."
+  }, {
+    "verse" : "exodus,37,8",
+    "text" : "He made one cherub on one end and the second cherub on the other; at the two ends he made them of one piece with the cover."
+  }, {
+    "verse" : "exodus,37,9",
+    "text" : "The cherubim had their wings spread upward, overshadowing the cover with them. The cherubim faced each other, looking toward the cover."
+  }, {
+    "verse" : "exodus,37,10",
+    "text" : "They made the table of acacia wood-two cubits long, a cubit wide, and a cubit and a half high."
+  }, {
+    "verse" : "exodus,37,11",
+    "text" : "Then they overlaid it with pure gold and made a gold molding around it."
+  }, {
+    "verse" : "exodus,37,12",
+    "text" : "They also made around it a rim a handbreadth wide and put a gold molding on the rim."
+  }, {
+    "verse" : "exodus,37,13",
+    "text" : "They cast four gold rings for the table and fastened them to the four corners, where the four legs were."
+  }, {
+    "verse" : "exodus,37,14",
+    "text" : "The rings were put close to the rim to hold the poles used in carrying the table."
+  }, {
+    "verse" : "exodus,37,15",
+    "text" : "The poles for carrying the table were made of acacia wood and were overlaid with gold."
+  }, {
+    "verse" : "exodus,37,16",
+    "text" : "And they made from pure gold the articles for the table-its plates and dishes and bowls and its pitchers for the pouring out of drink offerings."
+  }, {
+    "verse" : "exodus,37,17",
+    "text" : "They made the lampstand of pure gold and hammered it out, base and shaft; its flowerlike cups, buds and blossoms were of one piece with it."
+  }, {
+    "verse" : "exodus,37,18",
+    "text" : "Six branches extended from the sides of the lampstand-three on one side and three on the other."
+  }, {
+    "verse" : "exodus,37,19",
+    "text" : "Three cups shaped like almond flowers with buds and blossoms were on one branch, three on the next branch and the same for all six branches extending from the lampstand."
+  }, {
+    "verse" : "exodus,37,20",
+    "text" : "And on the lampstand were four cups shaped like almond flowers with buds and blossoms."
+  }, {
+    "verse" : "exodus,37,21",
+    "text" : "One bud was under the first pair of branches extending from the lampstand, a second bud under the second pair, and a third bud under the third pair-six branches in all."
+  }, {
+    "verse" : "exodus,37,22",
+    "text" : "The buds and the branches were all of one piece with the lampstand, hammered out of pure gold."
+  }, {
+    "verse" : "exodus,37,23",
+    "text" : "They made its seven lamps, as well as its wick trimmers and trays, of pure gold."
+  }, {
+    "verse" : "exodus,37,24",
+    "text" : "They made the lampstand and all its accessories from one talent of pure gold."
+  }, {
+    "verse" : "exodus,37,25",
+    "text" : "They made the altar of incense out of acacia wood. It was square, a cubit long and a cubit wide, and two cubits high -its horns of one piece with it."
+  }, {
+    "verse" : "exodus,37,26",
+    "text" : "They overlaid the top and all the sides and the horns with pure gold, and made a gold molding around it."
+  }, {
+    "verse" : "exodus,37,27",
+    "text" : "They made two gold rings below the molding-two on opposite sides-to hold the poles used to carry it."
+  }, {
+    "verse" : "exodus,37,28",
+    "text" : "They made the poles of acacia wood and overlaid them with gold."
+  }, {
+    "verse" : "exodus,37,29",
+    "text" : "They also made the sacred anointing oil and the pure, fragrant incense-the work of a perfumer."
+  }, {
+    "verse" : "exodus,38,1",
+    "text" : "They built the altar of burnt offering of acacia wood, three cubits high; it was square, five cubits long and five cubits wide."
+  }, {
+    "verse" : "exodus,38,2",
+    "text" : "They made a horn at each of the four corners, so that the horns and the altar were of one piece, and they overlaid the altar with bronze."
+  }, {
+    "verse" : "exodus,38,3",
+    "text" : "They made all its utensils of bronze-its pots, shovels, sprinkling bowls, meat forks and firepans."
+  }, {
+    "verse" : "exodus,38,4",
+    "text" : "They made a grating for the altar, a bronze network, to be under its ledge, halfway up the altar."
+  }, {
+    "verse" : "exodus,38,5",
+    "text" : "They cast bronze rings to hold the poles for the four corners of the bronze grating."
+  }, {
+    "verse" : "exodus,38,6",
+    "text" : "They made the poles of acacia wood and overlaid them with bronze."
+  }, {
+    "verse" : "exodus,38,7",
+    "text" : "They inserted the poles into the rings so they would be on the sides of the altar for carrying it. They made it hollow, out of boards."
+  }, {
+    "verse" : "exodus,38,8",
+    "text" : "They made the bronze basin and its bronze stand from the mirrors of the women who served at the entrance to the Tent of Meeting."
+  }, {
+    "verse" : "exodus,38,9",
+    "text" : "Next they made the courtyard. The south side was a hundred cubits long and had curtains of finely twisted linen,"
+  }, {
+    "verse" : "exodus,38,10",
+    "text" : "with twenty posts and twenty bronze bases, and with silver hooks and bands on the posts."
+  }, {
+    "verse" : "exodus,38,11",
+    "text" : "The north side was also a hundred cubits long and had twenty posts and twenty bronze bases, with silver hooks and bands on the posts."
+  }, {
+    "verse" : "exodus,38,12",
+    "text" : "The west end was fifty cubits wide and had curtains, with ten posts and ten bases, with silver hooks and bands on the posts."
+  }, {
+    "verse" : "exodus,38,13",
+    "text" : "The east end, toward the sunrise, was also fifty cubits wide."
+  }, {
+    "verse" : "exodus,38,14",
+    "text" : "Curtains fifteen cubits long were on one side of the entrance, with three posts and three bases,"
+  }, {
+    "verse" : "exodus,38,15",
+    "text" : "and curtains fifteen cubits long were on the other side of the entrance to the courtyard, with three posts and three bases."
+  }, {
+    "verse" : "exodus,38,16",
+    "text" : "All the curtains around the courtyard were of finely twisted linen."
+  }, {
+    "verse" : "exodus,38,17",
+    "text" : "The bases for the posts were bronze. The hooks and bands on the posts were silver, and their tops were overlaid with silver; so all the posts of the courtyard had silver bands."
+  }, {
+    "verse" : "exodus,38,18",
+    "text" : "The curtain for the entrance to the courtyard was of blue, purple and scarlet yarn and finely twisted linen-the work of an embroiderer. It was twenty cubits long and, like the curtains of the courtyard, five cubits high,"
+  }, {
+    "verse" : "exodus,38,19",
+    "text" : "with four posts and four bronze bases. Their hooks and bands were silver, and their tops were overlaid with silver."
+  }, {
+    "verse" : "exodus,38,20",
+    "text" : "All the tent pegs of the tabernacle and of the surrounding courtyard were bronze."
+  }, {
+    "verse" : "exodus,38,21",
+    "text" : "These are the amounts of the materials used for the tabernacle, the tabernacle of the Testimony, which were recorded at Moses' command by the Levites under the direction of Ithamar son of Aaron, the priest."
+  }, {
+    "verse" : "exodus,38,22",
+    "text" : "(Bezalel son of Uri, the son of Hur, of the tribe of Judah, made everything the LORD commanded Moses;"
+  }, {
+    "verse" : "exodus,38,23",
+    "text" : "with him was Oholiab son of Ahisamach, of the tribe of Dan-a craftsman and designer, and an embroiderer in blue, purple and scarlet yarn and fine linen.)"
+  }, {
+    "verse" : "exodus,38,24",
+    "text" : "The total amount of the gold from the wave offering used for all the work on the sanctuary was 29 talents and 730 shekels, according to the sanctuary shekel."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,35,4-exodus,39,43",
     "id" : 185989,
@@ -12,7 +171,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 36:8-Exod 39:43\">36:8–39:43</a></b> The work of Bezalel, Oholiab, and their crew of skilled laborers is recounted. The detail of the account underscores the attention paid by the builders to the word of the Lord (<a class=\"bibleref\" href=\"/passage/?search=Exod 39:42-Exod 39:43\">39:42–43</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,38,25", "exodus,38,26", "exodus,38,27", "exodus,38,28", "exodus,38,29", "exodus,38,30", "exodus,38,31" ],
+  "verses" : [ {
+    "verse" : "exodus,38,25",
+    "text" : "The silver obtained from those of the community who were counted in the census was 100 talents and 1,775 shekels, according to the sanctuary shekel-"
+  }, {
+    "verse" : "exodus,38,26",
+    "text" : "one beka per person, that is, half a shekel, according to the sanctuary shekel, from everyone who had crossed over to those counted, twenty years old or more, a total of 603,550 men."
+  }, {
+    "verse" : "exodus,38,27",
+    "text" : "The 100 talents of silver were used to cast the bases for the sanctuary and for the curtain-100 bases from the 100 talents, one talent for each base."
+  }, {
+    "verse" : "exodus,38,28",
+    "text" : "They used the 1,775 shekels to make the hooks for the posts, to overlay the tops of the posts, and to make their bands."
+  }, {
+    "verse" : "exodus,38,29",
+    "text" : "The bronze from the wave offering was 70 talents and 2,400 shekels."
+  }, {
+    "verse" : "exodus,38,30",
+    "text" : "They used it to make the bases for the entrance to the Tent of Meeting, the bronze altar with its bronze grating and all its utensils,"
+  }, {
+    "verse" : "exodus,38,31",
+    "text" : "the bases for the surrounding courtyard and those for its entrance and all the tent pegs for the tabernacle and those for the surrounding courtyard."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,38,25",
     "id" : 185992,

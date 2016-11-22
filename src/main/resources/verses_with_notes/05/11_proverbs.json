@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,15,1" ],
+  "verses" : [ {
+    "verse" : "proverbs,15,1",
+    "text" : "A gentle answer turns away wrath, but a harsh word stirs up anger."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 15:1\">15:1</a></b> The power of words to build up or to destroy relationships is stressed here and in <a class=\"bibleref\" href=\"/passage/?search=Prov 15:2\">vv. 2</a>, <a class=\"bibleref\" href=\"/passage/?search=Prov 15:4\">4</a>, <a class=\"bibleref\" href=\"/passage/?search=Prov 15:7\">7</a>, <a class=\"bibleref\" href=\"/passage/?search=Prov 15:14\">14</a>, and <a class=\"bibleref\" href=\"/passage/?search=Prov 15:23\">23</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,15,2" ],
+  "verses" : [ {
+    "verse" : "proverbs,15,2",
+    "text" : "The tongue of the wise commends knowledge, but the mouth of the fool gushes folly."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,15,2",
     "id" : 191975,
@@ -20,7 +26,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 15:2\">15:2</a></b> See <a class=\"bibleref\" href=\"/passage/?search=Prov 6:17\">6:17</a>, <a class=\"bibleref\" href=\"/passage/?search=Prov 6:24\">24</a>; <a class=\"bibleref\" href=\"/passage/?search=Prov 10:20\">10:20</a>, <a class=\"bibleref\" href=\"/passage/?search=Prov 10:31\">31</a>; <a class=\"bibleref\" href=\"/passage/?search=Prov 12:17-Prov 12:19\">12:17–19</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,15,3" ],
+  "verses" : [ {
+    "verse" : "proverbs,15,3",
+    "text" : "The eyes of the LORD are everywhere, keeping watch on the wicked and the good."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,15,3",
     "id" : 191976,

@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,25,25" ],
+  "verses" : [ {
+    "verse" : "proverbs,25,25",
+    "text" : "Like cold water to a weary soul is good news from a distant land."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,25,25",
     "id" : 192246,
@@ -7,7 +10,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 25:25\">25:25</a></b> For the form of this proverb, see note on <a class=\"bibleref\" href=\"/passage/?search=Prov 25:11\">v. 11</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,25,26", "proverbs,25,27" ],
+  "verses" : [ {
+    "verse" : "proverbs,25,26",
+    "text" : "Like a muddied spring or a polluted well is a righteous man who gives way to the wicked."
+  }, {
+    "verse" : "proverbs,25,27",
+    "text" : "It is not good to eat too much honey, nor is it honorable to seek one's own honor."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,25,26",
     "id" : 192247,

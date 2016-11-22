@@ -1,5 +1,17 @@
 [ {
-  "singleVerses" : [ "psalms,136,1", "psalms,136,2", "psalms,136,3", "psalms,136,4" ],
+  "verses" : [ {
+    "verse" : "psalms,136,1",
+    "text" : "Give thanks to the LORD, for he is good. His love endures forever."
+  }, {
+    "verse" : "psalms,136,2",
+    "text" : "Give thanks to the God of gods. His love endures forever."
+  }, {
+    "verse" : "psalms,136,3",
+    "text" : "Give thanks to the Lord of lords: His love endures forever."
+  }, {
+    "verse" : "psalms,136,4",
+    "text" : "to him who alone does great wonders, His love endures forever."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,136,1-psalms,136,26",
     "id" : 191504,
@@ -12,7 +24,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 136:1\">136:1</a></b> <b>his steadfast love endures forever.</b> God’s mercy is His devotion to His people, to whom He is freely bound by the pledge of His own grace in His covenant. See theological note “God Is Love: Divine Goodness and Faithfulness” on next page.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,136,5", "psalms,136,6" ],
+  "verses" : [ {
+    "verse" : "psalms,136,5",
+    "text" : "who by his understanding made the heavens, His love endures forever."
+  }, {
+    "verse" : "psalms,136,6",
+    "text" : "who spread out the earth upon the waters, His love endures forever."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,136,5",
     "id" : 191506,
@@ -20,7 +38,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 136:5\">136:5</a></b> <b>by understanding.</b> God’s wisdom is associated often with the creation (<a class=\"bibleref\" href=\"/passage/?search=Prov 8\">Prov. 8</a>).</p><p><b>made the heavens.</b> This section meditates on God’s creation as described in <a class=\"bibleref\" href=\"/passage/?search=Gen 1\">Gen. 1</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,136,7", "psalms,136,8", "psalms,136,9" ],
+  "verses" : [ {
+    "verse" : "psalms,136,7",
+    "text" : "who made the great lights- His love endures forever."
+  }, {
+    "verse" : "psalms,136,8",
+    "text" : "the sun to govern the day, His love endures forever."
+  }, {
+    "verse" : "psalms,136,9",
+    "text" : "the moon and stars to govern the night; His love endures forever."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,136,7",
     "id" : 191507,
@@ -28,7 +55,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 136:7\">136:7</a></b> <b>great lights.</b> The sun and the moon (<a class=\"bibleref\" href=\"/passage/?search=Ps 136:8\">vv. 8</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 136:9\">9</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,136,10", "psalms,136,11", "psalms,136,12" ],
+  "verses" : [ {
+    "verse" : "psalms,136,10",
+    "text" : "to him who struck down the firstborn of Egypt His love endures forever."
+  }, {
+    "verse" : "psalms,136,11",
+    "text" : "and brought Israel out from among them His love endures forever."
+  }, {
+    "verse" : "psalms,136,12",
+    "text" : "with a mighty hand and outstretched arm; His love endures forever."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,136,10",
     "id" : 191508,
@@ -36,7 +72,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 136:10\">136:10</a></b> <b>the firstborn of Egypt.</b> The tenth and most terrible plague preceding the Exodus (<a class=\"bibleref\" href=\"/passage/?search=Exod 11\">Ex. 11</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,136,13", "psalms,136,14", "psalms,136,15", "psalms,136,16", "psalms,136,17", "psalms,136,18" ],
+  "verses" : [ {
+    "verse" : "psalms,136,13",
+    "text" : "to him who divided the Red Sea asunder His love endures forever."
+  }, {
+    "verse" : "psalms,136,14",
+    "text" : "and brought Israel through the midst of it, His love endures forever."
+  }, {
+    "verse" : "psalms,136,15",
+    "text" : "but swept Pharaoh and his army into the Red Sea; His love endures forever."
+  }, {
+    "verse" : "psalms,136,16",
+    "text" : "to him who led his people through the desert, His love endures forever."
+  }, {
+    "verse" : "psalms,136,17",
+    "text" : "who struck down great kings, His love endures forever."
+  }, {
+    "verse" : "psalms,136,18",
+    "text" : "and killed mighty kings- His love endures forever."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,136,13",
     "id" : 191509,
@@ -44,7 +98,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 136:13\">136:13</a></b> <b>who divided the Red Sea in two.</b> <a class=\"bibleref\" href=\"/passage/?search=Exod 14\">Ex. 14</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 15\">15</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,136,19", "psalms,136,20", "psalms,136,21", "psalms,136,22" ],
+  "verses" : [ {
+    "verse" : "psalms,136,19",
+    "text" : "Sihon king of the Amorites His love endures forever."
+  }, {
+    "verse" : "psalms,136,20",
+    "text" : "and Og king of Bashan- His love endures forever."
+  }, {
+    "verse" : "psalms,136,21",
+    "text" : "and gave their land as an inheritance, His love endures forever."
+  }, {
+    "verse" : "psalms,136,22",
+    "text" : "an inheritance to his servant Israel; His love endures forever."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,136,19-psalms,136,20",
     "id" : 191510,
@@ -52,7 +118,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 136:19\">136:19</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 136:20\">20</a> Sihon . . . Og.</b> See <a class=\"bibleref\" href=\"/passage/?search=Ps 135:11\">135:11</a> and note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,136,23" ],
+  "verses" : [ {
+    "verse" : "psalms,136,23",
+    "text" : "to the One who remembered us in our low estate His love endures forever."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,136,23",
     "id" : 191511,
@@ -60,7 +129,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 136:23\">136:23</a></b> <b>remembered us.</b> The psalm becomes personal, applying God’s salvation to the present. God continues to work as He has worked in the past to save His people from distress.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,136,24", "psalms,136,25", "psalms,136,26" ],
+  "verses" : [ {
+    "verse" : "psalms,136,24",
+    "text" : "and freed us from our enemies, His love endures forever."
+  }, {
+    "verse" : "psalms,136,25",
+    "text" : "and who gives food to every creature. His love endures forever."
+  }, {
+    "verse" : "psalms,136,26",
+    "text" : "Give thanks to the God of heaven. His love endures forever."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,136,24",
     "id" : 191512,

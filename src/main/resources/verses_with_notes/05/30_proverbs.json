@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,16,10" ],
+  "verses" : [ {
+    "verse" : "proverbs,16,10",
+    "text" : "The lips of a king speak as an oracle, and his mouth should not betray justice."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 16:10\">16:10</a></b> <b>An oracle.</b> The king’s word was law, and he was entitled to seek divine guidance for his judgments. David spoke as a messenger of God (<a class=\"bibleref\" href=\"/passage/?search=2Sam 14:17\">2 Sam. 14:17</a>, <a class=\"bibleref\" href=\"/passage/?search=2Sam 14:20\">20</a>) and Solomon desired a discerning heart (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 3:9\">1 Kin. 3:9</a>). The gift of God’s wisdom to the king did not relieve him of the responsibility to seek wisdom and to act according to justice.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,16,11" ],
+  "verses" : [ {
+    "verse" : "proverbs,16,11",
+    "text" : "Honest scales and balances are from the LORD; all the weights in the bag are of his making."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,16,11",
     "id" : 192011,

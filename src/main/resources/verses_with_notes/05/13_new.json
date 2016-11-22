@@ -1,8 +1,20 @@
 [ {
-  "singleVerses" : [ "john,7,31", "john,7,32", "john,7,33" ],
+  "verses" : [ {
+    "verse" : "john,7,31",
+    "text" : "Still, many in the crowd put their faith in him. They said, \"When the Christ comes, will he do more miraculous signs than this man?\""
+  }, {
+    "verse" : "john,7,32",
+    "text" : "The Pharisees heard the crowd whispering such things about him. Then the chief priests and the Pharisees sent temple guards to arrest him."
+  }, {
+    "verse" : "john,7,33",
+    "text" : "Jesus said, \"I am with you for only a short time, and then I go to the one who sent me."
+  } ],
   "rsbNotes" : [ ]
 }, {
-  "singleVerses" : [ "john,7,34" ],
+  "verses" : [ {
+    "verse" : "john,7,34",
+    "text" : "You will look for me, but you will not find me; and where I am, you cannot come.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,7,34",
     "id" : 197027,
@@ -10,7 +22,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 7:34\">7:34</a></b> <b>You will seek me and you will not find me.</b> This is not in contradiction with <a class=\"bibleref\" href=\"/passage/?search=Matt 7:7\">Matt. 7:7</a>. There Jesus is speaking about a thirst for God (cf. v. 37) that only the Holy Spirit creates in someone; but here He is referring to an effort to find Him geographically, which would be futile since He would be in heaven. Note the contrast between unbelievers (v. 34) and believers (14:3).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,7,35", "john,7,36" ],
+  "verses" : [ {
+    "verse" : "john,7,35",
+    "text" : "The Jews said to one another, \"Where does this man intend to go that we cannot find him? Will he go where our people live scattered among the Greeks, and teach the Greeks?"
+  }, {
+    "verse" : "john,7,36",
+    "text" : "What did he mean when he said, 'You will look for me, but you will not find me,' and 'Where I am, you cannot come'?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,7,35",
     "id" : 197028,
@@ -18,7 +36,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 7:35\">7:35</a></b> <b>Where does this man intend to go.</b> The Jews were puzzled as to Christ’s origin and so could not understand His destination, which was heaven. They understood it merely in geographical terms and were not pleased at the thought that He would exercise His ministry among the Greeks, heathens that they despised.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,7,37" ],
+  "verses" : [ {
+    "verse" : "john,7,37",
+    "text" : "On the last and greatest day of the Feast, Jesus stood and said in a loud voice, \"If anyone is thirsty, let him come to me and drink."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,7,37-john,7,38",
     "id" : 197029,
@@ -26,7 +47,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 7:37\">7:37</a>, <a class=\"bibleref\" href=\"/passage/?search=John 7:38\">38</a></b> At the climax of the feast, Jesus repeated dramatically the message He had given to the Samaritan woman (<a class=\"bibleref\" href=\"/passage/?search=John 4:10-John 4:14\">4:10–14</a>) making clear that coming to Him meant believing in Him.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,7,38" ],
+  "verses" : [ {
+    "verse" : "john,7,38",
+    "text" : "Whoever believes in me, as the Scripture has said, streams of living water will flow from within him.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,7,38",
     "id" : 197030,
@@ -34,7 +58,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 7:38\">7:38</a></b> <b>as the Scripture has said.</b> What follows is not an exact quotation from the Old Testament, but there are several Old Testament passages that connect water with the end-time gift of the Spirit (e.g., <a class=\"bibleref\" href=\"/passage/?search=Isa 44:3\">Is. 44:3</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 36:25-Ezek 36:27\">Ezek. 36:25–27</a>) and the blessings of the present (messianic) age (e.g., <a class=\"bibleref\" href=\"/passage/?search=Isa 12:3\">Is. 12:3</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 58:11\">58:11</a>). Jesus fulfills the meaning of the Feast of Booths (v. 2 note).</p><p><b>rivers.</b> This implies great abundance, benefiting not only believers, but also those around them.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,7,39" ],
+  "verses" : [ {
+    "verse" : "john,7,39",
+    "text" : "By this he meant the Spirit, whom those who believed in him were later to receive. Up to that time the Spirit had not been given, since Jesus had not yet been glorified."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,7,39",
     "id" : 197031,
@@ -42,7 +69,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 7:39\">7:39</a></b> <b>the Spirit had not been given.</b> Jesus is referring to the blessing of Pentecost. Of course, the Holy Spirit was present in the Old Testament period, but at Pentecost He entered into a more intimate relationship with believers (<a class=\"bibleref\" href=\"/passage/?search=John 14:17\">14:17</a>; <a class=\"bibleref\" href=\"/passage/?search=1Cor 6:19\">1 Cor. 6:19</a>). This is the Messiah’s gift to His people: He baptizes with the Spirit (<a class=\"bibleref\" href=\"/passage/?search=Matt 3:11\">Matt. 3:11</a>; <a class=\"bibleref\" href=\"/passage/?search=Mark 1:8\">Mark 1:8</a>; <a class=\"bibleref\" href=\"/passage/?search=Luke 3:16\">Luke 3:16</a>), but this blessing in its full measure and glory must await the ascension of Christ who will pour out the Spirit from heaven upon His people (16:7; cf. <a class=\"bibleref\" href=\"/passage/?search=Eph 4:8\">Eph. 4:8</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,7,40" ],
+  "verses" : [ {
+    "verse" : "john,7,40",
+    "text" : "On hearing his words, some of the people said, \"Surely this man is the Prophet.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,7,40",
     "id" : 197032,
@@ -50,7 +80,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 7:40\">7:40</a></b> <b>the Prophet.</b> A reference to <a class=\"bibleref\" href=\"/passage/?search=Deut 18:15\">Deut. 18:15</a>. It is interesting to observe the testimony of those outside the group of disciples who were not blinded by prejudice. They understood that Jesus could be “the Prophet” promised by Moses. They knew that His miracles were worthy of the Messiah they expected (v. 31). Some called him “the Christ” (v. 41), and they testified that no one ever spoke like Him (v. 46).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,7,41", "john,7,42", "john,7,43", "john,7,44" ],
+  "verses" : [ {
+    "verse" : "john,7,41",
+    "text" : "Others said, \"He is the Christ.\""
+  }, {
+    "verse" : "john,7,42",
+    "text" : "Still others asked, \"How can the Christ come from Galilee? Does not the Scripture say that the Christ will come from David's family and from Bethlehem, the town where David lived?\""
+  }, {
+    "verse" : "john,7,43",
+    "text" : "Thus the people were divided because of Jesus."
+  }, {
+    "verse" : "john,7,44",
+    "text" : "Some wanted to seize him, but no one laid a hand on him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,7,41-john,7,43",
     "id" : 197033,
@@ -58,7 +100,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 7:41-John 7:43\">7:41–43</a></b> Dispute over the identity of Jesus continues to focus on His origin (cf. <a class=\"bibleref\" href=\"/passage/?search=John 7:25-John 7:36\">vv. 25–36</a> and notes). The people’s questioning remains trapped within the limits of this world (<a class=\"bibleref\" href=\"/passage/?search=John 3:1-John 3:15\">3:1–15</a>; <a class=\"bibleref\" href=\"/passage/?search=John 4:1-John 4:26\">4:1–26</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,7,45", "john,7,46", "john,7,47", "john,7,48", "john,7,49", "john,7,50", "john,7,51" ],
+  "verses" : [ {
+    "verse" : "john,7,45",
+    "text" : "Finally the temple guards went back to the chief priests and Pharisees, who asked them, \"Why didn't you bring him in?\""
+  }, {
+    "verse" : "john,7,46",
+    "text" : "\"No one ever spoke the way this man does,\" the guards declared."
+  }, {
+    "verse" : "john,7,47",
+    "text" : "\"You mean he has deceived you also?\" the Pharisees retorted."
+  }, {
+    "verse" : "john,7,48",
+    "text" : "\"Has any of the rulers or of the Pharisees believed in him?"
+  }, {
+    "verse" : "john,7,49",
+    "text" : "No! But this mob that knows nothing of the law--there is a curse on them.\""
+  }, {
+    "verse" : "john,7,50",
+    "text" : "Nicodemus, who had gone to Jesus earlier and who was one of their own number, asked,"
+  }, {
+    "verse" : "john,7,51",
+    "text" : "\"Does our law condemn anyone without first hearing him to find out what he is doing?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,7,45-john,7,52",
     "id" : 197034,
@@ -66,7 +129,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 7:45-John 7:52\">7:45–52</a></b> The strong prejudice of the chief priests and Pharisees is apparent in their condemnation of the temple guards (<a class=\"bibleref\" href=\"/passage/?search=John 7:47\">vv. 47</a>, <a class=\"bibleref\" href=\"/passage/?search=John 7:48\">48</a>), of the crowd (<a class=\"bibleref\" href=\"/passage/?search=John 7:49\">v. 49</a>), and even of Nicodemus, one of their number (<a class=\"bibleref\" href=\"/passage/?search=John 7:52\">v. 52</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,7,52" ],
+  "verses" : [ {
+    "verse" : "john,7,52",
+    "text" : "They replied, \"Are you from Galilee, too? Look into it, and you will find that a prophet does not come out of Galilee.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,7,52",
     "id" : 197035,
@@ -74,7 +140,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 7:52\">7:52</a></b> Galilee was held in contempt by the Sanhedrin as a mixed-race region where the law was not zealously observed.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,7,53" ],
+  "verses" : [ {
+    "verse" : "john,7,53",
+    "text" : "Then each went to his own home."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,7,53-john,8,11",
     "id" : 197036,

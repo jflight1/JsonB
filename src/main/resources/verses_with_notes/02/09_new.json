@@ -1,8 +1,20 @@
 [ {
-  "singleVerses" : [ "matthew,26,14", "matthew,26,15", "matthew,26,16" ],
+  "verses" : [ {
+    "verse" : "matthew,26,14",
+    "text" : "Then one of the Twelve--the one called Judas Iscariot--went to the chief priests"
+  }, {
+    "verse" : "matthew,26,15",
+    "text" : "and asked, \"What are you willing to give me if I hand him over to you?\" So they counted out for him thirty silver coins."
+  }, {
+    "verse" : "matthew,26,16",
+    "text" : "From then on Judas watched for an opportunity to hand him over."
+  } ],
   "rsbNotes" : [ ]
 }, {
-  "singleVerses" : [ "matthew,26,17" ],
+  "verses" : [ {
+    "verse" : "matthew,26,17",
+    "text" : "On the first day of the Feast of Unleavened Bread, the disciples came to Jesus and asked, \"Where do you want us to make preparations for you to eat the Passover?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,26,17",
     "id" : 195916,
@@ -10,7 +22,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 26:17\">26:17</a></b> <b>the first day of Unleavened Bread.</b> The day of preparation for Passover, presumably 14 Nisan (the first month of the Jewish calendar). Jesus celebrated Passover that evening, 15 Nisan, and was crucified the next afternoon. The Gospel of John seems to present Jesus as crucified on the day before Passover (<a class=\"bibleref\" href=\"/passage/?search=John 18:28\">John 18:28</a>; <a class=\"bibleref\" href=\"/passage/?search=John 19:14\">19:14</a>, <a class=\"bibleref\" href=\"/passage/?search=John 19:31\">31</a>), making the Lord’s Supper not a Passover meal.</p><p>Calvin understood Preparation Day to be the day before Passover, and argued that the Jews according to some traditions combined the Passover with the weekly Sabbath (<a class=\"bibleref\" href=\"/passage/?search=John 19:14\">John 19:14</a> note). Then <a class=\"bibleref\" href=\"/passage/?search=Matt 27:62\">Matt. 27:62</a> would refer to the Preparation Day observed by the Jewish leadership. There is some difficulty, however, in seeing how Jesus’ disciples could have had their lamb slaughtered in advance of the official schedule, and <a class=\"bibleref\" href=\"/passage/?search=Mark 14:12\">Mark 14:12</a> clearly indicates that Jesus arranged for Passover on the day when the lambs were customarily slaughtered. Whatever the solution, Matthew clearly identifies the meal that Jesus ate with His disciples on the eve of His crucifixion as the Passover meal.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,26,18", "matthew,26,19", "matthew,26,20", "matthew,26,21", "matthew,26,22", "matthew,26,23" ],
+  "verses" : [ {
+    "verse" : "matthew,26,18",
+    "text" : "He replied, \"Go into the city to a certain man and tell him, 'The Teacher says: My appointed time is near. I am going to celebrate the Passover with my disciples at your house.'\""
+  }, {
+    "verse" : "matthew,26,19",
+    "text" : "So the disciples did as Jesus had directed them and prepared the Passover."
+  }, {
+    "verse" : "matthew,26,20",
+    "text" : "When evening came, Jesus was reclining at the table with the Twelve."
+  }, {
+    "verse" : "matthew,26,21",
+    "text" : "And while they were eating, he said, \"I tell you the truth, one of you will betray me.\""
+  }, {
+    "verse" : "matthew,26,22",
+    "text" : "They were very sad and began to say to him one after the other, \"Surely not I, Lord?\""
+  }, {
+    "verse" : "matthew,26,23",
+    "text" : "Jesus replied, \"The one who has dipped his hand into the bowl with me will betray me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,26,18",
     "id" : 195917,
@@ -18,7 +48,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 26:18\">26:18</a></b> <b>My time.</b> Again Jesus emphasizes that all the terrible events soon to take place were totally under God’s control.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,26,24", "matthew,26,25" ],
+  "verses" : [ {
+    "verse" : "matthew,26,24",
+    "text" : "The Son of Man will go just as it is written about him. But woe to that man who betrays the Son of Man! It would be better for him if he had not been born.\""
+  }, {
+    "verse" : "matthew,26,25",
+    "text" : "Then Judas, the one who would betray him, said, \"Surely not I, Rabbi?\" Jesus answered, \"Yes, it is you.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,26,24",
     "id" : 195918,
@@ -26,7 +62,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 26:24\">26:24</a></b> <b>Son of Man.</b> See <a class=\"bibleref\" href=\"/passage/?search=Matt 8:20\">8:20</a> note.</p><p><b>as it is written of him.</b> Jesus’ atoning death was no mere contrivance of the misguided authorities. The event and its circumstances, including betrayal by His friend (<a class=\"bibleref\" href=\"/passage/?search=Ps 41:9\">Ps. 41:9</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 55:12-Ps 55:14\">55:12–14</a>), had been appointed by God since before the world was formed. Nevertheless, those who brought about Jesus’ death remain responsible for their actions (“woe to that man;” cf. <a class=\"bibleref\" href=\"/passage/?search=Acts 2:23\">Acts 2:23</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,26,26", "matthew,26,27" ],
+  "verses" : [ {
+    "verse" : "matthew,26,26",
+    "text" : "While they were eating, Jesus took bread, gave thanks and broke it, and gave it to his disciples, saying, \"Take and eat; this is my body.\""
+  }, {
+    "verse" : "matthew,26,27",
+    "text" : "Then he took the cup, gave thanks and offered it to them, saying, \"Drink from it, all of you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,26,26-matthew,26,29",
     "id" : 195919,
@@ -39,7 +81,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 26:26\">26:26</a></b> <b>this is my body.</b> In Roman Catholicism these words are quoted in support of the doctrine of transubstantiation, which teaches that the outward, physical attributes of the bread and wine remain unchanged, while the invisible essence is transformed into the body and blood of Christ. Calvin and the other Reformers recognized that the elements <i>represent</i> Christ’s body and blood. Jesus uttered these words while physically present with His disciples, so a literal identification of the elements with His physical substance would not have occurred to them. The bread and wine are more than conventional symbols, however, for through the Holy Spirit they communicate <i>visibly</i> what is <i>read</i> and <i>heard</i> in the gospel (<a class=\"bibleref\" href=\"/passage/?search=1Cor 10:16\">1 Cor. 10:16</a>). See “The Lord’s Supper” at <a class=\"bibleref\" href=\"/passage/?search=1Cor 11:23\">1 Cor. 11:23</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,26,28", "matthew,26,29", "matthew,26,30" ],
+  "verses" : [ {
+    "verse" : "matthew,26,28",
+    "text" : "This is my blood of the covenant, which is poured out for many for the forgiveness of sins."
+  }, {
+    "verse" : "matthew,26,29",
+    "text" : "I tell you, I will not drink of this fruit of the vine from now on until that day when I drink it anew with you in my Father's kingdom.\""
+  }, {
+    "verse" : "matthew,26,30",
+    "text" : "When they had sung a hymn, they went out to the Mount of Olives."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,26,28",
     "id" : 195921,
@@ -47,7 +98,31 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 26:28\">26:28</a></b> <b>my blood of the covenant.</b> The Mosaic covenant was inaugurated with a sacrifice (Ex. <a class=\"bibleref\" href=\"/passage/?search=Matt 24:28\">24:28</a>), and the new covenant prophesied by Jeremiah (<a class=\"bibleref\" href=\"/passage/?search=Jer 31:31-Jer 31:34\">Jer. 31:31–34</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Luke 22:17-Luke 22:20\">Luke 22:17–20</a>; <a class=\"bibleref\" href=\"/passage/?search=1Cor 11:23-1Cor 11:25\">1 Cor. 11:23–25</a>) is inaugurated by the sacrifice of Christ, to which the Lord’s Supper points. See “The Sacraments” at 28:19.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,26,31", "matthew,26,32", "matthew,26,33", "matthew,26,34", "matthew,26,35", "matthew,26,36", "matthew,26,37", "matthew,26,38" ],
+  "verses" : [ {
+    "verse" : "matthew,26,31",
+    "text" : "Then Jesus told them, \"This very night you will all fall away on account of me, for it is written: \"'I will strike the shepherd, and the sheep of the flock will be scattered.'"
+  }, {
+    "verse" : "matthew,26,32",
+    "text" : "But after I have risen, I will go ahead of you into Galilee.\""
+  }, {
+    "verse" : "matthew,26,33",
+    "text" : "Peter replied, \"Even if all fall away on account of you, I never will.\""
+  }, {
+    "verse" : "matthew,26,34",
+    "text" : "\"I tell you the truth,\" Jesus answered, \"this very night, before the rooster crows, you will disown me three times.\""
+  }, {
+    "verse" : "matthew,26,35",
+    "text" : "But Peter declared, \"Even if I have to die with you, I will never disown you.\" And all the other disciples said the same."
+  }, {
+    "verse" : "matthew,26,36",
+    "text" : "Then Jesus went with his disciples to a place called Gethsemane, and he said to them, \"Sit here while I go over there and pray.\""
+  }, {
+    "verse" : "matthew,26,37",
+    "text" : "He took Peter and the two sons of Zebedee along with him, and he began to be sorrowful and troubled."
+  }, {
+    "verse" : "matthew,26,38",
+    "text" : "Then he said to them, \"My soul is overwhelmed with sorrow to the point of death. Stay here and keep watch with me.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,26,31",
     "id" : 195922,
@@ -55,7 +130,31 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 26:31\">26:31</a></b> <b>I will strike the shepherd.</b> In the context of <a class=\"bibleref\" href=\"/passage/?search=Zech 13:7\">Zech. 13:7</a>, the Lord strikes the Shepherd, the “man who stands next to me,” and God’s “little ones” are scattered. Subsequently they are renewed and truly become God’s people. The disciples’ desertion of Jesus is representative of the nation’s apostasy, as well as of the remnant that God will save.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "matthew,26,39", "matthew,26,40", "matthew,26,41", "matthew,26,42", "matthew,26,43", "matthew,26,44", "matthew,26,45", "matthew,26,46" ],
+  "verses" : [ {
+    "verse" : "matthew,26,39",
+    "text" : "Going a little farther, he fell with his face to the ground and prayed, \"My Father, if it is possible, may this cup be taken from me. Yet not as I will, but as you will.\""
+  }, {
+    "verse" : "matthew,26,40",
+    "text" : "Then he returned to his disciples and found them sleeping. \"Could you men not keep watch with me for one hour?\" he asked Peter."
+  }, {
+    "verse" : "matthew,26,41",
+    "text" : "\"Watch and pray so that you will not fall into temptation. The spirit is willing, but the body is weak.\""
+  }, {
+    "verse" : "matthew,26,42",
+    "text" : "He went away a second time and prayed, \"My Father, if it is not possible for this cup to be taken away unless I drink it, may your will be done.\""
+  }, {
+    "verse" : "matthew,26,43",
+    "text" : "When he came back, he again found them sleeping, because their eyes were heavy."
+  }, {
+    "verse" : "matthew,26,44",
+    "text" : "So he left them and went away once more and prayed the third time, saying the same thing."
+  }, {
+    "verse" : "matthew,26,45",
+    "text" : "Then he returned to the disciples and said to them, \"Are you still sleeping and resting? Look, the hour is near, and the Son of Man is betrayed into the hands of sinners."
+  }, {
+    "verse" : "matthew,26,46",
+    "text" : "Rise, let us go! Here comes my betrayer!\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "matthew,26,39",
     "id" : 195923,

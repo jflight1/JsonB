@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,17,22" ],
+  "verses" : [ {
+    "verse" : "proverbs,17,22",
+    "text" : "A cheerful heart is good medicine, but a crushed spirit dries up the bones."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

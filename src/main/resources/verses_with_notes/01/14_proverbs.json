@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,3,13" ],
+  "verses" : [ {
+    "verse" : "proverbs,3,13",
+    "text" : "Blessed is the man who finds wisdom, the man who gains understanding,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,3,13-proverbs,3,20",
     "id" : 191693,
@@ -12,7 +15,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 3:13\">3:13</a></b> <b>Blessed.</b> The word does not mean merely a subjective feeling. It is found almost exclusively in the Psalms and the wisdom literature, describing the life that enjoys God’s grace and favor.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,3,14", "proverbs,3,15" ],
+  "verses" : [ {
+    "verse" : "proverbs,3,14",
+    "text" : "for she is more profitable than silver and yields better returns than gold."
+  }, {
+    "verse" : "proverbs,3,15",
+    "text" : "She is more precious than rubies; nothing you desire can compare with her."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,3,14-proverbs,3,15",
     "id" : 191695,

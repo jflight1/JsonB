@@ -1,5 +1,26 @@
 [ {
-  "singleVerses" : [ "joshua,19,1", "joshua,19,2", "joshua,19,3", "joshua,19,4", "joshua,19,5", "joshua,19,6", "joshua,19,7" ],
+  "verses" : [ {
+    "verse" : "joshua,19,1",
+    "text" : "The second lot came out for the tribe of Simeon, clan by clan. Their inheritance lay within the territory of Judah."
+  }, {
+    "verse" : "joshua,19,2",
+    "text" : "It included: Beersheba (or Sheba), Moladah,"
+  }, {
+    "verse" : "joshua,19,3",
+    "text" : "Hazar Shual, Balah, Ezem,"
+  }, {
+    "verse" : "joshua,19,4",
+    "text" : "Eltolad, Bethul, Hormah,"
+  }, {
+    "verse" : "joshua,19,5",
+    "text" : "Ziklag, Beth Marcaboth, Hazar Susah,"
+  }, {
+    "verse" : "joshua,19,6",
+    "text" : "Beth Lebaoth and Sharuhen-thirteen towns and their villages;"
+  }, {
+    "verse" : "joshua,19,7",
+    "text" : "Ain, Rimmon, Ether and Ashan-four towns and their villages-"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,13,1-joshua,21,45",
     "id" : 186855,
@@ -12,7 +33,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 19:1\">19:1</a></b> <b>in the midst . . . Judah.</b> Simeon’s allotment was inside the territory of Judah (<a class=\"bibleref\" href=\"/passage/?search=Gen 49:7\">Gen. 49:7</a>). Judah and Simeon acted together in <a class=\"bibleref\" href=\"/passage/?search=Judg 1:3\">Judg. 1:3</a>, <a class=\"bibleref\" href=\"/passage/?search=Judg 1:17\">17</a>. At some stage the tribe of Simeon seems to have lost its distinct identity.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,19,8", "joshua,19,9", "joshua,19,10", "joshua,19,11", "joshua,19,12", "joshua,19,13", "joshua,19,14" ],
+  "verses" : [ {
+    "verse" : "joshua,19,8",
+    "text" : "and all the villages around these towns as far as Baalath Beer (Ramah in the Negev). This was the inheritance of the tribe of the Simeonites, clan by clan."
+  }, {
+    "verse" : "joshua,19,9",
+    "text" : "The inheritance of the Simeonites was taken from the share of Judah, because Judah's portion was more than they needed. So the Simeonites received their inheritance within the territory of Judah."
+  }, {
+    "verse" : "joshua,19,10",
+    "text" : "The third lot came up for Zebulun, clan by clan: The boundary of their inheritance went as far as Sarid."
+  }, {
+    "verse" : "joshua,19,11",
+    "text" : "Going west it ran to Maralah, touched Dabbesheth, and extended to the ravine near Jokneam."
+  }, {
+    "verse" : "joshua,19,12",
+    "text" : "It turned east from Sarid toward the sunrise to the territory of Kisloth Tabor and went on to Daberath and up to Japhia."
+  }, {
+    "verse" : "joshua,19,13",
+    "text" : "Then it continued eastward to Gath Hepher and Eth Kazin; it came out at Rimmon and turned toward Neah."
+  }, {
+    "verse" : "joshua,19,14",
+    "text" : "There the boundary went around on the north to Hannathon and ended at the Valley of Iphtah El."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,19,8-joshua,19,9",
     "id" : 186905,
@@ -20,7 +62,52 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 19:8\">19:8</a>, <a class=\"bibleref\" href=\"/passage/?search=Josh 19:9\">9</a> inheritance.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Josh 1:6\">1:6</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,19,15", "joshua,19,16", "joshua,19,17", "joshua,19,18", "joshua,19,19", "joshua,19,20", "joshua,19,21", "joshua,19,22", "joshua,19,23", "joshua,19,24", "joshua,19,25", "joshua,19,26", "joshua,19,27", "joshua,19,28", "joshua,19,29" ],
+  "verses" : [ {
+    "verse" : "joshua,19,15",
+    "text" : "Included were Kattath, Nahalal, Shimron, Idalah and Bethlehem. There were twelve towns and their villages."
+  }, {
+    "verse" : "joshua,19,16",
+    "text" : "These towns and their villages were the inheritance of Zebulun, clan by clan."
+  }, {
+    "verse" : "joshua,19,17",
+    "text" : "The fourth lot came out for Issachar, clan by clan."
+  }, {
+    "verse" : "joshua,19,18",
+    "text" : "Their territory included: Jezreel, Kesulloth, Shunem,"
+  }, {
+    "verse" : "joshua,19,19",
+    "text" : "Hapharaim, Shion, Anaharath,"
+  }, {
+    "verse" : "joshua,19,20",
+    "text" : "Rabbith, Kishion, Ebez,"
+  }, {
+    "verse" : "joshua,19,21",
+    "text" : "Remeth, En Gannim, En Haddah and Beth Pazzez."
+  }, {
+    "verse" : "joshua,19,22",
+    "text" : "The boundary touched Tabor, Shahazumah and Beth Shemesh, and ended at the Jordan. There were sixteen towns and their villages."
+  }, {
+    "verse" : "joshua,19,23",
+    "text" : "These towns and their villages were the inheritance of the tribe of Issachar, clan by clan."
+  }, {
+    "verse" : "joshua,19,24",
+    "text" : "The fifth lot came out for the tribe of Asher, clan by clan."
+  }, {
+    "verse" : "joshua,19,25",
+    "text" : "Their territory included: Helkath, Hali, Beten, Acshaph,"
+  }, {
+    "verse" : "joshua,19,26",
+    "text" : "Allammelech, Amad and Mishal. On the west the boundary touched Carmel and Shihor Libnath."
+  }, {
+    "verse" : "joshua,19,27",
+    "text" : "It then turned east toward Beth Dagon, touched Zebulun and the Valley of Iphtah El, and went north to Beth Emek and Neiel, passing Cabul on the left."
+  }, {
+    "verse" : "joshua,19,28",
+    "text" : "It went to Abdon, Rehob, Hammon and Kanah, as far as Greater Sidon."
+  }, {
+    "verse" : "joshua,19,29",
+    "text" : "The boundary then turned back toward Ramah and went to the fortified city of Tyre, turned toward Hosah and came out at the sea in the region of Aczib,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,19,15",
     "id" : 186906,
@@ -28,7 +115,31 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 19:15\">19:15</a></b> <b>twelve.</b> It is not clear which twelve cities are meant.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,19,30", "joshua,19,31", "joshua,19,32", "joshua,19,33", "joshua,19,34", "joshua,19,35", "joshua,19,36", "joshua,19,37" ],
+  "verses" : [ {
+    "verse" : "joshua,19,30",
+    "text" : "Ummah, Aphek and Rehob. There were twenty-two towns and their villages."
+  }, {
+    "verse" : "joshua,19,31",
+    "text" : "These towns and their villages were the inheritance of the tribe of Asher, clan by clan."
+  }, {
+    "verse" : "joshua,19,32",
+    "text" : "The sixth lot came out for Naphtali, clan by clan:"
+  }, {
+    "verse" : "joshua,19,33",
+    "text" : "Their boundary went from Heleph and the large tree in Zaanannim, passing Adami Nekeb and Jabneel to Lakkum and ending at the Jordan."
+  }, {
+    "verse" : "joshua,19,34",
+    "text" : "The boundary ran west through Aznoth Tabor and came out at Hukkok. It touched Zebulun on the south, Asher on the west and the Jordan on the east."
+  }, {
+    "verse" : "joshua,19,35",
+    "text" : "The fortified cities were Ziddim, Zer, Hammath, Rakkath, Kinnereth,"
+  }, {
+    "verse" : "joshua,19,36",
+    "text" : "Adamah, Ramah, Hazor,"
+  }, {
+    "verse" : "joshua,19,37",
+    "text" : "Kedesh, Edrei, En Hazor,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,19,30",
     "id" : 186907,
@@ -36,7 +147,34 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 19:30\">19:30</a></b> <b>twenty-two.</b> There are more than twenty-two towns mentioned, but some may be noted as points on the boundary.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,19,38", "joshua,19,39", "joshua,19,40", "joshua,19,41", "joshua,19,42", "joshua,19,43", "joshua,19,44", "joshua,19,45", "joshua,19,46" ],
+  "verses" : [ {
+    "verse" : "joshua,19,38",
+    "text" : "Iron, Migdal El, Horem, Beth Anath and Beth Shemesh. There were nineteen towns and their villages."
+  }, {
+    "verse" : "joshua,19,39",
+    "text" : "These towns and their villages were the inheritance of the tribe of Naphtali, clan by clan."
+  }, {
+    "verse" : "joshua,19,40",
+    "text" : "The seventh lot came out for the tribe of Dan, clan by clan."
+  }, {
+    "verse" : "joshua,19,41",
+    "text" : "The territory of their inheritance included: Zorah, Eshtaol, Ir Shemesh,"
+  }, {
+    "verse" : "joshua,19,42",
+    "text" : "Shaalabbin, Aijalon, Ithlah,"
+  }, {
+    "verse" : "joshua,19,43",
+    "text" : "Elon, Timnah, Ekron,"
+  }, {
+    "verse" : "joshua,19,44",
+    "text" : "Eltekeh, Gibbethon, Baalath,"
+  }, {
+    "verse" : "joshua,19,45",
+    "text" : "Jehud, Bene Berak, Gath Rimmon,"
+  }, {
+    "verse" : "joshua,19,46",
+    "text" : "Me Jarkon and Rakkon, with the area facing Joppa."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,19,38",
     "id" : 186908,
@@ -44,7 +182,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 19:38\">19:38</a></b> <b>nineteen.</b> The list apparently is incomplete.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,19,47", "joshua,19,48" ],
+  "verses" : [ {
+    "verse" : "joshua,19,47",
+    "text" : "(But the Danites had difficulty taking possession of their territory, so they went up and attacked Leshem, took it, put it to the sword and occupied it. They settled in Leshem and named it Dan after their forefather.)"
+  }, {
+    "verse" : "joshua,19,48",
+    "text" : "These towns and their villages were the inheritance of the tribe of Dan, clan by clan."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,19,47",
     "id" : 186909,
@@ -52,7 +196,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 19:47\">19:47</a></b> <b>Dan.</b> A fuller account of Dan and their conquest of Leshem is given in <a class=\"bibleref\" href=\"/passage/?search=Judg 18\">Judg. 18</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,19,49" ],
+  "verses" : [ {
+    "verse" : "joshua,19,49",
+    "text" : "When they had finished dividing the land into its allotted portions, the Israelites gave Joshua son of Nun an inheritance among them,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,19,49-joshua,19,50",
     "id" : 186910,
@@ -60,7 +207,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 19:49\">19:49</a>, <a class=\"bibleref\" href=\"/passage/?search=Josh 19:50\">50</a></b> See notes <a class=\"bibleref\" href=\"/passage/?search=Josh 14:6-Josh 14:15\">14:6–15</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,19,50" ],
+  "verses" : [ {
+    "verse" : "joshua,19,50",
+    "text" : "as the LORD had commanded. They gave him the town he asked for-Timnath Serah in the hill country of Ephraim. And he built up the town and settled there."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,19,50",
     "id" : 186911,
@@ -68,7 +218,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 19:50\">19:50</a></b> <b>By command of the <span class=\"small-caps\">Lord.</span></b> This divine command is not recorded elsewhere (cf. <a class=\"bibleref\" href=\"/passage/?search=Josh 14:9\">14:9</a> note). See <a class=\"bibleref\" href=\"/passage/?search=Num 14:30\">Num. 14:30</a>.</p><p><b>Timnath-serah.</b> Joshua would be buried here (24:30).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,19,51" ],
+  "verses" : [ {
+    "verse" : "joshua,19,51",
+    "text" : "These are the territories that Eleazar the priest, Joshua son of Nun and the heads of the tribal clans of Israel assigned by lot at Shiloh in the presence of the LORD at the entrance to the Tent of Meeting. And so they finished dividing the land."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,19,51",
     "id" : 186912,
@@ -76,7 +229,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 19:51\">19:51</a></b> <b>Eleazar.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Josh 14:1\">14:1</a>.</p><p><b>Shiloh.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Josh 18:1\">18:1</a>.</p><p><b>before the <span class=\"small-caps\">Lord.</span></b> See note <a class=\"bibleref\" href=\"/passage/?search=Josh 18:6\">18:6</a>.</p><p><b>tent of meeting.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Josh 18:1\">18:1</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,20,1" ],
+  "verses" : [ {
+    "verse" : "joshua,20,1",
+    "text" : "Then the LORD said to Joshua:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,20,1-joshua,20,9",
     "id" : 186913,
@@ -84,7 +240,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 20\">20:1–9</a></b> The record of the division of the land is followed by a provision for basic justice in it, illustrating God’s concern for justice and the preservation of life. The provision implies the idea of just retribution, while restraining the injustice that could flow from vengeance (<a class=\"bibleref\" href=\"/passage/?search=Deut 4:41-Deut 4:43\">Deut. 4:41–43</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,20,2" ],
+  "verses" : [ {
+    "verse" : "joshua,20,2",
+    "text" : "\"Tell the Israelites to designate the cities of refuge, as I instructed you through Moses,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,20,2",
     "id" : 186914,
@@ -92,7 +251,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 20:2\">20:2</a></b> <b>cities of refuge.</b> These were places where certain offenders could escape unjust vengeance and seek a fair trial. Similar cities will also be given to the Levites (<a class=\"bibleref\" href=\"/passage/?search=Josh 21:1-Josh 21:42\">21:1–42</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 35:6\">Num. 35:6</a>), and by implication will be places where the law of God can be found.</p><p><b>through Moses.</b> See <a class=\"bibleref\" href=\"/passage/?search=Exod 21:12-Exod 21:14\">Ex. 21:12–14</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 35:6-Num 35:34\">Num. 35:6–34</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 19:1-Deut 19:13\">Deut. 19:1–13</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,20,3" ],
+  "verses" : [ {
+    "verse" : "joshua,20,3",
+    "text" : "so that anyone who kills a person accidentally and unintentionally may flee there and find protection from the avenger of blood."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,20,3",
     "id" : 186915,
@@ -100,7 +262,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 20:3\">20:3</a></b> <b>without intent or unknowingly.</b> Unintentional sin receives specific treatment in the law (<a class=\"bibleref\" href=\"/passage/?search=Lev 4:2\">Lev. 4:2</a>, <a class=\"bibleref\" href=\"/passage/?search=Lev 4:13\">13</a>, <a class=\"bibleref\" href=\"/passage/?search=Lev 4:22\">22</a>, <a class=\"bibleref\" href=\"/passage/?search=Lev 4:27\">27</a>; <a class=\"bibleref\" href=\"/passage/?search=Lev 5:15\">5:15</a>, <a class=\"bibleref\" href=\"/passage/?search=Lev 5:18\">18</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 15:22-Num 15:29\">Num. 15:22–29</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 35:22\">35:22</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 4:42\">Deut. 4:42</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 19:4\">19:4</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 45:20\">Ezek. 45:20</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Heb 9:7\">Heb. 9:7</a>).</p><p><b>avenger of blood.</b> This would be the victim’s nearest male relative or possibly an official of the city where the killing occurred (<a class=\"bibleref\" href=\"/passage/?search=Num 35:19-Num 35:21\">Num. 35:19–21</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,20,4" ],
+  "verses" : [ {
+    "verse" : "joshua,20,4",
+    "text" : "\"When he flees to one of these cities, he is to stand in the entrance of the city gate and state his case before the elders of that city. Then they are to admit him into their city and give him a place to live with them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,20,4",
     "id" : 186916,
@@ -108,7 +273,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 20:4\">20:4</a></b> <b>the gate of the city.</b> This was the usual place for legal transactions (<a class=\"bibleref\" href=\"/passage/?search=Ruth 4:1-Ruth 4:12\">Ruth 4:1–12</a>).</p><p><b>elders.</b> Apparently the elders held a preliminary hearing of the accused man’s case.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,20,5" ],
+  "verses" : [ {
+    "verse" : "joshua,20,5",
+    "text" : "If the avenger of blood pursues him, they must not surrender the one accused, because he killed his neighbor unintentionally and without malice aforethought."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,20,5",
     "id" : 186917,
@@ -116,7 +284,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 20:5\">20:5</a></b> <b>they shall not give up.</b> There is a presumption in favor of the accused.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,20,6" ],
+  "verses" : [ {
+    "verse" : "joshua,20,6",
+    "text" : "He is to stay in that city until he has stood trial before the assembly and until the death of the high priest who is serving at that time. Then he may go back to his own home in the town from which he fled.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,20,6",
     "id" : 186918,
@@ -124,7 +295,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 20:6\">20:6</a></b> <b>death of . . . high priest.</b> His death marked the end of an era and provided a convenient limitation to the provisions made here.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,20,7" ],
+  "verses" : [ {
+    "verse" : "joshua,20,7",
+    "text" : "So they set apart Kedesh in Galilee in the hill country of Naphtali, Shechem in the hill country of Ephraim, and Kiriath Arba (that is, Hebron) in the hill country of Judah."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,20,7",
     "id" : 186919,
@@ -132,7 +306,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 20:7\">20:7</a></b> <b>set apart.</b> The Hebrew verb can also be translated “sanctified.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,20,8" ],
+  "verses" : [ {
+    "verse" : "joshua,20,8",
+    "text" : "On the east side of the Jordan of Jericho they designated Bezer in the desert on the plateau in the tribe of Reuben, Ramoth in Gilead in the tribe of Gad, and Golan in Bashan in the tribe of Manasseh."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,20,8",
     "id" : 186920,
@@ -140,7 +317,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 20:8\">20:8</a></b> <b>beyond.</b> See <a class=\"bibleref\" href=\"/passage/?search=Deut 4:41-Deut 4:43\">Deut. 4:41–43</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,20,9" ],
+  "verses" : [ {
+    "verse" : "joshua,20,9",
+    "text" : "Any of the Israelites or any alien living among them who killed someone accidentally could flee to these designated cities and not be killed by the avenger of blood prior to standing trial before the assembly."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,20,9",
     "id" : 186921,

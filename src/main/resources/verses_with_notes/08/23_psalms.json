@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,38,1" ],
+  "verses" : [ {
+    "verse" : "psalms,38,1",
+    "text" : "O LORD, do not rebuke me in your anger or discipline me in your wrath."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,38,1-psalms,38,22",
     "id" : 190525,
@@ -7,7 +10,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 38\">Ps. 38</a></b> In this penitential psalm the writer attributes his illness to sin and guilt. He calls on the Lord for help in the midst of intense pain.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,38,2" ],
+  "verses" : [ {
+    "verse" : "psalms,38,2",
+    "text" : "For your arrows have pierced me, and your hand has come down upon me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,38,2",
     "id" : 190526,
@@ -15,7 +21,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 38:2\">38:2</a></b> <b>your arrows.</b> God usually fights for the psalmist and against the enemy (<a class=\"bibleref\" href=\"/passage/?search=Ps 18:14\">Ps. 18:14</a>), but here is a quite different case. The psalmist confesses the sin that has brought God’s anger upon him.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,38,3", "psalms,38,4" ],
+  "verses" : [ {
+    "verse" : "psalms,38,3",
+    "text" : "Because of your wrath there is no health in my body; my bones have no soundness because of my sin."
+  }, {
+    "verse" : "psalms,38,4",
+    "text" : "My guilt has overwhelmed me like a burden too heavy to bear."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,38,3",
     "id" : 190527,
@@ -23,7 +35,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 38:3\">38:3</a></b> <b>because of your indignation . . . because of my sin.</b> These two phrases are parallel and show a dual (divine and human) reason for the psalmist’s illness.</p><p><b>no health.</b> The psalmist’s sin had serious effects on his health. In some cases sin and guilt are the cause of illness, but sickness is not always the result of sins committed by the person who suffers (Book of Job; <a class=\"bibleref\" href=\"/passage/?search=John 9:1-John 9:12\">John 9:1–12</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,38,5", "psalms,38,6", "psalms,38,7", "psalms,38,8", "psalms,38,9", "psalms,38,10" ],
+  "verses" : [ {
+    "verse" : "psalms,38,5",
+    "text" : "My wounds fester and are loathsome because of my sinful folly."
+  }, {
+    "verse" : "psalms,38,6",
+    "text" : "I am bowed down and brought very low; all day long I go about mourning."
+  }, {
+    "verse" : "psalms,38,7",
+    "text" : "My back is filled with searing pain; there is no health in my body."
+  }, {
+    "verse" : "psalms,38,8",
+    "text" : "I am feeble and utterly crushed; I groan in anguish of heart."
+  }, {
+    "verse" : "psalms,38,9",
+    "text" : "All my longings lie open before you, O Lord; my sighing is not hidden from you."
+  }, {
+    "verse" : "psalms,38,10",
+    "text" : "My heart pounds, my strength fails me; even the light has gone from my eyes."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,38,5",
     "id" : 190528,
@@ -31,7 +61,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 38:5\">38:5</a></b> <b>wounds.</b> Implies some kind of physical abuse by others. The symptoms cannot all be related to a specific disease or condition. It has been suggested that the symptoms are actually a catalog of distresses experienced over a period of time.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,38,11" ],
+  "verses" : [ {
+    "verse" : "psalms,38,11",
+    "text" : "My friends and companions avoid me because of my wounds; my neighbors stay far away."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,38,11",
     "id" : 190529,
@@ -39,7 +72,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 38:11\">38:11</a></b> <b>My friends . . . stand aloof.</b> Friends are of no help to the psalmist because they are afraid or repulsed by the intensity of his suffering. Here, as elsewhere in the psalm, we are reminded of Job’s experience (<a class=\"bibleref\" href=\"/passage/?search=Ps 38:3\">v. 3</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,38,12" ],
+  "verses" : [ {
+    "verse" : "psalms,38,12",
+    "text" : "Those who seek my life set their traps, those who would harm me talk of my ruin; all day long they plot deception."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,38,12",
     "id" : 190530,
@@ -47,7 +83,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 38:12\">38:12</a></b> <b>lay their snares.</b> While friends stay away, his enemies draw near to hurry his downfall.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,38,13", "psalms,38,14" ],
+  "verses" : [ {
+    "verse" : "psalms,38,13",
+    "text" : "I am like a deaf man, who cannot hear, like a mute, who cannot open his mouth;"
+  }, {
+    "verse" : "psalms,38,14",
+    "text" : "I have become like a man who does not hear, whose mouth can offer no reply."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,38,13",
     "id" : 190531,
@@ -55,7 +97,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 38:13\">38:13</a></b> <b>deaf man . . . mute.</b> The psalmist is totally unable to do anything to help himself.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,38,15" ],
+  "verses" : [ {
+    "verse" : "psalms,38,15",
+    "text" : "I wait for you, O LORD; you will answer, O Lord my God."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,38,15",
     "id" : 190532,
@@ -63,7 +108,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 38:15\">38:15</a></b> <b>for you . . . I wait.</b> This verse strikes the most positive note of confidence in the psalm.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,38,16", "psalms,38,17", "psalms,38,18", "psalms,38,19", "psalms,38,20", "psalms,38,21", "psalms,38,22" ],
+  "verses" : [ {
+    "verse" : "psalms,38,16",
+    "text" : "For I said, \"Do not let them gloat or exalt themselves over me when my foot slips.\""
+  }, {
+    "verse" : "psalms,38,17",
+    "text" : "For I am about to fall, and my pain is ever with me."
+  }, {
+    "verse" : "psalms,38,18",
+    "text" : "I confess my iniquity; I am troubled by my sin."
+  }, {
+    "verse" : "psalms,38,19",
+    "text" : "Many are those who are my vigorous enemies; those who hate me without reason are numerous."
+  }, {
+    "verse" : "psalms,38,20",
+    "text" : "Those who repay my good with evil slander me when I pursue what is good."
+  }, {
+    "verse" : "psalms,38,21",
+    "text" : "O LORD, do not forsake me; be not far from me, O my God."
+  }, {
+    "verse" : "psalms,38,22",
+    "text" : "Come quickly to help me, O Lord my Savior."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,38,16",
     "id" : 190533,

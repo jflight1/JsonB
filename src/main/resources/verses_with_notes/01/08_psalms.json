@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,8,1" ],
+  "verses" : [ {
+    "verse" : "psalms,8,1",
+    "text" : "O LORD, our Lord, how majestic is your name in all the earth! You have set your glory above the heavens."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,8,1-psalms,8,9",
     "id" : 190245,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 8:1\">8:1</a></b> <b><span class=\"small-caps\">Lord.</span></b> The personal, or covenantal, name of God revealed to Moses at the burning bush (<a class=\"bibleref\" href=\"/passage/?search=Exod 3\">Ex. 3</a>).</p><p><b>our Lord.</b> A title, which can also be translated “governor” or “master.” He is <i>our</i> Lord because He has established His covenant with His people.</p><p><b>how majestic is your name.</b> The repetition of this line at the end enhances the high note of reverence that pervades the psalm. “Name” signifies the character or reputation of God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,8,2" ],
+  "verses" : [ {
+    "verse" : "psalms,8,2",
+    "text" : "From the lips of children and infants you have ordained praise because of your enemies, to silence the foe and the avenger."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,8,2",
     "id" : 190247,
@@ -20,7 +26,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 8:2\">8:2</a></b> <b>babes . . . foes.</b> Note the contrast between the weak and the strong. However, because of God whose praise they sing, the weak silence the powerful. See <a class=\"bibleref\" href=\"/passage/?search=Matt 21:16\">Matt. 21:16</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,8,3" ],
+  "verses" : [ {
+    "verse" : "psalms,8,3",
+    "text" : "When I consider your heavens, the work of your fingers, the moon and the stars, which you have set in place,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,8,3",
     "id" : 190248,
@@ -28,7 +37,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 8:3\">8:3</a></b> <b>the work of your fingers.</b> The almost limitless universe is described as the work of God’s fingers, emphasizing the power of God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,8,4" ],
+  "verses" : [ {
+    "verse" : "psalms,8,4",
+    "text" : "what is man that you are mindful of him, the son of man that you care for him?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,8,4-psalms,8,6",
     "id" : 190249,
@@ -41,7 +53,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 8:4\">8:4</a></b> <b>what is man.</b> See <a class=\"bibleref\" href=\"/passage/?search=Job 7:17\">Job 7:17</a>; <a class=\"bibleref\" href=\"/passage/?search=Job 25:6\">25:6</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 144:3\">Ps. 144:3</a>. In the vastness of the universe and against the greatness of God’s power, man is little.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,8,5" ],
+  "verses" : [ {
+    "verse" : "psalms,8,5",
+    "text" : "You made him a little lower than the heavenly beings and crowned him with glory and honor."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,8,5",
     "id" : 190251,
@@ -49,7 +64,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 8:5\">8:5</a></b> <b>heavenly beings.</b> The Hebrew word <i>’elohim,</i> here translated “heavenly beings,” usually means “God,” but it can mean “divine beings” (see text note). If God were in view one would have expected, “You have made him a little lower than Yourself.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,8,6", "psalms,8,7", "psalms,8,8", "psalms,8,9" ],
+  "verses" : [ {
+    "verse" : "psalms,8,6",
+    "text" : "You made him ruler over the works of your hands; you put everything under his feet:"
+  }, {
+    "verse" : "psalms,8,7",
+    "text" : "all flocks and herds, and the beasts of the field,"
+  }, {
+    "verse" : "psalms,8,8",
+    "text" : "the birds of the air, and the fish of the sea, all that swim the paths of the seas."
+  }, {
+    "verse" : "psalms,8,9",
+    "text" : "O LORD, our Lord, how majestic is your name in all the earth!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,8,6",
     "id" : 190252,

@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,12,24" ],
+  "verses" : [ {
+    "verse" : "proverbs,12,24",
+    "text" : "Diligent hands will rule, but laziness ends in slave labor."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

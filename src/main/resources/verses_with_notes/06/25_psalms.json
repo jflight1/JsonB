@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,143,1" ],
+  "verses" : [ {
+    "verse" : "psalms,143,1",
+    "text" : "O LORD, hear my prayer, listen to my cry for mercy; in your faithfulness and righteousness come to my relief."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,143,1-psalms,143,12",
     "id" : 191563,
@@ -12,7 +15,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 143:1\">143:1</a></b> <b>In your faithfulness . . . righteousness.</b> The psalmist appeals to God’s nature and character.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,143,2", "psalms,143,3" ],
+  "verses" : [ {
+    "verse" : "psalms,143,2",
+    "text" : "Do not bring your servant into judgment, for no one living is righteous before you."
+  }, {
+    "verse" : "psalms,143,3",
+    "text" : "The enemy pursues me, he crushes me to the ground; he makes me dwell in darkness like those long dead."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,143,2",
     "id" : 191565,
@@ -20,7 +29,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 143:2\">143:2</a></b> <b>no one living is righteous.</b> David has measured his own heart in the sight of God and has learned that no one can pretend to be righteous at the bar of God’s judgment.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,143,4" ],
+  "verses" : [ {
+    "verse" : "psalms,143,4",
+    "text" : "So my spirit grows faint within me; my heart within me is dismayed."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,143,4",
     "id" : 191566,
@@ -28,7 +40,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 143:4\">143:4</a></b> <b>my spirit faints within me.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Ps 142:3\">Ps. 142:3</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,143,5", "psalms,143,6" ],
+  "verses" : [ {
+    "verse" : "psalms,143,5",
+    "text" : "I remember the days of long ago; I meditate on all your works and consider what your hands have done."
+  }, {
+    "verse" : "psalms,143,6",
+    "text" : "I spread out my hands to you; my soul thirsts for you like a parched land. Selah"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,143,5",
     "id" : 191567,
@@ -36,7 +54,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 143:5\">143:5</a></b> <b>I remember.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Ps 44:1\">Ps. 44:1</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Ps 77:3\">Ps. 77:3</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 77:11\">11</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 111:4\">111:4</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,143,7" ],
+  "verses" : [ {
+    "verse" : "psalms,143,7",
+    "text" : "Answer me quickly, O LORD; my spirit fails. Do not hide your face from me or I will be like those who go down to the pit."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,143,7",
     "id" : 191568,
@@ -44,7 +65,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 143:7\">143:7</a></b> <b>who go down to the pit.</b> He will die (<a class=\"bibleref\" href=\"/passage/?search=Ezek 26:20\">Ezek. 26:20</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,143,8", "psalms,143,9", "psalms,143,10" ],
+  "verses" : [ {
+    "verse" : "psalms,143,8",
+    "text" : "Let the morning bring me word of your unfailing love, for I have put my trust in you. Show me the way I should go, for to you I lift up my soul."
+  }, {
+    "verse" : "psalms,143,9",
+    "text" : "Rescue me from my enemies, O LORD, for I hide myself in you."
+  }, {
+    "verse" : "psalms,143,10",
+    "text" : "Teach me to do your will, for you are my God; may your good Spirit lead me on level ground."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,143,8",
     "id" : 191569,
@@ -52,7 +82,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 143:8\">143:8</a></b> <b>the morning.</b> The psalmist utters his prayer at night or in the very early morning, hoping that God’s answer will greet him at dawn.</p><p><b>steadfast love.</b> The love of God’s covenant devotion to His people.</p><p><b>Make me.</b> The psalmist not only desires deliverance—he wants God’s guidance. He knows that it is only as he walks in the way of the Lord that he will live safely.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,143,11", "psalms,143,12" ],
+  "verses" : [ {
+    "verse" : "psalms,143,11",
+    "text" : "For your name's sake, O LORD, preserve my life; in your righteousness, bring me out of trouble."
+  }, {
+    "verse" : "psalms,143,12",
+    "text" : "In your unfailing love, silence my enemies; destroy all my foes, for I am your servant."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,143,11",
     "id" : 191570,

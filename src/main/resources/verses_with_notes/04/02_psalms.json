@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,74,1" ],
+  "verses" : [ {
+    "verse" : "psalms,74,1",
+    "text" : "Why have you rejected us forever, O God? Why does your anger smolder against the sheep of your pasture?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,74,1-psalms,74,23",
     "id" : 190868,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 74:1\">74:1</a></b> <b>cast us off.</b> Israel’s defeat at the hands of the Babylonians indicated that God had abandoned His chosen people and would protect them no longer. The prophets (<a class=\"bibleref\" href=\"/passage/?search=Ezek 9-Ezek 11\">Ezek. 9–11</a>) describe God’s abandonment of His temple, blaming it on Israel’s sin and unbelief. See note <a class=\"bibleref\" href=\"/passage/?search=Ps 22:1\">Ps. 22:1</a>.</p><p><b>the sheep.</b> The writer appeals to this metaphor of intimate relationship between God and His people in order to plead for restoration. See <a class=\"bibleref\" href=\"/passage/?search=Ps 23:1\">Ps. 23:1</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,74,2" ],
+  "verses" : [ {
+    "verse" : "psalms,74,2",
+    "text" : "Remember the people you purchased of old, the tribe of your inheritance, whom you redeemed- Mount Zion, where you dwelt."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,74,2",
     "id" : 190870,
@@ -20,7 +26,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 74:2\">74:2</a></b> <b>Remember.</b> The psalmist means more than mental recall here; he wants God to act on His ancient covenant promise to save His people.</p><p><b>Mount Zion.</b> The location of the temple and the place where God made His presence known in a special way. See <a class=\"bibleref\" href=\"/passage/?search=Ps 2:6\">Ps. 2:6</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 50:2\">50:2</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 128:5\">128:5</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 129:5\">129:5</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,74,3", "psalms,74,4", "psalms,74,5", "psalms,74,6", "psalms,74,7", "psalms,74,8" ],
+  "verses" : [ {
+    "verse" : "psalms,74,3",
+    "text" : "Turn your steps toward these everlasting ruins, all this destruction the enemy has brought on the sanctuary."
+  }, {
+    "verse" : "psalms,74,4",
+    "text" : "Your foes roared in the place where you met with us; they set up their standards as signs."
+  }, {
+    "verse" : "psalms,74,5",
+    "text" : "They behaved like men wielding axes to cut through a thicket of trees."
+  }, {
+    "verse" : "psalms,74,6",
+    "text" : "They smashed all the carved paneling with their axes and hatchets."
+  }, {
+    "verse" : "psalms,74,7",
+    "text" : "They burned your sanctuary to the ground; they defiled the dwelling place of your Name."
+  }, {
+    "verse" : "psalms,74,8",
+    "text" : "They said in their hearts, \"We will crush them completely!\" They burned every place where God was worshiped in the land."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,74,3",
     "id" : 190871,
@@ -28,7 +52,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 74:3\">74:3</a></b> <b>Direct your steps.</b> The psalmist asks God to survey and to react to the damage the enemy has inflicted on His possessions. When Nebuchadnezzar took Jerusalem in 586 <span class=\"small-caps\">b.c.</span> he ordered the sanctuary to be demolished.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,74,9" ],
+  "verses" : [ {
+    "verse" : "psalms,74,9",
+    "text" : "We are given no miraculous signs; no prophets are left, and none of us knows how long this will be."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,74,9",
     "id" : 190872,
@@ -36,7 +63,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 74:9\">74:9</a></b> <b>do not see our signs . . . any prophet.</b> The worst fear of all is that God will be silent in the face of destruction. This psalm was likely written soon after the event, since a number of prophets were active during the period of restoration.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,74,10", "psalms,74,11", "psalms,74,12" ],
+  "verses" : [ {
+    "verse" : "psalms,74,10",
+    "text" : "How long will the enemy mock you, O God? Will the foe revile your name forever?"
+  }, {
+    "verse" : "psalms,74,11",
+    "text" : "Why do you hold back your hand, your right hand? Take it from the folds of your garment and destroy them!"
+  }, {
+    "verse" : "psalms,74,12",
+    "text" : "But you, O God, are my king from of old; you bring salvation upon the earth."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,74,10",
     "id" : 190873,
@@ -44,7 +80,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 74:10\">74:10</a></b> <b>revile your name.</b> The psalmist tries to persuade God by arguing that His own reputation is in danger. Asaph is distressed by God’s apparent inactivity.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,74,13" ],
+  "verses" : [ {
+    "verse" : "psalms,74,13",
+    "text" : "It was you who split open the sea by your power; you broke the heads of the monster in the waters."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,74,13",
     "id" : 190874,
@@ -52,7 +91,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 74:13\">74:13</a></b> <b>the sea.</b> In the next few verses the poet alludes to a popular concept of creation and applies it to the Lord. For the defeat of the “Sea,” see <a class=\"bibleref\" href=\"/passage/?search=Ezek 28:2\">Ezek. 28:2</a> and note. In using these figures, the psalmist is not endorsing the popular myths, but using them to say that the God of Israel is the Creator of all. The gods of the Near East are nothing because they do not exist. See <a class=\"bibleref\" href=\"/passage/?search=Ps 18:4\">Ps. 18:4</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 29:3\">29:3</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 29:10\">10</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 46:2\">46:2</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 46:3\">3</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 69:1\">69:1</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 69:2\">2</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 14:22\">Jer. 14:22</a>; <a class=\"bibleref\" href=\"/passage/?search=1Cor 8:4\">1 Cor. 8:4</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,74,14", "psalms,74,15", "psalms,74,16", "psalms,74,17", "psalms,74,18", "psalms,74,19" ],
+  "verses" : [ {
+    "verse" : "psalms,74,14",
+    "text" : "It was you who crushed the heads of Leviathan and gave him as food to the creatures of the desert."
+  }, {
+    "verse" : "psalms,74,15",
+    "text" : "It was you who opened up springs and streams; you dried up the ever flowing rivers."
+  }, {
+    "verse" : "psalms,74,16",
+    "text" : "The day is yours, and yours also the night; you established the sun and moon."
+  }, {
+    "verse" : "psalms,74,17",
+    "text" : "It was you who set all the boundaries of the earth; you made both summer and winter."
+  }, {
+    "verse" : "psalms,74,18",
+    "text" : "Remember how the enemy has mocked you, O LORD, how foolish people have reviled your name."
+  }, {
+    "verse" : "psalms,74,19",
+    "text" : "Do not hand over the life of your dove to wild beasts; do not forget the lives of your afflicted people forever."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,74,14",
     "id" : 190875,
@@ -60,7 +117,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 74:14\">74:14</a></b> <b>heads of Leviathan.</b> The psalmist borrows the language of popular mythology, related in texts discovered at ancient Ugarit in Syria. In those texts “Leviathan” (or “Lothan”) is a seven-headed sea monster defeated by Baal at the time of creation.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,74,20", "psalms,74,21" ],
+  "verses" : [ {
+    "verse" : "psalms,74,20",
+    "text" : "Have regard for your covenant, because haunts of violence fill the dark places of the land."
+  }, {
+    "verse" : "psalms,74,21",
+    "text" : "Do not let the oppressed retreat in disgrace; may the poor and needy praise your name."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,74,20",
     "id" : 190876,
@@ -68,7 +131,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 74:20\">74:20</a></b> <b>the covenant.</b> The writer appeals to God’s covenant, knowing that His patience is not exhausted despite the disobedience that led to the fall of the northern kingdom in the eighth century <span class=\"small-caps\">b.c.</span></p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,74,22", "psalms,74,23" ],
+  "verses" : [ {
+    "verse" : "psalms,74,22",
+    "text" : "Rise up, O God, and defend your cause; remember how fools mock you all day long."
+  }, {
+    "verse" : "psalms,74,23",
+    "text" : "Do not ignore the clamor of your adversaries, the uproar of your enemies, which rises continually."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,74,22",
     "id" : 190877,

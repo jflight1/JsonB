@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,23,13" ],
+  "verses" : [ {
+    "verse" : "proverbs,23,13",
+    "text" : "Do not withhold discipline from a child; if you punish him with the rod, he will not die."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,22,17-proverbs,24,22",
     "id" : 192162,
@@ -17,7 +20,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 23:13\">23:13</a></b> <b>he will not die.</b> The meaning is either that such corporal punishment will not unduly hurt him, or that by the discipline he will avoid death (the meaning of <a class=\"bibleref\" href=\"/passage/?search=Prov 23:14\">v. 14</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,23,14" ],
+  "verses" : [ {
+    "verse" : "proverbs,23,14",
+    "text" : "Punish him with the rod and save his soul from death."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,23,14",
     "id" : 192185,

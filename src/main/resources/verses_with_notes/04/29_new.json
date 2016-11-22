@@ -1,5 +1,14 @@
 [ {
-  "singleVerses" : [ "luke,24,13", "luke,24,14", "luke,24,15" ],
+  "verses" : [ {
+    "verse" : "luke,24,13",
+    "text" : "Now that same day two of them were going to a village called Emmaus, about seven miles from Jerusalem."
+  }, {
+    "verse" : "luke,24,14",
+    "text" : "They were talking with each other about everything that had happened."
+  }, {
+    "verse" : "luke,24,15",
+    "text" : "As they talked and discussed these things with each other, Jesus himself came up and walked along with them;"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,24,1-luke,24,53",
     "id" : 196841,
@@ -12,7 +21,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 24:13\">24:13</a></b> <b>Emmaus.</b> The exact site is not known.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,24,16", "luke,24,17" ],
+  "verses" : [ {
+    "verse" : "luke,24,16",
+    "text" : "but they were kept from recognizing him."
+  }, {
+    "verse" : "luke,24,17",
+    "text" : "He asked them, \"What are you discussing together as you walk along?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,24,16",
     "id" : 196849,
@@ -20,7 +35,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 24:16\">24:16</a></b> <b>their eyes were kept.</b> This appears to mean that God prevented them from recognizing Jesus at this time.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,24,18", "luke,24,19" ],
+  "verses" : [ {
+    "verse" : "luke,24,18",
+    "text" : "They stood still, their faces downcast. One of them, named Cleopas, asked him, \"Are you only a visitor to Jerusalem and do not know the things that have happened there in these days?\""
+  }, {
+    "verse" : "luke,24,19",
+    "text" : "\"What things?\" he asked."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,24,18",
     "id" : 196850,
@@ -28,7 +49,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 24:18\">24:18</a></b> Cleopas is not mentioned elsewhere.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,24,20" ],
+  "verses" : [ {
+    "verse" : "luke,24,20",
+    "text" : "\"About Jesus of Nazareth,\" they replied. \"He was a prophet, powerful in word and deed before God and all the people. The chief priests and our rulers handed him over to be sentenced to death, and they crucified him;"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,24,20",
     "id" : 196851,
@@ -36,7 +60,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 24:20\">24:20</a></b> <b>our chief priests and rulers.</b> The disciples place the principal responsibility for Jesus’ death on their own people, not the Romans.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,24,21", "luke,24,22", "luke,24,23", "luke,24,24", "luke,24,25" ],
+  "verses" : [ {
+    "verse" : "luke,24,21",
+    "text" : "but we had hoped that he was the one who was going to redeem Israel. And what is more, it is the third day since all this took place."
+  }, {
+    "verse" : "luke,24,22",
+    "text" : "In addition, some of our women amazed us. They went to the tomb early this morning"
+  }, {
+    "verse" : "luke,24,23",
+    "text" : "but didn't find his body. They came and told us that they had seen a vision of angels, who said he was alive."
+  }, {
+    "verse" : "luke,24,24",
+    "text" : "Then some of our companions went to the tomb and found it just as the women had said, but him they did not see.\""
+  }, {
+    "verse" : "luke,24,25",
+    "text" : "He said to them, \"How foolish you are, and how slow of heart to believe all that the prophets have spoken!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,24,21",
     "id" : 196852,
@@ -44,7 +83,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 24:21\">24:21</a></b> <b>redeem.</b> The word means to set free by paying a price. Clearly, the two were thinking of the political deliverance of their nation.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,24,26" ],
+  "verses" : [ {
+    "verse" : "luke,24,26",
+    "text" : "Did not the Christ have to suffer these things and then enter his glory?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,24,26",
     "id" : 196853,
@@ -52,7 +94,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 24:26\">24:26</a></b> <b>suffer . . . enter . . . glory.</b> See <a class=\"bibleref\" href=\"/passage/?search=Luke 24:44-Luke 24:47\">vv. 44–47</a>. Peter gives a similar outline of the message of the Old Testament in <a class=\"bibleref\" href=\"/passage/?search=1Pet 1:10\">1 Pet. 1:10</a>, <a class=\"bibleref\" href=\"/passage/?search=1Pet 1:11\">11</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,24,27", "luke,24,28", "luke,24,29" ],
+  "verses" : [ {
+    "verse" : "luke,24,27",
+    "text" : "And beginning with Moses and all the Prophets, he explained to them what was said in all the Scriptures concerning himself."
+  }, {
+    "verse" : "luke,24,28",
+    "text" : "As they approached the village to which they were going, Jesus acted as if he were going farther."
+  }, {
+    "verse" : "luke,24,29",
+    "text" : "But they urged him strongly, \"Stay with us, for it is nearly evening; the day is almost over.\" So he went in to stay with them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,24,27",
     "id" : 196854,
@@ -60,7 +111,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 24:27\">24:27</a></b> See <a class=\"bibleref\" href=\"/passage/?search=Luke 24:44\">24:44</a> note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,24,30" ],
+  "verses" : [ {
+    "verse" : "luke,24,30",
+    "text" : "When he was at the table with them, he took bread, gave thanks, broke it and began to give it to them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,24,30",
     "id" : 196855,
@@ -68,7 +122,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 24:30\">24:30</a></b> <b>took the bread . . . gave it to them.</b> These were actions a host would perform at a meal (cf. <a class=\"bibleref\" href=\"/passage/?search=Luke 22:19\">22:19</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,24,31", "luke,24,32", "luke,24,33" ],
+  "verses" : [ {
+    "verse" : "luke,24,31",
+    "text" : "Then their eyes were opened and they recognized him, and he disappeared from their sight."
+  }, {
+    "verse" : "luke,24,32",
+    "text" : "They asked each other, \"Were not our hearts burning within us while he talked with us on the road and opened the Scriptures to us?\""
+  }, {
+    "verse" : "luke,24,33",
+    "text" : "They got up and returned at once to Jerusalem. There they found the Eleven and those with them, assembled together"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,24,31",
     "id" : 196856,
@@ -76,7 +139,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 24:31\">24:31</a></b> <b>opened.</b> This was apparently by divine action (cf. <a class=\"bibleref\" href=\"/passage/?search=Luke 24:16\">v. 16</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,24,34", "luke,24,35" ],
+  "verses" : [ {
+    "verse" : "luke,24,34",
+    "text" : "and saying, \"It is true! The Lord has risen and has appeared to Simon.\""
+  }, {
+    "verse" : "luke,24,35",
+    "text" : "Then the two told what had happened on the way, and how Jesus was recognized by them when he broke the bread."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,24,34",
     "id" : 196857,
@@ -84,7 +153,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 24:34\">24:34</a></b> They had not believed the women (<a class=\"bibleref\" href=\"/passage/?search=Luke 24:11\">v. 11</a>), but an appearance to Simon Peter was convincing.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,24,36", "luke,24,37", "luke,24,38" ],
+  "verses" : [ {
+    "verse" : "luke,24,36",
+    "text" : "While they were still talking about this, Jesus himself stood among them and said to them, \"Peace be with you.\""
+  }, {
+    "verse" : "luke,24,37",
+    "text" : "They were startled and frightened, thinking they saw a ghost."
+  }, {
+    "verse" : "luke,24,38",
+    "text" : "He said to them, \"Why are you troubled, and why do doubts rise in your minds?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,24,36",
     "id" : 196858,
@@ -92,7 +170,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 24:36\">24:36</a></b> The sudden appearance of Jesus among them, although the doors were locked (<a class=\"bibleref\" href=\"/passage/?search=John 20:19\">John 20:19</a>), indicates that the risen Lord was not limited as ordinary human beings are.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,24,39", "luke,24,40", "luke,24,41" ],
+  "verses" : [ {
+    "verse" : "luke,24,39",
+    "text" : "Look at my hands and my feet. It is I myself! Touch me and see; a ghost does not have flesh and bones, as you see I have.\""
+  }, {
+    "verse" : "luke,24,40",
+    "text" : "When he had said this, he showed them his hands and feet."
+  }, {
+    "verse" : "luke,24,41",
+    "text" : "And while they still did not believe it because of joy and amazement, he asked them, \"Do you have anything here to eat?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,24,39",
     "id" : 196859,
@@ -100,7 +187,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 24:39\">24:39</a></b> <b>my hands and my feet.</b> That is, to see the nail marks.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,24,42", "luke,24,43", "luke,24,44" ],
+  "verses" : [ {
+    "verse" : "luke,24,42",
+    "text" : "They gave him a piece of broiled fish,"
+  }, {
+    "verse" : "luke,24,43",
+    "text" : "and he took it and ate it in their presence."
+  }, {
+    "verse" : "luke,24,44",
+    "text" : "He said to them, \"This is what I told you while I was still with you: Everything must be fulfilled that is written about me in the Law of Moses, the Prophets and the Psalms.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,24,42",
     "id" : 196860,
@@ -108,7 +204,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 24:42\">24:42</a></b> <b>broiled fish.</b> The risen Christ ate and drank, proving that He was not merely a visionary appearance.</p><p><b>the Law of Moses and the Prophets and the Psalms.</b> The threefold division of the Hebrew Bible. Jesus is saying that every part of Scripture bears witness to Him.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,24,45", "luke,24,46", "luke,24,47" ],
+  "verses" : [ {
+    "verse" : "luke,24,45",
+    "text" : "Then he opened their minds so they could understand the Scriptures."
+  }, {
+    "verse" : "luke,24,46",
+    "text" : "He told them, \"This is what is written: The Christ will suffer and rise from the dead on the third day,"
+  }, {
+    "verse" : "luke,24,47",
+    "text" : "and repentance and forgiveness of sins will be preached in his name to all nations, beginning at Jerusalem."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,24,45",
     "id" : 196861,
@@ -116,7 +221,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 24:45\">24:45</a></b> <b>opened their minds.</b> Jesus showed them the way to understand the Bible. Christ’s death and resurrection were foretold in Scripture (<a class=\"bibleref\" href=\"/passage/?search=Luke 24:26\">v. 26</a> note). In addition, the calling of people to repentance and remission of sin were foretold (<a class=\"bibleref\" href=\"/passage/?search=Luke 24:47\">v. 47</a>). These are based on Christ’s atoning work. See “The Mission of the Church in the World” at <a class=\"bibleref\" href=\"/passage/?search=John 20:21\">John 20:21</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,24,48" ],
+  "verses" : [ {
+    "verse" : "luke,24,48",
+    "text" : "You are witnesses of these things."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,24,48",
     "id" : 196862,
@@ -124,7 +232,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 24:48\">24:48</a></b> <b>witnesses.</b> The preachers are not to produce some novel concepts of their own, but to bear witness to what God has done.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,24,49" ],
+  "verses" : [ {
+    "verse" : "luke,24,49",
+    "text" : "I am going to send you what my Father has promised; but stay in the city until you have been clothed with power from on high.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,24,49",
     "id" : 196863,
@@ -132,7 +243,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 24:49\">24:49</a></b> The risen Jesus will send what His Father has promised, the gift of the Holy Spirit (<a class=\"bibleref\" href=\"/passage/?search=Joel 2:28-Joel 2:32\">Joel 2:28–32</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 2:1-Acts 2:4\">Acts 2:1–4</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,24,50" ],
+  "verses" : [ {
+    "verse" : "luke,24,50",
+    "text" : "When he had led them out to the vicinity of Bethany, he lifted up his hands and blessed them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,24,50",
     "id" : 196864,
@@ -140,7 +254,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 24:50\">24:50</a></b> Luke gives no time indication here, but later he states that the Ascension took place forty days after the Resurrection (<a class=\"bibleref\" href=\"/passage/?search=Acts 1:3\">Acts 1:3</a>).</p><p><b>Bethany.</b> A village on the Mount of Olives about two miles east of Jerusalem (<a class=\"bibleref\" href=\"/passage/?search=John 11:18\">John 11:18</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,24,51" ],
+  "verses" : [ {
+    "verse" : "luke,24,51",
+    "text" : "While he was blessing them, he left them and was taken up into heaven."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,24,51",
     "id" : 196865,
@@ -148,7 +265,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 24:51\">24:51</a></b> <b>he parted from them.</b> Luke’s account of the Ascension is a brief but fitting conclusion to his Gospel, which is an account of “all that Jesus began to do and teach, until the day when he was taken up” (<a class=\"bibleref\" href=\"/passage/?search=Acts 1:1\">Acts 1:1</a>, <a class=\"bibleref\" href=\"/passage/?search=Acts 1:2\">2</a>). Luke provides a more detailed ascension account at the beginning of his second book (<a class=\"bibleref\" href=\"/passage/?search=Acts 1:9-Acts 1:11\">Acts 1:9–11</a>). The Ascension marks the end of the work Jesus came to do on earth and the beginning of what He continues to do in and through the church. See theological note “The Ascension of Jesus.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,24,52" ],
+  "verses" : [ {
+    "verse" : "luke,24,52",
+    "text" : "Then they worshiped him and returned to Jerusalem with great joy."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,24,52",
     "id" : 196866,
@@ -156,7 +276,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 24:52\">24:52</a></b> <b>they worshiped him.</b> Whatever their view of Jesus in earlier days, they now recognized His divinity and worshiped Him. The separation did not bring sadness, but “great joy.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,24,53" ],
+  "verses" : [ {
+    "verse" : "luke,24,53",
+    "text" : "And they stayed continually at the temple, praising God."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,24,53",
     "id" : 196867,

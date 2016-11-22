@@ -1,5 +1,50 @@
 [ {
-  "singleVerses" : [ "leviticus,9,7", "leviticus,9,8", "leviticus,9,9", "leviticus,9,10", "leviticus,9,11", "leviticus,9,12", "leviticus,9,13", "leviticus,9,14", "leviticus,9,15", "leviticus,9,16", "leviticus,9,17", "leviticus,9,18", "leviticus,9,19", "leviticus,9,20", "leviticus,9,21" ],
+  "verses" : [ {
+    "verse" : "leviticus,9,7",
+    "text" : "Moses said to Aaron, \"Come to the altar and sacrifice your sin offering and your burnt offering and make atonement for yourself and the people; sacrifice the offering that is for the people and make atonement for them, as the LORD has commanded.\""
+  }, {
+    "verse" : "leviticus,9,8",
+    "text" : "So Aaron came to the altar and slaughtered the calf as a sin offering for himself."
+  }, {
+    "verse" : "leviticus,9,9",
+    "text" : "His sons brought the blood to him, and he dipped his finger into the blood and put it on the horns of the altar; the rest of the blood he poured out at the base of the altar."
+  }, {
+    "verse" : "leviticus,9,10",
+    "text" : "On the altar he burned the fat, the kidneys and the covering of the liver from the sin offering, as the LORD commanded Moses;"
+  }, {
+    "verse" : "leviticus,9,11",
+    "text" : "the flesh and the hide he burned up outside the camp."
+  }, {
+    "verse" : "leviticus,9,12",
+    "text" : "Then he slaughtered the burnt offering. His sons handed him the blood, and he sprinkled it against the altar on all sides."
+  }, {
+    "verse" : "leviticus,9,13",
+    "text" : "They handed him the burnt offering piece by piece, including the head, and he burned them on the altar."
+  }, {
+    "verse" : "leviticus,9,14",
+    "text" : "He washed the inner parts and the legs and burned them on top of the burnt offering on the altar."
+  }, {
+    "verse" : "leviticus,9,15",
+    "text" : "Aaron then brought the offering that was for the people. He took the goat for the people's sin offering and slaughtered it and offered it for a sin offering as he did with the first one."
+  }, {
+    "verse" : "leviticus,9,16",
+    "text" : "He brought the burnt offering and offered it in the prescribed way."
+  }, {
+    "verse" : "leviticus,9,17",
+    "text" : "He also brought the grain offering, took a handful of it and burned it on the altar in addition to the morning's burnt offering."
+  }, {
+    "verse" : "leviticus,9,18",
+    "text" : "He slaughtered the ox and the ram as the fellowship offering for the people. His sons handed him the blood, and he sprinkled it against the altar on all sides."
+  }, {
+    "verse" : "leviticus,9,19",
+    "text" : "But the fat portions of the ox and the ram-the fat tail, the layer of fat, the kidneys and the covering of the liver-"
+  }, {
+    "verse" : "leviticus,9,20",
+    "text" : "these they laid on the breasts, and then Aaron burned the fat on the altar."
+  }, {
+    "verse" : "leviticus,9,21",
+    "text" : "Aaron waved the breasts and the right thigh before the LORD as a wave offering, as Moses commanded."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,8,1-leviticus,10,20",
     "id" : 186054,
@@ -17,7 +62,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 9:7\">9:7</a></b> Note that Aaron had to make atonement for himself first and then for the people (cf. <a class=\"bibleref\" href=\"/passage/?search=Heb 5:3\">Heb. 5:3</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,9,22" ],
+  "verses" : [ {
+    "verse" : "leviticus,9,22",
+    "text" : "Then Aaron lifted his hands toward the people and blessed them. And having sacrificed the sin offering, the burnt offering and the fellowship offering, he stepped down."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,9,22",
     "id" : 186062,
@@ -25,7 +73,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 9:22\">9:22</a></b> <b>blessed.</b> The traditional priestly blessing is found in <a class=\"bibleref\" href=\"/passage/?search=Num 6:23-Num 6:26\">Num. 6:23–26</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,9,23", "leviticus,9,24" ],
+  "verses" : [ {
+    "verse" : "leviticus,9,23",
+    "text" : "Moses and Aaron then went into the Tent of Meeting. When they came out, they blessed the people; and the glory of the LORD appeared to all the people."
+  }, {
+    "verse" : "leviticus,9,24",
+    "text" : "Fire came out from the presence of the LORD and consumed the burnt offering and the fat portions on the altar. And when all the people saw it, they shouted for joy and fell facedown."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,9,23",
     "id" : 186063,
@@ -33,7 +87,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 9:23\">9:23</a></b> <b>the glory of the <span class=\"small-caps\">Lord</span>.</b> God’s appearance signaled His approval of the first sacrifices offered by the newly consecrated priests. The fire that then consumed the offering (<a class=\"bibleref\" href=\"/passage/?search=Lev 9:24\">v. 24</a>) confirmed God’s acceptance of Aaron’s ministry (cf. <a class=\"bibleref\" href=\"/passage/?search=1Kgs 18:38\">1 Kin. 18:38</a>; <a class=\"bibleref\" href=\"/passage/?search=Heb 12:28-Heb 12:29\">Heb. 12:28–29</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,10,1" ],
+  "verses" : [ {
+    "verse" : "leviticus,10,1",
+    "text" : "Aaron's sons Nadab and Abihu took their censers, put fire in them and added incense; and they offered unauthorized fire before the LORD, contrary to his command."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,10,1-leviticus,10,20",
     "id" : 186064,
@@ -46,7 +103,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 10:1\">10:1</a></b> <b>censer.</b> A vessel for burning incense.</p><p><b>unauthorized fire.</b> Lit. “strange fire.” Apparently the instructions for offering incense were not properly followed, perhaps by using coals from elsewhere than the altar (<a class=\"bibleref\" href=\"/passage/?search=Lev 16:12\">Lev. 16:12</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Exod 30:1-Exod 30:9\">Ex. 30:1–9</a>). Some interpreters suggest that the two men were also drunk (cf. v. 9).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,10,2", "leviticus,10,3", "leviticus,10,4", "leviticus,10,5" ],
+  "verses" : [ {
+    "verse" : "leviticus,10,2",
+    "text" : "So fire came out from the presence of the LORD and consumed them, and they died before the LORD."
+  }, {
+    "verse" : "leviticus,10,3",
+    "text" : "Moses then said to Aaron, \"This is what the LORD spoke of when he said: \"'Among those who approach me I will show myself holy; in the sight of all the people I will be honored.'\" Aaron remained silent."
+  }, {
+    "verse" : "leviticus,10,4",
+    "text" : "Moses summoned Mishael and Elzaphan, sons of Aaron's uncle Uzziel, and said to them, \"Come here; carry your cousins outside the camp, away from the front of the sanctuary.\""
+  }, {
+    "verse" : "leviticus,10,5",
+    "text" : "So they came and carried them, still in their tunics, outside the camp, as Moses ordered."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,10,2",
     "id" : 186066,
@@ -54,7 +123,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 10:2\">10:2</a></b> <b>fire came out from before the <span class=\"small-caps\">Lord</span>.</b> The Old Testament frequently warned against approaching God in an unfit state (<a class=\"bibleref\" href=\"/passage/?search=Exod 19:12\">Ex. 19:12</a>, <a class=\"bibleref\" href=\"/passage/?search=Exod 19:21\">21</a>); this principle is also evident in the New Testament (<a class=\"bibleref\" href=\"/passage/?search=Acts 5:1-Acts 5:10\">Acts 5:1–10</a>; <a class=\"bibleref\" href=\"/passage/?search=1Cor 11:29\">1 Cor. 11:29</a>, <a class=\"bibleref\" href=\"/passage/?search=1Cor 11:30\">30</a>). Eating sacrificial food while unclean (7:21) or entering the Most Holy Place without divine approval might lead to death (16:2). The same divine fire that ignited the inaugural sacrifice, providing atonement for the people (9:24), now engulfed those who encroached upon His altar in an unauthorized fashion. So also the same divine wrath against sin that fell upon Christ in His vicarious sacrifice for His people will blaze against those who reject that sacrifice and yet attempt to approach God in their sin (<a class=\"bibleref\" href=\"/passage/?search=Heb 10:26-Heb 10:31\">Heb. 10:26–31</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,10,6", "leviticus,10,7", "leviticus,10,8", "leviticus,10,9" ],
+  "verses" : [ {
+    "verse" : "leviticus,10,6",
+    "text" : "Then Moses said to Aaron and his sons Eleazar and Ithamar, \"Do not let your hair become unkempt, and do not tear your clothes, or you will die and the LORD will be angry with the whole community. But your relatives, all the house of Israel, may mourn for those the LORD has destroyed by fire."
+  }, {
+    "verse" : "leviticus,10,7",
+    "text" : "Do not leave the entrance to the Tent of Meeting or you will die, because the LORD's anointing oil is on you.\" So they did as Moses said."
+  }, {
+    "verse" : "leviticus,10,8",
+    "text" : "Then the LORD said to Aaron,"
+  }, {
+    "verse" : "leviticus,10,9",
+    "text" : "\"You and your sons are not to drink wine or other fermented drink whenever you go into the Tent of Meeting, or you will die. This is a lasting ordinance for the generations to come."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,10,6",
     "id" : 186067,
@@ -62,7 +143,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 10:6\">10:6</a></b> <b>let the hair . . . tear.</b> These were signs of mourning (<a class=\"bibleref\" href=\"/passage/?search=Lev 13:45\">13:45</a>). The high priests were forbidden to mourn even their closest relatives (<a class=\"bibleref\" href=\"/passage/?search=Lev 21:10-Lev 21:12\">21:10–12</a>), since total consecration to God meant complete separation from death.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,10,10", "leviticus,10,11", "leviticus,10,12", "leviticus,10,13", "leviticus,10,14", "leviticus,10,15", "leviticus,10,16" ],
+  "verses" : [ {
+    "verse" : "leviticus,10,10",
+    "text" : "You must distinguish between the holy and the common, between the unclean and the clean,"
+  }, {
+    "verse" : "leviticus,10,11",
+    "text" : "and you must teach the Israelites all the decrees the LORD has given them through Moses.\""
+  }, {
+    "verse" : "leviticus,10,12",
+    "text" : "Moses said to Aaron and his remaining sons, Eleazar and Ithamar, \"Take the grain offering left over from the offerings made to the LORD by fire and eat it prepared without yeast beside the altar, for it is most holy."
+  }, {
+    "verse" : "leviticus,10,13",
+    "text" : "Eat it in a holy place, because it is your share and your sons' share of the offerings made to the LORD by fire; for so I have been commanded."
+  }, {
+    "verse" : "leviticus,10,14",
+    "text" : "But you and your sons and your daughters may eat the breast that was waved and the thigh that was presented. Eat them in a ceremonially clean place; they have been given to you and your children as your share of the Israelites' fellowship offerings."
+  }, {
+    "verse" : "leviticus,10,15",
+    "text" : "The thigh that was presented and the breast that was waved must be brought with the fat portions of the offerings made by fire, to be waved before the LORD as a wave offering. This will be the regular share for you and your children, as the LORD has commanded.\""
+  }, {
+    "verse" : "leviticus,10,16",
+    "text" : "When Moses inquired about the goat of the sin offering and found that it had been burned up, he was angry with Eleazar and Ithamar, Aaron's remaining sons, and asked,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,10,10",
     "id" : 186068,
@@ -70,7 +172,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 10:10\">10:10</a></b> <b>distinguish between the holy and the common.</b> The priest’s job was to teach the people these basic religious distinctions. “Holy” applies to what belongs to God, “clean” to what is fit for Him. Things “unholy” and “unclean” are unfit for God’s presence. See note on <a class=\"bibleref\" href=\"/passage/?search=Lev 11-Lev 16\">chs. 11–16</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,10,17", "leviticus,10,18" ],
+  "verses" : [ {
+    "verse" : "leviticus,10,17",
+    "text" : "\"Why didn't you eat the sin offering in the sanctuary area? It is most holy; it was given to you to take away the guilt of the community by making atonement for them before the LORD."
+  }, {
+    "verse" : "leviticus,10,18",
+    "text" : "Since its blood was not taken into the Holy Place, you should have eaten the goat in the sanctuary area, as I commanded.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,10,17-leviticus,10,20",
     "id" : 186069,
@@ -78,7 +186,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 10:17-Lev 10:20\">10:17–20</a></b> Aaron and his sons had offered two sin offerings (<a class=\"bibleref\" href=\"/passage/?search=Lev 10:19\">v. 19</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Lev 9:8-Lev 9:17\">9:8–17</a>): one for Aaron, the blood of which was sprinkled in the holy place and the remainder burned (<a class=\"bibleref\" href=\"/passage/?search=Lev 4:6\">4:6</a>, <a class=\"bibleref\" href=\"/passage/?search=Lev 4:12\">12</a>), and one for the people, the blood of which was sprinkled on the altar of burnt offering in the courtyard and which was then to be eaten by the priests (<a class=\"bibleref\" href=\"/passage/?search=Lev 6:25\">6:25</a>, <a class=\"bibleref\" href=\"/passage/?search=Lev 6:26\">26</a>). Normally he and his sons should have eaten the meat of the people’s sin offering to complete the atonement process, but they had not.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,10,19" ],
+  "verses" : [ {
+    "verse" : "leviticus,10,19",
+    "text" : "Aaron replied to Moses, \"Today they sacrificed their sin offering and their burnt offering before the LORD, but such things as this have happened to me. Would the LORD have been pleased if I had eaten the sin offering today?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,10,19",
     "id" : 186070,
@@ -86,7 +197,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Lev 10:19\">10:19</a></b> <b>such things as these have happened to me.</b> Probably a reference to the terrifying events of <a class=\"bibleref\" href=\"/passage/?search=Lev 10:1-Lev 10:7\">vv. 1–7</a>. After the display of God’s consuming judgment, Aaron was apparently frightened to eat the sacrificial meat, which was holy (<a class=\"bibleref\" href=\"/passage/?search=Lev 6:26-Lev 6:29\">6:26–29</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "leviticus,10,20" ],
+  "verses" : [ {
+    "verse" : "leviticus,10,20",
+    "text" : "When Moses heard this, he was satisfied."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "leviticus,10,20",
     "id" : 186071,

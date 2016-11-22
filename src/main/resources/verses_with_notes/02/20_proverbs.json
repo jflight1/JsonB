@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,10,6" ],
+  "verses" : [ {
+    "verse" : "proverbs,10,6",
+    "text" : "Blessings crown the head of the righteous, but violence overwhelms the mouth of the wicked."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -17,7 +20,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 10:6\">10:6</a></b> <b>Blessings.</b> The unspecified blessings leave the application open to a range of situations, but, as in <a class=\"bibleref\" href=\"/passage/?search=Prov 10:22\">v. 22</a>, the goodness of the Lord is experienced.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,10,7" ],
+  "verses" : [ {
+    "verse" : "proverbs,10,7",
+    "text" : "The memory of the righteous will be a blessing, but the name of the wicked will rot."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,7",
     "id" : 191850,

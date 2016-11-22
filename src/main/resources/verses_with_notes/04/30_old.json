@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "judges,11,1", "judges,11,2" ],
+  "verses" : [ {
+    "verse" : "judges,11,1",
+    "text" : "Jephthah the Gileadite was a mighty warrior. His father was Gilead; his mother was a prostitute."
+  }, {
+    "verse" : "judges,11,2",
+    "text" : "Gilead's wife also bore him sons, and when they were grown up, they drove Jephthah away. \"You are not going to get any inheritance in our family,\" they said, \"because you are the son of another woman.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,10,6-judges,12,7",
     "id" : 187133,
@@ -12,7 +18,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 11:1\">11:1 a</a></b> <b>mighty warrior.</b> This is what Gideon was called (<a class=\"bibleref\" href=\"/passage/?search=Judg 6:12\">6:12</a>).</p><p><b>son of a prostitute.</b> Jephthah’s heritage made him an outcast (<a class=\"bibleref\" href=\"/passage/?search=Judg 6:2\">v. 2</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,11,3", "judges,11,4", "judges,11,5", "judges,11,6", "judges,11,7", "judges,11,8" ],
+  "verses" : [ {
+    "verse" : "judges,11,3",
+    "text" : "So Jephthah fled from his brothers and settled in the land of Tob, where a group of adventurers gathered around him and followed him."
+  }, {
+    "verse" : "judges,11,4",
+    "text" : "Some time later, when the Ammonites made war on Israel,"
+  }, {
+    "verse" : "judges,11,5",
+    "text" : "the elders of Gilead went to get Jephthah from the land of Tob."
+  }, {
+    "verse" : "judges,11,6",
+    "text" : "\"Come,\" they said, \"be our commander, so we can fight the Ammonites.\""
+  }, {
+    "verse" : "judges,11,7",
+    "text" : "Jephthah said to them, \"Didn't you hate me and drive me from my father's house? Why do you come to me now, when you're in trouble?\""
+  }, {
+    "verse" : "judges,11,8",
+    "text" : "The elders of Gilead said to him, \"Nevertheless, we are turning to you now; come with us to fight the Ammonites, and you will be our head over all who live in Gilead.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,11,3",
     "id" : 187143,
@@ -20,7 +44,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 11:3\">11:3</a></b> <b>worthless fellows.</b> Another similarity between Jephthah and Abimelech was their followers (<a class=\"bibleref\" href=\"/passage/?search=Judg 9:4\">9:4</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,11,9" ],
+  "verses" : [ {
+    "verse" : "judges,11,9",
+    "text" : "Jephthah answered, \"Suppose you take me back to fight the Ammonites and the LORD gives them to me-will I really be your head?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,11,9",
     "id" : 187144,
@@ -28,7 +55,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 11:9\">11:9</a></b> <b>the <span class=\"small-caps\">Lord</span> gives them.</b> Jephthah showed his faith that it was God who gave him victory.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,11,10" ],
+  "verses" : [ {
+    "verse" : "judges,11,10",
+    "text" : "The elders of Gilead replied, \"The LORD is our witness; we will certainly do as you say.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,11,10",
     "id" : 187145,
@@ -36,7 +66,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 11:10\">11:10</a></b> <b>The <span class=\"small-caps\">Lord</span> will be witness.</b> The elders were swearing an oath in order to confirm a covenant.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,11,11" ],
+  "verses" : [ {
+    "verse" : "judges,11,11",
+    "text" : "So Jephthah went with the elders of Gilead, and the people made him head and commander over them. And he repeated all his words before the LORD in Mizpah."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,11,11",
     "id" : 187146,
@@ -44,7 +77,40 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 11:11\">11:11</a></b> <b>Jephthah spoke all his words before the <span class=\"small-caps\">Lord</span> at Mizpah.</b> The covenant is confirmed before the Lord in Mizpah. Years later the people made Saul king, also before the Lord, at Mizpah (<a class=\"bibleref\" href=\"/passage/?search=1Sam 10:17\">1 Sam. 10:17</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,11,12", "judges,11,13", "judges,11,14", "judges,11,15", "judges,11,16", "judges,11,17", "judges,11,18", "judges,11,19", "judges,11,20", "judges,11,21", "judges,11,22" ],
+  "verses" : [ {
+    "verse" : "judges,11,12",
+    "text" : "Then Jephthah sent messengers to the Ammonite king with the question: \"What do you have against us that you have attacked our country?\""
+  }, {
+    "verse" : "judges,11,13",
+    "text" : "The king of the Ammonites answered Jephthah's messengers, \"When Israel came up out of Egypt, they took away my land from the Arnon to the Jabbok, all the way to the Jordan. Now give it back peaceably.\""
+  }, {
+    "verse" : "judges,11,14",
+    "text" : "Jephthah sent back messengers to the Ammonite king,"
+  }, {
+    "verse" : "judges,11,15",
+    "text" : "saying: \"This is what Jephthah says: Israel did not take the land of Moab or the land of the Ammonites."
+  }, {
+    "verse" : "judges,11,16",
+    "text" : "But when they came up out of Egypt, Israel went through the desert to the Red Sea and on to Kadesh."
+  }, {
+    "verse" : "judges,11,17",
+    "text" : "Then Israel sent messengers to the king of Edom, saying, 'Give us permission to go through your country,' but the king of Edom would not listen. They sent also to the king of Moab, and he refused. So Israel stayed at Kadesh."
+  }, {
+    "verse" : "judges,11,18",
+    "text" : "\"Next they traveled through the desert, skirted the lands of Edom and Moab, passed along the eastern side of the country of Moab, and camped on the other side of the Arnon. They did not enter the territory of Moab, for the Arnon was its border."
+  }, {
+    "verse" : "judges,11,19",
+    "text" : "\"Then Israel sent messengers to Sihon king of the Amorites, who ruled in Heshbon, and said to him, 'Let us pass through your country to our own place.'"
+  }, {
+    "verse" : "judges,11,20",
+    "text" : "Sihon, however, did not trust Israel to pass through his territory. He mustered all his men and encamped at Jahaz and fought with Israel."
+  }, {
+    "verse" : "judges,11,21",
+    "text" : "\"Then the LORD, the God of Israel, gave Sihon and all his men into Israel's hands, and they defeated them. Israel took over all the land of the Amorites who lived in that country,"
+  }, {
+    "verse" : "judges,11,22",
+    "text" : "capturing all of it from the Arnon to the Jabbok and from the desert to the Jordan."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,11,12-judges,11,29",
     "id" : 187147,
@@ -57,7 +123,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 11:12\">11:12</a></b> <b>king of the Ammonites.</b> Like Saul, Jephthah’s first adversary was the Ammonites (<a class=\"bibleref\" href=\"/passage/?search=1Sam 11:1-1Sam 11:11\">1 Sam. 11:1–11</a>). Gilead was the region threatened in Saul’s story as well.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,11,23", "judges,11,24", "judges,11,25", "judges,11,26" ],
+  "verses" : [ {
+    "verse" : "judges,11,23",
+    "text" : "\"Now since the LORD, the God of Israel, has driven the Amorites out before his people Israel, what right have you to take it over?"
+  }, {
+    "verse" : "judges,11,24",
+    "text" : "Will you not take what your god Chemosh gives you? Likewise, whatever the LORD our God has given us, we will possess."
+  }, {
+    "verse" : "judges,11,25",
+    "text" : "Are you better than Balak son of Zippor, king of Moab? Did he ever quarrel with Israel or fight with them?"
+  }, {
+    "verse" : "judges,11,26",
+    "text" : "For three hundred years Israel occupied Heshbon, Aroer, the surrounding settlements and all the towns along the Arnon. Why didn't you retake them during that time?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,11,23",
     "id" : 187149,
@@ -65,7 +143,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 11:23\">11:23</a></b> <b>the <span class=\"small-caps\">Lord</span>, the God of Israel.</b> Warfare was viewed as a battle between the gods of the opposing forces. If Israel won, it was because the God of Israel had done it, and no one could dispute the result (<a class=\"bibleref\" href=\"/passage/?search=Judg 11:24\">v. 24</a>). See v. 21.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,11,27", "judges,11,28" ],
+  "verses" : [ {
+    "verse" : "judges,11,27",
+    "text" : "I have not wronged you, but you are doing me wrong by waging war against me. Let the LORD, the Judge, decide the dispute this day between the Israelites and the Ammonites.\""
+  }, {
+    "verse" : "judges,11,28",
+    "text" : "The king of Ammon, however, paid no attention to the message Jephthah sent him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,11,27",
     "id" : 187150,
@@ -73,7 +157,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 11:27\">11:27</a></b> <b>The <span class=\"small-caps\">Lord</span>, the Judge, decide this day.</b> See <a class=\"bibleref\" href=\"/passage/?search=Judg 11:21\">vv. 21</a>, <a class=\"bibleref\" href=\"/passage/?search=Judg 11:23\">23</a>. Jephthah declared that God was the Judge over all peoples and gods. Here the word is used in a legal sense, as in handing down a decision, although God would ultimately be a deliverer as well (<a class=\"bibleref\" href=\"/passage/?search=Judg 11:32-Judg 11:33\">vv. 32–33</a>). The Book of Judges affirms that God is the true King (<a class=\"bibleref\" href=\"/passage/?search=Judg 8:23\">8:23</a>) and true Judge, who alone could solve Israel’s woes.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,11,29" ],
+  "verses" : [ {
+    "verse" : "judges,11,29",
+    "text" : "Then the Spirit of the LORD came upon Jephthah. He crossed Gilead and Manasseh, passed through Mizpah of Gilead, and from there he advanced against the Ammonites."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,11,29",
     "id" : 187151,
@@ -81,7 +168,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 11:29\">11:29</a></b> <b>Spirit of the <span class=\"small-caps\">Lord</span>.</b> See <a class=\"bibleref\" href=\"/passage/?search=Judg 3:10\">3:10</a> and note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,11,30", "judges,11,31", "judges,11,32", "judges,11,33", "judges,11,34" ],
+  "verses" : [ {
+    "verse" : "judges,11,30",
+    "text" : "And Jephthah made a vow to the LORD: \"If you give the Ammonites into my hands,"
+  }, {
+    "verse" : "judges,11,31",
+    "text" : "whatever comes out of the door of my house to meet me when I return in triumph from the Ammonites will be the LORD 's, and I will sacrifice it as a burnt offering.\""
+  }, {
+    "verse" : "judges,11,32",
+    "text" : "Then Jephthah went over to fight the Ammonites, and the LORD gave them into his hands."
+  }, {
+    "verse" : "judges,11,33",
+    "text" : "He devastated twenty towns from Aroer to the vicinity of Minnith, as far as Abel Keramim. Thus Israel subdued Ammon."
+  }, {
+    "verse" : "judges,11,34",
+    "text" : "When Jephthah returned to his home in Mizpah, who should come out to meet him but his daughter, dancing to the sound of tambourines! She was an only child. Except for her he had neither son nor daughter."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,11,30-judges,11,40",
     "id" : 187152,
@@ -89,7 +191,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 11:30-Judg 11:40\">11:30–40</a></b> Jephthah defeated the Ammonites, but in the process made a rash vow to the Lord and sacrificed his daughter as a burnt offering. God was not to be worshiped in the way the pagans worshiped their gods, namely, by human sacrifice (<a class=\"bibleref\" href=\"/passage/?search=Deut 12:31\">Deut. 12:31</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 18:10\">18:10</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 106:37-Ps 106:38\">Ps. 106:37–38</a>). As a deliverer, Jephthah did not show the people how to keep the covenant, despite giving evidence of his faith (vv. 10–11, 21, 23, 27). Like Jephthah, Saul also made a rash vow that turned out to be a threat to his own child (<a class=\"bibleref\" href=\"/passage/?search=1Sam 14:24-1Sam 14:45\">1 Sam. 14:24–45</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,11,35" ],
+  "verses" : [ {
+    "verse" : "judges,11,35",
+    "text" : "When he saw her, he tore his clothes and cried, \"Oh! My daughter! You have made me miserable and wretched, because I have made a vow to the LORD that I cannot break.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,11,35",
     "id" : 187153,
@@ -97,7 +202,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 11:35\">11:35</a></b> <b>tore his clothes.</b> This was the sign of mourning over death.</p><p><b>opened my mouth.</b> Although vows were sacred (<a class=\"bibleref\" href=\"/passage/?search=Deut 23:21-Deut 23:23\">Deut. 23:21–23</a>), Jephthah’s action was wrong. Human sacrifice was absolutely forbidden in Israel (v. 39 note). It is evil to keep an evil vow. Unlawful oaths and vows must not be made or, if made, not kept (cf. <a class=\"bibleref\" href=\"/passage/?search=Matt 14:1-Matt 14:12\">Matt. 14:1–12</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,11,36" ],
+  "verses" : [ {
+    "verse" : "judges,11,36",
+    "text" : "\"My father,\" she replied, \"you have given your word to the LORD. Do to me just as you promised, now that the LORD has avenged you of your enemies, the Ammonites."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,11,36",
     "id" : 187154,
@@ -105,7 +213,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 11:36\">11:36</a></b> <b>do to me according to what has gone out of your mouth.</b> That is, “offer me as a sacrifice” (<a class=\"bibleref\" href=\"/passage/?search=Judg 11:30-Judg 11:31\">vv. 30–31</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,11,37", "judges,11,38" ],
+  "verses" : [ {
+    "verse" : "judges,11,37",
+    "text" : "But grant me this one request,\" she said. \"Give me two months to roam the hills and weep with my friends, because I will never marry.\""
+  }, {
+    "verse" : "judges,11,38",
+    "text" : "\"You may go,\" he said. And he let her go for two months. She and the girls went into the hills and wept because she would never marry."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,11,37",
     "id" : 187155,
@@ -113,7 +227,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 11:37\">11:37</a></b> <b>weep for my virginity.</b> This probably means to lament that she would never marry or have children (<a class=\"bibleref\" href=\"/passage/?search=Judg 11:38\">vv. 38</a>, <a class=\"bibleref\" href=\"/passage/?search=Judg 11:39\">39</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,11,39", "judges,11,40" ],
+  "verses" : [ {
+    "verse" : "judges,11,39",
+    "text" : "After the two months, she returned to her father and he did to her as he had vowed. And she was a virgin. From this comes the Israelite custom"
+  }, {
+    "verse" : "judges,11,40",
+    "text" : "that each year the young women of Israel go out for four days to commemorate the daughter of Jephthah the Gileadite."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,11,39",
     "id" : 187156,
@@ -121,7 +241,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 11:39\">11:39</a></b> <b>according to his vow.</b> Though stated delicately, the text is clear: Jephthah sacrificed his daughter as a burnt offering. It is observed that she was a virgin, but this was not the content of the vow. Human sacrifice was sin, an imitation of pagan practice (<a class=\"bibleref\" href=\"/passage/?search=Judg 11:30-Judg 11:40\">11:30–40</a> note; <a class=\"bibleref\" href=\"/passage/?search=Deut 12:31\">Deut. 12:31</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 106:38\">Ps. 106:38</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,12,1", "judges,12,2", "judges,12,3" ],
+  "verses" : [ {
+    "verse" : "judges,12,1",
+    "text" : "The men of Ephraim called out their forces, crossed over to Zaphon and said to Jephthah, \"Why did you go to fight the Ammonites without calling us to go with you? We're going to burn down your house over your head.\""
+  }, {
+    "verse" : "judges,12,2",
+    "text" : "Jephthah answered, \"I and my people were engaged in a great struggle with the Ammonites, and although I called, you didn't save me out of their hands."
+  }, {
+    "verse" : "judges,12,3",
+    "text" : "When I saw that you wouldn't help, I took my life in my hands and crossed over to fight the Ammonites, and the LORD gave me the victory over them. Now why have you come up today to fight me?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,12,1",
     "id" : 187157,
@@ -134,7 +263,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 12:1-Judg 12:7\">12:1–7</a></b> Following immediately after the sacrifice of his daughter (<a class=\"bibleref\" href=\"/passage/?search=Judg 11:30-Judg 11:40\">11:30–40</a>), this story implies that Jephthah’s struggle with Ephraim and his abbreviated judgeship (<a class=\"bibleref\" href=\"/passage/?search=Judg 11:7\">v. 7</a>) were God’s judgment on him for sacrificing his daughter. <a class=\"bibleref\" href=\"/passage/?search=Ps 78\">Ps. 78</a> (esp. vv. 9–11, 67) reflects on Ephraim’s failure to fight and explains God’s rejection of Ephraim as Israel’s leader. Judah, the tribe of David, and not Ephraim would lead Israel (<a class=\"bibleref\" href=\"/passage/?search=Ps 78:68-Ps 78:72\">Ps. 78:68–72</a>).</p><p><b>Why.</b> See 8:1 for an almost identical question put to Gideon.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,12,4" ],
+  "verses" : [ {
+    "verse" : "judges,12,4",
+    "text" : "Jephthah then called together the men of Gilead and fought against Ephraim. The Gileadites struck them down because the Ephraimites had said, \"You Gileadites are renegades from Ephraim and Manasseh.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,12,4",
     "id" : 187159,
@@ -142,7 +274,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 12:4\">12:4</a></b> <b>the midst of Ephraim and Manasseh.</b> The Gileadites were descended from Joseph, as were Ephraim and Manasseh.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,12,5" ],
+  "verses" : [ {
+    "verse" : "judges,12,5",
+    "text" : "The Gileadites captured the fords of the Jordan leading to Ephraim, and whenever a survivor of Ephraim said, \"Let me cross over,\" the men of Gilead asked him, \"Are you an Ephraimite?\" If he replied, \"No,\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,12,5",
     "id" : 187160,
@@ -150,7 +285,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 12:5\">12:5</a></b> <b>fords of the Jordan.</b> Gilead was on the east side of the Jordan, Ephraim on the west.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,12,6" ],
+  "verses" : [ {
+    "verse" : "judges,12,6",
+    "text" : "they said, \"All right, say 'Shibboleth.'\" If he said, \"Sibboleth,\" because he could not pronounce the word correctly, they seized him and killed him at the fords of the Jordan. Forty-two thousand Ephraimites were killed at that time."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,12,6",
     "id" : 187161,
@@ -158,7 +296,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 12:6\">12:6</a></b> <b>Shibboleth . . . Sibboleth.</b> The Ephraimites could be recognized by the way certain words were pronounced in their dialect.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,12,7" ],
+  "verses" : [ {
+    "verse" : "judges,12,7",
+    "text" : "Jephthah led Israel six years. Then Jephthah the Gileadite died, and was buried in a town in Gilead."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,12,7",
     "id" : 187162,
@@ -166,7 +307,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 12:7\">12:7</a></b> <b>Jephthah judged Israel six years.</b> Previous judges led for forty or eighty years, and peace lasted a generation or two. Jephthah’s abbreviated rule, the increased number of gods being worshiped, and the civil war with Ephraim contribute to a picture of Israel’s downward spiral.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,12,8", "judges,12,9", "judges,12,10", "judges,12,11", "judges,12,12", "judges,12,13" ],
+  "verses" : [ {
+    "verse" : "judges,12,8",
+    "text" : "After him, Ibzan of Bethlehem led Israel."
+  }, {
+    "verse" : "judges,12,9",
+    "text" : "He had thirty sons and thirty daughters. He gave his daughters away in marriage to those outside his clan, and for his sons he brought in thirty young women as wives from outside his clan. Ibzan led Israel seven years."
+  }, {
+    "verse" : "judges,12,10",
+    "text" : "Then Ibzan died, and was buried in Bethlehem."
+  }, {
+    "verse" : "judges,12,11",
+    "text" : "After him, Elon the Zebulunite led Israel ten years."
+  }, {
+    "verse" : "judges,12,12",
+    "text" : "Then Elon died, and was buried in Aijalon in the land of Zebulun."
+  }, {
+    "verse" : "judges,12,13",
+    "text" : "After him, Abdon son of Hillel, from Pirathon, led Israel."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,12,8-judges,12,15",
     "id" : 187163,
@@ -174,7 +333,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Judg 12:8-Judg 12:15\">12:8–15</a></b> Ibzan, Elon, and Abdon are briefly mentioned (<a class=\"bibleref\" href=\"/passage/?search=Judg 10:1-Judg 10:5\">10:1–5</a> note). Nothing more is known about these men. They bring the total of judges mentioned in the Book of Judges to twelve.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "judges,12,14", "judges,12,15" ],
+  "verses" : [ {
+    "verse" : "judges,12,14",
+    "text" : "He had forty sons and thirty grandsons, who rode on seventy donkeys. He led Israel eight years."
+  }, {
+    "verse" : "judges,12,15",
+    "text" : "Then Abdon son of Hillel died, and was buried at Pirathon in Ephraim, in the hill country of the Amalekites."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "judges,12,14",
     "id" : 187164,

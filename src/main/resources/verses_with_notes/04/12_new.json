@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "luke,15,1", "luke,15,2" ],
+  "verses" : [ {
+    "verse" : "luke,15,1",
+    "text" : "Now the tax collectors and \"sinners\" were all gathering around to hear him."
+  }, {
+    "verse" : "luke,15,2",
+    "text" : "But the Pharisees and the teachers of the law muttered, \"This man welcomes sinners and eats with them.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,15,1",
     "id" : 196648,
@@ -7,7 +13,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 15:1\">15:1</a></b> <b>tax collectors.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Luke 3:12\">3:12</a>.</p><p><b>sinners.</b> People who were immoral or who followed occupations that the scribes held to be incompatible with keeping God’s law. A rabbinic rule stated that “one must not associate with an ungodly man,” and the rabbis would not even teach such a person. Notice that <a class=\"bibleref\" href=\"/passage/?search=Luke 14\">ch. 14</a> ends with “let him hear” and <a class=\"bibleref\" href=\"/passage/?search=Luke 15\">ch. 15</a> begins with these “sinners” gathering around to hear Jesus.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,15,3", "luke,15,4", "luke,15,5", "luke,15,6", "luke,15,7" ],
+  "verses" : [ {
+    "verse" : "luke,15,3",
+    "text" : "Then Jesus told them this parable:"
+  }, {
+    "verse" : "luke,15,4",
+    "text" : "\"Suppose one of you has a hundred sheep and loses one of them. Does he not leave the ninety-nine in the open country and go after the lost sheep until he finds it?"
+  }, {
+    "verse" : "luke,15,5",
+    "text" : "And when he finds it, he joyfully puts it on his shoulders"
+  }, {
+    "verse" : "luke,15,6",
+    "text" : "and goes home. Then he calls his friends and neighbors together and says, 'Rejoice with me; I have found my lost sheep.'"
+  }, {
+    "verse" : "luke,15,7",
+    "text" : "I tell you that in the same way there will be more rejoicing in heaven over one sinner who repents than over ninety-nine righteous persons who do not need to repent."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,15,3",
     "id" : 196649,
@@ -15,7 +36,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 15:3\">15:3</a></b> The rabbis taught that God would welcome a penitent sinner, but these parables teach that God seeks out the sinner.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,15,8", "luke,15,9", "luke,15,10" ],
+  "verses" : [ {
+    "verse" : "luke,15,8",
+    "text" : "\"Or suppose a woman has ten silver coins and loses one. Does she not light a lamp, sweep the house and search carefully until she finds it?"
+  }, {
+    "verse" : "luke,15,9",
+    "text" : "And when she finds it, she calls her friends and neighbors together and says, 'Rejoice with me; I have found my lost coin.'"
+  }, {
+    "verse" : "luke,15,10",
+    "text" : "In the same way, I tell you, there is rejoicing in the presence of the angels of God over one sinner who repents.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,15,8",
     "id" : 196650,
@@ -23,7 +53,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 15:8\">15:8</a></b> <b>silver coins.</b> The drachma (occurs only here in the New Testament) was the Greek equivalent of the Roman denarius, about a day’s wage for a laborer. The ten coins may have been the woman’s life savings, or they may have been strung together as a headdress.</p><p><b>light a lamp.</b> Houses had no windows or perhaps small ones, so a lamp was needed even in the daytime.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,15,11", "luke,15,12", "luke,15,13", "luke,15,14" ],
+  "verses" : [ {
+    "verse" : "luke,15,11",
+    "text" : "Jesus continued: \"There was a man who had two sons."
+  }, {
+    "verse" : "luke,15,12",
+    "text" : "The younger one said to his father, 'Father, give me my share of the estate.' So he divided his property between them."
+  }, {
+    "verse" : "luke,15,13",
+    "text" : "\"Not long after that, the younger son got together all he had, set off for a distant country and there squandered his wealth in wild living."
+  }, {
+    "verse" : "luke,15,14",
+    "text" : "After he had spent everything, there was a severe famine in that whole country, and he began to be in need."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,15,11-luke,15,32",
     "id" : 196651,
@@ -36,7 +78,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 15:11\">15:11</a>, <a class=\"bibleref\" href=\"/passage/?search=Luke 15:12\">12</a></b> The firstborn son was entitled to two-thirds of his father’s property (<a class=\"bibleref\" href=\"/passage/?search=Deut 21:17\">Deut. 21:17</a>). Sometimes the father would give the rights to the property (which meant that he could not dispose of it himself, though the son could sell it) and retain the income (if the son sold the property, the buyer could not take possession until the father’s death). But to give the property to one of the sons as in this parable was unusual.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,15,15", "luke,15,16", "luke,15,17", "luke,15,18", "luke,15,19" ],
+  "verses" : [ {
+    "verse" : "luke,15,15",
+    "text" : "So he went and hired himself out to a citizen of that country, who sent him to his fields to feed pigs."
+  }, {
+    "verse" : "luke,15,16",
+    "text" : "He longed to fill his stomach with the pods that the pigs were eating, but no one gave him anything."
+  }, {
+    "verse" : "luke,15,17",
+    "text" : "\"When he came to his senses, he said, 'How many of my father's hired men have food to spare, and here I am starving to death!"
+  }, {
+    "verse" : "luke,15,18",
+    "text" : "I will set out and go back to my father and say to him: Father, I have sinned against heaven and against you."
+  }, {
+    "verse" : "luke,15,19",
+    "text" : "I am no longer worthy to be called your son; make me like one of your hired men.'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,15,15",
     "id" : 196653,
@@ -44,7 +101,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 15:15\">15:15</a></b> Swine were unclean (<a class=\"bibleref\" href=\"/passage/?search=Lev 11:7\">Lev. 11:7</a>); no Jew would take this job willingly.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,15,20", "luke,15,21" ],
+  "verses" : [ {
+    "verse" : "luke,15,20",
+    "text" : "So he got up and went to his father. \"But while he was still a long way off, his father saw him and was filled with compassion for him; he ran to his son, threw his arms around him and kissed him."
+  }, {
+    "verse" : "luke,15,21",
+    "text" : "\"The son said to him, 'Father, I have sinned against heaven and against you. I am no longer worthy to be called your son. '"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,15,20",
     "id" : 196654,
@@ -52,7 +115,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 15:20\">15:20</a></b> The father was apparently watching intently for his son’s return. It was undignified for an older man to lift up his robes and run.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,15,22", "luke,15,23", "luke,15,24" ],
+  "verses" : [ {
+    "verse" : "luke,15,22",
+    "text" : "\"But the father said to his servants, 'Quick! Bring the best robe and put it on him. Put a ring on his finger and sandals on his feet."
+  }, {
+    "verse" : "luke,15,23",
+    "text" : "Bring the fattened calf and kill it. Let's have a feast and celebrate."
+  }, {
+    "verse" : "luke,15,24",
+    "text" : "For this son of mine was dead and is alive again; he was lost and is found.' So they began to celebrate."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,15,22-luke,15,23",
     "id" : 196655,
@@ -60,7 +132,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 15:22\">15:22</a>, <a class=\"bibleref\" href=\"/passage/?search=Luke 15:23\">23</a></b> The father’s actions indicate complete forgiveness and restoration of relationship. The “best robe” is a mark of distinction and the ring signifies authority (<a class=\"bibleref\" href=\"/passage/?search=Gen 41:42\">Gen. 41:42</a>; <a class=\"bibleref\" href=\"/passage/?search=Esth 3:10\">Esth. 3:10</a>; <a class=\"bibleref\" href=\"/passage/?search=Esth 8:2\">8:2</a>). Because slaves did not wear shoes, the shoes point to the status of a free man. The fattened calf was reserved for special occasions.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,15,25", "luke,15,26", "luke,15,27" ],
+  "verses" : [ {
+    "verse" : "luke,15,25",
+    "text" : "\"Meanwhile, the older son was in the field. When he came near the house, he heard music and dancing."
+  }, {
+    "verse" : "luke,15,26",
+    "text" : "So he called one of the servants and asked him what was going on."
+  }, {
+    "verse" : "luke,15,27",
+    "text" : "'Your brother has come,' he replied, 'and your father has killed the fattened calf because he has him back safe and sound.'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,15,25",
     "id" : 196656,
@@ -68,7 +149,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 15:25\">15:25</a></b> The older son’s attitude illustrates the judgmental spirit of the Pharisees who were annoyed at the presence of “sinners” (<a class=\"bibleref\" href=\"/passage/?search=Luke 15:1-Luke 15:3\">vv. 1–3</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,15,28" ],
+  "verses" : [ {
+    "verse" : "luke,15,28",
+    "text" : "\"The older brother became angry and refused to go in. So his father went out and pleaded with him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,15,28",
     "id" : 196657,
@@ -76,7 +160,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 15:28\">15:28</a></b> As with the younger son (<a class=\"bibleref\" href=\"/passage/?search=Luke 15:20\">v. 20</a>), the father takes the initiative in restoring the relationship. The parable as a whole points to the sovereign love of God who actively seeks out unworthy sinners, those who do not seek Him (<a class=\"bibleref\" href=\"/passage/?search=Luke 19:10\">19:10</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,15,29", "luke,15,30" ],
+  "verses" : [ {
+    "verse" : "luke,15,29",
+    "text" : "But he answered his father, 'Look! All these years I've been slaving for you and never disobeyed your orders. Yet you never gave me even a young goat so I could celebrate with my friends."
+  }, {
+    "verse" : "luke,15,30",
+    "text" : "But when this son of yours who has squandered your property with prostitutes comes home, you kill the fattened calf for him!'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,15,29",
     "id" : 196658,
@@ -84,7 +174,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 15:29\">15:29</a></b> <b>served you.</b> This statement indicates that the older brother viewed his relationship with the father as the reward for meritorious behavior. Like the father’s loving response to the undeserving younger son shows, salvation is not a reward for good works but entirely the gracious gift of God (<a class=\"bibleref\" href=\"/passage/?search=Eph 2:8\">Eph. 2:8</a>, <a class=\"bibleref\" href=\"/passage/?search=Eph 2:9\">9</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,15,31", "luke,15,32" ],
+  "verses" : [ {
+    "verse" : "luke,15,31",
+    "text" : "\"'My son,' the father said, 'you are always with me, and everything I have is yours."
+  }, {
+    "verse" : "luke,15,32",
+    "text" : "But we had to celebrate and be glad, because this brother of yours was dead and is alive again; he was lost and is found.'\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,15,31",
     "id" : 196659,

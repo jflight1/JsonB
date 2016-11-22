@@ -1,5 +1,17 @@
 [ {
-  "singleVerses" : [ "numbers,33,40", "numbers,33,41", "numbers,33,42", "numbers,33,43" ],
+  "verses" : [ {
+    "verse" : "numbers,33,40",
+    "text" : "The Canaanite king of Arad, who lived in the Negev of Canaan, heard that the Israelites were coming."
+  }, {
+    "verse" : "numbers,33,41",
+    "text" : "They left Mount Hor and camped at Zalmonah."
+  }, {
+    "verse" : "numbers,33,42",
+    "text" : "They left Zalmonah and camped at Punon."
+  }, {
+    "verse" : "numbers,33,43",
+    "text" : "They left Punon and camped at Oboth."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,26,1-numbers,36,13",
     "id" : 186294,
@@ -12,7 +24,31 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Num 33:5-Num 33:48\">33:5–48</a></b> Many of the names in this list may represent wilderness camps that have since disappeared. For other mention of some locations, see the cross references.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "numbers,33,44", "numbers,33,45", "numbers,33,46", "numbers,33,47", "numbers,33,48", "numbers,33,49", "numbers,33,50", "numbers,33,51" ],
+  "verses" : [ {
+    "verse" : "numbers,33,44",
+    "text" : "They left Oboth and camped at Iye Abarim, on the border of Moab."
+  }, {
+    "verse" : "numbers,33,45",
+    "text" : "They left Iyim and camped at Dibon Gad."
+  }, {
+    "verse" : "numbers,33,46",
+    "text" : "They left Dibon Gad and camped at Almon Diblathaim."
+  }, {
+    "verse" : "numbers,33,47",
+    "text" : "They left Almon Diblathaim and camped in the mountains of Abarim, near Nebo."
+  }, {
+    "verse" : "numbers,33,48",
+    "text" : "They left the mountains of Abarim and camped on the plains of Moab by the Jordan across from Jericho."
+  }, {
+    "verse" : "numbers,33,49",
+    "text" : "There on the plains of Moab they camped along the Jordan from Beth Jeshimoth to Abel Shittim."
+  }, {
+    "verse" : "numbers,33,50",
+    "text" : "On the plains of Moab by the Jordan across from Jericho the LORD said to Moses,"
+  }, {
+    "verse" : "numbers,33,51",
+    "text" : "\"Speak to the Israelites and say to them: 'When you cross the Jordan into Canaan,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,33,44",
     "id" : 186320,
@@ -20,7 +56,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Num 33:44\">33:44</a></b> <b>Iye-abarim.</b> See <a class=\"bibleref\" href=\"/passage/?search=Num 27:12\">27:12</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "numbers,33,52" ],
+  "verses" : [ {
+    "verse" : "numbers,33,52",
+    "text" : "drive out all the inhabitants of the land before you. Destroy all their carved images and their cast idols, and demolish all their high places."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,33,52",
     "id" : 186321,
@@ -28,7 +67,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Num 33:52\">33:52</a></b> <b>drive out all the inhabitants.</b> God orders the complete extermination of the Canaanites and the destruction of all marks of idolatry, as had been done to the Midianites (<a class=\"bibleref\" href=\"/passage/?search=Num 31\">ch. 31</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "numbers,33,53", "numbers,33,54", "numbers,33,55", "numbers,33,56" ],
+  "verses" : [ {
+    "verse" : "numbers,33,53",
+    "text" : "Take possession of the land and settle in it, for I have given you the land to possess."
+  }, {
+    "verse" : "numbers,33,54",
+    "text" : "Distribute the land by lot, according to your clans. To a larger group give a larger inheritance, and to a smaller group a smaller one. Whatever falls to them by lot will be theirs. Distribute it according to your ancestral tribes."
+  }, {
+    "verse" : "numbers,33,55",
+    "text" : "\"'But if you do not drive out the inhabitants of the land, those you allow to remain will become barbs in your eyes and thorns in your sides. They will give you trouble in the land where you will live."
+  }, {
+    "verse" : "numbers,33,56",
+    "text" : "And then I will do to you what I plan to do to them.'\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,33,53",
     "id" : 186322,
@@ -36,7 +87,52 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Num 33:53\">33:53</a></b> <b>settle in it.</b> God sets forth rules for settlement, summarizing the directions in <a class=\"bibleref\" href=\"/passage/?search=Num 26:52-Num 26:56\">26:52–56</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "numbers,34,1", "numbers,34,2", "numbers,34,3", "numbers,34,4", "numbers,34,5", "numbers,34,6", "numbers,34,7", "numbers,34,8", "numbers,34,9", "numbers,34,10", "numbers,34,11", "numbers,34,12", "numbers,34,13", "numbers,34,14", "numbers,34,15" ],
+  "verses" : [ {
+    "verse" : "numbers,34,1",
+    "text" : "The LORD said to Moses,"
+  }, {
+    "verse" : "numbers,34,2",
+    "text" : "\"Command the Israelites and say to them: 'When you enter Canaan, the land that will be allotted to you as an inheritance will have these boundaries:"
+  }, {
+    "verse" : "numbers,34,3",
+    "text" : "\"'Your southern side will include some of the Desert of Zin along the border of Edom. On the east, your southern boundary will start from the end of the Salt Sea,"
+  }, {
+    "verse" : "numbers,34,4",
+    "text" : "cross south of Scorpion Pass, continue on to Zin and go south of Kadesh Barnea. Then it will go to Hazar Addar and over to Azmon,"
+  }, {
+    "verse" : "numbers,34,5",
+    "text" : "where it will turn, join the Wadi of Egypt and end at the Sea."
+  }, {
+    "verse" : "numbers,34,6",
+    "text" : "\"'Your western boundary will be the coast of the Great Sea. This will be your boundary on the west."
+  }, {
+    "verse" : "numbers,34,7",
+    "text" : "\"'For your northern boundary, run a line from the Great Sea to Mount Hor"
+  }, {
+    "verse" : "numbers,34,8",
+    "text" : "and from Mount Hor to Lebo Hamath. Then the boundary will go to Zedad,"
+  }, {
+    "verse" : "numbers,34,9",
+    "text" : "continue to Ziphron and end at Hazar Enan. This will be your boundary on the north."
+  }, {
+    "verse" : "numbers,34,10",
+    "text" : "\"'For your eastern boundary, run a line from Hazar Enan to Shepham."
+  }, {
+    "verse" : "numbers,34,11",
+    "text" : "The boundary will go down from Shepham to Riblah on the east side of Ain and continue along the slopes east of the Sea of Kinnereth."
+  }, {
+    "verse" : "numbers,34,12",
+    "text" : "Then the boundary will go down along the Jordan and end at the Salt Sea. \"'This will be your land, with its boundaries on every side.'\""
+  }, {
+    "verse" : "numbers,34,13",
+    "text" : "Moses commanded the Israelites: \"Assign this land by lot as an inheritance. The LORD has ordered that it be given to the nine and a half tribes,"
+  }, {
+    "verse" : "numbers,34,14",
+    "text" : "because the families of the tribe of Reuben, the tribe of Gad and the half-tribe of Manasseh have received their inheritance."
+  }, {
+    "verse" : "numbers,34,15",
+    "text" : "These two and a half tribes have received their inheritance on the east side of the Jordan of Jericho, toward the sunrise.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,34,1-numbers,34,15",
     "id" : 186323,
@@ -44,7 +140,49 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Num 34:1-Num 34:15\">34:1–15</a></b> These boundaries of Canaan do not include the territory already assigned in Transjordan, east of the Jordan River (<a class=\"bibleref\" href=\"/passage/?search=Num 34:13-Num 34:15\">vv. 13–15</a>). See <a class=\"bibleref\" href=\"/passage/?search=Num 32\">ch. 32</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "numbers,34,16", "numbers,34,17", "numbers,34,18", "numbers,34,19", "numbers,34,20", "numbers,34,21", "numbers,34,22", "numbers,34,23", "numbers,34,24", "numbers,34,25", "numbers,34,26", "numbers,34,27", "numbers,34,28", "numbers,34,29" ],
+  "verses" : [ {
+    "verse" : "numbers,34,16",
+    "text" : "The LORD said to Moses,"
+  }, {
+    "verse" : "numbers,34,17",
+    "text" : "\"These are the names of the men who are to assign the land for you as an inheritance: Eleazar the priest and Joshua son of Nun."
+  }, {
+    "verse" : "numbers,34,18",
+    "text" : "And appoint one leader from each tribe to help assign the land."
+  }, {
+    "verse" : "numbers,34,19",
+    "text" : "These are their names: Caleb son of Jephunneh, from the tribe of Judah;"
+  }, {
+    "verse" : "numbers,34,20",
+    "text" : "Shemuel son of Ammihud, from the tribe of Simeon;"
+  }, {
+    "verse" : "numbers,34,21",
+    "text" : "Elidad son of Kislon, from the tribe of Benjamin;"
+  }, {
+    "verse" : "numbers,34,22",
+    "text" : "Bukki son of Jogli, the leader from the tribe of Dan;"
+  }, {
+    "verse" : "numbers,34,23",
+    "text" : "Hanniel son of Ephod, the leader from the tribe of Manasseh son of Joseph;"
+  }, {
+    "verse" : "numbers,34,24",
+    "text" : "Kemuel son of Shiphtan, the leader from the tribe of Ephraim son of Joseph;"
+  }, {
+    "verse" : "numbers,34,25",
+    "text" : "Elizaphan son of Parnach, the leader from the tribe of Zebulun;"
+  }, {
+    "verse" : "numbers,34,26",
+    "text" : "Paltiel son of Azzan, the leader from the tribe of Issachar;"
+  }, {
+    "verse" : "numbers,34,27",
+    "text" : "Ahihud son of Shelomi, the leader from the tribe of Asher;"
+  }, {
+    "verse" : "numbers,34,28",
+    "text" : "Pedahel son of Ammihud, the leader from the tribe of Naphtali.\""
+  }, {
+    "verse" : "numbers,34,29",
+    "text" : "These are the men the LORD commanded to assign the inheritance to the Israelites in the land of Canaan."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,34,16-numbers,34,29",
     "id" : 186324,
@@ -52,7 +190,31 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Num 34:16-Num 34:29\">34:16–29</a></b> The Lord designates men to assign the portions of the land of Canaan: Eleazar the priest (<a class=\"bibleref\" href=\"/passage/?search=Num 20:25-Num 20:26\">Num. 20:25–26</a>) and Joshua the commander (<a class=\"bibleref\" href=\"/passage/?search=Num 27:18-Num 27:23\">Num. 27:18–23</a>) were to be in charge, together with a leader from each of the ten tribes that had not yet been given their inheritance. None of these ten names are included in earlier lists of leaders (<a class=\"bibleref\" href=\"/passage/?search=Num 1:5-Num 1:15\">Num. 1:5–15</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 2:3-Num 2:29\">2:3–29</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 7:12-Num 7:78\">7:12–78</a>), nor is any one of them the son of a man included in those lists.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "numbers,35,1", "numbers,35,2", "numbers,35,3", "numbers,35,4", "numbers,35,5", "numbers,35,6", "numbers,35,7", "numbers,35,8" ],
+  "verses" : [ {
+    "verse" : "numbers,35,1",
+    "text" : "On the plains of Moab by the Jordan across from Jericho, the LORD said to Moses,"
+  }, {
+    "verse" : "numbers,35,2",
+    "text" : "\"Command the Israelites to give the Levites towns to live in from the inheritance the Israelites will possess. And give them pasturelands around the towns."
+  }, {
+    "verse" : "numbers,35,3",
+    "text" : "Then they will have towns to live in and pasturelands for their cattle, flocks and all their other livestock."
+  }, {
+    "verse" : "numbers,35,4",
+    "text" : "\"The pasturelands around the towns that you give the Levites will extend out fifteen hundred feet from the town wall."
+  }, {
+    "verse" : "numbers,35,5",
+    "text" : "Outside the town, measure three thousand feet on the east side, three thousand on the south side, three thousand on the west and three thousand on the north, with the town in the center. They will have this area as pastureland for the towns."
+  }, {
+    "verse" : "numbers,35,6",
+    "text" : "\"Six of the towns you give the Levites will be cities of refuge, to which a person who has killed someone may flee. In addition, give them forty-two other towns."
+  }, {
+    "verse" : "numbers,35,7",
+    "text" : "In all you must give the Levites forty-eight towns, together with their pasturelands."
+  }, {
+    "verse" : "numbers,35,8",
+    "text" : "The towns you give the Levites from the land the Israelites possess are to be given in proportion to the inheritance of each tribe: Take many towns from a tribe that has many, but few from one that has few.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,35,1-numbers,35,8",
     "id" : 186325,
@@ -60,7 +222,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Num 35:1-Num 35:8\">35:1–8</a></b> Because the Levites were not given a tribal land inheritance (<a class=\"bibleref\" href=\"/passage/?search=Num 18:20\">18:20</a>), they were instead assigned forty-eight towns with surrounding pastureland, including six “cities of refuge.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "numbers,35,9", "numbers,35,10", "numbers,35,11" ],
+  "verses" : [ {
+    "verse" : "numbers,35,9",
+    "text" : "Then the LORD said to Moses:"
+  }, {
+    "verse" : "numbers,35,10",
+    "text" : "\"Speak to the Israelites and say to them: 'When you cross the Jordan into Canaan,"
+  }, {
+    "verse" : "numbers,35,11",
+    "text" : "select some towns to be your cities of refuge, to which a person who has killed someone accidentally may flee."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,35,9-numbers,35,33",
     "id" : 186326,
@@ -68,7 +239,46 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Num 35:9-Num 35:33\">35:9–33</a></b> Six cities of refuge were to be established for those who had accidentally killed someone. See note <a class=\"bibleref\" href=\"/passage/?search=Deut 4:41-Deut 4:43\">Deut. 4:41–43</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "numbers,35,12", "numbers,35,13", "numbers,35,14", "numbers,35,15", "numbers,35,16", "numbers,35,17", "numbers,35,18", "numbers,35,19", "numbers,35,20", "numbers,35,21", "numbers,35,22", "numbers,35,23", "numbers,35,24" ],
+  "verses" : [ {
+    "verse" : "numbers,35,12",
+    "text" : "They will be places of refuge from the avenger, so that a person accused of murder may not die before he stands trial before the assembly."
+  }, {
+    "verse" : "numbers,35,13",
+    "text" : "These six towns you give will be your cities of refuge."
+  }, {
+    "verse" : "numbers,35,14",
+    "text" : "Give three on this side of the Jordan and three in Canaan as cities of refuge."
+  }, {
+    "verse" : "numbers,35,15",
+    "text" : "These six towns will be a place of refuge for Israelites, aliens and any other people living among them, so that anyone who has killed another accidentally can flee there."
+  }, {
+    "verse" : "numbers,35,16",
+    "text" : "\"'If a man strikes someone with an iron object so that he dies, he is a murderer; the murderer shall be put to death."
+  }, {
+    "verse" : "numbers,35,17",
+    "text" : "Or if anyone has a stone in his hand that could kill, and he strikes someone so that he dies, he is a murderer; the murderer shall be put to death."
+  }, {
+    "verse" : "numbers,35,18",
+    "text" : "Or if anyone has a wooden object in his hand that could kill, and he hits someone so that he dies, he is a murderer; the murderer shall be put to death."
+  }, {
+    "verse" : "numbers,35,19",
+    "text" : "The avenger of blood shall put the murderer to death; when he meets him, he shall put him to death."
+  }, {
+    "verse" : "numbers,35,20",
+    "text" : "If anyone with malice aforethought shoves another or throws something at him intentionally so that he dies"
+  }, {
+    "verse" : "numbers,35,21",
+    "text" : "or if in hostility he hits him with his fist so that he dies, that person shall be put to death; he is a murderer. The avenger of blood shall put the murderer to death when he meets him."
+  }, {
+    "verse" : "numbers,35,22",
+    "text" : "\"'But if without hostility someone suddenly shoves another or throws something at him unintentionally"
+  }, {
+    "verse" : "numbers,35,23",
+    "text" : "or, without seeing him, drops a stone on him that could kill him, and he dies, then since he was not his enemy and he did not intend to harm him,"
+  }, {
+    "verse" : "numbers,35,24",
+    "text" : "the assembly must judge between him and the avenger of blood according to these regulations."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,35,12",
     "id" : 186327,
@@ -76,7 +286,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Num 35:12\">35:12</a></b> <b>the avenger.</b> A member of the victim’s family was customarily designated to avenge the victim’s death by killing the manslayer.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "numbers,35,25", "numbers,35,26", "numbers,35,27", "numbers,35,28", "numbers,35,29" ],
+  "verses" : [ {
+    "verse" : "numbers,35,25",
+    "text" : "The assembly must protect the one accused of murder from the avenger of blood and send him back to the city of refuge to which he fled. He must stay there until the death of the high priest, who was anointed with the holy oil."
+  }, {
+    "verse" : "numbers,35,26",
+    "text" : "\"'But if the accused ever goes outside the limits of the city of refuge to which he has fled"
+  }, {
+    "verse" : "numbers,35,27",
+    "text" : "and the avenger of blood finds him outside the city, the avenger of blood may kill the accused without being guilty of murder."
+  }, {
+    "verse" : "numbers,35,28",
+    "text" : "The accused must stay in his city of refuge until the death of the high priest; only after the death of the high priest may he return to his own property."
+  }, {
+    "verse" : "numbers,35,29",
+    "text" : "\"'These are to be legal requirements for you throughout the generations to come, wherever you live."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,35,25",
     "id" : 186328,
@@ -84,7 +309,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Num 35:25\">35:25</a></b> <b>until the death of the high priest.</b> See also <a class=\"bibleref\" href=\"/passage/?search=Num 35:28\">v. 28</a>. The death of the high priest brought a change in the legal status of a manslayer—the guilty one was no longer liable to the penalty for manslaughter.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "numbers,35,30" ],
+  "verses" : [ {
+    "verse" : "numbers,35,30",
+    "text" : "\"'Anyone who kills a person is to be put to death as a murderer only on the testimony of witnesses. But no one is to be put to death on the testimony of only one witness."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,35,30",
     "id" : 186329,
@@ -92,7 +320,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Num 35:30\">35:30</a></b> No one was to be put to death on the evidence of only one witness.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "numbers,35,31", "numbers,35,32" ],
+  "verses" : [ {
+    "verse" : "numbers,35,31",
+    "text" : "\"'Do not accept a ransom for the life of a murderer, who deserves to die. He must surely be put to death."
+  }, {
+    "verse" : "numbers,35,32",
+    "text" : "\"'Do not accept a ransom for anyone who has fled to a city of refuge and so allow him to go back and live on his own land before the death of the high priest."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,35,31-numbers,35,32",
     "id" : 186330,
@@ -100,7 +334,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Num 35:31\">35:31</a>, <a class=\"bibleref\" href=\"/passage/?search=Num 35:32\">32</a></b> Accepting a ransom payment was forbidden in cases of murder and manslaughter. This provision emphasizes the value God places on human life.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "numbers,35,33", "numbers,35,34" ],
+  "verses" : [ {
+    "verse" : "numbers,35,33",
+    "text" : "\"'Do not pollute the land where you are. Bloodshed pollutes the land, and atonement cannot be made for the land on which blood has been shed, except by the blood of the one who shed it."
+  }, {
+    "verse" : "numbers,35,34",
+    "text" : "Do not defile the land where you live and where I dwell, for I, the LORD, dwell among the Israelites.'\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "numbers,35,33-numbers,35,34",
     "id" : 186331,

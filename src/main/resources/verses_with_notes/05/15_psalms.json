@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,111,1" ],
+  "verses" : [ {
+    "verse" : "psalms,111,1",
+    "text" : "Praise the LORD. I will extol the LORD with all my heart in the council of the upright and in the assembly."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,111,1-psalms,111,10",
     "id" : 191270,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 111:1\">111:1</a></b> <b>in the company.</b> The holy congregation as they gather to praise the Lord in the sanctuary.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,111,2" ],
+  "verses" : [ {
+    "verse" : "psalms,111,2",
+    "text" : "Great are the works of the LORD; they are pondered by all who delight in them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,111,2",
     "id" : 191272,
@@ -20,7 +26,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 111:2\">111:2</a></b> <b>the works of the <span class=\"small-caps\">Lord</span>.</b> The psalmist has in mind the great acts of redemption that God performed in their past. The preeminent example would be the Exodus, when God rescued His people from their oppressors in Egypt.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,111,3" ],
+  "verses" : [ {
+    "verse" : "psalms,111,3",
+    "text" : "Glorious and majestic are his deeds, and his righteousness endures forever."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,111,3",
     "id" : 191273,
@@ -28,7 +37,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 111:3\">111:3</a></b> <b>his righteousness.</b> God acts in history in conformity to His character and law. Through His great historical acts, people can recognize His righteousness.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,111,4" ],
+  "verses" : [ {
+    "verse" : "psalms,111,4",
+    "text" : "He has caused his wonders to be remembered; the LORD is gracious and compassionate."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,111,4",
     "id" : 191274,
@@ -36,7 +48,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 111:4\">111:4</a></b> <b>to be remembered.</b> Remembrance involves more than an act of the memory; it also involves devotion and obedience. See <a class=\"bibleref\" href=\"/passage/?search=Ps 44:1\">Ps. 44:1</a>.</p><p><b>gracious and merciful.</b> Israel, due to sin, could not deserve God’s salvation; it springs from God’s love for His people. See <a class=\"bibleref\" href=\"/passage/?search=Exod 34:6\">Ex. 34:6</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,111,5" ],
+  "verses" : [ {
+    "verse" : "psalms,111,5",
+    "text" : "He provides food for those who fear him; he remembers his covenant forever."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,111,5",
     "id" : 191275,
@@ -44,7 +59,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 111:5\">111:5</a></b> <b>provides food.</b> This may allude to the wilderness wanderings when God miraculously provided food for Israel (e.g., <a class=\"bibleref\" href=\"/passage/?search=Num 11\">Num. 11</a>).</p><p><b>his covenant.</b> When God acts to save His people, He does so because of the relationship He has already established with them.</p><p><b>forever.</b> God is not fickle. His people may depend on Him.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,111,6", "psalms,111,7", "psalms,111,8", "psalms,111,9" ],
+  "verses" : [ {
+    "verse" : "psalms,111,6",
+    "text" : "He has shown his people the power of his works, giving them the lands of other nations."
+  }, {
+    "verse" : "psalms,111,7",
+    "text" : "The works of his hands are faithful and just; all his precepts are trustworthy."
+  }, {
+    "verse" : "psalms,111,8",
+    "text" : "They are steadfast for ever and ever, done in faithfulness and uprightness."
+  }, {
+    "verse" : "psalms,111,9",
+    "text" : "He provided redemption for his people; he ordained his covenant forever- holy and awesome is his name."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,111,6",
     "id" : 191276,
@@ -52,7 +79,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 111:6\">111:6</a></b> <b>giving them the inheritance of the nations.</b> God gave to Israel the land of a number of peoples when He gave them the Promised Land (<a class=\"bibleref\" href=\"/passage/?search=Deut 7:1-Deut 7:6\">Deut. 7:1–6</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,111,10" ],
+  "verses" : [ {
+    "verse" : "psalms,111,10",
+    "text" : "The fear of the LORD is the beginning of wisdom; all who follow his precepts have good understanding. To him belongs eternal praise."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,111,10",
     "id" : 191277,

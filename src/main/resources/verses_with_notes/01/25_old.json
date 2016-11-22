@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "genesis,50,1" ],
+  "verses" : [ {
+    "verse" : "genesis,50,1",
+    "text" : "Joseph threw himself upon his father and wept over him and kissed him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,37,2-genesis,50,26",
     "id" : 185362,
@@ -17,7 +20,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 49:29-Gen 50:26\">49:29–50:26</a></b> Believing in God’s promises to Abraham and Isaac about the Promised Land (<a class=\"bibleref\" href=\"/passage/?search=Gen 13:15\">13:15</a> and note), Jacob arranged for his burial with them in Canaan (<a class=\"bibleref\" href=\"/passage/?search=Gen 49:29-Gen 49:32\">49:29–32</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Gen 47:29-Gen 47:31\">47:29–31</a>). Joseph also instructed his family to bury him in the Promised Land after the Exodus (<a class=\"bibleref\" href=\"/passage/?search=Gen 50:24-Gen 50:26\">50:24–26</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Josh 24:32\">Josh. 24:32</a>). The burial of Jacob in the ancestral cave and Joseph’s determination to be buried in Canaan underscore the covenant family’s solidarity and point forward to the Exodus from Egypt. The unity of the family is further emphasized by Joseph’s kind words and provisions for his offending brothers (50:15–21).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,50,2", "genesis,50,3" ],
+  "verses" : [ {
+    "verse" : "genesis,50,2",
+    "text" : "Then Joseph directed the physicians in his service to embalm his father Israel. So the physicians embalmed him,"
+  }, {
+    "verse" : "genesis,50,3",
+    "text" : "taking a full forty days, for that was the time required for embalming. And the Egyptians mourned for him seventy days."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,50,2",
     "id" : 185545,
@@ -25,7 +34,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 50:2\">50:2</a></b> <b>to embalm.</b> An Egyptian practice designed to preserve the body after death and so to maintain personal identity in the afterlife; embalming was not practiced in Israel. Here the embalming preserved the body for transport back to Canaan.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,50,4" ],
+  "verses" : [ {
+    "verse" : "genesis,50,4",
+    "text" : "When the days of mourning had passed, Joseph said to Pharaoh's court, \"If I have found favor in your eyes, speak to Pharaoh for me. Tell him,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,50,4",
     "id" : 185546,
@@ -33,7 +45,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 50:4\">50:4</a></b> <b>spoke to the household of Pharaoh.</b> Having just mourned his father’s death (<a class=\"bibleref\" href=\"/passage/?search=Deut 34:8\">Deut. 34:8</a> note), Joseph’s appearance was probably unsuitable for an appearance before Pharaoh (cf. 41:14).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,50,5", "genesis,50,6", "genesis,50,7", "genesis,50,8" ],
+  "verses" : [ {
+    "verse" : "genesis,50,5",
+    "text" : "'My father made me swear an oath and said, \"I am about to die; bury me in the tomb I dug for myself in the land of Canaan.\" Now let me go up and bury my father; then I will return.'\""
+  }, {
+    "verse" : "genesis,50,6",
+    "text" : "Pharaoh said, \"Go up and bury your father, as he made you swear to do.\""
+  }, {
+    "verse" : "genesis,50,7",
+    "text" : "So Joseph went up to bury his father. All Pharaoh's officials accompanied him-the dignitaries of his court and all the dignitaries of Egypt-"
+  }, {
+    "verse" : "genesis,50,8",
+    "text" : "besides all the members of Joseph's household and his brothers and those belonging to his father's household. Only their children and their flocks and herds were left in Goshen."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,50,5",
     "id" : 185547,
@@ -41,7 +65,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 50:5\">50:5</a></b> <b>I hewed out for myself.</b> The Hebrew verb translated “hewed out” can also mean “purchased” (cf. <a class=\"bibleref\" href=\"/passage/?search=Gen 23\">ch. 23</a>). If the text reading is followed, Joseph simply expressed Jacob’s instructions in words Pharaoh understood.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,50,9", "genesis,50,10", "genesis,50,11", "genesis,50,12", "genesis,50,13", "genesis,50,14", "genesis,50,15" ],
+  "verses" : [ {
+    "verse" : "genesis,50,9",
+    "text" : "Chariots and horsemen also went up with him. It was a very large company."
+  }, {
+    "verse" : "genesis,50,10",
+    "text" : "When they reached the threshing floor of Atad, near the Jordan, they lamented loudly and bitterly; and there Joseph observed a seven-day period of mourning for his father."
+  }, {
+    "verse" : "genesis,50,11",
+    "text" : "When the Canaanites who lived there saw the mourning at the threshing floor of Atad, they said, \"The Egyptians are holding a solemn ceremony of mourning.\" That is why that place near the Jordan is called Abel Mizraim."
+  }, {
+    "verse" : "genesis,50,12",
+    "text" : "So Jacob's sons did as he had commanded them:"
+  }, {
+    "verse" : "genesis,50,13",
+    "text" : "They carried him to the land of Canaan and buried him in the cave in the field of Machpelah, near Mamre, which Abraham had bought as a burial place from Ephron the Hittite, along with the field."
+  }, {
+    "verse" : "genesis,50,14",
+    "text" : "After burying his father, Joseph returned to Egypt, together with his brothers and all the others who had gone with him to bury his father."
+  }, {
+    "verse" : "genesis,50,15",
+    "text" : "When Joseph's brothers saw that their father was dead, they said, \"What if Joseph holds a grudge against us and pays us back for all the wrongs we did to him?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,50,9",
     "id" : 185548,
@@ -49,7 +94,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 50:9\">50:9</a></b> <b>chariots and horsemen.</b> The protection given the burial party by Egyptian arms contrasts with the threat of Egyptian chariots during the Mosaic exodus (<a class=\"bibleref\" href=\"/passage/?search=Exod 14:9\">Ex. 14:9</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 15:4\">15:4</a>, <a class=\"bibleref\" href=\"/passage/?search=Exod 15:5\">5</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,50,16", "genesis,50,17", "genesis,50,18" ],
+  "verses" : [ {
+    "verse" : "genesis,50,16",
+    "text" : "So they sent word to Joseph, saying, \"Your father left these instructions before he died:"
+  }, {
+    "verse" : "genesis,50,17",
+    "text" : "'This is what you are to say to Joseph: I ask you to forgive your brothers the sins and the wrongs they committed in treating you so badly.' Now please forgive the sins of the servants of the God of your father.\" When their message came to him, Joseph wept."
+  }, {
+    "verse" : "genesis,50,18",
+    "text" : "His brothers then came and threw themselves down before him. \"We are your slaves,\" they said."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,50,16",
     "id" : 185549,
@@ -57,7 +111,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 50:16\">50:16</a></b> <b>gave this command.</b> It is unclear whether Jacob had actually said this or the fearful brothers simply invented it. In any case, they based their plea for forgiveness on their worship of the same God (<a class=\"bibleref\" href=\"/passage/?search=Gen 50:17\">v. 17</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,50,19" ],
+  "verses" : [ {
+    "verse" : "genesis,50,19",
+    "text" : "But Joseph said to them, \"Don't be afraid. Am I in the place of God?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,50,19",
     "id" : 185550,
@@ -65,7 +122,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 50:19\">50:19</a></b> <b>am I in the place of God.</b> Joseph recognized that his captivity had been part of God’s gracious plan to save the covenant family (<a class=\"bibleref\" href=\"/passage/?search=Gen 45:5-Gen 45:8\">45:5–8</a>); it was not his place to question God’s wisdom.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,50,20", "genesis,50,21", "genesis,50,22" ],
+  "verses" : [ {
+    "verse" : "genesis,50,20",
+    "text" : "You intended to harm me, but God intended it for good to accomplish what is now being done, the saving of many lives."
+  }, {
+    "verse" : "genesis,50,21",
+    "text" : "So then, don't be afraid. I will provide for you and your children.\" And he reassured them and spoke kindly to them."
+  }, {
+    "verse" : "genesis,50,22",
+    "text" : "Joseph stayed in Egypt, along with all his father's family. He lived a hundred and ten years"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,50,20",
     "id" : 185551,
@@ -73,7 +139,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 50:20\">50:20</a></b> <b>you meant evil . . . God meant it for good.</b> A classic statement of God’s sovereign overruling of human history to accomplish His gracious purposes (<a class=\"bibleref\" href=\"/passage/?search=Gen 24:27\">24:27</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 45:5\">45:5</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 45:7\">7</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 45:8\">8</a> and notes). See “Providence”at <a class=\"bibleref\" href=\"/passage/?search=Prov 16:33\">Prov. 16:33</a>.</p><p><b>that many people should be kept alive.</b> In Egypt, Canaan, and elsewhere (41:57).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,50,23" ],
+  "verses" : [ {
+    "verse" : "genesis,50,23",
+    "text" : "and saw the third generation of Ephraim's children. Also the children of Makir son of Manasseh were placed at birth on Joseph's knees."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,50,23",
     "id" : 185552,
@@ -81,7 +150,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 50:23\">50:23</a></b> <b>counted as Joseph’s own.</b> See notes <a class=\"bibleref\" href=\"/passage/?search=Gen 30:3\">30:3</a> and <a class=\"bibleref\" href=\"/passage/?search=Gen 48:12\">48:12</a>. Joseph apparently adopted these great-grandchildren.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,50,24" ],
+  "verses" : [ {
+    "verse" : "genesis,50,24",
+    "text" : "Then Joseph said to his brothers, \"I am about to die. But God will surely come to your aid and take you up out of this land to the land he promised on oath to Abraham, Isaac and Jacob.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,50,24",
     "id" : 185553,
@@ -89,7 +161,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 50:24\">50:24</a></b> <b>God will visit you.</b> Like his father Jacob on his deathbed (<a class=\"bibleref\" href=\"/passage/?search=Gen 48:21\">48:21</a>), Joseph expressed firm confidence in God’s covenant promises and His gracious visitation. The Hebrew verb translated “visit” denotes a divine encounter that will change one’s fortunes for good or ill. For other instances of God’s gracious “visitation” see <a class=\"bibleref\" href=\"/passage/?search=Gen 21:1\">21:1</a> (Abraham and Sarah); <a class=\"bibleref\" href=\"/passage/?search=Exod 3:16\">Ex. 3:16</a> and <a class=\"bibleref\" href=\"/passage/?search=Exod 4:31\">4:31</a> (the Exodus); <a class=\"bibleref\" href=\"/passage/?search=Luke 1:68\">Luke 1:68</a>, <a class=\"bibleref\" href=\"/passage/?search=Luke 1:78\">78</a> (the birth of Jesus); and <a class=\"bibleref\" href=\"/passage/?search=Acts 15:14\">Acts 15:14</a> (the extension of the gospel to the Gentiles).</p><p><b>Abraham . . . Isaac . . . Jacob.</b> For the first time the three patriarchs are mentioned together; that era passed, but not its hope (<a class=\"bibleref\" href=\"/passage/?search=Exod 3:6\">Ex. 3:6</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 30:20\">Deut. 30:20</a>; <a class=\"bibleref\" href=\"/passage/?search=1Kgs 18:36\">1 Kin. 18:36</a>; <a class=\"bibleref\" href=\"/passage/?search=2Chr 30:6\">2 Chr. 30:6</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,50,25", "genesis,50,26" ],
+  "verses" : [ {
+    "verse" : "genesis,50,25",
+    "text" : "And Joseph made the sons of Israel swear an oath and said, \"God will surely come to your aid, and then you must carry my bones up from this place.\""
+  }, {
+    "verse" : "genesis,50,26",
+    "text" : "So Joseph died at the age of a hundred and ten. And after they embalmed him, he was placed in a coffin in Egypt."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,50,25",
     "id" : 185554,
@@ -97,7 +175,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 50:25\">50:25</a></b> <b>carry up my bones.</b> Joseph’s bones were taken from Egypt by Moses (<a class=\"bibleref\" href=\"/passage/?search=Exod 13:19\">Ex. 13:19</a>), and later buried at Shechem (<a class=\"bibleref\" href=\"/passage/?search=Josh 24:32\">Josh. 24:32</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,1,1", "exodus,1,2", "exodus,1,3", "exodus,1,4" ],
+  "verses" : [ {
+    "verse" : "exodus,1,1",
+    "text" : "These are the names of the sons of Israel who went to Egypt with Jacob, each with his family:"
+  }, {
+    "verse" : "exodus,1,2",
+    "text" : "Reuben, Simeon, Levi and Judah;"
+  }, {
+    "verse" : "exodus,1,3",
+    "text" : "Issachar, Zebulun and Benjamin;"
+  }, {
+    "verse" : "exodus,1,4",
+    "text" : "Dan and Naphtali; Gad and Asher."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,1,1-exodus,1,4",
     "id" : 185556,
@@ -105,7 +195,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 1:1-Exod 1:4\">1:1–4</a></b> Exodus and Genesis are linked by this introduction (<a class=\"bibleref\" href=\"/passage/?search=Gen 46:8-Gen 46:27\">Gen. 46:8–27</a>). God’s promise to Abraham is fulfilled by Israel’s fruitfulness (<a class=\"bibleref\" href=\"/passage/?search=Gen 12:2\">Gen. 12:2</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,1,5", "exodus,1,6" ],
+  "verses" : [ {
+    "verse" : "exodus,1,5",
+    "text" : "The descendants of Jacob numbered seventy in all; Joseph was already in Egypt."
+  }, {
+    "verse" : "exodus,1,6",
+    "text" : "Now Joseph and all his brothers and all that generation died,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,1,5",
     "id" : 185557,
@@ -113,7 +209,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 1:5\">1:5</a></b> <b>seventy.</b> See notes <a class=\"bibleref\" href=\"/passage/?search=Gen 46:15-Gen 46:27\">Gen. 46:15–27</a>. The number going into Egypt is sometimes given as seventy-five (<a class=\"bibleref\" href=\"/passage/?search=Acts 7:14\">Acts 7:14</a>), with the difference due to who is counted. The Septuagint text (the Greek Old Testament) adds five of Joseph’s further male descendants, yielding a total of seventy-five. With women and children the total number was over 150.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,1,7" ],
+  "verses" : [ {
+    "verse" : "exodus,1,7",
+    "text" : "but the Israelites were fruitful and multiplied greatly and became exceedingly numerous, so that the land was filled with them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,1,7",
     "id" : 185558,
@@ -121,7 +220,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 1:7\">1:7</a></b> <b>multiplied . . . exceedingly.</b> The terms “fruitful,” “multiplied,” and “the land was filled” remind us of <a class=\"bibleref\" href=\"/passage/?search=Gen 1:26-Gen 1:28\">Gen. 1:26–28</a>. Israel fulfills the mandate given to humankind in <a class=\"bibleref\" href=\"/passage/?search=Gen 1\">Gen. 1</a>. The land was probably the land of Goshen in northeastern Egypt, in the Wadi Tumilat in the Delta, a valley 30 to 40 miles long (cf. <a class=\"bibleref\" href=\"/passage/?search=Gen 47:4\">Gen. 47:4</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,1,8", "exodus,1,9", "exodus,1,10" ],
+  "verses" : [ {
+    "verse" : "exodus,1,8",
+    "text" : "Then a new king, who did not know about Joseph, came to power in Egypt."
+  }, {
+    "verse" : "exodus,1,9",
+    "text" : "\"Look,\" he said to his people, \"the Israelites have become much too numerous for us."
+  }, {
+    "verse" : "exodus,1,10",
+    "text" : "Come, we must deal shrewdly with them or they will become even more numerous and, if war breaks out, will join our enemies, fight against us and leave the country.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,1,8-exodus,1,22",
     "id" : 185559,
@@ -134,7 +242,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 1:8\">1:8 a</a></b> <b>new king.</b> The beginning of a new era is marked off by the advent of a new Pharaoh. This Pharaoh may have been Ahmosis I (1570–1546 <span class=\"small-caps\">b.c.</span>) of the eighteenth dynasty, who expelled the Hyksos, the Semitic rulers of Egypt from about 1700–1550 <span class=\"small-caps\">b.c.</span> (Introduction: Date and Occasion; <a class=\"bibleref\" href=\"/passage/?search=Acts 7:18\">Acts 7:18</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,1,11", "exodus,1,12", "exodus,1,13" ],
+  "verses" : [ {
+    "verse" : "exodus,1,11",
+    "text" : "So they put slave masters over them to oppress them with forced labor, and they built Pithom and Rameses as store cities for Pharaoh."
+  }, {
+    "verse" : "exodus,1,12",
+    "text" : "But the more they were oppressed, the more they multiplied and spread; so the Egyptians came to dread the Israelites"
+  }, {
+    "verse" : "exodus,1,13",
+    "text" : "and worked them ruthlessly."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,1,11",
     "id" : 185561,
@@ -142,7 +259,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 1:11\">1:11</a></b> <b>Pithom and Raamses.</b> These cities for storing agricultural provisions and military supplies were located in the strategic Nile Delta region. Pithom was probably located at modern Tell er-Ratabah or Tell el Maskhutah, and Raamses is identified as modern Qantir. This item comes too early in the oppression cycle to be identified as the work of Rameses II (1304–1236 <span class=\"small-caps\">b.c.</span>) who is often identified as the Pharaoh of the Exodus (Introduction: Interpretive Difficulties; <a class=\"bibleref\" href=\"/passage/?search=Gen 47:11\">Gen. 47:11</a> note). The only other Pharaoh with the necessary forty years’ reign was Thutmose III (1504–1450 <span class=\"small-caps\">b.c.</span>). By the nineteenth dynasty the term “Pharaoh” (Egyptian for “great house”) became a royal title. Earlier it was a synonym for governmental authority.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,1,14" ],
+  "verses" : [ {
+    "verse" : "exodus,1,14",
+    "text" : "They made their lives bitter with hard labor in brick and mortar and with all kinds of work in the fields; in all their hard labor the Egyptians used them ruthlessly."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,1,14",
     "id" : 185562,
@@ -150,7 +270,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 1:14\">1:14</a></b> <b>bitter.</b> The bitter oppression of Egypt was later commemorated by the bitter herbs of the Passover meal (<a class=\"bibleref\" href=\"/passage/?search=Exod 12:8\">12:8</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,1,15" ],
+  "verses" : [ {
+    "verse" : "exodus,1,15",
+    "text" : "The king of Egypt said to the Hebrew midwives, whose names were Shiphrah and Puah,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,1,15",
     "id" : 185563,
@@ -158,7 +281,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 1:15\">1:15</a></b> <b>Hebrew.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Gen 14:13\">Gen. 14:13</a>.</p><p><b>midwives.</b> Two midwives to serve such a large population seem far too few; they may have been guild leaders. Their names are Semitic and v. 15 identifies them as Israelite.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,1,16", "exodus,1,17", "exodus,1,18", "exodus,1,19", "exodus,1,20", "exodus,1,21", "exodus,1,22" ],
+  "verses" : [ {
+    "verse" : "exodus,1,16",
+    "text" : "\"When you help the Hebrew women in childbirth and observe them on the delivery stool, if it is a boy, kill him; but if it is a girl, let her live.\""
+  }, {
+    "verse" : "exodus,1,17",
+    "text" : "The midwives, however, feared God and did not do what the king of Egypt had told them to do; they let the boys live."
+  }, {
+    "verse" : "exodus,1,18",
+    "text" : "Then the king of Egypt summoned the midwives and asked them, \"Why have you done this? Why have you let the boys live?\""
+  }, {
+    "verse" : "exodus,1,19",
+    "text" : "The midwives answered Pharaoh, \"Hebrew women are not like Egyptian women; they are vigorous and give birth before the midwives arrive.\""
+  }, {
+    "verse" : "exodus,1,20",
+    "text" : "So God was kind to the midwives and the people increased and became even more numerous."
+  }, {
+    "verse" : "exodus,1,21",
+    "text" : "And because the midwives feared God, he gave them families of their own."
+  }, {
+    "verse" : "exodus,1,22",
+    "text" : "Then Pharaoh gave this order to all his people: \"Every boy that is born you must throw into the Nile, but let every girl live.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,1,16",
     "id" : 185564,
@@ -166,7 +310,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 1:16\">1:16</a></b> <b>birthstool.</b> These consisted of two stones upon which women in labor squatted.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,2,1" ],
+  "verses" : [ {
+    "verse" : "exodus,2,1",
+    "text" : "Now a man of the house of Levi married a Levite woman,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,2,1",
     "id" : 185565,
@@ -174,7 +321,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 2:1\">2:1 a</a></b> <b>man.</b> The fate of Israel hangs on one family member. Moses has an older sister (<a class=\"bibleref\" href=\"/passage/?search=Exod 2:4\">v. 4</a>) and brother (<a class=\"bibleref\" href=\"/passage/?search=Exod 7:7\">7:7</a>). His parents, Amram and Jochebed, were nephew and aunt (<a class=\"bibleref\" href=\"/passage/?search=Exod 6:20\">6:20</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,2,2" ],
+  "verses" : [ {
+    "verse" : "exodus,2,2",
+    "text" : "and she became pregnant and gave birth to a son. When she saw that he was a fine child, she hid him for three months."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,2,2",
     "id" : 185566,
@@ -182,7 +332,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 2:2\">2:2</a></b> <b>fine child.</b> Moses was a healthy child and likely to survive. Jesus Christ, antitype of Moses and founder of the new Israel, was also born under an edict of death and miraculously spared in Egypt (<a class=\"bibleref\" href=\"/passage/?search=Matt 2:13-Matt 2:23\">Matt. 2:13–23</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,2,3", "exodus,2,4" ],
+  "verses" : [ {
+    "verse" : "exodus,2,3",
+    "text" : "But when she could hide him no longer, she got a papyrus basket for him and coated it with tar and pitch. Then she placed the child in it and put it among the reeds along the bank of the Nile."
+  }, {
+    "verse" : "exodus,2,4",
+    "text" : "His sister stood at a distance to see what would happen to him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,2,3",
     "id" : 185567,
@@ -190,7 +346,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 2:3\">2:3</a></b> <b>basket made of bulrushes.</b> A box of woven papyrus reeds, daubed with tar to make it watertight (cf. <a class=\"bibleref\" href=\"/passage/?search=Job 9:26\">Job 9:26</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 18:2\">Is. 18:2</a>). Moses is perhaps depicted as a second Noah—the Hebrew term translated ark is used for Noah’s craft in <a class=\"bibleref\" href=\"/passage/?search=Gen 7-Gen 9\">Gen. 7–9</a>. Sargon of Accad (c. 2350 <span class=\"small-caps\">b.c.</span>) was said to have been exposed in a similar chest and left to float in the Euphrates.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,2,5", "exodus,2,6", "exodus,2,7", "exodus,2,8", "exodus,2,9" ],
+  "verses" : [ {
+    "verse" : "exodus,2,5",
+    "text" : "Then Pharaoh's daughter went down to the Nile to bathe, and her attendants were walking along the river bank. She saw the basket among the reeds and sent her slave girl to get it."
+  }, {
+    "verse" : "exodus,2,6",
+    "text" : "She opened it and saw the baby. He was crying, and she felt sorry for him. \"This is one of the Hebrew babies,\" she said."
+  }, {
+    "verse" : "exodus,2,7",
+    "text" : "Then his sister asked Pharaoh's daughter, \"Shall I go and get one of the Hebrew women to nurse the baby for you?\""
+  }, {
+    "verse" : "exodus,2,8",
+    "text" : "\"Yes, go,\" she answered. And the girl went and got the baby's mother."
+  }, {
+    "verse" : "exodus,2,9",
+    "text" : "Pharaoh's daughter said to her, \"Take this baby and nurse him for me, and I will pay you.\" So the woman took the baby and nursed him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,2,5",
     "id" : 185568,
@@ -198,7 +369,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Exod 2:5\">2:5</a></b> <b>daughter of Pharaoh.</b> Some suppose that this princess became the famous Hatshepsut, the queen of Thutmose II who ruled Egypt after his death (1504–1483 <span class=\"small-caps\">b.c.</span>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "exodus,2,10" ],
+  "verses" : [ {
+    "verse" : "exodus,2,10",
+    "text" : "When the child grew older, she took him to Pharaoh's daughter and he became her son. She named him Moses, saying, \"I drew him out of the water.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "exodus,2,10",
     "id" : 185569,

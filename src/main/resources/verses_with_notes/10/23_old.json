@@ -1,5 +1,32 @@
 [ {
-  "singleVerses" : [ "jeremiah,42,1", "jeremiah,42,2", "jeremiah,42,3", "jeremiah,42,4", "jeremiah,42,5", "jeremiah,42,6", "jeremiah,42,7", "jeremiah,42,8", "jeremiah,42,9" ],
+  "verses" : [ {
+    "verse" : "jeremiah,42,1",
+    "text" : "Then all the army officers, including Johanan son of Kareah and Jezaniah son of Hoshaiah, and all the people from the least to the greatest approached"
+  }, {
+    "verse" : "jeremiah,42,2",
+    "text" : "Jeremiah the prophet and said to him, \"Please hear our petition and pray to the LORD your God for this entire remnant. For as you now see, though we were once many, now only a few are left."
+  }, {
+    "verse" : "jeremiah,42,3",
+    "text" : "Pray that the LORD your God will tell us where we should go and what we should do.\""
+  }, {
+    "verse" : "jeremiah,42,4",
+    "text" : "\"I have heard you,\" replied Jeremiah the prophet. \"I will certainly pray to the LORD your God as you have requested; I will tell you everything the LORD says and will keep nothing back from you.\""
+  }, {
+    "verse" : "jeremiah,42,5",
+    "text" : "Then they said to Jeremiah, \"May the LORD be a true and faithful witness against us if we do not act in accordance with everything the LORD your God sends you to tell us."
+  }, {
+    "verse" : "jeremiah,42,6",
+    "text" : "Whether it is favorable or unfavorable, we will obey the LORD our God, to whom we are sending you, so that it will go well with us, for we will obey the LORD our God.\""
+  }, {
+    "verse" : "jeremiah,42,7",
+    "text" : "Ten days later the word of the LORD came to Jeremiah."
+  }, {
+    "verse" : "jeremiah,42,8",
+    "text" : "So he called together Johanan son of Kareah and all the army officers who were with him and all the people from the least to the greatest."
+  }, {
+    "verse" : "jeremiah,42,9",
+    "text" : "He said to them, \"This is what the LORD, the God of Israel, to whom you sent me to present your petition, says:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,41,11-jeremiah,44,30",
     "id" : 193949,
@@ -7,7 +34,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 41:11-Jer 44:30\">41:11–44:30</a></b> Jeremiah is taken to Egypt by Jewish survivors fleeing from possible Babylonian reprisals.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,42,10", "jeremiah,42,11", "jeremiah,42,12" ],
+  "verses" : [ {
+    "verse" : "jeremiah,42,10",
+    "text" : "'If you stay in this land, I will build you up and not tear you down; I will plant you and not uproot you, for I am grieved over the disaster I have inflicted on you."
+  }, {
+    "verse" : "jeremiah,42,11",
+    "text" : "Do not be afraid of the king of Babylon, whom you now fear. Do not be afraid of him, declares the LORD, for I am with you and will save you and deliver you from his hands."
+  }, {
+    "verse" : "jeremiah,42,12",
+    "text" : "I will show you compassion so that he will have compassion on you and restore you to your land.'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,42,10",
     "id" : 193951,
@@ -15,7 +51,55 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 42:10\">42:10</a></b> <b>If you will remain in this land.</b> This promise of blessing for the remnant left behind during the Exile was a new theme in Jeremiah’s message (<a class=\"bibleref\" href=\"/passage/?search=Jer 24:8\">24:8</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 40:6\">40:6</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,42,13", "jeremiah,42,14", "jeremiah,42,15", "jeremiah,42,16", "jeremiah,42,17", "jeremiah,42,18", "jeremiah,42,19", "jeremiah,42,20", "jeremiah,42,21", "jeremiah,42,22", "jeremiah,43,1", "jeremiah,43,2", "jeremiah,43,3", "jeremiah,43,4", "jeremiah,43,5", "jeremiah,43,6" ],
+  "verses" : [ {
+    "verse" : "jeremiah,42,13",
+    "text" : "\"However, if you say, 'We will not stay in this land,' and so disobey the LORD your God,"
+  }, {
+    "verse" : "jeremiah,42,14",
+    "text" : "and if you say, 'No, we will go and live in Egypt, where we will not see war or hear the trumpet or be hungry for bread,'"
+  }, {
+    "verse" : "jeremiah,42,15",
+    "text" : "then hear the word of the LORD, O remnant of Judah. This is what the LORD Almighty, the God of Israel, says: 'If you are determined to go to Egypt and you do go to settle there,"
+  }, {
+    "verse" : "jeremiah,42,16",
+    "text" : "then the sword you fear will overtake you there, and the famine you dread will follow you into Egypt, and there you will die."
+  }, {
+    "verse" : "jeremiah,42,17",
+    "text" : "Indeed, all who are determined to go to Egypt to settle there will die by the sword, famine and plague; not one of them will survive or escape the disaster I will bring on them.'"
+  }, {
+    "verse" : "jeremiah,42,18",
+    "text" : "This is what the LORD Almighty, the God of Israel, says: 'As my anger and wrath have been poured out on those who lived in Jerusalem, so will my wrath be poured out on you when you go to Egypt. You will be an object of cursing and horror, of condemnation and reproach; you will never see this place again.'"
+  }, {
+    "verse" : "jeremiah,42,19",
+    "text" : "\"O remnant of Judah, the LORD has told you, 'Do not go to Egypt.' Be sure of this: I warn you today"
+  }, {
+    "verse" : "jeremiah,42,20",
+    "text" : "that you made a fatal mistake when you sent me to the LORD your God and said, 'Pray to the LORD our God for us; tell us everything he says and we will do it.'"
+  }, {
+    "verse" : "jeremiah,42,21",
+    "text" : "I have told you today, but you still have not obeyed the LORD your God in all he sent me to tell you."
+  }, {
+    "verse" : "jeremiah,42,22",
+    "text" : "So now, be sure of this: You will die by the sword, famine and plague in the place where you want to go to settle.\""
+  }, {
+    "verse" : "jeremiah,43,1",
+    "text" : "When Jeremiah finished telling the people all the words of the LORD their God-everything the LORD had sent him to tell them-"
+  }, {
+    "verse" : "jeremiah,43,2",
+    "text" : "Azariah son of Hoshaiah and Johanan son of Kareah and all the arrogant men said to Jeremiah, \"You are lying! The LORD our God has not sent you to say, 'You must not go to Egypt to settle there.'"
+  }, {
+    "verse" : "jeremiah,43,3",
+    "text" : "But Baruch son of Neriah is inciting you against us to hand us over to the Babylonians, so they may kill us or carry us into exile to Babylon.\""
+  }, {
+    "verse" : "jeremiah,43,4",
+    "text" : "So Johanan son of Kareah and all the army officers and all the people disobeyed the LORD's command to stay in the land of Judah."
+  }, {
+    "verse" : "jeremiah,43,5",
+    "text" : "Instead, Johanan son of Kareah and all the army officers led away all the remnant of Judah who had come back to live in the land of Judah from all the nations where they had been scattered."
+  }, {
+    "verse" : "jeremiah,43,6",
+    "text" : "They also led away all the men, women and children and the king's daughters whom Nebuzaradan commander of the imperial guard had left with Gedaliah son of Ahikam, the son of Shaphan, and Jeremiah the prophet and Baruch son of Neriah."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,42,13-jeremiah,42,16",
     "id" : 193952,
@@ -23,7 +107,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 42:13-Jer 42:16\">42:13–16</a></b> The Lord’s word is still against seeking refuge in Egypt (<a class=\"bibleref\" href=\"/passage/?search=Deut 17:16\">Deut. 17:16</a>). The issue, as ever, is false trust and the delusion of safety in human power and calculation (22:20, 22; 30:14).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,43,7", "jeremiah,43,8" ],
+  "verses" : [ {
+    "verse" : "jeremiah,43,7",
+    "text" : "So they entered Egypt in disobedience to the LORD and went as far as Tahpanhes."
+  }, {
+    "verse" : "jeremiah,43,8",
+    "text" : "In Tahpanhes the word of the LORD came to Jeremiah:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,43,7-jeremiah,43,8",
     "id" : 193953,
@@ -31,7 +121,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 43:7\">43:7</a>, <a class=\"bibleref\" href=\"/passage/?search=Jer 43:8\">8</a> Egypt.</b> Jeremiah’s prophetic ministry continues even in Egypt.</p><p><b>Tahpanhes.</b> See <a class=\"bibleref\" href=\"/passage/?search=Jer 2:16\">2:16</a>. Tahpanhes was located in the eastern Nile delta.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,43,9" ],
+  "verses" : [ {
+    "verse" : "jeremiah,43,9",
+    "text" : "\"While the Jews are watching, take some large stones with you and bury them in clay in the brick pavement at the entrance to Pharaoh's palace in Tahpanhes."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,43,9",
     "id" : 193954,
@@ -39,7 +132,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 43:9\">43:9</a></b> <b>Take in your hands large stones . . . hide them.</b> A symbolic action whose interpretation follows. The action was designed to show that the word would surely come to pass.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,43,10", "jeremiah,43,11", "jeremiah,43,12" ],
+  "verses" : [ {
+    "verse" : "jeremiah,43,10",
+    "text" : "Then say to them, 'This is what the LORD Almighty, the God of Israel, says: I will send for my servant Nebuchadnezzar king of Babylon, and I will set his throne over these stones I have buried here; he will spread his royal canopy above them."
+  }, {
+    "verse" : "jeremiah,43,11",
+    "text" : "He will come and attack Egypt, bringing death to those destined for death, captivity to those destined for captivity, and the sword to those destined for the sword."
+  }, {
+    "verse" : "jeremiah,43,12",
+    "text" : "He will set fire to the temples of the gods of Egypt; he will burn their temples and take their gods captive. As a shepherd wraps his garment around him, so will he wrap Egypt around himself and depart from there unscathed."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,43,10",
     "id" : 193955,
@@ -47,7 +149,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 43:10\">43:10</a></b> <b>Nebuchadnezzar . . . my servant.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Jer 25:9\">25:9</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,43,13", "jeremiah,44,1", "jeremiah,44,2", "jeremiah,44,3" ],
+  "verses" : [ {
+    "verse" : "jeremiah,43,13",
+    "text" : "There in the temple of the sun in Egypt he will demolish the sacred pillars and will burn down the temples of the gods of Egypt.'\""
+  }, {
+    "verse" : "jeremiah,44,1",
+    "text" : "This word came to Jeremiah concerning all the Jews living in Lower Egypt-in Migdol, Tahpanhes and Memphis -and in Upper Egypt:"
+  }, {
+    "verse" : "jeremiah,44,2",
+    "text" : "\"This is what the LORD Almighty, the God of Israel, says: You saw the great disaster I brought on Jerusalem and on all the towns of Judah. Today they lie deserted and in ruins"
+  }, {
+    "verse" : "jeremiah,44,3",
+    "text" : "because of the evil they have done. They provoked me to anger by burning incense and by worshiping other gods that neither they nor you nor your fathers ever knew."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,43,13",
     "id" : 193956,
@@ -55,7 +169,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 43:13\">43:13</a></b> <b>obelisks.</b> Characteristic examples of Egyptian architecture.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,44,4", "jeremiah,44,5", "jeremiah,44,6" ],
+  "verses" : [ {
+    "verse" : "jeremiah,44,4",
+    "text" : "Again and again I sent my servants the prophets, who said, 'Do not do this detestable thing that I hate!'"
+  }, {
+    "verse" : "jeremiah,44,5",
+    "text" : "But they did not listen or pay attention; they did not turn from their wickedness or stop burning incense to other gods."
+  }, {
+    "verse" : "jeremiah,44,6",
+    "text" : "Therefore, my fierce anger was poured out; it raged against the towns of Judah and the streets of Jerusalem and made them the desolate ruins they are today."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,44,4",
     "id" : 193957,
@@ -63,7 +186,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 44:4\">44:4</a></b> <b>this abomination.</b> Idolatrous worship of other gods.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,44,7", "jeremiah,44,8" ],
+  "verses" : [ {
+    "verse" : "jeremiah,44,7",
+    "text" : "\"Now this is what the LORD God Almighty, the God of Israel, says: Why bring such great disaster on yourselves by cutting off from Judah the men and women, the children and infants, and so leave yourselves without a remnant?"
+  }, {
+    "verse" : "jeremiah,44,8",
+    "text" : "Why provoke me to anger with what your hands have made, burning incense to other gods in Egypt, where you have come to live? You will destroy yourselves and make yourselves an object of cursing and reproach among all the nations on earth."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,44,7",
     "id" : 193958,
@@ -71,7 +200,37 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 44:7\">44:7</a></b> <b>no remnant.</b> Possibly this oracle threatens that the restoration promised in <a class=\"bibleref\" href=\"/passage/?search=Jer 5:10\">5:10</a> and <a class=\"bibleref\" href=\"/passage/?search=Jer 23:3\">23:3</a> may not be carried out.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,44,9", "jeremiah,44,10", "jeremiah,44,11", "jeremiah,44,12", "jeremiah,44,13", "jeremiah,44,14", "jeremiah,44,15", "jeremiah,44,16", "jeremiah,44,17", "jeremiah,44,18" ],
+  "verses" : [ {
+    "verse" : "jeremiah,44,9",
+    "text" : "Have you forgotten the wickedness committed by your fathers and by the kings and queens of Judah and the wickedness committed by you and your wives in the land of Judah and the streets of Jerusalem?"
+  }, {
+    "verse" : "jeremiah,44,10",
+    "text" : "To this day they have not humbled themselves or shown reverence, nor have they followed my law and the decrees I set before you and your fathers."
+  }, {
+    "verse" : "jeremiah,44,11",
+    "text" : "\"Therefore, this is what the LORD Almighty, the God of Israel, says: I am determined to bring disaster on you and to destroy all Judah."
+  }, {
+    "verse" : "jeremiah,44,12",
+    "text" : "I will take away the remnant of Judah who were determined to go to Egypt to settle there. They will all perish in Egypt; they will fall by the sword or die from famine. From the least to the greatest, they will die by sword or famine. They will become an object of cursing and horror, of condemnation and reproach."
+  }, {
+    "verse" : "jeremiah,44,13",
+    "text" : "I will punish those who live in Egypt with the sword, famine and plague, as I punished Jerusalem."
+  }, {
+    "verse" : "jeremiah,44,14",
+    "text" : "None of the remnant of Judah who have gone to live in Egypt will escape or survive to return to the land of Judah, to which they long to return and live; none will return except a few fugitives.\""
+  }, {
+    "verse" : "jeremiah,44,15",
+    "text" : "Then all the men who knew that their wives were burning incense to other gods, along with all the women who were present-a large assembly-and all the people living in Lower and Upper Egypt, said to Jeremiah,"
+  }, {
+    "verse" : "jeremiah,44,16",
+    "text" : "\"We will not listen to the message you have spoken to us in the name of the LORD!"
+  }, {
+    "verse" : "jeremiah,44,17",
+    "text" : "We will certainly do everything we said we would: We will burn incense to the Queen of Heaven and will pour out drink offerings to her just as we and our fathers, our kings and our officials did in the towns of Judah and in the streets of Jerusalem. At that time we had plenty of food and were well off and suffered no harm."
+  }, {
+    "verse" : "jeremiah,44,18",
+    "text" : "But ever since we stopped burning incense to the Queen of Heaven and pouring out drink offerings to her, we have had nothing and have been perishing by sword and famine.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,44,9",
     "id" : 193959,
@@ -79,7 +238,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 44:9\">44:9</a></b> <b>Have you forgotten the evil.</b> And by implication the judgment that resulted. Similarly, <a class=\"bibleref\" href=\"/passage/?search=2Kgs 17:18-2Kgs 17:20\">2 Kin. 17:18–20</a> uses the judgment of the northern kingdom as a warning to Judah before her fall.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,44,19", "jeremiah,44,20", "jeremiah,44,21", "jeremiah,44,22" ],
+  "verses" : [ {
+    "verse" : "jeremiah,44,19",
+    "text" : "The women added, \"When we burned incense to the Queen of Heaven and poured out drink offerings to her, did not our husbands know that we were making cakes like her image and pouring out drink offerings to her?\""
+  }, {
+    "verse" : "jeremiah,44,20",
+    "text" : "Then Jeremiah said to all the people, both men and women, who were answering him,"
+  }, {
+    "verse" : "jeremiah,44,21",
+    "text" : "\"Did not the LORD remember and think about the incense burned in the towns of Judah and the streets of Jerusalem by you and your fathers, your kings and your officials and the people of the land?"
+  }, {
+    "verse" : "jeremiah,44,22",
+    "text" : "When the LORD could no longer endure your wicked actions and the detestable things you did, your land became an object of cursing and a desolate waste without inhabitants, as it is today."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,44,19",
     "id" : 193960,
@@ -87,7 +258,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Jer 44:19\">44:19</a></b> <b>without our husbands’ approval.</b> See <a class=\"bibleref\" href=\"/passage/?search=Num 30:6-Num 30:15\">Num. 30:6–15</a>. The women evidently took the lead in worshiping the queen of heaven (7:18).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "jeremiah,44,23" ],
+  "verses" : [ {
+    "verse" : "jeremiah,44,23",
+    "text" : "Because you have burned incense and have sinned against the LORD and have not obeyed him or followed his law or his decrees or his stipulations, this disaster has come upon you, as you now see.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "jeremiah,44,23",
     "id" : 193961,

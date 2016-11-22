@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,37,1" ],
+  "verses" : [ {
+    "verse" : "psalms,37,1",
+    "text" : "Do not fret because of evil men or be envious of those who do wrong;"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,37,1-psalms,37,40",
     "id" : 190511,
@@ -7,7 +10,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 37\">Ps. 37</a></b> An acrostic (Introduction: Characteristics and Themes), and like most acrostics, a wisdom meditation.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,37,2", "psalms,37,3", "psalms,37,4", "psalms,37,5", "psalms,37,6", "psalms,37,7" ],
+  "verses" : [ {
+    "verse" : "psalms,37,2",
+    "text" : "for like the grass they will soon wither, like green plants they will soon die away."
+  }, {
+    "verse" : "psalms,37,3",
+    "text" : "Trust in the LORD and do good; dwell in the land and enjoy safe pasture."
+  }, {
+    "verse" : "psalms,37,4",
+    "text" : "Delight yourself in the LORD and he will give you the desires of your heart."
+  }, {
+    "verse" : "psalms,37,5",
+    "text" : "Commit your way to the LORD; trust in him and he will do this:"
+  }, {
+    "verse" : "psalms,37,6",
+    "text" : "He will make your righteousness shine like the dawn, the justice of your cause like the noonday sun."
+  }, {
+    "verse" : "psalms,37,7",
+    "text" : "Be still before the LORD and wait patiently for him; do not fret when men succeed in their ways, when they carry out their wicked schemes."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,37,2",
     "id" : 190512,
@@ -15,7 +36,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 37:2\">37:2</a></b> <b>grass.</b> The metaphor is apt. In Israel the grass comes up and flourishes in the winter, but in the summer is withered by the sun.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,37,8" ],
+  "verses" : [ {
+    "verse" : "psalms,37,8",
+    "text" : "Refrain from anger and turn from wrath; do not fret-it leads only to evil."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,37,8",
     "id" : 190513,
@@ -23,7 +47,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 37:8\">37:8</a></b> <b>anger.</b> Probably anger against God.</p><p><b>tends only to evil.</b> Anger is a dangerous force (<a class=\"bibleref\" href=\"/passage/?search=Jas 1:20\">James 1:20</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,37,9", "psalms,37,10" ],
+  "verses" : [ {
+    "verse" : "psalms,37,9",
+    "text" : "For evil men will be cut off, but those who hope in the LORD will inherit the land."
+  }, {
+    "verse" : "psalms,37,10",
+    "text" : "A little while, and the wicked will be no more; though you look for them, they will not be found."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,37,9",
     "id" : 190514,
@@ -31,7 +61,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 37:9\">37:9</a></b> <b>cut off.</b> A technical term meaning to be exiled, to be excommunicated from society, or even to be executed (<a class=\"bibleref\" href=\"/passage/?search=Gen 17:14\">Gen. 17:14</a>; <a class=\"bibleref\" href=\"/passage/?search=Lev 17:14\">Lev. 17:14</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,37,11" ],
+  "verses" : [ {
+    "verse" : "psalms,37,11",
+    "text" : "But the meek will inherit the land and enjoy great peace."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,37,11",
     "id" : 190515,

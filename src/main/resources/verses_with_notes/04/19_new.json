@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "luke,19,28" ],
+  "verses" : [ {
+    "verse" : "luke,19,28",
+    "text" : "After Jesus had said this, he went on ahead, going up to Jerusalem."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,19,28",
     "id" : 196726,
@@ -7,7 +10,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 19:28\">19:28</a></b> See note <a class=\"bibleref\" href=\"/passage/?search=Luke 9:51\">9:51</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,19,29" ],
+  "verses" : [ {
+    "verse" : "luke,19,29",
+    "text" : "As he approached Bethphage and Bethany at the hill called the Mount of Olives, he sent two of his disciples, saying to them,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,19,29",
     "id" : 196727,
@@ -15,7 +21,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 19:29\">19:29</a></b> <b>Bethany.</b> A village about two miles from Jerusalem. Bethphage must have been nearby; it was regarded as the outer limit of Jerusalem.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,19,30", "luke,19,31", "luke,19,32", "luke,19,33", "luke,19,34" ],
+  "verses" : [ {
+    "verse" : "luke,19,30",
+    "text" : "\"Go to the village ahead of you, and as you enter it, you will find a colt tied there, which no one has ever ridden. Untie it and bring it here."
+  }, {
+    "verse" : "luke,19,31",
+    "text" : "If anyone asks you, 'Why are you untying it?' tell him, 'The Lord needs it.'\""
+  }, {
+    "verse" : "luke,19,32",
+    "text" : "Those who were sent ahead went and found it just as he had told them."
+  }, {
+    "verse" : "luke,19,33",
+    "text" : "As they were untying the colt, its owners asked them, \"Why are you untying the colt?\""
+  }, {
+    "verse" : "luke,19,34",
+    "text" : "They replied, \"The Lord needs it.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,19,30",
     "id" : 196728,
@@ -23,7 +44,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 19:30\">19:30</a></b> <b>colt.</b> This could refer to a horse or a donkey; the other Gospels make it clear it was a donkey. It had never been used and was therefore fit for a sacred purpose (<a class=\"bibleref\" href=\"/passage/?search=Num 19:2\">Num. 19:2</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 6:7\">1 Sam. 6:7</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,19,35", "luke,19,36" ],
+  "verses" : [ {
+    "verse" : "luke,19,35",
+    "text" : "They brought it to Jesus, threw their cloaks on the colt and put Jesus on it."
+  }, {
+    "verse" : "luke,19,36",
+    "text" : "As he went along, people spread their cloaks on the road."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,19,35-luke,19,36",
     "id" : 196729,
@@ -31,7 +58,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 19:35\">19:35</a>, <a class=\"bibleref\" href=\"/passage/?search=Luke 19:36\">36</a> throwing their cloaks on the colt.</b> The clothing evidently served as a saddle. The clothes on the road formed a triumphal carpet.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,19,37" ],
+  "verses" : [ {
+    "verse" : "luke,19,37",
+    "text" : "When he came near the place where the road goes down the Mount of Olives, the whole crowd of disciples began joyfully to praise God in loud voices for all the miracles they had seen:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,19,37",
     "id" : 196730,
@@ -39,7 +69,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 19:37\">19:37</a></b> This entry into Jerusalem fulfilled prophecy (<a class=\"bibleref\" href=\"/passage/?search=Zech 9:9\">Zech. 9:9</a>) and was a public claim to messiahship, but messiahship of a distinctive kind, since the donkey was the animal of a man of peace. A conquering king would ride a horse. The people seem to have recognized the kingship, but not to have seen the emphasis on peace.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,19,38" ],
+  "verses" : [ {
+    "verse" : "luke,19,38",
+    "text" : "\"Blessed is the king who comes in the name of the Lord!Peace in heaven and glory in the highest!\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,19,38",
     "id" : 196731,
@@ -47,7 +80,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 19:38\">19:38</a></b> A quotation from <a class=\"bibleref\" href=\"/passage/?search=Ps 118:26\">Ps. 118:26</a>, but with an explicit reference to the King. Luke alone has the words “peace” and “glory.” He does not have “Hosanna,” which his Gentile readers might not have understood.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,19,39", "luke,19,40" ],
+  "verses" : [ {
+    "verse" : "luke,19,39",
+    "text" : "Some of the Pharisees in the crowd said to Jesus, \"Teacher, rebuke your disciples!\""
+  }, {
+    "verse" : "luke,19,40",
+    "text" : "\"I tell you,\" he replied, \"if they keep quiet, the stones will cry out.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,19,39",
     "id" : 196732,
@@ -55,7 +94,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 19:39\">19:39</a></b> <b>rebuke your disciples.</b> The Pharisees would not have wanted anything that disturbed the peace and brought trouble from the Romans.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,19,41", "luke,19,42" ],
+  "verses" : [ {
+    "verse" : "luke,19,41",
+    "text" : "As he approached Jerusalem and saw the city, he wept over it"
+  }, {
+    "verse" : "luke,19,42",
+    "text" : "and said, \"If you, even you, had only known on this day what would bring you peace--but now it is hidden from your eyes."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,19,41-luke,19,42",
     "id" : 196733,
@@ -63,7 +108,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 19:41\">19:41</a>, <a class=\"bibleref\" href=\"/passage/?search=Luke 19:42\">42</a></b> Only Luke records Jesus’ lament as He drew near the city. Jesus knew that the excitement of the crowds did not correspond to genuine spiritual perception and that the actions being pursued would inevitably bring war, not peace.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,19,43" ],
+  "verses" : [ {
+    "verse" : "luke,19,43",
+    "text" : "The days will come upon you when your enemies will build an embankment against you and encircle you and hem you in on every side."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,19,43",
     "id" : 196734,
@@ -71,7 +119,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 19:43\">19:43</a></b> <b>set up a barricade.</b> A description of a typical siege of a city. The embankment was erected as a protection for the invaders and a base from which to launch attacks.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,19,44" ],
+  "verses" : [ {
+    "verse" : "luke,19,44",
+    "text" : "They will dash you to the ground, you and the children within your walls. They will not leave one stone on another, because you did not recognize the time of God's coming to you.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,19,44",
     "id" : 196735,
@@ -79,7 +130,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 19:44\">19:44</a></b> The city will be completely destroyed. The people must live with their rejection of God’s Messiah.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,19,45", "luke,19,46" ],
+  "verses" : [ {
+    "verse" : "luke,19,45",
+    "text" : "Then he entered the temple area and began driving out those who were selling."
+  }, {
+    "verse" : "luke,19,46",
+    "text" : "\"It is written,\" he said to them, \"'My house will be a house of prayer'; but you have made it 'a den of robbers.'\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,19,45-luke,19,46",
     "id" : 196736,
@@ -87,7 +144,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 19:45\">19:45</a>, <a class=\"bibleref\" href=\"/passage/?search=Luke 19:46\">46</a></b> All four Gospels speak of Jesus driving traders out of the temple precincts, but the first three place it at the end of Jesus’ ministry and John at the beginning. There were probably two cleansings (<a class=\"bibleref\" href=\"/passage/?search=Mark 11:15\">Mark 11:15</a> note). The merchants in the temple courts were money-changers and sellers of sacrificial animals. Only coins from Tyre were accepted in the temple, and money had to be changed before an offering could be made. It was convenient to have them close to the temple, but their presence in the temple courts themselves made true worship difficult. The traders would have been in the court of the Gentiles, the only place Gentiles could go to pray.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,19,47", "luke,19,48" ],
+  "verses" : [ {
+    "verse" : "luke,19,47",
+    "text" : "Every day he was teaching at the temple. But the chief priests, the teachers of the law and the leaders among the people were trying to kill him."
+  }, {
+    "verse" : "luke,19,48",
+    "text" : "Yet they could not find any way to do it, because all the people hung on his words."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,19,47-luke,19,48",
     "id" : 196737,

@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "1samuel,29,1", "1samuel,29,2" ],
+  "verses" : [ {
+    "verse" : "1samuel,29,1",
+    "text" : "The Philistines gathered all their forces at Aphek, and Israel camped by the spring in Jezreel."
+  }, {
+    "verse" : "1samuel,29,2",
+    "text" : "As the Philistine rulers marched with their units of hundreds and thousands, David and his men were marching at the rear with Achish."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,16,1-1samuel,31,13",
     "id" : 187527,
@@ -12,7 +18,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 29:1\">29:1</a></b> <b>The Philistines had gathered.</b> This notice resumes the account initiated in <a class=\"bibleref\" href=\"/passage/?search=1Sam 28:1\">28:1</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 28:2\">2</a> but suspended in order to relate Saul’s visit with the medium (<a class=\"bibleref\" href=\"/passage/?search=1Sam 28:3-1Sam 28:25\">28:3–25</a>).</p><p><b>Aphek.</b> Probably the same Aphek mentioned in <a class=\"bibleref\" href=\"/passage/?search=1Sam 4:1\">4:1</a> (note), twenty-eight miles north of Gath. The Philistines assembled their forces at Aphek before continuing their northward march (<a class=\"bibleref\" href=\"/passage/?search=1Sam 4:2\">v. 2</a>).</p><p><b>Jezreel.</b> North of Mount Gilboa, a few miles south of Shunem, and forty miles northeast of Aphek.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,29,3" ],
+  "verses" : [ {
+    "verse" : "1samuel,29,3",
+    "text" : "The commanders of the Philistines asked, \"What about these Hebrews?\" Achish replied, \"Is this not David, who was an officer of Saul king of Israel? He has already been with me for over a year, and from the day he left Saul until now, I have found no fault in him.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,29,3",
     "id" : 187698,
@@ -20,7 +29,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 29:3\">29:3</a></b> <b>Hebrews.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Sam 4:6\">4:6</a>.</p><p><b>I have found no fault in him.</b> This judgment is a measure of Achish’s gullibility, not David’s sincerity (<a class=\"bibleref\" href=\"/passage/?search=1Sam 27:8-1Sam 27:12\">27:8–12</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,29,4" ],
+  "verses" : [ {
+    "verse" : "1samuel,29,4",
+    "text" : "But the Philistine commanders were angry with him and said, \"Send the man back, that he may return to the place you assigned him. He must not go with us into battle, or he will turn against us during the fighting. How better could he regain his master's favor than by taking the heads of our own men?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,29,4",
     "id" : 187699,
@@ -28,7 +40,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 29:4\">29:4</a></b> <b>lest in the battle he become an adversary.</b> The other Philistine commanders are less gullible than Achish and perhaps still carry painful memories of mid-battle defection in an earlier war with Israel (<a class=\"bibleref\" href=\"/passage/?search=1Sam 14:21\">14:21</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,29,5", "1samuel,29,6", "1samuel,29,7" ],
+  "verses" : [ {
+    "verse" : "1samuel,29,5",
+    "text" : "Isn't this the David they sang about in their dances: \"'Saul has slain his thousands, and David his tens of thousands'?\""
+  }, {
+    "verse" : "1samuel,29,6",
+    "text" : "So Achish called David and said to him, \"As surely as the LORD lives, you have been reliable, and I would be pleased to have you serve with me in the army. From the day you came to me until now, I have found no fault in you, but the rulers don't approve of you."
+  }, {
+    "verse" : "1samuel,29,7",
+    "text" : "Turn back and go in peace; do nothing to displease the Philistine rulers.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,29,5",
     "id" : 187700,
@@ -36,7 +57,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 29:5\">29:5</a></b> <b>Is not this David, of whom they sing.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Sam 18:7\">18:7</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 21:11\">21:11</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,29,8" ],
+  "verses" : [ {
+    "verse" : "1samuel,29,8",
+    "text" : "\"But what have I done?\" asked David. \"What have you found against your servant from the day I came to you until now? Why can't I go and fight against the enemies of my lord the king?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,29,8",
     "id" : 187701,
@@ -44,7 +68,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 29:8\">29:8</a></b> <b>But what have I done.</b> A protest of genuine innocence when spoken to Saul (<a class=\"bibleref\" href=\"/passage/?search=1Sam 26:18\">26:18</a>), the question is now no more than a ruse. David has indeed done much (<a class=\"bibleref\" href=\"/passage/?search=1Sam 27:8-1Sam 27:12\">27:8–12</a>), if Achish only could see it.</p><p><b>that I may not go and fight against the enemies of my lord the king.</b> As in <a class=\"bibleref\" href=\"/passage/?search=1Sam 28:2\">28:2</a>, David again deals in ambiguities apparent to the reader, if not to Achish. The ambiguity here is the identity of “my lord the king.” It could be Achish, Saul, or possibly God Himself.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,29,9", "1samuel,29,10", "1samuel,29,11" ],
+  "verses" : [ {
+    "verse" : "1samuel,29,9",
+    "text" : "Achish answered, \"I know that you have been as pleasing in my eyes as an angel of God; nevertheless, the Philistine commanders have said, 'He must not go up with us into battle.'"
+  }, {
+    "verse" : "1samuel,29,10",
+    "text" : "Now get up early, along with your master's servants who have come with you, and leave in the morning as soon as it is light.\""
+  }, {
+    "verse" : "1samuel,29,11",
+    "text" : "So David and his men got up early in the morning to go back to the land of the Philistines, and the Philistines went up to Jezreel."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,29,9",
     "id" : 187702,
@@ -52,7 +85,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 29:9\">29:9</a></b> <b>you are as blameless in my sight as an angel of God.</b> Achish’s grossly misplaced confidence makes him appear practically a fool. On the expression “angel of God,” see <a class=\"bibleref\" href=\"/passage/?search=2Sam 14:17\">2 Sam. 14:17</a>, <a class=\"bibleref\" href=\"/passage/?search=2Sam 14:20\">20</a>; <a class=\"bibleref\" href=\"/passage/?search=2Sam 19:27\">19:27</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,30,1" ],
+  "verses" : [ {
+    "verse" : "1samuel,30,1",
+    "text" : "David and his men reached Ziklag on the third day. Now the Amalekites had raided the Negev and Ziklag. They had attacked Ziklag and burned it,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,30,1",
     "id" : 187703,
@@ -60,7 +96,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 30:1\">30:1</a></b> <b>Ziklag.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Sam 27:6\">27:6</a>.</p><p><b>Amalekites had made a raid.</b> See notes <a class=\"bibleref\" href=\"/passage/?search=1Sam 15:2\">15:2</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 15:8\">8</a>. Having been the victims of David’s forays (<a class=\"bibleref\" href=\"/passage/?search=1Sam 27:8\">27:8</a>), the Amalekites have taken the opportunity of David’s absence from Ziklag to retaliate.</p><p><b>the Negeb.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Sam 27:10\">27:10</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,30,2" ],
+  "verses" : [ {
+    "verse" : "1samuel,30,2",
+    "text" : "and had taken captive the women and all who were in it, both young and old. They killed none of them, but carried them off as they went on their way."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,30,2",
     "id" : 187704,
@@ -68,7 +107,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 30:2\">30:2</a></b> <b>They killed no one.</b> A remarkable evidence of the Lord’s providential protection of David (<a class=\"bibleref\" href=\"/passage/?search=1Sam 30:19\">v. 19</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 26:12\">26:12</a>), whose own practice had been quite different (<a class=\"bibleref\" href=\"/passage/?search=1Sam 27:9\">27:9</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,30,3", "1samuel,30,4", "1samuel,30,5" ],
+  "verses" : [ {
+    "verse" : "1samuel,30,3",
+    "text" : "When David and his men came to Ziklag, they found it destroyed by fire and their wives and sons and daughters taken captive."
+  }, {
+    "verse" : "1samuel,30,4",
+    "text" : "So David and his men wept aloud until they had no strength left to weep."
+  }, {
+    "verse" : "1samuel,30,5",
+    "text" : "David's two wives had been captured-Ahinoam of Jezreel and Abigail, the widow of Nabal of Carmel."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,30,3",
     "id" : 187705,
@@ -76,7 +124,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 30:3\">30:3</a></b> <b>their wives and sons and daughters taken captive.</b> This turn of events is especially troubling, inasmuch as concern for the safety of their families may have motivated the retreat of David and his men to Philistine territory in the first place (<a class=\"bibleref\" href=\"/passage/?search=1Sam 27:1\">27:1</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,30,6" ],
+  "verses" : [ {
+    "verse" : "1samuel,30,6",
+    "text" : "David was greatly distressed because the men were talking of stoning him; each one was bitter in spirit because of his sons and daughters. But David found strength in the LORD his God."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,30,6",
     "id" : 187706,
@@ -84,7 +135,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 30:6\">30:6</a></b> <b>David strengthened himself in the <span class=\"small-caps\">Lord</span> his God.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Sam 23:16\">23:16</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,30,7", "1samuel,30,8" ],
+  "verses" : [ {
+    "verse" : "1samuel,30,7",
+    "text" : "Then David said to Abiathar the priest, the son of Ahimelech, \"Bring me the ephod.\" Abiathar brought it to him,"
+  }, {
+    "verse" : "1samuel,30,8",
+    "text" : "and David inquired of the LORD, \"Shall I pursue this raiding party? Will I overtake them?Pursue them,\" he answered. \"You will certainly overtake them and succeed in the rescue.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,30,7",
     "id" : 187707,
@@ -92,7 +149,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 30:7\">30:7</a></b> <b>Abiathar brought the ephod.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Sam 22:20\">22:20</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,30,9" ],
+  "verses" : [ {
+    "verse" : "1samuel,30,9",
+    "text" : "David and the six hundred men with him came to the Besor Ravine, where some stayed behind,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,30,9",
     "id" : 187708,
@@ -100,7 +160,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 30:9\">30:9</a></b> <b>brook Besor.</b> Seasonal rivers (or “wadis”) from the vicinity of Beersheba and south converge to form the brook Besor, which runs northwest to empty into the Mediterranean. David and his men would have come to the ravine some thirteen miles south of Ziklag.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,30,10", "1samuel,30,11", "1samuel,30,12", "1samuel,30,13" ],
+  "verses" : [ {
+    "verse" : "1samuel,30,10",
+    "text" : "for two hundred men were too exhausted to cross the ravine. But David and four hundred men continued the pursuit."
+  }, {
+    "verse" : "1samuel,30,11",
+    "text" : "They found an Egyptian in a field and brought him to David. They gave him water to drink and food to eat-"
+  }, {
+    "verse" : "1samuel,30,12",
+    "text" : "part of a cake of pressed figs and two cakes of raisins. He ate and was revived, for he had not eaten any food or drunk any water for three days and three nights."
+  }, {
+    "verse" : "1samuel,30,13",
+    "text" : "David asked him, \"To whom do you belong, and where do you come from?\" He said, \"I am an Egyptian, the slave of an Amalekite. My master abandoned me when I became ill three days ago."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,30,10",
     "id" : 187709,
@@ -108,7 +180,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 30:10\">30:10</a></b> <b>too exhausted.</b> Their exhaustion is not surprising after a march of over sixty miles from Aphek (<a class=\"bibleref\" href=\"/passage/?search=1Sam 29\">29:1–11</a>) to the brook Besor.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,30,14", "1samuel,30,15", "1samuel,30,16", "1samuel,30,17", "1samuel,30,18" ],
+  "verses" : [ {
+    "verse" : "1samuel,30,14",
+    "text" : "We raided the Negev of the Kerethites and the territory belonging to Judah and the Negev of Caleb. And we burned Ziklag.\""
+  }, {
+    "verse" : "1samuel,30,15",
+    "text" : "David asked him, \"Can you lead me down to this raiding party?\" He answered, \"Swear to me before God that you will not kill me or hand me over to my master, and I will take you down to them.\""
+  }, {
+    "verse" : "1samuel,30,16",
+    "text" : "He led David down, and there they were, scattered over the countryside, eating, drinking and reveling because of the great amount of plunder they had taken from the land of the Philistines and from Judah."
+  }, {
+    "verse" : "1samuel,30,17",
+    "text" : "David fought them from dusk until the evening of the next day, and none of them got away, except four hundred young men who rode off on camels and fled."
+  }, {
+    "verse" : "1samuel,30,18",
+    "text" : "David recovered everything the Amalekites had taken, including his two wives."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,30,14",
     "id" : 187710,
@@ -116,7 +203,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 30:14\">30:14</a></b> <b>the Negeb of the Cherethites.</b> The Cherethites were probably from Crete. They are often mentioned alongside the Philistines (<a class=\"bibleref\" href=\"/passage/?search=Ezek 25:16\">Ezek. 25:16</a>; <a class=\"bibleref\" href=\"/passage/?search=Zeph 2:5\">Zeph. 2:5</a>). The “Cherethites and Pelethites” served under the command of Benaiah, son of Jehoiada, as professional troops loyal to David (<a class=\"bibleref\" href=\"/passage/?search=2Sam 8:18\">2 Sam. 8:18</a>; <a class=\"bibleref\" href=\"/passage/?search=2Sam 15:18\">15:18</a>; <a class=\"bibleref\" href=\"/passage/?search=2Sam 20:7\">20:7</a>, <a class=\"bibleref\" href=\"/passage/?search=2Sam 20:23\">23</a>) and, for a short time at least, to Solomon (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 1:44\">1 Kin. 1:44</a>). They seem to have been the king’s bodyguard (<a class=\"bibleref\" href=\"/passage/?search=2Sam 23:20\">2 Sam. 23:20</a>, <a class=\"bibleref\" href=\"/passage/?search=2Sam 23:23\">23</a>).</p><p><b>the Negeb of Caleb.</b> Caleb, son of Jephunneh, is first mentioned in <a class=\"bibleref\" href=\"/passage/?search=Num 13:6\">Num. 13:6</a> as one of the spies chosen to scout out the land of Canaan. He is commended in <a class=\"bibleref\" href=\"/passage/?search=Num 14:24\">Num. 14:24</a> as one who followed the Lord “fully” and who therefore would receive an inheritance in the Promised Land. His inheritance included Hebron (<a class=\"bibleref\" href=\"/passage/?search=Josh 14:13\">Josh. 14:13</a>, <a class=\"bibleref\" href=\"/passage/?search=Josh 14:14\">14</a>; <a class=\"bibleref\" href=\"/passage/?search=Judg 1:20\">Judg. 1:20</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,30,19", "1samuel,30,20" ],
+  "verses" : [ {
+    "verse" : "1samuel,30,19",
+    "text" : "Nothing was missing: young or old, boy or girl, plunder or anything else they had taken. David brought everything back."
+  }, {
+    "verse" : "1samuel,30,20",
+    "text" : "He took all the flocks and herds, and his men drove them ahead of the other livestock, saying, \"This is David's plunder.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,30,19",
     "id" : 187711,
@@ -124,7 +217,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 30:19\">30:19</a></b> <b>Nothing was missing.</b> This is further, striking evidence of the Lord’s watchful care over David’s affairs (<a class=\"bibleref\" href=\"/passage/?search=1Sam 30:2\">v. 2</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,30,21" ],
+  "verses" : [ {
+    "verse" : "1samuel,30,21",
+    "text" : "Then David came to the two hundred men who had been too exhausted to follow him and who were left behind at the Besor Ravine. They came out to meet David and the people with him. As David and his men approached, he greeted them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,30,21",
     "id" : 187712,
@@ -132,7 +228,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 30:21\">30:21</a></b> <b>brook Besor.</b> See note on <a class=\"bibleref\" href=\"/passage/?search=1Sam 30:9\">v. 9</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,30,22" ],
+  "verses" : [ {
+    "verse" : "1samuel,30,22",
+    "text" : "But all the evil men and troublemakers among David's followers said, \"Because they did not go out with us, we will not share with them the plunder we recovered. However, each man may take his wife and children and go.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,30,22",
     "id" : 187713,
@@ -140,7 +239,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 30:22\">30:22</a></b> <b>worthless fellows.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Sam 2:12\">2:12</a>, where the same Hebrew expression is used.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,30,23", "1samuel,30,24", "1samuel,30,25" ],
+  "verses" : [ {
+    "verse" : "1samuel,30,23",
+    "text" : "David replied, \"No, my brothers, you must not do that with what the LORD has given us. He has protected us and handed over to us the forces that came against us."
+  }, {
+    "verse" : "1samuel,30,24",
+    "text" : "Who will listen to what you say? The share of the man who stayed with the supplies is to be the same as that of him who went down to the battle. All will share alike.\""
+  }, {
+    "verse" : "1samuel,30,25",
+    "text" : "David made this a statute and ordinance for Israel from that day to this."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,30,23",
     "id" : 187714,
@@ -148,7 +256,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 30:23\">30:23</a></b> <b>what the <span class=\"small-caps\">Lord</span> has given us.</b> David recognizes that the successful rescue is not his doing, but the Lord’s (<a class=\"bibleref\" href=\"/passage/?search=1Sam 30:2\">vv. 2</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 30:19\">19</a> and notes). This leads him to reject the idea that the front line troops have a right to more spoil than those who stayed behind.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,30,26" ],
+  "verses" : [ {
+    "verse" : "1samuel,30,26",
+    "text" : "When David arrived in Ziklag, he sent some of the plunder to the elders of Judah, who were his friends, saying, \"Here is a present for you from the plunder of the LORD's enemies.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,30,26",
     "id" : 187715,
@@ -156,7 +267,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 30:26\">30:26</a></b> <b>spoil to . . . the elders of Judah.</b> Probably he was thanking them for the help he received in escaping from Saul (<a class=\"bibleref\" href=\"/passage/?search=1Sam 30:31\">v. 31</a>), though it was also in this area that David’s kingship was first officially recognized (<a class=\"bibleref\" href=\"/passage/?search=2Sam 2:1-2Sam 2:4\">2 Sam. 2:1–4</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,30,27", "1samuel,30,28", "1samuel,30,29", "1samuel,30,30", "1samuel,30,31" ],
+  "verses" : [ {
+    "verse" : "1samuel,30,27",
+    "text" : "He sent it to those who were in Bethel, Ramoth Negev and Jattir;"
+  }, {
+    "verse" : "1samuel,30,28",
+    "text" : "to those in Aroer, Siphmoth, Eshtemoa"
+  }, {
+    "verse" : "1samuel,30,29",
+    "text" : "and Racal; to those in the towns of the Jerahmeelites and the Kenites;"
+  }, {
+    "verse" : "1samuel,30,30",
+    "text" : "to those in Hormah, Bor Ashan, Athach"
+  }, {
+    "verse" : "1samuel,30,31",
+    "text" : "and Hebron; and to those in all the other places where David and his men had roamed."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,30,27-1samuel,30,31",
     "id" : 187716,
@@ -164,7 +290,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 30:27-1Sam 30:31\">30:27–31</a></b> As <a class=\"bibleref\" href=\"/passage/?search=1Sam 30:31\">v. 31</a> says, these cities were within the range of David’s roamings as a fugitive. All of them are in the south of Judah. This Bethel (<a class=\"bibleref\" href=\"/passage/?search=1Sam 30:27\">v. 27</a>), for example, should not be confused with the more northern city of the same name (<a class=\"bibleref\" href=\"/passage/?search=1Sam 7:16\">7:16</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,31,1" ],
+  "verses" : [ {
+    "verse" : "1samuel,31,1",
+    "text" : "Now the Philistines fought against Israel; the Israelites fled before them, and many fell slain on Mount Gilboa."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,31,1",
     "id" : 187717,
@@ -172,7 +301,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 31:1\">31:1</a></b> <b>Mount Gilboa.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Sam 28:4\">28:4</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,31,2", "1samuel,31,3" ],
+  "verses" : [ {
+    "verse" : "1samuel,31,2",
+    "text" : "The Philistines pressed hard after Saul and his sons, and they killed his sons Jonathan, Abinadab and Malki-Shua."
+  }, {
+    "verse" : "1samuel,31,3",
+    "text" : "The fighting grew fierce around Saul, and when the archers overtook him, they wounded him critically."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,31,2",
     "id" : 187718,
@@ -180,7 +315,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 31:2\">31:2</a></b> <b>Jonathan and Abinadab and Malchi-shua, the sons of Saul.</b> See <a class=\"bibleref\" href=\"/passage/?search=1Sam 14:49\">14:49</a>. For a listing of all four sons of Saul, see <a class=\"bibleref\" href=\"/passage/?search=1Chr 8:33\">1 Chr. 8:33</a>. Chronicles gives the name Eshbaal, which was probably altered later to Ish-bosheth (“man of shame”) to avoid any association with the Canaanite god Baal. Ish-bosheth was the only son of Saul left alive after the defeat on Mount Gilboa.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,31,4", "1samuel,31,5" ],
+  "verses" : [ {
+    "verse" : "1samuel,31,4",
+    "text" : "Saul said to his armor-bearer, \"Draw your sword and run me through, or these uncircumcised fellows will come and run me through and abuse me.\" But his armor-bearer was terrified and would not do it; so Saul took his own sword and fell on it."
+  }, {
+    "verse" : "1samuel,31,5",
+    "text" : "When the armor-bearer saw that Saul was dead, he too fell on his sword and died with him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,31,4",
     "id" : 187719,
@@ -188,7 +329,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 31:4\">31:4</a></b> <b>uncircumcised.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Sam 14:6\">14:6</a>.</p><p><b>Saul took his own sword and fell upon it.</b> While some praise Saul’s action as worthy of a tragic hero, the tenor of the books of Samuel points in another direction. To be commended are those who like David in times of distress find strength in God (<a class=\"bibleref\" href=\"/passage/?search=1Sam 23:16\">23:16</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 30:6\">30:6</a>), and who like Jonathan yield fully to His will (<a class=\"bibleref\" href=\"/passage/?search=1Sam 18:4\">18:4</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 18:28\">28</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 18:29\">29</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 19:4\">19:4</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 20:31\">20:31</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 23:17\">23:17</a> and notes).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,31,6", "1samuel,31,7", "1samuel,31,8", "1samuel,31,9" ],
+  "verses" : [ {
+    "verse" : "1samuel,31,6",
+    "text" : "So Saul and his three sons and his armor-bearer and all his men died together that same day."
+  }, {
+    "verse" : "1samuel,31,7",
+    "text" : "When the Israelites along the valley and those across the Jordan saw that the Israelite army had fled and that Saul and his sons had died, they abandoned their towns and fled. And the Philistines came and occupied them."
+  }, {
+    "verse" : "1samuel,31,8",
+    "text" : "The next day, when the Philistines came to strip the dead, they found Saul and his three sons fallen on Mount Gilboa."
+  }, {
+    "verse" : "1samuel,31,9",
+    "text" : "They cut off his head and stripped off his armor, and they sent messengers throughout the land of the Philistines to proclaim the news in the temple of their idols and among their people."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,31,6",
     "id" : 187720,
@@ -196,7 +349,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 31:6\">31:6</a></b> <b>all his men.</b> On the qualified sense of “all,” see the note on <a class=\"bibleref\" href=\"/passage/?search=1Sam 15:8\">15:8</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,31,10" ],
+  "verses" : [ {
+    "verse" : "1samuel,31,10",
+    "text" : "They put his armor in the temple of the Ashtoreths and fastened his body to the wall of Beth Shan."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,31,10",
     "id" : 187721,
@@ -204,7 +360,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 31:10\">31:10</a></b> <b>Ashtaroth.</b> These were the fertility goddesses of the Canaan-ites.</p><p><b>Beth-shan.</b> Located in the Jordan Valley some sixteen miles south of the Sea of Chinnereth (Galilee), this border city of the territory of Manasseh is listed in <a class=\"bibleref\" href=\"/passage/?search=Josh 17:11\">Josh. 17:11</a>, <a class=\"bibleref\" href=\"/passage/?search=Josh 17:16\">16</a>; <a class=\"bibleref\" href=\"/passage/?search=Judg 1:27\">Judg. 1:27</a> among those cities that resisted Israelite occupation and remained Canaanite and Philistine strongholds.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,31,11" ],
+  "verses" : [ {
+    "verse" : "1samuel,31,11",
+    "text" : "When the people of Jabesh Gilead heard of what the Philistines had done to Saul,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,31,11",
     "id" : 187722,
@@ -212,7 +371,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 31:11\">31:11</a></b> <b>Jabesh-gilead.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Sam 11:1\">11:1</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,31,12", "1samuel,31,13" ],
+  "verses" : [ {
+    "verse" : "1samuel,31,12",
+    "text" : "all their valiant men journeyed through the night to Beth Shan. They took down the bodies of Saul and his sons from the wall of Beth Shan and went to Jabesh, where they burned them."
+  }, {
+    "verse" : "1samuel,31,13",
+    "text" : "Then they took their bones and buried them under a tamarisk tree at Jabesh, and they fasted seven days."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,31,12",
     "id" : 187723,

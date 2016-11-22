@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "proverbs,16,19", "proverbs,16,20" ],
+  "verses" : [ {
+    "verse" : "proverbs,16,19",
+    "text" : "Better to be lowly in spirit and among the oppressed than to share plunder with the proud."
+  }, {
+    "verse" : "proverbs,16,20",
+    "text" : "Whoever gives heed to instruction prospers, and blessed is he who trusts in the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

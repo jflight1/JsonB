@@ -1,8 +1,26 @@
 [ {
-  "singleVerses" : [ "romans,9,25", "romans,9,26", "romans,9,27", "romans,9,28", "romans,9,29" ],
+  "verses" : [ {
+    "verse" : "romans,9,25",
+    "text" : "As he says in Hosea: \"I will call them 'my people' who are not my people; and I will call her 'my loved one' who is not my loved one,\""
+  }, {
+    "verse" : "romans,9,26",
+    "text" : "and, \"It will happen that in the very place where it was said to them, 'You are not my people,' they will be called 'sons of the living God.'\""
+  }, {
+    "verse" : "romans,9,27",
+    "text" : "Isaiah cries out concerning Israel: \"Though the number of the Israelites be like the sand by the sea, only the remnant will be saved."
+  }, {
+    "verse" : "romans,9,28",
+    "text" : "For the Lord will carry out his sentence on earth with speed and finality.\""
+  }, {
+    "verse" : "romans,9,29",
+    "text" : "It is just as Isaiah said previously: \"Unless the Lord Almighty had left us descendants, we would have become like Sodom, we would have been like Gomorrah.\""
+  } ],
   "rsbNotes" : [ ]
 }, {
-  "singleVerses" : [ "romans,9,30" ],
+  "verses" : [ {
+    "verse" : "romans,9,30",
+    "text" : "What then shall we say? That the Gentiles, who did not pursue righteousness, have obtained it, a righteousness that is by faith;"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,9,30",
     "id" : 197851,
@@ -10,7 +28,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 9:30\">9:30</a></b> <b>What shall we say, then.</b> See <a class=\"bibleref\" href=\"/passage/?search=Rom 9:14\">v. 14</a>. Having accounted for Jewish unbelief in terms of divine sovereignty, Paul now diagnoses it as due to a fatal prior commitment to a false way of righteousness. Divine sovereignty and the guilt of human willfulness are for Paul two aspects of reality. By God’s grace and sovereignty, Gentiles who did not seek God’s righteousness have now received it through faith in Christ, but Israel as a people have failed to receive it because they sought it by a legal means in which it could not be found. Christ has been to the Jews a stumbling stone (the image is from <a class=\"bibleref\" href=\"/passage/?search=Isa 8:14\">Is. 8:14</a>; <a class=\"bibleref\" href=\"/passage/?search=Isa 28:16\">28:16</a>) over which they have fallen (vv. 32, 33; <a class=\"bibleref\" href=\"/passage/?search=1Pet 2:8\">1 Pet. 2:8</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,9,31", "romans,9,32", "romans,9,33" ],
+  "verses" : [ {
+    "verse" : "romans,9,31",
+    "text" : "but Israel, who pursued a law of righteousness, has not attained it."
+  }, {
+    "verse" : "romans,9,32",
+    "text" : "Why not? Because they pursued it not by faith but as if it were by works. They stumbled over the \"stumbling stone.\""
+  }, {
+    "verse" : "romans,9,33",
+    "text" : "As it is written: \"See, I lay in Zion a stone that causes men to stumble and a rock that makes them fall, and the one who trusts in him will never be put to shame.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,9,31",
     "id" : 197852,
@@ -18,7 +45,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 9:31\">9:31 a</a></b> <b>law that would lead to righteousness.</b> Paul probably has the Mosaic law in view again. The mistake that the Jews have made lies not in what they pursued, but in the manner of pursuing it (“not . . . by faith, but . . . works,” <a class=\"bibleref\" href=\"/passage/?search=Rom 9:32\">v. 32</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,10,1" ],
+  "verses" : [ {
+    "verse" : "romans,10,1",
+    "text" : "Brothers, my heart's desire and prayer to God for the Israelites is that they may be saved."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,10,1",
     "id" : 197853,
@@ -26,7 +56,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 10:1\">10:1</a></b> <b>Brothers.</b> A heartfelt appeal to the sympathy of his fellow Christians, the pathos of which is underlined by his recent reference to his relatives in the flesh (<a class=\"bibleref\" href=\"/passage/?search=Rom 9:3\">9:3</a>, text note).</p><p><b>that they may be saved.</b> Paul’s concern in <a class=\"bibleref\" href=\"/passage/?search=Rom 9\">ch. 9</a> was with the salvation of the Jews, not merely with their role in redemptive history.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,10,2" ],
+  "verses" : [ {
+    "verse" : "romans,10,2",
+    "text" : "For I can testify about them that they are zealous for God, but their zeal is not based on knowledge."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,10,2",
     "id" : 197854,
@@ -34,7 +67,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 10:2\">10:2</a></b> <b>zeal for God.</b> Paul speaks here from personal experience, as to both the reality of the zeal and its wrong-headed and wrong-hearted character (<a class=\"bibleref\" href=\"/passage/?search=Phil 3:4-Phil 3:6\">Phil. 3:4–6</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,10,3" ],
+  "verses" : [ {
+    "verse" : "romans,10,3",
+    "text" : "Since they did not know the righteousness that comes from God and sought to establish their own, they did not submit to God's righteousness."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,10,3",
     "id" : 197855,
@@ -42,7 +78,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 10:3\">10:3</a></b> <b>being ignorant of the righteousness that comes from God.</b> Paul contrasts the divinely established righteousness with a person’s efforts to establish one’s own. See “Faith and Works” at <a class=\"bibleref\" href=\"/passage/?search=Jas 2:24\">James 2:24</a>.</p><p><b>establish.</b> Covenant language (<a class=\"bibleref\" href=\"/passage/?search=Gen 6:18\">Gen. 6:18</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 17:7\">17:7</a>). Even in the context of the covenant God had made with them, they perverted His grace by seeing it as dependent on their own law-keeping.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,10,4" ],
+  "verses" : [ {
+    "verse" : "romans,10,4",
+    "text" : "Christ is the end of the law so that there may be righteousness for everyone who believes."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,10,4",
     "id" : 197856,
@@ -50,7 +89,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 10:4\">10:4</a></b> <b>Christ is the end of the law.</b> The interpretation followed here is that Christ is the goal or purpose of the law (<a class=\"bibleref\" href=\"/passage/?search=Gal 3:24\">Gal. 3:24</a>). Another interpretation is that for believers Christ makes the law obsolete because they no longer strive to establish their own righteousness by it.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,10,5" ],
+  "verses" : [ {
+    "verse" : "romans,10,5",
+    "text" : "Moses describes in this way the righteousness that is by the law: \"The man who does these things will live by them.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,10,5",
     "id" : 197857,
@@ -58,7 +100,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 10:5\">10:5</a></b> <b>the righteousness that is based on the law.</b> Paul’s quotation from <a class=\"bibleref\" href=\"/passage/?search=Lev 18:5\">Lev. 18:5</a> is set originally in the context of God’s redemptive grace requiring a person’s responsive obedience (<a class=\"bibleref\" href=\"/passage/?search=Lev 18:2\">Lev. 18:2</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=Exod 20:1-Exod 20:17\">Ex. 20:1–17</a>); it is not a statement about self-established righteousness.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,10,6", "romans,10,7", "romans,10,8" ],
+  "verses" : [ {
+    "verse" : "romans,10,6",
+    "text" : "But the righteousness that is by faith says: \"Do not say in your heart, 'Who will ascend into heaven?'\" (that is, to bring Christ down)"
+  }, {
+    "verse" : "romans,10,7",
+    "text" : "\"or 'Who will descend into the deep?'\" (that is, to bring Christ up from the dead)."
+  }, {
+    "verse" : "romans,10,8",
+    "text" : "But what does it say? \"The word is near you; it is in your mouth and in your heart,\" that is, the word of faith we are proclaiming:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,10,6-romans,10,8",
     "id" : 197858,
@@ -66,7 +117,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 10:6-Rom 10:8\">10:6–8</a></b> Deuteronomy exhibits God’s salvation as achieved not by humanity’s strenuous efforts, but by divine grace bringing it near. In particular, <a class=\"bibleref\" href=\"/passage/?search=Deut 30\">Deut. 30</a> sets this in the context of an anticipated return from exile-judgment (<a class=\"bibleref\" href=\"/passage/?search=Deut 30:1-Deut 30:6\">Deut. 30:1–6</a>). Paul sees this fulfilled in the new covenant in Christ (<a class=\"bibleref\" href=\"/passage/?search=Jer 31:31-Jer 31:34\">Jer. 31:31–34</a>, cf. <a class=\"bibleref\" href=\"/passage/?search=2Cor 3:7-2Cor 3:18\">2 Cor. 3:7–18</a>). Thus Christ was the end (goal) of the Mosaic law. To seek a self-established righteousness now is the equivalent of attempting to do what God alone could do and has done, in Christ’s incarnation and resurrection. By contrast with all human efforts, God has brought near the word of salvation, and with it salvation itself. See “The Word of God: Scripture as Revelation” at <a class=\"bibleref\" href=\"/passage/?search=Exod 32:16\">Ex. 32:16</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,10,9", "romans,10,10", "romans,10,11" ],
+  "verses" : [ {
+    "verse" : "romans,10,9",
+    "text" : "That if you confess with your mouth, \"Jesus is Lord,\" and believe in your heart that God raised him from the dead, you will be saved."
+  }, {
+    "verse" : "romans,10,10",
+    "text" : "For it is with your heart that you believe and are justified, and it is with your mouth that you confess and are saved."
+  }, {
+    "verse" : "romans,10,11",
+    "text" : "As the Scripture says, \"Anyone who trusts in him will never be put to shame.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,10,9-romans,10,10",
     "id" : 197859,
@@ -74,7 +134,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Rom 10:9\">10:9</a>, <a class=\"bibleref\" href=\"/passage/?search=Rom 10:10\">10</a> confess . . . believe . . . believes . . . confesses.</b> In the parallelism of <a class=\"bibleref\" href=\"/passage/?search=Rom 10:10\">v. 10</a> Paul reverses the order of verbs in <a class=\"bibleref\" href=\"/passage/?search=Rom 10:9\">v. 9</a> and thereby indicates that heart-belief and mouth-confession belong together for justification (“righteousness”) and salvation.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "romans,10,12", "romans,10,13" ],
+  "verses" : [ {
+    "verse" : "romans,10,12",
+    "text" : "For there is no difference between Jew and Gentile--the same Lord is Lord of all and richly blesses all who call on him,"
+  }, {
+    "verse" : "romans,10,13",
+    "text" : "for, \"Everyone who calls on the name of the Lord will be saved.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "romans,10,12",
     "id" : 197860,

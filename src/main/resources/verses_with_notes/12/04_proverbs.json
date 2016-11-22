@@ -1,8 +1,14 @@
 [ {
-  "singleVerses" : [ "proverbs,29,2" ],
+  "verses" : [ {
+    "verse" : "proverbs,29,2",
+    "text" : "When the righteous thrive, the people rejoice; when the wicked rule, the people groan."
+  } ],
   "rsbNotes" : [ ]
 }, {
-  "singleVerses" : [ "proverbs,29,3" ],
+  "verses" : [ {
+    "verse" : "proverbs,29,3",
+    "text" : "A man who loves wisdom brings joy to his father, but a companion of prostitutes squanders his wealth."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,29,3",
     "id" : 192317,
@@ -10,7 +16,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 29:3\">29:3</a></b> <b>makes his father glad.</b> See <a class=\"bibleref\" href=\"/passage/?search=Prov 10:1\">10:1</a>; <a class=\"bibleref\" href=\"/passage/?search=Prov 28:7\">28:7</a>.</p><p><b>squanders his wealth.</b> The parallelism implies that such behavior is a disgrace and a sorrow to one’s father (<a class=\"bibleref\" href=\"/passage/?search=Prov 6:26\">6:26</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,29,4" ],
+  "verses" : [ {
+    "verse" : "proverbs,29,4",
+    "text" : "By justice a king gives a country stability, but one who is greedy for bribes tears it down."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,29,4",
     "id" : 192318,

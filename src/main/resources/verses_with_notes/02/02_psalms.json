@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,27,1" ],
+  "verses" : [ {
+    "verse" : "psalms,27,1",
+    "text" : "The LORD is my light and my salvation- whom shall I fear? The LORD is the stronghold of my life- of whom shall I be afraid?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,27,1",
     "id" : 190416,
@@ -7,7 +10,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 27:1\">27:1</a></b> <b>light.</b> God brings clarity, order, and understanding, while darkness is evil and chaotic. See <a class=\"bibleref\" href=\"/passage/?search=Nah 1:8\">Nah. 1:8</a>, where the defeat of the enemy is shown by their being pursued into darkness. Also see “God Is Light: Divine Holiness and Justice” at <a class=\"bibleref\" href=\"/passage/?search=Lev 11:44\">Lev. 11:44</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,27,2", "psalms,27,3" ],
+  "verses" : [ {
+    "verse" : "psalms,27,2",
+    "text" : "When evil men advance against me to devour my flesh, when my enemies and my foes attack me, they will stumble and fall."
+  }, {
+    "verse" : "psalms,27,3",
+    "text" : "Though an army besiege me, my heart will not fear; though war break out against me, even then will I be confident."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,27,2",
     "id" : 190417,
@@ -15,7 +24,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 27:2\">27:2</a></b> <b>eat up my flesh.</b> The enemy seeks the physical harm of the psalmist. The expression also has a figurative meaning, “to slander me.”</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,27,4" ],
+  "verses" : [ {
+    "verse" : "psalms,27,4",
+    "text" : "One thing I ask of the LORD, this is what I seek: that I may dwell in the house of the LORD all the days of my life, to gaze upon the beauty of the LORD and to seek him in his temple."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,27,4",
     "id" : 190418,
@@ -23,7 +35,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 27:4\">27:4</a></b> <b>house of the <span class=\"small-caps\">Lord.</span></b> The place where God’s presence is manifest is a place of sanctuary from the enemy.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,27,5" ],
+  "verses" : [ {
+    "verse" : "psalms,27,5",
+    "text" : "For in the day of trouble he will keep me safe in his dwelling; he will hide me in the shelter of his tabernacle and set me high upon a rock."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,27,5",
     "id" : 190419,
@@ -31,7 +46,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 27:5\">27:5</a></b> <b>lift me high.</b> Above all trouble.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,27,6" ],
+  "verses" : [ {
+    "verse" : "psalms,27,6",
+    "text" : "Then my head will be exalted above the enemies who surround me; at his tabernacle will I sacrifice with shouts of joy; I will sing and make music to the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,27,6",
     "id" : 190420,

@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "john,1,29", "john,1,30" ],
+  "verses" : [ {
+    "verse" : "john,1,29",
+    "text" : "The next day John saw Jesus coming toward him and said, \"Look, the Lamb of God, who takes away the sin of the world!"
+  }, {
+    "verse" : "john,1,30",
+    "text" : "This is the one I meant when I said, 'A man who comes after me has surpassed me because he was before me.'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,1,29",
     "id" : 196887,
@@ -7,7 +13,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 1:29\">1:29</a></b> <b>Behold, the Lamb of God.</b> Compare <a class=\"bibleref\" href=\"/passage/?search=John 1:36\">v. 36</a>. Whether “the Lamb” is the Passover lamb or the Servant lamb of <a class=\"bibleref\" href=\"/passage/?search=Isa 53:7\">Is. 53:7</a> cannot be easily determined. There is some evidence that the two figures were combined very early in Christian thought.</p><p><b>who takes away the sin of the world.</b> The “world” designates humanity in its hostility to God, as elsewhere in this Gospel. Although not all persons without exception will be saved, the sacrifice is the only atonement for human sin, and its effectiveness is not limited by time or place (3:16 note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,1,31", "john,1,32" ],
+  "verses" : [ {
+    "verse" : "john,1,31",
+    "text" : "I myself did not know him, but the reason I came baptizing with water was that he might be revealed to Israel.\""
+  }, {
+    "verse" : "john,1,32",
+    "text" : "Then John gave this testimony: \"I saw the Spirit come down from heaven as a dove and remain on him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,1,31",
     "id" : 196888,
@@ -15,7 +27,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 1:31\">1:31</a></b> <b>I myself did not know him.</b> Though John the Baptist may have had previous personal contact with Jesus (cf. <a class=\"bibleref\" href=\"/passage/?search=Luke 1:39-Luke 1:45\">Luke 1:39–45</a>), he did not know who Jesus was (the Lamb and Son of God) until the Spirit identified Him (v. 32). See “The Baptism of Jesus” at <a class=\"bibleref\" href=\"/passage/?search=Mark 1:9\">Mark 1:9</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,1,33" ],
+  "verses" : [ {
+    "verse" : "john,1,33",
+    "text" : "I would not have known him, except that the one who sent me to baptize with water told me, 'The man on whom you see the Spirit come down and remain is he who will baptize with the Holy Spirit.'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,1,33",
     "id" : 196889,
@@ -23,7 +38,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 1:33\">1:33</a></b> <b>who baptizes with the Holy Spirit.</b> The Old Testament anticipated the time of redemption as the time when the Spirit would be poured out on God’s people. Paul refers to Jesus as the second Adam who became “a life-giving spirit,” (<a class=\"bibleref\" href=\"/passage/?search=1Cor 15:45\">1 Cor. 15:45</a> note). It is after Jesus returns to heaven that He sends this heavenly Helper to dwell with His people on earth (14:26; 16:7). The baptism of the Holy Spirit occurs with the new birth that constitutes helpless sinners as sons and daughters of God (vv. 12, 13; <a class=\"bibleref\" href=\"/passage/?search=1Cor 12:13\">1 Cor. 12:13</a>). This baptism also empowers them for Christian service (<a class=\"bibleref\" href=\"/passage/?search=Luke 24:49\">Luke 24:49</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 1:8\">Acts 1:8</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,1,34" ],
+  "verses" : [ {
+    "verse" : "john,1,34",
+    "text" : "I have seen and I testify that this is the Son of God.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,1,34",
     "id" : 196890,
@@ -31,7 +49,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 1:34\">1:34</a></b> <b>this is the Son of God.</b> This is John’s way of reporting the heavenly voice that accompanied the heaven-sent Spirit, as recorded in <a class=\"bibleref\" href=\"/passage/?search=Matt 3:17\">Matt. 3:17</a>, “This is my beloved Son, with whom I am well pleased.” While “son of God” was used variously by Jews (<a class=\"bibleref\" href=\"/passage/?search=2Sam 7:14\">2 Sam. 7:14</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 2:7\">Ps. 2:7</a>) and Gentiles (<a class=\"bibleref\" href=\"/passage/?search=Mark 15:39\">Mark 15:39</a> note), the Baptist’s witness, that of the last of the prophets of the old order (<a class=\"bibleref\" href=\"/passage/?search=Matt 11:11-Matt 11:14\">Matt. 11:11–14</a>) is clear. Jesus is <i>the</i> Son of God, the “only Son from of the Father” (v. 14).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,1,35", "john,1,36" ],
+  "verses" : [ {
+    "verse" : "john,1,35",
+    "text" : "The next day John was there again with two of his disciples."
+  }, {
+    "verse" : "john,1,36",
+    "text" : "When he saw Jesus passing by, he said, \"Look, the Lamb of God!\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,1,35-john,1,51",
     "id" : 196891,
@@ -39,7 +63,31 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 1:35-John 1:51\">1:35–51</a></b> Jesus calls His first disciples. Since the apostles had unique authority from Christ to bear witness, the witness on which the church would be established (<a class=\"bibleref\" href=\"/passage/?search=Eph 2:20\">Eph. 2:20</a>), it was necessary that they be particularly identified as having been selected by Christ Himself (cf. 15:16).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,1,37", "john,1,38", "john,1,39", "john,1,40", "john,1,41", "john,1,42", "john,1,43", "john,1,44" ],
+  "verses" : [ {
+    "verse" : "john,1,37",
+    "text" : "When the two disciples heard him say this, they followed Jesus."
+  }, {
+    "verse" : "john,1,38",
+    "text" : "Turning around, Jesus saw them following and asked, \"What do you want?\" They said, \"Rabbi\" (which means Teacher), \"where are you staying?\""
+  }, {
+    "verse" : "john,1,39",
+    "text" : "\"Come,\" he replied, \"and you will see.\" So they went and saw where he was staying, and spent that day with him. It was about the tenth hour."
+  }, {
+    "verse" : "john,1,40",
+    "text" : "Andrew, Simon Peter's brother, was one of the two who heard what John had said and who had followed Jesus."
+  }, {
+    "verse" : "john,1,41",
+    "text" : "The first thing Andrew did was to find his brother Simon and tell him, \"We have found the Messiah\" (that is, the Christ)."
+  }, {
+    "verse" : "john,1,42",
+    "text" : "And he brought him to Jesus. Jesus looked at him and said, \"You are Simon son of John. You will be called Cephas\" (which, when translated, is Peter )."
+  }, {
+    "verse" : "john,1,43",
+    "text" : "The next day Jesus decided to leave for Galilee. Finding Philip, he said to him, \"Follow me.\""
+  }, {
+    "verse" : "john,1,44",
+    "text" : "Philip, like Andrew and Peter, was from the town of Bethsaida."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,1,37",
     "id" : 196892,
@@ -47,7 +95,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 1:37\">1:37</a></b> <b>they followed.</b> Traditionally, the students of a Jewish rabbi walked behind him. Jesus’ disciples followed Him physically, but more is in view. Following Jesus takes on deeper levels of meaning throughout this Gospel (<a class=\"bibleref\" href=\"/passage/?search=John 13:36-John 13:38\">13:36–38</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=John 21:15-John 21:22\">21:15–22</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,1,45" ],
+  "verses" : [ {
+    "verse" : "john,1,45",
+    "text" : "Philip found Nathanael and told him, \"We have found the one Moses wrote about in the Law, and about whom the prophets also wrote--Jesus of Nazareth, the son of Joseph.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,1,45",
     "id" : 196893,
@@ -55,7 +106,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 1:45\">1:45</a></b> <b>of whom Moses . . . the prophets wrote.</b> Philip recognizes that all the Old Testament, both Law and Prophets, anticipated a great redemptive work of God to be accomplished by a special anointed One. The Old Testament anticipation of Christ and His work was affirmed by Christ Himself (<a class=\"bibleref\" href=\"/passage/?search=Luke 24:25-Luke 24:27\">Luke 24:25–27</a>, <a class=\"bibleref\" href=\"/passage/?search=Luke 24:44-Luke 24:47\">44–47</a>) and was central in the preaching of the apostles (<a class=\"bibleref\" href=\"/passage/?search=Acts 2:29-Acts 2:32\">Acts 2:29–32</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 3:18\">3:18</a>, <a class=\"bibleref\" href=\"/passage/?search=Acts 3:21\">21</a>, <a class=\"bibleref\" href=\"/passage/?search=Acts 3:24\">24</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 7:52\">7:52</a>, <a class=\"bibleref\" href=\"/passage/?search=Acts 7:53\">53</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 8:30-Acts 8:35\">8:30–35</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 26:22\">26:22</a>, <a class=\"bibleref\" href=\"/passage/?search=Acts 26:23\">23</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 28:23\">28:23</a>).</p><p><b>the son of Joseph.</b> This does not imply a denial of the virgin birth, of which Philip may not in any case have been aware; it is simply a reference identifying Jesus by His town and family (<a class=\"bibleref\" href=\"/passage/?search=Matt 1:24\">Matt. 1:24</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,1,46" ],
+  "verses" : [ {
+    "verse" : "john,1,46",
+    "text" : "\"Nazareth! Can anything good come from there?\" Nathanael asked. \"Come and see,\" said Philip."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,1,46",
     "id" : 196894,
@@ -63,7 +117,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 1:46\">1:46</a></b> <b>Can anything good come out of Nazareth.</b> Nathanael apparently expresses contemporary skepticism that a prophet could arise from Galilee (<a class=\"bibleref\" href=\"/passage/?search=John 7:52\">7:52</a>). Nazareth was an insignificant village, not mentioned in the Old Testament or other Jewish literature of the time.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,1,47", "john,1,48" ],
+  "verses" : [ {
+    "verse" : "john,1,47",
+    "text" : "When Jesus saw Nathanael approaching, he said of him, \"Here is a true Israelite, in whom there is nothing false.\""
+  }, {
+    "verse" : "john,1,48",
+    "text" : "\"How do you know me?\" Nathanael asked. Jesus answered, \"I saw you while you were still under the fig tree before Philip called you.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,1,47",
     "id" : 196895,
@@ -71,7 +131,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 1:47\">1:47</a></b> <b>an Israelite indeed.</b> The phrase is probably meant to call to mind Israel as the people of God, to whom the Messiah was promised. This phrase also alludes to <a class=\"bibleref\" href=\"/passage/?search=John 1:50\">vv. 50</a>, <a class=\"bibleref\" href=\"/passage/?search=John 1:51\">51</a>, where Nathanael is promised an experience similar to that of the first person named Israel (<a class=\"bibleref\" href=\"/passage/?search=Gen 28:12\">Gen. 28:12</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 32:28\">32:28</a>), whose deceitful character was transformed by God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,1,49" ],
+  "verses" : [ {
+    "verse" : "john,1,49",
+    "text" : "Then Nathanael declared, \"Rabbi, you are the Son of God; you are the King of Israel.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,1,49",
     "id" : 196896,
@@ -79,7 +142,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 1:49\">1:49</a></b> <b>Rabbi, you are the Son of God.</b> Nathanael’s confession may seem like an overreaction to Jesus’ supernatural knowledge. But Philip had already indicated to Nathanael that Jesus was the One anticipated by the Law and the Prophets (<a class=\"bibleref\" href=\"/passage/?search=John 1:45\">v. 45</a>). Nathanael comes to Jesus looking for reasons to believe or disbelieve, and he finds Jesus’ knowledge convincing.</p><p><b>King of Israel.</b> This is a title for the Messiah, used in shouts of praise at the Triumphal Entry (<a class=\"bibleref\" href=\"/passage/?search=John 12:13\">12:13</a>), similar to the announcement of the wise men (<a class=\"bibleref\" href=\"/passage/?search=Matt 2:2\">Matt. 2:2</a>) and to the inscription on the cross (19:19).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,1,50" ],
+  "verses" : [ {
+    "verse" : "john,1,50",
+    "text" : "Jesus said, \"You believe because I told you I saw you under the fig tree. You shall see greater things than that.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,1,50",
     "id" : 196897,
@@ -87,7 +153,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 1:50\">1:50</a></b> <b>greater things than these.</b> Jesus’ earthly miracles are signs of His redemptive power and work. The miracles are to be appreciated, not merely for themselves, but for the redemptive realities they promise. Greater than such works is the salvation Christ brings (<a class=\"bibleref\" href=\"/passage/?search=John 1:51\">v. 51</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,1,51" ],
+  "verses" : [ {
+    "verse" : "john,1,51",
+    "text" : "He then added, \"I tell you the truth, you shall see heaven open, and the angels of God ascending and descending on the Son of Man.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,1,51",
     "id" : 196898,

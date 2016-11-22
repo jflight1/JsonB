@@ -1,5 +1,26 @@
 [ {
-  "singleVerses" : [ "luke,6,39", "luke,6,40", "luke,6,41", "luke,6,42", "luke,6,43", "luke,6,44", "luke,6,45" ],
+  "verses" : [ {
+    "verse" : "luke,6,39",
+    "text" : "He also told them this parable: \"Can a blind man lead a blind man? Will they not both fall into a pit?"
+  }, {
+    "verse" : "luke,6,40",
+    "text" : "A student is not above his teacher, but everyone who is fully trained will be like his teacher."
+  }, {
+    "verse" : "luke,6,41",
+    "text" : "\"Why do you look at the speck of sawdust in your brother's eye and pay no attention to the plank in your own eye?"
+  }, {
+    "verse" : "luke,6,42",
+    "text" : "How can you say to your brother, 'Brother, let me take the speck out of your eye,' when you yourself fail to see the plank in your own eye? You hypocrite, first take the plank out of your eye, and then you will see clearly to remove the speck from your brother's eye."
+  }, {
+    "verse" : "luke,6,43",
+    "text" : "\"No good tree bears bad fruit, nor does a bad tree bear good fruit."
+  }, {
+    "verse" : "luke,6,44",
+    "text" : "Each tree is recognized by its own fruit. People do not pick figs from thornbushes, or grapes from briers."
+  }, {
+    "verse" : "luke,6,45",
+    "text" : "The good man brings good things out of the good stored up in his heart, and the evil man brings evil things out of the evil stored up in his heart. For out of the overflow of his heart his mouth speaks."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,6,20-luke,6,49",
     "id" : 196445,
@@ -7,7 +28,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 6:20-Luke 6:49\">6:20–49</a></b> There are many similarities to the Sermon on the Mount (<a class=\"bibleref\" href=\"/passage/?search=Matt 5-Matt 7\">Matt. 5–7</a>), and some see this as a variant account of the same sermon. But this sermon is much shorter, and Luke has parallels to other parts of <a class=\"bibleref\" href=\"/passage/?search=Matt 5-Matt 7\">Matt. 5–7</a> elsewhere. It is more likely that Jesus used much the same material on a number of occasions, a practice common among preachers.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,6,46", "luke,6,47", "luke,6,48", "luke,6,49", "luke,7,1" ],
+  "verses" : [ {
+    "verse" : "luke,6,46",
+    "text" : "\"Why do you call me, 'Lord, Lord,' and do not do what I say?"
+  }, {
+    "verse" : "luke,6,47",
+    "text" : "I will show you what he is like who comes to me and hears my words and puts them into practice."
+  }, {
+    "verse" : "luke,6,48",
+    "text" : "He is like a man building a house, who dug down deep and laid the foundation on rock. When a flood came, the torrent struck that house but could not shake it, because it was well built."
+  }, {
+    "verse" : "luke,6,49",
+    "text" : "But the one who hears my words and does not put them into practice is like a man who built a house on the ground without a foundation. The moment the torrent struck that house, it collapsed and its destruction was complete.\""
+  }, {
+    "verse" : "luke,7,1",
+    "text" : "When Jesus had finished saying all this in the hearing of the people, he entered Capernaum."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,6,46-luke,6,49",
     "id" : 196455,
@@ -15,7 +51,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 6:46-Luke 6:49\">6:46–49</a></b> To call Jesus “Lord” is to say that He should be obeyed.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,7,2" ],
+  "verses" : [ {
+    "verse" : "luke,7,2",
+    "text" : "There a centurion's servant, whom his master valued highly, was sick and about to die."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,7,2",
     "id" : 196456,
@@ -23,7 +62,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 7:2\">7:2</a></b> <b>centurion.</b> Nominally in command of a hundred men, though the actual number varied. The centurions in the New Testament are all men of good character (<a class=\"bibleref\" href=\"/passage/?search=Luke 7:4\">7:4</a>; <a class=\"bibleref\" href=\"/passage/?search=Luke 23:47\">23:47</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 10:2\">Acts 10:2</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 27:43\">27:43</a>).</p><p><b>servant.</b> The Greek word means “slave.” This centurion was a humane person, concerned for his slaves.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,7,3", "luke,7,4" ],
+  "verses" : [ {
+    "verse" : "luke,7,3",
+    "text" : "The centurion heard of Jesus and sent some elders of the Jews to him, asking him to come and heal his servant."
+  }, {
+    "verse" : "luke,7,4",
+    "text" : "When they came to Jesus, they pleaded earnestly with him, \"This man deserves to have you do this,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,7,3",
     "id" : 196457,
@@ -31,7 +76,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 7:3\">7:3</a></b> <b>elders of the Jews.</b> That leading men among the Jews would plead for him shows the regard in which the centurion was held.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,7,5" ],
+  "verses" : [ {
+    "verse" : "luke,7,5",
+    "text" : "because he loves our nation and has built our synagogue.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,7,5",
     "id" : 196458,
@@ -39,7 +87,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 7:5\">7:5</a></b> <b>loves our nation.</b> This attitude was unusual in a conqueror.</p><p><b>built us our synagogue.</b> The centurion was interested in Jewish worship. He may even have been a “God-fearer,” a Gentile who attached himself to the synagogue and worshiped God, but without being circumcised and becoming a Jewish proselyte.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,7,6", "luke,7,7" ],
+  "verses" : [ {
+    "verse" : "luke,7,6",
+    "text" : "So Jesus went with them. He was not far from the house when the centurion sent friends to say to him: \"Lord, don't trouble yourself, for I do not deserve to have you come under my roof."
+  }, {
+    "verse" : "luke,7,7",
+    "text" : "That is why I did not even consider myself worthy to come to you. But say the word, and my servant will be healed."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,7,6-luke,7,8",
     "id" : 196459,
@@ -47,7 +101,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 7:6-Luke 7:8\">7:6–8</a></b> In <a class=\"bibleref\" href=\"/passage/?search=Matt 8:5\">Matt. 8:5</a>, the man comes in person. Matthew appears to mean that what a man does through agents he does himself. For Luke, the messengers were important in that they show the man’s humility (vv. 6, 7).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,7,8" ],
+  "verses" : [ {
+    "verse" : "luke,7,8",
+    "text" : "For I myself am a man under authority, with soldiers under me. I tell this one, 'Go,' and he goes; and that one, 'Come,' and he comes. I say to my servant, 'Do this,' and he does it.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,7,8",
     "id" : 196460,
@@ -55,7 +112,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Luke 7:8\">7:8</a></b> <b>under authority.</b> The centurion was familiar with authority exercised at a distance.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "luke,7,9", "luke,7,10" ],
+  "verses" : [ {
+    "verse" : "luke,7,9",
+    "text" : "When Jesus heard this, he was amazed at him, and turning to the crowd following him, he said, \"I tell you, I have not found such great faith even in Israel.\""
+  }, {
+    "verse" : "luke,7,10",
+    "text" : "Then the men who had been sent returned to the house and found the servant well."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "luke,7,9",
     "id" : 196461,

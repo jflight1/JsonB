@@ -1,8 +1,17 @@
 [ {
-  "singleVerses" : [ "ephesians,1,1", "ephesians,1,2" ],
+  "verses" : [ {
+    "verse" : "ephesians,1,1",
+    "text" : "Paul, an apostle of Christ Jesus by the will of God, To the saints in Ephesus, the faithful in Christ Jesus:"
+  }, {
+    "verse" : "ephesians,1,2",
+    "text" : "Grace and peace to you from God our Father and the Lord Jesus Christ."
+  } ],
   "rsbNotes" : [ ]
 }, {
-  "singleVerses" : [ "ephesians,1,3" ],
+  "verses" : [ {
+    "verse" : "ephesians,1,3",
+    "text" : "Praise be to the God and Father of our Lord Jesus Christ, who has blessed us in the heavenly realms with every spiritual blessing in Christ."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ephesians,1,3-ephesians,1,14",
     "id" : 198478,
@@ -15,7 +24,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eph 1:3\">1:3</a></b> <b>in the heavenly places.</b> Two of the other five instances where this phrase appears in Ephesians have a bearing on its meaning here. Christ was raised from the dead and seated at the right hand of the Father “in the heavenly places,” from where He governs “all things to [for the sake of] the church” (<a class=\"bibleref\" href=\"/passage/?search=Eph 1:22\">v. 22</a>). Moreover, believers have also been raised up and seated with Him “in the heavenly places” (<a class=\"bibleref\" href=\"/passage/?search=Eph 2:6\">2:6</a>). Christ’s victory over death has won believers a series of benefits for which Paul blesses the Father.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ephesians,1,4" ],
+  "verses" : [ {
+    "verse" : "ephesians,1,4",
+    "text" : "For he chose us in him before the creation of the world to be holy and blameless in his sight. In love"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ephesians,1,4",
     "id" : 198480,
@@ -23,7 +35,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eph 1:4\">1:4</a></b> <b>he chose us in him.</b> See “Election and Reprobation” at <a class=\"bibleref\" href=\"/passage/?search=Rom 9:18\">Rom. 9:18</a>. Paul rejoices that God chooses people for a relationship with Himself (<a class=\"bibleref\" href=\"/passage/?search=Rom 8:29-Rom 8:33\">Rom. 8:29–33</a>; <a class=\"bibleref\" href=\"/passage/?search=Rom 9:6-Rom 9:26\">9:6–26</a>; <a class=\"bibleref\" href=\"/passage/?search=Rom 11:5\">11:5</a>, <a class=\"bibleref\" href=\"/passage/?search=Rom 11:7\">7</a>, <a class=\"bibleref\" href=\"/passage/?search=Rom 11:28\">28</a>; <a class=\"bibleref\" href=\"/passage/?search=Rom 16:13\">16:13</a>; <a class=\"bibleref\" href=\"/passage/?search=Col 3:12\">Col. 3:12</a>; <a class=\"bibleref\" href=\"/passage/?search=1Thess 1:4\">1 Thess. 1:4</a>; <a class=\"bibleref\" href=\"/passage/?search=2Thess 2:13\">2 Thess. 2:13</a>; <a class=\"bibleref\" href=\"/passage/?search=Titus 1:1\">Titus 1:1</a>). Some suggest “in him” means God foresaw who would have faith in Christ and elected them. Not only does this add a thought that is not in the text, but elsewhere Paul teaches that the very state of being “in Christ” is something to which one is chosen (<a class=\"bibleref\" href=\"/passage/?search=1Cor 1:26-1Cor 1:31\">1 Cor. 1:26–31</a>). Paul says explicitly that the ground of God’s predestinating love is His own good pleasure (vv. 5, 10; cf. <a class=\"bibleref\" href=\"/passage/?search=Deut 7:7\">Deut. 7:7</a>, <a class=\"bibleref\" href=\"/passage/?search=Deut 7:8\">8</a>), not anything we have done or will do (<a class=\"bibleref\" href=\"/passage/?search=Rom 9:11\">Rom. 9:11</a>, <a class=\"bibleref\" href=\"/passage/?search=Rom 9:16\">16</a>). “In him” means that God’s choice always had in view a fallen people in union with their Redeemer (<a class=\"bibleref\" href=\"/passage/?search=2Tim 1:9\">2 Tim. 1:9</a>). See also <a class=\"bibleref\" href=\"/passage/?search=1Pet 1:18-1Pet 1:21\">1 Pet. 1:18–21</a>; <a class=\"bibleref\" href=\"/passage/?search=Rev 13:8\">Rev. 13:8</a>.</p><p><b>holy and blameless.</b> See 5:27; <a class=\"bibleref\" href=\"/passage/?search=Col 1:22\">Col. 1:22</a>. God intends to bring His elect all the way from spiritual death in sin (2:1–5) to the forgiveness of sins in Christ (1:7), and finally to the elimination of all sin from their experience (<a class=\"bibleref\" href=\"/passage/?search=Rom 8:29\">Rom. 8:29</a>, <a class=\"bibleref\" href=\"/passage/?search=Rom 8:30\">30</a>).</p><p><b>In love.</b> If “in love” belongs with the preceding phrase, it helps explain the nature of the holiness and blamelessness to which believers are called; this is consistent with the use of the phrase elsewhere in Ephesians (3:17; 4:2, 15, 16; 5:2). If it belongs with v. 5, the phrase explains predestination not simply as a matter of God’s decision, but as an act of His love (<a class=\"bibleref\" href=\"/passage/?search=Hos 11:1\">Hos. 11:1</a>). This understanding is probably better. It is consistent with 2:4, 5.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ephesians,1,5" ],
+  "verses" : [ {
+    "verse" : "ephesians,1,5",
+    "text" : "he predestined us to be adopted as his sons through Jesus Christ, in accordance with his pleasure and will--"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ephesians,1,5",
     "id" : 198481,
@@ -31,7 +46,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eph 1:5\">1:5</a></b> <b>adoption.</b> See <a class=\"bibleref\" href=\"/passage/?search=Rom 8:14-Rom 8:17\">Rom. 8:14–17</a>, <a class=\"bibleref\" href=\"/passage/?search=Rom 8:29\">29</a>; <a class=\"bibleref\" href=\"/passage/?search=Gal 3:26\">Gal. 3:26</a>, <a class=\"bibleref\" href=\"/passage/?search=Gal 3:27\">27</a>; “Adoption” at <a class=\"bibleref\" href=\"/passage/?search=Gal 4:5\">Gal. 4:5</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ephesians,1,6" ],
+  "verses" : [ {
+    "verse" : "ephesians,1,6",
+    "text" : "to the praise of his glorious grace, which he has freely given us in the One he loves."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ephesians,1,6",
     "id" : 198482,
@@ -39,7 +57,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eph 1:6\">1:6</a></b> The thought of God’s almighty love leads to an extravagant outpouring of praise (<a class=\"bibleref\" href=\"/passage/?search=Eph 1:12\">vv. 12</a>, <a class=\"bibleref\" href=\"/passage/?search=Eph 1:14\">14</a>) to God, who has not only the power but the will to overcome all obstacles in bringing the spiritually dead into a living relationship with Himself (expanded in <a class=\"bibleref\" href=\"/passage/?search=Eph 2:1-Eph 2:10\">2:1–10</a>).</p><p><b>grace . . . blessed us in the Beloved.</b> This recalls the language of <a class=\"bibleref\" href=\"/passage/?search=Col 1:13\">Col. 1:13</a>, but also brings into view the Redeemer as Himself an object of God’s electing love (<a class=\"bibleref\" href=\"/passage/?search=1Pet 1:18-1Pet 1:21\">1 Pet. 1:18–21</a>; <a class=\"bibleref\" href=\"/passage/?search=Rev 13:8\">Rev. 13:8</a>). The language of grace dominates vv. 6–8.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ephesians,1,7", "ephesians,1,8" ],
+  "verses" : [ {
+    "verse" : "ephesians,1,7",
+    "text" : "In him we have redemption through his blood, the forgiveness of sins, in accordance with the riches of God's grace"
+  }, {
+    "verse" : "ephesians,1,8",
+    "text" : "that he lavished on us with all wisdom and understanding."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ephesians,1,7",
     "id" : 198483,
@@ -47,7 +71,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eph 1:7\">1:7</a></b> See notes <a class=\"bibleref\" href=\"/passage/?search=Col 1:14\">Col. 1:14</a>; <a class=\"bibleref\" href=\"/passage/?search=Col 2:13\">2:13</a>.</p><p><b>redemption.</b> This means deliverance, as from slavery or captivity, by paying a price or ransom. For the redemption that is yet to come, see v. 1.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ephesians,1,9" ],
+  "verses" : [ {
+    "verse" : "ephesians,1,9",
+    "text" : "And he made known to us the mystery of his will according to his good pleasure, which he purposed in Christ,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ephesians,1,9",
     "id" : 198484,
@@ -55,7 +82,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eph 1:9\">1:9</a></b> <b>mystery.</b> See <a class=\"bibleref\" href=\"/passage/?search=Eph 3:3\">3:3</a>, <a class=\"bibleref\" href=\"/passage/?search=Eph 3:5\">5</a>, <a class=\"bibleref\" href=\"/passage/?search=Eph 3:6\">6</a>, <a class=\"bibleref\" href=\"/passage/?search=Eph 3:10\">10</a>, and notes; <a class=\"bibleref\" href=\"/passage/?search=Col 1:27\">Col. 1:27</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ephesians,1,10" ],
+  "verses" : [ {
+    "verse" : "ephesians,1,10",
+    "text" : "to be put into effect when the times will have reached their fulfillment--to bring all things in heaven and on earth together under one head, even Christ."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ephesians,1,10",
     "id" : 198485,
@@ -63,7 +93,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eph 1:10\">1:10</a></b> <b>the fullness of time.</b> This does not refer simply to the future. Christ has already come to bring redemption and adoption (<a class=\"bibleref\" href=\"/passage/?search=Gal 4:4\">Gal. 4:4</a>). By virtue of His death and resurrection, He has already assumed headship over the church, and, though behind the scenes, He already rules the universe (<a class=\"bibleref\" href=\"/passage/?search=Acts 2:32-Acts 2:36\">Acts 2:32–36</a>; <a class=\"bibleref\" href=\"/passage/?search=Col 1:15-Col 1:20\">Col. 1:15–20</a>). Still, a future emphasis dominates. The visible unity of the church is a foretaste of Christ’s eventual visible rule over all things. This is why Paul stresses the unity of Jew and Gentile in the church (vv. 11–14; 2:11–22), and the practice of love among Christians (4:2, 15; 4:32–5:2, 21–23). The theme introduced here in vv. 9–12 is expanded in 3:2–12.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ephesians,1,11", "ephesians,1,12" ],
+  "verses" : [ {
+    "verse" : "ephesians,1,11",
+    "text" : "In him we were also chosen, having been predestined according to the plan of him who works out everything in conformity with the purpose of his will,"
+  }, {
+    "verse" : "ephesians,1,12",
+    "text" : "in order that we, who were the first to hope in Christ, might be for the praise of his glory."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ephesians,1,11-ephesians,1,14",
     "id" : 198486,
@@ -76,7 +112,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eph 1:11\">1:11</a></b> <b>all things . . . his will.</b> A sweeping statement on the extent of God’s will.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ephesians,1,13" ],
+  "verses" : [ {
+    "verse" : "ephesians,1,13",
+    "text" : "And you also were included in Christ when you heard the word of truth, the gospel of your salvation. Having believed, you were marked in him with a seal, the promised Holy Spirit,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ephesians,1,13",
     "id" : 198488,
@@ -84,7 +123,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eph 1:13\">1:13</a></b> <b>sealed.</b> Like the indelible impression made by a king’s signet ring, the Holy Spirit is an inward mark of God’s ownership of His people. See “Salvation” at <a class=\"bibleref\" href=\"/passage/?search=2Cor 6:5\">2 Cor. 6:5</a>.</p><p><b>the promised Holy Spirit.</b> As Jesus says in <a class=\"bibleref\" href=\"/passage/?search=Luke 24:49\">Luke 24:49</a>, the Holy Spirit is the promise of the Father. Remarkably, this promise is extended to Gentiles, as well as Jews, on the basis of their trusting Christ (<a class=\"bibleref\" href=\"/passage/?search=Ezek 36:26\">Ezek. 36:26</a>, <a class=\"bibleref\" href=\"/passage/?search=Ezek 36:27\">27</a>; <a class=\"bibleref\" href=\"/passage/?search=Joel 2:28\">Joel 2:28</a>; <a class=\"bibleref\" href=\"/passage/?search=John 14-John 16\">John 14–16</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 1:4\">Acts 1:4</a>, <a class=\"bibleref\" href=\"/passage/?search=Acts 1:5\">5</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 2:33\">2:33</a>, <a class=\"bibleref\" href=\"/passage/?search=Acts 2:38\">38</a>, <a class=\"bibleref\" href=\"/passage/?search=Acts 2:39\">39</a>; <a class=\"bibleref\" href=\"/passage/?search=Gal 3:14\">Gal. 3:14</a>; <a class=\"bibleref\" href=\"/passage/?search=Gal 4:6\">4:6</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ephesians,1,14" ],
+  "verses" : [ {
+    "verse" : "ephesians,1,14",
+    "text" : "who is a deposit guaranteeing our inheritance until the redemption of those who are God's possession--to the praise of his glory."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ephesians,1,14",
     "id" : 198489,
@@ -92,7 +134,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eph 1:14\">1:14</a></b> <b>guarantee.</b> The Spirit is not only a fulfillment of God’s promise to indwell His people, but also is a guarantee that He will bring them to their final inheritance. As a down payment or first installment on their full redemption, the Spirit is a foretaste of the glory of the age to come (<a class=\"bibleref\" href=\"/passage/?search=Rom 8:18-Rom 8:23\">Rom. 8:18–23</a>).</p><p><b>possession.</b> The Old Testament teaches that God chose a people as His inheritance (<a class=\"bibleref\" href=\"/passage/?search=Deut 32:9\">Deut. 32:9</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 33:12\">Ps. 33:12</a>) and purchased them out of bondage to become a prized possession (<a class=\"bibleref\" href=\"/passage/?search=Exod 19:5\">Ex. 19:5</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 7:6\">Deut. 7:6</a>). Peter agrees with Paul’s striking application of this idea to Gentiles as well as to Jews (<a class=\"bibleref\" href=\"/passage/?search=1Pet 2:9\">1 Pet. 2:9</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ephesians,1,15", "ephesians,1,16" ],
+  "verses" : [ {
+    "verse" : "ephesians,1,15",
+    "text" : "For this reason, ever since I heard about your faith in the Lord Jesus and your love for all the saints,"
+  }, {
+    "verse" : "ephesians,1,16",
+    "text" : "I have not stopped giving thanks for you, remembering you in my prayers."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ephesians,1,15",
     "id" : 198490,
@@ -100,7 +148,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eph 1:15\">1:15</a></b> <b>because I have heard.</b> See Introduction: Date and Occasion. Paul had ministered in Ephesus for over two years, but the time of writing may be as much as five years later. The church had grown considerably since then. It may be that Paul mentions people whose faith and love he knows only by report because Ephesians was a circular letter for several churches.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ephesians,1,17" ],
+  "verses" : [ {
+    "verse" : "ephesians,1,17",
+    "text" : "I keep asking that the God of our Lord Jesus Christ, the glorious Father, may give you the Spirit of wisdom and revelation, so that you may know him better."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ephesians,1,17",
     "id" : 198491,
@@ -108,7 +159,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eph 1:17\">1:17</a></b> <b>wisdom and of revelation.</b> See “Illumination and Conviction” at <a class=\"bibleref\" href=\"/passage/?search=1Cor 2:10\">1 Cor. 2:10</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ephesians,1,18" ],
+  "verses" : [ {
+    "verse" : "ephesians,1,18",
+    "text" : "I pray also that the eyes of your heart may be enlightened in order that you may know the hope to which he has called you, the riches of his glorious inheritance in the saints,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ephesians,1,18",
     "id" : 198492,
@@ -116,7 +170,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eph 1:18\">1:18</a></b> <b>that you may know.</b> See “True Knowledge of God” at <a class=\"bibleref\" href=\"/passage/?search=Jer 9:24\">Jer. 9:24</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ephesians,1,19" ],
+  "verses" : [ {
+    "verse" : "ephesians,1,19",
+    "text" : "and his incomparably great power for us who believe. That power is like the working of his mighty strength,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ephesians,1,19-ephesians,1,23",
     "id" : 198493,
@@ -124,7 +181,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eph 1:19-Eph 1:23\">1:19–23</a></b> These verses distill the New Testament’s teaching on the resurrection and enthronement of Jesus (<a class=\"bibleref\" href=\"/passage/?search=Col 1:18\">Col. 1:18</a> note). They also make two vital contributions to understanding Jesus’ resurrection and the status of believers. First, the same power that raised Jesus from the dead is at work in believers (2:4, 5; 3:16, 17). Second, Christ enjoys His position as head over everything for the sake of the church. Not only is Christ at the most exalted position in the universe, He is there representing believers (2:6; <a class=\"bibleref\" href=\"/passage/?search=Col 3:3\">Col. 3:3</a>) and governing the universe for their sake. The principles of conduct in Ephesians emphasize that authority exists for the sake of service. Jesus’ majestic use of power and authority in the interest of His people is the Christian’s model (4:1, 2, 7–13; 4:32–5:2, 22–33). Paul reminds his Gentile readers of two specific ways Christ’s power has blessed them: He brought them from death to life (2:1–10), and from alienation from God’s people to inclusion with them (2:11–22).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ephesians,1,20" ],
+  "verses" : [ {
+    "verse" : "ephesians,1,20",
+    "text" : "which he exerted in Christ when he raised him from the dead and seated him at his right hand in the heavenly realms,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ephesians,1,20",
     "id" : 198494,
@@ -132,7 +192,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Eph 1:20\">1:20</a></b> <b>seated him . . . in the heavenly places.</b> See “The Ascension of Jesus” at <a class=\"bibleref\" href=\"/passage/?search=Luke 24:51\">Luke 24:51</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "ephesians,1,21", "ephesians,1,22", "ephesians,1,23" ],
+  "verses" : [ {
+    "verse" : "ephesians,1,21",
+    "text" : "far above all rule and authority, power and dominion, and every title that can be given, not only in the present age but also in the one to come."
+  }, {
+    "verse" : "ephesians,1,22",
+    "text" : "And God placed all things under his feet and appointed him to be head over everything for the church,"
+  }, {
+    "verse" : "ephesians,1,23",
+    "text" : "which is his body, the fullness of him who fills everything in every way."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "ephesians,1,21",
     "id" : 198495,

@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "psalms,134,1", "psalms,134,2" ],
+  "verses" : [ {
+    "verse" : "psalms,134,1",
+    "text" : "Praise the LORD, all you servants of the LORD who minister by night in the house of the LORD."
+  }, {
+    "verse" : "psalms,134,2",
+    "text" : "Lift up your hands in the sanctuary and praise the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,134,1-psalms,134,3",
     "id" : 191491,
@@ -12,7 +18,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 134:1\">134:1</a></b> <b>servants of the <span class=\"small-caps\">Lord</span></b>. Priests or Levites who tend the temple at night.</p><p><b>house of the <span class=\"small-caps\">Lord.</span></b> The temple. See note <a class=\"bibleref\" href=\"/passage/?search=Ps 2:6\">Ps. 2:6</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,134,3" ],
+  "verses" : [ {
+    "verse" : "psalms,134,3",
+    "text" : "May the LORD, the Maker of heaven and earth, bless you from Zion."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,134,3",
     "id" : 191493,

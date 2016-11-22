@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,7,1" ],
+  "verses" : [ {
+    "verse" : "psalms,7,1",
+    "text" : "O LORD my God, I take refuge in you; save and deliver me from all who pursue me,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,7,1-psalms,7,17",
     "id" : 190239,
@@ -7,7 +10,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 7\">Ps. 7</a></b> A lament and psalm of refuge by an innocent person beset by enemies. As one falsely accused of murder could find sanctuary in the house of God and appeal his case to God’s judgment, so the psalmist commits his case to God. His protestations of innocence refer to specific charges and are not a claim to be sinless. See <a class=\"bibleref\" href=\"/passage/?search=Ps 11\">Ps. 11</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 17\">17</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 26\">26</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 27\">27</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 31\">31</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 71\">71</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,7,2", "psalms,7,3", "psalms,7,4" ],
+  "verses" : [ {
+    "verse" : "psalms,7,2",
+    "text" : "or they will tear me like a lion and rip me to pieces with no one to rescue me."
+  }, {
+    "verse" : "psalms,7,3",
+    "text" : "O LORD my God, if I have done this and there is guilt on my hands-"
+  }, {
+    "verse" : "psalms,7,4",
+    "text" : "if I have done evil to him who is at peace with me or without cause have robbed my foe-"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,7,2",
     "id" : 190240,
@@ -15,7 +27,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 7:2\">7:2</a></b> <b>like a lion.</b> Though not found in Israel today, lions were plentiful there in ancient times. The lion often symbolized power, cruelty, and ruthlessness (<a class=\"bibleref\" href=\"/passage/?search=Isa 5:29\">Is. 5:29</a>; <a class=\"bibleref\" href=\"/passage/?search=Nah 2:11\">Nah. 2:11</a>, <a class=\"bibleref\" href=\"/passage/?search=Nah 2:12\">12</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,7,5" ],
+  "verses" : [ {
+    "verse" : "psalms,7,5",
+    "text" : "then let my enemy pursue and overtake me; let him trample my life to the ground and make me sleep in the dust. Selah"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,7,5",
     "id" : 190241,
@@ -23,7 +38,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 7:5\">7:5</a></b> <b>let the enemy.</b> He is not afraid to invoke a curse on himself, since he knows he is innocent.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,7,6", "psalms,7,7" ],
+  "verses" : [ {
+    "verse" : "psalms,7,6",
+    "text" : "Arise, O LORD, in your anger; rise up against the rage of my enemies. Awake, my God; decree justice."
+  }, {
+    "verse" : "psalms,7,7",
+    "text" : "Let the assembled peoples gather around you. Rule over them from on high;"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,7,6",
     "id" : 190242,
@@ -31,7 +52,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 7:6\">7:6</a></b> <b>Arise.</b> See <a class=\"bibleref\" href=\"/passage/?search=Ps 3:7\">3:7</a> note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,7,8", "psalms,7,9", "psalms,7,10", "psalms,7,11", "psalms,7,12", "psalms,7,13" ],
+  "verses" : [ {
+    "verse" : "psalms,7,8",
+    "text" : "let the LORD judge the peoples. Judge me, O LORD, according to my righteousness, according to my integrity, O Most High."
+  }, {
+    "verse" : "psalms,7,9",
+    "text" : "O righteous God, who searches minds and hearts, bring to an end the violence of the wicked and make the righteous secure."
+  }, {
+    "verse" : "psalms,7,10",
+    "text" : "My shield is God Most High, who saves the upright in heart."
+  }, {
+    "verse" : "psalms,7,11",
+    "text" : "God is a righteous judge, a God who expresses his wrath every day."
+  }, {
+    "verse" : "psalms,7,12",
+    "text" : "If he does not relent, he will sharpen his sword; he will bend and string his bow."
+  }, {
+    "verse" : "psalms,7,13",
+    "text" : "He has prepared his deadly weapons; he makes ready his flaming arrows."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,7,8",
     "id" : 190243,
@@ -39,7 +78,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 7:8\">7:8</a></b> <b>judge.</b> There is a judicial setting in this psalm of refuge. God must judge between the psalmist and his opponents.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,7,14", "psalms,7,15", "psalms,7,16", "psalms,7,17" ],
+  "verses" : [ {
+    "verse" : "psalms,7,14",
+    "text" : "He who is pregnant with evil and conceives trouble gives birth to disillusionment."
+  }, {
+    "verse" : "psalms,7,15",
+    "text" : "He who digs a hole and scoops it out falls into the pit he has made."
+  }, {
+    "verse" : "psalms,7,16",
+    "text" : "The trouble he causes recoils on himself; his violence comes down on his own head."
+  }, {
+    "verse" : "psalms,7,17",
+    "text" : "I will give thanks to the LORD because of his righteousness and will sing praise to the name of the LORD Most High."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,7,14-psalms,7,15",
     "id" : 190244,

@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "genesis,32,13" ],
+  "verses" : [ {
+    "verse" : "genesis,32,13",
+    "text" : "He spent the night there, and from what he had with him he selected a gift for his brother Esau:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,25,19-genesis,35,29",
     "id" : 185165,
@@ -12,7 +15,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 32:13\">32:13 a</a></b> <b>present.</b> The Hebrew here connotes tribute, a gift expressing loyalty to a superior. See notes <a class=\"bibleref\" href=\"/passage/?search=Gen 33:3\">33:3</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 33:4\">4</a> and <a class=\"bibleref\" href=\"/passage/?search=Gen 33:11\">33:11</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,32,14", "genesis,32,15", "genesis,32,16", "genesis,32,17", "genesis,32,18", "genesis,32,19" ],
+  "verses" : [ {
+    "verse" : "genesis,32,14",
+    "text" : "two hundred female goats and twenty male goats, two hundred ewes and twenty rams,"
+  }, {
+    "verse" : "genesis,32,15",
+    "text" : "thirty female camels with their young, forty cows and ten bulls, and twenty female donkeys and ten male donkeys."
+  }, {
+    "verse" : "genesis,32,16",
+    "text" : "He put them in the care of his servants, each herd by itself, and said to his servants, \"Go ahead of me, and keep some space between the herds.\""
+  }, {
+    "verse" : "genesis,32,17",
+    "text" : "He instructed the one in the lead: \"When my brother Esau meets you and asks, 'To whom do you belong, and where are you going, and who owns all these animals in front of you?'"
+  }, {
+    "verse" : "genesis,32,18",
+    "text" : "then you are to say, 'They belong to your servant Jacob. They are a gift sent to my lord Esau, and he is coming behind us.'\""
+  }, {
+    "verse" : "genesis,32,19",
+    "text" : "He also instructed the second, the third and all the others who followed the herds: \"You are to say the same thing to Esau when you meet him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,32,14-genesis,32,15",
     "id" : 185305,
@@ -20,7 +41,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 32:14\">32:14</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 32:15\">15</a></b> Five hundred fifty animals was an extravagant gift.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,32,20", "genesis,32,21" ],
+  "verses" : [ {
+    "verse" : "genesis,32,20",
+    "text" : "And be sure to say, 'Your servant Jacob is coming behind us.'\" For he thought, \"I will pacify him with these gifts I am sending on ahead; later, when I see him, perhaps he will receive me.\""
+  }, {
+    "verse" : "genesis,32,21",
+    "text" : "So Jacob's gifts went on ahead of him, but he himself spent the night in the camp."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,32,20",
     "id" : 185306,
@@ -28,7 +55,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 32:20\">32:20</a></b> <b>appease him.</b> Lit. “cover his face,” an expression meaning the covering over of guilt. Jacob was painfully aware that he had sinned against his brother.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,32,22", "genesis,32,23" ],
+  "verses" : [ {
+    "verse" : "genesis,32,22",
+    "text" : "That night Jacob got up and took his two wives, his two maidservants and his eleven sons and crossed the ford of the Jabbok."
+  }, {
+    "verse" : "genesis,32,23",
+    "text" : "After he had sent them across the stream, he sent over all his possessions."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,32,22-genesis,32,32",
     "id" : 185307,
@@ -36,7 +69,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 32:22-Gen 32:32\">32:22–32</a></b> In wrestling with Jacob, God appeared in human form and deprived Jacob of his natural strength, but Jacob emerged the victor by clinging to God for blessing.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,32,24" ],
+  "verses" : [ {
+    "verse" : "genesis,32,24",
+    "text" : "So Jacob was left alone, and a man wrestled with him till daybreak."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,32,24",
     "id" : 185308,
@@ -44,7 +80,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 32:24\">32:24 a</a></b> <b>man wrestled with him.</b> This mysterious Man was a theophany, a visible (and in this case tangible) manifestation of the God who is intrinsically invisible, the Angel of the Lord (<a class=\"bibleref\" href=\"/passage/?search=Gen 16:7\">16:7</a> note; <a class=\"bibleref\" href=\"/passage/?search=Hos 12:4\">Hos. 12:4</a>). The Lord unexpectedly initiated the match.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,32,25", "genesis,32,26" ],
+  "verses" : [ {
+    "verse" : "genesis,32,25",
+    "text" : "When the man saw that he could not overpower him, he touched the socket of Jacob's hip so that his hip was wrenched as he wrestled with the man."
+  }, {
+    "verse" : "genesis,32,26",
+    "text" : "Then the man said, \"Let me go, for it is daybreak.\" But Jacob replied, \"I will not let you go unless you bless me.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,32,25",
     "id" : 185309,
@@ -52,7 +94,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 32:25\">32:25</a></b> <b>he did not prevail.</b> Though Jacob was apparently a man of considerable strength (<a class=\"bibleref\" href=\"/passage/?search=Gen 29:2\">29:2</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 29:10\">10</a>), the Angel of the Lord accommodated His strength to Jacob’s.</p><p><b>touched.</b> God dislocated Jacob’s hip, the wrestler’s pivot of strength (<a class=\"bibleref\" href=\"/passage/?search=Gen 29:31\">v. 31</a>). Having previously depended upon his wits and strength, Jacob’s natural powers were now crippled. Every step he would take in the future would remind him of his dependence upon divine grace.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,32,27" ],
+  "verses" : [ {
+    "verse" : "genesis,32,27",
+    "text" : "The man asked him, \"What is your name?Jacob,\" he answered."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,32,27",
     "id" : 185310,
@@ -60,7 +105,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 32:27\">32:27</a></b> <b>What is your name.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Gen 3:9\">3:9</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,32,28" ],
+  "verses" : [ {
+    "verse" : "genesis,32,28",
+    "text" : "Then the man said, \"Your name will no longer be Jacob, but Israel, because you have struggled with God and with men and have overcome.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,32,28",
     "id" : 185311,
@@ -68,7 +116,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 32:28\">32:28</a></b> <b>Your name.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Gen 17:6\">17:6</a>.</p><p><b>Israel.</b> See text note. The new name indicates that the elect patriarch had matured in his faith.</p><p><b>striven with God.</b> The “man” is implicitly identified as God Himself (v. 30).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,32,29" ],
+  "verses" : [ {
+    "verse" : "genesis,32,29",
+    "text" : "Jacob said, \"Please tell me your name.\" But he replied, \"Why do you ask my name?\" Then he blessed him there."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,32,29",
     "id" : 185312,
@@ -76,7 +127,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 32:29\">32:29</a></b> <b>Why is it that you ask.</b> In ancient times, a name was thought to express essential nature as well as identity. The divine name partakes of the sacredness of God’s being (<a class=\"bibleref\" href=\"/passage/?search=Judg 13:18\">Judg. 13:18</a>), and was to be reverenced (<a class=\"bibleref\" href=\"/passage/?search=Exod 20:7\">Ex. 20:7</a>). The pagans believed that knowing the name of a god imparted ability to invoke that deity’s power. Here, however, the divine name is withheld (cf. 28:13; <a class=\"bibleref\" href=\"/passage/?search=Hos 12:5\">Hos. 12:5</a>), showing that the Lord’s revelation of His name is a gracious act of divine initiative, not a response to human effort to invoke and control God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,32,30", "genesis,32,31" ],
+  "verses" : [ {
+    "verse" : "genesis,32,30",
+    "text" : "So Jacob called the place Peniel, saying, \"It is because I saw God face to face, and yet my life was spared.\""
+  }, {
+    "verse" : "genesis,32,31",
+    "text" : "The sun rose above him as he passed Peniel, and he was limping because of his hip."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,32,30",
     "id" : 185313,
@@ -84,7 +141,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 32:30\">32:30</a></b> <b>Peniel.</b> See text note. Peniel was located on the River Jabbok near the modern Tulul edh-Dhahab. The town was destroyed by Gideon (<a class=\"bibleref\" href=\"/passage/?search=Judg 8:8\">Judg. 8:8</a>) and later fortified by Jeroboam I (<a class=\"bibleref\" href=\"/passage/?search=1Kgs 12:25\">1 Kin. 12:25</a>).</p><p><b>delivered.</b> Jacob’s preservation during his “face-to-face” meeting with the almighty God confirmed his preservation during his imminent encounter with Esau, a mere human being (cf. v. 11).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,32,32" ],
+  "verses" : [ {
+    "verse" : "genesis,32,32",
+    "text" : "Therefore to this day the Israelites do not eat the tendon attached to the socket of the hip, because the socket of Jacob's hip was touched near the tendon."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,32,32",
     "id" : 185314,
@@ -92,7 +152,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 32:32\">32:32</a></b> <b>to this day.</b> The restriction against eating the sciatic tendon, mentioned elsewhere only in extrabiblical Jewish literature, commemorated this foundational event in the nation’s history.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,33,1", "genesis,33,2" ],
+  "verses" : [ {
+    "verse" : "genesis,33,1",
+    "text" : "Jacob looked up and there was Esau, coming with his four hundred men; so he divided the children among Leah, Rachel and the two maidservants."
+  }, {
+    "verse" : "genesis,33,2",
+    "text" : "He put the maidservants and their children in front, Leah and her children next, and Rachel and Joseph in the rear."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,33,1",
     "id" : 185315,
@@ -100,7 +166,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 33:1\">33:1</a></b> <b>four hundred men.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Gen 32:6\">32:6</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,33,3", "genesis,33,4" ],
+  "verses" : [ {
+    "verse" : "genesis,33,3",
+    "text" : "He himself went on ahead and bowed down to the ground seven times as he approached his brother."
+  }, {
+    "verse" : "genesis,33,4",
+    "text" : "But Esau ran to meet Jacob and embraced him; he threw his arms around his neck and kissed him. And they wept."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,33,3-genesis,33,4",
     "id" : 185316,
@@ -108,7 +180,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 33:3\">33:3</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 33:4\">4</a></b> Jacob greeted Esau as a vassal greets his patron in the ceremony of a royal court, with the deference appropriate to a superior—note the sevenfold obeisance (common practice in ancient Near Eastern court protocol, <a class=\"bibleref\" href=\"/passage/?search=Gen 33:3\">v. 3</a>), the submissive address of a “servant” (<a class=\"bibleref\" href=\"/passage/?search=Gen 33:5\">v. 5</a>) to his “lord” (<a class=\"bibleref\" href=\"/passage/?search=Gen 33:8\">vv. 8</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 33:13\">13</a>), and the presentation of gifts of homage (<a class=\"bibleref\" href=\"/passage/?search=Gen 33:10\">vv. 10</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 33:11\">11</a>). In contrast, Esau greeted Jacob as one brother greets another after a long separation (<a class=\"bibleref\" href=\"/passage/?search=Gen 33:4\">vv. 4</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 33:9\">9</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,33,5", "genesis,33,6", "genesis,33,7", "genesis,33,8", "genesis,33,9" ],
+  "verses" : [ {
+    "verse" : "genesis,33,5",
+    "text" : "Then Esau looked up and saw the women and children. \"Who are these with you?\" he asked. Jacob answered, \"They are the children God has graciously given your servant.\""
+  }, {
+    "verse" : "genesis,33,6",
+    "text" : "Then the maidservants and their children approached and bowed down."
+  }, {
+    "verse" : "genesis,33,7",
+    "text" : "Next, Leah and her children came and bowed down. Last of all came Joseph and Rachel, and they too bowed down."
+  }, {
+    "verse" : "genesis,33,8",
+    "text" : "Esau asked, \"What do you mean by all these droves I met?To find favor in your eyes, my lord,\" he said."
+  }, {
+    "verse" : "genesis,33,9",
+    "text" : "But Esau said, \"I already have plenty, my brother. Keep what you have for yourself.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,33,5",
     "id" : 185317,
@@ -116,7 +203,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 33:5\">33:5</a></b> <b>graciously given.</b> As Jacob remembered his troubled history, he confessed God’s unmerited kindness in giving him children (<a class=\"bibleref\" href=\"/passage/?search=Gen 29:31-Gen 30:24\">29:31–30:24</a>) and prosperity (<a class=\"bibleref\" href=\"/passage/?search=Gen 30:25-Gen 31:55\">30:25–31:55</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,33,10" ],
+  "verses" : [ {
+    "verse" : "genesis,33,10",
+    "text" : "\"No, please!\" said Jacob. \"If I have found favor in your eyes, accept this gift from me. For to see your face is like seeing the face of God, now that you have received me favorably."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,33,10",
     "id" : 185318,
@@ -124,7 +214,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 33:10\">33:10</a></b> <b>present.</b> See <a class=\"bibleref\" href=\"/passage/?search=Gen 32:13\">32:13</a> and note.</p><p><b>like seeing the face of God.</b> As at Peniel, when Jacob saw God’s face by theophany and his life was graciously spared (<a class=\"bibleref\" href=\"/passage/?search=Gen 32:30\">32:30</a>), so also now he saw the dreaded face of Esau and was graciously received.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,33,11", "genesis,33,12", "genesis,33,13" ],
+  "verses" : [ {
+    "verse" : "genesis,33,11",
+    "text" : "Please accept the present that was brought to you, for God has been gracious to me and I have all I need.\" And because Jacob insisted, Esau accepted it."
+  }, {
+    "verse" : "genesis,33,12",
+    "text" : "Then Esau said, \"Let us be on our way; I'll accompany you.\""
+  }, {
+    "verse" : "genesis,33,13",
+    "text" : "But Jacob said to him, \"My lord knows that the children are tender and that I must care for the ewes and cows that are nursing their young. If they are driven hard just one day, all the animals will die."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,33,11",
     "id" : 185319,
@@ -132,7 +231,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 33:11\">33:11</a></b> <b>my blessing.</b> Jacob’s statement recalls his earlier theft of the paternal blessing in <a class=\"bibleref\" href=\"/passage/?search=Gen 27\">ch. 27</a>. Jacob here offered recompense out of the many blessings God had given him.</p><p><b>urged . . . took.</b> The reconciliation was sealed by accepting the gift.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,33,14", "genesis,33,15", "genesis,33,16", "genesis,33,17" ],
+  "verses" : [ {
+    "verse" : "genesis,33,14",
+    "text" : "So let my lord go on ahead of his servant, while I move along slowly at the pace of the droves before me and that of the children, until I come to my lord in Seir.\""
+  }, {
+    "verse" : "genesis,33,15",
+    "text" : "Esau said, \"Then let me leave some of my men with you.But why do that?\" Jacob asked. \"Just let me find favor in the eyes of my lord.\""
+  }, {
+    "verse" : "genesis,33,16",
+    "text" : "So that day Esau started on his way back to Seir."
+  }, {
+    "verse" : "genesis,33,17",
+    "text" : "Jacob, however, went to Succoth, where he built a place for himself and made shelters for his livestock. That is why the place is called Succoth."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,33,14",
     "id" : 185320,
@@ -140,7 +251,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 33:14\">33:14</a></b> <b>until I come to . . . Seir.</b> Given his intention to travel to Succoth (<a class=\"bibleref\" href=\"/passage/?search=Gen 33:17\">v. 17</a>), Jacob may have been speaking deceptively, but more probably Esau knew that this was Jacob’s polite way of not contradicting him (cf. <a class=\"bibleref\" href=\"/passage/?search=Gen 23:11\">23:11</a> note). Though reconciled, the brothers would live apart.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,33,18", "genesis,33,19" ],
+  "verses" : [ {
+    "verse" : "genesis,33,18",
+    "text" : "After Jacob came from Paddan Aram, he arrived safely at the city of Shechem in Canaan and camped within sight of the city."
+  }, {
+    "verse" : "genesis,33,19",
+    "text" : "For a hundred pieces of silver, he bought from the sons of Hamor, the father of Shechem, the plot of ground where he pitched his tent."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,33,18-genesis,35,29",
     "id" : 185321,
@@ -148,7 +265,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 33:18-Gen 35:29\">33:18–35:29</a></b> This final section of “the account of Isaac” (Introduction: Outline), like the closing section in “the account of Abraham” (<a class=\"bibleref\" href=\"/passage/?search=Gen 22:20-Gen 25:11\">22:20–25:11</a>), records the transition of patriarchies. It is structured according to Jacob’s itinerary back in the land, featuring deaths at various sites (which mark the passage of Isaac’s generation), and important episodes in the “account” such as the sins of Reuben, Simeon, and Levi.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,33,20" ],
+  "verses" : [ {
+    "verse" : "genesis,33,20",
+    "text" : "There he set up an altar and called it El Elohe Israel."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,33,20",
     "id" : 185322,
@@ -156,7 +276,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 33:20\">33:20</a></b> <b>There he erected an altar.</b> Jacob built his altar at Shechem where Abraham built his first altar in the Promised Land (see <a class=\"bibleref\" href=\"/passage/?search=Gen 12:6\">12:6</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 12:7\">7</a>). See also 28:20–22.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,34,1" ],
+  "verses" : [ {
+    "verse" : "genesis,34,1",
+    "text" : "Now Dinah, the daughter Leah had borne to Jacob, went out to visit the women of the land."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,34,1-genesis,34,31",
     "id" : 185323,
@@ -164,7 +287,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 34\">34:1–31</a></b> The threat to the covenant community at Shechem was severe. Hamor’s proposal would have meant the assimilation of Jacob’s family into the surrounding peoples (vv. 8–10; <a class=\"bibleref\" href=\"/passage/?search=Num 25:1-Num 25:3\">Num. 25:1–3</a> note).</p><p>The transition from Jacob’s act of worship (33:20) to the depraved behavior of ch. 34 is striking. Instead of residing at Shechem (33:18, 19), perhaps Jacob should have fulfilled his vow at Bethel (28:22; 31:13; 35:1). There is no mention of God in this chapter and no separation from idolatry (35:1–5), a sad commentary on Jacob’s spiritual leadership (35:4 note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,34,2", "genesis,34,3", "genesis,34,4", "genesis,34,5", "genesis,34,6" ],
+  "verses" : [ {
+    "verse" : "genesis,34,2",
+    "text" : "When Shechem son of Hamor the Hivite, the ruler of that area, saw her, he took her and violated her."
+  }, {
+    "verse" : "genesis,34,3",
+    "text" : "His heart was drawn to Dinah daughter of Jacob, and he loved the girl and spoke tenderly to her."
+  }, {
+    "verse" : "genesis,34,4",
+    "text" : "And Shechem said to his father Hamor, \"Get me this girl as my wife.\""
+  }, {
+    "verse" : "genesis,34,5",
+    "text" : "When Jacob heard that his daughter Dinah had been defiled, his sons were in the fields with his livestock; so he kept quiet about it until they came home."
+  }, {
+    "verse" : "genesis,34,6",
+    "text" : "Then Shechem's father Hamor went out to talk with Jacob."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,34,2",
     "id" : 185324,
@@ -172,7 +310,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 34:2\">34:2</a></b> <b>Hivite.</b> See <a class=\"bibleref\" href=\"/passage/?search=Gen 9:25\">9:25</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 10:15\">10:15</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 10:17\">17</a> and notes.</p><p><b>saw . . . seized . . . humiliated.</b> This was forcible rape; Dinah did not consent. The Hebrew word translated “humiliated” is rendered “violated” in <a class=\"bibleref\" href=\"/passage/?search=2Sam 13:12\">2 Sam. 13:12</a>, <a class=\"bibleref\" href=\"/passage/?search=2Sam 13:14\">14</a>, <a class=\"bibleref\" href=\"/passage/?search=2Sam 13:22\">22</a>, <a class=\"bibleref\" href=\"/passage/?search=2Sam 13:32\">32</a>. The sequence “saw . . . seized” recalls 3:6 and 6:2.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,34,7", "genesis,34,8" ],
+  "verses" : [ {
+    "verse" : "genesis,34,7",
+    "text" : "Now Jacob's sons had come in from the fields as soon as they heard what had happened. They were filled with grief and fury, because Shechem had done a disgraceful thing in Israel by lying with Jacob's daughter-a thing that should not be done."
+  }, {
+    "verse" : "genesis,34,8",
+    "text" : "But Hamor said to them, \"My son Shechem has his heart set on your daughter. Please give her to him as his wife."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,34,7",
     "id" : 185325,
@@ -180,7 +324,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 34:7\">34:7</a></b> <b>in Israel.</b> The nation of Israel. This description assumes the later development of the nation from the sons of Israel (cf. <a class=\"bibleref\" href=\"/passage/?search=Gen 49:28\">49:28</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,34,9", "genesis,34,10", "genesis,34,11" ],
+  "verses" : [ {
+    "verse" : "genesis,34,9",
+    "text" : "Intermarry with us; give us your daughters and take our daughters for yourselves."
+  }, {
+    "verse" : "genesis,34,10",
+    "text" : "You can settle among us; the land is open to you. Live in it, trade in it, and acquire property in it.\""
+  }, {
+    "verse" : "genesis,34,11",
+    "text" : "Then Shechem said to Dinah's father and brothers, \"Let me find favor in your eyes, and I will give you whatever you ask."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,34,9",
     "id" : 185326,
@@ -188,7 +341,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 34:9\">34:9</a></b> <b>Make marriages.</b> See note on <a class=\"bibleref\" href=\"/passage/?search=Gen 34\">ch. 34</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,34,12" ],
+  "verses" : [ {
+    "verse" : "genesis,34,12",
+    "text" : "Make the price for the bride and the gift I am to bring as great as you like, and I'll pay whatever you ask me. Only give me the girl as my wife.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,34,12",
     "id" : 185327,
@@ -196,7 +352,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 34:12\">34:12</a></b> <b>bride price.</b> This was not the dowry given by the bride’s family to the groom, but rather a reciprocal gift given by the groom to the bride’s father (<a class=\"bibleref\" href=\"/passage/?search=Gen 24:53\">24:53</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 18:25\">1 Sam. 18:25</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,34,13", "genesis,34,14" ],
+  "verses" : [ {
+    "verse" : "genesis,34,13",
+    "text" : "Because their sister Dinah had been defiled, Jacob's sons replied deceitfully as they spoke to Shechem and his father Hamor."
+  }, {
+    "verse" : "genesis,34,14",
+    "text" : "They said to them, \"We can't do such a thing; we can't give our sister to a man who is not circumcised. That would be a disgrace to us."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,34,13",
     "id" : 185328,
@@ -204,7 +366,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 34:13\">34:13</a></b> <b>sons of Jacob answered . . . deceitfully.</b> Jacob reaped the whirlwind; his sons copied his deception (<a class=\"bibleref\" href=\"/passage/?search=Gen 27:35\">27:35</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 27:36\">36</a>), but killing was their goal.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,34,15", "genesis,34,16", "genesis,34,17", "genesis,34,18", "genesis,34,19" ],
+  "verses" : [ {
+    "verse" : "genesis,34,15",
+    "text" : "We will give our consent to you on one condition only: that you become like us by circumcising all your males."
+  }, {
+    "verse" : "genesis,34,16",
+    "text" : "Then we will give you our daughters and take your daughters for ourselves. We'll settle among you and become one people with you."
+  }, {
+    "verse" : "genesis,34,17",
+    "text" : "But if you will not agree to be circumcised, we'll take our sister and go.\""
+  }, {
+    "verse" : "genesis,34,18",
+    "text" : "Their proposal seemed good to Hamor and his son Shechem."
+  }, {
+    "verse" : "genesis,34,19",
+    "text" : "The young man, who was the most honored of all his father's household, lost no time in doing what they said, because he was delighted with Jacob's daughter."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,34,15",
     "id" : 185329,
@@ -212,7 +389,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 34:15\">34:15</a></b> <b>every male . . . circumcised.</b> Jacob’s sons sacrilegiously emptied the holy covenant sign of its religious significance (<a class=\"bibleref\" href=\"/passage/?search=Gen 17:10\">17:10</a>, <a class=\"bibleref\" href=\"/passage/?search=Gen 17:11\">11</a> and notes) and abused it for the purpose of inflicting vengeance.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,34,20", "genesis,34,21", "genesis,34,22", "genesis,34,23" ],
+  "verses" : [ {
+    "verse" : "genesis,34,20",
+    "text" : "So Hamor and his son Shechem went to the gate of their city to speak to their fellow townsmen."
+  }, {
+    "verse" : "genesis,34,21",
+    "text" : "\"These men are friendly toward us,\" they said. \"Let them live in our land and trade in it; the land has plenty of room for them. We can marry their daughters and they can marry ours."
+  }, {
+    "verse" : "genesis,34,22",
+    "text" : "But the men will consent to live with us as one people only on the condition that our males be circumcised, as they themselves are."
+  }, {
+    "verse" : "genesis,34,23",
+    "text" : "Won't their livestock, their property and all their other animals become ours? So let us give our consent to them, and they will settle among us.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,34,20",
     "id" : 185330,
@@ -220,7 +409,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 34:20\">34:20</a></b> <b>gate.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Gen 23:10\">23:10</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,34,24" ],
+  "verses" : [ {
+    "verse" : "genesis,34,24",
+    "text" : "All the men who went out of the city gate agreed with Hamor and his son Shechem, and every male in the city was circumcised."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,34,24",
     "id" : 185331,
@@ -228,7 +420,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 34:24\">34:24</a></b> <b>all . . . listened to Hamor.</b> The Shechemites probably neither knew nor cared about the religious significance of the rite; they agreed only to advance their own interests (<a class=\"bibleref\" href=\"/passage/?search=Gen 34:23\">v. 23</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,34,25", "genesis,34,26" ],
+  "verses" : [ {
+    "verse" : "genesis,34,25",
+    "text" : "Three days later, while all of them were still in pain, two of Jacob's sons, Simeon and Levi, Dinah's brothers, took their swords and attacked the unsuspecting city, killing every male."
+  }, {
+    "verse" : "genesis,34,26",
+    "text" : "They put Hamor and his son Shechem to the sword and took Dinah from Shechem's house and left."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,34,25",
     "id" : 185332,
@@ -236,7 +434,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 34:25\">34:25</a></b> <b>killed all the males.</b> Under the Mosaic law, Shechem’s sin against Dinah would not have earned such excessive punishment (<a class=\"bibleref\" href=\"/passage/?search=Deut 22:28\">Deut. 22:28</a>, <a class=\"bibleref\" href=\"/passage/?search=Deut 22:29\">29</a>). The action of Simeon and Levi prematurely (and illegitimately) anticipated the holy war that Israel was to wage against the inhabitants of the land (15:16; <a class=\"bibleref\" href=\"/passage/?search=Exod 23:27-Exod 23:31\">Ex. 23:27–31</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 20:16-Deut 20:20\">Deut. 20:16–20</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,34,27", "genesis,34,28", "genesis,34,29" ],
+  "verses" : [ {
+    "verse" : "genesis,34,27",
+    "text" : "The sons of Jacob came upon the dead bodies and looted the city where their sister had been defiled."
+  }, {
+    "verse" : "genesis,34,28",
+    "text" : "They seized their flocks and herds and donkeys and everything else of theirs in the city and out in the fields."
+  }, {
+    "verse" : "genesis,34,29",
+    "text" : "They carried off all their wealth and all their women and children, taking as plunder everything in the houses."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,34,27",
     "id" : 185333,
@@ -244,7 +451,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Gen 34:27\">34:27</a></b> <b>plundered.</b> By their unbridled, faithless, and rash revenge Simeon and Levi lost leadership and land in Israel (<a class=\"bibleref\" href=\"/passage/?search=Gen 49:5-Gen 49:7\">49:5–7</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "genesis,34,30", "genesis,34,31" ],
+  "verses" : [ {
+    "verse" : "genesis,34,30",
+    "text" : "Then Jacob said to Simeon and Levi, \"You have brought trouble on me by making me a stench to the Canaanites and Perizzites, the people living in this land. We are few in number, and if they join forces against me and attack me, I and my household will be destroyed.\""
+  }, {
+    "verse" : "genesis,34,31",
+    "text" : "But they replied, \"Should he have treated our sister like a prostitute?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "genesis,34,30",
     "id" : 185334,

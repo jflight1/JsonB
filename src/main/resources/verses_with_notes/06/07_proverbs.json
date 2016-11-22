@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,16,25" ],
+  "verses" : [ {
+    "verse" : "proverbs,16,25",
+    "text" : "There is a way that seems right to a man, but in the end it leads to death."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,11,4" ],
+  "verses" : [ {
+    "verse" : "proverbs,11,4",
+    "text" : "Wealth is worthless in the day of wrath, but righteousness delivers from death."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

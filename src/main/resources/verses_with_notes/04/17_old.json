@@ -1,5 +1,26 @@
 [ {
-  "singleVerses" : [ "joshua,15,1", "joshua,15,2", "joshua,15,3", "joshua,15,4", "joshua,15,5", "joshua,15,6", "joshua,15,7" ],
+  "verses" : [ {
+    "verse" : "joshua,15,1",
+    "text" : "The allotment for the tribe of Judah, clan by clan, extended down to the territory of Edom, to the Desert of Zin in the extreme south."
+  }, {
+    "verse" : "joshua,15,2",
+    "text" : "Their southern boundary started from the bay at the southern end of the Salt Sea,"
+  }, {
+    "verse" : "joshua,15,3",
+    "text" : "crossed south of Scorpion Pass, continued on to Zin and went over to the south of Kadesh Barnea. Then it ran past Hezron up to Addar and curved around to Karka."
+  }, {
+    "verse" : "joshua,15,4",
+    "text" : "It then passed along to Azmon and joined the Wadi of Egypt, ending at the sea. This is their southern boundary."
+  }, {
+    "verse" : "joshua,15,5",
+    "text" : "The eastern boundary is the Salt Sea as far as the mouth of the Jordan. The northern boundary started from the bay of the sea at the mouth of the Jordan,"
+  }, {
+    "verse" : "joshua,15,6",
+    "text" : "went up to Beth Hoglah and continued north of Beth Arabah to the Stone of Bohan son of Reuben."
+  }, {
+    "verse" : "joshua,15,7",
+    "text" : "The boundary then went up to Debir from the Valley of Achor and turned north to Gilgal, which faces the Pass of Adummim south of the gorge. It continued along to the waters of En Shemesh and came out at En Rogel."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,13,1-joshua,21,45",
     "id" : 186855,
@@ -17,7 +38,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 15:1\">15:1</a></b> <b>allotment.</b> See <a class=\"bibleref\" href=\"/passage/?search=Josh 14:2\">14:2</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 18:6\">18:6</a>. The method of casting lots is not specified. The important point is that the land was not divided by human decision (<a class=\"bibleref\" href=\"/passage/?search=Prov 16:33\">Prov. 16:33</a>; <a class=\"bibleref\" href=\"/passage/?search=Prov 18:18\">18:18</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,15,8", "joshua,15,9", "joshua,15,10", "joshua,15,11", "joshua,15,12", "joshua,15,13" ],
+  "verses" : [ {
+    "verse" : "joshua,15,8",
+    "text" : "Then it ran up the Valley of Ben Hinnom along the southern slope of the Jebusite city (that is, Jerusalem). From there it climbed to the top of the hill west of the Hinnom Valley at the northern end of the Valley of Rephaim."
+  }, {
+    "verse" : "joshua,15,9",
+    "text" : "From the hilltop the boundary headed toward the spring of the waters of Nephtoah, came out at the towns of Mount Ephron and went down toward Baalah (that is, Kiriath Jearim)."
+  }, {
+    "verse" : "joshua,15,10",
+    "text" : "Then it curved westward from Baalah to Mount Seir, ran along the northern slope of Mount Jearim (that is, Kesalon), continued down to Beth Shemesh and crossed to Timnah."
+  }, {
+    "verse" : "joshua,15,11",
+    "text" : "It went to the northern slope of Ekron, turned toward Shikkeron, passed along to Mount Baalah and reached Jabneel. The boundary ended at the sea."
+  }, {
+    "verse" : "joshua,15,12",
+    "text" : "The western boundary is the coastline of the Great Sea. These are the boundaries around the people of Judah by their clans."
+  }, {
+    "verse" : "joshua,15,13",
+    "text" : "In accordance with the LORD's command to him, Joshua gave to Caleb son of Jephunneh a portion in Judah-Kiriath Arba, that is, Hebron. (Arba was the forefather of Anak.)"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,15,8",
     "id" : 186881,
@@ -25,7 +64,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 15:8\">15:8</a></b> <b>Jerusalem.</b> Jerusalem lay outside Judah’s territory until the city was finally captured by David (<a class=\"bibleref\" href=\"/passage/?search=2Sam 5:7\">2 Sam. 5:7</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,15,14", "joshua,15,15", "joshua,15,16" ],
+  "verses" : [ {
+    "verse" : "joshua,15,14",
+    "text" : "From Hebron Caleb drove out the three Anakites-Sheshai, Ahiman and Talmai-descendants of Anak."
+  }, {
+    "verse" : "joshua,15,15",
+    "text" : "From there he marched against the people living in Debir (formerly called Kiriath Sepher)."
+  }, {
+    "verse" : "joshua,15,16",
+    "text" : "And Caleb said, \"I will give my daughter Acsah in marriage to the man who attacks and captures Kiriath Sepher.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,15,14",
     "id" : 186882,
@@ -33,7 +81,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 15:14\">15:14</a></b> <b>sons of Anak.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Josh 11:21-Josh 11:22\">11:21–22</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,15,17", "joshua,15,18", "joshua,15,19" ],
+  "verses" : [ {
+    "verse" : "joshua,15,17",
+    "text" : "Othniel son of Kenaz, Caleb's brother, took it; so Caleb gave his daughter Acsah to him in marriage."
+  }, {
+    "verse" : "joshua,15,18",
+    "text" : "One day when she came to Othniel, she urged him to ask her father for a field. When she got off her donkey, Caleb asked her, \"What can I do for you?\""
+  }, {
+    "verse" : "joshua,15,19",
+    "text" : "She replied, \"Do me a special favor. Since you have given me land in the Negev, give me also springs of water.\" So Caleb gave her the upper and lower springs."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,15,17",
     "id" : 186883,
@@ -41,7 +98,136 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 15:17\">15:17</a></b> <b>Othniel.</b> See <a class=\"bibleref\" href=\"/passage/?search=Judg 3:7-Judg 3:11\">Judg. 3:7–11</a> for his later role as judge.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,15,20", "joshua,15,21", "joshua,15,22", "joshua,15,23", "joshua,15,24", "joshua,15,25", "joshua,15,26", "joshua,15,27", "joshua,15,28", "joshua,15,29", "joshua,15,30", "joshua,15,31", "joshua,15,32", "joshua,15,33", "joshua,15,34", "joshua,15,35", "joshua,15,36", "joshua,15,37", "joshua,15,38", "joshua,15,39", "joshua,15,40", "joshua,15,41", "joshua,15,42", "joshua,15,43", "joshua,15,44", "joshua,15,45", "joshua,15,46", "joshua,15,47", "joshua,15,48", "joshua,15,49", "joshua,15,50", "joshua,15,51", "joshua,15,52", "joshua,15,53", "joshua,15,54", "joshua,15,55", "joshua,15,56", "joshua,15,57", "joshua,15,58", "joshua,15,59", "joshua,15,60", "joshua,15,61", "joshua,15,62" ],
+  "verses" : [ {
+    "verse" : "joshua,15,20",
+    "text" : "This is the inheritance of the tribe of Judah, clan by clan:"
+  }, {
+    "verse" : "joshua,15,21",
+    "text" : "The southernmost towns of the tribe of Judah in the Negev toward the boundary of Edom were: Kabzeel, Eder, Jagur,"
+  }, {
+    "verse" : "joshua,15,22",
+    "text" : "Kinah, Dimonah, Adadah,"
+  }, {
+    "verse" : "joshua,15,23",
+    "text" : "Kedesh, Hazor, Ithnan,"
+  }, {
+    "verse" : "joshua,15,24",
+    "text" : "Ziph, Telem, Bealoth,"
+  }, {
+    "verse" : "joshua,15,25",
+    "text" : "Hazor Hadattah, Kerioth Hezron (that is, Hazor),"
+  }, {
+    "verse" : "joshua,15,26",
+    "text" : "Amam, Shema, Moladah,"
+  }, {
+    "verse" : "joshua,15,27",
+    "text" : "Hazar Gaddah, Heshmon, Beth Pelet,"
+  }, {
+    "verse" : "joshua,15,28",
+    "text" : "Hazar Shual, Beersheba, Biziothiah,"
+  }, {
+    "verse" : "joshua,15,29",
+    "text" : "Baalah, Iim, Ezem,"
+  }, {
+    "verse" : "joshua,15,30",
+    "text" : "Eltolad, Kesil, Hormah,"
+  }, {
+    "verse" : "joshua,15,31",
+    "text" : "Ziklag, Madmannah, Sansannah,"
+  }, {
+    "verse" : "joshua,15,32",
+    "text" : "Lebaoth, Shilhim, Ain and Rimmon-a total of twenty-nine towns and their villages."
+  }, {
+    "verse" : "joshua,15,33",
+    "text" : "In the western foothills: Eshtaol, Zorah, Ashnah,"
+  }, {
+    "verse" : "joshua,15,34",
+    "text" : "Zanoah, En Gannim, Tappuah, Enam,"
+  }, {
+    "verse" : "joshua,15,35",
+    "text" : "Jarmuth, Adullam, Socoh, Azekah,"
+  }, {
+    "verse" : "joshua,15,36",
+    "text" : "Shaaraim, Adithaim and Gederah (or Gederothaim) -fourteen towns and their villages."
+  }, {
+    "verse" : "joshua,15,37",
+    "text" : "Zenan, Hadashah, Migdal Gad,"
+  }, {
+    "verse" : "joshua,15,38",
+    "text" : "Dilean, Mizpah, Joktheel,"
+  }, {
+    "verse" : "joshua,15,39",
+    "text" : "Lachish, Bozkath, Eglon,"
+  }, {
+    "verse" : "joshua,15,40",
+    "text" : "Cabbon, Lahmas, Kitlish,"
+  }, {
+    "verse" : "joshua,15,41",
+    "text" : "Gederoth, Beth Dagon, Naamah and Makkedah-sixteen towns and their villages."
+  }, {
+    "verse" : "joshua,15,42",
+    "text" : "Libnah, Ether, Ashan,"
+  }, {
+    "verse" : "joshua,15,43",
+    "text" : "Iphtah, Ashnah, Nezib,"
+  }, {
+    "verse" : "joshua,15,44",
+    "text" : "Keilah, Aczib and Mareshah-nine towns and their villages."
+  }, {
+    "verse" : "joshua,15,45",
+    "text" : "Ekron, with its surrounding settlements and villages;"
+  }, {
+    "verse" : "joshua,15,46",
+    "text" : "west of Ekron, all that were in the vicinity of Ashdod, together with their villages;"
+  }, {
+    "verse" : "joshua,15,47",
+    "text" : "Ashdod, its surrounding settlements and villages; and Gaza, its settlements and villages, as far as the Wadi of Egypt and the coastline of the Great Sea."
+  }, {
+    "verse" : "joshua,15,48",
+    "text" : "In the hill country: Shamir, Jattir, Socoh,"
+  }, {
+    "verse" : "joshua,15,49",
+    "text" : "Dannah, Kiriath Sannah (that is, Debir),"
+  }, {
+    "verse" : "joshua,15,50",
+    "text" : "Anab, Eshtemoh, Anim,"
+  }, {
+    "verse" : "joshua,15,51",
+    "text" : "Goshen, Holon and Giloh-eleven towns and their villages."
+  }, {
+    "verse" : "joshua,15,52",
+    "text" : "Arab, Dumah, Eshan,"
+  }, {
+    "verse" : "joshua,15,53",
+    "text" : "Janim, Beth Tappuah, Aphekah,"
+  }, {
+    "verse" : "joshua,15,54",
+    "text" : "Humtah, Kiriath Arba (that is, Hebron) and Zior-nine towns and their villages."
+  }, {
+    "verse" : "joshua,15,55",
+    "text" : "Maon, Carmel, Ziph, Juttah,"
+  }, {
+    "verse" : "joshua,15,56",
+    "text" : "Jezreel, Jokdeam, Zanoah,"
+  }, {
+    "verse" : "joshua,15,57",
+    "text" : "Kain, Gibeah and Timnah-ten towns and their villages."
+  }, {
+    "verse" : "joshua,15,58",
+    "text" : "Halhul, Beth Zur, Gedor,"
+  }, {
+    "verse" : "joshua,15,59",
+    "text" : "Maarath, Beth Anoth and Eltekon-six towns and their villages."
+  }, {
+    "verse" : "joshua,15,60",
+    "text" : "Kiriath Baal (that is, Kiriath Jearim) and Rabbah-two towns and their villages."
+  }, {
+    "verse" : "joshua,15,61",
+    "text" : "In the desert: Beth Arabah, Middin, Secacah,"
+  }, {
+    "verse" : "joshua,15,62",
+    "text" : "Nibshan, the City of Salt and En Gedi-six towns and their villages."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,15,20-joshua,15,62",
     "id" : 186884,
@@ -54,7 +240,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Josh 15:20\">15:20</a></b> <b>inheritance.</b> See note <a class=\"bibleref\" href=\"/passage/?search=Josh 1:6\">1:6</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "joshua,15,63" ],
+  "verses" : [ {
+    "verse" : "joshua,15,63",
+    "text" : "Judah could not dislodge the Jebusites, who were living in Jerusalem; to this day the Jebusites live there with the people of Judah."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "joshua,15,63",
     "id" : 186886,

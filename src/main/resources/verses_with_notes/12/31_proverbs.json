@@ -1,5 +1,14 @@
 [ {
-  "singleVerses" : [ "proverbs,31,25", "proverbs,31,26", "proverbs,31,27" ],
+  "verses" : [ {
+    "verse" : "proverbs,31,25",
+    "text" : "She is clothed with strength and dignity; she can laugh at the days to come."
+  }, {
+    "verse" : "proverbs,31,26",
+    "text" : "She speaks with wisdom, and faithful instruction is on her tongue."
+  }, {
+    "verse" : "proverbs,31,27",
+    "text" : "She watches over the affairs of her household and does not eat the bread of idleness."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,31,10-proverbs,31,31",
     "id" : 192363,
@@ -12,7 +21,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 31:25\">31:25</a></b> <b>Strength and dignity are her clothing.</b> The words refer either to her character, or, as is more likely in view of the second line, to the esteem earned by her economic prowess. She has no worry about the future. Both interpretations are consistent with wisdom.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,31,28", "proverbs,31,29" ],
+  "verses" : [ {
+    "verse" : "proverbs,31,28",
+    "text" : "Her children arise and call her blessed; her husband also, and he praises her:"
+  }, {
+    "verse" : "proverbs,31,29",
+    "text" : "\"Many women do noble things, but you surpass them all.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,31,28-proverbs,31,29",
     "id" : 192376,
@@ -20,7 +35,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 31:28\">31:28</a>, <a class=\"bibleref\" href=\"/passage/?search=Prov 31:29\">29</a></b> The result of her skill and wisdom is the cementing of family relationships. The praise of husband and children is her great reward.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,31,30", "proverbs,31,31" ],
+  "verses" : [ {
+    "verse" : "proverbs,31,30",
+    "text" : "Charm is deceptive, and beauty is fleeting; but a woman who fears the LORD is to be praised."
+  }, {
+    "verse" : "proverbs,31,31",
+    "text" : "Give her the reward she has earned, and let her works bring her praise at the city gate."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,31,30-proverbs,31,31",
     "id" : 192377,

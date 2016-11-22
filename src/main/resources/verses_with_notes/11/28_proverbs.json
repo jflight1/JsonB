@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,28,19" ],
+  "verses" : [ {
+    "verse" : "proverbs,28,19",
+    "text" : "He who works his land will have abundant food, but the one who chases fantasies will have his fill of poverty."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,28,1-proverbs,28,28",
     "id" : 192290,
@@ -7,7 +10,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 28\">28:1–28</a></b> This chapter contains a heavier concentration of theological reflection than earlier chapters of proverbial sentences. Sometimes this is explicit, with references to God or to the law and righteousness. In other sentences it is more implicit, as in the contrast of the righteous and the wicked, which seems to assume the underlying providential order and judgment of God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,28,20" ],
+  "verses" : [ {
+    "verse" : "proverbs,28,20",
+    "text" : "A faithful man will be richly blessed, but one eager to get rich will not go unpunished."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,28,20",
     "id" : 192307,

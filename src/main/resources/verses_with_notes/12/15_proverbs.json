@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,30,1" ],
+  "verses" : [ {
+    "verse" : "proverbs,30,1",
+    "text" : "The sayings of Agur son of Jakeh-an oracle: This man declared to Ithiel, to Ithiel and to Ucal:"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,30,1",
     "id" : 192336,
@@ -7,7 +10,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 30:1\">30:1</a></b> <b>Agur son of Jakeh.</b> His identity is unknown, but many consider him to be a foreigner. See note <a class=\"bibleref\" href=\"/passage/?search=Prov 22:17-Prov 24:22\">22:17–24:22</a>; and Introduction: Author.</p><p><b>The oracle.</b> It is possible that the Hebrew word is a place-name, “Massa” (also in <a class=\"bibleref\" href=\"/passage/?search=Prov 31:1\">31:1</a>), and that both Agur and Lemuel were Ishmaelites from Massa, thought to be in Arabia (<a class=\"bibleref\" href=\"/passage/?search=Gen 25:14\">Gen. 25:14</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,30,2", "proverbs,30,3" ],
+  "verses" : [ {
+    "verse" : "proverbs,30,2",
+    "text" : "\"I am the most ignorant of men; I do not have a man's understanding."
+  }, {
+    "verse" : "proverbs,30,3",
+    "text" : "I have not learned wisdom, nor have I knowledge of the Holy One."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,30,2-proverbs,30,3",
     "id" : 192337,
@@ -15,7 +24,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 30:2\">30:2</a>, <a class=\"bibleref\" href=\"/passage/?search=Prov 30:3\">3</a></b> This statement is not mere modesty or humility, but a recognition of the mystery of the being and ways of God such as is found in Job and Ecclesiastes. The writer is acutely conscious of the bounds of human knowledge and wisdom. God is not an object for our investigation or speculation, but the infinite and personal Creator in whom we must trust. There may be a note of irony in the profession of ignorance here, but <a class=\"bibleref\" href=\"/passage/?search=Prov 30:4\">v. 4</a> indicates the meaning.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,30,4" ],
+  "verses" : [ {
+    "verse" : "proverbs,30,4",
+    "text" : "Who has gone up to heaven and come down? Who has gathered up the wind in the hollow of his hands? Who has wrapped up the waters in his cloak? Who has established all the ends of the earth? What is his name, and the name of his son? Tell me if you know!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,30,4",
     "id" : 192338,

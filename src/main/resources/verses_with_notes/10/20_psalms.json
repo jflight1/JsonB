@@ -1,5 +1,14 @@
 [ {
-  "singleVerses" : [ "psalms,89,14", "psalms,89,15", "psalms,89,16" ],
+  "verses" : [ {
+    "verse" : "psalms,89,14",
+    "text" : "Righteousness and justice are the foundation of your throne; love and faithfulness go before you."
+  }, {
+    "verse" : "psalms,89,15",
+    "text" : "Blessed are those who have learned to acclaim you, who walk in the light of your presence, O LORD."
+  }, {
+    "verse" : "psalms,89,16",
+    "text" : "They rejoice in your name all day long; they exult in your righteousness."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,89,1-psalms,89,52",
     "id" : 191011,
@@ -12,7 +21,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 89:14\">89:14</a></b> <b>Righteousness and justice.</b> As King, God is responsible for the administration of law in the land. He does not judge arbitrarily.</p><p><b>go before you.</b> See <a class=\"bibleref\" href=\"/passage/?search=Ps 85:13\">Ps. 85:13</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,89,17", "psalms,89,18" ],
+  "verses" : [ {
+    "verse" : "psalms,89,17",
+    "text" : "For you are their glory and strength, and by your favor you exalt our horn."
+  }, {
+    "verse" : "psalms,89,18",
+    "text" : "Indeed, our shield belongs to the LORD, our king to the Holy One of Israel."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,89,17",
     "id" : 191019,
@@ -20,7 +35,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 89:17\">89:17</a></b> <b>our horn.</b> The king. The metaphor of the horn is associated with that of the bull, which stands for strength. God is the One who endows the human king with power. This thought is specified in the next line.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,89,19", "psalms,89,20" ],
+  "verses" : [ {
+    "verse" : "psalms,89,19",
+    "text" : "Once you spoke in a vision, to your faithful people you said: \"I have bestowed strength on a warrior; I have exalted a young man from among the people."
+  }, {
+    "verse" : "psalms,89,20",
+    "text" : "I have found David my servant; with my sacred oil I have anointed him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,89,19",
     "id" : 191020,
@@ -28,7 +49,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 89:19\">89:19</a></b> <b>in a vision.</b> The exact words of this vision are not found elsewhere in Scripture, but the allusion is probably to the prophetic insight of Nathan in <a class=\"bibleref\" href=\"/passage/?search=2Sam 7\">2 Sam. 7</a>, if not to the initial divine word given to Samuel concerning David’s kingship (<a class=\"bibleref\" href=\"/passage/?search=1Sam 6\">1 Sam. 6</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,89,21", "psalms,89,22", "psalms,89,23" ],
+  "verses" : [ {
+    "verse" : "psalms,89,21",
+    "text" : "My hand will sustain him; surely my arm will strengthen him."
+  }, {
+    "verse" : "psalms,89,22",
+    "text" : "No enemy will subject him to tribute; no wicked man will oppress him."
+  }, {
+    "verse" : "psalms,89,23",
+    "text" : "I will crush his foes before him and strike down his adversaries."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,89,21",
     "id" : 191021,
@@ -36,7 +66,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 89:21\">89:21</a></b> <b>shall strengthen him.</b> The king had sacred responsibilities, both political and religious. God promises to give David the strength he needs to carry out his divinely given tasks.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,89,24", "psalms,89,25" ],
+  "verses" : [ {
+    "verse" : "psalms,89,24",
+    "text" : "My faithful love will be with him, and through my name his horn will be exalted."
+  }, {
+    "verse" : "psalms,89,25",
+    "text" : "I will set his hand over the sea, his right hand over the rivers."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,89,24",
     "id" : 191022,
@@ -44,7 +80,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 89:24\">89:24</a></b> <b>My faithfulness and my steadfast love.</b> These two key words reverberate throughout the psalm, beginning in <a class=\"bibleref\" href=\"/passage/?search=Ps 89:1\">v. 1</a>; see note on <a class=\"bibleref\" href=\"/passage/?search=Ps 89:1\">v. 1</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,89,26" ],
+  "verses" : [ {
+    "verse" : "psalms,89,26",
+    "text" : "He will call out to me, 'You are my Father, my God, the Rock my Savior.'"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,89,26",
     "id" : 191023,
@@ -52,7 +91,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 89:26\">89:26</a></b> <b>You are my Father.</b> A reference to the intimate relationship established between God and David in <a class=\"bibleref\" href=\"/passage/?search=2Sam 7:14\">2 Sam. 7:14</a>. The king played an important role as mediator of the Davidic covenant between God and His people. This special function made the apostasy of later kings especially heinous.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,89,27", "psalms,89,28" ],
+  "verses" : [ {
+    "verse" : "psalms,89,27",
+    "text" : "I will also appoint him my firstborn, the most exalted of the kings of the earth."
+  }, {
+    "verse" : "psalms,89,28",
+    "text" : "I will maintain my love to him forever, and my covenant with him will never fail."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,89,27",
     "id" : 191024,
@@ -60,7 +105,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 89:27\">89:27</a></b> <b>the firstborn.</b> Calling David the “firstborn” means that he was first in rank in the covenant community, the head of a household (<a class=\"bibleref\" href=\"/passage/?search=Gen 4:4\">Gen. 4:4</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 25:31\">25:31</a> and notes). David in particular foreshadows Christ, uniquely the Son of God and Head of the church (<a class=\"bibleref\" href=\"/passage/?search=Eph 1:22\">Eph. 1:22</a>; <a class=\"bibleref\" href=\"/passage/?search=Heb 3:6\">Heb. 3:6</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,89,29", "psalms,89,30" ],
+  "verses" : [ {
+    "verse" : "psalms,89,29",
+    "text" : "I will establish his line forever, his throne as long as the heavens endure."
+  }, {
+    "verse" : "psalms,89,30",
+    "text" : "\"If his sons forsake my law and do not follow my statutes,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,89,29",
     "id" : 191025,
@@ -68,7 +119,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 89:29\">89:29</a></b> <b>forever.</b> The dynasty of David as an earthly political enterprise was long-lived, but not eternal. It fell because of the sins of David’s successors. Superseding it, as the reality casting a shadow, was the eternal kingdom of Jesus Christ.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,89,31", "psalms,89,32", "psalms,89,33" ],
+  "verses" : [ {
+    "verse" : "psalms,89,31",
+    "text" : "if they violate my decrees and fail to keep my commands,"
+  }, {
+    "verse" : "psalms,89,32",
+    "text" : "I will punish their sin with the rod, their iniquity with flogging;"
+  }, {
+    "verse" : "psalms,89,33",
+    "text" : "but I will not take my love from him, nor will I ever betray my faithfulness."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,89,31",
     "id" : 191026,
@@ -76,7 +136,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 89:31\">89:31</a></b> <b>my statutes.</b> God’s will as summarized in the first five books of the Old Testament. <a class=\"bibleref\" href=\"/passage/?search=Deut 17:19\">Deut. 17:19</a> commands the king to be well versed in God’s law and obedient to it.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,89,34", "psalms,89,35", "psalms,89,36", "psalms,89,37" ],
+  "verses" : [ {
+    "verse" : "psalms,89,34",
+    "text" : "I will not violate my covenant or alter what my lips have uttered."
+  }, {
+    "verse" : "psalms,89,35",
+    "text" : "Once for all, I have sworn by my holiness- and I will not lie to David-"
+  }, {
+    "verse" : "psalms,89,36",
+    "text" : "that his line will continue forever and his throne endure before me like the sun;"
+  }, {
+    "verse" : "psalms,89,37",
+    "text" : "it will be established forever like the moon, the faithful witness in the sky.\" Selah"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,89,34",
     "id" : 191027,

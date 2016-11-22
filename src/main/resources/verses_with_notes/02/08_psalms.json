@@ -1,8 +1,17 @@
 [ {
-  "singleVerses" : [ "psalms,31,9" ],
+  "verses" : [ {
+    "verse" : "psalms,31,9",
+    "text" : "Be merciful to me, O LORD, for I am in distress; my eyes grow weak with sorrow, my soul and my body with grief."
+  } ],
   "rsbNotes" : [ ]
 }, {
-  "singleVerses" : [ "psalms,31,10", "psalms,31,11" ],
+  "verses" : [ {
+    "verse" : "psalms,31,10",
+    "text" : "My life is consumed by anguish and my years by groaning; my strength fails because of my affliction, and my bones grow weak."
+  }, {
+    "verse" : "psalms,31,11",
+    "text" : "Because of all my enemies, I am the utter contempt of my neighbors; I am a dread to my friends- those who see me on the street flee from me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,31,10",
     "id" : 190451,
@@ -10,7 +19,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 31:10\">31:10</a></b> <b>iniquity.</b> Several ancient translations read, “affliction,” which draws support from the psalm’s general theme of distress from outside forces rather than from the psalmist’s guilt.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,31,12", "psalms,31,13" ],
+  "verses" : [ {
+    "verse" : "psalms,31,12",
+    "text" : "I am forgotten by them as though I were dead; I have become like broken pottery."
+  }, {
+    "verse" : "psalms,31,13",
+    "text" : "For I hear the slander of many; there is terror on every side; they conspire against me and plot to take my life."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,31,12",
     "id" : 190452,
@@ -18,7 +33,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 31:12\">31:12</a></b> <b>broken vessel.</b> A metaphor for serious illness, even death (<a class=\"bibleref\" href=\"/passage/?search=Eccl 12:6\">Eccl. 12:6</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,31,14" ],
+  "verses" : [ {
+    "verse" : "psalms,31,14",
+    "text" : "But I trust in you, O LORD; I say, \"You are my God.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,31,14",
     "id" : 190453,
@@ -26,7 +44,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 31:14\">31:14</a></b> <b>You are my God.</b> A simple and foundational confession that David is in covenant with God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,31,15" ],
+  "verses" : [ {
+    "verse" : "psalms,31,15",
+    "text" : "My times are in your hands; deliver me from my enemies and from those who pursue me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,31,15",
     "id" : 190454,
@@ -34,7 +55,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 31:15\">31:15</a></b> <b>My times.</b> The psalmist knows that God controls history in general and his life in particular. This comforts him in his distress.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,31,16", "psalms,31,17", "psalms,31,18" ],
+  "verses" : [ {
+    "verse" : "psalms,31,16",
+    "text" : "Let your face shine on your servant; save me in your unfailing love."
+  }, {
+    "verse" : "psalms,31,17",
+    "text" : "Let me not be put to shame, O LORD, for I have cried out to you; but let the wicked be put to shame and lie silent in the grave."
+  }, {
+    "verse" : "psalms,31,18",
+    "text" : "Let their lying lips be silenced, for with pride and contempt they speak arrogantly against the righteous."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,31,16",
     "id" : 190455,

@@ -1,5 +1,20 @@
 [ {
-  "singleVerses" : [ "1chronicles,19,1", "1chronicles,19,2", "1chronicles,19,3", "1chronicles,19,4", "1chronicles,19,5" ],
+  "verses" : [ {
+    "verse" : "1chronicles,19,1",
+    "text" : "In the course of time, Nahash king of the Ammonites died, and his son succeeded him as king."
+  }, {
+    "verse" : "1chronicles,19,2",
+    "text" : "David thought, \"I will show kindness to Hanun son of Nahash, because his father showed kindness to me.\" So David sent a delegation to express his sympathy to Hanun concerning his father. When David's men came to Hanun in the land of the Ammonites to express sympathy to him,"
+  }, {
+    "verse" : "1chronicles,19,3",
+    "text" : "the Ammonite nobles said to Hanun, \"Do you think David is honoring your father by sending men to you to express sympathy? Haven't his men come to you to explore and spy out the country and overthrow it?\""
+  }, {
+    "verse" : "1chronicles,19,4",
+    "text" : "So Hanun seized David's men, shaved them, cut off their garments in the middle at the buttocks, and sent them away."
+  }, {
+    "verse" : "1chronicles,19,5",
+    "text" : "When someone came and told David about the men, he sent messengers to meet them, for they were greatly humiliated. The king said, \"Stay at Jericho till your beards have grown, and then come back.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,13,1-1chronicles,29,30",
     "id" : 189044,
@@ -27,7 +42,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 19:1\">19:1</a></b> <b>Ammonites.</b> The Ammonites were longstanding enemies of Israel (<a class=\"bibleref\" href=\"/passage/?search=Judg 10:7-Judg 10:9\">Judg. 10:7–9</a>; <a class=\"bibleref\" href=\"/passage/?search=Judg 10:17-Judg 11:40\">10:17–11:40</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 11:1-1Sam 11:11\">1 Sam. 11:1–11</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 14:47\">14:47</a>). They also troubled the community following the return from exile in Babylon (<a class=\"bibleref\" href=\"/passage/?search=Neh 2:19\">Neh. 2:19</a>; <a class=\"bibleref\" href=\"/passage/?search=Neh 4:3\">4:3</a>, <a class=\"bibleref\" href=\"/passage/?search=Neh 4:7\">7</a>, <a class=\"bibleref\" href=\"/passage/?search=Neh 4:8\">8</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,19,6" ],
+  "verses" : [ {
+    "verse" : "1chronicles,19,6",
+    "text" : "When the Ammonites realized that they had become a stench in David's nostrils, Hanun and the Ammonites sent a thousand talents of silver to hire chariots and charioteers from Aram Naharaim, Aram Maacah and Zobah."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,19,6",
     "id" : 189096,
@@ -35,7 +53,37 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 19:6\">19:6</a></b> <b>Mesopotamia.</b> Chronicles replaces the less familiar Beth-rehob with Mesopotamia and omits the reference to Tob (<a class=\"bibleref\" href=\"/passage/?search=2Sam 10:6\">2 Sam. 10:6</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,19,7", "1chronicles,19,8", "1chronicles,19,9", "1chronicles,19,10", "1chronicles,19,11", "1chronicles,19,12", "1chronicles,19,13", "1chronicles,19,14", "1chronicles,19,15", "1chronicles,19,16" ],
+  "verses" : [ {
+    "verse" : "1chronicles,19,7",
+    "text" : "They hired thirty-two thousand chariots and charioteers, as well as the king of Maacah with his troops, who came and camped near Medeba, while the Ammonites were mustered from their towns and moved out for battle."
+  }, {
+    "verse" : "1chronicles,19,8",
+    "text" : "On hearing this, David sent Joab out with the entire army of fighting men."
+  }, {
+    "verse" : "1chronicles,19,9",
+    "text" : "The Ammonites came out and drew up in battle formation at the entrance to their city, while the kings who had come were by themselves in the open country."
+  }, {
+    "verse" : "1chronicles,19,10",
+    "text" : "Joab saw that there were battle lines in front of him and behind him; so he selected some of the best troops in Israel and deployed them against the Arameans."
+  }, {
+    "verse" : "1chronicles,19,11",
+    "text" : "He put the rest of the men under the command of Abishai his brother, and they were deployed against the Ammonites."
+  }, {
+    "verse" : "1chronicles,19,12",
+    "text" : "Joab said, \"If the Arameans are too strong for me, then you are to rescue me; but if the Ammonites are too strong for you, then I will rescue you."
+  }, {
+    "verse" : "1chronicles,19,13",
+    "text" : "Be strong and let us fight bravely for our people and the cities of our God. The LORD will do what is good in his sight.\""
+  }, {
+    "verse" : "1chronicles,19,14",
+    "text" : "Then Joab and the troops with him advanced to fight the Arameans, and they fled before him."
+  }, {
+    "verse" : "1chronicles,19,15",
+    "text" : "When the Ammonites saw that the Arameans were fleeing, they too fled before his brother Abishai and went inside the city. So Joab went back to Jerusalem."
+  }, {
+    "verse" : "1chronicles,19,16",
+    "text" : "After the Arameans saw that they had been routed by Israel, they sent messengers and had Arameans brought from beyond the River, with Shophach the commander of Hadadezer's army leading them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,19,7",
     "id" : 189097,
@@ -43,7 +91,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 19:7\">19:7</a></b> <b>32,000.</b> Israel’s victory is frequently highlighted by reporting the numbers of the opposing army (<a class=\"bibleref\" href=\"/passage/?search=1Chr 15:18-1Chr 15:22\">15:18–22</a>; <a class=\"bibleref\" href=\"/passage/?search=2Chr 12:2-2Chr 12:4\">2 Chr. 12:2–4</a>; <a class=\"bibleref\" href=\"/passage/?search=2Chr 13:3\">13:3</a>; <a class=\"bibleref\" href=\"/passage/?search=2Chr 14:9\">14:9</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,19,17" ],
+  "verses" : [ {
+    "verse" : "1chronicles,19,17",
+    "text" : "When David was told of this, he gathered all Israel and crossed the Jordan; he advanced against them and formed his battle lines opposite them. David formed his lines to meet the Arameans in battle, and they fought against him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,19,17",
     "id" : 189098,
@@ -51,7 +102,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 19:17\">19:17</a></b> <b>all Israel.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Chr 11:1\">11:1</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,19,18", "1chronicles,19,19" ],
+  "verses" : [ {
+    "verse" : "1chronicles,19,18",
+    "text" : "But they fled before Israel, and David killed seven thousand of their charioteers and forty thousand of their foot soldiers. He also killed Shophach the commander of their army."
+  }, {
+    "verse" : "1chronicles,19,19",
+    "text" : "When the vassals of Hadadezer saw that they had been defeated by Israel, they made peace with David and became subject to him. So the Arameans were not willing to help the Ammonites anymore."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,19,18",
     "id" : 189099,
@@ -59,7 +116,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 19:18\">19:18</a></b> <b>7,000.</b> <a class=\"bibleref\" href=\"/passage/?search=2Sam 10:18\">2 Sam. 10:18</a> reads “700.” It is possible that the higher number in Chronicles is due to a copyist’s error in transmission of the text.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,20,1" ],
+  "verses" : [ {
+    "verse" : "1chronicles,20,1",
+    "text" : "In the spring, at the time when kings go off to war, Joab led out the armed forces. He laid waste the land of the Ammonites and went to Rabbah and besieged it, but David remained in Jerusalem. Joab attacked Rabbah and left it in ruins."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,20,1",
     "id" : 189100,
@@ -67,7 +127,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 20:1\">20:1</a></b> <b>In the spring.</b> Armies typically advanced after the first spring harvest when food was more abundant (<a class=\"bibleref\" href=\"/passage/?search=2Sam 11:1\">2 Sam. 11:1</a>; <a class=\"bibleref\" href=\"/passage/?search=1Kgs 20:22\">1 Kin. 20:22</a>, <a class=\"bibleref\" href=\"/passage/?search=1Kgs 20:26\">26</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,20,2", "1chronicles,20,3" ],
+  "verses" : [ {
+    "verse" : "1chronicles,20,2",
+    "text" : "David took the crown from the head of their king -its weight was found to be a talent of gold, and it was set with precious stones-and it was placed on David's head. He took a great quantity of plunder from the city"
+  }, {
+    "verse" : "1chronicles,20,3",
+    "text" : "and brought out the people who were there, consigning them to labor with saws and with iron picks and axes. David did this to all the Ammonite towns. Then David and his entire army returned to Jerusalem."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,20,2",
     "id" : 189101,
@@ -75,7 +141,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 20:2\">20:2</a></b> <b>spoil . . . a very great amount.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Chr 18:8\">18:8</a>, <a class=\"bibleref\" href=\"/passage/?search=1Chr 18:11\">11</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,20,4", "1chronicles,20,5", "1chronicles,20,6", "1chronicles,20,7", "1chronicles,20,8" ],
+  "verses" : [ {
+    "verse" : "1chronicles,20,4",
+    "text" : "In the course of time, war broke out with the Philistines, at Gezer. At that time Sibbecai the Hushathite killed Sippai, one of the descendants of the Rephaites, and the Philistines were subjugated."
+  }, {
+    "verse" : "1chronicles,20,5",
+    "text" : "In another battle with the Philistines, Elhanan son of Jair killed Lahmi the brother of Goliath the Gittite, who had a spear with a shaft like a weaver's rod."
+  }, {
+    "verse" : "1chronicles,20,6",
+    "text" : "In still another battle, which took place at Gath, there was a huge man with six fingers on each hand and six toes on each foot-twenty-four in all. He also was descended from Rapha."
+  }, {
+    "verse" : "1chronicles,20,7",
+    "text" : "When he taunted Israel, Jonathan son of Shimea, David's brother, killed him."
+  }, {
+    "verse" : "1chronicles,20,8",
+    "text" : "These were descendants of Rapha in Gath, and they fell at the hands of David and his men."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,20,4",
     "id" : 189102,
@@ -83,7 +164,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 20:4\">20:4</a></b> <b>were subdued.</b> Not found in <a class=\"bibleref\" href=\"/passage/?search=2Sam 21:18\">2 Sam. 21:18</a>. The sentence indicates that the promise of 17:10 was fulfilled (<a class=\"bibleref\" href=\"/passage/?search=2Chr 13:18\">2 Chr. 13:18</a>; and contrast 28:19).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,21,1", "1chronicles,21,2" ],
+  "verses" : [ {
+    "verse" : "1chronicles,21,1",
+    "text" : "Satan rose up against Israel and incited David to take a census of Israel."
+  }, {
+    "verse" : "1chronicles,21,2",
+    "text" : "So David said to Joab and the commanders of the troops, \"Go and count the Israelites from Beersheba to Dan. Then report back to me so that I may know how many there are.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,21,1-1chronicles,22,1",
     "id" : 189103,
@@ -96,7 +183,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 21:1\">21:1</a></b> <b>Satan.</b> When the Hebrew word <i>satan</i> is used with a definite article, it means lit. “the adversary” (<a class=\"bibleref\" href=\"/passage/?search=Job 1:6\">Job 1:6</a>; <a class=\"bibleref\" href=\"/passage/?search=Zech 3:1\">Zech. 3:1</a>). Here <i>satan</i> is used for the first time without a definite article, probably as a proper name. See “Satan” at <a class=\"bibleref\" href=\"/passage/?search=Job 1:6\">Job 1:6</a>.</p><p><b>Satan stood.</b> According to <a class=\"bibleref\" href=\"/passage/?search=1Sam 24:1\">1 Sam. 24:1</a>, it was God who moved David. God Himself tempts no one (<a class=\"bibleref\" href=\"/passage/?search=Jas 1:13\">James 1:13</a>), but He employs created means under His sovereign control. Chronicles identifies Satan as the instrument by which David was led astray. The two passages together remind us that God is sovereign over all events, not excepting temptation and sin (11:4; 25:20 note; <a class=\"bibleref\" href=\"/passage/?search=Exod 4:21\">Ex. 4:21</a> note; <a class=\"bibleref\" href=\"/passage/?search=Josh 11:20\">Josh. 11:20</a>; <a class=\"bibleref\" href=\"/passage/?search=1Kgs 22:22-1Kgs 22:23\">1 Kin. 22:22–23</a>; <a class=\"bibleref\" href=\"/passage/?search=2Chr 10:15\">2 Chr. 10:15</a> note; <a class=\"bibleref\" href=\"/passage/?search=Job 1:12\">Job 1:12</a>; <a class=\"bibleref\" href=\"/passage/?search=Job 2:10\">2:10</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 3:20\">Ezek. 3:20</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 14:9\">14:9</a>; <a class=\"bibleref\" href=\"/passage/?search=Matt 6:13\">Matt. 6:13</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 4:27\">Acts 4:27</a>, <a class=\"bibleref\" href=\"/passage/?search=Acts 4:28\">28</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,21,3", "1chronicles,21,4" ],
+  "verses" : [ {
+    "verse" : "1chronicles,21,3",
+    "text" : "But Joab replied, \"May the LORD multiply his troops a hundred times over. My lord the king, are they not all my lord's subjects? Why does my lord want to do this? Why should he bring guilt on Israel?\""
+  }, {
+    "verse" : "1chronicles,21,4",
+    "text" : "The king's word, however, overruled Joab; so Joab left and went throughout Israel and then came back to Jerusalem."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,21,3",
     "id" : 189105,
@@ -104,7 +197,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 21:3\">21:3 a</a></b> <b>cause of guilt for Israel.</b> Taking a census was not prohibited by Old Testament law, though there were specific regulations (<a class=\"bibleref\" href=\"/passage/?search=Exod 30:12\">Ex. 30:12</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 1:2\">Num. 1:2</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 26:2\">26:2</a>). David’s desire for a count of his military personnel may have been an indication of reliance on human might rather than on divine power (<a class=\"bibleref\" href=\"/passage/?search=2Chr 13:18\">2 Chr. 13:18</a> and note). In the light of Joab’s response (21:6; 27:24), David may have insisted that the tribe of Levi be counted for military service as well (v. 6 note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,21,5" ],
+  "verses" : [ {
+    "verse" : "1chronicles,21,5",
+    "text" : "Joab reported the number of the fighting men to David: In all Israel there were one million one hundred thousand men who could handle a sword, including four hundred and seventy thousand in Judah."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,21,5",
     "id" : 189106,
@@ -112,7 +208,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 21:5\">21:5</a></b> <b>All Israel.</b> <a class=\"bibleref\" href=\"/passage/?search=2Sam 24:9\">2 Sam. 24:9</a> reads simply “Israel.” See note 11:1.</p><p><b>1,100,000.</b> The differences of these numbers from those in <a class=\"bibleref\" href=\"/passage/?search=2Sam 24:9\">2 Sam. 24:9</a> are problematic. It may be that the number of men from Judah is included in the total for “all Israel” (that is, <i>including</i> Judah with 470,000 not “and in Judah”). The Book of Chronicles may exclude some elements, such as Levi and Benjamin, from its count (21:6 note). Or the numbers may be approximations. Beyond this, one or both texts may suffer from errors of copying.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,21,6", "1chronicles,21,7", "1chronicles,21,8", "1chronicles,21,9", "1chronicles,21,10", "1chronicles,21,11", "1chronicles,21,12" ],
+  "verses" : [ {
+    "verse" : "1chronicles,21,6",
+    "text" : "But Joab did not include Levi and Benjamin in the numbering, because the king's command was repulsive to him."
+  }, {
+    "verse" : "1chronicles,21,7",
+    "text" : "This command was also evil in the sight of God; so he punished Israel."
+  }, {
+    "verse" : "1chronicles,21,8",
+    "text" : "Then David said to God, \"I have sinned greatly by doing this. Now, I beg you, take away the guilt of your servant. I have done a very foolish thing.\""
+  }, {
+    "verse" : "1chronicles,21,9",
+    "text" : "The LORD said to Gad, David's seer,"
+  }, {
+    "verse" : "1chronicles,21,10",
+    "text" : "\"Go and tell David, 'This is what the LORD says: I am giving you three options. Choose one of them for me to carry out against you.'\""
+  }, {
+    "verse" : "1chronicles,21,11",
+    "text" : "So Gad went to David and said to him, \"This is what the LORD says: 'Take your choice:"
+  }, {
+    "verse" : "1chronicles,21,12",
+    "text" : "three years of famine, three months of being swept away before your enemies, with their swords overtaking you, or three days of the sword of the LORD -days of plague in the land, with the angel of the LORD ravaging every part of Israel.' Now then, decide how I should answer the one who sent me.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,21,6",
     "id" : 189107,
@@ -120,7 +237,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 21:6\">21:6</a></b> <b>he did not include.</b> Joab did not carry through completely the census David had ordered (<a class=\"bibleref\" href=\"/passage/?search=1Chr 21:3\">v. 3</a> note).</p><p><b>Levi and Benjamin.</b> These tribes were not included in the census. The tribe of Levi was to be excluded from any military census, according to Mosaic Law (<a class=\"bibleref\" href=\"/passage/?search=Num 1:49\">Num. 1:49</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 2:33\">2:33</a>). Benjamin may have been excluded because the tabernacle was in Gibeon at the time (v. 29).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,21,13", "1chronicles,21,14", "1chronicles,21,15" ],
+  "verses" : [ {
+    "verse" : "1chronicles,21,13",
+    "text" : "David said to Gad, \"I am in deep distress. Let me fall into the hands of the LORD, for his mercy is very great; but do not let me fall into the hands of men.\""
+  }, {
+    "verse" : "1chronicles,21,14",
+    "text" : "So the LORD sent a plague on Israel, and seventy thousand men of Israel fell dead."
+  }, {
+    "verse" : "1chronicles,21,15",
+    "text" : "And God sent an angel to destroy Jerusalem. But as the angel was doing so, the LORD saw it and was grieved because of the calamity and said to the angel who was destroying the people, \"Enough! Withdraw your hand.\" The angel of the LORD was then standing at the threshing floor of Araunah the Jebusite."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,21,13",
     "id" : 189108,
@@ -128,7 +254,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 21:13\">21:13</a></b> <b>his mercy is very great.</b> Despite the severity of divine chastisement, David trusts in the abundant mercy of God. Undoubtedly, the promises to David in <a class=\"bibleref\" href=\"/passage/?search=1Chr 17:1-1Chr 17:14\">17:1–14</a> supply a background to David’s confident trust in God’s mercy.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,21,16", "1chronicles,21,17", "1chronicles,21,18", "1chronicles,21,19" ],
+  "verses" : [ {
+    "verse" : "1chronicles,21,16",
+    "text" : "David looked up and saw the angel of the LORD standing between heaven and earth, with a drawn sword in his hand extended over Jerusalem. Then David and the elders, clothed in sackcloth, fell facedown."
+  }, {
+    "verse" : "1chronicles,21,17",
+    "text" : "David said to God, \"Was it not I who ordered the fighting men to be counted? I am the one who has sinned and done wrong. These are but sheep. What have they done? O LORD my God, let your hand fall upon me and my family, but do not let this plague remain on your people.\""
+  }, {
+    "verse" : "1chronicles,21,18",
+    "text" : "Then the angel of the LORD ordered Gad to tell David to go up and build an altar to the LORD on the threshing floor of Araunah the Jebusite."
+  }, {
+    "verse" : "1chronicles,21,19",
+    "text" : "So David went up in obedience to the word that Gad had spoken in the name of the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,21,16",
     "id" : 189109,
@@ -136,7 +274,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 21:16\">21:16</a></b> This verse is not found in the traditional Hebrew text of <a class=\"bibleref\" href=\"/passage/?search=2Sam 24\">2 Sam. 24</a>. However, recently discovered texts of Samuel (Dead Sea Scrolls) and other witnesses suggest that the verse was probably originally in Samuel.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,21,20", "1chronicles,21,21" ],
+  "verses" : [ {
+    "verse" : "1chronicles,21,20",
+    "text" : "While Araunah was threshing wheat, he turned and saw the angel; his four sons who were with him hid themselves."
+  }, {
+    "verse" : "1chronicles,21,21",
+    "text" : "Then David approached, and when Araunah looked and saw him, he left the threshing floor and bowed down before David with his face to the ground."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,21,20-1chronicles,21,21",
     "id" : 189110,
@@ -144,7 +288,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 21:20\">21:20</a>, <a class=\"bibleref\" href=\"/passage/?search=1Chr 21:21\">21</a></b> Although these verses about Ornan (spelled “Araunah” in <a class=\"bibleref\" href=\"/passage/?search=2Sam 24\">2 Sam. 24</a>) do not appear in the traditional Hebrew text of <a class=\"bibleref\" href=\"/passage/?search=2Sam 24:20\">2 Sam. 24:20</a>, recently discovered texts of Samuel (Dead Sea Scrolls) and other witnesses suggest that the information was originally in Samuel.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,21,22", "1chronicles,21,23", "1chronicles,21,24" ],
+  "verses" : [ {
+    "verse" : "1chronicles,21,22",
+    "text" : "David said to him, \"Let me have the site of your threshing floor so I can build an altar to the LORD, that the plague on the people may be stopped. Sell it to me at the full price.\""
+  }, {
+    "verse" : "1chronicles,21,23",
+    "text" : "Araunah said to David, \"Take it! Let my lord the king do whatever pleases him. Look, I will give the oxen for the burnt offerings, the threshing sledges for the wood, and the wheat for the grain offering. I will give all this.\""
+  }, {
+    "verse" : "1chronicles,21,24",
+    "text" : "But King David replied to Araunah, \"No, I insist on paying the full price. I will not take for the LORD what is yours, or sacrifice a burnt offering that costs me nothing.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,21,22",
     "id" : 189111,
@@ -152,7 +305,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 21:22\">21:22</a></b> <b>at its full price.</b> This portion of the account is reminiscent of Abraham’s purchase of the burial site for Sarah (<a class=\"bibleref\" href=\"/passage/?search=Gen 23\">Gen. 23</a>). David purchased the site at full price. As a result, the future temple site (21:28–22:1 note) was a royal possession devoted to the temple.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,21,25" ],
+  "verses" : [ {
+    "verse" : "1chronicles,21,25",
+    "text" : "So David paid Araunah six hundred shekels of gold for the site."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,21,25",
     "id" : 189112,
@@ -160,7 +316,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 21:25\">21:25</a></b> <b>600 shekels . . . for the site.</b> <a class=\"bibleref\" href=\"/passage/?search=2Sam 24:24\">2 Sam. 24:24</a> reads “the threshing floor and the oxen for fifty shekels of silver.” It has been suggested that Samuel focuses on the threshing floor with its oxen, while Chronicles gives the value of the whole site.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,21,26", "1chronicles,21,27" ],
+  "verses" : [ {
+    "verse" : "1chronicles,21,26",
+    "text" : "David built an altar to the LORD there and sacrificed burnt offerings and fellowship offerings. He called on the LORD, and the LORD answered him with fire from heaven on the altar of burnt offering."
+  }, {
+    "verse" : "1chronicles,21,27",
+    "text" : "Then the LORD spoke to the angel, and he put his sword back into its sheath."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,21,26",
     "id" : 189113,
@@ -168,7 +330,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 21:26\">21:26</a></b> <b>the <span class=\"small-caps\">Lord</span> answered him with fire.</b> A rare occurrence, indicating God’s special approval of David’s actions (<a class=\"bibleref\" href=\"/passage/?search=Lev 9:24\">Lev. 9:24</a>; <a class=\"bibleref\" href=\"/passage/?search=1Kgs 18:37\">1 Kin. 18:37</a>, <a class=\"bibleref\" href=\"/passage/?search=1Kgs 18:38\">38</a>). This event anticipates Solomon’s temple dedication later at this same site (<a class=\"bibleref\" href=\"/passage/?search=2Chr 7:1\">2 Chr. 7:1</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,21,28", "1chronicles,21,29", "1chronicles,21,30" ],
+  "verses" : [ {
+    "verse" : "1chronicles,21,28",
+    "text" : "At that time, when David saw that the LORD had answered him on the threshing floor of Araunah the Jebusite, he offered sacrifices there."
+  }, {
+    "verse" : "1chronicles,21,29",
+    "text" : "The tabernacle of the LORD, which Moses had made in the desert, and the altar of burnt offering were at that time on the high place at Gibeon."
+  }, {
+    "verse" : "1chronicles,21,30",
+    "text" : "But David could not go before it to inquire of God, because he was afraid of the sword of the angel of the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,21,28-1chronicles,22,1",
     "id" : 189114,

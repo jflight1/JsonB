@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,14,20" ],
+  "verses" : [ {
+    "verse" : "proverbs,14,20",
+    "text" : "The poor are shunned even by their neighbors, but the rich have many friends."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 14:20\">14:20</a></b> Although originally an independent saying regarding friends who can assist in times of trouble (cf. <a class=\"bibleref\" href=\"/passage/?search=Luke 16:9\">Luke 16:9</a>), its placement immediately before the proverb of v. 21 gives it an additional application. Even with the best of intentions, people grow tired of a friendship that always makes demands. Friendship is easy when it makes no demands or brings gains.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,14,21" ],
+  "verses" : [ {
+    "verse" : "proverbs,14,21",
+    "text" : "He who despises his neighbor sins, but blessed is he who is kind to the needy."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,14,21",
     "id" : 191961,

@@ -1,5 +1,14 @@
 [ {
-  "singleVerses" : [ "proverbs,30,21", "proverbs,30,22", "proverbs,30,23" ],
+  "verses" : [ {
+    "verse" : "proverbs,30,21",
+    "text" : "\"Under three things the earth trembles, under four it cannot bear up:"
+  }, {
+    "verse" : "proverbs,30,22",
+    "text" : "a servant who becomes king, a fool who is full of food,"
+  }, {
+    "verse" : "proverbs,30,23",
+    "text" : "an unloved woman who is married, and a maidservant who displaces her mistress."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,30,15-proverbs,30,31",
     "id" : 192347,

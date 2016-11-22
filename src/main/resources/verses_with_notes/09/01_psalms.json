@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,45,1" ],
+  "verses" : [ {
+    "verse" : "psalms,45,1",
+    "text" : "My heart is stirred by a noble theme as I recite my verses for the king; my tongue is the pen of a skillful writer."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,45,1-psalms,45,17",
     "id" : 190581,
@@ -12,7 +15,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 45:1\">45:1</a></b> <b>pleasing theme . . . the king.</b> The messianic King is described.</p><p><b>tongue.</b> This word could mean that this psalm and others were composed orally and written down later.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,45,2", "psalms,45,3" ],
+  "verses" : [ {
+    "verse" : "psalms,45,2",
+    "text" : "You are the most excellent of men and your lips have been anointed with grace, since God has blessed you forever."
+  }, {
+    "verse" : "psalms,45,3",
+    "text" : "Gird your sword upon your side, O mighty one; clothe yourself with splendor and majesty."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,45,2",
     "id" : 190583,
@@ -20,7 +29,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 45:2\">45:2</a></b> <b>most handsome.</b> The poet takes the bride’s part in extolling the beauty of her lover.</p><p><b>blessed you forever.</b> This language reflects the promises of the Davidic covenant in <a class=\"bibleref\" href=\"/passage/?search=2Sam 7\">2 Sam. 7</a>. David would have a descendant on the throne forever, a promise fulfilled in Jesus Christ, who as the Son of David rules from heaven as King.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,45,4", "psalms,45,5" ],
+  "verses" : [ {
+    "verse" : "psalms,45,4",
+    "text" : "In your majesty ride forth victoriously in behalf of truth, humility and righteousness; let your right hand display awesome deeds."
+  }, {
+    "verse" : "psalms,45,5",
+    "text" : "Let your sharp arrows pierce the hearts of the king's enemies; let the nations fall beneath your feet."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,45,4",
     "id" : 190584,
@@ -28,7 +43,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 45:4\">45:4</a></b> <b>your right hand.</b> The Davidic king was the head of the military forces of Israel, ordained by God to fight for the people. In this role the king reflects God’s glory, since the Lord fought on behalf of Israel. Likewise, Jesus Christ leads the church against demonic forces (<a class=\"bibleref\" href=\"/passage/?search=Eph 6:10-Eph 6:20\">Eph. 6:10–20</a>) and will return again to destroy all evil (<a class=\"bibleref\" href=\"/passage/?search=Rev 19:11-Rev 19:16\">Rev. 19:11–16</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,45,6" ],
+  "verses" : [ {
+    "verse" : "psalms,45,6",
+    "text" : "Your throne, O God, will last for ever and ever; a scepter of justice will be the scepter of your kingdom."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,45,6",
     "id" : 190585,
@@ -36,7 +54,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 45:6\">45:6</a></b> <b>O God.</b> Here is a clear identification of the divine King in this psalm, that is, Christ.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,45,7" ],
+  "verses" : [ {
+    "verse" : "psalms,45,7",
+    "text" : "You love righteousness and hate wickedness; therefore God, your God, has set you above your companions by anointing you with the oil of joy."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,45,7",
     "id" : 190586,
@@ -44,7 +65,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 45:7\">45:7</a></b> <b>anointed you.</b> Davidic kings were anointed at their inauguration (<a class=\"bibleref\" href=\"/passage/?search=1Sam 16:13\">1 Sam. 16:13</a>), which was a temporal prefiguration of the Christ as the anointed King of glory.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,45,8", "psalms,45,9" ],
+  "verses" : [ {
+    "verse" : "psalms,45,8",
+    "text" : "All your robes are fragrant with myrrh and aloes and cassia; from palaces adorned with ivory the music of the strings makes you glad."
+  }, {
+    "verse" : "psalms,45,9",
+    "text" : "Daughters of kings are among your honored women; at your right hand is the royal bride in gold of Ophir."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,45,8",
     "id" : 190587,
@@ -52,7 +79,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 45:8\">45:8</a></b> <b>myrrh and aloes and cassia.</b> A description of the king on his wedding day.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,45,10", "psalms,45,11", "psalms,45,12", "psalms,45,13", "psalms,45,14", "psalms,45,15" ],
+  "verses" : [ {
+    "verse" : "psalms,45,10",
+    "text" : "Listen, O daughter, consider and give ear: Forget your people and your father's house."
+  }, {
+    "verse" : "psalms,45,11",
+    "text" : "The king is enthralled by your beauty; honor him, for he is your lord."
+  }, {
+    "verse" : "psalms,45,12",
+    "text" : "The Daughter of Tyre will come with a gift, men of wealth will seek your favor."
+  }, {
+    "verse" : "psalms,45,13",
+    "text" : "All glorious is the princess within her chamber; her gown is interwoven with gold."
+  }, {
+    "verse" : "psalms,45,14",
+    "text" : "In embroidered garments she is led to the king; her virgin companions follow her and are brought to you."
+  }, {
+    "verse" : "psalms,45,15",
+    "text" : "They are led in with joy and gladness; they enter the palace of the king."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,45,10",
     "id" : 190588,
@@ -60,7 +105,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 45:10\">45:10</a></b> <b>forget your people.</b> Just as the bride is exhorted to leave her former family, so the Christian believer breaks every tie to be joined to Christ (<a class=\"bibleref\" href=\"/passage/?search=Gen 2:24\">Gen. 2:24</a>; <a class=\"bibleref\" href=\"/passage/?search=Matt 10:37\">Matt. 10:37</a>, <a class=\"bibleref\" href=\"/passage/?search=Matt 10:38\">38</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,45,16" ],
+  "verses" : [ {
+    "verse" : "psalms,45,16",
+    "text" : "Your sons will take the place of your fathers; you will make them princes throughout the land."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,45,16",
     "id" : 190589,
@@ -68,7 +116,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 45:16\">45:16</a></b> <b>your sons.</b> The Redeemer-King is the divine Agent by whom many sons are brought forth to glory (<a class=\"bibleref\" href=\"/passage/?search=Heb 2:10\">Heb. 2:10</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,45,17" ],
+  "verses" : [ {
+    "verse" : "psalms,45,17",
+    "text" : "I will perpetuate your memory through all generations; therefore the nations will praise you for ever and ever."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,45,17",
     "id" : 190590,

@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,11,27" ],
+  "verses" : [ {
+    "verse" : "proverbs,11,27",
+    "text" : "He who seeks good finds goodwill, but evil comes to him who searches for it."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

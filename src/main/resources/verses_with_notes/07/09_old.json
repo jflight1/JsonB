@@ -1,5 +1,20 @@
 [ {
-  "singleVerses" : [ "1chronicles,7,1", "1chronicles,7,2", "1chronicles,7,3", "1chronicles,7,4", "1chronicles,7,5" ],
+  "verses" : [ {
+    "verse" : "1chronicles,7,1",
+    "text" : "The sons of Issachar: Tola, Puah, Jashub and Shimron-four in all."
+  }, {
+    "verse" : "1chronicles,7,2",
+    "text" : "The sons of Tola: Uzzi, Rephaiah, Jeriel, Jahmai, Ibsam and Samuel-heads of their families. During the reign of David, the descendants of Tola listed as fighting men in their genealogy numbered 22,600."
+  }, {
+    "verse" : "1chronicles,7,3",
+    "text" : "The son of Uzzi: Izrahiah. The sons of Izrahiah: Michael, Obadiah, Joel and Isshiah. All five of them were chiefs."
+  }, {
+    "verse" : "1chronicles,7,4",
+    "text" : "According to their family genealogy, they had 36,000 men ready for battle, for they had many wives and children."
+  }, {
+    "verse" : "1chronicles,7,5",
+    "text" : "The relatives who were fighting men belonging to all the clans of Issachar, as listed in their genealogy, were 87,000 in all."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,1,1-1chronicles,9,34",
     "id" : 188934,
@@ -17,7 +32,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 7:1\">7:1</a></b> <b>Issachar.</b> The record of Issachar is drawn from <a class=\"bibleref\" href=\"/passage/?search=Gen 46:13\">Gen. 46:13</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 1:28\">Num. 1:28</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 26:23-Num 26:25\">26:23–25</a>. Some portions of the material stem from military lists (vv. 2, 4, 5). For the numbers of fighting men, see note 12:23.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,7,6", "1chronicles,7,7", "1chronicles,7,8", "1chronicles,7,9", "1chronicles,7,10", "1chronicles,7,11", "1chronicles,7,12" ],
+  "verses" : [ {
+    "verse" : "1chronicles,7,6",
+    "text" : "Three sons of Benjamin: Bela, Beker and Jediael."
+  }, {
+    "verse" : "1chronicles,7,7",
+    "text" : "The sons of Bela: Ezbon, Uzzi, Uzziel, Jerimoth and Iri, heads of families-five in all. Their genealogical record listed 22,034 fighting men."
+  }, {
+    "verse" : "1chronicles,7,8",
+    "text" : "The sons of Beker: Zemirah, Joash, Eliezer, Elioenai, Omri, Jeremoth, Abijah, Anathoth and Alemeth. All these were the sons of Beker."
+  }, {
+    "verse" : "1chronicles,7,9",
+    "text" : "Their genealogical record listed the heads of families and 20,200 fighting men."
+  }, {
+    "verse" : "1chronicles,7,10",
+    "text" : "The son of Jediael: Bilhan. The sons of Bilhan: Jeush, Benjamin, Ehud, Kenaanah, Zethan, Tarshish and Ahishahar."
+  }, {
+    "verse" : "1chronicles,7,11",
+    "text" : "All these sons of Jediael were heads of families. There were 17,200 fighting men ready to go out to war."
+  }, {
+    "verse" : "1chronicles,7,12",
+    "text" : "The Shuppites and Huppites were the descendants of Ir, and the Hushites the descendants of Aher."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,7,6-1chronicles,7,12",
     "id" : 189001,
@@ -25,7 +61,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 7:6-1Chr 7:12\">7:6–12</a></b> <b>Benjamin.</b> The writer will return to the tribe of Benjamin again in <a class=\"bibleref\" href=\"/passage/?search=1Chr 8\">ch. 8</a> to trace the lineage of Saul. Here he draws upon military lists (vv. 7, <a class=\"bibleref\" href=\"/passage/?search=1Chr 8:9\">9</a>, <a class=\"bibleref\" href=\"/passage/?search=1Chr 8:11\">11</a>). For the numbers of fighting men see note <a class=\"bibleref\" href=\"/passage/?search=1Chr 12:23\">12:23</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,7,13" ],
+  "verses" : [ {
+    "verse" : "1chronicles,7,13",
+    "text" : "The sons of Naphtali: Jahziel, Guni, Jezer and Shillem -the descendants of Bilhah."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,7,13",
     "id" : 189002,
@@ -33,7 +72,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 7:13\">7:13</a></b> <b>sons of Naphtali.</b> This list repeats information found in <a class=\"bibleref\" href=\"/passage/?search=Gen 46:24\">Gen. 46:24</a> and <a class=\"bibleref\" href=\"/passage/?search=Num 26:48-Num 26:50\">Num. 26:48–50</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,7,14", "1chronicles,7,15", "1chronicles,7,16", "1chronicles,7,17", "1chronicles,7,18", "1chronicles,7,19" ],
+  "verses" : [ {
+    "verse" : "1chronicles,7,14",
+    "text" : "The descendants of Manasseh: Asriel was his descendant through his Aramean concubine. She gave birth to Makir the father of Gilead."
+  }, {
+    "verse" : "1chronicles,7,15",
+    "text" : "Makir took a wife from among the Huppites and Shuppites. His sister's name was Maacah. Another descendant was named Zelophehad, who had only daughters."
+  }, {
+    "verse" : "1chronicles,7,16",
+    "text" : "Makir's wife Maacah gave birth to a son and named him Peresh. His brother was named Sheresh, and his sons were Ulam and Rakem."
+  }, {
+    "verse" : "1chronicles,7,17",
+    "text" : "The son of Ulam: Bedan. These were the sons of Gilead son of Makir, the son of Manasseh."
+  }, {
+    "verse" : "1chronicles,7,18",
+    "text" : "His sister Hammoleketh gave birth to Ishhod, Abiezer and Mahlah."
+  }, {
+    "verse" : "1chronicles,7,19",
+    "text" : "The sons of Shemida were: Ahian, Shechem, Likhi and Aniam."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,7,14",
     "id" : 189003,
@@ -41,7 +98,37 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 7:14\">7:14</a></b> <b>Manasseh.</b> See <a class=\"bibleref\" href=\"/passage/?search=1Chr 5:23-1Chr 5:26\">5:23–26</a> note. Much of the data here is taken from <a class=\"bibleref\" href=\"/passage/?search=Num 26:29-Num 26:34\">Num. 26:29–34</a> and <a class=\"bibleref\" href=\"/passage/?search=Josh 17:1-Josh 17:13\">Josh. 17:1–13</a>. The focus on women in this line may stem from the importance of Zelophehad’s daughters in <a class=\"bibleref\" href=\"/passage/?search=Num 26:33\">Num. 26:33</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,7,20", "1chronicles,7,21", "1chronicles,7,22", "1chronicles,7,23", "1chronicles,7,24", "1chronicles,7,25", "1chronicles,7,26", "1chronicles,7,27", "1chronicles,7,28", "1chronicles,7,29" ],
+  "verses" : [ {
+    "verse" : "1chronicles,7,20",
+    "text" : "The descendants of Ephraim: Shuthelah, Bered his son, Tahath his son, Eleadah his son, Tahath his son,"
+  }, {
+    "verse" : "1chronicles,7,21",
+    "text" : "Zabad his son and Shuthelah his son. Ezer and Elead were killed by the native-born men of Gath, when they went down to seize their livestock."
+  }, {
+    "verse" : "1chronicles,7,22",
+    "text" : "Their father Ephraim mourned for them many days, and his relatives came to comfort him."
+  }, {
+    "verse" : "1chronicles,7,23",
+    "text" : "Then he lay with his wife again, and she became pregnant and gave birth to a son. He named him Beriah, because there had been misfortune in his family."
+  }, {
+    "verse" : "1chronicles,7,24",
+    "text" : "His daughter was Sheerah, who built Lower and Upper Beth Horon as well as Uzzen Sheerah."
+  }, {
+    "verse" : "1chronicles,7,25",
+    "text" : "Rephah was his son, Resheph his son, Telah his son, Tahan his son,"
+  }, {
+    "verse" : "1chronicles,7,26",
+    "text" : "Ladan his son, Ammihud his son, Elishama his son,"
+  }, {
+    "verse" : "1chronicles,7,27",
+    "text" : "Nun his son and Joshua his son."
+  }, {
+    "verse" : "1chronicles,7,28",
+    "text" : "Their lands and settlements included Bethel and its surrounding villages, Naaran to the east, Gezer and its villages to the west, and Shechem and its villages all the way to Ayyah and its villages."
+  }, {
+    "verse" : "1chronicles,7,29",
+    "text" : "Along the borders of Manasseh were Beth Shan, Taanach, Megiddo and Dor, together with their villages. The descendants of Joseph son of Israel lived in these towns."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,7,20",
     "id" : 189004,
@@ -49,7 +136,40 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 7:20\">7:20</a></b> <b>Ephraim.</b> Matters of lineage and geography appear again (<a class=\"bibleref\" href=\"/passage/?search=1Chr 2:3-1Chr 9:1\">2:3–9:1</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,7,30", "1chronicles,7,31", "1chronicles,7,32", "1chronicles,7,33", "1chronicles,7,34", "1chronicles,7,35", "1chronicles,7,36", "1chronicles,7,37", "1chronicles,7,38", "1chronicles,7,39", "1chronicles,7,40" ],
+  "verses" : [ {
+    "verse" : "1chronicles,7,30",
+    "text" : "The sons of Asher: Imnah, Ishvah, Ishvi and Beriah. Their sister was Serah."
+  }, {
+    "verse" : "1chronicles,7,31",
+    "text" : "The sons of Beriah: Heber and Malkiel, who was the father of Birzaith."
+  }, {
+    "verse" : "1chronicles,7,32",
+    "text" : "Heber was the father of Japhlet, Shomer and Hotham and of their sister Shua."
+  }, {
+    "verse" : "1chronicles,7,33",
+    "text" : "The sons of Japhlet: Pasach, Bimhal and Ashvath. These were Japhlet's sons."
+  }, {
+    "verse" : "1chronicles,7,34",
+    "text" : "The sons of Shomer: Ahi, Rohgah, Hubbah and Aram."
+  }, {
+    "verse" : "1chronicles,7,35",
+    "text" : "The sons of his brother Helem: Zophah, Imna, Shelesh and Amal."
+  }, {
+    "verse" : "1chronicles,7,36",
+    "text" : "The sons of Zophah: Suah, Harnepher, Shual, Beri, Imrah,"
+  }, {
+    "verse" : "1chronicles,7,37",
+    "text" : "Bezer, Hod, Shamma, Shilshah, Ithran and Beera."
+  }, {
+    "verse" : "1chronicles,7,38",
+    "text" : "The sons of Jether: Jephunneh, Pispah and Ara."
+  }, {
+    "verse" : "1chronicles,7,39",
+    "text" : "The sons of Ulla: Arah, Hanniel and Rizia."
+  }, {
+    "verse" : "1chronicles,7,40",
+    "text" : "All these were descendants of Asher-heads of families, choice men, brave warriors and outstanding leaders. The number of men ready for battle, as listed in their genealogy, was 26,000."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,7,30",
     "id" : 189005,
@@ -57,7 +177,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 7:30\">7:30</a></b> <b>Asher.</b> The genealogy of Asher is drawn from <a class=\"bibleref\" href=\"/passage/?search=Gen 46:17\">Gen. 46:17</a> and <a class=\"bibleref\" href=\"/passage/?search=Num 26:44-Num 26:46\">Num. 26:44–46</a>. For the numbers of fighting men, see note 12:23.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,8,1", "1chronicles,8,2", "1chronicles,8,3", "1chronicles,8,4", "1chronicles,8,5", "1chronicles,8,6", "1chronicles,8,7" ],
+  "verses" : [ {
+    "verse" : "1chronicles,8,1",
+    "text" : "Benjamin was the father of Bela his firstborn, Ashbel the second son, Aharah the third,"
+  }, {
+    "verse" : "1chronicles,8,2",
+    "text" : "Nohah the fourth and Rapha the fifth."
+  }, {
+    "verse" : "1chronicles,8,3",
+    "text" : "The sons of Bela were: Addar, Gera, Abihud,"
+  }, {
+    "verse" : "1chronicles,8,4",
+    "text" : "Abishua, Naaman, Ahoah,"
+  }, {
+    "verse" : "1chronicles,8,5",
+    "text" : "Gera, Shephuphan and Huram."
+  }, {
+    "verse" : "1chronicles,8,6",
+    "text" : "These were the descendants of Ehud, who were heads of families of those living in Geba and were deported to Manahath:"
+  }, {
+    "verse" : "1chronicles,8,7",
+    "text" : "Naaman, Ahijah, and Gera, who deported them and who was the father of Uzza and Ahihud."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,8,1",
     "id" : 189006,
@@ -70,7 +211,70 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 8:1-1Chr 8:7\">8:1–7</a></b> Compare the various lists in <a class=\"bibleref\" href=\"/passage/?search=1Chr 7:6-1Chr 7:12\">7:6–12</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 46:21\">Gen. 46:21</a>; <a class=\"bibleref\" href=\"/passage/?search=Num 26:38-Num 26:41\">Num. 26:38–41</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,8,8", "1chronicles,8,9", "1chronicles,8,10", "1chronicles,8,11", "1chronicles,8,12", "1chronicles,8,13", "1chronicles,8,14", "1chronicles,8,15", "1chronicles,8,16", "1chronicles,8,17", "1chronicles,8,18", "1chronicles,8,19", "1chronicles,8,20", "1chronicles,8,21", "1chronicles,8,22", "1chronicles,8,23", "1chronicles,8,24", "1chronicles,8,25", "1chronicles,8,26", "1chronicles,8,27", "1chronicles,8,28" ],
+  "verses" : [ {
+    "verse" : "1chronicles,8,8",
+    "text" : "Sons were born to Shaharaim in Moab after he had divorced his wives Hushim and Baara."
+  }, {
+    "verse" : "1chronicles,8,9",
+    "text" : "By his wife Hodesh he had Jobab, Zibia, Mesha, Malcam,"
+  }, {
+    "verse" : "1chronicles,8,10",
+    "text" : "Jeuz, Sakia and Mirmah. These were his sons, heads of families."
+  }, {
+    "verse" : "1chronicles,8,11",
+    "text" : "By Hushim he had Abitub and Elpaal."
+  }, {
+    "verse" : "1chronicles,8,12",
+    "text" : "The sons of Elpaal: Eber, Misham, Shemed (who built Ono and Lod with its surrounding villages),"
+  }, {
+    "verse" : "1chronicles,8,13",
+    "text" : "and Beriah and Shema, who were heads of families of those living in Aijalon and who drove out the inhabitants of Gath."
+  }, {
+    "verse" : "1chronicles,8,14",
+    "text" : "Ahio, Shashak, Jeremoth,"
+  }, {
+    "verse" : "1chronicles,8,15",
+    "text" : "Zebadiah, Arad, Eder,"
+  }, {
+    "verse" : "1chronicles,8,16",
+    "text" : "Michael, Ishpah and Joha were the sons of Beriah."
+  }, {
+    "verse" : "1chronicles,8,17",
+    "text" : "Zebadiah, Meshullam, Hizki, Heber,"
+  }, {
+    "verse" : "1chronicles,8,18",
+    "text" : "Ishmerai, Izliah and Jobab were the sons of Elpaal."
+  }, {
+    "verse" : "1chronicles,8,19",
+    "text" : "Jakim, Zicri, Zabdi,"
+  }, {
+    "verse" : "1chronicles,8,20",
+    "text" : "Elienai, Zillethai, Eliel,"
+  }, {
+    "verse" : "1chronicles,8,21",
+    "text" : "Adaiah, Beraiah and Shimrath were the sons of Shimei."
+  }, {
+    "verse" : "1chronicles,8,22",
+    "text" : "Ishpan, Eber, Eliel,"
+  }, {
+    "verse" : "1chronicles,8,23",
+    "text" : "Abdon, Zicri, Hanan,"
+  }, {
+    "verse" : "1chronicles,8,24",
+    "text" : "Hananiah, Elam, Anthothijah,"
+  }, {
+    "verse" : "1chronicles,8,25",
+    "text" : "Iphdeiah and Penuel were the sons of Shashak."
+  }, {
+    "verse" : "1chronicles,8,26",
+    "text" : "Shamsherai, Shehariah, Athaliah,"
+  }, {
+    "verse" : "1chronicles,8,27",
+    "text" : "Jaareshiah, Elijah and Zicri were the sons of Jeroham."
+  }, {
+    "verse" : "1chronicles,8,28",
+    "text" : "All these were heads of families, chiefs as listed in their genealogy, and they lived in Jerusalem."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,8,8-1chronicles,8,13",
     "id" : 189008,
@@ -78,7 +282,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 8:8-1Chr 8:13\">8:8–13</a></b> <b>Moab.</b> For Israelites living in Moab (<a class=\"bibleref\" href=\"/passage/?search=1Chr 8:8\">v. 8</a>), see <a class=\"bibleref\" href=\"/passage/?search=1Sam 22:3-1Sam 22:5\">1 Sam. 22:3–5</a> and <a class=\"bibleref\" href=\"/passage/?search=Ruth 1:1\">Ruth 1:1</a>, <a class=\"bibleref\" href=\"/passage/?search=Ruth 1:2\">2</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,8,29", "1chronicles,8,30", "1chronicles,8,31", "1chronicles,8,32" ],
+  "verses" : [ {
+    "verse" : "1chronicles,8,29",
+    "text" : "Jeiel the father of Gibeon lived in Gibeon. His wife's name was Maacah,"
+  }, {
+    "verse" : "1chronicles,8,30",
+    "text" : "and his firstborn son was Abdon, followed by Zur, Kish, Baal, Ner, Nadab,"
+  }, {
+    "verse" : "1chronicles,8,31",
+    "text" : "Gedor, Ahio, Zeker"
+  }, {
+    "verse" : "1chronicles,8,32",
+    "text" : "and Mikloth, who was the father of Shimeah. They too lived near their relatives in Jerusalem."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,8,29-1chronicles,8,40",
     "id" : 189009,
@@ -86,7 +302,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 8:29-1Chr 8:40\">8:29–40</a></b> Much of this list is repeated in <a class=\"bibleref\" href=\"/passage/?search=1Chr 9:35-1Chr 9:44\">9:35–44</a>. It traces the Benjaminites in Gibeon to Saul (<a class=\"bibleref\" href=\"/passage/?search=1Chr 8:33\">8:33</a>) and many generations after him.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,8,33" ],
+  "verses" : [ {
+    "verse" : "1chronicles,8,33",
+    "text" : "Ner was the father of Kish, Kish the father of Saul, and Saul the father of Jonathan, Malki-Shua, Abinadab and Esh-Baal."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,8,33",
     "id" : 189010,
@@ -94,7 +313,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Chr 8:33\">8:33</a></b> <b>Eshbaal.</b> This is probably his original name, meaning “man of Baal.” He is also called Ishvi, or “man of the <span class=\"small-caps\">Lord</span>” (<a class=\"bibleref\" href=\"/passage/?search=1Sam 14:49\">1 Sam. 14:49</a>), and Ish-bosheth, “man of shame” (<a class=\"bibleref\" href=\"/passage/?search=2Sam 2:8\">2 Sam. 2:8</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1chronicles,8,34", "1chronicles,8,35", "1chronicles,8,36", "1chronicles,8,37", "1chronicles,8,38", "1chronicles,8,39", "1chronicles,8,40" ],
+  "verses" : [ {
+    "verse" : "1chronicles,8,34",
+    "text" : "The son of Jonathan: Merib-Baal, who was the father of Micah."
+  }, {
+    "verse" : "1chronicles,8,35",
+    "text" : "The sons of Micah: Pithon, Melech, Tarea and Ahaz."
+  }, {
+    "verse" : "1chronicles,8,36",
+    "text" : "Ahaz was the father of Jehoaddah, Jehoaddah was the father of Alemeth, Azmaveth and Zimri, and Zimri was the father of Moza."
+  }, {
+    "verse" : "1chronicles,8,37",
+    "text" : "Moza was the father of Binea; Raphah was his son, Eleasah his son and Azel his son."
+  }, {
+    "verse" : "1chronicles,8,38",
+    "text" : "Azel had six sons, and these were their names: Azrikam, Bokeru, Ishmael, Sheariah, Obadiah and Hanan. All these were the sons of Azel."
+  }, {
+    "verse" : "1chronicles,8,39",
+    "text" : "The sons of his brother Eshek: Ulam his firstborn, Jeush the second son and Eliphelet the third."
+  }, {
+    "verse" : "1chronicles,8,40",
+    "text" : "The sons of Ulam were brave warriors who could handle the bow. They had many sons and grandsons-150 in all. All these were the descendants of Benjamin."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1chronicles,8,34",
     "id" : 189011,

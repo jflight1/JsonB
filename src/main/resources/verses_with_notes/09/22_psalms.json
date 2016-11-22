@@ -1,8 +1,20 @@
 [ {
-  "singleVerses" : [ "psalms,66,1", "psalms,66,2" ],
+  "verses" : [ {
+    "verse" : "psalms,66,1",
+    "text" : "Shout with joy to God, all the earth!"
+  }, {
+    "verse" : "psalms,66,2",
+    "text" : "Sing the glory of his name; make his praise glorious!"
+  } ],
   "rsbNotes" : [ ]
 }, {
-  "singleVerses" : [ "psalms,66,3", "psalms,66,4" ],
+  "verses" : [ {
+    "verse" : "psalms,66,3",
+    "text" : "Say to God, \"How awesome are your deeds! So great is your power that your enemies cringe before you."
+  }, {
+    "verse" : "psalms,66,4",
+    "text" : "All the earth bows down to you; they sing praise to you, they sing praise to your name.\" Selah"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,66,3",
     "id" : 190775,
@@ -10,7 +22,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 66:3\">66:3</a></b> <b>awesome.</b> Great and fearful.</p><p><b>cringing.</b> When God appears as a warrior, the enemies have reason to fear they will be destroyed (<a class=\"bibleref\" href=\"/passage/?search=Josh 2:11\">Josh. 2:11</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,66,5" ],
+  "verses" : [ {
+    "verse" : "psalms,66,5",
+    "text" : "Come and see what God has done, how awesome his works in man's behalf!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,66,5",
     "id" : 190776,
@@ -18,7 +33,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 66:5\">66:5</a></b> <b>Come and see.</b> The psalmist invites the hearer to remember God’s great acts in history (<a class=\"bibleref\" href=\"/passage/?search=Ps 46:8\">Ps. 46:8</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,66,6", "psalms,66,7", "psalms,66,8" ],
+  "verses" : [ {
+    "verse" : "psalms,66,6",
+    "text" : "He turned the sea into dry land, they passed through the waters on foot- come, let us rejoice in him."
+  }, {
+    "verse" : "psalms,66,7",
+    "text" : "He rules forever by his power, his eyes watch the nations- let not the rebellious rise up against him. Selah"
+  }, {
+    "verse" : "psalms,66,8",
+    "text" : "Praise our God, O peoples, let the sound of his praise be heard;"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,66,6",
     "id" : 190777,
@@ -26,7 +50,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 66:6\">66:6</a></b> <b>sea . . . river.</b> The first phrase of this verse refers to crossing the Red Sea (<a class=\"bibleref\" href=\"/passage/?search=Exod 14\">Ex. 14</a>; <a class=\"bibleref\" href=\"/passage/?search=Exod 15\">15</a>). The second refers to crossing the Jordan forty years later (<a class=\"bibleref\" href=\"/passage/?search=Josh 3\">Josh. 3</a>). These great acts demonstrated God’s power to His people.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,66,9" ],
+  "verses" : [ {
+    "verse" : "psalms,66,9",
+    "text" : "he has preserved our lives and kept our feet from slipping."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,66,9",
     "id" : 190778,
@@ -34,7 +61,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 66:9\">66:9</a></b> <b>kept our soul.</b> This is a general truth, but there may be an allusion to the Exodus. A context of Israel’s more recent testing may also be possible.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,66,10" ],
+  "verses" : [ {
+    "verse" : "psalms,66,10",
+    "text" : "For you, O God, tested us; you refined us like silver."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,66,10",
     "id" : 190779,
@@ -42,7 +72,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 66:10\">66:10</a></b> <b>tested us.</b> God occasionally laid difficult decisions before His people to see whether they would be obedient to Him in spite of their suffering (<a class=\"bibleref\" href=\"/passage/?search=Exod 15:25\">Ex. 15:25</a>).</p><p><b>as silver.</b> When silver is refined, it is purified; the dross is taken away. When God tests His people, those who are not obedient are taken away, while the faithful remain steadfast.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,66,11" ],
+  "verses" : [ {
+    "verse" : "psalms,66,11",
+    "text" : "You brought us into prison and laid burdens on our backs."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,66,11",
     "id" : 190780,
@@ -50,7 +83,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 66:11\">66:11</a></b> <b>into the net.</b> The Lord has brought the psalmist and the faithful through a period of affliction.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,66,12" ],
+  "verses" : [ {
+    "verse" : "psalms,66,12",
+    "text" : "You let men ride over our heads; we went through fire and water, but you brought us to a place of abundance."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,66,12",
     "id" : 190781,
@@ -58,7 +94,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 66:12\">66:12</a></b> <b>to a place of abundance.</b> A possible reference to recent salvation from distress, but there may also be an allusion to Israel’s conquest of Canaan.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,66,13", "psalms,66,14", "psalms,66,15" ],
+  "verses" : [ {
+    "verse" : "psalms,66,13",
+    "text" : "I will come to your temple with burnt offerings and fulfill my vows to you-"
+  }, {
+    "verse" : "psalms,66,14",
+    "text" : "vows my lips promised and my mouth spoke when I was in trouble."
+  }, {
+    "verse" : "psalms,66,15",
+    "text" : "I will sacrifice fat animals to you and an offering of rams; I will offer bulls and goats. Selah"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,66,13",
     "id" : 190782,
@@ -66,7 +111,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 66:13\">66:13</a></b> <b>perform my vows.</b> The psalmist expresses his individual thanks. Apparently, God has recently saved him from some distress. While he was suffering, he promised to worship God with sacrifices if God heard his prayer (<a class=\"bibleref\" href=\"/passage/?search=Ps 22:22\">22:22</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,66,16", "psalms,66,17", "psalms,66,18", "psalms,66,19", "psalms,66,20" ],
+  "verses" : [ {
+    "verse" : "psalms,66,16",
+    "text" : "Come and listen, all you who fear God; let me tell you what he has done for me."
+  }, {
+    "verse" : "psalms,66,17",
+    "text" : "I cried out to him with my mouth; his praise was on my tongue."
+  }, {
+    "verse" : "psalms,66,18",
+    "text" : "If I had cherished sin in my heart, the Lord would not have listened;"
+  }, {
+    "verse" : "psalms,66,19",
+    "text" : "but God has surely listened and heard my voice in prayer."
+  }, {
+    "verse" : "psalms,66,20",
+    "text" : "Praise be to God, who has not rejected my prayer or withheld his love from me!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,66,16",
     "id" : 190783,

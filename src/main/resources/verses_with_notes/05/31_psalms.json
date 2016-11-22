@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,119,129" ],
+  "verses" : [ {
+    "verse" : "psalms,119,129",
+    "text" : "Your statutes are wonderful; therefore I obey them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,119,1-psalms,119,176",
     "id" : 191337,
@@ -7,7 +10,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 119\">Ps. 119</a></b> As <a class=\"bibleref\" href=\"/passage/?search=Ps 117\">Ps. 117</a> has the distinction of being the shortest chapter in the Bible, so <a class=\"bibleref\" href=\"/passage/?search=Ps 119\">Ps. 119</a> is the longest. The psalm is an acrostic of twenty-two stanzas, one for each letter of the Hebrew alphabet. The eight poetic lines of each stanza begin with the same Hebrew letter.</p><p>The number eight may be connected with eight Hebrew words that appear throughout the psalm concerning its main theme. The words are translated variously as “law,” “testimonies,” “precepts,” “statutes,” “commandments,” “rules,” and “word.” In five stanzas all eight Hebrew words occur, and every stanza has at least six of the eight.</p><p>While the psalmist expresses his love for the law and his desire to obey it, he also recognizes his failures. Elements of lament and petition are intertwined with expressions of confidence and innocence.</p><p>The law is a faithful expression of God’s character. God sent His Son to keep the law for us. The law no longer condemns us, setting us free to accept it as our own guide for pleasing the One who died in our place.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,119,130" ],
+  "verses" : [ {
+    "verse" : "psalms,119,130",
+    "text" : "The unfolding of your words gives light; it gives understanding to the simple."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,119,130",
     "id" : 191392,
@@ -15,7 +21,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 119:130\">119:130</a></b> <b>The unfolding of your words.</b> It is not clear whether the writer refers to the initial act of revelation, the process of interpreting God’s word, or applying the law to his heart. Perhaps all three are intended as a single process bringing light, hope, and understanding to the dark soul.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,119,131" ],
+  "verses" : [ {
+    "verse" : "psalms,119,131",
+    "text" : "I open my mouth and pant, longing for your commands."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,119,131",
     "id" : 191393,
@@ -23,7 +32,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 119:131\">119:131</a></b> <b>pant.</b> The concept is the same as <a class=\"bibleref\" href=\"/passage/?search=Ps 42:1\">Ps. 42:1</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 42:2\">2</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,119,132" ],
+  "verses" : [ {
+    "verse" : "psalms,119,132",
+    "text" : "Turn to me and have mercy on me, as you always do to those who love your name."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,119,132",
     "id" : 191394,
@@ -31,7 +43,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 119:132\">119:132</a></b> <b>with those who love your name.</b> Cf. <a class=\"bibleref\" href=\"/passage/?search=Rom 8:28\">Rom. 8:28</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,119,133", "psalms,119,134" ],
+  "verses" : [ {
+    "verse" : "psalms,119,133",
+    "text" : "Direct my footsteps according to your word; let no sin rule over me."
+  }, {
+    "verse" : "psalms,119,134",
+    "text" : "Redeem me from the oppression of men, that I may obey your precepts."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,119,133",
     "id" : 191395,
@@ -39,7 +57,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 119:133\">119:133</a></b> <b>Keep steady my steps.</b> The psalmist wants the Lord to guide him through life. He realizes that one is within the will of God while seeking to obey His revealed word. But he also knows that obedience is impossible unless God supplies the grace to do so.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,119,135", "psalms,119,136" ],
+  "verses" : [ {
+    "verse" : "psalms,119,135",
+    "text" : "Make your face shine upon your servant and teach me your decrees."
+  }, {
+    "verse" : "psalms,119,136",
+    "text" : "Streams of tears flow from my eyes, for your law is not obeyed."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,119,135",
     "id" : 191396,
@@ -47,7 +71,31 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 119:135\">119:135</a></b> <b>Make your face shine upon your servant.</b> The psalmist asks for God to come and be with him. He wants to live in the consciousness of God’s favor. Compare the priestly blessing in <a class=\"bibleref\" href=\"/passage/?search=Num 6:22-Num 6:27\">Num. 6:22–27</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,119,137", "psalms,119,138", "psalms,119,139", "psalms,119,140", "psalms,119,141", "psalms,119,142", "psalms,119,143", "psalms,119,144" ],
+  "verses" : [ {
+    "verse" : "psalms,119,137",
+    "text" : "Righteous are you, O LORD, and your laws are right."
+  }, {
+    "verse" : "psalms,119,138",
+    "text" : "The statutes you have laid down are righteous; they are fully trustworthy."
+  }, {
+    "verse" : "psalms,119,139",
+    "text" : "My zeal wears me out, for my enemies ignore your words."
+  }, {
+    "verse" : "psalms,119,140",
+    "text" : "Your promises have been thoroughly tested, and your servant loves them."
+  }, {
+    "verse" : "psalms,119,141",
+    "text" : "Though I am lowly and despised, I do not forget your precepts."
+  }, {
+    "verse" : "psalms,119,142",
+    "text" : "Your righteousness is everlasting and your law is true."
+  }, {
+    "verse" : "psalms,119,143",
+    "text" : "Trouble and distress have come upon me, but your commands are my delight."
+  }, {
+    "verse" : "psalms,119,144",
+    "text" : "Your statutes are forever right; give me understanding that I may live."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,119,137",
     "id" : 191397,
@@ -55,7 +103,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 119:137\">119:137</a></b> <b>Righteous are you.</b> God acts according to His nature; there is nothing arbitrary or inconsistent about Him.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,119,145", "psalms,119,146" ],
+  "verses" : [ {
+    "verse" : "psalms,119,145",
+    "text" : "I call with all my heart; answer me, O LORD, and I will obey your decrees."
+  }, {
+    "verse" : "psalms,119,146",
+    "text" : "I call out to you; save me and I will keep your statutes."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,119,145",
     "id" : 191398,
@@ -63,7 +117,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 119:145\">119:145</a></b> <b>With my whole heart.</b> The psalmist is a model of fervent and honest prayer to God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,119,147", "psalms,119,148" ],
+  "verses" : [ {
+    "verse" : "psalms,119,147",
+    "text" : "I rise before dawn and cry for help; I have put my hope in your word."
+  }, {
+    "verse" : "psalms,119,148",
+    "text" : "My eyes stay open through the watches of the night, that I may meditate on your promises."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,119,147",
     "id" : 191399,
@@ -71,7 +131,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 119:147\">119:147</a></b> <b>I rise before dawn.</b> The poet’s first thought as he awakens is the Lord. His prayer is frequent as well as fervent.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,119,149", "psalms,119,150" ],
+  "verses" : [ {
+    "verse" : "psalms,119,149",
+    "text" : "Hear my voice in accordance with your love; preserve my life, O LORD, according to your laws."
+  }, {
+    "verse" : "psalms,119,150",
+    "text" : "Those who devise wicked schemes are near, but they are far from your law."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,119,149",
     "id" : 191400,
@@ -79,7 +145,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 119:149\">119:149</a></b> <b>according to your steadfast love . . . according to your justice.</b> God’s love and devotion toward His people is not incompatible with His law.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,119,151", "psalms,119,152" ],
+  "verses" : [ {
+    "verse" : "psalms,119,151",
+    "text" : "Yet you are near, O LORD, and all your commands are true."
+  }, {
+    "verse" : "psalms,119,152",
+    "text" : "Long ago I learned from your statutes that you established them to last forever."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,119,151",
     "id" : 191401,

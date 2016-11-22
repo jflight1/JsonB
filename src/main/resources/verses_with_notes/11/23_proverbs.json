@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,28,11" ],
+  "verses" : [ {
+    "verse" : "proverbs,28,11",
+    "text" : "A rich man may be wise in his own eyes, but a poor man who has discernment sees through him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,28,1-proverbs,28,28",
     "id" : 192290,

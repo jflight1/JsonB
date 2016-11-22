@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,15,4" ],
+  "verses" : [ {
+    "verse" : "proverbs,15,4",
+    "text" : "The tongue that brings healing is a tree of life, but a deceitful tongue crushes the spirit."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

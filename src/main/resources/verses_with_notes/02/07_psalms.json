@@ -1,5 +1,17 @@
 [ {
-  "singleVerses" : [ "psalms,31,1", "psalms,31,2", "psalms,31,3", "psalms,31,4" ],
+  "verses" : [ {
+    "verse" : "psalms,31,1",
+    "text" : "In you, O LORD, I have taken refuge; let me never be put to shame; deliver me in your righteousness."
+  }, {
+    "verse" : "psalms,31,2",
+    "text" : "Turn your ear to me, come quickly to my rescue; be my rock of refuge, a strong fortress to save me."
+  }, {
+    "verse" : "psalms,31,3",
+    "text" : "Since you are my rock and my fortress, for the sake of your name lead and guide me."
+  }, {
+    "verse" : "psalms,31,4",
+    "text" : "Free me from the trap that is set for me, for you are my refuge."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,31,1",
     "id" : 190447,
@@ -7,7 +19,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 31:1\">31:1</a></b> <b>in your righteousness.</b> The psalmist appeals to the Lord’s righteousness in his distress caused by the wickedness of the enemy. “Your righteousness” indicates God’s commitment to save those who are in covenant relationship with Him.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,31,5" ],
+  "verses" : [ {
+    "verse" : "psalms,31,5",
+    "text" : "Into your hands I commit my spirit; redeem me, O LORD, the God of truth."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,31,5",
     "id" : 190448,
@@ -15,7 +30,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 31:5\">31:5</a></b> <b>I commit my spirit.</b> Jesus quoted these words on the cross (<a class=\"bibleref\" href=\"/passage/?search=Luke 23:46\">Luke 23:46</a>). The desperate cries of lament found in the psalms often express Christ’s own anguish as He faced the rejection of the world (<a class=\"bibleref\" href=\"/passage/?search=Ps 22\">Ps. 22</a> and <a class=\"bibleref\" href=\"/passage/?search=Ps 69\">69</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,31,6" ],
+  "verses" : [ {
+    "verse" : "psalms,31,6",
+    "text" : "I hate those who cling to worthless idols; I trust in the LORD."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,31,6",
     "id" : 190449,
@@ -23,7 +41,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 31:6\">31:6</a></b> <b>worthless idols.</b> They are worthless because they are the figments of their worshipers’ imaginations. The psalmist trusts the Lord, who is “faithful” (<a class=\"bibleref\" href=\"/passage/?search=Ps 31:5\">v. 5</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,31,7", "psalms,31,8" ],
+  "verses" : [ {
+    "verse" : "psalms,31,7",
+    "text" : "I will be glad and rejoice in your love, for you saw my affliction and knew the anguish of my soul."
+  }, {
+    "verse" : "psalms,31,8",
+    "text" : "You have not handed me over to the enemy but have set my feet in a spacious place."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,31,7",
     "id" : 190450,

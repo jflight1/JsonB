@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "psalms,124,1", "psalms,124,2" ],
+  "verses" : [ {
+    "verse" : "psalms,124,1",
+    "text" : "If the LORD had not been on our side- let Israel say-"
+  }, {
+    "verse" : "psalms,124,2",
+    "text" : "if the LORD had not been on our side when men attacked us,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,124,1-psalms,124,8",
     "id" : 191432,
@@ -12,7 +18,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 124:1\">124:1</a></b> <b>who was on our side.</b> See <a class=\"bibleref\" href=\"/passage/?search=Ps 118:6\">118:6</a> note.</p><p><b>let Israel now say.</b> These words would be spoken by a priest leading the congregation in corporate thanksgiving.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,124,3" ],
+  "verses" : [ {
+    "verse" : "psalms,124,3",
+    "text" : "when their anger flared against us, they would have swallowed us alive;"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,124,3",
     "id" : 191434,
@@ -20,7 +29,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 124:3\">124:3</a></b> <b>they would have swallowed us up alive.</b> The enemies would have killed them. See <a class=\"bibleref\" href=\"/passage/?search=Prov 1:12\">Prov. 1:12</a> note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,124,4", "psalms,124,5" ],
+  "verses" : [ {
+    "verse" : "psalms,124,4",
+    "text" : "the flood would have engulfed us, the torrent would have swept over us,"
+  }, {
+    "verse" : "psalms,124,5",
+    "text" : "the raging waters would have swept us away."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,124,4",
     "id" : 191435,
@@ -28,7 +43,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 124:4\">124:4</a></b> <b>the flood.</b> See <a class=\"bibleref\" href=\"/passage/?search=Ps 18:4\">18:4</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 18:15\">15</a> and notes.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,124,6", "psalms,124,7" ],
+  "verses" : [ {
+    "verse" : "psalms,124,6",
+    "text" : "Praise be to the LORD, who has not let us be torn by their teeth."
+  }, {
+    "verse" : "psalms,124,7",
+    "text" : "We have escaped like a bird out of the fowler's snare; the snare has been broken, and we have escaped."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,124,6",
     "id" : 191436,
@@ -36,7 +57,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 124:6\">124:6</a></b> <b>to their teeth.</b> The enemy is compared to a lion (<a class=\"bibleref\" href=\"/passage/?search=Ps 34:10\">Ps. 34:10</a>; <a class=\"bibleref\" href=\"/passage/?search=Ps 58:6\">58:6</a>) or a dog (<a class=\"bibleref\" href=\"/passage/?search=Ps 59:6\">Ps. 59:6</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 59:14\">14</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,124,8" ],
+  "verses" : [ {
+    "verse" : "psalms,124,8",
+    "text" : "Our help is in the name of the LORD, the Maker of heaven and earth."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,124,8",
     "id" : 191437,

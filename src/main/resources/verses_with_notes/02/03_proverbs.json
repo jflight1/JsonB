@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "proverbs,6,27", "proverbs,6,28" ],
+  "verses" : [ {
+    "verse" : "proverbs,6,27",
+    "text" : "Can a man scoop fire into his lap without his clothes being burned?"
+  }, {
+    "verse" : "proverbs,6,28",
+    "text" : "Can a man walk on hot coals without his feet being scorched?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,6,20-proverbs,6,35",
     "id" : 191763,
@@ -12,7 +18,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 6:27-Prov 6:29\">6:27–29</a></b> The vivid and transparent metaphors emphasize the folly of adultery.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,6,29" ],
+  "verses" : [ {
+    "verse" : "proverbs,6,29",
+    "text" : "So is he who sleeps with another man's wife; no one who touches her will go unpunished."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,6,29",
     "id" : 191772,
@@ -20,7 +29,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 6:29\">6:29</a></b> <b>unpunished.</b> Wisdom in Proverbs emphasizes the expected results of folly, but also, from time to time, goes behind the natural cause-and-effect chain to the overarching purpose and judgment of God.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,6,30", "proverbs,6,31", "proverbs,6,32", "proverbs,6,33" ],
+  "verses" : [ {
+    "verse" : "proverbs,6,30",
+    "text" : "Men do not despise a thief if he steals to satisfy his hunger when he is starving."
+  }, {
+    "verse" : "proverbs,6,31",
+    "text" : "Yet if he is caught, he must pay sevenfold, though it costs him all the wealth of his house."
+  }, {
+    "verse" : "proverbs,6,32",
+    "text" : "But a man who commits adultery lacks judgment; whoever does so destroys himself."
+  }, {
+    "verse" : "proverbs,6,33",
+    "text" : "Blows and disgrace are his lot, and his shame will never be wiped away;"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,6,30-proverbs,6,33",
     "id" : 191773,
@@ -28,7 +49,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 6:30-Prov 6:33\">6:30–33</a></b> The person driven by hunger to steal is still subject to the law, but people can understand such need. By contrast, adultery has no such extenuating factor and brings utter disgrace. The law required restoration of four times the theft; “sevenfold” exaggerates this for emphasis (<a class=\"bibleref\" href=\"/passage/?search=Exod 22:1\">Ex. 22:1</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,6,34", "proverbs,6,35" ],
+  "verses" : [ {
+    "verse" : "proverbs,6,34",
+    "text" : "for jealousy arouses a husband's fury, and he will show no mercy when he takes revenge."
+  }, {
+    "verse" : "proverbs,6,35",
+    "text" : "He will not accept any compensation; he will refuse the bribe, however great it is."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,6,34-proverbs,6,35",
     "id" : 191774,

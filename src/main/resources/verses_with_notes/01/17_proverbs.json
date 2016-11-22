@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,3,21" ],
+  "verses" : [ {
+    "verse" : "proverbs,3,21",
+    "text" : "My son, preserve sound judgment and discernment, do not let them out of your sight;"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,3,21-proverbs,3,26",
     "id" : 191699,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 3:21\">3:21</a></b> See note <a class=\"bibleref\" href=\"/passage/?search=Prov 1:4\">1:4</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,3,22" ],
+  "verses" : [ {
+    "verse" : "proverbs,3,22",
+    "text" : "they will be life for you, an ornament to grace your neck."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,3,22",
     "id" : 191701,
@@ -20,7 +26,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 3:22\">3:22</a></b> See notes on <a class=\"bibleref\" href=\"/passage/?search=Prov 3:2\">vv. 2</a>, <a class=\"bibleref\" href=\"/passage/?search=Prov 3:3\">3</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,3,23" ],
+  "verses" : [ {
+    "verse" : "proverbs,3,23",
+    "text" : "Then you will go on your way in safety, and your foot will not stumble;"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,3,23",
     "id" : 191702,
@@ -28,7 +37,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 3:23\">3:23</a></b> Again guidance is seen in terms of making wise decisions.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,3,24", "proverbs,3,25", "proverbs,3,26" ],
+  "verses" : [ {
+    "verse" : "proverbs,3,24",
+    "text" : "when you lie down, you will not be afraid; when you lie down, your sleep will be sweet."
+  }, {
+    "verse" : "proverbs,3,25",
+    "text" : "Have no fear of sudden disaster or of the ruin that overtakes the wicked,"
+  }, {
+    "verse" : "proverbs,3,26",
+    "text" : "for the LORD will be your confidence and will keep your foot from being snared."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,3,24",
     "id" : 191703,

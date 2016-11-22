@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "1samuel,17,1" ],
+  "verses" : [ {
+    "verse" : "1samuel,17,1",
+    "text" : "Now the Philistines gathered their forces for war and assembled at Socoh in Judah. They pitched camp at Ephes Dammim, between Socoh and Azekah."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,16,1-1samuel,31,13",
     "id" : 187527,
@@ -12,7 +15,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 17:1\">17:1</a></b> <b>between Socoh and Azekah, in Ephes-dammim.</b> Socoh was fifteen miles west of Bethlehem, near the Philistine border, and Azekah was two miles northwest of Socoh.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,17,2", "1samuel,17,3" ],
+  "verses" : [ {
+    "verse" : "1samuel,17,2",
+    "text" : "Saul and the Israelites assembled and camped in the Valley of Elah and drew up their battle line to meet the Philistines."
+  }, {
+    "verse" : "1samuel,17,3",
+    "text" : "The Philistines occupied one hill and the Israelites another, with the valley between them."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,17,2",
     "id" : 187539,
@@ -20,7 +29,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 17:2\">17:2</a></b> <b>Valley of Elah.</b> The valley descends from east to west, passing just north of Socoh and Azekah.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,17,4" ],
+  "verses" : [ {
+    "verse" : "1samuel,17,4",
+    "text" : "A champion named Goliath, who was from Gath, came out of the Philistine camp. He was over nine feet tall."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,17,4",
     "id" : 187540,
@@ -28,7 +40,25 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 17:4\">17:4</a></b> <b>champion.</b> Trial by single combat, where the outcome of a fight to the death between two champions is taken as the will of the gods, is rare in the Old Testament (compare <a class=\"bibleref\" href=\"/passage/?search=2Sam 2:14-2Sam 2:16\">2 Sam. 2:14–16</a>). It is well attested, however, among some of Israel’s neighbors.</p><p><b>six cubits and a span.</b> That is, nine feet, nine inches. The Septuagint (Greek Old Testament translation), Dead Sea Scrolls, and Josephus (<i>Antiquities</i> 6.9.1) all have four cubits instead of six, making Goliath six and a half feet tall, still a remarkable height by ancient standards.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,17,5", "1samuel,17,6", "1samuel,17,7", "1samuel,17,8", "1samuel,17,9", "1samuel,17,10" ],
+  "verses" : [ {
+    "verse" : "1samuel,17,5",
+    "text" : "He had a bronze helmet on his head and wore a coat of scale armor of bronze weighing five thousand shekels;"
+  }, {
+    "verse" : "1samuel,17,6",
+    "text" : "on his legs he wore bronze greaves, and a bronze javelin was slung on his back."
+  }, {
+    "verse" : "1samuel,17,7",
+    "text" : "His spear shaft was like a weaver's rod, and its iron point weighed six hundred shekels. His shield bearer went ahead of him."
+  }, {
+    "verse" : "1samuel,17,8",
+    "text" : "Goliath stood and shouted to the ranks of Israel, \"Why do you come out and line up for battle? Am I not a Philistine, and are you not the servants of Saul? Choose a man and have him come down to me."
+  }, {
+    "verse" : "1samuel,17,9",
+    "text" : "If he is able to fight and kill me, we will become your subjects; but if I overcome him and kill him, you will become our subjects and serve us.\""
+  }, {
+    "verse" : "1samuel,17,10",
+    "text" : "Then the Philistine said, \"This day I defy the ranks of Israel! Give me a man and let us fight each other.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,17,5-1samuel,17,7",
     "id" : 187541,
@@ -36,7 +66,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 17:5-1Sam 17:7\">17:5–7</a></b> The detailed description of Goliath’s armor and weapons is striking. David does not have to trust in equipment (<a class=\"bibleref\" href=\"/passage/?search=1Sam 17:39\">vv. 39</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 17:50\">50</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,17,11" ],
+  "verses" : [ {
+    "verse" : "1samuel,17,11",
+    "text" : "On hearing the Philistine's words, Saul and all the Israelites were dismayed and terrified."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,17,11",
     "id" : 187542,
@@ -44,7 +77,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 17:11\">17:11</a></b> <b>Saul.</b> The Philistine challenge to the “servants of Saul” had been to “choose a man” (<a class=\"bibleref\" href=\"/passage/?search=1Sam 17:8\">v. 8</a>). The logical choice would have been Saul (<a class=\"bibleref\" href=\"/passage/?search=1Sam 9:2\">9:2</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 10:23\">10:23</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 10:24\">24</a>), but he was terrified like everyone else.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,17,12", "1samuel,17,13", "1samuel,17,14" ],
+  "verses" : [ {
+    "verse" : "1samuel,17,12",
+    "text" : "Now David was the son of an Ephrathite named Jesse, who was from Bethlehem in Judah. Jesse had eight sons, and in Saul's time he was old and well advanced in years."
+  }, {
+    "verse" : "1samuel,17,13",
+    "text" : "Jesse's three oldest sons had followed Saul to the war: The firstborn was Eliab; the second, Abinadab; and the third, Shammah."
+  }, {
+    "verse" : "1samuel,17,14",
+    "text" : "David was the youngest. The three oldest followed Saul,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,17,12",
     "id" : 187543,
@@ -52,7 +94,37 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 17:12\">17:12</a></b> <b>Ephrathite.</b> See <a class=\"bibleref\" href=\"/passage/?search=Gen 35:19\">Gen. 35:19</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 48:7\">48:7</a>; <a class=\"bibleref\" href=\"/passage/?search=Ruth 1:2\">Ruth 1:2</a>; <a class=\"bibleref\" href=\"/passage/?search=Ruth 4:11\">4:11</a>; <a class=\"bibleref\" href=\"/passage/?search=1Chr 4:4\">1 Chr. 4:4</a>; <a class=\"bibleref\" href=\"/passage/?search=Mic 5:2\">Mic. 5:2</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,17,15", "1samuel,17,16", "1samuel,17,17", "1samuel,17,18", "1samuel,17,19", "1samuel,17,20", "1samuel,17,21", "1samuel,17,22", "1samuel,17,23", "1samuel,17,24" ],
+  "verses" : [ {
+    "verse" : "1samuel,17,15",
+    "text" : "but David went back and forth from Saul to tend his father's sheep at Bethlehem."
+  }, {
+    "verse" : "1samuel,17,16",
+    "text" : "For forty days the Philistine came forward every morning and evening and took his stand."
+  }, {
+    "verse" : "1samuel,17,17",
+    "text" : "Now Jesse said to his son David, \"Take this ephah of roasted grain and these ten loaves of bread for your brothers and hurry to their camp."
+  }, {
+    "verse" : "1samuel,17,18",
+    "text" : "Take along these ten cheeses to the commander of their unit. See how your brothers are and bring back some assurance from them."
+  }, {
+    "verse" : "1samuel,17,19",
+    "text" : "They are with Saul and all the men of Israel in the Valley of Elah, fighting against the Philistines.\""
+  }, {
+    "verse" : "1samuel,17,20",
+    "text" : "Early in the morning David left the flock with a shepherd, loaded up and set out, as Jesse had directed. He reached the camp as the army was going out to its battle positions, shouting the war cry."
+  }, {
+    "verse" : "1samuel,17,21",
+    "text" : "Israel and the Philistines were drawing up their lines facing each other."
+  }, {
+    "verse" : "1samuel,17,22",
+    "text" : "David left his things with the keeper of supplies, ran to the battle lines and greeted his brothers."
+  }, {
+    "verse" : "1samuel,17,23",
+    "text" : "As he was talking with them, Goliath, the Philistine champion from Gath, stepped out from his lines and shouted his usual defiance, and David heard it."
+  }, {
+    "verse" : "1samuel,17,24",
+    "text" : "When the Israelites saw the man, they all ran from him in great fear."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,17,15",
     "id" : 187544,
@@ -60,7 +132,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 17:15\">17:15</a></b> <b>David went back and forth from Saul.</b> David’s time was split between duties to his king (<a class=\"bibleref\" href=\"/passage/?search=1Sam 16:21-1Sam 16:23\">16:21–23</a>) and to his father. David’s whole family is introduced with him (<a class=\"bibleref\" href=\"/passage/?search=1Sam 16:12-1Sam 16:14\">vv. 12–14</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,17,25" ],
+  "verses" : [ {
+    "verse" : "1samuel,17,25",
+    "text" : "Now the Israelites had been saying, \"Do you see how this man keeps coming out? He comes out to defy Israel. The king will give great wealth to the man who kills him. He will also give him his daughter in marriage and will exempt his father's family from taxes in Israel.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,17,25",
     "id" : 187545,
@@ -68,7 +143,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 17:25\">17:25</a></b> <b>give him his daughter.</b> See notes <a class=\"bibleref\" href=\"/passage/?search=1Sam 18:17-1Sam 18:19\">18:17–19</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 18:20-1Sam 18:27\">20–27</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,17,26", "1samuel,17,27" ],
+  "verses" : [ {
+    "verse" : "1samuel,17,26",
+    "text" : "David asked the men standing near him, \"What will be done for the man who kills this Philistine and removes this disgrace from Israel? Who is this uncircumcised Philistine that he should defy the armies of the living God?\""
+  }, {
+    "verse" : "1samuel,17,27",
+    "text" : "They repeated to him what they had been saying and told him, \"This is what will be done for the man who kills him.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,17,26",
     "id" : 187546,
@@ -76,7 +157,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 17:26\">17:26</a></b> <b>uncircumcised Philistine.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Sam 14:6\">14:6</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,17,28", "1samuel,17,29", "1samuel,17,30", "1samuel,17,31", "1samuel,17,32" ],
+  "verses" : [ {
+    "verse" : "1samuel,17,28",
+    "text" : "When Eliab, David's oldest brother, heard him speaking with the men, he burned with anger at him and asked, \"Why have you come down here? And with whom did you leave those few sheep in the desert? I know how conceited you are and how wicked your heart is; you came down only to watch the battle.\""
+  }, {
+    "verse" : "1samuel,17,29",
+    "text" : "\"Now what have I done?\" said David. \"Can't I even speak?\""
+  }, {
+    "verse" : "1samuel,17,30",
+    "text" : "He then turned away to someone else and brought up the same matter, and the men answered him as before."
+  }, {
+    "verse" : "1samuel,17,31",
+    "text" : "What David said was overheard and reported to Saul, and Saul sent for him."
+  }, {
+    "verse" : "1samuel,17,32",
+    "text" : "David said to Saul, \"Let no one lose heart on account of this Philistine; your servant will go and fight him.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,17,28",
     "id" : 187547,
@@ -84,7 +180,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 17:28\">17:28</a></b> <b>Eliab’s anger was kindled.</b> Eliab’s sudden anger is the reaction of a man who was unable to meet a challenge and who resented being outdone by his little brother. David’s having been anointed would only increase Eliab’s jealousy. In <a class=\"bibleref\" href=\"/passage/?search=Gen 37\">Genesis 37</a>, Joseph’s older brothers react in the same way to the knowledge that he would one day be superior to them (<a class=\"bibleref\" href=\"/passage/?search=Gen 37:2-Gen 37:19\">Gen. 37:2–19</a>).</p><p><b>with whom have you left those few sheep.</b> Whatever his excitement about the battle, David had acted responsibly in regard to his more mundane duties (vv. 20, 22).</p><p><b>your presumption.</b> Or, “your insolence.”</p><p><b>the evil of your heart.</b> Contrast Eliab’s judgment of David with God’s, as indicated by statements like “a man after his own heart” (13:14), and “the <span class=\"small-caps\">Lord</span> looks on the heart” (16:7).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,17,33", "1samuel,17,34", "1samuel,17,35" ],
+  "verses" : [ {
+    "verse" : "1samuel,17,33",
+    "text" : "Saul replied, \"You are not able to go out against this Philistine and fight him; you are only a boy, and he has been a fighting man from his youth.\""
+  }, {
+    "verse" : "1samuel,17,34",
+    "text" : "But David said to Saul, \"Your servant has been keeping his father's sheep. When a lion or a bear came and carried off a sheep from the flock,"
+  }, {
+    "verse" : "1samuel,17,35",
+    "text" : "I went after it, struck it and rescued the sheep from its mouth. When it turned on me, I seized it by its hair, struck it and killed it."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,17,33-1samuel,17,37",
     "id" : 187548,
@@ -92,7 +197,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 17:33-1Sam 17:37\">17:33–37</a></b> The conversation between Saul and David vividly illustrates the radical difference in perspective between them. Saul continues to think in terms of what is humanly possible (“You are not able,” <a class=\"bibleref\" href=\"/passage/?search=1Sam 17:33\">v. 33</a>), while David is confident that “The <span class=\"small-caps\">Lord</span> . . . will deliver me” (<a class=\"bibleref\" href=\"/passage/?search=1Sam 17:37\">v. 37</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,17,36" ],
+  "verses" : [ {
+    "verse" : "1samuel,17,36",
+    "text" : "Your servant has killed both the lion and the bear; this uncircumcised Philistine will be like one of them, because he has defied the armies of the living God."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,17,36",
     "id" : 187549,
@@ -100,7 +208,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 17:36\">17:36</a></b> <b>uncircumcised Philistine.</b> See <a class=\"bibleref\" href=\"/passage/?search=1Sam 14:6\">14:6</a> note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,17,37" ],
+  "verses" : [ {
+    "verse" : "1samuel,17,37",
+    "text" : "The LORD who delivered me from the paw of the lion and the paw of the bear will deliver me from the hand of this Philistine.\" Saul said to David, \"Go, and the LORD be with you.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,17,37",
     "id" : 187550,
@@ -108,7 +219,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 17:37\">17:37</a></b> <b>the <span class=\"small-caps\">Lord</span> be with you.</b> David’s rise to power continues to be furthered, if unwittingly, by Saul. Having brought him into his court (<a class=\"bibleref\" href=\"/passage/?search=1Sam 16:19\">16:19</a> note), Saul now sends him out to fight his battle. Most ironic of all, Saul invokes over David the benediction that most clearly distinguishes them and will account for David’s ultimate success—“the <span class=\"small-caps\">Lord</span> be with you” (<a class=\"bibleref\" href=\"/passage/?search=1Sam 16:18\">16:18</a> and note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,17,38", "1samuel,17,39", "1samuel,17,40", "1samuel,17,41", "1samuel,17,42", "1samuel,17,43", "1samuel,17,44" ],
+  "verses" : [ {
+    "verse" : "1samuel,17,38",
+    "text" : "Then Saul dressed David in his own tunic. He put a coat of armor on him and a bronze helmet on his head."
+  }, {
+    "verse" : "1samuel,17,39",
+    "text" : "David fastened on his sword over the tunic and tried walking around, because he was not used to them. \"I cannot go in these,\" he said to Saul, \"because I am not used to them.\" So he took them off."
+  }, {
+    "verse" : "1samuel,17,40",
+    "text" : "Then he took his staff in his hand, chose five smooth stones from the stream, put them in the pouch of his shepherd's bag and, with his sling in his hand, approached the Philistine."
+  }, {
+    "verse" : "1samuel,17,41",
+    "text" : "Meanwhile, the Philistine, with his shield bearer in front of him, kept coming closer to David."
+  }, {
+    "verse" : "1samuel,17,42",
+    "text" : "He looked David over and saw that he was only a boy, ruddy and handsome, and he despised him."
+  }, {
+    "verse" : "1samuel,17,43",
+    "text" : "He said to David, \"Am I a dog, that you come at me with sticks?\" And the Philistine cursed David by his gods."
+  }, {
+    "verse" : "1samuel,17,44",
+    "text" : "\"Come here,\" he said, \"and I'll give your flesh to the birds of the air and the beasts of the field!\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,17,38-1samuel,17,39",
     "id" : 187551,
@@ -116,7 +248,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 17:38\">17:38</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 17:39\">39</a></b> David’s rejection of Saul’s armor and weapons supports the point of the narrative that “the <span class=\"small-caps\">Lord</span> saves not with sword and spear. For the battle is the <span class=\"small-caps\">Lord</span>’s” (<a class=\"bibleref\" href=\"/passage/?search=1Sam 17:47\">v. 47</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,17,45" ],
+  "verses" : [ {
+    "verse" : "1samuel,17,45",
+    "text" : "David said to the Philistine, \"You come against me with sword and spear and javelin, but I come against you in the name of the LORD Almighty, the God of the armies of Israel, whom you have defied."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,17,45",
     "id" : 187552,
@@ -124,7 +259,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 17:45\">17:45</a></b> <b>in the name of the <span class=\"small-caps\">Lord</span> of hosts.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Sam 1:3\">1:3</a>. David comes “in the name” of God, that is, by the authority and power of God. On the significance of God’s name as expressing His character, see, for example, <a class=\"bibleref\" href=\"/passage/?search=Exod 34:5-Exod 34:7\">Ex. 34:5–7</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,17,46" ],
+  "verses" : [ {
+    "verse" : "1samuel,17,46",
+    "text" : "This day the LORD will hand you over to me, and I'll strike you down and cut off your head. Today I will give the carcasses of the Philistine army to the birds of the air and the beasts of the earth, and the whole world will know that there is a God in Israel."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,17,46",
     "id" : 187553,
@@ -132,7 +270,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 17:46\">17:46</a></b> <b>dead bodies . . . of the Philistines.</b> David outdoes Goliath’s threat (<a class=\"bibleref\" href=\"/passage/?search=1Sam 17:44\">v. 44</a>) by extending his counterthreat to encompass the entire Philistine army.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,17,47", "1samuel,17,48", "1samuel,17,49" ],
+  "verses" : [ {
+    "verse" : "1samuel,17,47",
+    "text" : "All those gathered here will know that it is not by sword or spear that the LORD saves; for the battle is the LORD's, and he will give all of you into our hands.\""
+  }, {
+    "verse" : "1samuel,17,48",
+    "text" : "As the Philistine moved closer to attack him, David ran quickly toward the battle line to meet him."
+  }, {
+    "verse" : "1samuel,17,49",
+    "text" : "Reaching into his bag and taking out a stone, he slung it and struck the Philistine on the forehead. The stone sank into his forehead, and he fell facedown on the ground."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,17,47",
     "id" : 187554,
@@ -140,7 +287,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 17:47\">17:47</a></b> <b>battle is the <span class=\"small-caps\">Lord</span>’s.</b> See notes on <a class=\"bibleref\" href=\"/passage/?search=1Sam 17:38\">vv. 38</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 17:39\">39</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 14:6\">14:6</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,17,50" ],
+  "verses" : [ {
+    "verse" : "1samuel,17,50",
+    "text" : "So David triumphed over the Philistine with a sling and a stone; without a sword in his hand he struck down the Philistine and killed him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,17,50",
     "id" : 187555,
@@ -148,7 +298,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 17:50\">17:50</a></b> <b>killed.</b> That is, dealt him the mortal wound (<a class=\"bibleref\" href=\"/passage/?search=1Sam 17:51\">v. 51</a>) note.</p><p><b>There was no sword.</b> This verse marks the climax of the contest between Goliath, who physically speaking had all the advantages, and David, who had God on his side, and was able to triumph even without a sword (cf. <a class=\"bibleref\" href=\"/passage/?search=1Sam 17:45-1Sam 17:47\">vv. 45–47</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,17,51" ],
+  "verses" : [ {
+    "verse" : "1samuel,17,51",
+    "text" : "David ran and stood over him. He took hold of the Philistine's sword and drew it from the scabbard. After he killed him, he cut off his head with the sword. When the Philistines saw that their hero was dead, they turned and ran."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,17,51",
     "id" : 187556,
@@ -156,7 +309,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 17:51\">17:51</a></b> <b>killed.</b> A different form of the Hebrew verb is used than in <a class=\"bibleref\" href=\"/passage/?search=1Sam 17:50\">v. 50</a>; the sense is “dispatched,” as in <a class=\"bibleref\" href=\"/passage/?search=1Sam 14:13\">14:13</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,17,52", "1samuel,17,53" ],
+  "verses" : [ {
+    "verse" : "1samuel,17,52",
+    "text" : "Then the men of Israel and Judah surged forward with a shout and pursued the Philistines to the entrance of Gath and to the gates of Ekron. Their dead were strewn along the Shaaraim road to Gath and Ekron."
+  }, {
+    "verse" : "1samuel,17,53",
+    "text" : "When the Israelites returned from chasing the Philistines, they plundered their camp."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,17,52",
     "id" : 187557,
@@ -164,7 +323,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 17:52\">17:52</a></b> <b>Gath and Ekron.</b> See notes <a class=\"bibleref\" href=\"/passage/?search=1Sam 4:1\">4:1</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 5:8\">5:8</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 5:10\">10</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,17,54" ],
+  "verses" : [ {
+    "verse" : "1samuel,17,54",
+    "text" : "David took the Philistine's head and brought it to Jerusalem, and he put the Philistine's weapons in his own tent."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,17,54",
     "id" : 187558,
@@ -172,7 +334,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 17:54\">17:54</a></b> <b>brought it to Jerusalem.</b> Since Jerusalem was at this time in Jebusite hands (<a class=\"bibleref\" href=\"/passage/?search=2Sam 5:6-2Sam 5:9\">2 Sam. 5:6–9</a> and notes), this remark should be understood as referring to a later time.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,17,55", "1samuel,17,56", "1samuel,17,57", "1samuel,17,58", "1samuel,18,1" ],
+  "verses" : [ {
+    "verse" : "1samuel,17,55",
+    "text" : "As Saul watched David going out to meet the Philistine, he said to Abner, commander of the army, \"Abner, whose son is that young man?\" Abner replied, \"As surely as you live, O king, I don't know.\""
+  }, {
+    "verse" : "1samuel,17,56",
+    "text" : "The king said, \"Find out whose son this young man is.\""
+  }, {
+    "verse" : "1samuel,17,57",
+    "text" : "As soon as David returned from killing the Philistine, Abner took him and brought him before Saul, with David still holding the Philistine's head."
+  }, {
+    "verse" : "1samuel,17,58",
+    "text" : "\"Whose son are you, young man?\" Saul asked him. David said, \"I am the son of your servant Jesse of Bethlehem.\""
+  }, {
+    "verse" : "1samuel,18,1",
+    "text" : "After David had finished talking with Saul, Jonathan became one in spirit with David, and he loved him as himself."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,17,55",
     "id" : 187559,
@@ -180,7 +357,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 17:55\">17:55</a></b> <b>whose son is this youth.</b> Saul’s question and Abner’s response appear to conflict with the events described in <a class=\"bibleref\" href=\"/passage/?search=1Sam 16:18-1Sam 16:22\">16:18–22</a>. At the same time a chronological relationship between <a class=\"bibleref\" href=\"/passage/?search=1Sam 16\">chs. 16</a> and <a class=\"bibleref\" href=\"/passage/?search=1Sam 17\">17</a> seems to be warranted (v.15 and <a class=\"bibleref\" href=\"/passage/?search=1Sam 18:2\">18:2</a>). Saul’s question may have been prompted by concerns about the social status of someone who might receive the position promised in <a class=\"bibleref\" href=\"/passage/?search=1Sam 17:25\">17:25</a>, including marriage to his daughter. The intensity of Saul’s interest may also reflect his knowledge that the kingdom will ultimately be given to “a neighbor of yours, who is better than you” (<a class=\"bibleref\" href=\"/passage/?search=1Sam 15:28\">15:28</a>). See 18:8 and note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,18,2" ],
+  "verses" : [ {
+    "verse" : "1samuel,18,2",
+    "text" : "From that day Saul kept David with him and did not let him return to his father's house."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,18,2",
     "id" : 187560,
@@ -188,7 +368,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 18:2\">18:2</a></b> <b>would not let him return.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Sam 17:15\">17:15</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,18,3" ],
+  "verses" : [ {
+    "verse" : "1samuel,18,3",
+    "text" : "And Jonathan made a covenant with David because he loved him as himself."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,18,3",
     "id" : 187561,
@@ -196,7 +379,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 18:3\">18:3</a></b> <b>covenant.</b> The nature of the covenant is not explicitly stated, but see the note on <a class=\"bibleref\" href=\"/passage/?search=1Sam 18:4\">v. 4</a>. Further references to the covenant between Jonathan and David include <a class=\"bibleref\" href=\"/passage/?search=1Sam 20:8\">20:8</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 20:13-1Sam 20:17\">13–17</a>, <a class=\"bibleref\" href=\"/passage/?search=1Sam 20:42\">42</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 22:8\">22:8</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 23:18\">23:18</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,18,4" ],
+  "verses" : [ {
+    "verse" : "1samuel,18,4",
+    "text" : "Jonathan took off the robe he was wearing and gave it to David, along with his tunic, and even his sword, his bow and his belt."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,18,4",
     "id" : 187562,

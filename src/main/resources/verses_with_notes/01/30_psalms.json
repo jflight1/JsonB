@@ -1,5 +1,17 @@
 [ {
-  "singleVerses" : [ "psalms,25,1", "psalms,25,2", "psalms,25,3", "psalms,25,4" ],
+  "verses" : [ {
+    "verse" : "psalms,25,1",
+    "text" : "To you, O LORD, I lift up my soul;"
+  }, {
+    "verse" : "psalms,25,2",
+    "text" : "in you I trust, O my God. Do not let me be put to shame, nor let my enemies triumph over me."
+  }, {
+    "verse" : "psalms,25,3",
+    "text" : "No one whose hope is in you will ever be put to shame, but they will be put to shame who are treacherous without excuse."
+  }, {
+    "verse" : "psalms,25,4",
+    "text" : "Show me your ways, O LORD, teach me your paths;"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,25,1-psalms,25,22",
     "id" : 190403,
@@ -7,7 +19,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 25\">Ps. 25</a></b> This acrostic psalm is primarily the lament of an individual (vv. 16–21), but the last verse applies it to the community. Covenantal (v. 10) and wisdom (vv. 4, <a class=\"bibleref\" href=\"/passage/?search=Ps 25:5\">5</a>) language pervade the poem.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,25,5" ],
+  "verses" : [ {
+    "verse" : "psalms,25,5",
+    "text" : "guide me in your truth and teach me, for you are God my Savior, and my hope is in you all day long."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,25,5",
     "id" : 190404,
@@ -15,7 +30,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 25:5\">25:5</a></b> See “Understanding the Word of God” at <a class=\"bibleref\" href=\"/passage/?search=Ps 119:34\">119:34</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,25,6", "psalms,25,7", "psalms,25,8", "psalms,25,9" ],
+  "verses" : [ {
+    "verse" : "psalms,25,6",
+    "text" : "Remember, O LORD, your great mercy and love, for they are from of old."
+  }, {
+    "verse" : "psalms,25,7",
+    "text" : "Remember not the sins of my youth and my rebellious ways; according to your love remember me, for you are good, O LORD."
+  }, {
+    "verse" : "psalms,25,8",
+    "text" : "Good and upright is the LORD; therefore he instructs sinners in his ways."
+  }, {
+    "verse" : "psalms,25,9",
+    "text" : "He guides the humble in what is right and teaches them his way."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,25,6-psalms,25,7",
     "id" : 190405,
@@ -23,7 +50,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 25:6\">25:6</a>, <a class=\"bibleref\" href=\"/passage/?search=Ps 25:7\">7</a> Remember . . . mercy . . . steadfast love.</b> These words are all closely connected with God’s covenant, which is the basis of the psalmist’s trust.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,25,10", "psalms,25,11" ],
+  "verses" : [ {
+    "verse" : "psalms,25,10",
+    "text" : "All the ways of the LORD are loving and faithful for those who keep the demands of his covenant."
+  }, {
+    "verse" : "psalms,25,11",
+    "text" : "For the sake of your name, O LORD, forgive my iniquity, though it is great."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,25,10",
     "id" : 190406,
@@ -31,7 +64,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 25:10\">25:10</a></b> <b>his covenant and his testimonies.</b> His revealed will for our lives; that is, the law.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,25,12" ],
+  "verses" : [ {
+    "verse" : "psalms,25,12",
+    "text" : "Who, then, is the man that fears the LORD? He will instruct him in the way chosen for him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,25,12",
     "id" : 190407,
@@ -39,7 +75,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 25:12\">25:12</a></b> <b>fears the <span class=\"small-caps\">Lord</span>.</b> Cf. <a class=\"bibleref\" href=\"/passage/?search=Prov 1:7\">Prov. 1:7</a> and <a class=\"bibleref\" href=\"/passage/?search=Eccl 12:13\">Eccl. 12:13</a>. The fear of the Lord is reverence and awe toward God, not life-disrupting anxiety. Also, see note <a class=\"bibleref\" href=\"/passage/?search=Ps 111:10\">Ps. 111:10</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,25,13" ],
+  "verses" : [ {
+    "verse" : "psalms,25,13",
+    "text" : "He will spend his days in prosperity, and his descendants will inherit the land."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,25,13",
     "id" : 190408,
@@ -47,7 +86,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 25:13\">25:13</a></b> <b>inherit the land.</b> The blessings and curses of <a class=\"bibleref\" href=\"/passage/?search=Deut 27\">Deut. 27</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 28\">28</a> make it clear that Israel will keep the land given them by God if they remain faithful to the conditions of the covenant (cf. v. 10).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,25,14", "psalms,25,15" ],
+  "verses" : [ {
+    "verse" : "psalms,25,14",
+    "text" : "The LORD confides in those who fear him; he makes his covenant known to them."
+  }, {
+    "verse" : "psalms,25,15",
+    "text" : "My eyes are ever on the LORD, for only he will release my feet from the snare."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,25,14",
     "id" : 190409,

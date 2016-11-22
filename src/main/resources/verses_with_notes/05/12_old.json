@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "1samuel,12,1", "1samuel,12,2" ],
+  "verses" : [ {
+    "verse" : "1samuel,12,1",
+    "text" : "Samuel said to all Israel, \"I have listened to everything you said to me and have set a king over you."
+  }, {
+    "verse" : "1samuel,12,2",
+    "text" : "Now you have a king as your leader. As for me, I am old and gray, and my sons are here with you. I have been your leader from my youth until this day."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,12,1",
     "id" : 187456,
@@ -7,7 +13,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 12:1\">12:1</a></b> <b>have made a king over you.</b> The process of accession to the throne has been completed, and Samuel’s speech in <a class=\"bibleref\" href=\"/passage/?search=1Sam 12\">ch. 12</a> marks the end of the period of the judges.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,12,3", "1samuel,12,4", "1samuel,12,5", "1samuel,12,6" ],
+  "verses" : [ {
+    "verse" : "1samuel,12,3",
+    "text" : "Here I stand. Testify against me in the presence of the LORD and his anointed. Whose ox have I taken? Whose donkey have I taken? Whom have I cheated? Whom have I oppressed? From whose hand have I accepted a bribe to make me shut my eyes? If I have done any of these, I will make it right.\""
+  }, {
+    "verse" : "1samuel,12,4",
+    "text" : "\"You have not cheated or oppressed us,\" they replied. \"You have not taken anything from anyone's hand.\""
+  }, {
+    "verse" : "1samuel,12,5",
+    "text" : "Samuel said to them, \"The LORD is witness against you, and also his anointed is witness this day, that you have not found anything in my hand.He is witness,\" they said."
+  }, {
+    "verse" : "1samuel,12,6",
+    "text" : "Then Samuel said to the people, \"It is the LORD who appointed Moses and Aaron and brought your forefathers up out of Egypt."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,12,3-1samuel,12,15",
     "id" : 187457,
@@ -20,7 +38,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 12:3\">12:3</a></b> <b>his anointed.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Sam 2:10\">2:10</a>. Saul’s anointing is ordered in <a class=\"bibleref\" href=\"/passage/?search=1Sam 9:16\">9:16</a> and performed in <a class=\"bibleref\" href=\"/passage/?search=1Sam 10:1\">10:1</a>.</p><p><b>Whose ox . . . whose donkey have I taken.</b> Valuable possessions in biblical times, ox and donkey are mentioned in the tenth commandment as typical objects of covetousness (<a class=\"bibleref\" href=\"/passage/?search=Exod 20:17\">Ex. 20:17</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 5:21\">Deut. 5:21</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,12,7", "1samuel,12,8", "1samuel,12,9", "1samuel,12,10", "1samuel,12,11" ],
+  "verses" : [ {
+    "verse" : "1samuel,12,7",
+    "text" : "Now then, stand here, because I am going to confront you with evidence before the LORD as to all the righteous acts performed by the LORD for you and your fathers."
+  }, {
+    "verse" : "1samuel,12,8",
+    "text" : "\"After Jacob entered Egypt, they cried to the LORD for help, and the LORD sent Moses and Aaron, who brought your forefathers out of Egypt and settled them in this place."
+  }, {
+    "verse" : "1samuel,12,9",
+    "text" : "\"But they forgot the LORD their God; so he sold them into the hand of Sisera, the commander of the army of Hazor, and into the hands of the Philistines and the king of Moab, who fought against them."
+  }, {
+    "verse" : "1samuel,12,10",
+    "text" : "They cried out to the LORD and said, 'We have sinned; we have forsaken the LORD and served the Baals and the Ashtoreths. But now deliver us from the hands of our enemies, and we will serve you.'"
+  }, {
+    "verse" : "1samuel,12,11",
+    "text" : "Then the LORD sent Jerub-Baal, Barak, Jephthah and Samuel, and he delivered you from the hands of your enemies on every side, so that you lived securely."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,12,7",
     "id" : 187459,
@@ -28,7 +61,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 12:7\">12:7</a></b> <b>may plead with you.</b> Samuel has taken the stand himself as a defendant and been acquitted (<a class=\"bibleref\" href=\"/passage/?search=1Sam 12:3-1Sam 12:5\">vv. 3–5</a>); now he takes the role of prosecutor and the people become the defendants. Their crime is having desired a king in total disregard of all the “righteous deeds of the <span class=\"small-caps\">Lord</span>” throughout the time of the Exodus and the judges (<a class=\"bibleref\" href=\"/passage/?search=1Sam 12:7-1Sam 12:11\">vv. 7–11</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,12,12" ],
+  "verses" : [ {
+    "verse" : "1samuel,12,12",
+    "text" : "\"But when you saw that Nahash king of the Ammonites was moving against you, you said to me, 'No, we want a king to rule over us'-even though the LORD your God was your king."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,12,12",
     "id" : 187460,
@@ -36,7 +72,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 12:12\">12:12</a></b> <b>when you saw that Nahash the king of the Ammonites came against you.</b> Though it is not explicitly mentioned in <a class=\"bibleref\" href=\"/passage/?search=1Sam 8\">ch. 8</a>, it is possible that the Ammonite threat was already a concern at that time (<a class=\"bibleref\" href=\"/passage/?search=1Sam 11:1\">11:1</a> note). Alternatively, Samuel may simply be citing the Ammonite episode as the most recent example of the people’s faithless tendency to seek help from men rather than God. Saul himself gave the Lord credit for the victory (<a class=\"bibleref\" href=\"/passage/?search=1Sam 11:13\">11:13</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,12,13" ],
+  "verses" : [ {
+    "verse" : "1samuel,12,13",
+    "text" : "Now here is the king you have chosen, the one you asked for; see, the LORD has set a king over you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,12,13",
     "id" : 187461,
@@ -44,7 +83,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 12:13\">12:13</a></b> <b>the king whom you have chosen.</b> See <a class=\"bibleref\" href=\"/passage/?search=1Sam 8:18\">8:18</a> and contrast <a class=\"bibleref\" href=\"/passage/?search=1Sam 16:1\">16:1</a>.</p><p><b>for whom you have asked.</b> See <a class=\"bibleref\" href=\"/passage/?search=1Sam 8:10\">8:10</a> note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,12,14", "1samuel,12,15" ],
+  "verses" : [ {
+    "verse" : "1samuel,12,14",
+    "text" : "If you fear the LORD and serve and obey him and do not rebel against his commands, and if both you and the king who reigns over you follow the LORD your God-good!"
+  }, {
+    "verse" : "1samuel,12,15",
+    "text" : "But if you do not obey the LORD, and if you rebel against his commands, his hand will be against you, as it was against your fathers."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,12,14",
     "id" : 187462,
@@ -52,7 +97,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 12:14\">12:14</a></b> <b>fear the <span class=\"small-caps\">Lord</span>.</b> A fundamental prerequisite for covenant blessing in Moses’ day (<a class=\"bibleref\" href=\"/passage/?search=Deut 6:2\">Deut. 6:2</a>, <a class=\"bibleref\" href=\"/passage/?search=Deut 6:24\">24</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 10:12\">10:12</a>; <a class=\"bibleref\" href=\"/passage/?search=Deut 31:12\">31:12</a>, <a class=\"bibleref\" href=\"/passage/?search=Deut 31:13\">13</a>), in Joshua’s (<a class=\"bibleref\" href=\"/passage/?search=Josh 4:24\">Josh. 4:24</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 24:14\">24:14</a>), and now in the new era of the monarchy, “fear of the <span class=\"small-caps\">Lord</span>” means standing in awe of Him and giving Him the honor and obedience that is His due as God and gracious Father.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,12,16" ],
+  "verses" : [ {
+    "verse" : "1samuel,12,16",
+    "text" : "\"Now then, stand still and see this great thing the LORD is about to do before your eyes!"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,12,16-1samuel,12,19",
     "id" : 187463,
@@ -60,7 +108,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 12:16-1Sam 12:19\">12:16–19</a></b> Having made his case against the people in <a class=\"bibleref\" href=\"/passage/?search=1Sam 12:3-1Sam 12:15\">vv. 3–15</a>, Samuel now invokes a dramatic sign to drive home the point of the people’s guilt. The sign achieves the desired result, and the people repent for having “added to all our sins this evil, to ask for ourselves a king” (<a class=\"bibleref\" href=\"/passage/?search=1Sam 12:19\">v. 19</a>). On signs accompanying prophetic utterances, see <a class=\"bibleref\" href=\"/passage/?search=1Sam 2:34\">2:34</a> note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,12,17", "1samuel,12,18", "1samuel,12,19" ],
+  "verses" : [ {
+    "verse" : "1samuel,12,17",
+    "text" : "Is it not wheat harvest now? I will call upon the LORD to send thunder and rain. And you will realize what an evil thing you did in the eyes of the LORD when you asked for a king.\""
+  }, {
+    "verse" : "1samuel,12,18",
+    "text" : "Then Samuel called upon the LORD, and that same day the LORD sent thunder and rain. So all the people stood in awe of the LORD and of Samuel."
+  }, {
+    "verse" : "1samuel,12,19",
+    "text" : "The people all said to Samuel, \"Pray to the LORD your God for your servants so that we will not die, for we have added to all our other sins the evil of asking for a king.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,12,17",
     "id" : 187464,
@@ -68,7 +125,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 12:17\">12:17</a></b> <b>wheat harvest.</b> The wheat harvest probably took place in May and June, early in Israel’s dry season.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,12,20", "1samuel,12,21", "1samuel,12,22" ],
+  "verses" : [ {
+    "verse" : "1samuel,12,20",
+    "text" : "\"Do not be afraid,\" Samuel replied. \"You have done all this evil; yet do not turn away from the LORD, but serve the LORD with all your heart."
+  }, {
+    "verse" : "1samuel,12,21",
+    "text" : "Do not turn away after useless idols. They can do you no good, nor can they rescue you, because they are useless."
+  }, {
+    "verse" : "1samuel,12,22",
+    "text" : "For the sake of his great name the LORD will not reject his people, because the LORD was pleased to make you his own."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,12,20-1samuel,12,25",
     "id" : 187465,
@@ -76,7 +142,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 12:20-1Sam 12:25\">12:20–25</a></b> In response to the people’s repentance, Samuel comforts them, “Do not be afraid,” and challenges them to renewed commitment (<a class=\"bibleref\" href=\"/passage/?search=1Sam 12:20\">v. 20</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,12,23" ],
+  "verses" : [ {
+    "verse" : "1samuel,12,23",
+    "text" : "As for me, far be it from me that I should sin against the LORD by failing to pray for you. And I will teach you the way that is good and right."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,12,23",
     "id" : 187466,
@@ -84,7 +153,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 12:23\">12:23</a></b> <b>pray for you . . . instruct you.</b> Samuel’s responsibilities in the kingdom will include intercession and instruction (<a class=\"bibleref\" href=\"/passage/?search=1Sam 12:1\">12:1</a> note; for other duties of <a class=\"bibleref\" href=\"/passage/?search=1Sam 10:8\">Samuel see 10:8</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,12,24", "1samuel,12,25" ],
+  "verses" : [ {
+    "verse" : "1samuel,12,24",
+    "text" : "But be sure to fear the LORD and serve him faithfully with all your heart; consider what great things he has done for you."
+  }, {
+    "verse" : "1samuel,12,25",
+    "text" : "Yet if you persist in doing evil, both you and your king will be swept away.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,12,24",
     "id" : 187467,
@@ -92,7 +167,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 12:24\">12:24</a></b> <b>fear the <span class=\"small-caps\">Lord</span>.</b> See note on <a class=\"bibleref\" href=\"/passage/?search=1Sam 12:14\">v. 14</a>.</p><p><b>with all your heart.</b> See <a class=\"bibleref\" href=\"/passage/?search=1Sam 12:20\">v. 20</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 16:7\">16:7</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,13,1" ],
+  "verses" : [ {
+    "verse" : "1samuel,13,1",
+    "text" : "Saul was thirty years old when he became king, and he reigned over Israel forty- two years."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,13,1-1samuel,14,52",
     "id" : 187468,
@@ -105,7 +183,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 13:1\">13:1</a></b> The preservation of this verse in the manuscript tradition has some defect, since as it stands the Hebrew says that Saul was one year old when he began to rule. But Saul was already a soldier. Saul probably reigned about twenty years, and the number “forty” in <a class=\"bibleref\" href=\"/passage/?search=Acts 13:21\">Acts 13:21</a> would be a round figure meaning “a long time.” See the chronology in Introduction: Date and Occasion.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,13,2" ],
+  "verses" : [ {
+    "verse" : "1samuel,13,2",
+    "text" : "Saul chose three thousand men from Israel; two thousand were with him at Micmash and in the hill country of Bethel, and a thousand were with Jonathan at Gibeah in Benjamin. The rest of the men he sent back to their homes."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,13,2",
     "id" : 187470,
@@ -113,7 +194,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 13:2\">13:2</a></b> <b>Michmash.</b> Some four miles southeast of Bethel on the north side of the Wadi Suwenet, a seasonal river valley used for travel between the Jordan Valley and the central hill country.</p><p><b>Gibeah of Benjamin.</b> This may be the Gibeah three miles north of Jerusalem, or possibly it was a village facing Michmash from the south side of the Wadi Suwenet.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,13,3" ],
+  "verses" : [ {
+    "verse" : "1samuel,13,3",
+    "text" : "Jonathan attacked the Philistine outpost at Geba, and the Philistines heard about it. Then Saul had the trumpet blown throughout the land and said, \"Let the Hebrews hear!\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,13,3",
     "id" : 187471,
@@ -121,7 +205,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 13:3\">13:3</a></b> <b>Jonathan defeated the garrison . . . at Geba.</b> This could be the same garrison near where Saul prophesied.</p><p><b>blew the trumpet.</b> Trumpets were used in war as a signaling device (<a class=\"bibleref\" href=\"/passage/?search=2Sam 2:28\">2 Sam. 2:28</a>; <a class=\"bibleref\" href=\"/passage/?search=2Sam 18:16\">18:16</a>; <a class=\"bibleref\" href=\"/passage/?search=2Sam 20:1\">20:1</a>).</p><p><b>Hebrews.</b> See note 4:6.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,13,4", "1samuel,13,5", "1samuel,13,6" ],
+  "verses" : [ {
+    "verse" : "1samuel,13,4",
+    "text" : "So all Israel heard the news: \"Saul has attacked the Philistine outpost, and now Israel has become a stench to the Philistines.\" And the people were summoned to join Saul at Gilgal."
+  }, {
+    "verse" : "1samuel,13,5",
+    "text" : "The Philistines assembled to fight Israel, with three thousand chariots, six thousand charioteers, and soldiers as numerous as the sand on the seashore. They went up and camped at Micmash, east of Beth Aven."
+  }, {
+    "verse" : "1samuel,13,6",
+    "text" : "When the men of Israel saw that their situation was critical and that their army was hard pressed, they hid in caves and thickets, among the rocks, and in pits and cisterns."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,13,4",
     "id" : 187472,
@@ -129,7 +222,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 13:4\">13:4</a></b> <b>Gilgal.</b> Saul responds to the crisis precipitated by Jonathan (<a class=\"bibleref\" href=\"/passage/?search=1Sam 13:3\">v. 3</a>), gathering the people at Gilgal in accordance with Samuel’s instructions (<a class=\"bibleref\" href=\"/passage/?search=1Sam 10:8\">10:8</a>). Gilgal’s situation in the Jordan Valley near Jericho placed it outside immediate Philistine control, making it a strategic site for a general muster. Gilgal had figured prominently in Israel’s earlier history (<a class=\"bibleref\" href=\"/passage/?search=Josh 4:19\">Josh. 4:19</a>, <a class=\"bibleref\" href=\"/passage/?search=Josh 4:20\">20</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 5:10\">5:10</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 9:6\">9:6</a>; <a class=\"bibleref\" href=\"/passage/?search=Josh 10:6-Josh 10:15\">10:6–15</a>, <a class=\"bibleref\" href=\"/passage/?search=Josh 10:43\">43</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 7:16\">1 Sam. 7:16</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 11:14\">11:14</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,13,7" ],
+  "verses" : [ {
+    "verse" : "1samuel,13,7",
+    "text" : "Some Hebrews even crossed the Jordan to the land of Gad and Gilead. Saul remained at Gilgal, and all the troops with him were quaking with fear."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,13,7",
     "id" : 187473,
@@ -137,7 +233,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 13:7\">13:7</a></b> <b>all the people.</b> These are the people summoned in <a class=\"bibleref\" href=\"/passage/?search=1Sam 13:4\">v. 4</a>, and not the troops already deployed in <a class=\"bibleref\" href=\"/passage/?search=1Sam 13:2\">v. 2</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,13,8" ],
+  "verses" : [ {
+    "verse" : "1samuel,13,8",
+    "text" : "He waited seven days, the time set by Samuel; but Samuel did not come to Gilgal, and Saul's men began to scatter."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,13,8",
     "id" : 187474,
@@ -145,7 +244,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 13:8\">13:8</a></b> <b>the time appointed by Samuel.</b> Samuel had previously specified seven days (<a class=\"bibleref\" href=\"/passage/?search=1Sam 10:8\">10:8</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,13,9", "1samuel,13,10" ],
+  "verses" : [ {
+    "verse" : "1samuel,13,9",
+    "text" : "So he said, \"Bring me the burnt offering and the fellowship offerings. \"And Saul offered up the burnt offering."
+  }, {
+    "verse" : "1samuel,13,10",
+    "text" : "Just as he finished making the offering, Samuel arrived, and Saul went out to greet him."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,13,9",
     "id" : 187475,
@@ -153,7 +258,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 13:9\">13:9</a></b> <b>burnt offering . . . peace offerings.</b> See <a class=\"bibleref\" href=\"/passage/?search=1Sam 10:8\">10:8</a> note.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,13,11", "1samuel,13,12" ],
+  "verses" : [ {
+    "verse" : "1samuel,13,11",
+    "text" : "\"What have you done?\" asked Samuel. Saul replied, \"When I saw that the men were scattering, and that you did not come at the set time, and that the Philistines were assembling at Micmash,"
+  }, {
+    "verse" : "1samuel,13,12",
+    "text" : "I thought, 'Now the Philistines will come down against me at Gilgal, and I have not sought the LORD's favor.' So I felt compelled to offer the burnt offering.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,13,11",
     "id" : 187476,
@@ -161,7 +272,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 13:11\">13:11</a></b> <b>What have you done.</b> See note <a class=\"bibleref\" href=\"/passage/?search=1Sam 2:27-1Sam 2:36\">2:27–36</a>.</p><p><b>When I saw.</b> From a purely human perspective Saul’s excuses would seem to carry some weight. But they do not take into account the freedom of God to act on behalf of His people, as Jonathan’s testimony in <a class=\"bibleref\" href=\"/passage/?search=1Sam 14:6\">14:6</a> confirms.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,13,13" ],
+  "verses" : [ {
+    "verse" : "1samuel,13,13",
+    "text" : "\"You acted foolishly,\" Samuel said. \"You have not kept the command the LORD your God gave you; if you had, he would have established your kingdom over Israel for all time."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,13,13",
     "id" : 187477,
@@ -169,7 +283,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 13:13\">13:13</a></b> <b>You have done foolishly.</b> This Hebrew expression implies both intellectual and moral failure. For a similar confrontation between a prophet and a king, see <a class=\"bibleref\" href=\"/passage/?search=2Chr 16:7-2Chr 16:9\">2 Chr. 16:7–9</a>.</p><p><b>You have not kept the command.</b> In this context, Saul had transgressed by offering sacrifices on his own authority.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,13,14" ],
+  "verses" : [ {
+    "verse" : "1samuel,13,14",
+    "text" : "But now your kingdom will not endure; the LORD has sought out a man after his own heart and appointed him leader of his people, because you have not kept the LORD's command.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,13,14",
     "id" : 187478,
@@ -177,7 +294,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 13:14\">13:14</a></b> <b>your kingdom shall not continue.</b> Saul’s hopes of establishing a dynasty are dashed, though Saul himself will not yet be deposed (<a class=\"bibleref\" href=\"/passage/?search=1Sam 15:23\">15:23</a>).</p><p><b>a man after his own heart.</b> The phrase might also be rendered “a man of His own choosing,” placing the accent on the Lord’s sovereign election. Nevertheless, in the light of passages such as <a class=\"bibleref\" href=\"/passage/?search=1Sam 2:35\">2:35</a> and <a class=\"bibleref\" href=\"/passage/?search=1Sam 16:7\">16:7</a>, the text is also saying that the Lord’s chosen one, David, was “after God’s heart” in the sense of being committed to His will and purposes.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,13,15", "1samuel,13,16" ],
+  "verses" : [ {
+    "verse" : "1samuel,13,15",
+    "text" : "Then Samuel left Gilgal and went up to Gibeah in Benjamin, and Saul counted the men who were with him. They numbered about six hundred."
+  }, {
+    "verse" : "1samuel,13,16",
+    "text" : "Saul and his son Jonathan and the men with them were staying in Gibeah in Benjamin, while the Philistines camped at Micmash."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,13,15",
     "id" : 187479,
@@ -185,7 +308,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 13:15\">13:15</a></b> <b>And Samuel arose.</b> Because of Saul’s foolish action, Samuel apparently departed without giving Saul any further instructions (<a class=\"bibleref\" href=\"/passage/?search=1Sam 10:8\">10:8</a>). The longer reading of the Septuagint (the early Greek translation of the Old Testament; see text note) is probably correct, suggesting that after Samuel’s departure Saul rejoined Jonathan at Geba (<a class=\"bibleref\" href=\"/passage/?search=1Sam 10:2\">v. 2</a> note; <a class=\"bibleref\" href=\"/passage/?search=1Sam 10:16\">v. 16</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,13,17", "1samuel,13,18" ],
+  "verses" : [ {
+    "verse" : "1samuel,13,17",
+    "text" : "Raiding parties went out from the Philistine camp in three detachments. One turned toward Ophrah in the vicinity of Shual,"
+  }, {
+    "verse" : "1samuel,13,18",
+    "text" : "another toward Beth Horon, and the third toward the borderland overlooking the Valley of Zeboim facing the desert."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,13,17",
     "id" : 187480,
@@ -193,7 +322,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 13:17\">13:17</a></b> <b>raiders came out . . . in three companies.</b> Raiding parties would plunder and terrorize, as well as keep up military pressure by reconnoitering and controlling important routes.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,13,19", "1samuel,13,20", "1samuel,13,21" ],
+  "verses" : [ {
+    "verse" : "1samuel,13,19",
+    "text" : "Not a blacksmith could be found in the whole land of Israel, because the Philistines had said, \"Otherwise the Hebrews will make swords or spears!\""
+  }, {
+    "verse" : "1samuel,13,20",
+    "text" : "So all Israel went down to the Philistines to have their plowshares, mattocks, axes and sickles sharpened."
+  }, {
+    "verse" : "1samuel,13,21",
+    "text" : "The price was two thirds of a shekel for sharpening plowshares and mattocks, and a third of a shekel for sharpening forks and axes and for repointing goads."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,13,19-1samuel,13,21",
     "id" : 187481,
@@ -201,7 +339,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Sam 13:19-1Sam 13:21\">13:19–21</a></b> The Israelites were short of weapons and depended on the Philistines even for making their tools. Archaeological evidence suggests that the Philistines learned how to work iron earlier than their neighbors.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1samuel,13,22", "1samuel,13,23" ],
+  "verses" : [ {
+    "verse" : "1samuel,13,22",
+    "text" : "So on the day of the battle not a soldier with Saul and Jonathan had a sword or spear in his hand; only Saul and his son Jonathan had them."
+  }, {
+    "verse" : "1samuel,13,23",
+    "text" : "Now a detachment of Philistines had gone out to the pass at Micmash."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1samuel,13,22",
     "id" : 187482,

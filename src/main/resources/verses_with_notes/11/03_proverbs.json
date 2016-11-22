@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,26,28" ],
+  "verses" : [ {
+    "verse" : "proverbs,26,28",
+    "text" : "A lying tongue hates those it hurts, and a flattering mouth works ruin."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,26,28",
     "id" : 192270,

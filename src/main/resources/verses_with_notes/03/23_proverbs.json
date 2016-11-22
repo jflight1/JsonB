@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "proverbs,11,24", "proverbs,11,25" ],
+  "verses" : [ {
+    "verse" : "proverbs,11,24",
+    "text" : "One man gives freely, yet gains even more; another withholds unduly, but comes to poverty."
+  }, {
+    "verse" : "proverbs,11,25",
+    "text" : "A generous man will prosper; he who refreshes others will himself be refreshed."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -17,7 +23,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 11:24-Prov 11:26\">11:24–26</a></b> These verses make the general point that the generous person is blessed, while miserliness leads to ruin (<a class=\"bibleref\" href=\"/passage/?search=Prov 11:17\">v. 17</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,11,26" ],
+  "verses" : [ {
+    "verse" : "proverbs,11,26",
+    "text" : "People curse the man who hoards grain, but blessing crowns him who is willing to sell."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,11,26",
     "id" : 191892,

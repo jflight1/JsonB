@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "john,4,4", "john,4,5" ],
+  "verses" : [ {
+    "verse" : "john,4,4",
+    "text" : "Now he had to go through Samaria."
+  }, {
+    "verse" : "john,4,5",
+    "text" : "So he came to a town in Samaria called Sychar, near the plot of ground Jacob had given to his son Joseph."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,4,1-john,4,42",
     "id" : 196932,
@@ -7,7 +13,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 4:1-John 4:42\">4:1–42</a></b> The background of this incident is the profound contempt that the Jews and the Samaritans felt for each other (<a class=\"bibleref\" href=\"/passage/?search=John 4:9\">v. 9</a>). Not surprisingly, the Samaritans responded with enmity toward the Jews. When traveling between Galilee and Judea, many Jews would cross the Jordan twice rather than pass through Samaria. Jesus did not follow this practice (<a class=\"bibleref\" href=\"/passage/?search=Luke 9:52\">Luke 9:52</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,4,6", "john,4,7", "john,4,8" ],
+  "verses" : [ {
+    "verse" : "john,4,6",
+    "text" : "Jacob's well was there, and Jesus, tired as he was from the journey, sat down by the well. It was about the sixth hour."
+  }, {
+    "verse" : "john,4,7",
+    "text" : "When a Samaritan woman came to draw water, Jesus said to her, \"Will you give me a drink?\""
+  }, {
+    "verse" : "john,4,8",
+    "text" : "(His disciples had gone into the town to buy food.)"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,4,6",
     "id" : 196933,
@@ -15,7 +30,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 4:6\">4:6</a></b> <b>wearied.</b> Jesus experienced fatigue and even exhaustion by virtue of His human nature (<a class=\"bibleref\" href=\"/passage/?search=Matt 8:24\">Matt. 8:24</a>). See “The Humanity of Jesus” at <a class=\"bibleref\" href=\"/passage/?search=2John 1:7\">2 John 7</a>.</p><p><b>the sixth hour.</b> Noon.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,4,9" ],
+  "verses" : [ {
+    "verse" : "john,4,9",
+    "text" : "The Samaritan woman said to him, \"You are a Jew and I am a Samaritan woman. How can you ask me for a drink?\" (For Jews do not associate with Samaritans. )"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,4,9",
     "id" : 196934,
@@ -23,7 +41,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 4:9\">4:9</a></b> <b>Jews have no dealings with Samaritans.</b> This phrase could also be translated, “Jews use nothing in common with Samaritans,” referring to the legislation that forbade a Jew to eat or drink with Samaritans, who were more lax in their understanding of ritual cleanness. The surprise was not so much that Jesus would speak with a Samaritan, but that He would drink from a Samaritan vessel.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,4,10" ],
+  "verses" : [ {
+    "verse" : "john,4,10",
+    "text" : "Jesus answered her, \"If you knew the gift of God and who it is that asks you for a drink, you would have asked him and he would have given you living water.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,4,10",
     "id" : 196935,
@@ -31,7 +52,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 4:10\">4:10</a></b> <b>the gift of God.</b> This expression emphasizes that salvation is not earned but given (<a class=\"bibleref\" href=\"/passage/?search=Eph 2:8\">Eph. 2:8</a>). Jesus Himself is the gift of God (3:16; <a class=\"bibleref\" href=\"/passage/?search=Gal 2:20\">Gal. 2:20</a>; <a class=\"bibleref\" href=\"/passage/?search=Eph 5:25\">Eph. 5:25</a>).</p><p><b>living water.</b> In the Old Testament, living or running water was employed figuratively as a reference to divine activity (<a class=\"bibleref\" href=\"/passage/?search=Jer 2:13\">Jer. 2:13</a>; <a class=\"bibleref\" href=\"/passage/?search=Zech 14:8\">Zech. 14:8</a>). See also v. 14 and 7:37–39.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,4,11", "john,4,12" ],
+  "verses" : [ {
+    "verse" : "john,4,11",
+    "text" : "\"Sir,\" the woman said, \"you have nothing to draw with and the well is deep. Where can you get this living water?"
+  }, {
+    "verse" : "john,4,12",
+    "text" : "Are you greater than our father Jacob, who gave us the well and drank from it himself, as did also his sons and his flocks and herds?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,4,11",
     "id" : 196936,
@@ -39,7 +66,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 4:11\">4:11</a></b> Like the Jews and Nicodemus before her, the Samaritan woman misunderstands the key terms Jesus uses (<a class=\"bibleref\" href=\"/passage/?search=John 4:15\">v. 15</a>; <a class=\"bibleref\" href=\"/passage/?search=John 2:19-John 2:21\">2:19–21</a>; <a class=\"bibleref\" href=\"/passage/?search=John 3:3-John 3:10\">3:3–10</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,4,13" ],
+  "verses" : [ {
+    "verse" : "john,4,13",
+    "text" : "Jesus answered, \"Everyone who drinks this water will be thirsty again,"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,4,13",
     "id" : 196937,
@@ -47,7 +77,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 4:13\">4:13</a></b> <b>will be thirsty again.</b> Jesus contrasts temporary with eternal satisfaction, teaching that all earthly pleasures, even if legitimate, are fading.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,4,14", "john,4,15", "john,4,16", "john,4,17" ],
+  "verses" : [ {
+    "verse" : "john,4,14",
+    "text" : "but whoever drinks the water I give him will never thirst. Indeed, the water I give him will become in him a spring of water welling up to eternal life.\""
+  }, {
+    "verse" : "john,4,15",
+    "text" : "The woman said to him, \"Sir, give me this water so that I won't get thirsty and have to keep coming here to draw water.\""
+  }, {
+    "verse" : "john,4,16",
+    "text" : "He told her, \"Go, call your husband and come back.\""
+  }, {
+    "verse" : "john,4,17",
+    "text" : "\"I have no husband,\" she replied."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,4,14",
     "id" : 196938,
@@ -55,7 +97,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 4:14\">4:14</a></b> “I will give” expresses the divine origin of the blessing: “welling up” is its great abundance; “eternal life” is its endless duration.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,4,18", "john,4,19" ],
+  "verses" : [ {
+    "verse" : "john,4,18",
+    "text" : "Jesus said to her, \"You are right when you say you have no husband. The fact is, you have had five husbands, and the man you now have is not your husband. What you have just said is quite true.\""
+  }, {
+    "verse" : "john,4,19",
+    "text" : "\"Sir,\" the woman said, \"I can see that you are a prophet."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,4,18",
     "id" : 196939,
@@ -63,7 +111,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 4:18\">4:18</a></b> <b>you have had five husbands.</b> Jesus’ knowledge of the Samaritan woman’s previous life is like His knowledge of Nathanael (<a class=\"bibleref\" href=\"/passage/?search=John 1:48\">1:48</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,4,20", "john,4,21", "john,4,22" ],
+  "verses" : [ {
+    "verse" : "john,4,20",
+    "text" : "Our fathers worshiped on this mountain, but you Jews claim that the place where we must worship is in Jerusalem.\""
+  }, {
+    "verse" : "john,4,21",
+    "text" : "Jesus declared, \"Believe me, woman, a time is coming when you will worship the Father neither on this mountain nor in Jerusalem."
+  }, {
+    "verse" : "john,4,22",
+    "text" : "You Samaritans worship what you do not know; we worship what we do know, for salvation is from the Jews."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,4,20",
     "id" : 196940,
@@ -71,7 +128,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 4:20\">4:20</a></b> <b>Our fathers worshiped on this mountain.</b> Some time after the northern kingdom fell to Assyria (721 <span class=\"small-caps\">b.c.</span>), a split arose between the Jews in Jerusalem and the Israelites living in Samaria. These Samaritans later built a temple on Mount Gerizim, which was destroyed about 130 <span class=\"small-caps\">b.c.</span> They continue to worship on Mount Gerizim even into modern times.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,4,23" ],
+  "verses" : [ {
+    "verse" : "john,4,23",
+    "text" : "Yet a time is coming and has now come when the true worshipers will worship the Father in spirit and truth, for they are the kind of worshipers the Father seeks."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,4,23",
     "id" : 196941,
@@ -79,7 +139,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 4:23\">4:23</a></b> <b>the hour is coming, and is now here.</b> See <a class=\"bibleref\" href=\"/passage/?search=John 6:25\">6:25</a>. The time is soon coming when divisions between Jews and Samaritans will be removed (<a class=\"bibleref\" href=\"/passage/?search=John 6:21\">v. 21</a>), and the temple worship will be superseded. The time “is now here” because Jesus is present and has begun the work leading to the presence of the Holy Spirit in the church (<a class=\"bibleref\" href=\"/passage/?search=John 7:39\">7:39</a>; <a class=\"bibleref\" href=\"/passage/?search=John 20:22\">20:22</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,4,24", "john,4,25" ],
+  "verses" : [ {
+    "verse" : "john,4,24",
+    "text" : "God is spirit, and his worshipers must worship in spirit and in truth.\""
+  }, {
+    "verse" : "john,4,25",
+    "text" : "The woman said, \"I know that Messiah\" (called Christ) \"is coming. When he comes, he will explain everything to us.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,4,24",
     "id" : 196942,
@@ -87,7 +153,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 4:24\">4:24</a></b> <b>must worship in spirit and truth.</b> “True” worship is contrasted with the worship regulated by the temporary provisions of the law, especially the separation of Jews and Gentiles and the requirement of temple worship at Jerusalem. The ceremonial and sacrificial aspects of the law were not false; they were temporary and provisional. Worship “in spirit” is worship in the Holy Spirit. He continues the work begun by Jesus (<a class=\"bibleref\" href=\"/passage/?search=John 14:16-John 14:18\">14:16–18</a>; <a class=\"bibleref\" href=\"/passage/?search=Acts 2:33\">Acts 2:33</a>). Prominent marks of the age of the Spirit are the removal of the barrier between Jews and Gentiles, and the ability of Christians to worship without the need for a temple of any kind.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,4,26" ],
+  "verses" : [ {
+    "verse" : "john,4,26",
+    "text" : "Then Jesus declared, \"I who speak to you am he.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,4,26",
     "id" : 196943,
@@ -95,7 +164,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 4:26\">4:26</a></b> <b>I . . . am he.</b> This is the one occasion before His trial when Jesus is recorded designating Himself as the Messiah. Perhaps the political overtones associated with this title made it unwise for Jesus to use it often (cf. <a class=\"bibleref\" href=\"/passage/?search=John 6:14\">6:14</a>, <a class=\"bibleref\" href=\"/passage/?search=John 6:15\">15</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,4,27", "john,4,28", "john,4,29" ],
+  "verses" : [ {
+    "verse" : "john,4,27",
+    "text" : "Just then his disciples returned and were surprised to find him talking with a woman. But no one asked, \"What do you want?\" or \"Why are you talking with her?\""
+  }, {
+    "verse" : "john,4,28",
+    "text" : "Then, leaving her water jar, the woman went back to the town and said to the people,"
+  }, {
+    "verse" : "john,4,29",
+    "text" : "\"Come, see a man who told me everything I ever did. Could this be the Christ?\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,4,27",
     "id" : 196944,
@@ -103,7 +181,28 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 4:27\">4:27</a></b> <b>marveled.</b> The disciples’ attitude reflects both the contempt of the Jews for the Samaritans and the male chauvinism that regarded giving instruction to a woman as a waste of time.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,4,30", "john,4,31", "john,4,32", "john,4,33", "john,4,34", "john,4,35", "john,4,36" ],
+  "verses" : [ {
+    "verse" : "john,4,30",
+    "text" : "They came out of the town and made their way toward him."
+  }, {
+    "verse" : "john,4,31",
+    "text" : "Meanwhile his disciples urged him, \"Rabbi, eat something.\""
+  }, {
+    "verse" : "john,4,32",
+    "text" : "But he said to them, \"I have food to eat that you know nothing about.\""
+  }, {
+    "verse" : "john,4,33",
+    "text" : "Then his disciples said to each other, \"Could someone have brought him food?\""
+  }, {
+    "verse" : "john,4,34",
+    "text" : "\"My food,\" said Jesus, \"is to do the will of him who sent me and to finish his work."
+  }, {
+    "verse" : "john,4,35",
+    "text" : "Do you not say, 'Four months more and then the harvest'? I tell you, open your eyes and look at the fields! They are ripe for harvest."
+  }, {
+    "verse" : "john,4,36",
+    "text" : "Even now the reaper draws his wages, even now he harvests the crop for eternal life, so that the sower and the reaper may be glad together."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,4,30",
     "id" : 196945,
@@ -111,7 +210,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 4:30\">4:30</a></b> <b>They went out.</b> The witness of the woman was more effective than the visit of the twelve apostles.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,4,37", "john,4,38", "john,4,39", "john,4,40", "john,4,41" ],
+  "verses" : [ {
+    "verse" : "john,4,37",
+    "text" : "Thus the saying 'One sows and another reaps' is true."
+  }, {
+    "verse" : "john,4,38",
+    "text" : "I sent you to reap what you have not worked for. Others have done the hard work, and you have reaped the benefits of their labor.\""
+  }, {
+    "verse" : "john,4,39",
+    "text" : "Many of the Samaritans from that town believed in him because of the woman's testimony, \"He told me everything I ever did.\""
+  }, {
+    "verse" : "john,4,40",
+    "text" : "So when the Samaritans came to him, they urged him to stay with them, and he stayed two days."
+  }, {
+    "verse" : "john,4,41",
+    "text" : "And because of his words many more became believers."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,4,37",
     "id" : 196946,
@@ -119,7 +233,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=John 4:37\">4:37</a></b> <b>One sows and another reaps.</b> Jesus makes it clear that His disciples have a responsibility distinct from His own. They will harvest what Jesus sowed. The saying may deliberately anticipate <a class=\"bibleref\" href=\"/passage/?search=John 12:23\">12:23</a>, <a class=\"bibleref\" href=\"/passage/?search=John 12:24\">24</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "john,4,42" ],
+  "verses" : [ {
+    "verse" : "john,4,42",
+    "text" : "They said to the woman, \"We no longer believe just because of what you said; now we have heard for ourselves, and we know that this man really is the Savior of the world.\""
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "john,4,42",
     "id" : 196947,

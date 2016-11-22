@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "psalms,120,1" ],
+  "verses" : [ {
+    "verse" : "psalms,120,1",
+    "text" : "I call on the LORD in my distress, and he answers me."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,120,1-psalms,120,7",
     "id" : 191411,
@@ -7,7 +10,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 120\">Ps. 120</a></b> This psalm is the first of the fifteen “Songs of Ascents” (120–134). As tradition suggests, they were sung by pilgrims traveling to the mountain of God (Zion) to worship. <a class=\"bibleref\" href=\"/passage/?search=Ps 120\">Ps. 120</a> opens the group appropriately with the song of a faithful worshiper who is far away from the temple among pagan people (v. 5 note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,120,2" ],
+  "verses" : [ {
+    "verse" : "psalms,120,2",
+    "text" : "Save me, O LORD, from lying lips and from deceitful tongues."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,120,2",
     "id" : 191412,
@@ -15,7 +21,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 120:2\">120:2</a></b> <b>lying lips . . . deceitful tongue.</b> The psalmist’s enemies slander him unmercifully.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,120,3" ],
+  "verses" : [ {
+    "verse" : "psalms,120,3",
+    "text" : "What will he do to you, and what more besides, O deceitful tongue?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,120,3",
     "id" : 191413,
@@ -23,7 +32,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 120:3\">120:3</a></b> <b>to you.</b> The enemy whose lies trouble the psalmist.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,120,4" ],
+  "verses" : [ {
+    "verse" : "psalms,120,4",
+    "text" : "He will punish you with a warrior's sharp arrows, with burning coals of the broom tree."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,120,4",
     "id" : 191414,
@@ -31,7 +43,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Ps 120:4\">120:4</a></b> <b>warrior’s sharp arrows.</b> The liars will be repaid in kind.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "psalms,120,5", "psalms,120,6", "psalms,120,7" ],
+  "verses" : [ {
+    "verse" : "psalms,120,5",
+    "text" : "Woe to me that I dwell in Meshech, that I live among the tents of Kedar!"
+  }, {
+    "verse" : "psalms,120,6",
+    "text" : "Too long have I lived among those who hate peace."
+  }, {
+    "verse" : "psalms,120,7",
+    "text" : "I am a man of peace; but when I speak, they are for war."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "psalms,120,5",
     "id" : 191415,

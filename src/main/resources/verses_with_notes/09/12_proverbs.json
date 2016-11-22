@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "proverbs,23,6", "proverbs,23,7" ],
+  "verses" : [ {
+    "verse" : "proverbs,23,6",
+    "text" : "Do not eat the food of a stingy man, do not crave his delicacies;"
+  }, {
+    "verse" : "proverbs,23,7",
+    "text" : "for he is the kind of man who is always thinking about the cost. \"Eat and drink,\" he says to you, but his heart is not with you."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,22,17-proverbs,24,22",
     "id" : 192162,
@@ -12,7 +18,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 23:6\">23:6 a</a></b> <b>man who is stingy.</b> The meaning is uncertain, but the context suggests a person whose hospitality is insincere, presumably with hidden motives.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,23,8" ],
+  "verses" : [ {
+    "verse" : "proverbs,23,8",
+    "text" : "You will vomit up the little you have eaten and will have wasted your compliments."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,23,8",
     "id" : 192179,

@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,10,17" ],
+  "verses" : [ {
+    "verse" : "proverbs,10,17",
+    "text" : "He who heeds discipline shows the way to life, but whoever ignores correction leads others astray."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

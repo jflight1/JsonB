@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "proverbs,15,20", "proverbs,15,21" ],
+  "verses" : [ {
+    "verse" : "proverbs,15,20",
+    "text" : "A wise son brings joy to his father, but a foolish man despises his mother."
+  }, {
+    "verse" : "proverbs,15,21",
+    "text" : "Folly delights a man who lacks judgment, but a man of understanding keeps a straight course."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,

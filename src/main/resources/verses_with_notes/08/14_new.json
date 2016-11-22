@@ -1,5 +1,11 @@
 [ {
-  "singleVerses" : [ "1corinthians,9,1", "1corinthians,9,2" ],
+  "verses" : [ {
+    "verse" : "1corinthians,9,1",
+    "text" : "Am I not free? Am I not an apostle? Have I not seen Jesus our Lord? Are you not the result of my work in the Lord?"
+  }, {
+    "verse" : "1corinthians,9,2",
+    "text" : "Even though I may not be an apostle to others, surely I am to you! For you are the seal of my apostleship in the Lord."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1corinthians,9,1",
     "id" : 198063,
@@ -7,7 +13,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Cor 9:1\">9:1</a></b> <b>Am I not free.</b> Paul’s willingness to forgo some of his rights is an illustration of the principle he stated in <a class=\"bibleref\" href=\"/passage/?search=1Cor 8:9\">8:9</a>. The questions in <a class=\"bibleref\" href=\"/passage/?search=1Cor 8:1\">v. 1</a> indicate that some of the Corinthians defended their conduct by questioning Paul’s authority and criticizing his behavior.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1corinthians,9,3", "1corinthians,9,4" ],
+  "verses" : [ {
+    "verse" : "1corinthians,9,3",
+    "text" : "This is my defense to those who sit in judgment on me."
+  }, {
+    "verse" : "1corinthians,9,4",
+    "text" : "Don't we have the right to food and drink?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1corinthians,9,3",
     "id" : 198064,
@@ -15,7 +27,22 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Cor 9:3\">9:3</a></b> <b>those who would examine me.</b> This statement makes explicit that Paul had indeed been criticized, though scholars debate the specific nature of the complaint (<a class=\"bibleref\" href=\"/passage/?search=1Cor 2:1\">2:1</a> note). The next ten verses contain more than a dozen rhetorical questions that reflect Paul’s deep emotion and provide clues about the historical situation. Paul defends his right to be supported by the churches, only to emphasize his choice not to receive support (<a class=\"bibleref\" href=\"/passage/?search=1Cor 2:15-1Cor 2:16\">vv. 15–18</a>). Perhaps some of the Corinthians were upset because Paul refused their patronage, and concluded from this that he was not a legitimate apostle (<a class=\"bibleref\" href=\"/passage/?search=2Cor 11:7-2Cor 11:12\">2 Cor. 11:7–12</a>). If not, why should they listen to his instruction?</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1corinthians,9,5", "1corinthians,9,6", "1corinthians,9,7", "1corinthians,9,8", "1corinthians,9,9" ],
+  "verses" : [ {
+    "verse" : "1corinthians,9,5",
+    "text" : "Don't we have the right to take a believing wife along with us, as do the other apostles and the Lord's brothers and Cephas?"
+  }, {
+    "verse" : "1corinthians,9,6",
+    "text" : "Or is it only I and Barnabas who must work for a living?"
+  }, {
+    "verse" : "1corinthians,9,7",
+    "text" : "Who serves as a soldier at his own expense? Who plants a vineyard and does not eat of its grapes? Who tends a flock and does not drink of the milk?"
+  }, {
+    "verse" : "1corinthians,9,8",
+    "text" : "Do I say this merely from a human point of view? Doesn't the Law say the same thing?"
+  }, {
+    "verse" : "1corinthians,9,9",
+    "text" : "For it is written in the Law of Moses: \"Do not muzzle an ox while it is treading out the grain.\" Is it about oxen that God is concerned?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1corinthians,9,5",
     "id" : 198065,
@@ -23,7 +50,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Cor 9:5\">9:5 a</a></b> <b>believing wife.</b> The Corinthians themselves may have raised this issue, as though the lack of a wife discredited Paul and Barnabas, or it may be Paul’s choice of an illustration to indicate the distinction between having a right and exercising it. Both Paul and Barnabas were unmarried at the time of their missionary work. Paul takes for granted that if he were to be married, it would be with a believer.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1corinthians,9,10", "1corinthians,9,11" ],
+  "verses" : [ {
+    "verse" : "1corinthians,9,10",
+    "text" : "Surely he says this for us, doesn't he? Yes, this was written for us, because when the plowman plows and the thresher threshes, they ought to do so in the hope of sharing in the harvest."
+  }, {
+    "verse" : "1corinthians,9,11",
+    "text" : "If we have sown spiritual seed among you, is it too much if we reap a material harvest from you?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1corinthians,9,10",
     "id" : 198066,
@@ -31,7 +64,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Cor 9:10\">9:10</a></b> <b>for our sake.</b> It may appear that Paul denies the original meaning of <a class=\"bibleref\" href=\"/passage/?search=Deut 25:4\">Deut. 25:4</a>, which commands Israelites to allow their oxen to eat as they work. We should remember that the whole complex of laws in Israel constantly reminded the community of religious principles. Some scholars have suggested that the command not to muzzle the ox was intended to reinforce the instructions about human relationships mentioned in the immediate context (<a class=\"bibleref\" href=\"/passage/?search=Deut 24:5-Deut 25:4\">Deut. 24:5–25:4</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1corinthians,9,12", "1corinthians,9,13" ],
+  "verses" : [ {
+    "verse" : "1corinthians,9,12",
+    "text" : "If others have this right of support from you, shouldn't we have it all the more?"
+  }, {
+    "verse" : "1corinthians,9,13",
+    "text" : "But we did not use this right. On the contrary, we put up with anything rather than hinder the gospel of Christ. Don't you know that those who work in the temple get their food from the temple, and those who serve at the altar share in what is offered on the altar?"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1corinthians,9,12",
     "id" : 198067,
@@ -39,7 +78,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Cor 9:12\">9:12</a></b> <b>we have not made use of this right.</b> In spite of the strain caused by his secular work added to the heavy demands of his apostolic ministry, Paul was determined not to become a burden to the churches (<a class=\"bibleref\" href=\"/passage/?search=1Thess 2:6-1Thess 2:9\">1 Thess. 2:6–9</a>). It appears from <a class=\"bibleref\" href=\"/passage/?search=2Cor 11:7-2Cor 11:12\">2 Cor. 11:7–12</a> that the Corinthians misinterpreted Paul’s motives. For reasons that are unclear, the apostle did make an exception in the case of the Philippian church in Macedonia (<a class=\"bibleref\" href=\"/passage/?search=Phil 4:15\">Phil. 4:15</a>, <a class=\"bibleref\" href=\"/passage/?search=Phil 4:16\">16</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1corinthians,9,14" ],
+  "verses" : [ {
+    "verse" : "1corinthians,9,14",
+    "text" : "In the same way, the Lord has commanded that those who preach the gospel should receive their living from the gospel."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1corinthians,9,14",
     "id" : 198068,
@@ -47,7 +89,19 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=1Cor 9:14\">9:14</a></b> <b>get their living by the gospel.</b> This principle is reflected not only in the Old Testament priesthood (<a class=\"bibleref\" href=\"/passage/?search=1Cor 9:13\">v. 13</a>) but also in several New Testament passages (e.g., <a class=\"bibleref\" href=\"/passage/?search=Luke 10:7\">Luke 10:7</a>; <a class=\"bibleref\" href=\"/passage/?search=Gal 6:6\">Gal. 6:6</a>; <a class=\"bibleref\" href=\"/passage/?search=1Tim 5:17\">1 Tim. 5:17</a>, <a class=\"bibleref\" href=\"/passage/?search=1Tim 5:18\">18</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "1corinthians,9,15", "1corinthians,9,16", "1corinthians,9,17", "1corinthians,9,18" ],
+  "verses" : [ {
+    "verse" : "1corinthians,9,15",
+    "text" : "But I have not used any of these rights. And I am not writing this in the hope that you will do such things for me. I would rather die than have anyone deprive me of this boast."
+  }, {
+    "verse" : "1corinthians,9,16",
+    "text" : "Yet when I preach the gospel, I cannot boast, for I am compelled to preach. Woe to me if I do not preach the gospel!"
+  }, {
+    "verse" : "1corinthians,9,17",
+    "text" : "If I preach voluntarily, I have a reward; if not voluntarily, I am simply discharging the trust committed to me."
+  }, {
+    "verse" : "1corinthians,9,18",
+    "text" : "What then is my reward? Just this: that in preaching the gospel I may offer it free of charge, and so not make use of my rights in preaching it."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "1corinthians,9,15-1corinthians,9,16",
     "id" : 198069,

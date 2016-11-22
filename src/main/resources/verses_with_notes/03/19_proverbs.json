@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,11,18" ],
+  "verses" : [ {
+    "verse" : "proverbs,11,18",
+    "text" : "The wicked man earns deceptive wages, but he who sows righteousness reaps a sure reward."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,10,1-proverbs,22,16",
     "id" : 191842,
@@ -17,7 +20,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 11:18\">11:18</a></b> See <a class=\"bibleref\" href=\"/passage/?search=Prov 10:2\">10:2</a>, <a class=\"bibleref\" href=\"/passage/?search=Prov 10:16\">16</a>; cf. <a class=\"bibleref\" href=\"/passage/?search=1Cor 9:6-1Cor 9:11\">1 Cor. 9:6–11</a>. The reward may be material or spiritual. The principle is the lasting value of the rewards of righteousness.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,11,19" ],
+  "verses" : [ {
+    "verse" : "proverbs,11,19",
+    "text" : "The truly righteous man attains life, but he who pursues evil goes to his death."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,11,19",
     "id" : 191888,

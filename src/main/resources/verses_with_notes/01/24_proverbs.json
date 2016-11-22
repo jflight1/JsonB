@@ -1,5 +1,8 @@
 [ {
-  "singleVerses" : [ "proverbs,4,20" ],
+  "verses" : [ {
+    "verse" : "proverbs,4,20",
+    "text" : "My son, pay attention to what I say; listen closely to my words."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,4,1-proverbs,4,27",
     "id" : 191707,
@@ -12,7 +15,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 4:20-Prov 4:27\">4:20–27</a></b> This instruction contrasts the two ways of wisdom and folly without using those terms. The emphasis is on concentration of mind and attention to the wisdom teaching, which leads to life.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,4,21" ],
+  "verses" : [ {
+    "verse" : "proverbs,4,21",
+    "text" : "Do not let them out of your sight, keep them within your heart;"
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,4,21",
     "id" : 191722,
@@ -20,7 +26,10 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 4:21\">4:21</a></b> <b>heart.</b> Or, the mind (<a class=\"bibleref\" href=\"/passage/?search=Prov 2:2\">2:2</a> note).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,4,22" ],
+  "verses" : [ {
+    "verse" : "proverbs,4,22",
+    "text" : "for they are life to those who find them and health to a man's whole body."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,4,22",
     "id" : 191723,
@@ -28,7 +37,13 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 4:22\">4:22</a></b> <b>healing.</b> Wholeness and soundness that includes the body (<a class=\"bibleref\" href=\"/passage/?search=Prov 3:8\">3:8</a>).</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,4,23", "proverbs,4,24" ],
+  "verses" : [ {
+    "verse" : "proverbs,4,23",
+    "text" : "Above all else, guard your heart, for it is the wellspring of life."
+  }, {
+    "verse" : "proverbs,4,24",
+    "text" : "Put away perversity from your mouth; keep corrupt talk far from your lips."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,4,23",
     "id" : 191724,
@@ -36,7 +51,16 @@
     "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Prov 4:23\">4:23</a></b> <b>from it . . . life.</b> Our thoughts in turn shape the way we speak and live. See <a class=\"bibleref\" href=\"/passage/?search=Matt 12:35\">Matt. 12:35</a>; <a class=\"bibleref\" href=\"/passage/?search=Mark 7:21\">Mark 7:21</a>; <a class=\"bibleref\" href=\"/passage/?search=Rom 2:29\">Rom. 2:29</a>.</p></div>"
   } ]
 }, {
-  "singleVerses" : [ "proverbs,4,25", "proverbs,4,26", "proverbs,4,27" ],
+  "verses" : [ {
+    "verse" : "proverbs,4,25",
+    "text" : "Let your eyes look straight ahead, fix your gaze directly before you."
+  }, {
+    "verse" : "proverbs,4,26",
+    "text" : "Make level paths for your feet and take only ways that are firm."
+  }, {
+    "verse" : "proverbs,4,27",
+    "text" : "Do not swerve to the right or the left; keep your foot from evil."
+  } ],
   "rsbNotes" : [ {
     "verseRange" : "proverbs,4,25-proverbs,4,27",
     "id" : 191725,
