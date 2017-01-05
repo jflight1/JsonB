@@ -37,6 +37,17 @@ case class SingleVerse(book: Book, chapter: Int, verse: Int)
   }
 
 
+  lazy val urlEncode: String = urlEncode(true)
+
+  def urlEncode(includeBook: Boolean): String = {
+    if (includeBook) {
+      Utils.urlEncode(book.oneYearBibleName + " " + chapter + ":" + verse)
+    }
+    else {
+      Utils.urlEncode(chapter + ":" + verse)
+    }
+  }
+
 
   def <(that: SingleVerse) =
     this.book < that.book ||

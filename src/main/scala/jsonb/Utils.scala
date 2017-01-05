@@ -24,8 +24,14 @@ object Utils {
   }
 
 
-  def paddedString(i: Int): String =
+  def paddedTwoDigitInt(i: Int): String =
     if (i < 10) "0" + i
     else i.toString
 
+
+  def urlEncode(s: String): String = {
+    s.replace(' ', '+')
+      .replace(":", "%3A")
+      .replace(";", "%3B")
+  }
 }

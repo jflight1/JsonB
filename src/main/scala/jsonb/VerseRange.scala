@@ -103,6 +103,40 @@ case class VerseRange(start: SingleVerse, end: SingleVerse)
   lazy val versesWithNotes: Seq[VersesWithNotes] =
     VerseRangeVersesWithNotes.get(singleVersesWithNotes)
 
+
+  lazy val bibleGatewayUrl: String = {
+    val urlStart = "https://www.biblegateway.com/passage/?search="
+    if (start == end ) {
+      urlStart + start.urlEncode
+    }
+    else if (start.book == end.book) {
+      urlStart + start.urlEncode + "-" + end.urlEncode(includeBook = false)
+    }
+    else {
+      urlStart + start.urlEncode + "-" + end.urlEncode
+    }
+  }
+
+
+  lazy val displayString: String = {
+    if (start == end ) {
+      start.book.hghNivName + " " + start.chapter + ":" + start.verse
+    }
+    else if (start.book == end.book) {
+      if (start.chapter == end.chapter) {
+        start.book.hghNivName + " " + start.chapter + ":" + start.verse + "-" + end.verse
+      }
+      else {
+        start.book.hghNivName + " " + start.chapter + ":" + start.verse + "-" + end.chapter + ":" + end.verse
+      }
+    }
+    else {
+      start.book.hghNivName + " " + start.chapter + ":" + start.verse +
+        end.book.hghNivName + " " + end.chapter + ":" + end.verse
+    }
+  }
+
+
 }
 
 
@@ -255,6 +289,12 @@ object VerseRangeParser extends JsonParserBase[VerseRange] {
   }
 
 
+
+
+
+  /////////////////////////////          private
+
+
   private def linePartsToVerseRanges(parts: Array[String]): List[VerseRange] = {
     if (parts.isEmpty)
       Nil
@@ -266,7 +306,7 @@ object VerseRangeParser extends JsonParserBase[VerseRange] {
   }
 
 
-  def countChar(s: String, c: Char) : Int = s.count(_ == c)
+  private def countChar(s: String, c: Char) : Int = s.count(_ == c)
 
 
 }

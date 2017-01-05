@@ -43,14 +43,14 @@ object GenerateVersesWithNotesFiles {
   def main(args: Array[String]): Unit = {
     (1 to 12)
       .foreach(iMonth => {
-        val fileNameStart = "verses_with_notes\\" + Utils.paddedString(iMonth) + "\\"
+        val fileNameStart = "verses_with_notes\\" + Utils.paddedTwoDigitInt(iMonth) + "\\"
         val dayReadings: Seq[DayReading] = DayReadingParser.parseMonthJsonFile(iMonth)
 
         dayReadings.foreach(dayReading => {
 
           def writeDayFile(verseRange: VerseRange, fileNameSuffix: String): Unit = {
             val versesWithNotes: Seq[VersesWithNotes] = verseRange.versesWithNotes
-            val fileName: String = fileNameStart + Utils.paddedString(dayReading.day) + "_" + fileNameSuffix + ".json"
+            val fileName: String = fileNameStart + Utils.paddedTwoDigitInt(dayReading.day) + "_" + fileNameSuffix + ".json"
 
             try {
               println("verseRange: " + verseRange + ", month: " + dayReading.month + ", day: " + dayReading.day)

@@ -312,4 +312,23 @@ class VerseRangeTest extends FunSuite {
 
   }
 
+
+  test("bibleGatewayUrl") {
+
+    // different books
+    assertEquals("https://www.biblegateway.com/passage/?search=genesis+1%3A2-exodus+2%3A3",
+      VerseRange(
+        SingleVerse(genesis, 1, 2), SingleVerse(exodus, 2, 3)).bibleGatewayUrl)
+
+    // same book
+    assertEquals("https://www.biblegateway.com/passage/?search=genesis+1%3A2-3%3A4",
+      VerseRange(
+        SingleVerse(genesis, 1, 2), SingleVerse(genesis, 3, 4)).bibleGatewayUrl)
+
+    // single verse
+    assertEquals("https://www.biblegateway.com/passage/?search=genesis+1%3A2",
+      VerseRange(
+        SingleVerse(genesis, 1, 2), SingleVerse(genesis, 1, 2)).bibleGatewayUrl)
+  }
+
 }

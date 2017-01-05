@@ -2,6 +2,7 @@ package jsonb
 
 import java.io.{InputStream, PrintWriter}
 
+import jsonb.html.{Attribute, Element, SimpleHtmlFileWriter, StringHtmlObject}
 import org.apache.commons.io.IOUtils
 import play.api.libs.json.{JsArray, JsObject, JsValue, Json}
 
@@ -167,7 +168,9 @@ object V2FileGenerator {
   }
 
   def main(args: Array[String]): Unit = {
-    generateAll()
+    //generateAll()
+
+    print("aaaaaaaaaaaa")
   }
 }
 
@@ -199,3 +202,66 @@ object V3FileGenerator {
     printWriter.close()
   }
 }
+
+
+/**
+  * Generate html files with day reading links
+  */
+object TableGeneratorObject {
+
+  /**
+    * The generated html uses a table
+    */
+  private class TableGenerator(month: Int,
+                               subFolder: String,
+                               oldTestament: Boolean,
+                               newTestament: Boolean,
+                               psalms: Boolean,
+                               proverbs: Boolean){
+
+    def writeFile(): Unit = {
+      val dayReadings = DayReadingParser.parseMonthJsonFile(month)
+
+      val rows: Seq[Element] = dayReadings.map(dayReading => {
+
+        val tds: Seq[Element] = Seq(
+          td("" + month + "/" + dayReading.day),
+          if (oldTestament) td(link(dayReading.oldTestament)) else null,
+          if (newTestament) td(link(dayReading.newTestament)) else null,
+          if (psalms) td(link(dayReading.psalms)) else null,
+          if (proverbs) td(link(dayReading.proverbs)) else null
+        )
+          .filter(_ != null)
+
+        Element("tr", Nil, tds)
+      })
+
+      val table = Element("table", Nil, rows)
+
+      val outFileName = "day_reading\\" + subFolder + "\\" +
+        Utils.paddedTwoDigitInt(month) + ".htm"
+
+      SimpleHtmlFileWriter(outFileName, Seq(table)).write()
+    }
+
+
+    private def td(text: String): Element = Element("td", Nil, Seq(StringHtmlObject(text)))
+
+    private def td(element: Element): Element = Element("td", Nil, Seq(element))
+
+    private def link(verseRange: VerseRange): Element = {
+      Element("a",
+        Seq(Attribute("target", "_blank"), Attribute("href", verseRange.bibleGatewayUrl)),
+        Seq(StringHtmlObject(verseRange.displayString)))
+    }
+  }
+
+
+  def main(args: Array[String]): Unit = {
+    (1 to 12).foreach(month => {
+      new TableGenerator(month, "new_proverbs", false, true, false, true).writeFile()
+      println("done " + month)
+    })
+  }
+}
+
