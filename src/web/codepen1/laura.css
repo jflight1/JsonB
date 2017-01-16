@@ -1,0 +1,34 @@
+h2 {
+    color: #1C959C;
+}
+th {
+    color: #85BBF9;
+}
+td {
+    color: #B50C96;
+}
+body {
+    color:#E6B000;
+}
+h1 {
+    color:#FAB255;
+}
+div {
+    width : 500px;
+    font-size : 24px;
+}
+.greenback {
+    background-color:#19613C
+}
+.pinkback {
+    background-color:#C70A4F
+}
+canvas {
+    width: 200px;
+    height: 100px;
+    margin: 10px;
+    border: 1px black;
+}
+input {
+    font-size: 10pt;
+}

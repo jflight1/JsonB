@@ -35,7 +35,7 @@ object VersesWithNotesParser extends JsonParserBase[VersesWithNotes] {
 }
 
 
-object GenerateVersesWithNotesFiles {
+object GenerateVersesWithNotesJsonFiles {
 
   /**
     * Write files like: resources/verses_with_notes/11/20_old.json
@@ -72,7 +72,26 @@ object GenerateVersesWithNotesFiles {
       })
 
   }
-
 }
 
 
+
+object GenerateVersesWithNotesHtmlFiles {
+
+  /**
+    * Write files like: resources/verses_with_notes/11/20_old.json
+    */
+  def main(args: Array[String]): Unit = {
+    (1 to 1)
+      .foreach(iMonth => {
+        val sMonth = Utils.paddedTwoDigitInt(iMonth)
+        val fileName = "/verses_with_notes/" + sMonth + "/" + sMonth + "_new.json"
+
+        val versesWithNotesSeq: Seq[VersesWithNotes] = VersesWithNotesParser.readSeqFromFile(fileName)
+
+        versesWithNotesSeq.foreach(versesWithNotes => println(versesWithNotes))
+
+
+      })
+  }
+}
