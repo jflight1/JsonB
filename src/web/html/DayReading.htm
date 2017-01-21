@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html data-ng-app>
+
+<meta name="viewport" content="width=device-width"/>
+
+
+<head>
+  <title>Daily Reading</title>
+
+  <script type="text/javascript"
+          src="//ajax.googleapis.com/ajax/libs/angularjs/1.0.7/angular.min.js"></script>
+
+  <script type="text/javascript"
+          src="../js/underscore.js"></script>
+
+  <script type="text/javascript"
+          src="../js/DayReadingController.js"></script>
+
+</head>
+
+<body data-ng-controller="DayReadingController">
+
+<table>
+  <tr data-ng-repeat="dayReading in dayReadings">
+
+    <td>{{dayReading.month}}/{{dayReading.day}}</td>
+
+    <td data-ng-repeat="dayReadingSection in dayReading.dayReadingSections">
+      <a target="_blank" data-ng-href="{{dayReadingSection.url}}">{{dayReadingSection.displayString}}</a>
+    </td>
+
+  </tr>
+</table>
+
+</body>
+</html>
