@@ -2,7 +2,7 @@ package jsonb.unused
 
 import java.io.PrintWriter
 
-import jsonb.{DayReading, DayReadingParser}
+import jsonb.{DayReading, DayReadingParser, MonthTextFileParser}
 
 /**
   * Reads the month txt files and generates the month json files
@@ -14,7 +14,7 @@ object GenerateMonthsJson {
       println(i)
       val sMonthNum = if (i < 10) "0" + i else "" + i
       val inFileName = "/day_reading/txt/" + sMonthNum + ".txt"
-      val dayReadings: List[DayReading] = DayReadingParser.parseMonthTextFile(inFileName, i)
+      val dayReadings: List[DayReading] = MonthTextFileParser.parseMonthTextFile(inFileName, i)
       val json: String = DayReadingParser.seqToJson(dayReadings)
 
       val outFileName = "C:\\jflight\\software\\JsonB\\src\\main\\resources\\day_reading\\json\\" + sMonthNum + ".json"

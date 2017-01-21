@@ -64,10 +64,10 @@ object GenerateVersesWithNotesJsonFiles {
             }
           }
 
-          writeDayFile(dayReading.oldTestament, "old")
-          writeDayFile(dayReading.newTestament, "new")
-          writeDayFile(dayReading.psalms, "psalms")
-          writeDayFile(dayReading.proverbs, "proverbs")
+          writeDayFile(dayReading.oldTestament.verseRange, "old")
+          writeDayFile(dayReading.newTestament.verseRange, "new")
+          writeDayFile(dayReading.psalms.verseRange, "psalms")
+          writeDayFile(dayReading.proverbs.verseRange, "proverbs")
         })
       })
 

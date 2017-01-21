@@ -1,211 +1,691 @@
 [ {
   "month" : 9,
   "day" : 1,
-  "oldTestament" : "job,40,1-job,42,17",
-  "newTestament" : "2corinthians,5,11-2corinthians,5,21",
-  "psalms" : "psalms,45,1-psalms,45,17",
-  "proverbs" : "proverbs,22,14"
+  "oldTestament" : {
+    "verseRange" : "job,40,1-job,42,17",
+    "url" : "https://www.biblegateway.com/passage/?search=job+40%3A1-42%3A17",
+    "displayString" : "Job 40:1-42:17"
+  },
+  "newTestament" : {
+    "verseRange" : "2corinthians,5,11-2corinthians,5,21",
+    "url" : "https://www.biblegateway.com/passage/?search=2corinthians+5%3A11-5%3A21",
+    "displayString" : "2 Corinthians 5:11-21"
+  },
+  "psalms" : {
+    "verseRange" : "psalms,45,1-psalms,45,17",
+    "url" : "https://www.biblegateway.com/passage/?search=psalms+45%3A1-45%3A17",
+    "displayString" : "Psalms 45:1-17"
+  },
+  "proverbs" : {
+    "verseRange" : "proverbs,22,14",
+    "url" : "https://www.biblegateway.com/passage/?search=proverbs+22%3A14",
+    "displayString" : "Proverbs 22:14"
+  }
 }, {
   "month" : 9,
   "day" : 2,
-  "oldTestament" : "ecclesiastes,1,1-ecclesiastes,3,22",
-  "newTestament" : "2corinthians,6,1-2corinthians,6,13",
-  "psalms" : "psalms,46,1-psalms,46,11",
-  "proverbs" : "proverbs,22,15"
+  "oldTestament" : {
+    "verseRange" : "ecclesiastes,1,1-ecclesiastes,3,22",
+    "url" : "https://www.biblegateway.com/passage/?search=ecclesiastes+1%3A1-3%3A22",
+    "displayString" : "Ecclesiastes 1:1-3:22"
+  },
+  "newTestament" : {
+    "verseRange" : "2corinthians,6,1-2corinthians,6,13",
+    "url" : "https://www.biblegateway.com/passage/?search=2corinthians+6%3A1-6%3A13",
+    "displayString" : "2 Corinthians 6:1-13"
+  },
+  "psalms" : {
+    "verseRange" : "psalms,46,1-psalms,46,11",
+    "url" : "https://www.biblegateway.com/passage/?search=psalms+46%3A1-46%3A11",
+    "displayString" : "Psalms 46:1-11"
+  },
+  "proverbs" : {
+    "verseRange" : "proverbs,22,15",
+    "url" : "https://www.biblegateway.com/passage/?search=proverbs+22%3A15",
+    "displayString" : "Proverbs 22:15"
+  }
 }, {
   "month" : 9,
   "day" : 3,
-  "oldTestament" : "ecclesiastes,4,1-ecclesiastes,6,12",
-  "newTestament" : "2corinthians,6,14-2corinthians,7,7",
-  "psalms" : "psalms,47,1-psalms,47,9",
-  "proverbs" : "proverbs,22,16"
+  "oldTestament" : {
+    "verseRange" : "ecclesiastes,4,1-ecclesiastes,6,12",
+    "url" : "https://www.biblegateway.com/passage/?search=ecclesiastes+4%3A1-6%3A12",
+    "displayString" : "Ecclesiastes 4:1-6:12"
+  },
+  "newTestament" : {
+    "verseRange" : "2corinthians,6,14-2corinthians,7,7",
+    "url" : "https://www.biblegateway.com/passage/?search=2corinthians+6%3A14-7%3A7",
+    "displayString" : "2 Corinthians 6:14-7:7"
+  },
+  "psalms" : {
+    "verseRange" : "psalms,47,1-psalms,47,9",
+    "url" : "https://www.biblegateway.com/passage/?search=psalms+47%3A1-47%3A9",
+    "displayString" : "Psalms 47:1-9"
+  },
+  "proverbs" : {
+    "verseRange" : "proverbs,22,16",
+    "url" : "https://www.biblegateway.com/passage/?search=proverbs+22%3A16",
+    "displayString" : "Proverbs 22:16"
+  }
 }, {
   "month" : 9,
   "day" : 4,
-  "oldTestament" : "ecclesiastes,7,1-ecclesiastes,9,18",
-  "newTestament" : "2corinthians,7,8-2corinthians,7,16",
-  "psalms" : "psalms,48,1-psalms,48,14",
-  "proverbs" : "proverbs,22,17-proverbs,22,19"
+  "oldTestament" : {
+    "verseRange" : "ecclesiastes,7,1-ecclesiastes,9,18",
+    "url" : "https://www.biblegateway.com/passage/?search=ecclesiastes+7%3A1-9%3A18",
+    "displayString" : "Ecclesiastes 7:1-9:18"
+  },
+  "newTestament" : {
+    "verseRange" : "2corinthians,7,8-2corinthians,7,16",
+    "url" : "https://www.biblegateway.com/passage/?search=2corinthians+7%3A8-7%3A16",
+    "displayString" : "2 Corinthians 7:8-16"
+  },
+  "psalms" : {
+    "verseRange" : "psalms,48,1-psalms,48,14",
+    "url" : "https://www.biblegateway.com/passage/?search=psalms+48%3A1-48%3A14",
+    "displayString" : "Psalms 48:1-14"
+  },
+  "proverbs" : {
+    "verseRange" : "proverbs,22,17-proverbs,22,19",
+    "url" : "https://www.biblegateway.com/passage/?search=proverbs+22%3A17-22%3A19",
+    "displayString" : "Proverbs 22:17-19"
+  }
 }, {
   "month" : 9,
   "day" : 5,
-  "oldTestament" : "ecclesiastes,10,1-ecclesiastes,12,14",
-  "newTestament" : "2corinthians,8,1-2corinthians,8,15",
-  "psalms" : "psalms,49,1-psalms,49,20",
-  "proverbs" : "proverbs,22,20-proverbs,22,21"
+  "oldTestament" : {
+    "verseRange" : "ecclesiastes,10,1-ecclesiastes,12,14",
+    "url" : "https://www.biblegateway.com/passage/?search=ecclesiastes+10%3A1-12%3A14",
+    "displayString" : "Ecclesiastes 10:1-12:14"
+  },
+  "newTestament" : {
+    "verseRange" : "2corinthians,8,1-2corinthians,8,15",
+    "url" : "https://www.biblegateway.com/passage/?search=2corinthians+8%3A1-8%3A15",
+    "displayString" : "2 Corinthians 8:1-15"
+  },
+  "psalms" : {
+    "verseRange" : "psalms,49,1-psalms,49,20",
+    "url" : "https://www.biblegateway.com/passage/?search=psalms+49%3A1-49%3A20",
+    "displayString" : "Psalms 49:1-20"
+  },
+  "proverbs" : {
+    "verseRange" : "proverbs,22,20-proverbs,22,21",
+    "url" : "https://www.biblegateway.com/passage/?search=proverbs+22%3A20-22%3A21",
+    "displayString" : "Proverbs 22:20-21"
+  }
 }, {
   "month" : 9,
   "day" : 6,
-  "oldTestament" : "song,1,1-song,4,16",
-  "newTestament" : "2corinthians,8,16-2corinthians,8,24",
-  "psalms" : "psalms,50,1-psalms,50,23",
-  "proverbs" : "proverbs,22,22-proverbs,22,23"
+  "oldTestament" : {
+    "verseRange" : "song,1,1-song,4,16",
+    "url" : "https://www.biblegateway.com/passage/?search=song+1%3A1-4%3A16",
+    "displayString" : "Song of Solomon 1:1-4:16"
+  },
+  "newTestament" : {
+    "verseRange" : "2corinthians,8,16-2corinthians,8,24",
+    "url" : "https://www.biblegateway.com/passage/?search=2corinthians+8%3A16-8%3A24",
+    "displayString" : "2 Corinthians 8:16-24"
+  },
+  "psalms" : {
+    "verseRange" : "psalms,50,1-psalms,50,23",
+    "url" : "https://www.biblegateway.com/passage/?search=psalms+50%3A1-50%3A23",
+    "displayString" : "Psalms 50:1-23"
+  },
+  "proverbs" : {
+    "verseRange" : "proverbs,22,22-proverbs,22,23",
+    "url" : "https://www.biblegateway.com/passage/?search=proverbs+22%3A22-22%3A23",
+    "displayString" : "Proverbs 22:22-23"
+  }
 }, {
   "month" : 9,
   "day" : 7,
-  "oldTestament" : "song,5,1-song,8,14",
-  "newTestament" : "2corinthians,9,1-2corinthians,9,15",
-  "psalms" : "psalms,51,1-psalms,51,19",
-  "proverbs" : "proverbs,22,24-proverbs,22,25"
+  "oldTestament" : {
+    "verseRange" : "song,5,1-song,8,14",
+    "url" : "https://www.biblegateway.com/passage/?search=song+5%3A1-8%3A14",
+    "displayString" : "Song of Solomon 5:1-8:14"
+  },
+  "newTestament" : {
+    "verseRange" : "2corinthians,9,1-2corinthians,9,15",
+    "url" : "https://www.biblegateway.com/passage/?search=2corinthians+9%3A1-9%3A15",
+    "displayString" : "2 Corinthians 9:1-15"
+  },
+  "psalms" : {
+    "verseRange" : "psalms,51,1-psalms,51,19",
+    "url" : "https://www.biblegateway.com/passage/?search=psalms+51%3A1-51%3A19",
+    "displayString" : "Psalms 51:1-19"
+  },
+  "proverbs" : {
+    "verseRange" : "proverbs,22,24-proverbs,22,25",
+    "url" : "https://www.biblegateway.com/passage/?search=proverbs+22%3A24-22%3A25",
+    "displayString" : "Proverbs 22:24-25"
+  }
 }, {
   "month" : 9,
   "day" : 8,
-  "oldTestament" : "isaiah,1,1-isaiah,2,22",
-  "newTestament" : "2corinthians,10,1-2corinthians,10,18",
-  "psalms" : "psalms,52,1-psalms,52,9",
-  "proverbs" : "proverbs,22,26-proverbs,22,27"
+  "oldTestament" : {
+    "verseRange" : "isaiah,1,1-isaiah,2,22",
+    "url" : "https://www.biblegateway.com/passage/?search=isaiah+1%3A1-2%3A22",
+    "displayString" : "Isaiah 1:1-2:22"
+  },
+  "newTestament" : {
+    "verseRange" : "2corinthians,10,1-2corinthians,10,18",
+    "url" : "https://www.biblegateway.com/passage/?search=2corinthians+10%3A1-10%3A18",
+    "displayString" : "2 Corinthians 10:1-18"
+  },
+  "psalms" : {
+    "verseRange" : "psalms,52,1-psalms,52,9",
+    "url" : "https://www.biblegateway.com/passage/?search=psalms+52%3A1-52%3A9",
+    "displayString" : "Psalms 52:1-9"
+  },
+  "proverbs" : {
+    "verseRange" : "proverbs,22,26-proverbs,22,27",
+    "url" : "https://www.biblegateway.com/passage/?search=proverbs+22%3A26-22%3A27",
+    "displayString" : "Proverbs 22:26-27"
+  }
 }, {
   "month" : 9,
   "day" : 9,
-  "oldTestament" : "isaiah,3,1-isaiah,5,30",
-  "newTestament" : "2corinthians,11,1-2corinthians,11,15",
-  "psalms" : "psalms,53,1-psalms,53,6",
-  "proverbs" : "proverbs,22,28-proverbs,22,29"
+  "oldTestament" : {
+    "verseRange" : "isaiah,3,1-isaiah,5,30",
+    "url" : "https://www.biblegateway.com/passage/?search=isaiah+3%3A1-5%3A30",
+    "displayString" : "Isaiah 3:1-5:30"
+  },
+  "newTestament" : {
+    "verseRange" : "2corinthians,11,1-2corinthians,11,15",
+    "url" : "https://www.biblegateway.com/passage/?search=2corinthians+11%3A1-11%3A15",
+    "displayString" : "2 Corinthians 11:1-15"
+  },
+  "psalms" : {
+    "verseRange" : "psalms,53,1-psalms,53,6",
+    "url" : "https://www.biblegateway.com/passage/?search=psalms+53%3A1-53%3A6",
+    "displayString" : "Psalms 53:1-6"
+  },
+  "proverbs" : {
+    "verseRange" : "proverbs,22,28-proverbs,22,29",
+    "url" : "https://www.biblegateway.com/passage/?search=proverbs+22%3A28-22%3A29",
+    "displayString" : "Proverbs 22:28-29"
+  }
 }, {
   "month" : 9,
   "day" : 10,
-  "oldTestament" : "isaiah,6,1-isaiah,7,25",
-  "newTestament" : "2corinthians,11,16-2corinthians,11,33",
-  "psalms" : "psalms,54,1-psalms,54,7",
-  "proverbs" : "proverbs,23,1-proverbs,23,3"
+  "oldTestament" : {
+    "verseRange" : "isaiah,6,1-isaiah,7,25",
+    "url" : "https://www.biblegateway.com/passage/?search=isaiah+6%3A1-7%3A25",
+    "displayString" : "Isaiah 6:1-7:25"
+  },
+  "newTestament" : {
+    "verseRange" : "2corinthians,11,16-2corinthians,11,33",
+    "url" : "https://www.biblegateway.com/passage/?search=2corinthians+11%3A16-11%3A33",
+    "displayString" : "2 Corinthians 11:16-33"
+  },
+  "psalms" : {
+    "verseRange" : "psalms,54,1-psalms,54,7",
+    "url" : "https://www.biblegateway.com/passage/?search=psalms+54%3A1-54%3A7",
+    "displayString" : "Psalms 54:1-7"
+  },
+  "proverbs" : {
+    "verseRange" : "proverbs,23,1-proverbs,23,3",
+    "url" : "https://www.biblegateway.com/passage/?search=proverbs+23%3A1-23%3A3",
+    "displayString" : "Proverbs 23:1-3"
+  }
 }, {
   "month" : 9,
   "day" : 11,
-  "oldTestament" : "isaiah,8,1-isaiah,9,21",
-  "newTestament" : "2corinthians,12,1-2corinthians,12,10",
-  "psalms" : "psalms,55,1-psalms,55,23",
-  "proverbs" : "proverbs,23,4-proverbs,23,5"
+  "oldTestament" : {
+    "verseRange" : "isaiah,8,1-isaiah,9,21",
+    "url" : "https://www.biblegateway.com/passage/?search=isaiah+8%3A1-9%3A21",
+    "displayString" : "Isaiah 8:1-9:21"
+  },
+  "newTestament" : {
+    "verseRange" : "2corinthians,12,1-2corinthians,12,10",
+    "url" : "https://www.biblegateway.com/passage/?search=2corinthians+12%3A1-12%3A10",
+    "displayString" : "2 Corinthians 12:1-10"
+  },
+  "psalms" : {
+    "verseRange" : "psalms,55,1-psalms,55,23",
+    "url" : "https://www.biblegateway.com/passage/?search=psalms+55%3A1-55%3A23",
+    "displayString" : "Psalms 55:1-23"
+  },
+  "proverbs" : {
+    "verseRange" : "proverbs,23,4-proverbs,23,5",
+    "url" : "https://www.biblegateway.com/passage/?search=proverbs+23%3A4-23%3A5",
+    "displayString" : "Proverbs 23:4-5"
+  }
 }, {
   "month" : 9,
   "day" : 12,
-  "oldTestament" : "isaiah,10,1-isaiah,11,16",
-  "newTestament" : "2corinthians,12,11-2corinthians,12,21",
-  "psalms" : "psalms,56,1-psalms,56,13",
-  "proverbs" : "proverbs,23,6-proverbs,23,8"
+  "oldTestament" : {
+    "verseRange" : "isaiah,10,1-isaiah,11,16",
+    "url" : "https://www.biblegateway.com/passage/?search=isaiah+10%3A1-11%3A16",
+    "displayString" : "Isaiah 10:1-11:16"
+  },
+  "newTestament" : {
+    "verseRange" : "2corinthians,12,11-2corinthians,12,21",
+    "url" : "https://www.biblegateway.com/passage/?search=2corinthians+12%3A11-12%3A21",
+    "displayString" : "2 Corinthians 12:11-21"
+  },
+  "psalms" : {
+    "verseRange" : "psalms,56,1-psalms,56,13",
+    "url" : "https://www.biblegateway.com/passage/?search=psalms+56%3A1-56%3A13",
+    "displayString" : "Psalms 56:1-13"
+  },
+  "proverbs" : {
+    "verseRange" : "proverbs,23,6-proverbs,23,8",
+    "url" : "https://www.biblegateway.com/passage/?search=proverbs+23%3A6-23%3A8",
+    "displayString" : "Proverbs 23:6-8"
+  }
 }, {
   "month" : 9,
   "day" : 13,
-  "oldTestament" : "isaiah,12,1-isaiah,14,32",
-  "newTestament" : "2corinthians,13,1-2corinthians,13,14",
-  "psalms" : "psalms,57,1-psalms,57,11",
-  "proverbs" : "proverbs,23,9-proverbs,23,11"
+  "oldTestament" : {
+    "verseRange" : "isaiah,12,1-isaiah,14,32",
+    "url" : "https://www.biblegateway.com/passage/?search=isaiah+12%3A1-14%3A32",
+    "displayString" : "Isaiah 12:1-14:32"
+  },
+  "newTestament" : {
+    "verseRange" : "2corinthians,13,1-2corinthians,13,14",
+    "url" : "https://www.biblegateway.com/passage/?search=2corinthians+13%3A1-13%3A14",
+    "displayString" : "2 Corinthians 13:1-14"
+  },
+  "psalms" : {
+    "verseRange" : "psalms,57,1-psalms,57,11",
+    "url" : "https://www.biblegateway.com/passage/?search=psalms+57%3A1-57%3A11",
+    "displayString" : "Psalms 57:1-11"
+  },
+  "proverbs" : {
+    "verseRange" : "proverbs,23,9-proverbs,23,11",
+    "url" : "https://www.biblegateway.com/passage/?search=proverbs+23%3A9-23%3A11",
+    "displayString" : "Proverbs 23:9-11"
+  }
 }, {
   "month" : 9,
   "day" : 14,
-  "oldTestament" : "isaiah,15,1-isaiah,18,7",
-  "newTestament" : "galatians,1,1-galatians,1,24",
-  "psalms" : "psalms,58,1-psalms,58,11",
-  "proverbs" : "proverbs,23,12"
+  "oldTestament" : {
+    "verseRange" : "isaiah,15,1-isaiah,18,7",
+    "url" : "https://www.biblegateway.com/passage/?search=isaiah+15%3A1-18%3A7",
+    "displayString" : "Isaiah 15:1-18:7"
+  },
+  "newTestament" : {
+    "verseRange" : "galatians,1,1-galatians,1,24",
+    "url" : "https://www.biblegateway.com/passage/?search=galatians+1%3A1-1%3A24",
+    "displayString" : "Galatians 1:1-24"
+  },
+  "psalms" : {
+    "verseRange" : "psalms,58,1-psalms,58,11",
+    "url" : "https://www.biblegateway.com/passage/?search=psalms+58%3A1-58%3A11",
+    "displayString" : "Psalms 58:1-11"
+  },
+  "proverbs" : {
+    "verseRange" : "proverbs,23,12",
+    "url" : "https://www.biblegateway.com/passage/?search=proverbs+23%3A12",
+    "displayString" : "Proverbs 23:12"
+  }
 }, {
   "month" : 9,
   "day" : 15,
-  "oldTestament" : "isaiah,19,1-isaiah,21,17",
-  "newTestament" : "galatians,2,1-galatians,2,16",
-  "psalms" : "psalms,59,1-psalms,59,17",
-  "proverbs" : "proverbs,23,13-proverbs,23,14"
+  "oldTestament" : {
+    "verseRange" : "isaiah,19,1-isaiah,21,17",
+    "url" : "https://www.biblegateway.com/passage/?search=isaiah+19%3A1-21%3A17",
+    "displayString" : "Isaiah 19:1-21:17"
+  },
+  "newTestament" : {
+    "verseRange" : "galatians,2,1-galatians,2,16",
+    "url" : "https://www.biblegateway.com/passage/?search=galatians+2%3A1-2%3A16",
+    "displayString" : "Galatians 2:1-16"
+  },
+  "psalms" : {
+    "verseRange" : "psalms,59,1-psalms,59,17",
+    "url" : "https://www.biblegateway.com/passage/?search=psalms+59%3A1-59%3A17",
+    "displayString" : "Psalms 59:1-17"
+  },
+  "proverbs" : {
+    "verseRange" : "proverbs,23,13-proverbs,23,14",
+    "url" : "https://www.biblegateway.com/passage/?search=proverbs+23%3A13-23%3A14",
+    "displayString" : "Proverbs 23:13-14"
+  }
 }, {
   "month" : 9,
   "day" : 16,
-  "oldTestament" : "isaiah,22,1-isaiah,24,23",
-  "newTestament" : "galatians,2,17-galatians,3,9",
-  "psalms" : "psalms,60,1-psalms,60,12",
-  "proverbs" : "proverbs,23,15-proverbs,23,16"
+  "oldTestament" : {
+    "verseRange" : "isaiah,22,1-isaiah,24,23",
+    "url" : "https://www.biblegateway.com/passage/?search=isaiah+22%3A1-24%3A23",
+    "displayString" : "Isaiah 22:1-24:23"
+  },
+  "newTestament" : {
+    "verseRange" : "galatians,2,17-galatians,3,9",
+    "url" : "https://www.biblegateway.com/passage/?search=galatians+2%3A17-3%3A9",
+    "displayString" : "Galatians 2:17-3:9"
+  },
+  "psalms" : {
+    "verseRange" : "psalms,60,1-psalms,60,12",
+    "url" : "https://www.biblegateway.com/passage/?search=psalms+60%3A1-60%3A12",
+    "displayString" : "Psalms 60:1-12"
+  },
+  "proverbs" : {
+    "verseRange" : "proverbs,23,15-proverbs,23,16",
+    "url" : "https://www.biblegateway.com/passage/?search=proverbs+23%3A15-23%3A16",
+    "displayString" : "Proverbs 23:15-16"
+  }
 }, {
   "month" : 9,
   "day" : 17,
-  "oldTestament" : "isaiah,25,1-isaiah,28,13",
-  "newTestament" : "galatians,3,10-galatians,3,22",
-  "psalms" : "psalms,61,1-psalms,61,8",
-  "proverbs" : "proverbs,23,17-proverbs,23,18"
+  "oldTestament" : {
+    "verseRange" : "isaiah,25,1-isaiah,28,13",
+    "url" : "https://www.biblegateway.com/passage/?search=isaiah+25%3A1-28%3A13",
+    "displayString" : "Isaiah 25:1-28:13"
+  },
+  "newTestament" : {
+    "verseRange" : "galatians,3,10-galatians,3,22",
+    "url" : "https://www.biblegateway.com/passage/?search=galatians+3%3A10-3%3A22",
+    "displayString" : "Galatians 3:10-22"
+  },
+  "psalms" : {
+    "verseRange" : "psalms,61,1-psalms,61,8",
+    "url" : "https://www.biblegateway.com/passage/?search=psalms+61%3A1-61%3A8",
+    "displayString" : "Psalms 61:1-8"
+  },
+  "proverbs" : {
+    "verseRange" : "proverbs,23,17-proverbs,23,18",
+    "url" : "https://www.biblegateway.com/passage/?search=proverbs+23%3A17-23%3A18",
+    "displayString" : "Proverbs 23:17-18"
+  }
 }, {
   "month" : 9,
   "day" : 18,
-  "oldTestament" : "isaiah,28,14-isaiah,30,11",
-  "newTestament" : "galatians,3,23-galatians,4,31",
-  "psalms" : "psalms,62,1-psalms,62,12",
-  "proverbs" : "proverbs,23,19-proverbs,23,21"
+  "oldTestament" : {
+    "verseRange" : "isaiah,28,14-isaiah,30,11",
+    "url" : "https://www.biblegateway.com/passage/?search=isaiah+28%3A14-30%3A11",
+    "displayString" : "Isaiah 28:14-30:11"
+  },
+  "newTestament" : {
+    "verseRange" : "galatians,3,23-galatians,4,31",
+    "url" : "https://www.biblegateway.com/passage/?search=galatians+3%3A23-4%3A31",
+    "displayString" : "Galatians 3:23-4:31"
+  },
+  "psalms" : {
+    "verseRange" : "psalms,62,1-psalms,62,12",
+    "url" : "https://www.biblegateway.com/passage/?search=psalms+62%3A1-62%3A12",
+    "displayString" : "Psalms 62:1-12"
+  },
+  "proverbs" : {
+    "verseRange" : "proverbs,23,19-proverbs,23,21",
+    "url" : "https://www.biblegateway.com/passage/?search=proverbs+23%3A19-23%3A21",
+    "displayString" : "Proverbs 23:19-21"
+  }
 }, {
   "month" : 9,
   "day" : 19,
-  "oldTestament" : "isaiah,30,12-isaiah,33,9",
-  "newTestament" : "galatians,5,1-galatians,5,12",
-  "psalms" : "psalms,63,1-psalms,63,11",
-  "proverbs" : "proverbs,23,22"
+  "oldTestament" : {
+    "verseRange" : "isaiah,30,12-isaiah,33,9",
+    "url" : "https://www.biblegateway.com/passage/?search=isaiah+30%3A12-33%3A9",
+    "displayString" : "Isaiah 30:12-33:9"
+  },
+  "newTestament" : {
+    "verseRange" : "galatians,5,1-galatians,5,12",
+    "url" : "https://www.biblegateway.com/passage/?search=galatians+5%3A1-5%3A12",
+    "displayString" : "Galatians 5:1-12"
+  },
+  "psalms" : {
+    "verseRange" : "psalms,63,1-psalms,63,11",
+    "url" : "https://www.biblegateway.com/passage/?search=psalms+63%3A1-63%3A11",
+    "displayString" : "Psalms 63:1-11"
+  },
+  "proverbs" : {
+    "verseRange" : "proverbs,23,22",
+    "url" : "https://www.biblegateway.com/passage/?search=proverbs+23%3A22",
+    "displayString" : "Proverbs 23:22"
+  }
 }, {
   "month" : 9,
   "day" : 20,
-  "oldTestament" : "isaiah,33,10-isaiah,36,22",
-  "newTestament" : "galatians,5,13-galatians,5,26",
-  "psalms" : "psalms,64,1-psalms,64,10",
-  "proverbs" : "proverbs,23,23"
+  "oldTestament" : {
+    "verseRange" : "isaiah,33,10-isaiah,36,22",
+    "url" : "https://www.biblegateway.com/passage/?search=isaiah+33%3A10-36%3A22",
+    "displayString" : "Isaiah 33:10-36:22"
+  },
+  "newTestament" : {
+    "verseRange" : "galatians,5,13-galatians,5,26",
+    "url" : "https://www.biblegateway.com/passage/?search=galatians+5%3A13-5%3A26",
+    "displayString" : "Galatians 5:13-26"
+  },
+  "psalms" : {
+    "verseRange" : "psalms,64,1-psalms,64,10",
+    "url" : "https://www.biblegateway.com/passage/?search=psalms+64%3A1-64%3A10",
+    "displayString" : "Psalms 64:1-10"
+  },
+  "proverbs" : {
+    "verseRange" : "proverbs,23,23",
+    "url" : "https://www.biblegateway.com/passage/?search=proverbs+23%3A23",
+    "displayString" : "Proverbs 23:23"
+  }
 }, {
   "month" : 9,
   "day" : 21,
-  "oldTestament" : "isaiah,37,1-isaiah,38,22",
-  "newTestament" : "galatians,6,1-galatians,6,18",
-  "psalms" : "psalms,65,1-psalms,65,13",
-  "proverbs" : "proverbs,23,24"
+  "oldTestament" : {
+    "verseRange" : "isaiah,37,1-isaiah,38,22",
+    "url" : "https://www.biblegateway.com/passage/?search=isaiah+37%3A1-38%3A22",
+    "displayString" : "Isaiah 37:1-38:22"
+  },
+  "newTestament" : {
+    "verseRange" : "galatians,6,1-galatians,6,18",
+    "url" : "https://www.biblegateway.com/passage/?search=galatians+6%3A1-6%3A18",
+    "displayString" : "Galatians 6:1-18"
+  },
+  "psalms" : {
+    "verseRange" : "psalms,65,1-psalms,65,13",
+    "url" : "https://www.biblegateway.com/passage/?search=psalms+65%3A1-65%3A13",
+    "displayString" : "Psalms 65:1-13"
+  },
+  "proverbs" : {
+    "verseRange" : "proverbs,23,24",
+    "url" : "https://www.biblegateway.com/passage/?search=proverbs+23%3A24",
+    "displayString" : "Proverbs 23:24"
+  }
 }, {
   "month" : 9,
   "day" : 22,
-  "oldTestament" : "isaiah,39,1-isaiah,41,16",
-  "newTestament" : "ephesians,1,1-ephesians,1,23",
-  "psalms" : "psalms,66,1-psalms,66,20",
-  "proverbs" : "proverbs,23,25-proverbs,23,28"
+  "oldTestament" : {
+    "verseRange" : "isaiah,39,1-isaiah,41,16",
+    "url" : "https://www.biblegateway.com/passage/?search=isaiah+39%3A1-41%3A16",
+    "displayString" : "Isaiah 39:1-41:16"
+  },
+  "newTestament" : {
+    "verseRange" : "ephesians,1,1-ephesians,1,23",
+    "url" : "https://www.biblegateway.com/passage/?search=ephesians+1%3A1-1%3A23",
+    "displayString" : "Ephesians 1:1-23"
+  },
+  "psalms" : {
+    "verseRange" : "psalms,66,1-psalms,66,20",
+    "url" : "https://www.biblegateway.com/passage/?search=psalms+66%3A1-66%3A20",
+    "displayString" : "Psalms 66:1-20"
+  },
+  "proverbs" : {
+    "verseRange" : "proverbs,23,25-proverbs,23,28",
+    "url" : "https://www.biblegateway.com/passage/?search=proverbs+23%3A25-23%3A28",
+    "displayString" : "Proverbs 23:25-28"
+  }
 }, {
   "month" : 9,
   "day" : 23,
-  "oldTestament" : "isaiah,41,17-isaiah,43,13",
-  "newTestament" : "ephesians,2,1-ephesians,2,22",
-  "psalms" : "psalms,67,1-psalms,67,7",
-  "proverbs" : "proverbs,23,29-proverbs,23,35"
+  "oldTestament" : {
+    "verseRange" : "isaiah,41,17-isaiah,43,13",
+    "url" : "https://www.biblegateway.com/passage/?search=isaiah+41%3A17-43%3A13",
+    "displayString" : "Isaiah 41:17-43:13"
+  },
+  "newTestament" : {
+    "verseRange" : "ephesians,2,1-ephesians,2,22",
+    "url" : "https://www.biblegateway.com/passage/?search=ephesians+2%3A1-2%3A22",
+    "displayString" : "Ephesians 2:1-22"
+  },
+  "psalms" : {
+    "verseRange" : "psalms,67,1-psalms,67,7",
+    "url" : "https://www.biblegateway.com/passage/?search=psalms+67%3A1-67%3A7",
+    "displayString" : "Psalms 67:1-7"
+  },
+  "proverbs" : {
+    "verseRange" : "proverbs,23,29-proverbs,23,35",
+    "url" : "https://www.biblegateway.com/passage/?search=proverbs+23%3A29-23%3A35",
+    "displayString" : "Proverbs 23:29-35"
+  }
 }, {
   "month" : 9,
   "day" : 24,
-  "oldTestament" : "isaiah,43,14-isaiah,45,10",
-  "newTestament" : "ephesians,3,1-ephesians,3,21",
-  "psalms" : "psalms,68,1-psalms,68,18",
-  "proverbs" : "proverbs,24,1-proverbs,24,2"
+  "oldTestament" : {
+    "verseRange" : "isaiah,43,14-isaiah,45,10",
+    "url" : "https://www.biblegateway.com/passage/?search=isaiah+43%3A14-45%3A10",
+    "displayString" : "Isaiah 43:14-45:10"
+  },
+  "newTestament" : {
+    "verseRange" : "ephesians,3,1-ephesians,3,21",
+    "url" : "https://www.biblegateway.com/passage/?search=ephesians+3%3A1-3%3A21",
+    "displayString" : "Ephesians 3:1-21"
+  },
+  "psalms" : {
+    "verseRange" : "psalms,68,1-psalms,68,18",
+    "url" : "https://www.biblegateway.com/passage/?search=psalms+68%3A1-68%3A18",
+    "displayString" : "Psalms 68:1-18"
+  },
+  "proverbs" : {
+    "verseRange" : "proverbs,24,1-proverbs,24,2",
+    "url" : "https://www.biblegateway.com/passage/?search=proverbs+24%3A1-24%3A2",
+    "displayString" : "Proverbs 24:1-2"
+  }
 }, {
   "month" : 9,
   "day" : 25,
-  "oldTestament" : "isaiah,45,11-isaiah,48,11",
-  "newTestament" : "ephesians,4,1-ephesians,4,16",
-  "psalms" : "psalms,68,19-psalms,68,35",
-  "proverbs" : "proverbs,24,3-proverbs,24,4"
+  "oldTestament" : {
+    "verseRange" : "isaiah,45,11-isaiah,48,11",
+    "url" : "https://www.biblegateway.com/passage/?search=isaiah+45%3A11-48%3A11",
+    "displayString" : "Isaiah 45:11-48:11"
+  },
+  "newTestament" : {
+    "verseRange" : "ephesians,4,1-ephesians,4,16",
+    "url" : "https://www.biblegateway.com/passage/?search=ephesians+4%3A1-4%3A16",
+    "displayString" : "Ephesians 4:1-16"
+  },
+  "psalms" : {
+    "verseRange" : "psalms,68,19-psalms,68,35",
+    "url" : "https://www.biblegateway.com/passage/?search=psalms+68%3A19-68%3A35",
+    "displayString" : "Psalms 68:19-35"
+  },
+  "proverbs" : {
+    "verseRange" : "proverbs,24,3-proverbs,24,4",
+    "url" : "https://www.biblegateway.com/passage/?search=proverbs+24%3A3-24%3A4",
+    "displayString" : "Proverbs 24:3-4"
+  }
 }, {
   "month" : 9,
   "day" : 26,
-  "oldTestament" : "isaiah,48,12-isaiah,50,11",
-  "newTestament" : "ephesians,4,17-ephesians,4,32",
-  "psalms" : "psalms,69,1-psalms,69,18",
-  "proverbs" : "proverbs,24,5-proverbs,24,6"
+  "oldTestament" : {
+    "verseRange" : "isaiah,48,12-isaiah,50,11",
+    "url" : "https://www.biblegateway.com/passage/?search=isaiah+48%3A12-50%3A11",
+    "displayString" : "Isaiah 48:12-50:11"
+  },
+  "newTestament" : {
+    "verseRange" : "ephesians,4,17-ephesians,4,32",
+    "url" : "https://www.biblegateway.com/passage/?search=ephesians+4%3A17-4%3A32",
+    "displayString" : "Ephesians 4:17-32"
+  },
+  "psalms" : {
+    "verseRange" : "psalms,69,1-psalms,69,18",
+    "url" : "https://www.biblegateway.com/passage/?search=psalms+69%3A1-69%3A18",
+    "displayString" : "Psalms 69:1-18"
+  },
+  "proverbs" : {
+    "verseRange" : "proverbs,24,5-proverbs,24,6",
+    "url" : "https://www.biblegateway.com/passage/?search=proverbs+24%3A5-24%3A6",
+    "displayString" : "Proverbs 24:5-6"
+  }
 }, {
   "month" : 9,
   "day" : 27,
-  "oldTestament" : "isaiah,51,1-isaiah,53,12",
-  "newTestament" : "ephesians,5,1-ephesians,5,33",
-  "psalms" : "psalms,69,19-psalms,69,36",
-  "proverbs" : "proverbs,24,7"
+  "oldTestament" : {
+    "verseRange" : "isaiah,51,1-isaiah,53,12",
+    "url" : "https://www.biblegateway.com/passage/?search=isaiah+51%3A1-53%3A12",
+    "displayString" : "Isaiah 51:1-53:12"
+  },
+  "newTestament" : {
+    "verseRange" : "ephesians,5,1-ephesians,5,33",
+    "url" : "https://www.biblegateway.com/passage/?search=ephesians+5%3A1-5%3A33",
+    "displayString" : "Ephesians 5:1-33"
+  },
+  "psalms" : {
+    "verseRange" : "psalms,69,19-psalms,69,36",
+    "url" : "https://www.biblegateway.com/passage/?search=psalms+69%3A19-69%3A36",
+    "displayString" : "Psalms 69:19-36"
+  },
+  "proverbs" : {
+    "verseRange" : "proverbs,24,7",
+    "url" : "https://www.biblegateway.com/passage/?search=proverbs+24%3A7",
+    "displayString" : "Proverbs 24:7"
+  }
 }, {
   "month" : 9,
   "day" : 28,
-  "oldTestament" : "isaiah,54,1-isaiah,57,14",
-  "newTestament" : "ephesians,6,1-ephesians,6,24",
-  "psalms" : "psalms,70,1-psalms,70,5",
-  "proverbs" : "proverbs,24,8"
+  "oldTestament" : {
+    "verseRange" : "isaiah,54,1-isaiah,57,14",
+    "url" : "https://www.biblegateway.com/passage/?search=isaiah+54%3A1-57%3A14",
+    "displayString" : "Isaiah 54:1-57:14"
+  },
+  "newTestament" : {
+    "verseRange" : "ephesians,6,1-ephesians,6,24",
+    "url" : "https://www.biblegateway.com/passage/?search=ephesians+6%3A1-6%3A24",
+    "displayString" : "Ephesians 6:1-24"
+  },
+  "psalms" : {
+    "verseRange" : "psalms,70,1-psalms,70,5",
+    "url" : "https://www.biblegateway.com/passage/?search=psalms+70%3A1-70%3A5",
+    "displayString" : "Psalms 70:1-5"
+  },
+  "proverbs" : {
+    "verseRange" : "proverbs,24,8",
+    "url" : "https://www.biblegateway.com/passage/?search=proverbs+24%3A8",
+    "displayString" : "Proverbs 24:8"
+  }
 }, {
   "month" : 9,
   "day" : 29,
-  "oldTestament" : "isaiah,57,15-isaiah,59,21",
-  "newTestament" : "philippians,1,1-philippians,1,26",
-  "psalms" : "psalms,71,1-psalms,71,24",
-  "proverbs" : "proverbs,24,9-proverbs,24,10"
+  "oldTestament" : {
+    "verseRange" : "isaiah,57,15-isaiah,59,21",
+    "url" : "https://www.biblegateway.com/passage/?search=isaiah+57%3A15-59%3A21",
+    "displayString" : "Isaiah 57:15-59:21"
+  },
+  "newTestament" : {
+    "verseRange" : "philippians,1,1-philippians,1,26",
+    "url" : "https://www.biblegateway.com/passage/?search=philippians+1%3A1-1%3A26",
+    "displayString" : "Philippians 1:1-26"
+  },
+  "psalms" : {
+    "verseRange" : "psalms,71,1-psalms,71,24",
+    "url" : "https://www.biblegateway.com/passage/?search=psalms+71%3A1-71%3A24",
+    "displayString" : "Psalms 71:1-24"
+  },
+  "proverbs" : {
+    "verseRange" : "proverbs,24,9-proverbs,24,10",
+    "url" : "https://www.biblegateway.com/passage/?search=proverbs+24%3A9-24%3A10",
+    "displayString" : "Proverbs 24:9-10"
+  }
 }, {
   "month" : 9,
   "day" : 30,
-  "oldTestament" : "isaiah,60,1-isaiah,62,5",
-  "newTestament" : "philippians,1,27-philippians,2,18",
-  "psalms" : "psalms,72,1-psalms,72,20",
-  "proverbs" : "proverbs,24,11-proverbs,24,12"
+  "oldTestament" : {
+    "verseRange" : "isaiah,60,1-isaiah,62,5",
+    "url" : "https://www.biblegateway.com/passage/?search=isaiah+60%3A1-62%3A5",
+    "displayString" : "Isaiah 60:1-62:5"
+  },
+  "newTestament" : {
+    "verseRange" : "philippians,1,27-philippians,2,18",
+    "url" : "https://www.biblegateway.com/passage/?search=philippians+1%3A27-2%3A18",
+    "displayString" : "Philippians 1:27-2:18"
+  },
+  "psalms" : {
+    "verseRange" : "psalms,72,1-psalms,72,20",
+    "url" : "https://www.biblegateway.com/passage/?search=psalms+72%3A1-72%3A20",
+    "displayString" : "Psalms 72:1-20"
+  },
+  "proverbs" : {
+    "verseRange" : "proverbs,24,11-proverbs,24,12",
+    "url" : "https://www.biblegateway.com/passage/?search=proverbs+24%3A11-24%3A12",
+    "displayString" : "Proverbs 24:11-12"
+  }
 } ]

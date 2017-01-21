@@ -28,10 +28,10 @@ object Assert {
   def assertDayReadingsEqual(expected: DayReading, actual: DayReading) = {
     assertEquals(expected.month, actual.month)
     assertEquals(expected.day, actual.day)
-    assertVerseRangesEqual(expected.oldTestament, actual.oldTestament)
-    assertVerseRangesEqual(expected.newTestament, actual.newTestament)
-    assertVerseRangesEqual(expected.psalms, actual.psalms)
-    assertVerseRangesEqual(expected.proverbs, actual.proverbs)
+    assertVerseRangesEqual(expected.oldTestament.verseRange, actual.oldTestament.verseRange)
+    assertVerseRangesEqual(expected.newTestament.verseRange, actual.newTestament.verseRange)
+    assertVerseRangesEqual(expected.psalms.verseRange, actual.psalms.verseRange)
+    assertVerseRangesEqual(expected.proverbs.verseRange, actual.proverbs.verseRange)
   }
 
 
