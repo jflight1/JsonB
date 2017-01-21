@@ -28,7 +28,7 @@ object DayReadingSectionParser extends JsonParserBase[DayReadingSection] {
   override def toJsValue(dayReadingSection: DayReadingSection): JsValue = Json.obj(
     "verseRange" -> VerseRangeParser.toJsValue(dayReadingSection.verseRange),
     "url" -> dayReadingSection.url,
-    "displayString" -> dayReadingSection.displayString
+    "displayString" -> dayReadingSection.displayString)
 }
 
 
@@ -50,6 +50,9 @@ object DayReadingParser extends JsonParserBase[DayReading] {
   val PROVERBS: String = "proverbs"
 
 
+  /**
+    * generate v4 json
+    */
   override def toJsValue(dayReading: DayReading): JsObject = {
     val dayReadingV4 = DayReadingV4(
       dayReading.month,
@@ -63,10 +66,10 @@ object DayReadingParser extends JsonParserBase[DayReading] {
     Json.obj(
       MONTH -> dayReading.month,
       DAY -> dayReading.day,
-      OLD_TESTAMENT -> VerseRangeParser.toJsValue(dayReading.oldTestament),
-      NEW_TESTAMENT -> VerseRangeParser.toJsValue(dayReading.newTestament),
-      PSALMS -> VerseRangeParser.toJsValue(dayReading.psalms),
-      PROVERBS -> VerseRangeParser.toJsValue(dayReading.proverbs))
+      OLD_TESTAMENT -> DayReadingSectionParser.toJsValue(dayReadingV4.oldTestament),
+      NEW_TESTAMENT -> DayReadingSectionParser.toJsValue(dayReadingV4.newTestament),
+      PSALMS -> DayReadingSectionParser.toJsValue(dayReadingV4.psalms),
+      PROVERBS -> DayReadingSectionParser.toJsValue(dayReadingV4.proverbs))
   }
 
   private def dayReadingSection(verseRange: VerseRange): DayReadingSection = {
@@ -255,7 +258,7 @@ object V4FileGenerator {
 
   def generateMonthJsonFile(month: Int): Unit = {
     val sMonthNum = if (month < 10) "0" + month else "" + month
-    val inFileName = "/day_reading/json/" + sMonthNum + ".json"
+    val inFileName = "/day_reading/json_v3/" + sMonthNum + ".json"
     val inputStream: InputStream = getClass.getResourceAsStream(inFileName)
     val json: String = IOUtils.toString(inputStream, "UTF-8")
     val jsArray: JsArray = Json.parse(json).as[JsArray]
