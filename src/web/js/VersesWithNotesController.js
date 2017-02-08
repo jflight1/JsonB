@@ -14,34 +14,33 @@ function VersesWithNotesController($scope, $http) {
     var bPsalms = queryParamKeys.includes("psalms");
     var bProverbs = queryParamKeys.includes("proverbs");
 
+    $scope.myHtml = "<b>foo</b>";
+
 
     // get the json data
     $http.get("../json/verses_with_notes/" + "01/" + "01_new.json").then(function(response) {
         $scope.versesWithNotess = response.data;
 
-        // for each versesWithNotes, we add an array of the versesWithNotesSections we want to show.
 /*
+        var myDiv = document.getElementById("myDiv");
+        myDiv.innerHTML = "bbbbbbbbb";
+*/
+
+
+    });
+
+    $scope.clickButton = function() {
         for (var i = 0; i < $scope.versesWithNotess.length; i++) {
             var versesWithNotes = $scope.versesWithNotess[i];
 
-            versesWithNotes.versesWithNotesSections = [];
-            var j = 0;
-            if (bOldTestament) {
-                versesWithNotes.versesWithNotesSections[j++] = versesWithNotes.oldTestament;
-            }
-            if (bNewTestament) {
-                versesWithNotes.versesWithNotesSections[j++] = versesWithNotes.newTestament;
-            }
-            if (bPsalms) {
-                versesWithNotes.versesWithNotesSections[j++] = versesWithNotes.psalms;
-            }
-            if (bProverbs) {
-                versesWithNotes.versesWithNotesSections[j++] = versesWithNotes.proverbs;
+            var rsbNotes = versesWithNotes.rsbNotes;
+            for (var j = 0; j < rsbNotes.length; j++) {
+                var rsbNote = rsbNotes[j];
+                var td = document.getElementById("td_" + rsbNote.id);
+                td.innerHTML = rsbNote.text;
             }
         }
-*/
-
-    });
+    };
 
     /*
      [ {

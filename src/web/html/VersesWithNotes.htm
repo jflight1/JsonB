@@ -20,6 +20,10 @@
 
 <body data-ng-controller="VersesWithNotesController">
 
+<div id = "myDiv">aaaaaaaa
+  <button ng-click="clickButton()">click me</button>
+</div>
+
 <table border="1px">
   <tr data-ng-repeat="versesWithNotes in versesWithNotess">
 
@@ -33,8 +37,8 @@
 
     <td>
       <table>
-        <tr data-ng-repeat="rsbNotes in versesWithNotes.rsbNotes">
-          <td><b>{{rsbNotes.text}}</td>
+        <tr data-ng-repeat="rsbNote in versesWithNotes.rsbNotes">
+          <td id="{{'td_' + rsbNote.id}}">aaaaaaaaa</td>
         </tr>
       </table>
     </td>
