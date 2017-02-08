@@ -20,14 +20,16 @@
 
 <body data-ng-controller="VersesWithNotesController">
 
-<div id = "myDiv">aaaaaaaa
+<div id = "myDiv">
   <button ng-click="clickButton()">click me</button>
 </div>
 
 <table border="1px">
+  <col width="50%">
+  <col width="50%">
   <tr data-ng-repeat="versesWithNotes in versesWithNotess">
 
-    <td>
+    <td valign="top">
       <table>
         <tr data-ng-repeat="verses in versesWithNotes.verses">
           <td><b>{{verses.verse}}</b> {{verses.text}}</td>
@@ -35,7 +37,7 @@
       </table>
     </td>
 
-    <td>
+    <td valign="top">
       <table>
         <tr data-ng-repeat="rsbNote in versesWithNotes.rsbNotes">
           <td id="{{'td_' + rsbNote.id}}">aaaaaaaaa</td>
@@ -44,10 +46,6 @@
     </td>
 
 <!--
-    <td>{{versesWithNotes.month}}/{{versesWithNotes.day}}</td>
-    <td data-ng-repeat="versesWithNotesSection in versesWithNotes.versesWithNotesSections">
-      <a target="_blank" data-ng-href="{{versesWithNotesSection.url}}">{{versesWithNotesSection.displayString}}</a>
-    </td>
 
 
 [ {

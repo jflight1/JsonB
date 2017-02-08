@@ -9,24 +9,28 @@ function VersesWithNotesController($scope, $http) {
         month = "0" + month;
     }
 
-    var bOldTestament = queryParamKeys.includes("old");
-    var bNewTestament = queryParamKeys.includes("new");
-    var bPsalms = queryParamKeys.includes("psalms");
-    var bProverbs = queryParamKeys.includes("proverbs");
+    var day = queryParams.day;
+    if (day.length == 1) {
+        day = "0" + day;
+    }
 
-    $scope.myHtml = "<b>foo</b>";
-
+    var section;
+    if (queryParamKeys.includes("old")) {
+        section = "old"
+    }
+    else if (queryParamKeys.includes("new")) {
+        section = "new"
+    }
+    else if (queryParamKeys.includes("psalms")) {
+        section = "psalms"
+    }
+    else if (queryParamKeys.includes("proverbs")) {
+        section = "proverbs"
+    }
 
     // get the json data
-    $http.get("../json/verses_with_notes/" + "01/" + "01_new.json").then(function(response) {
+    $http.get("../json/verses_with_notes/" + month + "/" + day + "_" + section + ".json").then(function(response) {
         $scope.versesWithNotess = response.data;
-
-/*
-        var myDiv = document.getElementById("myDiv");
-        myDiv.innerHTML = "bbbbbbbbb";
-*/
-
-
     });
 
     $scope.clickButton = function() {
@@ -38,6 +42,8 @@ function VersesWithNotesController($scope, $http) {
                 var rsbNote = rsbNotes[j];
                 var td = document.getElementById("td_" + rsbNote.id);
                 td.innerHTML = rsbNote.text;
+
+                td.childNodes = td.childNodes[0].childNodes[0].childNodes;
             }
         }
     };
