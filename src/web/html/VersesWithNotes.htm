@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html data-ng-app>
+
+<meta name="viewport" content="width=device-width"/>
+
+
+<head>
+  <title>Daily Reading</title>
+
+  <script type="text/javascript"
+          src="//ajax.googleapis.com/ajax/libs/angularjs/1.0.7/angular.min.js"></script>
+
+  <script type="text/javascript"
+          src="../js/underscore.js"></script>
+
+  <script type="text/javascript"
+          src="../js/VersesWithNotesController.js"></script>
+
+</head>
+
+<body data-ng-controller="VersesWithNotesController">
+
+<table>
+  <tr data-ng-repeat="versesWithNotes in versesWithNotess">
+
+    <td>{{versesWithNotes.month}}/{{versesWithNotes.day}}</td>
+
+    <td data-ng-repeat="versesWithNotesSection in versesWithNotes.versesWithNotesSections">
+      <a target="_blank" data-ng-href="{{versesWithNotesSection.url}}">{{versesWithNotesSection.displayString}}</a>
+    </td>
+
+  </tr>
+</table>
+
+</body>
+</html>
