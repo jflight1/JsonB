@@ -20,14 +20,56 @@
 
 <body data-ng-controller="VersesWithNotesController">
 
-<table>
+<table border="1px">
   <tr data-ng-repeat="versesWithNotes in versesWithNotess">
 
-    <td>{{versesWithNotes.month}}/{{versesWithNotes.day}}</td>
+    <td>
+      <table>
+        <tr data-ng-repeat="verses in versesWithNotes.verses">
+          <td><b>{{verses.verse}}</b> {{verses.text}}</td>
+        </tr>
+      </table>
+    </td>
 
+    <td>
+      <table>
+        <tr data-ng-repeat="rsbNotes in versesWithNotes.rsbNotes">
+          <td><b>{{rsbNotes.text}}</td>
+        </tr>
+      </table>
+    </td>
+
+<!--
+    <td>{{versesWithNotes.month}}/{{versesWithNotes.day}}</td>
     <td data-ng-repeat="versesWithNotesSection in versesWithNotes.versesWithNotesSections">
       <a target="_blank" data-ng-href="{{versesWithNotesSection.url}}">{{versesWithNotesSection.displayString}}</a>
     </td>
+
+
+[ {
+  "verses" : [ {
+    "verse" : "matthew,1,1",
+    "text" : "A record of the genealogy of Jesus Christ the son of David, the son of Abraham:"
+  } ],
+  "rsbNotes" : [ {
+    "verseRange" : "matthew,1,1",
+    "id" : 195608,
+    "title" : "Matt 1:1",
+    "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 1:1\">1:1</a></b> <b>book of the genealogy.</b> The same phrase is used at <a class=\"bibleref\" href=\"/passage/?search=Gen 2:4\">Gen. 2:4</a>; <a class=\"bibleref\" href=\"/passage/?search=Gen 5:1\">5:1</a> in the Septuagint, the Greek translation of the Old Testament in common use following 150 <span class=\"small-caps\">b.c.</span> Here it may refer not only to the genealogy immediately following, but to the account of Jesus’ birth or the Gospel as a whole also.</p><p><b>Christ.</b> This title comes from the Greek word <i>Christos,</i> meaning “anointed.” “Messiah” represents the Hebrew word for “anointed”; see note <a class=\"bibleref\" href=\"/passage/?search=1Sam 2:10\">1 Sam. 2:10</a>. In the Old Testament, anointing with oil could be performed for the office of prophet, priest, or king (<a class=\"bibleref\" href=\"/passage/?search=Exod 29:7\">Ex. 29:7</a>; <a class=\"bibleref\" href=\"/passage/?search=1Sam 16:13\">1 Sam. 16:13</a>; <a class=\"bibleref\" href=\"/passage/?search=1Kgs 19:16\">1 Kin. 19:16</a>). The Old Testament promises the coming of the righteous Servant of the Lord (<a class=\"bibleref\" href=\"/passage/?search=Isa 42:1-Isa 42:9\">Is. 42:1–9</a>), who will be a prophet like Moses (<a class=\"bibleref\" href=\"/passage/?search=Deut 18:18\">Deut. 18:18</a>, <a class=\"bibleref\" href=\"/passage/?search=Deut 18:19\">19</a>), a priest like Melchizedek (<a class=\"bibleref\" href=\"/passage/?search=Ps 110:4\">Ps. 110:4</a>), and a king like David, the Lord’s anointed (<a class=\"bibleref\" href=\"/passage/?search=Isa 55:3-Isa 55:5\">Is. 55:3–5</a>; <a class=\"bibleref\" href=\"/passage/?search=Jer 30:9\">Jer. 30:9</a>; <a class=\"bibleref\" href=\"/passage/?search=Ezek 34:24\">Ezek. 34:24</a>; <a class=\"bibleref\" href=\"/passage/?search=Hos 3:5\">Hos. 3:5</a>; <a class=\"bibleref\" href=\"/passage/?search=Zech 12:8\">Zech. 12:8</a>). Matthew reveals that Jesus is the Christ, the promised King and Deliverer.</p></div>"
+  } ]
+}, {
+  "verses" : [ {
+    "verse" : "matthew,1,2",
+    "text" : "Abraham was the father of Isaac, Isaac the father of Jacob, Jacob the father of Judah and his brothers,"
+  } ],
+  "rsbNotes" : [ {
+    "verseRange" : "matthew,1,2",
+    "id" : 195609,
+    "title" : "Matt 1:2",
+    "text" : "<div class=\"article\"><p><b><a class=\"bibleref\" href=\"/passage/?search=Matt 1:2\">1:2</a></b> The specifics of this genealogy differ from the one found in Luke; see note <a class=\"bibleref\" href=\"/passage/?search=Luke 3:23-Luke 3:38\">Luke 3:23–38</a>.</p></div>"
+  } ]
+}, {
+-->
 
   </tr>
 </table>

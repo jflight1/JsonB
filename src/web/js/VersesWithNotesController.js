@@ -16,10 +16,11 @@ function VersesWithNotesController($scope, $http) {
 
 
     // get the json data
-    $http.get("../json/day_reading/" + month + ".json").then(function(response) {
+    $http.get("../json/verses_with_notes/" + "01/" + "01_new.json").then(function(response) {
         $scope.versesWithNotess = response.data;
 
         // for each versesWithNotes, we add an array of the versesWithNotesSections we want to show.
+/*
         for (var i = 0; i < $scope.versesWithNotess.length; i++) {
             var versesWithNotes = $scope.versesWithNotess[i];
 
@@ -38,6 +39,7 @@ function VersesWithNotesController($scope, $http) {
                 versesWithNotes.versesWithNotesSections[j++] = versesWithNotes.proverbs;
             }
         }
+*/
 
     });
 
