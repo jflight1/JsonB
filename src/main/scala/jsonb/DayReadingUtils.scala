@@ -3,6 +3,7 @@ package jsonb
 import java.io.{InputStream, PrintWriter}
 
 import jsonb.html.{Attribute, Element, SimpleHtmlFileWriter, StringHtmlObject}
+import PsalmsProverbsYear
 import org.apache.commons.io.IOUtils
 import play.api.libs.json.{JsArray, Json}
 
@@ -198,6 +199,53 @@ object V4FileGenerator {
     val printWriter: PrintWriter = new PrintWriter(fileName)
     printWriter.println(v4Json)
     printWriter.close()
+  }
+}
+
+
+object V5FileGenerator {
+  def main(args: Array[String]): Unit = {
+    generateMonthJsonFiles(1, 0)
+  }
+
+  def generateMonthJsonFiles(month: Int,
+                             psalmsProverbsDayReadingSectionsIndex: Int): Unit = {
+    if (month > 12) return
+
+    // get v4 DayReadings for the month
+    val sMonthNum = if (month < 10) "0" + month else "" + month
+    val inFileName = "/day_reading/json_v4/" + sMonthNum + ".json"
+    val inputStream: InputStream = getClass.getResourceAsStream(inFileName)
+    val json: String = IOUtils.toString(inputStream, "UTF-8")
+    val jsArray: JsArray = Json.parse(json).as[JsArray]
+    val v4DayReadings: Seq[DayReading] = jsArray.value.map(jsValue => DayReadingParser.fromJson(jsValue))
+
+    // map V4 DayReadings to V5
+    val v5DayReadings = v4DayReadings.map(v4DayReading => {
+
+      val psalmsProverbsDayReadingSection = PsalmsProverbsYear.dayReadingSectionsForYear(
+        psalmsProverbsDayReadingSectionsIndex + v4DayReading.day - 1)
+
+      DayReadingV5(
+        v4DayReading.month,
+        v4DayReading.day,
+        v4DayReading.oldTestament,
+        v4DayReading.newTestament,
+        v4DayReading.psalms,
+        v4DayReading.proverbs,
+        psalmsProverbsDayReadingSection)
+    })
+
+    val v5Json: String = DayReadingParserV5.seqToJson(v5DayReadings)
+
+    val fileName = "src\\main\\resources\\day_reading\\json_v5\\" + sMonthNum + ".json"
+    val printWriter: PrintWriter = new PrintWriter(fileName)
+    printWriter.println(v5Json)
+    printWriter.close()
+
+    // do the next month
+    generateMonthJsonFiles(month + 1,
+      psalmsProverbsDayReadingSectionsIndex + v5DayReadings.size)
   }
 }
 

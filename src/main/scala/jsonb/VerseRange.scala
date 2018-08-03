@@ -136,6 +136,9 @@ case class VerseRange(start: SingleVerse, end: SingleVerse)
     }
   }
 
+  def dayReadingSection: DayReadingSection = {
+    DayReadingSection(this, this.bibleGatewayUrl, this.displayString)
+  }
 
 }
 
